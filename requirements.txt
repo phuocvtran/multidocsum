@@ -1,2 +1,6 @@
-numpy==1.19.2
-scikit-learn==0.23.2
+nltk==3.5
+numpy==1.19.4
+regex==2020.11.13
+scikit-learn==0.21.3
+scipy==1.5.4
+underthesea==1.2.2
