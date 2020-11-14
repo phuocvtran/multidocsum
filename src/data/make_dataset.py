@@ -45,17 +45,17 @@ def preprocess() -> None:
     # raw sentence seg
     _preprocess_n_write(contents, TextProcessor.sent_tokenize, out_path='data/interim/00_RAW_SENT_SEG')
 
-    # lower
-    lower_data = _preprocess_n_write(contents, TextProcessor.lower)
-
     # word segmentation
-    word_seg_data = _preprocess_n_write(lower_data, TextProcessor.word_tokenize, out_path='data/interim/word_tokenize')
+    word_seg_data = _preprocess_n_write(contents, TextProcessor.word_tokenize, out_path='data/interim/word_tokenize')
+
+    # lower
+    lower_data = _preprocess_n_write(word_seg_data, TextProcessor.lower)
 
     # remove stop words
     with open('data/external/stopwords.txt', 'r') as f:
         stop_words = f.read().splitlines()
     kwargs = {'stop_words': stop_words}
-    no_stopwords_data = _preprocess_n_write(word_seg_data, TextProcessor.remove_stopwords, out_path='data/interim/remove_stop_word', kwargs=kwargs)
+    no_stopwords_data = _preprocess_n_write(lower_data, TextProcessor.remove_stopwords, out_path='data/interim/remove_stop_word', kwargs=kwargs)
     
     # sentence segmentation
     sent_seg_data = _preprocess_n_write(no_stopwords_data, TextProcessor.sent_tokenize, out_path='data/interim/sentence_seg')
@@ -64,6 +64,6 @@ def preprocess() -> None:
     with open('data/external/punctuation.txt', 'r') as f:
         punctuation = f.read()
     kwargs = {'punctuation': punctuation}
-    no_stopwords_data = _preprocess_n_write(word_seg_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
+    no_punct_data = _preprocess_n_write(sent_seg_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
     
-    DataIO.write(no_stopwords_data, 'data/processed')
+    DataIO.write(no_punct_data, 'data/processed')
