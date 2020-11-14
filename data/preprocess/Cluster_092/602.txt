@@ -1,0 +1,8 @@
+idx, sentence
+0,trong thông_điệp  nhật hoàng_akihito đã không bày_tỏ trực_tiếp việc thoái_vị hay không  nhưng đã nói rằng  “ năm nay tôi hơn 80 tuổi 
+1,do_vậy  việc đảm_trách trách_nhiệm của mình một_cách tốt nhất là việc làm khó 
+2,trong vài năm qua  tôi đã bắt_đầu nhìn lại những năm làm nhật_hoàng  và suy_nghĩ về vai_trò  nhiệm_vụ của mình với tư_cách là nhật_hoàng trong những ngày tới  ” nhật hoàng cũng đã nói rõ về tình_hình sức_khỏe của mình không tốt sau khi liên_tiếp phải phẫu_thuật trong những năm vừa_qua 
+3,ngay sau khi nhật hoàng phát_biểu  trả_lời phỏng_vấn báo_chí  thủ_tướng shinzo_abe đã cho rằng bài phát_biểu của nhật hoàng “ thể_hiện trách_nhiệm lớn đối_với quốc_dân ” 
+4,bài phát_biểu của nhật hoàng đã nhận được sự quan_tâm đặc_biệt của dân_chúng 
+5,nhiều nhà phân_tích nhật_bản cho rằng  bài phát_biểu của nhật hoàng đã thể_hiện trách_nhiệm của một vị vua đối_với hạnh_phúc của nhân_dân  sự ổn_định của đất_nước 
+6,đây là một điều tuyệt_vời 

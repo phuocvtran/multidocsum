@@ -1,0 +1,28 @@
+idx, sentence
+0,tối_qua  225   tập 4 vòng tranh_đấu xfactor đã chính_thức diễn ra với các phần thi đến từ hạng_mục nhóm hát 
+1,một trong những tiết_mục thu_hút nhiều sự chú_ý tối_qua thuộc về nhóm foe mà ca sỹ yanbi là giọng ca chính 
+2,sau hơn 1 tháng bị gãy xương đùi vì tai_nạn giao_thông  vết_thương của yanbi vẫn chưa khỏi hẳn khiến anh phải ngồi xe_lăn  chống_nạng để lên sân_khấu trình_diễn bản mashup bố_vợ  daddy cool cùng nhóm foe
+3,thậm_chí  nam ca sỹ còn khiến nhiều người bất_ngờ khi đứng lên thể_hiện màn nhún_chân thú_vị cùng các thành_viên trong nhóm 
+4,tùng dương cho rằng tiết_mục này hài_hước  mang đến nhiều sự bất_ngờ cho người xem  nhưng foe vẫn chưa tạo được bản_sắc riêng 
+5,trong khi đó  dương_khắc_linh lại cho rằng đây là tiết_mục được kết_hợp hài_hoà giữa tính giải_trí  kỹ_thuật và đủ thuyết_phục để giành cơ_hội đi tiếp 
+6,sau khi may_mắn trở_thành 1 trong 6 nhóm nhạc được ngồi vào “ ghế nóng ” mà bgk lựa_chọn  gần cuối chương_trình  foe đã buộc phải nhường lại vị_trí này cho nhóm nhạc đối_thủ  dolphins 
+7,bộ tứ quyền_lực cho rằng  tiết_mục con_ma mà dolphins thể_hiện đầy đẳng_cấp  cách trình_diễn của họ khiến sự ma_mãnh lên đến đỉnh_điểm và ra tố_chất của một nghệ sỹ chuyên_nghiệp 
+8,tuy yêu_cầu nhóm foe của yanbi rời khỏi ghế nóng để nhường tấm vé đi tiếp cho dolphins  nhưng dương_khắc_linh vẫn tin rằng  nhờ vào lượng fan đông_đảo của yanbi  nhóm nhạc của nam ca sỹ thu cuối vẫn có nhiều cơ_hội vào vòng trong nếu phần trình_diễn của foe nhận được nhiều lượt xem và bình_chọn từ khán_giả 
+9,các chàng trai đến từ hải_phòng trong nhóm the_wings mở_màn chương_trình với ca_khúc nụ_cười việt_nam 
+10,trong khi thanh_lam đánh_giá cao khả_năng làm_chủ sân_khấu của các thành_viên  tùng_dương cũng hết lời khen_ngợi the_wings kết_hợp ăn_ý  giọng hát chắc và có ngoại_hình sáng sân_khấu 
+11,nhóm dễ_dàng nhận được 4 sự đồng_ý từ ban giám_khảo để được ngồi vào “ ghế nóng ” 
+12,với ca_khúc yêu không nghỉ_phép  tiết_mục của nhóm cánh_diều được dương_khắc_linh khen dễ_thương  nhưng phần bè cao vẫn bị phô ở một_số đoạn 
+13,còn giám_khảo hương_hồ cho rằng các cô gái trong nhóm chưa thực_sự kết_hợp ăn_ý  dẫn đến chưa phát_huy toàn_bộ khả_năng trên sân_khấu 
+14,ngay từ khi xuất_hiện  các chàng trai nhóm passion đã gây ấn_tượng với chiếc áo_dài đỏ nổi_bật với lk trống_cơm  bắc kim thang 
+15,tuy khá phá_cách khi mix nhạc dân_ca đương_đại trên nền nhạc edm  nhưng các giám_khảo vẫn cho rằng passion chưa tạo được bản_sắc riêng 
+16,dương_khắc_linh nhận_xét tiết_mục này nặng tính giải_trí nhưng thiếu chuyên_môn 
+17,bộ tứ quyền_lực đã thẳng_thừng từ_chối để nhóm đi tiếp vòng sau 
+18,nhóm nhạc chuyên hát nhạc cổ_điển – thăng_long mang đến màn trình_diễn khá ấn_tượng với ca_khúc dân_ca ý – osolemio 
+19,chất giọng đẹp  bè quyện ăn_ý của các thành_viên trong nhóm đã chinh_phục được vị giám_khảo khó_tính như tùng_dương 
+20,các chàng trai gband tiếp_nối chương_trình bằng ca_khúc việt_nam tôi do chính các thành_viên sáng_tác 
+21,cả dương_khắc_linh  tùng_dương lẫn thanh_lam đều khen tiết_mục này và dự_đoán đây sẽ là bài hit trong tương_lai 
+22,nhóm fire vừa hát vừa trổ_tài chơi nhạc_cụ với ca_khúc radio active 
+23,dương_khắc_linh phải dùng từ “ xuất_sắc ” để nhận_xét về màn trình_diễn này 
+24,ngoài_ra  khi được các giám_khảo thử_thách hát tiếng việt  nhóm fire cũng thể_hiện rất ăn_ý  chuyên_nghiệp khiến hương_hồ  thanh_lam thích_thú nhún_nhảy theo 
+25,các chàng trai nhóm cadimen thu_hút sự chú_ý với trang_phục vàng nổi_bật khi thể_hiện ca_khúc rơi của 5 dòng kẻ 
+26,tuy đã rất nỗ_lực để chinh_phục giám_khảo  nhưng cadimen vẫn chưa tạo được dấu_ấn riêng của nhóm 

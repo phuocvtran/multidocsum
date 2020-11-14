@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 23/5  cơ_quan csđt công_an huyện đắk_hà  tỉnh kon_tum cho biết  đơn_vị này đang tạm giữ hình_sự đối_tượng trần_hữu_anh  sn 1986  trú thôn 1  xã đắk_la  huyện đắk_hà  để điều_tra xử_lý về hành_vi hiếp_dâm 
+1,theo đó  vào ngày 20/5 công_an huyện đắk_hà_nhận được đơn trình_báo của chị lt
+2,t  sn 1998  trú xã đắk_la  huyện đắk_hà  về việc bị một đối_tượng hiếp_dâm 
+3,theo đơn trình_báo  chị t cho biết  khoảng 16 h ngày 17/5  chị bị một thanh_niên khống_chế  thực_hiện hành_vi giao_cấu trái_ý_muốn tại một khu_vực vắng người thuộc xã đắk_hà 
+4,xác_định tính_chất nghiêm_trọng của sự_việc  đội cảnh_sát hình_sự công_an huyện đắk_hà đã tung trinh_sát thu_thập chứng_cứ  rà_soát  sàng_lọc các đối_tượng có biểu_hiện nghi_vấn 
+5,bằng các biện_pháp nghiệp_vụ  cơ_quan_chức_năng phát_hiện trần_hữu_anh  sn 1986  trú thôn 1  xã đắk_la  huyện đắk_hà  có những đặc_điểm giống với trình_báo của nạn_nhân nên yêu_cầu về trụ_sở để đối_chứng lấy lời khai 
+6,tại cơ_quan công_an  trước những chứng_cứ không_thể chối_cãi trần_hữu_anh đã cúi đầu thừa_nhận hành_vi của mình với chị t theo đó tên anh khai nhận  vào chiều 17/5 thấy chị t đi một_mình  đối_tượng đã lặng_lẽ bám theo và khống_chế nạn_nhân tới khu_vực vắng người rồi dùng vũ_lực thực_hiện hành_vi thú_tính của mình 

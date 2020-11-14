@@ -1,0 +1,18 @@
+idx, sentence
+0,tối_qua  195   chương_trình ca_nhạc  thời_trang thành_phố áo_dài đã diễn ra với sự góp_mặt đông_đảo không chỉ các người_mẫu  ca_sĩ mà_còn cả người dân thành_phố 
+1,xuất_hiện_tại sàn catwalk với vai_trò người_mẫu mở_màn bộ sưu_tập của nhà mốt phạm_đăng anh_thư  elly_trần_ghi_điểm với khán_giả bằng vóc_dáng xinh_đẹp và gợi_cảm dù đã qua hai lần sinh_nở 
+2,điểm nhấn của chương_trình là tiết_mục giới_thiệu bộ sưu_tập của nhà mốt quỳnh_paris 
+3,với 6 bộ áo_dài hoa_sen ẩn_hiện  6 verdette của chương_trình gồm các hoa_hậu  á_hậu được xích_lô chở ra sàn catwalk  cũng chính là con đường đi bộ nguyễn_huệ  tphcm
+4,phần quan_trọng nhất và cũng là ý_nghĩa nhất của chương_trình chính là 126 người_mẫu đã dâng lên tượng_đài bác 126 hoa_sen  tương_ứng với số tuổi của người 
+5,đây là chương_trình đầu_tiên có sàn catwalk 800 mét  không có ghế ngồi cho tất_cả người dân tham_dự  và cũng là hoạt_động văn_hóa nghệ_thuật đầu_tiên tại phố đi bộ nguyễn_huệ 
+6,các nhà thiết_kế trình_diễn trong chương_trình gồm có  quỳnh_paris  sĩ_hoàng  phạm_đăng anh_thư  hoài_sang  tuấn_trần và thủy_nguyễn_
+7,quỳnh paris 6 bộ áo_dài với cảm_hứng từ những bông hoa_sen dịu_dàng  trang_nhã được nhà thiết_kế quỳnh_paris thực_hiện trên nền vải chiffon và voan lạ_mắt 
+8,những thiết_kế này được trình_diễn bởi các vedette  hoa_hậu diễm_hương  trúc_diễm  á_hậu lệ_hằng  kiều_ngân  thúy_ngân  kim_nguyên 
+9,thủy nguyễn_vẫn là những tà áo dài tranh vẽ từng được giới_thiệu trước đây  20 bộ_cánh của nhà thiết_kế thủy_nguyễn_lần đầu_tiên xuất_hiện trong không_gian gần_gũi  giản_dị nhưng đầy chất thơ_mộng 
+10,hoài sang_nhà thiết_kế hoài_sang đã đem đến chương_trình những tà áo_dài mang đậm chất truyền_thống nhưng cũng không kém phần hiện_đại 
+11,phạm_đăng anh_thư bộ sưu_tập áo dài cưới của phạm_đăng anh_thư dành được nhiều lời khen_ngợi bởi nét đẹp quyến_rũ  nhẹ_nhàng của từng chi_tiết đính kết tỉ_mỉ phần thân áo 
+12,mở_đầu bộ sưu_tập của cô là sự xuất_hiện của “ bà mẹ hai con ” elly_trần_
+13,mặc_dù sàn catwalk khá dài và elly_trần không phải là người_mẫu chuyên_nghiệp nhưng cô vẫn hoàn_thành tốt vai_trò first face của mình 
+14,bộ sưu_tập áo_dài cưới này còn khiến khán_giả thích_thú bởi sự xuất_hiện của cặp_đôi lương_thế_thành_– thúy_diễm và hoàng_yến 
+15,sĩ hoàng những chiếc áo_dài mang đậm tinh_thần việt được nhà thiết_kế sĩ hoàng giới_thiệu trong bộ sưu_tập áo_dài giao_thoa  vừa truyền_thống vừa hiện_đại 
+16,tuấn trần

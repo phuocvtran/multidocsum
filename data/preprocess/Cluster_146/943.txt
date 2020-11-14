@@ -1,0 +1,9 @@
+idx, sentence
+0,chiều 28/5  công_an tp buôn_ma_thuột triển_khai bắt_giữ lê_văn_công  25 tuổi  trú tại huyện đông_anh  tp hà_nội  để điều_tra làm rõ hành_vi cầm dao uy_hiếp nữ nhân_viên tại showrom cà_phê của tập_đoàn cà_phê trung_nguyên  tpbuôn_ma_thuột  
+1,theo thông_tin ban_đầu  trước đó ngày 27/5  công có mang theo một_số vật_dụng đến uống cà_phê và hỏi nhân_viên xin số điện_thoại của ông đặng_lê_nguyên_vũ  chủ_tịch tập_đoàn cà_phê trung_nguyên  có việc riêng  nhưng nhân_viên nói không biết nên công bỏ sang khách_sạn nằm đối_diện thuê nghỉ 
+2,đến chiều 28/5  công tiếp_tục sang showrom ngồi uống cà_phê và yêu_cầu được gặp ông vũ để nói_chuyện 
+3,tuy_nhiên  nhân_viên tại đây trả_lời không có ông vũ ở đây 
+4,ngay lúc này chị hoàng_thị_ngọc_thùy  25 tuổi  nhân_viên phục_vụ  đi ra thì công bất_ngờ rút một con dao thái_lan thủ sẵn trong người lao đến khống_chế để được đáp_ứng yêu_cầu của mình 
+5,ngay sau đó  nhân_viên trong showrom cà_phê trung_nguyên đã gọi điện_thoại trình_báo cơ_quan_chức_năng 
+6,nhận được thông_tin  cảnh_sát hình_sự công_an tp buôn_ma_thuột và lực_lượng cảnh_sát 113 đã lập_tức có_mặt tại hiện_trường bắt_giữ công và giải_cứu nữ nhân_viên an_toàn 
+7,tại cơ_quan điều_tra  công_khai nhận do tập_đoàn cà_phê trung_nguyên có sử_dụng một phần_mềm quản_lý_do công viết ra nhưng không xin_phép nên công xin được gặp ông đặng_lê_nguyên_vũ để nói_chuyện và đòi lại 

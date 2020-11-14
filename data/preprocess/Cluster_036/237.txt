@@ -1,0 +1,3 @@
+idx, sentence
+0,ngày 195  ông nguyễn_như_tiệp  cục_trưởng cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqad  bộ_nnptnt  ký công_văn gửi chi_cục quản_lý chất_lượng nông_lâm_sản và thủy_sản các tỉnh nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận và các trung_tâm chất_lượng nông_lâm_sản và thủy_sản vùng 1  2  3  yêu_cầu lấy mẫu muối_ăn để phân_tích các chỉ_tiêu kim_loại nặng 
+1,nafiqad cho rằng trong thời_gian qua đã xảy ra hiện_tượng cá chết bất_thường tại vùng_biển miền trung  để đảm_bảo an_toàn cho người tiêu_dùng  các địa_phương có nghề sản_xuất muối phải lấy 3 mẫu muối từ 3 cơ_sở sản_xuất tại địa_phương gửi đến các trung_tâm chất_lượng nông_lâm_sản và thủy_sản khu_vực để làm các xét_nghiệm phân_tích chỉ_tiêu kim_loại nặng  as  cd  pb  hg  

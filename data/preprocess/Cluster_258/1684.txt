@@ -1,0 +1,13 @@
+idx, sentence
+0,việc thầy_trò hlv hữu_thắng có bước nhảy_vọt trên bảng xếp_hạng fifa là nhờ họ đã thắng syria 20 chiều 31/5 
+1,ở thời_điểm diễn ra trận đấu  tuyển việt_nam  hạng 145 thế_giới  bị đánh_giá thấp hơn nhiều so với syria  hạng 110  
+2,tuy_nhiên  công_vinh và văn_quyết đã ghi hai bàn thắng giúp đội nhà có trận thắng thuyết_phục 
+3,theo bảng xếp_hạng fifa mới nhất được công_bố chiều 2/6  tuyển việt_nam có 266 điểm  đứng vị_trí 133 thế_giới và 20 châu_á 
+4,ở khu_vực đông_nam_á  đội_xếp sau philippines  hạng 120  và thái_lan  hạng 117  
+5,đội_bóng của hlv kiatisak đã tăng 2 bậc để chính_thức soán ngôi số_một khu_vực của philippines  tụt 5 bậc  
+6,ở khu_vực châu_á  iran vẫn dẫn_đầu với hạng 39 thế_giới  xếp ngay sau là hàn_quốc  hạng 50  và nhật_bản  hạng 53  
+7,trong khi đó  australia bị tụt đến 9 bậc xuống vị_trí 59 
+8,kết_quả một_số trận giao_hữu quốc_tế thời_gian gần đây đã ảnh_hưởng đến thứ_bậc của các đội bóng 
+9,ở top đầu thế_giới  argentina và bỉ vẫn chia nhau hai vị_trí đầu_tiên  xếp sau là colombia  đức 
+10,các vị_trí tiếp_theo trong top 10 lần_lượt thuộc về chile  tây ban_nha  brazil  bồ_đào_nha  uruguay và áo 
+11,bảng xếp_hạng fifa tháng 7 chắc_chắn sẽ có sự xáo_trộn lớn khi các đội thi_đấu euro và copa_america 

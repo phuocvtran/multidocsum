@@ -1,0 +1,6 @@
+idx, sentence
+0,brendan rodgers hiện đang trong quá_trình đàm_phán với celtic về việc tiếp_quản chiếc ghế hlv trưởng của đội bóng 
+1,theo truyền_thông tại scotland trong những ngày gần đây  thì quá_trình đàm_phán đang diễn ra vô_cùng thuận_lợi 
+2,tuy vẫn chưa có bất_kỳ thông_tin nào chính_thức  nhưng bấy_nhiêu cũng là quá đủ đối_với suarez 
+3,mới_đây tiền_đạo đang chơi cho barcelona cũng đã gửi lời chúc_mừng đến ông thầy cũ của mình tại liverpool  “ ông ấy là một trong những hlv tuyệt_vời nhất tại châu_âu 
+4,tôi cảm_thấy thật tuyệt khi ông ấy dành ra nhiều thời_gian để tìm_kiếm đội bóng mới 

@@ -1,0 +1,12 @@
+idx, sentence
+0,ap dẫn lời cảnh_sát cho biết một quan_chức của lực_lượng phòng_vệ nhật_bản sáng 3/6 tìm thấy một bé trai tại khu_vực diễn_tập quân_sự 
+1,cậu bé nói tên của mình là yamato_tanooka và ở hokuto  hokkaido 
+2,theo kyodo  tanooka nói với cảnh_sát rằng cậu đã ở khu_vực này vài ngày sau khi đi một_mình trong rừng 
+3,cha_mẹ của tanooka xác_nhận đây chính là con_trai họ 
+4,câu bé bị mất nước  có một_số vết_thương nhỏ trên tay và chân nhưng không nguy_hiểm đến tính_mạng 
+5,gia_đình tamoto_tanooka hôm 28/5 đi leo núi ở khu_vực phía bắc đảo hokkaido 
+6,cha_mẹ cậu bé ban_đầu báo cảnh_sát rằng con_trai họ biến mất khi cả nhà đang đi dạo trong rừng 
+7,tuy_nhiên  sau đó  họ buộc phải thừa_nhận đã bỏ lại cậu bé trong rừng để phạt  vì tanooka ném đá vào người đi đường và các xe ôtô 
+8,sau khi lái xe đi khoảng 500 m  họ quay lại đón con nhưng tanooka đã biến mất 
+9,hơn 180 nhân_viên cứu_hộ đã tham_gia tìm_kiếm bé trai bị bỏ lại trong khu rừng có nhiều gấu này 
+10,tanooka được tìm thấy ở nơi cách địa_điểm mất_tích khoảng 5 km 

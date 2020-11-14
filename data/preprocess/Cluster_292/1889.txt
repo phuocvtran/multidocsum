@@ -1,0 +1,24 @@
+idx, sentence
+0,sáng 3/6  tại hà_nội  hội_đồng chung_khảo giải báo_chí quốc_gia lần thứ 10  năm 2015 tổ_chức chấm chung_khảo  để lựa_chọn những tác_phẩm xuất_sắc nhất xét tặng giải báo_chí quốc_gia 
+1,phát_biểu khai_mạc  nhà_báo thuận_hữu  chủ_tịch hội nhà_báo việt_nam  chủ_tịch hội_đồng chung_khảo giải báo_chí quốc_gia năm 2015 nêu rõ  năm nay là năm thứ 10  hội_đồng giải báo_chí quốc_gia tổ_chức xét tặng giải báo_chí quốc_gia  là mùa giải đầu_tiên trong nhiệm_kỳ mới của ban_chấp_hành hội nhà_báo vn khóa 10  nhiệm_kỳ 2015  2020  
+2,đây là sự_kiện lớn của giới báo_chí cả nước  là giải_thưởng cao_quý nhất dành tặng cho các tác_phẩm báo_chí xuất_sắc  tôn_vinh các tác_giả  nhóm tác_giả có tác_phẩm xuất_sắc nhất hàng năm 
+3,hội_đồng sơ_khảo giải báo_chí quốc_gia năm 2015 đã nhận được số_lượng tác_phẩm dự giải nhiều nhất từ trước đến nay  với 1660 tác_phẩm   cao hơn gần 200 tác_phẩm so với mùa giải năm trước  
+4,hội_đồng sơ_khảo giải báo_chí quốc_gia năm 2015 đã chọn được 143 tác_phẩm vào vòng chung_khảo 
+5,theo nhà_báo thuận_hữu  các tác_phẩm tham_dự giải đã phản_ánh các sự_kiện chính_trị lớn của đất_nước trong năm 2015 
+6,các tác_phẩm dự giải_đáp_ứng được tiêu_chí xét chọn của giải 
+7,đó là bám sát nhiệm_vụ chính_trị của đất_nước trong năm 2014  với nhiều khó_khăn  thử_thách mới  phản_ánh kịp_thời  sinh_động và đa_dạng tình_hình kinh_tế  xã_hội  phản_ánh quyết_liệt vấn_đề an_ninh  quốc_phòng và nhất_là bảo_vệ chủ_quyền biển đảo thiêng_liêng của tổ_quốc 
+8,đấu_tranh phòng  chống tham_nhũng  tiêu_cực  đấu_tranh với các thế_lực thù_địch  các hoạt_động sai_trái chống_phá nhà_nước và chế_độ  giới_thiệu những nhân_tố mới  gương người tốt việc tốt  điển_hình tiên_tiến trong hoạt_động kinh_tế  trong xây_dựng và bảo_vệ tổ_quốc và các mặt đời_sống  
+9,cũng theo nhà_báo thuận_hữu  chất_lượng các tác_phẩm được hội_đồng sơ_khảo đánh_giá là đã phản_ánh đầy_đủ diện_mạo  khách_quan tình_hình đất_nước  những nỗ_lực của cả hệ_thống chính_trị thực_hiện các chủ_trương  chính_sách của đảng  pháp_luật của nhà_nước  sự điều_hành của chính_phủ 
+10,nhiều cấp hội có tác_phẩm dự giải có tính phát_hiện tốt  có sức ảnh_hưởng xã_hội 
+11,nhiều tác_phẩm được thể_hiện một_cách chuyên_nghiệp  bài_bản  nhất_là giải truyền_hình  giải báo in  
+12,khoảng_cách giữa báo_chí trung_ương và địa_phương ngày_càng thu_hẹp 
+13,tiếp đó  nhà_báo mai_đức_lộc  phó chủ_tịch hội nhà_báo việt_nam  chủ_tịch hội_đồng sơ_khảo đã đọc báo_cáo kết_quả chấm sơ_khảo giải báo_chí quốc_gia 
+14,theo đó  giải năm 2015 tiếp_tục nhận được sự hưởng_ứng nhiệt_tình của các cấp hội trong cả nước  với 163 đơn_vị  trong đó có 63 liên_chi_hội  chi_hội nhà_báo trực_thuộc  
+15,giải năm nay có nhiều điểm mới  số_lượng đơn_vị báo_chí tham_dự giải và số tác_phẩm của cộng_tác_viên đều tăng 
+16,số_lượng ảnh báo_chí tham_dự giải nhiều hơn  với hơn 100 tác_phẩm của 43 tác_giả  
+17,công_tác thu_nhận tác_phẩm và tổ_chức chấm sơ_khảo đã được tiến_hành sớm hơn 
+18,số_lượng tác_phẩm viết về bảo_vệ chủ_quyền biển đảo khá nhiều  có chất_lượng tốt 
+19,về chất_lượng các tác_phẩm tham_dự giải  nhà_báo mai_đức_lộc nhận_xét  theo đánh_giá của các tiểu_ban hội_đồng sơ_khảo  các tác_phẩm dự giải nhìn_chung vẫn giữ đồng_đều về chất_lượng  các cơ_quan báo_chí địa_phương  nhất_là mảng báo hình  báo in cũng cạnh_tranh được với các cơ_quan báo_chí trung_ương 
+20,xã_luận  bình_luận  chuyên_luận của báo in có số_lượng tác_giả  tác_phẩm tham_gia_tăng hơn năm 2014 có nội_dung bám sát thực_tiễn hơn giảm cách lý_luận thuần túy hàm lâm 
+21,tuy số_lượng tác_phẩm có tăng nhưng nhìn_chung năm nay chưa có tác_phẩm đặc_biệt nổi_trội 
+22,một_số tác_phẩm đạt giải chưa vượt được các năm trước  

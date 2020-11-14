@@ -1,0 +1,13 @@
+idx, sentence
+0,theo cnn  một trong các hàng_không lớn nhất châu_âu lufthansa vừa cho hay họ sẽ ngừng vô_thời_hạn tuyến bay đến venezuela  bắt_đầu từ ngày 176 
+1,hiện quốc_gia nam_mỹ đang chật_vật với cuộc khủng_hoảng_kinh_tế và nhân_đạo 
+2,phát_ngôn_viên andreas_bartles của hãng bay lufthansa cho hay có hai lý_do giải_thích quyết_định trên 
+3,thứ nhất là các chuyến bay không đạt đủ nhu_cầu để làm đầy ghế trống  đặc_biệt là số hành_khách bay hạng thương_gia rất ít 
+4,thứ nhì  công_ty gặp khó với việc chuyển_đổi bolivar  đồng_tiền venezuela vốn đang sử_dụng nhiều loại tỷ_giá hối_đoái đa tầng  phức_tạp 
+5,dù ngừng vô_thời_hạn các chuyến bay  lufthansa vẫn chưa có kế_hoạch đóng cửa văn_phòng tại thủ_đô caracas 
+6,venezuela phụ_thuộc lớn vào nguồn thu dầu_mỏ 
+7,hai năm qua  giá dầu rẻ đã và đang đè_nén nền kinh_tế đất_nước 
+8,cuộc khủng_hoảng_kinh_tế đã làm thiếu_hụt thực_phẩm  thuốc_men  khiến hàng_loạt người lao_động thất_nghiệp 
+9,quỹ tiền_tệ quốc_tế  imf  dự_báo tỷ_lệ thất_nghiệp ở venezuela lên đến mức đáng kinh_ngạc là 21  trong năm tới 
+10,chính_phủ venezuela nỗ_lực xoay sở tình_hình bằng biện_pháp cắt điện luân_phiên để tiết_kiệm điện 
+11,người lao_động công_tác trong khối nhà_nước thì chỉ làm_việc hai ngày mỗi tuần 

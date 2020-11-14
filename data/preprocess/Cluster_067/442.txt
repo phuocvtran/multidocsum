@@ -1,0 +1,7 @@
+idx, sentence
+0,vũ_ngọc_thịnh đang là trung_vệ thuộc clb hải_phòng 
+1,đây là cầu_thủ được hlv trương_việt_hoàng  hải_phòng  luôn đánh_giá rất cao khi sở_hữu chiều cao tốt  1 m79  đồng_thời có lối chơi rắn 
+2,đó là lý_do hlv trưởng đtqg nguyễn_hữu_thắng quyết_định bổ_sung thêm cầu_thủ này lên tuyển 
+3,ngọc_thịnh từng khoác áo đtqg_u23 trước đây 
+4,với việc ngọc_thịnh được lên tuyển trong lần tập_trung thứ 2 này ở năm 2016  clb hải_phòng có 3 cầu_thủ ở đtqg gồm vũ_ngọc_thịnh  lê_văn_thắng  đặng_văn_lâm 
+5,danh_sách đtqg ở lần 2 này là 25 tuyển_thủ 

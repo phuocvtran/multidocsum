@@ -1,0 +1,11 @@
+idx, sentence
+0,tỷ_phú mikhail_fridman  người từng được tạp_chí forbes của nga bầu_chọn là người giàu thứ nhì nước này  với khối tài_sản lên tới 133 tỷ usd  quyết_định để lại toàn_bộ tài_sản làm từ_thiện 
+1,vị doanh_nhân nổi_tiếng này sở_hữu hàng_loạt nhóm ngân_hàng thương_mại  siêu_thị và các kênh_truyền_hình 
+2,theo đó  tỷ_phú người nga khẳng_định  ông muốn con_cái mình phải khởi_nghiệp bằng chính sức_lao_động và khả_năng bản_thân 
+3,một nguồn tin cho hay  trong bản di_chúc của mình  vị doanh_nhân nổi_tiếng này không để lại bất_kỳ khối tài_sản nào cho con_cái 
+4,trong buổi nói_chuyện với khán_giả của forbes  ông nhấn_mạnh  “ tôi không thích khoa_trương  và có_thể khẳng_định sẽ để lại toàn_bộ tài_sản làm quỹ từ_thiện 
+5,tôi sẽ không để lại cho các con mình ” 
+6,ông cũng giải_thích  nếu một đứa trẻ sở_hữu_khối tài_sản lớn trong tay  có_thể làm hại cuộc_đời chúng 
+7,tỷ_phú fridman hiện có 4 người con 
+8,trong đó  laura  22 tuổi   là cô con_gái lớn nhất 
+9,con_út của nhà tài_phiệt này mới lên 10 tuổi 

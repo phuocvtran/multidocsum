@@ -1,0 +1,37 @@
+idx, sentence
+0,thưa ông  cơ_sở nào mà sở qhkt hà_nội đưa ra thông_báo các chủ đầu_tư công_trình  khu đô_thị  trung_tâm thương_mại phải có tối_thiểu 3 tầng_hầm 
+1,sau khi thành_ủy ra thông_báo kết_luận của thường_trực thành_ủy về việc triển_khai một_số nhiệm_vụ trọng_tâm trong thời_gian tới 
+2,trong đó có nội_dung chỉ_đạo các sở liên_quan và các chủ đầu_tư xây_dựng công_trình  khu đô_thị  trung_tâm thương_mại  trong thiết_kế và xây_dựng phải bố_trí thêm diện_tích tầng để xe  tối_thiểu 3 tầng_hầm  vừa đảm_bảo xe của dân_cư và bảo_đảm xe của thành_phố  xây_dựng nhà_vệ_sinh công_cộng và đề_xuất cơ_chế thu phí 
+3,sở qhkt mới có thông_báo chỉ_đạo nội_bộ 
+4,bởi các hồ_sơ vẫn tiếp_tục được các chủ đầu_tư nộp vào và sở phải thụ_lý theo quy_định  không_thể dừng được 
+5,nếu không có hướng_dẫn thì không được  vì_thế sở mới ban_hành một thông_báo mang tính_chất nội_bộ  hướng_dẫn các bộ_phận xử_lý hồ_sơ 
+6,chúng_tôi cũng đã báo_cáo ubnd thành_phố  đề_nghị thành_phố sớm ban_hành quy_định cụ_thể về việc này 
+7,sau đó  thành_phố có văn_bản giao sở qhkt chủ_trì họp liên_ngành để bàn phương_án cụ_thể_hóa chỉ_đạo của thành_ủy 
+8,nhưng ngay trong thông_báo của sở qhkt đã yêu_cầu các phòng ban trực_thuộc hướng_dẫn  thông_báo các chủ đầu_tư về việc phải có tối_thiểu 3 tầng_hầm để xe và xây_dựng nhà_vệ_sinh công_cộng tại các công_trình  khu đô_thị  trung_tâm thương_mại  thưa ông 
+9,theo chỉ_đạo của thành_phố nhiệm_vụ của các sở ngành là phải họp bàn để tham_mưu cho thành_phố xem công_trình nào sẽ áp_dụng quy_định này 
+10,đối_tượng nào sẽ làm tối_thiểu 3 tầng_hầm  đối_tượng nào không 
+11,các sở ngành phải nghiên_cứu đề_xuất các biện_pháp  chính_sách để cụ_thể_hóa nội_dung chỉ_đạo của thành_ủy như  thẩm_quyền  hình_thức ban_hành chính_sách  phân_loại theo quy_mô đầu_tư về nhà_thương_mại  nhà xã_hội  công_trình công_cộng  theo không_gian áp dụngnội thành  ngoại_thành … tóm_lại hướng_dẫn cụ_thể thế_nào còn đang bàn  chứ không có chuyện bắt_buộc tất_cả các công_trình đều phải có tối_thiểu 3 tầng_hầm 
+12,các sở sẽ họp bàn và sở qhkt sẽ tổng_hợp ý_kiến để sớm đề_xuất thành_phố 
+13,khi nào ubnd thành_phố ban_hành quy_định thì mới chính_thức có hiệu_lực để thực_hiện 
+14,vậy chủ_trương này đang trong quá_trình xây_dựng chính_sách  thì các dự_án của nhà_đầu_tư  doanh_nghiệp tiếp_tục nộp hồ_sơ vào sẽ được xử_lý ra_sao  thưa ông 
+15,nếu là các nhà_đầu_tư nộp hồ_sơ xây_dựng nhà cao_tầng  chúng_tôi tiếp_nhận bình_thường  đồng_thời hướng_dẫn  khuyến_khích họ nên làm 3 tầng_hầm 
+16,tới nay  thành_phố cũng chưa có chỉ_đạo nào về việc phải dừng nhận hồ_sơ đối_với các dự_án nhà cao_tầng cả 
+17,đúng trách_nhiệm chứ không vội_vàng 
+18,nhiều ý_kiến cho rằng  việc sở qhkt đưa ra thông_báo này là vội_vàng  thiếu thực_tế và trái luật 
+19,sở chỉ thực_hiện đúng trách_nhiệm của mình chứ không có sự vội_vàng 
+20,sở phải có động_thái để thông_báo cho các chủ đầu_tư biết có chủ_trương chung như_thế để họ có_thể tự đưa ra giải_pháp cho công_trình  dự_án của mình 
+21,tất_cả còn đang bàn và sẽ sớm có quy_định cụ_thể 
+22,còn chủ_trương này sẽ không xung_đột hay trái quy_định hiện_hành 
+23,việc tăng diện_tích tầng_hầm là đúng 
+24,chúng_ta đang thiếu diện_tích dành cho giao_thông_tĩnh nên không phải lo thừa 
+25,điều này cần giải_quyết khi hà_nội đang phải đỗ xe trên vỉa_hè 
+26,việc quy_định tối_thiểu 3 tầng_hầm sẽ sẽ ảnh_hưởng rất lớn đến chi_phí đầu_tư xây_dựng dự_án  làm tăng chi_phí giá_thành sản_phẩm và đương_nhiên không phải chủ đầu_tư nào  dự_án cao_tầng nào cũng có_thể đáp_ứng việc tối_thiểu 3 tầng_hầm  thưa ông 
+27,đúng là chi_phí xây_dựng khi sẽ tăng khi các dự_án tăng thêm tầng_hầm  do_đó thành_phố chắc_chắn sẽ có chủ_trương để các chủ đầu_tư khai_thác hiệu_quả các tầng_hầm đó vì không chỉ phục_vụ nhu_cầu của tòa nhà mà_còn phục_vụ người dân xung_quanh 
+28,và điều quan_trọng hơn  nếu chúng_ta không nhanh_chóng giải_quyết bài_toán giao_thông_tĩnh thì thiệt_hại về kinh_tế  xã_hội sẽ còn lớn hơn rất nhiều  ảnh_hưởng cả tới thành_phố và các nhà_đầu_tư 
+29,thành_phố đưa ra chủ_trương này trên cái nhìn toàn_cục  lâu_dài và tôi nghĩ các nhà_đầu_tư nên chia_sẻ gánh nặng này với thành_phố  vì sự phát_triển chung 
+30,ông nghĩ thế_nào khi chủ_trương này đang gây nhiều tranh_cãi trong giới chuyên_môn và các chủ đầu_tư 
+31,với những chủ_trương mới  chúng_tôi nghĩ sự phản_biện của dư_luận xã_hội là đương_nhiên 
+32,chúng_tôi lắng_nghe  tiếp_thu các ý_kiến phản_biện một_cách cầu_thị 
+33,thực_tế  từ khi sở ra thông_báo  chúng_tôi cũng chưa nhận được phản_ánh của doanh_nghiệp nào về chủ_trương này 
+34,thậm_chí trong số những doanh_nghiệp tới sở nộp hồ_sơ gần đây  có chủ đầu_tư đã xin tăng thêm số tầng_hầm của công_trình sau khi nghe sở giải_thích  khuyến_khích 
+35,việc này thành_phố sẽ phân_loại từng đối_tượng công_trình chứ không có chuyện áp_dụng máy_móc  đồng_loạt tất_cả các dạng công_trình 

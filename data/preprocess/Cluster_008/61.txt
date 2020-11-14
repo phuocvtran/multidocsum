@@ -1,0 +1,10 @@
+idx, sentence
+0,trong sáng 19/5  lực_lượng csgt đội_số 4 – phòng csgt đường_sắt – đường_bộ công_an tp hà_nội đã ra_quân xử_lý và đồng_thời lập chốt xử_lý tại khu_vực cầu mai_động  hà_nội liên_tiếp_phát_hiện  xử_lý nhiều trường_hợp vi_phạm 
+1,các trường_hợp xe thương_binh giả ngay khi bị csgt ra hiệu_lệnh dừng xe để kiểm_tra đều nhanh tay rút điện_thoại ra gọi người “ trợ_giúp ” 
+2,khi dừng xe  việc làm đầu_tiên của những thương_binh giả này là đưa điện_thoại cho csgt và  xin trao_đổi riêng ” 
+3,tuy_nhiên  lực_lượng csgt đang làm nhiệm_vụ không nghe điện_thoại và kiên_quyết tiến_hành kiểm_tra  những người này đều lảng đi chỗ khác và tiếp_tục gọi điện_thoại tìm người trợ_giúp 
+4,đối_với những xe thương_binh giả này  người điều_khiển phương_tiện đều không xuất_trình được giấy_tờ chứng_minh thương_binh  không có thẻ bảo_hiểm y_tế cho người có công  không có xác_nhận của chính_quyền địa_phương 
+5,ngoài việc lập biên_bản tạm giữ những xe thương_binh giả  cán_bộ_đội csgt số 4 cũng phát_hiện  xử_lý nhiều trường_hợp xe mô_tô  xe_máy quá “ đát ”  chở hàng cồng_kềnh … loại phương_tiện này không chỉ tiềm_ẩn nguy_cơ mất an_toàn giao_thông mà_còn gây ô_nhiễm môi_trường nghiêm_trọng 
+6,hầu_hết những chiếc xe quá “ đát ” này đều không đèn còi  khung hoen_gỉ  nhả khói đen_ngòm …  thậm_chí người điều_khiển xe còn phóng nhanh  vượt ẩu 
+7,những trường_hợp xe quá “ đát ” vi_phạm rất đa_dạng  từ xe chở bình nước_khoáng  xe chở giàn_giáo  … và có cả những chiếc xe chở theo hàng_loạt những thanh sắt  thép dài gấp 3 lần chiếc xe_máy thông_thường cũng lần_lượt bị lực_lượng csgt kiểm_tra  xử_lý 
+8,người điều_khiển của những phương_tiện vi_phạm này cũng không xuất_trình được đăng_ký xe  bằng lái_xe … và cũng viện đủ loại lý_do để xin lực_lượng làm nhiệm_vụ 

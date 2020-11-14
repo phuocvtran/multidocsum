@@ -1,0 +1,5 @@
+idx, sentence
+0,theo đó  chỉ trong vòng một thời_gian ngắn trên đại_lộ nguyễn_tất_thành  đoạn thuộc tổ_dân_phố nghĩa_cam  phường cam_nghĩa  tp cam_ranh  liên_tiếp xảy ra ba vụ chặn xe taxi cướp tài_sản 
+1,theo tường_trình của các tài_xế taxi thì có hai đối_tượng đi trên hai xe_máy không biển số  sau khi chặn xe thì dùng bình_sơn xịt vào kính chắn phía trước 
+2,sau đó đập_vỡ kính cánh cửa và yêu_cầu hành_khách ngồi sau đưa tiền nếu không sẽ bị đánh 
+3,theo công_an tp cam_ranh  chỉ trong vòng 30 phút rạng sáng ngày 285  những đối_tượng trên chặn ba xe  đập_vỡ kính xe nhưng chỉ một khách bị cướp một ví tiền  giấy_tờ tùy_thân 

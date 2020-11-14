@@ -1,0 +1,18 @@
+idx, sentence
+0,phòng csđt tội_phạm về ma_túy  pc47  công_an tphcm vừa phối_hợp với bộ công_an và công_an tỉnh lâm_đồng bắt_giữ tám đối_tượng  thu_giữ 10 kg ma_túy đá  hai bánh heroin  hai xe ô_tô  gần 25 tỉ đồng  hơn 52000 usd  ba khẩu súng  15 viên đạn cùng nhiều tang_vật khác trong đường_dây buôn_bán ma_túy do nguyễn_duy_hùng  46 tuổi  quê quảng_trị  ngụ tỉnh thái_nguyên  và nguyễn_tiến_khanh  35 tuổi  ngụ tap vũng_tàu  tỉnh bà_rịavũng_tàu  cầm_đầu 
+1,trước đó  vào năm 2003  hùng đã bị kết_án bảy năm tù về tội tàng_trữ  sử_dụng trái_phép chất ma_túy 
+2,sau khi ra tù  để xây_dựng vỏ bọc nhằm buôn_bán ma_túy  hùng mở gara ô_tô lớn tại tp thái_nguyên 
+3,hành_tung của hùng dần bị lộ khi vào đầu năm 2016  các trinh_sát của pc47 công_an tphcm và c47 bộ công_an bắt quả_tang  lấy lời khai của nguyễn_thanh_phú  30 tuổi  ngụ quận 6  tphcm  và nguyễn_văn_hữu  22 tuổi  ngụ quận 12  tphcm   thu_giữ 2 kg ma_túy đá được ngụy_trang cẩn_thận trong thùng trái_cây 
+4,nhất_cử nhất động của “ ông trùm ” bị rơi vào tầm ngắm của lực_lượng chức_năng 
+5,ngày 185  trinh_sát phát_hiện hùng gặp khanh ở gần cao_tốc long_thành  dầu_giây 
+6,sau đó  hùng điều_khiển xe ô_tô về một con hẻm trên đường đinh_bộ_lĩnh  phường 24  quận bình_thạnh  
+7,khi hùng chuẩn_bị bước vào xe_hơi cùng người_tình thì bị các trinh_sát ập đến bắt_giữ 
+8,tang_vật tu_giữ là 6 kg ma_túy đá  một khẩu súng k59  15 viên đạn  một nòng giảm thanh  50000 usd  hơn 21 tỉ đồng  xe ô_tô cùng nhiều giấy_tờ liên_quan 
+9,tại cơ_quan điều_tra  hùng khai mua ma_túy của một người trung_quốc tại cửa_khẩu tân_thanh  lạng_sơn  với giá 200 triệu đồng / kg 
+10,sau đó  ma_túy được hùng vận_chuyển bằng xe riêng vào tphcm bán cho khanh 
+11,mỗi kg ma_túy hùng thu lời 150 triệu đồng 
+12,riêng khanh  sau khi giao_dịch với hùng xong thì điều_khiển xe hướng về tỉnh lâm_đồng trên cao_tốc long_thành  dầu_giây 
+13,lực_lượng pc47 công_an tphcm_v9à c47 bộ công_an đã phối_hợp với công_an tỉnh lâm_đồng bắt_giữ khanh cùng hai đồng_bọn trên xe là nguyễn_văn_hải  36 tuổi  ngụ quận bình_thạnh  tphcm  và võ kim_khánh  29 tuổi  ngụ tỉnh phú_yên  
+14,tang_vật thu_giữ 1 kg ma_túy đá  một khẩu súng_ngắn và một xe ô_tô 
+15,qua truy_xét mở_rộng  công_an bắt_giữ thêm một_số người liên_quan là khưu_thanh_thảo  tự cu_tửng  42 tuổi  ngụ quận 1  tphcm   thu_giữ hai bánh heroin  312 triệu đồng  2200 usd và một khẩu súng_ngắn và nguyễn_đức_thanh tuấn  26 tuổi   đàn_em của hải  thu 300 g ma_túy đá 
+16,khám_xét phòng trọ của hải trên đường nguyễn_thị_thập  quận 7  tphcm   công_an thu_giữ 700 g ma_túy đá 

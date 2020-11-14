@@ -1,0 +1,17 @@
+idx, sentence
+0,hầm đường_sắt dài nhất thế_giới sẽ được khánh_thành vào ngày 1/6 tới đây tại thụy_sỹ sau 17 năm xây_dựng 
+1,với chiều dài hơn 57 km  đường_hầm gotthard  gbt  sẽ cắt ngang qua dãy núi alps của thụy_sỹ 
+2,đường_hầm gotthard được hình_thành đầu_tiên trong bản phác_thảo năm 1947  nhưng mới được xây_dựng cách đây 17 năm 
+3,công_trình bao_gồm hai đường_hầm đơn  mỗi hầm có một tuyến đường_ray  kết_nối với erstfeld  uri  và bodio  ticino  
+4,người_ta phải dỡ bỏ khoảng 282 triệu tấn đá núi để dựng hầm 
+5,tổng_số tiền đầu_tư lên tới 122 tỷ franc thụy_sĩ 
+6,đây cũng là dự_án đầu_tư lớn nhất thụy_sỹ 
+7,do địa_hình gồ_ghề của dãy núi alps  đường_hầm sẽ đóng vai_trò quan_trọng kết_nối các thành_phố lớn như milan và zurich 
+8,như vật  khi du_khách di_chuyển tới hai thành_phố này chỉ mất khoảng 2 giờ 40 phút  nhanh hơn 1 tiếng so với lịch_trình trước_kia 
+9,theo các hãng truyền_thông nước_ngoài  đường_hầm gotthard dự_kiến sẽ trở_thành mắt_xích quan_trọng kết nổi rotterdam và antwerp  hạn_chế ô_nhiễm không_khí  đồng_thời tác_động tăng_trưởng nền kinh_tế khu_vực châu_âu 
+10,dự_kiến  vào ngày khánh_thành 1/6 tới đây  thủ_tướng đức_angela_merkel  tổng_thống pháp francois_hollande và thủ_tướng ý  matteo_renzi  cùng với các quan_chức thụy_sĩ  sẽ tới tham_dự sự_kiện 
+11,với chiều dài hơn 57 km  đường_hầm gotthard được sách kỷ_lục guiness công_nhân là đường_hầm dài nhất thế_giới  vượt kỷ_lục của đường_hầm seikan  nhật_bản  và channel_tunnel – nơi kết_nối anh và pháp 
+12,một_số thông_tin khác về đường_hầm dài nhất thế_giới  chiều_dài  57 km tổng chiều dài tất_cả các đường_hầm  152 km điểm_cao nhất của đường_hầm  550 m  trên mực nước_biển thời_gian xây_dựng  không bao_gồm công_tác thăm_dò   17 năm nguyên_liệu khai_quật và di rời  282 triệu tấn đá 
+13,tổng_chi_phí công_trình  122 tỷ franc thụy_sĩ công_suất đường_hầm  260 tàu chở hàng và 65 tàu chở khách mỗi ngày 
+14,tốc_độ lịch_trình  tàu chở hàng vận_tốc 100 km / h  tàu chở khách 200 km / h 
+15,tốc_độ tối_đa  tàu chở hàng vận_tốc 160 km / h  tàu chở khách 250 km / h  giảm thời_gian hành_trình từ zurich đến lugano sau khi hoàn_thành  kể từ năm 2020   khoảng 45 phút 

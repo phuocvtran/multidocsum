@@ -1,0 +1,7 @@
+idx, sentence
+0,chiều 28/5  một cơn mưa dông đột_ngột kèm giông sét đã đánh trúng hai nhóm nông_dân đang làm_đồng trên địa_bàn xã hương_an  thị_xã hương_trà và phường an_hòa  thành_phố huế khiến 1 người chết  6 người bị_thương 
+1,vào khoảng 14 h30 ngày 28/5  khi ông lê_văn_tưởng  41 tuổi  trú xã hương_an  thị_xã hương_trà đang cày ruộng thì bất_ngờ bị sét đánh 
+2,ngay_lập_tức ông lê_văn_tưởng được đưa vào cấp_cứu ở bệnh_viện trung_ương huế trong tình_trạng hôn_mê sâu  tím tái toàn_thân  ngừng tim  ngừng phổi với nhiều vết cháy_sém 
+3,mặc_dù đã được đội các bác_sĩ cấp_cứu kịp_thời nhưng nạn_nhân không qua khỏi 
+4,cùng thời_điểm trên  ông hồ_nghĩa  48 tuổi  hồ_lĩnh  con của ông nghĩa 19 tuổi và nguyễn_văn_toán  46 tuổi  cùng trú tại phường an_hòa  thành_phố huế và 3 cháu nhỏ đang ở ngoài đồng thì bất_ngờ gặp giông sét 
+5,ngoài 3 cháu nhỏ bị_thương nhẹ  các nạn_nhân còn lại nhập_viện trong tình_trạng váng_đầu  tức ngực  tê các chi  một_số trường_hợp còn bị bỏng vùng lưng cấp_độ i  ii 

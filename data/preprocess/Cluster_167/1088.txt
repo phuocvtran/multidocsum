@@ -1,0 +1,18 @@
+idx, sentence
+0,hoa_khôi lại hương_thảo tổ_chức lễ ăn_hỏi và đám_cưới tại quê nhà quảng_ninh vào hôm 30/4 
+1,ông_xã của người_đẹp năm nay 34 tuổi  hơn cô 10 tuổi 
+2,anh từng tốt_nghiệp thạc_sĩ tại anh và có 8 năm làm_việc tại các ngân_hàng nước_ngoài 
+3,hiện_tại  anh có công_ty riêng tại tp hcm 
+4,trong lễ_cưới ở quê nhà  lại hương_thảo được chú_rể rước về dinh bằng xe sang 
+5,tối 29/5  đôi uyên_ương tổ_chức tiệc cưới tại một khách_sạn sang_trọng ở sài_gòn với khoảng 700 khách_mời  bao_gồm gia_đình  người_thân và bạn_bè thân_thiết của nhà_trai 
+6,lại hương_thảo thay hai bộ soiree trong ngày lên xe hoa 
+7,cả hai chiếc váy ánh đồng và màu trắng đều tôn được vóc_dáng thon_thả và nét trẻ_trung của cô 
+8,chú_rể dù hơn cô 10 tuổi nhưng vẫn rất phong_độ 
+9,bố_mẹ hai bên gia_đình đều mừng vì sau hơn 2 năm tìm_hiểu và yêu nhau  hai con của họ đã nên vợ thành chồng 
+10,vợ_chồng ca_sĩ trang_nhung cùng con_trai và hai con_gái đã đến chúc_mừng hôn_lễ của lại hương_thảo 
+11,tân_lang  tân nương cùng thực_hiện những nghi_lễ truyền_thống trong tiệc cưới 
+12,lại hương_thảo từng tham_gia nhiều cuộc thi nhan_sắc và đoạt nhiều danh_hiệu như hoa_khôi thể_thao 2012  giải phụ hoa_hậu châu_á  hoa_hậu cộng_đồng tại cuộc thi hoa_hậu siêu_quốc_gia 2012 
+13,năm 2013  cô từng đại_diện cho việt_nam dự thi miss_world nhưng không đạt được thành_tích nào 
+14,vài năm trở_lại đây  cô gần như không tham_gia các hoạt_động showbiz 
+15,hiện_tại  cô làm_việc ở một ngân_hàng trong tp hcm 
+16,bé bích_ngọc  con_gái ca_sĩ trang_nhung  á_quân got_talent  đã hát tặng cho cô_dâu  chú_rể trong ngày trọng_đại 

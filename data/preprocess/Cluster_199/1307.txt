@@ -1,0 +1,10 @@
+idx, sentence
+0,hôm_nay  1/6   tand hà_nội đã xét_xử bị_cáo đoàn_văn_chuyên  sn 1991  ở văn_giang  hưng_yên  về tội giết_người 
+1,theo cáo_trạng  khoảng 9 h50 ngày 12/12/2015  chuyên điều_khiển xe ô_tô tải đến ngã tư phố sài_đồng  nguyễn_văn_linh  long_biên  hà_nội  thì vi_phạm_luật giao_thông đường_bộ nên bị thượng_úy nguyễn_quốc_đạt  csgt đội 5  phòng csgt công_an tp hà_nội  ra tín_hiệu yêu_cầu dừng xe 
+2,tuy_nhiên  không_những không chấp_hành hiệu_lệnh của csgt  chuyên còn lái_xe đâm thẳng vào thượng_uý đạt 
+3,thấy nguy_hiểm  anh đạt đã nhảy lên bám vào cần gạt nước thì chuyên tiếp_tục cho xe chạy và đánh lái sang trái nên va_chạm với một ô_tô khác cùng chiều 
+4,chưa dừng lại ở đó  chuyên còn điều_khiển xe lạng_lách  đánh_võng sang trái  sang phải nhằm hất anh đạt rơi xuống đường nhưng vẫn thấy anh đạt bám vào cần gạt nước  chuyên tiếp_tục phóng xe nhanh và đạp phanh gấp làm anh đạt ngã ra đường 
+5,thượng_uý csgt bị xe_tải do chuyên điều_khiển kéo_lê trong gầm xe khoảng 20 m 
+6,đặc_biệt  trong lúc chuyên tăng ga bỏ chạy  bánh ô_tô phía trước và phía sau bên phải đè lên người anh đạt làm nạn_nhân bị đa chấn_thương 
+7,kết_quả giám_định tỷ_lệ thương_tích của nạn_nhân được xác_định là 59  
+8,sau khi gây_án  chuyên đã ra cơ_quan công_an đầu_thú 

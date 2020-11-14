@@ -1,0 +1,9 @@
+idx, sentence
+0,tổng_giám_đốc vpf cao_văn_chóng khẳng_định không muốn đối_đầu với cổ_động_viên 
+1,nhưng ông tuyên_bố vpf sẵn_sàng chấp_nhận phương_án xấu nhất 
+2,phương_án xấu nhất là gì thì ông chóng không nói ra 
+3,còn cđv than quảng_ninh bắt_đầu lên dần kịch_bản cho cái cuộc_chiến mà họ khằng định là sẽ theo_đuổi đến cùng để giữ bản_sắc cổ_vũ của hội_cđv_than quảng_ninh 
+4,từ sáng đến chiều  cđv than quảng_ninh lập hẳn khu fanzone bên ngoài sân cẩm_phả 
+5,họ chuẩn_bị loa công_suất lớn và cổ_vũ hăng_say cho đội bóng yêu_thương 
+6,sau đó  khi btc sân thuyết_phục  hội cđv mới quyết_định vào sân cổ_vũ nhưng cương_quyết bỏ trống toàn_bộ khu_vực khán_đài b vốn được xem là trái_tim của sân cẩm_phả  nơi tập_trung các cđv máu_lửa nhất 
+7,chưa hết  để mỉa_mai lệnh_cấm của vpf  các cđv than quảng_ninh rủ nhau đeo khẩu_trang và giữ im_lặng gần như suốt cả trận đấu 

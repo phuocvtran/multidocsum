@@ -1,0 +1,9 @@
+idx, sentence
+0,hôm 315  hãng emirates thông_báo họ tìm thấy một người đi lậu_vé trên chuyến bay ek303 từ tp_thượng_hải – trung_quốc đến tp dubai  các tiểu_vương_quốc ả rập thống_nhất hôm 275 và đã giao_nộp người này cho cảnh_sát dubai 
+1,“ chúng_tôi đang tích_cực hợp_tác với các nhà_chức_trách ở dubai 
+2,đây là vấn_đề liên_quan tới cảnh_sát nên hiện_tại chúng_tôi không_thể bình_luận gì thêm ” – trích thông_báo của emirates 
+3,hãng hàng_không không tiết_lộ tên của người trốn vé nhưng hãng tin tân hoa_xã của trung_quốc cho biết đó là một thiếu_niên 16 tuổi họ xu 
+4,cậu thiếu_niên này nói rằng ngồi trong chỗ chứa hàng “ rất thoải_mái ” 
+5,tuy_nhiên  cậu ta không được ăn_uống gì trong suốt 9 tiếng bay 
+6,tân hoa_xã đưa tin thiếu_niên này thú_nhận lý_do trốn vé sang tp dubai vì cậu ta nghe nói ăn_mày ở nơi này kiếm được rất nhiều tiền 
+7,được biết  nhân_viên lãnh_sự quán trung_quốc đã đến sân_bay để tìm_hiểu tình_hình 

@@ -1,0 +1,17 @@
+idx, sentence
+0,cuộc đại_chiến giữa dortmund và bayern_munich tại chung_kết cúp quốc_gia đức đã diễn ra vô_cùng kịch_tính khi hai đội đều nhập_cuộc với quyết_tâm giành chiến_thắng cực cao 
+1,thế nhưng  trong suốt thời_gian thi_đấu chính_thức lẫn 2 hiệp phụ  đôi bên vẫn không_thể_nào khoan thủng được mành lưới đối_thủ 
+2,do_đó  buộc họ phải bước vào loạt sút penalty cân_não để phân_định thắng thua 
+3,trên chấm đá phạt 11 m  bayern đã thể_hiện được bản_lĩnh của mình khi xuất_sắc đánh_bại dormund với tỷ_số 43 
+4,qua đó  chính_thức lên_ngôi vô_địch cúp quốc_gia đức mùa giải này 
+5,đáng chú_ý  thành_tích này không chỉ giúp “ hùm xám ” xứ bavaria có lần thứ 18 đăng_quang ở đấu_trường này  mà_còn giúp họ có được cú đúp danh_hiệu ở mùa giải 2017 / 16 
+6,sau trận đấu này  hlv pep_guardiola đã có những cảm_xúc vô_cùng trái_ngược nhau 
+7,một mặt ông vô_cùng hạnh_phúc khi giúp bayern có được “ cú đúp ” danh_hiệu ở mùa giải này 
+8,trong khi mặt_khác thì chiến_lược gia người tây ban nha_lại cảm_thấy rất buồn khi sắp phải chia_tay đội chủ sân allianz để chuyển tới dẫn_dắt man_city 
+9,do_đó  ông đã bật khóc nức_nở 
+10,sau giây_phút nghẹn_ngào  pep_guardiola mới có_thể chia_sẻ được cảm_giác hiện_tại của ông 
+11,theo đó  cựu hlv của barcelona đã gửi lời chúc thành_công đến tất_cả blđ và cầu_thủ của “ hùm xám ” 
+12,đồng_thời  nhà cầm_quân người tây ban_nha cũng khẳng_định  ông sẽ luôn nhớ về các học_trò  luôn nhớ cuộc_sống ở bundesliga và mong bayern sẽ có được nhiều thành_công hơn nữa trong tương_lai 
+13,trả_lời phỏng_vấn sau trận đấu  hlv pep_guardiola chia_sẻ  “ tôi cảm_thấy rất hạnh_phúc khi bayern đã đăng_quang tại cúp quốc_gia đức 
+14,đối_với tôi  đó là một thành_tích tuyệt_vời 
+15,trong 3 năm qua  tôi đã cùng clb giành được 7 chức vô_địch là điều đó thật tuyệt_vời 

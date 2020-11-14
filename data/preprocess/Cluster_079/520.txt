@@ -1,0 +1,3 @@
+idx, sentence
+0,khoảng 7 giờ sáng 23 tháng 5  người dân đi lượm ve_chai phát_hiện thi_thể cô gái trong bao_tải ở bãi đất trống gần chung_cư thạnh_mỹ_lợi  phường thạnh_mỹ_lợi  quận 2 nên hô_hoán  nhiều người dân hiếu kỳ ở khu_vực này đã đến hiện_trường theo_dõi  đồng_thời thông_báo sự_việc cho công_an địa_phương 
+1,ngay sau đó khu_vực phát_hiện thi_thể được phong_tỏa 

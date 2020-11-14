@@ -1,0 +1,9 @@
+idx, sentence
+0,trưa 36  tài_xế  khoảng 35 tuổi  điều_khiển xe container chở theo cuộn thép nặng gần chục tấn lưu_thông trên đường huỳnh_tấn_phát hướng từ quận 7 về huyện nhà_bè  tphcm
+1,khi vừa_qua khỏi giao_lộ gò_ô_môi  phường tân_phú  quận 7   tài_xế thắng gấp để tránh xe_máy của thanh_niên chạy cắt ngang đường 
+2,cú thắng đột_ngột khiến cuộn thép từ phía sau bị đứt xích lao về trước  đè nát cabin 
+3,tài_xế may_mắn thoát nạn bung cửa tháo_chạy ra đường 
+4,“ chiếc xe container đang lao ầm_ầm tới bỗng có một thanh_niên chạy xe_máy phóng vù qua 
+5,một phụ_nữ cũng dắt xe_đạp chạy qua đường 
+6,nếu tài_xế không thắng gấp thì tôi sẽ không biết chuyện gì xảy ra ”  một nhân_chứng kể 
+7,tại hiện_trường  phần cabin xe container nứt_toác  phía dưới đường cuộn thép nặng cả chục tấn án_ngữ 

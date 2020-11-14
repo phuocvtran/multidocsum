@@ -1,0 +1,7 @@
+idx, sentence
+0,theo cáo_trạng  minh  sâm  và con_gái là nguyễn_thu_hằng  cùng 7 đồng_phạm bị truy_tố về tội “ cưỡng_đoạt tài_sản ”  còn bị can quách_văn_lộc  trú tại huyện từ_sơn  tỉnh bắc_ninh bị truy_tố về tội “ tàng_trữ trái_phép vũ_khí quân_dụng ” 
+1,theo cáo_trạng  khoảng 17 h30 ngày 13/8/2014  tại chợ gỗ phù_khê_đông  hay còn gọi_là chợ đồng_bèo   thuộc xã phù_khê  thị_xã từ_sơn  tỉnh bắc_ninh  cơ_quan csđt bộ công_an bắt quả_tang đối_tượng nguyễn_hữu_hoàng   25 tuổi   nhân_viên của “ ban quản_lý chợ đồng_bèo ” thuộc công_ty đại_an có hành_vi cưỡng_đoạt 12 triệu đồng của anh đbl  ở huyện gia_lâm  hà_nội 
+2,từ việc bắt quả_tang hành_vi phạm_tội của đối_tượng hoàng  cơ_quan csđt bộ công_an đã bóc gỡ đường_dây tội_phạm do minh  sâm  cầm_đầu  núp_bóng dưới vỏ bọc công_ty đại_an 
+3,khám_xét khẩn_cấp xưởng gỗ và nơi làm_việc của bị can hưng  sóc   tại xã phù_khê  huyện từ_sơn  tỉnh bắc_ninh  cơ_quan csđt bộ công_an đã thu_giữ bên trong một tủ đồ cá_nhân có chứa một khẩu súng k54  1 băng tiếp đạn và 5 viên đạn 
+4,các đối_tượng khai nhận  tủ đồ này là của bị can quách_văn_lộc   39 tuổi  trú tại xã phù_khê  huyện từ_sơn  
+5,lộc là tay_chân của hưng  sóc  nên được hưng  sóc  giao cho cất_giữ khẩu súng nêu trên 

@@ -1,0 +1,8 @@
+idx, sentence
+0,vụ tai_nạn giao_thông xảy ra khoảng 15 h ngày 2/6 tại quốc_lộ 3  đoạn qua xã cổ_lũng  huyện phú_lương  tỉnh thái_nguyên 
+1,trao_đổi với zing  vn  ông phạm_bình_công – chủ_tịch ubnd huyện phú_lương  cho biết vụ va_chạm làm 6 người bị_thương 
+2,“ họ bị kính và mảnh vỡ văng trúng người 
+3,sau khi được sơ_cứu  tất_cả đã về nhà 
+4,trong số các nạn_nhân có 5 người trên xe_buýt  người còn lại đi xe_máy ” – ông công nói 
+5,theo thông_tin trên báo thái_nguyên  lúc xảy ra tai_nạn  xe_tải do anh trương_mạnh_hùng  23 tuổi  quê tuyên_quang  cầm lái  chạy hướng thái_nguyên  bắc_kạn đến địa_điểm trên thì bị nổ lốp 
+6,chiếc xe mất lái nên lấn sang làn đường ngược chiều  đâm vào xe_buýt và một xe_máy 

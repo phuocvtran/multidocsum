@@ -1,0 +1,10 @@
+idx, sentence
+0,trang daily_mail mới_đây đã đăng_tải hình_ảnh ibrahimovic lái_xe đến khách_sạn park ở stockholm  nơi đóng_quân của đội_tuyển thụy_điển 
+1,chiếc xe ibra sử_dụng là dòng porsche 918 spyder có giá lên tới 661000 bảng 
+2,tuyển thụy_điển hiện đang hội quân chuẩn_bị cho vck_euro 2016 tại pháp và ibra là nhân_tố quan_trọng trong chiến_dịch lần này 
+3,vào ngày 13/6 tới  thụy_điển sẽ đối_đầu ch_ireland ở saintdenis 
+4,ngày 17/6  họ sẽ chạm_trán italy ở toulouse trước khi khép lại trận cuối_cùng của bảng e gặp tuyển bỉ vào ngày 22/6 
+5,ibra muốn có sự chuẩn_bị tốt nhất cho euro bởi đây có_thể là giải đấu lớn cuối_cùng của anh trong màu áo đtqg 
+6,tiền_đạo 34 tuổi đang được nhắc đến rất nhiều những ngày qua 
+7,sau khi rời psg  ibra trở_thành cầu_thủ tự_do và đang được man_united theo_đuổi 
+8,báo_chí anh cho biết man_united đã đưa ra đề_nghị trị_giá 34 triệu bảng với mức lương 250000 bảng / tuần  để ngăn anh đi theo những lời mời_gọi từ giải_mls của mỹ 

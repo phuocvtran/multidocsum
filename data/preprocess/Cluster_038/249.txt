@@ -1,0 +1,4 @@
+idx, sentence
+0,sau khi chủ_động tuyên_bố hẹn_hò  cặp_đôi hot nhất nhì làng giải_trí hoa_ngữ đã vướng phải tin_đồn phải buộc công_khai mối quan_hệ do nàng  hạ_tử_vi  đã  có tin_vui  
+1,tuy_vậy  ngay sau khi tin_đồn này lan_truyền  đại_diện của nữ diễn_viên đã lên_tiếng phủ_nhận   đừng đoán_mò  mong mọi người chúc_mừng cô ấy là được 
+2,hoàn_toàn không có chuyện cô ấy có thai  

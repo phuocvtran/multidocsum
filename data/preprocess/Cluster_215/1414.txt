@@ -1,0 +1,4 @@
+idx, sentence
+0,ông trần_văn_phúc  trưởng_phòng kinh_doanh gas saigon_petro cho biết  “ kể từ ngày 1/6  giá gas sp giảm gần 125 đồng / kg  đã có vat  tương_đương 1500 đồng / bình 12 kg so với giá hiện_hành 
+1,giá_bán_lẻ tối_đa tới tay người dùng khu_vực tphcm là 272000 đồng / bình 12 kg ” 
+2,lý_giải_nguyên_nhân tăng_giá  ông phúc cho biết giá cp  giá gas thế_giới  pv  tháng 6/2016 công_bố 3475 usd / tấn  giảm 5 usd / tấn so với tháng 5/2016 

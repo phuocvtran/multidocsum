@@ -1,0 +1,6 @@
+idx, sentence
+0,phó chủ_tịch ubnd tỉnh kon_tum  ông nguyễn_đức_tuy đã ký quyết_định gửi sở kế_hoạch và đầu_tư tỉnh kon_tum thống_nhất thu_hồi giấy chứng_nhận đầu_tư_cấp ngày 15/5/2015 và chấm_dứt hoạt_động dự_án đầu_tư trồng cỏ  nuôi bò_thịt công_nghệ_cao của công_ty cp hoàng_anh gia_lai như đề_nghị của sở này 
+1,ngoài_ra  ubnd tỉnh kon_tum còn yêu_cầu sở kế_hoạch và đầu_tư tỉnh này lập thủ_tục thu_hồi giấy chứng_nhận đầu_tư chấm_dứt hoạt_động của dự_án trên 
+2,được biết  dự_án bị thu_hồi trên là dự_án trồng cỏ  nuôi bò_thịt công_nghệ_cao của hoàng_anh gia_lai có tổng_số vốn đầu_tư là 1600 tỷ đồng 
+3,quy_mô đàn bò ban_đầu là 35700 con bò sinh_sản  sau đó sẽ nâng lên 111880 con … nguyên_nhân thu_hồi dự_án trên là do nhà_đầu_tư quyết_định chấm_dứt hoạt_động của dự_án 
+4,còn tại_gia_lai  phó chủ_tịch ubnd tỉnh gia_lai  ông kpă_thuyên cũng vừa có quyết_định thu_hồi 5089 ha đất của hoàng_anh gia_lai và giao cho công_ty cổ_phần nông_nghiệp_nuti_thuê để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu 

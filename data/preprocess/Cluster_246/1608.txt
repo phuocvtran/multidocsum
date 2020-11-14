@@ -1,0 +1,11 @@
+idx, sentence
+0,tin từ sân_bay quốc_tế tân_sơn_nhất trưa nay cho biết sáng cùng ngày  1 máy_bay airbus_a321 của hãng hàng_không vietnam_airlines  vna  bị xáo_trộn lịch khai_thác vì một nam hành_khách tự_ý mở_cửa thoát_hiểm 
+1,cụ_thể  trên chuyến bay vn 227 của vietnam_airlines từ hà_nội đi tp hcm  khi máy_bay vừa dừng bánh tại bãi đậu 38 ở sân_bay tân_sơn nhất_thì hành_khách ngô_tiến_thịnh  58 tuổi   đã tự_ý mở_cửa thoát hiểm số 3l làm cho cầu_phao cứu_sinh  slide raft  bung ra hoàn_toàn xuống sân đậu máy_bay 
+2,hành_khách ngô_tiến_thịnh đi cùng với 3 người khác trong một gia_đình 
+3,điều đáng nói là khách này đã tự_ý đổi ghế ngồi từ số ghế 28b sang ghế ngồi 28a sát cửa thoát hiểm rồi sau đó đã mở_cửa thoát hiểm ra 
+4,tổ bay  cảng_hàng_không quốc_tế tân_sơn_nhất và cảng_vụ hàng_không miền nam đã lập biên_bản vi_phạm hành_chính về lĩnh_vực hàng_không để xử_lý theo pháp_luật 
+5,theo kế_hoạch  chiếc máy_bay này sẽ dự_kiến sau khi từ hà_nội bay vào tp hcm lúc 10 giờ 00 sẽ bay tiếp chặng tp hcm  hongkong vào lúc 10 giờ 45 trên chuyến bay số_hiệu vna 325 
+6,tuy_nhiên  sự_việc trên đã khiến hãng hàng_không vietnam_airlines phải thay_đổi máy_bay khác đi hongkong  tháo thuyền phao của máy_bay vna 325 đem về sửa_chữa 
+7,vì sự_cố này  chuyến bay từ tp hcm đi hongkong sáng nay 2/6 đã bị chậm giờ  ước_tính thiệt_hại gần 20000 usd  hơn 400 triệu đồng  
+8,theo nghị_định 147 / 2013 / nđcp  hành_khách vi_phạm lỗi mở_cửa thoát_hiểm khi không có yêu_cầu từ tiếp_viên sẽ bị phạt từ 10 triệu đồng  20 triệu đồng 
+9,mức phạt này đã được điều_chỉnh tăng so với trước đây nhưng các hãng hàng_không đánh_giá vẫn quá thấp so với hậu_quả gây ra và chưa đủ tính răn_đe  phòng_ngừa 

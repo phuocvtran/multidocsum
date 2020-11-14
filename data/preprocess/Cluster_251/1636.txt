@@ -1,0 +1,11 @@
+idx, sentence
+0,theo thông_tin  vụ_việc xảy ra tại khu_phố 2  phường tam_hòa  tp biên_hòa vào khoảng 23 giờ đêm 1/6 
+1,khi mọi người đang ngồi chơi trước nhà thì bất_ngờ một nhóm hàng chục thanh_thiếu_niên chạy xe_máy náo_loạn vừa reo_hò quậy_phá tới 
+2,thấy nhóm thanh_thiếu_niên đang ngồi trước nhà  nhóm kia dừng lại tiếp_tục làm_loạn khiến dân tháo_chạy 
+3,sau đó nhóm thanh_niên manh_động dùng hung_khí đập_vỡ kính_cửa chính của nhà bà h rồi vung mã_tấu  dao kiếm và ném 3 quả bom xăng vào 3 đầu hẻm rồi kéo nhau hò_hét lao đi 
+4,theo người dân tại khu_phố  sự_việc xảy ra trong vòng hơn 5 phút 
+5,bom xăng do những kẻ manh_động đốt gây khói_lửa bao_trùm  náo_loạn cả khu_vực 
+6,đến hiện_tại người dân khu_phố vẫn chưa hết vẻ hoảng_hốt cho biết may_mắn sự_việc không gây thương_vong nhưng nhiều người đã hoảng_sợ bỏ chạy  cửa_kính nhà bà h bị đập_vỡ vẫn chưa được sửa_chữa 
+7,công_an phường tam_hòa cho biết hai nhóm này làm_loạn là bộc_phát  không phải do mâu_thuẫn 
+8,đêm cùng ngày  trang mạng facebook cũng đăng_tải 1 clip dài 1 phút 7 s  clip này được cho là ghi lại toàn_bộ vụ_việc trên 
+9,trong clip có cảnh các nhóm thanh_niên cầm mã_tấu rượt đuổi nhau  ném bom xăng 

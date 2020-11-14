@@ -1,0 +1,12 @@
+idx, sentence
+0,lần đầu_tiên phía mỹ đưa ra lời cảnh_báo về vòng chung_kết euro2016 tại pháp có nguy_cơ khủng_bố rất cao 
+1,họ khuyến các công_dân mỹ không nên đến pháp để xem bóng_đá 
+2,còn nếu đến pháp_nhân sự_kiện euro thì không nên đến sân  các khu_vực dành cho cổ_động_viên bóng_đá bên ngoài sân … những nơi này có nguy_cơ khủng_bố cao nhất 
+3,mỹ còn cho rằng  mùa euro thì nguy_cơ khủng_bố bao_trùm cả nước pháp chứ chẳng riêng gì các thành_phố có diễn ra các trận euro 
+4,người phát_ngôn của chính_phủ mỹ john_kirby  khuyến_cáo công_dân mỹ không nên du_lịch sang châu_âu  sang pháp mùa euro 
+5,rất nhiều chiêu trò của chủ_nghĩa khủng_bố mùa euro  không_chỉ mục_tiêu là nước pháp mà mục_tiêu là phương tây 
+6,khi mọi sự chú_ý đổ_dồn vào pháp thì có_thể những thành_phố châu_âu khác không phải pháp sẽ bị khủng_bố … người mỹ cũng là những mục_tiêu của khủng_bố tại châu_âu 
+7,tại châu_âu  các công_dân luôn là mục_tiêu chính của khủng_bố 
+8,khách_du_lịch thường tụ_tập đông các địa_điểm du_lịch  nhà_hàng  khách_sạn  trung_tâm mua_sắm  ga tàu_điện  bến_xe … đó là những nơi dễ xảy ra khủng_bố 
+9,các cơ_quan tình_báo đức  pháp cũng đã cảnh_báo vấn_đề này 
+10,về phía pháp sẽ có 90000 cảnh_sát làm nhiệm_vụ tại euro  chi_phí an_ninh lên đến 24 triệu euro 

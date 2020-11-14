@@ -1,0 +1,9 @@
+idx, sentence
+0,còn nhớ khi man_united và liverpool chạm_trán nhau trong khuôn_khổ vòng 1/8 europa_league  cđv hai đội bóng này với sự thù_hằn trong quá_khứ đã có những cuộc đụng_độ xảy ra 
+1,cụ_thể  không_chỉ dừng lại ở những lời_lẽ lăng_mạ  cả hai phía còn lao vào nhau ăn_thua đủ 
+2,thậm_chí những ghế ngồi của svđ cũng trở_thành vũ_khí tấn_công 
+3,sự_cố này đã khiến cả hai đội bị ủy_ban kỷ_luật của uefa  sờ gáy  
+4,đến hôm_nay  án phạt chính_thức đã được đưa ra 
+5,cụ_thể   strong  liverpool và mu mỗi đội phải nộp phạt 20000 euro   / strong  với liverpool  họ phải nộp thêm 17000 euro vì để cđv mang pháo_sáng vào sân  còn mu là 18000 bảng vì không đảm_bảo được an_ninh trận đấu 
+6,uefa cũng cảnh_báo hai gã khổng_lồ báo đá anh không được để tái_diễn những vụ tương_tự trong tương_lai 
+7,riêng liverpool còn có nhiệm_vụ phải liên_lạc với phía man_united để chi_trả một phần thiệt_hại mà cđv đội bóng này đã gây ra trên sân old_trafford 

@@ -1,0 +1,10 @@
+idx, sentence
+0,tạp_chí spiegel  tấm_gương  của đức ngày 2/6 đưa tin cảnh_sát nước này vừa phá vỡ một âm_mưu tấn_công khủng_bố tại đức của tổ_chức nhà_nước hồi_giáo  is  tự_xưng và kịp_thời bắt_giữ các đối_tượng 
+1,mục_tiêu của is là tấn_công khu_phố cổ_thành_phố duesseldorf  trong đó hai đối_tượng tấn_công liều chết sẽ cho phát nổ ở gần đường heinrichheineallee  sau đó các tên khủng_bố khác sẽ tấn_công dân_thường 
+2,theo spiegel  có bốn người đàn_ông từ syria tham_gia vào kế_hoạch khủng_bố được chuẩn_bị từ cách đây 2 năm này 
+3,hai trong số đó nhận lệnh từ cấp cao của is để từ syria sang thổ nhĩ kỳ tiến_hành tấn_công khủng_bố năm 2014  sau đó trà_trộn vào dòng người di_cư năm 2015 để sang đức theo tuyến đường balkan 
+4,tại đức  hai đối_tượng này thuyết_phục một người syria khác cùng tham_gia kế_hoạch  cộng thêm một đối_tượng cũng người syria đã ở đức từ năm 2014 và từng là chuyên_gia chất_nổ của nhóm phiến_quân mặt_trận alnusra ở syria 
+5,ngày 2/6  ba trong số bốn đối_tượng trên đã bị bắt theo lệnh của tổng công_tố liên_bang peter_frank  trong đó mỗi đối_tượng lại đang ở một bang khác nhau là nordrheinwestfalen  badenwuerttemberg và một bang ở miền đông 
+6,trong khi đó  đối_tượng thứ tư đã bỏ chạy từ brussels  bỉ  sang pháp sau vụ khủng_bố ở sân_bay zaventem hồi tháng 1 
+7,tại pháp  tên này ra đầu_thú và khai với cảnh_sát pháp về kế_hoạch của nhóm khủng_bố trên tại đức 
+8,đây là nguồn thông_tin quan_trọng giúp cảnh_sát đức bắt_giữ được ba đối_tượng còn lại của nhóm đang nằm chờ ở đức 

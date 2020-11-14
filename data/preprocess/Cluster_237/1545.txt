@@ -1,0 +1,9 @@
+idx, sentence
+0,cách đây hơn một tuần  quân_đội chính_phủ iraq  được máy_bay của lực_lượng liên_minh chống khủng_bố do mỹ đứng đầu yểm_trợ  đã phát_động chiến_dịch quân_sự nhằm lấy lại fallujah  thành_trì bị is kiểm_soát từ năm 2014 
+1,tuy đã rải truyền_đơn cảnh_báo người dân  rất ít gia_đình có_thể chạy trốn khỏi thành_phố 
+2,đại_diện unicef cho biết  ít_nhất 20000 trẻ_em vẫn bị mắc_kẹt trong thành_phố trong điều_kiện thực_phẩm  thuốc_men và nước_sạch rất khan_hiếm 
+3,“ khi bạo_lực tiếp_tục leo_thang ở fallujah và trên khắp iraq  chúng_tôi lo_ngại về quyền trẻ_em bị xâm_phạm nghiêm_trọng và ngày_càng gia_tăng 
+4,trẻ_em phải đối_mặt với nguy_cơ bị ép_buộc tham_gia cuộc_chiến  bị giam_cầm và bị chia tách khỏi gia_đình ”  peter_hawkins  người đại_diện của unicef ở iraq nhấn_mạnh trong một tuyên_bố 
+5,ông kêu_gọi tất_cả các bên trong cuộc_chiến tạo điều_kiện cho người dân rời đi an_toàn 
+6,tổ_chức liên_hợp_quốc này cũng lên_án hành_động sử_dụng dân_thường làm “ lá_chắn sống ” đối_phó với quân_chính_phủ và lực_lượng liên_minh 
+7,được biết  tính đến ngày 1/6  quân_đội chính_phủ đã giải_phóng huyện nuaimiya  cách khoảng 3 km về phía nam fallujah và sẽ tiếp_tục tiến về khu_vực gần trung_tâm thành_phố 

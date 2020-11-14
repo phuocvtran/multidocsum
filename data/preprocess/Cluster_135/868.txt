@@ -1,0 +1,9 @@
+idx, sentence
+0,ở trận đấu thuộc europa_league giữa man_utd và liverpool trên sân old_trafford diễn ra hồi tháng 3 vừa_qua  cổ_động_viên hai đội đã lao vào nhau ẩu_đả trên một góc khán_đài 
+1,mọi thứ trên khán_đài đều trở_thành vũ_khí  sau đó lực_lượng an_ninh đã can_thiệp kịp_thời và mọi chuyện đã được giải_quyết ổn_thỏa 
+2,trận này kết_thúc với tỉ_số hòa_11  man_utd phải dừng cuộc_chơi tại europa_league bởi trận lượt đi họ đã để thua liverpool với tỉ_số 02 
+3,mới_đây nhất  lđbđ_châu_âu đã chính_thức đưa ra án phạt dành cho cả liverpool và man_utd 
+4,cụ_thể  mỗi đội bóng phải nộp phạt 20000 euro 
+5,ngoài_ra  the_kop phải chịu phạt thêm 17000 euro vì để cổ_động_viên nhà đốt pháo sáng 
+6,trong khi đó  mu nộp thêm 18000 euro vì không đảm_bảo được an_ninh trận đấu 
+7,ngoài những án phạt nêu trên  liverpool còn phải chịu trách_nhiệm bồi_thường thiệt_hại tài sân trên sân old_trafford cho man_utd 

@@ -1,0 +1,5 @@
+idx, sentence
+0,công_an tỉnh quảng_nam vừa tạm giữ hai nghi can bán vàng giả gồm đặng_xuân_hoa_diễm  31 tuổi  và phạm_ngọc_tuấn  22 tuổi  
+1,theo điều_tra  tại các huyện tiên_phước  bắc trà_my  núi_thành và thành_phố tam_kỳ  diễm và tuấn đóng giả là vợ_chồng mới cưới đến nhiều tiệm vàng bán nữ_trang với lý_do túng_thiếu hoặc mang cầm_cố hứa_hẹn sẽ sớm chuộc lại những kỷ_vật này 
+2,từ ngày 9/4 đến 11/5  hai nghi can cùng phan_văn_hoàn  31 tuổi  đã thực_hiện trót_lọt 8 vụ mang bán hoặc cầm_cố vàng giả 
+3,tiền chiếm_đoạt ước_tính hàng trăm triệu đồng 

@@ -1,0 +1,13 @@
+idx, sentence
+0,vụ tai_nạn xảy ra vào sáng nay  16  trên đường bạch_đằng  phường 2  quận tân_bình  tphcm  
+1,thông_tin ban_đầu  vào khoảng 6 h30 sáng nay  ô_tô bốn chỗ bks 51f373  89 lưu_thông trên đường bạch_đằng hướng từ gò_vấp về sân_bay tân_sơn_nhất 
+2,khi vừa_qua khỏi vòng xoay ngã 5 gò_vấp khoảng 300 m  xe này lao sang làn đường ngược lại và đâm cực_mạnh vào hông xe taxi hãng vinasun 
+3,cú đâm mạnh khiến xe taxi quay ngang và bị xe taxi hãng đầm_sen chạy cùng chiều lao tới đâm vào 
+4,vụ tai_nạn khiến xe ô_tô bốn chỗ bị nát đầu  nổ bánh trước bên trái 
+5,taxi hãng vinasun cũng bị gãy rời bánh sau 
+6,rất may  không có thương_vong về người 
+7,“ khi xảy ra tai_nạn  trên xe tôi có 4 hành_khách 
+8,thấy chiếc ô_tô 4 chỗ lao đến  tôi cố bẻ_lái để né nên xe chỉ bị tông phần hông xe và bánh sau 
+9,nếu không xử_lý kịp thì hai phương_tiện sẽ xảy ra đối_đầu  lúc đó không biết hậu_quả thế_nào 
+10,hành_khách trên xe tôi và một người nước_ngoài trên ô_tô bốn chỗ đều thoát_nạn ”  tài_xế hãng vinasun kể 
+11,theo lý_giải của tài_xế ô_tô bốn chỗ  nguyên_nhân dẫn đến sự_cố là do né một thanh_niên đi xe_máy chạy cắt ngang đường_dẫn đến mất kiểm_soát gây ra tai_nạn 

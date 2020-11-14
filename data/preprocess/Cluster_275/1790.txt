@@ -1,0 +1,7 @@
+idx, sentence
+0,để khắc_phục tình_trạng chạy trường  chạy lớp  ngày 26  bộ_gdđt đã công_bố văn_bản yêu_cầu các sở gdđt chỉ_đạo các phòng gdđt  các trường tổ_chức tuyển_sinh đảm_bảo quyền được học_tập của học_sinh  công_khai  minh_bạch và thuận_lợi cho học_sinh và cha_mẹ học_sinh  bảo_đảm mục_tiêu phổ_cập giáo_dục của địa_phương  tuyên_truyền  giải_thích cho đội_ngũ cán_bộ quản_lí các trường  cha_mẹ học_sinh để hạn_chế chạy trường  chạy lớp 
+1,cùng với đó  nâng cao năng_lực quản_lý cho đội_ngũ cán_bộ  giáo_viên  tăng_cường cơ_sở_vật_chất để đảm_bảo sự đồng_đều về chất_lượng giáo_dục giữa các trường  các lớp 
+2,“ nghiêm_cấm việc tổ_chức các trường chuyên  lớp chọn ở cấp mầm_non  tiểu_học và thcs dưới bất_kì hình_thức nào 
+3,tăng_cường công_tác thanh_tra  kiểm_tra  xử_lí nghiêm_khắc các hiện_tượng tiêu_cực nhằm chạy trường  chạy lớp ”  bộ_gdđt nêu rõ 
+4,bộ cũng yêu_cầu các sở tham_mưu ubnd tỉnh_thành chỉ_đạo việc phân_tuyến  giao chỉ_tiêu tuyển_sinh cho phù_hợp với chỉ_tiêu trường_lớp  cơ_sở_vật_chất và mật_độ dân_cư của địa_phương mình quản_lý 
+5,đảm_bảo các điều_kiện nâng cao chất_lượng các trường  mở thêm trường  thêm lớp để giảm áp_lực tuyển_sinh ở những địa_bàn đông dân_cư 

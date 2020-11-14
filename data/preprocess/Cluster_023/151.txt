@@ -1,0 +1,12 @@
+idx, sentence
+0,theo cnn  căng_thẳng thương_mại giữa hai cường_quốc kinh_tế bắt_đầu sau khi bộ thương_mại mỹ hôm 175 phán_quyết tăng hơn 500  thuế đối_với thép dẹt cán nguội của trung_quốc  sản_phẩm được dùng để làm đồ gia_dụng  ô_tô và động_cơ_điện 
+1,“ trung_quốc rất không hài_lòng với quyết_định này 
+2,trung_quốc kêu_gọi mỹ thực_hiện nghiêm_chỉnh theo quy_định của tổ_chức thương_mại thế_giới  wto  và sửa_chữa sai_lầm càng sớm càng tốt ”  bộ thương_mại trung_quốc cho biết 
+3,căng_thẳng thương_mại mỹ  trung_quốc gia_tăng đáng_kể vào năm nay  đặc_biệt là trong lĩnh_vực thép 
+4,hồi tháng trước  ngành thép mỹ cáo_buộc hàng chục nhà_sản_xuất đại_lục phá vỡ các quy_tắc thương_mại và yêu_cầu ủy_ban thương_mại_quốc_tế mỹ điều_tra 
+5,trung_quốc sản_xuất 100 đến 150 triệu tấn thép mỗi năm  tương_đương một_nửa số thép toàn_cầu  nhiều hơn so với sản_lượng thép của cả mỹ  liên_minh_châu_âu  eu  và nhật_bản cộng lại 
+6,song khi nền kinh_tế nước này đi chậm lại  nhu_cầu thép trong nước giảm đi 
+7,bắc kinh_hiện bị_cáo_buộc bán phá_giá các kim_loại thừa cung của họ trên thị_trường khác  buộc đối_thủ phải đóng cửa_hàng chục nhà_máy và khiến hàng ngàn việc_làm biến mất 
+8,trung_quốc đã và đang biện_minh cho họ  nói rằng dư cung vốn là vấn_đề toàn_cầu và xuất_phát từ lượng cầu yếu 
+9,bắc kinh cho hay họ sẵn_sàng làm_việc để tiến đến giải_pháp và đã công_bố cắt_giảm 500000 việc_làm trong các nhà_máy thép nội_địa 
+10,ngoài mỹ  eu cũng áp_đặt mức thuế lên đến 13  đối_với hàng nhập_khẩu từ trung_quốc 

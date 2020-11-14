@@ -1,0 +1,10 @@
+idx, sentence
+0,theo thông_tin từ một_số tờ báo địa_phương  người_đẹp 27 tuổi đã bị một tòa_án ở thành_phố istanbul kết_án 14 tháng tù_treo hôm 315 vì cô đã chia_sẻ một bài thơ châm_biếm được đặt trong nền nhạc quốc_ca thổ nhĩ_kỳ để chỉ_trích và chế_nhạo tổng_thống erdogan vào năm 2014 
+1,theo đó  thẩm_phán cho biết merve_buyuksarac sẽ phải ngồi_tù thực_sự nếu còn tái xúc_phạm tổng_thống 
+2,emre_telci  luật_sư của merve_buyuksarac cho rằng  “ merve bị truy_tố là một điều vô_lý trong khi cô chỉ chia_sẻ những lời_lẽ không phải do cô phát_ngôn ” 
+3,ông phản_đối bản_án và tuyên_bố sẽ kháng_án lên tòa_án công_lý châu_âu 
+4,về phía hoa_hậu  cô nói rằng cô đã xóa bài thơ khỏi instagram sau khi nhận được lời khuyên từ bạn_bè 
+5,cô cảm_thấy bài thơ khá buồn_cười chứ không hề có ý_định xúc_phạm tổng_thống 
+6,merve buyuksarac là một trong số rất nhiều người dân thổ nhĩ kỳ bị điều_tra về tội xúc_phạm ông erdogan kể từ khi ông lên nắm quyền vào năm 2014 đến nay 
+7,nếu tội_danh được hình_thành  những người này có_thể bị kết_án lên đến 4 năm tù giam 
+8,các nhà hoạt_động nhân_quyền cho rằng đây là một bước lùi về tự_do ngôn_luận của nước này 

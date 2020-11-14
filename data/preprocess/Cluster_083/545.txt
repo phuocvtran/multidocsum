@@ -1,0 +1,19 @@
+idx, sentence
+0,thông_tin vụ_việc em lê_thị_t  sn 1998  trú xã đắk_la  huyện đăk_hà  bị khống_chế  hiếp_dâm trên địa_bàn xã  ngày 20/5  công_an huyện đắk_hà đã nhận được đơn trình_báo của t qua quá_trình điều_tra  đối_tượng trần_hữu_anh  1986  trú tại địa_bàn  đã thừa_nhận thực_hiện hành_vi này 
+1,trao_đổi với pv báo phụ_nữ tphcm về đối_tượng trần_hữu_anh  trưởng ca xã đắk_la  lê_đình_lâm cho biết  anh trên địa_bàn vốn là người tử_tế  chưa từng có tiền_án tiền_sự  vụ_việc xảy ra ngay sau trường thcs mạc đĩnh_chi 
+2, anh này ở xã là người bình_thường không phải là người chơi_bời  nghịch_ngợm gì 
+3,từ trước đến giờ  anh ta cũng chưa có tiền_án  tiền_sự gì hết  là công_dân có thân_nhân tốt 
+4,vụ_việc xảy ra gia_đình báo thẳng lên công_an huyện  
+5,về nguyên_nhân dẫn đến vụ_việc trên  ông lâm cho hay   gia_đình cô t này ở nhờ khu_tập_thể cũ của trường  cách xa khu dân_cư  cả gia_đình ở đó luôn 
+6,đối_tượng trần_hữu_anh này có bố làm bảo_vệ của trường_học đó 
+7,từ lâu đối_tượng cũng hay qua_lại chơi 
+8,thế nhưng  chẳng biết làm_sao lại để nảy_sinh_chuyện không mong_muốn đó  không biết nó nghĩ gì mà làm thế 
+9,chúng_tôi cũng không rõ 
+10,  ông lâm nói 
+11,chia_sẻ thêm về hoàn_cảnh đối_tượng này  ông lâm cho biết với gia_đình đối_tượng anh có điều_kiện  bố làm tự_do  bảo_vệ trường  mẹ cũng làm giáo_viên tại ngôi trường xảy ra vụ_việc luôn 
+12,còn hoàn_cảnh gia_đình của cô gái t  được biết gia_đình khá vất_vả hơn  bố_mẹ có 2 chị_em 
+13,sau vụ_việc xảy ra gia_đình đã rất hoang_mang 
+14,trước đó  khoảng 16 h ngày 17/5  em lê_thị_t bị một thanh_niên khống_chế  thực_hiện hành_vi giao_cấu trái_ý_muốn tại một khu_vực vắng người thuộc xã đắk_hà 
+15,vào_cuộc điều_tra  đội cảnh_sát hình sựcông an huyện đắk_hà đã phát_hiện trần_hữu_anh  sn 1986  trú thôn 1  xã đắk_la  huyện đắk_hà  có những đặc_điểm giống với trình_báo của nạn_nhân 
+16,ngay sau đó  công_an đã động_viên bị hại phối_hợp điều_tra 
+17,tại cơ_quan công_an  trần_hữu_anh đã thừa_nhận thực_hiện hành_vi hiếp_dâm với em t vào ngày 175 

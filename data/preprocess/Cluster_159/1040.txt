@@ -1,0 +1,6 @@
+idx, sentence
+0,cục_trưởng cục hàng_không vn lại xuân_thanh cho biết hiện cục đang tiến_hành lấy ý_kiến các bộ  ngành  tp hà_nội xây_dựng sân_bay nội_bài thứ 2  với diện_tích dự_kiến khoảng 720 ha  thuộc địa_phận 3 xã  phú_minh  phú_cường  mai_đình  huyện sóc_sơn  hà_nội 
+1,theo đó chi_phí cho việc giải_phóng mặt_bằng  đền_bù và xây khu tái_định_cư cho người dân khoảng 2 tỷ usd  các chi_phí xây_dựng hạng_mục chính của sân_bay khoảng 78000 tỷ đồng và được thực_hiện theo hình_thức xã_hội_hóa 
+2,lãnh_đạo cục hàng_không cho hay  hiện sân_bay nội bài có công_suất thiết_kế cho 25 triệu hành_khách / năm  nhưng với mức tăng_trưởng như hiện_nay thì một_vài năm nữa sân_bay nội_bài sẽ rơi vào tình_trạng quá_tải như sân_bay tân_sơn_nhất vì_vậy việc mở_rộng  nâng công_suất là cấp_bách 
+3,cùng với đó  lãnh_đạo cục hàng_không cho rằng  đây được coi như dự_án xây sân_bay long_thành thứ hai nên việc triển_khai sẽ khó_khăn hơn dự_án xây sân_bay long_thành 
+4,đồng_thời mật_độ dân_cư tại khu_vực này rất lớn nên việc giải_phóng mặt_bằng sẽ gặp nhiều khó_khăn 

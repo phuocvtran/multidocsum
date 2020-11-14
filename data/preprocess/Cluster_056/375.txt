@@ -1,0 +1,4 @@
+idx, sentence
+0,bộ ảnh này do tạp_chí marie_claire công_bố  được cho là những bức ảnh prewedding của cặp_đôi mới goo_hye_sun và ahn_jae_hyun 
+1,ngôi_sao của vườn sao băng đã cùng với chồng đến hòn đảo thiên_đường jeju để chụp 
+2,trước chuyến đi này  nhiều người đã lầm tưởng cả hai đi chụp ảnh cưới 

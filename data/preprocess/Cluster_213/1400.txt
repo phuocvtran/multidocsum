@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 31/5  tand tphcm đã tuyên_án đối_với 5 bị_cáo trong vụ_án “ lừa_đảo chiếm_đoạt tài_sản ” và “ vi_phạm_quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng ”  xảy ra tại cty_tnhh tư_vấn thiết_kế xây_dựng ktt  cty_ktt  và ngân_hàng nnptnt  chi_nhánh bình_chánh  agribank bình_chánh  
+1,cụ_thể  hđxx tuyên_phạt nguyễn_đức_trí  nguyên giám_đốc cty_ktt  mức án chung_thân  trương_xuân_quang  nguyên kế_toán_trưởng cty_ktt  20 năm tù về tội “ lừa_đảo chiếm_đoạt tài_sản ” 
+2,đồng_thời  buộc 2 bị_cáo bồi_thường cho agribank bình_chánh số tiền hơn 231 tỷ đồng  cả gốc và lãi  
+3,riêng các bị_cáo là cán_bộ agribank bình_chánh là nguyễn_văn_lợi  nguyên phó giám_đốc  trần_thị_hoàng_yến  nguyên phó phòng kế_hoạch kinh_doanh và nguyễn_thị_thanh_nga  nguyên cán_bộ tín_dụng có sai_phạm trong vụ_án này đã được tand tphcm xét_xử  tuyên_án trong vụ_án khác trước đó 
+4,theo đó  tổng_hợp hình_phạt của 2 phiên_tòa  bị_cáo lợi phải chấp_hành là 15 năm tù  yến và nga cùng 13 năm tù về tội “ vi_phạm_quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng ” 
+5,theo cáo_trạng  công_ty ktt  trụ_sở tại phường tân_thuận_đông  q 7  do trí và vợ thành_lập  làm dịch_vụ thương_mại  tư_vấn xây_dựng 
+6,trí thuê quang làm kế_toán_trưởng 
+7,lợi_dụng mối quan_hệ quen_biết với một lãnh_đạo agribank bình_chánh  trí và quang đã lập khống 2 bộ hồ_sơ về dự_án khu dân_cư tại q 7 và kinh_doanh vật_liệu xây_dựng để vay của agribank bình_chánh 106 tỷ đồng 

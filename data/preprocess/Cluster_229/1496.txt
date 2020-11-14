@@ -1,0 +1,20 @@
+idx, sentence
+0,trong một buổi họp_báo trước trận tuyển anh giao_hữu bồ_đào_nha  đội_trưởng “ tam_sư ” khẳng_định  mourinho là một trong những nhà cầm_quân tốt nhất thế_giới 
+1,“ mourinho ư 
+2,được làm_việc chung với một nhà cầm_quân tài_năng như ông ấy là may_mắn của cá_nhân tôi và các cầu_thủ ở manchester_united ”  r10 phát_biểu trên sport_mail 
+3,bên cạnh những lời nhận_xét “ có cánh ” dành cho nhà cầm_quân người bồ_đào_nha  rooney đặt nhiều niềm tin mourinho sẽ đủ sức vực dậy tinh_thần của “ quỷ đỏ ” và đưa đội bóng quay trở_lại nhịp chiến_thắng như thời phong_độ đỉnh_cao 
+4,không chỉ khen_ngợi “ người đặc_biệt ”  rooney còn dành nhiều lời nhận_xét tích_cực cho đàn_em  marcus_rashford 
+5,đội_trưởng “ tam_sư ” cho rằng  hlv roy_hodgson đã có quyết_định rất đúng_đắn khi triệu_tập tiền_đạo 18 tuổi lên tuyển ở euro 2016 
+6,“ cậu ấy có phong_độ rất tốt 
+7,cậu ấy đã chứng_minh cho mọi người thấy rằng cậu ấy có năng_lực và việc rashford được lên tuyển là việc không có gì để bàn_cãi 
+8,cậu ấy sẽ chơi tốt 
+9,cậu ấy đã ghi được bàn thắng trong trận giao_hữu gặp úc và ghi tên mình vào lịch_sử cầu_thủ trẻ nhất ghi_bàn trong trận ra_mắt của tuyển anh ”  rooney nói thêm 
+10,có_thể nói  rashford là yếu_tố sẽ mang đến nhiều điều bất_ngờ ở “ tam_sư ” trong mùa giải năm nay 
+11,ngoài_ra  đoàn quân của roy_hodgson còn nhiều tiền_đạo đáng chú_ý khác như harry_kane  jamie_vardy  … do_vậy  tuyển anh được kỳ_vọng sẽ có_thể đi sâu tại euro 2016 thay_vì bị loại ngay từ vòng bảng như ở các giải đấu trước 
+12,“ với lực_lượng hiện có  tôi tin rằng tuyển anh đủ sức chinh_phục_chức vô_địch euro 2016 
+13,tôi tự_hào khi được đeo chiếc băng đội_trưởng ở một đội bóng có quá nhiều cầu_thủ giỏi như vậy 
+14,dù phong_độ chưa thật_sự tốt từ khi trở_lại sau chấn_thương nhưng tôi tin mình có_thể quay trở_lại nhịp ghi_bàn ở euro 2016 ”  chân sút sinh năm 1985 khẳng_định chắc_nịch trước truyền_thông 
+15,quay lại tình_hình ghế nóng tại old_trafford  mourinho vừa bổ_nhiệm rui_faria lên làm  cánh_tay_phải  cho ông tại “ quỷ đỏ ” 
+16,do_vậy  nếu muốn giữ chân ryan_giggs  ban lãnh_đạo manchester_united phải tìm cho cựu cầu_thủ một vị_trí mới 
+17,nhiều khả_năng  giggs sẽ được đưa xuống làm_việc cùng nicky_butt ở học_việc đào_tạo cầu_thủ trẻ của chủ sân old_trafford 
+18,vì_thế  cựu cầu_thủ sinh năm 1973 gần như đã quyết_định kết_thúc mối duyên 29 năm với đội bóng thành manchester 

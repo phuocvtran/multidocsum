@@ -1,0 +1,6 @@
+idx, sentence
+0,rung chấn có_thể được cảm_nhận trên các tòa nhà cao_tầng ở thành_phố đài_bắc  nhưng hiện chưa thông_báo về con_số thương_vong hay thiệt_hại do trận động_đất này gây ra 
+1,cơ_quan khảo_sát địa_chất mỹ  usgs  ban_đầu cho biết  trận động_đất này mạnh 64 độ richter  với tâm chấn cách thành_phố đài_bắc  khoảng 110 km về phía đông_bắc 
+2,trong khi đó  theo cơ_quan khí_tượng_trung_ương đài_loan  trận động_đất mạnh tới 72 độ richter 
+3,các nhân_chứng cho biết có_thể cảm_nhận rung chấn của trận động_đất trên các tòa nhà ở đài_bắc và sân_bay quốc_tế ở đào_viên  phía nam đài_bắc 
+4,cơ_quan_chức_năng hiện chưa ghi_nhận bất_cứ thiệt_hại về người và tài_sản đáng_kể nào tại khu_vực này 

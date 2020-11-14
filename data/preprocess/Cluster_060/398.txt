@@ -1,0 +1,14 @@
+idx, sentence
+0,copa america_centenario năm nay có ý_nghĩa đặc_biệt  kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ 
+1,các đội bóng hàng_đầu châu_lục sẽ tranh tài trong các trận đấu diễn ra tại 10 thành_phố lớn nhất nước mỹ 
+2,copa america_centenario 2016 lần đầu_tiên giải đấu có sự tham_dự của 16 đội bóng  10 đội nam_mỹ và 6 đội thuộc khu_vực concacaf   với 4 bảng đấu  mỗi bảng sẽ lấy 2 đội nhất nhì lọt vào vòng tứ_kết 
+3,vtvcab đã chính_thức sở_hữu bản_quyền copa_america 2016 
+4,đơn_vị này sẽ tường_thuật trực_tiếp toàn_bộ 32 trận đấu  các chương_trình tổng_hợp trên hệ_thống_kênh thể_thao tv  bóng_đá tv  thể_thao tv_hd  bóng_đá tv_hd 
+5,đình_luật có_thể mất suất tại đt việt_nam vì án treo giò tại vleague_chiều 20/5  ban kỷ_luật liên_đoàn bóng_đá việt_nam  vff  đã họp xem_xét pha vào bóng của trương_đình_luật  bbình_dương  khiến tiền_đạo felix  quảng_nam  phải rời sân bằng cáng  trong trận đấu bù vòng 2 vleague 2016 cách đây hai ngày 
+6,pha bóng xảy ra ở phút 85 của trận đấu  khi đkvđ_bbình_dương đang bị chủ nhà quảng_nam dẫn với tỷ_số 21  felix có pha vào bóng từ phía sau  đình_luật_nhảy lên rồi sau đó có động_tác giẫm cả hai chân vào người cầu_thủ đối_phương 
+7,với án phạt này  đình_luật có khả_năng mất suất tại đt việt_nam 
+8,trưởng_ban kỷ_luật vff nguyễn_hải_hường cho biết  “ trong một_số trường_hợp  cầu_thủ vi_phạm về đạo_đức như bán_độ  hành_hung trọng_tài  thì ban kỷ_luật có quyền ra quyết_định treo_giò dài_hạn hoặc vĩnh_viễn  với phạm_vi tới cả đtqg 
+9,tuy_nhiên trường_hợp của đình_luật chưa đến mức như_vậy ” 
+10,gundogan đang trên đường đến man_city_ilkay_gundogan đang điều_trị chấn_thương trật_khớp bánh_chè 
+11,tiền_vệ thuộc biên_chế của dortmund không_thể tham_dự vck_euro 2016 tổ_chức trên đất pháp vào mùa hè năm nay 
+12,mặc_dù  ilkay_gundogan dính chấn_thương và chưa hẹn ngày trở_lại  tuy_nhiên  theo daily_mail  hlv pep_guardiola vẫn quyết_tâm đưa ilkay_gundogan gia_nhập man_city ở kỳ chuyển_nhượng mùa_hè 2016 

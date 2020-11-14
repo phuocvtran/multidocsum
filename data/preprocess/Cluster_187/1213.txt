@@ -1,0 +1,3 @@
+idx, sentence
+0,trong khuôn_khổ chuyến thăm từ ngày 305 đến 26  các sĩ_quan và chỉ_huy tàu hmas_anzac sẽ gặp xã_giao bộ_tư_lệnh quân_khu 7  bộ_tư_lệnh hải_quân  giao_lưu thể_thao bóng_chuyền với trường_trung_cấp kỹ_thuật hải_quân tại tp hcm 
+1,đây là lần thứ 10 tàu hải_quân hoàng_gia úc thăm tp hcm và là lần thứ 17 thăm việt_nam 

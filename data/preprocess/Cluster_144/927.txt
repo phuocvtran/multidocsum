@@ -1,0 +1,11 @@
+idx, sentence
+0,trên vnexpress và zing  vn  ông lê_văn_tiến  56 tuổi  xóm 21  xã nghi_trung  huyện nghi_lộc  nghệ_an  phản_ánh  mái nhà của ông bị tốc và hư_hỏng là do một chuyến bay hạ_cánh xuống sân_bay quốc_tế vinh gây ra 
+1,trao_đổi trên vnexpress  ông tiến cho biết  vào 13 h ngày 27/5  khi cả gia_đình ông đang ngủ trưa thì nghe tiếng máy_bay chuẩn_bị hạ_cánh xuống sân_bay như thường_lệ 
+2,ngay khi đó  con dâu ông hét toáng lên vì ngói trên mái nhà rơi 
+3,cũng theo ông tiến  thời_điểm xảy ra sự_việc trời nắng to  không có giông lốc vì_vậy ông cho rằng nguyên_nhân là do chiếc máy_bay hạ_cánh xuống sân_bay vinh cách đó 17 km gây nên 
+4,cùng ngày  ông tiến đã trực_tiếp đến cảng_vụ hàng_không sân_bay vinh và điện_báo ban_công_an xã nghi_trung để giải_quyết sự_việc 
+5,sau khi nhận được phản_ánh  đại_diện cảng_vụ hàng_không miền bắc  an_ninh sân_bay quốc_tế vinh cùng ban_công_an xã đã có_mặt tại hiện_trường để kiểm_tra 
+6,theo ghi_nhận  có gần 200 viên ngói bị tốc  rơi xuống trần nhà bể nát 
+7,trao_đổi trên zing  vn  ông võ_văn_pháp  phó_trưởng đại_diện cảng_vụ hàng_không miền bắc tại nghệ_an cho biết  cảng_vụ đang lập biên_bản để báo_cáo sự_việc lên cấp trên để xem phương_án giải_quyết 
+8,do chưa xác_định được chuyến bay của hãng nào nên cần thời_gian kiểm_tra lại bên bộ_phận đài không lưu và hệ_thống điều_hành đường_bay 
+9,trước đó  một người hàng_xóm của ông tiến cũng từng bị thủng mái  nguyên_nhân cũng tình_nghi do máy_bay hạ_cánh gây ra 

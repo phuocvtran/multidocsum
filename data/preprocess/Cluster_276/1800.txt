@@ -1,0 +1,23 @@
+idx, sentence
+0,theo forbes  hiện theranos  công_ty do cô thành_lập  chưa đưa ra bất_cứ bình_luận nào 
+1,theo ước_tính của forbes  tài_sản của holmes hoàn_toàn dựa trên 50  cổ_phần của công_ty theranos mà cô nắm giữ  theranos thành_lập năm 2003 mới_đầu được kì_vọng sẽ mở ra một cuộc cách_mạng trong xét_nghiệm máu của nước mỹ và thế_giới với sự đơn_giản và nhanh_chóng của phương_pháp mà holmes đã nghiên_cứu ra 
+2,theranos gần như không có hoạt_động giao_dịch trên thị_trường_chứng_khoán 
+3,vào năm 2014 có một_số quỹ đầu_tư đã mua lại cổ_phần của theranos và giá_trị công_ty này khi đó ước đạt 9 tỷ đô_la mỹ 
+4,cũng kể từ đó  theranos liên_tục bị các cáo_buộc rằng kết_quả xét_nghiệm từ các phương_pháp của họ là không chính_xác và được sử_dụng đi sử_dụng lại cho các trường_hợp khác nhau 
+5,điều đó  cộng với những thông_tin mới cho thấy doanh_thu của theranos là chưa đến 100 triệu đô la mỹ một năm 
+6,forbes nhận_định rằng theranos đã được đánh_giá cao hơn giá_trị thực rất nhiều 
+7,forbes đã có những buổi thảo_luận với một loạt cá_nhân và các tổ_chức có liên_quan trong lĩnh_vực này  và đưa ra ước_tính này giá_trị thực của theranos chỉ là khoàng 800 triệu đô_la  thấp hơn rất nhiều so với ước_tính 9 tỷ đô_la trước đó 
+8,còn theo vc_experts  một quỹ đầu_tư mạo_hiểm  tài_sản của theranos hiện chỉ còn ở bất_động_sản và những bản_quyền phát_minh mà công_ty đang sở hữ  trên thực_tế giá_trị của chúng cao nhất chỉ vào khoảng 724 triệu đô_la 
+9,tại một định_giá thấp như vậy  số cổ_phiếu mà holmes đang nắm giữ dường_như đã trở_thành vô_giá_trị vì đó là những cổ_phiếu phổ_thông  còn các nhà_đầu_tư thì lại đang nắm giữ các cổ_phiếu ưu_đãi 
+10,điều đó có nghĩa là nếu bây_giờ theranos được bán lại từ_từ thì những nhà đầu_tư của họ mới là những người nhận tiền trước cho đến khi hết 50  đầu tiền trước khi holmes nhận được bất_cứ xu nào 
+11,hiện_tại  để có_thể nâng định_giá của mình lên hơn 800 triệu đô_la  holmes có_thể kêu_gọi các nhà_đầu_tư của mình đóng_góp thêm 
+12,nhưng chúng_ta không nên kì_vọng quá nhiều vào theranos do các lí_do   có quá nhiều điều mập_mờ  đầu_tiên là về số tài_sản 9 tỷ đô_la mà theranos công_bố  cơ_cấu định_giá vẫn được theranos giữ bí_mật 
+13,theranos hứa_hẹn rằng chỉ với một_vài giọt máu  bạn đã có_thể xét_nghiệm và cho kết_quả chính_xác  điều này sẽ thay_thế xét_nghiệm truyền_thống 
+14,tuy_nhiên  hiện_tại phương_pháp này vẫn chưa được chứng_minh hoàn_toàn 
+15, theranos không trả được các kết_quả xét_nghiệm và chứng_minh được về mặt khoa_học_cơ_chế của phương_pháp họ sử_dụng 
+16, cuối_cùng  thị_trường mà theranos nhắm đến vấp phải sự cạnh_tranh vô_cùng lớn 
+17,có_thể kể đến như phòng_thí_nghiệm corp với giá_trị vốn hóa khoảng 13 tỷ đô  quest_diagnostics_dgx với giá_trị khoảng 11 tỷ đô 
+18,theranos muốn cạnh_tranh thì họ phải chứng_minh phương_pháp của họ là chính_xác và nhanh_chóng chỉ với mẫu xét_nghiệm là vài giọt máu 
+19, cố_gắng hạ giá_thành của các phương_pháp xét_nghiệm là một việc_làm rất khó_khăn   robert_nelsen của arch_ventures  nhà_tư_bản mạo_hiểm về lĩnh_vực chăm_sóc sức_khỏe hàng_đầu của xếp_hạng trên forbes_midas nói 
+20,thêm vào đó  lợi_nhuận ban_đầu sẽ là rất thấp  đó là thách_thức cho các công_ty mới thành_lập 
+21,robert_kocher  một đối_tác y_tế tập_trung tại công_ty đầu_tư mạo_hiểm_venrock cho rằng nếu holmes kết_hợp với các công_ty lớn như corp hay dgx để cùng hợp_tác  phát_triển các phương_pháp của cô thì sẽ hữu_ích và thành_công hơn rất nhiều so với việc cô tự đứng ra đối_đầu với họ 

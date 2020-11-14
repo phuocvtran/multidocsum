@@ -1,0 +1,11 @@
+idx, sentence
+0,chủ_tịch hội_nghề cá việt_nam phạm_việt_thắng vừa ký công_văn gửi văn_phòng chính_phủ  bộ_tài_nguyên_và_môi_trường  bộ_nông_nghiệp_và_phát_triển_nông_thôn  bộ_khoa_học_và_công_nghệ  bộ_tài_chính đề_nghị đẩy nhanh tiến_độ xác_định nguyên_nhân cá chết hàng_loạt ở 4 tỉnh miền trung 
+1,văn_bản đề_nghị của hội nghề cá nêu rõ  nếu càng kéo_dài thời_gian việc truy_tìm chính_xác nguyên_nhân cá chết sẽ càng khó_khăn  vì khi đó  chất_độc trong trầm_tích ở đáy biển càng bị pha loãng dần  các mẫu cá chết ở thời_điểm đầu tháng 4/2016 đã được lưu tại các phòng kiểm_nghiệm hết hạn lưu mẫu sẽ được tiêu_hủy 
+2,theo đánh_giá của hội nghề cá việt_nam  việc xác_định chính_xác nguyên_nhân cá chết là hết_sức cần_thiết  không_những trấn_an dư_luận  làm cho người tiêu_dùng an_tâm hơn mà_còn là sự tuân_thủ quy_định tại điều 5  hiệp_định sps của wto 
+3,đại_diện hội nghề cá cho biết  hiện các gia_đình ngư_dân bị thiệt_hại do cá chết đã được hỗ_trợ mỗi người 15 kg gạo / tháng  trong 15 tháng  và các chính_sách giãn_nợ  giảm lãi_suất cho vay đã được áp_dụng 
+4,tuy_nhiên  đến nay dù đã 15 tháng nhưng chưa xác_định được nguyên_nhân cá chết  người dân ven biển từ hà_tĩnh đến thừa_thiên  huế chưa_thể đi đánh_cá ven biển  các hộ nuôi cá  nuôi tôm sử_dụng nước_biển chưa_thể nuôi 
+5,trước tình_hình đó  hội nghề cá đề_nghị chính_phủ và các bộ ngành liên_quan tiếp_tục hỗ_trợ mỗi thành_viên của gia_đình bị thiệt_hại do cá chết đến khi xác_định được nguyên_nhân và sản_xuất được phục_hồi 
+6,quan_trọng hơn  nếu xác_định nguyên_nhân cá chết do con_người gây ra thì thủ_phạm ngoài việc phải chịu những hình_phạt do phát luật quy_định  còn phải chi_trả toàn_bộ chi_phí hỗ_trợ cho ngư_dân mà chính_phủ đã ứng trước 
+7,đồng_thời  các tổ_chức  cá_nhân gây ra việc này phải chi_trả những thiệt_hại về tài_nguyên sinh_vật biển bị hủy_hoại và chi_phí phục_hồi môi_trường_sinh_thái của vùng_biển chịu tác_động 
+8,hiện_tượng cá chết hàng_loạt bắt_đầu xuất_hiện ở hà_tĩnh từ 6/4  sau đó lan ra các tỉnh quảng_bình  quảng_trị  thừa_thiên_huế và chấm_dứt vào đầu tháng 5 
+9,dù nhiều đoàn kiểm_tra vào_cuộc  song nguyên_nhân cuối_cùng vẫn chưa xác_định 

@@ -1,0 +1,5 @@
+idx, sentence
+0,sáng nay  2/6  phòng csđttp về môi_trường  ca tp hải_phòng  cho biết  chiều mồng 1/6  phòng này đã phối_hợp với công_an xã bắc_hưng  ban chỉ_đạo vệ_sinh attp huyện tiên_lãng  kiểm_tra đột_xuất cơ_sở chế_biến thực_phẩm của ông nguyễn_trọng_dư   sn 1983  ở xã bắc_hưng  huyện tiên_lãng  
+1,qua quá_trình kiểm_tra  lực_lượng chức_năng đã phát_hiện gần 15 tấn lòng lợn đựng trong 10 thùng xốp  đang trong quá_trình phân hủy  bốc mùi hôi_thối 
+2,tại thời_điểm lực_lượng chức_năng kiểm_tra  ông dư không chứng_minh được nguồn_gốc xuất_xứ số lòng lợn trên và khai nhận đã mua từ các cơ_sở giết_mổ sau đó tập_kết về xưởng sơ_chế  rồi bán ra thị_trường 
+3,ông dư_thừa_nhận đã thu_mua số lòng lợn này từ nhiều ngày trước  sơ_chế qua bằng muối  phèn_chua và để trong tủ cấp đông chuẩn_bị giao cho các quán ăn  nhà_hàng 

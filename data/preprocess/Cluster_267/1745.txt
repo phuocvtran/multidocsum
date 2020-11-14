@@ -1,0 +1,12 @@
+idx, sentence
+0,hội_thảo được tổ_chức nhân kỷ_niệm 30 năm ngày mất của cố_thủ_tướng olof_palme và 47 năm quan_hệ ngoại_giao giữa hai nước việt_nam  thụy_điển 
+1,phát_biểu tại hội_thảo  phó_giáo_sư  tiến_sĩ nguyễn_tất_giáp  phó_giám_đốc học_viện chính_trị_quốc_gia hồ_chí_minh khẳng_định  thụy_điển là nước phương tây đầu_tiên thiết_lập mối quan_hệ ngoại_giao với việt_nam 
+2,sau gần năm thập_kỷ  sự hợp_tác giữa việt_nam và thụy_điển ngày_càng mở_rộng trên mọi lĩnh_vực bao_gồm kinh_tế  chính_trị  an_ninh  giáo_dục và văn_hóa … ông pierre_schori  đặc_phái_viên cao_cấp của thủ_tướng thụy_điển_stefan_löfven  nguyên cố_vấn của cố_thủ_tướng olof_palme nhấn_mạnh  cố_thủ_tướng olof_palme chính là người đã khơi_nguồn cho mối quan_hệ ngoại_giao với việt_nam  đặt nền_tảng vững_chắc cho một mối quan_hệ độc_nhất và vô_cùng đặc_sắc giữa hai quốc_gia 
+3,chia_sẻ những kỷ_niệm của mình về cố_thủ_tướng palme  bà nguyễn_thị_bình  nguyên phó chủ_tịch nước  chủ_tịch quỹ_hòa_bình và phát_triển việt_nam cho_biết  bà đã được gặp cố_thủ_tướng palme và trao_đổi với ông nhiều lần 
+4,“ đầu năm 1972  ông olof_palme  khi đó là chủ_tịch của đảng xã_hội dân_chủ thụy_điển  đã mời tôi từ cuộc đàm_phán 4 bên về việt_nam ở paris sang stockhom để phát_biểu về tình_hình chiến_tranh việt_nam 
+5,tôi là đại_biểu nước_ngoài duy_nhất tại đại_hội 
+6,sau đó  có một cuộc biểu_tình của nhân_dân phản_đối mỹ leo_thang chiến_tranh  ông đã cùng với tôi  đại_sứ của việt_nam_dân_chủ_cộng_hòa và một_số bạn_bè quốc_tế tham_gia cuộc biểu_tình ”  nguyên phó chủ_tịch nước nguyễn_thị_bình nhớ lại 
+7,không có vinh_dự được gặp thủ_tướng olof_palme_song với nguyên phó_thủ_tướng vũ_khoan  sự giúp_đỡ của thụy_điển không chỉ có “ giá_trị cứng ” mà_còn chứa_đựng những “ giá_trị mềm ” không kém phần quan_trọng ” 
+8,nguyên phó_thủ_tướng vũ_khoan chia_sẻ  “ những năm 80 thế_kỷ trước  tôi được giao nhiệm_vụ nghiên_cứu phương_án đổi_mới công_tác tổ_chức của bộ ngoại_giao 
+9,loay_hoay tìm_kiếm kinh_nghiệm tiên_tiến của thế_giới về điều_hành  quản_lý  trong đầu tôi bỗng lóe lên ý_nghĩ lên nhà_máy giấy bãi bằng  công_trình nhận được sự hỗ_trợ về tài_chính và công_nghệ của chính_phủ thụy_điểnpv  để học_hỏi 
+10,quả_nhiên ở đó tôi thu_lượm được rất nhiều bài_học quý_báu  thiết_thực  giúp_ích cho công_việc của mình ” 

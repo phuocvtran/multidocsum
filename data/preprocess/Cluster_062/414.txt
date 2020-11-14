@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 225  incheon_united sẽ tiếp_đón gwangju_fc tại vòng 11 giải kleague_classic 
+1,cũng đúng ngày này  ngày_hội việt_nam tại hàn_quốc do nhà tài_trợ chính ngân_hàng shinhan tổ_chức với nhiều hoạt_động sẽ diễn ra tại svđ bóng_đá incheon 
+2,đông_đảo cộng_đồng người việt_nam ở hàn_quốc sẽ có_mặt tại sân vận_động để tham_dự các hoạt_động của ngày_hội  dự_kiến kéo_dài từ lúc 14 h00 đến 18 h00  giờ hàn_quốc  
+3,với tư_cách là gương_mặt đại_diện độc_quyền cho ngân_hàng shinhan  tiền_vệ lương_xuân_trường của clb incheon_united sẽ đóng vai_trò là nhân_vật đặc_biệt trong ngày hội 
+4,dự_kiến hôm đó  xuân_trường sẽ chính_thức có màn ra_mắt incheon_united tại giải kleague_classic 
+5,nếu không có gì thay_đổi  hlv kim_dohoon sẽ tung xuân_trường vào sân ở hiệp 2 cuộc đối_đầu với gwangju_fc 
+6,nhưng nếu xuân_trường có màn thể_hiện tốt trên sân tập  tuyển_thủ quốc_gia việt_nam có_thể ra sân đá chính ngay từ đầu 

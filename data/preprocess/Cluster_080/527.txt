@@ -1,0 +1,6 @@
+idx, sentence
+0,hãng tin yonhap dẫn lời người_phát_ngôn bộ_quốc_phòng hàn_quốc moon_sanggyun cho biết  “ chúng_tôi bày_tỏ sự tiếc_nuối rằng triều_tiên đã đề_xuất đối_thoại về quân_sự nhưng không đề_cập tới vấn_đề hạt_nhân của nước này 
+1,chúng_tôi  hàn_quốc  duy_trì lập_trường không thay_đổi rằng phi_hạt_nhân hóa nên là ưu_tiên hàng_đầu trong các cuộc đối_thoại với triều_tiên ” 
+2,tuyên_bố trên của hàn_quốc được đưa ra sau khi triều tiên_đề_xuất tổ_chức một cuộc tiếp_xúc cấp chuyên_viên với hàn_quốc vào đầu tháng 6 tới để chuẩn_bị cho cuộc hội_đàm quân_sự giữa hai nước sau đó 
+3,trong khi triều_tiên tỏ ý_muốn nối lại các vòng đàm_phán thì hàn_quốc lại nêu điều_kiện yêu_cầu triều_tiên phải chấm_dứt tham_vọng hạt_nhân đang theo_đuổi 
+4,trước đó hôm 20/5  bình nhưỡng hối_thúc seoul chấp_thuận lời đề_nghị tổ_chức hội_đàm quân_sự liên_triều và kêu_gọi hai nước cùng hợp_tác trong việc thực_thi các biện_pháp trên thực_tế để tiến tới quá_trình thống_nhất hai miền  cũng như làm giảm căng_thẳng trên bán_đảo triều_tiên 

@@ -1,0 +1,10 @@
+idx, sentence
+0,vào khoảng 14 h30 ngày 16 một vụ hỏa_hoạn đã xảy ra tại nhà_hàng trúc_lâm_trai  phố lê_ngọc_hân  quận_hai_bà_trưng  hà_nội  
+1,ngọn lửa bốc ra từ tầng 4 và cứ thế thiêu rụi hết đồ_đạc của căn phòng này 
+2,một_số nhân_chứng tại hiện_trường cho biết  vào thời_điểm trên  họ bỗng_dưng thấy có khói và lửa bốc lên ngùn_ngụt từ tầng 4 của nhà_hàng này 
+3,nhiều người trong nhà_hàng đã cố_gắng dùng bình cứu_hỏa mini để chữa cháy nhưng ngọn lửa quá lớn không_thể khống_chế được 
+4,khói đen  mùi khét kèm theo ngọn lửa ngày_càng lan nhanh 
+5,nhiều nhân_viên của nhà_hàng tỏ ra khá hoảng_loạn đã phải tìm cách để thoát khỏi căn nhà đồng_thời báo tin cho lực_lượng chữa cháy 
+6,ngay sau khi nhận được tin báo  lực_lượng cảnh_sát phòng cháy chữa cháy số 1 đã huy_động 4 xe cứu_hỏa  3 xe chữa_cháy và 1 xe chở nước  để dập_tắt đám cháy 
+7,cho đến khoảng 15 h cùng ngày đám cháy cơ_bản được khống_chế 
+8,vụ hỏa_hoạn không có thiệt_hại về người nhưng toàn_bộ tầng 4 của nhà_hàng nói trên đã bị thiêu rụi hoàn_toàn 

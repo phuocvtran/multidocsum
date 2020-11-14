@@ -1,0 +1,2 @@
+idx, sentence
+0,theo đó  đêm 21/5  trên quốc_lộ 1 thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tỉnh bắc_giang  lực_lượng csgt tỉnh bắc_giang đã phát_hiện chiếc xe_tải mang biển kiểm_soát 12c  04429 do nguyễn_quang_huy điều_khiển chở hơn 550 kg ngà_voi được giấu kín trong 17 bao_tải 

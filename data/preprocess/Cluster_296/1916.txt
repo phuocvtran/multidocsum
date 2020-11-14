@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 2/6  ubnd tp hải_phòng cho biết  đã yêu_cầu sở xây_dựng kiểm_điểm  xem_xét lại việc ông đỗ_trọng_đạt  giám_đốc sở đã ký quyết_định bổ_nhiệm cho con_trai giữ chức phó trưởng_phòng thuộc sở không đúng quy_định 
+1,trước đó  ngày 12/11/2015  ông đạt đã ký quyết_định tiếp_nhận và bổ_nhiệm cho con_trai mình là đỗ_trọng_thành đang là công_chức của sở tài_chính về giữ chức phó trưởng_phòng quản_lý hoạt_động xây_dựng của sở xây_dựng 
+2,quyết_định này đã gây ra một làn_sóng bức_xúc đối_với cán_bộ công_chức sở 
+3,sau khi nhận được phản_ánh  ngày 1/4/2016 ubnd thành_phố đã ra văn_bản yêu_cầu sở nội_vụ xác_minh  làm rõ sự_việc 
+4,ngày 29/4  sở nội_vụ hải_phòng đã có kết_luận chính_thức về việc ông đạt ra quyết_định đưa con_trai mình về làm phó phòng quản_lý hoạt_động xây_dựng thuộc sở xây_dựng 
+5,theo đó  ông đỗ_trọng_thành không đủ tiêu_chuẩn  điều_kiện được bổ_nhiệm vì chưa có trình_độ trung_cấp lý_luận chính_trị theo quy_định 
+6,trong kết_luận sở nội_vụ nêu rõ  ông thành được bổ_nhiệm là sai quy_trình vì việc bổ_nhiệm này chỉ được lấy ý_kiến của ban thường_vụ và lãnh_đạo sở  trong khi theo quy_định phải lấy ý_kiến của đảng_ủy_sở xây_dựng 

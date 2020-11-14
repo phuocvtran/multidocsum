@@ -1,0 +1,8 @@
+idx, sentence
+0,theo afp  ngày 27/5  minh_pham  đối_tượng gốc việt là thành_viên của alqaeda  làm_việc cho mạng_lưới khủng_bố này tại yemen và âm_mưu tiến_hành tấn_công liều chết nhằm vào sân_bay heathrow ở thủ_đô london của anh  đã bị kết_án 40 năm tù giam tại mỹ 
+1,minh_pham  33 tuổi  bị kết_án tại một tòa_án ở manhattan vào thời_điểm vài tháng sau khi thừa_nhận các cáo_buộc phạm_tội khủng_bố 
+2,tên này chủ_yếu sống ở anh và tới yemen vào tháng 12/2010 để được nhóm alqaeda tại bán_đảo arab  aqap  huấn_luyện quân_sự 
+3,tháng 7/2011  y trở_lại anh sau khi bày_tỏ mong_muốn tiến_hành một cuộc tấn_công liều chết 
+4,aqap đã chỉ_thị minh_pham tấn_công dân thường bay đến sân_bay heathrow từ mỹ hoặc israel 
+5,minh_pham bị dẫn_độ tới mỹ vào tháng 2/2014 và hồi tháng 1 năm nay  y thừa_nhận các tội cung_cấp hỗ_trợ về vật_chất cho aqap  được nhóm này huấn_luyện quân_sự và sử_dụng súng_máy 
+6,theo các công_tố_viên  anwar_alawlaki  một thủ_lĩnh aqap gốc mỹ bị tiêu_diệt trong cuộc tấn_công bằng máy_bay không người lái của mỹ hồi năm 2011  đã hướng_dẫn minh_pham chế_tạo một quả bom  được y giấu trong ba_lô hòng thực_hiện tấn_công sân_bay ở london 

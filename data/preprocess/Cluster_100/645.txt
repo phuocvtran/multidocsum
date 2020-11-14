@@ -1,0 +1,8 @@
+idx, sentence
+0,chiều 9/8  ông lê_thành_huấn  phó giám_đốc sở gtvt cà_mau ký báo_cáo số 1179  gửi ubnd tỉnh để thông_tin về vụ sập cầu_ô_rô ở xã đất_mũi  huyện ngọc_hiển 
+1,theo báo_cáo  cầu_ô_rô nằm trong dự_án đường ôtô đến trung_tâm đất_mũi 
+2,do doanh_nghiệp tư_nhân sử_thành_phú thi_công 
+3,cầu gồm 5 nhịp  dài trên 84 m  sập vào rạng sáng 5/8 
+4,theo đánh_giá sơ_bộ  nguyên_nhân xảy ra sự_cố sập cầu là do mố a cầu_ô_rô chỉ cách mố b cầu cái_dày  cũng thuộc dự_án này  khoảng hơn 50 m  đường đầu cầu đi trên bãi bồi giữa hai tuyến sông có địa_chất rất yếu 
+5,cầu bắc qua sông ô_rô chỉ cách ngã ba_đình khoảng 150 m  do sông sâu  nước chảy mạnh nên đường đầu cầu có nguy_cơ mất ổn_định cao 
+6, với chiều cao đắp khá lớn  khi đường đầu cầu bị sạt_lở với khối_lượng lớn  đất đẩy ra phía sông làm mất ổn_định và gãy cọc  kéo_theo sập 2 nhịp cầu   báo_cáo 1179 nêu 

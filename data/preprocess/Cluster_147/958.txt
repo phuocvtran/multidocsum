@@ -1,0 +1,7 @@
+idx, sentence
+0,ngày 285  công_an qtân_bình  tphcm  đang truy_xét hai tên cướp gây ra vụ cướp táo_tợn ở khu_vực chung_cư phúc_yên  p 15  qtân_bình  tphcm  làm một người nước_ngoài bị_thương phải nhập_viện cấp_cứu 
+1,theo thông_tin ban_đầu  tối 275  trong lúc chị trần_thị_thu_trang  37 tuổi  vừa bước xuống ô_tô để đi vào chung_cư thì bị hai tên cướp đeo khẩu_trang  mặc áo_mưa đi xe_máy áp sát giật chiếc bóp 
+2,thấy vậy  anh rachid  34 tuổi  quốc_tịch ma_rốc   chồng chị trang  truy_đuổi thì bị một trong hai thanh_niên đi xe_máy dùng vật nhọn đâm ở ngực và trán 
+3,thấy nhiều người dân chạy ra hỗ_trợ nên hai tên cướp lên xe tẩu_thoát 
+4,sau khi hai thanh_niên bỏ chạy thì chị trang tìm thấy chiếc ví của mình ở gần đó nhưng điện_thoại và một_ít tiền của chồng thì không thấy đâu 
+5,anh rachid bị_thương nhanh_chóng được người_nhà đưa đi bệnh_viện chợ_rẫy cấp_cứu 

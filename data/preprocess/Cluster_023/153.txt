@@ -1,0 +1,4 @@
+idx, sentence
+0,mức thuế 522  được áp_dụng cho thép tấm cán nguội  dùng trong sản_xuất ô_tô  thùng chứa hàng và xây_dựng 
+1,các nhà_sản_xuất thép mỹ và châu_âu cho rằng  trung_quốc bóp_méo thị_trường toàn_cầu  bán_tháo lượng thép tồn_kho ra nước_ngoài 
+2,các nhà_sản_xuất thép lớn của mỹ sẽ nộp đơn lên ủy_ban thương_mại quốc_tế đề_nghị cấm hoàn_toàn việc nhập_khẩu thép trung_quốc 

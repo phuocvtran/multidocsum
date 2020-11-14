@@ -1,0 +1,16 @@
+idx, sentence
+0,để nói về tài_năng của nhà làm phim gạo_cội ken_loach khi ông từng có đến 16 phim được trình_chiếu tại cannes kể từ thập_niên 1970 có_vẻ dư_thừa 
+1,năm nay  ông mang tới cannes bộ phim nữa tên i  daniel_blake 
+2,phim là một bức tranh theo chủ_nghĩa hiện_thực  lấy câu_chuyện về nỗ_lực sống của một người thợ_mộc bị tàn_phế và một bà mẹ đơn thân từ tiền trợ_cấp chính_phủ 
+3,với tầng nội_dung sâu_sắc mà bộ phim thể_hiện  i  daniel_blake đã mang về cho đại_diện người anh giải cành cọ vàng thứ hai trong sự_nghiệp kể từ sau tác_phẩm the_wind_that_shakes_the barley  2006  
+4,bất_ngờ nhất tại lễ trao giải năm nay lại ở hạng_mục quan_trọng thứ 2 khi tác_phẩm bị đánh_giá là “ thảm_họa ” của danh_sách tranh các hạng_mục chính  only the end of the world của đạo_diễn trẻ tuổi người canada_xavier_dolan lại chiến_thắng giải grand_prix  giải_thưởng lớn  
+5,dù sở_hữu_dàn sao hạng a nhưng bộ phim của xavier_dolan lại bị chê tơi_tả bởi một kịch_bản lỏng_lẻo và diễn_xuất hời_hợt của các diễn_viên 
+6,nhiều cây_bút đã thẳng_thắn cho rằng đây là nỗi thất_vọng lớn nhất tại cannes năm nay 
+7,giải_thưởng đạo_diễn xuất_sắc của cannes lần thứ 69 được chia cho 2 nhà làm phim là olivier_assayas với tác_phẩm personal_shopper có sự góp_mặt của ngôi_sao chạng_vạng kristen_stewart và cristian_mungui với bộ phim graduation 
+8,ngoài_ra  giải kịch_bản hay nhất thuộc về phim của đại diễn người iran_asghar_farhadi cho phim the_saleman và giải do ban giám_khảo bình_chọn thuộc về bộ phim american_honey của nữ đạo_diễn người anh andrea_arnold 
+9,năm nay  tại hạng_mục nữ_diễn_viên chính xuất_sắc nhất  ngôi_sao kỳ_cựu của điện_ảnh philippines đã vượt qua các tên_tuổi lớn như isabelle_huppert  kristen_stewart và ruth_negga để đem về danh_hiệu quý_giá này với bộ phim ma_rosa 
+10,giải_thưởng nam diễn_viên chính xuất_sắc nhất thuộc về shahab_hosseini của phim the_saleman 
+11,ngoài các hạng_mục chính  hạng_mục khá được ý chú những năm gần đây là un_certain_regard  nhãn_quan độc_đáo  cũng đã có kết_quả 
+12,đây là giải_thưởng bên lề dành cho những tác_phẩm có cái nhìn mới_mẻ và những thử_nghiệm sáng_tạo trong điện_ảnh 
+13,theo đó  nhà làm phim người phần lan juho_kuosmanen đã giành giải cannes đầu_tiên trong sự_nghiệp ở ngay bộ phim đầu_tay mang tên the happiest day in the life of_olli_mäki  tạm dịch  ngày hạnh_phúc nhất của olli_mäki  với giải_thưởng quan_trọng nhất của hạng_mục 
+14,lấy cảm_hứng từ câu_chuyện có thật của olli_mäki  một võ_sĩ quyền_anh người phần_lan nổi_tiếng châu_âu vào những năm 1960  đạo_diễn juho_kuosmanen đã tạo nên một bầu_không_khí đậm chất điện_ảnh và tiểu_sử với phông màu trắng_đen dung_dị nhưng đa_dạng trong các cảnh quay 

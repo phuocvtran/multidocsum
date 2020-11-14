@@ -1,0 +1,6 @@
+idx, sentence
+0,chiều ngày 195  lãnh_đạo công_an huyện sơn_động  bắc_giang  cho biết đang điều_tra làm rõ nguyên_nhân vụ_việc khiến 2 vợ_chồng tử_vong bất_thường trên địa_bàn huyện vào chiều cùng ngày 
+1,theo thông_tin ban_đầu  khoảng 13 giờ 30 phút ngày 195  nhiều người dân ở thôn đông_rì  thị_trấn thanh_sơn  huyện sơn_động  bất_ngờ phát_hiện thi_thể 2 vợ_chồng chủ nhà tử_vong bất_thường trong nhà 
+2,ngay_lập_tức  người dân đã thông_báo sự_việc đến cơ_quan_chức_năng 
+3,nhận được tin báo  công_an huyện sơn_động đã nhanh_chóng có_mặt để bảo_vệ hiện_trường 
+4,hiện công_an tỉnh bắc_giang đã tới hiện_trường khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc 

@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 2/6  công_an tp biên_hòa  đồng_nai  tổ_chức điều_tra  truy bắt nhóm thanh_niên ném bom xăng  cầm dao  kiếm  quậy_phá làm náo_loạn khu_phố 
+1,theo thông_tin ban_đầu  vụ_việc xảy ra vào 23 h ngày 1/6 tại con hẻm thuộc khu_phố 2  phường tam_hòa  tp biên_hòa  
+2,thời_điểm này  nhóm gần 10 người mang theo dao  kiếm đi bộ đến con hẻm hò_hét 
+3,họ đe_dọa những thanh_niên tại đây và ném bể cửa_kính của một hộ dân 
+4,trước khi rời đi  nhóm côn_đồ ném 3 quả bom xăng ở 3 điểm khác nhau trong hẻm 
+5,lửa bốc cháy ngùn_ngụt trong khi nhóm người lạ hung_hãn  không ngừng la_hét khiến người dân hoang_mang 
+6,theo người cư_dân địa_phương  cuộc náo_loạn diễn ra trong thời_gian 5 phút  không có ai bị_thương 
+7,nhận tin báo  lực_lượng công_an phường tam_hòa  công_an tp biên_hòa có_mặt ghi_nhận hiện_trường  lấy lời khai nhân_chứng phục_vụ điều_tra 

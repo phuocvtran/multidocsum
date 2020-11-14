@@ -1,0 +1,15 @@
+idx, sentence
+0,cristiano ronaldo luôn được coi là hình_mẫu của giới quần_đùi áo số với sự chăm_chỉ trong luyện_tập 
+1,đó là lý_do dù dưới thời hlv nào thì cầu_thủ người bồ luôn là ngôi_sao sáng nhất ở đội bóng 
+2,năm nay đã 31 tuổi nhưng cựu cầu_thủ mu đã trải qua 6 mùa giải liên_tiếp ghi được 50 bàn / mùa 
+3,và chưa có dấu_hiệu nào cho thấy cr7 sẽ dừng lại vì anh luôn chăm_chỉ tập_luyện hàng ngày 
+4,mới_đây  hlv ancelotti đã tiết_lộ sự_thật cực sốc về ronaldo khi hai người còn làm_việc ở real_madrid 
+5,chiến_lược gia người italia chia_sẻ  “ ronaldo tập_luyện rất miệt_mài quên thời_gian 
+6,cậu ấy từng luyện_tập và ngâm nước_đá tới tận 3 giờ sáng dù irina đang đợi ở nhà 
+7,ronaldo không quan_tâm đến tiền_bạc mà chỉ luôn khao_khát là người xuất_sắc nhất ” 
+8,“ tôi không_thể nói chi_tiết nhưng tinh_thần tập_luyện của ronaldo là tuyệt_vời 
+9,cậu ấy luôn phấn_đấu cho sự_nghiệp của mình được tốt hơn bất_cứ thứ nào khác ” 
+10,ancelotti nể phục quyết_tâm chinh_phục đỉnh_cao của siêu_sao người bồ 
+11,mùa giải tới  ancelotti sẽ trở_lại với bóng_đá để dẫn_dắt bayern_munich thay guardiola 
+12,nói về đội bóng mới  carletto tỏ ra khá hài_hước  “ điều khó nhất ở đức là … ngôn_ngữ 
+13,tôi mù_tịt về ngữ_pháp và không biết động từ để ở đâu ” 

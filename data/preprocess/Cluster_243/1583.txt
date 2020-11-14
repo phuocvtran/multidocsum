@@ -1,0 +1,6 @@
+idx, sentence
+0,những ngày qua  trên một_số diễn_đàn mạng chia_sẻ thông_tin việc một người được cho là cán_bộ bộ y_tế sau khi va_chạm giao_thông đã có hành_vi xúc_phạm người dân 
+1,kèm theo đó là hình_ảnh một người đàn_ông mặc áo_cộc kẻ đen trắng chỉ tay vào mặt người phụ_nữ 
+2,được biết  sự_việc diễn ra vào chiều 31/5 trước cổng trụ_sở bộ y_tế  đường giảng_võ  phường kim_mã  quận ba_đình  hà_nội 
+3,liên_quan đến vụ_việc  chánh_văn_phòng bộ y_tế nguyễn_xuân_trường xác_nhận người đàn_ông mặc áo kẻ chính là phó chánh_văn_phòng đỗ trường duy  hiện phụ_trách mảng công_nghệ_thông_tin 
+4,ngày 1/6  hội_đồng kỷ_luật của văn_phòng bộ cho biết   đây là sự_việc xảy ra ngoài cơ_quan và là một va_chạm cá_nhân nhưng do thiếu kiềm_chế nên xảy ra hành_vi không đúng_mực  không thể_hiện_hành_vi lịch_sự của người cán_bộ  

@@ -1,0 +1,5 @@
+idx, sentence
+0,kết_quả bầu_cử tổng_thống vòng 2 tại áo cho thấy  ứng_cử_viên đảng_xanh alexander van der bellen đã vượt qua đối_thủ là ông norbert_hofer thuộc đảng_tự_do áo  fpo  
+1,ông bellen đã giành chiến_thắng sít_sao nhờ vào số phiếu vắng_mặt  tức bỏ_phiếu qua bưu_điện  với 503  số phiếu ủng_hộ so với 497  số phiếu_bầu của ông hofer 
+2,sự thất_bại của ông hofer đã làm giảm mối lo_ngại lớn về việc các đảng cánh_hữu đang gia_tăng sức_mạnh tại châu_âu 
+3,thủ_tướng pháp manuel_valls cho rằng  kết_quả bầu_cử tại áo sẽ giúp giải_tỏa áp_lực về sự trỗi_dậy của phe cánh hữu và các nước châu_âu khác cần phải học_tập từ cuộc bầu_cử tại áo 

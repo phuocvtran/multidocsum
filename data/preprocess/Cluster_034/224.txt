@@ -1,0 +1,7 @@
+idx, sentence
+0,vietinbank cho biết  việc thoái vốn là để đảm_bảo tuân_thủ quy_định tại điểm b  khoản 3  điều 20  thông_tư số 36/2014 / ttnhnn ngày 20/11/2014 của ngân_hàng nhà_nước việt_nam về việc quy_định các giới_hạn  tỷ_lệ bảo_đảm an_toàn trong hoạt_động của tổ_chức tín_dụng  chi_nhánh ngân_hàng nước_ngoài  “ ngân_hàng thương_mại chỉ được mua  nắm giữ cổ_phiếu của một tổ_chức tín_dụng  tctd  khác dưới 5  vốn cổ_phần có quyền biểu_quyết của tctd đó ” 
+1,ngân_hàng sgb có vốn điều_lệ hơn 3080 tỷ đồng 
+2,vốn của vietinbank tại sgb là 319966350000 đồng  chiếm 1039  vốn cổ_phần có quyền biểu_quyết của sgb  theo mệnh_giá 10000 đồng / cổ_phần  
+3,số_lượng cổ_phiếu đăng_ký bán đầu giá là 16875000 cổ_phần  chiếm 548  vốn cổ_phần có quyền biểu_quyết của sgb  
+4,số_lượng cổ_phần sở_hữu sau khi thoái vốn  15121635 cổ_phần  chiếm 491  vốn cổ_phần có quyền biểu_quyết của sgb   loại cổ_phiếu  cổ_phiếu phổ_thông 
+5,được biết  phương_thức chào bán của vietinbank là bán đấu_giá công_khai qua công_ty cổ_phần chứng_khoán ngân_hàng công_thương việt_nam  thời_gian thực_hiện thoái vốn dự_kiến trong quý_ii / 2016 

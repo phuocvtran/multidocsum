@@ -1,0 +1,49 @@
+idx, sentence
+0,phó chủ_tịch egyptair  ông ahmed_adel  không loại_trừ khả_năng máy_bay bị đặt bom hoặc bị đe_dọa từ bên trong 
+1,máy_bay bị đặt bom kịch_bản nhận được sự ủng_hộ nhiều nhất đó là chiếc airbus_a320 bị một người nào đó tuồn bom lên khoang máy_bay  sau đó kích nổ 
+2,bộ_trưởng hàng không ai cập_sherif_fathy nghiêng về khả_năng ms804 bị khủng_bố nhiều hơn là trục_trặc kỹ_thuật 
+3,các quan_chức mỹ cũng tập_trung vào giả quyết máy_bay bị khủng_bố 
+4,họ nghi_ngờ một quả bom khiến máy_bay nổ tung  sau đó rơi xuống biển 
+5,tuy_nhiên  các quan_chức này lưu_ý đây chỉ là phỏng_đoán dựa trên hoàn_cảnh thực_tế chứ không phải dựa trên những bằng_chứng xác_thực 
+6,khả_năng những kẻ khủng_bố đưa bom trót_lọt lên máy_bay không phải không có cơ_sở 
+7,theo một báo_cáo của trung_tâm phòng_chống khủng_bố  tcs  mỹ   các nhóm khủng_bố đến từ yemen  syria và đông_phi đã và đang sáng_tạo ra cách_thức tuồn bom lên máy_bay bằng cách qua_mặt hệ_thống kiểm_tra an_ninh 
+8,hoặc chúng có_thể sử_dụng tay trong là một_số người làm trong lĩnh_vực hàng_không để thực_hiện mục_đích 
+9,“ nhiều sân_bay tại các nước đang phát_triển không trang_bị công_nghệ quét hiện_đại cũng như không triển_khai các khóa đào_tạo nghiêm_ngặt đối_với các nhà khai_thác ” – báo_cáo của tcs nêu rõ 
+10,báo_cáo cũng trích_dẫn sự_cố một chuyến bay rời khỏi mogadishu – somalia vào ngày 22 vừa_qua 
+11,hai nhân_viên sân_bay không hiểu bằng cách nào đã mang được một chiếc máy_tính xách tay cài thiết_bị nổ đi qua máy_quét tia_x mà không bị phát_hiện 
+12,sau đó  2 người này đưa máy_tính cho 1 người đàn_ông bắt chuyến bay tới djibouti 
+13,khoảng 20 phút sau khi máy_bay cất_cánh  chiếc máy_tính phát_nổ  khoét 1 lỗ_thủng lớn ở thân máy_bay 
+14,người đàn_ông cấm máy_tính bị hút ra ngoài và rơi xuống đất thiệt_mạng 
+15,chiếc máy_bay chở hơn 70 hành_khách lúc đó chưa đặt tới độ cao cần_thiết đã hạ_cánh khấn cấp  may_mắn không gặp thêm sự_cố nào 
+16,mối đe_dọa từ bên trong vụ nổ trên máy_bay từ mogadishu một lần nữa nhấn_mạnh  mối đe_dọa nội_bộ  đối_với an_ninh hàng_không 
+17,tháng 11 năm_ngoái  1 nhân_viên sân_bay bị_cáo_buộc giúp tuồn bom lên 1 máy_bay chở khách của hãng metrojet  nga  tại sân_bay sharm elsheikh – ai cập 
+18,chiếc airbus_a321 sau đó phát nổ trên không_trung giết chết toàn_bộ 224 người trên khoang 
+19,tạp_chí trực_tuyến của nhóm nhà_nước hồi_giáo  is  tự_xưng  dabiq  đã đăng_tải bức ảnh chụp quả bom được chế bằng lon nước_ngọt soda 
+20,is khẳng_định đây chính là quả bom phát nổ trên máy_bay của metrojet 
+21,chủ_tịch ủy_ban an_ninh nội_địa của hạ_viện mỹ_michael_mccaul hôm 195 cảnh_báo nếu sân_bay trang_bị công_nghệ quét tiên_tiến nhưng thất_bại trong việc phát_hiện và xử_lý các mối đe_dọa nội_bộ  hậu_quả sẽ rất đáng lo_ngại 
+22,các quan_chức washington nói với đài_cnn rằng đối_với trường_hợp chuyến bay ms804  trọng_tâm cuộc điều_tra sẽ tập_trung và nhân_viên sân_bay  thành_viên phi_hành_đoàn hoặc bất_cứ người nào có_thể lên được máy_bay 
+23,lỗi kỹ_thuật phần biển địa_trung_hải nơi chiếc máy_bay egyptair rơi xuống khá gần với đất_liền và ít sâu hơn so với phần trung_đại tây_dương  nơi chiếc máy_bay số_hiệu 447 của hãng air_france gặp nạn hồi tháng 62009 khi đang trên đường từ tp rio_de janeiro – brazil tới thủ_đô paris – pháp 
+24,gần 2 năm sau  hộp đen máy_bay và bộ_phận ghi_âm buồng_lái trên chiếc air_france mới được tìm thấy ở độ sâu 4000 m  khu_vực biển địa_trung_hải nơi chiếc egyptair báo_cáo vị_trí lần cuối dù chỉ sâu khoảng 2000 m nhưng đây vẫn sẽ là một nhiệm_vụ khó_khăn cho lực_lượng tìm_kiếm  tùy thuộc vào diện_tích tìm_kiếm mảnh vỡ 
+25,nguyên_nhân vụ tai_nạn của chiếc air_france được kết_luận là do lỗi dữ_liệu lẫn lỗi phi_công 
+26,được biết  cơ_trưởng dày_dặn kinh_nghiệm của chiếc air_france đang nghỉ_ngơi tại thời_điểm khẩn_cấp 
+27,trong khi đó  may_mắn có_vẻ không mỉm cười với số_phận của chiếc máy_bay mh370 của hãng malaysia_airline sau khi mất_tích năm 2013 và đến nay vẫn chưa được tìm thấy 
+28,chỉ có vài mảnh vỡ nhỏ của máy_bay xuất_hiện còn những chi_tiết quan_trọng thì bặt vô âm_tín 
+29,sự hiện_đại của công_nghệ hàng_không khiến các máy_bay ngày_nay ít khi gặp các sự_cố trong cơ_khí hoặc kỹ_thuật 
+30,“ không có bất_cứ báo_cáo_lỗi nào trong nhật_ký kiểm_tra kỹ_thuật ” của chiếc airbus  theo lời ông ahmed_adel_– phó giám_đốc hãng egyptair 
+31,tuy_nhiên  việc bảo_dưỡng cũng rất quan_trọng 
+32,vào năm 2014  một chuyến bay của hãng air_asia khởi_hành từ tp surabaya – indonesia gặp trục_trặc liên_tục tại góc cánh lái điều_khiển vì một vết nứt trong mối hàn 
+33,trong vụ nổ xảy đến với chuyến bay twa 800 sau khi cất_cánh từ tp_new_york – mỹ năm 1996  các nhà_chức_trách đã cho rằng đây là vụ khủng_bố 
+34,tuy_nhiên  cuối_cùng bộ an_toàn giao_thông_quốc_gia mỹ  ntsb  tìm ra nguyên_nhân gây tai_nạn là do “ một vụ nổ ở bồn chứa nhiên_liệu ở cánh trung_tâm khi bắt_lửa từ nhiên_liệu / không_khí dễ cháy ” 
+35,phi_công hãng egyptair cho biết cơ_trưởng chuyến bay 804 đã có 6275 giờ bay  trong đó gồm 2101 giờ bay trên chiếc a320 
+36,còn số giờ bay của cơ phó là 2766 
+37,họ đều là những phi_công dày_dặn kinh_nghiệm 
+38,theo các chuyên_gia phân_tích hàng_không  mức_độ tự_động_hóa cao của các máy_bay hiện_đại thu_hẹp phạm_vi lỗi thảm_khốc do phi_công gây ra 
+39,tuy_nhiên  nếu có trục_trặc  phi_hành_đoàn có_thể gặp khó_khăn khi xử_lý quá nhiều thông_tin 
+40,một ví_dụ cho trường_hợp này là lần hạ_cánh thất_bại của chuyến bay asiana tại sân_bay san_francisco – mỹ năm 2013  khiến 3 hành_khách thiệt_mạng 
+41,ntsb cho biết cơ phó chuyến bay không_thể nắm_bắt được “ sự phức_tạp của các hệ_thống tự điều_tiết và bay tự_động ” 
+42,ngoài_ra  còn có 2 vụ tai_nạn khác xảy ra trong những năm gần đây khi phi_công bị buộc_tội cố_tình đâm máy_bay 
+43,trong cả 2 trường_hợp  cơ phó của họ đều không ở trong buồng_lái 
+44,đó là vụ tai_nạn của máy_bay hãng germanwings hồi tháng 32015 khi cơ phó 27 tuổi andreas_lubitz nhốt cơ_trưởng ở ngoài sau đó đâm máy_bay vào dãy núi alps phía nam nước pháp 
+45,vào năm 1999  chiếc boeing 767 của hãng egyptair rời từ độ cao khoảng 4000 m chỉ trong 36 giây sau khi cất_cánh từ new_york 
+46,khủng_bố lại là nguyên_nhân đầu_tiên các nhà điều_tra nghĩ đến 
+47,tuy_nhiên  ntsb phát_hiện ra vụ tai_nạn là do “ tác_động vào hệ_thống kiểm_soát máy_bay của cơ phó ” nhưng họ không kết_luận được vì_sao người này lại hành_động như_vậy 

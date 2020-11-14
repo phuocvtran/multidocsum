@@ -1,0 +1,7 @@
+idx, sentence
+0,cách đây ít ngày  tờ naver_sport đã đưa tin incheon_united ấn_định 22/5 là ngày_xuân_trường ra_mắt kleague_classic 
+1,nhiều người dự_đoán  trường  híp  sẽ dự_bị và vào sân trong hiệp hai 
+2,tuy_nhiên  hlv kim_dohoon đã làm tất_cả bất_ngờ khi điền tên tiền_vệ người tuyên_quang vào đội_hình xuất_phát trong trận gặp gwangju_fc chiều nay 
+3,mặc số áo 60 quen_thuộc  trường  híp  được xếp đá tiền_vệ trung_tâm bên cạnh se_jik và tae_su 
+4,đây có_thể coi là nỗ_lực của ông kim_dohoon nhằm giúp cậu học_trò_chơi tốt 
+5,hi_vọng rằng xuân_trường sẽ có màn chào sân ấn_tượng  đáp lại lòng mong_đợi của người hâm_mộ nước_nhà 

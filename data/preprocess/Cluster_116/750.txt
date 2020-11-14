@@ -1,0 +1,7 @@
+idx, sentence
+0,tổng_cục thống_kê vừa công_bố  cpi tháng 5 tăng 054  so với tháng trước  tăng 228  so với cùng kỳ năm trước 
+1,so với cùng kỳ 5 năm qua  cpi tháng 5 năm nay có mức tăng cao nhất 
+2,trong 11 nhóm hàng_hóa và dịch_vụ chính  nhóm giao_thông có mức tăng cao nhất  ở mức 239  do tác_động của các đợt tăng_giá xăng_dầu liên_tiếp 
+3,đứng thứ hai là nhóm nhà_ở và vật_liệu xây_dựng  tăng 088  và đứng thứ ba là nhóm hàng_hóa và dịch_vụ khác  tăng 056  
+4,tám nhóm hàng còn lại có mức tăng nhẹ  trong đó  hàng_ăn và dịch_vụ ăn_uống tăng 036   văn_hóa  giải_trí và du_lịch tăng 034   đồ_uống và thuốc_lá tăng 011   thiết_bị và đồ_dùng gia_đình tăng 009   thuốc và dịch_vụ y_tế tăng 005   bưu_chính viễn_thông tăng 003   may_mặc  mũ nón  giày_dép tăng 002   giáo_dục tăng 002  
+5,theo bà đỗ_thị_ngọc  phó_vụ_trưởng vụ thống_kê giá  tổng_cục thống_kê  cpi tháng 5 vẫn tăng ở mức trung_bình  mục_tiêu về kiểm_soát lạm_phát năm 2016 vẫn khả_thi 

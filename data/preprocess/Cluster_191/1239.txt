@@ -1,0 +1,4 @@
+idx, sentence
+0,theo số_liệu của cơ_quan khảo_sát địa_chất mỹ  trận động_đất xảy ra ở ngoài khơi  tâm chấn cách đài_bắc khoảng 114 km về phía đông_bắc  ở độ sâu khoảng 2429 km 
+1,dư_chấn của động_đất được cảm_nhận rõ nhất ở yilan và hualien 
+2,theo cơ_quan thông_tấn chính_thức của đài_loan  chưa có báo_cáo về tình_hình thương_vong và thiệt_hại do trận động_đất này 

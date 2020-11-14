@@ -1,0 +1,5 @@
+idx, sentence
+0,theo nhân_chứng  khoảng 6 h sáng nay 2/6  chiếc xe ô_tô_hiệu bentley biển số 51a  50308 lưu_thông trên đường nguyễn_văn_linh hướng từ quốc_lộ 1a đi khu chế_xuất tân_thuận  quận 7 
+1,đến giao_lộ nguyễn_văn_linh – nguyễn_đức_cảnh  quận 7  tphcm  tài_xế cho xe dừng đèn_đỏ thì bất_ngờ bị xe container biển số 50ld072  79 từ phía sau chạy tới tông trúng 
+2,cú tông mạnh khiến “ xế hộp ” bị hất văng về phía trước gần chục mét  phần đuôi bị hư_hỏng nặng  nhiều mảnh vỡ văng khắp đường  phần đầu xe container cũng bị hư_hỏng 
+3,may_mắn không có thương_vong về người 

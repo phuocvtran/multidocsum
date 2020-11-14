@@ -1,0 +1,6 @@
+idx, sentence
+0,javadi  người cũng là giám_đốc công_ty dầu quốc_gia iran_nioc nói “ trong hoàn_cảnh hiện_nay  chính_phủ và bộ dầu_mỏ không ban_hành bất_kỳ chính_sách hay kế_hoạch cho công_ty dầu_mỏ quốc_gia iran_nioc để hướng tới ngăn_cản tăng sản_lượng hay xuất_khẩu dầu_thô ” 
+1,hiện_nay xuất_khẩu dầu_thô của iran  ngoại_trừ khí_đốt ngưng_tụ đã đạt tới 2 triệu thùng mỗi ngày 
+2,công_suất xuất_khẩu dầu_thô của iran sẽ đạt tới 22 triệu thùng vào giữa mùa_hè này 
+3,cuộc_họp của tổ_chức các nước xuất_khẩu dầu_mỏ opec  gồm iran được tổ_chức vào 2/6 
+4,các kế_hoạch về một thỏa_thuận giữa các nhà_sản_xuất opec và ngoài opec để hỗ_trợ_giá bằng cách đóng_băng sản_lượng đã thất_bại một phần trong tháng 4 khi saudi_arabia yếu cầu iran phải tham_dự 

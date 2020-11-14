@@ -1,0 +1,33 @@
+idx, sentence
+0,tại buổi làm_việc với công_viên phần_mềm quang_trung ngày 28/5  nghe giám_đốc lâm nguyễn_hải_long báo_cáo khó_khăn do vướng_mắc cơ_chế  bí_thư thành_uỷ đinh_la_thăng nói   nếu vướng thì các anh phải trình_bày chứ 
+1,chỗ cần gõ_cửa thì không gõ  các anh cứ đi đâu 
+2,tôi là bí_thư thành_ủy  các cậu gặp nhiều khúc_mắc mà giờ mới báo_cáo chứ có thấy các cậu chạy tới kêu bao_giờ đâu  
+3,tiếp đó  ông thăng đặt vấn_đề  mỗi năm hàng chục nghìn sinh_viên ra trường thiếu việc_làm trong khi đơn_vị này đang thiếu nhân_lực trầm_trọng 
+4, mấu_chốt là công_viên phần_mềm quang_trung đã thiếu liên_kết với nhà_trường   ông thăng nhận_xét 
+5,ông long cho biết  do sinh_viên không đáp_ứng được và một_số lãnh_đạo các trường không muốn chuyển_động  bảo_thủ nên nguồn nhân_lực các trường đào_tạo kém 
+6,mặt_khác  giảng_viên của các trường này nếu 3 tháng không xuống công_ty phần_mềm thực_tập sẽ dạy sinh_viên những kiến_thức lạc_hậu 
+7, nhiều năm nay ngành công_nghệ_thông_tin không còn hấp_dẫn sinh_viên 
+8,đó là nguyên_nhân khiến các công_ty phần_mềm tuyển không đủ nhu_cầu   ông long nói và cho biết lương trung_bình của kỹ_sư có 3 năm kinh_nghiệm tại công_viên khoảng 810 triệu đồng mỗi tháng 
+9,bí_thư thành_ủy tp hcm không đồng_ý và cho rằng  nói các trường bảo_thủ  rõ_ràng là ý của công_viên phần_mềm quang_trung   cách làm của công_ty chưa chủ_động và chưa thực_sự đem những quyền_lợi của đôi bên để thảo_luận 
+10, anh muốn các trường đào_tạo thế_nào 
+11,quyền_lợi  đầu_ra cụ_thể ra_sao khi các trường đào_tạo nguồn nhân_lực cho mình 
+12,có rõ_ràng  thống_nhất thì chắc_chắn các trường sẽ đáp_ứng được nhu_cầu của doanh_nghiệp  
+13,về vấn_đề ngành này  không hot   bí_thư thành_uỷ cho là do  các anh trả lương thấp  
+14, lương 810 triệu mà làm phần_mềm thì sao sống được  chỉ bằng công_nhân may 
+15,người_ta chỉ có_thể ở nhà mình  ăn cơm nhà nấu  đi xe_máy đi làm  chứ ở nhà_trọ thì không đủ sống   ông thăng nói 
+16,bí_thư thành_uỷ cũng đánh_giá cơ_chế phối_hợp của doanh_nghiệp hiện chưa tốt   người_ta nói 2 người nhật làm việc tốt hơn 2 người việt_nam  vì chúng_ta phối_hợp không tốt 
+17,chúng_ta làm_việc như để cua vào chậu  con nào bò lên thì con khác kéo xuống 
+18,ông nào cũng giỏi nhưng hợp_tác lại không tốt   các anh nhà_nước thì mới thụ_động như_thế  nếu anh coi mình là tư_nhân thì chắc_chắn sẽ có cách tiếp_cận khác 
+19,bởi tp hcm là thị_trường rất lớn đang triển_khai chính_quyền điện_tử  áp_dụng công_nghệ_thông_tin trong y_tế  giao_thông  đô_thị  chống tội_phạm   ông thăng cho hay 
+20,nghe giám_đốc công_viên phần_mềm quang_trung cho biết lương của mình mỗi tháng khoảng 24 triệu đồng  bí_thư đinh_la_thăng lắc_đầu  đề_nghị phải cho cổ_phần hóa ngay 
+21, lương của giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu cả nước  đứng top đầu khu_vực mà chừng đó thì sao được 
+22,lương cậu phải 10 lần như thế thì mới xứng_đáng  mới có động_lực làm_việc 
+23,muốn thế thì phải thúc_đẩy cổ_phần_hóa nhanh lên   ông thăng đề_nghị 
+24, nếu được thế thì tốt quá  cá_nhân tôi hoàn_toàn ủng_hộ 
+25,tuy_nhiên  cái này phải làm theo tiến_độ  nếu nhà_nước cho_phép thì chúng_tôi sẽ làm nhanh  
+26,ông long vừa dứt_lời  bí_thư thành_uỷ nói nhanh   chẳng cần cho_phép gì cả  các anh làm ngay đi  
+27, ngoại_trừ những sản_phẩm  công_trình có tính bảo_mật thì cần giữ lại 
+28,còn các sản_phẩm  công_trình khác có_thể bán để lấy tiền đầu_tư cái mới   ông thăng nói và cho rằng phải cổ_phần_hóa  để tư_nhân nhảy vào   thị_trường điều_tiết và khi đó các chế_độ đãi_ngộ cũng sẽ tương_xứng thu_hút được người giỏi 
+29, còn lương_bổng như hiện_nay thì chưa tương_xứng và sẽ rất khó_khăn để phát_triển  
+30,trước đó  sáng cùng ngày  bí_thư thành_ủy đinh_la_thăng đi kiểm_tra tiến_độ tuyến metro số 1  bến_thành  suối_tiên  
+31,sau khi nghe ban quản_lý đường_sắt đô_thị báo_cáo  ông thăng yêu_cầu cần phải đưa dự_án hoàn_thành càng sớm càng tốt vào khai_thác thì mới trả nợ được 

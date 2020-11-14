@@ -1,0 +1,7 @@
+idx, sentence
+0,theo thông_tin ban_đầu  vào thời_điểm trên  một công_nhân tên tiến  44 tuổi  trú tại phường an_hải_tây  sơn_trà  tp đà_nẵng  đứng trên giàn_giáo để thi_công mặt ngoài ngôi nhà ở tầng 3 
+1,quá_trình dây tời kéo vật_liệu xây_dựng lên bị tuột khiến ông tiên mất thăng_bằng và rơi xuống đất 
+2,ngay sau khi xảy ra sự_việc  công_nhân và người dân sống xung_quanh đã đưa ông tiến đi cấp_cứu  nhưng ông tiến đã không qua khỏi 
+3,tại hiện_trường vụ_việc  công_trình đang xây_dựng đến tầng 3  phía dưới vật_liệu xây_dựng để ngổn_ngang 
+4,tuy_nhiên  phía ngoài không được rào_chắn 
+5,nhận được tin báo  lực_lượng công_an phường hòa_cường_bắc  hải_châu  đà_nẵng  lập_tức có_mặt phong_tỏa hiện_trường để điều_tra nguyên_nhân vụ_việc 

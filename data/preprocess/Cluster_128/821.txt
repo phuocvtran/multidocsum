@@ -1,0 +1,4 @@
+idx, sentence
+0,một mẩu cáo_phó được đăng bởi vợ của ông và một mẩu bởi … bạn gái lâu năm của ông 
+1,người đàn_ông có tên leroy_b_black  sống ở thành_phố egg_harbor  đã qua_đời hồi tuần qua sau một thời_gian chiến_đấu với căn_bệnh ung_thư phổi ở tuổi 55 
+2,thông_báo về việc cử_hành tang_lễ cho người đàn_ông này  đăng_tải trên tờ tin_tức địa_phương press_of_atlantic_city có tới tận hai mẩu  nằm ngay sát cạnh nhau  thu_hút sự quan_tâm chú_ý của độc_giả  cho thấy một_cách bất_đắc_dĩ phần_nào … “ bi_kịch ” của người đàn_ông này lúc sinh_thời khi đứng giữa … hai người phụ_nữ 

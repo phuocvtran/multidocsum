@@ -1,0 +1,9 @@
+idx, sentence
+0,trong buổi gặp_mặt truyền_thông chiều 23/5  trương_nam_thành cho biết   khị đọc kịch_bản phim lần đầu  thành đã phải ồ lên thích_thú vì nhân_vật của mình  luật_sư huy_lâm vào tình_huống khó xử khi vừa có một tình_yêu chân_thành với vợ sắp cưới  lại sa vào lưới tình của một ma_nữ xinh_đẹp  giống như tình với người và duyên với ma vậy 
+1,nhưng thành tin rằng huy sẽ đem đến nhiều cung_bậc cảm_xúc cũng như cảm_giác bất_ngờ cho khán_giả  
+2,khi được hỏi về chuyện thường_xuyên xuất_hiện_thân_mật cùng với mai_hàn  nữ diễn_viên đóng vai ma trong ma_nữ báo_thù  trương_nam_thành có phần giải_thích không đi thẳng vào vấn_đề 
+3,anh nói   còn vì_sao đóng xong phim này các diễn_viên trở_nên thân_thiết là vì vào những ngày nghỉ  mọi người_thường quây_quần bên nhau  cùng bày trò_chơi  nói_chuyện  bởi_thế sau khi quay xong phim  cả đoàn trở_nên thân_thiết như người một nhà  
+4,nội_dung phim ma_nữ báo_thù xoay quanh huy  trương_nam_thành đóng  và ma_nữ  mai_hàn đóng  
+5,khi cùng vợ sắp cưới về quê để xin_phép gia_đình đính_hôn  huy thường_xuyên nằm mơ thấy ma_nữ 
+6,tò_mò xen_lẫn sợ_hãi  huy quyết_định tìm_hiểu về căn biệt_thự cổ mà mình đang sinh_sống 
+7,từ đây  anh bất_ngờ khám_phá ra nhiều câu_chuyện bí_mật 

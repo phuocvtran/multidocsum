@@ -1,0 +1,10 @@
+idx, sentence
+0,theo cáo_trạng  hải quen_biết với bạn tên phi  không rõ lai_lịch  và lê_quốc_bảo  ngụ q 12  và biết hai người này mua_bán heroin 
+1,ngày 30/3/2014  hải đến cầu_vượt tân_thới_hiệp  q 12 theo phi đi gặp bảo nhận hơn 1 kg ma_túy 
+2,sau đó  phi nhờ hải mang về nhà cất dùm để hôm sau đến lấy chia thành tép nhỏ để bán_lẻ cho con_nghiện 
+3,phi cho hải 500 ngàn đồng tiền công 
+4,hải mang số ma_túy về giấu ở bụi chuối trước nhà tại pđông_hưng_thuận  q 12 
+5,nhưng sau đó  sợ bị lộ nên hôm sau  hải mang số ma_túy này đến chỗ làm là một xưởng gỗ ở q 9 cất_giấu 
+6,trên đường đi  hải bị công_an qthủ_đức phát_hiện và bắt_giữ cùng tang_vật là 10559 g ma_túy 
+7,cơ_quan điều_tra chưa xác_minh được đối_tượng tên phi vì chưa rõ lai_lịch địa_chỉ 
+8,riêng người tên bảo dù xác_định được nhưng do chỉ có lời khai một chiều của hải  không có chứng_cứ nào khác chứng_minh có liên_quan nên chưa đủ cơ_sở để khởi_tố 

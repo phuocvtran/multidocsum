@@ -1,0 +1,38 @@
+idx, sentence
+0,hôm_qua  2/6   đại_sứ_quán thụy_điển tại hà_nội đã tổ_chức chương_trình kỷ_niệm di_sản của cố_thủ_tướng olof_palme và mối quan_hệ việt namthụy_điển 
+1,chương_trình có sự tham_gia của ông pierre_schori  đặc_phái_viên cao_cấp của thủ_tướng thụy_điển_stefan_löfven  và nhiều cựu quan_chức việt_nam từng có mối liên_hệ với thụy_điển 
+2,không chỉ là người bạn lớn của nhân_dân việt_nam trong giai_đoạn đấu_tranh thống_nhất đất_nước  cố_thủ_tướng olof_palme cũng là người kiên_trì chủ_trương hợp_tác và hỗ_trợ việt_nam trong công_cuộc tái_thiết đất_nước  giúp việt_nam xây_dựng nhiều công_trình quan_trọng  trong đó có bệnh_viện nhi_trung_ương  bệnh_viện việt_namthụy_điển tại uông_bí  quảng_ninh và nhà_máy giấy bãi bằng 
+3,trong cuộc_đời hoạt_động chính_trị của mình  cố_thủ_tướng olof_palme đã đấu_tranh không mệt_mỏi vì sự_nghiệp hòa_bình và phát_triển  vì tình hữu_nghị và hợp_tác bình_đẳng giữa các dân_tộc trên thế_giới 
+4,phát_biểu trong chương_trình kỷ_niệm di_sản của cố_thủ_tướng olof_palme  ông pierre_schori nhấn_mạnh “ thụy_điển là nước phương tây đầu_tiên thiết_lập quan_hệ ngoại_giao với việt_nam và sẽ luôn trân_trọng  tiếp_tục duy_trì mối quan_hệ bền chặt với việt_nam trong thời_gian tới 
+5,cố_thủ_tướng olof_palme chính là người đã khơi_nguồn cho mối quan_hệ ngoại_giao với việt nam và điều này đã giúp đặt nền_tảng vững_chắc cho một mối quan_hệ độc_nhất và vô_cùng đặc_sắc giữa hai quốc_gia ” 
+6,bà nguyễn_thị_bình  nguyên phó chủ_tịch nước chxhcn việt_nam  chủ_tịch quỹ_hòa_bình và phát_triển việt_nam  cho biết  bà đã được gặp cố_thủ_tướng palme và có dịp trao_đổi với ông nhiều lần 
+7,bà chia_sẻ  “ thụy_điển là một trong những nước tôi có nhiều kỷ_niệm và đây là nơi có phong_trào đoàn_kết nhân_dân ủng_hộ việt_nam 
+8,từ người lãnh_đạo cao nhất của đất_nước đến những cụ_già  thanh_niên  phụ_nữ  các em thiếu_nhi đều dành cho việt_nam những tình_cảm hết_sức tốt_đẹp 
+9,đầu năm 1972  ông olof_palme là chủ_tịch của đảng xhdc_thụy_điển  ông đã mời tôi từ cuộc đàm_phán 4 bên về việt_nam ở paris sang để phát_biểu với đại_hội của đảng về tình_hình chiến_tranh việt_nam 
+10,tôi là đại_biểu nước_ngoài duy_nhất tại đại_hội 
+11,sau đó  có một cuộc biểu_tình của nhân_dân phản_đối mỹ leo_thang chiến_tranh  ông đã cùng với tôi  đại_sứ của việt_nam_dân_chủ_cộng_hòa và một_số bạn_bè quốc_tế tham_gia cuộc biểu_tình 
+12,là một con_người  ông là người lãnh_đạo đất_nước có_lẽ bình_dân nhất mà tôi được biết 
+13,có khi đi ra sân_bay đi nước_ngoài  người_ta thấy ông không đi xe của chính_phủ mà đi bằng taxi … ” nguyên phó_thủ_tướng vũ_khoan cho biết “ cá_nhân tôi có một kỷ_niệm liên_quan tới sự giúp_đỡ của thụy_điển 
+14,những năm 80 thế_kỷ trước tôi được giao nhiệm_vụ nghiên_cứu phương_án đổi_mới công_tác tổ_chức của bộ ngoại_giao 
+15,loay_hoay tìm_kiếm kinh_nghiệm tiên_tiến của thế_giới về điều_hành  quản_lý  trong đầu tôi bỗng lóe lên ý_nghĩ lên nhà_máy giấy bãi bằng của thụy_điển để học_hỏi 
+16,quả_nhiên ở đó tôi thu_lượm được rất nhiều bài_học quý_báu  thiết_thực  giúp_ích cho công_việc của mình 
+17,qua đó tôi hiểu thêm rằng  sự giúp_đỡ của các bạn thụy_điển không chỉ có “ giá_trị cứng ” mà_còn chứa_đựng những “ giá_trị mềm ” không kém phần quan_trọng 
+18,ông cho biết thêm “ cá_nhân tôi không có vinh_dự được gặp thủ_tướng olof_palme mà chỉ có dịp nghiêng mình tưởng_nhớ ông bên phiến đá đánh_dấu nơi ông bị sát_hại trên phố sveasvagen ở stockholm khi thăm thụy_điển 
+19,vào khoảnh_khắc ấy trong tôi đã trỗi dậy niềm tiếc_thương và lòng biết_ơn vô_hạn về tất_cả những gì ông đã làm cho đất_nước và nhân_dân chúng_tôi ” 
+20,nguyên phó_thủ_tướng vũ_khoan khẳng_định  “ toàn dân chúng_tôi luôn ghi_nhớ thụy_điển dưới sự lãnh_đạo của ông palme là nước phương tây đầu_tiên kiến_lập quan_hệ ngoại_giao và mở đại_sứ_quán ở hà_nội vào 47 năm trước_đây 
+21,thụy_điển cũng là nước tây_âu dành viện_trợ không hoàn_lại sớm nhất và lớn nhất cho việt_nam 
+22,người việt_nam có câu  “ một miếng khi đói bằng một gói khi no ” 
+23,sự viện_trợ của nhân_dân thụy_điển dành cho đất_nước chúng_tôi thật_sự vô_giá vì nó rơi đúng vào những năm_tháng khó_khăn nhất  khi cuộc kháng_chiến ở vào thời_điểm hết_sức cam_go  công_cuộc tái_thiết sau hiệp_định paris vô_cùng gian_nan  tiếp đó là những năm_tháng việt_nam bị bao_vây  cấm_vận ” 
+24,đồng quan_điểm với ông vũ_khoan  ts lê_đăng_doanh  nguyên viện_trưởng  viện_nghiên_cứu quản_lý kinh_tế trung_ương  phát_biểu   thụy_điển là người bạn thủy_chung  đã ở bên cạnh việt_nam trong những giờ_phút khó_khăn nhất và cung_cấp sự giúp_đỡ có hiệu_quả  chân_thành cho công_cuộc cải_cách ở việt_nam  
+25,một trong những lĩnh_vực đạt hiệu_quả cao xuyên suốt lịch_sử quan_hệ là lĩnh_vực y_tế 
+26,nhiều công_trình y_tế lớn do thụy_điển hỗ_trợ_giúp việt_nam như bệnh_viện nhi_trung_ương  bệnh_viện đa_khoa thụy_điển uông_bí  hỗ_trợ xây_dựng lại bệnh_viện bạch_mai bị bom tàn_phá vẫn đang được duy_trì  kế_thừa đến ngày hôm_nay 
+27,pgsts lê_thanh_hải  giám_đốc bệnh_viện nhi_trung_ương ghi_nhận “ hợp_tác y_tế việt_namthụy_điển đạt được kết_quả tốt_đẹp trong hầu_hết các lĩnh_vực chuyên_môn  từ hỗ_trợ xây_dựng bệnh_viện  đào_tạo hệ_thống cán_bộ  hỗ_trợ chăm_sóc sức_khoẻ bà mẹ trẻ_em  hỗ_trợ chăm_sóc sức_khoẻ tại các vùng khó_khăn cho đến hỗ_trợ chính_sách y_tế hoặc phòng_chống đại_dịch 
+28,chúng_tôi đánh_giá cao những hỗ_trợ của thụy_điển từ những ngày đầu và những sự giúp_đỡ này thật đúng lúc  kịp_thời  đặc_biệt là đối_với lĩnh_vực nhi ” 
+29,để nói về quan_hệ việt namthụy_điểm  chuyên_gia phạm_chi_lan kể lại một kỷ_niệm như sau  “ vào khoảng năm 1976  77  chỉ 12 năm sau khi chiến_tranh kết_thúc ở việt_nam  tôi tiếp một vị khách mỹ do vụ châu_mỹ  bộ ngoại_giao việt_nam đưa tới 
+30,theo giới_thiệu của vụ châu_mỹ  vị khách đó là một nhà_báo  trước đây đã từng làm trợ_lý của cựu tổng_thống johnson 
+31,sau khi trao_đổi về bối_cảnh mới của việt_nam khi hòa_bình lập lại  vị khách chợt hỏi tôi  “ theo bà  ai là người bạn tốt nhất của việt_nam  ” 
+32,tôi trả_lời ngay  “ thụy_điển ” 
+33,vị khách tỏ_vẻ hơi ngạc_nhiên  rồi cười  bắt_tay tôi và nói  “ tôi cứ tưởng bà sẽ nói liên_xô hay trung_quốc  nhưng tôi đồng_ý với bà 
+34,người bạn tốt nhất là người giúp ta một_cách vô_tư  bền_bỉ  thậm_chí dũng_cảm trong lúc ta khó_khăn nhất 
+35,thụy_điển là người bạn như_thế của việt_nam ” 
+36,cho đến bây_giờ  nếu ai đưa ra câu hỏi tương_tự  thì câu trả_lời của tôi vẫn không thay_đổi 

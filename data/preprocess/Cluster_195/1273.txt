@@ -1,0 +1,15 @@
+idx, sentence
+0,theo những tin_tức mới nhất trên báo tuổi_trẻ  đám cháy lớn đã xảy ra tại một trong những kho chứa vũ_khí lớn nhất của ấn_độ vào rạng sáng 31/5  gây nổ lớn làm ít_nhất 20 binh_sĩ thiệt_mạng 
+1,theo reuters  lính cứu_hỏa đã phải mất một thời_gian dài để kiểm_soát đám cháy lớn tại kho chứa đạn ở pulgaon  cách trung_tâm tài_chính mumbai khoảng 600 km 
+2,mặc_dù đã được kiểm_soát nhưng đám cháy nổ lớn vẫn buộc hàng ngàn người dân sống gần đó phải sơ_tán 
+3,theo quan_chức địa_phương shailesh_nawai  ngoài số người chết  17 người khác đã nhập_viện  trong đó có 2 người bị_thương rất nặng 
+4,trong số người thiệt_mạng có 2 sĩ_quan quân_đội có_mặt tại hiện_trường khi đám cháy lớn xảy ra sau lúc nửa_đêm 
+5,cũng theo lời quan_chức trên  trong lúc đang tập_trung mọi người để kiểm_soát đám cháy thì kho đạn phát nổ khiến họ tử_nạn 
+6,trong khi đó  theo nguồn tin báo người lao_động trích từ đài_ndtv  vụ cháy lớn xảy ra ởà kho đạn_dược lớn nhất ấn_độ và lớn thứ hai ở châu_á 
+7,hình_ảnh trên truyền_hình cho thấy đám cháy sáng_rực cả vùng_trời tối phía trên kho đạn_dược này 
+8,các loại vũ_khí được lưu_trữ và phân_phối từ kho này gồm ak47 và tên lửa brahmos 
+9,các nguồn tin nói với kênh ndtv rằng những người bị_thương và thiệt_mạng khi họ chạy về phía đám cháy lớn nhằm ngăn những vũ_khí quan_trọng nổ tung 
+10,đến 11 h cùng ngày  giờ_địa_phương   thủ_hiến bang maharashtra_devendra_fadnavis cho biết ngọn lửa đã bị khống_chế 
+11,ông ramesh_barde  một nhân_viên cứu_hỏa  cho biết lực_lượng này đã sử_dụng 10 xe chữa_cháy làm_việc thâu đêm để dập_tắt đám cháy 
+12,hiện chưa rõ nguyên_nhân gây ra hỏa_hoạn 
+13,các quan_chức ấn_độ cho biết chưa_thể khẳng_định chắc_chắn tổng_số người thiệt_mạng do các nhóm cứu_hộ vẫn chưa kiểm_tra được toàn_bộ các khu_vực của kho chứa vũ_khí quân_sự 

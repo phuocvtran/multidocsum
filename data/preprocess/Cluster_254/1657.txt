@@ -1,0 +1,13 @@
+idx, sentence
+0,theo telegraph  hà_nội đứng đầu danh_sách 16 thành_phố có ẩm_thực ngon nhất thế_giới 
+1,telegraph miêu_tả   nếu tổng_thống mỹ barack_obama đã phát_hiện và chỉ mất 6 usd cho một bữa tối ngon_miệng với bún_chả hà_nội với đầu_bếp anthony_bourdain thì chắc_hẳn ông chủ_nhà trắng cũng sẽ nhận ra sức_mạnh của ẩm_thực ở thành_phố này  
+2,các món ăn như phở  bánh_mì  cơm_tấm với thịt lợn nướng  cafe trứng  là những món ăn telegraph gợi_ý độc_giả nên thưởng_thức khi ghé thăm hà_nội 
+3,thành_phố tokyo  nhật_bản  xếp thứ hai trong danh_sách 16 thành_phố có ẩm_thực ngon nhất thế_giới 
+4,không chỉ sushi  nhật_bản còn hấp_dẫn thực_khách với nhiều món ăn hấp_dẫn thực_khách như  tonkatsu  món thịt heo chiên xù  món lươn unagi  đứng ở vị_trí thứ 3 là thủ_đô london  anh  
+5,thành_phố jaipur  ấn_độ  xếp ở vị_trí thứ 4 trong danh_sách những thành_phố có nền ẩm_thực ngon và phong_phú nhất thế_giới  với một loạt những món ăn ngon và hấp_dẫn 
+6,kế_tiếp là thành_phố new_york của mỹ 
+7,mendoza  argentina  cũng có tên trong danh_sách của telegraph 
+8,bologna ở italy xếp thứ 7 trong số 16 thành_phố có ẩm_thực ngon nhất thế_giới 
+9,nhiều món ăn đặc_trưng của italy có nguồn_gốc từ thành_phố bologna 
+10,thành_phố lyon của pháp cũng được telegraph đánh_giá cao ở lĩnh_vực ẩm_thực 
+11,new_orleans  mỹ được đánh_giá là đô_thị hải_sản lớn với nhiều món ăn hấp_dẫn chế_biến từ tôm_hùm  hàu 

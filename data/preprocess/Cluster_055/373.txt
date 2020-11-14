@@ -1,0 +1,13 @@
+idx, sentence
+0,sáng 21/5  người_đẹp “ boys_over_flowers ” và chồng ahn_jae_hyun đã có nghi_thức “ về chung một nhà ” rất đặc_biệt 
+1,thay_vì làm đám_cưới truyền_thống  cặp_đôi cùng nhau đến khoa nhi bệnh_viện đại_học yonsei_severance để quyên toàn_bộ số tiền tổ_chức hôn_lễ cho các bệnh_nhi gặp hoàn_cảnh khó_khăn 
+2,trước đó  cặp_đôi ngôi_sao hàn_quốc dự_định không tổ_chức đám_cưới mà dùng số tiền đó làm từ_thiện 
+3,đúng như lời tuyên_bố  đám_cưới của họ không hoa  không váy cưới  không lễ_đường hay lời ước_hẹn 
+4,họ cùng nhau xuất_hiện tại bệnh_viện trong trang_phục màu pastel kín_đáo với nét mặt rạng ngời hạnh_phúc  mãn_nguyện 
+5,chiều cùng ngày  hai gia_đình có bữa cơm thân_mật  không tổ_chức tiệc mừng hay mời khách 
+6,hành_động đẹp của hai ngôi_sao nhận được nhiều lời ca_ngợi từ người hâm_mộ và truyền_thông 
+7,đại_diện bệnh_viện severance cho biết rất cảm_kích cặp_đôi và hứa sẽ sử_dụng số tiền hữu_ích 
+8,trước đó  ngày 20/5   nàng cỏ  goo_hye_sun một_mình tới ủy_ban nhân_dân quận kangnam  seoul để thực_hiện thủ_tục đăng_kí kết_hôn vì ahn_jae_hyun bận_rộn quay_phim 
+9,goo hye_sun  sn 1984  là diễn_viên hàn_quốc  nổi_tiếng từ bộ phim_truyền_hình boys_over_flowers  2009   phiên_bản hàn_quốc của bộ truyện_tranh nhật_bản nổi_tiếng con nhà giàu 
+10,cô còn được biết đến với vai_trò đạo_diễn  họa_sĩ … ahn_jae_hyun  sn 1987  kém goo_hye_sun 3 tuổi 
+11,anh được nhớ đến nhiều nhất với vai em_trai của nữ chính phim vì_sao đưa anh tới  bộ phim hàn_quốc từng làm mưa làm gió khắp châu_á năm 2013 – 2014 

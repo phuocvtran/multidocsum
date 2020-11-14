@@ -1,0 +1,22 @@
+idx, sentence
+0,đánh_bại niềm hy_vọng duy_nhất còn lại của quần_vợt chủ nhà là richard_gasquet ở tứ_kết với tỉ_số 57  76  60 và 62  tay_vợt giống số 2 andy_murray giành quyền tham_dự bán_kết roland_garros năm thứ 3 liên_tiếp 
+1,một kết_cục không nằm ngoài dự_đoán nhưng thực_tế cho thấy  murray đã phải rất chật_vật để vượt qua gasquet dù đây đã là lần thứ ba  họ gặp nhau tại giải đấu ở paris và gasquet_thua đủ cả ba lần 
+2,lần đầu_tiên vào đến tứ_kết giải grand_slam trên sân_nhà  thi_đấu dưới sự chứng_kiến của huyền_thoại rod_laver cùng đông_đảo khán_giả nhà  richard_gasquet như được tiếp thêm sức_mạnh khi đối_đầu cùng kình_địch murray  người thắng anh 7/10 lần chạm_trán trước đây 
+3,bị murray dẫn trước 52  gasquet hai lần bẻ bàn cầm giao_bóng của đối_thủ  giành điểm liên_tiếp 5 bàn để thắng ngược 75 ở ván đầu_tiên 
+4,“ kịch_bản ” tương_tự suýt được tái_hiện ở ván đấu tiếp_theo khi gasquet bị dẫn trước 52 và kiên_trì gỡ hòa_66  kéo murray vào loạt tiebreak may_rủi 
+5,tay_vợt chủ nhà đứng trước cơ_hội giành ván thắng thứ nhì khi dẫn 3/1 nhưng không lường trước sức phản_kích mạnh_mẽ của murray 
+6,ngôi_sao người scotland ghi liên_tiếp 6 điểm để lật_ngược tình_thế ở loạt đánh cân_não này và thắng ở điểm_số phụ 7/3 
+7,thoát_hiểm trong gang_tấc  murray trở_lại với chính mình khi tạo được thế_trận áp_đảo ở hai ván sau đó trước gasquet 
+8,anh dễ_dàng giành phần thắng 60 và 62  giành tấm vé bán_kết đầu_tiên tại giải năm nay 
+9,đối_thủ của murray ở bán_kết không ai khác hơn đương_kim vô_địch stan_wawrinka sau khi tay_vợt người thụy_sĩ loại nốt đối_thủ tây ban_nha cuối_cùng ở giải nam  albert_ramosvinolas trong ba ván đấu với tỉ_số 61  62  76 
+10,màn đại_chiến được chờ_đợi giữa murray và wawrinka sẽ là lần thứ 16 họ đối_đầu cùng nhau 
+11,murray tạm chiếm ưu_thế khi thắng 8/15 dịp chạm_trán trước đó nhưng wawrinka mới thực_sự đáng gờm bởi anh đánh_bại murray ở ba lần gặp_gỡ gần nhất 
+12,những trận đấu còn lại của vòng 4 đơn nam tiếp_tục được diễn ra trong chiều tối ngày 16 khi novak_djokovic ngược dòng đánh_bại roberto_bautista_agut với tỉ_số 36  64  61  75  đồng_hương của agut là david_ferrer cũng gác vợt trước hạt_giống số 7 tomas_berdych với tỉ_số 36  57  36 
+13,việc tay_vợt chủ_lực rafael_nadal phải rút_lui khỏi giải sớm vì chấn_thương đã là cú sốc lớn cho làng banh nỉ tây ban_nha vốn sản_sinh vô_số chuyên_gia đánh sân đất nện nhưng không còn đại_diện nào vào đến bán_kết 
+14,sau ngày thi_đấu thứ 11 của giải  duy_nhất garbine_muguruza còn trụ lại ở giải nữ với vị_trí hạt_giống số 4 và cô chính là niềm hy_vọng lớn nhất còn lại của quần_vợt xứ_sở bò_tót 
+15,dominic_thiem và david_goffin cũng giành quyền đi tiếp  tạo thành một cặp đấu hứa_hẹn sẽ rất hấp_dẫn ở tứ_kết bên cạnh cuộc đại_chiến novak_djokovic – tomas_berdych 
+16,từng gác vợt đến … 23 lần khi đối_đầu cùng djokovic  tay_vợt người ch_czech đang mơ làm được điều kỳ_diệu là quật ngã tay_vợt số 1 thế_giới hiện_tại 
+17,ở bảng nữ  hai “ hiện_tượng ” shelby_rogers và tsvetana_pironkova đã dừng bước ở tứ_kết nhưng bất_ngờ vẫn tiếp_tục xảy ra 
+18,từng vào đến trận chung_kết roland_garros nhưng chuyện xảy ra cách đây đã … sáu năm  ở tuổi 32  sam_stosur như muốn quay ngược thời_gian  tìm lại thời hoàng_kim khi cô giành ngôi á_quân_pháp mở_rộng 2010 và vô_địch mỹ mở_rộng 2011 
+19,cần_mẫn tham_dự mọi giải đấu dù biết trước sẽ bị loại rất sớm  stosur đã được tưởng_thưởng cho những nỗ_lực không mệt_mỏi của mình bằng việc trở_lại bán_kết roland_garros sau 4 năm 
+20,cô đánh_bại đàn_em tsvetana_pironkova với tỉ_số 64  76 và sẽ cùng hạt_giống số 4 garbine_muguruza đua_tranh_tấm vé đầu_tiên vào chơi trận chung_kết mùa này 

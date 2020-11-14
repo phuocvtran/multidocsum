@@ -1,0 +1,7 @@
+idx, sentence
+0,gồm nợ các ngân_hàng 513 tỷ đồng  doanh_nghiệp đối_tác 95 tỷ  thuế 11 tỷ và nhiều khoản khác 
+1,tổ_trưởng võ_thanh hùng nói  “ việc rà_soát vẫn tiếp_tục và công_nợ có_thể chưa dừng lại ” 
+2,để ổn_định tình_hình công_nhân ở 3 nhà_máy chế_biến cá_tra của cty_thiên_mã  tổ công_tác đề_xuất và ngân_hàng tiên_phong  chi_nhánh cần_thơ đồng_ý giải_ngân 350 triệu đồng trả nợ lương công_nhân 
+3,hiện_nay  ubnd thành_phố cần_thơ đang đề_nghị ngân_hàng tiếp_tục giải_ngân gần 600 triệu đồng để trả lương cho công_nhân  “ tránh trường_hợp công_nhân có_thể biểu_tình  làm mất trật_tự  an_ninh ” 
+4,cty thiên_mã thành_lập năm 2005  vốn điều_lệ 70 tỷ đồng  chuyên chế_biến cá_tra xuất_khẩu  thời_gian đầu kinh_doanh phát_đạt 
+5,lúc hưng_thịnh  cty_thiên_mã có 3 nhà_máy chế_biến và 12 trang_trại nuôi cá với hơn 3500 công_nhân  ông chủ phan_bá_tòng nổi_danh là đại_gia tòng “ thiên_mã ” 

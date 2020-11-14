@@ -1,0 +1,9 @@
+idx, sentence
+0,vụ cưỡng_bức tập_thể được cho là xảy ra tại thành_phố rio de janeiro vào cuối tuần trước 
+1,nạn_nhân là một cô gái 16 tuổi  cho rằng mình đã bị đánh thuốc_mê khi tới nhà bạn trai 
+2,sau khi tỉnh dậy vào sáng hôm sau  cô gái phát_hiện cơ_thể đầy vết_thương  không mảnh vải che thân và có rất nhiều đàn_ông lạ_mặt vây quanh 
+3,vài ngày sau  một đoạn băng kéo_dài 40 giây về vụ cưỡng_bức đã được tung lên mạng xã_hội  trong đó các thủ_phạm khoe_khoang rằng cô gái đã bị hãm_hiếp bởi khoảng 30 người đàn_ông 
+4,ngay_lập_tức  đoạn băng đã được lan_truyền rộng_rãi trước khi tài_khoản đăng_tải bị khóa 
+5,vụ_việc đã gây ra làn_sóng phẫn_nộ trên toàn brazil 
+6,nhiều cuộc biểu_tình đã diễn ra tại rio de janeiro để lên_án vụ_việc và phản_đối tình_trạng cưỡng_hiếp phụ_nữ tại nước này 
+7,cảnh_sát brazil ngay_lập_tức đã ban_hành lệnh bắt_giữ 30 người đàn_ông này  bao_gồm bạn trai của cô gái 

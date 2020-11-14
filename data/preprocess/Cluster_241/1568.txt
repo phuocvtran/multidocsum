@@ -1,0 +1,11 @@
+idx, sentence
+0,theo new_york_post  thành_viên với cân nặng 170 kg thuộc  ủy_ban đao_phủ  của nhóm khủng_bố is khét_tiếng được nhìn thấy trong một đoạn video mới được quân_đội syria công_bố 
+1,đoạn clip này cho thấy cảnh tên khủng_bố với biệt_danh “ máy_ủi ” đang nằm trên một chiếc xe_tải và bị binh_lính syria đưa đi 
+2,tên đao_phủ luôn được nhìn thấy với khuôn_mặt che_kín và đã từng xuất_hiện trong các đoạn video xử_tử hàng chục tù_nhân vô_tội và trẻ_em tại syria  iraq và yemen 
+3,man_rợ nhất là đoạn video ghi lại cảnh tên này hành_quyết một cậu bé 15 tuổi vì tội nghe nhạc pop của phương tây 
+4,hai năm trước  hắn được nhìn thấy trong một bức ảnh đang cầm một khẩu súng_máy nặng 52 kg  thường được gắn trên xe_tăng 
+5,năm 2015  một cậu bé syria 14 tuổi cho biết đã bị những tên khủng_bố cực_đoan hành_hạ vì từ_chối tham_gia is 
+6,omar  người đã từng chiến_đấu cho một nhóm phiến_quân  đã bị tra_tấn trong hơn một tháng trước khi bị “ máy_ủi ” tra_tấn trước mặt một nhóm lớn các trẻ_em 
+7,theo reuters  trong một diễn_biến khác tại syria  lực_lượng dân_quân được mỹ hậu_thuẫn với hàng ngàn chiến_binh ả_rập và người kurd cho biết đã giành được các ngôi làng gần biên_giới thổ nhĩ_kỳ  vị_trí chiến_lược quan_trọng  sau khi triển_khai một chiến_dịch mạnh_mẽ nhằm cắt đứt con đường cuối_cùng tiến thoát ra ngoài của is 
+8,tại iraq  thủ_tướng haider_abadi ra_lệnh cho quân_đội nước này ngăn_chặn các hoạt_động của is tại các lối vào của thành_phố fallujah  vị_trí cố_thủ gần nhất của is để tiến vào thủ_đô baghdad 
+9,chiến_dịch nhằm hạn_chế những thiệt_hại cho dân_thường  diễn ra 2 ngày sau khi quân_đội iraq đổ_bộ vào các khu_vực nông_thôn ở ngoại_ô thành_phố fallujah 

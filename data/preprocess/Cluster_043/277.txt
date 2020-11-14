@@ -1,0 +1,4 @@
+idx, sentence
+0,đối_tượng bị bắt_giữ là kwon_yonggil  34 tuổi  chịu trách_nhiệm quản_lý tiền của mạng_lưới kín giữa các khách_hàng 
+1,ngoài_ra  hai đối_tượng còn lại là oh_junghyun và kim_myungun  được giao nhiệm_vụ quản_lý trang_web  chịu trách_nhiệm thu và chuyển tiền cho khách_hàng 
+2,hai người này cũng đã bị bắt khi trở_về hàn_quốc 

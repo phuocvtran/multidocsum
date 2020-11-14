@@ -1,0 +1,4 @@
+idx, sentence
+0,huyện lục_yên đã cấp 7 nhà_bạt cho những hộ không_thể di_dời  các hộ có nhà bị hư_hại về cơ_bản đã được tu_sửa lại 
+1,huyện còn cứu_trợ khẩn_cấp cho những hộ đặc_biệt khó_khăn mỗi hộ 15 kg gạo và tiến_hành thống_kê  hỗ_trợ cho các hộ có nhà bị sập hoàn_toàn theo đúng quy_định của tỉnh 
+2,ông hoàng_đức_trọng  phó chủ_tịch ubnd huyện lục_yên cho biết  mặc_dù việc khắc_phục hậu_quả gặp nhiều khó_khăn song đến nay về cơ_bản người dân đã yên_tâm ổn_định cuộc_sống  sẵn_sàng thực_hiện quyền_lợi và nghĩa_vụ công_dân cho cuộc bầu_cử đại_biểu quốc_hội và hội_đồng_nhân_dân các cấp diễn ra vào sáng 22/5 

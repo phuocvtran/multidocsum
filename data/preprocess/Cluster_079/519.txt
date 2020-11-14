@@ -1,0 +1,5 @@
+idx, sentence
+0,sáng sớm ngày 23/5  một phụ_nữ trong lúc nhặt ve_chai tại khu đất trống cạnh chung_cư thạnh_mỹ_lợi  cách đường vành_đai phía đông ra cầu phú_mỹ vài trăm mét   thuộc phường thạnh_mỹ_lợi  quận 2  tphcm thì nhìn thấy bao_tải trắng khá lớn nằm dưới bụi cây 
+1,người phụ_nữ đã tiến_hành lại gần kiểm_tra thì hốt_hoảng phát_hiện thi_thể người nằm gọn bên trong nên hô_hoán  bỏ chạy  đồng_thời  thông_báo cho cơ_quan_chức_năng 
+2,vụ_việc đã khiến hàng trăm người dân địa_phương hiếu kỳ kéo đến để theo_dõi 
+3,ngay sau đó  các đơn_vị nghiệp_vụ công_an quận 2 có_mặt thu_thập nhiều dấu_vết  vật_dụng xung_quanh và ghi lời khai những nhân_chứng để làm rõ 

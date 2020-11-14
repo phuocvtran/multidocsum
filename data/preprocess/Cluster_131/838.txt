@@ -1,0 +1,10 @@
+idx, sentence
+0,ngày 24/5/2016  công_ty honda việt_nam đã cho ra_mắt sản_phẩm xe thể_thao tay côn mang tên winner 150 
+1,phát_biểu tại buổi lễ ra_mắt  ông koij_teramoto  trợ_lý giám_đốc lĩnh_vực kinh_doanh công_ty honda việt_nam cho_biết  với 20 năm có_mặt tại thị_trường việt_nam  honda liên_tục phát_triển và đạt được sự tín_nhiệm của khách_hàng 
+2, nhu_cầu khách_hàng tăng lên  họ sử_dụng xe không chỉ là 1 phương_tiện còn là cách thể_hiện phong_cách và đẳng_cấp của mình 
+3,chính vì_vậy  winner 150 ra_đời  đáp_ứng được nhu_cầu cũng như sự tin_tưởng  tin_yêu của khác hàng dành cho honda   đại_diện honda việt_nam nhấn_mạnh 
+4,winner 150 sử_dụng động_cơ phun xăng điện_tử pgm – fi  150 cc  dohc hộp_số 6 cấp  4 kỳ  xi_lanh đơn  làm mát bằng dung_dịch  động_cơ cao nhất của dòng xe 150 cc hiện_đại 
+5,đây là động_cơ của xe được thiết_kế chuyên_dụng cho dòng xe thể_thao của honda 
+6,thiết_kế bên ngoài mạnh_mẽ  cá_tính  đèn led nhỏ gọn  đồng_hồ analog hiện_đại  bánh_xe đường_kính lớn  lốp không săm cùng hệ_thống phanh đường_kính rộng là những ưu_điểm vượt_trội của winner 150 
+7,theo chia_sẻ của đại_diện honda  đối_tượng chính mà dòng xe này hướng đến là nhóm đối_tượng luôn biết đón_đầu xu_hướng 
+8,dự_kiến honda sẽ lắp_ráp 100 nghìn xe / năm 

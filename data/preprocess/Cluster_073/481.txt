@@ -1,0 +1,10 @@
+idx, sentence
+0,trong 2 ngày 8 và 114  chị cao_thị_hằng  quê_quán ở tỉnh nghệ_an  trú tại xã kim_chung  huyện hoài_đức  tp hà_nội và anh nguyễn_hoàng_quang  trú tại phường bưởi  quận tây_hồ  tp hà_nội đã đến phòng cskt  công_an tp hà_nội tố_cáo phong lừa hàng trăm triệu đồng của 2 bị hại nêu trên 
+1,năm 2011  phong quen_biết chị hằng  trong khi anh ta là lao_động tự_do  không có nghề_nghiệp nhất_định  nhưng đã tự nhận mình là chủ_tịch hđqt công_ty xây_dựng 69 hà_nội 
+2,đến tháng 82014  phong biết được thông_tin về chị hằng có nhu_cầu xin cho người_nhà là anh võ_duy_hân  trú ở huyện diễn_châu  tỉnh nghệ_an đăng_ký và thi vào học_viện csnd nhưng không đủ điểm  nay muốn xin vào học tại trường_trung_cấp csnd_vi  tại tỉnh hưng_yên  
+3,thấy vậy  phong đã dàn_dựng màn_kịch lo chạy cho anh dân vào trường_trung_cấp csnd với giá 400 triệu đồng 
+4,sau khi thoả_thuận  chị hằng tin_tưởng nên đã 3 lần chuyển tổng_cộng là 400 triệu đồng  mỗi lần nhận tiền_phong đều có giấy biên_nhận  
+5,ngoài_ra  cùng thời_điểm này phong cũng với thủ_đoạn tương_tự còn thoả_thuận với anh quang  là bạn chị hằng  nhận chạy một suất vào trường_trung_cấp cảnh_sát vũ_trang  tại thị_trấn xuân_mai  huyện chương_mỹ  tp hà_nội  cho anh trần_đức_thịnh người_nhà anh quang với giá 380 triệu đồng  anh quang tin là thật nên đã 2 lần chuyển với tổng_số tiền 230 triệu đồng cho phong  số tiền còn lại khi anh thịnh nhập_học sẽ giao nốt 
+6,nhưng thực_tế sau khi phong nhận tiền của 2 bị hại nêu trên  những lời hứa_hẹn vào trường công_an đều không có thật 
+7,đồng_thời các bị hại nhiều lần tìm phong để đòi lại tiền nhưng phong không trả 
+8,biết mình bị lừa nên chị hằng và anh quang đã đến cơ_quan công_an tố_cáo 

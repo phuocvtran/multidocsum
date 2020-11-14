@@ -1,0 +1,8 @@
+idx, sentence
+0,theo báo_giới đức đưa tin  real_madrid đã đạt được thỏa_thuận cá_nhân với robert_lewandowski  sau khi tổng_giám_đốc jose_angel_sanchez có cuộc gặp_gỡ với đại_diện của chân sút người ba_lan  ông cezary_kucharski trong chuyến hành_quân của bayern_munich đến madrid gặp atletico tại bán_kết champions_league 
+1,vấn_đề bây_giờ chỉ nằm ở bayern_munich  đội bóng chủ_quản của lewandowski 
+2,nếu bayern lắc_đầu  mọi thỏa_thuận là vô_giá_trị 
+3,và “ hùm xám xứ bavaria ” không dễ nhả lewandowski cho real  bởi_lẽ thời_buổi này kiếm được một trung_phong chất_lượng rất khó  trừ khi sẵn_sàng chi ra 100 triệu euro 
+4,tuy_nhiên  bayern đang gặp khó trong việc gia_hạn hợp_đồng với lewandowski 
+5,hợp_đồng giữa chân sút người ba_lan và đội chủ sân allianz_arena còn thời_hạn đến tận tháng 6/2019  dù vậy blđ_bayern đã rục_rịch đàm_phán gia_hạn 
+6,lewandowski đòi được hưởng mức lương 20 triệu euro / năm  một con_số bayern không_thể đáp_ứng 

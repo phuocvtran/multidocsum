@@ -1,0 +1,16 @@
+idx, sentence
+0,trung_tâm nghiên_cứu bóng_đá quốc_tế củathụy_sỹ  cies_football_observatory  vừa cho công_bố bản cập_nhật thứ_hạng 100 cầu_thủ bóng_đá giá_trị nhất châu_âu 
+1,theo đó  ngôi_vị số 1 không thay_đổi so với đợt công_bố hồi đầu năm khi vẫn thuộc về ngôi_sao lionel_messi của barca với mức 163 triệu bảng anh 
+2,đứng ở vị_trí thứ hai trong danh_sách là một ngôi_sao khác của barca – neymar  155 triệu bảng anh 
+3,trong khi cristiano_ronaldo của real xếp thứ 3 trong danh_sách với 106 triệu bảng  thấp hơn rất nhiều so với giá_trị của messi hay neymar 
+4,đứng vị_trí thứ 4 là tiền_đạo antoine_griezmann của atletico  93 triệu  
+5,trong tốp 10  premier_league có hai đại_diện góp_mặt là tiền_đạo harry_kane  tottenham  và anthony_martial  mu  
+6,theo đánh_giá của cies  giá_trị của kane lúc này là 87 triệu bảng  đứng thứ 5 
+7,còn martial đứng ngay sau đó với giá_trị lên tới 86 triệu bảng 
+8,bất_ngờ nhất là kane và martial cùng xếp trên tiền_đạo luis_suarez của barca 
+9,“ vua phá_lưới ” la_liga mùa vừa_qua có giá_trị 81 triệu bảng và xếp thứ 7 
+10,ba vị_trí còn lại trong tốp 10 lần_lượt thuộc về tiền_đạo paulo_dybala  juventus  80 triệu bảng   sergio_aguero  man_city  75 triệu bảng  và tiền_vệ paul_pogba  juventus  70 triệu bảng  
+11,gareth bale chỉ xếp vị_trí thứ 11 với giá_trị 62 triệu bảng 
+12,so với lần công_bố hồi tháng 1  bale đã tăng tới 6 bậc 
+13,một điểm đáng chú_ý nữa là đội_trưởng của mu và đội_tuyển anh  wayne_rooney  tiếp_tục không có tên trong danh_sách 100 cầu_thủ giá_trị nhất châu_âu 
+14,cies football_observatory là một tổ_chức nghiên_cứu liên_kết với đại_học neuchatel  thụy_sỹ   quy_tụ đội_ngũ nhân_viên khá đông_đảo chuyên nghiên_cứu về bóng_đá  đặc_biệt là lĩnh_vực giá_trị chuyển_nhượng 

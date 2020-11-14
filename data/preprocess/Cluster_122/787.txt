@@ -1,0 +1,6 @@
+idx, sentence
+0,vượt qua những cái tên đình_đám khác là taylor_swift  justin_bieber  drake và the_weeknd  adele đã xuất_sắc dành được giải_nghệ_sĩ xuất_sắc  giải_thưởng đắt_giá nhất tại billboard_music_awards 2016 
+1,tuy_nhiên  cô đã không_thể có_mặt tại lễ trao giải vì đang bận với tour diễn của mình 
+2,kết_quả trên được đánh_giá dựa trên bảng xếp_hạng cuối năm của nielsen_mỹ  bao_gồm số_liệu về doanh_thu bán đĩa  tải nhạc và streaming trên các trang nghe nhạc trực_tuyến 
+3,năm_ngoái  danh_hiệu nghệ_sĩ xuất_sắc thuộc về taylor_swift – người đứng đầu bxh_billboard 200 album với siêu_phẩm 1989 
+4,cùng_với nghệ_sĩ xuất_sắc  adele cũng giành thêm cho mình 4 giải_thưởng quan_trọng khác ở lễ trao giải này là là album xuất_sắc tại bxh_billboard 200  nghệ_sĩ nữ xuất_sắc  ca_khúc bán_chạy nhất và nghệ_sĩ xuất_sắc tại bxh_billboard 200 

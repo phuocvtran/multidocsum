@@ -1,0 +1,7 @@
+idx, sentence
+0,ngày 19/5  cục quản_lý chất_lượng nông  lâm  thủy_sản  bộ_nnptnt  đã có công_văn gửi chi_cục quản_lý chất_lượng nông  lâm và thủy_sản các tỉnh  thành_phố gồm  nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận cùng các trung_tâm chất_lượng nông_lâm thủy_sản vùng 1  vùng 2  vùng 3 yêu_cầu tổ_chức lấy mẫu muối để kiểm_tra các chỉ_tiêu về an_toàn thực_phẩm 
+1,nội_dung công_văn nêu rõ  trong thời_gian qua xảy ra hiện_tượng cá chết bất_thường tại vùng ven biển các tỉnh miền trung  để đảm_bảo an_toàn cho người tiêu_dùng  cục quản_lý chất_lượng nông_lâm thủy_sản đề_nghị chi_cục quản_lý chất_lượng nông_lâm thủy_sản các địa_phương nêu trên thực_hiện lấy 3 mẫu muối sản_xuất từ 3 cơ_sở sản_xuất của địa_phương gửi các trung_tâm chất_lượng nông_lâm thủy_sản khu_vực để phân_tích các chỉ_tiêu kim_loại nặng gồm  as  cd  pb  hg 
+2,chi_cục quản_lý chất_lượng nông_lâm thủy_sản các địa_phương báo_cáo kết_quả phân_tích  trên cơ_sở đối_chiếu với mức giới_hạn cho_phép về cục quản_lý chất_lượng nông_lâm thủy_sản ngay trong ngày 20/5 
+3,các trung_tâm phân_tích có trách_nhiệm tiếp_nhận và ưu_tiên phân_tích các chỉ_tiêu kim_loại nặng để trả kết_quả trong thời_gian sớm nhất 
+4,cách đây 1 tuần  cục chế_biến nông_lâm thủy_sản và nghề muối đã có văn_bản gửi lãnh_đạo bộ nnptnt báo_cáo tình_hình sản_xuất muối ở một_số tỉnh  thành khu_vực bắc_trung_bộ 
+5,theo đó  tại các tỉnh nghệ_an  hà_tĩnh  quảng_bình  quảng_trị có sản_xuất muối theo phương_pháp thủ_công nhưng sản_lượng muối làm ra chủ_yếu để làm nguyên_liệu chế_biến muối tinh và muối i ốt 

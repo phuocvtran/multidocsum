@@ -1,0 +1,15 @@
+idx, sentence
+0,latam  hãng hàng_không lớn nhất khu_vực mỹ_latin  tuyên_bố tạm dừng các chuyến bay tới venezuela do tình_hình kinh_tế ngày_càng trở_nên tồi_tệ ở nước này  bbc đưa tin 
+1,động_thái này của latam được công_bố chỉ một ngày sau khi hãng hàng_không đức_lufthansa nói sẽ ngừng bay tới venezuela 
+2,lý_do mà lufthansa đưa ra là quốc_gia nam_mỹ nợ hãng nhiều triệu usd tiền vé máy_bay 
+3,là một quốc_gia sở_hữu trữ_lượng dầu_lửa khổng_lồ  venezuela đã chịu tác_động mạnh khi giá dầu thế_giới giảm sâu 
+4,cùng với đó  các biện_pháp quản_lý kinh_tế sai_lầm đã dẫn tới siêu lạm_phát và thiếu kinh_niên các mặt_hàng thiết_yếu phục_vụ cuộc_sống hàng ngày của người_dân 
+5,nhiều hãng hàng_không đã nói rằng các biện_pháp quản_lý tiền_tệ mà venezuela áp_dụng khiến họ không_thể đổi doanh_thu sang usd và chuyển tiền ra nước_ngoài 
+6,trong tuyên_bố ra ngày 30/5  latam nói hãng sẽ tạm dừng các chuyến bay tới sân_bay quốc_tế ở caracas “ trong một khoảng thời_gian không xác_định ” 
+7,các chuyến bay từ sao paulo  brazil tới caracas sẽ bị ngừng đầu_tiên  tiếp đó là các chuyến tới caracas từ lima  peru và santiago  chile 
+8,các biện_pháp kiểm_soát tiền_tệ chặt_chẽ đã được cố tổng_thống venezuela_hugo_chavez áp_dụng từ năm 2003 
+9,cách đây 2 năm  các biện_pháp này được tổng_thống nicolas_maduro  người kế_nhiệm ông chavez  thắt chặt thêm 
+10,với các biện_pháp kiểm_soát tiền_tệ ngặt_nghèo  nhiều hãng bay hoạt_động ở venezula buộc phải giảm hoạt_động ở nước này do không_thể chuyển ra nước_ngoài hàng tỷ usd doanh_thu được giữ bằng đồng nội_tệ bolivar 
+11,một_số hãng hàng_không ở venezuela hiện đã bắt_đầu yêu_cầu hành_khách phải trả tiền vé bằng usd 
+12,chính_phủ venezuela cho biết sẽ sử_dụng dự_trữ ngoại_hối để trả cho những mặt_hàng cần_thiết như thuốc_men và máy_móc phục_vụ sản_xuất công_nghiệp 
+13,tuy_nhiên  dự_trữ ngoại_hối của venezuela hiện còn không nhiều 

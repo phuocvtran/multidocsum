@@ -1,0 +1,14 @@
+idx, sentence
+0,ngày 19/5  khoa y_dược  đh đà_nẵng  tổ_chức lễ macchabée tri_ân những người đã hiến xác cho công_tác giáo_dục và y_khoa 
+1,khoảng 300 sinh_viên khoa y_dược khoác áo blue kết đài_sen  gấp hạc giấy và rải hoa_cúc dọc đường đi 
+2,các sinh_viên cho biết  đã tự tay làm những đài_sen bằng giấy để tỏ lòng tưởng_nhớ  biết_ơn những người hiến xác cho bộ_môn giải_phẫu học 
+3,hoa_cúc_vàng được sinh_viên rải dọc trên lối dẫn vào nhà đặt thi_hài 
+4,sinh_viên ngành y_dược rước hương_án đến nơi đặt thi_hài những người hiến xác 
+5,bác_sĩ phan_bảo_khánh  phó chủ_tịch hội hình_thể việt_nam cho_biết  những người hiến xác có_thể có tên  có_thể không tên nhưng tất_cả đều được tri_ân vì đóng_góp của mình 
+6,đây là lần đầu_tiên ở đà_nẵng có lễ macchabée 
+7,nghi_lễ này bắt_nguồn từ phương tây vào khoảng đầu thế_kỷ xvi mang tên một bác sỹ người pháp có công lớn với bộ_môn giải_phẫu học 
+8,những buổi lễ macchabée lần đầu_tiên được tổ_chức ở việt_nam vào khoảng đầu thế_kỷ 20  khi trường đh y_khoa đầu_tiên được thành_lập 
+9,hiệu_trưởng là bác_sĩ alexandre_yersin 
+10,sau đó  lễ bị gián_đoạn trong một thời_gian dài 
+11,đến năm 1990 mới được khôi_phục trở_lại trường đh y_dược tp_hcm 
+12,sinh_viên đà_nẵng tỏ lòng thành_kính trong nghi_lễ tri_ân người hiến xác 

@@ -1,0 +1,18 @@
+idx, sentence
+0,vụ_việc xảy ra tại chung_cư phúc_yên  p 15  qtân_bình  tphcm vào đêm 27/5 
+1,hiện công_an qtân_bình đang phối_hợp cùng phòng cảnh_sát hình_sự  công_an tphcm để khoanh_vùng  truy bắt nhóm cướp táo_tợn 
+2,nạn_nhân bị thương_tích là anh rachid  sn 1982  quốc_tịch ma_rốc  với thương_tích ở ngực và trán  hiện đang cấp_cứu tại bệnh_viện chợ_rẫy_tphcm
+3,người vợ  là chị trần_thị_thu_trang  sn 1980  đang túc_trực để chăm_sóc chồng 
+4,hiện_trường tại khu_vực xảy ra vụ cướp tại ngay chung_cư phúc_yên  p 15  qtân_bình theo thông_tin điều_tra ban_đầu và khai_báo của vợ_chồng anh rachid_– chị trang  khoảng 20 h đêm 27/5 vợ_chồng này cùng đứa con nhỏ 2 tuổi đi ô_tô về chung_cư phúc_yên 
+5,khi xe đến ngay cửa hầm chung_cư  vợ_chồng anh rachid xuống xe  trong đó anh rachid bế con nhỏ 
+6,bất_ngờ 2 thanh_niên đều đeo khẩu_trang che_kín mặt  mặc áo_mưa  đi trên 1 xe_gắn_máy chạy áp_sát  giật lấy chiếc ví mà chị trang cầm trên tay 
+7,chị trang_dù bất_ngờ nhưng chạy theo níu_kéo vào áo_mưa làm 2 đối_tượng ngã xuống xe 
+8,anh rachid thấy vậy  liền đặt con xuống đất  chạy đến hỗ_trợ vợ giằng_co với 2 kẻ_cướp 
+9,tuy_nhiên lúc này 1 trong 2 thanh_niên rút hung_khí ra chống_trả quyết_liệt 
+10,theo đó đối_tượng này đã đâm làm anh rachid bị_thương ở ngực  trán … “ chồng tôi bị thương_tích máu ra nhiều nhưng vợ_chồng tôi tôi vẫn cố_gắng đuổi theo và truy_hô 
+11,ngoài_ra còn có 2 tên xông đến làm nhiệm_vụ cản chúng_tôi lại  rồi cả 4 tên tẩu_thoát ”  chị trang kể lại 
+12,1 số người dân xung_quanh nghe ồn_ào chạy ra  chứng_kiến cảnh các đối_tượng vung hung_khí tấn_công người nhưng chúng hung_hãn  không ai dám can_thiệp 
+13,sau đó nhóm 4 đối_tượng lên xe tẩu_thoát 
+14,anh rachid được gia_đình  người dân đưa vào bệnh_viện chợ_rẫy tphcm cấp_cứu 
+15,ngoài_ra đứa con nhỏ của vợ_chồng anh rachid cũng bị té khi vụ_việc xảy ra  bị sưng ở vùng mặt 
+16,chị trang xác_nhận  vợ_chồng chị đã bị cướp đi 10000 usd cùng 2 đtdđ_hiệu iphone 

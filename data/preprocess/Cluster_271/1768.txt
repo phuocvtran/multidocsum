@@ -1,0 +1,13 @@
+idx, sentence
+0,ông lê_ngọc_hùng  giám_đốc khu quản_lý giao_thông đô_thị số 2  cho biết nút giao_thông mỹ_thủy là điểm giao của hai trục giao_thông chính quan_trọng của thành_phố  trong đó trục đường nguyễn_thị_định là đường vào cảng cát_lái với lưu_lượng xe qua_lại vận_chuyển hàng_hóa cực_kỳ lớn 
+1,mỗi ngày cảng cát_lái tiếp_nhận khoảng hơn 18000 lượt phương_tiện ra_vào 
+2,tại nút giao_thông này thường_xuyên xảy ra tình_trạng ùn_tắc giao_thông nghiêm_trọng ảnh_hưởng đến quá_trình vận_chuyển hàng_hóa ra vào cảng của các phương_tiện 
+3,hiện_nay đường_vành_đai 2  đoạn từ phú mỹ đến cầu rạch_chiếc  đã được đưa vào khai_thác và đường_cao_tốc tphcm –_long_thành – dầu_giây đã kết_nối vào đường_vành_đai 2 tại nút giao_thông phú_hữu  càng làm tăng lượng phương_tiện lưu_thông_qua nút giao_thông mỹ_thủy 
+4,trước tình_hình đó  ubnd tphcm đã chấp_thuận triển_khai thực_hiện dự_án trọng_điểm xây_dựng nút giao_thông mỹ_thủy theo đề_nghị của sở giao_thông vận_tải với mục_tiêu tăng khả_năng thông xe  giải_quyết tình_trạng ùn ứ  đáp_ứng tốt nhu_cầu vận_chuyển hàng_hóa vào cảng cát_lái và kết_nối đường vành đại 2 
+5,dự_án gồm 1 cầu_vượt theo hướng vành_đai 2 gồm 4 làn xe rộng 17 mét  dài 316 mét  1 hầm chui rẽ trái từ vành đại 2 đi cát_lái gồm 2 làn xe rộng 9 mét  phần hầm kín dài 80 mét  xây_dựng cầu_kỳ hà 3 gồm 4 làn xe rộng 17 mét  dài 75 mét  các nhánh đường bờ tả và hữu rạch mỹ_thủy 
+6,tổng mức đầu_tư của của giai_đoạn 1 là 83793 tỉ đồng từ nguồn vốn ngân_sách thành_phố 
+7,về tiến_độ thực_hiện dự_án  ngay sau khi khởi_công sẽ triển_khai thực_hiện gói thầu xây_lắp cầu_kỳ hà 3  thời_gian thi_công là 6 tháng với kinh_phí 72 tỷ đồng 
+8,đối_với gói thầu cầu_vượt và hầm chui trên đường_vành_đai 2 sẽ tiến_hành triển_khai vào tháng 82016  các gói thầu bờ tả và hữu rạch mỹ_thủy sẽ triển_khai sau khi giải_phóng xong mặt_bằng 
+9,khi hoàn_thành giai_đoạn 1  dự_án sẽ giúp tách được các dòng xe chính có lượng phương_tiện lớn lưu_thông khác mức qua nút  như dòng xe trên đường_vành_đai 2 sẽ lưu_thông theo hầm chui về hướng cát_lái  dòng xe từ cầu rạch_chiếc 2 về phú_mỹ sẽ lưu_thông qua cầu_vượt số 1 
+10,bên_cạnh đó  dự_án cũng đồng_thời tách được lượng xe 2 bánh trên đường nguyễn_thị_định lưu_thông riêng qua hầm chui  góp_phần giảm nguy_cơ mất an_toàn giao_thông so với phương_án lưu_thông chung giữa 2 bánh và xe ô_tô như hiện_nay 
+11,tuổi_thọ của công_trình thiết_kế 100 năm và vận_tốc thiết_kế 60 km / h đối_với cầu và 40 km / h đối_với hầm chui 

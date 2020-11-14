@@ -1,0 +1,3 @@
+idx, sentence
+0,theo cơ_quan_chức_năng  nạn_nhân là thiếu_tá nguyễn_duy_chuyển  46 tuổi  quê tại huyện tĩnh_gia  tỉnh thanh_hóa  hiện đang là trợ_lý phòng kinh_doanh của sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh đắk_lắk 
+1,hiện các cơ_quan_chức_năng đã tiến_hành đưa xác nạn_nhân về bệnh_xá của sư_đoàn 470 để tiến_hành khám_nghiệm tử_thi điều_tra  làm rõ nguyên_nhân 

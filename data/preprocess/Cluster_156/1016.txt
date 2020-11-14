@@ -1,0 +1,12 @@
+idx, sentence
+0,theo ông thane_maynard  giám_đốc sở_thú  sự_việc xảy ra hôm 285 khi bé trai này trèo lên rào_chắn chuồng khỉ_đột rồi ngã từ độ cao khoảng hơn 3 mét vào bên trong 
+1,theo lời nhân_chứng  con khỉ_đột sau đó đã tóm lấy  kéo_lê và quăng cậu bé 
+2,mối nguy từ con khỉ_đột đã được loại_bỏ khi nhân_viên sở thú cincinnati bắn chết con vật bằng một phát súng_trường 
+3,cậu bé sau đó đã được đua đến bệnh_viên nhi_cincinnati với những chấn_thương khá nặng 
+4,cậu bé vẫn tỉnh_táo trong suốt khoảng 10 phút vụ_việc xảy ra 
+5,giám_đốc maynard cho hay con khỉ_đột bị giết chết tên harambe  nặng khoảng 181 kg  là con khỉ đực thuộc giống khỉ_đột lưng bạc sống ở vùng đầm_lầy và đồng_bằng các quốc_gia phía tây châu_phi 
+6,đây được xem là một trong những loài linh_trưởng đang bị đe_dọa và có nguy_cơ tuyệt_chủng rất cao 
+7,trong một buổi họp_báo  ông maynard giải_thích  “ sở thú của chúng_tôi chịu trách_nhiệm bảo_vệ các động_vật đang bị đe_dọa và chúng_tôi không muốn rơi vào tình_huống phải giết chết chúng 
+8,nhưng trong tình_huống như vậy thì điều gì cũng có_thể xảy ra và chúng_tôi đã đưa ra lựa_chọn đúng 
+9,đội an_ninh sở_thú đã phản_ứng nhanh để cứu mạng đứa trẻ ” 
+10,về lý_do không dùng thuốc_mê  ông maynard giải_thích rằng với một con vật to_lớn như con khỉ_đột này thì thuốc_mê cũng phải mất vài phút mới có tác_dụng 

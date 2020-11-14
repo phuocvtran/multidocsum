@@ -1,0 +1,20 @@
+idx, sentence
+0,jose_mourinho và pep_guardiola từng có những cuộc đấu_trí  đấu võ mồm vô_cùng căng_thẳng khi cả hai dẫn_dắt real_madrid và barca 
+1,mùa tới  họ sẽ đứng ở hai đầu chiến_tuyến đầy khốc_liệt của thành manchester với mourinho nắm quyền ở mu còn pep chèo_lái man_city 
+2,tuy_nhiên trong phát_biểu mới đây  hlv mourinho lại gạt_bỏ câu_chuyện cá_nhân với pep 
+3,ông đến mu là giúp đội bóng hướng tới danh_hiệu premier_league chứ không phải dành cho tập_trung đấu_đá pep 
+4,nếu điều đó xảy ra thì đội khác sẽ tận_dụng thời_cơ để vô_địch 
+5,“ kinh_nghiệm của bản_thân cho tôi sự tỉnh_táo ”  mourinho nói 
+6,“ tôi đã làm_việc 2 năm ở tây ban_nha  nơi mà chỉ tôi hoặc ông ấy trở_thành nhà vô_địch 
+7,chúng_tôi như thế bị dồn vào thế phải sinhtử với nhau vậy ” 
+8,“ vì_vậy cuộc_chiến cá_nhân giữa tôi và pep có ảnh hướng lớn đến kết_quả của cuộc đua danh_hiệu 
+9,nếu ở premier_league  tôi quá tập_trung vào ông ấy và man_city  và ngược_lại  đội khác sẽ trở_thành nhà vô_địch 
+10,chỉ đơn_giản là tôi không muốn sa_đà vào tranh_cãi với pep ” 
+11,“ premier_league luôn khốc_liệt 
+12,4 nhà vô_địch trong 4 năm cho thấy sự cạnh_tranh ở đây lớn ra sao  và tất_nhiên người_ta cũng nói rất nhiều tới tiền bản_quyền truyền_hình 
+13,nó cho_phép các đội bóng có sự đầu_tư năm qua năm 
+14,nó khác_biệt với các giải khác  nơi mà đội bóng lớn luôn chiếm hết thị_phần ” 
+15,theo lịch  ngày 7/7  mourinho sẽ chính_thức bắt_tay vào công_việc với các cầu_thủ mu 
+16,tới ngày 19/7  họ sẽ tới trung_quốc đá giao_hữu  22/7 gặp dortmund  25/7 gặp man_city  
+17,ngày 3/8 là một trận giao_hữu khác trước khi tranh siêu_cúp_anh với leicester ngày 7/8 
+18,ngày 13/8  mùa giải mới bắt_đầu 

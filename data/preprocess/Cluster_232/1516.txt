@@ -1,0 +1,12 @@
+idx, sentence
+0,cách đây ít ngày  giám_đốc điều_hành của bayern_munich  ông karlheinz_rummenigge khẳng_định hùm xám sẽ không bán robert_lewandowski với bất_cứ mức giá nào 
+1,thậm_chí  ông còn tuyên_bố chắc_nịch rằng chân sút người ba_lan sẽ tiếp_tục khoác áo die_roten ở mùa giải tới 
+2,sở_dĩ lãnh_đạo real_madrid phải đưa ra thông_báo trên là bởi trước đó  đại_diện của lewandowski và tiền_đạo này thừa_nhận đã có cuộc tiếp_xúc với real_madrid 
+3,tuy_nhiên  theo thông_tin mới được tờ as  tây ban_nha  tiết_lộ  lewandowski đang dần vượt khỏi tầm với của bayern_munich 
+4,cụ_thể  nguồn tin này cho biết  chân sút người ba_lan và real_madrid đã đạt các thỏa_thuận sơ_bộ liên_quan tới quyền_lợi và mức đãi_ngộ 
+5,theo đó  lewandowski đã yêu_cầu mức lương 20 triệu euro / mùa và đã được real_madrid đồng_ý 
+6,trước đó  đại_diện của real_madrid  ông jose_angel_sanchez đã gặp_gỡ đại_diện của lewandowski  cezary_kucharski tại thủ_đô madrid 
+7,từ cuộc đàm_phán trên  lewandowski đã nảy_sinh ý_định sang real madrid chơi bóng ngay trong hè này 
+8,cũng bởi_vậy  anh đã từ_chối kí bản hđ mới với sân allianz_arena  hợp_đồng hiện_tại có hiệu_lực tới hết mùa hè năm 2019  
+9,thậm_chí  theo as  chân sút người ba_lan còn thúc_giục real_madrid sớm tìm tiếng nói_chung với bayern_munich 
+10,trong 1 tuyên_bố gần đây  lewandowski cũng cho thấy anh không tỏ ra quá mặn_mà với việc ở lại bayern_munich 

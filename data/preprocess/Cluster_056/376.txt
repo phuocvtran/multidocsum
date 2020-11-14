@@ -1,0 +1,10 @@
+idx, sentence
+0,trong tập mới nhất của chương_trình truyền_hình thực_tế ‘ tân_tây du_kí 2 ′  ahn_jae_hyun và các thành_viên trong đoàn được giao cho một nhiệm_vụ đặc_biệt 
+1,đạo_diễn sản_xuất chương_trình yêu_cầu mọi người phải nhắn_tin cho người mình yêu_thương nói ‘ anh yêu em ’ và phải nhận lại được tin ‘ em cũng yêu anh ’ thì mới hoàn_thành nhiệm_vụ 
+2,nam diễn_viên jae_hyun là người nhanh tay nhất 
+3,anh đã nhắn_tin gửi cho goo_hye_sun với nội_dung  ‘ vợ à  anh yêu em ’ 
+4,có_lẽ do đang cầm điện_thoại trên tay nên hye_sun trả_lời ngay_lập_tức  ‘ haha  chồng à  em cũng yêu anh ’ 
+5,có_thể thấy goo_hye_sun và ahn_jae_hyun đang sống những ngày_tháng hạnh_phúc nhất của cuộc_đời 
+6,họ cùng nhau chờ_đợi đến ngày được chính_thức nên duyên vợ_chồng 
+7,trước thềm đám_cưới của cặp_đôi này  tạp_chí marie_claire đã cho ra_mắt bộ ảnh ghi lại những khoảnh_khắc lãng_mạn của 2 ngôi_sao trong chuyến đi đến đảo jeju vừa_qua 
+8,theo đúng kế_hoạch  ‘ nàng cỏ ’ và bạn trai sẽ tiến_hành đăng_ký_kết_hôn vào ngày 21/5 và tổ_chức tiệc mừng riêng_tư giữa 2 bên gia_đình 

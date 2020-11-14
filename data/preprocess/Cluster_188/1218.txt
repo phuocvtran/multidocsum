@@ -1,0 +1,7 @@
+idx, sentence
+0,theo reuters  quan_ngại an_ninh tại châu_âu tăng cao kể từ các cuộc tấn_công ngày 13112015 tại paris khiến 130 người thiệt_mạng và vụ khủng_bố ngày 2232016 tại brussels  bỉ khiến 32 người chết 
+1, chúng_tôi cảnh_báo công_dân mỹ về các cuộc tấn_công khủng_bố tiềm_năng trên khắp châu_âu  nhắm đến các sự_kiện lớn  các địa_điểm du_lịch  nhà_hàng  trung_tâm thương_mại và các dịch_vụ giao_thông vận_tải   bộ ngoại_giao mỹ thông_báo 
+2,lần cảnh_báo trước của mỹ về nguy_cơ khủng_bố châu_âu_là vào ngày 223 sau các cuộc tấn_công tại sân_bay và ga tàu_điện_ngầm tại thủ_đô brussels của bỉ và cảnh_báo này sẽ hết hiệu_lực vào cuối tháng 6 
+3,phát_ngôn_viên bộ ngoại_giao john_kirby cho biết cảnh_báo lần này là mở_rộng trước của cảnh_báo trên 
+4,tuy_nhiên ông kirby cũng nói rằng hiện chưa có thông_tin tình_báo nào về các vụ khủng_bố đặc_biệt nhắm đến các sự_kiện tại châu_âu 
+5,đáp lại cảnh_báo của mỹ  người đứng đầu đơn_vị cảnh_sát chống khủng_bố ý là lamberto_giannini cho biết không có  cảnh_báo đặc_biệt hoặc chứng_cứ nhất_định  nào nhưng truyền_thông ý đưa tin châu_âu cần  cảnh_giác tối_đa  

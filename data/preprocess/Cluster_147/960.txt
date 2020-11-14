@@ -1,0 +1,7 @@
+idx, sentence
+0,chiều 28/5  anh rachid  34 tuổi  quốc_tịch marốc  vẫn đang được điều_trị tại bệnh_viện chợ_rẫy với vết_thương trên mặt và ngực do kẻ_cướp gây ra 
+1,trước đó tối 27/5 anh rachid cùng vợ là chị trần_thị_thu_trang và con_gái  2 tuổi  đi ô_tô về nhà tại chung_cư phúc_yên  đường phan_huy_ích  phường 15  quận tân_bình  
+2,lúc về đến nhà  anh rachid và chị trang bước xuống xe thì bất_ngờ có 2 thanh_niên đi xe_máy áp_sát  một tên tiến lại giật chiếc bóp trên tay chị trang rồi nhảy lên xe đồng_bọn 
+3,thấy vợ bị cướp  anh rachid liền đuổi theo tên cướp thì bất_ngờ bị đối_tượng quay lại dùng dao đâm gây thương_tích ở vùng mặt và ngực 
+4,anh rachid được người_thân đưa đến bệnh_viện chợ_rẫy cấp_cứu 
+5,theo chị trang  do anh rachid giằng_co quyết_liệt nên 2 tên cướp không lấy được chiếc bóp và đánh_rơi lại hiện_trường 

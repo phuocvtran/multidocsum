@@ -1,0 +1,8 @@
+idx, sentence
+0,theo báo_cáo của công_tố_viên  các đối_tượng trên lên kế_hoạch tấn_công khủng_bố vào thành_phố dusseldorf  miền tây nước đức 
+1,đức đã bắt_giữ ba đối_tượng là hamza_c  27 tuổi   mahood_b  25 tuổi  và abd_arahman_ak  31 tuổi  
+2,cảnh_sát đang khám_xét nhà của những đối_tượng này 
+3,trong khi đó  đối_tượng còn lại là saleh_a  25 tuổi  đang bị giam_giữ tại pháp 
+4,saleh_a và hamza_c từng gia_nhập is ở syria vào năm 2014 và được cho nhận lệnh từ thủ_lĩnh phiến_quân để tiến_hành tấn_công khủng_bố vào thị_trấn cổ ở dusseldorf 
+5,theo đó  hai tên này định cho hai kẻ đánh bom tự_sát trên một tuyến đường đông_đúc ở trung_tâm thị_trấn  sau đó những kẻ khác dùng súng và thiết_bị nổ sát_hại càng nhiều người càng tốt 
+6,theo bộ_trưởng nội_vụ đức_thomas de maiziere  hàng nghìn người châu_âu đã tới syria và iraq gia_nhập is  trong số đó có khoảng hơn 800 người đức 

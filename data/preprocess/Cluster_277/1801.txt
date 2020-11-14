@@ -1,0 +1,16 @@
+idx, sentence
+0,20 năm honda  tưng_bừng quà hấp_dẫn chương_trình khuyến_mãi “ 20 năm honda  tưng_bừng quà hấp_dẫn ” cho các mẫu xe lead 125 cc  wave_rsx 110 cc  wave_rsx_fi 110 cc  blade 110 cc diễn ra từ ngày 01/06 đến hết 30/06/2016 
+1,được coi là một trong những mẫu xe tiêu_biểu trong dòng xe ga honda việt_nam  lead 125 cc kể từ khi ra_mắt tại việt_nam đã chiếm trọn được lòng tin của hàng triệu khách_hàng 
+2,sự ấn_tượng của xe lead 125 cc đến từ thiết_kế cao_cấp  khả_năng vận_hành mạnh_mẽ cùng những tiện_ích vượt_trội 
+3,hình_ảnh những chiếc xe lead 125 cc với đủ màu_sắc đa_dạng luôn xuất_hiện trên mọi cung đường  mọi con phố tại việt_nam đã minh_chứng cho thành_công vượt_trội của mẫu xe này 
+4,trong thời_gian diễn ra chương_trình  khách_hàng sẽ nhận được 01 phiếu quà tặng trị_giá 500000 đồng và 01 mũ bảo_hiểm honda_jet khi mua xe lead 125 cc 
+5,bên cạnh honda_lead 125 cc  honda việt_nam còn mong_muốn gửi lời tri_ấn tới những khách_hàng yêu thích dòng xe số của honda việt_nam  cụ_thể là xe wave_rsx / wave rsxfi 110 cc và blade 110 cc 
+6,wave_rsx 110 cc là một trong những mẫu xe chủ_đạo trong dòng xe số của honda việt_nam với tính_năng tiết_kiệm nhiên_liệu vượt_trội  tiện_ích cao và kiểu_dáng thời_trang luôn làm hài_lòng khách_hàng việt_nam 
+7,trong khi đó  blade 110 cc kể từ lần đầu_tiên được giới_thiệu tại việt_nam vào tháng 10/2014 đã được đánh_giá là một mẫu xe thu_hút  mang nét phá_cách thú_vị trong dòng xe số phổ_thông tại việt_nam 
+8,những khách_hàng yêu_thích sự khỏe_khoắn  mới_lạ trong thiết_kế cũng như mong_muốn sở_hữu một mẫu xe có khả_năng tối_ưu_hóa trong tăng_tốc và chuyển số nhưng vẫn đảm_bảo sự vận_hành êm_ái thì không_thể bỏ_qua phiên_bản mới này 
+9,khi mua những mẫu xe số này tại head 125 cc trên toàn_quốc  khách_hàng sẽ nhận được một phiếu mua hàng trị_giá 500000 đồng 
+10,đây là cơ_hội để giành tặng cho khách_hàng thêm niềm vui nhân_dịp honda việt_nam kỷ_niệm thành_lập 20 năm 
+11,chương_trình khuyến_mãi “ xe ngầu  quà_chất ” nhằm tri_ân sự tin_yêu của khách_hàng dành cho mẫu xe msx 125 cc và cũng trong khuôn_khổ hoạt_động kỷ_niệm 20 năm thành_lập công_ty  honda việt_nam thực_hiện chương_trình khuyến_mãi dành cho những khách_hàng yêu_thích mẫu xe_tay côn này 
+12,cụ_thể  từ ngày 01/06/2016 đến ngày 15/07/2016  khách_hàng mua xe msx 125 cc tại các head trên toàn_quốc sẽ nhận được ngay 01 phiếu quà tặng 3 triệu đồng có giá_trị sử_dụng ngay lần mua xe đó và đồng_thời được hỗ_trợ 100  phí trước_bạ 
+13,thông_qua chương_trình khuyến_mãi này  honda việt_nam hy_vọng mang đến cho khách_hàng thêm nhiều niềm vui để tận_hưởng trọn_vẹn từng khoảnh_khắc cầm lái mẫu xe cá_tính này 
+14,mọi thông_tin liên_quan đến chương_trình khuyến_mại  khách_hàng liên_hệ theo số điện_thoại sau  miễn_phí  để được hướng_dẫn  giải_đáp  1800555548  dành cho khách_hàng sử_dụng mạng điện_thoại mobifone  vinaphone hoặc vnpt 18008001  dành cho khách_hàng sử_dụng mạng điện_thoại viettel thời_gian  từ 07  30 đến 16  30 hàng ngày trong tuần  trừ thứ_bảy  chủ_nhật và ngày_lễ 

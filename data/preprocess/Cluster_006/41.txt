@@ -1,0 +1,19 @@
+idx, sentence
+0,chiều 19/5  thi_thể đôi vợ_chồng trẻ được phát_hiện trong khu_tập_thể ở thôn đồng_rì  thị_trấn thanh_sơn  huyện sơn_động  bắc_giang  
+1,chị lan chết trong tư_thế bị trói trong nhà  phía bên ngoài là xác người chồng  anh hiếu  gục trên vũng máu 
+2,tại hiện_trường có dấu_hiệu của một vụ nổ 
+3,qua khám_nghiệm hiện_trường  khám_nghiệm tử_thi  cơ_quan công_an tỉnh bắc_giang bước_đầu xác_định nguyên_nhân dẫn đến cái chết của hai vợ_chồng 
+4,người chồng là anh hiếu_sinh năm 1983 ở triệu_sơn  thanh_hóa   còn người vợ sinh năm 1985 
+5,do hoàn_cảnh khó_khăn  hai vợ_chồng anh hiếu đã ra bắc_giang xin việc mưu_sinh 
+6,hiện hai vợ_chồng đều làm_việc tại một công_ty than đóng trên địa_bàn với công_việc bảo_vệ và nấu cơm 
+7,thời_gian gần đây  một_số người phát_hiện vợ_chồng anh hiếu thường_xuyên xảy ra mâu_thuẫn  cãi_vã 
+8,trưa ngày 19/5  khi trở_lại công_ty sau giờ nghỉ trưa  đồng_nghiệp phát_hiện anh hiếu có dấu_hiệu bất_thường 
+9,chỉ ít phút sau đó  nhiều người bàng_hoàng nghe tiếng nổ vang trời 
+10,chạy tới_nơi thì phát_hiện anh hiếu đã tử_vong 
+11,biết sự_việc chẳng lành  mọi người định vào căn nhà vợ_chồng anh hiếu thuê trọ thì phát_hiện ngôi nhà khóa cửa 
+12,phá cửa vào bên trong thì thấy vợ anh hiếu cũng đã chết 
+13,một cán_bộ công_an huyện sơn_động cho biết  hai vợ_chồng anh hiếu kết hộn 8 năm và không có con 
+14,hoàn_cảnh ở quê khó_khăn 
+15,mới_đây  vợ_chồng anh hiếu cũng về quê chơi nhưng gia_đình không phát_hiện có mâu_thuẫn giữa hai vợ_chồng 
+16,bước đầu cơ_quan công đặt nghi_vấn  do mâu_thuẫn gia_đình anh hiếu đã giết vợ sau đó tự_sát bằng vật_liệu nổ  mìn tự chế  
+17,công_an tỉnh bắc_giang đang giám_định vật_liệu nổ trên 

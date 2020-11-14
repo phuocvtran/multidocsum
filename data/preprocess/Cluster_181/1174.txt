@@ -1,0 +1,18 @@
+idx, sentence
+0,hlv roy_hodgson của đt_anh đã trao cơ_hội cho marcus_rashford ở kỳ euro 2016 
+1,đây là một bước tiến vượt_bậc của tài_năng trẻ mu
+2,mới hơn 3 tháng trước  rashford là cái tên không mấy ai biết đến 
+3,giờ_đây  tiền_đạo 19 tuổi này đã góp_mặt trong đội_hình tam_sư chinh_phục euro 2016 
+4,khả_năng săn bàn cùng cái duyên trong các trận cầu lớn đã giúp cho rashford thuyết_phục được hlv hodgson 
+5,anh lập_công trong trận đấu đầu_tiên ở europa_league  cũng là trận ra_mắt đội một mu   lập cú đúp ở trận đầu_tiên tại ngoại_hạng anh  là cầu_thủ trẻ nhất ghi_bàn trong trận ra_mắt derby_manchester 
+6,ngoài_ra  rashford cũng chỉ mất 135 giây để có bàn thắng trong lần đầu khoác áo đt_anh 
+7,nhờ đó  rashford sẽ là 1 trong 5 tiền_đạo của đt_anh tại euro sắp tới  bên cạnh jamie_vardy  daniel_sturridge  wayne_rooney và harry_kane 
+8,sturridge kịp_thời góp_mặt khi chấn_thương mới nhất của anh đã hoàn_toàn bình_phục 
+9,tiền_đạo của liverpool  người mới chỉ chơi 58 phút cho đt_anh kể từ tháng 9/2014  đã tham_gia tập_luyện cùng tam_sư trong 2 ngày cuối tuần qua 
+10,sturridge nhiều khả_năng sẽ góp_mặt trong trận giao_hữu với bồ_đào nha vào thứ năm_tới 
+11,sự vắng_mặt đáng tiếc nhất là danny_drinkwater 
+12,tiền_vệ này có mùa giải xuất_sắc cùng leicester  là cầu_thủ người bản_địa có nhiều pha tắc bóng nhất ngoại_hạng anh  106  
+13,tuy_nhiên  anh vẫn không_thể lọt vào mắt_xanh của hlv hodgson 
+14,ngoài_ra  andros_townsend cũng không_thể góp_mặt trong danh_sách 23 cầu_thủ cuối_cùng của đt_anh 
+15,townsend là người được gọi bổ_sung sau khi danny_welbeck chấn_thương đầu_gối và không_thể tham_dự euro 2016 
+16,anh nhận được sự ủng_hộ của trợ_lý hlv gary_neville nhưng hodgson quyết_định không lựa_chọn tiền_vệ newcastle 

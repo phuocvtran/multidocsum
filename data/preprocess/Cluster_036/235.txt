@@ -1,0 +1,3 @@
+idx, sentence
+0,cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqadbộ_nông_nghiệp và phát_triển nông_thôn  vừa có công_văn khẩn  yêu_cầu tỉnh nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận và các trung_tâm vùng thuộc nafiqad tổ_chức lấy mẫu muối  kiểm_tra khẩn_cấp các chỉ_tiêu về an_toàn thực_phẩm để đảm_bảo an_toàn cho người tiêu_dùng 
+1,theo đó  kết_quả phân_tích các mẫu muối này phải báo_cáo về nafiqad ngay trong ngày hôm_nay  20/5  để đơn_vị này tổng_hợp báo_cáo bộ_trưởng bộ nông_nghiệp và phát_triển nông_thôn cao_đức_phát và thông_tin đến người tiêu_dùng sớm nhất 

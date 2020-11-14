@@ -1,0 +1,6 @@
+idx, sentence
+0,hôm_nay  1/6   cies_football_observatory  trung_tâm nghiên_cứu bóng_đá có trụ_sở tại thụy_sỹ  đã công_bố kết_quả khảo_sát về những cầu_thủ trẻ có giá_trị nhất tại 5 giải vđqg hàng_đầu châu_âu 
+1,tiền_đạo harry_kane  vua phá_lưới ngoại_hạng anh 2015 / 16 với 25 pha lập công xếp thứ 5 ở danh_sách này và là cầu_thủ có giá_trị nhất ngoại_hạng anh  khi được định_giá 1125 triệu euro 
+2,trong khi đó  4 vị_trí dẫn_đầu đều thuộc về các ngôi_sao đang chơi bóng tại la_liga 
+3,điều khá bất_ngờ là lionel_messi và đàn_em neymar mới được định_giá cao nhất  lần_lượt 2111 triệu euro và 2015 triệu euro 
+4,cristiano ronaldo dù vừa giành chức vô_địch champions_league cùng real_madrid nhưng chỉ xếp thứ 3 với giá 1378 triệu euro  chỉ nhỉnh hơn antoine_griezmann chút_đỉnh 

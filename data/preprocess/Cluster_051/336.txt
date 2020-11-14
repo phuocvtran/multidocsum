@@ -1,0 +1,29 @@
+idx, sentence
+0,sáng 19/5  anh quang_cường  anh_trai của ca_sĩ quang_hà  người đứng_tên chủ căn_hộ ở lô_b chung_cư hồ_văn_huê  phú_nhuận  tp hcm  đã đến phòng cảnh_sát điều_tra  công_an tp hcm nộp đơn tố_cáo kẻ mua căn_hộ  cướp hồ_sơ công_chứng khi chưa trả tiền 
+1,theo ghi_nhận của phóng_viên báo  10 h30 sáng cùng ngày  anh cường đến phòng cảnh_sát điều_tra  công_an tp hcm để nộp đơn trình_báo 
+2,tại đây  thượng_úy đặng_hoài_văn  cán_bộ tiếp dân  đã tiếp_nhận đơn của anh cường tố_cáo trần_thanh_hải  sinh năm 1979  và trần_quốc_việt  1988  cùng quê nam_định về hành_vi lừa_đảo chiếm_đoạt tài_sản 
+3,nên khởi_kiện theo luật_sư nguyễn_đức_chánh  đoàn luật_sư tp_hcm  nếu quả_thật mọi chuyện xảy ra như cáo_buộc của anh quang_cường  thì để bảo_vệ quyền_lợi cho mình  ca_sĩ quang_hà cần tiến_hành khởi_kiện tại toà_án quận phú_nhuận 
+4,đồng_thời quang hà cần yêu_cầu toà_án áp_dụng biện_pháp khẩn_cấp tạm_thời là  cấm hoặc buộc đương_sự thực_hiện hành_vi nhất_định  theo khoản 12 của điều 102 bộ_luật tố_tụng dân_sự 
+5,thủ_tục mua_bán chỉ dừng ở việc ký công_chứng hợp_đồng  chưa kê_khai thuế thu_nhập cá_nhân  lệ_phí trước_bạ tại chi_cục thuế quận phú_nhuận và đăng_ký quyền_sở_hữu nhà ở tại chi_nhánh văn_phòng đăng_ký quyền sử_dụng đất quận phú_nhuận 
+6,do_đó nếu toà_án chấp_nhận áp_dụng biện_pháp không cho bên mua kê_khai thuế đăng_ký quyền_sở_hữu thì bên mua chưa_thể hoàn_tất thủ_tục và sẽ không tẩu_tán tài_sản hoặc giao_dịch với bên thứ 3 
+7,sau khi có bản_án hoặc quyết_định của toà_án thì bên bán vẫn có_thể huỷ hợp_đồng  lấy lại tài_sản hoặc buộc bên mua thanh_toán số tiền chưa thanh_toán 
+8,“ qua vụ_việc này người dân khi giao_dịch dân_sự  nhất_là tài_sản có giá_trị lớn cần thận_trọng và tốt nhất nên rõ_ràng  không quá tin_tưởng 
+9,nếu được nên nhờ người am_hiểu pháp_luật hỗ_trợ mình trong quá_trình giao_dịch  có_thể giảm đi ít tiền hay lợi_nhuận nhưng có_thể tránh rủi_ro hơn trong quan_hệ dân_sự ”  luật_sư chánh nói 
+10,trước đó  vào sáng cùng ngày  anh cường cũng đến công_an phường 5  quận 3  trình_báo về việc  anh bị việt  cháu của hải   cướp  hồ_sơ công_chứng giao_dịch căn_hộ cùng sổ_đỏ căn_hộ mà anh đứng_tên 
+11,vali tiền chứa giấy theo cáo_buộc của anh cường  ca_sĩ quang_hà_quen hải và việt từ tháng 3/2016 
+12,do biết ca_sĩ quang_hà đang có ý_định bán căn_hộ nên từ ngày 11 đến ngày 17/5  hải gọi điện cho ca_sĩ quang_hà để hỏi mua 
+13,ban_đầu  quang_hà ra giá căn_hộ là 41 tỷ  sau khi thương_lượng với nam ca_sĩ  hai bên đồng_ý mức giá 39 tỷ đồng 
+14,tối 17/5  hải tìm đến nhà mới của ca_sĩ này nói có mang theo 200000 usd để trong vali để trả tiền mua căn_hộ 
+15,ca_sĩ nói hải thanh_toán tiền đi rồi ngày_mai sang_tên giấy_tờ sau  nhưng anh hải không chịu 
+16,sáng 18/5  hải và anh cường đến phòng công_chứng trung_tâm ở phường 5  quận 3  tp hcm để làm thủ_tục mua_bán 
+17,trước khi đi hải nói để vali tiền 200000 usd lại nhà ca_sĩ quang_hà 
+18,sau khi làm xong thủ_tục công_chứng anh ta sẽ giao tiền mua cho chủ nhà  có ghi_âm  
+19,tuy_nhiên  trong lúc đang chờ lấy thủ_tục ở phòng công_chứng thì hải nhờ anh cường chở qua quận 7 để giải_quyết công_việc  còn hồ_sơ công_chứng và sổ_đỏ của anh cường  hải giao cho việt  cháu của hải lấy  
+20,anh cường kể đã không đồng_ý nhưng hải cứ kéo anh đi 
+21,khi đến quận 7  hải nói xuống xe nói đi mua nước  anh cường ở lại xe chờ 15 phút không liên_lạc được với người này nên liền quay lại phòng công_chứng lấy hồ_sơ 
+22,tuy_nhiên  anh cường kể lúc đó  hồ_sơ đã bị việt lấy mất 
+23,anh cường yêu_cầu phòng công_chứng hủy hồ_sơ mua_bán 
+24,đồng_thời  anh của nam ca_sĩ cũng đến phòng tài_nguyên môi_trường và chi_cục thuế quận phú_nhuận nộp đơn ngăn_chặn mọi giao_dịch với căn nhà trên 
+25,anh cường nói khi về nhà ở quận gò_vấp  hai anh_em ca_sĩ thấy chiếc vali của hải để trong phòng nhưng không dám mở nên đã mời công_an phường 14  quận gò_vấp lập biên_bản mang chiếc vali về phường 
+26,tại công_an phường  các cán_bộ đã lấy dao mở chiếc vali ra thì thấy bên trong chỉ toàn giấy_báo 
+27,sự_việc đã được chính_quyền lập biên_bản  giữ làm tang_vật 

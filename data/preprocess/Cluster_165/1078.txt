@@ -1,0 +1,12 @@
+idx, sentence
+0,theo quy_định mới được sở tttt hà_nội  các khu chung_cư đang xây_dựng sẽ phải có hạ_tầng đáp_ứng ít_nhất hai nhà_cung_cấp dịch_vụ viễn_thông thay_vì một như trước_đây 
+1,ngày 27/5 vừa_qua  ubnd hà_nội đã chính_thức ban_hành quyết_định 19/2016 / qđubnd  quy_định về việc lắp_đặt  quản_lý  sử_dụng hộp_thư tập_trung  hệt hống cáp viễn_thông  hệ_thống phủ_sóng tòa nhà cao_tầng có nhiều chủ sử_dụng trên địa_bàn hà_nội 
+2,khái_niệm  tòa nhà cao_tầng có nhiều chủ sử_dụng  ở đây được hiểu là các tòa nhà_cung_cư cao_tầng  chung_cư tái_định_cư  chung_cư mini  tổ_hợp chung_cư văn_phòng cho thuê  tòa nhà cho thuê văn_phòng  nhà_ở xã_hội 
+3,theo đó  từ ngày 7/6/2016  việc thiết_kế  lắp_đặt hệ_thống cáp viễn_thông trong tòa nhà cao_tầng nói trên phải đmả bảo người sử_dụng dịch_vụ được tự_do lựa_chọn doanh_nghiệp cung_cấp dịch_vụ 
+4,hạ_tầng phải đảm_bảo đủ dung_lượng để ít_nhất 2 doanh_nghiệp viễn_thông có_thể tham_gia cung_cấp dịch_vụ  hoặc cung_cấp thêm dịch_vụ theo nhu_cầu người dùng 
+5,tại hà_nội và nhiều tỉnh_thành khác trên cả nước  tình_trạng độc_quyền cung_cấp dịch_vụ viễn_thông tại các khu chung_cư rất phổ_biến 
+6,hầu_hết các tòa nhà khi xây_dựng chỉ cho duy_nhất một nhà_cung_cấp dịch_vụ  khiến rất nhiều hộ gia_đình bắt_buộc phải sử_dụng các dịch_vụ truyền_hình  internet  điện_thoại dù chất_lượng dịch_vụ kém trong khi giá cước dịch_vụ lại không hề rẻ gây nhiều bức_xúc trong xã_hội 
+7,với quy_định mới  các tòa nhà chung_cư trên địa_bàn hà_nội khi trình duyệt thiết_kế sẽ phải đáp_ứng các điều_kiện trên mới được phê_duyệt 
+8,các chung_cư mới ở giai_đoạn đầu triển_khai cũng sẽ được giám_sát bởi cả thanh_tra bộ xây_dựng và bộ_tttt  công_an cá quận trong việc thực_hiện quy_định này 
+9,đại_diện sở tttt hà_nội  suốt hai năm qua đơn_vị này đã nhiều lần kiến_nghị về vấn_đề độc_quyền cung_cấp dịch_vụ viễn_thông trong các tòa nhà chung_cư song đã vấp phải nhiều sự phản_đối lớn từ chính các doanh_nghiệp cung_cấp dịch_vụ 
+10,quy_định này sẽ là hành_lang_pháp_lý để sở hiện_thực_hóa việc xóa bỏ độc_quyền 

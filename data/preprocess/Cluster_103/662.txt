@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 18/5  ứng_viên tổng_thống mỹ donald_trump đã tuyên_bố sẵn_sàng gặp  đàm_phán với nhà lãnh_đạo triều_tiên kim_jongun trong trường_hợp đắc_cử 
+1,theo vị này  cuộc đối_thoại nếu có sẽ nhằm hạn_chế chương_trình hạt_nhân của triều_tiên 
+2,ngoài_ra  ông trump cũng khẳng_định sẽ gây áp_lực lên trung_quốc để kiềm_chế triều_tiên  reuters đưa tin 
+3,tuy_nhiên  liên_quan đến tuyên_bố trên  giới_chức triều_tiên cho rằng đây chỉ là một  hình_thức tuyên_truyền  vận_động tranh_cử  của ông trump 
+4,ông so se_pyong  đặc_phái_viên của triều_tiên tại liên_hợp_quốc cho biết  mặc_dù việc gặp hay không là do ông kim_jongun quyết_định nhưng vị này cho rằng ý_tưởng của ông trump là  vô_nghĩa  
+5,trong một diễn_biến khác  ông donald_trump mới tuyên_bố bản_thân sở_hữu tổng_tài_sản lên tới 10 tỷ usd 
+6,tuy_nhiên  theo truyền_thông quốc_tế  số tài_sản thực_sự của vị này cao nhất chỉ khoảng 4 tỷ usd 

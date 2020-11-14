@@ -1,0 +1,13 @@
+idx, sentence
+0,cocacola femsa giải_thích khoảng 90  sản_phẩm của họ cần đường 
+1,vì_vậy  tình_trạng thiếu_hụt nhu_yếu_phẩm tại đây đã khiến việc sản_xuất bị ảnh_hưởng 
+2,hồi tháng 4  polar_group  hãng thực_phẩm  đồ_uống lớn nhất venezuela cũng đã thông_báo ngừng sản_xuất bia do thiếu lúa_mạch 
+3,công_ty này đóng_góp tới 80  lượng bia tiêu_thụ tại đây tổng_thống venezuela  nicolas_maduro hồi tháng 1 đã tuyên_bố tình_trạng kinh_tế khẩn_cấp 
+4,thông_báo được đưa ra 2 ngày sau khi giá dầu tại venezuela rơi xuống 24 usd một thùng 
+5,đây là mức thấp nhất 12 năm qua 
+6,xuất_khẩu dầu_mỏ đóng_góp tới 96  ngân_sách cho nước này 
+7,kinh_tế venezuela đang gặp khó_khăn nghiêm_trọng 
+8,điện  nước  thực_phẩm  thuốc_men đều trong tình_trạng khan_hiếm 
+9,biểu_tình phản_đối tổng_thống maduro cũng diễn ra liên_tục trên khắp cả nước 
+10,quỹ tiền_tệ quốc_tế  imf  cho biết tỷ_lệ thất_nghiệp tại đây hiện là 17   dự_báo lên 21  năm tới 
+11,lạm_phát cũng được dự_báo chạm 481  cuối năm và có_thể hơn 1600  năm tới 

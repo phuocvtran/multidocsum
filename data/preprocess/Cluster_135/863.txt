@@ -1,0 +1,12 @@
+idx, sentence
+0,uefa hôm 24/5 thông_báo quyết_định phạt_tiền cả mu lẫn liverpool  mỗi clb gần 65000 đôla 
+1,cụ_thể  liverpool bị phạt gần 45000 đôla vì để cđv hát xúc_phạm đối_phương  thêm hơn 19000 đôla vì tội để cđv đốt pháo sáng  tấn_công người khác  quăng ném đồ_vật và gây rối_loạn trên sân 
+2,trong khi đó  man_utd bị phạt gần 45000 đôla vì cđv hát khiêu_khích đối_phương  thêm 20000 đôla vì chặn cầu_thang ở sân old_trafford sau trận lượt_về  gây rối_loạn đám đông và tấn_công người khác 
+3,liverpool còn sẽ phải đền_bù thiệt_hại về cơ_sở_vật_chất mà người hâm_mộ của họ gây ra ở old_trafford 
+4,clb thành_phố cảng sẽ phải liên_hệ với man_utd trong vòng 30 ngày tới để đạt thỏa_thuận về số tiền đền_bù cụ_thể 
+5,cuộc chạm_trán ở vòng 1/8 europa_league mùa này giữa man_utd và liverpool đã diễn ra căng_thẳng cả trên sân cũng như khán_đài 
+6,ở lượt_đi tại anfield ngày 11/3  cđv_man_utd đã có hành_động xúc_phạm đến các nạn_nhân của thảm_họa hillsborough trước đây  khi hát chế_giễu về sự_cố đau_buồn hồi năm 1989  96 cđv_liverpool đã chết trong vụ xô_xát ở bán_kết cup fa 1989 với nottingham_forest  
+7,khi tới old_trafford sau đó một tuần  cđv_liverpool đáp trả bằng cách hát và giăng biểu_ngữ gợi lại nỗi đau của man_utd trong thảm_kịch munich 1958  tám cầu_thủ man_utd đã chết trong vụ máy_bay rơi ở munich  
+8,cuối trận lượt_về tại old_trafford  người hâm_mộ hai đội đã lao vào đánh nhau ở một góc khán_đài 
+9,họ thậm_chí dùng cả ghế để tấn_công nhau 
+10,cảnh_sát đã bắt_giữ năm kẻ quá_khích trong vụ đó 

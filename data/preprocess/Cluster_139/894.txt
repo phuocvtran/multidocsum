@@ -1,0 +1,12 @@
+idx, sentence
+0,tiếp_xúc với thanh_niên  ông lộc kể  tối 245  ông và vợ đi ra quán tạp_hóa của gia_đình nằm cách nhà khoảng 300 m thì có 2 người_lạ_mặt vào quán hỏi mua hàng rồi một trong 2 người này rút dao chém vào tay ông khiến 1 ngón_tay cái bị đứt lìa  ngón khác bị đứt rất sâu  sau đó họ lên xe_máy bỏ đi 
+1,ông lộc được đưa đến bệnh_viện huyện rồi chuyển lên bệnh_viện tỉnh để điều_trị nhưng ngón tay bị đứt lìa không nối lại được 
+2,hồi giữa tháng 3  ông lộc làm đơn tố_cáo ubnd xã thanh_tường sai_phạm về tài_chính trong việc xây_dựng trường tiểu_học 
+3,theo ông lộc  một tổ_chức phi_chính_phủ đã tài_trợ cho xã 2 tỉ đồng  nhưng xã đã chi trái nguyên_tắc hơn 1 tỉ đồng 
+4,đơn của ông đã gửi lên huyện và tỉnh 
+5,trả_lời thanh_niên  ông lưu_văn_hòa  chủ_tịch ubnd xã thanh_tường  thừa_nhận việc tố_cáo của ông lộc là có cơ_sở 
+6,ông hòa cho biết năm 2007  một phụ_nữ tên khương ở tpvinh đến đặt vấn_đề “ chạy ” dự_án xây trường từ một tổ_chức phi_chính_phủ 
+7,bà khương đề_nghị xã trích 55  chi_phí “ chạy ” 
+8,đến năm 2011  xã muốn xây nhà đa chức_năng cho trường tiểu_học  nên đã bàn với bà khương và bà này đồng_ý lấy 45   900 triệu đồng  trong số 2 tỉ đồng từ tiền tài_trợ  5   100 triệu đồng  chi cho đơn_vị thi_công_trường làm hồ_sơ khống để quyết_toán với tổ_chức tài_trợ 
+9,sau khi xây nhà đa chức_năng gồm 4 phòng theo tiêu_chuẩn nhà cấp 4 với chi_phí hơn 800 triệu đồng  tiền còn dư  xã đã chi vào các khoản  trả tiền xi_măng xây_dựng đường nông_thôn  chi các khoản đi_lại để xin dự_án  tổ_chức lễ khánh_thành trường  các khoản chi này đã được công_bố và xã thừa_nhận chi sai nguyên_tắc 
+10,“ đích_thân tôi đã đến nhà ông lộc 2 lần để nói ông ấy thông_cảm nhưng ông ấy yêu_cầu huyện phải có thông_báo trả_lời đơn cho ông  mặt_khác  xã phải tổ_chức họp đảng_bộ để thông_qua các khoản chi này  nếu tất_cả đảng_viên đồng_ý thì ông mới chịu ”  ông hòa nói 

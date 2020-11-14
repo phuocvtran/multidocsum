@@ -1,0 +1,7 @@
+idx, sentence
+0,trận giao_hữu quốc_tế với đt_syria hôm 315 là hoạt_động đáng chú_ý nhất của bóng_đá việt_nam trong tháng qua 
+1,chiến_thắng 20 trước đội bóng mạnh thứ 13 châu_á này giúp thầy_trò hlv hữu thắng bay cao trên bxh_fifa 
+2,theo đó  đt việt_nam đã tăng tới 12 bậc lên hạng 133 thế_giới và là đội bóng thăng_tiến ấn_tượng nhất trong khu_vực đông_nam_á 
+3,tuy_vậy  việt_nam vẫn xếp sau thái_lan  hạng 117  tăng 2 bậc  và philippines  hạng 120  giảm 5 bậc  
+4,đáng chú_ý  dù để thua đt việt_nam song đt_syria vẫn thăng hạng  tăng tới 9 bậc để leo lên vị_trí 101 thế_giới 
+5,đứng trong nhóm 3 đội_xếp cao nhất khu_vực châu_á lần_lượt là iran  hạng 39   hàn_quốc  hạng 50  và nhật_bản  hạng 53  

@@ -1,0 +1,10 @@
+idx, sentence
+0,theo giới truyền_thông mexico  tiền_đạo đang khoác áo olympiakos có_vẻ ngạc_nhiên và bối_rối với một bàn_tay đang băng_bó khi cảnh_sát bang và đội chống bắt_cóc tìm thấy anh trong ngôi nhà ở phía nam ciudad_victoria  thủ_phủ bang tamaulipas gần biên_giới texas của mỹ vào nửa_đêm 29/5 
+1,tuy_nhiên alan_pulido nói với các phóng_viên có_mặt tại hiện_trường rằng anh rất khỏe trước khi được đưa tới bệnh_viện kiểm_tra 
+2, điều quan_trọng nhất là cậu ấy đã ở đây với chúng_ta và đó là những gì chúng_tôi muốn làm rõ 
+3,lúc này  chuyện gì xảy ra đang được điều_tra và chúng_tôi sẽ thông_báo chi_tiết sau   egidio_torre_cantu  thống_đốc bang tamaulipas  chia_sẻ khi đứng cạnh chân sút mexico lúc anh được cảnh_sát giải_cứu 
+4,the sun cho biết  một người đàn_ông có_mặt trong ngôi nhà giam_giữ alan_pulido đã bị cảnh_sát bắt thẩm_vấn 
+5,sau buổi kiểm_tra sức_khỏe tại bệnh_viện  các bác_sĩ khẳng_định vết_thương ở tay ngôi_sao 25 tuổi không nghiêm_trọng  chỉ là vết xước nhỏ 
+6,một ngày trước đó  tiền_đạo olympiakos bị nhóm 6 kẻ bịt mặt mang theo súng chặn chiếc bmw khi anh và bạn gái ileana_salas trở về nhà từ một bữa tiệc 
+7,nhóm bắt_cóc thả ileana_salas nhưng đưa alan_pulido đi lúc 2 h sáng 29/5 
+8,phải mất 12 tiếng nhà_chức_trách mới xác_nhận thông_tin chân sút mexico bị bắt_cóc sau đó tổ_chức giải_cứu 

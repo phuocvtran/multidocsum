@@ -1,0 +1,19 @@
+idx, sentence
+0,ngày 315  tand tỉnh bà_rịa  vũng_tàu đã mở phiên_tòa sơ_thẩm  xét_xử vụ_án  lạm_dụng tín_nhiệm chiếm_đoạt tài_sản  xảy ra tại công_ty tnhh thương_mại và chế_biến thực_phẩm phú_an_sinh  gọi tắt là công_ty phú an_sinh  đối_với bị_cáo phạm_văn_minh  50 tuổi  ngụ tphcm   nguyên giám_đốc công_ty này 
+1,nhận hơn 51 tỉ đồng  trả lại hơn 10 tỉ đồng theo cáo_trạng  trong năm 2010  công_ty phú an_sinh do ông phạm_văn_minh làm chủ đã tạm_ứng vốn ngân_sách nhà_nước để thực_hiện hai chương_trình bình_ổn giá do sở công_thương và sở nnptnt phối_hợp với sở tài_chính tỉnh bà_rịa  vũng_tàu thực_hiện với tổng_số tiền 515 tỉ đồng 
+2,ngày 9112010  ubnd tỉnh bà_rịa  vũng_tàu có quyết_định tạm_ứng vốn ngân_sách hỗ_trợ 4 doanh_nghiệp tham_gia dự_trữ hàng_hóa để đảm_bảo cung_cầu hàng_hóa thiết_yếu trên địa_bàn tỉnh 6 tháng cuối năm và tết tân_mão 2011  trong đó công_ty phú an_sinh được tạm_ứng 165 tỉ đồng 
+3,sau khi ký hợp_đồng với sở công_thương  ngày 30112010  công_ty phú an_sinh được nhận số tiền 165 tỉ đồng 
+4,mặc_dù đây là số tiền để doanh_nghiệp dự_trữ hàng_hóa bình_ổn giá nhưng ông minh đã sử_dụng cá_nhân 
+5,theo kết_quả điều_tra  ông minh chỉ sử_dụng 560 triệu đồng để thực_hiện chương_trình bình_ổn giá 
+6,số tiền còn lại ông minh dùng để trả tiền vay ngân_hàng  trả_lãi ngân_hàng … thế nhưng  để qua_mặt sở công_thương  công_ty phú an_sinh đã có báo_cáo bằng email là bán được 26 tỉ đồng_tiền hàng_hóa trên nguồn vốn được ubnd tỉnh bà_rịa  vũng_tàu cung_cấp 165 tỉ đồng 
+7,đến thời_điểm hiện_tại  công_ty phú an_sinh mới trả cho sở công_thương hơn 91 tỉ đồng 
+8,tương_tự  từ tháng từ tháng 8 đến 102010  công_ty phú an_sinh ký 7 hợp_đồng tạm_ứng tổng_số tiền 35 tỉ đồng với sở nnptnt tỉnh bà_rịa  vũng_tàu để thu_mua giết_mổ  trữ đông  bình_ổn thị_trường để phòng_chống dịch heo tai xanh trên địa_bàn tỉnh 
+9,tuy_nhiên  công_ty phú an_sinh chỉ sử_dụng hơn 10 tỉ đồng để mua heo  số tiền gần 25 tỉ đồng còn lại công_ty dùng để trả tiền vay  mua nhà_máy  trang_trại heo  chi_phí hoạt_động  tra nợ vay bình_ổn quỹ đầu_tư phát_triển đô_thị tphcm và ngân_hàng công_thương  nộp tiền vào nhiều ngân_hàng khác … đến thời_điểm hiện_tại  công_ty phú an_sinh chỉ trả cho sở nnptnt tỉnh bà_rịa  vũng_tàu 15 tỉ đồng 
+10,vòng_vo tại tòa  chủ_tọa hỏi bị_cáo minh tại_sao biết được tỉnh bà_rịa  vũng_tàu có chương_trình bình_ổn giá 
+11,ai giới_thiệu cho bị_cáo đến sở công_thương  sở nnptnt 
+12,bị_cáo minh trả_lời qua báo_chí biết sở công_thương có chương_trình nên bị_cáo đến trình phương_án  còn với sở nnptnt là do chi_cục thú_y giới_thiệu 
+13,tuy_nhiên  theo đại_diện sở công_thương  chương_trình bình_ổn giá không đăng thông_tin trên báo_chí 
+14,chủ tọa hỏi đại_diện sở công_thương trước khi ký hợp_đồng với công_ty phú an_sinh có đi kiểm_tra  xem_xét năng_lực của công_ty này không 
+15,đại_diện sở công_thương trả_lời với chủ_tọa là điều_kiện các công_ty tham_gia chương_trình bình_ổn giá thì không có tiêu_chí xem_xét năng_lực của công_ty 
+16,trong khi đó  đại_diện sở nnptnt thì trả_lời có thành_lập đoàn kiểm_tra nhà_máy công_ty phú an_sinh và tại thời_điểm đó  công_ty này đủ năng_lực  điều_kiện để giết_mổ  trữ đông thịt heo 
+17,trong phần xét_hỏi về số tiền bị_cáo đã sử_dụng sai mục_đích  bị_cáo minh đã nhiều lần trả với vòng_vo nên bị chủ_tọa phiên_tòa nhắc_nhở 

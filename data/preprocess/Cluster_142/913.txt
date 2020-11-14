@@ -1,0 +1,17 @@
+idx, sentence
+0,ông lâm nguyễn_hải_long  giám_đốc qtsc cho biết so với khu_vực đông_nam_á thì qtsc xếp ở top 4  chỉ đứng sau chỉ đứng sau philippines  malaysia  singapore 
+1,tổng doanh_số một năm là 220 triệu usd trong đó xuất_khẩu là 140 triệu usd 
+2,ông long cho biết những năm gần đây  nhân_lực ngành công_nghệ_thông_tin đang thiếu_hụt vì lượng sinh_viên được đào_tạo tại các trường thấp 
+3,lương trung_bình của kỹ_sư có 3 năm kinh_nghiệm tại công_viên khoảng 810 triệu đồng mỗi tháng 
+4,nghe đến đây bí_thư thăng lắc_đầu   thu_nhập như_thế chỉ nhỉnh hơn công_nhân tăng ca  mà kỹ_sư phần_mềm thì đời_sống đòi_hỏi chi_phí cao hơn 
+5,đó là chưa nói nếu không có nhà phải đi thuê thì chắc_chắn là không đủ sống  
+6,nghe ông long nói lương của mình mỗi tháng khoảng 24 triệu đồng  bí_thư đinh_la_thăng cũng không hài_lòng 
+7, lương của giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu cả nước  đứng top đầu khu_vực mà chừng đó thì sao được 
+8,lương cậu phải 10 lần như thế thì mới xứng_đáng  mới có động_lực làm_việc 
+9,muốn thế thì phải thúc_đẩy cổ_phần_hóa nhanh lên   ông thăng đề_nghị 
+10,ông long cho biết là việc cổ_phần_hóa đang gặp khó_khăn vì vướng_mắc về cơ_chế 
+11, nếu vướng thì các anh phải trình_bày chứ 
+12,chỗ cần gõ_cửa thì không gõ  các anh cứ đi đâu 
+13,tôi là bí_thư thành_ủy  các cậu gặp nhiều khúc_mắc mà giờ mới báo_cáo chứ có thấy các cậu chạy tới kêu bao_giờ đâu   ông thăng nói 
+14,bí_thư thăng cho rằng hiện thành_phố đang xây_dựng chính_quyền điện_tử  có rất nhiều đề_tài để các kỹ_sư công_nghệ_thông_tin có_thể nghiên_cứu ra các phần_mềm ứng_dụng trong ngành giáo_dục  quản_lý tội_phạm  hồ_sơ_cấp phép xây_dựng  ngành y_tế … lãnh_đạo qtsc cần chủ_động làm_việc với các đơn_vị để đề_xuất thực_hiện các dự_án chứ không phải thụ đồng ngồi chờ đặt_hàng của nhà_nước 
+15,trong việc phối_hợp đào_tạo nguồn nhân_lực  qtsc cũng cần làm_việc với các trường đại_học để đặt_hàng đào_tạo theo nhu_cầu của mình  tránh tình_trạng các trường thì đào_tạo ra nhưng sinh_viên không kiếm được việc_làm 

@@ -1,0 +1,15 @@
+idx, sentence
+0,chiều 30/5  tàu hmas_anzac thuộc hải_quân hoàng_gia australia cùng 215 sỹ quan và thủy_thủ đã cập cảng thành_phố hồ_chí_minh  bắt_đầu chuyến thăm chuyến thăm việt_nam 
+1,tham_dự lễ đón có đại_diện lãnh_đạo ủy_ban nhân_dân thành_phố hồ_chí_minh  quân_khu 7  bộ_tư_lệnh hải_quân cùng một_số cơ_quan_chức_năng liên_quan 
+2,về phía australia có tổng_lãnh_sự tại thành_phố hồ_chí_minh và tùy_viên quốc_phòng tại hà_nội 
+3,theo chương_trình  nhóm sỹ quan  chỉ_huy tàu sẽ tới chào xã_giao lãnh_đạo sở ngoại_vụ thành_phố  thủ_trưởng bộ_tư_lệnh quân_khu 7 và đại_diện quân_chủng hải_quân 
+4,đặc_biệt  hải_quân_nhân_dân việt_nam và các sỹ quan  thủy_thủ tàu_tàu hmas_anzac sẽ tổ_chức một_số hoạt_động trao_đổi chuyên_môn về thông_tin liên_lạc  vận_động đội_hình và luyện_tập chung trên biển  giao_hữu thể_thao  tham_quan các danh_lam thắng_cảnh  di_tích lịch_sử tại địa_phương 
+5,cũng trong ngày 30/5  hai tàu hải_quân ấn_độ là ins_satpura và ins_kirch cùng đoàn 80 sỹ quan và 580 thủy_thủ  do chuẩn đô_đốc soonil_v_bhokare  tư_lệnh hạm_đội miền đông  bộ_tư_lệnh hải_quân ấn_độ làm trưởng_đoàn  đã cập cảng quốc_tế cam_ranh  tỉnh khánh_hòa   bắt_đầu chuyến thăm hữu_nghị chính_thức kéo_dài 5 ngày tại việt_nam 
+6,đây là chuyến thăm thứ tư của tàu hải_quân nước_ngoài đến cảng quốc_tế cam_ranh sau khi cảng được khánh_thành và đi vào hoạt_động từ đầu tháng 3/2016  trước đó là các tàu hải_quân của singapore  nhật_bản  pháp  
+7,chuyến thăm của tàu hải_quân ấn_độ diễn ra trong bối_cảnh_quan_hệ việt namấn_độ nói_chung  quan_hệ quốc_phòng hai nước nói_riêng đang phát_triển tốt_đẹp trong khuôn_khổ quan_hệ đối_tác_chiến_lược giữa hai nước 
+8,chuyến thăm lần này của hai tàu ấn_độ là một trong những hoạt_động cụ_thể triển_khai các nội_dung thỏa_thuận giữa lãnh_đạo cấp cao của nhà_nước  chính_phủ và bộ_quốc_phòng hai nước thời_gian qua  qua đó  góp_phần tăng_cường quan_hệ hợp_tác giữa quân_đội hai nước nói_chung  giữa lực_lượng hải_quân nói_riêng đi vào chiều sâu và hiệu_quả 
+9,sau lễ đón tại cảng quốc_tế cam_ranh  có_mặt trên tàu ins_satpura  chuẩn đô_đốc soonil_v_bhokare đã trả_lời báo_chí việt_nam 
+10,ông đánh_giá cao vị_trí chiến_lược của vịnh cam_ranh cũng như việc đưa cảng quốc_tế cam_ranh đi vào hoạt_động sẽ đáp_ứng tốt nhu_cầu hậu_cần  sửa_chữa tàu cho lực_lượng hải_quân các nước 
+11,giới_thiệu về hai tàu ins_satpura và ins_kirch  chuẩn đô_đốc soonil_v_bhokare cho biết tàu được đóng tại ấn_độ  là tàu_chiến nhưng sẵn_sàng đáp_ứng các nhiệm_vụ khác của hải_quân ấn_độ 
+12,trong khuôn_khổ chuyến thăm  nhóm chỉ_huy tàu ấn_độ sẽ đến chào xã_giao lãnh_đạo ủy_ban nhân_dân tỉnh khánh_hòa  chỉ_huy vùng 4 hải_quân việt_nam  đến thăm học_viện hải_quân việt_nam tại thành_phố nha_trang 
+13,phía ấn_độ cũng mời đại_diện phía việt_nam lên tham_quan tàu và phối_hợp với vùng 4 hải_quân tổ_chức các hoạt_động giao_lưu thể_thao giữa chiến sỹ  thủy_thủ hai nước 

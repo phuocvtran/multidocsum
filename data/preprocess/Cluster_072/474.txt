@@ -1,0 +1,16 @@
+idx, sentence
+0,theo ibtimes  mansour là kẻ bị liên_hợp_quốc_cáo_buộc buôn_bán ma_túy trái_phép 
+1,y đã trở_thành thủ_lĩnh taliban ở afhganistan từ tháng 7/2015  thay_thế người sáng_lập tổ_chức  mullah_mohammad_omar 
+2,sau khi chính_thức trở_thành thủ_lĩnh taliban  mansour đã chỉ_huy nhóm cực_đoan chiếm thành_phố kuduz  miền bắc afghanistan vào tháng 9/2015 
+3,báo_cáo từ lầu năm_góc cho biết  mansour có_thể đã bị tiêu_diệt trong đợt không_kích  gần thị_trấn ahmad_wal 
+4,trong khi đó  nguồn tin từ taliban đã bác_bỏ cái chết của thủ_lĩnh mansour 
+5,ngoại_trưởng mỹ john_kerry từng nói rằng mansour là  mối đe_dọa liên_tục đối_với các công_dân mỹ  
+6,sinh tại tỉnh kandahar  mansour từng giữ chức_vụ bộ_trưởng hàng_không dân_dụng thời taliban nắm quyền ở afghanistan 
+7,taliban đã suy_yếu hơn nhiều trong những năm qua do nội_bộ bất_đồng  các nhóm ly_khai cũng như sự xuất_hiện của phiên quân hồi_giáo  is  ở quốc_gia này 
+8,tổng_cục an_ninh quốc_gia afghanistan  nds  xác_nhận với bbc rằng  mansour đã bị tiêu_diệt ngày 22/5 ở khu_vực dalbadin  thuộc tỉnh balochistan  pakistan 
+9,trước đó  tổng_thống mỹ barack_obama đã ra_lệnh không_kích sau khi cơ_quan tình_báo nước này nắm được vị_trí của thủ_lĩnh taliban 
+10,phát_ngôn_viên lầu năm_góc  peter_cook tuyên_bố   mansour là thủ_lĩnh taliban và thường lên kế_hoạch tấn_công các cơ_sở ở kabul  tạo nên mối đe_dọa với công_dân afghanistan và các lực_lượng an_ninh cũng như binh_sĩ mỹ và đồng_minh  
+11, mansour là rào_cản trong tiến_trình hòa_binh giữa chính_phủ afghanistan và lực_lượng taliban  ngăn_chặn các lãnh_đạo taliban tham_gia đàm_phán hòa_bình nhằm chấm_dứt chiến_tranh  
+12,trong khi đó  một chỉ_huy giấu tên của taliban bác_bỏ thông_tin này 
+13, đây không phải lần đầu_tiên chúng_tôi biết đến những báo_cáo này 
+14,thông_tin của tôi cho biết là mullah_mansour vẫn còn sống  

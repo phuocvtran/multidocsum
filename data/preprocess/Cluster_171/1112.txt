@@ -1,0 +1,5 @@
+idx, sentence
+0,cuộc tìm_kiếm nhóm nhạc nữ tài_năng hello_yellow  do nhãn hàng sunsilk phối_hợp cùng công_ty sixth_sense_entertainment tổ_chức  dành cho tất_cả các bạn gái vn từ 18 tuổi trở_lên có niềm đam_mê âm_nhạc 
+1,điểm đặc_biệt của cuộc tìm_kiếm tài_năng lần này là không chỉ dành riêng cho các bạn yêu_thích ca_hát mà_còn hướng tới các bạn gái đam_mê trình_diễn với nhạc_cụ 
+2,phần_thưởng cho nhóm nhạc nữ chiến_thắng sẽ là tour lưu_diễn xuyên việt cùng ca_sĩ đông_nhi  cơ_hội tham_gia trong mv ca_khúc mới của đông_nhi và hợp_đồng một năm đào_tạo và bảo_trợ với công_ty sixth_sense_entertainment  “ lò đào_tạo ” các ca_sĩ trẻ tài_năng của_ông cao_thắng 
+3,cuộc tìm_kiếm sẽ chính_thức bắt_đầu từ ngày 305 đến hết ngày 872016  qua hai vòng thi  vòng audition trực_tuyến  từ 2 đến 306  và vòng chung_kết  dự_kiến diễn ra ngày 87 tại tphcm  

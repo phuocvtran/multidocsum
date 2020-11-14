@@ -1,0 +1,16 @@
+idx, sentence
+0,ngày thứ 2 vừa_qua  công_việc của mourinho tại đội bóng mới là đi tham_quan cơ_sở_vật_chất cũng như làm_quen với từng bộ_phận tại carrington 
+1,với ed_woodward sắm_vai hướng_dẫn_viên  không_khí luôn vui_vẻ và rộn_ràng 
+2,tuy_nhiên  bất_ngờ nhất dành cho mourinho là sự xuất_hiện của sir_bobby_charlton 
+3,huyền_thoại này trước_đây không đồng_ý để hlv 53 tuổi tiếp_quản đội bóng 
+4,ông cho rằng chính_sách của mourinho sẽ phá_hủy mu và người thay_thế van_gaal nên là ryan_giggs 
+5,mặc_dù vậy  sir_charlton đã thay_đổi quan_niệm 
+6,ông chào_đón mourinho bằng nụ cười thân_thiện cùng một cái bắt_tay ấm_áp 
+7,để đáp lại  “ người đặc_biệt ” không quên ca_ngợi sự_nghiệp lẫy_lừng của sir_charlton khi nhắc lại khoảnh_khắc ông ghi_bàn vào lưới bồ_đào_nha tại world_cup 1966 
+8,“ ngài đã giết chết giấc mơ của đất_nước tôi nhưng tôi vẫn luôn kính_trọng ngài ” 
+9,sir_charlton từ_tốn trả_lời  “ rất vui khi gặp cậu  xin chúc_mừng vì đã đến đây ” 
+10,và rồi mourinho đã có cơ_hội để thể_hiện sự “ đặc_biệt ” 
+11,chiến_lược gia người bồ tự_tin  “ hãy khoan chúc_mừng vội  hãy chờ đến khi tôi mang về chiến_thắng cho mu đã nhé ” 
+12,cuộc tiếp_xúc chỉ ngắn_gọn như vậy nhưng có ý_nghĩa rất lớn đối_với mourinho 
+13,đây chẳng khác nào một sự thừa_nhận mà người đàn_ông được yêu_mến nhất mu dành tặng 
+14,nếu_như thuyết_phục thành_công giggs hoặc rio_ferdinand làm phó_tướng  mourinho sẽ có tất_cả những gì mình mong_muốn 

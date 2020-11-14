@@ -1,0 +1,16 @@
+idx, sentence
+0,sáng nay  bộ_tttt phối_hợp với ubnd tỉnh vĩnh_phúc tổ_chức triển_lãm bản_đồ và trưng_bày tư_liệu “ hoàng_sa  trường_sa của việt_nam  những bằng_chứng lịch_sử và pháp_lý  
+1,đây là một phần bằng_chứng lịch_sử và cơ_sở pháp_lý chứng_minh chủ_quyền của việt_nam đối_với hai quần_đảo hoàng_sa và trường_sa trên biển_đông 
+2,các tư_liệu cho thấy các nhà_nước việt_nam  từ thời_kỳ phong_kiến  đến thời_kỳ xhcn ngày_nay  đã khai_phá  xác_lập  thực_thi và bảo_vệ chủ_quyền quốc_gia đối_với hai quần_đảo hoàng_sa và trường_sa và nhiều vùng_biển đảo khác thuộc lãnh_thổ việt_nam 
+3,đó là một quá_trình liên_tục  lâu_dài  diễn ra trong hòa_bình  được ghi_nhận trong nhiều nguồn sử_liệu của việt_nam và các nước  đặc_biệt là những tư_liệu  bản_đồ được soạn vẽ  xuất_bản từ thế_kỷ xvi đến nay ở việt_nam và nhiều nước trên thế_giới 
+4,thứ_trưởng bộ tttt_phan_tâm cho biết  triển_lãm giúp người xem và bạn_bè thế_giới hiểu về lòng yêu nước  tinh_thần bất_khuất của cha_ông ta  hiểu về trách_nhiệm và bổn_phận của lãnh_đạo và công_dân việt_nam đối_với biển đảo 
+5,thứ_trưởng nói   triển_lãm nói với các thế_hệ tiếp_nối về lòng tri_ân 
+6,tri_ân tiền_nhân đã đổ mồ_hôi xương_máu để lại cơ_đồ cho chúng_ta có một tổ_quốc sơn_hà  tổ_quốc không_gian và tổ_quốc_đại_dương để chúng_ta sinh_tồn  và gìn_giữ cho con_cháu muôn_đời 
+7,chúng_ta tri_ân những người dân giữ biển giữ đảo  giữ ngư_trường truyền_thống 
+8,tri_ân những hùng binh  liệt_sĩ đã bỏ mình trong các cuộc chiến_đấu bảo_vệ biển đảo qua các triều_đại khác nhau 
+9,tri_ân những những người dân hôm_nay  bà_con trong nước  việt_kiều ở nước_ngoài  bạn_bè quốc_tế  đã bỏ công_sức  tiền của để sưu_tầm tư_liệu  hiện_vật  rồi hiến tặng tư_liệu  hiện_vật để cho chúng_ta chuẩn_bị và tiếp_tục cuộc đấu_tranh pháp_lý đòi lại biển đảo 
+10,tri_ân những bạn_bè thế_giới đã ủng_hộ việt_nam_bằng nhiều hình_thức khác nhau trong cuộc đấu_tranh pháp_lý với trung_quốc  
+11,triển_lãm cũng đồng_thời khẳng_định quyết_tâm sắt_đá của đảng  nhà_nước  quân_đội và nhân_dân ta trong việc xây_dựng và bảo_vệ tổ_quốc_việt_nam  bảo_vệ không_gian sinh_tồn đời_đời của tổ_tiên để lại 
+12,theo thứ_trưởng  vĩnh_phúc ngày_nay là một tỉnh vươn lên mạnh_mẽ  phát_triển toàn_diện 
+13, việc nhận_thức về chủ_quyền biển đảo là cực_kỳ quan_trọng trong bối_cảnh quốc_tế và tình_hình biển_đông hiện_nay  đòi_hỏi cần phải nâng cao hơn nữa ý_thức  trách_nhiệm của cán_bộ  đảng_viên và các tầng_lớp nhân_dân trong việc bảo_vệ chủ_quyền biển và giữ_gìn môi_trường hòa_bình để phát_triển đất_nước  phát_triển kinh_tế xã_hội địa_phương   thứ_trưởng nói 
+14,toàn_bộ những tư_liệu cũng được bộ_tttt trao_tặng cho tỉnh vĩnh_phúc 

@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 9/8  công_an huyện kỳ_anh  hà_tĩnh  cho biết vừa ra quyết_định khởi_tố bị_can với nguyễn_thành_trinh  36 tuổi  và lê_xuân_kỳ  46 tuổi  trú xã kỳ_phong  về tội hiếp_dâm trẻ_em 
+1,theo tài_liệu điều_tra  trinh và kỳ mở quán cơm trá_hình tại xã kỳ_phong để tổ_chức hoạt_động mại_dâm 
+2,ngày 23/6  do nhân_viên cũ xin nghỉ_việc nên hai người đàn_ông này đã nhờ lô_thị_xuân_lý  30 tuổi  trú huyện thanh_chương  nghệ_an  tìm giúp một nhân_viên mới phục_vụ tại quán 
+3,ngày 26/6  lý_gọi điện cho trinh và kỳ thông_báo đã tìm giúp được một thiếu_nữ tên thảo  15 tuổi  để về phục_vụ quán cơm 
+4,sau khi dẫn thảo đi gặp  đối_tác  tại tp vinh  lý được hai  tú_ông  trả 5 triệu đồng tiền công 
+5,đón nhân_viên mới về quán cơm tại xã kỳ_phong  sau chầu nhậu  trinh và kỳ ép thảo đi vào phòng ở phía sau quán rồi khống_chế hiếp_dâm mặc mọi lời van_xin 
+6,liên_quan sự_việc  trước đó công_an huyện kỳ_anh đã bắt_giữ lý về hành_vi mua_bán người 

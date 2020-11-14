@@ -1,0 +1,26 @@
+idx, sentence
+0,đây là lần thứ hai nhà làm phim gắn với đề_tài_chính_trị xã_hội đoạt giải_thưởng hàng_đầu tại lhp_cannes 
+1,phim về nỗi thất_vọng “ phúc_lợi xã_hội ” ông đoạt giải lần thứ nhất cách đây một thập_kỷ với phim the wind_that_shakes the barley  bộ phim chính_kịch lịch_sử có bối_cảnh cuộc_chiến giành độc_lập của ireland từ vương_quốc anh 
+2,“ khi đã già  người_ta chỉ cần nhìn thấy mặt_trời mọc vào ngày hôm sau là đã thấy mãn_nguyện ” – loach nói với các nhà_báo tại lhp_cannes sau khi đoạt giải cành cọ vàng thứ 2 
+3,i  daniel_blake kể về một người thợ_mộc bị tai_nạn khi đang làm_việc và một người mẹ trẻ phải vật_lộn với những nghịch_lý của hệ_thống phúc_lợi xã_hội trong chính_phủ bảo_thủ của anh 
+4,phim đã lấy đi nhiều nước_mắt ngay cả những nhà phê_bình khó_tính nhất 
+5,phim còn làm rạng_danh tên_tuổi của hai diễn_viên gần_như vô_danh là hayley_squires và nghệ_sĩ hài_dave_johns 
+6,“ i  daniel_blake mang lại tiếng_nói cho những người cần nó 
+7,giải cành cọ vàng là chiến_thắng khiến cho tiếng_nói ấy cực_kỳ lớn ” – diễn_viên squires viết trên trang twitter sau khi phim đoạt giải 
+8,loach nói với các nhà_báo rằng  ông từng nói đến chuyện nghỉ hưu khi làm bộ phim jimmys_hall  2014  bởi thời_điểm đó  ông không quay được một thước phim nào và “ ngọn núi trước mặt chúng_tôi quá cao và tôi nghĩ mình lại không_thể vượt qua nó ” 
+9,nhưng phim i  daniel_blake đã đưa loach trở_về với nguồn_gốc làm phim theo thể_loại kịch hiện_thực  nó là “ bùa_chú ” để ông lại khát_khao trở_lại với công_việc 
+10,giới phê_bình đặc_biệt ấn_tượng với cách ông cho thấy sự tuyệt_vọng của những người bị mắc_kẹt trong “ mê_cung ” của hệ_thống phúc_lợi xã_hội mà dường_như được tạo nên chỉ để khiến họ thất_vọng 
+11,nhà phê_bình anh peter_bradshaw của tờ guardian nói với hãng tin afp rằng  cảnh khiến ông xúc_động nhất trong phim là “ cảnh xếp_hàng lương_thực khi  hayley_squires  nuốt vội hộp đậu_tương sốt 
+12,biểu_cảm trên gương_mặt cô ấy khiến cho người xem thấy thương_cảm ” 
+13,tiếng nói của những người bình_thường việc_làm từ lâu là đề_tài yêu thích của đạo_diễn loach  đạo_diễn của trào_lưu phim theo chủ_nghĩa hiện_thực 
+14,năm 1991  loach đã khai_thác đề_tài này với bộ phim riffraff  trong đó khảo_sát cuộc_sống của những người lao_động bình_thường ở london 
+15,tiếp đó là phim bread  roses  kể lại cuộc đình_công các lao_công tại một khách_sạn ở los_angeles và phim the_navigators  2001  kể về 5 công_nhân đường_sắt khi nền công_nghiệp này trải qua cuộc tư_nhân_hóa 
+16,tuy_nhiên  loach luôn nhận_thức rõ về sức tác_động từ những bộ phim của mình 
+17,“ tôi chưa bao_giờ nói với bản_thân rằng các bộ phim của mình có_thể thay_đổi nhiều thứ 
+18,mục_đích làm phim của tôi là cốt_sao có_thể góp thêm tiếng_nói vào nỗi bức_xúc chung ” 
+19,loach xuất_thân từ tầng_lớp lao_động  là con_trai của một thợ_điện và thợ_may 
+20,ông trưởng_thành ở nuneaton  gần birmingham  anh  
+21,loach từng phục_vụ không_quân hoàng_gia trước khi học luật tại trường đại_học oxford nhưng lại theo_đuổi sự_nghiệp điện_ảnh 
+22,tại hãng bbc  ông bắt_đầu làm phim_truyền_hình  ông tin_tưởng mạnh_mẽ rằng  điện_ảnh có_thể kể về “ những người bình_thường và tình_huống khó xử của họ ” 
+23,với niềm tin ấy  loach đã làm phim kes  1969   kể về một cậu bé thuộc tầng_lớp lao_động chăm_sóc chú chim_ưng của mình 
+24,phim đã đoạt 2 giải bafta 

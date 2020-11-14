@@ -1,0 +1,10 @@
+idx, sentence
+0,theo đó  nguyễn_văn_lợi  54 tuổi  nguyên phó giám_đốc agribank bình_chánh  lãnh 7 năm tù  trần_thị_hoàng_yến  34 tuổi  phó_phòng khách_hàng  kinh_doanh  và nguyễn_thị_thanh_nga  35 tuổi  cán_bộ tín_dụng  lãnh 6 năm tù về cùng tội vi_phạm quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng 
+1,tòa tuyên tổng_hợp với bản_án trước trong vụ_án dương thanh_cường lừa_đảo chiếm_đoạt 15 tỉ đồng của ngân_hàng này  lợi phải chấp_hành hình_phạt chung là 15 năm  yến và nga cùng chịu mức án 13 năm tù về tội_danh trên 
+2,tòa còn tuyên buộc hai bị_cáo này liên_đới bồi_thường hơn 230 tỉ đồng cả gốc và lãi cho ngân_hàng nnptnt chi_nhánh bình_chánh 
+3,liên_quan đến vụ_án này  tòa cũng tuyên_phạt nguyễn_đức_trí  60 tuổi  giám_đốc công_ty tnhh tư_vấn thiết_kế xây_dựng ktt  lãnh án chung_thân  trương_xuân_quang  58 tuổi  kế_toán_trưởng công_ty ktt  lãnh 20 năm tù về cùng tội lừa_đảo chiếm_đoạt tài_sản 
+4,hđxx nhận_định  các nguyên lãnh_đạo và cán_bộ ngân_hàng agribank bình_chánh đã không thẩm_định hồ_sơ  ký các hợp_đồng tín_dụng cho công_ty của trí vay vốn  gây thiệt_hại cho ngân_hàng gần 100 tỉ đồng 
+5,theo cáo_trạng  lợi_dụng mối quan_hệ quen_biết với ông lý_văn_chức  nguyên giám_đốc agribank bình_chánh  là bị can trong một vụ án khác xảy ra tại agribank bình_chánh  đã chết năm 2012   trí và quang_lập khống hồ_sơ dự_án đầu_tư xây_dựng khu dân_cư central_park tại ptân_phú  q 7  tphcm  với diện_tích gần 65000 m2  tổng vốn đầu_tư hơn 2000 tỉ đồng  trong đó vốn_tự có là 1955 tỉ đồng  phần còn lại đi vay 
+6,sau đó 2 người này tiếp_tục nâng khống vốn điều_lệ  lập các hợp_đồng và phiếu chi giả về việc mua đất thực_hiện dự_án  làm giả phương_án kinh_doanh  các hợp_đồng mua_bán vật_liệu xây_dựng để vay tiền ngân_hàng 
+7,trong thời_gian từ năm 2007 đến 2009  trí đã ký 3 hợp_đồng tín_dụng với agribank bình_chánh để vay tiền 
+8,còn nga  lợi và yến được giao thẩm_định hồ_sơ vay vốn của công_ty ktt nhưng không kiểm_tra  thẩm_định các điều_kiện vay vốn nên agribank bình_chánh đã duyệt giải_ngân cho công_ty của trí hơn 100 tỉ đồng 

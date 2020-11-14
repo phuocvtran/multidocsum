@@ -1,0 +1,17 @@
+idx, sentence
+0,cụ_thể  cục quản_lý cạnh_tranh  bộ_công_thương  khẳng_định hiện có 14 cơ_sở  doanh_nghiệp kinh_doanh hoạt_động bán hàng đa cấp  bhđc  nhưng chưa thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận hoạt_động bhđc với cơ_quan có thẩm_quyền và đã bị các cơ_quan_chức_năng phát_hiện  xử_lý 
+1,đó là  1 
+2,công_ty cp phát_triển thương_mại lotus_việt_nam  số 2  ngõ 2  tổ 3  đường trung_kính  phường trung_hòa  cầu_giấy  hà_nội  2 
+3,công_ty cổ_phần everrichs_global  148 hoàng_quốc_việt  quận cầu_giấy  hà_nội  3 
+4,công_ty cp thương_mại_merro  tầng 1  tòa nhà intracom  lô_c2f_cụm sản_xuất tiểu_thủ_công_nghiệp nhỏ  phường dịch_vọng  quận cầu_giấy  hà_nội  4 
+5,công_ty cổ_phần thương_mại quốc_tế focus_việt_nam  số 12  tổ 44  phố trung_kính  yên_hòa  cầu_giấy  hà_nội  5 
+6,công_ty cp đầu_tư toàn_cầu đại_dương xanh  tầng 4  tòa nhà t6 / 08  số 643a đường phạm_văn_đồng  phường cổ_nhuế 1  quận bắc từ_liêm  hà_nội  6 
+7,công_ty công_nghệ mới và phát_triển quốc_tế amkey_việt_nam  số 51 nguyễn_ngọc_vũ  trung_hòa  cầu_giấy  hà_nội  7 
+8,hộ kinh_doanh trương_thị_kim_nguyệt  thị_trấn bắc trà_my  tỉnh quảng_nam  8 
+9,công_ty cp đầu_tư và phát_triển union việt_nam  số 15  ngõ 170 hoàng_ngân  cầu_giấy  hà_nội  9 
+10,công_ty cp_bigforest  số 21a đường nguyễn_khang  phường trung_hòa  cầu_giấy  hà_nội  10 
+11,công_ty tnhh đầu_tư và phát_triển thương_mại thiên_lộc_phát  bt1  lô 9  kđt mễ trì_hạ  pmễ_trì  nam từ_liêm  hà_nội  11 
+12,công_ty cổ_phần kdm việt_nam  số 92  tổ 45 phường quan_hoa  cầu_giấy  hà_nội  12 
+13,công_ty cp_thiên_phương_việt_nam  số 5  ngõ 21  phố đại_từ  phường đại_kim  quận hoàng_mai  hà_nội  13 
+14,công_ty cp khoa_học công_nghệ trường_sinh  số tt1a  vinaconex 9 b  đại_lộ lê_nin  tp vinh  tỉnh nghệ_an  14 
+15,công_ty cp đt_tm_phúc gia_bảo 68  131 bạch_đằng  phường phước_trung  tp bà_rịa  tỉnh bà_rịa  vũng_tàu  

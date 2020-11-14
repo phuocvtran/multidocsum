@@ -1,0 +1,13 @@
+idx, sentence
+0,fabregas và semaan tại thành_phố biển miami  florida  mỹ   hôm 20/5 
+1,đôi trai tài gái sắc mang theo cả hai con_gái cưng và người_nhà trong chuyến du_lịch 
+2,fabregas sẽ tập_trung với tuyển tây ban_nha vào cuối tháng này để chuẩn_bị tham_dự euro 2016 tại pháp 
+3,những khoảnh_khắc vui_vẻ bên gia_đình có_thể giúp fabregas lấy lại cân_bằng sau những thất_bại mới_đây trên sân_cỏ 
+4,trong mùa giải 2015  2016  fabregas và clb chelsea không giành được danh_hiệu nào  thậm_chí bị loại sớm khỏi champions_league và không lọt vào top 4 ngoại_hạng anh 
+5,chelsea cũng trở_thành đội bảo_vệ chức vô_địch ngoại_hạng anh đạt thành_tích kém nhất  xếp vị_trí thứ mười 
+6,bên cạnh phong_độ sa_sút cùng đội bóng  fabregas còn bị nghi_vấn chơi không hết_mình dưới sự dẫn_dắt của cựu hlv jose_mourinho 
+7,nhà cầm_quân này bị sa_thải cuối năm 2015  sau khi không ngăn được đà xuống_dốc của chelsea và liên_tục cáo_buộc học_trò phản_bội 
+8,fabregas thường_xuyên chia_sẻ những khoảnh_khắc tình_cảm với semaan trên instagram 
+9,người đẹp này và hai con_gái là chỗ dựa tâm_lý vững_chắc cho ngôi_sao tuyến giữa của chelsea 
+10,fabregas chơi tốt hơn trong nửa sau của mùa giải  dưới sự dẫn_dắt của guus_hiddink  nhưng không_thể đưa chelsea lên nhóm dẫn_đầu 
+11,mùa giải tới  đội này sẽ không được dự_cup châu_âu 

@@ -1,0 +1,23 @@
+idx, sentence
+0,đúng ngày 20/5  ngày tình_nhân trung_quốc   hoắc_kiến_hoa và lâm_tâm như xác_nhận chuyện hẹn_hò nhiều năm phủ_nhận 
+1,cùng lúc  nguồn tin từ đài_loan cho hay  nữ diễn_viên 40 tuổi đã mang thai ở tháng đầu 
+2,đây cũng là lý_do họ vội_vàng công_bố chuyện tình_cảm 
+3,trả_lời phỏng_vấn với ettoday  đại_diện lâm_tâm như phủ_nhận tin_đồn này 
+4,“ chúng_tôi không nói về chuyện này  chúng làm_hỏng tâm_trạng tốt của mọi người 
+5,những chuyện tốt thế này đừng tạo tin_đồn đố_kỵ ” 
+6,lâm tâm như năm nay đã 40 tuổi còn người_yêu  37 tuổi nên họ đã nghĩ đến chuyện sớm yên bề gia_thất 
+7,người đẹp hoàn_châu cách cách không phủ_nhận khả_năng cưới vội  “ tôi nghĩ đám_cưới là chuyện không_thể lên kế_hoạch trước 
+8,đến thời_điểm là cưới thôi ” 
+9,sina tiết_lộ  hoắc_kiến_hoa sau khi rời đài_loan sang đại_lục phát_triển sự_nghiệp đã mua nhà ở thượng_hải 
+10,anh gắn_bó với thành_phố này 11 năm qua 
+11,tuy_nhiên  lâm_tâm như chỉ muốn sống ở quê nhà đài_bắc 
+12,chiều lòng người_yêu  tài_tử tiếu ngạo giang_hồ đã sắm nhà ở đài_loan để chuẩn_bị dọn về sống chung 
+13,hôm 20/5  lâm_tâm như vui_vẻ cho biết  “ anh ấy đang tìm mua nhà ” 
+14,khi được hỏi về tình_cảm của gia_đình dành cho bạn trai  lâm_tâm như vui_vẻ nói  “ cha tôi khen anh ấy lịch_sự và hiểu_biết ” 
+15,nam đô cho hay  vì cả hai qua_lại gần 10 năm nay nên gia_đình hai bên không lạ gì nhau 
+16, hai bên gia_đình rất nôn_nóng chờ hôn_lễ   tin_tức cho biết 
+17,hoắc kiến_hoa_sinh năm 1979 tại đài_loan 
+18,anh từng có thời_gian chật_vật khi đóng phim thần_tượng tại quê nhà 
+19,thời_điểm sang đại_lục phát_triển  nam diễn_viên đã bước sang trang mới trong sự_nghiệp và trở_thành tài_tử xứ đài đắt_giá nhất hiện_nay 
+20,về đời_tư  anh từng công_khai yêu trần_kiều_ân và vướng tin_đồn tình_ái với diệp_tuyền  trương_hinh_dư  quan_chi_lâm 
+21,trong khi đó  lâm_tâm như sinh năm 1976  cô từng có đoạn_tình với lâm_chí_dĩnh  đạo_diễn đường quý_lễ 

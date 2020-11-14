@@ -1,0 +1,9 @@
+idx, sentence
+0,thông_tin từ công_an tp móng_cái cho biết khoảng 2 giờ 15 ngày 285 
+1,lợi_dụng sơ_hở trong việc bảo_vệ đền xã_tắc  hai thanh_niên lạ_mặt đã phá cửa vào trong đền rồi dùng thanh sắt  đục_gỗ phá ba hòm công_đức 
+2,camera an_ninh của đền đã ghi lại các hành_vi của hai tên trộm này 
+3,theo hình_ảnh từ camera  đối_tượng thứ nhất cao khoảng 165 m  răng hơi vổ  mặc áo_phông ngắn tay màu nâu 
+4,đối_tượng còn lại cao khoảng 170 m  dáng người gầy  mặc áo sơ_mi dài tay tối màu  che_kín mặt và đầu 
+5,theo ước_tính  hai đối_tượng này đã lấy trộm số tiền khoảng 300 triệu đồng  gồm nhiều mệnh_giá 
+6,tuy_nhiên  theo một cán_bộ điều_tra của công_an tp móng_cái  hiện vẫn chưa xác_định được cụ_thể số tiền bị lấy mất 
+7,hiện cơ_quan_chức_năng vẫn chưa xác_định được danh_tính của thủ_phạm trộm tiền 

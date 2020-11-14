@@ -1,0 +1,11 @@
+idx, sentence
+0,con trăn này dài khoảng 4 m  trọng_lượng khoảng 50 kg  trên thân có một vết_thương 
+1,con trăn này khá hiền_lành  không tấn_công người và không ăn gà của gia_đình anh thông 
+2,nhiều người cho rằng đây là con trăn “ thần_linh ” nên khi thấy con trăn đã chắp_tay và miệng khấn  vái … có người còn rút tiền ra vứt vào nơi con trăn đang nằm 
+3,trước tình_hình quá đông người dân hiếu kỳ đến xem con trăn  ngày 16  công_an thị_trấn phố_châu đã đến để đảm_bảo an_ninh trật_tự và báo cơ_quan_chức_năng có biện_pháp giải_quyết 
+4,được biết trước tết_nguyên_đán 2016  người dân ở thị_trấn phố_châu bắt được con trăn trên ở trên núi rồi mang đi bán 
+5,lúc bắt con trăn  anh thông có chứng_kiến 
+6,sau khi bán con trăn  nhiều người dân đã đi chuộc trăn mang về và đưa lên thả lại trên núi thả vào rừng 
+7,tuy_nhiên  đến sáng 16  anh thông ra chuồng bò hốt_hoảng khi phát_hiện con trăn trên đang nằm cuộn_tròn trong chuồng bò 
+8,anh thông đi thông_báo với mọi người  người dân cho rằng “ trăn thần_linh ” kéo về đã đến xem rất đông 
+9,hiện công_an thị_trấn phố_châu đang bảo_vệ trật_tự và giải_thích với người_dân không mê_tín dị_đoan 

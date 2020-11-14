@@ -1,0 +1,9 @@
+idx, sentence
+0,cục quản_lý cạnh_tranh  bộ công_thương  mới có thông_báo về việc chấm_dứt hoạt_động bán hàng đa cấp và đề_nghị rút_tiền ký quỹ của công_ty tnhh aim_star_network việt_nam 
+1,công_ty tnhh aim_star_network việt_nam có trụ_sở chính ở tầng 8  phòng 806  tòa nhà_văn_phòng  trung_tâm thương_mại indochina_plaza hà_nội  số 239 đường xuân_thủy  phường dịch_vọng  quận cầu_giấy  hà_nội 
+2,công_ty tnhh aim_star_network việt_nam được cấp giấy_chứng_nhận đầu_tư số 011043002151 do ubnd thành_phố hà_nội cấp lần đầu ngày 25/11/2013 và thay_đổi lần thứ nhất vào ngày 11/12/2014 
+3,giấy chứng_nhận đăng_ký doanh_nghiệp số 0106389481  ngày 16/11/2015 cấp đổi nội_dung đăng_ký kinh_doanh từ giấy chứng_nhận đầu_tư số 011043002151 do ubnd thành_phố hà_nội cấp lần đầu ngày 25/11/2013  
+4,lý_do công_ty tnhh aim_star_network việt_nam đưa ra thông_báo chấm_dứt hoạt_động bán hàng đa cấp là do doanh_nghiệp đang tiến_hành thủ_tục giải_thể 
+5,thời_gian bắt_đầu chấm_dứt hoạt_động bán hàng đa cấp từ ngày 31/12/2015 
+6,cục quản_lý cạnh_tranh cũng đề_nghị công_ty tnhh aim_star_network việt_nam giải_tỏa số tiền ký quỹ vì lý_do dn chấm_dứt hoạt_động bán hàng đa cấp và đang tiến_hành thủ_tục giải_thể 
+7,trong thời_hạn 30 ngày kể từ ngày cục quản_lý cạnh_tranh đăng_tải thông_báo  người tham_gia bán hàng đa cấp của công_ty tnhh aim_star_network_việt_nam chưa được công_ty hoàn_thành các nghĩa_vụ quy_định tại điểm b khoản 2 điều 16 nghị_định 42/2014 / nđcp có quyền thông_báo đến cục quản_lý cạnh_tranh để đơn_vị yêu_cầu công_ty giải_quyết 

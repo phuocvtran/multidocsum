@@ -1,0 +1,5 @@
+idx, sentence
+0,trong chiến_dịch vận_động đầu_tư mới nhất của mình  uber đã nhận được một khoản đầu_tư được mệnh_danh là “ khoản đầu_tư lớn nhất được cung_cấp cho một công_ty đại_chúng từ trước tới nay ” 
+1,khoản đầu_tư này có giá_trị lên tới 35 triệu usd và được cung_cấp bởi chính kho_bạc nhà_nước ả_rập 
+2,uber đã hoạt_động và phát_triển tại nước này tứ năm 2014  và trong thông_báo quyết_định đầu_tư của mình  ông yasir_al_rumayyan_– chủ_tịch hội_đồng quỹ đầu_tư đại_chúng ả rập  cho biết  đây là một phần của kế_hoạch viễn_cảnh 2030 nhằm giảm sự phụ_thuộc vào kinh_doanh dầu_mỏ của nền kinh_tế nước này 
+3,ông rumayyan sẽ được nhận một vị_trí trong hội_đồng quản_trị uber theo như hợp_đồng giữa hai bên  tuy_nhiên hiện_tại uber vẫn chưa có mục_tiêu cụ_thể nào cho số tiền đầu_tư mới nhận 

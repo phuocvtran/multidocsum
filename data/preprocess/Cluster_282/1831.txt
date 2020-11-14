@@ -1,0 +1,30 @@
+idx, sentence
+0,sau khi tập 8 đấu_trường tiếu_lâm lên sóng tối 31/5  nhiều khán_giả bức_xúc về chất_lượng chương_trình với kịch_bản tệ cũng như diễn_xuất thiếu chuyên_nghiệp của người chơi 
+1,trong tập này  huấn_luyện_viên thu_trang giận_dữ và thất_vọng trước tiểu_phẩm của thí_sinh đội mình 
+2,cô thẳng tay loại cả thanh_sơn và lan_phương mà không chọn một trong hai như thường_lệ 
+3,còn trấn_thành phàn_nàn chuyện thí_sinh xây_dựng kịch_bản mà không cần biết khán_giả có hiểu nội_dung không 
+4, các em mượn phim  mỹ_nhân ngư  để dựng nhưng nếu theo cách làm này  những ai chưa từng xem phim  liệu có hiểu các em đang nói gì 
+5,  nam diễn_viên nhận_xét về tiết_mục của hồng_phúc  hoài_long 
+6,trong khi chương_trình diễn ra  nhiều khán_giả đã buông_lời chê_bai trên fanpage đấu_trường tiếu_lâm 
+7,đa_số cho rằng so với vòng lập đội  vòng này các thí_sinh sa_sút phong_độ khi tương_tác với bạn diễn 
+8,kịch_bản phần_nhiều nhảm_nhí và khó hiểu 
+9, từ vòng  song đấu  đến giờ tập nào cũng nhạt  cười không nổi 
+10,vậy cuối_cùng kịch_bản chán là lỗi thí_sinh hay lỗi huấn_luyện_viên 
+11,  khán_giả lê_hữu_tấn bày_tỏ 
+12,ngoài anh tấn  nhiều người có thắc_mắc tương_tự 
+13,họ cũng tò_mò chuyện giám_khảo huấn_luyện thí_sinh ra_sao để ra những tiểu_phẩm kém chất_lượng qua mỗi tập lên sóng 
+14,trước những chất_vấn của người xem trong và sau chương_trình  đức_thịnh là người đầu_tiên trong năm huấn_luyện_viên lên_tiếng giải_thích 
+15,đạo_diễn ma_dai chia_sẻ chương_trình không quy_định kịch_bản ở các vòng đấu là của thí_sinh hay huấn_luyện_viên mà dựa trên sự bàn_bạc của cả hai 
+16,thường thí_sinh nêu ý_tưởng dựa trên tiêu_chí mỗi vòng  huấn_luyện_viên góp_ý  phát_triển và cùng tập_luyện 
+17, một tiểu_phẩm tốt hay chưa tốt đều là công và lỗi của cả huấn_luyện_viên và thí_sinh   đạo_diễn kết_luận 
+18,nhân_dịp này  đức_thịnh thừa_nhận những tiết_mục không tốt của đội mình đều do lỗi của huấn_luyện_viên 
+19,anh cho rằng mình đã mắc_lỗi ở các khâu   chọn sai ý_tưởng  không hứng_thú với tiêu_chí vòng đấu  chưa hiểu rõ thí_sinh  bận việc nên lơ là thí_sinh  
+20, nhiều lúc tôi rất muốn xin_lỗi thí_sinh của mình nhưng sợ mọi người nghĩ tôi giả_tạo 
+21,tôi nói điều này không phải để chứng_tỏ mình cao_thượng   đức_thịnh bày_tỏ 
+22,phía nhà sản_xuất cho rằng đây là chương_trình mang dấu_ấn cá_nhân nhiều hơn 
+23,các thí_sinh phải một_mình đối_mặt với năm huấn_luyện_viên và khán_giả nên tâm_lý đôi_khi bị ảnh_hưởng 
+24,đó là lý_do vì_sao có những tập nhiều tiết_mục hay  gây xúc_động nhưng cũng có tập nhạt nhòa  không để lại dấu_ấn 
+25, bước vào vòng  đạo_cụ   khán_giả sẽ được chứng_kiến sự sáng_tạo của thí_sinh với những đạo_cụ họ nhận được 
+26,nếu duy_khương gây cười bởi lối diễn hài hình_thể và ngôn_ngữ thì tuấn_kiệt khiến giám_khảo ngưỡng_mộ bởi kiểu hài trí_tuệ   đại_diện nhà_sản_xuất hứa_hẹn về chất_lượng chương_trình ở những tập tiếp_theo 
+27,đấu_trường tiếu_lâm là gameshow mô_phỏng hình_thức của giọng_hát việt 
+28,tuy_nhiên  thay_vì khoe tài_năng ca_hát  các thí_sinh phải thể_hiện khiếu tấu hài trước năm huấn_luyện_viên 

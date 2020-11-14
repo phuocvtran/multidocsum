@@ -1,0 +1,15 @@
+idx, sentence
+0,trong ma_nữ báo_thù  huy  nam_thành  là một luật_sư điển_trai  tương_lai ngời sáng cùng một tình_yêu vẹn_toàn với lan  thanh_trần  
+1,sau một thời_gian yêu nhau  cả 2 quyết_định tiến xa hơn 
+2,huy cùng lan về quê lan xin phép mẹ để đính_hôn 
+3,bà tâm  hiền_mai   mẹ lan sống trong ngôi nhà cổ của gia_đình cùng người em_gái  bà sen  trịnh_kim_chi  
+4,những ngày đầu sống trong ngôi biệt_thự rộng_lớn  mỗi khi đêm về huy đều mơ thấy một cô giá trẻ  mai_hàn  đến với mình  sợ_hãi xen_lẫn tò_mò  huy bắt_đầu tìm_hiểu về lai_lịch của ngôi biệt_thự cũng như lai_lịch của cô gái trong giấc mơ mỗi đêm 
+5,và câu_chuyện hé mở một bí_mật rùng_rợn nhiều năm trước  ma_nữ báo_thù được quay gần 1 tháng tại những thắng_cảnh đẹp nhất của vùng rừng_núi bạch_mãhuế với các diễn_viên trương_nam_thành  mai_hàn  thanh_trần  hoàng_phúc  trịnh kim_chi  hiền_mai  quang_hòa  hoàng_mập  phi_long  tham_dự buổi giao_lưu mới_đây  có đầy_đủ thành_phần chính của đoàn phim như đạo_diễn vĩnh_khương  nữ diễn_viên mai_hàn  thanh_trần  quang_hòa  phi_long cùng 2 diễn_viên gạo_cội trịnh kim_chi  hiền_mai  nam diễn_viên chính trương_nam_thành 
+6,đạo_diễn vĩnh_khương chia_sẻ  quyết_định quay bộ phim ma_nữ báo_thù tại bạch_mã là một quyết_định cực_kỳ mạo_hiểm của nhà_sản_xuất 
+7,ngoài yếu_tố chí phí cao vì xa_xôi  thì núi bạch_mã cách huế 50 cây_số  có độ cao gần 2000 m  cao hơn cả đà_lạt 
+8,có_thể nói ma_nữ báo_thù là bộ phim điện_ảnh đầu_tiên khám_phá cảnh đẹp của vùng núi bạch_mã 
+9,nữ diễn_viên hiền_mai cho biết   khi được đạo_diễn vĩnh_khương mời tham_gia  mình cũng băn_khoăn vì đang đóng rất nhiều phim_truyền_hình 
+10,cũng rất lâu rồi không nhận tham_gia phim điện_ảnh 
+11,tuy_nhiên khi đọc kịch_bản  hiền_mai thấy vai diễn này rất là hay  một bà già khùng khùng điên_điên nhưng lại rất tỉnh  rất độc_đáo so với những vai diễn trước_đây của mình ” 
+12,á_quân manhunt trương_nam_thành cho biết  ” về chuyện hậu_trường  khi theo đoàn lên đến núi bạch_mã quay_phim  thành mới trải_nghiệm được những điều chưa từng có ở bất_cứ nơi nào khác 
+13,ở đây ban_ngày không có điện  đến tối mới có điện từ khoảng 17 g đến 22 g 

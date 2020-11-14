@@ -1,0 +1,5 @@
+idx, sentence
+0,vào đêm qua  20/5   trên địa huyện lục_yên  tỉnh yên_bái đã xảy ra trận gió_lốc làm nhiều người bị_thương  hơn 20 ngôi nhà bị sập đổ  170 ngôi nhà bị hư_hỏng  nhiều ha hoa_màu  cây_cối của người_dân bị gãy đổ 
+1,theo ông hoàng_văn_số  phó ban_chỉ_huy phòng_chống thiên_tai  tìm_kiếm cứu nạn huyện lục_yên  tỉnh yên_bái  khoảng từ 20 giờ đêm qua đến rạng sáng nay  21/5   trên địa_bàn các xã tân_lập  động_quan  phúc_lợi  tô_mậu  phan_thanh của huyện lục_yên đã có mưa lớn kèm gió_lốc xoáy rất mạnh 
+2,trận mưa kèm lốc xoáy đã làm 9 người bị_thương  24 nhà_ở  6 nhà_bếp bị sập hoàn_toàn  170 ngôi nhà bị hư_hại  tốc mái 
+3,mưa  gió_lốc cũng đã làm 3 cột_điện bị đổ  nhiều ha hoa_màu và cây_cối bị gãy  hỏng 

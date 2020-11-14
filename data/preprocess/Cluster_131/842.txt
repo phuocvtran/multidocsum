@@ -1,0 +1,14 @@
+idx, sentence
+0,honda_winner 150 có tên gọi khác tại thị_trường indonesia là supra_gtr 150 
+1,winner ra_đời để cạnh_tranh với đối_thủ exciter  phân khúc xe thể_thao cỡ nhỏ mà yamaha làm mưa làm gió tại thị_trường việt 
+2,ở indonesia  exciter gọi là jupiter_mx 
+3,giống như winner  supra_gtr 150 trang_bị động_cơ xilanh đơn dung_tích 150 phân_khối  cam đôi dohc  phun xăng điện_tử pgm_fi  làm mát bằng dung_dịch 
+4,tỷ_số nén 113  1  công_suất 154 mã_lực tại vòng tua máy 9000 vòng / phút  mômen xoắn cực_đại 135 nm tại 6500 vòng / phút 
+5,hộp_số 6 cấp 
+6,honda sử_dụng nhiều chi_tiết bằng nhựa sơn vân giả carbon  loạt chất_liệu sử_dụng nhiều cho môtô phân_khối lớn 
+7,khách_hàng có_thể cảm_thấy quen_thuộc với winner để sẵn_sàng làm_quen vì thiết_kế giống rsx 
+8,cụm đèn_pha led 
+9,phanh đĩa hai bánh  ống_xả ốp  lazăng thể_thao  đồng_hồ analog kết_hợp lcd  giảm xóc đơn sau 
+10,bộ lốp không săm kích_thước 90/80 trước và 120 / 70 sau 
+11,bình xăng dung_tích 45 lít 
+12,theo thử_nghiệm của honda  supra_gtr 150 tăng_tốc từ 0200 mét chỉ mất 107 giây và đạt tốc_độ tối_đa 122 km / h 

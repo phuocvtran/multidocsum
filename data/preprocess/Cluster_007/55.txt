@@ -1,0 +1,7 @@
+idx, sentence
+0,công_an tp buôn_ma_thuột  đắk_lắk  xác_nhận  trên địa_bàn vừa xảy ra vụ điện giật chết người 
+1,theo đó  khoảng 16 giờ 30 ngày 19/5  anh phan_đức_huy  31 tuổi  ngụ phường khánh_xuân  tp buôn_ma_thuột  đang nối dây_điện hàn cửa_ô_tô thì bị điện giật khiến anh huy tử_vong 
+2,theo ông trần_thủy_chung  chủ cơ_sở thu_mua lốp cũ ở đường giải_phóng  phường tân_thành   thì khoảng 15 giờ cùng ngày  anh huy đến bãi thu_mua lốp của gia_đình tại số 93 đường giải_phóng  phường tân_thành kéo điện ra hàn xe 
+3,tuy_nhiên  khoảng 20 phút sau  vợ_chồng ông chung ra tá_hỏa nhìn thấy anh huy nằm bất_động dưới đất 
+4, khi ra ngoài  tôi thấy huy nằm ngửa trên đất  thùng_xe bị nhiễm_điện 
+5,sau đó  tôi đã ngắt_điện và hô_hoán mọi người đưa anh huy đi cấp_cứu nhưng anh huy đã tử_vong trước đó ”  ông chung nói 

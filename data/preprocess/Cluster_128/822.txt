@@ -1,0 +1,8 @@
+idx, sentence
+0,theo đó  người đàn_ông nhận được  vinh_hạnh  này là ông leroy_b_black  ở new_jersey  mỹ 
+1,mới đây  ông đã qua_đời ở tuổi 55  vì căn_bệnh ung_thư phổi 
+2,sau khi ông mất  thì trên tờ báo địa_phương press of atlantic_city đã đăng tới 2 bản cáo_phó cho ông leroy 
+3,bản cáo_phó đầu được đăng bởi bà bearetta_harrison_black là vợ của ông leroy  với nội_dung ông qua_đời để lại người vợ thương_yêu và con trai jazz_black 
+4,ngay sau khi bản cáo_phó đầu_tiên xuất_hiện  thì rất nhiều người ngạc_nhiên với bản cáo_phó thứ hai cũng có nội_dung tương_tự 
+5,tuy_nhiên  trên bản cáo_phó này tên người vợ đã được thay bằng tên nhiều bạn_bè thân_thích  đặc_biệt nổi_bật nhất là dòng chữ in đậm  người tình trăm năm  princess_hall 
+6,thoáng nhìn qua  nhiều người có_thể nghĩ đây là một sự nhầm_lẫn của báo  nhưng thực_chất đó lại là của hai người đăng khác nhau  dù nội_dung chính vẫn là thông_báo việc ông leroy qua_đời 

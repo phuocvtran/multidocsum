@@ -1,0 +1,15 @@
+idx, sentence
+0,theo thông_tin trên báo_công_an nhân_dân  tri_thức trực_tuyến  cơ_quan công_an tỉnh khánh_hòa đang khẩn_trương truy bắt nhóm đối_tượng gây ra liên_tiếp 3 vụ chặn xe taxi để cướp tài_sản tại đại_lộ nguyễn_tất_thành thuộc tổ_dân_phố nghĩa_cam  phường cam_nghĩa  tp cam_ranh  khu_vực giáp_ranh với huyện cam_lâm  
+1,theo điều_tra ban_đầu  lúc 1 h30 ngày 28/5  anh võ_minh_huy  31 tuổi  ngụ huyện đồng_xuân  phú_yên  điều_khiển xe taxi bks 79a036  83 chở 2 hành_khách từ nha_trang vào sân_bay cam_ranh 
+2,đến đoạn đường trên thì xuất_hiện một đối_tượng dựng xe_máy wave chắn_ngang đường và yêu_cầu dừng xe 
+3,đối_tượng dùng bình_sơn xịt vào kính chắn gió phía trước  dùng đá đập bể_kính đe_dọa và yêu_cầu 2 người khách đưa tiền 
+4,anh huy đã điều_khiển xe lùi lại và chạy lách qua đối_tượng trên để vào sân_bay cam_ranh 
+5,đối_tượng đuổi theo đến đầu đường vào sân_bay thì quay lại 
+6,đến 1 h45 cùng ngày  anh lê_minh_quý  43 tuổi  trú tp nha_trang  điều_khiển taxi chở 3 khách tù nha_trang vào sân_bay cam_ranh 
+7,khi đến đoạn đường trên thì bị một người đàn_ông chặn đầu xe  xịt bình_sơn  đập bể_kính cướp tài_sản 
+8,lúc này anh quý điều_khiển xe lùi lại rồi tăng ga lách qua nghi can  chạy vào sân_bay 
+9,người đàn_ông cũng lên xe_máy đuổi theo đến khi taxi vào sân_bay mới dừng lại 
+10,lúc 1 h55 cùng ngày 28/5  anh huỳnh_anh_vũ  37 tuổi  ngụ phường vạn_thắng  tp nha_trang  điều_khiển xe taxi bks 79a085  45 chở 2 người khách từ nha_trang vào sân_bay cam_ranh 
+11,đến đoạn đường trên thì xuất_hiện 2 đối_tượng chạy xe_máy ngược chiều chặn đầu xe 
+12,anh_vũ giảm tốc_độ lại  sau đó chạy lách qua 
+13,chúng quay xe đuổi theo  một đối_tượng chặn trước đầu xe và đối_tượng còn lại đứng sau đuôi xe 

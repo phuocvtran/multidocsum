@@ -1,0 +1,17 @@
+idx, sentence
+0,ai cũng rõ  “ người đặc_biệt ” và tân hlv của man_city là những kẻ_thù không đội_trời chung 
+1,họ từng đấu_trí  đấu võ mồm tay_đôi trên đường pitch 
+2,mourinho từng chọc vào mắt trợ_lý tito_vilanova của pep  guardiola từng gọi thẳng tên nhà cầm_quân bồ_đào_nha và nói ông là  kẻ lưu_manh  
+3,chính mối quan_hệ gay_gắt của mourinho và pep đã khiến cuộc hội_ngộ ở thành manchester hấp_dẫn hơn bao_giờ hết 
+4,giới mộ điệu đang mong_chờ những gia_vị đặc_biệt từ hai hlv ở các trận đấu tại premier_league mùa tới 
+5,nhưng mới_đây  “ người đặc_biệt ” đã khiến người hâm_mộ hụt_hẫng 
+6,phát_biểu trong chuyến đi đến trường đại_học lisbon  mourinho khẳng_định  ông sẽ không đặt mối thù cá_nhân với pep lên hàng_đầu và không để mâu_thuẫn tiếp_tục leo_thang ở mùa giải tới 
+7,“ kinh_nghiệm của tôi không cho_phép tôi được ngây_thơ 
+8,tôi làm_việc 2 năm ở tây ban_nha  nơi mà tôi hoặc pep là người chiến_thắng 
+9,áp_lực đặt hai chúng_tôi vào cuộc_chiến sinhtử 
+10,vì_thế  chúng_tôi gay_gắt với nhau ” 
+11,mourinho cho biết thêm  “ nhưng premier_league là một chuyện khác 
+12,4 hlv vô_địch ở 4 mùa cho thấy đây là giải đấu có tính khắc_nghiệt rất cao 
+13,nếu tôi chỉ chú_ý đấu_đá với man_city  với pep thì một đội bóng khác  nhà cầm_quân khác sẽ vô_địch  
+14,“ nói một_cách đơn_giản  dễ hiểu hơn là tôi sẽ không sa_đà vào việc tranh_cãi  giải_quyết mối thù cá_nhân với pep 
+15,thay vào đó  tôi sẽ làm mọi cách để mu vô_địch ở mùa giải tới ”  nhà cầm_quân bồ_đào nha kết_thúc phần chia_sẻ bằng một tuyên_bố chắc_nịch 

@@ -1,0 +1,10 @@
+idx, sentence
+0,đây là hoạt_động kỷ_niệm 30 năm ngày mất của ông 
+1,dự buổi lễ  có ông pierre_schori  đặc_phái_viên cao_cấp của thụy_điển_stefan_lofven  bà camilla_menllander  đại_sứ thụy_điển tại việt_nam  thứ_trưởng bộ y_tế nguyễn_viết_tiến và đại_diện nhiều bộ  ngành 
+2,ông pierre_schori nhấn_mạnh  olof_palme  1927  1986  là người bạn lớn của việt_nam trong giai_đoạn đấu_tranh thống_nhất đất_nước  là người kiên_trì chủ_trương hợp_tác và hỗ_trợ việt_nam trong công_cuộc tái_thiết đất_nước  ông là người bạn chính_trực và tận_tâm của việt_nam 
+3,đây là hoạt_động trong khuôn_khổ chương_trình kỷ_niệm “ di_sản của cố_thủ_tướng olof_palme và mối quan_hệ việt_nam  thụy_điển ” và chuyến thăm của ông pierre_schori  đặc_phái_viên cao_cấp của thủ_tướng thụy_điển_stefan_lofven tại hà_nội từ ngày 1 đến 4/6 
+4,ông là người đặt nền_móng cho quan_hệ ngoại_giao giữa thụy_điển và việt_nam rất sớm 
+5,thụy_điển là nhà tài_trợ oda lớn thứ hai cho việt_nam trong thập_niên 1970  lớn nhất trong thập_niên 1980 và lớn thứ tư trong những năm 1990 và tiếp_tục diễn ra cho đến năm 2013  khi việt_nam đã đạt ngưỡng thu_nhập trung_bình 
+6,việc đặt tượng chân_dung cố_thủ_tướng thụy_điển_olof_palme tại bv_nhi là một sự tri_ân của nhân_dân việt_nam với ông 
+7,tác_phẩm do nhà điêu_khắc qvarsebo thực_hiện 
+8,bức tượng do trung_tâm quốc_tế olof_palme  quỹ tưởng_niệm olof_palme  ủy_ban thụy_điển về việt_nam  lào và campuchia và các nhân_vật xuất_chúng tài_trợ 

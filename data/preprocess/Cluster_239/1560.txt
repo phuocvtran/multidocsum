@@ -1,0 +1,9 @@
+idx, sentence
+0,hôm_nay  trên một diễn_đàn uy_tín về giáo_dục  nhiều thành_viên đã chia_sẻ về tờ giấy_khen của một em học_sinh lớp 1b trường tiểu_học tân_phương  ứng_hòa  hà_nội với nội_dung khá lạ_lẫm 
+1,tờ giấy khen thưởng ghi ngày 25/5/2016 do hiệu_trưởng trần_thị_tám_ký 
+2, đạt danh_hiệu học_sinh khen từng mặt   nội_dung tờ giấy_khen chỉ rõ 
+3,nhiều ý_kiến thể_hiện sự bất_bình trước sự thiếu trách_nhiệm của nhà_trường băn_khoăn không hiểu nội_dung tờ giấy_khen 
+4,thậm_chí  một_số phụ_huynh cho rằng nội_dung khen_thưởng không rõ_ràng thì không nên viết ra để không trở_thành trò_cười 
+5,trao_đổi với vtc_news  một lãnh_đạo trường tiểu_học tân_phương  ứng_hòa  hà_nội  xác_nhận giấy_khen đó đúng là của trường mình 
+6,vị lãnh_đạo này cho biết do nhà_trường thực_hiện theo thông_tư 30 nên có hình_thức khen_thưởng như vậy 
+7,tuy_nhiên  khi phóng_viên hỏi về nội_dung của tờ giấy_khen  vị lãnh_đạo trường tiểu_học tân_phương cũng băn_khoăn không_thể lý_giải được 

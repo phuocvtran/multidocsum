@@ -1,0 +1,15 @@
+idx, sentence
+0,ban lãnh_đạo taliban bắt_đầu cân_nhắc chọn_người kế_nhiệm 
+1,hãng thông_tấn afp dẫn một nguồn tin cấp cao taliban khẳng_định  mullah_mansour không còn nữa   đồng_thời cho biết các lãnh_đạo hàng_đầu của nhóm này đang tập_hợp tại quetta để chọn thủ_lĩnh kế_nhiệm 
+2,tuy_nhiên  taliban chưa chính_thức xác_nhận thông_tin trên  mặc_dù chính_phủ afghanistan khẳng_định mansour đã chết 
+3,trong khi đó  văn_phòng đối_ngoại pakistan đã ra thông_cáo phản_đối vụ không_kích của mỹ  cho rằng đây là hành_động xâm_phạm chủ_quyền của pakistan 
+4,thông_cáo trên xác_nhận hai người đã thiệt_mạng trong vụ không_kích của máy_bay không người lái mỹ tối 21/5 gần biên_giới với afghanistan  song không đề_cập số_phận của thủ_lĩnh taliban_mansour 
+5,theo thông_cáo trên  sau khi tiến_hành vụ không_kích bằng máy_bay không người lái  phía mỹ thông_báo với thủ_tướng và tổng_tham_mưu trưởng quân_đội pakistan và cho biết mục_tiêu của vụ không_kích này là thủ_lĩnh taliban_akhtar_mansour 
+6,một quan_chức mỹ giấu tên cũng xác_nhận mỹ chỉ thông_báo cho phía pakistan sau khi tiến_hành vụ không_kích 
+7,thông_cáo trên cũng cho biết nhà_chức_trách đã xác_định danh_tính một người thiệt_mạng là tài_xế taxi muhammad_azam và đã giao thi_thể cho người_thân 
+8,người thứ hai thiệt_mạng trong vụ không_kích vẫn đang được xác_minh nhân_thân 
+9,người này mang theo hộ_chiếu pakistan và một thẻ căn_cước ghi tên wali_muhammad  địa_chỉ cư_trú tại quận qilla_abdullah thuộc tỉnh balochistan  nơi mỹ tiến_hành vụ không_kích 
+10,ngày 21/5  wali_muhammad từ iran nhập_cảnh vào pakistan qua thành_phố taftan với thị_thực hợp_lệ do iran cấp dán trên hộ_chiếu 
+11,sau khi thông_cáo trên được đưa ra  truyền_thông địa_phương dẫn nguồn tin bộ nội_vụ paksitan cho biết hộ_chiếu mang tên wali_muhammad là giả và bộ này đã lập một nhóm điều_tra vụ_việc 
+12,cũng theo báo_chí địa_phương  ảnh của người đàn_ông trên hộ_chiếu giả trông rất giống thủ_lĩnh taliban_mansour 
+13,vụ không_kích trên được đánh_giá là vụ xâm_nhập đáng chú_ý nhất của mỹ trong lãnh_thổ pakistan kể từ sau vụ đột_kích tiêu_diệt trùm khủng_bố osama bin laden năm 2011 

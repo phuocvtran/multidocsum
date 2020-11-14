@@ -1,0 +1,4 @@
+idx, sentence
+0,tiến_minh mở_hàng “ như mơ ” ở giải ciputra  xếp_hạng 35 thế_giới và là hạt_giống số 1 của giải  tiến_minh chạm_trán tay_vợt người ấn_độ_aditya_joshi  người đang đứng hạng 145 thế_giới ở vòng 1 giải ciputra hà_nội 2016 
+1,với cách_biệt về thứ_hạng như vậy  những gì trên sân đã thể_hiện rõ điều đó 
+2,sau khi thắng 2118 ở set 1  sang set 2 tiến_minh đã hoàn_toàn áp_đảo để thắng dễ 218 

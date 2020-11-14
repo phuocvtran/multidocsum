@@ -1,0 +1,31 @@
+idx, sentence
+0,jean liu sinh ra trong gia_đình danh_gia vọng_tộc  là con_gái của nhà sáng_lập lenovo_liu_chuanzhi và là cháu nội của liu_gushu  cựu lãnh_đạo ngân_hàng trung_quốc 
+1,được biết  jean_liu là mẹ của 3 con 
+2,ái_nữ của nhà sáng_lập lenovo từng được forbes bình_chọn là top_nữ doanh_nhân hàng_đầu trung_quốc  năm 2014   1 trong 25 nữ doanh_nhân ảnh_hưởng lớn nhất ở trung_quốc do fortune  2014  
+3,cô đã tốt_nghiệp đại_học peking và có bằng thạc_sĩ chuyên_ngành khoa_học máy_tính đại_học havard 
+4,theo truyền_thông trung_quốc  jean_liu say_mê ngành khoa_học máy_tính nhờ cảm_hứng từ cuốn sách của bill_gate “ the_road_ahead ” xuất_bản năm 1996 
+5,năm 2002  sau khi tốt_nghiệp  cô làm_việc như một nhân_viên phân_tích tại ngân_hàng_đầu_tư đa_quốc_gia goldman_sachs và trải qua nhiều cương_vị khác nhau 
+6,được biết  để vào được goldman_sachs  jean_liu đã trải qua 18 vòng phỏng_vấn 
+7,trong vòng phỏng_vấn cuối_cùng  cô đã nhận được yêu_cầu bất_ngờ là hát bài hát “ my heart_will_go_on ” nhạc phim “ titanic ” 
+8,con gái nhà sáng_lập lenovo từng chia_sẻ với sina_finance  “ ngày hạnh_phúc nhất trong cuộc_đời tôi là nhận được lời mời làm_việc từ goldman_sachs ” 
+9,jean_liu làm_việc 140 giờ một tuần tại goldman_sanchs trong 12 năm cô làm_việc tại đây 
+10,cô là một trong những giám_đốc quản_lý trẻ tuổi nhất của goldman_sachs ở châu_á trước khi đầu_quân cho didi_dache năm 2014 
+11,trong vai_trò giám_đốc của didi  jean_liu bao_quát cả lĩnh_vực pr  xây_dựng thương_hiệu  quan_hệ chính_phủ và phụ_trách nhân_lực của công_ty vận_tải didi_black 
+12,jean liu sau đó được bổ_nhiệm là chủ_tịch phụ_trách các hoạt_động chung của công_ty vào tháng 12015 
+13,didi dache được thành_lập từ năm 2012  với tăng_trưởng và chiếm khoảng 87  thị_phần dịch_vụ xe tại trung_quốc 
+14,chen wei  người sáng_lập và giám_đốc điều_hành của didi_dachae nói về jean_liu trên pr_news_wire  “ jean_liu là người rất tài_năng mà chúng_tôi đang tìm_kiếm 
+15,trong nửa năm đầu_tiên ở didi  cô ấy đã hoàn_thành việc quỹ tăng lên 700 triệu_đô và đưa didi_black  nhóm pr và gr lên một cấp_độ mới ” 
+16,đầu năm 2015 khi trở_thành chủ_tịch didi_dache  jean_liu đã có động_thái đầu_tiên đầy bất_ngờ khi sáp_nhập với đối_thủ cạnh_tranh lớn nhất của nó là kuaidi_dache để tạo ra công_ty dịch_vụ vận_tải đáng gờm với tên gọi là didi_chuxing 
+17,trong vòng chưa đầy 1 năm rưỡi  cô đã tăng số_lượng nhân_sự từ 700 người lên tới 5000 người nhờ tăng lượng xe và dịch_vụ chia_sẻ hành_trình 
+18,ngoài_ra  cô cũng tích_cực hợp_tác với grab  singapore   ola_cabs  ấn_độ   lyft  mỹ  để thêm lựa_chọn cho hành_khách 
+19,đặc_biệt  jean_liu là nhân_tố quan_trọng trong việc nâng vốn của công_ty lên tới trên 3 tỉ usd nhờ vụ thương_thảo với apple  từ đó khiến đối_thủ uber mất đi hoàn_toàn lợi_thế ở thị_trường đông dân nhất thế_giới này 
+20,nói về cuộc cạnh_tranh với uber  jean_liu từng nói  “ chúng_tôi hoan_nghênh việc cạnh_tranh công_bằng để chiếm_lĩnh thị_trường 
+21,khi có quy_mô lớn  bạn có_thể hoạt_động hiệu_quả  với nhiều khách_hàng thường_xuyên hơn vì_thế không ai có_thể làm được những gì chúng_tôi làm hiện_tại 
+22,không ai hiểu rõ người dân trung_quốc và hiểu_biết về địa_phương của chúng_tôi là không_thể học_hỏi  sao_chép ” 
+23,tháng 52016  didi nhận 1 tỉ đô_la đầu_tư từ apple trong thỏa_thuận đầu_tư được cho là sẽ lên tới 2 tỉ đô 
+24,được biết  thỏa_thuận tỉ đô của nữ chủ_tịch 38 tuổi và ceo_apple_tim_cook xuất_phát từ câu nói của jean_liu khi tới thăm trụ_sở ở cupertino vào cuối tháng 4 
+25,khi đó liu hài_hước nói  “ bất_kỳ_công_ty nào có tên gọi gắn liền với một loại quả luôn đạt được kỳ_tích ” 
+26,apple hiển_nhiên được biết tới với ý_nghĩa “ quả táo ” còn tên gọi didi có ý_nghĩa là “ quả cam bé_nhỏ ” 
+27,dù chi_tiết về cuộc gặp và những thỏa_thuận không được tiết_lộ nhưng cô nói rằng hai công_ty cùng được hưởng lợi_ích từ nhau “ về sản_phẩm  công_nghệ  marketing và nhiều cấp_độ khác ” 
+28,mới_đây  jean_liu được chọn trong cuộc bỏ_phiếu bình_chọn đại_diện trung_quốc rước đuốc tại olympic_rio de janeiro 2016 
+29,jean liu sẽ cùng với diễn_viên jiang_yiyan  nghệ_sĩ piano_lang_lang đại_diện trung_quốc thực_hiện vinh_dự này 

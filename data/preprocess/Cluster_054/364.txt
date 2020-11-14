@@ -1,0 +1,62 @@
+idx, sentence
+0,đạp xe hơn 1 tháng để vận_động hiến tạng khương sinh ra và lớn lên ở tân_lộc  thới_bình  cà_mau 
+1,trước khi bắt_đầu hành_trình xuyên việt để vận_động hiến tạng này  khương đã từng làm công_nhân 
+2,chứng_kiến người bạn thân bị suy thận giai_đoạn cuối  anh đau_xót vô_cùng  “ lúc đó  em nhớ là cậu ấy không thấy gì khác_thường  nhưng khi bác_sĩ phát_hiện ra bệnh là cậu ấy suy_sụp rất nhanh 
+3,bác_sĩ có chỉ_định ghép thận 
+4,do không có nguồn thận và không có chi_phí nên gần 2 tháng sau thì bạn ấy mất ”  nhắc lại kỷ_niệm ấy  khương rớt nước_mắt 
+5,một thời_gian sau khương mới biết hiến tạng có_thể cứu được bệnh_nhân suy tạng 
+6,khương quyết_tâm phải làm điều gì đó có_ích 
+7,năm 2015  khương tới bệnh_viện chợ_rẫy đăng_ký hiến đa tạng khi chết / chết_não 
+8,nhớ lại thời_khắc đó  khương nói  “ thủ_tục đăng_ký hiến tạng rất nhanh  đơn_giản  15 phút là xong  chỉ cần mang theo chứng_minh_thư nhân_dân  có hình sẵn thì mang theo hình 
+9,em không tính lợi thiệt chi hết  em chỉ nghĩ làm_sao mà cứu_giúp được cho người khác 
+10,còn rất nhiều người chờ được ghép tạng để sống  nhưng do người dân quan_niệm chết là phải toàn thây  nên rất ít người hoặc người_thân đồng_ý hiến tạng ” 
+11,trước đây  khương đã từng đạp xe đi từ cà_mau ra quảng_bình viếng mộ bác võ_nguyên_giáp  một chuyến nữa từ cà_mau tới huế 
+12,đi đến đâu  khương cũng sững_sờ trước vẻ đẹp của non_nước mình 
+13,lần này  khương quyết_tâm một_mình đạp xe ra hà_nội 
+14,và khương nghĩ  vừa đạp xe vừa vận_động mọi người hiến tạng sẽ tốt hơn rất nhiều 
+15,nghĩ là làm 
+16,khương men theo bờ biển vũng_tàu đến nha_trang  rồi theo quốc_lộ 1 ra bắc 
+17,27 tỉnh_thành anh đã qua  là biết_bao_nhiêu cảnh đẹp  bao_nhiêu con_người cùng vô_vàn kỷ_niệm đáng nhớ trong đời anh 
+18,chuyến đi xuyên việt bắt_đầu từ ngày 124 
+19,khương đi dọc đất_nước  mang theo những dòng chữ xúc_động  “ sẻ chia yêu_thương  cho đi là còn mãi ” 
+20,dừng chân ở chỗ nào  khương cũng phổ_biến những kiến_thức mình biết được cho người dân những nơi đó 
+21,anh cho người dân những tờ_rơi  rồi nói_chuyện với họ bằng cách cởi_mở  chân_tình 
+22,không ít người hiểu  đồng_cảm  động_viên và nói rằng họ sẽ cân_nhắc  sẽ suy_nghĩ tới chuyện đó 
+23,đi tới đâu khương cũng có người đón 
+24,họ giúp_đỡ anh nơi ăn chốn ở  để rồi anh có_thể tiếp_tục hành_trình phía trước 
+25,đó là động_lực giúp chàng trai bé_nhỏ này hoàn_thành được chuyến đi đầy ý_nghĩa 
+26,tất_cả số tiền để thực_hiện_hành_trình xuyên việt là do anh tự cóp_nhặt trong những tháng ngày làm công_nhân vất_vả mà có được 
+27,khương không nhận tiền của ai 
+28,hơn 1 tháng trời  mỗi ngày anh chi_tiêu khoảng 100000 đ chỉ để ăn và uống nước 
+29,khương hài_hước bảo  “ phải chi_tiêu tiết_kiệm để còn có đủ sức ra đến hà_nội chớ 
+30,em dùng cái bếp cồn bằng lon nước_ngọt để đun nước nấu mì tôm và pha càphê 
+31,như_thế cũng tiết_kiệm được rất nhiều đó ” 
+32,hành_trang của khương không_thể thiếu những chiếc khăn_rằn quê_hương 
+33,đăng_ký hiến tạng khi còn sống đó là một quyết_định có phần táo_bạo của khương 
+34,vì đến khi tôi chứng_kiến hành_động của khương và đặt bút viết những dòng này  gia_đình  người_thân  nhất_là bố_mẹ của khương vẫn chưa hề hay biết 
+35,anh nhận lá đơn đăng_ký từ anh phúc  phó giám_đốc trung_tâm  rồi lặng_lẽ điền vào lá đơn  ký_tên mà không hề do_dự 
+36,xong rồi  anh thở_phào mỉm cười 
+37,“ trước khi em đăng_ký hiến đa tạng khi chết  chết_não thì không ai biết  bố_mẹ em cũng chỉ mới biết chuyện này 
+38,khi đưa thẻ cho mẹ coi  mẹ em khóc  ba không nói gì hết 
+39,một lúc sau thì ba_mẹ quyết_định ủng_hộ 
+40,mẹ nói là sau khi mất mẹ cũng sẽ hiến tạng 
+41,em biết chắc là ba_mẹ sẽ ủng_hộ 
+42,trong gia_đình em không có ai phản_đối 
+43,hai đứa em của em cũng không phản_đối 
+44,giờ em đăng_ký hiến tạng khi còn sống  em chắc_chắn rằng nếu em trực_tiếp nói_chuyện với bố_mẹ thì sẽ không có ai phản_đối em chuyện này đâu ”  khương tự_hào kể về gia_đình của mình 
+45,chiếc xe_đạp trị_giá 23 triệu mà khương mua ở sài_gòn giờ chứa_đựng rất nhiều ý_nghĩa 
+46,hành_trình vừa_qua  anh cũng biết là mình sẽ gặp nhiều khó_khăn nhưng anh đã tự_nhủ nếu mình vượt qua được thì cuộc_sống của mình sẽ ý_nghĩa hơn 
+47,trước đó  tháng 42013  chàng trai này từng đăng_ký hiến xác cho khoa_học ở đh y_dược tphcm 
+48,tháng 92015 anh tiếp_tục đăng_ký hiến đa tạng 
+49,hành_trình đã kết_thúc  khương sẽ bắt xe về đà_nẵng bán đấu_giá chiếc xe_đạp  người bạn đồng_hành cùng anh trong chuyến đi xuyên việt để kêu_gọi  vận_động cộng_đồng hiến tạng cứu người 
+50,giá khởi_điểm của chiếc xe để đấu_giá là 0 đồng 
+51,bs trịnh_hồng_sơn  phó giám_đốc bệnh_viện việt  đức  giám_đốc trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người xúc_động nói  “ tôi thực_sự rất cảm_động  với cái tâm thực_sự 
+52,trước_nay nói ghép tạng rất có ý_nghĩa 
+53,hiện_nay ngành y_tế có 16 trung_tâm ghép rồi 
+54,đầy_đủ điều_kiện phương_tiện_kỹ_thuật  đủ điều_kiện kết_nối 4 khâu của hiến tạng  duy_nhất còn thiếu người cho thôi 
+55,vì_sao chúng_ta lại thiếu những người đồng_ý hiến tạng khi chết / chết_não như thế 
+56,bởi_vì quan_niệm chết phải toàn thây của mọi người 
+57,chúng_ta phải làm_sao để người dân hiểu rằng hiến tạng là hành_động cứu người vô_cùng có ý_nghĩa 
+58,chúng_ta cần phải thay_đổi quan_niệm cũ 
+59,bạn đạp xe xuyên việt  đến đây là một hiện_tượng 
+60,tôi thực_sự cảm_ơn bạn vì tấm lòng của bạn ” 

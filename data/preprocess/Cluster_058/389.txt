@@ -1,0 +1,9 @@
+idx, sentence
+0,cecs fabregas có mùa giải kém thành_công cùng chelsea nhưng vẫn được hlv del_bosque triệu_tập vào đội_tuyển tây ban_nha tham_dự vck_euro 2016 diễn ra tại pháp vào tháng 6 
+1,để lấy lại tinh_thần sau một mùa giải nhiều áp_lực tiền_vệ 29 tuổi đã đi nghỉ_mát ở miami  mỹ cùng bạn gái danielle_semaan  người_lớn hơn anh đến 12 tuổi 
+2,dù bị chế_giễu là “ phi_công trẻ láy máy_bay già ” nhưng fabregas vẫn giành tình_cảm đặc_biệt cho semaan trong những năm qua 
+3,cặp_đôi này đã có hai con với nhau 
+4,fabregas đang quyết_tâm giành hattrick vô_địch euro trước giã_từ sự_nghiệp thi_đấu quốc_tế vì tuổi_tác 
+5,trước đó  anh đã cùng tây ban_nha vô_địch lần liên_tiếp vào các năm 2008 và 2012 
+6,ngoài fabregas  2 đồng_đội khác ở chelsea là pedro và cesar_azpilicueta cũng được hlv del_bosque triệu_tập 
+7,trong khi đó  tiền_đạo diego_costa và cựu tiền_vệ the_blues_juan_mata lại bị loại 

@@ -1,0 +1,9 @@
+idx, sentence
+0,trang_tmz đưa tin  taylor_swift  cara_delevingne và gigi_hadid đang nhận được những tin nhắn đe_dọa tính_mạng từ cùng một người dùng twitter 
+1,kẻ này gửi tin nhắn đến taylor với nội_dung   tôi sẽ giết vài người trong số các cô  
+2,gigi_hadid thì nhận được tweet rằng   người_ta sẽ chết  họ sẽ chết chết chết chết   
+3,và cara thì bị kẻ này nhắn_nhủ   tôi sẽ giết các bạn của cô và tôi thật phấn_khích về điều đó  
+4,điều đáng chú_ý là cả cara và gigi đều trong hội bạn thân nổi_tiếng của taylor  hai người_đẹp cũng từng xuất_hiện trong mv  bad_blood  
+5,theo tmz  cảnh_sát biết được về kẻ đe_dọa này nhờ thông_tin từ đạo_diễn kyle_newman 
+6,vợ kyle là jaimie_king  một cô bạn thân khác của taylor  cũng nhận được những lời đe_dọa 
+7,ngoài_ra  người_mẫu chrissy_teigen  vợ của john_legend  cũng bị kẻ  biến_thái  này chú_ý và nhắn_tin đe_dọa mạng sống rằng   tôi sẽ thử giết cô nhưng có_lẽ sau cùng tôi sẽ giết bạn_bè cô  

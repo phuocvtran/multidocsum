@@ -1,0 +1,22 @@
+idx, sentence
+0,các doanh_nghiệp này thuộc bảy ngành hàng_tiêu_dùng cơ_bản là thực_phẩm  hóa mỹ_phẩm  đồ_chơi  hàng gia_dụng  hàng thực_phẩm tươi_sống  thời_trang  bông vải_sợi đến từ 18 tỉnh_thành trên toàn_quốc 
+1,đây là một trong những động_thái đầu_tiên của các doanh_nghiệp việt_nam trong bối_cảnh các doanh_nghiệp phân_phối fdi cùng với hàng ngoại_nhập đang ngày_càng chiếm_lĩnh thị_trường nội_địa 
+2,không bắt_tay thì thua trên sân_nhà ông lê_khắc_hiệp  phó chủ_tịch vingroup  nhận_xét việc các hiệp_định thương_mại tự_do có hiệu_lực cùng làn_sóng doanh_nghiệp nước_ngoài đổ_bộ vào việt_nam đang tạo nên sức_ép cạnh_tranh vô_cùng quyết_liệt  không_chỉ trong lĩnh_vực bán_lẻ mà_còn gây áp_lực lên toàn_bộ nền sản_xuất nội_địa 
+3,ông hiệp nói  “ chương_trình đồng_hành  hỗ_trợ và thúc_đẩy sản_xuất nội_địa nhằm chung tay cùng cộng_đồng doanh_nghiệp thúc_đẩy sản_xuất trong nước  tạo nguồn thực_phẩm sạch và hàng_tiêu_dùng đảm_bảo chất_lượng cho cộng_đồng ” 
+4,chuyên_gia kinh_tế phạm_chi_lan nhận_xét  việc vingroup ký_kết với 250 doanh_nghiệp này là sự_kiện mà bà chưa từng chứng_kiến trong gần 50 năm gắn_bó với doanh_nghiệp việt_nam 
+5,“ tôi đã mong_đợi sự_kiện như thế này từ rất lâu 
+6,đó là sự liên_kết của các doanh_nghiệp nhỏ với doanh_nghiệp lớn của việt_nam ”  bà lan nói 
+7,bà lan bày_tỏ lo_lắng khi các doanh_nghiệp fdi đang ngày_càng lớn_mạnh  chiếm tới 50  sản_lượng công_nghiệp  hơn 70  giá_trị xuất_khẩu thì các doanh_nghiệp việt_nam ngày_càng yếu đi  đặc_biệt trong 10 năm gần đây 
+8,“ doanh_nghiệp trong nước yếu đi so với doanh_nghiệp nước_ngoài  thì chúng_ta sẽ như thế_nào  ”  bà đặt câu hỏi 
+9,bà lan nói thêm  “ sự_kiện hôm_nay là cơ_hội khởi_đầu để các doanh_nghiệp việt_nam liên_kết với nhau bền_vững trong việc cung_cấp cho người tiêu_dùng sản_phẩm tốt ” 
+10,trong khi đó  chủ_tịch hội doanh_nghiệp hàng việt_nam chất_lượng cao vũ_kim_hạnh cảnh_báo  trong bối_cảnh cuộc_chiến giành thị_phần giữa các doanh_nghiệp việt_nam và doanh_nghiệp fdi ở các khu_vực đô_thị đang diễn ra “ rất căng_thẳng ”  thì không_thể quên đi thị_trường ở khu_vực nông_thôn 
+11,bà hạnh nói  “ tôi tin rằng sự khởi_đầu_tiên phong của những tập_đoàn lớn như vingroup có tác_dụng lan tỏa đến các doanh_nghiệp lớn khác  và tới các cơ_quan hoạch_định chính_sách ” 
+12,vingroup cam_kết bán hộ không lãi tại buổi lễ  có hơn 140 doanh_nghiệp đã ký hợp_tác về phân_phối 
+13,trong vòng một năm từ tháng 62016 đến tháng 62017  hàng của các doanh_nghiệp sẽ được phân_phối trong hệ_thống siêu_thị vinmart và vinmart  của vingroup với các điều_kiện ưu_đãi hợp_lý 
+14,các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu bằng 0  
+15,theo thỏa_thuận  vingroup sẽ bán hộ không lãi  cam_kết trả cho đối_tác doanh_thu theo đúng mức giá công_bố thông_thường 
+16,toàn_bộ phần chiết_khấu sẽ được vinmart và vinmart  hoàn_trả 100  về nhà cung_cấp  với mục_đích tạo thêm nguồn kinh_phí để doanh_nghiệp tái_đầu_tư vào chất_lượng sản_phẩm và có thêm điều_kiện thực_hiện nghiêm_ngặt các tiêu_chuẩn  quy_định về an_toàn  vệ_sinh thực_phẩm 
+17,bên_cạnh đó  các doanh_nghiệp này cam_kết sẽ sản_xuất và cung_cấp ra thị_trường các sản_phẩm có chất_lượng cao  phù_hợp với tiêu_chuẩn chất_lượng theo đúng quy_định của pháp_luật và đáp_ứng được yêu_cầu của thị_trường 
+18,gần 100 doanh_nghiệp còn lại ký_kết_hợp_tác với vingroup nhằm tăng_cường hiện_diện thương_hiệu trong hệ_sinh_thái hàng_hóa  dịch_vụ của tập_đoàn với các thương_hiệu vincom_retail  vinds  vinpro … các doanh_nghiệp cũng đã ký_kết_hợp_tác với vingroup nhằm thúc_đẩy và nâng cao hiệu_quả sản_xuất 
+19,theo đó  các doanh_nghiệp có nhu_cầu sẽ được vingroup hỗ_trợ về công_nghệ  quản_trị  hệ_thống kiểm_soát chất_lượng  công_tác marketing bán hàng 
+20,đặc_biệt  thông_qua liên_danh liên_kết dưới thương_hiệu vineco  với hàng thực_phẩm  hoặc vinmart  với hàng_tiêu_dùng   một_số doanh_nghiệp sẽ được vingroup sẽ nhận giúp kiểm_soát chất_lượng và bao_tiêu sản_phẩm 

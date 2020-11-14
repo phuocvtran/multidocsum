@@ -1,0 +1,14 @@
+idx, sentence
+0,theo tin_tức trên báo pháp_luật tp hcm  vnexpress  ngày 31/5  ubnd tp hcm đã có văn_bản gửi các cơ_quan liên_quan về triển_khai thủ_tục di_dời khẩn_cấp các hộ còn cư_ngụ tại chung_cư số 727 đường trần_hưng_đạo  phường 1  quận 5 
+1,cụ_thể  ubnd tp hcm yêu_cầu ubnd quận 5 rà_soát phương_án hỗ_trợ  bồi_thường  tái_định_cư để vận_động 10 hộ dân còn lại khẩn_trương di_dời khỏi chung_cư số 727 trần_hưng_đạo để tháo_dỡ 
+2,theo văn_bản của ubnd tp hcm  nếu các hộ dân không chịu di_dời thì sẽ thực_hiện cưỡng_chế 
+3,ubnd tp hcm cũng yêu_cầu ubnd quận 5 chủ_động phối_hợp các cơ_quan liên_quan tiếp_tục theo_dõi  cập_nhật tình_hình chất_lượng công_trình chung_cư để xử_lý ngay khi có hiện_tượng  nguy_cơ sập đổ nhằm đảm_bảo an_toàn cao nhất cho người dân 
+4,ubnd tp hcm cũng giao cho công_ty tnhh_mtv dịch_vụ công_ích quận 5  chủ đầu_tư xây_dựng mới chung_cư số 727 trần_hưng_đạo chịu trách_nhiệm thanh_toán chi_phí kiểm_định chung_cư cho công_ty kiểm_định xây_dựng sài_gòn 
+5,sở xây_dựng cũng dược ubnd tp giao chủ_trì  phối_hợp với ubnd quận 5 cùng các cơ_quan liên_quan  khẩn_trương triển_khai thực_hiện di_dời các hộ dân ở khu chung_cư 727 trần_hưng_đạo để tháo_dỡ khẩn_cấp  được biết chung_cư 727 trần_hưng_đạo là tòa nhà 13 tầng  đước xây_dựng cách đây hơn 50 năm 
+6,hiện_nay tòa nhà đã xuống_cấp trầm_trọng  nhiều cột bê_tông chỉ còn trơ lõi sắt 
+7,vào năm 2002  tp hcm đã quyết_định di_dời khoảng 2200 người sống ở đây 
+8,tuy_nhiên  đến nay vẫn còn 10 hộ dân sinh_sống 
+9,trước đó vào ngày 20/5  bí_thư thành_ủy tp hcm đinh_la_thăng đã có buổi làm_việc với quận_ủy quận 5  tp hcm  về tình_hình phát_triển kinh_tế  văn_hóa xã_hội  công_tác xây_dựng đảng  vận_động quần_chúng trên địa_bàn quận 
+10,tại buổi làm_việc  sau khi nghe báo_cáo về tình_trạng nhiều khu chung_cư trên địa_bàn xuống_cấp nặng  có_thể gây nguy_hiểm 
+11,bí_thư đinh_la_thăng nhấn_mạnh  chúng_ta chưa thấy quan_tài chưa đổ lệ  nó đổ sập xuống mới lo cuống_cuồng lên làm 
+12,cái kiểu cơ_chế bây_giờ như vậy  ví_dụ cầu ghềnh hơn trăm tuổi biết_bao hội_thảo  báo_cáo bàn_tính việc xây mới nhưng không được cuối_cùng ông lái xà_lan quyết một cái là có cầu mới  

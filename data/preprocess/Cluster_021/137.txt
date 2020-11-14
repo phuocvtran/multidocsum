@@ -1,0 +1,8 @@
+idx, sentence
+0,thông_tin trên được báo tuổi_trẻ  tri_thức trực_tuyến đăng_tải 
+1,cụ_thể  nhằm đảo bảo tuyệt_đối an_ninh hàng_không dịp bầu_cử đại_biểu quốc_hội khóa xiv  bầu_cử đại_biểu hđnd các cấp nhiệm_kỳ 2016  2021  cục hàng_không việt_nam yêu_cầu các đơn_vị tăng_cường công_tác tuần_tra  giám_sát khu_vực hạn_chế của cảng_hàng_không  chk   hạn_chế cho_phép người vào khu_vực hạn_chế đón  tiễn khách  tăng_cường phỏng_vấn  đối_chiếu giấy_tờ về nhân_thân của hành_khách khi làm thủ_tục hàng_không  tăng_cường phỏng_vấn hành_khách khi làm thủ_tục kiểm_tra an_ninh hàng_không 
+2,hành_khách phải tháo giầy  áo_khoác đưa qua máy soi chiếu tia_x để kiểm_tra 
+3,đối_với hành_lý ký gửi  cục hàng_không yêu_cầu tăng_cường giám_sát an_ninh  đảm_bảo giám_sát liên_tục bằng camera hoặc nhân_viên phục_vụ hành_lý  nhân_viên kiểm_soát an_ninh hàng_không từ khi hành_lý ký gửi được tiếp_nhận đến khi đưa lên tàu_bay 
+4,hành_lý ký gửi không có người đi cùng phải được kiểm_tra trực_quan sau khi đã được soi chiếu an_ninh hàng_không để đưa lên tàu_bay 
+5,máy_bay đỗ ban_đêm phải bố_trí tại những khu_vực có chiếu_sáng  được giám_sát liên_tục bằng camera  tăng_cường tần_suất tuần_tra khu_vực công_cộng  phát_thanh trên hệ_thống yêu_cầu hành_khách không được rời xa hành_lý 
+6,cục hàng_không cũng yêu_cầu các đơn_vị giám_sát khu_vực công_cộng của nhà_ga bằng camera kết_hợp nhân_viên kiểm_soát an_ninh hàng_không  có phương_án chủ_động đối_phó khi xảy ra tình_huống tụ_tập gây_rối 

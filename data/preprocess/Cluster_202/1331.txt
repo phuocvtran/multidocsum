@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 1/6  công_an tp bạc_liêu bắt_giữ trần_văn_trường  25 tuổi  để điều_tra về hành_vi chém người 
+1,thanh_niên này bị_cáo_buộc dùng dao tự chế chém trọng_thương ông nguyễn_hoàng_quân  52 tuổi  ngụ phường 5   chủ_tịch hội nông_dân tp bạc_liêu 
+2,theo điều_tra  rạng sáng cùng ngày  khi đi thể_dục đến gần cầu tôn_đức_thắng  ông quân thấy trường ngồi gục trên dốc cầu nên đến hỏi_thăm 
+3,bất_ngờ trường rút dao chém ông quân gục tại_chỗ 
+4,những người đi thể_dục gần đó phát_hiện và can_ngăn 
+5,nạn_nhân được đưa đi cấp_cứu  còn kẻ gây_án cầm hung_khí bỏ trốn 
+6,gần giờ sau  trường bị bắt_giữ khi đang lẩn trốn trong một chòi giữ vuông tôm  cách hiện_trường khoảng 300 m 

@@ -1,0 +1,7 @@
+idx, sentence
+0,ngay từ sáng sớm  307 cử_tri đang công_tác tại 7 đơn_vị gồm bộ_chỉ_huy quân_sự huyện lý_sơn  trạm 550  tiểu_đoàn 351  vùng 3 hải_quân   trạm_t18  quân_chủng hải_quân  bộ_quốc_phòng   trạm_cảnh_sát biển cùng 2 tàu 4032 và 6001  hải_đội 201  cảnh_sát biển vùng 2   tiểu_đoàn 1  lữ_đoàn 270 công_binh  bộ_tư_lệnh quân_khu 5   trạm hải_đăng lý_sơn  xí_nghiệp 83 thuộc công_ty xây_lắp 96  tổng_công_ty thành_an tại lý_sơn  bộ_quốc_phòng  đã có_mặt tại khu_vực bầu_cử số 8  xã an_hải  huyện lý_sơn  
+1,xúc_động cầm lá phiếu bầu_cử  thượng_úy phạm_văn_trung  chính_trị_viên tàu cảnh_sát biển số 4032 chia_sẻ  “ là chiến_sĩ thực_hiện nhiệm_vụ bảo_vệ vùng_biển của tổ_quốc 
+2,ngày hôm_nay chúng_tôi tham_gia thực_hiện quyền  nghĩa_vụ của một công_dân  chúng_tôi cảm_thấy rất vinh_dự  tự_hào và sẽ nêu cao tinh_thần trách_nhiệm  chọn ra những đại_biểu đủ đức  đủ tài cống_hiến  xây_dựng đất_nước phát_triển ” 
+3,đến 10 h30 cùng ngày  việc bỏ_phiếu bầu_cử tại khu_vực bỏ_phiếu bầu_cử số 8 đã hoàn_thành đảm_bảo an_toàn và đúng quy_định 
+4,toàn huyện lý_sơn có 8 đơn_vị bầu_cử với 22 tổ bầu_cử  số cử_tri khoảng 16640 công_dân  trong đó có khoảng 3000 cử_tri là ngư_dân 
+5,bà bùi_thị_quỳnh_vân  trưởng_ban dân_vận tỉnh_ủy  bí_thư huyện_ủy lý_sơn xác_nhận  “ quá_trình bỏ_phiếu bầu_cử ở khu_vực bầu_cử số 8 diễn ra an_toàn  đúng quy_trình và đảm_bảo số phiếu hợp_lệ ” 

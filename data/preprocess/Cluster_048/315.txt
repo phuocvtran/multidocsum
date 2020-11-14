@@ -1,0 +1,42 @@
+idx, sentence
+0,trong khi đó  một_số chuyên_gia bảo_mật và thậm_chí nạn_nhân của một vụ hack tương_tự lên_tiếng chỉ_trích  yêu_cầu swift phải có trách_nhiệm 
+1,câu_hỏi đặt ra là khi xảy ra trường_hợp tin tặc đã thực_hiện được các giao_dịch_chuyển tiền qua hệ_thống swift  cụ_thể như vụ ngân_hàng tpbank  thì lỗi thuộc về bên nào 
+2,trong thông_tin báo_chí phát đi ngày chủ_nhật 15/5  ngân_hàng tpbank giải_thích trước đây họ sử_dụng  dịch_vụ thuê ngoài của một đối_tác để kết_nối với hệ_thống swift qua các máy_chủ của đối_tác này đặt tại nước_ngoài từ các máy trạm độc_lập  
+3,đến quý iv / 2015  hệ_thống giám_sát cảnh_báo rủi_ro và quy_trình kiểm_soát nội_bộ chặt_chẽ  tpbank phát_hiện có giao_dịch đáng ngờ với số tiền hơn 1 triệu eur  hơn 113 triệu usd  được chuyển bằng các điện swift không hợp_lệ  không được thực_hiện bởi chính ngân_hàng 
+4,tuy không trực_tiếp khẳng_định  nhưng trong thông_cáo này tpbank gián_tiếp  đổ_lỗi  cho đối_tác cung_cấp dịch_vụ bị hack dẫn đến phát_sinh giao_dịch đáng ngờ 
+5,trước_hết là tpbank chấm_dứt sử_dụng dịch_vụ của đối_tác này 
+6,để củng_cố cơ_sở  tpbank cho biết swift thông_báo  có_thể nguyên_nhân hacker đã cài mã độc  malware  vào một phần_mềm ứng_dụng của đối_tác nêu trên dùng cho dịch_vụ thanh_toán swift mà đối_tác này cung_cấp  
+7,thông_cáo của tpbank không đề_cập đến việc hệ_thống của ngân_hàng có bị ảnh_hưởng bởi mã độc hay không 
+8,trả_lời câu_hỏi của phóng_viên vnreview ngày 18/5  tpbank cho biết  các chi_tiết khác chúng_tôi vẫn đang chờ kết_luận của swift và các cơ_quan liên_quan khác  
+9,như_vậy  có_thể thấy trong vụ_việc này  thông_tin do tpbank cung_cấp phụ_thuộc vào kết_quả và nhận_định của một tổ_chức khác là swift thay_vì từ điều_tra của chính mình 
+10,vậy swift đã đưa ra nhận_định như thế_nào 
+11,swift  ngân_hàng đã bị thâm_nhập trong khi thông_cáo ngày 15/5 của tpbank trích_dẫn thông_tin từ swift cho rằng có_thể đối_tác của tpbank bị mã độc thâm_nhập thì trước đó  thông_cáo chính_thức của swift ngày 13/5 khẳng_định tin tặc đã thâm_nhập được vào môi_trường của ngân_hàng 
+12,thông_cáo ngày 13/5 về một vụ tấn_công mã độc thứ hai nhắm vào ngân_hàng của swift không nêu tên tpbank  mà chỉ nói là một ngân_hàng thương_mại 
+13,sau đó  tpbank được xác_nhận chính là ngân_hàng này 
+14,một mặt khẳng_định mạng_lưới  phần_mềm và dịch_vụ nhắn_tin cốt_lõi của swift không bị tổn_hại  swift nhận_định   nội_gián  hoặc tin tặc từ bên ngoài đã cố submit các tin nhắn swift từ các backofffice  đơn_vị nghiệp_vụ không trực_tiếp giao_dịch với khách_hàng  của ngân_hàng  máy_tính cá_nhân hoặc trạm làm_việc trong mạng máy_tính có kết_nối tới giao_diện quản_lý nội_bộ của ngân_hàng đến mạng_swift 
+15,phương_pháp tấn_công có_thể hình_dung như sau  một loại mã độc được gắn vào file pdf giả_mạo báo_cáo xác_nhận thanh_toán 
+16,khi mở file_pdf  trojan sẽ xâm_nhập  kiểm_soát máy_tính và tự loại_bỏ dấu_vết hướng_dẫn lừa_đảo 
+17,mã độc này chỉ nhắm vào người đọc pdf trong môi_trường nội_bộ của tổ_chức bị ảnh_hưởng 
+18,các bước tấn_công của tin tặc gồm  1 
+19,tin tặc xâm_nhập vào môi_trường của ngân_hàng 
+20,2 
+21,tin tặc lấy được các thông_tin đăng nhập hợp_lệ của tài_khoản điều_hành  operator  có quyền tạo  phê_duyệt và gửi điện chuyển tiền swift từ các backoffice bị hoặc từ giao_diện nội_bộ của ngân_hàng tới mạng_swift 
+22,3 
+23,tin tặc gửi điện chuyển tiền lừa_đảo bằng cách mạo_danh những tài_khoản điều_hành mà chúng đã đánh_cắp được 
+24,4 
+25,tin tặc che_giấu hoạt_động của mình bằng cách xoá một_số dấu_vết điện chuyển tiền lừa_đảo 
+26,swift cảnh_báo những kẻ tấn_công rõ_ràng là phải có kiến_thức sâu_sắc  tinh_tế về các biện phát kiểm_soát cụ_thể trong các ngân_hàng mục_tiêu 
+27,swift cho rằng người dùng swift  ở đây là ngân_hàng  phải chịu trách_nhiệm cho sự an_toàn của chính hệ_thống của mình khi kết_nối tới mạng_swift  từ những điều đơn_giản như bảo_vệ mật_khẩu tới các vấn_đề an_ninh khác 
+28,nhiều ngân_hàng quốc_tế bấn_loạn sau vụ tpbank mặc_dù tpbank đã nhanh_chóng ngăn_chặn được vụ cướp tiền táo_tợn của hacker ngay từ tháng 12/2015 nhưng tiết_lộ gần đây liên_quan đến mã độc này đã khiến nhiều ngân_hàng lớn trên thế_giới không khỏi lo_ngại 
+29,thông_tin này phát đi từ hãng tin bloomberg trích_dẫn từ một báo_cáo riêng của hãng sản_xuất vũ_khí anh bae_systems  cũng là hãng sở_hữu_mảng an_ninh mạng đã phân_tích  phát_hiện mã độc tấn_công ngân_hàng bangladesh và tpbank 
+30,phân_tích mã độc tấn_công tpbank của bae cho thấy các mã swift duy_nhất xác_định ít_nhất thêm 7 định_chế tài_chính bị nhúng trong mã độc 
+31,danh_sách này bao_gồm các ngân_hàng lớn ở châu_á và ít_nhất một ngân_hàng ở châu_âu  bao_gồm cả những ngân_hàng mà tpbank có tài_khoản đối_ứng 
+32,mã độc này không được sử_dụng để tấn_công những ngân_hàng đó mà nó xoá xác_nhận chuyển tiền có_thể cảnh_báo nhân_viên ngân_hàng về giao_dịch đáng ngờ giữa tpbank và các đối_tác 
+33,mã độc nhắm vào tpbank  được cấu_hình để phân_tích các điện chuyển tiền   theo bae 
+34,nó bao_gồm các mã_swift cho các chi_nhánh hà_nội và new_york của ngân_hàng công_thương trung_quốc  ngân_hàng lớn nhất nhật_bản_bank_of_tokyo_mitsubishi  ngân_hàng lớn nhất ý_unicredit_spa và các ngân_hàng khác 
+35,theo bloomberg  những tiết_lộ như vậy – cùng với cảnh_báo của swift về một chiến_dịch lớn hơn nhắm vào các ngân_hàng – cho thấy những nỗ_lực của tin tặc đã vượt xa mục_tiêu chỉ nhắm vào các ngân_hàng nhỏ ở các nước đang phát_triển 
+36,chính vì_vậy  ngân_hàng tại singapore  mỹ  philippines  malaysia  hongkong  ngay_lập_tức công_bố các kế_hoạch siết chặt an_ninh hệ_thống ngân_hàng 
+37,tại mỹ  nhiều ngân_hàng lớn rà_soát an_ninh mạng_lưới tin nhắn chuyển tiền swift 
+38,jpmorgan chase thậm_chí hạn_chế truy_cập swift đối_với một_số nhân_viên 
+39,một_số ngân_hàng mỹ khác muốn thảo_luận với swift xem liệu tổ_chức này có phản_ứng đủ nhanh đối_với những sự_cố tin tặc đột_nhập như vừa_qua và liệu swift có nên giúp các ngân_hàng bảo_mật hệ_thống tốt hơn không 
+40,một_số ngân_hàng hy_vọng swift sẽ đưa ra giải_pháp công_nghệ để giảm_thiểu nguy_cơ bị tấn_công tương_tự 

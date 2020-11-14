@@ -1,0 +1,8 @@
+idx, sentence
+0,khoảng 14 h50 ’ ngày 23/5  xe taxi mang bks  29a – 504 
+1,82 di_chuyển trên cầu thanh_trì  hướng từ gia_lâm về hà_nội  bất_ngờ dừng lại giữa cầu 
+2,ngay sau đó  một nam thanh_niên mở cửa_xe bước ra ngoài và nhảy thẳng xuống sông hồng 
+3,do sự_việc diễn ra quá nhanh nên người dân hoàn_toàn bất_ngờ và không kịp ngăn_cản 
+4,sau khi nam thanh_niên nhảy xuống  cô gái đi cùng vội_vã bước ra khỏi xe gào_thét  kêu cứu và một lúc sau thì ngất lịm 
+5,người đi đường đã cố_gắng giúp_đỡ  ổn_định tinh_thần cho cô gái 
+6,danh_tính nam thanh_niên được xác_định là nguyễn_văn_b  21 tuổi  ở phú_xuyên  hà_nội   cô gái đi cùng là nguyễn_thi_v  17 tuổi  quê thuận_thành  bắc_ninh  

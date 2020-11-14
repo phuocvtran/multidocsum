@@ -1,0 +1,13 @@
+idx, sentence
+0,sau một thời_gian giữ im_lặng  mới_đây tiền_đạo wayne_rooney đã chính_thức có tiếng_nói của mình về việc man_utd sa_thải hlv van_gaal để bổ_nhiệm hlv jose_mourinho 
+1, gã_sherk_ đã giành những lời khen_ngợi về việc bổ_nhiệm người đặc_biệt của blđ_mu
+2,“ jose_mourinho là một trong những hlv xuất_sắc nhất thế_giới 
+3,được làm_việc với ông ấy là điều vô_cùng may_mắn đối_với cá_nhân tôi cũng như những cầu_thủ khác của mu ” 
+4,rooney tâm_sự 
+5,thủ_quân của quỷ đỏ cũng tin_tưởng với khả_năng cầm_quân của mình  hlv mourinho sẽ sớm đưa  con thuyền  mu trở_lại với quỹ_đạo thành_công của mình 
+6,trả_lời về việc tiền_đạo rashford được hlv hodgson triệu_tập vào đt_anh  r10 cho rằng đây là một quyết_định sáng_suốt   phong_độ của rashford thật đáng kinh_ngạc  thực_sự là như_vậy 
+7,cậu ấy đã chứng_tỏ những gì mình có_thể làm được trong lần ra_mắt tuyển anh 
+8,trước đó  cậu ấy đã có bàn thắng trong trận giao_hữu với đt_australia  và trở_thành cầu_thủ trẻ nhất trong lịch_sử ghi_bàn cho tuyển anh trong trận ra_mắt  
+9,ngoài lời nhận_xét về mourinho và rashford  wayne_rooney cũng đặt niềm tin vào khả_năng đt_anh sẽ gặt_hái thành_công tại euro 2016  “ tôi cảm_thấy tự_hào khi được đeo chiếc băng đội_trưởng tuyển anh dự giải đấu lớn như euro 
+10,toàn đội đang sở_hữu đội_hình rất chất_lượng 
+11,tôi tin rằng  đt_anh đủ khả_năng chinh_phục_chức vô_địch euro 2016   

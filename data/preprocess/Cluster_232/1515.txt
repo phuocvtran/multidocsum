@@ -1,0 +1,9 @@
+idx, sentence
+0,theo báo_giới tây ban_nha  cụ_thể là tờ as   real_madrid đã đồng_ý trả cho tiền_đạo robert_lewandowski 20 triệu euro / 1 năm để có_thể thuyết_phục anh này về bernabeu 
+1,lewy cũng đã đồng_ý với điều_kiện này 
+2,các vấn_đề chi_tiết về tiền thưởng  thời_hạn hợp_đồng cũng như giá_trị phá vỡ hợp_đồng  sẽ được bàn tới sau khi bayern_munich và real_madrid thương_lượng xong giá_bán của cầu_thủ này 
+3,cách đây không lâu  trong buổi gặp_mặt giữa đại_diện của tiền_đạo người ba_lan  cezary_kucharski và đại_diện của clb real_madrid  jose_angel_sanchez tại thủ_đô madrid  phía đội bóng hoàng_gia bày_tỏ ý_định muốn có lewandowski trong kỳ chuyển_nhượng mùa hè 
+4,cầu_thủ này lưỡng_lự nhưng sau đó đã đồng_ý 
+5,cách đây không lâu  lewy đã từ_chối gian hạn hợp_đồng với bayern  hợp_đồng hiện_tại có giá_trị tới năm 2019  và tỏ ra không quá mặn_mà với việc ở lại đội bóng nước đức trong một bài phát_biểu gần đây 
+6,“ tôi cảm_thấy rất lạ khi 1 số cầu_thủ muốn ở lại clb của mình cho tới khi kết_thúc hợp_đồng 
+7,tôi chưa bao_giờ nói rằng sẽ kết_thúc sự_nghiệp ở bayern_munich và cũng chưa từng hôn logo của đội bóng  ” lewandowski phát_biểu cách đây không lâu 

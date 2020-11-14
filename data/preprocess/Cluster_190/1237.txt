@@ -1,0 +1,5 @@
+idx, sentence
+0,trao_đổi với pv  lãnh_đạo đội csgt số 3  phòng csgt – công_an tp hà_nội  cho biết  khoảng 17 h30 chiều nay  31/5   tại nút giao_thông xã_đàn  đống_đa – hà_nội  đã xảy ra vụ tngt liên_hoàn giữa xe ô_tô 7 chỗ màu trắng mang bks 30p – 2153 với 8 chiếc xe_máy khiến 4 xe_máy bị hư_hỏng nặng 
+1,theo người dân chứng_kiến  vào thời_điểm trên  chiếc xe ô_tô 7 chỗ đang lưu_thông trên đường xã_đàn thì bất_ngờ mất lái rồi đâm liên_tiếp vào hàng_loạt xe_máy khác  khiến nhiều người bị_thương 
+2,cảnh_tượng vô_cùng hoảng_loạn 
+3,ngay sau khi xảy ra tai_nạn  người dân đã thông_báo tới các cơ_quan_chức_năng tới phân_luồng giao_thông và điều_tra hiện_trường  làm rõ nguyên_nhân 

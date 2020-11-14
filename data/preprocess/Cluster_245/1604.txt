@@ -1,0 +1,15 @@
+idx, sentence
+0,bộ_trưởng mai tiến_dũng cho biết  liên_quan tới hiện_tượng cá chết hàng_loạt tại khu_vực biển miền trung  ngay sau khi nắm được thông_tin  thủ_tướng chính_phủ và các phó_thủ_tướng đã trực_tiếp chỉ_đạo kịp_thời  quyết_liệt các bộ  ngành  địa_phương vào cuộc giải_quyết 
+1,theo đó  có hơn 30 bộ  ngành  địa_phương đã vào_cuộc thu_thập chứng_cứ xác_minh tìm ra nguyên_nhân vụ_việc 
+2,chính_phủ cũng mời hàng trăm nhà_khoa_học trong nước  quốc_tế cùng tham_gia thu_thập_dữ_liệu chứng_cứ để xác_minh điều_tra nguyên_nhân trên nguyên_tắc khoa_học  khách_quan và chặt_chẽ về tính pháp_lý 
+3,trong quá_trình điều_tra  thủ_tướng chính_phủ chỉ_đạo  nếu phát_hiện tổ_chức  cá_nhân vi_phạm  sẽ xử_lý nghiêm theo quy_định  không loại_trừ bất_cứ tổ_chức  cá_nhân nào 
+4,“ đến nay  các nhà_khoa_học đã xác_định được nguyên_nhân cá chết 
+5,thủ_tướng chính_phủ đã giao các cơ_quan_chức_năng mời tư_vấn trong và ngoài nước để phản_biện độc_lập vì xác_định rằng đây là vấn_đề rất quan_trọng  khi công_bố phải đảm_bảo chứng_cứ  đảm_bảo tính pháp_lý và tính khách_quan ”  bộ_trưởng mai tiến_dũng cho biết 
+6,đồng_thời  thủ_tướng cũng yêu_cầu quyết_liệt triển_khai các giải_pháp đảm_bảo môi_trường kinh_doanh  môi_trường tự_nhiên  nhất_là môi_trường biển được đảm_bảo lâu_dài 
+7,để kịp_thời hỗ_trợ người dân bị thiệt_hại  thủ_tướng đã ban_hành quyết_định hỗ_trợ gạo ở vùng bị sự_cố  tổ_chức thu_mua hải_sản  hỗ_trợ cho các tàu phải ngừng ra khơi  hỗ_trợ lãi_suất tiền vay với các doanh_nghiệp  chủ tàu làm dịch_vụ hậu_cần nghề cá thu_mua hải_sản 
+8,thủ_tướng tiếp_tục giao bộ_nnptnt khảo_sát khu_vực biển an_toàn để đánh_bắt nuôi_trồng thuỷ hải_sản  giao bộ_tài_nguyên_và_môi_trường kiểm_tra toàn_bộ các dự_án xả thải trên cả nước để phòng_ngừa và kiên_quyết xử_lý vi_phạm nếu các tổ_chức các nhân vi_phạm xả thải so với giấy_phép 
+9,cũng tại buổi họp_báo  bộ_trưởng bộ thông_tin và truyền_thông  tttt  trương_minh_tuấn cho biết thêm  các nhà_khoa_học đã rất nỗ_lực và xác_định được nguyên_nhân 
+10,tuy_nhiên  do việc điều_tra nguyên_nhân cá chết là nhiệm_vụ tập_thể của nhiều nhà nhà_khoa_học từ nhiều cơ_quan khoa_học trong và ngoài nước nên còn nhiều ý_kiến khác nhau  cần có sự phản_biện một_cách rốt_ráo mới đủ cơ_sở khoa_học để kết_luận một_cách chính_thức 
+11,bộ_trưởng khẳng_định  bất_cứ một sơ_suất nào về khoa_học trong kết_luận cũng sẽ dẫn đến sai_lầm về các biện_pháp khắc_phục hậu_quả 
+12,mặt_khác  nguyên_nhân cá chết còn liên_quan đến thủ_phạm gây ra nguyên_nhân đó 
+13,do_vậy  việc xác_định thủ_phạm không_chỉ với các bằng_chứng khoa_học mà_còn phải điều_tra kỹ_lưỡng với các bằng_chứng vi_phạm pháp_luật  nhất_là các vi_phạm pháp_luật về môi_trường 

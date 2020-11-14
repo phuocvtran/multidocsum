@@ -1,0 +1,14 @@
+idx, sentence
+0,trong một tuyên_bố  unicef kêu_gọi quân_đội iraq và các tay súng is  bảo_vệ trẻ_em ở fallujah  đồng_thời đảm_bảo  tự_do đi_lại cho những người dân_thường muốn rời khỏi thành_phố  
+1,tuyên_bố của unicef cũng cảnh_báo rằng  trẻ_em ở fallujah đang đối_mặt nguy_cơ bị buộc phải cầm súng chiến_đấu trong hàng_ngũ is 
+2, trẻ_em bị  is  ép tòng_quân và chiến_đấu 
+3,cuộc_sống và tương_lai của các em đang bị đe_dọa khi các em bị buộc phải tham_gia vào một cuộc_chiến đấm máu   unicef nhấn_mạnh 
+4,theo reuters  các lực_lượng_vũ_trang iraq với sự yểm_trợ của pháo_binh và không_quân mỹ đã phát_động cuộc tổng_tiến_công trực_diện nhằm tái chiếm lại thành_phố fallujah từ tay các chiến_binh is vào ngày 305 
+5,trận chiến tại fallujah được lên kế_hoạch từ nửa năm nay và đã được xem là một trong những trận chiến lớn nhất chống lại is khi tập_hợp hàng ngàn quân_lính của quân_đội chính_quy iraq  các lực_lượng bán quân_sự  tuy_nhiên  các lực_lượng_vũ_trang iraq đang vấp phải sự chống_cự mạnh_mẽ từ is 
+6,sau khi tấn_công thành_phố từ phía nam theo ba hướng hôm 305  họ đã đưa quân vào được khu naimiyah 
+7,thiếu_tướng abdelwahab alsaadi  tổng chỉ_huy chiến_dịch tái chiếm lại fallujah cho biết  sáng sớm qua  315   is đã phản_công tại đây 
+8, có khoảng 100 tay súng is tham_gia phản_công nhưng chúng không sử_dụng bom xe hoặc kẻ đánh bom tự_sát 
+9,quân_đội iraq đẩy_lùi đợt tấn_công  diệt 75 tay súng   ông alsaadi xác_nhận 
+10,william_spindler  người phát_ngôn của cơ_quan về người tị_nạn của liên_hợp_quốc  unhcr  cho biết trong một cuộc họp_báo rằng   có thông_tin vài trăm gia_đình đang bị is sử_dụng làm lá_chắn sống  
+11,cũng có thông_tin rằng  người dân ở fallujah bị ép phải di_chuyển cùng phiến_quân is trong thành_phố 
+12,ngoài_ra  các tay súng is cũng sẵn_sàng bắn chết những người đàn_ông và thanh_thiếu_niên nào từ_chối không chịu cầm súng chiến_đấu cho chúng 

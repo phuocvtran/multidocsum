@@ -1,0 +1,44 @@
+idx, sentence
+0,mỗi giám_định_viên của bhxh phải phụ_trách 75000 hồ_sơ phát_biểu khai_mạc  thủ_tướng nguyễn_xuân_phúc nhấn_mạnh  bảo_đảm sức_khỏe cho người dân là một trong nội_dung quan_trọng nhất trong hệ_thống an_sinh xã_hội  đó là việc thiết_thực của dân chúng_ta phải tập_trung làm 
+1,sau gần 25 năm thực_hiện  từ 1992  chính_sách bhyt  các cấp  các ngành đã có nhiều nỗ_lực và đạt nhiều kết_quả 
+2,bhyt hiện_nay đã bao_phủ trên 76   đó là một cố_gắng lớn  nhưng chưa phải cao 
+3,đề_án của chính_phủ đã nêu rõ phải nâng tỷ_lệ tham_gia bhyt lên để mọi người dân được hưởng phúc_lợi xã_hội quan_trọng này  nhất_là người nghèo 
+4,thủ_tướng cho rằng cần đạt trên 90  
+5,thứ_trưởng  tổng_giám_đốc bảo_hiểm xã_hội  bhxh  việt_nam nguyễn_thị_minh cho biết  năm 2015 đã nỗ_lực hoàn_thành vượt mức chỉ_tiêu bao_phủ với 765  người dân cả nước tham_gia bhyt 
+6,phấn_đấu hết năm 2016 đạt trên 78  
+7,để hoàn_thành mục_tiêu sớm bao_phủ bhyt toàn dân  bhxh kiến_nghị thủ_tướng cho_phép bhxh việt_nam chủ_động mở_rộng mạng_lưới thu bhyt  có_thể huy_động các doanh_nghiệp  cơ_sở y_tế  các trạm bưu_điện … để người_dân có_thể mua bhyt tại bất_cứ đâu 
+8,với nhóm tham_gia bhyt theo hộ gia_đình  cho_phép các thành_viên được tham_gia ở các thời_điểm khác nhau trong năm và có giảm trừ từ thành_viên thứ hai 
+9,với các đối_tượng vùng bãi ngang  trong khi chờ trình thủ_tướng danh_sách các xã vùng bãi ngang  cho_phép tiếp_tục bảo_đảm quyền_lợi cho các đối_tượng này theo quyết_định trước_đây 
+10,đề_nghị bộ y_tế nâng cao chất_lượng dịch_vụ y_tế để thu_hút với người dân tham_gia bhyt  có lộ_trình tăng_giá dịch_vụ bảo_đảm công_bằng giữa các đối_tượng 
+11,bộ quốc_phòng  bộ công_an điều_chỉnh lộ_trình để 100  đối_tượng trong lực_lượng_vũ_trang tham_gia bhyt vào năm 2017 
+12,bộ tài_chính cân_đối ngân_sách  xem_xét nâng mức hỗ_trợ cho hộ cận nghèo  hộ nông_lâm ngư_nghiệp có mức_sống trung_bình  hssv 
+13,bộ gdđt chỉ_đạo các cơ_sở xây_dựng kế_hoạch để tới 2017 có 100  hssv tham_gia bhyt … các tỉnh  thành_phố tăng_cường lãnh_đạo  đưa nội_dung phát_triển đối_tượng bhxh là chỉ_tiêu phát_triển kinh_tếxã hội hằng năm  theo bà minh  bhxh đã tính_toán chi_tiết tổng mức hỗ_trợ cho các đối_tượng  người cận nghèo  hộ gia_đình   tại các địa_phương để các địa_phương nghiên_cứu xem_xét 
+14,theo đó  năm 2016 dự_kiến là 450 tỷ đồng 
+15,hiện_nay  số kết_dư ở các địa_phương khoảng 200 tỷ đồng 
+16,còn lại đề_nghị lấy kết_dư ở quỹ trung_ương để triển_khai ngay trong năm 2016 
+17,năm nay nâng_giá dịch_vụ y_tế tăng thêm 10000 tỷ thì bộ tài_chính có_thể chuyển_khoản tiền này sang mua bhyt cho người dân 
+18,bà minh cho rằng  nếu hỗ_trợ thì tỷ_lệ người dân tham_gia nhiều hơn  các bệnh_viện cũng sẽ phải cạnh_tranh để thu_hút bệnh_nhân  như vậy sẽ góp_phần nâng cao chất_lượng kcb_bhyt 
+19,vẫn theo bà minh  hiện mỗi giám_định_viên của bhxh phải phụ_trách 75000 hồ_sơ  thực_tế là không_thể giám_định được 
+20,“ ứng_dụng cntt là vấn_đề sống_còn 
+21,chỉ khi nào giám_định bhxh được liên_thông trong toàn_quốc thì mới thực_hiện giám_định tốt được  tương_tự như một cái “ sàng ” để lọc những gì bất hợp_lý 
+22,vì_vậy  để liên_thông với 14000 cơ_sở kcb  cần thiết_lập hệ_thống thông_tin thống_nhất ”  bà minh nêu 
+23,bhxh đã thống_nhất lựa_chọn viettel để thực_hiện chương_trình này 
+24,dự_kiến tổng mức đầu_tư là 500 tỷ đồng cho 5 năm  mỗi cơ_sở y_tế chỉ cần 10 triệu đồng / năm  mỗi hồ_sơ bệnh_án chỉ phải chi 1500 đồng để giám_định  khi vận_hành sẽ tiết_kiệm hàng nghìn tỷ đồng mỗi năm 
+25,để hoàn_thành hệ_thống này trước 306  bhxh kiến_nghị bộ y_tế ban_hành bộ mã dùng chung về thuốc  vật_tư … chỉ_đạo các sở y_tế phê_duyệt đầy_đủ danh_mục  hoàn_thành liên_thông kết_nối thông_tin trên hệ_thống mạng thông_tin toàn_quốc … phải nâng cao chất_lượng kcb bộ_trưởng bộ y_tế nguyễn_thị_kim_tiến  bộ y_tế đã nâng cao chất_lượng kcb  giảm tải bv  cải_cách  giảm thời_gian chờ_đợi cho người_bệnh khoảng 50 phút  vừa_qua ngành cũng đã xử_lý hơn 7000 nhân_viên  cán_bộ y_tế các tuyến từ cơ_sở đến trung_ương có hành_vi không đúng với người_bệnh 
+26,“ tổng_chi_phí thanh_toán của quỹ bhyt năm 2012 là 31100 tỷ đồng  năm 2014 tăng lên 41100 tỷ đồng  năm 2015 là khoảng 50000 tỷ đồng  qua đó cho thấy người có thẻ bhyt đã tiếp_cận nhiều hơn với các dịch_vụ y_tế ”  bộ_trưởng nêu 
+27,tuy_nhiên  bộ_trưởng nguyễn_thị_kim_tiến cũng cho rằng  mục_tiêu 90  người dân tham_gia bhyt vào năm 2020 là một thách_thức lớn  vì_vậy cần phải đẩy_mạnh các giải_pháp  nhất_là ở các địa_phương vẫn còn tỷ_lệ dưới 70  
+28,hiện_nay khó nhất là đối_với đối_tượng hộ gia_đình  vì_vậy cần tập_trung vận_động đối_tượng này để họ chuyển sang tham_gia bhyt 
+29,cùng với đó  tiếp_tục thực_hiện điều_chỉnh giá dịch_vụ  kỹ_thuật y_tế đối_với người_bệnh chưa sử_dụng bhyt để bảo_đảm bình_đẳng và thu_hút người dân tham_gia bhyt dưới dạng tự_nguyện và hộ gia_đình  phó_thủ_tướng vũ_đức_đam cho biết  lúc đầu  chúng_ta đặt mục_tiêu tới 2015 tỉ_lệ người dân tham_gia bhyt đạt 75  và tới 2020 là 80  
+30,khi đó có ý_kiến nói năm 2015 không_thể đạt 75   nhưng chúng_ta giao nhiệm_vụ cho từng địa_phương  cuối_cùng đạt 76  
+31,cho thấy  nếu nhận_thức đúng thì có_thể làm được 
+32,“ đến nay  chúng_ta bàn để điều_chỉnh quyết_định đó  đây là lần đầu_tiên quốc_hội giao chỉ_tiêu mà chính_phủ mạnh_dạn đi trước và đi trước rất lớn 
+33,tinh_thần của bhyt cũng như các loại bhxh là số đông dồn lại dùng cho số_ít  bình_thường bỏ ra tiết_kiệm một_ít để được chữa_trị tốt khi có bệnh 
+34,cần phải nhận_thức như_vậy ”  phó_thủ_tướng nêu 
+35,theo phó_thủ_tướng  để ở rộng bhyt  trước_hết ngành y_tế và hệ_thống y_tế phải nâng cao chất_lượng kcb  không phân_biệt giữa người khám bằng thẻ bhyt và khám dịch_vụ 
+36,“ việc này dù đã có tiến_bộ nhưng vẫn còn sự khác_biệt  tôi đã nhiều lần trực_tiếp đi khảo_sát ”  ông cho biết 
+37,tiếp đến  bảo_đảm người dân đóng bhxh thì khi vào viện phải bỏ tiền_túi ít hơn  cùng với đó  liên_thông toàn_bộ các bệnh_viện để người dân cầm một cái thẻ bhyt thì đi bất_kỳ đâu cũng được kcb 
+38,đối_với các đối_tượng được ngân_sách hỗ_trợ toàn_bộ hoặc một phần mua thẻ bhyt như người nghèo  trẻ_em  nông_dân  ngư_dân …  ngân_sách nhà_nước trung_ương và địa_phương cùng tiếp_tục hỗ_trợ 
+39,“ chúng_ta có lộ_trình điều_chỉnh giá dịch_vụ y_tế hướng tới mục_tiêu các cơ_sở y_tế cơ_bản tự_chủ về tiền_lương  phụ_cấp sau khi tính vào giá dịch_vụ 
+40,hiện_nay  1 năm chúng_ta dành 11000 tỷ đồng chi lương cho ngành y_tế 
+41,tôi đề_nghị ngân_sách không giảm khoản này và chuyển sang hỗ_trợ cho một_số đối_tượng mua bhyt tự_nguyện lần đầu từ năm 2017 
+42,không chỉ hỗ_trợ cho nông_dân  ngư_dân nghèo  cận nghèo mà cần mở_rộng hỗ_trợ người mua lần đầu  mua theo hộ gia_đình  để người dân quen dần với việc mua và sử_dụng bhyt   phó_thủ_tướng gợi_ý 

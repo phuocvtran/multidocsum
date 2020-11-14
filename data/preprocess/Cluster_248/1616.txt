@@ -1,0 +1,15 @@
+idx, sentence
+0,các quan_chức hải_quân mỹ cho biết máy_bay ea18g_growler đã bị vướng vào cáp hãm trên tàu sân_bay uss_john_c_stennis khi chưa hạ_cánh hẳn 
+1,hậu_quả là mũi máy_bay đã bị hư_hỏng nặng  các bộ_phận bên ngoài cùng các mảnh vỡ trên boong bị hút vào động_cơ 
+2,chiếc máy_bay này không_thể tiếp_tục hoạt_động trong khi các chuyên_gia đang đánh_giá mức_độ hư_hại 
+3,theo phát_ngôn_viên của lực_lượng không_quân thuộc hải_quân mỹ ở thái_bình_dương  bà jeannie_groeneveld  sự_cố xảy ra khi chiếc máy_bay tác_chiến điện_tử này đang trong quá_trình hạ_cánh trên tàu sân_bay uss_john_c_stennis vào tối 29/5 vừa_qua 
+4,vào thời_điểm đó  tàu stennis đang thực_hiện tuần_tra tại biển_đông 
+5,rất may  không có thủy_thủ nào bị_thương và không có tàu hay máy_bay nào khác bị hư_hỏng 
+6,sau những điều_tra ban_đầu  trung_tâm an_toàn hải_quân mỹ liệt_kê sự_cố trên vào loại a  nghĩa_là chiếc máy_bay giá_trị 68 triệu usd này thiệt_hại ít_nhất 2 triệu usd 
+7,tuy_nhiên  bà groeneveld cho biết các chuyên_gia vẫn đánh_giá để phân_loại sự_cố và có_thể hạ mức_độ nghiêm_trọng của sự_cố 
+8,“ những báo_cáo ban_đầu thường đánh_giá mức hư_hại cao hơn thực_tế 
+9,mặc_dù không có thương_vong nào song chúng_tôi chưa biết những thiệt_hại đó sẽ khoảng bao_nhiêu ”  bà groeneveld cho hay 
+10,bà groeneveld cho biết thêm các chuyên_gia đang xem_xét để quyết_định xem chiếc máy_bay gặp nạn có_thể sửa_chữa được hay không hay phải điều một máy_bay mới để thay_thế chiếc cũ 
+11,câu trả_lời sẽ có trong vài ngày tới 
+12,sự_cố của máy_bay ea18g_growler là sự_cố máy_bay thứ 3 của hải_quân mỹ từ đầu năm nay và là sự_cố thứ 2 chỉ trong vòng ba ngày 
+13,hôm 26/5  hai chiếc máy_bay chiến_đấu f / a18f hornets bất_ngờ đâm vào nhau khi đang luyện_tập ở khu_vực ngoài khơi bang north_carolina  khiến 4 phi_công bị_thương 

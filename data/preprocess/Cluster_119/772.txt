@@ -1,0 +1,7 @@
+idx, sentence
+0,theo thông_tin được đưa bởi guardian  nữ ca_sĩ 28 tuổi người anh đã ký một hợp_đồng nhiều năm với sony sau khi hợp_đồng của cô với xl ký năm 19 tuổi hết hạn 
+1,tờ hợp_đồng mới được cho biết trị_giá 90 triệu bảng anh 
+2,nếu được thanh_toán đầy_đủ  đây sẽ là bản hợp_đồng lớn nhất trong lịch_sử 
+3,adele là nghệ_sĩ có album bán_chạy nhất thế_giới năm 2015 và cô đã được sony săn_đón một thời_gian trước khi hợp_đồng của cô với xl hết hạn 
+4,theo ước_tính  cô hiện có khối tài_sản trị_giá 85 bảng_anh và phần_lớn trong số đó được thu về từ doanh_số bán album 
+5,bản hợp_đồng vừa ký với sony sẽ nâng tài_sản của adele lên 175 triệu bảng 

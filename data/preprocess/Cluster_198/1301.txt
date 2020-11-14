@@ -1,0 +1,5 @@
+idx, sentence
+0,theo đó  người có nhu_cầu cấp idp chỉ cần ngồi ở nhà dùng máy_tính kết_nối internet để đăng_ký  khai_báo thông_tin  nộp lệ_phí rồi đợi nhận idp tại nhà 
+1,bước đầu việc cấp idp cấp_độ 4 được thực_hiện tại tổng_cục đường_bộ việt_nam 
+2,bà phan_thị_thu_hiền  phó tổng_cục_trưởng tổng_cục đường_bộ  cho biết người có nhu_cầu cấp idp có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử http//dichvuconggplxgovvn8000 của tổng_cục đường_bộ 
+3,điều_kiện để người có nhu_cầu thực_hiện dịch_vụ công mức_độ 4 cấp idp gồm  có giấy_phép lái_xe bằng vật_liệu pet còn giá_trị sử_dụng và có trong cơ_sở dữ_liệu giấy_phép lái_xe toàn_quốc  có tài_khoản ngân_hàng để thanh_toán trực_tuyến 

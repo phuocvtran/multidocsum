@@ -1,0 +1,8 @@
+idx, sentence
+0,reuters ngày 26/5 dẫn lời chuẩn_đô_đốc colin_kilrain  chỉ_huy lực_lượng tác_chiến đặc_biệt mỹ ở châu_á  thái_bình_dương  cho biết lực_lượng đặc_nhiệm mỹ đã sẵn_sàng bắt_đầu hợp_tác với đặc_công việt_nam nếu chính_phủ hai nước quyết_định làm như_vậy 
+1,đây sẽ là một bước đi quan_trọng trong quan_hệ giữa quân_đội hai nước sau chuyến thăm việt_nam của tổng_thống mỹ barack_obama 
+2,ông kilrain đồng_thời khẳng_định mong_muốn tăng_cường quan_hệ với đặc_công việt_nam trong khuôn_khổ được chính_phủ hai nước lựa_chọn 
+3, chúng_tôi cảm_thấy được khích_lệ bởi chuyến thăm đầy tích_cực của tổng_thống obama tới việt_nam 
+4,chúng_tôi muốn trở_về và thông_báo với các cấp chỉ_huy rằng chúng_tôi sẵn_sàng thực_hiện những bước_đi tiếp_theo   ông kilrain khẳng_định 
+5,chuẩn đô_đốc mỹ nhấn_mạnh rằng khi bắt_đầu mối quan_hệ quân_sự với nước khác  các lực_lượng đặc_nhiệm tinh_nhuệ của mỹ như seal của hải_quân và delta_force của lục_quân sẽ là những lựa_chọn tốt nhất 
+6,ông kilrain từ_chối cung_cấp thông_tin chi_tiết về các bước hợp_tác quân_sự với việt_nam  nhưng nói rằng quá_trình này thường bắt_đầu một_cách từ_từ  với những hội_thảo để chia_sẻ thông_tin về cách_thức tổ_chức của quân_đội hai nước và các vấn_đề có liên_quan 

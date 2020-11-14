@@ -1,0 +1,13 @@
+idx, sentence
+0,trong bài phỏng_vấn với đài_cnn của mỹ hôm 19/5  bà hillary_clinton nói  “ tôi sẽ trở_thành ứng_viên đại_diện cho đảng của tôi  đảng dân_chủ  
+1,việc này thực_tế đã xong rồi 
+2,không_thể_nào khác được ” 
+3,việc bà clinton khẳng_định cuộc đua giữa bà và ông sanders gần như đã đi đến hồi kết là do cựu ngoại_trưởng mỹ hiện đang nắm ưu_thế hơn về số phiếu đại_biểu so với đối_thủ của bà 
+4,tuy_nhiên trên mặt_trận cử_tri  cuộc_chiến giữa những người ủng_hộ bà clinton và ông sanders vẫn đang diễn ra rất quyết_liệt 
+5,thượng_nghị_sĩ bang vermont khẳng_định sẽ đấu_tranh đến cùng trong cuộc đua vào nhà trắng năm nay 
+6,cũng trong bài phỏng_vấn  khi được hỏi về tỷ_phú bất_động_sản new_york_donald_trump  bà clinton nói ông trump không đủ trình_độ làm tổng_thống mỹ 
+7,bà cho rằng ứng_viên tổng_thống số_một đảng_cộng_hòa hiện_nay là người “ vô_trách_nhiệm  bất_cẩn và phát_ngôn nguy_hiểm ” 
+8,“ mối đe_dọa mà ông trump tạo ra là rất lớn  đối_với đất_nước chúng_ta  mỹ   đối_với nền dân_chủ của chúng_ta  và đối_với nền kinh_tế của chúng_ta ”  bà clinton nói 
+9,đặc_biệt  cựu ngoại_trưởng mỹ khẳng_định không_thể đặt niềm tin vào donald_trump để bảo_đảm sự an_toàn cho nước mỹ khi đề_cập đến vụ mất_tích bí_ẩn của máy_bay ms804 thuộc hãng hàng_không egyptair hôm_qua 19/5 
+10,“ đó có_vẻ là một hành_vi khủng_bố ”  bà clinton nhận_định về vụ rơi máy_bay ms804 
+11,bà cũng nói thêm rằng việc ông trump ủng_hộ lệnh_cấm người hồi_giáo nhập_cảnh vào mỹ sẽ chỉ càng làm cho tình_trạng khủng_bố gia_tăng 

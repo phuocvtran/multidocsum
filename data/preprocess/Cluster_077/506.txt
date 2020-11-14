@@ -1,0 +1,4 @@
+idx, sentence
+0,một trong những thỏa_thuận đầu_tiên được ký_kết trong chuyến thăm của ông obama tại việt_nam là hợp_đồng hàng tỷ đô giữa vietjet_air với boeing 
+1,dự_tính máy_bay boeing 737 max 200 sẽ được trao cho hãng hàng_không giá rẻ của việt_nam trong vòng từ năm 2019  2023 
+2,với thỏa_thuận này  đến cuối năm 2023 số máy_bay của vietjet có_thể sẽ vượt qua hãng hàng_không việt_nam 

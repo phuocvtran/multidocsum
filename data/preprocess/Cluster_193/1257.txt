@@ -1,0 +1,9 @@
+idx, sentence
+0,theo rt  theo cáo_buộc của những người phụ_nữ trên  các vụ tấn_công tình_dục xảy ra tại lễ_hội âm_nhạc schlossgrabenfest  thành_phố darmstadt tối 28/5 vừa_qua 
+1,ba phụ_nữ đã lập_tức báo_cáo với cảnh_sát ngay tại lễ_hội 
+2,họ nói rằng họ bị bao_vây và bị một nhóm người đàn_ông nam_á tấn_công tình_dục 
+3,cảnh_sát nhanh_chóng can_thiệp và bắt_giữ 3 nghi phạm là người tị_nạn từ pakistan  tuổi từ 28 – 31 
+4,theo nguồn tin từ cảnh_sát  có_thể có nhiều đối_tượng tham_gia vào các cuộc tấn_công nhưng trốn thoát 
+5,sau vụ bắt_giữ  thêm 15 phụ_nữ đã đứng lên tố_cáo cũng bị tấn_công tình_dục tại lễ_hội 
+6,lễ_hội schlossgrabenfest diễn ra trong bốn ngày và thu_hút khoảng 400000 người 
+7,vụ_việc xảy ra chỉ hơn hai tuần sau khi hai cô gái 17 và 18 tuổi bị một nhóm 10 đối_tượng quấy_rối tình_dục trong lễ_hội đường_phố tại berlin 

@@ -1,0 +1,6 @@
+idx, sentence
+0,do mưa lớn  tàu hmas_anzac_cập cảng trễ hơn so với sự kiến 
+1,được sự đồng_ý của bộ_quốc_phòng việt_nam  tàu của hải_quân hoàng_gia úc thăm tphcm từ ngày 305 đến 26 
+2,chuyến thăm này nhằm tăng_cường quan_hệ hữu_nghị giữa quân_đội hai nước nói_chung và hải_quân hai nước nói_riêng trên tinh_thần bản ghi_nhớ về hợp_tác quốc_phòng giữa bộ_quốc_phòng việt_nam  úc 
+3,chuyến thăm này góp_phần thúc_đẩy quan_hệ đối_tác toàn_diện giữa hai nước ngày_càng phát_triển tốt_đẹp 
+4,đây là lần thứ 17 tàu hải_quân úc thăm việt_nam và là lần thứ 10 thăm tphcm

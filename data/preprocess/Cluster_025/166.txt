@@ -1,0 +1,14 @@
+idx, sentence
+0,thông_tin từ tập_đoàn hoa_sen cho hay  ngày 19/5/2016  tập_đoàn này đã tổ_chức lễ khởi_công xây_dựng dự_án khu trung_tâm thương_mại  dịch_vụ  khách_sạn  nhà_hàng và tổ_chức sự_kiện hoa_sen yên_bái 
+1,đây là dự_án bất_động_sản  dịch_vụ và du_lịch đầu_tiên của hoa_sen  đánh_dấu bước_tiến của  ông lớn  trong lĩnh_vực tôn thép tại việt_nam và đông_nam_á sang một lĩnh_vực hoàn_toàn mới 
+2,theo đó  dự_án này do công_ty cp hoa_sen yên_bái làm_chủ đầu_tư  được xây_dựng trên khu đất có diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỷ đồng 
+3,dự_án này được đặt tại trung_tâm kinh_tế  chính_trị  văn_hóa của tỉnh yên_bái  tọa_lạc ngay vòng xoay ngã tư  chốt giao nhau của ba tuyến đường chính  nguyễn_tất_thành  nguyễn_văn_cừ và ngô_gia_tự thuộc phường đồng_tâm  thành_phố yên_bái 
+4,chủ đầu_tư cho rằng  với hai mặt tiền đường nguyễn_tất_thành và nguyễn_văn_cừ  dự_án sẽ tạo sự liên_kết dễ_dàng với các khu_vực dân_cư lân_cận 
+5,bên_cạnh đó  vị_trí dự_án còn nằm gần kề trục đường_quốc_lộ 37  tuyến giao_thông quan_trọng nối liền đông và tây_bắc  đi qua 8 tỉnh  thái_bình  hải_phòng  hải_dương  bắc_giang  thái_nguyên  tuyên_quang  yên_bái và sơn_la 
+6,giới đầu_tư nhận_định  vị_trí đắc_địa này sẽ giúp dự_án thuận_tiện trong việc giao_thương  thu_hút khách du_lịch 
+7,tính đến thời_điểm này  dự_án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái đang được đánh_giá là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất tỉnh yên_bái 
+8,dự_án bao_gồm 1 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m²  được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán café  căn_hộ cao_cấp 
+9,dự_án gồm 2 giai_đoạn  trong đó giai_đoạn 1 bắt_đầu từ tháng 5/2016 đến tháng 6/2017 sẽ thi_công xây_dựng cơ_sở_hạ_tầng cơ_bản toàn_bộ khu đất và các hạng_mục công_trình như  khách_sạn 4 sao thấp tầng  trung_tâm thương_mại  trung_tâm tổ_chức hội_nghị  nhà_hàng tiệc cưới  quán café  bãi đỗ xe đa chức_năng 
+10,giai_đoạn 2 từ tháng 6/2019 đến tháng 6/2020 sẽ hoàn_thiện các hạng_mục còn lại của dự_án gồm  khách_sạn 4 sao cao_tầng  mở_rộng khách_sạn 4 sao thấp tằng  căn_hộ 
+11,dự_án dự_kiến sẽ được hoàn_thành vào năm 2020 
+12,khi hoàn_thành và chính_thức đưa vào hoạt_động  khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái dự_kiến sẽ trở_thành một trong những dự_án trọng_điểm góp_phần thúc_đẩy đưa thành_phố yên_bái thực_hiện mục_tiêu trở_thành đô_thị loại ii vào năm 2020 và đô_thị loại i vào năm 2050 

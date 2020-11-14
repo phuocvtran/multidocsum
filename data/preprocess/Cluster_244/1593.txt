@@ -1,0 +1,16 @@
+idx, sentence
+0,afp dẫn lời các nhân_chứng cho hay  một nhóm người tấn_công maria_sadaqat  19 tuổi  trong làng upper_dewal ở vùng ngoại_ô thành_phố islamabad  thủ_đô của pakistan  hôm 1/6 
+1,“ bọn người đó tra_tấn dã_man rồi thiêu sống cháu tôi 
+2,chúng_tôi đưa cháu tới bệnh_viện ở islamabad nhưng không qua khỏi ”  abdul_basit  chú của nạn_nhân  nói với afp bên ngoài trung_tâm điều_trị bỏng thuộc viện y_khoa pakistan tại islamabad 
+3,nhóm người_thân của nạn_nhân khóc và thể_hiện sự giận_dữ khi cảnh_sát đưa thi_thể maria tới một bệnh_viện khác để khám_nghiệm_pháp_y _abdul kể rằng maria làm_việc tại một trường tư_nhân 
+4,hiệu_trưởng của trường có một con_trai và anh ta muốn kết_hôn với maria 
+5,sau khi cô gái từ_chối lời cầu_hôn  hiệu_trưởng cùng một_số người tra_tấn cô 
+6,“ gã đàn_ông đó từng ly_dị vợ và gấp đôi tuổi maria nên cháu tôi không muốn lấy anh ta 
+7,maria thôi_việc do gã vẫn tiếp_tục theo_đuổi cô ấy 
+8,cuối_cùng chúng tấn_công cháu tôi ”  abdul nói 
+9,cảnh_sát kịp hỏi maria trước khi cô qua_đời 
+10,nạn_nhân nói hiệu_trưởng và 4 người khác tấn_công cô 
+11,“ chúng_tôi đã bắt một nghi phạm và đang truy_lùng những kẻ còn lại ”  mazhar_iqbal  sĩ_quan chỉ_đạo cuộc điều_tra cái chết của nữ giáo_viên  nói 
+12,ayesha_ihsani  một bác_sĩ điều_trị cho nạn_nhân  nói rằng cô chết vì những vết bỏng phủ kín phần_lớn cơ_thể 
+13,đây là người phụ_nữ thứ hai thiệt_mạng oan_uổng do liên_quan tới vấn_đề hôn_nhân 
+14,hôm 29/4  theo mệnh_lệnh từ hội_đồng lãnh_đạo của một làng ở vùng tây_bắc pakistan  vài người đã giết rồi đốt xác một cô gái khoảng 16 tới 18 tuổi do nạn_nhân giúp bạn trốn nhà theo người_yêu 

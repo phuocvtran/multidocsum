@@ -1,0 +1,5 @@
+idx, sentence
+0,ngày 29/5  hoa_khôi thể_thao lại hương_thảo đã chính_thức lên xe hoa cùng ông xã hơn 10 tuổi 
+1,chồng cô là một doanh_nhân thành_đạt  từng học thạc_sĩ ở nước_ngoài và có hơn 8 năm làm_việc trong các ngân_hàng 
+2,hiện_tại  anh mở công_ty riêng tại tp hcm 
+3,trước đó  lại hương_thảo đã làm đám_hỏi khá bí_mật tại quê nhà quảng_ninh 

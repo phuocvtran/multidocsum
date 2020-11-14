@@ -1,0 +1,13 @@
+idx, sentence
+0,lực_lượng công_an tp buôn_ma_thuột cho biết  khoảng 15 giờ 30 phút ngày 285  tại showrom cà_phê của tập_đoàn cà_phê trung_nguyên số 45 đường lý_tự_trọng  ptân_an  tp buôn_ma_thuột  đắk_lắk  đã bắt_giữ một đối_tượng dùng dao khống_chế một nữ nhân_viên của tập_đoàn 
+1,đối_tượng được xác_định danh_tính là lê_văn_công  sn 1991  trú tại huyện đông_anh  tp hà_nội  
+2,vào ngày 27/5  công cho rằng tập_đoàn cà_phê trung_nguyên có sử_dụng một phần_mềm quản_lý_do mình viết ra nhưng không xin_phép nên đã đến xin được gặp ông đặng_lê_nguyên_vũ 
+3,thấy có biểu_hiện bất_thường nhân_viên tại cửa_hàng từ_chối nên công bỏ sang khách_sạn nằm đối_diện thuê nghỉ 
+4,đến khoảng 15 giờ 30 phút chiều ngày 28/5  công mang theo đồ vào showrom ngồi uống cà_phê 
+5,tại đây  công tiếp_tục xin đòi gặp ông đặng_lê_nguyên_vũ thì nhân_viên nói ông vũ không có ở đây 
+6,lúc này  chị hoàng_thị_ngọc_thùy  sn 1991  nhân_viên phục_vụ  đi ra thì công bất_ngờ rút một con dao thái_lan thủ sẵn trong người lao đến khống_chế rồi yêu_cầu các nhân_viên gọi điện kêu ông vũ đến đồng_thời đập phá một_số ly  chén và máy pha cà_phê 
+7,sợ bị ảnh_hưởng đến tính_mạng của con_tin  một_số nhân_viên tìm cách tiếp_cận công và trình_báo_vụ_việc cho cơ_quan_chức_năng tới hiện_trường 
+8,nhận được tin báo  lực_lượng công_an phường ea_tam  cảnh_sát hình_sự  công_an tp buôn_ma_thuột và lực_lượng cảnh_sát 113 đã lập_tức có_mặt giải_quyết vụ_việc 
+9,sau hơn 15 phút tiếp_cận  lợi_dụng sự sơ_hở của đối_tượng  lực_lượng_hình_sự đã xông vào khống_chế tước_đoạt hung_khí  bắt_giữ công và giải_thoát an_toàn cho con_tin 
+10,tại cơ_quan công_an đối_tượng công_khai nhận  do tập_đoàn cà_phê trung_nguyên có sử_dụng một phần_mềm quản_lý mà do công viết ra nhưng không xin_phép nên công xin được gặp ông đặng_lê_nguyên_vũ để đòi lại 
+11,theo một cán_bộ điều_tra cho biết  vào thời_điểm công bị bắt_giữ và khống_chế  đối_tượng này có biểu_hiện bị ngáo đá  nói_nhảm rất nhiều 

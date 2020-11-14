@@ -1,0 +1,12 @@
+idx, sentence
+0,chiều 20/5  ban kỷ_luật vff đã họp xem_xét pha vào bóng của đình_luật  bình_dương  khiến felix  quảng_nam  phải rời sân bằng cáng  trong trận đấu bù vòng 2 hôm 18/5 
+1,đó là tình_huống xảy ra ở phút 85 của trận đấu  khi đội đương_kim vô_địch bình_dương đang bị chủ nhà quảng_nam dẫn 21  felix có pha vào bóng từ phía sau  đình_luật_nhảy lên rồi sau đó lao cả 2 gầm giày vào bụng đồng_nghiệp 
+2,pha vào bóng thô_bạo ngay_lập_tức khiến felix nằm sân trong đau_đớn  trước khi phải rời sân 
+3,sau khi xem kỹ băng ghi_hình  tổng_hợp báo_cáo  ban kỷ_luật đã quyết_định ra án phạt với cầu_thủ đình_luật là nộp 15 triệu đồng và treo_giò 3 trận 
+4,với án treo giò này  đình_luật sẽ phải nghỉ hết lượt đi 
+5,ông hường cho biết án kỷ_luật với đình_luật chỉ áp_dụng ở giải vđqg  khi mức_độ vi_phạm không nặng như của văn_quyết trước đó 
+6,thế nhưng  để giữ hình_ảnh đẹp cho đtqg  vff và hlv hữu_thắng đã thống_nhất sẽ không gọi đình_luật lên tuyển trong đợt tập_trung lần này 
+7,hơn_nữa  các trận đấu sắp tới của đội_tuyển việt_nam chỉ mang tính_chất giao_hữu  tạo cơ_hội cho cầu_thủ trẻ cọ_xát  đồng_thời giúp phát_hiện thêm nhân_tố mới  nên vff và hlv hữu_thắng không quá quan_trọng trong vấn_đề triệu_tập nhân_sự 
+8,cách đây hơn hai tháng  tiền_vệ nguyễn_văn_quyết dù đã có tên trong danh_sách tập_trung đội_tuyển vào tháng 3 nhưng ngay sau đó vì có pha va_chạm với trọng_tài hoàng phạm_công_khanh trong trận đấu với sanna khánh_hòa_bvn ở lượt thứ 4 ngày 12/3  nên anh đã bị treo_giò 5 trận liên_tiếp 
+9,trước đó  trung_vệ quế_ngọc_hải cũng phạm lỗi nghiêm_trọng với cầu_thủ trần_anh_khoa  shb_đà_nẵng  ở trận đấu gần cuối vleague 2016 nên bị treo_giò 6 tháng 
+10,cũng đồng_nghĩa với việc không được triệu_tập đội_tuyển 

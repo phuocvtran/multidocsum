@@ -1,0 +1,17 @@
+idx, sentence
+0,lời đề_nghị gặp kim_jongun của donald_trump  ứng_cử_viên cho chiếc ghế tổng_thống mỹ  đã bị một quan_chức cấp cao triều_tiên bác_bỏ ngày 235 
+1,ông cho rằng lời đề_nghị này chỉ là một chiêu_thức quảng_bá và tuyên_truyền cho chiến_dịch tranh_cử của trump 
+2,trong cuộc phỏng_vấn với reuters tuần trước  trump nói rằng ông sẵn_sàng nói_chuyện với nhà lãnh_đạo triều_tiên để khuyên bình_nhưỡng ngừng chương_trình hạt_nhân  đề_nghị một bước biến_chuyển lớn trong chính_sách của mỹ với triều_tiên 
+3,“ lãnh_đạo của chúng_tôi sẽ quyết_định  nhưng tôi nghĩ ý_tưởng của trump thật phi_lý ”  so se_pyong  đại_sứ triều_tiên tại liên_hiệp_quốc ở geneva  nói với reuters sau khi trở_về từ đại_hội đảng lao_động triều_tiên lần thứ 7 
+4, đây chỉ là một hành_động tuyên_truyền cho chiến_dịch tranh_cử 
+5,nó thật vô_nghĩa  
+6,ông nói 
+7, không có ý_nghĩa  không có sự chân_thành  ông nói thêm 
+8,trước đó  ngày 175  trump nói rằng ông sẵn_sàng đàm_phán với lãnh_đạo triều_tiên nhằm chấm_dứt chương_trình hạt_nhân của nước này 
+9,“ tôi sẽ nói_chuyện với ông ta 
+10,tôi chẳng thấy có vấn_đề gì khi nói_chuyện với ông kim cả ”  tỉ_phú bất_động_sản nói 
+11,triều tiên đã thử hạt_nhân lần thứ 4 trong tháng 1 và phóng một tên lửa tầm xa vào tháng 2  đưa đất_nước này vào một lệnh trừng_phạt quốc_tế khó_khăn 
+12,một người khác cũng là đại_sứ triều_tiên tại một hội_nghị của liên_hiệp_quốc nhắc lại triều_tiên đã sẵn_sàng để đàm_phán 6 bên về chương_trình hạt_nhân của mình 
+13,trung_quốc và nga ủng_hộ ý_tưởng này  nhưng mỹ và các đồng_minh hàn_quốc và nhật_bản từ_chối  ông nói 
+14, là một nhà_nước hạt_nhân có trách_nhiệm  chúng_tôi sẽ không bao_giờ sử_dụng vũ_khí hạt_nhân trước   đại_sứ cho biết 
+15, nếu mỹ sử_dụng vũ_khí hạt_nhân  thì chúng_tôi mới dùng  

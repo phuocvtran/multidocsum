@@ -1,0 +1,8 @@
+idx, sentence
+0,chuyến bay đầu_tiên của vietjet tới malaysia mang số_hiệu vj825 đã hạ_cánh tại sân_bay quốc_tế kuala_lumpur với sự chào_đón nhiệt_liệt của người_dân và đoàn lãnh_đạo cấp cao hai nước việt_nam và malaysia 
+1,phó_thủ_tướng việt_nam trịnh_đình_dũng  lãnh_đạo bộ giao_thông vận_tải việt_nam  lãnh_đạo bộ giao_thông vận_tải malaysia và lãnh_đạo các ban_ngành cũng tham_gia sự_kiện 
+2,những hành_khách đi kuala_lumpur trên chuyến bay đầu_tiên được thưởng_thức vũ_điệu truyền_thống  quốc hoa malaysia và được tặng những món quà xinh_xắn từ vietjet 
+3,đường_bay tphcm – kuala_lumpur được khai_thác hàng ngày  thời_gian bay khoảng 1 giờ 55 phút 
+4,chuyến bay sẽ khởi_hành từ tphcm lúc 9 h30 và đến kuala_lumpur lúc 12 h25  giờ_địa_phương  
+5,chiều ngược_lại khởi_hành lúc 13 h00  giờ_địa_phương  từ kuala_lumpur và tới tphcm lúc 13 h55  giờ_địa_phương  
+6,với giờ bay thuận_tiện  dịch_vụ chất_lượng  giá vé hấp_dẫn  đường_bay sẽ đáp_ứng nhu_cầu di_chuyển  du_lịch của người dân 2 nước 

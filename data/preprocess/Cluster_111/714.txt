@@ -1,0 +1,22 @@
+idx, sentence
+0,ngày 24/5  công_an tỉnh quảng_nam cho_biết  vừa bắt khẩn_cấp 2 đối_tượng bán vàng giả gồm  đặng_xuân_hoa_diễm  sn 1985  trú xã tân_sơn  tppleiku  tỉnh gia_lai  và phạm_ngọc_tuấn  sn 1994  trú huyện chư_sê  gia_lai  
+1,thời_gian qua  nhiều chủ tiệm vàng ở các huyện núi_thành  tiên_phước  bắc_trà_my … bị một_số đối_tượng mang vàng giả đến bán trót_lọt 
+2,khoảng 8 h ngày 9/4  một người phụ_nữ điều_khiển xe mô_tô không rõ bks đến tiệm vàng vkl
+3,của gia_đình ông vvv
+4, thị_trấn tiên_kỳ  huyện tiên_phước  bán một sợi dây_chuyền vàng 1 lượng 
+5,sau khi thử thấy không có gì đáng ngờ nên chủ tiệm mua sợi dây_chuyền này với giá 313 triệu đồng 
+6,đến ngày 21/4  chủ tiệm dùng hóa_chất để kiểm_tra sợi dây_chuyền này thì phát_hiện dây_chuyền bằng bạc  được mạ vàng bên ngoài 
+7,cũng trong ngày 9/4  tiệm vàng của gia_đình bà vth
+8, thị_trấn tiên_kỳ  huyện tiên_phước  cũng có một đối_tượng nữ mang 1 lượng vàng giả đến bán với giá 30 triệu đồng 
+9,đến ngày 12/4  chủ tiệm mang sợi dây_chuyền này đến tiệm vàng nt
+10, tp tam_kỳ  bán với giá 319 triệu đồng 
+11,qua kiểm_tra bằng mắt thường  chủ tiệm vàng nt
+12,cho rằng sợi dây_chuyền này xuất_thân từ tiệm vàng của mình nên mua vào 
+13,đến ngày 21/4  chủ tiệm vàng nt
+14,sử_dụng hóa_chất kiểm_tra mới phát_hiện sợi dây_chuyền này là bạc mạ vàng 
+15,theo lời khai ban_đầu của các đối_tượng  từ ngày 9/4  11/5  2 đối_tượng diễm và tuấn cùng với phan_văn_hoàn  sn 1985  ngụ thôn 3  xã biển_hồ  tp_pleiku  gia_lai  thực_hiện trót_lọt 8 vụ lừa_đảo bán vàng giả với số tiền chiếm_đoạt hàng trăm triệu đồng 
+16,sau khi thực_hiện trót_lọt nhiều vụ lừa_đảo  đến ngày 11/5  các đối_tượng này tiếp_tục đến tiệm vàng ntr
+17, xã tam_hải  huyện núi_thành  để bán vàng giả 
+18,sau khi nhận vàng từ đối_tượng đặng_xuân_hoa_diễm  chủ tiệm vàng tiến_hành thử thì phát_hiện vàng giả và báo ngay công_an bắt_giữ các đối_tượng này 
+19,theo điều_tra  đối_tượng hoàn có 2 tiền_án  đối_tượng tuấn có 1 tiền_án 
+20,các đối_tượng trên đều không có nghề_nghiệp  đi lang_thang khắp nơi để lừa_đảo 

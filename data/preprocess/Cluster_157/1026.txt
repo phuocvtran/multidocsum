@@ -1,0 +1,24 @@
+idx, sentence
+0,sáng nay  khi cơ_quan điều_tra vào cuộc điều_tra vụ giết người  cướp tài_sản xảy ra trên địa_bàn bản cỏ_nong  xã mường_nọc  thì nghi can thắng trốn khỏi địa_phương 
+1,sau đó  cơ_quan_chức_năng phát_hiện thắng đang lẩn trốn tại nhà chị_gái  ở xã tiền_phong  huyện quế_phong  
+2,lực_lượng công_an bao_vây và kêu_gọi nghi can ra đầu_thú hưởng sự khoan_hồng của pháp_luật 
+3,tuy_nhiên  nghi can thắng trốn trong nhà_vệ_sinh rồi dùng dao để tự_sát 
+4,lực_lượng chức_năng kịp_thời phát_hiện đưa thắng đi bệnh_viện cấp_cứu 
+5,hiện thắng đang được cấp_cứu tại bv đa_khoa huyện quế_phong trong sự giám_sát chặt_chẽ của các chiến_sĩ công_an 
+6,như plo đã đưa tin  vợ_chồng ông sầm_văn_dần  61 tuổi  và bà vi_thị_thu_loan  63 tuổi  ở bản cỏ_nong  xã mường_nọc  có hai người con_gái đều đã đi lấy chồng 
+7,ông dần và bà loan có hoàn_cảnh khó_khăn  sống cùng nhau trong căn nhà bên sườn núi  cách xa nhà dân 
+8,khoảng 19 đến 20 giờ tối 285  kẻ_cướp đã đột_nhập vào nhà ông dần  bà loan 
+9,tại đây  kẻ_cướp đã chém vào người bà loan khiến bà chết tại_chỗ 
+10,kẻ_cướp chém vào người ông dần khiến ông ngất_xỉu trong nhà 
+11,do ở xa nhà xóm_giềng nên khi sự_việc xảy ra không ai biết  cho đến khi ông dần tỉnh dậy mới cố bò đi kêu cứu 
+12,anh vi_văn_xan  ở bản cỏ_nong  xã mường_nọc  cho biết trong đêm 275  thấy ông dần bò lết vào nhà anh với nhiều vết dao 
+13,ông dần kêu cứu và nhờ anh xan thông_báo với chính_quyền và công_an là bà loan đã bị giết chết … rồi ông dần lại ngất_xỉu 
+14,ông dần được đưa đến bv đa_khoa huyện quế_phong cấp_cứu  trong tình_trạng sức_khỏe nguy_kịch 
+15,mọi người chạy đến nhà vợ_chồng ông dần phát_hiện bà loan đã tử_vong  đôi bông_tai bằng vàng trên tai bà loan đã bị kẻ cướp lột lấy 
+16,khuya cùng ngày  ông dần được xe cứu_thương chuyển lên bv_hữu_nghị đa_khoa tỉnh nghệ_an cấp_cứu 
+17,sáng nay  công_an huyện quế_phong cùng phòng kỹ_thuật hình_sự  phòng csđt tội_phạm về trật_tự xã_hội  pc45   công_an tỉnh nghệ_an lên khám_nghiệm hiện_trường 
+18,theo lời khai của ông dần  chiều 285  thắng có đến chơi với vợ_chồng ông dần  bà loan rồi ở lại uống rượu  ăn cơm cùng vợ_chồng ông 
+19,tại đây  thắng uống khá nhiều rượu của vợ_chồng ông dần 
+20,ăn_uống no_say  thắng và ông dần cùng nằm ngủ ngay trên sàn nhà 
+21,khi ông dần tỉnh_giấc thì phát_hiện nghi can thắng đang có hành_vi dùng dao sát_hại bà loan để cướp tài_sản 
+22,ông dần lao vào can_ngăn để cứu vợ thì bị nghi can thắng dùng dao chém vào người 

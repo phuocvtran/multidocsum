@@ -1,0 +1,10 @@
+idx, sentence
+0,theo cáo_trạng của viện ksnd tp hà_nội  khoảng 9 h50 ’ ngày 12122015  tổ công_tác của phòng csgt đường_bộ  đường_sắt công_an tp hà_nội được phân_công làm nhiệm_vụ tuần_tra kiểm_soát trên tuyến đường nguyễn_văn_linh  thuộc địa_bàn phường phúc_đồng  quận long_biên 
+1,khi tổ công_tác đang làm nhiệm_vụ tại ngã tư phố sài_đồng  nguyễn_văn_linh thì thượng_úy nguyễn_quốc_đạt phát_hiện xe ô_tô tải hiệu huyndai  biển kiểm_soát 89l  2011 đi trên đường nguyễn_văn_linh  hướng từ hải_phòng đi hà_nội vi_phạm_luật giao_thông đường_bộ nên đã ra tín_hiệu dừng xe để kiểm_tra 
+2,người điều_khiển chiếc xe này là đoàn_văn_chuyên  25 tuổi  trú tại xã vĩnh_khúc  huyện văn_giang  tỉnh hưng_yên  được đại_diện công_ty tnhh sản_xuất đồ gỗ thuê lái xe_tải vận_chuyển hàng của công_ty tới các địa_điểm khách_hàng đặt mua 
+3,chuyên không chấp_hành cán_bộ thi_hành công_vụ mà đâm thẳng xe vào người_thượng_úy đạt 
+4,do khoảng_cách quá gần nên thượng_úy đạt không kịp tránh phải nhảy lên bám vào cần gạt nước của xe và yêu_cầu chuyên dừng xe  nhưng chuyên không dừng mà tiếp_tục điều_khiển xe bỏ chạy  dẫn đến va_chạm giao_thông với một xe ô_tô 4 chỗ đi cùng chiều 
+5,chưa chịu dừng lại hành_vi nguy_hiểm  chuyên liên_tục “ đánh_võng ” ô_tô sang trái  sang phải rồi phóng nhanh  phanh gấp với mục_đích hất thượng_úy đạt xuống_đường 
+6,khi thấy thượng_úy đạt đã bị ngã  chuyên điều_khiển ô_tô kéo_lê thượng_úy đạt trong gầm xe khoảng 20 m nữa thì tăng ga bỏ chạy dẫn đến bánh phía trước và bánh phía sau bên phải xe ô_tô do chuyên điều_khiển chèn qua người_thượng_úy đạt gây thương_tích nặng 
+7,sau đó  chuyên điều_khiển xe bỏ chạy về địa_bàn huyện văn_lâm  tỉnh hưng_yên và gửi ô_tô vào một công_ty rồi bỏ trốn 
+8,hơn một giờ sau khi gây_án  chuyên đã đến cơ_quan công_an đầu_thú 

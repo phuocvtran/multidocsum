@@ -1,0 +1,3 @@
+idx, sentence
+0,bộ tài_chính vừa có văn_bản gửi thống_đốc ngân_hàng nhà_nước  nhnn  đề_nghị chỉ_đạo người đại_diện phần vốn_nhà_nước tại hai ngân_hàng tmcp_công_thương việt_nam  vietinbank  và ngân_hàng_đầu_tư và phát_triển việt_nam  bidv  biểu_quyết chia cổ_tức năm 2015 bằng tiền_mặt và nộp toàn_bộ số cổ_tức được chia vào ngân_sách nhà_nước  nsnn  
+1,trước đó  đhcđ thường_niên năm 2015  cả hai ngân_hàng đều cam_kết sẽ trả cổ_tức bằng tiền_mặt với tỉ_lệ khoảng 10  nhưng sau đó  vietinbank không chia cổ_tức  còn bidv thực_hiện trả cổ_phiếu bằng cổ_tức với tỉ_lệ 85  

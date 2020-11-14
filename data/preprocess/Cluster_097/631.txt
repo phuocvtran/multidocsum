@@ -1,0 +1,10 @@
+idx, sentence
+0,sáng 23/5  ông nguyễn_văn_tuấn  trưởng công_an xã kỳ_sơn  huyện tân_kỳ  nghệ_an  cho biết  trên địa_bàn vừa phát_hiện một người đàn_ông treo_cổ gần nhà_máy sản_xuất phân_hữu_cơ vi_sinh 
+1,theo đó  khoảng 7 h sáng cùng ngày  người dân xóm minh_sơn  xã kỳ_sơn  hoảng_hốt nghe tiếng hét thất_thanh_phát ra từ một nhà_máy sản_xuất phân_hữu_cơ vi_sinh trên địa_bàn xã 
+2,ngay_lập_tức  mọi người nhanh_chóng chạy tới thì phát_hiện anh trần_văn_minh  sn 1987  người xã này  đang treo lơ_lửng trong tư_thế thắt_cổ trên cây 
+3,bên cạnh là người mẹ ngồi khóc gục bên cạnh xác con 
+4,mọi người nhanh_chóng cắt dây đưa anh_minh tới trạm y_tế xã cấp_cứu nhưng nạn_nhân đã tử_vong từ trước đó 
+5,nhận được tin báo  lực_lượng công_an xã đã có_mặt bảo_vệ hiện_trường  phối_hợp cùng công_an huyện tân_kỳ tiến_hành khám_nghiệm hiện_trường  khám_nghiệm tử_thi để làm rõ nguyên_nhân vụ_việc 
+6,theo người dân địa_phương  thời_gian gần đây  anh_minh thương có những dấu_hiệu bất_thường  hay cau có và mệt_mỏi 
+7,tối 22/5  anh_minh ra nhà anh_trai ở xóm bên chơi rồi không trở_về nhà 
+8,đến sáng ngày hôm sau  gia_đình huy_động mọi người tỏa ra đi tìm thì phát_hiện minh đã treo cổ tự_tử 

@@ -1,0 +1,7 @@
+idx, sentence
+0,theo một_số nhân_chứng cho biết   vào thời_điểm trên  nhiều người dân khi đi qua khu_vực cầu cứng  phường phương_lâm  tp hòa_bình  thì phát_hiện một nam thanh_niên áo trắng nằm bất_động 
+1,khi tới gần kiểm_tra thì nhiều người bàng_hoàng phát_hiện nam thanh_niên này đã tử_vong trước đó  
+2,ngay sau đó  người dân đã lập_tức báo cho cơ_quan_chức_năng đến hiện_trường 
+3,cơ_quan công_an thành_phố hòa_bình đã có_mặt để tiến_hành công_tác khám_nghiệm tử_thi và phong_tỏa hiện_trường 
+4,trao_đổi với phóng_viên pháp_luật plus  ông trương_quang_hải  chánh_văn_phòng công_an tỉnh hòa_bình xác_nhận vụ_việc trên và cho biết thông_tin ban_đầu nạn_nhân có_thể chết bởi sốc ma_túy 
+5,do nạn_nhân không mang theo giấy_tờ tùy_thân nên_danh_tính hiện_tại vẫn chưa được xác_định 

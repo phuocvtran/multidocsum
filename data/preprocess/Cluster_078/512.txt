@@ -1,0 +1,24 @@
+idx, sentence
+0,năm 2014  không lâu sau khi tổng_thống barack_obama hạ_cánh tại sân_bay san_francisco để tham_gia một sự_kiện gây quỹ  đoàn xe của ông rút khỏi sân_bay và đi với tốc_độ 80 dặm / giờ  để đưa ông về thẳng khách_sạn 
+1,dẫn_đầu đoàn xe là một loạt xe màu đen  bóng_loáng và chống đạn do các mật_vụ điều_khiển 
+2,họ phải trải qua hàng trăm giờ huấn_luyện để lái chiếc xe với tốc_độ rất cao 
+3,theo new_york_times  trong loạt xe chở đầy nhân_viên nhà_trắng và các phóng_viên  có natalie_tyson  khi đó mới 24 tuổi  điều_khiển một chiếc xe chở 15 nhà_báo 
+4,cô sinh_viên california này đã chia_sẻ cô được lựa_chọn như thế_nào trong số các tình_nguyện viên làm tài_xế cho đoàn xe hộ_tống tổng_thống obama trong những ngày ông ở san_francisco 
+5,“ tôi không hiểu sao họ lại tin_tưởng tôi cùng với một chiếc xe chở đầy 15 nhà_báo ” – natalie kể lại trải_nghiệm này  dù cô không hề có kinh_nghiệm  huấn_luyện và thậm_chí còn không biết phải làm gì trong một tình_huống khẩn_cấp 
+6,natalie kể lại  đoàn xe hộ_tống tổng_thống luôn có rất nhiều mật_vụ bảo_vệ vị lãnh_đạo  cảnh_sát địa_phương hỗ_trợ và xe cứu_thương 
+7,tuy_nhiên  trong đoàn xe cũng có những chiếc đóng vai_trò ‘ lấp chỗ trống ’  thường đi giữa  chở theo nhân_sự của nhà_trắng  các nhân_viên truyền_thông và báo_chí 
+8,daily mail dẫn lời natalie kể lại  một tuần trước khi tổng_thống obama tới san_francisco vào ngày 10/10/2014  một người bạn của cô làm_việc tại_nhà trắng đã nhắn_tin  hỏi cô có muốn lái một chiếc xe chở các nhà_báo tác_nghiệp hay không 
+9,natalie thú thật là cô chưa từng lái_xe cỡ lớn  nhưng hồ_sơ lái xe của cô khá ‘ sạch_sẽ ’  không có vấn_đề gì về pháp_lý và sẵn_sàng đảm_nhận nhiệm_vụ 
+10,một tuần sau đó  cô có_mặt tại sân_bay quốc_tế_san_francisco  chờ đón chiếc không_lực một hạ_cánh 
+11,khi được hỏi là cô sẽ phản_ứng như thế_nào trong trường_hợp xảy ra tấn_công  natalie_tyson thừa_nhận  cô đã được các mật_vụ chỉ_dẫn sơ_bộ trước khi được ngồi sau bánh_lái 
+12,họ chủ_yếu cảnh_báo_cô không nên đụng phải bất_kỳ chiếc xe hộ_tống nào của cảnh_sát  thường do cảnh_sát địa_phương điều_khiển  
+13,natalie nói thêm  trong trường_hợp xảy ra sự_cố  cô sẽ theo đuôi chiếc xe ngay phía trước 
+14,“ dù_thế_nào thì tôi cũng đủ tốt với họ ” – natalie nói 
+15,trên thực_tế  tổng_thống mỹ di_chuyển trong dòng xe được gọi_là ‘ gói an_ninh ’ 
+16,các mật_vụ được huấn_luyện để đưa cả ‘ gói an_ninh ’ này di_chuyển ra ngoài đoàn hộ_tống trong trường_hợp khẩn_cấp 
+17,họ có_thể tách ra khỏi nhóm và đảm_bảo tổng_thống an_toàn 
+18,việc đưa một người mới tập_sự như natalie_tyson tham_gia đoàn xe hộ_tống tổng_thống vẫn vấp phải nhiều sự phản_đối  dù cơ_quan mật_vụ mỹ cho rằng hoạt_động này là quy_chuẩn từ những năm 1980 
+19,emmett  tác_giả cuốn sách ‘ within_arm’s_length  a_secret_service_agent’s_definitive_inside_account_of_protecting the president ’  từng đảm_nhận vai_trò mật_vụ từ năm 1983  2004 
+20,“ nếu đoàn xe hộ_tống gặp hỏa_hoạn  đó sẽ là rắc_rối 
+21,có rất nhiều phương_tiện không thuộc lực_lượng hành_pháp sẽ gây nên tình_trạng rối như canh hẹ  
+22, mọi người đều sẽ phản_ứng  các nhân_viên cảnh_sát và mật_vụ  và tất_cả những người này chạy lòng_vòng hoảng_loạn y_như cảnh cuối trong phim ‘ blues_brothers_’  khi cảnh_sát truy_đuổi quy_mô lớn và kết_thúc với 50 xe nát_bươm ” – emmett nói 

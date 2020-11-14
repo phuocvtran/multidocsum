@@ -1,0 +1,3 @@
+idx, sentence
+0,ba ca_khúc gồm như hòn bi xanh  em là hoa_hồng nhỏ và vì có chúng_em nên đời_sống không già 
+1,trong đó  ngoài ca_khúc em là hoa_hồng nhỏ thì hai ca_khúc còn lại vốn ít ca_sĩ thu âm 

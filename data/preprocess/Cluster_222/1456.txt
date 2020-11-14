@@ -1,0 +1,9 @@
+idx, sentence
+0,ông thông cho trâu ra ngoài  rồi loan_báo cho mọi người biết để tìm cách đưa con trăn ra khỏi chuồng trâu 
+1,theo ghi_nhận tại hiện_trường  con “ trăn thần ” này có ô khoang màu đen  vàng  dài khoảng 4 m  nặng khoảng 70 kg 
+2,mặc_dầu người xem chật kín cả chuồng trâu  nhưng con trăn không hề sợ_hãi hay gây nguy_hiểm gì đối_với những người xung_quanh 
+3,nhận được tin báo  hạt kiểm_lâm huyện hương_sơn đã cử người đến hiện_trường để xem_xét vụ_việc và chỉ_đạo người dân thả “ trăn thần ” này về chỗ cũ là chùa nhiễu_long 
+4,theo người dân phản_ảnh  thì đây là con “ trăn thần ” rất thiêng  nên không ai giám đụng đến 
+5,được biết  cách đây 4 tháng  một người dân tại xã sơn_diệm bắt con trăn này tại một ruộng lúa  rồi đem bán cho một người ở thị_trấn phố_châu với giá 4 triệu đồng 
+6,sau đó người đàn_ông này mang trăn lên phóng_thích tại chùa nhiễu_long  thị_trấn phố_châu  
+7,bất_ngờ  con “ trăn thần ” lại xuất_hiện tại nhà anh nguyễn_xuân_thông  cách khu_vực chùa nhiễu_long khoảng 800 m 

@@ -1,0 +1,18 @@
+idx, sentence
+0,đốt vàng_mã ngay gần  cây_xăng theo tin từ công_an tp móng_cái  qua điều_tra ban_đầu  nguyên_nhân gây cháy xe bồn tại cây_xăng khu 5   phường ka_long  tp móng_cái  vào 18 h ngày 7/8  là do tàn lửa từ việc thắp hương  đốt vàng_mã của gia_đình ở ngay cạnh cây_xăng  phát_tán đúng lúc xe bồn đang bơm xăng xuống bể chứa 
+1,như đã đưa tin  khoảng 18 h ngày 7/8  chiếc xe bồn đang xuống hàng vào bể chứa tại cửa_hàng xăng dầu ka_long  bên cạnh bến_xe_khách ka_long  thuộc khu 5  phường ka_long  tp móng_cái thì bất_ngờ bốc cháy 
+2,đến 21 h20 cùng ngày  đám cháy mới được khống_chế 
+3,xe bồn chở xăng bị cháy hỏng hoàn_toàn  một phần cây_xăng cũng bị cháy 
+4,thông_tin từ công_an tp móng_cái cho biết  cửa_hàng xăng dầu trên thuộc sở_hữu của công_ty tnhh hải_tân  từ trưa ngày 7/8  cửa_hàng_không còn xăng bán cho khách 
+5,khoảng 17 h45 cùng ngày  xe bồn bks_29c  64337 do lái_xe nguyễn_văn_thành  sn 1994  trú thái_bình  điều_khiển  chở 22591 lít xăng a92 đến tiếp cho cửa_hàng 
+6,anh lê_văn_hải  nhân_viên giao_nhận hàng cây_xăng  cùng với hiếu  phụ xe bồn  tiến_hành bơm xăng xuống bể chứa 
+7,ngay trước khi bơm xăng  hiếu phát_hiện gia_đình trường  hằng sống cạnh đó đang làm lễ cúng trong nhà và trước đầu xe_khách  có thắp hương và bày vàng_mã nên hiếu đã nhắc hải về việc bơm xăng thiếu an_toàn  nhưng hải cho rằng bơm xăng xuống bể chứa không ảnh_hưởng gì 
+8,sau đó hiếu đã vặn van để xả xăng xuống bồn 
+9,khi vừa tiến_hành bơm xăng xuống bể chứa được ít phút thì có tiếng hô cháy 
+10,hiếu đang ở cuối xe điều_chỉnh van  nhìn thấy có lửa ở đầu vòi bơm xuống bể chứa nên đóng van lại rồi cùng hải dùng bình chữa_cháy dập lửa nhưng không được 
+11,sau đó hải đã gọi điện_báo cho cảnh_sát pccc 
+12,công_an tp móng cái đã triệu_tập những người có liên_quan  nhân_chứng lấy lời khai 
+13,qua khai_thác nhanh  anh_chị trường  hằng thừa_nhận việc thắp hương  đốt vàng_mã nhưng cho rằng sau khi đốt xong vàng_mã đã đổ nước vào đống tro nên không còn tàn lửa 
+14,theo lời khai của những người liên_quan  nhân_chứng và kết_quả kiểm_tra ban_đầu tại hiện_trường  có_thể nhận_định nguyên_nhân gây cháy là do tàn lửa từ việc thắp hương  đốt vàng_mã phát_tán đúng lúc xe bồn đang bơm xăng xuống bể chứa 
+15,thưởng 50 triệu đồng cho các chiến_sĩ “ cứu sống ” cây_xăng sáng 8/8  ông ngô_hoàng_ngân  bí_thư thành_ủy móng_cái và chủ_tịch ubnd tp móng_cái  quảng_ninh  đã tới thăm  động_viên và trao thưởng 50 triệu đồng cho cán_bộ chiến_sĩ phòng cảnh_sát pccc số 1 do đã nỗ_lực trong việc dập tắt vụ hỏa_hoạn tại cửa_hàng xăng dầu ka_long 
+16,theo đánh_giá của người dân trong khu_vực và lãnh_đạo thành_phố móng_cái  mặc_dù đám cháy lớn  nguy_hiểm do ngọn lửa xuất_phát từ xe bồn chứa rất nhiều xăng  lại cháy trên nền hầm hai bể chứa nhiên_liệu của cây_xăng  nhưng các cán_bộ chiến_sĩ pccc đã dũng_cảm chiến_đấu  phối hợp_đồng_bộ thống_nhất cao với các lực_lượng để xử_lý vụ_việc thành_công 

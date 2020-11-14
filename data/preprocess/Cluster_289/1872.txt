@@ -1,0 +1,10 @@
+idx, sentence
+0,ngày 3/6  công_an ptương bình_hiệp  tpthủ dầu một  tỉnh bình_dương cho biết  vừa bắt_giữ đối_tượng lê_trung_hiếu  27 tuổi  ngụ cùng ptương bình_hiệp  để điều_tra về hành_vi trộm_cắp tài_sản 
+1,theo thông_tin ban_đầu  vào_khoảng 9 h15 phút cùng ngày  chị nguyễn_thị_ngọc_m  40 tuổi  chủ tiệm vàng  điều_khiển chiếc xe ô_tô 4 chỗ mang biển số 93h6789 đến quán cà_phê trên đường nguyễn_chí_thanh  phường tương_bình_hiệp 
+2,khi xuống xe  chị m vào quán cà_phê quên không rút chìa_khóa 
+3,lúc này hiếu ở bên ngoài thấy vậy liền nảy_sinh ý_định trộm xe 
+4,nghĩ là làm  hiếu đã leo lên và lái_xe của chị m phóng đi được gần 1 km thì va_chạm với chiếc xe ba_gác khiến người đàn_ông bị_thương nhẹ 
+5,chiếc xe tiếp_tục lao vào quán cà_phê ven đường  đâm vào cột_điện  xe_máy và nhiều bàn_ghế trong quán mới dừng lại 
+6,tại hiện_trường  phần đầu chiếc xe ô_tô bị biến_dạng  xe_máy cũng bị hư_hỏng nặng 
+7,sau khi gây tai_nạn  hiếu bước xuống xe với biểu_hiện bị ngáo đá để đánh_lừa cơ_quan công_an 
+8,tuy_nhiên  khi chị m đến nhận_dạng chiếc ô_tô bị mất_trộm thì hiếu mới chịu thừa_nhận toàn_bộ_hành_vi phạm_tội của mình 

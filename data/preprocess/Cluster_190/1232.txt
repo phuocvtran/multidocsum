@@ -1,0 +1,7 @@
+idx, sentence
+0,vào khoảng 17 h30 ngày 31/5  tại đối_diện số nhà 184 phố xã_đàn  quận đống_đa  hà_nội  xảy ra vụ đâm xe liên_hoàn giữa xe ô_tô và 9 xe_máy  khiến các xe_máy bị hư_hỏng nặng  nhiều người bị_thương 
+1,theo một_số người dân gần hiện_trường  vào thời_điểm trên nghe thấy tiếng nổ lớn  tiếp sau đó chiếc xe fortuner_bks_30p  2153 đi từ hướng đại_cồ việt về xã_đàn  khi đi đến khu_vực đèn_xanh đèn_đỏ thì bất_ngờ đâm vào 9 chiếc xe cùng chiều 
+2, lúc đó vào đúng giờ cao_điểm nên nhiều phương_tiện qua đây  khi đi đến khu_vực gần đèn_xanh  đỏ tại ngã tư xã_đàn  phạm_ngọc_thạch chiếc ô_tô đâm vào một_số người dân chuẩn_bị dừng đèn_đỏ   anh nam làm nghề xe_ôm tại hiện_trường cho hay 
+3,ghi_nhận tại hiện_trường  chiếc xe fortuner trên nghi bị nổ lốp ở bánh sau bên phải 
+4,một xe_máy nằm gọn trong gầm xe  nhiều xe_máy khác bị đâm văng ra xa và hư_hỏng nặng 
+5,thông_tin ban_đầu  có khoảng 10 người bị_thương đã được người dân và csgt đội 3 đưa đi cấp_cứu tại bệnh_viện 

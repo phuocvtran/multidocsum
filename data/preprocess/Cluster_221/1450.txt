@@ -1,0 +1,9 @@
+idx, sentence
+0,tráng láo tú sống ở bản a_lá  xã lóng_sập  huyện mộc_châu  tỉnh sơn_la  đây là địa_bàn trọng_điểm về ma_túy của khu_vực tây_bắc cũng như cả nước 
+1,tú nói tiếng_phổ_thông rất tốt và đã có 1 tiền_án về tội trộm_cắp  từng phải đi cai_nghiện bắt_buộc 
+2,sau khi đi cai_nghiện về  tú cấu_kết với nhiều đối_tượng có tiền_án  tiền_sự về ma_túy tạo thành một đường_dây buôn_bán ma_túy khép_kín với phương_thức hoạt_động tinh_vi 
+3,đường_dây của tú vươn đến nhiều nơi và đã được công_an nhiều tỉnh lập hồ_sơ nghiệp_vụ tập_trung đấu_tranh triệt_phá 
+4,đến ngày 16  tú mang theo 2 bánh heroin đi xe_khách từ sơn_la xuống hải_phòng tìm đồng_bọn để giao hàng 
+5,sau khi xuống hải_phòng  tú di_chuyển bằng nhiều phương_tiện  xe_ôm  taxi  để đánh_lạc_hướng cơ_quan công_an 
+6,khi tú đi taxi đến đường đà_nẵng  phường cầu_tre  quận ngô_quyền  tphải_phòng  thì bị các lực_lượng chức_năng ập đến bắt_giữ 
+7,khám_xét trên người tú  phát_hiện 2 bánh heroin nặng tổng_cộng 698 gam 

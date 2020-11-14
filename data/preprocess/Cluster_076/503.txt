@@ -1,0 +1,4 @@
+idx, sentence
+0,ngày 19/5  cục quản_lý chất_lượng nông_lâm_sản và thủy_sản –_nafiqad  bộ_nnptnt  có công_văn khẩn  yêu_cầu tỉnh nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận và các trung_tâm vùng thuộc naifiqa tổ_chức lấy mẫu muối  kiểm_tra khẩn_cấp các chỉ_tiêu về an_toàn thực_phẩm 
+1,theo nafiqa  thời_gian qua xảy ra hiện_tượng cá chết bất_thường tại vùng_biển các tỉnh miền trung 
+2,để đảm_bảo an_toàn cho người tiêu_dùng  nafiqad đề_nghị các tỉnh nói trên lấy mẫu muối từ 3 cơ_sở_tại địa_phương  sản_xuất năm 2016  để kiểm_tra chỉ_tiêu kim_loại nặng_như_chì  asen  cadimi  thuỷ_ngân 

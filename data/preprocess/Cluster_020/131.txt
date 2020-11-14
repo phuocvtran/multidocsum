@@ -1,0 +1,8 @@
+idx, sentence
+0,ông nguyễn_toàn_thắng  giám_đốc sở tài_nguyên  môi_trường  cho biết như trên ngày 195 
+1,theo chi_cục quản_lý chất_lượng và bảo_vệ nguồn lợi thủy_sản  zeolite chứa sio2  al2o3 giúp hấp_thu khí độc  độc_tố nấm_mốc  xử_lý nước 
+2,ngoài_ra  các đơn_vị đã rải 100 kg oxygen hòa_tan nhằm tăng hàm_lượng oxy trong nước 
+3,theo kết_quả kiểm_tra chất_lượng nước mới nhất đoạn kênh từ cầu nguyễn_văn_trỗi về hướng quận 1 được cải_thiện  mùi_hôi giảm  hàm_lượng oxy hòa_tan tăng  hiện_tượng cá chết tạm dừng 
+4,tuy_nhiên  đoạn từ cầu số 1 đến cầu số 4 có hiện_tượng trào khí và bùn đen từ đáy lên liên_tục 
+5,một_số nơi chỉ_tiêu như nh3  nh4  amoniac  vẫn ở mức cao từ 110 mg / lít  do xác cá phân hủy  
+6,để giải_quyết tình_trạng cá chết hàng_loạt lặp lại những năm sau  chi_cục quản_lý chất_lượng và bảo_vệ nguồn lợi thủy_sản kiến_nghị ubnd tp triệu_tập cuộc họp với các sở_ban_ngành tìm giải_pháp 

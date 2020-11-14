@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 1/6  ông nguyễn_thanh_bình  chủ_tịch ubnd xã tam_thanh  thành_phố tam_kỳ  tỉnh quảng_nam  cho biết  địa_phương vừa xảy ra vụ giật điện khiến một em nhỏ chết thương_tâm 
+1,nạn_nhân được xác_định là em nguyễn_thành_công  11 tuổi  trú phường điện_trung  thị_xã điện_bàn  tỉnh quảng_nam  
+2,theo thông_tin ban_đầu  nhân kỳ nghỉ_hè  em công được ba_mẹ dẫn về quê ngoại chơi 
+3,khoảng 18 h ngày 31/5  trong lúc em công đạp xe_đạp đi dạo_chơi quanh khu công_viên biển tam_thanh  thôn hạ_thanh 1  xã tam_thanh  thì bất_ngờ bị vướng dây_điện trước nhà_hàng ba_cơ và bị điện giật tử_vong tại_chỗ 
+4,nhận được tin báo  chính_quyền địa_phương đã nhanh_chóng có_mặt để tiếp_nhận hiện_trường 
+5,theo quan_sát của pv_vtc_news  khoảng_cách từ trụ điện đến nhà_hàng ba_cơ khá xa nhưng chủ nhà_hàng chỉ dùng một cây trụ để nâng dây_điện nên đường_dây bị sà xuống sát đất 
+6,được biết  nhà_hàng ba_cơ nằm trong diện giải_tỏa để thực_hiện dự_án 
+7,hiện_nay  nhà_hàng này không hoạt_động nhưng hằng ngày vẫn thắp điện để phục_vụ các nhân_viên trông giữ tài_sản trong nhà_hàng 

@@ -1,0 +1,10 @@
+idx, sentence
+0,theo hãng tin sky_news  vụ cháy tại kho đạn_dược tại tỉnh wardha  miền trung ấn_độ  đã khiến hàng ngàn người phải sơ_tán 
+1,các đơn_vị phản_ứng khẩn_cấp đã được điều_động đến khu_vực 
+2,hãng thông_tấn_xã the_press_trust cho biết trong số 17 quân_nhân thiệt_mạng có hai sĩ_quan quan chỉ_huy 
+3,được biết kho đạn dược bị cháy là một trong những kho đạn_dược lớn nhất ấn_độ 
+4,đám cháy bùng lên sau một vụ nổ được ghi_nhận xảy ra vào rạng sáng 315  giờ_địa_phương  
+5,cảnh_sát tỉnh wardha cho biết “ ít_nhất 17 người thiệt_mạng 
+6,19 người bị_thương nhưng đã được đưa ra khỏi khu_vực nguy_hiểm 
+7,chiến_dịch ứng_phó đang được tiến_hành 
+8,đám cháy hiện đã nằm trong khả_năng kiểm_soát ”  hãng tin afp cho biết 

@@ -1,0 +1,9 @@
+idx, sentence
+0,theo cnn  đây là khoản đầu_tư bằng tiền_mặt lớn nhất từ một nhà_đầu_tư riêng_lẻ cho uber từ trước tới nay 
+1,số vốn mới đã giúp nâng giá_trị uber lên 625 tỷ usd 
+2,đồng_thời  uber cũng bổ_sung thêm một thành_viên vào ban quản_trị  giám_đốc quỹ đầu_tư công saudi_arabia_yasir_al_rumayyan 
+3,hiện uber vẫn là startup giá_trị nhất thế_giới hiện_nay 
+4,saudi_arabia là thị_trường đang tăng_trưởng rất nhanh của uber 
+5,80  người dùng uber tại đây là phụ_nữ  do họ bị cấm lái_xe ở vương_quốc này 
+6,ông al_rumayyan cho biết đã chứng_kiến uber thay_đổi việc đi_lại trong các đô_thị và mong_muốn trở_thành một phần của tiến_trình đó 
+7,ceo uber_travisk_kalanick gọi khoản đầu_tư là “ lá phiếu tín_nhiệm ” và sẽ hợp_tác cải_cách kinh_tế  xã_hội saudi_arabia 

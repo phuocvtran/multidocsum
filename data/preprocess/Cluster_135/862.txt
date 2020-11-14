@@ -1,0 +1,12 @@
+idx, sentence
+0,hai lượt trận tại vòng 1/8 europa_league giữa manchester_united và liverpool đã diễn ra vô_cùng căng_thẳng cả trên sân_cỏ cũng như trên khán_đài 
+1,ở lượt đi tại sân anfield ngày 11/3  các cđv_mu đã có nhiều hành_động xúc_phạm đến các nạn_nhân của thảm_họa hillsborough trong đó bao_gồm hát những bài_ca chế_giễu 
+2,không bỏ qua chuyện này  khi hành_quân tới old_trafford sau đó một tuần  cđv_liverpool đã đáp trả với nhiều câu nói  nhiều biểu_ngữ động_chạm đến đám đông chủ nhà 
+3,tất_cả đã dẫn đến việc vào cuối trận đấu mu vs liverpool  người hâm_mộ hai đội đã lao vào xô_xát ở một góc khán_đài sân old_trafford 
+4,ngoài tay_chân  họ còn dỡ cả ghế ngồi trên sân để tấn_công những người bên kia chiến_tuyến 
+5,thật may khi các nhân_viên an_ninh có_mặt đã giải_quyết ổn_thỏa tình_hình và không có hậu_quả đáng tiếc xảy ra 
+6,nhưng điều đó không_thể giúp mu và liverpool tránh khỏi án phạt từ liên_đoàn bóng_đá_châu_âu uefa 
+7,liverpool bị phạt 30553 bảng cho hành_vi xúc_phạm đối_phương  thêm 13000 bảng cho các việc đốt pháo sáng  tấn_công người khác và làm rối_loạn đám đông của các cđv 
+8,tương_tự  mu bị phạt 30553 bảng cho hành_vi xúc_phạm đối_phương kèm theo 13750 bảng vì chặn cầu_thang  gây rối_loạn đám đông và tấn_công người khác 
+9,riêng liverpool cũng được lệnh của uefa phải liên_hệ với mu trong vòng 30 ngày để đạt được thỏa_thuận về số tiền cụ_thể giải_quyết những thiệt_hại mà sân old_trafford phải nhận từ người hâm_mộ của họ 
+10,tất_cả những phán_quyết này được đưa ra bởi ủy_ban kỷ_luật của cơ_quan_quyền_lực nhất bóng_đá_châu_âu 

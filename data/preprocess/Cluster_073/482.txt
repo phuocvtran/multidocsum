@@ -1,0 +1,4 @@
+idx, sentence
+0,theo kết_quả điều_tra ban_đầu  thông_qua mối quan_hệ xã_hội  phong nắm_bắt được thông_tin chị cth  trú tại huyện hoài_đức  hà_nội có con_cháu trong nhà muốn vào học tại trường_trung_cấp csnd_vi  ở hưng_yên  
+1,từ đó  phong rêu_rao có nhiều mối quan_hệ có khả_năng “ chạy ” được cho người_nhà của chị h vào trường_trung_cấp csnd_vi với mức giá 400 triệu đồng 
+2,vì có quen_biết từ trước  nên chị h đã tin_tưởng đưa tiền và hồ_sơ cho phong để đối_tượng này “ lo giúp ” 

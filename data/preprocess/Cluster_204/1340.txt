@@ -1,0 +1,9 @@
+idx, sentence
+0,theo thông_tin ban_đầu  khoảng 6 h30 ngày 1/6  xe ô_tô 4 chỗ bks  51f – 37389 lưu_thông trên đường bạch_đằng  quận tân_bình  tp hcm   hướng từ quận gò_vấp về sân_bay tân_sơn_nhất với tốc_độ cao 
+1,khi qua vòng xoay ngã 5 gò_vấp khoảng 300 mét  phương_tiện này bất_ngờ lao sang phần đường ngược chiều  tông vào hông của xe taxi hãng vinasun 
+2,cú đâm mạnh khiến xe taxi xoay ngang giữa đường 
+3,cùng lúc này  xe taxi hãng đầm_sen từ phía sau không xử_lý kịp tình_huống đã tông vào xe vinasun 
+4,tại hiện_trường  xe ô_tô 4 chỗ bị nát đầu  bể bánh trước bên trái  còn xe taxi vinasun gãy rời bánh sau  rất may không có thương_vong về người 
+5,tuy_nhiên  vụ tai_nạn liên_hoàn khiến nhiều hành_khách trên 2 xe taxi hoảng_loạn 
+6, lúc đó tôi chở 4 khách  thấy xe 4 chỗ lao đến tôi đã cố bẻ_lái nên chỉ bị đâm vào hông xe  nếu tông trực_diện thì không biết hậu_quả thế_nào 
+7,may_mắn là hành_khách và một người nước_ngoài trên xe 4 chỗ đều không thương_tích gì  nhưng mọi người được một_phen hoảng_hốt   tài_xế xe vinasun kể lại 

@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 2/6  công_an tp biên_hòa  đồng_nai  cho biết đơn_vị này đang xác_minh  điều_tra làm rõ vụ nhóm thanh_niên vác dao và mã_tấu đồng_thời ném bom xăng làm_loạn cả khu_phố 
+1,tin_tức mới nhất  vào khoảng 23 h khuya ngày 1/6  khi mọi người đang ngồi chơi trước nhà hẻm nhà tại khu_phố 2  phường tam_hòa  tp biên_hòa thì bất_ngờ một nhóm thanh_thiếu_niên gồm hàng chục người chạy xe_máy tay cầm dao và mã_tấu 
+2,nhóm này vừa đi vừa reo_hò quậy_phá 
+3,thấy nhóm thanh_thiếu_niên đang ngồi trước nhà  nhóm kia dừng lại tiếp_tục làm_loạn nên nhóm trong hẻm và người_dân tháo_chạy 
+4,kế đó nhóm thanh_niên lạ dùng hung_khí đập_vỡ kính_cửa chính của nhà bà h  nhà trong hẻm  rồi vung mã_tấu  dao kiếm và ném 3 quả bom xăng vào 3 đầu hẻm rồi kéo nhau hò_hét lao đi 
+5,theo người dân tại khu_phố  sự_việc xảy ra trong vòng hơn 5 phút 
+6,bom xăng ném ra khiến lửa bùng_cháy  náo_loạn cả khu_vực 
+7,hiện_tại các hộ dân khu_phố vẫn chưa hết vẻ hoảng_hốt 

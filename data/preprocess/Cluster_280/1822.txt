@@ -1,0 +1,26 @@
+idx, sentence
+0,nhiều nghi_ngại về vấn_đề bảo_tồn ubnd tphcm vừa giao ubnd q 1 chủ_trì phối_hợp với các sở  ngành liên_quan nghiên_cứu đề_nghị lập báo_cáo đầu_tư dự_án khu công_viên cảng bạch_đằng của công_ty cổ_phần tập_đoàn đầu_tư vạn_thịnh_phát 
+1,công_ty trên đề_xuất tự bỏ kinh_phí nghiên_cứu lập báo_cáo đề_xuất đầu_tư khu công_viên cảng bạch_đằng thành_công_viên  trung_tâm thương_mại ngầm  bãi đậu xe ngầm  tầng_hầm kỹ_thuật và hệ_thống giao_thông kết_nối ngoại_vi  bến tàu  bến du_lịch … trước thông_tin trên  trao_đổi với đất_việt  ngày 2/6  khi nói về những yếu_tố cần phải tính tới khi xây_dựng trung_tâm thương_mại  tttm  ngầm  bến đậu xe ngầm tại cảng bạch_đằng  kts trịnh_duy_anh  trưởng khoa kiến_trúc  trường đại_học kiến_trúc tphcm cho biết   yêu_cầu kỹ_thuật là yếu_tố quan_trọng hàng_đầu khi lên kế_hoạch  xây_dựng các khu tttm_ngầm như vậy 
+2,chắc_chắn  các nhà_đầu_tư cũng tính đến việc bảo_tồn toàn_bộ những công_trình còn hiện_diện trên mặt_đất  nên mới chủ_trương xây_dựng hệ_thống ngầm  hoàn_nguyên giá_trị các tài_sản trên mặt_đất 
+3,về mặt bảo_tồn  có_thể đáp_ứng được vì không làm tổn_hại hình_ảnh của thành_phố 
+4,tuy_nhiên  để làm được điều đó  vấn_đề kỹ_thuật cực_kỳ quan_trọng vì khu_vực bến bạch_đằng là khu nước nổi  trước_đây là đường nguyễn_huệ  là các rải đất ăn sâu vào trong  lấp dần đi 
+5,bản_thân bến bạch_đằng cũng là đất bồi_đắp nhiều  nên cấu_trúc địa_chất mang tính nhân_tạo nhiều hơn là tự_nhiên 
+6,cho_nên  nếu dự_án mà triển_khai làm ngầm thì bài_toán xây_dựng ra_sao 
+7,khi nền đất yếu như vậy rất khó có_thể làm được  
+8,bên_cạnh đó  theo ông_anh  dự_án trên mới chỉ là đề_xuất  là dự_kiến  tuy_nhiên  từ dự_kiến ra hiện_thực thì phải xem_xét  giải_pháp về mặt kỹ_thuật 
+9, về ý_kiến bản_thân tôi  tôi thấy nếu làm những gì không tổn_hại đến giá_trị cần bảo_tồn trên mặt_đất là tốt  kết_nối được những khu như cảng nhà rồng  ba_son  trở_thành khu_vực đông dân_cư  khu_vực thương_mại  với đường xe_điện_ngầm 
+10,đó là xu_hướng chung của nhiều thành_phố lớn trên thế_giới 
+11,nhưng đây là vấn_đề khá lớn  không phải đơn_giản  bởi_vì về khoa_học kỹ_thuật cũng khá phức_tạp  kể_cả như tuyến đường ngầm đại_lộ đông_tây xuyên từ bên quận 1 sang quận 2 làm khá tốt  nhưng giá_thành cao 
+12,hơn_nữa  phải xem_xét  giải_trình về mặt kỹ_thuật thuyết_phục được  mới được phê_duyệt 
+13,còn nhiều khi nói không ảnh_hưởng công_trình trên mặt_đất  nhưng thực_sự có làm được điều đó hay không  tôi rất nghi_ngờ 
+14,vì như khu đường hàm_nghi  dọc đường bạch_đằng cũng có nhiều công_trình kiến_trúc mang giá_trị lịch_sử  như đầu đường đồng_khởi có khách_sạn majestic sài_gòn  công_trình của tổng_cục hải_quan thành_phố 
+15,đây hoàn_toàn là những công_trình rất đẳng_cấp về giá_trị bảo_tồn  không biết khi làm như vậy mức_độ kỹ_thuật đảm_bảo có gìn_giữ được hay không  vì bảo_tồn công_trình phải có giới_hạn của nó 
+16,chả_hạn không phải chỉ là bảo_tồn phía trên  mà_còn bảo_tồn phần_móng không bị xâm_hại  để có_thể bị ảnh_hưởng lún  hư_hại  ảnh_hưởng công_trình thi_công 
+17,đó là cái tôi nghi_ngại lớn nhất   ông_anh chỉ rõ 
+18,sức_mạnh của đồng_tiền nhìn_nhận vấn_đề ở góc_độ bao_quát hơn  theo ông_anh  trong thời_gian vừa_qua  tphcm đã liên_tiếp phê_duyệt các đồ_án quy_hoạch tại các khu đất vàng  khiến ông rất lo_ngại 
+19,điển_hình_như cho xây_dựng khu trung_tâm phức_hợp sài_gòn  ba_son  phường bến_nghé  quận 1  cao 60 tầng 
+20,bên_cạnh đó  cho công_ty cổ_phần xây_dựng bắc_nam 79 thuê khu đất rộng hơn 1200 m2 trong khuôn_viên thư_viện khoa_học tổng_hợp thành_phố 
+21,giờ tiếp_tục xem_xét đề_xuất xây_dựng khu tttm  bến đỗ xe ngầm 
+22,ông_anh nhận_định   đây là cách đầu_tư chỉ nhìn thấy trước_mắt  không nhìn thấy mục_tiêu lâu_dài 
+23,bởi các khu xây_dựng này tập_trung hàng chục nghìn căn_hộ  như khu đô_thị ở ba_son  khi xây_dựng lên  lượng dân_cư tăng sẽ tạo áp_lực lên giao_thông vô_cùng lớn 
+24,các nhà_đầu_tư muốn thực_sự xây_dựng đất_nước  muốn thành_phố phát_triển  còn rất nhiều đất_đai  họ hoàn_toàn có khả_năng làm một phú_mỹ_hưng mới  tất_nhiên họ chỉ nhìn thấy cái lợi trước_mắt  nhằm vào đất vàng thì tiêu_thụ được ngay_lập_tức 

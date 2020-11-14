@@ -1,0 +1,7 @@
+idx, sentence
+0,reuters đưa tin  bà thái anh_văn  59 tuổi  chủ_tịch đảng_dân tiến  dpp  lên cầm_quyền sau chiến_thắng áp_đảo trong cuộc bầu_cử lãnh_đạo đài_loan diễn ra vào tháng 1/2016 đánh_bại đối_thủ chu_lập_luân của quốc_dân đảng đồng_thời kết_thúc 8 năm cầm_quyền của tổng_thống mã_anh cửu 
+1,báo_giới đánh_giá  bà có_vẻ bề_ngoài khá mềm_yếu nhưng lại là một nữ chính_trị_gia quyết_đoán và có hiểu_biết sâu_rộng 
+2,đảng dân tiến  dpp  có xu_hướng ủng_hộ đài_loan độc_lập với trung_quốc và chiến_thắng của bà thái anh_văn đã khiến quan_hệ giữa bắc_kinh và đài_loan bị nguội lạnh đi 
+3,sự_kiện bà thái anh_văn nhậm_chức đã thu_hút sự quan_tâm từ nhiều nước đặc_biệt là trung_quốc 
+4,chỉ 2 ngày trước khi bà thái anh_văn tuyên_thệ  quân_đội trung_quốc đã tiến_hành các cuộc tập_trận dọc bờ biển phía đông nhìn về đài_loan 
+5,mặc_dù có quan_điểm cứng_rắn với trung_quốc_đại_lục nhưng bà thái vẫn sẽ duy_trì hiện_trạng hòa_bình trong quan_hệ với trung_quốc trên cơ_sở bắc_kinh phải tôn_trọng nền dân_chủ của đài_loan 

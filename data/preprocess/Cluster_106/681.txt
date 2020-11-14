@@ -1,0 +1,7 @@
+idx, sentence
+0, ngọn lửa đã bùng lên vào_khoảng 11 h tối_ngày 22/5  giờ_địa_phương   17 bé gái đã thiệt_mạng và 2 em nhỏ khác vẫn đang mất_tích   đại_tá cảnh_sát prayad_singsin  chỉ_huy đồn cảnh_sát vingpatao  tỉnh chiang_rai nói với guardian 
+1,2 trong số 5 học_sinh bị_thương đang trong tình_trạng nguy_kịch  ông singsincho biết thêm 
+2,ngôi trường  do một tổ_chức địa_phương điều_hành chứ không thuộc quản_lý của nhà_nước  là nơi học_tập của các bé gái từ 313 tuổi 
+3, có 38 em học_sinh trong ký_túc_xá khi hỏa_hoạn xảy ra 
+4,một_số em chưa ngủ nên đã chạy_thoát   phó thống_đốc tỉnh chiang_rai  arkom_sukapan nói 
+5,theo đại_tá cảnh_sát prayad_singsin  ngọn lửa đã được dập_tắt nhưng nguyên_nhân vụ hỏa_hoạn vẫn đang được điều_tra 

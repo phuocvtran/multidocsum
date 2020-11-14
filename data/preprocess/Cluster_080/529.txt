@@ -1,0 +1,18 @@
+idx, sentence
+0,triều tiên_đề_nghị hàn_quốc đối_thoại quân_sự hãng thông_tấn trung_ương triều_tiên  kcna  ngày 20/5 trích_dẫn một bức thư_ngỏ của ủy_ban quốc_phòng nước này  ndc  cho biết bình nhưỡng đã hối_thúc seoul ngay_lập_tức chấp_nhận đề_nghị của nước này về việc tổ_chức đối_thoại quốc_phòng giữa hai miền triều_tiên 
+1,“ hàn_quốc cần đáp lại đề_nghị của chúng_tôi về các cuộc đàm_phán một_cách không được chậm_trễ nhằm chấm_dứt tình_trạng thù_địch và đối_đầu cũng như khôi_phục lòng tin giữa hai miền triều_tiên ”  bức thư khẳng_định 
+2,theo đó  triều tiên_đề_nghị tổ_chức một cuộc tiếp_xúc cấp chuyên_viên với hàn_quốc trong khoảng thời_gian từ cuối tháng 5 đến đầu tháng 6 tới để chuẩn_bị tiến_hành các cuộc đàm_phán quân_sự nhằm giảm tình_trạng căng_thẳng trên bán_đảo triều_tiên 
+3,bên_cạnh đó  bình nhưỡng cũng kêu_gọi hàn_quốc tham_gia các hoạt_động do triều_tiên khởi_xướng nhằm thực_hiện các biện_pháp “ mạnh_dạn và thiết_thực ” hướng tới mục_tiêu đoàn_kết dân_tộc 
+4,trước đó  trong bài phát_biểu tại đại_hội lần thứ 7 của đảng lao_động triều_tiên hôm 8/5  ông kim_yongun đã đề_nghị tổ_chức “ đối_thoại  đàm_phán ” giữa quân_đội triều_tiên và hàn_quốc vì hòa_bình và thống_nhất trên bán_đảo triều_tiên 
+5,theo nhà lãnh_đạo kim  mục_tiêu của đề_xuất này là nhằm giảm tình_trạng căng_thẳng quân_sự giữa hai bên 
+6,hàn_quốc kiên_quyết cự_tuyệt đáp lại lời đề_nghị đối_thoại của triều_tiên về vấn_đề quân_sự  ngày 21/5  bộ_quốc_phòng hàn_quốc đã lên_tiếng bác_bỏ đồng_thời đề_nghị bình nhưỡng cần có các hành_động chân_thành nhằm phi_hạt_nhân hóa trước khi tiến_hành bất_kỳ cuộc đàm_phán liên_triều nào 
+7,“ hàn_quốc duy_trì lập_trường không thay_đổi rằng phi_hạt_nhân hóa là ưu_tiên hàng_đầu trong các cuộc đối_thoại với triều_tiên ” bộ quốc_phòng hàn_quốc nhấn_mạnh 
+8,đây không phải là đầu_tiên hàn_quốc từ_chối lời đề_nghị tổ_chức cuộc gặp_mặt đối_thoại của triều_tiên 
+9,trước đó  hôm 8/5  hãng tin yonhap của hàn_quốc dẫn tuyên_bố của bộ thống_nhất nước này khẳng_định seoul từ_chối đề_xuất đối_thoại mà nhà lãnh_đạo triều_tiên kim_jong_un đưa ra tại phiên họp đang diễn ra của đại_hội đảng lần thứ 7 đảng lao_động triều_tiên vì cho rằng đề_xuất này vì thiếu sự chân_thành và đây chỉ là một mưu_đồ tuyên_truyền của triều_tiên 
+10,“ đề_xuất của miền bắc chỉ là một chiến_dịch tuyên_truyền mà không có sự chân_thành khi  triều_tiên  đề_cập đến đối_thoại liên_triều trong khi vẫn tiếp_tục phát_triển vũ_khí hạt_nhân ”  tuyên_bố nêu rõ 
+11,tuyên_bố trên cũng chỉ ra rằng triều_tiên đã không ngừng các hành_động khiêu_khích nhằm vào hàn_quốc  đồng_thời kêu_gọi bình nhưỡng lựa_chọn con đường hướng tới phi hạt_nhân hóa nếu muốn mang lại hòa_bình và tái_lập quan_hệ hữu_nghị trên bán_đảo triều_tiên 
+12,liên_quan đến điều này  tuyên_bố của bộ thống_nhất hàn_quốc cũng chỉ rõ  “ hàn_quốc và cộng_đồng quốc_tế có chung quan_điểm cho rằng triều_tiên không nên được công_nhận là quốc_gia sở_hữu hạt_nhân ” 
+13,trong quá_khứ  hàn_quốc đã từng nhiều lần đề_cập tới việc nối lại các vòng đối_thoại hòa_bình với triều_tiên nhằm hướng tới mục_tiêu hòa_giải quan_hệ liên_triều_– vốn được xem là một ưu_tiên trong nhiệm_kỳ của tổng_thống hàn_quốc park_geunhye 
+14,đây cũng không phải là lần đầu_tiên triều_tiên tỏ ý mong_muốn tiến_hành đối_thoại với hàn_quốc 
+15,tuy_nhiên  những gì đã diễn ra trong thời_gian qua cho thấy  điểm gặp_gỡ duy_nhất giữa triều_tiên và hàn_quốc mới chỉ dừng lại ở việc đưa ra mục_tiêu về tái_hòa_giải quan_hệ liên_triều chứ chưa thực_sự tìm được một lối đi chung 
+16,trong khi triều_tiên tỏ ý nối lại các vòng đàm_phán một_cách vô điều_kiện thì hàn_quốc lại nêu điều_kiện yêu_cầu triều_tiên từ_bỏ các hoạt_động phát_triển hạt_nhân đang theo_đuổi 

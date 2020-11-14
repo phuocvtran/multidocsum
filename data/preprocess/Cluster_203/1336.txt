@@ -1,0 +1,18 @@
+idx, sentence
+0,đề thi lạ này đã nhanh_chóng được cư_dân mạng truyền tay nhau 
+1,sở dĩ đề thi trở_thành đề_tài_bàn_tán ở chỗ ngành luật vốn được xem là một lĩnh_vực luôn đòi_hỏi sự nghiêm_túc  cứng_rắn  thậm_chí có phần hơi  khô_khan  khi nghiên_cứu về các điều_luật  bộ_luật 
+2,tuy_nhiên  ở đề thi này  phần tình_huống được nêu ra lại là bài thơ kể một câu_chuyện cười về  vụ_án cai_sữa chết người  
+3,đề thi đưa ra một tình_huống bằng thơ khá hài_hước và dí_dỏm  có 3 câu hỏi được đưa ra để sinh_viên giải_quyết sau khi đọc bài thơ này 
+4,theo một_số sinh_viên trường đại_học luật_hà_nội xác_nhận  đề thi được đưa ra vào ngày 30/5 
+5,đây là đề thi hết học_phần  môn kỹ_năng chung về tư_vấn pháp_luật dành cho các sinh_viên đang theo học văn_bằng hai của trung_tâm tư_vấn pháp_luật 
+6, đây là lần đầu_tiên mình gặp phải một đề thi luật  bá_đạo  và dễ_thương như thế này từ trước đến nay 
+7,thầy mình bảo sợ các em học luật khô_khan nên phải ra đề bằng thơ cho mềm_mại 
+8,đề này do các thầy ở trung_tâm tư_vấn pháp_luật ra  lúc học thì tụi mình cũng được thầy_cô dạy như bình_thường thôi  đến bây_giờ thi mới ra đề khác lạ như vậy 
+9,mình cảm_thấy khá thú_vị bởi đề thi rất hay  sáng_tạo chứ không khô_khan như những dạng bài tình_huống thông_thường trước đây của đại_học luật  
+10,một sinh_viên tham_gia đề thi chia_sẻ 
+11,thành_viên facebooker_duy_tuấn thậm_chí còn ngẫu_hứng làm bài thơ bình về đề thi  bá_đạo  này   cái đề thi thật lạ vì được làm bằng thơ kết_cục thật bất_ngờ thương cho anh hàng_xóm chắc anh này bị móm răng rụng hết từ lâu chẳng nhai được cơm đâu nên bú nhờ đôi_chút như mọi khi  vừa mút anh đã ngã lăn quay miệng lắp_bắp câu này  lần sau  em  nhớ tắm   
+12,đề thi  lạ  này đã khiến các sinh_viên tham_gia thi hết học_phần môn kĩ_năng chung về tư_vấn pháp_luật đều vô_cùng bất_ngờ 
+13,bạn bình nguyễn_chia_sẻ   khi giám_thị phát đề xong  cả lớp đều lặng đi mấy phút vì quá bất_ngờ và bị  tủ đè  vì không ngờ đề sẽ ra dạng này  mọi thứ không có trong tài_liệu giảng_dạy đã được học từ trước đến nay mà chúng_mình phải tự suy_luận 
+14,sau mấy phút ban_đầu đó thì tất_cả lại nhao_nhao lên vì đề thi_bá_đạo và hài_hước này 
+15,có bạn_đọc đề khoái quá cười sằng_sặc  cả lớp cứ đọc đi đọc lại vì thấy thú_vị quá 
+16,thầy giám_thị cũng có hỏi cả lớp xem có thắc_mắc thì không  nhưng lúc đó đọc đề xong tụi mình thấy hơi khó hiểu nên không ai hỏi thêm gì hết và cả phòng ổn_định trật_tự để bắt_đầu làm bài  

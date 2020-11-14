@@ -1,0 +1,3 @@
+idx, sentence
+0,tại cuộc họp_báo ngày 30/5 tại hà_nội  đại_sứ italia_cecllia_piccioni cho biết  “ chúng_tôi sẽ đưa quý vị khách quý đến tham_dự lễ kỷ_niệm quốc_khánh vào một hành_trình khám_phá những nét đặc_trưng văn_hóa  nghệ_thuật  thời_trang  âm_nhạc  ẩm_thực theo phong_cách ý 
+1,việc biến góc_phố lê_phụng_hiểu trở_thành góc_phố ý đã giúp giấc mơ của tôi trở_thành hiện_thực ” 

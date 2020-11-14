@@ -1,0 +1,12 @@
+idx, sentence
+0,theo đó  nguồn ngân_sách nhà_nước hỗ_trợ căn_cứ trên số_lượng thí_sinh đăng_ký dự thi tại các cụm thi tổ_chức cho thí_sinh dự thi để xét công_nhận tốt_nghiệp thpt và xét tuyển vào các trường đhcđ ở cụm thi đại_học 
+1,mức hỗ_trợ là  25000 đồng / môn thi  với bình_quân 5 môn thi là 125000 đồng / thí_sinh 
+2,ngoài_ra  ngân_sách trung_ương hỗ_trợ tiền công_tác_phí cho các cán_bộ  giảng_viên  học_viên về các tỉnh để tổ_chức thi tại các cụm thi đại_học theo điều_động của bộ gdđt_nguồn thu từ phí dự thi  dự_tuyển 35000 đồng / môn  sau khi trích lại cho bộ_gdđt và các sở giáo_dục và đào_tạo theo quy_định được chuyển về các cụm thi đại_học để tổ_chức kỳ thi 
+3,nguồn ngân_sách địa_phương chi_trả cho các học_sinh dự thi chỉ để xét công_nhận tốt_nghiệp thpt năm 2016  nhưng tham_gia dự thi tại cụm thi đại_học 
+4,mức kinh_phí ngân_sách địa_phương chi_trả 60000 đồng / môn thi / thí_sinh 
+5,bộ cũng nêu rõ  năm 2016  không thu lệ_phí phúc_khảo đối_với các thí_sinh dự thi kỳ thi thpt quốc_gia 
+6,hỗ_trợ nhu_yếu_phẩm cho người dân một_số địa_phương trước những khó_khăn của một_số địa_phương  thủ_tướng chính_phủ đã yêu_cầu các bộ ngành liên_quan nhanh_chóng hỗ_trợ các nhu_yếu_phẩm cần_thiết để ổn_định cuộc_sống cho bà_con nơi đây 
+7,cụ_thể  thủ_tướng chính_phủ chỉ_đạo bộ tài_chính xuất cấp  không thu tiền  2904 tấn gạo từ nguồn dự_trữ quốc_gia cho tỉnh hà_giang để hỗ_trợ cứu_đói cho nhân_dân trong thời_gian giáp_hạt năm 2016 
+8,thủ_tướng chính_phủ giao ubnd tỉnh hà_giang tiếp_nhận và sử_dụng số gạo được cấp nêu trên để hỗ_trợ kịp_thời  đúng đối_tượng theo quy_định 
+9,trường_hợp sau khi thực_hiện vẫn còn khó_khăn  địa_phương báo_cáo bộ lao_động  thương_binh_và_xã_hội  bộ_tài_chính để trình thủ_tướng chính_phủ xem_xét  tiếp_tục hỗ_trợ 
+10,thủ_tướng chính_phủ cũng đã giao bộ nông_nghiệp_và_phát_triển_nông_thôn xuất cấp  không thu tiền  từ nguồn dự_trữ quốc_gia 5000 lít hóa_chất sát_trùng haniodine và 5000 lít hóa_chất sát_trùng vetvacoiodine cho tỉnh quảng_trị để phòng  chống dịch_bệnh tai xanh và 35 tấn_hóa_chất chlorine 65  min cho tỉnh bến_tre để phòng_chống dịch_bệnh thủy_sản 

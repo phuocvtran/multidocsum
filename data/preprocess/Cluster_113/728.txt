@@ -1,0 +1,3 @@
+idx, sentence
+0,bị_cáo trần_cạnh_lạc  nguyên tổng_giám_đốc cty mía đường tây_ninh bị tuyên_phạt 10 năm tù  bị_cáo nguyễn_xuân_danh  nguyên trưởng_phòng kinh_doanh  9 năm tù_và nguyễn_thị_phúc  nguyên kế_toán_trưởng  5 năm tù cùng tội “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
+1,tòa cũng tuyên buộc 3 bị_cáo lạc  danh và phúc liên_đới chịu trách_nhiệm bồi_thường 25 tỉ đồng  riêng bị_cáo phúc chịu trách_nhiệm 5 tỉ đồng  trong 2 hợp_đồng 

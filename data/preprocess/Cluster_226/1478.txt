@@ -1,0 +1,14 @@
+idx, sentence
+0,thông_qua hãng đại_diện của mình  trần_quán_hy  35 tuổi  tuyên_bố  “ tôi đang rất hạnh_phúc 
+1,cảm_ơn vì sự quan_tâm của các bạn ” 
+2,chưa hết  người_ta còn chớp được hình_ảnh tần thư bồi rời khỏi một khách_sạn ở hong_kong cùng trần_quán_hy hôm 31/5 
+3,tần bối_thư là một siêu mẫu trung_quốc 
+4,cô kết_hôn với triệu_lỗi  tổng_giám_đốc tập_đoàn thời_trang hoa_nghị huynh_đệ  hồi năm 2012 
+5,trước đó hồi năm_ngoái  nhiều tờ báo còn đăng_tải những bức ảnh tần thư bồi ngồi trong lòng trần_quán_hy 
+6,hình_ảnh video còn cho thấy  khi paparazzi tới gần cặp_đôi này  trần_quán_hy đã tỏ ra bực_tức và nhiều bức ảnh cho thấy anh còn chỉ tay vào các paparazzi và thậm_chí còn đấm tay vào camera sau khi chủ_nhân của nó hỏi tần thư bồi phải_chăng cô vẫn còn là một phụ_nữ đã có chồng 
+7,sau khi các bức ảnh trần_quán_hy và tần thư bối hôn nhau bị đăng_tải trên nhiều tờ báo  triệu lỗi viết trên trang mạng cá_nhân của mình rằng anh đã trải qua một thời_kỳ đầy khó_khăn khi phải đối_diện với những thắc_mắc  nghi_ngờ của các phương_tiện_thông_tin_đại_chúng và những người xung_quanh anh 
+8,song khi các bức ảnh trần_quán_hy và tần_bối_thư xuất_hiện  anh tự_nhủ với bản_thân  “ tại_sao tôi phải giữ im_lặng ” và nghĩ không cần phải tôn_trọng những người không đáng được như_vậy 
+9,triệu lỗi kết_thúc phần viết của mình bằng câu hỏi  “ liệu tôi có cần phải gửi lời chúc_phúc trước khi tiến_hành các thủ_tục ly_hôn  ” 
+10,hôm 31/5  tần thư bồi đã “ phản_pháo ” những cáo_buộc của chồng trên trang_weibo cá_nhân  tuyên_bố rằng cô đã ký vào các giấy_tờ tiến_hành ly_hôn do luật_sư của triệu_lỗi đưa ra 
+11,“ tôi không hiểu tại_sao anh lại gây tổn_thương tôi theo cách này  ” – tần thư bồi viết trước khi chúc triệu_lỗi những gì tốt_đẹp nhất 
+12,vài giờ sau  tần thư bồi lại đăng_tải một_số hình_ảnh một người phụ_nữ với các trang_phục và phụ_kiện khác nhau và viết  “ trước khi làm rõ mọi chuyện  làm_ơn hãy nói với bạn gái anh xóa hết các hình_ảnh cô ta mặc quần_áo và đeo túi của tôi trên trang weibo đi  dĩ_nhiên là anh đã từ_chối trả lại những thứ đó cho tôi ” 

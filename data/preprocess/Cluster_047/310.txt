@@ -1,0 +1,9 @@
+idx, sentence
+0,mưa và giông lốc xảy ra ở nhiều huyện  thị ở tỉnh yên_bái với lượng mưa có nơi lên đến trên 50 mm 
+1,huyện lục_yên bị thiệt_hại nặng nhất  ước_tính lên đến 16 tỷ đồng 
+2,theo báo_cáo nhanh của ban chỉ_huy phòng_chống thiên_tai  tìm_kiếm cứu nạn huyện  đến 16 h ngày 21/5  mưa và giông lốc đã khiến 9 người ở xã tân_lập bị_thương  trong đó một trẻ gãy chân 
+3,giông lốc cũng khiến 24 nhà bị đổ sập hoàn_toàn  2 nhà hư_hỏng và 68 nhà tốc mái 
+4,thiệt_hại về hoa_màu chưa thống_kê 
+5,ngày 21/5  phó chủ_tịch ubnd tỉnh tạ_văn_long đã đến thăm_hỏi các gia_đình bị thiệt_hại  động_viên họ vượt qua khó_khăn và ổn_định cuộc_sống 
+6,tỉnh sẽ hỗ_trợ 7 triệu đồng cho mỗi hộ có nhà sập hoàn_toàn  15 triệu đồng cho gia_đình có người bị_thương 
+7,ủy_ban mặt_trận tổ_quốc hỗ_trợ một triệu đồng cho mỗi hộ gia_đình nhà bị sập và một triệu đồng cho gia_đình có người bị_thương 

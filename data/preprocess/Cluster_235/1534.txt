@@ -1,0 +1,9 @@
+idx, sentence
+0,vụ hỏa_hoạn nói trên xảy ra 1 h30  sáng 2/6 tại siêu_thị điện_máy kim_nguyên  đường trần_hưng_đạo  thành_phố đông_hà  tỉnh quảng_trị  
+1,theo thông_tin ban_đầu  ngon lửa bùng_phát ở tầng hai sau đó lan sang tầng ba của siêu_thị điện_máy kể trên và thiêu rụi nhiều đồ điện_tử  điện_lạnh 
+2,do khu_vực phát cháy có nhiều bao_bì  hộp xốp dễ cháy nên chỉ trong vòng 15 phút ngọn lửa lan sang toàn siêu_thị 
+3,nhận được tin báo  lực_lượng cảnh_sát phòng cháy chữa cháy và cứu nạn cứu_hộ  công_an tỉnh quảng_trị  đã huy_động khoảng 100 cán_bộ chiến_sĩ cùng 8 xe chuyên_dụng  trong đó có cả xe thang và xe chống bạo_loạn  để tham_gia dập lửa 
+4,sau khi phá cửa sắt ở tầng 1  lực_lượng chức_năng đã đưa được nhiều loại máy_móc  ti_vi  tủ_lạnh  điều_hòa  máy_giặt   đang trưng_bày ra khỏi đám cháy 
+5,tuy_nhiên  tại khu_vực tầng 2 và 3 do ngọn lửa lớn và cấu_trúc tòa nhà đặc_biệt nên việc chữa_cháy khó_khăn 
+6,khoảng 3 h cùng ngày lực_lượng chức_năng mới cơ_bản dập_tắt được đám cháy 
+7,hiện vẫn chưa rõ con_số thiệt_hại sau vụ cháy  nguyên_nhân vẫn đang tiếp_tục được làm rõ 

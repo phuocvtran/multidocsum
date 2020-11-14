@@ -1,0 +1,7 @@
+idx, sentence
+0,ca_khúc được nhạc_sĩ only_c hỗ_trợ bảo_thy thực_hiện bản phối và thu âm 
+1,đây không phải là lần đầu bảo_thy kết_hợp với only_c  trước đó   im sorry babe  và  con_tim anh nằm đâu  làm mưa làm gió cũng là vị nhạc_sĩ này phối_khí 
+2,tiếp_tục thể_hiện khả_năng sáng_tác thiên_bẩm  lonely được bảo_thy sáng_tác để dành tặng cho sinh_nhật mình  ca_khúc mang ý_nghĩa đặc_biệt nhân_dịp cô nàng tròn tuổi mới 
+3,giọng ca  im sorry babe  chia_sẻ   vì đã rất lâu tôi mới giới_thiệu một ca_khúc do chính mình sáng_tác nên rất hồi_hộp chờ_đợi phản_hồi từ khán_giả 
+4,lonely có bản phối cũng như chất nhạc khá lạ_tai 
+5,đây cũng là lần đầu tôi thử sức trong việc kết_hợp ballad với rap  

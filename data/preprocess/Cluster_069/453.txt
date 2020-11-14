@@ -1,0 +1,8 @@
+idx, sentence
+0,trong trận đấu bù vòng 2 vleague 2016 giữa qnk quảng_nam và b bình_dương đã kết_thúc với tỷ_số 21 
+1,tình_huống đáng chú_ý nhất trận đấu này là ở phút 85  khi cầu_thủ felix của quảng_nam có pha vào bóng từ phía sau đối_với đình_luật 
+2,ngay_lập_tức  đình_luật_nhảy tránh và trong khi tiếp đất  anh này được cho là đã đạp thẳng vào bụng của cầu_thủ đối_phương đang nằm ở phía dưới 
+3,toàn_bộ pha bóng này đã bị ghi_hình trên truyền_hình 
+4,theo trang_chủ của liên_đoàn bóng_đá việt_nam  vfforgvn   chiều nay  20/5   ban kỷ_luật vff đã ra quyết_định số 219 / qđlđbđvn về việc kỷ_luật đối_với cầu_thủ trương_đình_luật của clb bbình_dương 
+5,nội_dung như sau   phạt 15000000 đ  mười_lăm triệu đồng  và đình_chỉ thi_đấu 03 trận kế_tiếp đối_với cầu_thủ trương_đình_luật  số 20  của clb bóng_đá becamex bình_dương do có hành_vi cố_tình xâm_phạm thân_thể cầu_thủ ogbuke_felix_onyedike  số 77  của clb qnk quảng_nam  trong trận đấu giữa hai clb bóng_đá qnk quảng_nam và becamex bình_dương tại trận đấu bù vòng 02  ngày 18/05/2016 trên sân_vận_động tam_kỳ  quảng_nam 
+6,cầu_thủ trương_đình_luật có quyền khiếu_nại lên ban giải_quyết khiếu_nại lđbđvn theo quy_định tại quy_định về kỷ_luật của lđbđvn 

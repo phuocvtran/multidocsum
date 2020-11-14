@@ -1,0 +1,9 @@
+idx, sentence
+0,theo đó  khi mua honda_lead 125 phân_khối khách_hàng được nhận ngay phiếu quà tặng 500000 đồng và mũ_bảo_hiểm honda_jet 
+1,là một trong những dòng sản_phẩm chủ_đạo của honda việt_nam  lead có thiết_kế cao_cấp  khả_năng vận_hành mạnh_mẽ cùng nhiều tiện_ích 
+2,bên cạnh lead  honda việt_nam cũng áp_dụng phiếu quà tặng 500000 đồng cho khách_hàng yêu thích dòng xe số cụ_thể là xe wave_rsx / wave rsx_fi 110 phân_khối và blade 110 phân_khối 
+3,nếu wave_rsx 110 phân_khối có tính_năng tiết_kiệm nhiên_liệu  tiện_ích cao với kiểu_dáng thời_trang thì blade 110 phân_khối được đánh_giá là mẫu xe mang nét phá_cách thú_vị trong dòng xe số phổ_thông tại việtnnam 
+4,đây là lựa_chọn cho những khách_hàng yêu_thích sự khỏe_khoắn  mới_lạ trong thiết_kế cũng như mong_muốn sở_hữu một mẫu xe có khả_năng tối_ưu_hóa trong tăng_tốc và chuyển số nhưng vẫn đảm_bảo sự vận_hành êm_ái 
+5,ưu_đãi trên nằm trong chương_trình khuyến_mại  20 năm honda  tưng_bừng quà hấp_dẫn ” diễn ra từ ngày 1/6 đến hết 30/6 tại các head của honda việt_nam trên toàn_quốc 
+6,đặc_biệt  cũng trong khuôn_khổ hoạt_động kỷ_niệm 20 năm thành_lập  honda việt_nam thực_hiện chương_trình khuyến_mãi dành cho những khách_hàng yêu_thích mẫu xe_tay côn msx 
+7,cụ_thể  từ ngày 1/6 đến ngày 15/7  khách_hàng mua mẫu xe này tại các head trên toàn_quốc sẽ nhận được ngay một phiếu quà tặng 3 triệu đồng có giá_trị sử_dụng ngay lần mua xe đó và được hỗ_trợ 100  phí trước_bạ 

@@ -1,0 +1,29 @@
+idx, sentence
+0,chiều 20/5  tand tphcm đã mở phiên phúc_thẩm_xét_xử vụ án tranh_chấp hợp_đồng thuê nhà và bồi_thường thiệt_hại ” giữa nguyên_đơn là bà lê_thị_diệu_hân  tức hoa_hậu_diệu_hân_– hoa_hậu đông_nam_á 2012  và bị_đơn là bà ptmt
+1, chủ nhà 423 võ_văn_tần  quận 3  tphcm  
+2,hoa_hậu kiện chủ nhà theo nội_dung khởi_kiện  hoa_hậu trình_bày  ngày 13/10/2014  diệu_hân đã ký hợp_đồng thuê một phần căn nhà 423 võ_văn_tần  quận 3  tphcm  của bà t với diện_tích 105 m2 để mở cửa_hàng kinh_doanh thời_trang 
+3,giá thuê nhà là 45 triệu đồng / tháng  thời_hạn thuê 2 năm tính từ ngày 1/20/2014 và số tiền đặt_cọc là 3 tháng tiền thuê nhà  tương_đương 135 triệu đồng 
+4,cũng theo diệu_hân  quá_trình thực_hiện hợp_đồng_cô đã thực_hiện đầy_đủ các nghĩa_vụ của bên thuê 
+5,ngược_lại  phía bà t đã cố_ý vi_phạm nghĩa_vụ của bên cho thuê nhiều lần 
+6,ngoài_ra  bà t còn thường_xuyên xúc_phạm đến danh_dự  nhân_phẩm vu_khống diệu_hân có quan_hệ tình_cảm với chồng bà  nhằm phá_hoại tài_sản của nữ hoa_hậu để ở phần mặt_bằng đang thuê  gây cản_trở đến hoạt_động kinh_doanh và thiệt_hại nghiêm_trọng khiến hoa_hậu không_thể tiếp_tục kinh_doanh bình_thường được 
+7,diệu hân cho biết do không_thể chấp_nhận hành_vi trái pháp_luật của bà t nên cô đã nhiều lần nhắc_nhở  yêu_cầu nữ chủ nhà phải tôn_trọng các thỏa_thuận trong hợp_đồng nhưng người này không hợp_tác 
+8,vì_vậy  ngày 4/6/2015  diệu_hân gửi thông_báo qua đường bưu_điện cho bà t yêu_cầu bồi_thương thiệt_hại và chấm_dứt hợp_đồng do có vi_phạm 
+9,gần một tháng sau  hoa_hậu gửi tiếp thông_báo lần 2 và phía bưu_điện đã có phiếu báo phát 
+10,sau các động_thái trên  hoa_hậu đông_nam_á 2012 đã đệ đơn ra tand quận 3  tphcm  đề_nghị giải_quyết 
+11,cô yêu_cầu tòa_án cho chấm_dứt hợp_đồng thuê nhà nói trên  buộc bà t trả lại tiền_đặt_cọc 135 triệu đồng và bồi_thường số tiền tương_đương tiền đặt_cọc là 135 triệu đồng  tổng_cộng 270 triệu đồng 
+12,chủ nhà phản tố trước những gì phía hoa_hậu_diệu_hân trình_bày  người đại_diện của bà t tham_gia tố_tụng chỉ thừa_nhận một_số nội_dung về quá_trình ký_kết hợp_đồng giữa hai bên mà hoa_hậu nói là đúng sự_thật 
+13,về những bất_đồng  người đại_diện cho rằng quá_trình thực_hiện hợp_đồng hoa_hậu đã nhiều lần có ý_kiến yêu_sách vượt quá nội_dung của hợp_đồng 
+14,ngoài mâu_thuẫn trên  người đại_diện cũng thừa_nhận giữa bà t và hoa_hậu còn những mâu_thuẫn khác nhưng cho rằng đó chỉ là việc nhỏ_nhặt do tự diệu_hân gây ra 
+15,phía bị đơn cho rằng bà t vẫn luôn tôn_trọng và thực_hiện đúng các nội_dung của hợp_đồng đã ký  phía diệu_hân vẫn quản_lý phần nhà đã thuê và kinh_doanh bình_thường nhưng từ tháng 7/2015 hoa_hậu không thanh_toán tiền thuê nhà 
+16,họ cũng cho rằng diệu_hân đã tự_ý dọn đồ đi nhưng không thông_báo  không bàn_giao thanh_lý hợp_đồng  không trả lại hiện_trạng ban_đầu của căn nhà 
+17,từ đó  bị đơn đề_nghị tòa bác toàn_bộ yêu_cầu của nguyên_đơn đồng_thời đề_nghị tòa tuyên buộc diệu_hân phải giao trả mặt_bằng đã thuê và thanh_toán cho bị đơn số tiền thuê nhà tính từ tháng 7/2015 
+18,trong một diễn_biến khác  trước đó vào cuối tháng 5/2015  dư_luận từng xôn_xao khi biết thông_tin tại cửa_hàng kinh_doanh thời_trang trên giữa hoa_hậu diệu_hân và bà t đã xảy ra cãi_vã  xô_xát 
+19,nguyên_nhân sự_việc được cho là do bà t ghen_tuông  cho rằng giữa diệu_hân và chồng bà có dính_líu tình_cảm 
+20,vụ xô_xát khiến công_an phường 5  quận 3 đã phải có_mặt để giải_quyết 
+21,công_an cũng từng tiếp_nhận giải_quyết mâu_thuẫn tranh_chấp mặt_bằng giữa diệu_hân và bà t sau đó  công_an đã giải_thích cho hai bên khởi_kiện ra tòa để giải_quyết 
+22,tại bản_án sơ_thẩm diễn ra vào tháng 2/2016  tand quận 3  tphcm  nhận_định không có căn_cứ để xác_định bà t đã có hành_vi cố_ý vi_phạm nghĩa_vụ của bên cho thuê hay đã gây_rối và phá_hoại tài_sản của bên thuê 
+23,ngoài_ra  tòa cũng không xác_định được ai là người có lỗi trước dẫn đến hai bên phát_sinh mâu_thuẫn 
+24,tòa xét thấy  theo quy_định của pháp_luật thì khi hai bên có mâu_thuẫn thì một trong hai bên có quyền chấm_dứt hợp_đồng thuê trước_hạn nhưng phải thông_báo bằng văn_bản cho bên kia biết trước ít_nhất là 3 tháng 
+25,do_diệu_hân đã không tuân_thủ quy_định báo trước ít_nhất 3 tháng đồng_thời phía bà t không thừa_nhận đã nhận được thông_báo chấm_dứt hợp_đồng của diệu_hân nên hợp_đồng thuê nhà vẫn còn hiệu_lực 
+26,từ đó  tòa tuyên chỉ chấp_nhận một phần yêu_cầu khởi_kiện của hoa_hậu diệu_hân và tuyên chấm_dứt hợp_đồng thuê nhà giữa hai bên 
+27,toàn_bộ yêu_cầu phản_tố của bị_đơn được chấp_nhận  tòa buộc diệu_hân phải thanh_toán toàn_bộ số tiền thuê nhà tính từ tháng 7/2015 đến tháng 2/2016  tổng_cộng là 360 triệu đồng 

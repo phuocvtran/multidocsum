@@ -1,0 +1,12 @@
+idx, sentence
+0,cổng thông_tin điện_tử chính_phủ cho biết  trong khuôn_khổ chuyến thăm chính_thức liên_bang_nga  ngày 18/5  thủ_tướng chính_phủ nguyễn_xuân_phúc đã đến dự_lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến giai_đoạn 1 của tập_đoàn th_true_milk tại làng volokolamsk  moscow 
+1,theo thỏa_thuận hợp_tác giữa tập_đoàn th và tỉnh kaluga  liên_bang_nga   tập_đoàn này dự_kiến sẽ đầu_tư 190 triệu usd  khoảng 4200 tỷ đồng  để triển_khai xây_dựng 3 cụm trang_trại bò sữa tại hai huyện ulianov và mosacalsky  thuộc kaluga  
+2,dự_án này là một phần của đại dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại liên_bang_nga với tổng mức đầu_tư là 27 tỷ usd  chia thành 3 giai_đoạn  trong đó  tổng vốn cho giai_đoạn 1 là 500 triệu usd 
+3,đại dự_án này nằm trên hai tỉnh là moscow và kaluga 
+4,đây là dự_án đầu_tiên của việt_nam trong lĩnh_vực sản_xuất  chế_biến sữa tại liên_bang_nga  quốc_gia có truyền_thống lâu_đời về sử_dụng sữa  các sản_phẩm từ sữa 
+5,đây cũng là dự_án có vốn đầu_tư lớn nhất của việt_nam hiện_nay tại quốc_gia này 
+6,trang_trại của tập_đoàn th xây_dựng tại kaluga sẽ có mô_hình tương_tự như mô_hình mà tập_đoàn này đang vận_hành_tại huyện nam_đàn  nghệ_an  
+7,dự_kiến vào giữa năm 2017  sản_phẩm sữa th đầu_tiên sẽ ra_mắt tại liên_bang_nga 
+8,theo kế_hoạch dự_kiến  khi hoàn_thành dự_án ở giai_đoạn 3  đàn bò dự_kiến có tổng_cộng 350000 con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
+9,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng trên toàn nước nga 
+10,theo bộ kế_hoạch và đầu_tư việt_nam  việt_nam có 20 dự_án đầu_tư sang nga với tổng vốn đầu_tư_cấp mới và tăng vốn là 293 tỉ usd trong các lĩnh_vực thăm_dò và khai_thác dầu_khí  dịch_vụ 

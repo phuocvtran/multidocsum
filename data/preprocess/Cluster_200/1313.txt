@@ -1,0 +1,7 @@
+idx, sentence
+0,ông lê_khánh_hải  thứ_trưởng bộ_văn_hóa  thể_thao và du_lịch  trưởng_ban tổ_chức đại_hội thể_thao bãi_biển châu_á lần thứ 5  đà_nẵng 2016  abg5  cho biết  chỉ còn hơn 100 ngày nữa  abg5 sẽ chính_thức diễn ra tại tp đà_nẵng của việt_nam 
+1,tiếp_nối thành_công của các abg trước đây  ban tổ_chức nước chủ nhà đang nỗ_lực hết_mình để hoàn_thành các công_tác chuẩn_bị cho abg5  với mong_muốn tất_cả chúng_ta sẽ được chứng_kiến một kỳ đại_hội thể_thao sôi_động và hấp_dẫn 
+2,đại_hội lần này  các vận_động_viên sẽ cùng tranh tài ở 22 môn thể_thao với 172 nội_dung thi_đấu  điều này hứa_hẹn về một kỳ đại_hội thể_thao bãi_biển thành_công với chất_lượng chuyên_môn cao  tôn_vinh những giá_trị thể_thao cao_thượng và góp_phần thắt chặt tình bằng_hữu giữa các quốc_gia  vùng lãnh_thổ trong khu_vực 
+3,với thông_điệp “ tỏa sáng đại_dương  rực sáng tương_lai ”  hy_vọng abg5 sẽ góp thêm tiếng_nói trong việc gìn_giữ và phát_huy những giá_trị  tiềm_năng to_lớn của đại_dương vì sự phát_triển của tương_lai  vì sự thịnh_vượng chung của châu_á nói_riêng và của nhân_loại nói_chung   thứ_trưởng lê_khánh_hải nhấn_mạnh 
+4,được biết  abg5 sẽ chính_thức diễn ra vào ngày 24/9 đến 3/10/2016 tại đà_nẵng 
+5,với 11 môn thể_thao và 22 phân môn  thu_hút khoảng 3100 vận_động_viên  1500 huấn_luyện_viên  cán_bộ đến từ 45 quốc_gia  vùng lãnh_thổ của châu_á 

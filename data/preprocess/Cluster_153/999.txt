@@ -1,0 +1,55 @@
+idx, sentence
+0,trong suốt 18 năm kể từ khi đào_thoát khỏi triều_tiên  bà ko sống ẩn_dật tại mỹ cùng chồng và 3 đứa con 
+1,trả_lời phỏng_vấn tờ the_washington_post vào một ngày cuối tuần gần đây  dì của nhà lãnh_đạo kim_jongun cho biết một_số người bạn nói bà may_mắn vì có tất_cả mọi thứ 
+2,“ các con tôi được đến trường và chúng đang trên bước đường thành_công 
+3,tôi còn có một người chồng biết sửa đủ thứ 
+4,chúng_tôi chẳng phải đố kỵ vì điều gì nữa ” – bà ko trả_lời phỏng_vấn 
+5,năm nay bà 60 tuổi  tóc ngắn xoăn nhẹ  ăn_mặc kín_đáo  theo mô_tả của the_washington_post 
+6,chồng bà  ông lee_kang  cũng cười vẻ mãn_nguyện khi nhắc đến cuộc_sống của gia_đình hiện_tại  “ tôi nghĩ chúng_tôi đã đạt được giấc mơ mỹ ” 
+7,bà ko và chồng chụp ảnh ở quảng_trường thời_đại  new_york  mỹ ngày 234 
+8,ảnh  the washington_post_bà ko là em_gái của ko_yonghui  một trong những người vợ của cố lãnh_đạo triều_tiên kim_jongil và là mẹ của ông kim_jongun 
+9,tuy_nhiên  vào năm 1998  khi bà ko_yonghui bị phát_hiện mắc ung_thư vú  vợ_chồng bà ko_yongsuk quyết_định bỏ trốn 
+10,theo lời vợ_chồng bà ko  họ muốn tới mỹ để tìm cách chữa bệnh cho chị_gái 
+11,nhưng báo_chí hàn_quốc lại cho rằng họ ra đi vì sợ điều không may sẽ xảy ra một_khi cha hoặc mẹ kim_jongun qua_đời 
+12,ông michael_madden  biên_tập_viên của trang_web north korea_leadership_watch  nhận_định bà ko có lý_do để sợ_hãi và đào_tẩu khỏi đất_nước  “ ko_yonghui là một phụ_nữ đầy tham_vọng 
+13,bà ta muốn con_trai của mình được thăng chức nên sẽ tạo ra nhiều kẻ_thù 
+14,nếu là em_gái hay em_rể của ko_yonghui  bạn có_thể ‘ biến mất ’ vào một ngày nào đó ” 
+15,trường_hợp của ông jang_songthaek  dượng nhà lãnh_đạo kim_jongun là một điển_hình 
+16,ông jang dường_như quá tham quyền cố vị nên được cho là bị thanh_trừng vào năm 2013 
+17,vì_vậy  năm 1998  bà ko dẫn theo chồng và 3 đứa con bắt taxi đến đại_sứ_quán mỹ tại bern – thụy_sĩ 
+18,thời_điểm đó  bà ko đang chăm_sóc ông kim_jomgun đi du_học 
+19,sau khi trình_bày họ là các nhà ngoại_giao triều_tiên muốn xin tị_nạn  chính_phủ mỹ đã đưa cả 4 người đến một căn_cứ quân_sự gần tp frankfurt – đức 
+20,ở lại đây trong vài tháng  bà ko tiết_lộ quan_hệ với gia_đình ông kim_jongun  lúc này vẫn chưa trở_thành lãnh_đạo triều_tiên  
+21,dĩ_nhiên washington chẳng biết kim_jongun là ai và sau_này ông ta có trở_thành lãnh_đạo triều_tiên hay không 
+22,khi đáp máy_bay xuống nước mỹ  gia_đình bà ko dành vài ngày ở thủ_đô washington trước khi đến một thành_phố nhỏ 
+23,tại đây  một nhà_thờ hàn_quốc đề_nghị giúp_đỡ họ 
+24,“ những người trong nhà_thờ biết chúng_tôi đến từ triều_tiên nhưng họ bảo chúng_tôi không giống người triều_tiên nên đặt nhiều câu hỏi lặp_đi_lặp_lại ” – bà ko kể 
+25,“ cuộc_sống ban_đầu rất khó_khăn 
+26,chúng_tôi không có người_thân và phải làm 12 giờ / ngày ” – bà tiếp_lời 
+27,chồng bà ko ban_đầu kiếm được nghề thợ xây 
+28,đó là công_việc dễ_dàng đối_với một người không biết tiếng anh như ông 
+29,còn bà ko cảm_thấy thất_vọng vì không_thể phụ_giúp gia_đình 
+30,cuối_cùng  bà quyết_định mở tiệm giặt ủi nhỏ để làm kế sinh_nhai 
+31,ba người con của bà ko hiện đều đã ổn_định 
+32,người con_trai cả là nhà toán_học 
+33,con thứ hai phụ_giúp công_việc kinh_doanh 
+34,người con_gái út làm_việc trong ngành khoa_học máy_tính 
+35,họ có một cuộc_sống thoải_mái nhưng không giàu_có 
+36,ngoài làm_chủ một tiệm giặt ủi  cặp_đôi còn xây được căn nhà 2 tầng khang_trang với nội_thất đầy_đủ cùng 2 chiếc xe_hơi 
+37,họ cũng dư_dả để tới tp las_vegas vào kỳ nghỉ và nếp sinh_hoạt trông giống những gia_đình bình_thường ở mỹ 
+38,cách đây khoảng 2 năm  vợ_chồng bà ko còn đi du_lịch hàn_quốc 
+39,chồng bà ko nói rằng ông rất muốn trở_về triều_tiên để “ thu_hẹp khoảng_cách ngày_càng lớn giữa washington và bình_nhưỡng ” 
+40,ông cho biết mình có_thể trở_thành nhà đàm_phán vì hiểu rõ cả mỹ lẫn triều_tiên 
+41,nhưng bà ko thì muốn ở lại dù nhớ quê nhà 
+42,cuộc trò_chuyện giữa hai người với phóng_viên tờ the_washington_post kéo_dài gần 20 giờ tại tp new_york 
+43,cặp_đôi yêu_cầu không tiết_lộ tên họ sử_dụng tại mỹ cũng như nơi họ sinh_sống để bảo_vệ sự riêng_tư của con_cái 
+44,đối_với washington  bà ko là một cuốn từ_điển sống về triều_tiên 
+45,cơ_quan tình_báo trung_ương mỹ  cia  thỉnh_thoảng đến nhà người phụ_nữ  cho bà xem một_số bức ảnh để xác_định những công_dân triều_tiên trong ảnh là ai 
+46,bà ko cũng tiết_lộ 1 số thông_tin ngoài_lề về nhà lãnh_đạo kim_jongun  chẳng_hạn ông sinh năm 1984 chứ không phải 1982 hay 1983 
+47,bà ko nhớ rõ bởi ông kim_sinh cùng năm với con trai cả của bà 
+48,“ chúng chơi với nhau từ khi lọt_lòng 
+49,tôi đã thay tã_lót cho cả 2 đứa ” – bà nói với nụ cười nở trên môi 
+50,mỗi lần nhắc về cháu trai  bà ko và chồng đều tỏ ra thận_trọng 
+51,họ luôn gọi nhà lãnh_đạo triều_tiên là “ nguyên_soái kim_jongun ” 
+52,tuy_nhiên  do không biết chút gì về bí_mật quân_sự hay hạt_nhân ở triều_tiên nên cuộc_sống của cặp_đôi không bị xáo_trộn nhiều 
+53,trong trí_nhớ của bà ko  kim_jongun thích chơi game và mê máy_móc  thường cố tìm_hiểu vì_sao tàu_nổi trên mặt_nước và máy_bay bay trên trời 

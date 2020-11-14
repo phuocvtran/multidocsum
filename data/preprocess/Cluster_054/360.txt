@@ -1,0 +1,31 @@
+idx, sentence
+0,dù đôi_lúc  đôi_khi bị mọi người nhận_xét rằng “ điên_khùng ” song chàng trai trần_nguyễn_an_khương vẫn kiên_trì với hành_trình đạp xe xuyên việt để đem tiếng_nói cá_nhân vận_động mọi người thay_đổi quan_niệm về cái chết toàn thây để đăng_ký hiến mô tạng 
+1,trong cái nắng khá gay_gắt của tiết trời hà_nội vào hè  phóng_viên được gặp  trò_chuyện với chàng trai sinh năm 1988  trần_nguyễn_an_khương đến từ cà_mau và lắng_nghe câu_chuyện rất cảm_động về mục_đích đạp xe xuyên việt của chàng trai_trẻ 
+2,việc khan_hiếm nguồn tạng hiến từ lâu đã trở_thành đề_tài nóng  đau_đáu của không_chỉ những cán_bộ làm công_tác điều_phối ghép mô tạng mà của biết_bao mảnh đời bất_hạnh không may mắc trọng_bệnh đang mòn_mỏi chờ nguồn mô tạng hiến  mong hồi_sinh_sự sống 
+3,tuy_nhiên  thực_tế đáng buồn hiện_nay do nhiều nguyên_nhân mà số bệnh_nhân chết_não vẫn chưa được người_nhà đồng_ý hiến mô tạng 
+4,xuất_phát từ thực_tế đó  trần_nguyễn_an_khương đến từ cà_mau đã đạp xe xuyên việt vận_động hiến tạng 
+5,an_khương chia_sẻ  em có người bạn thân mắc suy thận giai_đoạn cuối  tử_vong vì không có thận để ghép 
+6,sự mất_mát của người bạn khiến chàng trai_trẻ luôn dằn_vặt và trăn_trở làm_sao để những người khác không phải ra đi khi tuổi_đời còn quá trẻ như bạn mình  24 tuổi  
+7,xuất_phát từ nỗi đau đó  an_khương đến bệnh_viện chợ_rẫy tp hcm đăng_ký hiến mô tạng 
+8,em mong_muốn mọi người có cái nhìn khách_quan và nhân_văn hơn về đăng_ký hiến tặng mô tạng khi không may qua_đời 
+9,an_khương quyết_định đạp xe xuyên việt để vận_động mọi người 
+10,tự_nguyện đăng_kí hiến tạng sống được biết hoàn_cảnh của gia_đình an_khương cũng không phải khá_giả khi cha_mẹ làm nghề buôn_bán hoa_quả ở chợ 
+11,bản_thân khương cũng ở nhà phụ_giúp bố_mẹ 
+12,tuy_nhiên  khi cậu con_trai quyết_định đạp xe xuyên việt để kêu_gọi mọi người thay_đổi quan_niệm về ghép tạng cả bố và mẹ an_khương đều nhất_loạt ủng_hộ 
+13,hành_trình của an_khương bắt_đầu từ ngày 124  trải qua 27 tỉnh_thành và kết_thúc vào ngày 195 ở thủ_đô hà_nội 
+14,hành_trang khương mang theo là một chiếc xe_đạp  chiếc bếp cồn dùng để nấu nước uống  ăn mỳ tôm  lều ngủ và vài bộ quần_áo để mặc cùng với kinh_phí hơn 5 triệu đồng 
+15,theo lời kể của an_khương  đến mỗi nơi  tiếp_xúc với nhiều người  khương đều kể cho họ nghe về nỗi đau  sự mất_mát của bản_thân và về những người bệnh nặng đang mòn_mỏi chờ ghép tạng tại các cơ_sở y_tế  nhiều trong số đó không may_mắn đã qua_đời 
+16,nghe em tâm_sự nhiều người cảm_thông và nói rằng sẽ suy_nghĩ lại về việc hiến tặng mô tạng khi qua_đời  song một_số khác lại cho rằng  em có vấn_đề về thần_kinh 
+17,tuy_nhiên  không vì những khó_khăn trở_ngại đó mà khương cảm_thấy chùn bước 
+18,chàng trai_trẻ vẫn miệt_mài trên hành_trình tìm_kiếm hy_vọng cho những bệnh_nhân không may mắc bệnh 
+19,khương nghĩ  bệnh_tật sẽ không trừ một ai và không ai có_thể tự_tin mà nói rằng mình là người khỏe_mạnh  không cần sự trợ_giúp của bất_kỳ ai khác 
+20,khi được hỏi về nỗi vất_vả khi phải vượt qua chặng đường hơn 3000 km  chàng trai vốn mắc bệnh viêm khớp và vẹo cột_sống  song em vẫn không ngần_ngại một_mình đạp xe xuyên việt bởi niềm tin trong chàng trai_trẻ đã chiến_thắng tất_cả 
+21,mỗi ngày chàng thanh_niên này dậy từ 5 giờ sáng và kết_thúc lúc 67 giờ tối  trung_bình một ngày đạp xe gần 100 km 
+22,lịch_trình dày_đặc ăn_uống thất_thường vậy nên chàng trai vốn đã nhỏ_bé đến nay lại càng nhỏ_bé hơn 
+23,an_khương đã sụt 6 kg 
+24,thời_điểm hiện_tại chỉ còn 39 kg 
+25,đáp lại ánh mắt thương_cảm  lo_âu của mọi người  nụ cười vẫn luôn nở trên miệng chàng trai khi em luôn tin_tưởng và mong_muốn ngày_càng sẽ có nhiều hơn nữa những người thay_đổi quan_niệm và tìm tới các cơ_sở y_tế để đăng_ký hiến tạng sau khi qua_đời 
+26,hơn tất_cả  món quà kỳ_diệu hay nói cách khác  tấm lòng rộng_mở của chàng trai này chưa dừng lại ở đó 
+27,ngay khi ra tới hà_nội  an_khương đã tìm tới trung_tâm điều_phối quốc_gia về ghép tạng để đăng_ký hiến tạng sống  hiến thận khi đang còn sống  pv  
+28,nói về việc_làm có phần mạo_hiểm của mình an_khương cho rằng bản_thân vẫn có_thể sống mạnh_khỏe chỉ với một quả_thận song một quả_thận còn lại có_thể đem lại sự sống cho một người khác  mang tới hạnh_phúc cho cả gia_đình 
+29,làm được điều này khương thấy hạnh_phúc và bình_an 

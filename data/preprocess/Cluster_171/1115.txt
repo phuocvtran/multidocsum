@@ -1,0 +1,13 @@
+idx, sentence
+0,cuộc tìm_kiếm này sẽ có tên gọi cuộc tìm_kiếm nhóm nhạc nữ tài_năng hello_yellow dành cho tất_cả các cô gái tuổi từ 18 đến 25  hát hay  có ngoại_hình và biết chơi nhạc_cụ 
+1,ông cao_thắng  bạn trai của ca_sĩ đông_nhi và cũng là giám_đốc công_ty sixth_sense_emtertainment cho biết anh đang rất muốn đẩy_mạnh thêm mô_hình đào_tạo những nhóm nữ  trẻ_trung và thực_tài để tạo thêm sự đa_dạng cho thị_trường biểu_diễn 
+2,công_ty của ông cao_thắng đã đào_tạo và quản_lý nhiều gương_mặt đang nổi_tiếng như nhạc_sĩ đỗ_hiếu  nhóm nữ lip_b và đặc_biệt là ca_sĩ đông_nhi 
+3,đỗ_hiếu và đông_nhi cũng sẽ là giám_khảo của cuộc tìm_kiếm lần này  đặc_biệt nhạc_sĩ hồ_hoài_anh cũng sẽ tham_gia trong vài trò giám_khảo và phụ_trách chuyên_môn 
+4,khi được hỏi rằng  trong một thị_trường đang có quá nhiều cuộc thi tìm_kiếm tài_năng  nhân_tố giỏi đã hiếm mà bây_giờ lại vừa hát hay  vừa chơi được nhạc_cụ lại vừa có cả ngoại_hình thì liệu có phải là quá khó 
+5,nhạc_sĩ hồ_hoài_anh đã trả_lời  “ tôi tin cuộc thi sẽ có sức hút 
+6,nếu không tin  hãy nhìn vào hình_mẫu  đông_nhi ” 
+7,đông_nhi đang trở_thành giấc mơ của các cô gái trẻ để đến với âm_nhạc mà thực_tế nhất là cuộc thi tìm_kiếm tài_năng vừa được công_bố 
+8,cuộc tìm_kiếm nhóm nhạc nữ tài_năng hello_yellow đã bắt_đầu vào ngày hôm_nay  30/5 
+9,theo đó  vòng audition trực_tuyến sẽ kéo_dài từ 1/6 đến 30/6 
+10,sau đó sẽ đến vòng chung_kết dự_kiến sẽ diễn ra vào 8/7 
+11,tại đây  bgk sẽ chọn ra 3 người xứng_đáng nhất để thành_lập nhóm hello_yellow 

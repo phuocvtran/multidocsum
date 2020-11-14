@@ -1,0 +1,25 @@
+idx, sentence
+0,không phải là chất cấm vài ngày qua  trên một_số trang mạng lan_truyền 1 clip và thông_tin về việc  hàng_loạt nhãn_hiệu dầu gội nổi_tiếng  phổ_biến trong các gia_đình như pantene  sunsilk  clear  hazeline  rejoice  double_rich  enchanter  chứa_chất cấm nhưng vẫn bày bán_công_khai suốt 1 năm nay 
+1,trao_đổi với chúng_tôi  bà phan_thị_tuyết_mai  phó chủ_tịch hiệp_hội tinh_dầu  hương_liệu  mỹ_phẩm việt_nam cho_biết  thông_tin về quy_định sử_dụng thành_phần chất bảo_quản methylisothiazolinone  mit   methylchlorothiazolinone  mct  trong mỹ_phẩm đã khiến dư_luận hết_sức quan_tâm và hiệp_hội đã có thông_cáo báo_chí nêu rõ ý_kiến về vấn_đề này 
+2,theo bà mai  quy_định phân_loại hiện_hành thì dầu gội đầu là một dạng mỹ_phẩm 
+3, dầu gội đầu là mỹ_phẩm và đó là dạng rinseoff tức_là rửa sạch đi còn các loại kem lưu trên da là dạng leave on   bà mai nói 
+4,bà mai cũng khẳng_định  đối_với hai chất bảo_quản mit và mct được sử_dụng trong dầu gội đầu là không phải bị cấm sử_dụng 
+5, trong năm 2015  cục quản_lý dược cũng đã có công_văn nêu rõ về vấn_đề này và nói rõ đây không phải là chất cấm mà chỉ là quy_định về nồng_độ hàm_lượng thôi 
+6,đồng_thời  trong văn_bản gửi các cơ_quan báo_chí chúng_tôi cũng đã nêu rõ vấn_đề này   bà mai nhấn_mạnh 
+7,cùng với đó  bà mai cũng cung_cấp văn_bản của hiệp_hội nêu rõ về vấn_đề này 
+8,theo đó  năm 2014  eu đã có văn_bản quy_định về việc điều_chỉnh hàm_lượng mit và mct dùng trong mỹ_phẩm để kiểm_soát nguy_cơ có_thể gây nhạy_cảm da 
+9,tuy_nhiên  chưa có báo_cáo chính_thức nào để khẳng_định về việc các thành_phần này có_thể gây mất an_toàn ở một hàm_lượng nhất_định 
+10,nguy_cơ của việc gây nhạy_cảm da đến từ các sản_phẩm lưu lại trên da thay_vì các sản_phẩm rửa_sạch 
+11,chính vì_thế  thành_phần này bị cấm sử_dụng trong các sản_phẩm lưu lại trên da 
+12,trong khi chưa có báo_cáo xác_thực nào về các chất bảo_quản này có_thể gây mất an_toàn  đối_với mỗi công_thức sản_phẩm mỹ_phẩm trước khi đưa ra thị_trường  doanh_nghiệp có trách_nhiệm phải làm đánh_giá an_toàn trên công_thức với hàm_lượng cụ_thể 
+13,điều đó có nghĩa là doanh_nghiệp phải có bằng_chứng cụ_thể về sự an_toàn của công_thức sản_phẩm mà mình sản_xuất kinh_doanh 
+14, việc thay_đổi quy_định chỉ điều_chỉnh hàm_lượng cho_phép sử_dụng của hai thành_phần nói trên chứ không cấm sử_dụng các thành_phần này do đây là hai chất bảo_quản đang được sử_dụng rộng_rãi trên thế_giới và chưa có bằng_chứng về sự mất an_toàn   công_văn nhấn_mạnh 
+15,văn_bản cũng dẫn lại nội_dung quyết_định số 6577 / qldmp của cục quản_lý dược cũng như thông_cáo báo_chí sau đó của cục để khẳng_định thêm  đây không phải là các chất cấm 
+16, chúng_tôi khẳng_định lại  theo quy_định của châu_âu  asean và việt_nam  2 chất bảo_quản nói trên không bị cấm mà chỉ giới_hạn nồng_độ  hàm_lượng  và chưa có bằng_chứng khoa_học nào về việc mất an_toàn khi sử_dụng các thành_phần trên trong sản_phẩm mỹ_phẩm   công_văn nhấn_mạnh lại 
+17,sẵn_sàng cung_cấp thông_tin khi được yêu_cầu hiệp_hội cũng cho hay  do chưa có bằng_chứng khoa_học nào về sự mất an_toàn của hai chất bảo_quản trên khi sử_dụng với hàm_lượng cao như quy_định trước đây  eu đã có một lộ_trình là 20 tháng để doanh_nghiệp có_thể chuyển_đổi và điều_chỉnh hàm_lượng trong công_thức 
+18,tại kỳ họp thứ 21 của hội_đồng mỹ_phẩm asean vào tháng 11/2014 cũng kết_luận sẽ áp_dụng các quy_định của eu về vấn_đề này 
+19,tại việt_nam  việc cục lùi thời_hạn áp_dụng đổi giới_hạn với 2 chất bảo_quản này đến tháng 11/2016 là phù_hợp với lộ_trình của châu_âu cũng như các nước thành_viên asean 
+20,công_văn cũng dẫn thêm  tại thái_lan  lào  campuchia  myanmar  thời_hạn áp_dụng cũng đến tháng 11/2016  indonesia là tháng 12/2016 và tại úc là tháng 10/2017 
+21, chúng_tôi xin khẳng_định  doanh_nghiệp hoàn_toàn tuân_thủ quy_định của bộ y_tế việt_nam về thời_hạn áp_dụng và chịu trách_nhiệm cung_cấp cho người tiêu_dùng những sản_phẩm an_toàn   công_văn nêu rõ 
+22,về việc ghi nhãn sản_phẩm mỹ_phẩm  hiệp_hội cũng cho biết thêm là tuân_thủ theo quy_định của bộ y_tế tại thông_tư 06/2011 / tt  byt  phù_hợp với nghị_định mỹ phẩm asean cũng như nghị_định 89 / nđ  cp của chính_phủ quy_định về ghi nhãn hàng_hóa áp_dụng cho các sản_phẩm khác 
+23,theo đó  quy_định không bắt_buộc ghi tỷ_lệ thành_phần trên bao_bì sản_phẩm cũng không phải liệt_kê hàm_lượng của các thành_phần trong công_thức trên nhãn 

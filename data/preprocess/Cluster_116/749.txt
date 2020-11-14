@@ -1,0 +1,8 @@
+idx, sentence
+0,công_bố của tổng_cục thống_kê cho thấy chỉ_số giá tiêu_dùng  cpi  tháng 5/2016 tăng 054  so với tháng trước  tăng 228  so với cùng kỳ năm trước và tăng 188  so với tháng 12 năm trước 
+1,như_vậy  cpi bình_quân 5 tháng đầu năm nay so với cùng kỳ năm trước tăng 159  
+2,theo tổng_cục thống_kê  trong 11 nhóm hàng_hóa và dịch_vụ chính  nhóm giao_thông có mức tăng cao nhất  239    thứ hai là nhóm nhà_ở và vật_liệu xây_dựng  tăng 088    đứng thứ ba là nhóm hàng_hóa và dịch_vụ khác  056   
+3,8 nhóm hàng còn lại có mức tăng nhẹ  như hàng_ăn và dịch_vụ ăn_uống tăng 036   văn_hóa  giải_trí và du_lịch tăng 034   nguyên_nhân khiến cpi tháng 5 được đại_diện tổng_cục thống_kê cho biết là chỉ_số giá nhóm lương_thực tăng 068  và tăng ở hai kỳ đầu của tháng do thương_lái thu_gom lúa gạo thực_hiện các hợp_đồng xuất_khẩu gạo đã ký và tác_động của khô hạn  xâm_nhập mặn tại các tỉnh đồng_bằng sông_cửu_long 
+4,cùng với đó  chỉ_số nhóm thực_phẩm tăng 038  chủ_yếu tăng ở nhóm hàng các loại thịt sau khi xảy ra hiện_tượng cá chết tại các tỉnh miền trung  người dân hạn_chế sử_dụng thủy_hải_sản  cùng với việc thương_lái thu_gom lợn hơi để xuất_khẩu sang trung_quốc 
+5,trong tháng 5  chỉ_số giá nhóm giao_thông tăng cao là do giá xăng_dầu trong nước được điều_chỉnh tăng vào ngày 20/4/2016 và ngày 5/5/2016 dẫn tới chỉ_số giá nhóm nhiên_liệu tăng 515  so với tháng trước 
+6,giá gas tăng 244  do các doanh_nghiệp tăng 5000 đồng / bình 12 kg từ ngày 152016 do giá gas thế_giới tăng 

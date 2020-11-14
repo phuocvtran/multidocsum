@@ -1,0 +1,13 @@
+idx, sentence
+0,chiều qua  ngày 31/5  tại hà_nội  bộ_gtvt đã tổ_chức lễ công_bố dịch_vụ công mức_độ 4 cấp giấy_phép lái_xe quốc_tế 
+1,thứ_trưởng nguyễn_hồng trường đã tới dự và nhấn nút khai_trương 
+2,theo phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam phan_thị_thu_hiền  thực_hiện kế_hoạch cung_cấp dịch_vụ công trực_tuyến của bộ_gtvt  giai_đoạn 2013  2015  định_hướng đến năm 2020  sau 5 tháng nghiên_cứu  xây_dựng hệ_thống cung_cấp dịch_vụ công mức_độ 4 cấp giấy_phép lái_xe quốc_tế quốc_tế  tổng_cục đã hoàn_thành các thủ_tục để chính_thức đưa vào sử_dụng dịch_vụ 
+3,việc cấp và quản_lý gplx quốc_tế mang lại sự thuận_lợi cho người lao_động  lưu_học_sinh và cán_bộ đang làm_việc  công_tác tại các nước tham_gia công_ước_viên 1968 được sử_dụng giấy_phép lái_xe nội_địa và giấy_phép lái_xe quốc_tế để lái_xe theo quy_định của luật_pháp quốc_tế 
+4,người có nhu_cầu cấp gplx quốc_tế không phải đến trực_tiếp để làm thủ_tục và nhận kết_quả  công_dân đã có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử  wwwdrvngovvn và wwwdichvuconggplxgovvn  8000  kết_quả gplx quốc_tế sẽ được đơn_vị bưu_chính chuyển phát đến tận_tay người nhận 
+5,bước đầu  việc cấp gplx quốc_tế cấp_độ 4 được thực_hiện tại tổng_cục đường_bộ việt_nam  sau đó sẽ triển_khai ở các thành_phố lớn 
+6,mức lệ_phí là 135000 đồng / giấy_phép lái_xe 
+7,điều_kiện để người có nhu_cầu thực_hiện dịch_vụ công mức_độ 4 cấp idp gồm  có giấy_phép lái_xe bằng vật_liệu pet còn giá_trị sử_dụng và có trong cơ_sở dữ_liệu giấy_phép lái_xe toàn_quốc  có tài_khoản ngân_hàng để thanh_toán trực_tuyến … đại_diện tổng_cục đường_bộ việt_nam cho hay  việc cấp và quản_lý giấy_phép lái_xe quốc_tế cấp_độ 4 sẽ mang lại sự thuận_lợi cho người dân  tiết_kiệm được thời_gian đi_lại  giảm chi_phí phát_sinh 
+8,giấy_phép lái_xe quốc_tế có thời_hạn không quá 3 năm và được sử_dụng để lái_xe tại 85 quốc_gia tham_gia_công_ước quốc_tế 1968 về giao_thông đường_bộ và_công_ước về biển_báo – tín_hiệu đường_bộ  công_ước vienna  
+9,giấy_phép lái_xe quốc_tế giống như hộ_chiếu  gồm nhiều trang được in song_ngữ tiếng việt và tiếng anh 
+10,giấy_phép lái_xe quốc_tế sẽ ghi rõ lái_xe được lái ô_tô  mô_tô loại nào 
+11,người được cấp giấy_phép lái_xe quốc_tế là người việt_nam  người nước_ngoài có thẻ thường_trú tại việt_nam  có giấy_phép lái_xe quốc_gia do việt_nam cấp còn giá_trị sử_dụng 

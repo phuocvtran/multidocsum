@@ -1,0 +1,12 @@
+idx, sentence
+0,mùa giải 2015 / 16 tới đây  jose_mourinho sẽ lại có cơ_hội đối_đầu với kỳ_phùng địch_thủ pep_guardiola  khi người đặc_biệt dẫn_dắt manchester_united còn chiến_lược gia người tây ban_nha dẫn_dắt manchester_city 
+1,sự thù_hận giữa hai chiến_lược gia hàng_đầu thế_giới này đã quá nổi_tiếng trong làng túc_cầu 
+2,mourinho từng móc mắt vilanova  trợ_lý của guardiola rồi dùng mọi chiêu trò để khiêu_khích đối_phương 
+3,ngược_lại  pep từng gọi vị chiến_lược gia người bồ_đào_nha là tên khốn trong phòng họp_báo 
+4,tuy_nhiên  trong lần trả_lời phỏng_vấn mới_đây khi đến tham_dự buổi nói_chuyện tại đại_học lisbon  mourinho thẳng_thắn nhận_định cuộc đối_đầu giữa ông và guardiola sẽ chẳng có nhiều ý_nghĩa tại ngoại_hạng anh 
+5,người đặc_biệt chia_sẻ  “ kinh_nghiệm không cho_phép tôi ngây_thơ 
+6,tôi đã ở tây ban_nha cùng guardiolna 2 năm  nơi mà nhà vô_địch là tôi hoặc ông ta 
+7,vì_vậy cuộc đối_đầu cá_nhân_ảnh_hưởng trực_tiếp đến cuộc đua đến chức vô_địch ” 
+8,“ nhưng tại ngoại_hạng anh  nếu tôi tập_trung vào ông ta và man_city  ông ta cũng chỉ tập_trung vào tôi và mu  đội bóng khác sẽ vô_địch 
+9,4 nhà vô_địch trong 4 năm cho thấy sự khốc_liệt của giải đấu này 
+10,điều này khác_biệt hoàn_toàn các giải đấu khác  nơi cá_mập mãi là cá_mập ” 

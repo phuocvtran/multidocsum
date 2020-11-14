@@ -1,0 +1,13 @@
+idx, sentence
+0,lễ tuyên_thệ của bà thái diễn ra trước một lá cờ đài_loan và chân_dung người sáng_lập hòn đảo tôn_dật_tiên 
+1,cơ_quan ngoại_giao đài_loan cho biết gần 700 nguyên_thủ quốc_gia  các nhà ngoại_giao và quan_chức các nước đã đến tham_dự sự_kiện 
+2,trong vai_trò mới  bà thái sẽ phải đương_đầu với nhiều thách_thức to_lớn  bao_gồm giải_quyết mối quan_hệ nguội_lạnh với trung_quốc và vực dậy nền kinh_tế vốn đang suy_thoái do xuất_khẩu giảm mạnh 
+3,trung_quốc tuyên_bố đài_loan là lãnh_thổ của mình  đồng_thời đe_dọa sẵn_sàng chiếm lại bằng vũ_lực nếu cần_thiết 
+4,bắc kinh cũng phản_ứng cuộc bầu_cử ở đài_loan vào tháng 1 năm nay 
+5,lúc đó  đảng dân_chủ tiến_bộ  dpp  do bà thái dẫn_đầu đã giành được chiến_thắng vang_dội 
+6,đáng nói là dpp có xu_hướng ủng_hộ đài_loan độc_lập nên khiến trung_quốc phật_ý 
+7,sau cuộc bầu_cử  bắc_kinh tăng_cường áp_lực lên hòn đảo bằng cách tổ_chức một_số cuộc tập_trận quân_sự  gây sức_ép về ngoại_giao và buộc kenya trục_xuất công_dân đài_loan về đại_lục để điều_tra về tội gian_lận viễn_thông 
+8,gần đây  hôm 135  lầu năm góc trong một báo_cáo thường_niên về các hoạt_động quân_sự của trung_quốc trình lên quốc_hội mỹ đã cảnh_báo trung_quốc đang mở_rộng năng_lực quân_sự để tiến tới khả_năng tấn_công đổ_bộ vào lãnh_thổ đài_loan 
+9,theo lầu năm_góc  trung_quốc đưa ra nhiều kế_hoạch cho một cuộc  đổ_bộ xâm_chiếm đài_loan  
+10,trong số này  nổi_bật là hoạt_động mang tên  chiến_dịch đổ_bộ đảo kết_hợp  với sự quy_tụ của không_quân  hải_quân  đơn_vị tác_chiến điện_tử và hậu_cần 
+11,mục_đích của bắc_kinh là xuyên thủng hoặc phá vỡ hệ_thống phòng_thủ bờ biển của đài_bắc  thiết_lập và xây_dựng bãi đổ_bộ  vận_chuyển binh_lính và thiết_bị quân_sự tới phía bắc hoặc phía nam của bờ biển phía tây đài_loan  sau đó khởi_động các cuộc tấn_công để chiếm_lĩnh các mục_tiêu quan_trọng hoặc toàn_bộ hòn đảo 

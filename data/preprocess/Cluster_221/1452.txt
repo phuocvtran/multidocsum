@@ -1,0 +1,2 @@
+idx, sentence
+0,tại cơ_quan điều_tra  tú khai nhận cùng với nhiều đối_tượng ở các tỉnh  thành_phố trong đó có một_số đối_tượng sinh_sống tại hải_phòng tạo thành đường_dây vận_chuyển  mua_bán ma_túy số_lượng lớn từ tuyến biên_giới tây_bắc về hải_phòng sau đó chuyển_tiếp đi các tỉnh khác tiêu_thụ 

@@ -1,0 +1,13 @@
+idx, sentence
+0,theo đó  khi cơ_quan công_an huyện quế_phong  nghệ_an  vào cuộc điều_tra vụ giết người  cướp tài_sản xảy ra trên địa_bàn bản cỏ_nong  xã mường_noọc  huyện quế_phong  thì nghi can của vụ_án là vi_văn_thắng  sn 1993  trú tại bản cỏ_nong  xã mường_noọc  đã trốn khỏi địa_phương 
+1,với những dấu_vết để lại  cơ_quan điều_tra phát_hiện thắng đang lẩn trốn tại nhà của chị_gái  ở xã tiền_phong  huyện quế_phong  
+2,lực_lượng công_an đã bao_vây và kêu_gọi nghi can ra đầu_thú để hưởng sự khoan_hồng của pháp_luật 
+3,tuy_nhiên  nghi can thắng đã trốn trong nhà_vệ_sinh rồi dùng dao cứa_cổ để tự_sát 
+4,may_mắn lực_lượng chức_năng kịp_thời phát_hiện đưa thắng đi bệnh_viện cấp_cứu 
+5,hiện  nghi can thắng đang được cấp_cứu tại bv đa_khoa huyện quế_phong  trong sự giám_sát chặt_chẽ của các chiến_sĩ công_an 
+6, thắng bị nghiện từ lâu và thường đi trộm_cắp tài_sản của người_dân trên địa_bàn   ông lương trường_sơn cho biết 
+7,trước đó  vào_khoảng 21 h ngày 28/5  người dân bản nghe tiếng hét kinh_hoàng từ gia_đình ông sầm_văn_dần  sn 1955  và bà vi_thị_loan  sn 1953   trú bản cỏ_noong  xã mường_noọc  huyện quế_phong  nghệ_an  
+8,ngay_lập_tức mọi người chạy đến thì thấy ông dần có nhiều vết dao đâm ở cổ và bụng  ngực  đang lê_lết đến nhà anh vi_văn_xan  ở bản cỏ_nong  xã mường_noọc  cách đó khoảng 200 m báo tin là ở trong nhà bà loan đã bị giết chết 
+9,mọi người chạy đến nhà vợ_chồng ông dần phát_hiện bà loan đã tử_vong  đôi bông_tai bằng vàng trên tai bà loan đã bị kẻ cướp lột lấy 
+10,riêng ông dần được đưa đến bệnh_viện đa_khoa huyện quế_phong cấp_cứu 
+11,tuy_nhiên  do tình_trạng nguy_kịch nên nạn_nhân đã được chuyển đi bệnh_viện hữu_nghị đa_khoa tỉnh nghệ_an ngay trong đêm 

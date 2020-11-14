@@ -1,0 +1,17 @@
+idx, sentence
+0,tin mới nhất từ cơ_quan công_an tỉnh bắc_giang cho_biết  đôi vợ_chồng quê ở thanh_hóa phát_hiện chết ở thôn đồng_rì  thị_trấn thanh_sơn  huyện sơn_động có dấu_hiệu sử_dụng vật_liệu nổ 
+1,công_an cũng xác_định  hai vợ_chồng tử_vong ở hai địa_điểm khác nhau 
+2,theo đó  người chồng là anh tvt_sinh năm 1983 ở triệu_sơn  thanh_hóa   còn người vợ sinh năm 1985 
+3,do hoàn_cảnh khó_khăn  nên hai vợ_chồng anh t đã ra bắc_giang xin việc mưu_sinh 
+4,hiện hai vợ_chồng đều đang làm_việc tại một công_ty than đóng trên địa_bàn với công_việc bảo_vệ và nấu cơm 
+5,thời_gian gần đây  một_số người phát_hiện vợ_chồng anh t thường_xuyên xảy ra mâu_thuẫn  cãi_vã 
+6,trưa 19/5  khi trở_lại công_ty sau giờ nghỉ trưa  một_số đồng_nghiệp phát_hiện anh t có dấu_hiệu bất_thường 
+7,chỉ ít phút sau đó  nhiều người bàng_hoàng nghe tiếng nổ vang trời 
+8,chạy tới_nơi thì phát_hiện anh t đã tử_vong 
+9,biết sự_việc chẳng lành  mọi người chạy đến căn nhà vợ_chồng anh t thuê trọ thì phát_hiện ngôi nhà khóa cửa 
+10,phá cửa vào bên trong thì thấy vợ anh t cũng đã chết 
+11,một cán_bộ công_an huyện sơn_động thông_tin thêm với phóng_viên báo_công_lý cho biết  gia_đình của nạn_nhân cho biết hai vợ_chồng anh t không có con 
+12,hoàn_cảnh ở quê hết_sức khó_khăn 
+13,mới_đây  vợ_chồng anh t cũng về quê chơi nhưng gia_đình không phát_hiện có mâu_thuẫn giữa hai vợ_chồng 
+14,bước đầu cơ_quan công đặt nghi_vấn  do mâu_thuẫn gia_đình anh t đã giết vợ sau đó tự_sát bằng vật_liệu nổ  mìn tự chế  
+15,công_an tỉnh bắc_giang đang giám_định vật_liệu nổ trên 

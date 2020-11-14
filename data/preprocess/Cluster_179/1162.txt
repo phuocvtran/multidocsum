@@ -1,0 +1,6 @@
+idx, sentence
+0,ngày hôm_qua  lđ_judo thế_giới đã công_bố bxh mới nhất của các võ_sĩ ở các hạng cân 
+1,đây là bxh có ý_nghĩa quyết_định đến các việc vđv không_thể giành vé từ các vòng loại có suất tham_dự olympic hay không 
+2,ở hạng 48 kg nữ  văn_ngọc_tú xếp_hạng 44 và thứ_hạng này là vừa đủ để cô có được tấm vé thứ 19 cho thể_thao việt_nam dự ngày hội thể_thao thế_giới tại brazil 
+3,trước đó  văn_ngọc_tú đã thi_đấu không thành_công ở các giải vòng loại khi thường bị loại sớm ở các vòng đầu_tiên 
+4,tuy_nhiên  số điểm tích_lũy của võ_sĩ 28 tuổi luôn ở mức ổn_định trong top 50 và điều đó giúp cô có một suất đến olympic 

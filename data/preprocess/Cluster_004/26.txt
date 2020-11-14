@@ -1,0 +1,32 @@
+idx, sentence
+0,những quan_điểm nêu trên được các chuyên_gia chia_sẻ tại hội_thảo “ tp hcm  khát_vọng vươn lên ” do báo tuổi_trẻ tổ_chức ngày 19/5 
+1,theo pgs 
+2,ts trần_đình_thiên  viện_trưởng viện kinh_tế việt_nam  tp hcm là đầu_tàu của cả nước nhưng vẫn chạy không khác những toa còn lại 
+3,nhiều đô_thị trong khu_vực có xuất_phát_điểm thấp hơn nhưng đã vượt qua tp hcm như singapore  thẩm_quyến … do_vậy  phải nhìn_nhận thành_phố đang tụt_hậu rồi tìm vấn_đề  trách_nhiệm để giải_quyết 
+4, đất_nước phải lo cho đầu_tàu này chạy để kéo 62 toa còn lại theo  chứ hiện_nay tp hcm phải cáng_đáng cả nước 
+5,thành_phố là đầu_tàu mà không được chạy thì không sao phát_triển được 
+6,phải nhìn thẳng vào vấn_đề và không nên tự_ái  buồn_phiền gì cả ”  ông thiên_nhấn_mạnh 
+7,viện_trưởng viện kinh_tế cho rằng  hiện tp hcm muốn làm cái gì cũng phải trình trung_ương xem_xét từ việc lớn đến bé 
+8,hàng nghìn việc như thế nhưng thành_phố phải cặm_cụi đi xin từng cái một  thành_ra cơ_chế xin  cho_nên không biết bao_giờ mới khá nổi 
+9,ông thiên nhận_định  gần đây tp hcm không có động_lực để tiến lên 
+10,đơn_cử như việc thành_phố thu vượt ngân_sách nhưng không được hưởng  kiểu như làm thêm nhiều tiền mà không được hưởng 
+11,đồng quan_điểm  ông huỳnh_thế_du  giám_đốc chương_trình giảng_dạy kinh_tế fulbright cho rằng  ngoài cơ_chế xin  cho  lực_cản của tp hcm xoay quanh đội_ngũ công_chức thiếu động_cơ và công_cụ làm_việc 
+12,đơn_cử như làm một việc gì có thành_tích thì không khen_thưởng  nhưng thất_bại sẽ bị phạt 
+13,cái này do cơ_chế trách_nhiệm tập_thể mà ra 
+14,“ tp hcm có quá nhiều vòng kim cô cơ_chế  thể_chế đã biến thành một địa_phương bình_thường như bao tỉnh_thành khác của cả nước ”  ông du nói  đồng_thời làm_phép so_sánh 12 đô_thị ở châu_á như hong_kong  singapore  bangkok  mumbai  manila  kuala_lumpur  về năng_lực cạnh_tranh và môi_trường sống thì tp hcm đứng chót bảng vì bị chững lại quá lâu và tụt_hậu xa so với các đô_thị khác 
+15,còn tiến_sĩ vũ_minh_khương  đại_học quốc_gia singapore  cho rằng  tp hcm có nguy_cơ mất vai_trò đầu_tàu và rơi vào bẫy thu_nhập trung_bình 
+16,thành_phố tuy đóng_góp đến một_phần_ba gdp cả nước nhưng nhiều năm nay vẫn duy_trì mức như_thế 
+17,“ chưa thấy ở tp hcm một đầu_tàu ghê_gớm để các tỉnh học theo vươn lên 
+18,thành_phố đang mất dần lợi_thế của người đi đầu  mà là người đi đầu thì phải tự vượt lên chứ không ai giúp được gì và không trông_đợi ở ai cả ”  ông khương phân_tích 
+19,vị tiến_sĩ đang giảng_dạy ở singapore cũng cho rằng người việt có tính gặp thành_công là đứng lại tận_hưởng  chấm điểm thưởng  dễ thỏa_mãn 
+20,ở singapore hoàn_toàn khác  thành_công chỉ làm họ có thêm động_lực để tạo thành_công mới 
+21,ông khương cũng đưa ra dự_báo đến năm 2040  dân_số việt_nam sẽ già đi 
+22,trong 2030 năm tới  nếu tp hcm không phát_triển được coi như không đứng lên nổi 
+23, học_giả quốc_tế có câu người trung_quốc già nhưng chưa giàu  trong khi người việt_nam già nhưng chưa có một đô_thị tử_tế  một suy_luận cay_đắng cho nước ta   ông khương nói 
+24,kết_luận hội_thảo  chủ_tịch ubnd tp hcm nguyễn_thành_phong cảm_ơn các nhà_khoa_học  nhà quản_lý  nhà_đầu_tư  doanh_nghiệp đã tham_gia  đóng_góp ý_kiến và trình_bày trăn_trở  hướng phát_triển cho thành_phố 
+25, hiện sức_mạnh của kinh_tế_thị_trường vẫn chưa được thành_phố phát_huy 
+26,các khuôn_khổ thể_chế chung vẫn chưa sẵn_sàng cho những thay_thế  đột_phá 
+27,độ phức_tạp của luật  chồng lấn qua nhiều thời_kỳ nên tp hcm phải tìm cách vượt_rào vươn lên   ông phong nói và hứa sẽ xây_dựng tp hcm thành nơi đáng sống  văn_minh  hiện_đại  nghĩa_tình 
+28,ông phạm_phú_quốc  giám_đốc công_ty đầu_tư tài_chính nhà_nước tp hcm cho biết  trong nhiệm_kỳ  2016  2020   địa_phương cần hơn 215000 tỷ đồng để đầu_tư 
+29,trong đó vốn ngân_sách khoảng 130000 tỷ  còn thiếu 85000 tỷ đồng 
+30,thành_phố đang đặt ra 7 chương_trình đột_phá cần thực_hiện là chất_lượng nguồn nhân_lực  cải_cách hành_chính  tăng_trưởng năng_lực cạnh_tranh  chỉnh_trang đô_thị  giảm ngập nước  ùn_tắc giao_thông và ô_nhiễm môi_trường 

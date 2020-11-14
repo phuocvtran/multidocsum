@@ -1,0 +1,6 @@
+idx, sentence
+0,ngày 245  giờ_địa_phương   hoàng_xuân_vinh đã lọt vào chung_kết sau khi xếp thứ 4 ở vòng loại nội_dung 10 m súng ngắn_hơi nam 
+1,tại chung_kết  xuân_vinh đạt kết_quả 1798 điểm qua đó đứng hạng 3  đoạt hcđ 
+2,hcv nội_dung là oleh_omelchuk  ucraina  với 2019 điểm 
+3,đây là hcđ thứ 2 của hoàng_xuân_vinh  trước đó  anh từng giành hcđ cùng nội_dung tại issf_world_cup 2016 ở bangkok  thái_lan  
+4,trước đó  xuân_vinh và quốc_cường đã thi_đấu bài bắn 50 m súng ngắn_hơi nhưng không đạt kết_quả cao 

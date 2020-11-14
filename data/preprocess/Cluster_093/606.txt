@@ -1,0 +1,11 @@
+idx, sentence
+0,reuters ngày 9/8 đưa tin cho biết  tổ_chức nhà_nước hồi_giáo  is  tự_xưng đã lên tiếng nhận trách_nhiệm_vụ đánh bom liều chết ở bệnh_viện tại thành_phố quetta của pakistan  làm 93 người thiệt_mạng và hơn 100 người khác bị_thương 
+1,theo hãng tin amaq  “ một phần_tử tử_vì_đạo của is đã kích đai thuốc_nổ giữa đám đông các nhân_viên của bộ_tư_pháp và cảnh_sát pakistan ở thành_phố quetta ” 
+2,giới phân_tích cho rằng  nếu thông_tin này là đúng sự_thật thì đây là tín_hiệu đáng báo_động đối_với pakistan bởi is từ trước đến nay thường chỉ hậu_thuẫn những nhóm chiến_binh sở_tại thực_hiện các vụ tấn_công thay_vì trực_tiếp “ nhúng_tay ” vào 
+3,hiện thông_tin này vẫn chưa được xác_thực 
+4,trước đó  ngày 8/8  nhánh taliban ở pakistan_jamaaturahrar đã thừa_nhận thực_hiện vụ đánh bom liều chết nói trên 
+5,trong một tuyên_bố  người phát_ngôn nhóm jamaaturahrar_ehsanullah_ehsan cho biết  “ jamaaturahrar thừa_nhận tiến_hành vụ tấn_công đó  và thề sẽ tiếp_tục thực_hiện nhiều vụ tấn_công tương_tự ” 
+6,lực_lượng này còn cho biết sẽ sớm công_bố một đoạn băng_video về vụ tấn_công 
+7,trong khi vẫn chưa_thể biết được thủ_phạm thực_sự của vụ tấn_công thì con_số thương_vong trong vụ_việc vẫn chưa dừng lại 
+8,rehmat saleh_baloch  một quan_chức y_tế địa_phương cho biết  “ có rất nhiều người bị_thương  vì_vậy mà số người chết có_thể còn tăng lên trong thời_gian tới ” 
+9,vụ nổ xảy ra vào thời_điểm có hơn 200 người  trong đó chủ_yếu là các luật_sư và nhà_báo  tập_trung tại khoa cấp_cứu của bệnh_viện dân_sự quetta sau khi ông bilal_anwar_kasi  một luật_sư nổi_tiếng và là chủ_tịch hội luật_gia balochistan  bị hai tay súng sát_hại trong một vụ tấn_công trước đó và thi_thể được đưa vào bệnh_viện này 

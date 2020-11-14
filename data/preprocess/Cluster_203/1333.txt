@@ -1,0 +1,34 @@
+idx, sentence
+0,đề thi ra một tình_huống sau  anh a  trong tâm_trạng rất bất_ổn đến trung_tâm_tư_vấn pháp_luật có yêu_cầu tư_vấn về vụ_việc vừa xảy ra tại nhà anh 
+1,đề_bài cho_phép học_viên sử_dụng tài_liệu 
+2,nội_dung vụ_việc mà anh a trình_bày có_thể đã được thể_hiện tóm_tắt bằng thơ với nhiều đoạn thú_vị như sau  … mặt_trời vừa_mới nhú anh a liền mang sang lọ dung_dịch màu vàng … bôi đôi gò bồng đào … hôn vợ yêu một cái anh a vội đi làm anh đến thẳng cơ_quan … làm lu bu công_việc … một hồi sau mới biết mình lấy nhầm lọ rồi … lọ thuốc … cực độc … ôi … 
+3,con ơi … 
+4,ba có tội … 
+5,… đoạn cuối bài thơ như sau  nhìn thấy từ  xa_xa nhà đông người qua lại người thì hô cấp_cứu kẻ bảo  nó chết rồi ôi 
+6,ba giết con rồi anh a khuỵu trước cổng như phép tiên … rồi bỗng … đứa bé từ trong nhà rẽ đám đông chạy ra … ôm_chầm lấy người cha … hổn_hển … mách rằng là … 
+7,chú hàng_xóm … gần nhà … chết … trong kia … ba ạ … 
+8,đề thi được đưa lên mạng và đã thu_hút sự quan_tâm của nhiều người bởi_lẽ từ trước đến nay  những bộ_môn khô_khan của ngành luật ít khi có những đề thi dí_dỏm như vậy 
+9,độc_giả mỹ_dung  hà_nội  cho biết  tụi mình lúc đầu cũng chưa hiểu ra vấn_đề nhưng càng đọc đến cuối càng thấy thú_vị 
+10,đặc_biệt ở cái kết của bài thơ là một tình_huống vừa hài_hước nhưng rất hấp_dẫn 
+11,ông vũ_văn_cương xác_nhận với pv dân_trí  đề thi do chính trung_tâm tư_vấn pháp_luật  thuộc đh luật_hà_nội  ra_vào ngày 30 tháng 5 
+12,đây là đề thi hết học_phần  môn “ kĩ_năng chung về tư_vấn pháp_luật ”  dành cho các sinh_viên đang theo học văn_bằng hai của trung_tâm 
+13,được biết  đề thi do ban ra đề phụ_trách 
+14,trong đó  với vai_trò quyền giám_đốc trung_tâm  ông cương chịu trách_nhiệm đứng đầu 
+15,theo ông cương  về cơ_bản  các câu hỏi vẫn theo dạng đề thi truyền_thống trước đây 
+16,tuy_nhiên  chỉ khác nhau ở cách_thức thể_hiện phần tình_huống được biến_tấu cho khác lạ và thú_vị  kích_thích sự sáng_tạo của người làm bài 
+17,chia_sẻ về lý_do vì_sao trung_tâm quyết_định ra đề thi cho một môn_học khô_khan bằng thơ  ông cương cho biết  đề có_thể viết bằng văn_xuôi hoặc bằng thơ 
+18,tuy_nhiên  viết bằng thơ có một_số lợi_thế  giúp người đọc có cảm_nhận tốt hơn  có_thể diễn_tả sự_việc có hình_ảnh  thể_hiện được tâm_trạng của nhân_vật trong sự_kiện  tình_huống mà mình đưa ra 
+19,“ khi đưa đề thi ra  chúng_tôi thấy số đông người học tiếp_nhận khá nhẹ_nhàng và vui_vẻ 
+20,đối_tượng sinh_viên đang học ở đây là những người đã đi làm  đã có một bằng đại_học nên trong một kì_thi căng_thẳng  thời_tiết nóng_bức  nếu đề thi có chút gì nhẹ_nhàng  hài_hước trong khuôn_khổ  có_thể tạo ra cho người làm sự dễ_chịu  thoải_mái khi đọc đề sẽ giúp_việc làm bài hiệu_quả hơn ”  ông cương nói 
+21,ông cũng cho biết thêm  để có một đề thi bằng thơ  phải rất cầu_kì  đầu_tư nhiều công_sức như chọn từ  hài_hòa âm_điệu nhưng không được thiếu dữ_kiện 
+22,vì_thế  ban soạn_thảo mất nhiều thời_gian hơn so với bình_thường 
+23,mặc_dù đề thi_hài_hước nhưng cái “ hài ” này vẫn nằm trong khuôn_khổ nên không làm mất đi tính mô_phạm 
+24,“ tôi giảng_dạy môn này và đã ra đề nhiều lần 
+25,tôi nghĩ ra đề theo lối truyền_thống hơi nhàm_chán nên muốn đưa một cái gì đó mới_lạ 
+26,việc đưa cái mới ra  tất_nhiên sẽ có người ủng_hộ  người không ủng_hộ là điều bình_thường 
+27,nhưng tôi nghĩ đây là một bước đột_phá xem có nâng cao chất_lượng hiệu_quả cho học_viên hay không ”  ông cương cho hay 
+28,theo ông cương  đây là môn kỹ_năng nên qua tình_huống này  người học luật phải nhìn_nhận các vấn_đề thận_trọng hơn 
+29,nếu đọc qua đề thì 99  người không có chuyên_môn pháp_luật sẽ suy_luận ngay vấn_đề ngoại_tình  vấn_đề nhảm_nhí của xã_hội 
+30,đây là cách nhìn nông_cạn 
+31,nếu người làm pháp_luật mà nhìn_nhận cái chết của nhân_vật như_vậy sẽ dẫn đến nhiều án oan sai 
+32,đề thi yêu_cầu học_viên phải có tầm nhìn khác  tư_duy rộng và toàn_diện hơn 

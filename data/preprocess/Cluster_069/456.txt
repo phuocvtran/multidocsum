@@ -1,0 +1,9 @@
+idx, sentence
+0,tối 20/5  ban kỷ_luật liên_đoàn bóng_đá việt_nam  vff  đã đưa ra án phạt nguội đối_với trương_đình_luật 
+1,tuyển_thủ việt_nam hiện khoác áo clb bình_dương bị treo_giò 3 trận liên_tiếp ở vleague  nộp phạt hành_chính thêm 15 triệu đồng 
+2,với án phạt nguội này  đình_luật nhiều khả_năng sẽ bị gạch tên khỏi đội_tuyển quốc_gia giống như trường_hợp của văn_quyết hồi tháng 3/2016 
+3,ở phút 85 lượt đấu bù vào ngày 18/5 giữa qnk quảng_nam và bình_dương  đình_luật  bình_dương  đã có hành_vi cố_tình xâm_phạm thân_thể cầu_thủ ogbuke_felix 
+4,cụ_thể  trung_vệ của đội bóng đất thủ có pha trả_đũa thô_bạo  giẫm lên bụng đối_phương sau khi bị phạm lỗi 
+5,trong 1 năm trở_lại đây  tuyển việt_nam liên_tục thiệt quân trước các giải đấu lớn 
+6,trung_vệ quế_ngọc_hải cũng vừa trở_lại khoác màu áo đỏ sau 6 tháng bị treo_giò 
+7,dựa trên tiêu_chí  bất_thành_văn  của vff  tuyển_thủ đang trong thời_gian thực_hiện án kỷ_luật thì không xuất_hiện trong các trận đấu của tuyển việt_nam  cụ_thể là trường_hợp của văn_quyết  ngọc_hải trong thời_gian gần đây 

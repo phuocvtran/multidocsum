@@ -1,0 +1,4 @@
+idx, sentence
+0,tờ telegraph vừa xếp_hạng 16 thành_phố có nền ẩm_thực ngon và phong_phú nhất thế_giới 
+1,hà_nội đứng đầu danh_sách với một loạt những món ăn ngon và hấp_dẫn 
+2,các món được nêu ra có bún_chả  phở  bánh_mì pate ăn kèm dưa_chuột rau_thơm  cơm_tấm với thịt lợn nướng  tờ_báo khẳng_định đây là những món ăn quen_thuộc của người hà_nội 

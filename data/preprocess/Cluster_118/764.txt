@@ -1,0 +1,8 @@
+idx, sentence
+0,thông_báo từ lse hôm 23/4 cho biết  nữ diễn_viên đạt giải oscar sẽ cùng với cựu ngoại_trưởng anh william_hague tham_gia giảng_dạy một khóa học về tác_động của chiến_tranh đối_với phụ_nữ thuộc chương_trình đào_tạo thạc_sĩ về phụ_nữ  hòa_bình và an_ninh của trường này 
+1,khóa học này nhằm “ phát_triển các chiến_lược thúc_đẩy bình_đẳng giới và tăng_cường sự tham_gia của phụ_nữ trong các lĩnh_vực kinh_tế  xã_hội và chính_trị ” 
+2,giáo_sư thỉnh_giảng sẽ đóng một vai_trò tích_cực trong việc đưa ra các bài_giảng  tham_gia hội_thảo và tiến_hành nghiên_cứu riêng của họ 
+3,jolie là đại_sứ thiện_chí của cao_ủy liên_hiệp_quốc về người tị_nạn từ năm 2001 và hiện đang là một đặc_phái_viên của tổ_chức này 
+4,nữ diễn_viên cho biết cô được truyền_cảm_hứng bởi sự sáng_tạo của khóa học  và cô hi_vọng các trường đại_học khác cũng sẽ làm theo  ” điều quan_trọng là chúng_ta mở_rộng thảo_luận về cách thúc_đẩy nữ_quyền và chấm_dứt những tội_ác gây ảnh_hưởng tới phụ_nữ một_cách không tương_xứng  như tình_trạng bạo_lực tình_dục trong các cuộc xung_đột ” 
+5,“ tôi đang rất mong_chờ được giảng_dạy và được học_hỏi từ các sinh_viên  cũng như chia_sẻ những trải_nghiệm của tôi khi làm_việc cùng các chính_phủ và liên_hiệp_quốc ” 
+6,khóa học kéo_dài 1 năm này sẽ bắt_đầu vào đầu năm_học 2017 

@@ -1,0 +1,10 @@
+idx, sentence
+0,cúp bắn súng thế_giới 2016 lần này quy_tụ tất_cả tay súng xuất_sắc nhất thế_giới 
+1,có tới 115 xạ_thủ đăng_ký tham_dự  tạo nên sức cạnh_tranh cực lớn 
+2,tuy_nhiên  trong điều_kiện như vậy  hoàng_xuân_vinh vẫn thi_đấu ổn_định để đạt thành_tích tốt 
+3,ngay tại vòng loại  hoàng_xuân_vinh đã xếp thứ tư với 585 điểm để giành quyền vào bài bắn chung_kết 
+4,còn xạ_thủ việt_nam khác là trần_quốc_cường xếp_hạng 25 với 579 điểm 
+5,đến bài bắn chung_kết  hoàng_xuân_vinh lần_lượt vượt qua các xạ_thủ nổi_tiếng thế_giới  trong đó có huyền_thoại bắn súng người hàn_quốc jing_jongoh  tay súng trung_quốc pang_wei và pu_qifeng  tay súng chủ nhà akindig
+6,cuối_cùng  hoàng_xuân_vinh dừng lại ở mức 1798 điểm để giành hcđ  kém 08 điểm so với người xếp trên  lọt vào chung_kết là ikeles  thổ_nhĩ_kỳ  
+7,sau đó  ikeles giành hcb với 2011 điểm trong khi hcv thuộc về oomelchuk  ukraine  với 2019 điểm 
+8,với hoàng_xuân_vinh  giành hcđ tại cúp thế_giới lần này cũng được coi là thành_công lớn 

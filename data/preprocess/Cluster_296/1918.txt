@@ -1,0 +1,12 @@
+idx, sentence
+0,tin từ ubnd tp hải_phòng chiều ngày 2/6  lãnh_đạo tp hải_phòng đã yêu_cầu sở xây_dựng kiểm_điểm  xem_xét lại việc ông đỗ_trọng_đạt  giám_đốc sở xây_dựng ký quyết_định bổ_nhiệm con_trai giữ chức phó trưởng_phòng thuộc sở xây_dựng không đúng quy_định 
+1,cụ_thể  vào ngày 12/11/2015  ông đạt đã ký quyết_định tiếp_nhận và bổ_nhiệm cho con_trai mình là ông đỗ_trọng_thành đang là công_chức của sở tài_chính về giữ chức phó trưởng_phòng quản_lý hoạt_động xây_dựng của sở xây_dựng 
+2,quyết_định này của ông đạt đã gây bức_xúc trong đội_ngũ cán_bộ  công_chức sở 
+3,ubnd thành_phố sau đó cũng đã nhận được nhiều phản_ánh xung_quanh vụ_việc trên 
+4,ngày 1/4/2016  ubndtp đã có văn_bản yêu_cầu sở nội_vụ vào cuộc xác_minh  làm rõ vụ_việc 
+5,ngày 29/4  sở nội_vụ đã chính_thức có kết_luận vụ_việc 
+6,theo đó  việc ông đạt bổ_nhiệm con_trai làm phó một phòng của sở là không đúng quy_định 
+7,cụ_thể ông đỗ_trọng_thành chưa có trình_độ trung_cấp lý_luận chính_trị đối_với chức_danh phó trưởng_phòng 
+8,cũng theo kết_luận của sở nội_vụ  qui_trình bổ_nhiệm ông thành cũng sai vì việc bổ_nhiệm này chỉ được ông đạt cho lấy ý_kiến của ban thường_vụ và lãnh_đạo sở  trong khi theo quy_định phải lấy ý_kiến của đảng_ủy_sở xây_dựng 
+9,bên_cạnh đó việc xin ý_kiến của lãnh_đạo sở và ban thường_vụ đảng_ủy_sở trong cùng một phiếu xin ý_kiến bằng văn_bản cũng chưa đúng với quy_định 
+10,mặc_dù sự_việc đã rõ nhưng sở nội_vụ tp hải_phòng lại không đề_xuất thu_hồi quyết_định bổ_nhiệm 

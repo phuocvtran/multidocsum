@@ -1,0 +1,12 @@
+idx, sentence
+0,theo đó  vào_khoảng 16 giờ cùng ngày  sau khi nhận tin báo có một_số lâm_tặc dùng thuyền sắt chở gỗ lậu trên sông krông_năng  chảy qua tỉnh gia_lai và phú_yên  nên lãnh_đạo hạt kiểm_lâm krông_pa đã cử tổ công_tác đi xác_minh 
+1,tổ công_tác gồm năm cán_bộ kiểm_lâm được cử đi gồm phạm_văn_duy  trần_kim_vũ  lê_văn_hóa  đoàn_xuân_hồng và đinh_việt_hồng 
+2,khi có_mặt tại hiện_trường  đoàn cán_bộ phát_hiện một chiếc thuyền sắt chở khoảng 45 m3 gỗ  trên thuyền có 4 người đang đi về phía tỉnh phú_yên 
+3,ngay sau đó  4 cán_bộ kiểm_lâm đã dùng thuyền nhỏ đuổi theo 
+4,khi nhóm cán_bộ yêu_cầu dừng lại kiểm_tra thì nhóm lâm_tặc dùng hung_khí tấn_công 
+5,trước tình_thế đó kiểm_lâm đinh việt_hồng đã rút súng bắn 5 phát súng chỉ_thiên 
+6,tuy_nhiên  nhóm lâm_tặc vẫn cho thuyền đâm vào thuyền nhỏ của tổ công_tác  đồng_thời dùng gậy tiếp_tục tấn_công làm kiểm_lâm phạm_văn_duy và lê_văn_hóa bị_thương 
+7,thấy vậy  kiểm_lâm đinh việt_hồng tiếp_tục bắn vào thuyền lâm_tặc với chủ_đích làm thuyền hư_hỏng  nước tràn vào chìm dần 
+8,khi nổ súng  do chiếc thuyền chao_đảo nên viên đạn đã trúng chân của đối_tượng nguyễn_sơn_đông  trú tỉnh phú_yên  
+9,sau đó nhóm lâm_tặc lái thuyền về phía tỉnh phú_yên  các cán_bộ kiểm_lâm đưa người bị thường đi cấp_cứu tại trung_tâm y_tế huyện krông_pa 
+10,theo ông dụng  đến tối 26 thì hạt kiểm_lâm nhận được tin từ công_an huyện krông_pa cho biết đối_tượng nguyễn_sơn_đông đã tử_vong do mất quá nhiều máu 

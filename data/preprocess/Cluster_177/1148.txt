@@ -1,0 +1,17 @@
+idx, sentence
+0,sáng nay  giờ vn   daily_mail đã đăng_tải những hình_ảnh cuộc gặp đầu_tiên của “ người đặc_biệt ” với ban lãnh_đạo mu
+1,chính huyền_thoại sir_bobby_charlton đã ra đón mourinho từ bãi giữ xe 
+2,vốn_dĩ  sir_bobby là người phản_đối gay_gắt nhất việc nhà cầm_quân người bồ_đào nha đến làm_việc tại “ quỷ đỏ ” 
+3,ông cho rằng  cá_tính và lối chơi ưa_thích của mourinho sẽ phá_hoại truyền_thống đào_tạo cầu_thủ trẻ của mu
+4,người mà sir_bobby nhắm thay_thế louis van_gaal chính là trợ_lý ryan_giggs 
+5,dù kế_hoạch bất_thành nhưng huyền_thoại “ quỷ đỏ ” vẫn tỏ ra hết_sức thân_thiện khi đón_tiếp mourinho 
+6,cả hai đã chào nhau bằng một cái ôm nồng_ấm và “ người đặc_biệt ” đã nói đùa “ ông là người giết chết giấc mơ của đất_nước tôi vào năm 1966  nhưng dẫu vậy  tôi vẫn rất tôn_trọng ông ”  tuyển anh loại bồ_đào_nha ở bán_kết trước khi vô_địch world_cup 1966  
+7,đáp lại lời chào của mourinho  sir_bobby bắt_tay chúc_mừng và đáp “ tôi rất vui khi thấy anh ở đây  ” chuyến tham_quan được tiếp_tục khi mourinho đến gặp các thành_viên trong ban lãnh_đạo “ quỷ đỏ ” và những nhân_viên làm_việc tại mu
+8,ông thân_thiện bắt_tay từng người và đến thăm trung_tâm đào_tạo complex_aon 
+9,“ người đặc_biệt ” sẽ chính_thức làm_việc tại “ quỷ đỏ ” từ tháng 7  sau khi euro 2016 khép lại 
+10,cùng ngày  mourinho chính_thức kí hợp_đồng với marcus_rashford cùng mức lương 25000 bảng / tuần chưa kể các khoản thưởng 
+11,phát_biểu trên website của clb  tiền_đạo “ măng_non ” cho hay “ tôi rất vui_mừng 
+12,tôi luôn là fan hâm_mộ của mu  vì_vậy  được thi_đấu trong đội_hình chính_thức là giấc mơ của tôi và giờ nó đã thành hiện_thực ” 
+13,nói về việc gia_hạn hợp_đồng với tiền_đạo trẻ  phó chủ_tịch ed_woodward cho rằng  đó là việc mà “ quỷ đỏ ” nên làm 
+14,“ cậu ấy có tiềm_năng rất lớn và cần một môi_trường phù_hợp để phát_triển 
+15,cậu ấy còn rất trẻ nên chúng_ta phải kiên_nhẫn với cậu ấy ” 

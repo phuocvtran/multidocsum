@@ -1,0 +1,16 @@
+idx, sentence
+0,ngôi_sao đến từ nước anh  người nhận được 8 đề_cử nhưng không_thể có_mặt tại lễ trao giải vì đang tiếp_tục chuyến lưu_diễn thế_giới của mình  đã đánh_bại justin_bieber  drake  taylor_swift và the_weeknd để giành giải_thưởng danh_giá nhất trong đêm  nghệ_sĩ của năm 
+1,cô cũng đã mang về giải_thưởng album top_billboard 200  khi album 25 xuất_sắc vượt qua purpose của justin_bieber  x của ed_sheeran  1989 của taylor_swift và beauty_behind_the_madness của the_weeknd 
+2,trong một tin nhắn video được thu từ trước  adele gửi lời cảm_ơn tới khán_giả   không_thể tin được tôi lại giành được giải_thưởng này thêm một lần nữa  hãy uống mừng cho tôi nhé  
+3,justin bieber chiến_thắng ở hạng_mục nam nghệ_sĩ xuất_sắc trong khi the_weeknd giành được 8 giải_thưởng  nhiều hơn bất_kỳ nam nghệ_sĩ nào trong lịch_sử   bao_gồm cải giải_nghệ_sĩ top_hot 100 
+4,trong bài phát_biểu của mình  nam ca_sĩ đã ca_ngợi prince là  nguồn cảm_hứng  lớn của mình 
+5, tôi muốn dành giải_thưởng này đến prince quá_cố 
+6,mong ông yên_nghỉ   anh nói   tôi yêu_quý ông rất nhiều 
+7,tôi không biết ông ấy nhưng đó lại con_người rất gần_gũi trong cuộc_sống của tôi 
+8,ông ấy luôn là một nguồn cảm_hứng bất_tận  
+9,rihanna nhận giải thành_tựu billboard sau khi chiến_thắng trong cuộc bỏ_phiếu công_cộng trước các đối_thủ drake  adele  little_big_town và the_weeknd 
+10,những cống_hiến trong sự_nghiệp của celine_dion được vinh_danh với giải billboard biểu_tượng 
+11,nữ diva đã không_thể kiềm được nước_mắt khi nhận chiếc cúp từ chính con_trai mình 
+12,dưới đây là danh_sách đầy_đủ những cá_nhân / sản_phẩm âm_nhạc giành được giải_thưởng  nghệ_sĩ hàng_đầu  adele nghệ_sĩ mới  fetty_wap_nam nghệ_sĩ xuất_sắc  justin_bieber_nữ_nghệ_sĩ xuất_sắc  adele_nhóm nhạc / cặp song_ca xuất_sắc  one direction giải thành_tựu billboard  rihanna nghệ_sĩ top_billboard 200  adele nghệ_sĩ top_hot 100  the weeknd nghệ_sĩ có doanh_thu bán ca_khúc hàng_đầu  the weeknd nghệ_sĩ có các ca_khúc radio hàng_đầu  the weeknd nghệ_sĩ sở_hữu các ca_khúc nghe trực_tuyến hàng_đầu  the weeknd nghệ_sĩ được truyền_thông xã_hội yêu_mến nhất  justin_bieber nghệ_sĩ làm tour diễn thành_công nhất  taylor_swift nghệ_sĩ rb xuất_sắc  the weeknd nghệ_sĩ rap xuất_sắc  drake nghệ_sĩ nhạc_đồng_quê xuất_sắc  luke_bryan nghệ_sĩ nhạc rock xuất_sắc  twenty one_pilots nghệ_sĩ nhạc latin xuất_sắc  romeo_santos nghệ_sĩ nhạc dance / điện_tử xuất_sắc  david guetta giải_album xuất_sắc billboard 200  adele  25 nhạc phim xuất_sắc  pitch_perfect 2 album_rb  the_weeknd  beauty behind the madness_album_rap  meek_mill  dreams_worth_more_than_money_album nhạc_đồng_quê  chris_stapleton  traveller_album nhạc rock  twenty_one_pilots  blurryface_album nhạc latin  juan_gabriel  los_duo_album nhạc dance / điện_tử  zedd  true_colors ca_khúc đứng đầu bxh_top_hot 100  wiz_khalifa_ft 
+13,charlie_puth  see_you_again ca_khúc bán_chạy nhất  adele  hello ca_khúc radio hay nhất  hello  shut_up_and_dance ca_khúc nghe trực_tuyến nhiều nhất  audio   the_weeknd  the_hills ca_khúc nghe trực_tuyến nhiều nhất  video   silento  watch_me ca_khúc rb hay nhất  the_weeknd  the_hills ca_khúc rap hay nhất  wiz_khalifa_ft 
+14,charlie_puth  see_you_again ca_khúc nhạc_đồng_quê hay nhất  thomas_rhett  die_a_happy_man ca_khúc nhạc rock hay nhất  walk the moon  shut_up_and_dance ca_khúc nhạc latin hay nhất  nicky jam  enrique_iglesias  el_perdon

@@ -1,0 +1,5 @@
+idx, sentence
+0,ngân_hàng nhà_nước vừa phát đi thông_cáo cho biết từ ngày 6/6  cơ_quan này sẽ kết_thúc việc bán tiền lưu_niệm  kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam  tại tất_cả các điểm bán 
+1,vào dịp kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam  ngân_hàng nhà_nước đã tổ_chức bán tiền lưu_niệm tại thành_phố hà_nội từ ngày 12/4 và tại thành_phố hồ_chí_minh từ ngày 22/4 
+2,đồng_tiền lưu_niệm đã nhận được sự quan_tâm và đánh_giá cao của nhiều tổ_chức  cá_nhân trong và ngoài nước 
+3,số_lượng tiền lưu_niệm phát_hành lần này chủ_yếu được bán rộng_rãi cho nhiều tổ_chức  đơn_vị trong  ngoài ngành và trên 20000 lượt khách_hàng cá_nhân đã mua 

@@ -1,0 +1,17 @@
+idx, sentence
+0,ngày 31/5  tand_tphcm đã tuyên_án 5 bị_cáo trong vụ_án lừa_đảo chiếm_đoạt tài_sản  vi_phạm quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng xảy ra tại công_ty tnhh tư_vấn thiết_kế xây_dựng ktt và ngân_hàng nông_nghiệp và phát_triển nông_thôn  chi_nhánh bình_chánh  agribank bình_chánh  
+1,theo đó  các bị_cáo nguyễn_đức_trí  nguyên giám_đốc công_ty ktt  bị tuyên_phạt_tù chung_thân  trương_xuân_quang  kế_toán_trưởng công_ty ktt  bị tuyên_phạt 20 năm tù về tội lừa_đảo chiếm_đoạt tài_sản 
+2,các bị_cáo nguyên là cán_bộ agribank bình_chánh  nguyễn_văn_lợi  nguyên phó giám_đốc  bị tuyên_phạt 7 năm tù  trần_thị_hoàng_yến  nguyên phó phòng kế_hoạch kinh_doanh  bị tuyên_phạt 6 năm tù  nguyễn_thị_thanh_nga  nguyên cán_bộ tín_dụng  bị tuyên_phạt 5 năm tù về tội vi_phạm quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng 
+3,trước đó  tand cấp cao tại tphcm tuyên_phạt bị_cáo lợi và nga cùng 8 năm tù  yến 7 năm tù với cùng tội_danh trên trong 1 vụ án khác 
+4,tổng hình_phạt mà nguyên 3 cán_bộ ngân_hàng agribank bình_chánh phải chấp_hành là lợi 15 năm tù  nga  yến mỗi bị_cáo 13 năm tù 
+5,theo cáo_trạng  công_ty tnhh tư_vấn thiết_kế xây_dựng ktt  phường tân_thuận_đông  q 7  do trí và vợ thành_lập  làm dịch_vụ thương_mại  tư_vấn xây_dựng … trí và quang đã lập khống hồ_sơ dự_án đầu_tư xây_dựng khu dân_cư central_park tại ptân_phú  q 7 để vay 96 tỷ tại agribank bình_chánh  trong khi dự_án này không được các cơ_quan có thẩm_quyền phê_duyệt 
+6,tiếp đó  cả hai nâng khống vốn điều_lệ  lập các hợp_đồng và phiếu chi giả mua đất thực_hiện dự_án  làm_giả phương_án kinh_doanh  các hợp_đồng mua_bán vật_liệu xây_dựng tạo nên một dự_án ma hấp_dẫn với mục_đích vay tiền ngân_hàng 
+7,trong thời_gian từ năm 2007 đến 2009  trí đã ký 3 hợp_đồng tín_dụng với agribank bình_chánh để vay tiền 
+8,cán_bộ tín_dụng nga sau khi thẩm_định đã báo_cáo đây là doanh_nghiệp có năng_lực tài_chính  có khả_năng và kinh_nghiệm trong việc quản_lý thực_hiện dự_án  giá_trị tài_sản đủ đảm_bảo cho khoản vay đề_xuất 
+9,báo_cáo này được yến thông_qua  trình lên hai cấp trên là lợi và chức  nguyên giám_đốc agribank bình_chánh  đã mất  để phê_duyệt 
+10,agribank bình_chánh đã ký hợp_đồng vay vốn thế_chấp tài_sản với công_ty ktt  giải_ngân 106 tỉ đồng 
+11,số tiền vay  trí không thanh_toán được cả gốc và lãi 
+12,tính đến tháng 6/2014  công_ty này nợ agribank bình_chánh 231 tỉ đồng 
+13,kết_án  hđxx quyết_định tuyên_án chung_thân đối_với bị_cáo trí đồng_thời buộc trí buồi thường 231 tỷ đồng cho ngân_hàng agribank bình_chánh  trong đó  tiền gốc là 99 tỷ đồng  tiền lãi 130 tỷ đồng  tính đến thời_điểm khởi_tố  
+14,đồng_thời  hđxx cũng nhận_định bị_cáo quang trong vụ_án này đóng vai_trò đồng_phạm  làm theo chỉ_đạo của trí  nên tuyên_phạt bị_cáo quang 20 năm tù 
+15,đồng_thời  tòa buộc bị_cáo quang liên_đới bồi_thường cho agribank bình_chánh 2 tỷ đồng 

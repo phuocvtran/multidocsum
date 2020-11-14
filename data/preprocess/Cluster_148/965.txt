@@ -1,0 +1,3 @@
+idx, sentence
+0,khoảng 22 h  ngày 21/5  tại quốc_lộ 1 thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tổ tuần_tra phòng cảnh_sát giao_thông công_an tỉnh bắc_giang phát_hiện  bắt_giữ chiếc xe_tải do nguyễn_quang_huy  sn 1988 ở thành_phố lạng_sơn  tỉnh lạng_sơn điều_khiển chở hơn 500 kg ngà_voi 
+1,toàn_bộ số ngà_voi được đựng trong 17 bao_tải  được đối_tượng cất_giấu rất kín trong thùng xe_tải  không có hóa_đơn chừng từ 

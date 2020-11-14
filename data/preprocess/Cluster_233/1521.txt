@@ -1,0 +1,10 @@
+idx, sentence
+0, từ tận đáy lòng  tôi xin_lỗi người dân tokyo và hội_đồng thành_phố   thị_trưởng masuzoe nói và cúi gập người khi bắt_đầu bài phát_biểu về chính_sách của ông trước cơ_quan lập_pháp địa_phương 
+1,cùng với lời xin_lỗi  ông masuzoe  67 tuổi  còn cho biết đã yêu_cầu một luật_sư điều_tra cách_thức các quỹ chính_trị của ông được sử_dụng 
+2,viên thị_trưởng nhắc đến việc  gây rắc_rối lớn về chi_phí các chuyến đi nước_ngoài  cùng nhiều câu hỏi về việc sử_dụng các quỹ chính_trị không phù_hợp 
+3,ông masuzoe nhậm_chức tháng 2/2014  thay_thế người tiền_nhiệm naoki_inose  người đột_ngột từ chức vì một bê_bối tài_chính cá_nhân sau khi dẫn_đầu chiến_dịch vận_động giành quyền đăng_cai thế_vận_hội 2020 cho tokyo 
+4,ông masuzoe nói rất giỏi tiếng pháp 
+5,ông từng giữ chức bộ_trưởng y_tế  lao_động và là thành_viên quốc_hội  thành_viên trường đại_học_tokyo danh_tiếng 
+6,ông từng cam_kết xây_dựng một chính_quyền không có các bê_bối về tài_chính 
+7,tuy_nhiên  rắc_rối bắt_đầu vào cuối tháng 4 vừa_qua  khi một_số thông_tin xuất_hiện cáo_buộc ông sử_dụng xe công vào cuối tuần đến và rời khỏi nhà_riêng ở phía nam tokyo 
+8,masuzoe khẳng_định ông không làm sai 

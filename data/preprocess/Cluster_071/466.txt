@@ -1,0 +1,26 @@
+idx, sentence
+0,đông triều sớm mở tỷ_số cho các cầu_thủ khách 
+1,tuy_nhiên  những sai_sót trong hàng thủ sau đó khiến hagl nhận liên_tục bốn bàn thua  qua đó  rời phố biển nha_trang với thất_bại nặng_nề 
+2,trước vòng 11 vleague 2016  hagl và khánh_hoà chỉ hơn kém nhau hai điểm  11 so với 13  
+3,điểm_số này chưa đến mức ở vào khu_vực nguy_hiểm  nhưng cả hai đội đều muốn giành ba điểm để sớm an_toàn trong cuộc đua trụ hạng 
+4,hagl có lợi_thế tinh_thần nhờ vừa đánh_bại long_an ở vòng trước 
+5,ngược_lại  khánh_hoà muốn gượng dậy sau thất_bại 02 ở vòng trước 
+6,hai đội vì_thế đều chọn lối chơi tấn_công sau tiếng còi khai cuộc 
+7,phút 17  đông_triều thực_hiện pha đá phạt từ ngoài vòng cấm  bóng xuyên hàng_rào và làm bó_tay thủ_môn tuấn_mạnh  một người cũ của hagl  mở tỷ_số cho đội bóng đến từ phố núi 
+8,khánh_hoà vùng lên ngay sau đó và họ lập_tức có cơ_hội quân_bình tỷ_số  khi thủ_môn tô vĩnh_lợi phạm lỗi với quốc_trí của khánh_hoà trong vòng cấm 
+9,dù_vậy  vĩnh_lợi đã sửa_sai  khi bắt gọn cú đá 11 mét quá hiền của tiền_đạo uche 
+10,không chỉ thoát bàn thua  hagl sau đó suýt có bàn nâng tỷ_số nếu cú sút từ cự ly gần của văn_toàn đi trúng đích 
+11,tiền_đạo mang áo số 9 của đội khách có cơ_hội đối_mặt thủ_môn tuấn_mạnh  nhưng lại để trượt_chân  hỏng_ăn 
+12,nếu_như uche sút phạt_đền quá nhẹ và không đủ hiểm_hóc để đánh_bại tô vĩnh_lợi  thì ở một tình_huống khó hơn  tiền_đạo ngoại binh này lại thành_công 
+13,đó là pha sút phạt từ ngoài vòng cấm  bóng xuyên hàng_rào  khiến vĩnh_lợi  dù bay người hết cỡ  không_thể cứu cho đội nhà 
+14,tỷ_số được san_bằng 11 ở phút 31 
+15,từ chỗ suýt thành tội_đồ  uche trở_thành người_hùng bởi phút 37  anh lần thứ hai lập_công  nâng tỷ_số lên 21 
+16,trong bàn thắng này  cựu cầu_thủ quảng_ninh như được hàng thủ hagl biếu quà 
+17,từ một quả tạt bóng  cả vĩnh_lợi lẫn hai hậu_vệ_đội khách cùng nhảy lên  nhưng không ai phá bóng 
+18,đã vậy  ba cầu_thủ hagl đều té ngã  để uche thoải_mái đệm bóng vào khung_thành bỏ_trống 
+19,sau khi đảo_ngược tình_thế  khánh_hoà chủ_động đá chậm  chắc trong hiệp hai 
+20,hagl dâng cao tấn_công nhưng không_thể tạo đột_biến 
+21,ngược_lại  các pha phản_công sắc_bén của khánh_hoà khiến hàng thủ khách lúng_túng  để lọt_lưới thêm hai bàn 
+22,đình_kha ghi_bàn nâng tỷ_số 31 ở phút 65  trước khi duy_thanh  một người cũ của hagl  kết_liễu mọi hy_vọng của đội bóng cũ bằng bàn ấn_định kết_quả 41 ở phút bù giờ 
+23,thua đậm  nhưng hagl vẫn giữ vị_trí thứ 11  nhờ đối_thủ xếp sau họ với ba điểm ít hơn là long_an cũng bại_trận 13 khi tiếp đà_nẵng 
+24,lịch đấu vòng 11

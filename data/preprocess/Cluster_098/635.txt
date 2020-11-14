@@ -1,0 +1,14 @@
+idx, sentence
+0,nguồn tin của chúng_tôi tại đà_nẵng cho biết để phục_vụ cho chuyến công_du của tổng_thống mỹ_obama  đoàn hộ_tống của nhà_trắng đã bố_trí dự_phòng hai máy_bay c17 và c32 tại sân_bay quốc_tế đà_nẵng để phục_vụ chuyến thăm của ông obama tại việt_nam khi cần_thiết 
+1,theo đó  hai máy_bay này vừa hạ_cánh tại sân_bay quốc_tế đà_nẵng vào hôm_qua 
+2,trước khi tổng_thống obama đến thăm việt_nam với lộ_trình bay nội_bài và tân sân nhất_thì đoàn hộ_tống của nhà_trắng còn đưa ra phương_án dùng sân_bay quốc_tế đà_nẵng làm sân_bay dự_bị khi cần_thiết 
+3,đoàn hộ_tống dự_bị khá hùng_hậu này của tổng_thống mỹ tại sân_bay đà_nẵng gồm  nhân_viên nhà_trắng  lực_lượng mật_vụ  an_ninh … theo ghi_nhận của pháp_luật tphcm  chiếc máy_bay us_air_force  c17  có_mặt tại sân_bay quốc_tế đà_nẵng chở theo hàng_hóa  xe hộ_tống  xe phục_vụ đoàn  xe an_ninh  y_tế  phục_vụ tổng_thống obama trong trường_hợp có kịch_bản khác 
+4,trong khi đó  c32 là phiên_bản chở khách quân_sự của loại boeing 757  thuộc không_quân hoa_kỳ 
+5,c32 chuyên_chở các lãnh_đạo của hoa_kỳ tới các địa_điểm trên khắp thế_giới 
+6,khách_hàng chủ_yếu là phó_tổng_thống hoa_kỳ  khi đó nó sử_dụng tên_hiệu là  air_force_two   đệ_nhất phu_nhân và các thành_viên khác của nội_các hoa_kỳ và nghị_viện hoa_kỳ 
+7,tổng_thống barack_obama  george_w_bush và bill_clinton có thời_điểm đã sử_dụng c32 làm air_force_one 
+8,theo quan_sát của pv  chiếc c32 này cùng chiếc c17 đang được đậu tại khu_vực cạnh công_trình xây_dựng nhà_ga mới  phục_vụ apec 2017 tại đà_nẵng 
+9,đây cũng là nơi dự_kiến đậu đỗ của các chuyên_cơ phục_vụ các nguyên_thủ tới dự apec 2017 sắp tới 
+10,chiếc c32 này được bảo_vệ bởi các nhân_viên an_ninh và mật_vụ mỹ 
+11,nhiều xe an_ninh và hộ_tống được điều_động bảo_vệ chuyên_cơ này 
+12,an_ninh tại sân_bay quốc_tế đà_nẵng cũng được thắt chặt hơn ngày thường 

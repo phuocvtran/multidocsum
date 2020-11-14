@@ -1,0 +1,12 @@
+idx, sentence
+0,trưa nay 1/6  nhận được thông_tin về vụ_việc trên  pv dân_trí đã có_mặt tại nhà anh nguyễn_xuân_thông để chứng_kiến thực_hư vụ_việc 
+1,thời_điểm pv có_mặt  con đường vào nhà anh thông có rất đông người tìm đến 
+2,bên trong  mấy chục người đang đứng quanh khu chuồng trâu để xem con trăn 
+3,theo ghi_nhận tại hiện_trường  con trăn này có màu khoang đenvàng  dài khoảng 4 m  cân nặng ước khoảng 70 kg 
+4,dù người xem đứng chật kín nhưng con trăn không hề tỏ ra sợ_hãi  nằm yên một chỗ và không gây nguy_hiểm gì đối_với người xem 
+5,anh thông cho hay  vào sáng sớm nay  khi ra khu chuồng trâu chuẩn_bị dắt trâu ra đồng  anh tá_hỏa_phát_hiện con trăn nói trên nằm thù_lù trong góc chuồng 
+6,hoảng_hốt  anh thông liền tìm cách cho trâu ra ngoài rồi vội_vàng loan_báo cho mọi người biết để tìm cách xua_đuổi con trăn ra khỏi chuồng trâu 
+7,“ nhiều người đến xem  dùng gậy xua_đuổi con trăn 
+8,tuy_nhiên lạ là con trăn không chịu di_chuyển ”  anh thông nói 
+9,theo anh thông  một_số người khi đến xem trăn đã cho rằng đây là con trăn cách đây 4 tháng được một thương_gia ở thị_trấn phố_châu phóng_thích tại một ngôi chùa trên địa_bàn 
+10,thông tin đồn đoán về con trăn lan nhanh khiến người kéo đến xem mỗi lúc một đông 

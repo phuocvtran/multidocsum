@@ -1,0 +1,9 @@
+idx, sentence
+0,thông_tin ban_đầu  vào 22 h đêm 2/6  ngọn lửa bùng lên dữ_dội từ căn nhà cấp 4 nằm trong hẻm 80  dương_quảng_hàm  quận gò_vấp 
+1,cửa_cuốn của căn nhà không mở được  2 vợ_chồng cụ ông 70 tuổi bị mắc_kẹt bên trong 
+2,nghe tiếng kêu cứu yếu_ớt của hai ông_bà trong căn nhà đang cháy  người dân liền nhanh_chóng dùng búa  xà_beng  phá cửa hông  cứu 2 người ra ngoài 
+3,một_số khác dùng bình chữa_cháy mini xịt nhưng do đám cháy bùng phát dữ_dội nên bất_thành 
+4,một người đàn_ông phá cửa cứu người cho biết  “ tiếng kêu cứu yếu_ớt của 2 vợ_chồng cụ ông 70 tuổi ở bên trong căn nhà đang cháy là động_lực giúp tôi đập  phá cửa nhanh hơn để cứu người ” 
+5,nhận được tin báo  ít phút sau lực_lượng cảnh_sát pccc quận gò_vấp có_mặt tại hiện_trường 
+6,do con hẻm quá nhỏ nên xe cứu_hỏa không_thể tiếp_cận căn nhà  phải đậu bên ngoài cách 500 m 
+7,các chiến_sĩ phải vác ống  máy_bơm đến chỗ họng cứu_hỏa  cách căn nhà đang cháy hơn 100 m 

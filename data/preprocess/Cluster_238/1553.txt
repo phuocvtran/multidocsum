@@ -1,0 +1,5 @@
+idx, sentence
+0,ba_lan dự_định bố_trí trong nội_địa biên_giới đất_nước này chỉ một tiểu_đoàn của tổ_chức hiệp_ước bắc_đại_tây_dương  nato   tuy_nhiên  lực_lượng như vậy cũng đủ để  kiềm_chế sự hiếu_chiến của nga   như bộ_trưởng quốc_phòng ba_lan antoni_macherevich tuyên_bố trong cuộc phỏng_vấn với defense_news 
+1,bộ_trưởng macherevich hiểu rằng trong trường_hợp xâm_nhập  nga sẽ có ưu_thế về cơ_số vượt_trội mà các đơn_vị đồng_minh sẽ không_thể đương_đầu nổi 
+2,tuy_nhiên  theo ông mục_đích chính của tiểu_đoàn nato không phải là giành chiến_thắng trước đối_phương mà là trì_hoãn làm chậm đà tấn_công 
+3, xét dưới góc_độ quân_sự  vấn_đề của toàn_bộ thời_gian này là chúng_tôi được đảm_bảo 100   trong trường_hợp xảy ra cuộc xâm_lược  liên_minh dễ mất địa_bàn tấn_công và sẽ buộc phải giành_giật lại sau đó 

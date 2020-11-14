@@ -1,0 +1,11 @@
+idx, sentence
+0,so với phần trước xmen  days of_future past ra_mắt năm 2014 chỉ đạt được 100 triệu usd thì đây quả là một tín_hiệu đáng mừng cho phần tiếp_theo này 
+1,dự_đoán doanh_số của phim sẽ tăng mạnh khi ra_mắt tại bắc mỹ cuối tuần này 
+2,điều gây tò_mò tại phần phim tiếp_theo trong phần phim này đó chính là tình_tiết cuối phim khi nhà_sản_xuất phim đã ẩn_ý một trong những bất_ngờ thú_vị về_phần xmen tiếp_theo  sự khai_sinh của thực_thể tâm_linh hùng_mạnh dark_phoenix 
+3,sau khi xem xmen  apocalypse  người hâm_mộ sẽ dễ_dàng nhận thấy được những chi_tiết cho phần tiếp_nối được khéo_léo đưa vào phim 
+4,chẳng_hạn như vai khách_mời ấn_tượng của wolverine  hugh_jackman  sẽ dẫn lối cho phần_ba phim riêng về dị_nhân “ người sói ” này  hay như hình_ảnh chim phượng_hoàng lửa tung cánh khi nhân_vật jean_grey bộc_lộ sức_mạnh tiềm_tàng vào cuối phim 
+5,người hâm_mộ của bộ phim chắc sẽ nhớ phiên_bản jean_grey của famke_janssen trong phần phim xmen  the_last_stand ra_mắt năm 2006  khi cô dẫn bị biến_chất bởi sức_mạnh dark_phoenix cứ lớn dần lên trong cơ_thể 
+6,tuy_nhiên  sự_kiện ấy diễn ra khá nhanh khiến khán_giả vẫn chưa nắm được hoàn_toàn diễn_biến của cảnh cuối  cũng như hoàn_toàn mơ_hồ về lai_lịch của dark_phoenix 
+7,trong truyện_tranh gốc dark_phoenix vốn là nhân_dạng ác_nhân của jean_grey sau khi bị phoenix_force chiếm_đoạt thân_xác 
+8,được sinh ra từ hư không trong khoảng thời_điểm hồng hoan của vũ_trụ  phoenix_force là một thực_thể tâm_linh bất_diệt  với nhiều tín_ngưỡng thì nó chính là loài phượng_hoàng lửa đại_diện cho tình_yêu và nỗi khát_khao 
+9,dark_phoenix  famke_janssen  từng xuất_hiện trong phần phim xmen  the last_stand sau khi đến trái_đất  nó đã bắt liên_kết ngay với jean_grey trẻ tuổi  trong lúc nữ dị_nhân đang cố dùng thần giao cách cảm để trò truyện với cô bạn thân vừa qua_đời của mình 

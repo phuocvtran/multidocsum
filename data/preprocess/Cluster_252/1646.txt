@@ -1,0 +1,7 @@
+idx, sentence
+0,đón sinh_nhật 28 tuổi  26   giọng ca được khán_giả teen yêu_thích  bảo_thy  ra_mắt sản_phẩm âm_nhạc mới  ca_khúc lonely  cô_đơn   nói về nỗi cô_đơn của một cô gái sau khi chia_tay người_yêu 
+1,đây là bài hát do chính bảo_thy sáng_tác 
+2,trước_kia  nữ ca_sĩ từng sáng_tác hoặc viết lời việt cho một_số bài  nên đây không phải việc quá mới_mẻ  song lần này nó lại có ý_nghĩa vì đúng dịp cô tròn tuổi mới 
+3, vì đã rất lâu tôi mới giới_thiệu một ca_khúc do chính mình sáng_tác nên rất hồi_hộp chờ_đợi phản_hồi từ khán_giả 
+4, lonely  có bản phối cũng như chất nhạc khá lạ_tai 
+5,đây cũng là lần đầu tôi thử sức trong việc kết_hợp ballad với rap   bảo_thy chia_sẻ 

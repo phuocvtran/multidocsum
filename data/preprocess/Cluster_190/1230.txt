@@ -1,0 +1,8 @@
+idx, sentence
+0,khoảng 17 giờ chiều nay 315  một vụ tai_nạn giao_thông liên_hoàn nghiêm_trọng đã xảy ra tại ngã ba xã_đàn  phạm_ngọc_thạch  quận đống_đa  tp hà_nội 
+1,vào thời_điểm trên  chiếc ô_tô 7 chỗ hiệu toyota_fortuner mang bks_30p  2153 đang lưu_thông theo hướng đại_cồ việt  xã_đàn  đoạn ngang qua số nhà 176 xã_đàn  đã bất_ngờ mất lái  tông vào sau 1 xe_máy đang chạy cùng chiều 
+2,sau đó  chiếc fortuner còn tông liên_tiếp vào 8 xe_máy khác đang lưu_thông cùng chiều trước khi dừng lại dưới chân cầu_vượt bộ_hành 
+3,tại hiện_trường  chiếc xe ôtô fortuner bị nổ lốp sau  phần cản phía trước và đèn_pha bị vỡ  9 chiếc xe_máy bị hư_hỏng nặng nằm la_liệt dọc tuyến đường xã_đàn 
+4,trong đó có 1 chiếc xe_máy nằm trọn trong gầm xe ô_tô 
+5,thông_tin ban_đầu  có khoảng 10 người bị_thương đã được người dân và đội 3 csgt  công_an tp hà_nội đưa đi cấp_cứu tại bệnh_viện 
+6,ngay sau khi sự_việc xảy ra  lực_lượng csgt đã có_mặt tại hiện_trường phân làn giao_thông  điều_tra nguyên_nhân tai_nạn 

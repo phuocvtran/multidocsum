@@ -1,0 +1,23 @@
+idx, sentence
+0,theo thỏa_thuận vừa được ký_kết với gần 250 doanh_nghiệp  tập_đoàn vingroup và các công_ty thành_viên gồm vincommerce  vincom_retail  vineco  vinds  sẽ triển_khai các gói giải_pháp tổng_thể bao_gồm  ưu_đãi về phân_phối  tăng_cường hiện_diện thương_hiệu của doanh_nghiệp trong hệ_sinh_thái hàng_hóa  dịch_vụ của vingroup  tư_vấn về công_nghệ  quản_trị  kiểm_soát chất_lượng  marketing  tiêu_thụ hàng_hóa và tham_gia góp vốn nâng cao hiệu_quả sản_xuất 
+1,hơn 140 doanh_nghiệp đã ký_kết_hợp_tác về phân_phối 
+2,theo đó  trong vòng một năm  từ 1/6/2016 – 1/6/2017  các doanh_nghiệp trên sẽ được hỗ_trợ đưa hàng vào hệ_thống siêu_thị vinmart và vinmart  của vingroup với các điều_kiện ưu_đãi hợp_lý 
+3,riêng các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu bằng 0  
+4,cụ_thể  vingroup sẽ bán hộ không lãi  cam_kết trả cho đối_tác doanh_thu theo đúng mức giá công_bố thông_thường 
+5,toàn_bộ phần chiết_khấu sẽ được vinmart và vinmart  hoàn_trả 100  về nhà cung_cấp  với mục_đích tạo thêm nguồn kinh_phí để doanh_nghiệp tái_đầu_tư vào chất_lượng sản_phẩm và có thêm điều_kiện thực_hiện nghiêm_ngặt các tiêu_chuẩn  quy_định về an_toàn  vệ_sinh thực_phẩm 
+6,đồng_thời  vingroup cũng khuyến_khích các nhà_cung_cấp điều_chỉnh giảm giá bán để hỗ_trợ người tiêu_dùng 
+7,các doanh_nghiệp được hỗ_trợ về phân_phối trên hệ_thống vinmart và vinmart  cam_kết sẽ sản_xuất và cung_cấp ra thị_trường các sản_phẩm có chất_lượng cao  phù_hợp với tiêu_chuẩn chất_lượng theo đúng quy_định của pháp_luật và đáp_ứng được yêu_cầu của thị_trường 
+8,gần 100 doanh_nghiệp còn lại ký_kết_hợp_tác với vingroup nhằm tăng_cường hiện_diện thương_hiệu trong hệ_sinh_thái hàng_hóa  dịch_vụ của tập_đoàn với các thương_hiệu vincom_retail  vinds  vinpro … bên_cạnh việc hỗ_trợ mạnh_mẽ về mạng_lưới phân_phối  các doanh_nghiệp cũng đã ký_kết_hợp_tác với vingroup nhằm thúc_đẩy và nâng cao hiệu_quả sản_xuất 
+9,theo đó  các doanh_nghiệp có nhu_cầu sẽ được vingroup hỗ_trợ về công_nghệ  quản_trị  hệ_thống kiểm_soát chất_lượng  công_tác marketing bán hàng 
+10,đặc_biệt  thông_qua liên_danh liên_kết dưới thương_hiệu vineco  với hàng thực_phẩm  hoặc vinmart  với hàng_tiêu_dùng   một_số doanh_nghiệp sẽ được vingroup sẽ nhận kiểm_soát chất_lượng và bao_tiêu sản_phẩm 
+11,cũng theo chương_trình  vingroup sẽ tham_gia góp vốn cho một_số doanh_nghiệp có nhu_cầu để tối_ưu_hóa sản_xuất  nâng cao chất_lượng sản_phẩm  giảm chi_phí  tiến tới tạo ra được các thương_hiệu mạnh  có tầm quốc_gia và tiến tới là tầm quốc_tế 
+12,phát_biểu tại lễ ký_kết  ông lê_khắc_hiệp  phó chủ_tịch tập_đoàn cho biết  “ mục_tiêu của chương_trình là thúc_đẩy sản_xuất trong nước  góp_phần tạo nguồn thực_phẩm sạch và hàng_tiêu_dùng có chất_lượng cho thị_trường  đồng_thời  xây_dựng các thương_hiệu quốc_gia  tiến tới là các thương_hiệu đẳng_cấp quốc_tế 
+13,đặc_biệt  với sứ_mệnh “ vì một cuộc_sống tốt_đẹp hơn cho người việt ”  chương_trình chú_trọng ưu_tiên cho nhóm hàng thực_phẩm an_toàn 
+14,đây chính là tâm_huyết của vingroup nhằm góp_phần bảo_vệ sức_khỏe cho cộng_đồng cũng như tương_lai lâu_dài cho các thế_hệ mai_sau ” 
+15,theo bà vũ_kim_hạnh  chủ_tịch hội doanh_nghiệp hàng việt_nam chất_lượng cao  trong bối_cảnh cạnh_tranh gay_gắt hiện_nay  sự tiên_phong của một tập_đoàn lớn như vingroup sẽ tạo ra sự lan tỏa  kéo_theo sự đồng_hành  tiếp_sức của cộng_đồng doanh_nghiệp  các cơ_quan_chức_năng cũng như sự vào_cuộc của báo_chí  thể_hiện cái tâm trong việc gỡ khó cho dn không chỉ ở hệ_thống phân_phối  mà_còn trên nhiều mặt_khác 
+16,tất_nhiên  ký_kết chính_thức là dấu_ấn quan_trọng nhưng quan_trọng hơn quá_trình đồng_hành này sẽ giúp dn sẽ đi sâu vào thực_chất sản_phẩm để củng_cố vị_thế hàng việt bà phạm chi_lan  chuyên_gia kinh_tế cao_cấp cho hay  một nền kinh_tế chỉ có_thể phát_triển bền_vững khi có cộng_đồng dn nội_địa phát_triển mạnh  đặc_biệt vai_trò quan_trọng doanh_nghiệp sản_xuất công_nghiệp và dịch_vụ 
+17,97  dnnvv không đủ khả_năng làm được tất_cả các khâu  có_thể làm tốt khâu sản_xuất nhưng cần sự tiếp_sức của các dn phân_phối liên_quan để ra thị_trường 
+18,trong đà hội_nhập quyết_liệt hiện_tại  các dn việt_nam sẽ ra sao nếu không có liên_kết 
+19,con đường cho các dnnvv là tìm đối_tác mạnh là dn việt_nam có hệ_thống phân_phối và logictics  marketing chuyên_nghiệp để nâng cao khả_năng đáp_ứng nhu_cầu trong nước 
+20,từ đó nhà_sản_xuất mới trụ vững được  duy_trì việc_làm cho hàng chục triệu lao_động 
+21,và sự kết_nối hôm_nay là mong_đợi từ lâu của nhiều chuyên_gia và cộng_đồng doanh_nghiệp  tạo mối liên_kết bền vũng trong việc phát_triển của doanh_nghiệp  đồng_thời cung_cấp cho ntd sản_phẩm tốt 

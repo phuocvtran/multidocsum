@@ -1,0 +1,6 @@
+idx, sentence
+0,trong video  tên đao_phủ khổng_lồ này  nặng 128 kg  cởi_trần đang nằm phía sau một chiếc xe_tải  hai tay bị trói ở đằng sau 
+1,vây quanh chiếc xe là nhiều nam_giới có vũ_trang 
+2,báo express của anh đưa tin   xe_ủi_đất  nổi lên như một trong những thành_viên ngôi_sao của nhóm cực_đoan này hồi tháng 10 năm_ngoái  sau khi tên này chặt đứt tứ_chi của một thiếu_niên và chặt đầu các con_tin khác 
+3,tên này cũng xuất_hiện trong hàng_loạt video với những hàng động man_rợ trước đám đông tại những vùng do is kiểm_soát 
+4,hiện chưa rõ thân_thế cũng như quốc_tịch của  xe_ủi_đất  do trong các clip của is tên này thường che_kín mặt 

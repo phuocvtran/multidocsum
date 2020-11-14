@@ -1,0 +1,17 @@
+idx, sentence
+0,theo đó  ông perfecto_yasay_– ngoại_trưởng philippines tuyên_bố  nước này sẽ không rút khỏi liên_minh lâu năm với mỹ  song sẽ không phải là “ tay_sai ” cho bất_kỳ một thế_lực nước_ngoài nào 
+1,đây là cuộc phỏng_vấn đầu_tiên của ngoại_trưởng philippines với truyền_thông quốc_tế kể từ sau khi được tân tổng_thống rodrigo_duterte bổ_nhiệm trong nội_các mới 
+2,có_thể thấy rõ  ông yasay nhấn_mạnh sự độc_lập của philippines trong việc giải_quyết các tranh_chấp biển_đông 
+3,tuyên_bố của ngoại_trưởng yasay được đưa ra một ngày sau khi tổng_thống rodrigo_duterte họp báo công_bố nội_các mới 
+4,trước đó  cựu tổng_thống benigno_aquino duy_trì chính_sách ngoại_giao gần_gũi với washington 
+5,cũng trong phát_biểu của mình  ngoại_trưởng philippines không ngần_ngại đề_cập tới mối quan_hệ với trung_quốc  “ miễn_là trung_quốc tuân_thủ luật_pháp quốc_tế  tôn_trọng chủ_quyền và toàn_vẹn lãnh_thổ của chúng_tôi … chúng_tôi đảm_bảo sẽ tiếp_tục tình bằng_hữu và mối quan_hệ giữa hai nước ”  ông yasay nói 
+6,về_phần mình  ngoại_trưởng trung_quốc_vương nghị khẳng_định  cánh cửa đối_thoại luôn mở  điều này sẽ có_ích trong việc “ phá vỡ bế_tắc ” của mối quan_hệ trung_quốcphilippines những năm gần đây 
+7,ông vương còn nói thêm  “ chúng_tôi sẽ rất vui_mừng khi thấy chính_phủ mới của philippines có những lựa_chọn khôn_ngoan ” 
+8,tân tổng_thống duterte  người chủ_trương đường_lối cứng_rắn của philippines hôm 31/5 cũng khẳng_định  philippines sẽ không dựa vào washington – các nhà phân_tích cho đây là tiềm_năng của một tín_hiệu thay_đổi trong cách tiếp_cận vấn_đề biển_đông và các vấn_đề an_ninh quan_trọng của chính_phủ philippines 
+9,nhận_định về đường_lối đối_ngoại của tân tổng_thống philippines  ngoại_trưởng yasay khẳng_định  “ ông ấy đơn_giản là muốn nhấn_mạnh việc tôn_trọng hiến_pháp  chúng_tôi có nghĩa_vụ phải thực_hiện một đường_lối đối_ngoại độc_lập ” 
+10,đồng_thời  ông yasay cho rằng  tổng_thống mới đắc_cử sẽ tôn_trọng các hiệp_ước hiện_hành với mỹ  bao_gồm hiệp_định tăng_cường hợp_tác quốc_phòng  cho_phép quân_đội mỹ sử_dụng các căn_cứ quân_sự tại philippines 
+11,tổng_thống mỹ barack_obama trước đó cũng chúc_mừng ông duterte về chiến_thắng vang_dội trong cuộc bầu_cử 
+12,“ đó là tín_hiệu rất rõ cho thấy mối quan_hệ của chúng_tôi với mỹ không bị ảnh_hưởng bởi cuộc bầu_cử ”  ngoại_trưởng philippines nói 
+13,tân tổng_thống philippines cũng không loại_trừ khả_năng đàm_phán hoặc nhất_trí các thỏa_thuận với mỹ trong tương_lai  nếu cần_thiết  trên cơ_sở lợi_ích chung của cả 2 nước 
+14,tòa_án tối_cao philippines năm nay cũng duy_trì tính hợp_hiến của các thỏa_thuận  trong đó cho_phép mỹ xây_dựng các kho quân_sự và các trung_tâm dịch_vụ hậu_cần ở bất_cứ địa_điểm nào tại philippines 
+15,đồng_thời  washington giúp manila trong việc tăng_cường các thiết_bị  cơ_sở phòng_vệ quân_sự ở nước này 

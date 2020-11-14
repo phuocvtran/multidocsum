@@ -1,0 +1,21 @@
+idx, sentence
+0,theo thông_tin từ ban huấn_luyện  công_phượng đã phải được điều_trị đặc_biệt ngay sau khi kết_thúc trận đấu với syria 
+1,khác với các đồng_đội  trong quãng thời_gian ít_ỏi trên sân  chàng trai đang khoác áo mito_hollyhock đã bị lật  sơ_mi  cổ_chân 
+2,ở trận thắng syria 20  công_phượng đã không được hlv nguyễn_hữu_thắng tung vào sân từ đầu 
+3,thay vào đó  ông cho anh chơi trong 30 phút cuối trận như một_cách để giúp anh bắt_nhịp lại sau thời_gian dài điều_trị chấn_thương cũng như tránh rủi_ro 
+4,tuy_nhiên  có_vẻ như vận đen vẫn chưa thôi đeo_bám cầu_thủ tài_năng này 
+5,trong một pha đi bóng  phượng đã bị lật sơ_mi sau một pha vào bóng mạnh của đối_thủ 
+6,theo chẩn_đoán ban_đầu  trong trường_hợp xấu công_phượng sẽ phải tạm ngưng thi_đấu trong 2 tuần 
+7,nếu như vậy  khả_năng anh ra sân ở giải đấu tứ hùng tại myanmar là rất nhỏ 
+8,vào 17 giờ chiều nay  phượng vẫn đi theo cùng tuyển việt_nam bay sang myanmar 
+9,theo lịch thi_đấu  thầy_trò hlv nguyễn_hữu_thắng sẽ có 2 trận đấu tại đây 
+10,đây là giải đấu theo thể_thức đấu_loại trực_tiếp 
+11,ở trận mở_màn  việt_nam sẽ gặp hong_kong vào lúc 15 giờ ngày 36 
+12,nếu thắng  ngày 56 chúng_ta sẽ đá trận chung_kết với đội thắng trong cặp đấu myanmar  singapore để tranh phần_thưởng 20000 usd 
+13,đội nhì sẽ nhận phần_thưởng 10000 usd 
+14,đội_xếp thứ 3 nhận 5000 usd 
+15,đây không phải là lần đầu công_phượng thiếu may_mắn với đội_tuyển vì chấn_thương 
+16,ở trận cuối_cùng giải u 23 châu_á tại qatar ngày 201  anh đã bị gãy xương đòn vai sau một cú húc của cầu_thủ u 23 uae vào cuối trận 
+17,chấn_thương này đã ảnh_hưởng rất nhiều đến quá_trình hòa_nhập với môi_trường jleague 2 của phượng 
+18,đồng_thời cũng khiến phượng không_thể có_mặt ở đợt tập_trung đội_tuyển đầu_tiên dưới triều_đại hlv hữu_thắng  ở 2 trận cuối vòng loại kép world_cup 2018  asian_cup 2019  gặp đài_loan và iraq 
+19,dù gần đây có gần 8 phút ra sân trong màu áo mito_hollyhock  nhưng chàng trai quê đô_lương  nghệ_an  thừa_nhận vẫn chưa lấy lại được sức_mạnh cũng như bị nhát chân trong các pha tranh_chấp 

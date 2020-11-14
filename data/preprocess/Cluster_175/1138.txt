@@ -1,0 +1,20 @@
+idx, sentence
+0,chiều 315  đại_tá nguyễn_bá_đoàn  trưởng công_an tp cam_ranh  khánh_hòa   cho biết đang phối_hợp các lực_lượng công_an truy_tìm thủ_phạm gây ra ba vụ chặn taxi để cướp tài_sản của khách xảy ra chỉ trong vòng 25 phút trên đại_lộ nguyễn_tất_thành_đoạn qua phường cam_nghĩa  tp cam_ranh  gần sân_bay cam_ranh 
+1,thông_tin ban_đầu  khoảng 1 giờ 30 ngày 285  tại đoạn đường trên  anh võ_minh_huy  sinh năm 1985  quê phú_yên   lái_xe taxi của hãng asia chở hai người khách nam từ nha_trang vào sân_bay cam_ranh 
+2,khi đến đoạn đường trên  một đối_tượng dựng xe_máy  hiệu wave  không đèn  không biển số  không còn bộ áo  chỉ còn dàn sườn và bánh_xe  chắn_ngang đường  vẫy xe dừng lại 
+3,đối_tượng này đã dùng bình_sơn xịt vào kính chắn gió phía trước và dùng đá đập bể_kính của cánh cửa bên tài 
+4,hắn đe_dọa và yêu_cầu hai người khách ngồi phía sau đưa tiền 
+5,anh huy đã điều_khiển xe lùi lại và chạy lách qua đối_tượng trên để vào sân_bay cam_ranh 
+6,đối_tượng đuổi theo đến đầu đường vào sân_bay thì quay đầu lại 
+7,khoảng 15 phút sau  anh lê_minh_quý  sinh năm 1973  ngụ số 7 đường nguyễn_thị_minh_khai  phường lộc_thọ  nha_trang  lái xe taxi của hãng sun chở hai vợ_chồng và một trẻ_em từ nha_trang vào sân_bay cam_ranh 
+8,khi đến đoạn đường trên thì cũng gặp một thanh_niên dựng xe_máy giữa đường  xông ra có hành_động tương_tự vụ cướp trước đó 
+9,anh quý đã điều_khiển xe lùi lại và chạy lách qua đối_tượng trên để vào sân_bay cam_ranh 
+10,đối_tượng đuổi theo đến đầu đường vào sân_bay thì quay đầu lại 
+11,đến 1 g55 phút cùng ngày  anh huỳnh_anh_vũ  sinh năm 1979  ngụ số 105 đường 2/4  phường vạn_thắng  nha_trang  lái xe taxi của hãng mai_linh chở hai người khách nam từ nha_trang vào sân_bay cam_ranh 
+12,khi đến đoạn đường trên thì cũng có hai đối_tượng chạy hai xe_máy ngược chiều chặn đầu xe 
+13,anh_vũ giảm tốc_độ lại  sau đó chạy lách qua 
+14,hai đối_tượng quay đầu xe đuổi theo 
+15,một kẻ đã chặn trước đầu xe đã dùng gạch đập bể cửa_kính của  kẻ còn lại thì đứng sau đuôi xe dùng gạch lót nền đường đập bể_kính sau của xe 
+16,chúng đe_dọa hai người khách phải đưa hết tài_sản trong người 
+17,hoảng_sợ trước hành_động hung_hãn của hai tên cướp  một người khách đã đưa một chiếc ví  bên trong có hơn hai triệu đồng cùng giấy_tờ tùy_thân 
+18,sau đó  hai tên cướp tẩu_thoát về hướng tp nha_trang 

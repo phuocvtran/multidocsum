@@ -1,0 +1,13 @@
+idx, sentence
+0,liên_quan đến thông_tin cán_bộ của bộ y_tế sau khi va_chạm giao_thông ngày 31/5 đã có hành_vi  lời_lẽ không đúng_mực như chỉ tay  xúc_phạm người dân  thách_thức công_an  chánh_văn_phòng bộ y_tế nguyễn_xuân_trường đã xác_nhận thông_tin 
+1,cụ_thể  trao_đổi với dân việt  ông trường xác_nhận cán_bộ có hành_vi nêu trên là phó chánh_văn_phòng bộ y_tế đỗ trường duy  phụ_trách mảng công_nghệ_thông_tin 
+2,vị này cũng cho biết  thông_tin về vụ_việc đã được lãnh_đạo bộ_ghi_nhận cách đây 2 ngày 
+3,sau đó  văn_phòng đã yêu_cầu ông duy báo_cáo và viết tường_trình 
+4,theo nguồn tin từ vov  ông trường đã ký thông_báo số 48 / tbkl về việc kỷ_luật cán_bộ  công_chức với ông duy 
+5,thông_báo ghi rõ   đây là một việc xảy ra ngoài cơ_quan và là một va_chạm cá_nhân nhưng do thiếu kiềm_chế đã xảy ra xử_sự không đúng_mức  không thể_hiện văn_minh lịch_sự của người cán_bộ công_chức 
+6,bản_thân đồng_chí đỗ trường duy_duy sau khi sự_việc xảy ra cũng đã nhận ra lỗi_lầm và đã xin_lỗi với gia_đình ngay tối_ngày 31/5/2016  
+7,ngoài_ra  hội_đồng kỷ_luật vủa_văn_phòng bộ cũng quyết_định khiển_trách ông duy và thông_báo với toàn cơ_quan 
+8,cũng theo ông trường  vị phó chánh_văn_phòng bộ hứa sẽ xin_lỗi các chiến_sĩ công_an 
+9,ngoài_ra  ông duy cũng không phải là người trực_tiếp lái_xe ô_tô 
+10,trước đó  ngày 31/5  facebook có tên bnt có chia_sẻ   khoảng 15 h00 chiều nay  31/5  trên đường giảng_võ  đoạn qua cổng bộ y_tế  138b giảng_võ   3 anh tự_xưng là nhân_viên của bộ y_tế điều_khiển xe ô_tô bks_29a  44448 gây tai_nạn đâm vào xe của người khác 
+11,xong 3 anh xuống xe chém gió luyên_thuyên vài câu  mồm nồng_nặc mùi rượu rồi 2 anh bỏ chạy vào bộ  

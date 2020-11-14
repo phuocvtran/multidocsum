@@ -1,0 +1,8 @@
+idx, sentence
+0,cụ_thể  chiều ngày 165  ông trần_văn_sơn em  ngụ khóm 4  p 6  tpcao_lãnh  đi soi và bắt được 7 con cóc cùng vài con ếch_nhái 
+1,sáng ngày 175  chị nguyễn_thị_kim_loan  vợ anh em  bắt vài con cóc nhái làm_thịt và chế_biến món kho sả ớt cho gia_đình gồm 9 thành_viên cùng ăn 
+2,ăn xong  các thành_viên trong gia_đình vẫn sinh_hoạt bình_thường 
+3,đến chiều ngày 175  chị loan tiếp_tục làm_thịt 4 con cóc và số nhái  ếch còn lại chế_biến món khổ qua xào cho 9 thành_viên trong gia_đình cùng ăn 
+4,tuy_nhiên  ăn xong bé trần_nguyễn_hoài_nam  4 tuổi  bị nôn và nôn ngày_càng nhiều 
+5,gia_đình đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị nhưng khoảng 22 giờ 30 phút cùng ngày bé nam đã tử_vong 
+6,bệnh_viện chẩn_đoán do ngộ_độc 

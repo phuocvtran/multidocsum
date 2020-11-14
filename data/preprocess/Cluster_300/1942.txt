@@ -1,0 +1,8 @@
+idx, sentence
+0,vị_trí hư_hỏng được xác_định tại lý trình h0  580 m  cách ngưỡng đường chc đầu 27 là 580 m  cách tim đường chc về phía bắc 40 m  
+1,mặt đường băng bị hỏng rộng 40x40 cm 
+2,để đảm_bảo đúng kỹ_thuật  mặt đường_băng đã được đào rộng 2 mx2  5 mx0  1 m để sửa_chữa 
+3,“ lúc 15 h chiều hôm_nay  đã có chuyến bay đầu_tiên hạ xuống sân_bay an_toàn ” – ông hà cho biết 
+4,trước đó  như báo tiền_phong đã đưa tin  sáng ngày 3/6  hàng chục chuyến bay đi và đến tại sân_bay buôn_ma_thuột đã bị huỷ do sự_cố hỏng đường_băng 
+5,hàng trăm khách_hàng bức_xúc do không được thông_báo từ trước 
+6,hãng jetstar_pacific huỷ 3 chuyến bay  đồng_thời liên_hệ chuyến bay khác cho hành_khách có nhu_cầu 

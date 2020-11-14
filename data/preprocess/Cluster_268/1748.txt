@@ -1,0 +1,14 @@
+idx, sentence
+0,mới_đây  trong một buổi lễ vinh_danh các bậc phục huynh tại điện_kremlin  tổng_thống nga_vladimir_putin đã cố_gắng an_ủi một bé gái bật khóc song không thành_công 
+1,bé yana_kleshova  4 tuổi  đã bật khóc trước ống_kính  khi gia_đình em được bước lên sân_khấu để nhận giải_thưởng 
+2,thấy vậy  tổng_thống putin bèn tiến tới  xoa má và an_ủi cô bé nhưng không hiệu_quả 
+3,cô bé không nín khóc  mà_còn nép vào người mẹ 
+4,bất_kể ông putin ngồi xuống và chỉ tay vào ống_kính  nhưng cô bé vẫn tiếp_tục nức_nở 
+5,cuối_cùng  ông đành phải lắc_đầu chịu_thua 
+6,theo điện_kremlin   huân_chương vẻ_vang dành cho các bậc phụ_huynh  là giải_thưởng trao cho những ông bố bà mẹ  đang nuôi bảy người con trở_lên và đảm_bảo chăm_sóc sức_khỏe  giáo_dục  tâm_lý và phát_triển đạo_đức cho những đứa trẻ  
+7,lại nhắc đến chuyện dỗ_dành trẻ_con  đây có_lẽ lại là một thế mạnh của lãnh_đạo mỹ nhất là khi mới đây  tại hiroshima  nhật_bản  ông obama đã bế một em bé đang khóc_thét khi rời vòng_tay mẹ nhưng đã nhanh_chóng nín khóc và bớt hoảng_sợ khi tổng_thống trao em lại cho mẹ 
+8,trước đó  tổng_thống barack_obama được mệnh_danh là người đàn_ông quyền_lực quý trẻ_em nhất thế_giới khi cứ thấy trẻ_con ở đâu là ông chạy đến trước chứ không đợi các em sà vào mình 
+9,trên là bức ảnh cậu bé 5 tuổi xoa đầu ngài được chụp năm 2009  theo new_york_times  bức ảnh đã từng được treo suốt 3 năm trong nhà trắng trong khi nhiều tấm khác đã bị gỡ xuống 
+10,người đàn_ông quyền_lực nhất thế_giới đã cúi xuống cho cậu bé sờ tóc khi bé hỏi   cháu muốn biết tóc cháu có giống tóc tổng_thống không   
+11,ông obama không ngại làm mặt xấu  phùng_má  trợn mắt hay nằm hẳn xuống sàn nhà khi chơi_đùa cùng bé ella_rhodes  con_gái của phó cố_vấn_an_ninh quốc_gia ben_rhodes  tại_nhà trắng 
+12,làm bệnh_nhân cho bác_sĩ nhí tại trường tiểu_học powell  washington 

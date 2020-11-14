@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 23/5  tại tp hcm  công_ty khang_điền ký_kết thỏa_thuận hợp_tác_chiến_lược lần_lượt với coteccons và khải_hoàn_land 
+1,theo đó  coteccons sẽ là đối_tác_chiến_lược  tổng thầu trong các hoạt_động xây_dựng  thiết_kế và thi_công các dự_án bất_động_sản của khang_điền trong thời_gian tới  kiến_tạo những công_trình xây_dựng mang thương_hiệu việt đẳng_cấp  có dấu_ấn sánh tầm khu_vực và quốc_tế 
+2,việc khang_điền lựa_chọn coteccons là đối_tác_chiến_lược vì xét trong lĩnh_vực thiết_kế  thi_công  xây_dựng  coteccons được đánh_giá là công_ty xây_dựng và tổng thầu thi_công hàng_đầu việt_nam có phạm_vi hoạt_động ở trong nước và khu_vực  chuyên tổng thầu thi_công thực_hiện các công_trình cũng như hạ_tầng_cơ_sở 
+3,còn đối_với khải_hoàn_land  sau khi ký_kết_hợp_tác  khải_hoàn_land phát_triển các dự_án bất_động_sản cũng như phân_phối các dự_án của khang_điền đến khách_hàng 
+4,khang_điền hiện có quỹ đất hơn 500 ha tại khu_vực phía đông và tây_nam tp hcm với định_vị phân khúc bất_động_sản nhà ở trung và cao_cấp 
+5,khang điền luôn kết_hợp giữa bất_động_sản nhà ở và hệ_thống dịch_vụ tiện_ích hoàn_hảo cho từng khu dân_cư tập_trung  văn_minh 
+6,mở_đầu cho hợp_tác  khải_hoàn_land sẽ đầu_tư vào dự_án khu_biệt_thự cao_cấp lucasta 
+7,với đội_ngũ nhân_sự hơn 4000 nhân_viên có chuyên_môn cao  khang_điền tin rằng các sản_phẩm của lucasta cũng như khang_điền sẽ sớm xuất_hiện trên thị_trường 

@@ -1,0 +1,5 @@
+idx, sentence
+0,theo thông_tin từ công_an xã cổ_lũng  vào_khoảng 13 giờ 45 phút ngày 2/6  tại km số 9  xóm 9 bờ đậu  xã cổ_lũng  phú_lương   thái_nguyên đã xảy ra vụ va_quệt giao_thông giữa xe ô_tô tải với xe_buýt và 1 xe_máy 
+1,hậu_quả  5 người trên xe_buýt và 1 người đi xe_máy bị_thương nhẹ 
+2,theo báo thái_nguyên và những hình_ảnh ghi lại từ đoạn video  vào khoảng thời_gian trên  xe ô_tô tải mang biển kiểm_soát 20c061  44 do anh trương_mạnh_hùng  sinh năm 1993  ở thị_trấn sơn_dương  tỉnh tuyên_quang điều_khiển đi hướng từ thái_nguyên  bắc_kạn đến địa_điểm trên thì xe bị nổ lốp và mất lái nên đã va_quệt vào xe_buýt mang biển kiểm_soát 20b008  78 đi hướng ngược chiều và một xe_máy biển kiểm_soát 20c1  07733 đi hướng cùng chiều 
+3,kết_quả  xe_buýt bị hư_hỏng khá nặng  may_mắn không có thiệt_hại nặng về người 

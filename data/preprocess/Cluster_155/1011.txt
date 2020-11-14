@@ -1,0 +1,12 @@
+idx, sentence
+0,tại tòa_án manhattan  pham  33 tuổi  đã thừa_nhận 3 tội_danh liên_quan tới hoạt_động khủng_bố do hỗ_trợ chi_nhánh alqaeda trên bán_đảo arab  aqap  âm_mưu đánh bom sân_bay heathrow 
+1,theo telegraph  các tội_danh bao_gồm hỗ_trợ vật_chất cho aqap  nhận huấn_luyện quân_sự từ aqap và sở_hữu  sử_dụng một súng_máy để thực_hiện_hành_vi phạm tội bạo_lực 
+2,theo cáo_trạng  pham từng đến yemen vào năm 2010 và thiết_kế đồ_họa cho tạp_chí inspire của alqaeda 
+3,trong thời_gian này  anh ta còn được anwar alawlaki  nhà truyền_đạo_hồi_giáo cực_đoan kiêm thủ_lĩnh alqaeda gốc mỹ  huấn_luyện 
+4,pham được alawlaki cho 10000 usd để kích_hoạt các thiết_bị nổ tại sảnh đến của sân_bay 
+5,tuy_nhiên  âm_mưu bất_thành khi pham bị tạm giữ tại heathrow tháng 7/2011 do nhà_chức_trách phát_hiện một băng đạn xuyên giáp trong hành_lý 
+6,anh ta sau đó bị bắt tại anh vào tháng 6/2012 theo đề_nghị từ washington và bị dẫn_độ về mỹ vào tháng 2/2015 
+7,alawlaki cũng đã thiệt_mạng trong vụ tấn_công bằng máy_bay không người lái của mỹ ở yemen năm 2011 
+8,các luật_sư biện_hộ tranh_cãi rằng thân_chủ của họ chưa bao_giờ có ý_định tiến_hành vụ tấn_công 
+9,trong suốt phiên xét_xử  pham thừa_nhận mình đã  phạm sai_lầm nghiêm_trọng  và rất hối_lỗi nhưng  không hề có ý_định hãm_hại ai  
+10,anh này đã gửi một lá thư cho thẩm_phán tuyên_bố phản_đối mọi hành_vi khủng_bố và tư_tưởng cực_đoan 

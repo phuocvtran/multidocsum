@@ -1,0 +1,20 @@
+idx, sentence
+0,một khi đã góp_mặt ở trận chung_kết  bất_cứ đội bóng nào cũng nguy_hiểm 
+1,hơn ai hết mu là đội vừa trải_nghiệm thực_tế đó 
+2,crystal_palace mang lại cho họ quá nhiều khó_khăn  bất_chấp không phải là đội kiểm_soát thế_trận hay số cơ_hội 
+3,tuy_nhiên  louis_van_gaal vẫn là người thành_công trong việc giúp quỷ đỏ cứu_vãn một mùa giải trắng_tay tiếp_theo 
+4,van_gaal thường_xuyên bị chỉ_trích ở mùa giải năm nay 
+5,thế nhưng  tại trận đấu có_thể nói là quan_trọng nhất của mùa giải  chiến_lược gia người hà_lan đáng nhận được những lời khen_ngợi với những điều_chỉnh về nhân_sự và chiến_thuật 
+6,rút jessse_lingard khỏi đội_hình xuất_phát  tung marouane_fellaini vào sân ngay từ đầu  kéo wayne_rooney về đá tiền_vệ và sau đó đưa lingard trở_lại … tất_cả góp_phần tạo ra màn ngược dòng nghẹt_thở của mu  trong trận đấu phải chờ đến các hiệp phụ mới phân_định thắng  thua 
+7,sự thay_đổi với fellaini cho thấy van_gaal sớm nhận ra cục_diện của trận chung_kết fa_cup 
+8,crystal palace ở vị_thế thấp hơn sẽ co_cụm phòng_ngự và chờ_đợi những tình_huống phản_công 
+9,trong thế_trận như vậy  những pha không chiến  tỳ đè tốt của fellaini sẽ mang lại cơ_hội cho các đồng_đội 
+10,từ nỗ_lực của wayne_rooney trước lúc tung ra đường căng ngang  fellaini khống_chế bằng ngực để juan_mata sút tung_lưới của crystal_palace  chỉ vài phút sau khi jason_puncheon có bàn thắng mở tỷ_số cho thầy_trò pardew 
+11,trong khi đó  quyết_định đưa lingard vào sân để chuẩn_bị cho các hiệp phụ của van_gaal đóng vai_trò then_chốt mang lại chiến_thắng cho mu
+12,không ai khác  tài_năng trẻ này là người chớp thời_cơ thành_công từ một tình_huống không rõ_rệt để ghi_bàn thắng đưa quỷ đỏ bước lên bục đăng_quang tại fa_cup năm nay 
+13,cú ra chân nhanh như điện của lingard đã dập_tắt tia hy_vọng trở_lại của crystal_palace 
+14,đó không phải là một chiến_thắng đẹp như van_gaal đã hứa  nhất_là khi chris_smalling phải nhận thẻ_đỏ rời sân  song một danh_hiệu quan_trọng hơn so với bất_cứ màn trình_diễn nào 
+15,kể từ lúc sir_alex_ferguson kết_thúc triều_đại 27 năm ở old_trafford vào mùa hè năm 2013  đây là danh_hiệu đầu_tiên của mu
+16,chiến_thắng này vãn_hồi những thất_bại của quỷ đỏ  từ cúp liên_đoàn_anh  premier_league cho tới champions_league 
+17,mùa tới  mu sẽ lỗi_hẹn với giải đấu danh_giá nhất châu_âu  nhưng bàn thắng quyết_định của lingard là bằng_chứng khẳng_định sự thành_công của van_gaal với chính_sách đào_tạo trẻ 
+18,thương_vụ anthony_martial để lại ấn_tượng mạnh_mẽ  trong lúc cái tên marcus_rashford thi_đấu rất ấn_tượng trong những tháng cuối_cùng của mùa giải năm nay 

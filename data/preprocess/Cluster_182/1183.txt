@@ -1,0 +1,12 @@
+idx, sentence
+0,afp dẫn nguồn tin từ cảnh_sát mexico ngày 305 cho biết pulido bị bắt_cóc bởi 4 tên có vũ_trang trên một đoạn đường_cao_tốc ở bang tamaulipas vào khoảng 23 giờ 30 phút ngày 285 khi tiền_đạo 25 tuổi đang chơi cho clb olympiakos  hy_lạp  trở về sau một bữa tiệc với bạn gái 
+1,sau đó  pulido được đưa đến giam_giữ tại một căn nhà ở ciudad_victoria  quê_nhà của cầu_thủ này 
+2,ngay sau vụ bắt_cóc  gia_đình của pulido nhận được cuộc điện_thoại đòi tiền chuộc vào rạng sáng ngày 295 
+3,trong thời_gian bị bắt  lợi_dụng sơ_hở của nhóm bắt_cóc  chân sút trên đã lấy được điện_thoại của mình để gọi vào đến số dịch_vụ khẩn_cấp mô_tả khung_cảnh xung_quanh căn nhà 
+4,nhờ cuộc gọi này  cảnh_sát tamaulipas sau đó xác_định được vị_trí của pulido bị giam_giữ trước khi phối_hợp với lực_lượng quân_đội  cảnh_sát liên_bang và tiểu_bang đột_kích vào căn nhà nói trên 
+5,sau 24 giờ bị bắt_cóc  pulido được giải_cứu thành_công 
+6,afp cho biết trước thời_điểm được cứu sống  pulido đã cố_gắng trốn thoát khỏi bọn bắt_cóc khi tước vũ_khí của một tên tội_phạm rồi dùng tay phá vỡ một cửa_kính khiến cổ_tay bị một vết cắt 
+7,sau cuộc đột_kích  cảnh_sát bắt được một nghi phạm 38 tuổi được cho là một trong những thành_viên của các tổ_chức tội_phạm hoạt_động tại địa_phương 
+8,ba kẻ còn lại tham_gia vụ bắt_cóc pulido đang bị truy_nã 
+9,phía clb olympiakos cũng nhẹ_nhõm sau khi hay tin pulido được giải_cứu an_toàn 
+10,trong khi đó  tiền_đạo từng khoác áo tuyển mexico cũng bày_tỏ sự biết_ơn đối_với cơ_quan_chức_năng về cuộc giải_cứu kịp_thời giúp anh được sống_sót 

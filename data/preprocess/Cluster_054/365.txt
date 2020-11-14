@@ -1,0 +1,28 @@
+idx, sentence
+0,anh bé_nhỏ  nhưng có nghị_lực phi_thường 
+1,khương đã rong_ruổi đạp xe 38 ngày ròng  xuất_phát ngày 12/4 tại cà_mau và đến hà_nội vào đúng sinh_nhật bác 19/5 
+2,suốt hành_trình đó  khương sụt mất 5 kg nhưng anh bảo  giờ còn thấy khoẻ hơn trước  
+3,đó là bởi  ước_mơ của anh sắp thành hiện_thực 
+4,khương chia_sẻ  động_lực lớn nhất thôi_thúc anh xách xe lên và đi ra hà_nội chính là từ tâm nguyện của người bạn thân trước khi mất 
+5,đó là một người bann rất thân của khương  mất năm 2013 chỉ 2 tháng sau khi phát_hiện ra bệnh suy thận 
+6,suốt 2 tháng ròng thăm và chăm bạn  bác_sĩ cho biết  cách duy_nhất để cứu được mạng sống của bạn khương là ghép thận 
+7,nhưng điều đó đã không_thể xảy ra  từ một thông_tin vô_tình anh đọc được trên báo  tháng 4/2013  khương quyết_định đến bệnh_viện đh y_dược tphcm_hiến xác và tháng 8 cùng năm  tiếp_tục đến bệnh_viện chợ_rẫy tphcm đăng_ký hiến đa tạng sau khi chết_não với hy_vọng cơ_thể mình sau khi chết đi vẫn có_thể cứu sống được ít_nhất 7 người nữa 
+8,“ khi cầm thẻ đăng_ký hiến mô tạng về nhà  bố_mẹ em rất sốc 
+9,mẹ em chỉ khóc  còn ba không nói gì 
+10,nhưng sau khi nghe em thuyết_phục  ba_mẹ cũng rất ủng_hộ ”  khương chia_sẻ 
+11,từ đây chàng thanh_niên bắt_đầu lên kế_hoạch đạp xe xuyên việt 
+12,không chỉ thế  anh còn mang thêm nhiều tờ_rơi  thông_điệp về hiến ghép mô  tạng và quyết_định đến trung_tâm điều_phối quốc_gia vê ghép bộ_phận cơ_thể người  đặt tại bệnh_viện việt_đức  đăng_ký hiến sống một phần lá_gan và quả_thận của mình cho những bệnh_nhân kém may_mắn 
+13,trong khi bản_thân khương cũng bị thấp_khớp và vẹo cột_sống 
+14,gia_cảnh khương rất nghèo 
+15,bản_thân anh là công_nhân  lương thấp 
+16,nhưng anh vẫn giành dụm để mua chiếc xe_đạp 23 triệu đồng 
+17,chuyến đi 2000 km  anh chỉ cho_phép cầm theo 56 triệu 
+18,ngoài chiếc xe_đạp  khương mang theo bếp cồn nhỏ để đun nước  nấu mỳ tôm 
+19,xuất_thân từ gia_đình nghèo_khó  không có xe_máy  ít ai biết để có tiền đạp xe xuyên việt 
+20,trước khi lên_đường  khương cũng đã cẩn_thận in sẵn thông_tin về hiến ghép tạng cũng như địa_chỉ chi_tiết các cơ_sở tiếp_nhận để ai hỏi thì đưa 
+21,“ cũng vì_thế  trên hành_trình em đã gặp không ít những ánh mắt dò_xét của người đi đường  có người nói em “ khùng ” nhưng cũng có người rất ủng_hộ  họ nói họ sẽ suy_nghĩ việc hiến tạng và động_viên em cố_gắng đi tiếp 
+22,em chỉ mong_muốn có thật nhiều người biết để hành_động giống mình ”  khương chia_sẻ 
+23,anh cho biết  mỗi ngày anh đi khoảng 100 km  khi đổ đèo  lên dốc lại xuống dắt bộ 
+24, cả chặng đường đi băng_băng không sao  khi vừa đến thủ_đô thì xe lại tụt xích ”  khương kể 
+25,sau 38 ngày  chàng trai trẻ đã vượt qua hành_trình hơn 2000 km  đi qua 27 tỉnh_thành với tổng chi_phí 37 triệu đồng 
+26,khương cho biết  chiều_mai sẽ tiếp_tục đạp xe trở_lại quê bạn thân tại đà_nẵng để đấu_giá từ_thiện chiếc xe_đạp em đang đi để ủng_hộ các bệnh_nhi ung_thư 

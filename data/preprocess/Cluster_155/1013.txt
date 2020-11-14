@@ -1,0 +1,9 @@
+idx, sentence
+0,tờ telegraph hôm 27/5 cho biết  minh_quang_pham  33 tuổi  bị kết_án 40 năm tù giam tại tòa_án ở manhattan  mỹ với tội_danh âm_mưu tiến_hành tấn_công liều chết cùng một chi_nhánh alqaeda nhằm vào sân_bay heathrow của anh 
+1,theo cáo_trạng  pham đã được giao nhiệm_vụ kích_hoạt thiết_bị nổ tại lối vào của sân_bay heathrow 
+2,kẻ chỉ_đạo pham làm_việc này là anwar_alawlaki  nhà truyền_đạo_hồi_giáo cực_đoan kiêm thủ_lĩnh alqaeda gốc mỹ  đồng_thời là người huấn_luyện pham theo con đường khủng_bố 
+3,pham từ anh sang yemen hồi năm 2010  làm_việc với vai_trò họa_sĩ thiết_kế cho tờ inspire  một tạp_chí tuyên_truyền của tổ_chức alqaeda chuyên đăng_tải những bài hướng_dẫn cách chế_tạo thiết_bị nổ 
+4,tên này đã thề trung_thành với alqaeda và được nhóm alqaeda ở bán_đảo ả rập  aqap  huấn_luyện để thực_hiện các mưu_đồ tấn_công khủng_bố 
+5,pham đã bị cảnh_sát bắt_giữ ngay tại sân_bay heathrow khi hắn quay về anh tháng 7/2011 và âm_mưu tiến_hành vụ đánh bom liều chết nhằm vào sân_bay này 
+6,trước đó  alawlaki đã hứa sẽ trả công cho pham gần 10000 usd nếu thực_hiện thành_công phi_vụ này 
+7,pham sau đó đã bị dẫn_độ tới mỹ  còn alawlaki cũng đã tiêu_diệt trong một vụ tấn_công bằng máy_bay không người lái của mỹ ở yemen hồi tháng 9/2011 

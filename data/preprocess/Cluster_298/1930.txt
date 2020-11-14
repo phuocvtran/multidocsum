@@ -1,0 +1,10 @@
+idx, sentence
+0,báo pravda của nga đưa tin  hôm 2/4  đường_băng tại sân_bay quốc_tế domodedovo ở thủ_đô matxcơva  nga đã bất_ngờ sụp thành hố bởi sức_nặng của chiếc máy_bay chở khách 
+1,theo đó  sự_cố xảy ra khi chiếc máy_bay airbus 319 của hãng hàng_không s7_airlines hoàn_thành chuyến bay từ st_petersburg đến matxcơva với 147 hành_khách 
+2,sau khi hạ_cánh tại sân_bay domodedovo vào lúc 13 h50 chiều 2/6  giờ_địa_phương   một điều_phối_viên đã thông_báo với các phi_công rằng họ nên nhường đường cho chiếc máy_bay khác cũng bay từ st_petersburg rời khỏi đường_băng 
+3,pravda dẫn lời cảnh_sát cho biết  “ máy_bay đã nhường cho máy_bay khác cất_cánh trước và đang trong lúc đợi để được hướng_dẫn đỗ vào vị_trí 
+4,sau 2 phút chờ_đợi  đường_băng dưới bánh máy_bay bắt_đầu bị sụp xuống  khiến máy_bay bị tụt xuống hố 
+5,các phi_công không_thể làm bất_cứ điều gì vì khung_gầm máy_bay đã bị chặn_đứng trong lớp nhựa_đường ” 
+6,kết_quả  chiếc airbus 319 đã phải ở trong tình_trạng này trong khoảng nửa giờ 
+7,các nhân_viên sân_bay đã quyết_định sơ_tán tất_cả hành_khách đến nhà_ga 
+8,sau đó  máy_bay đã được kéo đến bãi đỗ 

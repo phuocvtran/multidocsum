@@ -1,0 +1,7 @@
+idx, sentence
+0,theo trang tin_tức quân_sự defense_news  ba_lan sẽ đề_nghị nato triển_khai lực_lượng cỡ một tiểu_đoàn đến nước này trong hội_nghị thượng_đỉnh sắp diễn ra vào tháng tới 
+1,bộ_trưởng antoni_macierewicz nhận_định rằng  các đơn_vị của nato ở vùng baltics không_thể chiến_thắng được quân_đội nga nhưng nó cũng đủ sức để làm chậm lại một cuộc tấn_công và từ đó gọi quân cứu_viện 
+2,theo quy_định trong quân_đội mỹ  một tiểu_đoàn có quy_mô từ 300 đến 800 lính 
+3,tuyên_bố của ông macierewicz đến sau khi tổng_thống nga_vladimir_putin vừa khẳng_định vào tuần trước rằng  romania và ba_lan sẽ nằm trong tầm ngắm của tên lửa nga vì đã đồng_ý cho mỹ xây_dựng cơ_sở phòng_thủ tên lửa tại đây 
+4,nato đang muốn triển_khai 4 tiểu_đoàn lính bộ_binh đến đông_âu  đóng tại các nước ba_lan  lithuania  estonia và latvia 
+5,vào tháng 5  khối quân_sự này cũng vừa chính_thức đưa khu phòng_thủ tên lửa ở romania vào hoạt_động và khởi_công xây_dựng một căn_cứ tương_tự tại ba_lan 

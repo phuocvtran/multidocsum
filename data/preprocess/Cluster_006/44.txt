@@ -1,0 +1,7 @@
+idx, sentence
+0,sáng 20/5  trao_đổi với pv dân_trí  công_an huyện sơn_động cho biết  theo điều_tra ban_đầu  vào_khoảng 12 h trưa ngày 19/5  tại thôn đồng_rì  thị_trấn thanh_sơn huyện sơn_động xảy ra vụ nổ_mìn khiến đỗ_viết_tuấn  sinh năm 1984  hktt ở thôn 4  xã thiệu_quang  huyện thiệu_hóa  tỉnh thanh_hóa  đang tạm_trú tại thôn đồng_rì – bắc_giang  tử_vong tại_chỗ 
+1,cùng thời_điểm đó  cơ_quan_chức_năng phát_hiện tại nơi ở của 2 vợ_chồng  chị vũ_thị_lan  sinh năm 1985  vợ tuấn  chết trên sàn nhà trong tư_thế bị trói chặt chân_tay  cổ bị siết 
+2,qua điều_tra ban_đầu  cơ_quan_chức_năng nhận_định anh đỗ_viết_tuấn tự_sát bằng vật_liệu nổ 
+3,được biết  hai vợ_chồng quê ở thanh_hoá làm cho công_ty tại thị_trấn thanh_sơn  huyện sơn_động 
+4,ngay sau khi sự_việc xảy ra  công_an huyện sơn_động phối_hợp với các đơn_vị nghiệp_vụ công_an tỉnh bắc_giang đã nhanh_chóng xuống hiện_trường  tổ_chức khám_nghiệm và điều_tra làm rõ nguyên_nhân 
+5,sau khi công_tác khám_nghiệm hiện_trường  khám_nghiệm tử_thi được hoàn_tất  gia_đình đã đến đưa thi_thể của vợ_chồng anh tuấn về quê mai_táng 

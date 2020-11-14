@@ -1,0 +1,5 @@
+idx, sentence
+0,ngày 28/5  công_an huyện hóc_môn  tphcm cho biết  đơn_vị vẫn đang phối_hợp với các phòng nghiệp_vụ của công_an tphcm truy_xét các đối_tượng gây ra vụ đột_nhập vào nhà dân lấy đi số tài_sản “ khủng ” trị_giá khoảng 2 tỷ đồng 
+1,trước đó  tối 26/5  ông trương_văn_hiền  49 tuổi  ngụ huyện hóc_môn  phát_hiện căn nhà của mình ở số 14/1 d đường tô_ký  xã thới_tam_thôn  huyện hóc_môn  bị kẻ_gian đột_nhập và lấy đi 1 két sắt  bên trong có một_số tài_sản trị_giá khoảng 2 tỷ đồng 
+2,ngay khi nhận được tin báo  công_an huyện hóc_môn phối_hợp cùng các phòng vị nghiệp_vụ công_an tphcm tổ_chức khám_nghiệm hiện_trường  lấy lời khai những người liên_quan 
+3,hiện công_an đang khẩn_trương truy_xét các đối_tượng gây ra vụ trộm nói trên 

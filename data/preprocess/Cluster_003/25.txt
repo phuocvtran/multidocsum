@@ -1,0 +1,26 @@
+idx, sentence
+0,bà thái anh_văn chính_thức trở_thành nữ tổng_thống đầu_tiên của đài_loan vào ngày 20/5 
+1,lễ nhậm_chức của bà đánh_dấu mốc lo_ngại của bắc_kinh đã gia_tăng  reuters nhận_định 
+2,chiến_thắng của bà thái anh_văn đánh_dấu sự trở_lại xu_hướng ủng_hộ độc_lập của đảng_dân tiến trong bối_cảnh mối quan_hệ giữa đài_bắc và bắc_kinh đang ngày_càng xấu đi  nền kinh_tế đài_loan có dấu_hiệu sụt giảm 
+3,chiến_thắng vang_dội của đảng_dân tiến  dpp  trong cuộc bầu_cử hồi tháng 1 năm nay được cho là kết_quả của sự bất_bình trong công_chúng đài_loan về việc chính_phủ tiền_nhiệm mã_anh_cửu của quốc_dân_đảng ngày_càng  sống trong cái bóng  của trung_quốc_đại_lục trong 8 năm qua 
+4,dpp có truyền_thống ủng_hộ đài_loan độc_lập khỏi trung_quốc 
+5,bài phát_biểu của bà thái anh_văn trong lễ nhậm_chức dự_kiến sẽ diễn ra vào trưa nay đang được chú_ý đặc_biệt  bởi nó có_thể tác_động rất lớn tới mối quan_hệ giữa đảo này với bắc_kinh trong tương_lai 
+6,trung_quốc nhiều lần công_khai tuyên_bố sẽ không loại_trừ khả_năng sử_dụng vũ_lực để đưa đài_loan nằm dưới sự kiểm_soát của mình 
+7,bắc kinh không tin_tưởng dpp 
+8,trung_quốc đã nhiều lần gây sức_ép với chính_phủ đài_loan buộc tuân_thủ nguyên_tắc  một trung_quốc   trong đó khẳng_định quyền kiểm_soát hòn đảo này của mình và muốn bà thái anh_văn_công_khai thừa_nhận điều này 
+9,về_phần mình  đài_loan muốn khẳng_định quyền tự_trị của mình 
+10,trong tuyên_bố trước đó  bà thái anh_văn cho biết bà sẽ duy_trì hiện_trạng quan_hệ giữa bắc_kinh và đài_bắc  nhưng tránh đề_cập đến nguyên_tắc mà bắc_kinh đưa ra là  một trung_quốc  mà bắc_kinh đã đạt được trong một thỏa_thuận ngầm với quốc_dân đảng trước_kia 
+11,bà cam_kết sẽ không theo_đuổi những thay_đổi về lập_trường cơ_bản của dpp 
+12, bà thái anh_văn đã nói nhiều lần rằng quan_hệ hai bờ eo_biển sẽ được dựa trên nguyên_tắc dân_chủ và công_luận của đài_loan 
+13,vì_vậy  sẽ có có_thể nói những điều trung_quốc muốn nghe   tờ channel_news_asia dẫn lời lai_ichung  phó_giám_đốc tổ_chức thinktank của đài_loan và nguyên giám_đốc phụ_trách bộ_phận các vấn_đề trung_quốc của dpp  cho biết 
+14,đằng sau chiến_thắng lớn của dpp là thực_tế sẽ phải đối_mặt với một loạt khó_khăn về phương_diện chính_trị và kinh_tế 
+15,theo washington_post  trung_quốc đã bày_tỏ sự phản_đối của mình đối_với chiến_thắng của dpp bằng cách tăng_cường áp_lực lên hòn đảo thông_qua các cuộc tập_trận phô_diễn sức_mạnh trong khu_vực  các động_thái ngoại_giao và gây áp_lực trục_xuất công_dân đài_loan ở nước_ngoài 
+16,bất_ổn chính_trị đã đẩy chỉ_số chứng_khoán của đài_loan xuống mức thấp nhất trong 3 tháng qua hồi tuần trước khi các bà đầu_tư ồ_ạt bán cổ_phiếu 
+17,bà thái anh_văn lên nhậm_chức trong bối_cảnh tình_hình xuất_khẩu và các đơn hàng cũng giảm mạnh trong năm qua do nhu_cầu ở trung_quốc_đại_lục giảm_sút 
+18,người đài_loan đang kỳ_vọng sẽ được nhìn thấy một lối_thoát cho nền kinh_tế của hòn đảo trong bài phát_biểu nhậm_chức của bà thái anh_văn 
+19,theo nbc_news  đài_loan đang thúc_đẩy chính_sách  hướng nam   tăng_cường quan_hệ thương_mại và kinh_tế với các quốc_gia đông_nam_á để giảm sự phụ_thuộc thương_mại vào trung_quốc 
+20,bên cạnh thúc_đẩy đầu_tư thương_mại  chính_sách  hướng nam  cũng tập_trung vào việc nuôi_dưỡng tài_năng và khuyến_khích trao_đổi song_phương 
+21, nếu chúng_ta không bắt kịp nhanh_chóng  lợi_thế_công_nghiệp và kinh_tế của đài_loan trong asean sẽ dần_dần bị xói_mòn 
+22,đây là mấu_chốt của chính_sách hướng nam mới   james_huang  người đứng đầu văn_phòng chính_sách hướng nam mới  cho biết 
+23,tuy_nhiên  vẫn còn quá sớm để nói rằng các nước asean sẽ hợp_tác với các nỗ_lực của đài_loan 
+24, tôi không chắc_chắn rằng các bạn_bè của đài_loan ở châu_á khác  ngoài nhật_bản  sẽ có những bước_đi mạo_hiểm để đổi lấy là rắc_rối của họ với bắc_kinh   bonnie_glaser  chuyên_viên cao_cấp tại trung_tâm nghiên_cứu chiến_lược và quốc_tế  csis   giải_thích 

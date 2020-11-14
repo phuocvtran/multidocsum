@@ -1,0 +1,4 @@
+idx, sentence
+0,sau thời_gian dài kín_tiếng trước báo_giới thì trong buổi trả_lời phỏng_vấn vào ngày hôm_qua trước trận giao_hữu gặp đt bồ_đào nha – trận đấu cuối trước thềm euro 2016 của đt_anh  wayne_rooney đã lần đầu nói về việc tài_năng trẻ marcus_rashford lên tuyển và vai_trò của mình ở tam_sư 
+1,anh tỏ ra rất vui_mừng khi chứng_kiến đàn_em ở mu  rashford được triệu_tập vào danh_sách chính_thức của tuyển anh tới pháp tham_dự euro 2016  rooney chia_sẻ  “ đó là quyết_định đúng_đắn  những gì mà cậu ấy thể_hiện thật đáng kinh_ngạc 
+2,rashford đã ghi_bàn ở trận gặp australia qua đó trở_thành cầu_thủ trẻ nhất trong lịch_sử ghi_bàn ngay trận đầu ra mắt đt_anh ” 

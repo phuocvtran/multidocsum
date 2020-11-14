@@ -1,0 +1,13 @@
+idx, sentence
+0,clb hải_phòng đang là đội bóng khó đánh_bại nhất ở vleague  khi họ mới thua 1 trận sau 10 vòng đấu  8 thắng  1 hòa  1 thua  
+1,thầy_trò hlv trương_việt_hoàng đang dẫn đầu_bảng xếp_hạng với 25 điểm  bỏ_xa thanh_hóa xếp sau tới 6 điểm 
+2,trong khuôn_khổ vòng 11 vleague 2016  thanh_hóa sẽ tiếp hải_phòng trên sân_nhà 
+3,đây là trận đấu đáng chú_ý nhất ở lượt đấu thứ 11 
+4,để khích_lệ tinh_thần cầu_thủ đội nhà  lãnh_đạo clb thanh_hóa treo thưởng số tiền 1 tỷ đồng  nếu giám_đốc kỹ_thuật lê_thụy_hải cùng các cầu_thủ giành chiến_thắng trước hải_phòng trong trận đấu chiều 22/5 
+5,về tình_hình_nhân_sự  đội bóng đất cảng chào_đón sự trở_lại của stevens sau án treo giò  3 thẻ_vàng  
+6,bởi_vậy  sức_mạnh đến từ bộ đôi ngoại binh jamaica gồm fagan  stevens sẽ là thử_thách không nhỏ cho hàng thủ của thanh_hóa 
+7,tuy_nhiên  đội chủ nhà cũng có mũi_nhọn đáng gờm trên hàng công 
+8,tiền_đạo omar  đội_trưởng đội bóng xứ thanh đang có phong_độ tốt với thành_tích ghi_bàn bằng stevens  7 pha lập công sau 10 vòng đấu đã qua 
+9,mặt_khác  đội_hình nội_binh của thanh_hóa có nhiều cầu_thủ từng khoác áo hải_phòng và ngược_lại 
+10,thủ_môn thanh_thắng  đình_tùng  văn_phong và cả hlv lê_thụy_hải của đội bóng xứ thanh đều từng có 2 năm gắn_bó với đội bóng đất cảng 
+11,bên_cạnh đó  2 nội binh ghi nhiều bàn nhất cho hải_phòng ở mùa giải 2016 là văn_thắng và xuân_hùng  3 bàn  lại đều là cầu_thủ gốc thanh_hóa 

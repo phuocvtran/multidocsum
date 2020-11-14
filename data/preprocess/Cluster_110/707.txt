@@ -1,0 +1,10 @@
+idx, sentence
+0,nguồn tin từ chi_cục quản_lý thị_trường thành_phố hà_nội  đơn_vị này vừa thực_hiện kiểm_tra và phát_hiện hàng_loạt các cửa_hàng trà sữa thuộc chuỗi cửa_hàng feeling tea vi_phạm các quy_định về vệ_sinh an_toàn thực_phẩm 
+1,trong số 8 cửa_hàng được kiểm_tra  thì có tới 7 cửa_hàng vi_phạm quy_định về vệ_sinh an_toàn thực_phẩm  1 cửa_hàng đang trong quá_trình xử_lý  mời giám_đốc lên làm_việc  
+2,8 cửa_hàng bị kiểm_tra có địa_chỉ tại  123 đội cấn  11 đường thanh_niên  99 xã_đàn  61 yên_lãng  401 bạch_mai  147 trần_đại_nghĩa  491 kim_ngưu  số 8 nguyễn_phong_sắc kéo_dài  162 ngọc_lâm 
+3,cụ_thể  6 cửa_hàng kinh_doanh mà không có giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  1 cửa_hàng_không thực_hiện khám sức_khoẻ cho đối_tượng thuộc diện phải khám sức_khoẻ định_kỳ 
+4,đáng chú_ý  chi_cục quản_lý thị_trường đã tạm giữ nguyên_liệu chế_biến tại 4 cửa_hàng do không xuất_trình được giấy_tờ chứng_minh nguồn_gốc  xuất_xứ của hàng_hoá 
+5,các sản_phẩm bị tạm giữ chủ_yếu là  hạt trân_châu  bột trà xanh  bộ cà_phê  đường nước … hiện_tại  ở hà_nội  trà sữa feeling_tea là một thương_hiệu đồ_uống được rất nhiều người yêu thích  đặc_biệt là giới trẻ 
+6,tính riêng tại đây có 16 chi_nhánh kinh_doanh loại đồ_uống này 
+7,trước đó  ngày 12/5 vừa_qua  đội 5 phòng cảnh_sát môi_trường  công_an hà_nội  và đội quản_lý thị_trường số 26  chi_cục quản_lý thị_trường  cũng đã tiến hàng kiểm_tra việc chấp_hành các quy_định về an_toàn thực_phẩm tại xưởng sản_xuất trà sữa chân trâu thuộc công_ty tnhh cảm_xúc do người đài_loan  trung_quốc  làm_chủ  đường ngọc_hồi  quận hoàng_mai  
+8,trong khi kiểm_tra  lực_lượng chức_năng phát_hiện thấy chi_nhánh của feeling_tea tại số 137 ngọc_hồi đã sử_dụng nguồn nguyên_liệu nhập_ngoại không đảm_bảo an_toàn  vì không rõ nguồn_gốc xuất_xứ 

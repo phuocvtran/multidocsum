@@ -1,0 +1,9 @@
+idx, sentence
+0,sáng 3/6  sở gtvt_tphcm làm lễ khởi_công xây_dựng nút giao_thông mỹ_thủy_nằm trên địa_bàn q 2 
+1,phát_biểu tại buổi lễ  ông lê_văn_khoa  phó chủ_tịch ubnd tphcm cho biết  “ nút giao mỹ_thủy là một trong nút giao_thông trọng_điểm của thành_phố  có mật_độ giao_thông rất lớn  nhất_là lượng xe_tải  container lưu_thông theo hướng bắc  nam và ra_vào cảng cát_lái  với hình_thức nút giao cùng cốt như hiện_nay không_thể đáp_ứng yêu_cầu về giao_thông dẫn đến tình_trạng ùn_tắc thường_xuyên xảy ra 
+2,việc xây_dựng nút giao này nhằm kéo giảm tình_trạng ùn_tắc giao_thông  tngt  phục_vụ phát_triển kinh_tế vùng trọng_điểm phía nam ” 
+3,theo ông khoa  lễ khởi_công hôm_nay mới là bước khởi_đầu của quá_trình xây_dựng dự_án 
+4,do_đó lãnh_đạo thành_phố đề_nghị các sở ngành  đơn_vị liên_quan cần tập_trung nỗ_lực thực_hiện các công_việc theo chức_năng  nhiệm_vụ của mình để công_trình đúng tiến_độ  chất_lượng 
+5,trong quá_trình xây_dựng phải đảm_bảo tuyệt_đối an_toàn_lao_động  atgt  vệ_sinh môi_trường … ông lê_ngọc_hùng  giám_đốc khu quản_lý giao_thông đô_thị số 2  chủ đầu_tư  cho biết  nút giao mỹ_thủy sẽ được chia làm hai giai_đoạn 
+6,giai_đoạn 1 với kinh_phí 838 tỷ đồng  dự_kiến hoàn_thành vào quý i / 2018 
+7,giai_đoạn 2  hoàn_chỉnh  đầu_tư khoảng 1100 tỷ đồng 

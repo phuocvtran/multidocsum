@@ -1,0 +1,12 @@
+idx, sentence
+0,lý_do xuân_trường sẽ được thi_đấu chính_thức bởi hôm_nay là ngày_hội việt_nam tại hàn_quốc 
+1,ban tổ_chức tổ_chức nhiều hoạt_động diễn ra tại svđ bóng_đá incheon 
+2,theo đó  đông_đảo người việt_nam ở hàn_quốc đã đăng_ký tham_gia lễ_hội này và họ sẽ có_mặt trên sân của incheon_utd để tham_dự các hoạt_động của ngày hội 
+3,xuân_trường được mời làm đại_diện hình_ảnh cho lễ_hội này  vì_thế rất có_thể anh sẽ được trao cơ_hội ra sân ở trận đấu này để tri_ân người hâm_mộ 
+4,nếu không có gì thay_đổi  hlv kim_dohoon sẽ tung xuân_trường vào sân ở hiệp 2 cuộc đối_đầu với gwangju_fc 
+5,nếu được ra sân  xuân_trường sẽ chính_thức có trận đấu ra_mắt tại kleague 
+6,hiện  incheon_utd đang thi_đấu không tốt ở kleague  khi chìm sâu dưới đáy bảng xếp_hạng khi chỉ mới có được 4 điểm 
+7,người hâm_mộ đang kỳ_vọng sự có_mặt của xuân_trường sẽ giúp đội bóng có được chiến_thắng đầu_tiên tại kleague 2016 bằng việc đánh_bại gwangju_fc 
+8,trong khi đó  xuân_trường cho biết anh cũng rất háo_hức được ra_mắt đội bóng và các cđv 
+9,thời_gian qua tiền_vệ người việt_nam đã rất nỗ_lực tập_luyện nhằm ghi_điểm với ban huấn_luyện 
+10,trước đó  xuân_trường cũng đã có 2 trận thi_đấu tại rleague  giải đấu dành cho các cầu_thủ dự_bị  và đã ghi dấu_ấn với hai đường chuyền thành bàn 

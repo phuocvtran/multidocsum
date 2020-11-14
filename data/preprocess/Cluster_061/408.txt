@@ -1,0 +1,7 @@
+idx, sentence
+0,hlv ancelotti dẫn_dắt real_madrid trong 2 mùa giải 2013 / 14 và 2014 / 15  giúp đội bóng này đoạt chức vô_địch champions_league danh_giá 
+1,ở sân bernabeu  ông luôn có mối quan_hệ với các ngôi_sao  đặc_biệt là cristiano_ronaldo 
+2,theo tiết_lộ của chiến_lược gia người italia  ronaldo là mẫu cầu_thủ rất chăm_chỉ  thậm_chí đến mức  quá_độ 
+3,thậm_chí ngôi_sao của real_madrid còn sẵn_sàng bỏ_rơi bạn gái ở thời_điểm đó là irina_shayk chỉ để thực_hiện bài_tập hồi_phục thể_lực 
+4,chia_sẻ với tạp_chí financial_times  ông ancelotti cho hay   ronaldo vẫn ở lại đội tắm nước_đá vào lúc 3 giờ sáng dù irina_shayk đang đợi ở nhà 
+5,cậu ta không quan_tâm đến tiền mà chỉ muốn mình là số_một mà thôi  

@@ -1,0 +1,9 @@
+idx, sentence
+0,phó chủ_tịch ubnd tp hcm trần_vĩnh_tuyến vừa cho biết một doanh_nghiệp singapore đã đề_nghị trang_bị wifi miễn_phí cho tp mục_đích nhằm phục_vụ cho du_khách tốt hơn trong việc tra_cứu thông_tin  đồng_thời cũng giúp tp giải_quyết được nhiều vấn_đề trong việc xây_dựng chính_quyền điện_tử mà tp đang tập_trung triển_khai 
+1,ông tuyến thông_tin thêm ông đã làm_việc với doanh_nghiệp singapore và sẽ có văn_bản chính_thức 
+2,“ làm thí_điểm hay đại_trà thì sẽ tính_toán 
+3,hệ_thống wifi có 2 cấp_độ  đối_với những nơi cần điểm nhấn thì tốc_độ nhanh hơn để tiện_lợi cho việc tra_cứu 
+4,dịch_vụ này sẽ góp_phần đẩy_mạnh truyền_thông và tạo điểm nhấn cho du_lịch tp ” – ông tuyến chia_sẻ 
+5,hiện_nay  nhiều địa_điểm công_cộng tại tp hcm như phố đi bộ nguyễn_huệ và các bệnh_viện lớn đều được phủ_sóng wifi miễn_phí cho người dân sử_dụng 
+6,được biết  năm 2012  hội_an  quảng_nam  trở_thành thành_phố đầu_tiên trong cả nước triển_khai hệ_thống wifi miễn_phí với 350 điểm phát_sóng 
+7,sau đó  hạ_long và huế cũng phủ wifi 

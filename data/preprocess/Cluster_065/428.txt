@@ -1,0 +1,4 @@
+idx, sentence
+0,pep guardiola đã khép lại triều_đại của mình ở bayern_munich bằng chiếc cúp quốc_gia đức 
+1,trong trận đấu cuối_cùng của mình cùng “ hùm xám ”  cựu hlv barca đã không giấu được xúc_động khi chia_tay học_trò  chuẩn_bị sang tiếp_quản man_city 
+2,trong 3 mùa giải ở đức  pep đã giúp bayern giành 3 chức vô_địch bungdesliga  1 siêu cúp châu_âu  1 world_cup các clb và 2 cúp quốc_gia  tuy_nhiên  ông chưa_thể giúp  hùm xám  vô_địch champions_league_dù có 3 lần liên_tiếp vào đến bán_kết 

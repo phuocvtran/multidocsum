@@ -1,0 +1,20 @@
+idx, sentence
+0,tuần trước  vụ_việc cậu bé 7 tuổi bị bố_mẹ bỏ_rơi trong khu rừng gấu đã tạo nên làn_sóng phản_đối dữ_dội tại nhật_bản 
+1,trong nỗ_lực tìm_kiếm cậu bé tưởng_chừng như tuyệt_vọng và không đi đến hồi kết  phép màu đã xảy ra khi ngày hôm_nay  bé yamato_tanooka đã được tìm thấy và vẫn còn sống_sót 
+2,đây là tin_vui không chỉ đối_với bố_mẹ cậu bé mà tất_cả người dân nhật_bản đã cùng cầu_nguyện  hy_vọng cậu bé sống_sót an_toàn trong khu rừng đầy_rẫy nguy_hiểm 
+3,theo ông satoshi_saito  một thành_viên trong nhóm giải_cứu  cậu bé đã được tìm thấy còn sống_sót dù chưa rõ chi_tiết về tình_hình sức_khỏe 
+4,thông_tấn_xã báo_chí kyodo cho biết  cậu bé đã được tìm thấy lúc 705 sáng nay theo giờ_địa_phương  khoảng 5 h sáng tại việt_nam  
+5,nhóm tìm_kiếm đã phát_hiện cậu bé trong một tòa nhà  thuộc khu_vực tập_luyện của quân_đội tại thị_trấn shikabe  hokkaido 
+6,khu_vực phát_hiện cách nơi cậu bé được cho là đã mất_tích khoảng 5 km 
+7,trên thực_tế  khoảng_cách này là 7 km nếu đi theo đường_mòn trong rừng 
+8,một sĩ_quan cảnh_vệ đã phát_hiện ra cậu bé và ước_chừng khoảng 7 tuổi 
+9,cậu bé nói rằng mình chính là yamato_tanooka 
+10,khi được tìm thấy  cậu bé đang nằm cuộn_tròn trên tấm đệm và không có các vết_thương nghiêm_trọng nào bên ngoài 
+11,những người lính ngay lập tực đã đưa cơm  bánh_mì và nước cho yamato khi em nói rằng mình rất đói và khát 
+12,trả_lời cảnh_sát  yamato nói rằng em đã ở trong khu_vực tập_luyện của quân_đội vài ngày sau khi đi một_mình trong rừng 
+13,tuy_nhiên  một nguồn tin khác cho hay yamato đã đi đến một trại trong khu_vực quan đội và ở đó ngay cái ngày em mất_tích 
+14,dù không có thức_ăn nhưng có_vẻ  yamato vẫn tiếp_cận được với nguồn nước 
+15,người phát_ngôn của lực_lượng phòng_vệ nhật_bản trao_đổi với afp rằng tình_trạng sức_khỏe của cậu bé vẫn tốt 
+16,để đảm_bảo  một máy_bay_trực_thăng đã được huy_động để đưa em đến bệnh_viện ngay sau đó 
+17,cha_mẹ của yamato đã xác_định đó chính là con_trai mình 
+18,hiện_tại  em đang được kiểm_tra sức_khỏe tại bệnh_viện hakodate 

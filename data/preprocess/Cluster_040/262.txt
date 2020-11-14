@@ -1,0 +1,31 @@
+idx, sentence
+0,ngày 20/5  tỉnh_đoàn khánh_hòa đã trao huy_hiệu “ tuổi_trẻ dũng_cảm ” của trung_ương đoàn cho hai em bo_tý  16 tuổi  và cao_lâm  14 tuổi  người dân_tộc raglai  huyện khánh_sơn  vì đã có hành_động dũng_cảm cứu người 
+1,tại buổi lễ  anh nguyễn_văn_nhuận  bí_thư tỉnh_đoàn khánh_hòa cho biết  hành_động dũng_cảm cứu người của bo_tý và cao_lâm cần được nhân rộng trong giới trẻ toàn tỉnh 
+2,trong phần giao_lưu  hai cậu bé người dân_tộc_thiểu_số lần đầu_tiên đến thành_phố và ngồi trước đông người rất bẽn_lẽn  rất khó_khăn khi kể lại câu_chuyện 
+3,chia_sẻ về hành_động của mình  tý và lâm nói   tụi em thấy người bị nạn thì cứu thôi  không nghĩ gì hết 
+4,tiếc là tụi em đã cố hết_sức  nhưng vẫn không kịp cứu hai bạn kia  
+5,hai trong năm nữ_sinh được cứu sống có_mặt tại buổi lễ đã cám_ơn hai bạn nhỏ cứu sống mình và mong_muốn các cơ_quan  đoàn_thể tạo điều_kiện để bo_tý  cao_lâm được đi học 
+6,theo tỉnh_đoàn khánh_hòa  bo_tý và cao_lâm có hoàn_cảnh rất khó_khăn 
+7,em tý mồ_côi cha_mẹ từ nhỏ  không biết chữ  em lâm_học đến lớp 7 cũng phải nghỉ học 
+8,hai em giúp_đỡ gia_đình bằng cách đi chăn bò thuê 
+9,cảm_kích trước sự dũng_cảm  nhân_ái của hai thiếu_niên nghèo  tại buổi lễ  nhiều tổ_chức  cá_nhân đã có những trợ_giúp về vật_chất để cuộc_sống của gia_đình hai em được cải_thiện 
+10,cao_lâm chia_sẻ em muốn dùng số tiền được các nhà hảo_tâm giúp_đỡ để xây mới một căn nhà nhỏ cho gia_đình  còn bo_tý thì muốn mua một cặp bò để “ làm vốn ” 
+11,về vụ_việc này  còn nhớ trước đó cao_lâm kể  chiều 20/4  em lùa đàn bò ra bãi_cỏ ở gần hồ_chứa_nước tà_rúc thì nghe tiếng kêu cứu khẩn_thiết 
+12,chạy tới hồ  cậu bé thấy xe_đạp điện  giày_dép cùng thức_ăn_nằm ngổn_ngang trên bờ  nhiều cánh_tay chới với dưới nước  đang chìm dần 
+13,nhìn xung_quanh không bóng người  lâm_hét lớn gọi bo_tí  cậu anh cũng chăn bò gần đó nhờ giúp_đỡ 
+14,nghe tiếng gọi khẩn_khoản  tí vội băng qua bờ đê tới hồ nước  dõi theo hướng chỉ tay của em  thấy có người đuối nước liền nhảy xuống cứu 
+15,không kịp nghĩ_ngợi  lâm cũng lao theo 
+16, nước trong hồ rất sâu  ngập lút_đầu   lâm nhớ lại 
+17,bơi cách bờ chừng 5 m  hai bé trai chăn bò thấy một_số nữ_sinh đang chìm xuống đáy 
+18,tí phát hoảng nhưng kịp bình_tĩnh ra_hiệu cho em  rồi kéo nạn_nhân vào bờ 
+19, khi ngoi lên được mặt_nước thấy người đó còn thở  em đặt xuống vùng nước cạn   tí kể 
+20,cùng lúc  cao_lâm cũng đưa một nữ_sinh khác vào 
+21, anh tí nói còn nạn_nhân ở dưới  nếu không cứu kịp_thời sẽ nguy_hiểm tới tính_mạng nên cả hai lại lao xuống hồ tìm   lâm nói 
+22,tiếp_tục ngụp_lặn  hai cậu bé tìm thấy  đưa thêm hai nữ_sinh lên bờ 
+23,các nạn_nhân được cứu dần hồi_tỉnh  khẳng_định còn 3 bạn mất_tích 
+24,dù đuối sức nhưng tí và lâm vẫn tiếp_tục lặn tìm 
+25,ít phút sau  nữ_sinh thứ 5 được đưa lên bờ vẫn còn thở thoi_thóp 
+26,lúc này  dân địa_phương hay tin chạy đến giúp sơ_cứu các nữ_sinh và xuống hồ tìm_kiếm 
+27,chưa đầy giờ sau  hai em còn lại được tìm thấy nhưng đã tử_vong 
+28, có_thể do tụi em kiệt_sức và bị chuột_rút nên đã không kịp cứu hai bạn ấy   tí day_dứt 
+29,tin_tức nguồn  http//wwwxaluancom/modulesphpnamenewsfilearticlesid1483600ixzz49icmeil7

@@ -1,0 +1,2 @@
+idx, sentence
+0,mỗi ngày có 24 chuyến xe bus du_lịch vòng_quanh tphcm với giá vé là 200000 đồng / hành khách đi suốt 24 giờ 

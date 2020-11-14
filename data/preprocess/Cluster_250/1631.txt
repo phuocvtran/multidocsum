@@ -1,0 +1,8 @@
+idx, sentence
+0,bloomberg cho biết  năm 2015 là năm thứ ba liên_tiếp đầu_tư trực_tiếp nước_ngoài từ nhật_bản rót vào 10 quốc_gia là thành_viên của hiệp_hội các quốc_gia đông_nam_á  asean  vượt qua đầu_tư trực_tiếp nước_ngoài từ nhật_bản chảy vào trung_quốc  hồng_kông 
+1,đầu_tư của nhật_bản vào asean đã tăng gần gấp 3 so với 5 năm trước  lên 20100 tỷ yen  1809 tỷ usd  cuối năm_ngoái  số_liệu của ngân_hàng trung_ương nhật_bản cho biết 
+2,trong khi đó  tăng_trưởng đầu_tư của nhật_bản sang trung_quốc thì chậm lại vì các tranh_chấp về lãnh_thổ khiến giới doanh_nghiệp nhật phải đa_dạng_hóa các rủi_ro đầu_tư  đặc beietj là sau tranh_chấp trên biển hoa_đông năm 2012 
+3,chuyên_gia kinh_tế ma_tieying tại hãng dbs_group ở singapore cho rằng   các thị_trường asean rất hấp_dẫn  theo góc nhìn của nhật_bản 
+4,rất nhiều nền kinh_tế có tiềm_năng tăng_trưởng tốt  nhờ cơ_cấu dân_số trẻ và thu_nhập bình_quân đầu người thấp  
+5,ngoài_ra  việc thị_trường khu_vực asean mở_cửa và có chi_phí lao_động thấp hơn trung_quốc cũng là nguyên_nhân thu_hút dòng_chảy đầu_tư từ quốc_gia đông_á 
+6,trong một khảo_sát về kế_hoạch đầu_tư năm 2015  khoảng 48  công_ty cho biết có dự_định tăng hoạt_động tại trung_quốc  giảm so với 73  năm 2011 

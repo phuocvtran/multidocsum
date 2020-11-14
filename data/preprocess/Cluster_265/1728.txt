@@ -1,0 +1,22 @@
+idx, sentence
+0,trong cuộc trả_lời phỏng_vấn đầu_tiên với truyền_thông nước_ngoài từ khi được tân tổng_thống rodrigo_duterte bổ_nhiệm  vị luật_sư này đã tìm cách nhấn_mạnh sự độc_lập của philippines trong việc giải_quyết các tranh_chấp với trung_quốc trên biển_đông 
+1, chúng_tôi sẽ không là tay_sai của bất_cứ nước nào   ông yasay nói tại manila ngay sau khi được ông duterte đưa vào nội_các 
+2,dưới thời tổng_thống benigno_aquino  philippines xích lại gần washington và căng_thẳng với trung_quốc 
+3,ông yasay nói rằng quan_hệ với trung_quốc sẽ được cải_thiện 
+4, chỉ cần họ  trung_quốc  tuân_thủ luật_pháp  tôn_trọng sự toàn_vẹn lãnh_thổ và chủ_quyền của chúng_tôi  chúng_tôi nên tiếp_tục đảm_bảo rằng tỉnh bạn và quan_hệ của chúng_tôi sẽ mạnh hơn   ông nói 
+5,ngoại_trưởng trung_quốc_vương nghị nói cánh cửa đối_thoại luôn rộng_mở và điều này sẽ giúp  phá vỡ bế_tắc  trong mối quan_hệ trung  philippines trong những năm gần đây 
+6, nếu philippines chân_thành muốn trở_lại con đường đối_thoại và đàm_phán  chúng_tôi hoan_nghênh   ông vương nói với các phóng_viên tại thủ_đô ottawa  canada 
+7, chúng_tôi sẽ rất vui khi thấy chính_phủ mới của philippines có những lựa_chọn khôn_ngoan  
+8,ông duterte  thị_trưởng  mạnh_mồm  sẽ lên nhậm_chức tổng_thống vào ngày 30/6 
+9,ông nói rằng philippines sẽ không dựa vào washington và điều này báo_hiệu sự thay_đổi tiềm_ẩn trong cách tiếp_cận biển_đông cũng như các vấn_đề an_ninh lớn hơn 
+10, ông chỉ đơn_giản nhấn_mạnh đến quan_điểm đó  theo hiến_pháp  chúng_ta có nghĩa_vụ thực_hiện một chính_sách đối_ngoại độc_lập   ông yasay nói về ý_kiến của ông duterte 
+11,ngoại_trưởng philippines nói thêm rằng tổng_thống mới đắc_cử sẽ tôn_trọng hiệp_ước hiện_hành với mỹ  trong đó có hiệp_định hợp_tác quốc_phòng tăng_cường  cho_phép quân_đội mỹ tăng_cường tiếp_cận các căn_cứ quân_sự tại philippines 
+12,ngày 17/5  tổng_thống mỹ barack_obama đã gọi điện chúc_mừng ông duterte 
+13, đó là tín_hiệu mạnh_mẽ cho thấy tình bạn giữa chúng_tôi và mỹ không bị ảnh_hưởng và sẽ sẽ không bị tác_động bởi cuộc bầu_cử của ông ấy   ông yasay nói 
+14,đồng_thời  ông duterte cũng không bác_bỏ những thỏa_thuận đang được dàm phán trong tương_lai nếu nó cần_thiết 
+15,năm nay  tòa_án tối_cao vẫn duy_trì tính hợp_hiến của các thỏa_thuận cho_phép mỹ xây nhà_kho và các trung_tâm dịch_vụ hậu_cần ở bất_cứ nơi nào trên đất philippines 
+16,washington cũng đang giúp manila củng_cố hệ_thống phòng_thủ  cung_cấp 3 xuồng cano lớp hamilton  thiết_bị ra dả và một tàu tìm_kiếm vào tháng 7 này 
+17,việc xây_dựng này là một phần nỗ_lực mà philippines thực_hiện nhằm tăng_cường các yêu_sách của mình trên biển_đông  nơi trung_quốc đang xây đảo nhân_tạo 
+18,ông yasay nói manila sẽ tôn_trọng bất_cứ quyết_định nào của tòa trọng_tài thường_trực tại the_hague 
+19,philippines đang thách_thức vị_thế của trung_quốc trên vùng_biển tranh_chấp 
+20,không rõ khi nào tòa ra phán_quyết 

@@ -1,0 +1,12 @@
+idx, sentence
+0,trò_chuyện với bầu đức  ông koji_kitawaga đã đánh_giá cao nỗ_lực  sự chuyên_cần trong tập_luyện của tiền_vệ tuấn_anh 
+1,một đặc_điểm khác mà toàn đội yokohama đánh_giá cao tinh_thần cầu tiến của tuấn_anh là việc anh chăm_chỉ học thêm tiếng nhật để giao_tiếp thuận_lợi với đồng_đội người bản_xứ 
+2,dù ít được ra sân thi_đấu trong năm đầu_tiên khoác áo yokohama_fc  nhưng tiền_vệ trẻ người việt không hề nản_lòng  anh luôn hoàn_thành tốt giáo_án tập_luyện hàng ngày  sinh_hoạt hòa_đồng với đồng_nghiệp và không bao_giờ đòi_hỏi những quyền_lợi cá_nhân cho riêng mình 
+3,thái_độ chân_tình của tuấn_anh càng_ngày_càng được đồng_đội trân_trọng 
+4,đó là lý_do khiến yokohama đưa ra đề_nghị gia_hạn hợp_đồng dài_hạn với cầu_thủ trẻ tài_năng này 
+5,chủ_tịch koji_kitawaga thẳng_thắn nói về bầu đức rằng  “ thông_tin từ báo_chí vn mà tôi có được cho thấy nhiều người chỉ_trích rằng tuấn_anh sẽ thui_chột tài_năng vì ngồi ghế dự_bị quá nhiều ở yokohama_fc 
+6,thực_tế là ở jleague 2  giải hạng 2 nhật  có rất ít cầu_thủ dưới 21 tuổi như tuấn_anh vào sân đá chính 
+7,các em dù có tài_năng nhưng cần thời_gian để hòa_nhập 
+8,chúng_tôi đánh_giá cao tài_năng và tư_cách của tuấn_anh  do_vậy hôm_nay  26   chúng_tôi chính_thức đặt vấn_đề yokohama_fc muốn ký hợp_đồng từ 5 đến 10 năm với tuấn_anh 
+9,clb sẵn_sàng cho tuấn_anh về vn khoác áo đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào … ’ 
+10,đáp lời lãnh_đạo clb yokohama_fc  ông đức nói  “ chúng_tôi ghi_nhận tình_cảm và thiện_chí của lãnh_đạo clb  nhưng xin_phép sẽ đưa ra câu trả_lời cụ_thể về trường_hợp của tuấn_anh khi mùa giải jleague 2 kết_thúc bởi mọi chuyện còn quá sớm và quá mới vào lúc này … ” 

@@ -1,0 +1,12 @@
+idx, sentence
+0,sáng 108  trao_đổi với chúng_tôi  thiếu_tá võ_châu_tuấn  phó_trưởng công_an huyện kỳ_anh  hà_tĩnh  xác_nhận thông_tin này 
+1,theo thiếu_tá tuấn  lý là nghi phạm “ nằm trong tầm ngắm ” của cơ_quan điều_tra từ lâu vì người này có liên_quan đến một đường_dây mua_bán người từ các huyện miền tây nghệ_an đưa về giao cho các nhà_chứa tại huyện kỳ_anh để hành_nghề mại_dâm 
+2,liên_quan đến vụ_việc  công_an huyện kỳ_anh đã khởi_tố vụ_án  khởi_tố bị_can và bắt tạm giam 4 tháng đối_với nguyễn_thành_trinh  36 tuổi  và lê_xuân_kỳ  46 tuổi  cùng ngụ tại xã kỳ_phong  huyện kỳ_anh  về tội hiếp_dâm trẻ_em 
+3,theo tài_liệu điều_tra  trinh và kỳ mở quán cơm trá_hình tại xã kỳ_phong để tổ_chức hoạt_động mại_dâm 
+4,ngày 238  do 2 nhân_viên cũ nghỉ_việc nên trinh  kỳ nhờ lô_thị_lý_tìm giúp một nhân_viên mới về giúp_việc  phục_vụ tại quán cơm 
+5,ngày 268  lý_gọi điện_thông_báo cho trinh  kỳ là đã tìm được em ktb  15 tuổi  ngụ tại huyện thanh_chương  nghệ_an  và hẹn gặp tại thành_phố vinh  nghệ_an  để “ trao_đổi ” 
+6,tại đây  lý_nhận từ trinh và kỳ_5 triệu đồng rồi “ giao ” b cho hai người này đưa về xã kỳ_phong 
+7,cùng ngày  sau khi đưa b về tới quán cơm  trinh và kỳ ngồi nhậu với nhau 
+8,nhậu được một lúc  kỳ đứng dậy  kéo b vào phòng ở dãy nhà phía sau rồi đi ra ngoài 
+9,tiếp đó  trinh đi vào phòng  dùng vũ_lực  hiếp_dâm em b sau đó  trinh ra khỏi phòng  tiếp_tục ngồi nhậu  còn kỳ đi vào phòng  dọa_nạt rồi thực_hiện hành_vi hiếp_dâm em b tại cơ_quan điều_tra  bước_đầu trinh và kỳ đã thừa_nhận hành_vi phạm_tội của mình 
+10,thiếu_tá tuấn cho biết  hiện_nay thủ_đoạn  dụ  người dân  đặc_biệt là trẻ_em ở các huyện miền núi ở các tỉnh nghệ_an  thanh_hóa  quảng_bình  đi giúp_việc tại các quán cơm  nhà_hàng tại huyện kỳ_anh  hà_tĩnh  nhưng lại đưa vào các nhà_chứa trá_hình để hành_nghề mại_dâm  đang gây nhiều hệ_lụy khôn_lường 

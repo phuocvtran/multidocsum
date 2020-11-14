@@ -1,0 +1,9 @@
+idx, sentence
+0,báo_cáo nhanh kết_quả kiểm_tra  kiểm_soát thị_trường mới_đây do đội quản_lý thị_trường_hà_nội tiến_hành kiểm_tra các cửa_hàng kinh_doanh trà sữa feeling_tea cho thấy  trong 8 cửa_hàng bị kiểm_tra  có 6 đơn_vị không có giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  một cửa_hàng_không thực_hiện khám sức_khoẻ cho đối_tượng thuộc diện phải khám sức_khoẻ định_kỳ và một_số cửa_hàng do chủ đi vắng nên phía cơ_quan_chức_năng chưa_thể xử_lý 
+1,báo_cáo cũng cho biết  nhiều cơ_sở trong số này cũng sử_dụng nguyên_liệu chưa chứng_minh được nguồn_gốc xuất_xứ 
+2,theo đó  đoàn kiểm_tra tạm giữ nhiều nguyên_vật_liệu để pha_chế trà sữa được nhập_khẩu  chui  như  13 gói trà xanh 250 g  9 gói trà hồng 190 g  6 gói coffee matte 250 g  một can đường nước 23 kg  26 kg hạt trân_châu  45 kg bột kem coffemate 
+3,hiện  chi_cục quản_lý thị_trường_hà_nội chưa đưa ra hình_thức xử_phạt đối_với những cơ_sở vi_phạm 
+4,các cơ_sở được kiểm_tra có địa_chỉ tại số 491 kim_ngưu  11 thanh_niên  99 xã_đàn  401 bạch_mai  162 ngọc_lâm  8 nguyễn_phong_sắc kéo_dài  trần_thái_tông   123 đội cấn  147 trần_đại_nghĩa 
+5,trước đó  quản_lý thị_trường_hà_nội đã tiến_hành kiểm_tra xưởng sản_xuất trà sữa trân_châu tại ngọc_hồi  hoàng_mai  thuộc sở_hữu của công_ty tnhh cảm_xúc do người đài_loan làm_chủ 
+6,ghi_nhận trên tầng 2 của xưởng nhiều nguyên_liệu  hương_liệu dùng vào việc sản_xuất trà  nhãn_mác bằng tiếng trung_quốc  nhiều hàng trong đó không có hóa_đơn chứng_từ chứng_minh nguồn_gốc xuất_xứ 
+7,hàng trăm túi bạc đựng các gói trà nhỏ in nhãn_mác nước_ngoài không hạn sử_dụng 

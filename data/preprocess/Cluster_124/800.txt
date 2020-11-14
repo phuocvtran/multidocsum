@@ -1,0 +1,10 @@
+idx, sentence
+0,cục cảnh_sát điều_tra tội_phạm về ma_túy  c47   bộ công_an và công_an tỉnh lâm_đồng đã phối_hợp với phòng cảnh_sát điều_tra tội_phạm về ma_túy  pc47   công_an tphcm đã bắt_giữ được đối_tượng cầm_đầu của một đường_dây buôn_bán ma_túy  cùng với đó là các đối_tượng liên_quan và thu_giữ nhiều tang_vật 
+1,đường_dây này lộ_diện khi 2 đối_tượng chân_rết là nguyễn_thanh_phú  sn 1986  ngụ quận 6  tphcm  và nguyễn_văn_hữu  sn 1994  ngụ quận 12  bị bắt khi đang vận_chuyển gần 2 kg ma_túy đá  ngụy_trang trong thùng trái_cây 
+2,tại cơ_quan công_an  2 đối_tượng khai nhận mua ma_túy của “ ông trùm ” nguyễn_duy_hùng quê quảng_trị  ngụ tỉnh thái_nguyên 
+3,ngay sau đó các trinh_sát đã tiến_hành theo_dõi đối_tượng hùng  ngày 18/05 ngay sau khi đối_tượng gặp_mặt nguyễn_tiến_khanh  35 tuổi  ngụ tp vũng_tàu  gần cao_tốc long_thành – dầu_giây  hùng lái xe ô_tô về đậu trong con hẻm trên đường đinh_bộ_lĩnh  phường 24  quận bình_thạnh  
+4,tại đây  các chiến_sĩ công_an phát_hiện hùng gặp và thực_hiện giao_dịch mua_bán ma_túy với đối_tượng khưu_thanh_thảo  tự cu_tửng  42 tuổi  ngụ quận 1  
+5,không để các đối_tượng cùng tang_vật trốn_thoát  các trinh_sát tiếp_cận khống_chế đối_tượng một_cách nhanh gọn 
+6,khám_xét trong cốp xe_máy của thảo  công_an thu_giữ 2 bánh heroin  312 triệu đồng  2200 usd và 1 khẩu súng_ngắn … cùng lúc đó  một tổ trinh_sát khác ập đến khống_chế đối_tượng hùng khi hắn định lên xe bỏ đi 
+7,kiểm_tra trong xe ô_tô của hùng  công_an thu_giữ 6 kg ma_túy đá  1 khẩu súng k59  15 viên đạn  1 nòng giảm thanh  50000 usd  hơn 21 tỷ đồng  1 xe ô_tô cùng nhiều giấy_tờ liên_quan 
+8,sau đó lực_lượng của bộ công_an và công_an tỉnh lâm_đồng cũng phục_kích bắt gọn một_số đối_tượng liên_quan  thu_giữ nhiều bánh heroin  một số tiền lớn cùng vũ_khí nóng mà các đối_tượng cất_giữ 

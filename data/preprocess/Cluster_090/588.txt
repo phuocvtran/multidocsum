@@ -1,0 +1,6 @@
+idx, sentence
+0,theo đó  vào_khoảng 14 h50 cùng ngày  trên cầu thanh_trì  hướng từ gia_lâm về hà_nội  một đôi nam_nữ đi taxi  bks 29a504  82  khi đến đến cột_đèn số 42  không hiểu vì lý_do gì  nam thanh_niên bất_ngờ mở cửa xe taxi nhảy xuống sông tự_tử  bỏ lại người bạn gái trên xe taxi 
+1,danh_tính nam thanh_niên được xác_định là nguyễn_văn_biểu  sn 1995  quê huyện phú_xuyên  hà_nội  
+2,cô gái đi cùng là ntv  sn 1999  quê huyện thuận_thành  tỉnh bắc_ninh  
+3,sau khi nam thanh_niên nhảy xuống cầu  cô gái ra khỏi xe gào_thét  kêu cứu và một lúc sau thì ngất lịm 
+4,theo một_số người dân chứng_kiến sự_việc cho biết  do hành_động của nam thanh_niên diễn ra quá nhanh nên không ai kịp ngăn_cản 

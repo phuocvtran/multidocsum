@@ -1,0 +1,11 @@
+idx, sentence
+0,theo afp  nạn_nhân là maria_sadaqat  19 tuổi 
+1,cô bị một nhóm người tấn_công hôm 30/5 tại ngôi làng upper_dewal  gần khu nghỉ_mát murree  ngoại_ô thủ_đô islamabad 
+2,“ cháu tôi bị tra_tấn dã_man và thiêu sống 
+3,chúng_tôi đưa nó tới bệnh_viện ở islamabad nhưng nó qua_đời hôm_nay vì vết_thương quá nặng ”  abdul_basit  chú của sadaqat nói với afp 
+4,ông basit cho biết thêm  nạn_nhân bị hiệu_trưởng của một trường tư và đồng_bọn tấn_công sau khi từ_chối lời cầu_hôn của con trai ông này 
+5,nạn_nhân từng là giáo_viên tại trường trên 
+6,“ cậu ta đã ly_dị và nhiều tuổi gấp hai lần cháu tôi nên nó đã từ_chối lời cầu_hôn  bỏ việc … cuối_cùng đã tấn_công nó ”  basit nói thêm 
+7,theo nguồn tin từ cảnh_sát  trước khi qua_đời  sadaqat đã nói tên của hiệu_trưởng và bốn người khác tấn_công cô 
+8,cảnh_sát đã bắt_giữ ít_nhất một người và đang truy_tìm những người còn lại 
+9,“ cô ấy đã không_thể qua khỏi vì hầu_hết các bộ_phận cơ_thể bị bỏng nghiêm_trọng ”  bác sỹ ayesha_ihsani nói 

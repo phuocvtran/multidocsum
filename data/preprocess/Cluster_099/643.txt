@@ -1,0 +1,17 @@
+idx, sentence
+0,ngày 21/3  cho ý_kiến xây_dựng luật_báo_chí sửa_đổi  đại_biểu hà_minh_huệ  tỉnh bình_thuận  cho rằng  cần bổ_sung một_số quy_định vào điều 25 về nghĩa_vụ của phóng_viên  nhà_báo không được sử_dụng mạng xã_hội để tuyên_truyền trái với chính_sách thông_tin của cơ_quan báo_chí 
+1,lý_do ông hà_minh_huệ đề_xuất nội_dung trên vì hiện_nay  tình_trạng sử_dụng mạng xã_hội để tuyên_truyền  trong đó có nhiều nhà_báo sử_dụng mạng xã_hội đăng thông_tin lại khác với thông_tin chính_thống của chính cơ_quan báo_chí 
+2,theo ông huệ cơ_quan báo_chí nước_ngoài cấm việc này vì nó liên_quan đến đạo_đức nghề_nghiệp 
+3,“ anh không_thể hai mặt  anh nói ở cơ_quan chính_thống thế này nhưng đưa lên mạng xã_hội thông_tin lại khác 
+4,theo tôi phải cấm luôn việc này  không được sử_dụng mạng xã_hội để tuyên_truyền trái với chính_sách thông_tin nhà_nước hay của cơ_quan báo_chí ”  ông hà_minh_huệ nói 
+5,trước tình_trạng nhiều tờ báo phải thu_hẹp thị_phần  cắt_giảm nhân_lực loay_hoay tìm lối ra trước sự cạnh_tranh gay_gắt của mạng xã_hội  đại_biểu đoàn nguyễn_thùy_trang  tp hồ_chí_minh  nhấn_mạnh nhiều cơ_quan báo_chí gặp khó_khăn về vấn_đề “ thông_tin và tài_chính ” 
+6,do_vậy việc sửa luật báo_chí lần này phải đặt trong bối_cảnh “ báo_chí đang bị mạng xã_hội cạnh trang ” và nhà_nước cần có chính_sách “ khơi luồng  mở_cửa ” để báo_chí có_thể phát_triển 
+7,theo đó  đại_biểu trang đề_nghị nhà_nước có chính_sách phù_hợp  tạo điều_kiện cho báo_chí phát_triển “ không phải bằng bao_cấp mà bằng cơ_chế mở ”  giúp báo_chí tự_chủ  năng_động hơn trong bối_cảnh mới 
+8,chẳng_hạn bằng các hình_thức tạo nguồn thu cho cơ_quan báo_chí như cho_phép báo_chí đăng thông_tin trên môi_trường youtube  hoặc được phép phối_hợp với cơ_quan báo_chí nước_ngoài trong quảng_cáo phát_hành 
+9,cùng đề_cập đến vấn_đề trên  đại_biểu nguyễn_thị_kim_thúy  tp đà_nẵng  cũng chỉ rõ trong số hàng nghìn tờ báo  ấn_phẩm hiện_nay thì đại_đa_số là các cơ_quan báo_chí là “ sống nhờ ” vào bầu sữa bao_cấp 
+10,để giảm gánh nặng cho ngân_sách  tạo sức_bật cho cơ_quan báo_chí  đại_biểu nguyễn_thị_kim_thúy cho rằng  cần phân_biệt cơ_quan báo_chí làm 3 loại gồm  một là cơ_quan báo_chí thuộc cơ_quan đảng  quốc_hội  chính_phủ được đảm_bảo kinh_phí hoạt_động thường_xuyên  hai là cơ_quan báo_chí sự_nghiệp có thu tự cân_đối thu_chi  ba là cơ_quan báo_chí hoạt_động theo loại_hình doanh_nghiệp kinh_doanh có điều_kiện  thực_hiện nghĩa_vụ tài_chính với nhà_nước như một_số doanh_nghiệp hoạt_động trong lĩnh_vực văn_hoá 
+11,“ trên cơ ở này thì chính_phủ ban_hành nghị_định về lộ_trình sắp_xếp các cơ_quan báo_chí để phù_hợp với điều_kiện thực_tế  tình_hình phát_triển ”  đại_biểu thúy nói 
+12,trước đó  trình_bày báo_cáo giải_trình  tiếp_thu  chỉnh_lý dự_thảo luật báo_chí  sửa_đổi  về vấn_đề loại_hình hoạt_động của cơ_quan báo_chí  chủ_nhiệm ủy_ban văn_hóa  giáo_dục  thanh_thiếu_niên và nhi_đồng của quốc_hội đào_trọng_thi cho hay đã có ý_kiến đề_nghị bổ_sung quy_định cho_phép cơ_quan báo_chí hoạt_động theo mô_hình doanh_nghiệp 
+13,tuy_nhiên  ủy_ban thường_vụ_quốc_hội nhận thấy  theo luật_doanh_nghiệp năm 2014  doanh_nghiệp là tổ_chức được đăng_ký thành_lập theo quy_định của pháp_luật nhằm mục_đích kinh_doanh  khoản 7 điều 4   trong khi đó  cơ_quan báo_chí không phải là doanh_nghiệp và hoạt_động không nhằm mục_đích kinh_doanh 
+14,hơn_nữa  cơ_chế thành_lập  quản_lý doanh_nghiệp quy_định tại luật_doanh_nghiệp có nhiều điểm khác cơ_bản so với cơ_chế thành_lập  quản_lý cơ_quan báo_chí 
+15,như_vậy  việc quy_định cơ_quan báo_chí hoạt_động theo loại_hình doanh_nghiệp là không phù_hợp 

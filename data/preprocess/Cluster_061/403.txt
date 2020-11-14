@@ -1,0 +1,19 @@
+idx, sentence
+0,không một hlv nào có_thể chê_trách được sự chăm_chỉ tập_luyện  thái_độ thi_đấu tích_cực của tiền_đạo 31 tuổi 
+1,bất_chấp những chỉ_trích rằng đã hết_thời  ronaldo vẫn lầm_lũi tập_luyện và tỏa sáng trên sân mỗi khi đội bóng cần anh nhất 
+2,cựu sao mu đã và đang duy_trì được thành_tích ghi_bàn cực_kỳ đáng nể đó là ghi 50 bàn / mùa ở 6 mùa giải liên_tiếp gần đây 
+3,một thành_tích mà ngay cả messi cũng phải vái chào dù trẻ tuổi hơn 
+4,những kẻ hướng mũi rìu chỉ trích nhằm vào cr7 đã phải câm_lặng bởi anh vẫn tràn_trề quyết_tâm chinh_phục những đỉnh_cao mới bằng cách cháy hết_mình ở mỗi buổi tập 
+5,từng có quãng thời_gian làm_việc với ronaldo ở real  mới_đây hlv ancelotti đã hé lộ chi_tiết thú_vị về sự cần_mẫn của cậu học_trò cũ 
+6,“ ronaldo là hình_mẫu lý_tưởng để các cầu_thủ trẻ noi theo 
+7,cậu ta luôn tập_luyện chăm_chỉ nhất và có lần đã quên cả thời_gian 
+8,ronaldo từng luyện_tập và ngâm nước_đá tới tận 3 giờ sáng dù irina đang đợi ở nhà 
+9,cậu ta không quan_tâm đến tiền_bạc mà chỉ luôn khao_khát là người xuất_sắc nhất ”  ông thầy người italia hào_hứng chia_sẻ 
+10,khi còn dẫn_dắt real  mối quan_hệ giữa ancelotti và ronaldo là rất tốt 
+11,chính cr7 đã đứng lên phản_đối quyết_liệt khi đội bóng hoàng_gia sa_thải  thuyền_trưởng  xuất_sắc này 
+12,“ tinh_thần tập_luyện là điều mà mọi người không_thể đòi_hỏi nhiều hơn từ ronaldo 
+13,cậu ấy luôn nỗ_lực tối_đa trong mỗi buổi tập và nỗ_lực phấn_đấu để trở_thành người giỏi nhất ”  ancelotti tiếp_tục 
+14,sau một năm nghỉ_ngơi  ancelotti sẽ đảm_nhiệm việc dẫn_dắt bayern thay_thế guardiola 
+15,tuy_nhiên cựu hlv milan thừa_nhận ngôn_ngữ là rào_cản không nhỏ khi đến đó làm_việc 
+16,“ có_thể bạn không tin nhưng với tôi  điều khó nhất ở đức là … ngôn_ngữ 
+17,tôi mù_tịt về ngữ_pháp và không biết động từ để ở đâu ”  carletto hài_hước nói 

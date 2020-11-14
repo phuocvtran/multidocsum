@@ -1,0 +1,27 @@
+idx, sentence
+0,“ mập_mờ ” 5 căn_hộ thế_chấp những ngày qua  câu_chuyện chung_cư the_harmona  qtân_bình  tphcm  đứng trước nguy_cơ bị ngân_hàng tmcp đầu_tư và phát_triển việt_nam – chi_nhánh bắc sài_gòn  bidv bắc sài_gòn  siết nợ đã khiến hàng trăm hộ dân_cư_ngụ tại đây đứng ngồi không yên 
+1,mặc_dù lãnh_đạo của công_ty cổ_phần vật_tư xuất_nhập_khẩu tân_bình  tamexim  lẫn đối_tác là công_ty cổ_phần thanh_niên  thanh_nien_corp  trấn_an bằng lời hứa sẽ thanh_toán khoản nợ 244 tỷ đồng còn lại cho ngân_hàng trước ngày 15/6/2016 
+2,tuy_nhiên  không ít cư_dân ngờ_vực về khả_năng trả nợ của “ liên_minh ” này  cũng như lo_lắng không biết bao_giờ mới nhận được sổ hồng 
+3,từ một trường_hợp mua_bán căn_hộ và tài_liệu pv_infonet có được cho thấy  việc tamexim_bán căn_hộ đã thế_chấp cho người_dân có sự “ ngó lơ ” của bidv bắc sài_gòn  cũng như có sự  phối_hợp  có chủ_đích với thanh_nien_corp hòng đưa người mua nhà … vào tròng 
+4,theo đó  ngoài khoản vay còn 244 tỷ đồng_thanh nien_corp chưa thanh_toán được  đến nay còn “ lộ ” ra một khoản vay khác của ông đoàn việt_cường  là nhân_viên của thanh_nien_corp  tại bidv bắc sài_gòn 
+5,trong công_văn nhắc nợ của bidv bắc sài_gòn vào ngày 1/3/2016 thể_hiện  ông cường là người đứng_tên thế_chấp hàng_loạt căn_hộ tại the_harmona như căn c33  c34  c35  c36 và c37 cho bidv bắc sài_gòn cho khoản vay 
+6,khoản vay này đã quá_hạn trả gốc và lãi từ ngày 21/1/2016 
+7,trước đó  vào ngày 29/6/2012 khoản vay của ông cường đã được cơ_cấu một lần 
+8,dù ông cường là “ con_nợ ” của bidv bắc sài_gòn  nhưng không hiểu vì_sao trong công_văn nhắc nợ ngân_hàng này lại đề_cập gửi cho cá_nhân ông cường lẫn thanh nien_corp 
+9,thậm_chí  bidv bắc sài_gòn còn “ sốt_sắng ” đề_nghị thanh nien_corp “ hỗ_trợ ngân_hàng trong việc đôn_đốc khách_hàng đào việt_cường  nhân_viên của công_ty thanh_toán nợ vay đầy_đủ ”    
+10,phải_chăng  khoản vay của ông cường có liên_can gì đến thanh_nien_corp 
+11,bidv bắc sài_gòn còn yêu_cầu ông cường thanh_toán dứt_điểm nợ vay trước ngày 15/3/2016 
+12,nếu quá thời_hạn trên mà ông chưa thanh_toán  ngân_hàng sẽ khởi_kiện và thực_hiện các biện_pháp xử_lý_tài_sản đảm_bảo là 5 căn_hộ nói trên 
+13,thanh nien_corp_bán tài_sản đang thế_chấp 
+14,điều đáng nói là một trong số căn_hộ ông cường đứng_tên thế_chấp ngân_hàng lại được thanh_nien_corp bán tiếp cho khách_hàng 
+15,cụ_thể  căn_hộ c34 được thanh_nien_corp_ký hợp_đồng mua_bán với vợ_chồng ông nguyễn_văn_t  ngụ qtân_bình  vào ngày 22/6/2012  thời_điểm căn_hộ đang thế_chấp tại bidv bắc sài_gòn do ông cường thế_chấp để vay nợ  
+16,ông t chỉ hay biết căn_hộ mình bị người khác mang đi cầm_cố khi vụ_việc vỡ_lở 
+17,qua trường_hợp thế_chấp và mua_bán căn_hộ c34 nói trên đặt ra câu hỏi  tài_sản của ông cường đang thế_chấp ở ngân_hàng thì vì_sao thanh_nien_corp lại có_thể đứng ra ký hợp_đồng mua_bán với khách_hàng 
+18,điều này được hiểu thanh nien corp lấy tài_sản không thuộc sở_hữu của mình để giao_dịch 
+19,trao_đổi với pv_infonet chiều 29/5  bà lê_thị_diệu_phú cho biết tamexim và thanh_nien_corp cùng hợp_tác phát_triển dự_án the_harmona theo kiểu tamexim có đất còn thanh nien corp góp tiền xây_dựng 
+20,về các khúc_mắc trong hợp_đồng vay giữa ông cường với bidv bắc sài_gòn hay chuyện thanh_nien_corp_bán tài_sản đang thế_chấp ở khách_hàng  thì bà phú đều né_tránh trả_lời … trả_lời báo_chí  ông nguyễn_hoàng_minh_– phó giám_đốc ngân_hàng nhà_nước  chi_nhánh tphcm cho hay trong gần 600 căn_hộ tại chung_cư the_harmona thì mới chỉ có 19 căn đã được ngân_hàng giải chấp và thu được tiền bán nhà 
+21,luật_sư nguyễn_đức_chánh  đoàn luật_sư tphcm  nhận_định  theo nội_dung vụ_việc như trên  ông đoàn việt_cường đứng_tên và thế_chấp các căn_hộ cho bidv bắc sài_gòn 
+22,tuy_nhiên thanh_nien_corp lại ký hợp_đồng mua_bán căn_hộ với khách_hàng khác  thậm_chí khách_hàng còn được giao nhà để quản_lý  sử_dụng 
+23,đây là hành_vi vi_phạm pháp_luật của thanh_nien_corp khi giao_dịch tài_sản mà không thuộc sở_hữu 
+24,đối_với bidv bắc sài_gòn  ngân_hàng này nhận thế_chấp tài_sản của ông đoàn việt_cường nhưng thiếu sự giám_sát chặt_chẽ tài_sản thế_chấp và chưa thực_hiện tốt việc thu_hồi nợ theo quy_chế tín_dụng của ngân_hàng 
+25,vì_vậy  bidv bắc sài_gòn cũng phải có trách_nhiệm liên_đới 

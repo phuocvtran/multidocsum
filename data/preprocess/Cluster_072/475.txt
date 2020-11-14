@@ -1,0 +1,14 @@
+idx, sentence
+0,tờ le_monde ngày 225 dẫn thông_cáo của cơ_quan tình_báo afghanistan cho biết ông mansour thiệt_mạng trong một đợt tấn_công bằng máy_bay không người lái  uav  của mỹ tại tỉnh balochistan  tây nam pakistan 
+1,đây là khu_vực sát biên_giới giữa pakistan với afghanistan 
+2,thông_cáo cho biết thủ_lĩnh của taliban đã bị theo_dõi một thời_gian trước khi bị tiêu_diệt vào ngày 215 
+3,tuy_nhiên  đến tối_qua  website của lực_lượng này vẫn chưa đưa bất_kỳ thông_tin gì 
+4,afp dẫn lời một đại_diện của hội_đồng chỉ_huy taliban tại afghanistan cho biết đã mất liên_lạc với ông mansour từ tối 215 
+5,trước đó  bộ_quốc_phòng mỹ thông_báo đã mở một đợt không_kích với sự phê_chuẩn của tổng_thống barack_obama ở khu_vực biên_giới afghanistan  pakistan và đang “ đánh_giá kết_quả ” của đợt tấn_công 
+6,phát_ngôn_viên lầu năm góc peter_cook nhận_định  “ ông akhtar_mansour là một rào_cản của hòa_bình và tiến_trình hòa_giải giữa chính_phủ afghanistan với lực_lượng taliban 
+7,ông ta cấm các chỉ_huy của lực_lượng này tham_gia vào các cuộc đàm_phán với kabul ” 
+8,theo một quan_chức mỹ  đợt không_kích có sự tham_gia của nhiều uav và washington chỉ thông_báo với islamabad cùng kabul khi đã kết_thúc cuộc tấn_công 
+9,một sĩ_quan an_ninh pakistan cho hay đợt tấn_công này đã “ phá_hủy hoàn_toàn ” chiếc xe_hơi có chở 2 người và các thi_thể không_thể nhận_diện  hiện đã được đưa về bệnh_viện quetta ở tỉnh balochistan 
+10,akhtar mansour_sinh năm 1960 tại tpkandahar  afghanistan   trở_thành lãnh_đạo tối_cao của lực_lượng taliban từ cuối tháng 72015  thay_thế_thủ_lĩnh mullah_omar 
+11,việc ông mansour bị tiêu_diệt có_thể sẽ khiến lực_lượng này chia_rẽ nội_bộ sâu_sắc 
+12,theo các chuyên_gia  có_thể sẽ xảy ra một cuộc_chiến quyền_lực để chọn được thủ_lĩnh tối_cao mới  chủ_yếu giữa 3 người  ông yacoub_omar  con_trai cựu thủ_lĩnh omar cùng 2 phó thủ_lĩnh dưới_quyền của mansour là sirajuddin_haqqani và haibatullah_akhundzada 

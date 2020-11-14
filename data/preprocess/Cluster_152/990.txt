@@ -1,0 +1,27 @@
+idx, sentence
+0,xã_hội brazil đang thực_sự rúng_động với vụ một cô gái mới 16 tuổi đã bị hàng chục gã đàn_ông hãm_hiếp  rồi sau đó đoạn video tủi_nhục ấy được chính những kẻ thủ ác đăng lên mạng 
+1,chia_sẻ với washington ​ post  nạn_nhân 16 tuổi cho biết cô đã tới nhà người bạn trai 19 tuổi ở rio de janeiro vào khoảng 1 giờ sáng cuối tuần trước 
+2,cô gái trẻ nhớ rằng mình chỉ ở đó một_mình với bạn trai 
+3,tuy_nhiên  khi thức dậy  cô gái thấy mình ở một ngôi nhà khác và xung_quanh là hơn 30 người đàn_ông  nhiều người được trang_bị vũ_khí 
+4,tất_cả bọn họ hoặc ít_nhất một_số người trong số họ đã cưỡng_bức cô  trước khi cô phải tự tìm quần_áo để mặc và tự mình về nhà 
+5,cơn ác_mộng của cô chưa dừng lại ở đó 
+6,vào thứ_tư  hai trong số những kẻ tấn_công cô gái đã đăng một_vài bức ảnh kèm theo một đoạn video dài 40 giây lên twitter 
+7,đoạn tweet đã nhanh_chóng bị gỡ xuống  nhưng đã kịp nhận được hàng trăm lượt thích và nhiều bình_luận mang tính_chất chống lại phụ_nữ 
+8,trong đoạn băng  cô gái đang tỉnh dậy sau khi bị bất_tỉnh do bị đánh thuốc_mê 
+9,dòng chữ đi kèm đoạn băng tạm dịch là  “ đã đập con_bé này  hiểu không 
+10,hahaha  ” trong một bài đăng khác  có ảnh mặt một người đàn_ông khác bên cạnh bộ_phận sinh_dục của cô gái 
+11,phần mô_tả viết  “ rio mở một đường_hầm mới cho tàu tốc_hành  ” ngay sau khi đoạn video được đăng_tải  cảnh_sát đã ra_lệnh bắt bốn người đàn_ông  trong đó bao_gồm cả bạn trai của nạn_nhân 
+12,vụ tấn_công xảy ra tại một trong số các favela  khu ổ_chuột  của rio de janeiro 
+13,favela là những khu dân_cư đông_đúc  phần_lớn đều trong tình_trạng nghèo_đói  thường được đặt trên những sườn đồi dốc của rio 
+14,sau vụ tấn_công này  tổng_thống mới của brazil  ông michel_temer  đã thông_báo về việc thành_lập một bộ_phận chuyên_trách thuộc cảnh_sát liên_bang chuyên xử_lý các vụ_án bạo_lực với phụ_nữ 
+15,bbc đưa tin rằng gia_đình của cô gái trẻ đã xem đoạn video và phát_biểu với báo_giới địa_phương 
+16,“ tôi hối_hận vì đã xem nó 
+17,khi nghe chuyện  chúng_tôi đã không tin nổi rằng điều đó đã xảy ra 
+18,đó là một nỗi đau lớn 
+19,đó là một sự_việc kinh_khủng  ” bà của nạn_nhân chia_sẻ trên tờ folha de spaulo
+20,“ con_bé không khỏe chút nào 
+21,nó rất bối_rối 
+22,vụ_việc này rất nghiêm_trọng  ” nhiều nhóm các nhà hoạt_động cũng đã có kế_hoạch tổ_chức biểu_tình trước tình_trạng ngược_đãi phụ_nữ trong những ngày tới đây  và hiện đang tiến_hành biểu_tình trên mạng xã_hội bằng hashtag  estupronuncamais  tạm dịch  loại_bỏ vĩnh_viễn nạn cưỡng_bức  
+23,trong năm 2014  gần 50000 vụ cưỡng_bức đã được trình_báo tại brazin 
+24,ở rio de janeiro  loại phạm_tội này diễn ra với tỷ_lệ 13 vụ mỗi ngày 
+25,nếu bị kết_tội  một kẻ cưỡng_bức có_thể phải đối_mặt với từ 610 năm tù theo luật_pháp hiện_hành 

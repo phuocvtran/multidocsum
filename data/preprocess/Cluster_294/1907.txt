@@ -1,0 +1,10 @@
+idx, sentence
+0,theo nguồn tin từ cơ_quan điều_tra công_an huyện an_minh  tỉnh kiên_giang  vào_khoảng 4 h sáng ngày 3/6/2016  trên địa_bàn ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang xảy ra một vụ án đặc_biệt nghiệm trọng làm bà trần_thị_tuyết_mai  sinh năm 1967  hộ_khẩu thường_trú ấp bình_đông i  xã bình_thạnh_đông  huyện phú_tân  tỉnh an_giang  chết tại_chỗ 
+1,theo một_số người dân sống lân_cận cho biết  bà mai và lê_văn_nhỏ  sinh năm 1954  hộ_khẩu thường_trú ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang  sống với nhau như vợ_chồng từ đầu năm 2016 đến nay 
+2,thời_gian gần đây  cả hai thường_xuyên xảy ra xung_đột do ông nhỏ hay ghen_tuông vì nghi_ngờ chị mai ngoại_tình 
+3,đỉnh điểm của vụ_việc là vào_khoảng 4 h sáng ngày 3/6/2016  trong lúc chị mai đang ngủ  ông nhỏ đã dùng búa_chém vào cổ khiến bà mai tử_vong tại_chỗ 
+4,sau khi gây_án  ông nhỏ đã uống thuốc_độc tự vẫn nhưng không thành  hiện đang được điều_trị tại bệnh_viện đa_khoa kiên_giang 
+5,trong lúc ông nhỏ nằm viện thì người_thân ở nhà đang lo hậu_sự cho bà mai 
+6,trao_đổi với pv dân_trí  bác_sĩ cki_tô_minh_thắng – phó_khoa cấp_cứu bệnh_viện đa_khoa tỉnh kiên_giang cho biết  khoảng 10 h26 khoa cấp_cứu bệnh_viện tiếp_nhận bệnh_nhân lê_văn_nhỏ uống thuốc_trừ_sâu 
+7,lúc nhập_viện  bệnh_nhân nhỏ tỉnh  tự thở  không tăng_tiết đàm  không run cơ … nhưng không giao_tiếp  bác_sĩ hỏi không trả_lời  pv  
+8,sau khi tiếp_nhận  khoa không cần xúc rửa dạ_dày vì bệnh_viện huyện an_minh đã thực_hiện việc này rồi cho bệnh_nhân nhỏ nên khoa cấp_cứu đã chuyển bệnh_nhân nhỏ lên khoa hồi_sức chống độc để theo_dõi tiếp ” 

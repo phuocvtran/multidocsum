@@ -1,0 +1,15 @@
+idx, sentence
+0,sáng nay  1/6/2016  tập_đoàn vingroup tổ_chức lễ ký_kết_hợp_tác với gần 250 doanh_nghiệp  dn  việt_nam tham_gia chương_trình “ đồng_hành  hỗ_trợ và thúc_đẩy xuất_khẩu nội_địa ” 
+1,các dn đã ký_kết với vingroup thuộc 7 ngành hàng_tiêu_dùng cơ_bản là thực_phẩm  hóa mỹ_phẩm  văn_phòng phẩm đồ_chơi  hàng gia_dụng  hàng thực_phẩm tươi_sống  thời_trang  bông vải_sợi 
+2,theo thỏa_thuận ký_kết  gần 250 doanh_nghiệp  tập_đoàn và các công_ty thành_viên sẽ triển_khai các gói giải_pháp bao_gồm ưu_đãi về phân_phối  tăng_cường hiện_diện thương_hiệu của dn trong hệ_sinh_thái của vingroup về công_nghệ  quản_trị  kiểm_soát chất_lượng  marketing  tiêu_dùng hàng_hóa và tham_gia góp vốn 
+3,riêng các dn cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu bằng 0  
+4,đại_diện vingroup khẳng_định sẽ bán hộ không lãi 
+5,toàn_bộ phần chiết_khấu sẽ được vinmart và vinmart  hoàn_trả 100  về nhà cung_cấp 
+6,đồng_thời  tập_đoàn này cũng khuyến_khích các nhà_cung_cấp điều_chỉnh giảm giá bán để hỗ_trợ người tiêu_dùng 
+7,gần 100 dn ký_kết_hợp_tác với vingroup nhằm tăng_cường hiện_diện thương_hiệu trong hệ_sinh_thái hàng_hóa  dịch_vụ của tập_đoàn 
+8,hơn 140 dn đã ký_kết_hợp_tác về phân_phối 
+9,ngoài phân_phối  các dn đã ký_kết có_thể được hỗ_trợ về công_nghệ  quản_trị  hệ_thống kiểm_soát chất_lượng  công_tác marketing bán hàng 
+10,tập_đoàn này cũng tham_gia góp vốn cho một_số dn có nhu_cầu để tối_ưu_hóa sản_xuất  nâng cao chất_lượng sản_phẩm  giảm chi_phí 
+11,ông lê_khắc_hiệp  phó chủ_tịch tập_đoàn cho biết  mục_tiêu của chương_trình này là thúc_đẩy sản_xuất trong nước  góp_phần tạp nguồn thực_phẩm sạch và hàng_tiêu_dùng có chất_lượng cho thị_trường 
+12,bên_cạnh đó  việc này xây_dựng các thương_hiệu quốc_gia và tiến tới quốc_tế 
+13,chuơng trình đặc_biệt chú_trọng ưu_tiên cho nhóm hàng thực_phẩm an_toàn 

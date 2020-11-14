@@ -1,0 +1,10 @@
+idx, sentence
+0,thông_tin trên được nafiqad đưa ra vào ngày 305 
+1,trong thông_báo của nafiqad còn cho biết ngày 245  cơ_quan thẩm_quyền eu đã có văn_bản_báo cảnh_báo số 16814 tới các nước thành_viên eu về việc cá chết bất_thường tại việt_nam và đề_nghị các nước này kiểm_soát chặt_chẽ các lô hàng thủy_sản biển nhập từ việt_nam 
+2,trao_đổi với tbktsg_online  giám_đốc một doanh_nghiệp chuyên xuất_khẩu các mặt_hàng_hải_sản như cá_ngừ đại_dương  mực  bạch_tuộc  cho biết  sau khi có thông_tin cá biển ở các tỉnh miền trung chết bất_thường  một_số nhà nhập_khẩu từ eu đã gửi yêu_cầu muốn công_ty thông_báo những lô hàng đang sản_xuất trong thời_gian trước hay sau khi có thông_tin cá biển chết hàng_loạt 
+3,“ về phía chúng_tôi  khi có thông_tin cá biển chết hàng_loạt  chúng_tôi cũng chủ_động gửi thư_điện_tử đến cho đối_tác thông_báo về nguồn_gốc các lô hàng  kèm theo những chứng_từ có liên_quan để đối_tác yên_tâm ”  vị này cho biết 
+4,cũng theo vị giám_đốc này  hơn tháng nay  công_ty đã tạm ngưng ký hợp_đồng mới do nguồn hải_sản của công_ty chỉ đủ cho các hợp_đồng đã ký trước đó 
+5,theo ông  thường sau khi có những vấn_đề môi_trường  các nhà nhập_khẩu sẽ tăng_cường kiểm_tra lô hàng  mà cụ_thể là eu đã có thông_báo cho các nước nên bên nhập_khẩu sẽ tăng_cường kiểm_tra  vì_thế trên lý_thuyết lẫn thực_tế khả_năng lô hàng bị vướng hóa_chất cấm rất cao 
+6,vì_thế  để giữ uy_tín và thương_hiệu công_ty tạm_thời chưa ký những hợp_đồng mới liên_quan đến các sản_phẩm đánh_bắt từ biển 
+7,“ chúng_tôi hy_vọng chính_quyền sớm công_bố nguyên_nhân cá biển chết để doanh_nghiệp biết và có những kế_hoạch làm_ăn 
+8,việc chính_quyền càng chậm công_bố nguyên_nhân  doanh_nghiệp xuất_khẩu hải_sản sẽ gặp khó trong việc ký các hợp_đồng mới do lo_ngại rủ ro hàng bị trả về là rất cao ”  ông nói 

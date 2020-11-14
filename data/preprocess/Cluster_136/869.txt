@@ -1,0 +1,33 @@
+idx, sentence
+0,ở anfield  loris_karius sẽ mặc chiếc áo số 1  đúng với số áo mà anh yêu_cầu 
+1,còn thủ_môn simon_mignolet vẫn sẽ tiếp_tục khoác chiếc áo số 22 
+2,“ thật vinh_dự khi được thi_đấu cho một clb như liverpool 
+3,tôi đã xem đội bóng thi_đấu rất nhiều qua tv 
+4,bất_cứ ai chơi bóng đều biết về lịch_sử của đội bóng 
+5,có rất nhiều điều xuất_hiện trong suy_nghĩ của tôi khi nhắc đến đội bóng này ”  loris_karius phát_biểu trên liverpoolfccom 
+6,“ tôi đã nói_chuyện với hlv 
+7,ông ấy đã chia_sẻ những gì ông ấy muốn làm với clb  với các cầu_thủ 
+8,tôi khá ấn_tượng với điều đó 
+9,tôi đã bị hoàn_toàn thuyết_phục sau khi nói_chuyện với ông ấy ”  thủ_môn 22 tuổi chia_sẻ 
+10,với việc karius gia_nhập liverpool  mignolet buộc phải cố_gắng hơn nên không muốn phải ngồi ngoài 
+11,“ tôi sẽ không tới đây nếu nghĩ rằng mình sẽ phải ngồi ghế dự_bị 
+12,tôi muốn được đứng trong khung gỗ và thi_đấu cho liverpool hàng tuần 
+13,sau đó là giành chức vô_địch với clb 
+14,tôi muốn đóng_góp sức_lực của mình để giúp_đỡ đội bóng 
+15,nếu thể_hiện tốt trong các buổi tập và ở các trận đấu trước mùa giải  tôi tin mình có khả_năng chiếm được vị_trí chính_thức 
+16,tôi rất tự_tin về điều đó 
+17,tuy trẻ tuổi nhưng tôi có đủ kinh_nghiệm 
+18,tôi không sợ bất_cứ điều gì cả ”  karius cho biết 
+19,lorius karius là bản hợp_đồng thứ 3 mà hlv juergen_klopp mang về sân anfield kể từ khi tiếp_quản đội bóng này từ tháng 10/2015 
+20,trước đó  ở kỳ chuyển_nhượng mùa_đông  liverpool đã đạt được thỏa_thuận chiêu_mộ joel_matip của schalke 04 và marko_grujic của red_star_belgrade 
+21,cả hai cầu_thủ này sẽ chính_thức gia_nhập liverpool mùa_hè này 
+22,“ loris đã có một mùa giải tuyệt_vời cùng với mainz 
+23,cậu ấy đã trưởng_thành hơn rất nhiều kể từ khi quay trở_lại đức 
+24,tôi rất vui_mừng khi có_thể hoàn_tất bản hợp_đồng với cậu ấy một_cách nhanh_chóng 
+25,mặc_dù có nhiều đội bóng theo_đuổi nhưng loris đã cho thấy khao_khát được thi_đấu cho liverpool 
+26,cậu ấy sẽ tăng_cường chất_lượng cho đội bóng ở vị_trí thủ_môn 
+27,khi các cầu_thủ trở_lại sau kỳ euro  tôi sẽ làm_việc với họ sau ”  hlv juergen_klopp cho biết 
+28,cái tên tiếp_theo được liverpool nhắm đến trong kỳ chuyển_nhượng này là hậu_vệ trái ben_chilwell của leicester 
+29,giá_trị của cầu_thủ này ước_tính khoảng 4 triệu bảng 
+30,cầu_thủ 19 tuổi này được xem như_là phương_án dự_phòng cho alberto_moreno 
+31,sau trận đấu “ thảm_họa ” trước sevilla trong trận chung_kết europa_league  tương_lai của hậu_vệ này tại liverpool còn để ngỏ 

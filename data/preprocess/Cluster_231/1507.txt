@@ -1,0 +1,16 @@
+idx, sentence
+0,cụ_thể theo công_bố của trung_tâm nghiên_cứu bóng_đá quốc_tế  cies_football_observatory  đã công_bố bản cập_nhật danh_sách 100 cầu_thủ bóng_đá đắt nhất châu_âu 
+1,người đứng đầu vẫn là lionel_messi của barca với giá 163 triệu bảng  xếp ngay sau là neymar được định_giá 155 triệu bảng 
+2,siêu_sao cristiano_ronaldo của real chỉ xếp thứ 3 trong danh_sách với 106 triệu bảng 
+3,tính ra chân sút_người bồ_đào_nha có giá kém đàn_em tới 49 triệu bảng 
+4,antoine_griezmann của atletico đứng thứ 4 với giá_trị 93 triệu bảng 
+5,bộ đôi tiền_đạo trẻ harry_kane  tottenham  và anthony_martial  mu  nằm trong top 10 
+6,cies nhận_định giá_trị của kane vào khoảng 87 triệu bảng  đứng thứ 5 
+7,với martial sau mùa giải bùng_nổ  anh được định_giá lên tới 86 triệu bảng 
+8,trong danh_sách này kane và martial qua_mặt cả đàn_anh luis_suarez  81 triệu bảng xếp thứ 7  của barca  người giành “ vua phá_lưới ” la_liga mùa này giá_trị xếp thứ 7 
+9,ba vị_trí còn lại trong tốp 10 lần_lượt thuộc về tiền_đạo paulo_dybala  juventus  80 triệu bảng   sergio_aguero  man_city  75 triệu bảng  và tiền_vệ paul_pogba  juventus  70 triệu bảng  
+10,với giá_trị 62 triệu bảng  gareth_bale chỉ xếp vị_trí thứ 11 nhưng đã tăng tới 6 bậc so với lần công_bố hồi đầu năm 
+11,ngoài martial không có nhiều ngôi_sao góp_mặt trong top 100 cầu_thủ đắt_giá nhất thế_giới 
+12,cụ_thể thủ_môn david de gea  xếp thứ 41 với 36 triệu bảng   depay  xếp thứ 46 với 34 triệu bảng  daley_blind  xếp 57  31 triệu   juan_mata  hạng 70  28 triệu   smalling  thứ 84  25 triệu  
+13,trong khi rooney bị bật khỏi top xếp_hạng này 
+14,cies football_observatory là một tổ_chức nghiên_cứu liên_kết với đại_học neuchatel  thụy_sỹ   quy_tụ đội_ngũ nhân_viên khá đông_đảo chuyên nghiên_cứu về bóng_đá  đặc_biệt là lĩnh_vực giá_trị chuyển_nhượng 

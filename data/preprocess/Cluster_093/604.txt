@@ -1,0 +1,5 @@
+idx, sentence
+0,theo reuters  vụ đánh bom tự_sát xảy ra hôm 8/8 ở thành_phố quetta  pakistan làm ít_nhất 70 người chết  hơn 100 người bị_thương 
+1,hãng tin amas của nhà_nước hồi_giáo tự_xưng  is  tuyên_bố một người hồi_giáo  tử_vì_đạo  của nhóm này đã kích_hoạt khối thuốc_nổ 
+2,trong khi đó  nhóm jamaaturahrar thuộc nhóm phiến_quân taliban ở pakistan cũng tuyên_bố nhận trách_nhiệm 
+3,phát_ngôn_viên ehsanullah_ehsan của nhóm đe_dọa sẽ còn thực_hiện những vụ tấn_công tương_tự và sẽ  sớm phát_hành video  về cảnh đánh bom đẫm máu 

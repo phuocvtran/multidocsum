@@ -1,0 +1,27 @@
+idx, sentence
+0,chủ_trì cuộc họp là chủ_nhiệm văn_phòng chính_phủ mai tiến_dũng  bộ_trưởng bộ tttt trương_minh_tuấn  bộ_trưởng bộ tnmt_trần_hồng_hà 
+1,hàng trăm nhà_báo tham buổi họp_báo tại phiên họp thường kỳ 
+2,chính_phủ đã dành một ngày đánh_giá về tình_hình kinh_tế 5 tháng đầu năm 2016 
+3,theo đó  tập_trung kinh_tế vĩ_mô là nền_tảng tăng_trưởng 67  
+4,chỉ có tăng_trưởng mới đảm_bảo việc_làm  thu ngân_sách và các vấn_đề liên_quan đến xã_hội 
+5,ông mai tiến_dũng  chủ_nhiệm vpcp nói tại buổi họp_báo  “ với mục_tiêu thủ_tướng chỉ_đạo không tăng_giá điện  phí lệ_phí  đề_nghị tăng phí giáo_dục  y_tế phải có lộ_trình không tăng đồng_loạt 
+6,ngoài_ra phí bot  giá sữa không tăng ” về tỷ_giá ngân_hàng  từ nay đến cuối năm ngân_hàng phải đưa ra biện_pháp giảm lãi xuất 
+7,chính_phủ ban_hành nghị_quyết 19 và nghị_định 35 với phương_châm tháo bỏ giấy_phép con  đầu_tư quan_tâm phát_triển kinh_tế 
+8,thủ_tướng cũng chỉ_đạo siết chặt kỷ_luật  trách_nhiệm của các bộ_trưởng  chủ_tịch ubnd tỉnh theo nghị_quyết 01 liên_quan đến các vấn_đề tai_nạn giao_thông  trẻ_em bị chết đuổi 
+9,trách_nhiệm của các chủ_tịch trong vấn_đề môi_trường xả thải trong phạm_vi cả nước 
+10,vấn_đề cá chết ở biển miền trung rất được quan_tâm nhiều nhà_báo rất quan_tâm đến câu trả_lời nguyên_nhân việc cá chết số_lượng lớn ở miền trung thời_gian qua 
+11,theo bộ_trưởng chủ_nhiệm văn_phòng chính_phủ  ngay sau khi phát_hiện ra vụ cá chết miền trung  thủ_tướng  các phó_thủ_tướng chỉ_đạo quyết_liệt 30 cơ_quan bộ ngành địa_phương thu_thập chứng_cứ tìm ra nguyên_nhân vụ_việc cá chết 
+12,đồng_thời mời hàng trăm nhà_khoa_học trong nước quốc_tế cùng tham_gia 
+13,việc tìm ra nguyên_nhân của sự_việc trên cần tiến_hành chặt_chẽ về tính pháp_lý 
+14,trong quá_trình điều_tra  quan_điểm của thủ_tướng chỉ_đạo nếu phát_hiện tổ_chức cá_nhân vi_phạm thì phải xử_lý nghiêm theo quy_định của pháp_luật không loại_trừ bất_cứ trước khi kết_luận chính_thức  cơ_quan_chức_năng có mời các nhà_khoa_học trong và ngoài nước tư_vấn_đề phản_biện trước khi có kết_luận 
+15,vì xác_định đây là vấn_đề rất quan_trọng 
+16,khi công_bố phải đảm_bảo chức cứ tính pháp_lý khách_quan 
+17,đồng_thời thủ_tướng cũng chỉ_đạo đảm_bảo môi_trường biển được an_toàn  là mong_đợi của người dân chúng_ta 
+18,phải có bằng_chứng khoa_học và điều_tra để xác_định thủ_phạm ngày 95  thủ_tướng đã chỉ_đạo hỗ_trợ gạo cho ngư_dân  có chính_sách vay tiền  lãi xuất tín_dụng đối_với các doanh_nghiệp chủ tàu làm nhiệm_vụ dịch_vụ hậu_cần  mua cá cho ngư_dân 
+19,hiện_nay đang giao cho bộ_tnmt  bộ y_tế  bộ_nnptnt 
+20,“ mục_tiêu của chúng_ta là phòng_ngừa  xử_lý vi_phạm nếu các tổ_chức  doanh_nghiệp vi_phạm về pháp_luật môi_trường ”  ông dũng nói 
+21,bộ_trưởng bộ tttt trương_minh_tuấn   các nhà_khoa_học đã tìm ra nguyên_nhân cá chết 
+22,cần có sự phản_biện để có được kết_quả chính_thức trước khi công_bố 
+23,việc xác_định cá_nhân  tổ_chức có liên_quan phải có bằng_chứng khoa_học  cũng như điều_tra các vi_phạm của tổ_chức  không loại_trừ đơn_vị  cá_nhân nào 
+24,phải có thời_gian để tìm ra bằng_chứng xác_thực 
+25,chính_phủ lắng_nghe cầu_thị mọi ý_kiến  có trách_nhiệm công_bố một_cách rõ_ràng ” 

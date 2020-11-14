@@ -1,0 +1,25 @@
+idx, sentence
+0,với thực_lực mạnh hơn  mu chủ_động đẩy cao đội_hình tấn_công ngay sau tiếng còi khai cuộc và không gặp khó_khăn để giành quyền kiểm_soát thế_trận 
+1,nhưng đã không có trận đấu dễ_dàng cho “ quỷ đỏ ” khi crystal_palace tập_trung chơi phòng_ngự số đông trước khu_vực 16 m50  khiến các học_trò hlv van_gaal không tài_nào áp sát được khung_thành thủ_môn hennessey 
+2,thậm_chí crystal_palace còn tạo được tình_huống nguy_hiểm trước với pha dàn_xếp đá phạt bên cánh trái ở phút 19 
+3,đáng tiếc ở tình_huống cuối_cùng  pha đánh đầu từ cự ly gần của yannick_bolasie không thắng được phản_xạ tuyệt_vời của thủ_môn de_gea 
+4,những phút sau đó  mu kiểm_soát hoàn_toàn thế_trận 
+5,tuy_nhiên phải đến khi bước vào hiệp 2  hàng tấn_công “ quỷ đỏ ” mới có_thể áp sát được khung_thành thủ_môn hennessey 
+6,phút 53  từ đường căng ngang bên cánh phải của valencia  rashford thực_hiện pha bật tường nhanh cho marouane_fellaini thoát xuống đối_mặt với thủ_môn hennessey 
+7,đáng tiếc pha dứt_điểm trái_phá từ góc hẹp của fellaini lại đưa bóng trúng xà_ngang khi thủ_môn hennessey đã đứng nhìn 
+8,tám phút sau  đến lượt anthony_martial có cơ_hội nhưng một lần nữa may_mắn tiếp_tục ngoảnh_mặt với “ quỷ đỏ ”  khi pha đánh đầu hiểm_hóc của tiền_đạo người pháp sau khi hạ được thủ_môn hennessey lại tìm đúng cột_dọc 
+9,đang chơi tốt  mu bất_ngờ bị thủng_lưới sau một phút thiếu tập_trung của hàng phòng_ngự 
+10,phút 78  từ pha phá bóng không thành_công của các hậu_vệ mu  mile_jedinak thực_hiện đường chuyền nhanh cho jason_puncheon_phá bẫy việt_vị thoát xuống 
+11,trong tư_thế trống_trải  puncheon bình_tĩnh khống_chế bóng rồi tung cú dứt_điểm trái_phá từ góc hẹp hạ_thủ_môn de_gea  mở tỉ_số cho crystal_palace 
+12,không còn gì để mất  mu dồn toàn_lực lên tấn_công và quyết_tâm của các học_trò hlv van_gaal đã được đền_đáp 
+13,phút 82  từ pha lên bóng ở trung_lộ  rooney cầm bóng đột_phá vào vòng cấm vượt qua 5 cầu_thủ crystal_palace rồi thực_hiện quả tạt cho fellaini 
+14,tiền_vệ người bỉ dùng ngực hãm bóng  tạo thành đường chuyền thuận_lợi cho juan_mata tung cú dứt_điểm từ cự ly gần hạ_thủ_môn hennessey  quân_bình tỉ_số 11 cho mu
+15,hòa 11 sau 90 phút  hai đội phải thi_đấu thêm 30 phút hiệp phụ để phân_định thắng thua 
+16,và cũng giống như trong thời_gian thi_đấu chính_thức  mu kiểm_soát thế_trận nhưng những tình_huống nguy_hiểm lại thuộc về crystal_palace 
+17,phút 102  từ pha phá bóng không thành_công của hậu_vệ mu  bolasie ập vào tung cú vôlê hiểm_hóc nhưng thủ_môn de_gea đã xuất_sắc bay người đẩy bóng cứu thua cho mu
+18,cuối hiệp phụ thứ nhất  khó_khăn đến với mu khi trung_vệ chris_smalling nhận thẻ_vàng thứ hai vì cố_tình kéo ngã bolasie  khiến “ quỷ đỏ ” chỉ còn 10 người trên sân 
+19,chơi hơn người  crystal_palace dồn đội_hình lên tấn_công và dwight_gayle đã có cơ_hội thoát xuống đối_mặt với thủ_môn de_gea 
+20,nhưng một lần nữa thủ_môn de_gea đã tỏa sáng khi dùng chân chặn_đứng cú dứt_điểm từ cự ly gần của gayle  cứu cho mu bàn thua mười_mươi 
+21,nhưng đúng vào lúc khó_khăn nhất  các cầu_thủ mu lại thi_đấu bùng_nổ và tiền_vệ jesse_lingard đã tỏa sáng với một siêu_phẩm  đem về chiến_thắng quý_giá cho “ quỷ đỏ ” 
+22,phút 111  từ đường căng ngang bên cánh phải của martial  hậu_vệ crystal_palace phá bóng vào ngay vị_trí lingard 
+23,không bỏ lỡ cơ_hội  lingard tung cú vôlê cực nhanh bằng_chân phải đưa bóng về góc xa khiến thủ_môn hennessey chỉ còn biết đứng nhìn  ấn_định chiến_thắng nghẹt thở 21 cho mu

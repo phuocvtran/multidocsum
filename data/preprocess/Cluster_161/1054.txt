@@ -1,0 +1,14 @@
+idx, sentence
+0,sau khi lô hàng 22 tấn xúc_xích vietfoods của công_ty chế_biến thực_phẩm việt  viet_foods  bị đội 14  chi_cục quản_lý thị_trường hà_nội tạm giữ và phạt hành_chính vào ngày 20/4  vì nghi là sản_phẩm có chứa_chất gây ung_thư  đã khiến nhiều khách_hàng quay lưng lại với sản_phẩm của doanh_nghiệp  công_ty đứng bên bờ vực phá_sản  hàng nghìn người lao_động có nguy_cơ thất_nghiệp  những doanh_nghiệp liên_quan cũng bị “ giết chết ”  tới nay  mặc_dù sự_việc đã sáng_tỏ và cục an_toàn vệ_sinh thực_phẩm kết_luận viet_foods không sai_phạm 
+1,bởi_lẽ  chất sodium nitrade mà đội 14  chi_cục quản_lý thị_trường nghi_vấn chứa_chất cấm gây ung_thư  thực_tế là một chất phụ_gia được phép sử_dụng trong thực_phẩm  có tên trong danh_mục phụ_lục 1 – thông_tư 27/2012 / ttbyt ngày 30/11/2012 của bộ y_tế hướng đẫn về quản_lý phụ_gia thực_phẩm 
+2,nhưng phía cơ_quan quản_lý thị_trường_hà_nội mới chỉ có quyết_định trả hàng lại cho doanh_nghiệp chứ chưa có bất_cứ động_thái bồi_thường hay xin_lỗi 
+3,việc trả loại hàng khá âm_thầm trái hẳn với việc công_bố hãng xúc_xích này vi_phạm_pháp theo luật_sư trương_thanh_đức  trung_tâm trọng_tài quốc_tế việt_nam  viac   thì  doanh_nghiệp phải lên_tiếng mạnh_mẽ để các cơ_quan nhà_nước  người dân thấy sự sòng_phẳng  công_bằng với thông_tin và sự cần_thiết trong việc thận_trọng trước khi công_bố thông_tin 
+4,phân_tích sâu hơn về vấn_đề này với phóng_viên báo người đưa tin  luật_sư đức cho hay  về lý  doanh_nghiệp được phép khiếu_nại  yêu_cầu xin_lỗi  bồi_thường nhưng trên thực_tế rất khó vì thiệt_hại bao_nhiêu  tính sao được 
+5,hơn_nữa do cơ_chế pháp_luật của nước ta chưa rõ_ràng 
+6,“ doanh_nghiệp có_thể yêu_cầu cơ_quan nhà_nước đính_chính  xin_lỗi công_khai  thông_tin rõ_ràng để mọi người không nhầm_lẫn  không tẩy_chay sản_phẩm của doanh_nghiệp 
+7,cơ_quan nhà_nước đã làm sai nhưng lại không tích_cực tìm cách khắc_phục  cứu  giúp doanh_nghiệp mà hiện_nay vẫn im_lặng là  kém 
+8,những trường_hợp như_thế phải có chế_tài xử_lý thật nặng thì cơ_quan nhà_nước sau_này mới nâng cao trách hiệm và không hồ_đồ kết_luận trước bất_cứ thông_tin nào ”  luật_sư đức nói 
+9,bàn thêm về chuyên_môn của chi_cục quản_lý thị_trường  luật_sư đức cho hay   chi_cục không có điều_kiện giám_định  đánh_giá chính_xác về sản_phẩm và phải dựa vào cơ_quan_chức_năng khác 
+10,nhưng cơ_quan_chức_năng khác có tin_cậy  đảm_bảo hay không còn dựa vào những gì được báo_cáo lên 
+11,thứ 2  việc công_bố thông_tin như thế_nào  xác_định ra_sao cũng hoàn_toàn chủ_quan 
+12,có trường_hợp  cơ_quan_chức_năng biết sai_phạm nhưng không công_bố  chỉ xử_phạt 

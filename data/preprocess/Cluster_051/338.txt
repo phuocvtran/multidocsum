@@ -1,0 +1,5 @@
+idx, sentence
+0,hai đối_tượng lừa lấy sổ_đỏ của nam ca_sĩ quang_hà đó là trần_thanh_hải  1979  và trần_quốc_việt  1988  cùng quê nam_định 
+1,ban_đầu  giá phía quang_hà đưa ra là 41 tỷ đồng  sau khi thương_lượng với nam ca_sĩ  hai bên đồng_ý mức giá 39 tỷ đồng 
+2,hiện ca_sĩ quang_hà đã nộp đơn tố_cáo lên công_an tp hcm 
+3,ngoài_ra  anh cũng đã gửi đơn cầu_cứu lên bí_thư thành_ủy đinh_la_thăng để mong bí_thư thăng chỉ_đạo điều_tra vụ_việc này 

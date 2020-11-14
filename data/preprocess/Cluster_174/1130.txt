@@ -1,0 +1,29 @@
+idx, sentence
+0,còn nhớ  ngày 24/5  diva mỹ_linh hát quốc_ca trước tổng_thống obama tại hà_nội 
+1,phần trình_bày của cô được nhiều ý_kiến nhận_xét chạm đến trái_tim người nghe 
+2,tuy_nhiên  không ít người “ ném đá ” mỹ linh vì cho rằng cô hát ca_khúc “ tiến_quân_ca ” thiếu sự hào_hùng 
+3,khi việc hát quốc_ca làm nóng mạng xã_hội  mỹ_linh đã lên_tiếng 
+4,trao_đổi với tuổi_trẻ  giọng ca “ em mơ về anh ” chia_sẻ rằng cô đã bắt tông hơi thấp khi thể_hiện ca_khúc “ tiến_quân_ca ” và đây là “ tai_nạn nghề_nghiệp ” 
+5,là người đồng_nghiệp thân_thiết của mỹ_linh  hồng_nhung đã nêu quan_điểm của mình khi được hỏi ý_kiến về việc mỹ_linh hát quốc_ca 
+6,trên trang cá_nhân  cô cho rằng việc lựa_chọn ca_sĩ mỹ_linh hát quốc_ca là tối_ưu 
+7,theo hồng_nhung  mỹ linh đã vượt qua áp_lực khi hát trong một sự_kiện trọng_đại của đất_nước 
+8,hồng_nhung viết  “ đứng hát trực_tiếp không nhạc đệm giữa một khung_cảnh trang_nghiêm bậc nhất  cho các nguyên_thủ quốc_gia và các bậc chính_trị_gia hàng_đầu  trước cơ_man là máy quay  phát trực_tiếp  không_chỉ là trên toàn_quốc mà có_thể là thế_giới nữa 
+9,nếu không phải là một ca_sĩ đẳng_cấp cỡ mỹ_linh thì  khả_năng  cấm_khẩu   không hát nên lời là hoàn_toàn có_thể xảy ra 
+10,mỹ linh đã hát với một trách_nhiệm nghiêm_túc  thể_hiện sự trân_trọng  tình_cảm yêu nước của mình trong từng câu_hát  không sai một từ  không chênh một nốt ” 
+11,hồng_nhung rất buồn khi những lời chê_bai gay_gắt của một_số đông cư_dân mạng dành cho ca_sĩ mỹ_linh 
+12,hồng_nhung tin rằng mỹ_linh không còn quá để tâm đến ồn_ào vì đã làm tròn trách_nhiệm được giao 
+13,cuối dòng chia_sẻ  hồng_nhung cho biết  cô hãnh_diện vì người đồng_nghiệp của mình 
+14,nguyên_văn chia_sẻ của diva hồng_nhung   hôm_nay còn có người hỏi ý_kiến tôi về việc mỹ_linh hát quốc_ca  chuyện đã bị thổi_phồng trong những tranh_cãi gay_gắt mang tính tiêu_cực 
+15,tôi xin trả_lời như sau  đại_sứ_quán mỹ có các lý_do cần và đủ để chọn mời ca_sĩ mỹ_linh hát quốc_ca việt_nam trong hoàn_cảnh cụ_thể được dàn_dựng để nghênh_tiếp ngài tổng_thống 
+16,cá_nhân tôi thấy đây là lựa_chọn tối_ưu 
+17,đây không phải là phần biểu_diễn hay nhất của mỹ_linh  vì ca_sĩ đã khiêm_tốn tự gọi_là  tai_nạn nghề_nghiệp  khi cô hát vào tông hơi thấp cho khung giọng vốn rất rộng và hào_sảng của mình 
+18, nhưng đây là so_sánh một_cách khá khắt_khe với chính cô mà thôi  không có nghĩa là dở một_tí nào  
+19,đứng hát trực_tiếp không nhạc đệm giữa một khung_cảnh trang_nghiêm bậc nhất  cho các nguyên_thủ quốc_gia và các bậc chính_trị_gia hàng_đầu  trước cơ_man là máy quay  phát trực_tiếp  không_chỉ là trên toàn_quốc mà có_thể là thế_giới nữa 
+20,nếu không phải là một ca_sĩ đẳng_cấp cỡ mỹ_linh thì  khả_năng  cấm_khẩu   không hát nên lời là hoàn_toàn có_thể xảy ra 
+21,mỹ linh đã hát với một trách_nhiệm nghiêm_túc  thể_hiện sự trân_trọng  tình_cảm yêu nước của mình trong từng câu_hát  không sai một từ  không chênh một nốt 
+22,điều không nên xảy ra tí nào là chuyện phê_bình  chê_bai gay_gắt vượt ra quá xa trong khung văn_hóa ứng_xử cho_phép của một_số đông dành cho mỹ_linh  đã trở_nên không công_bằng  rồi đến mức ác  cố_ý vùi_dập  
+23,tôi buồn nhất về điều này 
+24,tôi biết  đến hôm_nay thì mỹ_linh cũng không còn quá để_tâm  khi cô đã nghiêm_túc làm tròn bổn_phận đối_với trọng_trách được giao  và đang vô_cùng bận_rộn với các chương_trình biểu_diễn  truyền_hình thực_tế  nhất_là trường_học young_hit_young_beat mà cô cùng chồng và các đồng_nghiệp gây_dựng 
+25,bên_cạnh đó  người vợ  người mẹ tần_tảo này còn tự tay lo cho một mái ấm với ba con mạnh_khỏe  học giỏi cả văn_hóa và âm_nhạc 
+26,mỹ linh và gia_đình cô hoàn_toàn có quyền tự_hào về cô  một nghệ_sĩ ưu_tú  không phải chỉ là danh_hiệu   một người vợ  người mẹ sẵn_sàng hy_sinh bản_thân vì gia_đình và tương_lai của các con 
+27,tôi hãnh_diện vì mỹ_linh  một tài_năng đủ lớn để sống vượt lên mọi vỏ bọc bên ngoài  trung_thành với giá_trị nhân_văn mà mình tin_tưởng  mặc những thị_phi ” 

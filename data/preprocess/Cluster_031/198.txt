@@ -1,0 +1,44 @@
+idx, sentence
+0,một tháng vượt mức ba năm sử_dụng ngày 27/4  ông trần_công_ứng  60 tuổi  trú xã tân_triều  thanh_trì  hà_nội  rụng_rời chân_tay khi nhận được thông_báo hóa_đơn nước gia_đình ông sử_dụng hết hơn 1100 m3 tương_đương số tiền 24 triệu đồng 
+1, tôi hoang_mang  lo_lắng và không hiểu tại_sao số nước dùng trong tháng nhiều hơn cả tổng_số nước dùng trong ba năm qua   ông nói và cho biết  từ tháng 10/2013 tới nay gia_đình gồm 6 người dùng chưa tới 900 m3  bình_quân mỗi tháng từ 2530 m3 nước 
+2,ông và con trai kiểm_tra bể  phao ngầm và đường_ống_dẫn bằng nhiều cách và không phát_hiện dấu_hiệu nước tràn bể  thất_thoát 
+3,ông viết đơn kiến_nghị thì hợp_tác_xã  htx  tân_triều thông_báo do hỏng ống_dẫn  phao khiến nước bơm liên_tục dẫn đến thất_thoát 
+4,sau đó ban lãnh_đạo htx có trao_đổi với ông   nể tình_làng_nghĩa_xóm  tạo điều_kiện cho gia_đình và liên_tiếp hai lần thay_đổi giá tiền nước 
+5,từ 24 triệu đồng xuống  htx đề_nghị giảm còn 19 triệu đồng rồi xuống mức thấp nhất còn 9000 đồng / m  tổng_số tiền phải trả 107 triệu đồng 
+6,tuy_nhiên  gia_đình ông không chấp_thuận 
+7, chỉ một tháng mà phải nộp số tiền bằng cả mấy năm sử_dụng nước_sạch 
+8,bể có 3 m3 mà mỗi ngày thất_thoát gần 40 m3 nước 
+9,thật vô_lý   ông nói 
+10,vài ngày sau  hợp_tác_xã đề_nghị kiểm_định đồng_hồ tại đơn_vị để làm rõ nguyên_nhân  truy trách_nhiệm nhưng ông ứng đề_nghị mang đồng_hồ lên viện đo_lường quốc_gia để kiểm_tra 
+11,người đàn_ông lục tuần cho biết  đồng_hồ nước ông thay lần gần nhất tháng 10/2013 
+12,năm 2015  gia_đình ông từng nhận hai hóa_đơn nước tăng bất_thường 700000 đồng và hơn 1 triệu đồng nhưng gia_đình vẫn nộp tiền đầy_đủ 
+13,ngày 19/5  zing  vn liên_hệ về vấn_đề trên nhưng ban lãnh_đạo hợp_tác_xã tân_triều đều vắng 
+14,hóa_đơn nước gần 7 triệu của gia_đình 4 người trước đó ba tháng  anh hoàng nam_khánh  32 tuổi  trú c38tt12  kđt_văn_quán  hà_đông  hà_nội  không tin vào mắt mình khi nhận được hóa_đơn nước sinh_hoạt tháng 12/2015 
+15, tôi thật_sự choáng 
+16,nhà 3 người_lớn  một cháu nhỏ mà dùng hết 390 m3  tương_đương hơn 68 triệu đồng   anh phản bức_xúc 
+17,trong khi đó  tháng 11  lượng nước gia_đình anh sử_dụng là 38 m3 
+18,các tháng trước  dao_động từ hơn 20 đến 50 m3 
+19,công_ty nước_sạch hà_đông kiểm_tra và trả_lời  hỏng van phao bể ngầm dẫn đến nước thất_thoát  chảy ra ngoài nhưng gia_chủ không chấp_thuận và yêu đơn_vị thứ ba vào cuộc kiểm_định đồng_hồ 
+20,theo anh  một nhân_viên của công_ty hà_đông còn khuyên ký vào biên_bản và làm đơn xin xác_nhận do van phao bể ngầm hỏng gây thất_thoát nước là ngoài mong_muốn và đề_nghị phía công_ty xem_xét giải_quyết 
+21,sau đó  công_ty sẽ xem_xét hỗ_trợ gia_đình 
+22,ông lại_văn_thịnh  tổng_giám_đốc công_ty nước_sạch hà_đông lý_giải  lượng nước tăng như gia_đình anh khánh là bất_thường 
+23,có_thể các bể chứa nước_ngầm tại hộ gia_đình thường được thiết_kế với nắp bê_tông có khe giãn_nở 
+24,“ van phao bể ngầm hỏng có_thể dẫn tới_nước bơm liên_tục  trào ra ngoài dẫn đến thất_thoát ”  ông nói 
+25,tuy_nhiên  trước lời giải_thích này  anh khánh càng tỏ ra bức_xúc bởi bể ngầm được thiết_kế kín  gia_đình không phát_hiện nước thấm ra ngoài 
+26, kể_cả nước tràn qua khe giãn_nở cũng không_thể lên tới hàng trăm m3 mà gia_đình không biết 
+27,tôi không chấp_nhận lời giải_thích này   anh khánh cho biết 
+28,tiền nước tháng 12 gần 4 triệu  tháng 1 còn 54000 đồng cùng tháng đầu năm 2016  chị hoàng_thị_thu_trang  33 tuổi  trú ngõ 280 phường cổ_nhuế 2  quận bắc từ_liêm  hà_nội  choáng khi nhận được hóa_đơn nước sinh_hoạt tháng 12/2015 
+29, gia_đình có 6 người mà tiêu_thụ hết 212 m3 nước  tương_đương 3580000 đồng  gấp hơn 10 lần so với những tháng trước   chị trang phản_ánh 
+30,trong khi các tháng trước dao_động từ 2025 m3 
+31,ngay sau đó  gia_đình cùng nữ nhân_viên thu tiền nước kiểm_tra phát_hiện đồng_hồ quay rất nhanh trong khi thời_điểm này nước mất nước cả khu_phố 
+32, tôi có đề_nghị lập biên_bản hiện_trạng đồng_hồ vẫn quay khi không được cung_cấp nước thì người này từ_chối do_đó gia_đình không nộp tiền   chị trang bức_xúc 
+33,sau ba lần kiến_nghị nhưng không được giải_đáp thỏa_đáng  xí_nghiệp nước_sạch cầu_giấy có mang đồng_hồ đi kiểm_định tại xí_nghiệp đồng_hồ  công_ty tnhh_mtv nước_sạch hà_nội  
+34,kết_luận  đồng_hồ đạt tiêu_chuẩn 
+35,vài ngày sau đó  nữ nhân_viên thu tiền nước khuyên gia_đình viết giấy cam_kết nguyên_nhân sự_cố do kẹt van phao  không phải do đồng_hồ thì công_ty sẽ hỗ_trợ chia số tiền tháng 12/2015 dàn đều ba tháng đầu năm 2016 
+36,tuy_nhiên  gia_đình không tán_thành 
+37,các tháng sau  chị nhận được hóa_đơn thu tiền nước tháng 1  tháng 2 lần_lượt là 54900 đồng và 20000 đồng 
+38,gia_đình nộp nhưng phía công_ty không nhận và yêu_cầu quyết_toán số tiền nước bất_thường ba tháng 
+39,gia_đình chị trang không chấp_thuận 
+40,ngày 6/4  nhân_viên công_ty này xuống tháo đồng_hồ và dừng cấp_nước trong khi chưa giải_đáp thắc_mắc nguyên_nhân đồng_hồ quay khi nước ngừng cấp và số tiền tăng bất_thường 
+41, gia_đình tôi quá thất_vọng về cách ứng_xử của xí_nghiệp nước_sạch cầu_giấy 
+42,nếu mỗi năm đồng_hồ gặp sự_cố vài tháng như_vậy  gia_đình tôi phải trả số tiền gấp hàng chục lần là không_thể chấp_nhận   chị gay_gắt 

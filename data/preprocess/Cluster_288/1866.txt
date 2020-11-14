@@ -1,0 +1,7 @@
+idx, sentence
+0,thông_tin ban_đầu  khoảng 11 h trưa 3/6  một chiếc xe container  chưa rõ danh_tính tài_xế  chở cuộn thép nặng hơn 20 tấn  chạy trên đường huỳnh_tấn_phát hướng từ cầu phú_mỹ đi huyện nhà_bè 
+1,khi qua ngã tư gò ô_môi được 300 m  đến địa_bàn thuộc phường phú_thuận  quận 7 thì bất_ngờ xe này gặp chướng_ngại_vật  phanh gấp 
+2,không may xích chằng giữ cuộn sắt bị đứt  khiến cuộn sắt theo quán_tính lăn thẳng về phía trước  khiến cabin xe bị phá vỡ 
+3,rồi cuộn sắt này rơi xuống đường  đập mạnh vào dải_phân_cách mới dừng lại 
+4,tài_xế hốt_hoảng lồm_cồm ra từ trong cabin biến_dạng 
+5,một người dân gần đó cho biết   tôi nghe tiếng_động lớn ngoài đường  nhìn ra thì thấy đầu cabin xe container biến_dạng  tài_xế bò ra từ bên trong  rất may tài_xế không bị sao  

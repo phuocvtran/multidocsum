@@ -1,0 +1,13 @@
+idx, sentence
+0,bộ gdđt vừa có văn_bản hướng_dẫn nội_dung  quản_lý và sử_dụng kinh_phí ngân_sách nhà_nước hỗ_trợ  nội_dung và định_mức chi tổ_chức kỳ thi thpt_quốc_gia 2016 đối_với các cơ_sở giáo_dục đại_học được giao chủ_trì cụm thi 
+1,theo đó  bộ_gdđt quy_định  không thu lệ_phí phúc_khảo đối_với các thí_sinh dự thi kỳ thi thpt_quốc_gia  năm 2015  lệ_phí phúc_khảo  30000 đồng / môn  
+2,theo bộ_gdđt  để tạo điều_kiện thuận_lợi nhất cho thí_sinh khi có yêu_cầu phúc_khảo  thí_sinh có_thể nộp đơn phúc_khảo ở nhiều nơi 
+3,thí_sinh nộp hồ_sơ đăng_ký dự thi ở đâu thì nộp đơn xin phúc_khảo tại đó 
+4,ví_dụ  nộp hồ_sơ tại trường thpt thì nộp đơn xin phúc_khảo ở trường thpt 
+5,ngoài_ra  thí_sinh cũng có_thể nộp trực_tiếp ở trường đh nơi dự thi  phòng giáo_dục đào_tạo  sở gdđt 
+6,ngoài_ra  tất_cả thí_sinh đều có quyền xin phúc_khảo bài thi 
+7,thí_sinh muốn phúc_khảo cần làm đơn phúc_khảo trong đó ghi rõ họ tên  ngày_sinh  số báo_danh  cụm thi  môn muốn phúc_khảo … các đơn_vị sẽ tiếp_nhận đơn phúc_khảo của thí_sinh trong thời_hạn 10 ngày kể từ ngày công_bố điểm thi  từ ngày 23/7 đến ngày 1/8  
+8,sau đó sở gdđt tập_hợp và chuyển dữ_liệu thí_sinh xin phúc_khảo bài thi đến hội_đồng thi 
+9,cũng theo bộ_gdđt  trong thời_hạn 15 ngày kể từ ngày hết hạn nhận đơn phúc_khảo  hội_đồng thi phải công_bố kết_quả phúc_khảo 
+10,các trường có_thể công_bố kết_quả sớm hơn 
+11,chấm phúc_khảo hai vòng độc_lập  phúc_khảo bài thi tự luận do hai cán_bộ chấm_thi thực_hiện theo quy_định chấm hai vòng độc_lập và phải chấm bằng mực có màu khác với màu mực được dùng chấm trước đó trên bài làm của thí_sinh 

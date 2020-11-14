@@ -1,0 +1,2 @@
+idx, sentence
+0,cơ_quan này cũng đồng_thời khuyến_cáo khi phát_hiện hoạt_động bán hàng đa cấp của các dn này  người dân thông_báo với sở công_thương  cơ_quan công_an địa_phương hoặc cục quản_lý cạnh_tranh để có biện_pháp xử_lý kịp_thời 

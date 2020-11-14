@@ -1,0 +1,7 @@
+idx, sentence
+0,ubnd tỉnh lào_cai vừa có quyết_định phê_duyệt quy_hoạch chi_tiết công_viên văn_hóa sa_pa nhằm phát_triển bền_vững  tạo không_gian  cảnh_quan  môi_trường đô_thị và phục_vụ nhu_cầu của du_khách để đô_thị du_lịch sa_pa trở_thành một điểm du_lịch hấp_dẫn  tương_xứng với tiềm_năng và những lợi_thế cạnh_tranh đang có 
+1,theo thông_tin trên báo lào_cai  công_viên văn_hóa sa_pa rộng 118 ha  nằm trong tổng_thể quy_hoạch chung đô_thị du_lịch sa_pa  thuộc_địa_giới hành_chính_thị_trấn sa_pa và xã san_sả_hồ 
+2,công_viên văn_hoá sa_pa bao_gồm các khu chức_năng chính  khu vui_chơi giải_trí theo mô_hình disneyland kết_hợp du_lịch sinh_thái ngoài_trời  khu nghỉ_dưỡng đẳng_cấp quốc_tế  khách_sạn 56 sao  khu spa cao_cấp  khu dịch_vụ thể_thao    tuyến tàu_hỏa leo núi  khu_vực bảo_tồn bản_sắc văn_hóa dân_tộc  khu_vực công_viên nhân_tạo  công_viên tự_nhiên … 
+3,trước đó  hồi cuối năm 2015  tại một hội_nghị quảng_bá xúc_tiến đầu_tư du_lịch tây_bắc  sun_group đã ký_kết chương_trình hợp_tác đầu_tư vào tỉnh lào_cai trong giai_đoạn 2016  2020 với những dự_án rất lớn 
+4,cụ_thể như phát_triển hạ_tầng khu du_lịch cáp_treo sa_pa với các loại_hình khách_sạn  khu vui_chơi giải_trí với khoảng 6000 phòng khách_sạn từ 35 sao  trung_tâm hội_nghị  mua_sắm  với tổng vốn 10000 tỷ đồng  khách_sạn 5 sao tại thị_trấn sa_pa với 1200 tỷ đồng 
+5,tổ_hợp công_viên vui_chơi giải_trí  khách_sạn  trung_tâm hội_nghị có khả_năng đón hai triệu lượt khách / năm với tổng vốn 4000 tỷ đồng  xây_dựng sân_bay lào_cai với hơn 5600 tỷ đồng …

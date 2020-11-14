@@ -1,0 +1,9 @@
+idx, sentence
+0,sáng qua  người đặc_biệt mourinho đã chính_thức bắt_tay vào công_việc tại mu và việc đầu_tiên ông làm là ghé trung_tâm huấn_luyện của đội bóng 
+1,tại đây  ông đã gặp phó chủ_tịch ed_woodward  huyền_thoại sir_bobby_charton và các thành_viên trong đội_ngũ nhân_viên 
+2,người đặc_biệt tỏ ra rất thân_thiện với tất_cả mọi người 
+3,ông còn ở lại ăn trưa trong căn tin cùng đội_ngũ nhân_viên tại carrington 
+4,sau khi hoàn_thành xong chuyến thị_sát tại aon_training_complex  carrington   mourinho và ed_woodward có cuộc trao_đổi ngắn trong vòng một giờ 
+5,woodward nhấn_mạnh mourinho cần sớm hoàn_tất các phương_án chuyển_nhượng để mu kế_hoạch “ săn ” các mục_tiêu này 
+6,hiện mu đang quan_tâm đến hậu_vệ của as_roma  kostas_manolas  ngoài_ra họ cũng sẵn_sàng trả 54 triệu bảng cho atletico để mua saul_niguez 
+7,bên_cạnh đó  mu cũng rất quan_tâm đến nemanja_matic của chelsea  pierreemerick_aubameyang của dortmund hay ibrahimovic 

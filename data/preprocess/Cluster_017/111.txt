@@ -1,0 +1,19 @@
+idx, sentence
+0,theo tờ báo  con chó lao vào tấn_công những đứa trẻ đang chơi_đùa trong một công_viên ở thị_trấn blyth  hạt northumberland  anh 
+1,hầu_hết bọn trẻ có_mặt đều bị cắn 
+2,bà sheryl_allison  người chứng_kiến toàn_bộ vụ_việc  miêu_tả vụ_việc như “ một vụ khủng_bố ” và những đứa trẻ sau đó nằm la_liệt trên bãi cỏ 
+3,bà sheryl_allison có đứa con_gái 12 tuổi chơi tại hiện_trường 
+4,kể lại với kênh_truyền_hình chronicle_live  bà chưa hết bàng_hoàng  “ con chó lao vào cắn 14 đứa trẻ  hệt như một vụ khủng_bố vậy 
+5,tụi nhỏ nằm la_liệt trên bãi cỏ 
+6,ơn chúa là con tôi không bị cắn  
+7,theo lời bà  cứ mỗi lần bọn trẻ cố cứu nhau thì lại bị con chó cắn trúng 
+8, mấy đứa nhỏ phải ráng trèo lên những chỗ cao để tránh_né 
+9,con chó hoàn_toàn nổi_điên 
+10,cuối_cùng  cha của một bé gái nhìn thấy và chạy tới nhảy_bổ lên con chó 
+11,ông ấy đè nó xuống cho tới khi cảnh_sát đến 
+12,cả dãy phố đã thực_sự hoảng_loạn 
+13,đây là lần đầu_tiên chúng_tôi chứng_kiến một vụ_việc như thế_này ” – bà allison_thuật lại 
+14,cư_dân địa_phương nói thêm con chó chạy chơi bình_thường ở công_viên khoảng 45 phút trước khi lên_cơn cắn người 
+15,cảnh_sát hạt northumbria cho biết con chó hung_tợn đã bị khống_chế 
+16,tuy_nhiên  cho đến thời_điểm hiện_tại  vẫn chưa tìm được chủ của nó 
+17,vụ tấn_công trên khiến 14 trẻ_em bị_thương  9 trong số đó phải nhập_viện nhưng rất may là tất_cả chấn_thương đều không quá nghiêm_trọng 

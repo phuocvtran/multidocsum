@@ -1,0 +1,8 @@
+idx, sentence
+0,tổng_cục đường_bộ cho biết  thực_hiện kế_hoạch cung_cấp dịch_vụ công trực_tuyến của bộ_gtvt  giai_đoạn 2013  2015  định_hướng đến năm 2020  sau quá_trình nghiên_cứu  xây_dựng hệ_thống cung_cấp dịch_vụ công mức_độ 4 cấp gplx quốc_tế  đơn_vị này đã hoàn_thành các thủ_tục để chính_thức bấm_nút khai_trương dịch_vụ này 
+1,từ hôm_nay  người_dân có_thể đổi giấy_phép lái_xe quốc_tế tại nhà 
+2,theo đó từ hôm_nay  người có nhu_cầu cấp gplx quốc_tế đã có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử  wwwdrvngovvn và wwwdichvuconggplxgovvn  8000 
+3,quy_trình đăng_ký dịch_vụ công mức_độ 4 cấp gplx quốc_tế gồm 4 bước  bước 1  khai_báo thông_tin hồ_sơ trực_tuyến và đăng_ký địa_chỉ nhận chuyển phát sau khi có kết_quả gplx quốc_tế  bước 2  thực_hiện thanh_toán trực_tuyến phí và lệ_phí qua cổng thanh_toán trực_tuyến thành_công bước 3  nhận kết_quả thông_báo kết_quả xác_nhận hồ_sơ qua địa_chỉ hòm_thư đã đăng_ký  bước 4  nếu hồ_sơ hợp_lệ sẽ được nhận kết_quả chuyển phát gplx quốc_tế tại địa_chỉ đã đăng_ký 
+4,để thực_hiện quy_trình này  cán_bộ nghiệp_vụ có trách_nhiệm kiểm_tra sơ_bộ hồ_sơ  thông_báo lại cho người dân kết_quả qua hộp_thư_điện_tử để được trả gplx quốc_tế tại địa_chỉ đã đăng_ký 
+5,khi vào trang thông_tin điện_tử này  người dân sẽ được hướng_dẫn cách_thức đăng_ký  khai_báo thông_tin 
+6,điều_kiện để người có nhu_cầu thực_hiện dịch_vụ công mức_độ 4 cấp gplx quốc_tế gồm  có gplx bằng vật_liệu pet còn giá_trị sử_dụng và có trong cơ_sở dữ_liệu gplx toàn_quốc  chuẩn_bị file dữ_liệu gồm  ảnh chụp mặt trước gplx_pet  ảnh chụp hộ_chiếu  trang có ảnh và nơi sinh  và ảnh chân_dung có nền xanh hoặc trắng  có tài_khoản ngân_hàng để thanh_toán trực_tuyến 

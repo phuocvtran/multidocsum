@@ -1,0 +1,8 @@
+idx, sentence
+0,tất_cả 134 người trên khoang  bao_gồm cả phi_hành_đoàn  đã được sơ_tán  sau khi người_ta tìm thấy một lời nhắn đe_dọa đánh bom trên máy_bay ngay trước lúc nó cất_cánh  reuters dẫn lời phát_ngôn_viên hãng hàng_không cho biết 
+1,phi_cơ đang chuẩn_bị cho hành_trình từ sân_bay ataturk  istanbul  đi kayseri 
+2,máy_bay sau đó nhận lệnh chuyển_hướng tới bãi đỗ 
+3,nhiều xe cứu_thương  cảnh_sát và chuyên_gia phá bom lập_tức có_mặt tại hiện_trường 
+4,cơ_quan_chức_năng cuối_cùng xác_định lời đe_dọa đánh bom này là giả 
+5,thổ nhĩ kỳ năm nay phải hứng_chịu hàng_loạt vụ đánh bom tự_sát đẫm máu  cướp đi sinh_mạng hàng trăm dân_thường 
+6,hồi năm_ngoái  một nhánh của lực_lượng đảng công_nhân người kurd  pkk  nã pháo vào một sân_bay ở istanbul  làm một công_nhân vệ_sinh thiệt_mạng và một người khác bị_thương 

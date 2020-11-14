@@ -1,0 +1,7 @@
+idx, sentence
+0,sau khi tuyên_bố chia_tay psg và đang chọn bến đỗ mới  ibrahimovic trở_về thụy_điển nhằm chuẩn_bị cho vck_euro 2016 diễn ra tại pháp 
+1,tại đây  ibra tự lái chiếc porsche mui trần đen bóng tới đại_bản_doanh của đội 
+2,chiếc porsche 918 spyder có giá lên tới 661000_bảng  tương_đương hơn 20 tỷ đồng mua tại stockholm 
+3,siêu xe sở_hữu động_cơ 46 l v8  tăng_tốc từ 0100 m chỉ trong 28 giây và đạt vận_tốc cực_đại 340 km / h 
+4,hiện ibra đang là cầu_thủ được các đội bóng giải ngoại_hạng anh săn_đón trong đó man_utd đang giành pole khi trả mức giá 34 triệu bảng cho cầu_thủ psg này 
+5,ở mùa giải vừa_qua trong màu áo psg  ibra ghi 50 bàn trong 50 lần ra sân trên mọi mặt_trận  trong đó có 38 bàn ở ligue 1__5 bàn ở champions_league và 7 bàn ở cúp qg pháp  góp công lớn giúp psg có mùa giải khá thành_công với cú đúp danh_hiệu quốc_nội và lọt vào tứ_kết champions_league 

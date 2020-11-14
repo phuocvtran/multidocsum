@@ -1,0 +1,22 @@
+idx, sentence
+0,sáng nay  31/5  tại khuôn_viên trường_trung_học_cơ_sở gio_việt  thôn xuân_ngọc  xã gio_việt  huyện gio_linh   tand tỉnh quảng_trị mở phiên sơ_thẩm xử lưu_động vụ_án giết người xảy ra tối 20/8/2015 ở xã gio_việt đối_với trần_đình_thịnh 
+1,như tpo đã thông_tin  theo cáo_trạng  trần_đình_thịnh  sn 1987  ở xã cam_hiếu  huyện cam_lộ  quảng_trị  và chị quách_thị_thơm  sn 1985  quê nga_sơn  thanh_hóa  có với nhau 2 con_trai 
+2,đầu năm 2015  do công_việc ở quê bấp_bênh  không nuôi đủ 4 miệng_ăn nên thịnh cùng một_số người dân trong làng sang trung_quốc làm_ăn 
+3,thời_gian thịnh đi làm xa  vợ thịnh ở nhà nảy_sinh quan_hệ tình_ái với ông trần_văn_lai  sn 1976  trú thôn tân_xuân  xã gio_việt  huyện gio_linh  
+4,ông lai đã có vợ và 3 con  thường chở cá lên làng thịnh ở cam_lộ bán cá 
+5,sự_việc bay đến tai thịnh  ngày 23/7/2015 thịnh tức_tốc về quê 
+6,sau những thú_nhận của vợ  thịnh đã đánh  và vợ bỏ về nhà mẹ ruột ở huyện nga_sơn 
+7,sau đó biết có lỗi nên vợ thịnh đã chủ_động xin chồng tha_thứ  và thịnh đồng_ý 
+8,hai vợ_chồng quyết_định sẽ vào bình_dương sinh_sống bởi thịnh muốn cách_ly vợ với người_tình lai 
+9,song lúc này vợ thịnh biết mình đã có thai với ông lai nên đã cùng người_thân từ nga_sơn đi thẳng vào tphcm “ xử_lý cái thai ” trước  rồi mới quay ra quảng_trị gặp thịnh 
+10,ngày 16/8/2015  vợ_chồng thịnh và đứa con_trai út  sn 2012  vào bình_dương 
+11,ở tạm nhà em_gái vợ thịnh được hai ngày thì thịnh đưa vợ ra ngoài thuê nhà_nghỉ 
+12,để chắc_chắn vợ không còn giấu diếm chuyện gì nên thịnh lại dò_hỏi 
+13,do thịnh tra_hỏi ráo_riết nên vợ thịnh buộc phải khai chuyện đã có thai với người_tình và đã trốn vào nam phá_thai trước đó 
+14,nghe vậy  thịnh vật vả khóc_lóc rồi bỏ xuống quán vỉa_hè uống bia 
+15,đến lúc quay về phòng thấy vợ đang cầm điện_thoại_di_động nên giật xem và phát_hiện dòng tin nhắn vợ mình đã gửi cho một_số điện_thoại lạ với nội_dung  “ nếu anh thịnh bỏ em  anh có đi với em không  ” 
+16,như giọt nước tràn ly  thịnh vồ lấy con dao mua cắt trái cây mua trước đó đâm vơ chết_chết vào chiều 19/8/2015 
+17,gây_án xong  thịnh lên tp hcm rồi sáng hôm sau đi máy_bay từ tân_sơn_nhất ra sân_bay phú_bài  thừa_thiênhuế  và đón xe_khách về quảng_trị 
+18,sau đó  thịnh chuẩn_bị một con dao và tìm đến nhà tình_địch ở thôn tân_xuân  xã gio_việt 
+19,khoảng 20 h30 ngày 20/8/2015  thịnh đi thẳng vào nhà ông lai rồi vung dao chém khi ông lai đang ngủ trên giường khiến nạn_nhân_tử_vong tại_chỗ 
+20,rạng sáng 21/8  công_an quảng_trị bắt được thịnh khi đang ẩn trốn ở khu_vực chùa mai_hà_cách hiện_trường gây_án một quãng ngắn 

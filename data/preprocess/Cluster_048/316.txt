@@ -1,0 +1,61 @@
+idx, sentence
+0,wells_fargo thực_hiện 
+1,hơn 10 ngày  hãng đã chấp_thuận tổng_số ít_nhất 12 giao_dịch yêu_cầu chuyển tiền của bda qua hệ_thống swift hết_sức an_toàn 
+2,mạng_lưới swift cho_phép các ngân_hàng xử_lý chuyển tiền hàng tỷ đô_la mỗi ngày 
+3,nó được xem là xương_sống của ngân_hàng toàn_cầu 
+4,tổng_thể  wells_fargo đã chuyển 12 triệu usd tiền của bda đến các tài_khoản trên khắp toàn_cầu 
+5,cả hai ngân_hàng này tin rằng những khoản tiền đó đã bị các tin tặc không rõ danh_tính đánh_cắp  theo tài_liệu trong đơn_kiện của bda đối_với wells_fargo ở new_york trong năm nay 
+6,bda từ_chối bình_luận 
+7,wells fargo ban_đầu từ_chối bình_luận về vụ kiện  nhưng hôm_qua  ngày 20/5/2016  trong một thông_cáo gửi hãng tin reuters nói rằng  hãng đã xử_lý đúng các điện chuyển tiền họ nhận được qua các tin nhắn swift xác_thực   và họ không chịu trách_nhiệm về những mất_mát của bda 
+8,bda đang kiện wells_fargo trên cơ_sở ngân_hàng mỹ này lẽ_ra phải đánh_dấu  gắn nhãn  các giao_dịch đó là đáng ngờ 
+9,còn wells_fargo phản_hồi rằng những sai_sót trong hoạt_động bảo_mật của bda đã gây ra thiệt_hại cho chính họ 
+10,các tin tặc đã chiếm được các chứng_thực đăng nhập swift của nhân_viên bda  theo tài_liệu wells_fargo nộp lên toà_án hồi tháng hai 
+11,swift  viết tắt của hiệp_hội viễn_thông tài_chính liên ngân_hàng toàn_cầu  không phải là một bên liên_quan trong vụ kiện này 
+12,không ngân_hàng nào thông_báo với swift về vụ mất_cắp này vì swift cho biết lần đầu_tiên họ nghe thấy tin_tức về vụ này từ yêu_cầu thông_tin từ reuters 
+13, chúng_tôi không biết   theo thông_cáo swift phản_hồi cho reuters   chúng_tôi cần phải được khách_hàng thông_báo về những gian_lận như vậy nếu chúng liên_quan đến các sản_phẩm và dịch_vụ của chúng_tôi  để chúng_tôi có_thể thông_báo và hỗ_trợ rộng_rãi trong cộng_đồng 
+14,chúng_tôi đã liên_lạc với ngân_hàng liên_quan để có thêm thông_tin và đang nhắc_nhở các khách_hàng về bổn_phận của họ trong việc chia_sẻ thông_tin như_vậy với chúng_tôi  
+15,swift cho biết họ yêu_cầu khách_hàng thông_báo cho swift về những vấn_đề có_thể ảnh_hưởng đến  tính bảo_mật  vẹn_toàn và sẵn_sàng của dịch_vụ swift  
+16,tuy_nhiên  swift không có quy_định đặc_biệt nào yêu_cầu các ngân_hàng khách_hàng của họ báo_cáo về các vụ cướp tiền qua mạng 
+17,các ngân_hàng thường không báo_cáo những vụ tấn_công như vậy vì sẽ làm dấy lên những quan_ngại về việc tổ_chức của họ dễ bị tổn_thương  theo các cựu nhân_viên của swift và các chuyên_gia bảo_mật trả_lời phóng_viên reuters 
+18,trường_hợp ngân_hàng ecuador phản_ánh vấn_đề cốt_lõi của ngăn_ngừa những vụ chuyển tiền bất_hợp_pháp như_vậy  cả_swift và các ngân_hàng khách_hàng của họ chẳng ai có bức tranh đầu đủ về tần_suất hoặc chi_tiết của các vụ tấn_công mạng thông_qua mạng_swift 
+19,vụ_việc này – trước đó đã không được thông_tin chi_tiết – dấy lên những câu hỏi mới về sự giám_sát của mạng_lưới swift và truyền_thông giữa swift và các ngân_hàng thành_viên về tấn_công mạng và các rủi_ro liên_quan 
+20,mạng_lưới này đã đối_mặt với sự giám_sát dữ_dội kể từ khi tin tặc đã cướp 81 triệu usd từ tài_khoản của ngân_hàng trung_ương bangladesh ở ngân_hàng dự_trữ liên_bang new_york hồi tháng 2 năm nay 
+21,hiện không rõ swift nói với ngân_hàng thành_viên của mình những gì khi họ phát_hiện các vụ tấn_công mạng  mà vụ đầu_tiên đặc_biệt bị phát_hiện bởi ngân_hàng bị lừa_gạt 
+22,người_phát_ngôn swift là bà natasha de terán nói rằng tổ_chức này  minh_bạch với người dùng   nhưng từ_chối giải_thích chi_tiết 
+23,swift cũng từ_chối trả_lời các câu hỏi cụ_thể về các chính_sách của họ trong việc tiết_lộ các vụ rò_rỉ 
+24,hôm_qua  ngày 20/5/2016  sau khi reuters đăng tin về vụ ngân_hàng ecuador  swift đã thúc_giục tất_cả người dùng của mình thông_báo cho mạng_lưới về các vụ tấn_công mạng 
+25,hãng tin reuters không_thể xác_định số_lượng hoặc tần_suất các vụ tấn_công mạng liên_quan đến swift  hoặc các ngân_hàng thường_xuyên báo_cáo với các quan_chức swift như thế_nào 
+26,các chuyên_gia bảo_mật và cựu nhân_viên swift nói rằng việc không tiết_lộ thông_tin này có_thể lại góp_phần làm các ngân_hàng gia_tăng sự tin_tưởng vào sự an_toàn của mạng_lưới swift thường_ngày chấp_thuận các yêu_cầu chuyển tiền mà không cần thêm sự xác_minh nào khác 
+27,những kẻ tội_phạm đứng sau các vụ cướp tiền như vậy đang khai_thác sự sẵn_sàng của các ngân_hàng chấp_thuận các yêu_cầu của swift thay_vì thực_hiện các thao_tác bằng tay bổ_sung hoặc kiểm_tra tự_động 
+28, swift không_thể thay_thế các thực_hành ngân_hàng thận_trọng   một cựu nhân_viên swift nói  nhấn_mạnh rằng các ngân_hàng nên xác_thực các yêu_cầu chuyển hoặc rút_tiền như họ làm với các giao_dịch ngoài hệ_thống swift 
+29,swift cam_kết kiểm_tra mã_số trên điện chuyển tiền được gửi vào hệ_thống của mình để đảm_bảo điện này bắt_nguồn từ thiết_bị đầu_cuối của khách_hàng  và gửi nó đến người nhận một_cách nhanh_chóng và an_toàn  các cựu giám_đốc điều_hành swift và các chuyên_gia an_ninh mạng cho biết 
+30,nhưng một_khi hacker lấy mã_số và thông_tin hợp_pháp  swift không có cách nào biết được chúng không phải là chủ_tài_khoản thực_sự 
+31,the bank for international_settlements  một tổ_chức thương_mại dành cho các ngân_hàng trung_ương  hồi tháng 11 năm_ngoái cho biết rằng việc tăng_cường chia_sẻ thông_tin về tấn_công mạng là vô_cùng quan_trọng để giúp các tổ_chức tài_chính quản_lý rủi_ro 
+32,rủi_ro hệ_thống swift  một doanh_nghiệp thuộc sở_hữu và kiểm_soát bởi các ngân_hàng nó phục_vụ  được thành_lập năm 1973 và vận_hành một mạng điện chuyển tiền được cho là an_toàn  đáng tin_cậy từ 4 thập_kỷ qua 
+33,nhưng những vụ tấn_công mạng gần đây đã cho thấy vai_trò trung_tâm của mạng_lưới này trong thế_giới tài_chính toàn_cầu cũng chứa_đựng rủi_ro hệ_thống swift không được điều_chỉnh  mà do một nhóm 10 ngân_hàng trung_ương từ các nước phát_triển  dẫn_đầu là ngân_hàng quốc_gia bỉ  giám_sát 
+34,trong số các hướng_dẫn của swift có yêu_cầu cung_cấp cho các khách_hàng đủ thông_tin để cho phép họ  quản_lý thích_đáng các rủi_ro liên_quan đến việc sử_dụng swift của họ  
+35,tuy_nhiên  một_số cựu nhân_viên của swift nói rằng doanh_nghiệp này chật_vật trong việc để các ngân_hàng báo_cáo về những rủi_ro tấn_công mạng bởi_vì thiếu sự hợp_tác từ chính các ngân_hàng 
+36,25 thành_viên của hội_đồng giám_đốc swift toàn là đại_diện các ngân_hàng lớn 
+37,lý_do là các ngân_hàng sẽ không muốn làm mất ổn_định lòng tin vào tổ_chức của họ 
+38,các ngân_hàng cũng lo_sợ việc thông_báo cho swift hoặc lực_lượng thực_thi pháp_luật về các vụ đột_nhập an_ninh mạng có_thể dẫn đến các cuộc điều_tra của cơ_quan quản_lý nhấn_mạnh đến những thất_bại trong quản_lý rủi_ro hoặc sự tuân_thủ có_thể làm các nhà lãnh_đạo ngân_hàng mất_mặt 
+39,các vụ chuyển tiền bất_hợp_pháp hiếm khi được công_khai  một phần bởi sự bất_đồng thường được giải_quyết song_phương hoặc thông_qua trọng_tài  mà thường là đặc_biệt riêng_tư   theo ông salvatore_scanio  một luật_sư ở washington  dc_ông nói ông đã tư_vấn cho một vụ tranh_chấp liên_quan đến nhiều triệu đô la bị đánh_cắp và gửi điện chuyển tiền swift gian_lận tương_tự như vụ tấn_công ngân_hàng bda 
+40,ông từ_chối nêu tên các bên hoặc cung_cấp các thông_tin cụ_thể khác 
+41,trên lý_thuyết  swift có_thể yêu_cầu các khách_hàng của mình  chủ_yếu là các ngân_hàng  thông_báo cho họ về bất_kỳ cuộc tấn_công nào 
+42,song một quy_định như vậy phải có sự đồng_ý của hội_đồng giám_đốc  mà thành_viên hội_đồng này chủ_yếu là các quan_chức cấp cao của các ngân_hàng phương tây lớn nhất  những người chắc không chấp_thuận một chính_sách như_vậy  theo ông lieven_lambrecht  cựu giám_đốc nguồn nhân_lực swift nói 
+43,cãi nhau về trách_nhiệm tuần này  ngân_hàng việt_nam là tpbank cho biết tài_khoản swift của họ cũng bị sử_dụng trong một nỗ_lực tấn_công mạng hồi năm_ngoái 
+44,cuộc tấn_công này đã thất_bại nhưng đó là một dấu_hiệu khác cho thấy tội_phạm mạng đang gia_tăng nhắm vào mạng điện chuyển tiền toàn_cầu 
+45,trong vụ ecuador  wells_fargo phủ_nhận bất_kỳ trách_nhiệm nào đối_với những giao_dịch gian_lận từ tài_khoản của bda 
+46,wells fargo trong một tài_liệu toà_án nói rằng họ không xác_nhận tính xác_thực của yêu_cầu chuyển tiền của bda bởi chúng đến qua swift  mà wells gọi là  một trong những hệ_thống được sử_dụng rộng_rãi nhất và an_toàn nhất  để chuyển tiền 
+47,bda đang tìm_kiếm khả_năng đòi lại tiền và tiền lãi 
+48,còn wells_fargo đang cố rũ trách_nhiệm 
+49,ngân_hàng citibank trụ_sở ở new_york cũng đã chuyển 18 triệu usd theo các điện chuyển tiền lừa_đảo từ tài_khoản swift của bda  theo tài_liệu vụ kiện của bda với ngân_hàng wells_fargo 
+50,bda cho biết citibank đã hoàn_lại 18 triệu usd cho bda 
+51,nhưng citibank từ_chối bình_luận về vấn_đề này 
+52,về_phần mình  wells_fargo đã hoàn_lại cho bda 958700 usd trong tổng_số 1486 triệu usd họ đã chuyển cho một tài_khoản có tên jose_mariano_castillo ở wells_fargo ở los_angeles  theo tài_liệu toà_án 
+53,hiện phóng_viên reuters chưa xác_minh được sự tồn_tại của nhân_vật castillo 
+54,giải_phẫu một vụ cướp tiền ngân_hàng qua mạng theo luật_sư scanio ở washington  vụ kiện bdawells_fargo là bất_thường mà ở đó một ngân_hàng lôi ngân_hàng đối_ứng của họ ra_toà  do_đó khiến cho thông_tin chi_tiết vụ_việc bị lôi ra ánh_sáng 
+55,bda thừa_nhận trong tài_liệu nộp toà_án hồi tháng một vừa_qua rằng họ đã phải mất hơn một tuần sau điện chuyển tiền lừa_đảo đầu_tiên mới phát_hiện ra mất tiền 
+56,sau khi đoạt được đăng nhập swift từ một nhân_viên bda  các tin tặc sau đó đã  vợt  ra các điện chuyển tiền trước đó bị huỷ hoặc từ_chối còn lưu trong outbox swift của bda 
+57,sau đó chúng sửa lượng tiền và nơi nhận trên điện chuyển tiền và phát_hành lại điện chuyển tiền  theo tài_liệu toà_án vụ bda và wells_fargo 
+58,trong khi wells_fargo tuyên_bố trong tài_liệu toà_án rằng các sai_sót bảo_mật của bda là nguyên_nhân của vụ rò_rỉ này thì bda đã cáo_buộc wells có_thể dễ_dàng phát_hiện và từ_chối những giao_dịch đáng ngờ 
+59,bda nhấn_mạnh rằng các điện_thanh_toán đều được thực_hiện bên ngoài giờ làm_việc hành_chính và với số_lượng lớn bất_thường 

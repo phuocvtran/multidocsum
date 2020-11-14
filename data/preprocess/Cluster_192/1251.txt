@@ -1,0 +1,6 @@
+idx, sentence
+0,trang_sputnik của nga dẫn thông_tin từ báo the_guardian cho hay  hôm 31/5  cô merve_byuyyuksarach đã bị kết_án tù không giam_giữ 
+1,tòa kết_án cô gái 27 tuổi 14 tháng tù_treo 
+2,trong thời_gian đó  nếu có hành_vi nào được coi là tái_phạm  cô sẽ phải ngồi_tù 
+3,vụ_án liên_quan đến việc buyuksarac đăng status trong instagram năm 2014  khi ông erdogan là người đứng đầu chính_phủ 
+4,người_mẫu này đã bị bắt_giữ vì chia_sẻ một đoạn thơ châm_biếm ám_chỉ tổng_thống erdogan trên instagram hồi năm 2014 

@@ -1,0 +1,6 @@
+idx, sentence
+0,vào 15 h45  chiều nay  19/5   tại garage 93 trên đường giải_phóng  phường tân_thành  đắk_lắk đã xảy ra vụ tai_nạn lao_động thương_tâm khiến một người tử_vong 
+1,nạn_nhân là anh phạm_đức_huy  31 tuổi  trú phường khánh_xuân  tp buôn_ma_thuột  đắk_lắk 
+2,thông_tin trên báo pháp_luật tphcm cho hay  vào khoảng thời_gian trên  anh huy kéo điện để hàn xe_tải cho khách_hàng  trong lúc làm_việc không may anh huy bị điện giật bất_tỉnh 
+3,vào lúc 16 h  anh trần_hữu_trung  34 tuổi  chủ xe  ra lấy xe thì thấy anh huy nằm bất_tỉnh nên hô_hoán mọi người đưa anh huy đi cấp_cứu tại bệnh_viện đa_khoa tỉnh đắk_lắc 
+4,phía bệnh_viện xác_nhận  nạn_nhân đã tử_vong trước khi nhập_viện nên đã bàn_giao thi_thể nạn_nhân cho gia_đình để lo hậu_sự  theo báo người lao_động 

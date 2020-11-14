@@ -1,0 +1,16 @@
+idx, sentence
+0,ngày 16  công_ty sông_đà 11 đã có thông_tin chính_thức về vụ_việc phản_ánh hiện_tượng trộn đất vào bê_tông móng trụ số 01 và 02 đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định 
+1,công_ty sông_đà 11 là đơn_vị thi_công công_trình này 
+2,ông lê_văn_tuấn  tổng_giám_đốc công_ty sông_đà 11  cho biết kết_quả kiểm_tra hiện_trường cho thấy ví trị cột_số 01  02 mà báo_chí phản_ánh đang nằm trong giai_đoạn tạm dừng thi_công 
+3,tuy_nhiên  do thời_gian chờ_đợi và tập_kết nguyên_vật_liệu đã lâu  kết_cấu thép đã được lắp_đặt  đồng_thời do lo_ngại móng đào sẽ bị sụt_lở do mưa_bão có_thể lấp hết cốt_thép móng nên đội xây_lắp số 12 do ông nguyễn_văn_toán làm đội_trưởng đã tự_ý thi_công mà không được sự đồng_ý của chủ đầu_tư 
+4,đây là lỗi của đội xây_lắp và ban giám_sát công_trình 
+5,qua đánh_giá ban_đầu của trung_tâm thí_nghiệm  công_ty tư_vấn xây_dựng sông_đà  các mẫu bê_tông khoan lấy tại hiện_trường hầu_hết không đạt yêu_cầu  nhiều mẫu chỉ đạt cường_độ chịu lực là 1213 newton / mm2 
+6,trong khi đó  theo yêu_cầu  các mẫu bê_tông được khoan lấy tại hiện_trường đã qua 28 ngày tuổi phải đạt cường_độ chịu lực lớn hơn 14 newton / mm2 
+7,điều này chứng_tỏ những gì mà người dân phản_ánh là có cơ_sở 
+8,theo ông tuấn  căn_cứ kết_quả thí_nghiệm  công_ty đã quyết_định kỷ_luật chỉ_huy_trưởng công_trường đối_với ông nguyễn_văn_đương  đội_trưởng và hai cán_bộ kỹ_thuật 
+9,đồng_thời giám_đốc  phó giám chi_nhánh sông_đà 117 cũng phải nhận hình_thức cảnh_cáo 
+10,công_ty yêu_cầu các cá_nhân liên_quan đến sai_phạm phải bồi_hoàn_toàn_bộ chi_phí  thiệt_hại gây ra 
+11,toàn_bộ thiệt_hại sẽ được khấu_trừ vào tiền_lương hằng tháng của các cá_nhân này 
+12,trước đó  vào ngày 255  một_số báo phản_ánh về việc công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định đang thi_công đào đúc móng cột  có “ trụ móng làm bằng bê_tông trộn … đất ” 
+13,sau khi kiểm_tra thực_tế  tổng_công_ty truyền_tải_điện quốc_gia cho biết đoạn đường_dây này do công_ty cổ_phần sông_đà 11 thi_công 
+14,ngày 932016  ban quản_lý dự_án các công_trình điện miền bắc đã yêu_cầu công_ty cổ_phần sông_đà 11 dừng thi_công_đoạn đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định do đang trong quá_trình thực_hiện các thủ_tục để điều_chỉnh đoạn tuyến nêu trên 

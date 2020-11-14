@@ -1,0 +1,10 @@
+idx, sentence
+0,chính_quyền xã thanh_tường  huyện thanh_chương cũng cho biết  tại địa_phương vừa_mới xảy ra vụ_việc một người đàn_ông bị chém lìa ngón tay 
+1,nghi_án do liên_quan đến việc chống tiêu_cực 
+2,nạn_nhân là ông nguyễn_quang_lộc  trú cùng xóm 3  xã thanh_tường  huyện thanh_chương 
+3,trước đó  vào lúc 19 giờ ngày 24/5  ông lộc đi ra quán tạp_hóa của gia_đình  cách nhà khoảng 500 m  để mở quán bán hàng 
+4,vừa ra khỏi cổng nhà  ông gặp hai người đàn_ông đi xe_máy hỏi ông có phải là ông lộc không và bảo ông ra quán tạp_hóa để họ mua hàng 
+5,khi ông lộc vừa mở quán bán hàng  bất_ngờ một trong hai người đàn_ông này rút dao chém vào hai tay ông đang đặt trên đùi 
+6,quá bất_ngờ  ông lộc không kịp phản_ứng  ngón cái bàn_tay trái bị chém đứt lìa  rơi xuống nền nhà  ngón cái bàn tay phải bị chém đứt sâu nửa ngón 
+7,gây_án xong  hai đối_tượng nhảy lên xe_máy bỏ chạy 
+8,ông lộc được đưa đến bệnh_viện đa_khoa huyện thanh_chương cấp_cứu rồi chuyển lên bệnh_viện chấn_thương chỉnh_hình tỉnh nghệ_an 

@@ -1,0 +1,13 @@
+idx, sentence
+0,taylor swift  cô công_chúa đắt_giá của thị_trường âm_nhạc thế_giới lại chính_thức chia_tay dj nổi_tiếng calvin_harris sau 15 tháng hẹn_hò lãng_mạn 
+1,calvin harris là cuộc tình thứ 9 của taylor  sau joe_jonas  lucas_till  taylor_lautner  john_mayer  cory_monteith  jake_gyllenhaal  conor_kennedy và harry_styles 
+2,taylor_swift  calvin_harris  được đánh_giá là cặp đôi vàng của làng giải_trí nhưng đáng tiếc là  fan  của cặp_đôi này phải thừa_nhận họ đã đường ai_nấy đi 
+3,các trang thông_tin hàng_đầu nước mỹ đưa tin  dù việc hợp_tan của một cặp đôi vàng của làng giải_trí thế_giới chẳng phải điều lạ_lẫm 
+4,mọi người đều thừa_nhận taylor_swift quả đúng là tình_duyên lận_đận 
+5,trang e  news viết  có nguồn tin cho biết cặp_đôi này đã chia_tay từ tuần trước và chính dj điển_trai calvin là người chủ_động chấm_dứt mối quan_hệ   không có  chiến_tranh  nào xảy ra giữa taylor và adam  tên thật của calvin_harris   nhưng lãng_mạn thì không còn nữa 
+6,adam chính là người chấm_dứt  chuyện tình_cảm  này  
+7,trang_perez thì tỏ ra vô_cùng bất_ngờ trước thông_tin chia_tay này  khi trong một bài phỏng_vấn gần đây  taylor đã chia_sẻ mối quan_hệ của hai người là  mối quan_hệ nhiệm màu   họ mới chỉ kỷ_niệm 1 năm hẹn_hò cách đây vài tháng 
+8,trong các tác_phẩm âm_nhạc của mình  taylor thường đề_cập đến các cuộc tình đã qua của bản_thân 
+9,hờn dận  trách_móc  thù_oán  … mọi trạng_thái cảm_xúc đều có đủ trong âm_nhạc của taylor 
+10,vậy_nên   fan  của cô nàng tin rằng “ calvin_harris rồi sẽ lên thớt ” 
+11,nhưng một nguồn tin khác lại tiết_lộ   taylor đang rất buồn nhưng cả hai người họ vẫn liên_lạc với nhau  

@@ -1,0 +1,14 @@
+idx, sentence
+0,nạn_nhân là cô maria_abbasi  18 tuổi  giáo_viên ở huyện murree  đông_bắc pakistan 
+1,cô bị tấn_công hôm 295 và qua_đời hôm_qua 16 tại một bệnh_viện ở islamabad 
+2,cảnh_sát cho biết lúc bị tấn_công  maria đang ở nhà một_mình trông em_gái 5 tuổi  trong khi những người_lớn khác trong nhà đi đám_tang 
+3,tổng_cộng có 4 gã đàn_ông xông vào nhà  đánh_đập cô rồi châm lửa đốt 
+4,cô bị bỏng nặng gần_như toàn_bộ cơ_thể 
+5,gia_đình sau đó đưa cô đi bệnh_viện nhưng cô không qua khỏi 
+6,các bác_sĩ nói cô bị bỏng hơn 85  
+7, con bé bị tra_tấn dã_man  sau đó bị thiêu sống 
+8,chúng_tôi đưa nó đến bệnh_viện ở islamabad nhưng nó đã qua_đời hôm_nay vì vết_thương quá nặng   ông abdul_basit  chú của maria  nói với afp ngày 16 
+9,gia_đình maria cho biết vụ tấn_công xảy ra sau khi con_trai chủ trường_học mà cô giảng_dạy ngỏ lời cầu_hôn cô nhưng cô từ_chối 
+10,cha cô nói trong 4 kẻ tấn_công con_gái ông  có cả người chủ trường và đây là hành_động trả_thù vì danh_dự 
+11,thủ_hiến bang punjab  ông shahbaz_sharif  đã yêu_cầu điều_tra ngay_lập_tức vụ_việc và báo_cáo kết_quả lên cho ông trong vòng 2 ngày 
+12,cảnh_sát murree cho hay đến nay họ đã bắt_giữ 3 người có liên_quan vụ tấn_công maria và đang truy_nã kẻ thứ tư 

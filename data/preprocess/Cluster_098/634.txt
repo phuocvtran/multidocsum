@@ -1,0 +1,13 @@
+idx, sentence
+0,ngày 23/5  an_ninh tại sân_bay đà_nẵng được tăng_cường 
+1,hai chiếc máy_bay dự_phòng cho chuyến đi của tổng_thống mỹ obama hạ_cánh xuống sân_bay đà_nẵng được đỗ cạnh khu_vực đang xây_dựng của nhà_ga mới 
+2,hai máy_bay này gồm một chiếc c17 và một chiếc c32 
+3,máy_bay c17 là máy_bay vận_tải quân_sự của quân_đội mỹ  nó có tải_trọng là 77519 kg  chiều dài 53 m  sải_cánh 5175 m  chiều cao 168 m  theo thông_tin tư_liệu  c17 có_thể chứa được hàng_hóa như xe_tăng m1_abrams  3 xe stryker  hoặc 6 xe an_ninh bọc giáp m1117 
+4,tùy từng biên_chế mà c17 có_thể chở xe quân_sự  lính_dù  hoặc được bố_trí cáng  và giường_bệnh 
+5,chiếc c17 đang đậu tại sân_bay đà_nẵng được sử_dụng để chở các thiết_bị  xe phục_vụ đoàn như đồ_dùng  nhu_yếu_phẩm cho đoàn  xe ô_tô  xe an_ninh  xe hộ_tống  xe y_tế  những trang  thiết_bị này được sử_dụng dự_phòng khi ở 2 sân_bay nội_bài và tân_sơn_nhất có những tình_huống ngoài dự_kiến 
+6,máy_bay c32 thường được sử_dụng chở phó_tổng_thống mỹ  khi đó tên gọi của nó là air_force_two 
+7,đôi_khi nó được sử_dụng để chở các nhà lãnh_đạo khác của mỹ 
+8,năm 2014  trong chuyến công_tác của mình tại philadelphia  tổng_thống mỹ_obama đã phải chuyển sang một máy_bay c32 sau khi chuyên_cơ air_force_one của ông gặp vấn_đề kỹ_thuật 
+9,theo nguyên_tắc  bất_cứ chiếc máy nào chở tổng_thống mỹ đều gọi là air_force_one 
+10,boeing c32 là máy_bay vận_tải đa_năng  được chế_tạo trên nền_tảng boeing 757  200 
+11,kể từ năm 1998 đến nay  chỉ có 4 trong số những máy_bay này được sản_xuất 

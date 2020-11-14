@@ -1,0 +1,10 @@
+idx, sentence
+0,theo báo_cáo  cầu_ô_rô  tại ấp khai_long  xã đất_mũi  hngọc_hiển  cà_mau  có chiều dài hơn 886 m  gồm 5 nhịp  được khởi_công xây_dựng vào tháng 52013 
+1,cầu bị sập 2 nhịp hơn 15 m  vào lúc 1 giờ 25 phút ngày 58 
+2,sự_cố làm cho 2 nhịp cầu chìm xuống nước  chia cách đường về trung_tâm xã đất_mũi 
+3,ngoài 2 nhịp cầu rơi xuống nước  mố_cầu a cầu_ô_rô bị sụp_lở nền đường 15 m  có dấu_hiệu sụp_lở tiếp 10 m nữa 
+4,qua đánh_giá sơ_bộ  xác_định nguyên_nhân sụp “ nền đất yếu  sông sâu  nước chảy mạnh … ông ngô_phương_nam  phó giám_đốc ban quản_lý dự_án xây_dựng hngọc_hiển cho biết  đây là một trong gói thầu 3 cây cầu thuộc dự_án đường giao_thông về trung_tâm xã đất_mũi  do ubnd h_ngọc_hiển làm_chủ đầu_tư  có vốn xây_dựng 12 tỉ đồng 
+5,trong đó  cầu_ô_rô có vốn xây_dựng hơn 6 tỉ đồng 
+6,một diễn_biến khác  sở gtvt cà_mau yêu_cầu ubnd hngọc_hiển cung_cấp hồ_sơ dự_án cầu_ô_rô  chậm nhất vào ngày 128 để tổ kiểm_tra có cơ_sở xác_định  tìm_hiểu nguyên_nhân 
+7,trước đó  ubnd tỉnh cà_mau cũng công_văn_hỏa_tốc chỉ_đạo ubnd hngọc_hiển thực_hiện ngay biện_pháp rào_chắn nhằm đảm_bảo an_toàn cho người và chủ phương_tiện lưu_thông_qua khu_vực công_trình cầu_ô_rô 
+8,đồng_thời có phương an đảm_bảo giao_thông thông_suốt trên tuyến đáp_ứng nhu_cầu đi_lại của người_dân 

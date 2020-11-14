@@ -1,0 +1,13 @@
+idx, sentence
+0,tập 3 tình_bolero_phát_sóng tối 30/5 
+1,hoa_khôi đồng_bằng sông_cửu_long  nam_em  là gương_mặt nhỏ_tuổi nhất trong tám thí_sinh 
+2,cô tham_gia cuộc thi với mong_muốn khẳng_định việc theo_đuổi dòng nhạc trữ_tình cũng như chứng_minh cô không phải là một người đẹp hát 
+3,trong chương_trình  người đẹp chọn bài ngày_xưa hoàng_thị của nhạc_sĩ phạm_duy 
+4,với chất giọng ngọt_ngào  cách trình_diễn nhẹ_nhàng trong tà áo_dài trắng  nam_em chinh_phục giám_khảo trường vũ và thanh_hà 
+5,trong lúc hoa_khôi trình_diễn  ca_sĩ thanh_hà say_sưa hát theo 
+6,chị dành cho thí_sinh nhiều lời khen   bài_hát hay  dàn_dựng đẹp và nam_em rất giỏi khi bài hát nhiều lời vậy_mà nhớ hết  
+7,chị cũng trêu trường vũ khi thấy đồng_nghiệp ngẩn_ngơ trước hình_ảnh người đẹp diện áo_dài  mỏng_manh đi trong mưa 
+8,dù nam_em gọi trường vũ là chú và khuyên anh bỏ ý_định mà chấm thi công_tâm  trường vũ vẫn nói vui anh định sau khi cô hát xong sẽ theo cô về nhà như lời bài hát 
+9,trường vũ cũng thắc_mắc về cái tên khá lạ của nam_em 
+10,người đẹp giải_thích vì bà nội dặn mẹ cô nếu sinh con_trai thì đặt tên nguyễn_quốc_nam  con_gái là nguyễn_thị_lệ_nam 
+11,do mẹ sinh_đôi nên gọi chị_gái là nguyễn_thị_lệ_nam và cô là nguyễn_thị_lệ_nam_em 

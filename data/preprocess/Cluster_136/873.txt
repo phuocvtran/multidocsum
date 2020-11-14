@@ -1,0 +1,10 @@
+idx, sentence
+0,loris karius đã hoàn_thành buổi kiểm_tra y_tế tại merseyside vào hôm_nay và trở_thành tân_binh thứ hai cập bến anfield trước thềm mùa giải mới 
+1,số tiền liverpool phải bỏ ra để sở_hữu cựu thủ_thành u21_đức này vào khoảng 47 triệu bảng 
+2,trước đó vài tháng  trung_vệ joel_matip của schalke 04 đã gia_nhập liverpool theo dạng chuyển_nhượng tự_do 
+3,hlv juergen_klopp_muốn tạo tính cạnh_tranh với thủ_thành số_một simon_mignolet 
+4,do_đó  cựu chiến_lược gia_dortmund đã quyết_định kí hợp_đồng với karius  người có 9 trận giữ sạch lưới tại bundesliga mùa này 
+5,trả_lời trên website chính_thức của liverpool  karius vui_mừng chia_sẻ  “ thật và một cảm_giác tuyệt_vời và vô_cùng vinh_hạnh khi được thi_đấu cho một clb như liverpool 
+6,họ có bề_dày truyền_thống hào_hùng và đội_ngũ cđv nhiệt_huyết 
+7,tôi biết đến clb khi theo_dõi qua tv  từ lịch_sử đến những con_người xuất_sắc từng thi_đấu tại đây 
+8,rất nhiều thứ xuất_hiện trong đầu tôi khi nghĩ đến liverpool  ”

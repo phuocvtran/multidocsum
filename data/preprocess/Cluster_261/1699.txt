@@ -1,0 +1,12 @@
+idx, sentence
+0,câu_lạc_bộ man_city đã công_bố thương_vụ này vào chiều 26  theo giờ việt_nam  trên website chính_thức của câu_lạc_bộ 
+1,mức giá của thương_vụ này không được tiết_lộ nhưng theo bbc  man_city phải bỏ ra khoảng 20 triệu bảng để có được tiền người đức 
+2,gundogan là một cầu_thủ kĩ_thuật và đầy sáng_tạo ở khu_vực giữa sân 
+3,chắc_chắn anh sẽ đem đến cho hlv pep_guardiola thêm sự lựa_chọn ở hàng tiền_vệ 
+4,phát_biểu trên website chính_thức của man_city  gundogan cho biết  “ tôi thật hồi_hộp khi được trở_thành cầu_thủ của man_city 
+5,khi tôi biết đội bóng dành sự quan_tâm đến tôi thì tôi đã muốn đặt_chân tới đây và mọi chuyện đã diễn ra thật nhanh_chóng 
+6,tôi yêu thích quãng thời_gian ở borussia_dortmund và tôi muốn gửi lời cảm_ơn tới câu_lạc_bộ và những người hâm_mộ vì 5 năm tuyệt_vời vừa_qua ” 
+7,giám_đốc thể_thao của man_city_– txiki_begiristain đã tỏ ra rất vui_mừng với bản hợp_đồng này của the_citizens 
+8,gundogan đến với dortmund từ năm 2011 nhờ việc lọt vào tầm ngắm của hlv dortmund khi đó là jurgen_klopp 
+9,anh đã có 157 lần ra sân trong 5 mùa giải vừa_qua cho dortmund 
+10,cùng với đó  anh đã có 16 trận thi_đấu cho đội_tuyển đức và ghi được 4 bàn thắng 

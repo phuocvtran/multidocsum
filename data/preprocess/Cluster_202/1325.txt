@@ -1,0 +1,6 @@
+idx, sentence
+0,chiều 16  công_an tp bạc_liêu  bạc_liêu  tạm giữ trần_văn_trường  25 tuổi  ngụ phường 5  về hành_vi cố_ý gây thương_tích 
+1,nạn_nhân là ông nguyễn_hoàng_quân  52 tuổi  ngụ phường 5  tp bạc_liêu  làchủ tịch hội nông_dân tp bạc_liêu 
+2,khoảng 4 giờ cùng ngày  ông quân đang đi tập_thể_dục gần cầu tôn_đức_thắng  nối phường 5 với phường 1  thì thấy trường đang ngồi gục trên dốc cầu 
+3,ông ghé lại hỏi_thăm thì bất_ngờ bị trường vung dao tự chế chém xối_xả vào người khiến ông quân gục tại_chỗ 
+4,sau khi chém người  trường rời khỏi hiện_trường  ông quân được đưa đi cấp_cứu tại bv tỉnh bạc_liêu trong tình_trạng nguy_kịch 

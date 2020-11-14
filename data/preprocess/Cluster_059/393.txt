@@ -1,0 +1,10 @@
+idx, sentence
+0,hải_phòng đang là đội bóng khó đánh_bại bậc nhất ở vleague 2016 khi thầy_trò hlv trương_việt_hoàng đã thắng 8 trận  hòa 1  thua 1 và xây chắc ngôi đầu với 25 điểm 
+1,lối chơi của đội bóng này rất khó_chịu  đặc_biệt cặp tiền_đạo faganstevens cực_kỳ nguy_hiểm 
+2,vào chiều_mai  hải_phòng gặp thử_thách lớn khi làm_khách trên sân thanh_hóa gặp flc thanh_hóa 
+3,đây chính là trận đấu được chờ_đợi nhất ở vòng đấu thứ 11 này bởi nếu đội nào giành được chiến_thắng sẽ có rất nhiều cơ_hội vô_địch lượt đi vleague 2016 
+4,flc thanh_hóa đang lấy lại phong_độ cao của mình mà bằng_chứng là ở trận đấu bù vòng 3 diễn ra vào giữa tuần qua  các học_trò của hlv hoàng thanh_tùng đã giành chiến_thắng 40 trước đồng_tháp 
+5,trận thắng đó đã giúp flc thanh_hóa vươn lên xếp thứ 2 với 19 điểm 
+6,theo tìm_hiểu  để kích lệ tinh_thần cầu_thủ đội nhà  lãnh_đạo đội bóng này đã treo số tiền thưởng lên đến 1 tỷ đồng nếu flc thanh_hóa giành chiến_thắng trước hải_phòng 
+7,đây là lần đầu_tiên tại vleague có đội bóng treo số tiền thưởng lớn đến như vậy cho 1 trận thắng 
+8,thông_thường  mỗi khi giành được 3 điểm trên sân_nhà  flc thanh_hóa được thưởng 500 triệu đồng và bây_giờ họ sẽ nhận được gấp đôi nếu vượt qua được hải_phòng 

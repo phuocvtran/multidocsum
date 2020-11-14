@@ -1,0 +1,6 @@
+idx, sentence
+0,trước đó  lúc 5 giờ 52 phút ngày 36  theo quy_trình kiểm_tra đường hạ cất_cánh thường_lệ vào buổi sáng trước khi tiếp_thu máy_bay  cảng_hàng_không buôn_ma_thuột phát_hiện lớp mặt_đường bê_tông nhựa bị bong tróc khoảng 5 m2 tại vị_trí phía đầu 27 
+1,ngay sau đó  cảng_hàng_không buôn_ma_thuột đã báo_cáo sự_cố với cục hàng_không việt_nam  tcty cảng_hàng_không việt_nam và phát notam thông_báo cho các hãng hàng_không biết về sự_việc trên để điều_chỉnh lịch bay tới cảng_hàng_không buôn_ma_thuột 
+2,vị_trí hư_hỏng được xác đinh tại lý trình h0  580 m  cách ngưỡng đường chc đầu 27 là 580 m  cách tim đường chc về phía bắc 40 m   mặt đường băng bị hư_hỏng rộng 40x40 cm 
+3,đồng_thời phối_hợp với các đơn_vị liên_quan nhanh_chóng khắc_phục sự_cố 
+4,để đảm_bảo đúng kỹ_thuật  các đơn_vị chức_năng đã đào mặt đường băng rộng 2 mx2  5 mx0  1 m để tiến_hành sửa_chữa  đảm an_toàn 

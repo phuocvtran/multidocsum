@@ -1,0 +1,7 @@
+idx, sentence
+0,sau khi giới_thiệu nhóm nhạc lip_b đến với khán_giả và nhanh_chóng nhận được sự ủng_hộ  mới_đây  đông_nhi  ông cao_thắng tiếp_tục có buổi họp báo công_bố về dự_án mới để tìm_kiếm nhóm nhạc nữ với tên gọi  hello_yellow  
+1,với dự_án này  ông cao_thắng mong_muốn sẽ tìm được những nhân_tố mới_lạ  biết chơi nhạc_cụ để thành_lập một nhóm nhạc nữ theo phong_cách vừa dịu_dàng  nữ_tính  vừa dễ_thương  sinh_động 
+2,tên nhóm nhạc hello_yellow thể_hiện tinh_thần vui_tươi  trẻ_trung  năng_động 
+3,dự_án này có sự tham_gia đặc_biệt của dàn ban giám_khảo chuyên_nghiệp  ca_sĩ đông_nhi  nhạc_sĩ hồ_hoài_anh và nhạc_sĩ trẻ đỗ_hiếu 
+4,chia_sẻ với tư_cách là ban giám_khảo  ca_sĩ đông_nhi cho biết   qua cuộc thi này  tôi sẽ có nhiều cơ_hội tiếp_xúc với các thế_hệ tài_năng mới của nền âm_nhạc việt  để có_thể truyền_cảm_hứng cho các bạn gái tự_tin thực_hiện giấc mơ của mình 
+5,tôi biết con đường dẫn đến giấc mơ chắc_chắn sẽ có nhiều gập_ghềnh  nhưng khi bạn tin_tưởng vào tài_năng của mình  cùng_với sự kiên_trì bền_bỉ  bạn có_thể đi đến con đường chinh_phục giấc mơ  

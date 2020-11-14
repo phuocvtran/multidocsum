@@ -1,0 +1,13 @@
+idx, sentence
+0,trong bài phát_biểu ghi_hình trước và phát_sóng truyền_hình quốc_gia lúc15g  13 g  giờ vn   nhật_hoàng akihito đã nói rõ   tôi lo_ngại_khó hoàn_thành chức_trách là biểu_tượng của quốc_gia  
+1,đây là điều người dân nhật cũng đã bàn_tán nhiều trong thời_gian qua 
+2,nhật hoàng đã 82 tuổi và sức_khỏe không được tốt và thời_gian gần đây ông thổ_lộ mong_muốn truyền_ngôi cho thái_tử nurihito 
+3,trong phát_biểu phát qua truyền_hình  nhật_hoàng nói rằng sợ sức_khỏe không đủ để đảm_đương trọng_trách trong khi công_việc này đòi_hỏi phải toàn_tâm toàn ý 
+4,theo afp  trong phát_biểu dài khoảng 10 phút này  nhật_hoàng không đề_cập đến chữ  thoái_vị  vì hiến_pháp nhật không cho_phép người của hoàng_gia dùng cụm từ này vì nó mặc_nhiên được hiểu như sự can_thiệp vào chính_trị đất_nước 
+5,vì_lẽ đó  nhật_hoàng nhấn_mạnh   ở vị_trí hoàng_đế  dẫu_rằng ta phải tránh gây ra những bình_phẩm nhắm vào hoàng_gia nhưng ta cũng muốn nói rằng ở cương_vị cá_nhân  ta chỉ muốn nói với mọi người những gì ta cảm_nhận  
+6,đây là một đoạn video hiếm_hoi của nhật_hoàng_akihito 
+7,từ khi kế_vị năm 1989 đến nay  nhật_hoàng mới chỉ một lần phát_biểu với hình_thức này là vào tháng 32011  sau thảm_họa động_đất và sóng_thần khủng_khiếp ở nhật_bản 
+8,thông_điệp chiều nay cũng được cho là nhằm nhắn_gửi đến chính_phủ vì theo afp  chính_phủ nhật phải thực_thi các bước điều_chỉnh luật để nhật_hoàng_akihito có_thể thoái_vị vì luật hiện_tại qui_định nhật_hoàng phải trị_vì cho đến lúc băng_hà 
+9,đương_nhiên thủ_tướng shinzo_abe cũng đã nghe thấy phát_biểu này và ông cho biết  tiếp_nhận nghiêm_túc những phát_ngôn của nhật_hoàng  và sẽ trả_lời 
+10,theo nhật_báo yomiuri của nhật  chính_quyền tokyo có_thể sẽ ban_hành một điều_luật đặc_biệt cho_phép nhật_hoàng thoái_vị 
+11,hồi tháng 7 vừa_qua  đài_truyền_hình nhk và hãng tin kyodo_news dẫn nguồn tin chính_phủ nhật_bản cho biết nhật_hoàng akihito đã bày_tỏ ý_định thoái_vị và sẽ chuyển_giao ngôi_vị cho thái_tử naruhito trong vài năm tới 

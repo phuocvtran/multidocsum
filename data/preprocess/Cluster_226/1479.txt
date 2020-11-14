@@ -1,0 +1,25 @@
+idx, sentence
+0,tối_qua  các báo hong_kong đăng loạt ảnh trần_quán_hy công_khai đi chơi và ôm_ấp người_mẫu tần thư bồi trong khách_sạn 
+1,nam diễn_viên cũng nhanh_chóng xác_nhận với báo_giới rằng anh  đang rất vui  với mối quan_hệ mới này 
+2,nhiều người không khỏi bất_ngờ khi đọc tin bởi tần thư bồi đã kết_hôn với doanh_nhân triệu_lỗi từ năm 2012 
+3,sáng nay  đích_thân triệu_lỗi  đăng_đàn  chỉ trích vợ ngoại_tình một_cách trơ_trẽn 
+4,trên weibo  nhà quản_lý của tập_đoàn hoa_nghị huynh_đệ khẳng_định ông và tần thư bồi chưa hề ly_dị 
+5,triệu lỗi bày_tỏ nỗi bức_xúc và giận_dữ khi nhìn thấy loạt ảnh vợ ôm hôn trần_quán_hy 
+6,ông viết   cuộc_sống như một trò_đùa 
+7,khi xem tin_tức về vụ ngoại_tình này  tôi và mọi người đã rất sốc 
+8,trước đây tôi nghe lời các bậc tiền_bối  học cách tha_thứ  cho qua và tôn_trọng bản_thân 
+9,nhưng vì sự im_lặng này  ngày hôm_nay tôi đã phải bẽ_bàng vì bị dư_luận giễu_cợt  tôi tự hỏi vì_sao mình cần im_lặng  tại_sao lại phải tôn_trọng một người đáng khinh 
+10,vì để giữ_gìn chút tình_nghĩa mà làm tổn_thương gia_đình và bạn_bè   
+11,triệu lỗi cho hay  sau một thời_gian im_lặng giữ danh_dự  giờ ông có_thể nói_toạc ra vợ là kẻ như thế_nào   một cặp vô_đạo_đức đến_nỗi không còn thuốc chữa 
+12,tự_hỏi vì_sao chuyện ngoại_tình lại có_thể trở_thành thứ quang_minh chính đại như thế  
+13,trước những lời tố_cáo của chồng  người_mẫu tần thư bồi từ_chối đưa ra lời bình_luận 
+14,trong khi đó  trần_quán_hy công_khai thách_thức triệu_lỗi và dư_luận bằng status đăng trên weibo vào trưa nay với dòng chữ in trên áo   chúng_tôi làm điều chúng_tôi muốn  
+15,đến chiều 31/5  thư bồi cũng không_thể giữ im_lặng trước quá nhiều lời đàm_tiếu 
+16,trên weibo  cô khẳng_định  đã ký thỏa_thuận ly_hôn do luật_sư của triệu_lỗi soạn_thảo  và  không hiểu vì_sao triệu lỗi lại muốn làm tổn_thương tôi một_cách vô_trách_nhiệm như_thế  
+17,theo các nguồn tin  quán_hy đã cặp_kè với tần thư bồi từ năm_ngoái 
+18,họ từng đưa nhau đi du_lịch ở nhiều nơi 
+19,trên trang cá_nhân  quán_hy còn công_khai đăng bức ảnh thư bồi tình_tứ ngồi lên đùi anh 
+20,tài_tử  lắm tài nhiều tật  xứ cảng thơm thậm_chí đã đưa người_đẹp này về ra_mắt bố_mẹ 
+21,trong một bức hình các fan chia_sẻ vào sáng nay  thư bồi rạng_rỡ tham_dự sự_kiện khai_trương cửa_hàng thời_trang cùng bố_mẹ và chị_gái trần_quán_hy 
+22,thư bồi năm nay 25 tuổi  là người_mẫu đại_lục có tiếng trên sàn_diễn quốc_tế 
+23,cô từng diễn cho show victorias_secret năm 2012  chỉ 3 năm sau khi bước chân vào làng mẫu 

@@ -1,0 +1,16 @@
+idx, sentence
+0,theo vasep  cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqad  bộ_nnptnt  cho biết  ngày 24/5/2016  cơ_quan thẩm_quyền eu đã có văn_bản cảnh_báo tới các nước thành_viên eu  về việc cá chết bất_thường tại việt_nam và đề_nghị các nước kiểm_soát chặt_chẽ các lô hàng thủy_sản biển nhập_khẩu từ nước ta 
+1,cảnh_báo trên của eu có trích_dẫn nguồn tham_khảo từ một trang_web tổng_hợp hiện_tượng cá chết hàng_loạt tại 4 tỉnh ven biển miền trung  hà_tĩnh  quảng_bình  quảng_trị và thừa_thiênhuế  
+2,trang này cũng khẳng_định được chưa xác_định được nguyên_nhân cá chết 
+3,những thông_tin này đã gây lo_ngại cho các nhà nhập_khẩu thủy_sản tại eu về chất_lượng hải_sản xuất_khẩu 
+4,tuy_nhiên  theo vasep  các ngư_trường khai_thác chính nguyên_liệu hải_sản phục_vụ cho xuất_khẩu của việt_nam chủ_yếu gồm các tỉnh từ đà_nẵng trở vào nam_trung_bộ  bình_định  khánh_hòa  phú_yên  bình_thuận …  và các tỉnh nam_bộ  kiên_giang  cà_mau …   được khai_thác bằng các tàu công_suất lớn  đánh_bắt xa bờ 
+5,nguồn nguyên_liệu của các địa_phương này cung_cấp hầu_hết cho các doanh_nghiệp chế_biến và xuất_khẩu các mặt_hàng_hải_sản chính như cá_ngừ  cua ghẹ  surimi cá khô và cá biển khác … và nhiều doanh_nghiệp cũng đang chế_biến xuất_khẩu từ nguồn nguyên_liệu nhập_khẩu từ các nước khác 
+6,mặt_khác  trong thời_gian qua bộ_nnptnt đã chỉ_đạo khảo_sát  lấy mẫu và khẳng_định các khu_vực khai_thác xa bờ  vùng_biển xa bờ ngoài 2030 hải_lý  thuộc 4 tỉnh có hiện_tượng cá chết đều an_toàn 
+7,bộ nnptnt cũng chỉ_đạo  hướng_dẫn các địa_phương và triển_khai các biện_pháp để đảm_bảo vệ_sinh môi_trường và an_toàn thực_phẩm cho tiêu_thụ nội_địa và xuất_khẩu 
+8,các địa_phương đã tổ_chức giám_sát hoạt_động khai_thác  tổ_chức lấy mẫu sản_phẩm hải_sản cập cảng để kiểm_tra các chỉ_tiêu an_toàn thực_phẩm theo quy_định của việt_nam và tiêu_chuẩn quốc_tế 
+9,cùng đó  nafiqad đã yêu_cầu các cơ_sở chế_biến xuất_khẩu thủy_sản tuyệt_đối không thu_mua cá chết để chế_biến xuất_khẩu  chủ_động lấy mẫu giám_sát tăng_cường các chỉ_tiêu ô_nhiễm  thủy_ngân  chì  cadimi  arsen  trong các lô hải_sản nguyên_liệu 
+10,đến nay  cùng_với sự giám_sát và kiểm_tra chặt_chẽ của nafiqad  các doanh_nghiệp đã và đang nghiêm_túc thực_hiện việc kiểm_soát các chỉ_tiêu trên cũng như tăng_cường các biện_pháp truy_xuất nguồn_gốc để đảm_bảo chất_lượng sản_phẩm xuất_khẩu ổn_định 
+11,xuất_khẩu hải_sản tăng hiện việt_nam xuất_khẩu thủy_sản sang 3 thị_trường chính là eu chiếm 18   mỹ 20  và nhật_bản 16  và đang có những thị_trường tiềm_năng như trung_quốc  94   và asean  76   
+12,theo thống_kê của tổng_cục hải_quan  năm 2015  xuất_khẩu các mặt_hàng_hải_sản của việt_nam  cá_ngừ  mực  bạch_tuộc  cua ghẹ  cá khô  cá biển khác …  đạt trên 2 tỷ usd  chiếm 33  tổng_kim_ngạch xuất_khẩu thủy_sản 
+13,xuất_khẩu thủy_sản của cả nước 4 tháng đầu năm 2016 đạt trên 2 tỷ usd  tăng gần 61  so với cùng kỳ năm_ngoái  thì các mặt_hàng kể trên đã đạt gần 650 triệu usd 
+14,bên_cạnh đó  nguồn nguyên_liệu nhập_khẩu cũng đóng vai_trò quan_trọng cho các doanh_nghiệp chế_biến hải_sản  như cá_ngừ đạt  các loại cá biển  mực bạch_tuộc  cua ghẹ  còn lại là các loại nhuyễn_thể hai mảnh vỏ … việt_nam nhập_khẩu nguyên_liệu hải_sản từ 65 nước trên thế_giới  trong đó nhập_khẩu nhiều nhất từ đài_loan  ấn_độ  na_uy  nhật_bản  hàn_quốc  indonesia  chile …

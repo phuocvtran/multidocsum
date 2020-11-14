@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 31/5  tờ independent đăng thông_tin về việc hoa_hậu_thổ nhĩ_kỳ 2006  merve_buyuksara  bị kết_án 14 tháng tù_treo sau khi có những lời xúc_phạm tổng_thống recep_tayyip_erdoğan trên trang cá_nhân 
+1,trong phiên_tòa diễn ra tại istanbul  người_đẹp merve_buyuksara bị buộc phải chịu trách_nhiệm trước những vần thơ cô chia_sẻ trên instagram năm 2014  trong đó có lời_lẽ chế_nhạo tổng_thống đương_thời của thổ nhĩ kỳ 
+2,luật_sư của hoa_hậu  emre_telci  khẳng_định ông sẽ nộp đơn phản_đối bản_án và kháng_cáo lên tòa_án công_lý châu_âu 
+3,hoa_hậu merve_buyuksara là một trong hàng nghìn người chia_sẻ bài thơ ám_chỉ tổng_thống thổ nhĩ kỳ năm 2014 
+4,cô sau đó đã xóa bài viết khi được một người bạn khuyên_nhủ 
+5,cô bày_tỏ khi đó   tôi đăng lên vì thấy bài thơ khá buồn_cười 
+6,tôi không có ý_định xúc_phạm tổng_thống recep_tayyip_erdoğan  

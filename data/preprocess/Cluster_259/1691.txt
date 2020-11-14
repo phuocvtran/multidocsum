@@ -1,0 +1,15 @@
+idx, sentence
+0,như đã biết  ngày 275 vừa_qua  tiền_vệ kaka được hlv dunga triệu_tập lên đt_brazil tham_dự vck_copa_america 2016 
+1,theo đó  cựu cầu_thủ của ac_milan và real_madrid đã được gọi thay_thế cho tiền_vệ douglas_costa của bayern_munich vì dính chấn_thương đùi trái 
+2,tuy_nhiên  mới_đây tiền_vệ_sinh năm 1982 tiếp_tục bị vận đen đeo_bám 
+3,cụ_thể  kaka đã dính chấn_thương gân kheo 
+4,theo chuẩn đoán ban_đầu của các bác_sĩ  tiền_vệ tài_hoa này cần khoảng 20 ngày để bình_phục chấn_thương 
+5,khoảng thời_gian dưỡng thương  đồng_nghĩa với việc kaka sẽ chính_thức không_thể tham_dự copa_america 2016 cùng đt_brazil 
+6,thực_tế  ngay sau khi cựu cầu_thủ của ac_milan chấn_thương  hlv dunga đã gọi tiền_vệ ganso của sao paulo thay_thế 
+7,hiện_tại việc thiếu_vắng kaka không ảnh_hưởng đến sức_mạnh của đt_brazil bởi thực_tế cầu_thủ này cũng chỉ là lựa_chọn vớt_vát 
+8,ở thời_điểm hlv dunga công_bố danh_sách triệu_tập lần đầu  ông cũng đã thẳng_tay gạt_bỏ kaka 
+9,về cái tên lên thay kaka  ganso cũng khiến ban huấn_luyện đt_brazil thực_sự rất lo_lắng  bởi tiền_vệ ganso không thi_đấu cho đội_tuyển quốc_gia từ khi vào sân trong trận giao_hữu gặp đt_bosniaherzegovina năm 2012 
+10,trận cuối_cùng anh chơi cho selecao là khi vào sân từ băng ghế dự_bị gặp bosnia 
+11,ở trận giao_hữu này  brazil chiến_thắng với tỷ_số 21 
+12,trong quá_khứ  ganso từng là cái tên nổi_danh của bóng_đá brazil 
+13,anh cùng với neymar được xem là tương_lai của đt nước này nhưng sau khi neymar chuyển đến châu_âu và thăng_hoa  ganso vật_vờ ở các đội bóng trong nước 

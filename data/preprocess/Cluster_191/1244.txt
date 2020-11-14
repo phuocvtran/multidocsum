@@ -1,0 +1,3 @@
+idx, sentence
+0,theo tân hoa xã  trung_tâm_địa_chấn trung_quốc  cenc  thông_báo  ngày 31/5 đã xảy ra một trận động_đất mạnh 61 độ richter ở khu_vực ngoài khơi bờ biển đài_loan 
+1,theo cenc  động_đất xảy ra lúc 13 giờ 23 phút  theo giờ bắc_kinh   với tâm chấn được xác_định ở 2445 độ_vĩ bắc và 12241 độ_kinh_đông  / 

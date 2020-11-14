@@ -1,0 +1,14 @@
+idx, sentence
+0,các thủ_phạm đã đánh maria_abbasi  sau đó tẩm xăng vào người cô đốt cháy trước khi bỏ mặc cô đến chết  gia_đình maria kể lại 
+1,sự_việc xảy ra hôm 305 
+2,lúc đó cô đang ở nhà trông em_gái 5 tuổi  còn cả nhà đi đám_tang ở thị_trấn gần đó 
+3,khi ở đám_tang  gia_đình cô được thông_báo  maria đang cháy  
+4,ban_đầu ai cũng nghĩ đó là một tai_nạn gì đó  có_thể là đường_ống_khí_đốt nổ 
+5,sự kinh_hoàng hiện ra khi cả nhà về đêm 305 
+6,trong ngôi nhà của họ ở làng davel  ngoại_ô thị_trấn murree ở phía đông bắc pakistan  maria đang nằm trên sàn  85  cơ_thể bị bỏng 
+7,không có đường lớn nào đi qua làng 
+8,cả nhà cô phải khiêng maria đặt lên một cái ghế rồi đưa ra con đường gần nhất để đưa đi cấp_cứu 
+9,cô gái trẻ được chở tới viện nghiên_cứu y_học pakistan ở islamabad  cách đó khoảng 50 km để điều_trị  nhưng sau đó cô đã không qua khỏi 
+10,3 người đã bị bắt_giữ ở islamabad hôm_qua 16 vì liên_quan tới vụ sát_hại maria  người phát_ngôn cảnh_sát bang punjab cho biết 
+11,cảnh_sát đang ra_lệnh truy_nã với nghi_phạm thứ tư 
+12,thống_đốc punjab đã giao nhiệm_vụ cho một nhóm 3 người điều_tra về cái chết 

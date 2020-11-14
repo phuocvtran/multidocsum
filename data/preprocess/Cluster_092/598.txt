@@ -1,0 +1,12 @@
+idx, sentence
+0,nhật hoàng akihito đã có phát_biểu hiếm_hoi trong một đoạn video được công_bố chiều 88  giờ_địa_phương   trong đó bóng_gió tới chuyện rời khỏi ngai_vàng 
+1,trong bài phát_biểu trên truyền_hình  nhật_hoàng không sử_dụng từ “ thoái_vị ” nhưng nhấn_mạnh ông muốn chuyển_giao nhiệm_vụ của mình 
+2,trong thông_điệp dài 10 phút  nhật_hoàng akihito cho biết ông hy_vọng nhiệm_vụ của một nhật_hoàng như biểu_tượng quốc_gia vẫn được duy_trì đều_đặn mà không có bất_kỳ sự gián_đoạn nào 
+3,“ tôi lo_ngại rằng tôi khó có_thể thực_hiện được bổn_phận của mình như biểu_tượng của quốc_gia một_cách trọn_vẹn như tôi đã và đang làm cho đến lúc này ”  nhật_hoàng cho hay 
+4,theo hãng tin reuters  nhật_hoàng 82 tuổi đã nói về những lo_ngại của bản_thân rằng ông không_thể đảm_nhiệm công_việc này một_cách đầy_đủ nhưng tránh nói_thẳng rằng ông muốn thoái_vị 
+5,đài_nhk  nhật_bản  hồi tháng trước cho biết nhật_hoàng_akihito  người đã trải qua ca phẫu_thuật tim và điều_trị ung_thư tuyến tiền liệt  muốn thoái_vị trong một_vài năm tới  một động_thái chưa từng có trong lịch_sử nhật_bản hiện_đại 
+6,trong hiến_pháp nhật_bản  nhật_hoàng được xem là biểu_tượng của “ sự đoàn_kết của nhân_dân ” và không có quyền_lực chính_trị 
+7,do_đó  nhật_hoàng akihito khó có_thể thẳng_thừng tuyên_bố ông muốn thoái_vị 
+8,các cuộc thăm_dò_ý_kiến cho thấy phần_lớn người dân thông_cảm với mong_muốn được thoái_vị của nhật_hoàng nhưng cần phải có những thay_đổi về pháp_lý để cho phép ông làm thế 
+9,nhật hoàng akihito được cho là sẽ truyền_ngôi lại cho thái_tử naruhito  56 tuổi 
+10,phản_ứng trước động_thái trên  thủ_tướng nhật_bản_shinzo_abe cho biết chính_phủ sẽ thảo_luận nghiêm_túc những thay_đổi về pháp_lý để cho_phép nhật_hoàng được thoái_vị 

@@ -1,0 +1,12 @@
+idx, sentence
+0,ít nhất 20000 trẻ_em đang mắc_kẹt ở thành_phố fallujah  nơi đang bị quân_đội iraq bao_vây để chiếm lại từ tay nhà_nước hồi_giáo  is  
+1,vào hôm 16  tổ_chức quỹ nhi_đồng liên_hợp_quốc  unicef  cảnh_báo thành_phố fallujah mà tổ_chức phiến_quân is chiếm_giữ đang bị bao_vây bởi các lực_lượng quân_đội iraq  và dự_kiến sẽ sớm xảy ra một chiến_trận ác_liệt  vẫn còn khoảng 50000 người gồm 20000 trẻ_em  vẫn đang bị mắc_kẹt tại nơi này 
+2,đại_diện unicef cho biết  ít_nhất 20000 trẻ_em vẫn bị mắc_kẹt trong thành_phố trong điều_kiện thực_phẩm  thuốc_men và nước_sạch rất khan_hiếm 
+3,thậm_chí unicef cũng cảnh_báo trẻ_em tại fallujah có_thể phải đối_mặt với nguy_cơ bị buộc phải cầm súng chiến_đấu trong hàng_ngũ is 
+4,ngoài_ra  các tay súng is cũng sẵn_sàng bắn chết những người đàn_ông và thanh_thiếu_niên nào từ_chối không chịu cầm súng chiến_đấu cho chúng 
+5,những phụ_nữ  hoặc trẻ_em bỏ chạy khỏi thành_phố cũng bị bắn chết 
+6,hiện is hầu_như đang bị bao_vây tứ_phía sau khi quân_đội iraq đã triển_khai quân_lính  được máy_bay của lực_lượng liên_minh chống khủng_bố do mỹ đứng đầu yểm_trợ  đã phát_động chiến_dịch quân_sự nhằm lấy lại fallujah  thành_trì bị is kiểm_soát từ năm 2014 
+7,theo reuters  các lực_lượng_vũ_trang iraq với sự yểm_trợ của pháo_binh và không_quân mỹ đã phát_động cuộc tổng_tiến_công trực_diện nhằm tái chiếm lại thành_phố fallujah vào ngày 305 
+8,tuy_nhiên  các lực_lượng_vũ_trang iraq đang vấp phải sự chống_cự mạnh_mẽ từ is 
+9,được biết  tính đến ngày 16  quân_đội chính_phủ đã giải_phóng huyện nuaimiya  cách khoảng 3 km về phía nam fallujah 
+10,bước tiếp_theo của quân_đội chính_phủ iraq là tiến sâu vào trung_tâm thành_phố  phần nguy_hiểm và gay_cấn nhất của kế_hoạch tái chiếm fallujah 

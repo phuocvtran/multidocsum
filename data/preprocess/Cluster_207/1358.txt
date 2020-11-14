@@ -1,0 +1,9 @@
+idx, sentence
+0,theo một_số nhân_chứng  vào thời_gian trên khu bếp tầng 4 của nhà_hàng bốc khói nghi_ngút và bùng_phát thành ngọn lửa lớn kèm mùi khét của dây_điện cháy khiến nhân_viên nhà_hàng tháo_chạy hoảng_loạn 
+1,một_số nhân_viên còn lại dùng các bình_chữa_cháy xách tay để dập lửa nhưng không hiệu_quả 
+2,ngọn lửa lớn gặp nhanh_chóng lan xuống tầng 3 và tầng 2 của quán 
+3,nhận được tin báo  lực_lượng cảnh_sát pccc số 1 – hoàn_kiếm đã điều_động 4 xe gồm 3 xe chữa_cháy và 1 xe chở nước đến hiện_trường 
+4,lực_lượng ca phường phạm_đình_hổ  quận_hai_bà_trưng cũng có_mặt hỗ_trợ phân_luồng giao_thông  bảo_vệ tài_sản cho người dân 
+5,sau 30 phút nỗ_lực chữa_cháy ngọn lửa đã được dập_tắt hoàn_toàn 
+6,theo thông_tin ban_đầu đám cháy được xác_định xuất_phát từ trong bếp đặt trên tầng 4 của cửa_hàng 
+7,rất may  vụ hỏa_hoạn đã không gây thiệt_hại về người nhưng toàn_bộ từ tầng 3 đến tầng 4 của nhà_hàng trúc_lâm_trai bị cháy đen  lửa thiêu rụi nhiều tài_sản 

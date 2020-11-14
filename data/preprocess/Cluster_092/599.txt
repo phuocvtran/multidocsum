@@ -1,0 +1,11 @@
+idx, sentence
+0,trong bài phát_biểu 10 phút được ghi_hình từ trước  nhật_hoàng bày_tỏ lo_ngại rằng  do tuổi_tác và sức_khỏe  ông không_thể hoàn_thành trọng_trách của mình 
+1,nhật hoàng không nói_thẳng muốn thoái_vị  song ông tuyên_bố   khi tôi thấy sức_khỏe của mình ngày_càng suy_giảm  tôi lo_ngại việc hoàn_thành trọng_trách là biểu_tượng của quốc_gia của mình sẽ trở_nên khó_khăn  
+2,nhật hoàng cũng đề_xuất chỉ_định một người nhiếp_chính  có_thể thực_hiện những nghĩa_vụ mà ông không_thể hoàn_thành được 
+3,trong thời_gian gần đây  nhật_hoàng akihito đã giảm bớt việc thực_hiện các nghĩa_vụ chính_thức và người đảm_nhiệm thay ông là thái_tử naruhito  56 tuổi 
+4,tháng trước  đài_nhk của nhật đưa tin  nhật hoàng akihito muốn thoái_vị trong vài năm nữa 
+5,đây là động_thái chưa từng có trong lịch_sử hiện_đại của nhật 
+6,nhật hoàng từng phải điều_trị ung_thư tuyến_tiền_liệt và phải phẫu_thuật tim 
+7,theo hiến_pháp nhật  người đứng đầu hoàng_gia được coi là một biểu_tượng  đoàn_kết nhân_dân  và không có quyền_lực chính_trị 
+8,trước khi nhật hoàng có bài phát_biểu  nhiều người cho rằng ông sẽ tuyên_bố rõ ý_định muốn thoái_vị  ý_định có_thể được hiểu là can_thiệp vào chính_trường 
+9,trong khi đa_phần người dân nhật đều thông_cảm với mong_muốn được  về hưu  của nhật_hoàng  thì những người bảo_thủ ủng_hộ thủ_tướng abe lại phản_đối động_thái này 

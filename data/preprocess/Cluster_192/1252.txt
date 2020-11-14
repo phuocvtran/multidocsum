@@ -1,0 +1,8 @@
+idx, sentence
+0,merve buyuksarac đã bị tạm giam thời_gian ngắn vào năm 2015 sau khi chia_sẻ một bài thơ trào_phúng lên tài_khoản instagram năm 2014 
+1,bài_thơ được đặt trong nền nhạc quốc_ca thổ nhĩ kỳ và được chia_sẻ rộng_rãi trên mạng xã_hội thời_điểm đó 
+2,các công_tố_viên cho rằng nó xúc_phạm đến ông erdogan  là thủ_tướng thời_điểm đó 
+3,người đẹp này lên_tiếng bác_bỏ các cáo_buộc 
+4,trong phiên_tòa mới nhất  merve_buyuksarac bị kết_án 14 tháng tù_treo và yêu_cầu cô không được xúc_phạm ông erdogan trong 5 năm tới 
+5,khoảng 2000 người gồm người nổi_tiếng và học_sinh bị truy_tố xúc_phạm tổng_thống kể từ khi ông lên nắm quyền 
+6,các nhà hoạt_động nhân_quyền chỉ_trích thổ nhĩ kỳ đã có một bước lùi về tự_do ngôn_luận 

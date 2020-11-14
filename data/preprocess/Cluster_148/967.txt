@@ -1,0 +1,7 @@
+idx, sentence
+0,theo tin từ gia_đình xã_hội và dân_trí  sáng 27/5  đại_tá phạm_mạnh_thường  giám_đốc công_an tỉnh bắc_giang thừa ủy_quyền của chủ_tịch tỉnh đã trao số tiền 16 triệu đồng cho 8 cán_bộ  chiến_sĩ phòng cảnh_sát giao_thông bắc_giang đã từ_chối nhận hối_lộ 500000 triệu đồng để bắt hơn 5 tạ ngà_voi 
+1,theo tin từ dân_trí  vào_khoảng 22 h ngày 21/5  tổ tuần_tra kiểm_soát giao_thông của phòng cảnh_sát giao_thông công_an tỉnh bắc_giang đã phát_hiện xe ô_tô bán tải đi hướng hà_nội  lạng_sơn bks 12c044  29 có nhiều nghi_vấn 
+2,tổ công_tác do đại_úy nguyễn_hùng_cường làm tổ_trưởng cùng 07 tổ_viên đã yêu_cầu lái_xe là nguyễn_quang_huy  sinh năm 1988  trú tại xã hoàng_đồng  thành_phố lạng_sơn  tỉnh lạng_sơn  mở khoang chở hàng để kiểm_tra nhưng lái_xe trình_bày không có chìa_khoá 
+3,sau đó  tổ công_tác đưa phương_tiện và lái_xe về trụ_sở cơ_quan để kiểm_tra 
+4,dọc đường  huy gợi_ý hối_lộ tổ công_tác 500 triệu đồng để được bỏ_qua  tuy_nhiên đã bị từ_chối 
+5,tổ công_tác đã thông_báo cho phòng cảnh_sát kinh_tế và viện_kiểm_sát nhân_dân tỉnh đến phối_hợp mở khoá khoang chở hàng_hoá phát_hiện 17 bao_tải chứa 107 đoạn ngà_voi tổng trọng_lượng 5535 kg 

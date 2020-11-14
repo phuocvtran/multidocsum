@@ -1,0 +1,2 @@
+idx, sentence
+0,theo cơ_quan tố_tụng  trong quá_trình tổ_chức việc thi_hành bản_án liên_quan đến nghĩa_vụ trả nợ của bà nguyễn_thị_nhung  trú tại phường tân_lợi  tp buôn_ma_thuột  đăk_lăk đối_với 7 cá_nhân  ông ngân đã không làm đúng trách_nhiệm  nhiệm_vụ theo quy_định  dẫn đến việc tẩu_tán tài_sản thi_hành án  gây hậu_quả đặc_biệt nghiêm_trọng 

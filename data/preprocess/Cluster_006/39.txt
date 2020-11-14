@@ -1,0 +1,29 @@
+idx, sentence
+0,như tin_tức đã đưa về việc người dân phát_hiện cặp vợ_chồng chết thảm ở huyện sơn_động  tỉnh bắc_giang 
+1,đại_tá phạm_mạnh_thường  giám_đốc công_an tỉnh bắc_giang xác_nhận  việc phát_hiện hai vợ_chồng tử_vong ở huyện sơn_động là đúng 
+2,tuy_nhiên  một_số báo đưa tin  phát_hiện người chồng tử_vong bên cạnh xác vợ bị trói là không đúng 
+3,bước đầu cơ_quan công_an cho biết  hai vợ_chồng anh t quê ở triệu_sơn  thanh_hoá 
+4,anh t sinh năm 1983  còn vợ sinh năm 1985 
+5,hoàn_cảnh kinh_tế gia_đình của cặp vợ_chồng rất khó_khăn  họ cưới nhau nhiều năm nhưng không có con 
+6,gần đây  một_số đồng_nghiệp và những người xung_quanh thấy hai vợ_chồng thường_xuyên mâu_thuẫn 
+7,trước khi sự_việc đau_lòng xảy ra  hai vợ_chồng anh t có về quê thanh_hoá chơi khoảng 1 tuần và mới quay ra bắc_giang đi làm trở_lại 
+8,khoảng hơn 11 h trưa ngày 19/5  sau khi tan ca làm buổi sáng  hai vợ_chồng anh t về nhà_trọ 
+9,tuy_nhiên  đến khoảng 12 h  đồng_nghiệp trong công_ty đã thấy anh t quay trở_lại 
+10,thật không ngờ  chỉ ít phút sau  một tiếng nổ lớn vang lên  mọi người phát_hiện anh t đã tử_vong do dùng vật_liệu nổ để tự_sát 
+11,lúc này  mọi người tá_hoả đi tìm vợ anh t để thông_báo về sự_việc đau_lòng 
+12,đồng_nghiệp trong cơ_quan đã đến chỗ hai vợ_chồng anh t thuê ở để tìm chị vợ thì thấy cửa khoá bên ngoài 
+13,gọi mãi không được  khi người dân phá cửa thì phát_hiện chị vợ chết ở trong nhà 
+14,lãnh_đạo công_an tỉnh bắc_giang cho biết  đến tối cùng ngày  công_tác khám_nghiệm hiện_trường  khám_nghiệm tử_thi mới được hoàn_tất 
+15,bước đầu xác_định  có_thể do mâu_thuẫn  người chồng đã hạ_sát vợ  sau đó lo_sợ bị phát_hiện nên đã khoá cửa lại  rồi đến công_ty để tự_sát 
+16,hiện  cơ_quan công_an đang tiếp_tục điều_tra để làm rõ vụ_việc theo quy_định của pháp_luật 
+17,trước thông_tin về vụ_việc  theo kinh_nghiệm tham_gia các vụ_án hình_sự của mình  trao_đổi với pv báo người đưa tin luật_sư hà_trọng_đại – công_ty luật_the_light – đoàn luật_sư tp hà_nội cho biết  “ hiện chưa có kết_luận điều_tra vụ_án  nhưng về mặt thực_tế sẽ xảy ra những khả_năng sau  việc hai vợ_chồng anh t chết là do cả hai đều tự_sát 
+18,trong trường_hợp này nếu cơ_quan cảnh_sát điều_tra có đủ căn_cứ kết_luận cả hai vợ_chồng anh t đều tự_sát thì sẽ ra quyết_định không khởi_tố vụ_án hình_sự theo điều 107 bộ_luật tố_tụng hình_sự 2003 do không có sự_việc phạm_tội 
+19,hoặc nếu đã khởi_tố vụ_án thì sẽ đình_chỉ điều_tra theo điều 164 bộ_luật tố_tụng hình_sự 2003 
+20,trường_hợp khác có_thể xảy ra là anh t đã sát_hại vợ trước khi đến công_ty tự_sát 
+21,trường_hợp này cũng sẽ ra quyết_định không khởi_tố vụ_án hình_sự hoặc đình_chỉ điều_tra bởi  người thực_hiện hành_vi nguy_hiểm cho xã_hội đã chết   khoản 7  điều 107 bộ_luật tố_tụng hình_sự 2003 
+22,ngoài nghi_vấn rằng đây là một vụ tự_sát thì cũng không loại_trừ trường_hợp có sự tham_gia của người thứ ba thực_hiện việc phạm_tội 
+23,trong quá_trình khám_nghiệm hiện_trường cũng như quá_trình điều_tra nếu cơ_quan cảnh_sát điều_tra phát_hiện có căn_cứ  có sự tham_gia của người thứ ba thì cơ_quan cảnh_sát điều_tra vẫn ra quyết_định khởi_tố như một vụ án thông_thường 
+24,như_vậy  để kết_luận chính_xác về nguyên_nhân vụ_việc cần phải phụ_thuộc vào kết_quả khám_nghiệm tử_thi  khám_nghiệm hiện_trường cũng như việc thu_thập các chứng_cứ khác ” 
+25,cũng đưa ra nhận_định về vụ_việc luật_sư giang_văn_quyết – giám_đốc công_ty luật tnhh tôi yêu_luật  đoàn luật_sư tp hà_nội cho biết  “ như thông_tin báo_chí đưa thì tại hiện_trường cho thấy vị_trí của hai nạn_nhân là cách xa nhau 
+26,nên có_thể người vợ không phải chết do chấn_động từ vụ nổ 
+27,sau khi có kết_quả khám_nghiệm tử_thi sẽ làm rõ người vợ chết do nguyên_nhân gì  chết trước hay sau người chồng 

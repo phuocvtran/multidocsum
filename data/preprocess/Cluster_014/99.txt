@@ -1,0 +1,16 @@
+idx, sentence
+0,theo những tin_tức mới nhất trên báo vtc_news  tờ korean_times dẫn nguồn đài tiếng_nói mỹ  voa cho biết khác với các đồn đoán trước đây  cô kim_yo_jong – em_gái chủ_tịch triều_tiên kim_jong_un hiện vẫn đang trong tình_trạng độc_thân 
+1,thông_tin này được một người triều_tiên đào_tẩu sang hàn_quốc hồi năm 2015 cung_cấp 
+2,cụ_thể  tháng 9/2012  chú của nhà lãnh_đạo kim_jong_un là ông jang_song_thaek bắt_đầu lên kế_hoạch tìm_kiếm cháu_rể mình trong những thanh_niên ưu_tú nhất của triều_tiên 
+3,“ ông ấy đã chọn 30 sinh_viên tốt_nghiệp đại_học và các sinh_viên theo học chương_trình thạc_sĩ từng phục_vụ trong quân_đội triều_tiên 
+4,họ đều là thành_viên của đảng lao_động  có_vẻ ngoại_hình nổi_bật và đều cao hơn 1 m75 ”  người đào_tẩu này tiết_lộ 
+5,tuy_nhiên  kế_hoạch ken rể hoành_tráng này bị hoãn lại vô_thời_hạn sau khi ông jang_song_thaek bị xử_tử hồi tháng 12/2013 với cáo_buộc  âm_mưu lật_đổ chính_phủ và tham_vọng thâu_tóm quyền_lực  
+6,trước đó  truyền_thông hàn_quốc từng đưa tin về việc em_gái ông kim_jong_un đã kết_hôn với con_trai của một trong những quan_chức quyền_lực nhất triều_tiên  con_trai của bí_thư đảng lao_động triều_tiên choe_ryong_hae 
+7,mặc_dù vậy theo nguồn tin của voa  con_trai của ông choe đã qua_đời trong một tai_nạn xe_hơi vào tháng 5/2013 
+8,một thông_tin khác lại khẳng_định cô kim_yo_jong đã kết_hôn với một quan_chức trẻ trong đảng  cũng có người nói em_gái của người đứng đầu chính_quyền bình_nhưỡng đã cưới một nhà_khoa_học xuất_thân từ một gia_đình bình_thường ở triều_tiên 
+9,thậm_chí hồi tháng 4/2015  cơ_quan tình_báo hàn_quốc loan tin cô kim_yo_jong có_thể đã sinh con trong tháng 5/2015 và chồng của cô có_thể là cựu sinh_viên đại_học kim nhật_thành  nơi cô này từng học  theo thông_tin trên báo thanh_niên 
+10,theo yonhap  mới_đây  đầu_bếp kenji_fujimoto  người đã làm_việc với cố lãnh_đạo kim_jong_il cũng khẳng_định cô kim_yo_jong chưa kết_hôn 
+11,thông_tin này được ông fujimoto tiết_lộ trong cuốn hồi_ký được viết sau khi tới thăm bình nhưỡng từ ngày 12 – 23/4/2016 
+12,ông kenji_fujimoto nói rằng trong chuyến thăm đó ông đã ăn tối với cả lãnh_đạo kim_jong_un  cô kim_yo_jong và ông choe_ryong_hae 
+13,ông kenji_fujimoto là một trong số_ít người nước_ngoài chứng_kiến nhà lãnh_đạo kim_jong_un lớn lên  vì ông đã làm đầu_bếp cho cố lãnh_đạo kim_jong_il trong suốt 13 năm  với món chính được yêu_thích là sushi 
+14,trước các nguồn tin thất_thiệt  đến nay triều_tiên chưa đưa ra bất_kỳ thông_tin chính_thức nào liên_quan đến tình_trạng hôn_nhân của cô kim_yo_jong 

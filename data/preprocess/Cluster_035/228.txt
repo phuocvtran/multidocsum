@@ -1,0 +1,2 @@
+idx, sentence
+0,những đơn_vị này chưa thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận hoạt_động bán hàng đa cấp với cơ_quan có thẩm_quyền và đã bị các cơ_quan_chức_năng phát_hiện và xử_lý 

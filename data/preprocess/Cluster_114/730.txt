@@ -1,0 +1,7 @@
+idx, sentence
+0,tờ dân_trí đã cập_nhật tin_tức mới nhất về tình_hình nợ_nần của đại_gia thủy_sản tòng_thiên_mã  theo đó vào ngày 23/5 vừa_qua tổ công_tác đặc_biệt do ubnd tp cần_thơ thành_lập nhằm giải_quyết vụ_việc ct_tnhh xuất_nhập_khẩu thủy_sản thiên_mã của ông tòng_thiên_mã đã có báo_cáo ban_đầu gửi về ubnd thành_phố 
+1,cụ_thể  tính đến ngày 20/5  công_ty của đại_gia tòng vẫn còn nợ khá nhiều ngân_hàng  khách bán cá … tổng_số tiền nợ lên tới hơn 891 tỷ đồng  trong đó có 516 tỷ đồng là vốn của chi_nhánh hai ngân_hàng ở hậu_giang  số tiền lãi của món nợ này đã lên tới 383 tỷ đồng 
+2,phần còn lại là số nợ những người dân bán cá_tra  các đơn_vị cung_cấp vật_tư  … tuy số nợ lớn như vậy nhưng hiện_tại trong tay công_ty chỉ có tổng giá_trị tài_sản vào_khoảng 110 tỷ đồng và đã bị cầm_cố thế_chấp 
+3,để giúp công_ty giải_quyết vấn_đề nợ_nần này  một ngân_hàng đã đồng_ý giải_ngân 350 triệu đồng để công_ty giải_quyết tiền_lương công_nhân 
+4,bên_cạnh đó  ubnd tpcần_thơ cũng đồng_ý cho một ngân_hàng khác giải_ngân 27000 usd cho bà trần_thị_kim_yến  vợ của ông tòng_thiên_mã  cũng để trả lương cho 400 công_nhân 
+5,đến thời_điểm hiện_nay  nhà_máy của công_ty thiên_mã vẫn đang hoạt_động gia_công cho một đơn_vị khác tại khu_công_nghiệp trà_nóc và vẫn không còn cách nào khác để cứu_vãn tình_hình sản_xuất kinh_doanh của công_ty 

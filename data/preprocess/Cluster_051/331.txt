@@ -1,0 +1,25 @@
+idx, sentence
+0,anh_em ca_sĩ quang_hà vừa nộp đơn đến phòng cảnh_sát hình_sự  công_an tphcm và một_số cơ_quan công_an liên_quan tố_cáo việc bị 2 đối_tượng lừa_đảo sang_tên căn_hộ có giá_trị 4 tỷ đồng 
+1,người đứng đơn tố_cáo là ông nguyễn_phi_cường  tức_quang_cường  là anh_trai cũng chính là quản_lý của ca_sĩ quang_hà  
+2,ông quang_cường chính là người đứng_tên căn_hộ ở lô b chung_cư 43d  đường hồ_văn_huê  p 9  qphú_nhuận  là tài_sản bị cho là lừa_đảo 
+3,quang hà và quang_cường đều xác_nhận  đó là tài_sản của quang_hà nhưng vì nam ca_sĩ nhiều việc nên giao cho anh ruột đứng_tên về mặt pháp_lý 
+4,theo đó 2 người bị tố_cáo có hành_vi lừa_đảo trong việc mua_bán căn_hộ là trần_thanh_h và trần_quốc_v  cùng quê_quán nam_định 
+5,nam ca_sĩ quang_hà cho biết  anh quen_biết với 2 người nói trên tại hà_nội  lúc đầu là người hâm_mộ sau đó là bạn_bè  anh_em thân_thiết  thường_xuyên đi chơi  ăn_uống với nhau 
+6,sau đó v và h thường_xuyên liên_lạc khi anh_em quang_cường  quang_hà vào sài_gòn  có một_số lần còn đến nhà của anh_em nam ca_sĩ này ngủ lại 
+7,trong đơn tố_cáo  anh_trai của quang_hà trình_bày  gần đây anh_em của ông có nhu_cầu bán căn_hộ tại lô b chung_cư 43d  đường hồ_văn_huê  phường 9  quận phú_nhuận nên h liên_tục nhắn_tin gọi điện cho ông từ ngày 11 đến ngày 17/5 để hỏi mua căn nhà 
+8,h và v cũng nhiều lần gọi điện thương_lượng giá_cả căn nhà với ca_sĩ quang_hà 
+9,được biết ban_đầu quang_hà_rao bán căn_hộ với giá 41 tỷ đồng 
+10,nhưng qua thương_lượng đồng_ý bán cho h với giá 39 tỷ đồng 
+11,về pháp_lý ông quang_cường đứng_tên căn_hộ nên quang_hà để cho anh_trai làm các thủ_tục 
+12,phía h cũng nói cho v đứng ra làm thủ_tục mua_bán 
+13,theo thương_lượng 2 bên  giá_trị căn_hộ thể_hiện trên hợp_đồng chỉ 1 tỷ đồng  nhằm có_thể “ lách thuế ” 
+14,theo quang_hà kể  đêm 17/5 h có mang 1 va ly đến nhà mới của anh tại đường phan_huy_ích  p 14  qgò_vấp  nói là bên trong chứa 200 ngàn usd  chờ khi làm các thủ_tục xong sẽ giao đủ bằng tiền_mặt 
+15,sáng 18/5  ông quang cường đi cùng h đến phòng công_chứng đóng trên địa_bàn p 5  q 3 
+16,khi đi h có để valy mà h cho rằng chứa tiền_mặt tại nhà mới của quang_hà  nói khi chứng giấy_tờ xong  ra về sẽ thanh_toán 
+17,khi đến nơi ông quang_cường thấy v đã chờ sẵn ở đây 
+18,theo ông quang_cường kể  sau khi công_chứng  hoàn_tất thủ_tục  h giao toàn_bộ giấy_tờ cho v giữ 
+19,đồng_thời h kéo ông quang_cường đi giải_quyết công_việc riêng của h tại một địa_điểm ở q 7  h kêu ông quang_cường chờ để đi mua nước nhưng không trở_lại  gọi điện  nhắn_tin cũng không có kết_quả 
+20,nghĩ rằng mình bị lừa  ông quang_cường quay về phòng công_chứng nói trên trình_báo 
+21,trong chiều cùng ngày  anh_em của ca_sĩ quang_hà đến công_an p 14  qgò_vấp trình_báo_vụ_việc 
+22,vì không dám kiểm_tra valy mà h để lại nhà nên anh_em quang_hà nhờ công_an làm rõ và cuối_cùng chỉ thấy chứa toàn giấy_báo bên trong 
+23,hiện căn_hộ liên_quan đến vụ_việc  anh_em quang_hà đã khóa lại  đồng_thời báo bảo_vệ chung_cư trông_coi dùm 

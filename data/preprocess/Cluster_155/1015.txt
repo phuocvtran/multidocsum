@@ -1,0 +1,14 @@
+idx, sentence
+0,minh_quang_pham  33 tuổi  làm_việc cho mạng_lưới khủng_bố alqaeda tại tại bán_đảo arab  aqap  
+1,y bị kết_án tại một tòa_án ở manhattan  new_york  sau khi nhận tội vài tháng trước 
+2,theo cáo_trạng  y làm thiết_kế đồ_họa cho tạp_chí inspire của alqaeda 
+3,phạm còn có tên là mohammed_amin 
+4,pham chủ_yếu sống ở anh và tới yemen vào tháng 122010 để được alqaeda huấn_luyện quân_sự 
+5,các công_tố_viên cho hay y đã để lại người vợ mang thai tại anh để tới yemen sống nhiều tháng liền 
+6,tháng 72011  y trở_lại anh với chỉ_thị của aqap là tấn_công dân thường bay đến sân_bay heathrow từ mỹ hoặc israel 
+7,pham bị dẫn_độ tới mỹ vào tháng 22014 và hồi tháng 1 năm nay  y thừa_nhận các tội hỗ_trợ vật_chất cho aqap  được nhóm này huấn_luyện quân_sự và sử_dụng súng_máy 
+8,tuy_nhiên  pham phủ_nhận tội thực_hiện vụ tấn_công sân_bay và trên thực_tế  không có vụ tấn_công nào xảy ra 
+9,theo các công_tố_viên  “ sư_phụ ” của pham là anwar alawlaki  một thủ_lĩnh aqap gốc mỹ bị tiêu_diệt trong cuộc tấn_công bằng máy_bay không người lái của mỹ hồi năm 2011 
+10,awlaki đã hướng_dẫn pham chế_tạo một quả bom và pham  giấu trong ba_lô hòng thực_hiện tấn_công sân_bay ở london 
+11,tuy_nhiên  pham bị bắt tại heathrow 
+12,thẩm_phán tòa_án trên cho biết đã áp_dụng bản_án dưới mức tối_đa 50 năm tù giam vì pham đã lên_án alqaeda  bày_tỏ sự ăn_năn và nhận tội 

@@ -1,0 +1,19 @@
+idx, sentence
+0,nam diễn_viên paul_blackthorne  được khán_giả việt_nam biết tới qua phim_truyền_hình nhiều tập_arrow  mũi_tên xanh   24  24 giờ   er và lagaan đến hà_nội trong hai tuần kể từ ngày 19/5 
+1,sau sự_kiện hôm_qua  20/5   paul_blackthorne sẽ tham_gia vào nhiều hoạt_động khác như gặp_gỡ các lãnh_đạo doanh_nghiệp việt_nam  triển_lãm bảo_vệ tê_giác  giao_lưu về chủ_đề tê_giác với học_sinh và tham_quan một_số trung_tâm cứu_hộ động_vật hoang_dã 
+2,đặc_biệt  đồng_hành cùng paul trong chiến_dịch này còn có hai đại_sứ tê_giác của env là nghệ_sĩ xuân_bắc và ca_sĩ hồng_nhung 
+3,“ tôi chọn việt_nam là điểm dừng chân bởi_lẽ việt_nam là một điểm_nóng về tiêu_thụ sừng tê_giác  ” paul_blackthorne chia_sẻ 
+4,“ loài tê_giác đang đứng bên bờ vực tuyệt_chủng bởi lòng_tham và sự thiếu hiểu_biết của nhiều người 
+5,điều đó làm tôi rất buồn  thất_vọng  và quyết_tâm phải làm điều gì đó  ” việt_nam là một trong những thị_trường tiêu_thụ sừng tê_giác lớn nhất thế_giới 
+6,niềm tin mù_quáng vào việc sử_dụng sừng tê_giác để chữa bệnh và thể_hiện đẳng_cấp đã khiến nhu_cầu tiêu_thụ ngày_một gia_tăng 
+7,năm 2010  cá_thể tê_giác java cuối_cùng tại việt_nam đã bị giết để lấy sừng 
+8,nạn thảm_sát tê_giác đã lên đến đỉnh_điểm  ước_tính cứ mỗi ngày lại có ba cá_thể tê_giác bị giết_hại ở nam_phi 
+9,tổng_số tê_giác bị giết_hại ở nam_phi trong năm 2014 là 1215 cá_thể và năm 2015 là 1175 cá_thể 
+10,theo tổ_chức bảo_tồn thiên_nhiên quốc_tế  iucn   nếu tình_trạng săn_bắn tê_giác tiếp_tục diễn ra như hiện_nay thì tê_giác có_thể sẽ bị tuyệt_chủng vào năm 2026  tức_là chỉ 10 năm nữa 
+11,bà susie_offordwoolley  phó_giám_đốc tổ_chức sri chia_sẻ  “ chúng_tôi rất mừng khi thấy paul và nhiều người nổi_tiếng khác cùng nỗ_lực tham_gia bảo_vệ tê_giác 
+12,nếu chúng_ta cùng chung sức  chúng_ta có_thể mang lại một tương_lai tốt_đẹp hơn cho loài tê_giác 
+13,đã quá muộn đối_với cá_thể tê_giác cuối_cùng của việt_nam nhưng nếu chúng_ta hành_động ngay  vẫn còn thời_gian để cứu lấy các loài tê_giác trên thế_giới  ” chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác  ” đã được nam diễn_viên phát_động cùng cầu_thủ đội_tuyển arsenal_aaron_ramsey từ tháng 4/2016 bằng việc quảng_bá và bán áo_phông in hình_vẽ tê_giác gắn với phác_họa bản_đồ việt_nam của họa_sĩ nổi_tiếng rob_prior 
+14,rất nhiều người nổi_tiếng cũng đã tham_gia chiến_dịch này  trong đó có các cầu_thủ mesut_ozil  mathieu_flamini  calum_chambers và các diễn_viên hollywood như stephen_amell  matt_smith  john_barrowman  alex_kingston  aamir_khan  emily_bett_rickards và david_ramsey 
+15,bà vũ_thị_quyên  giám_đốc env cho biết  “ để đạt được mục_tiêu chấm_dứt nhu_cầu tiêu_thụ sừng tê_giác ở việt_nam  chúng_ta cần phải tiếp_cận qua hai hướng 
+16,một mặt  cần tăng_cường các hoạt_động thực_thi pháp_luật  đấu_tranh với nạn buôn_bán  vận_chuyển trái_phép sừng tê_giác từ châu_phi vào việt_nam 
+17,mặt_khác  cần phải triển_khai các hoạt_động nâng cao nhận_thức cho cộng_đồng nhằm xoá_bỏ các quan_niệm sai_lầm và những lời đồn_thổi vô_căn_cứ về tác_dụng chữa bệnh của sừng tê_giác  ”

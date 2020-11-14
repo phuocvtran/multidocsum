@@ -1,0 +1,10 @@
+idx, sentence
+0,thông_tin ban_đầu từ cơ_quan_chức_năng  căn nhà số 123 đường lê_thanh_nghị  tp đà_nẵng  đang thi_công xây_dựng và có thuê công_nhân về làm 
+1,khoảng 8 giờ sáng  một người công_nhân đứng trên giàn_giáo để thi_công mặt ngoài ngôi nhà đã bị mất thăng_bằng và rơi xuống 
+2,những người có_mặt tại hiện_trường cho biết  trong quá_trình dây tời kéo vật_liệu xây_dựng lên bị tuột khiến người công_nhân bị mất thăng_bằng và rơi xuống phía dưới 
+3,ngay sau khi xảy ra sự viêc  công_nhân và người dân sống xung_quanh đã đưa nạn_nhân đi cấp_cứu  nhưng đã không qua khỏi 
+4,sự_việc nhanh_chóng được thông_báo tới công_an phường hòa_cường_bắc  quận hải_châu  đà_nẵng  
+5,lực_lượng chức_năng có_mặt phong_tỏa hiện_trường và tìm_hiểu nguyên_nhân sự_việc 
+6,danh_tính nạn_nhân được xác_định tên tiến  44 tuổi  trú tại phường an_hải_tây  quận sơn_trà  tp đà_nẵng   đang làm_thuê cho một chủ_thầu dự_án 
+7,tại hiện_trường vụ_việc  công_trình đang xây đến tầng 3  phía dưới vật_liệu xây_dựng để ngổn_ngang 
+8,phía ngoài ngôi nhà không được rào_chắn an_toàn 

@@ -1,0 +1,7 @@
+idx, sentence
+0,marcus rashford mới được hlv roy_hodgson cho ra_mắt tuyển anh trong trận giao_hữu với úc cách đây 3 ngày  285  
+1,và ngay ở trận đầu_tiên  anh đã để lại dấu_ấn với một bàn thắng đẹp_mắt  trở_thành cầu_thủ trẻ nhất trong lịch_sử tuyển anh ghi_bàn trong trận ra_mắt 
+2,với màn trình_diễn ấn_tượng đó  rashford đã được hlv dành cho một suất trong thành_phần tuyển anh dự euro 2016 
+3,trái_ngược với rashford  ngôi_sao mới nổi trong màu áo leicester_city_danny_drinkwater lại không được gọi 
+4,drinkwater vừa có một mùa giải rất hay cùng leicester  nhưng do chưa có nhiều kinh_nghiệm thi_đấu quốc_tế nên đã không được triệu_tập 
+5,cùng bị loại với drinkwater còn có tiền_vệ andros_townsend của newcastle 

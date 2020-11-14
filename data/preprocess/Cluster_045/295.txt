@@ -1,0 +1,8 @@
+idx, sentence
+0,trao_đổi với pv_báo giao_thông  ông lê_hồng_thắng  giám_đốc cảng thủy nội_địa quảng_ninh cho biết  chiều 19/5  đơn_vị đã ra quyết_định đình_chỉ hoạt_động 6 tháng đối_với đội tàu du_lịch hồng_long  gồm 6 tàu thuộc quản_lý của doanh_nghiệp huyền_việt 
+1,việc đình_chỉ có hiệu_lực kể từ ngày 19/5 
+2,quyết_định trên căn_cứ vào kết_quả kiểm_tra  xác_minh những sai_phạm của tàu hồng_long_qn_– 7038 liên_quan đến việc lừa_đảo  “ chặt chém ” đoàn khách du_lịch vào ngày 15/5 trên vịnh hạ_long 
+3,trước đó  theo phản_ánh của du_khách  ngày 15/5  tàu du_lịch hồng_long_qn  7038 của doanh_nghiệp tư_nhân huyền_việt chở đoàn khách gồm 5 người_lớn và 3 trẻ_em  trong đó có một gia_đình việt_kiều  tham_quan vịnh hạ_long với giá_cả thỏa_thuận trước 
+4,tuy_nhiên  tàu này kết_thúc chuyến đi sớm trước 2 tiếng đồng_hồ so với hợp_đồng với lý_do  có mưa dông nên bị gọi về 
+5,không_những vậy  đoàn khách này “ tố ” đã bị tàu du_lịch ép_giá  phải thanh_toán bữa ăn với giá gần 8 triệu đồng và cộng thêm 600000 đồng_tiền dịch_vụ  nhận được thông_tin trên  ubnd tphạ_long đã chỉ_đạo các đơn_vị chức_năng vào_cuộc kiểm_tra  xác_minh vụ_việc 
+6,kết_quả kiểm_tra bước_đầu xác_định  tàu hồng_long_qn_– 7038 đã có hành_vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 

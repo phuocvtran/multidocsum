@@ -1,0 +1,12 @@
+idx, sentence
+0,ít_nhất 20 người thiệt_mạng  trong đó 2 quan_chức quân_đội 
+1,trong số những người bị_thương có 17 quân_nhân thuộc cơ_quan an_ninh quốc_phòng  dsc   một_số người được cho là bị_thương nặng  báo the_indian_express dẫn thông_tin từ một sĩ_quan_quân_đội ấn_độ cho biết 
+2,ngọn lửa bùng phát lúc 1 giờ 30 phút  giờ_địa_phương  hôm 315 tại kho vũ_khí gần nagpur  bang maharashtra 
+3,đây là kho đạn_dược lớn nhất ấn_độ và lớn thứ hai ở châu_ám theo đài_ndtv 
+4,hình_ảnh trên truyền_hình cho thấy đám cháy sáng_rực cả vùng_trời tối phía trên kho đạn_dược này 
+5,các loại vũ_khí được lưu_trữ và phân_phối từ kho này gồm ak47 và tên lửa brahmos 
+6,các nguồn tin nói với kênh ndtv rằng những người bị_thương và thiệt_mạng khi họ chạy về phía đám cháy nhằm ngăn những vũ_khí quan_trọng nổ tung 
+7,đến 11 giờ  giờ_địa_phương   thủ_hiến bang maharashtra_devendra_fadnavis cho biết ngọn lửa đã bị khống_chế 
+8,ông ramesh_barde  một nhân_viên cứu_hỏa  cho biết lực_lượng này đã sử_dụng 10 xe chữa_cháy làm_việc thâu đêm để dập_tắt đám cháy 
+9,thủ_tướng ấn_độ narendra_modi cho biết bộ_trưởng quốc_phòng sẽ đến hiện_trường trong ngày 315 
+10,phát_ngôn_viên bộ_quốc_phòng nitin_wakanker cũng chỉ xác_nhận có đám cháy tại kho đạn_dược và sẽ công_bố chi_tiết sau khi họ đến hiện_trường 

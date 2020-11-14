@@ -1,0 +1,8 @@
+idx, sentence
+0,vụ_việc xảy ra ở xã đông_tiến  yên_phong  bắc_ninh   vào_khoảng 17 h ngày 2/6 
+1,trao_đổi với zing  vn  lãnh_đạo ubnd xã đông_tiến cho biết thời_điểm trên anh nguyễn_văn_thủy  37 tuổi  trú tại địa_phương  cùng 4 thanh_thiếu_niên sửa_chữa cầu dẫn ra lồng bè cá nuôi trên sông_cầu 
+2,trong quá_trình sửa  cả năm người bị điện giật 
+3,một_số người phát_hiện  tìm cách cứu nhưng bất_thành 
+4,nhận được thông_báo  ubnd xã huy_động toàn_bộ lực_lượng công_an  dân_quân tự_vệ xuống hiện_trường ứng_cứu nhưng anh thủy và bốn thanh_thiếu_niên đều đã tử_vong tại_chỗ 
+5,nguyên_nhân sơ_bộ là do điện hở nhiễm xuống nước giật khiến anh thủy và bốn thanh_thiếu_niên họ_hàng tử_vong 
+6,vị chủ_tịch xã cũng cho biết  sau khi khám_nghiệm hiện_trường  thi_thể các nạn_nhân đã được bàn_giao về gia_đình an_táng ngay trong đêm 

@@ -1,0 +1,5 @@
+idx, sentence
+0,ngày 305  phó chủ_tịch ubnd tphcm lê_văn_khoa đã ký văn_bản về triển_khai thủ_tục di_dời khẩn_cấp các hộ còn cư_ngụ tại chung_cư số 727 trần_hưng_đạo 
+1,theo đó  ubnd tp giao ubnd q 5 khẩn_trương rà_soát phương_án hỗ_trợ  bồi_thường  tái_định_cư  đảm_bảo hợp_tình  hợp_lý và khả_thi để làm cơ_sở vận_động thuyết_phục các hộ dân 
+2,nếu đã thuyết_phục vận_động mà các hộ vẫn không chịu di_dời thì sẽ cưỡng_chế theo quy_định 
+3,đồng_thời  chủ_động phối_hợp các cơ_quan liên_quan tiếp_tục theo_dõi  cập_nhật tình_trạng chất_lượng công_trình chung_cư này để xử_lý ngay khi có hiện_tượng  nguy_cơ sập đổ nhằm đảm_bảo an_toàn cao nhất cho người dân  trước đó  trong buổi làm_việc với q 5 sáng 205  bí_thư thành_ủy đinh_la_thăng đã đưa ra một_số bài báo viết về chung_cư 727 trần_hưng_đạo  một chung_cư xuống_cấp trầm_trọng nhưng chính_quyền không đạt được thỏa_thuận với dân để di_dời 

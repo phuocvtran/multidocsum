@@ -1,0 +1,13 @@
+idx, sentence
+0,với vị_trí đắc_địa  thiết_kế nội_thất đẳng_cấp  dự_án đã thu_hút sự quan_tâm lớn của khách_hàng 
+1,phumy_complex cung_cấp cho thị_trường phía tây thủ_đô 287 căn_hộ hạng sang với nhiều tiện_ích đa_dạng ngay tại tòa căn_hộ và trong tổng_thể chung khu đô_thị đoàn_ngoại_giao 
+2,tổng diện_tích xây_dựng căn_hộ là 40260 m2 với 35 tầng chức_năng hiện_đại 
+3,tầng 1 dành cho khu_vực lễ_tân  phòng sinh_hoạt cộng_đồng và các shop thời_trang với những thương_hiệu nổi_tiếng 
+4,tầng 2 đến tầng 5 là khu văn_phòng hạng a đáp_ứng nhu_cầu thuê chất_lượng cao của các cơ_quan  tổ_chức nước_ngoài cũng như các doanh_nghiệp hàng_đầu việt_nam 
+5,tầng 6 đến 35 là khu căn_hộ cao_cấp với diện_tích linh_hoạt từ 87 m2 – 211 m2 
+6,ngoài_ra  cư_dân cũng có_thể tận_hưởng các dịch_vụ đẳng_cấp năm sao tại tầng dịch_vụ quy_hoạch riêng_biệt trong tòa nhà với độ cao 72 m 
+7,tại đây  mỗi ngày sống là một ngày nghỉ_dưỡng trải_nghiệm không_gian sống lý_tưởng tiện_ích tiêu_chuẩn quốc_tế với phòng tập_gym  bể_bơi  bar  cofe 
+8,dự_án tọa_lạc tại lô_n01_– t4  khu đô_thị đoàn_ngoại_giao  phường_xuân_tảo  quận bắc từ_liêm  hà_nội  liền kề siêu đô_thị starlake 
+9,nơi đây đang được quy_hoạch trở_thành trung_tâm kinh_tế  hành_chính và văn_hóa mới của cả nước với những công_trình ngoạn_mục như tháp truyền_hình cao nhất thế_giới  nhà_hát thăng_long  bảo_tàng lịch_sử quốc_gia … phumy_complex có 03 tầng_hầm với tổng diện_tích 9240 m2 bố_trí cho khu_vực để xe của khách_hàng  toàn_bộ tòa nhà được bố_trí 05 thang_máy chở khách và 01 thang hàng đảm_bảo di_chuyển thoải_mái cho cư_dân 
+10,hệ_thống quản_lý  an_ninh phục_vụ 24/24 giúp cư_dân tận_hưởng môi_trường sống an_toàn  tiện_lợi 
+11,khách_hàng khi mua căn_hộ phumy_complex cũng đồng_nghĩa sẽ được trải_nghiệm những tiện_ích gộp của quần_thể ngoại_giao_đoàn như đại trung_tâm thương_mại  giải_trí  chăm_sóc sức_khỏe  trường_học  công_viên …

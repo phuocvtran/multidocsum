@@ -1,0 +1,9 @@
+idx, sentence
+0,tevez và dybala đều là những tiền_đạo “ có số má ”  nhưng việc họ bị hlv martino gạch tên cũng không bất_ngờ bởi đt_argentina lúc này còn có những chân sút đẳng_cấp hơn như lionel_messi  sergio_aguero hay gonzalo_higuain 
+1,về_phần mình  hậu_vệ phải zabaleta không dự copa_america 2016 đơn_giản là vì ở mùa giải năm nay anh ít được thi_đấu tại manchester_city  chỉ ra sân 21 lần trên mọi đấu_trường  
+2,do dybala đang tỏa sáng ở juventus mà lại bị hlv martino gạch tên  rất nhiều người dự_đoán anh sẽ được đại_diện cho đt_u23_argentina thi_đấu ở olympic_rio de janeiro sắp tới 
+3,trở_lại với những người được chọn  dù chỉ đá ở giải trung_quốc trong màu áo hebei_fortune  tiền_đạo ezequiel_lavezzi vẫn được hlv martino đặt niềm tin 
+4,cùng với đó là những cái tên đình_đám khác như sergio_romero  javier_mascherano  nicolas_otamendi  marcos_rojo  angel_di_maria hay javier_pastore 
+5,ở copa_america 2016  argentina được xếp vào bảng d cùng với các đối_thủ gồm nhà đkvđ_chile  panama và bolivia 
+6,theo lịch thi_đấu  đội bóng xứ tango sẽ lần_lượt so tài với 3 cái tên nói trên vào các ngày 7/6  11/6 và 15/6 
+7,danh_sách cụ_thể thủ_môn  mariano_andujar  estudiantes   nahuel_guzman  club_tigres   sergio_romero  manchester_united  hậu_vệ  victor_cuesta  independiente   ramiro_funes_mori  everton   jonathan_maidana  river   gabriel_mercado  river   nicolas_otamendi  manchester_city   marcos_rojo  manchester_united   facundo_roncaglia  fiorentina  tiền_vệ  ever_banega  sevilla   lucas_biglia  lazio   augusto_fernandez  atletico_madrid   matias_kranevitter  atletico_madrid   erik_lamela  tottenham   javier_mascherano  barcelona   javier_pastore  paris_saintgermain 

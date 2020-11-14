@@ -1,0 +1,18 @@
+idx, sentence
+0,các chuyên_gia hàng_không lo_ngại một hành_động cố_ý đã khiến máy_bay_biến mất khỏi màn_hình radar vào sáng ngày 195  theo tờ south_china_morning_post  hồng_kông  ngày 205 
+1,bộ ngoại_giao ai cập cho hay các vật_thể trôi trên mặt_biển được tìm thấy gần đảo karpathos  hy_lạp có_thể là của máy_bay airbus_a320  hãng egyptair cho hay trên twitter 
+2,nhưng ông athanasios_binis  chủ_tịch ủy_ban an_toàn và điều_tra tai_nạn hàng_không hy_lạp  nói mảnh vỡ  bao_gồm áo cứu_sinh và các mảnh nhựa  là không phải của chiếc airbus_a320 
+3,sau đó  phó chủ_tịch egyptair  ahmed_adel thừa_nhận egyptair đưa ra thông_tin sai và “ công_tác tìm_kiếm và cứu_hộ đang diễn ra ” 
+4,“ tổng_thống ai cập_abdel_fattah alsisi ra_lệnh cho các cơ_quan hữu_trách  bao_gồm bộ hàng_không dân_dụng  lực_lượng không_quân và hải_quân tăng_cường công_tác tìm_kiếm máy_bay và áp_dụng mọi biện_pháp cần_thiết để tìm ra mảnh vỡ máy_bay ”  theo thông_cáo từ văn_phòng tổng_thống ai_cập 
+5,mỹ  pháp  hy_lạp cũng phối_hợp với ai cập tìm_kiếm máy_bay và điều_tra vụ_việc 
+6,chiếc airbus_a320  chuyến bay số_hiệu ms804   chở theo 66 người  bay từ thủ_đô paris  pháp  đến thủ_đô cairo  ai_cập  thì biến mất khỏi màn_hình radar vào sáng sớm ngày 195 
+7,hãng egyptair cho hay máy_bay mất liên_lạc với mặt_đất khi cách bờ biển phía bắc ai cập khoảng 280 km và không phát tín_hiệu cầu_cứu  theo ông adel 
+8,theo bộ_trưởng hàng_không dân_dụng ai cập_sherif_fathi  hiện còn quá sớm để có_thể kết_luận vì_sao chiếc airbus_a320 biến mất  nhưng khả_năng đây là “ một vụ khủng_bố ” cao hơn là máy_bay bị sự_cố kỹ_thuật 
+9,còn tổng_thống pháp francois_hollande xác_nhận máy_bay này đã rơi ở địa_trung_hải 
+10,tổng_thống sisi cũng ra_lệnh cho bộ hàng_không dân_dụng ai cập lập ủy_ban lập_tức tiến_hành điều_tra nguyên_nhân vì sao máy_bay egyptair mất_tích 
+11,các điều_tra_viên đang xem_xét cả khả_năng máy_bay rơi do bom  theo afp 
+12,trong khi đó  các quan_chức từ nhiều cơ_quan của chính_phủ mỹ cho reuters biết dựa theo phân_tích hình_ảnh vệ_tinh  cho đến nay vẫn chưa phát_hiện bất_kỳ dấu_hiệu nào cho thấy máy_bay của egyptair_phát_nổ trong không_trung 
+13,tại sân_bay quốc_tế cairo  ai_cập   một người đàn_ông ôm mặt khóc và nói  “ ai cập sẽ còn tồn_tại được bao_lâu khi mạng người quá rẻ_rúng  ” 
+14,mẹ của một tiếp_viên hàng_không trên chiếc máy_bay mất_tích chạy đến sân_bay cairo  nơi gia_đình các nạn_nhân ngóng_trông tin_tức người_thân từng giờ từng phút 
+15,bà cho biết lần cuối_cùng con_gái gọi điện_thoại cho bà là vào tối 185 
+16,“ chính_quyền chẳng thông_báo cho chúng_tôi biết bất_kỳ điều gì ”  người mẹ bức_xúc nói 

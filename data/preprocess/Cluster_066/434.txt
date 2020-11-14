@@ -1,0 +1,8 @@
+idx, sentence
+0,cũng một ngày tháng năm  26 năm sau ngày nâng cao chiếc cúp fa đầu_tiên của đời mình  đêm qua ắt_hẳn là một đêm đáng nhớ trong đời của sir_alex_ferguson khi các học_trò của ông nâng cao chiếc cúp đầu_tiên sau khi ông lùi lại phía sau 
+1,man united 21 crystal_palaceman_united trong trận đấu này  giống như những tháng ngày vắng_bóng hlv huyền_thoại  đã có những thời_khắc khó_khăn để tột_độ  tưởng_chừng không_thể vượt qua 
+2,nhưng rồi ý_chí  chất thép và nỗ_lực đã giúp họ tạo nên màn lội ngược dòng lịch_sử trên wembley  đem cúp về old_trafford 
+3,với chiếc cúp fa vừa đạt được  cuộc_chiến phân_định người sẽ ngồi trên chiếc ghế nóng hlv man_united đang đi đến hồi kết bỗng_nhiên trở_nên phức_tạp và khó đoán hơn bao_giờ hết 
+4,đội_hình thi_đấu  man_utd  414  1   de_gea  valencia  smalling  blind  rojo  darmian 66    carrick  mata  lingard 90    fellaini  rooney  martial  rashford  young 72   
+5,crystal_palace  423  1   hennessey  ward  dann  mariappa 90   4   delaney  souare  jedinak  cabaye  puncheon 72    zaha  mcarthur  bolasie  wickham  gayle 86   
+6,ghi_bàn  man_utd  juan_mata  81    lingard  110   crystal_palace  puncheon  78  

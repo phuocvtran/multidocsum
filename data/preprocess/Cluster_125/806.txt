@@ -1,0 +1,18 @@
+idx, sentence
+0,zoe_eastman  thai_phụ 33 tuổi đến từ thành_phố cảng liverpool  anh quốc  đột_nhiên có sở_thích kỳ_quặc ăn bọt xà_phòng kể từ khi cô mang thai cậu con_trai nhỏ 
+1,cô dành ra nhiều giờ để tắm 3 lần một ngày và ăn hết đám bọt xà_phòng trong bồn 
+2,bà mẹ trẻ chia_sẻ  “ lần đầu_tiên mang thai  tôi thích chiều chuộng bản_thân bằng cách ngâm mình trong bồn thắm với hương thơm nhẹ_nhàng 
+3,cho tới khi mang thai ở tuần thứ 20  sở_thích ăn bọt xà_phòng bỗng_nhiên trỗi dậy 
+4,tôi đưa đám bọt lên mũi hít_hà và bắt_đầu nếm thử chúng 
+5,đó là một cảm_giác rất tuyệt  thậm_chí còn sảng_khoái hơn cả sex ” 
+6,ban_đầu  zoe cố_gắng che_giấu chứng nghiện kỳ_lạ này và không muốn chồng mình biết được 
+7,nhưng vào một buổi tối nọ  anh mark_smith  34 tuổi  bất_ngờ bắt_gặp vợ mình ở bồn_tắm với đám bọt phủ kín trên mặt 
+8,“ khi bị anh ấy trông thấy cảnh đang ăn bọt xà_phòng  ban_đầu tôi rất xấu_hổ 
+9,nhưng rồi tôi không quan_tâm nó sẽ thế_nào nữa 
+10,dần_dần  tôi tắm cả ngày để được ăn bọt xà_phòng ”  cô cho hay 
+11,khi zoe chia_sẻ về cơn thèm_muốn kỳ_lạ với những người bạn cũng đang mang thai của mình  họ đề_nghị cô nên gặp bác sỹ để tìm_hiểu xem có phải cơ_thể đang mắc chứng rối_loạn do thiếu_hụt chất hay không 
+12,sau khi thăm khám  cô được làm các xét_nghiệm 
+13,kết_quả cho thấy  nồng_độ sắt trong cơ_thể cô hoàn_toàn bình_thường 
+14,rất may sở_thích này không gây tổn_hại tới thai_nhi 
+15,trở_về nhà  cô lại tiếp_tục thỏa_mãn cơn thèm bọt xà_phòng của mình 
+16,tuy_nhiên  cô không ăn mọi loại bọt  mà chỉ thích hương thơm có mùi nhân_sâm và tiêu đen của một nhãn hàng sữa tắm 

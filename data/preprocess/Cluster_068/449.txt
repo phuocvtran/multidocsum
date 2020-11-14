@@ -1,0 +1,11 @@
+idx, sentence
+0,“ vff và hlv nguyễn_hữu_thắng đã trao_đổi với nhau và thống_nhất không đưa đình_luật lên đội_tuyển việt_nam lần này 
+1,chúng_tôi muốn xây_dựng ’ đội_tuyển sạch ’ nên những cầu_thủ vi_phạm ở vleague sẽ không được lên tuyển ”  lãnh_đạo vff chia_sẻ với báo trưa nay 22/5 
+2,đình luật bị ban kỷ_luật vff treo_giò ba trận và phạt 15 triệu đồng vì lỗi trong trận đấu giữa quảng_nam và bình_dương ngày 18/5 
+3,sau khi nhảy lên tránh cú vào bóng từ phía sau nguy_hiểm của felix  trung_vệ_sinh năm 1983 tranh_thủ trả đòn bằng pha đạp vào chân đối_thủ 
+4,“ hlv hữu_thắng đã cân_nhắc khá kỹ trường_hợp của đình_luật 
+5,ngoài chuyện pha lỗi ở vleague  ông ấy cũng cho rằng cầu_thủ này đã luống_tuổi  thời_gian vừa_qua cày_ải liên_tục ở afc_champions_league và vleague nên cần thời_gian nghỉ_ngơi 
+6,cánh cửa trở_lại tuyển những lần tập_trung sau của đình_luật vẫn rộng_mở 
+7,nếu tiếp_tục thể_hiện tốt  cuối năm cậu ấy sẽ được triệu_tập đá aff_cup ”  lãnh_đạo vff nói thêm 
+8,đây là lần thứ hai hlv hữu_thắng phải loại một cầu_thủ ông đã chọn vì có lỗi ở vleague 
+9,trước đó  trong lần tập_trung đá hai trận cuối vòng loại world_cup 2018 – khu_vực châu_á  chiến_lược gia người xứ nghệ đã phải gạt đi văn_quyết do cầu_thủ này có hành_vi xô ngã trọng_tài  lĩnh án treo giò của ban kỷ_luật vff 

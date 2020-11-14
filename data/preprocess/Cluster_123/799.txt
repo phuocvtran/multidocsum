@@ -1,0 +1,12 @@
+idx, sentence
+0,trên thực_tế  các mẫu xe thân_thiện với môi_trường chỉ thực_sự có tác_động tích_cực đến cuộc_sống của chúng_ta nếu chúng được sử_dụng rộng_rãi 
+1,trong năm 2015  toyota đã cho ra_mắt thêm phiên_bản hybrid cho mẫu xe thông_dụng  sienta  và đã giới_thiệu thế_hệ thứ tư của  prius  
+2,ở các thị_trường ngoài nhật_bản  toyota cũng đã giới_thiệu hai mẫu xe mới hybrid là  corolla  và  levin  tại trung_quốc cùng với hệ_thống hybdrid được sản_xuất ngay tại đất_nước này  và cho ra_mắt thêm mẫu xe hybrid mới  rav4  trong lộ_trình phát_triển dòng xe hybrid 
+3,tính đến cuối tháng 4/2016  toyota đã bán 33 mẫu xe_du_lịch hybrid và một mẫu plugin hybrid  xe lai có_thể sạc điện bên ngoài phv  tại hơn 90 quốc_gia và vùng lãnh_thổ 
+4,vào tháng 10/2015  toyota đã công_bố những thách_thức từ môi_trường tầm nhìn đến năm 2050 
+5,tập_đoàn đã đặt ra những thách_thức phải vượt qua nhằm giảm_thiểu đến mức thấp nhất các yếu_tố mà ngành sản_xuất ô_tô có_thể tác_động đến môi_trường toàn_cầu và góp_phần vào việc xây_dựng một xã_hội phát_triển bền_vững 
+6,để vượt qua được những thách_thức này  tập_đoàn ô_tô toyota đang cố_gắng không ngừng để mở_rộng và cho ra_mắt thêm nhiều mẫu xe hybrid thân_thiện với môi_trường với mục_tiêu đặt ra cho doanh_số bán là 15 triệu xe hàng năm và doanh_số tích_lũy đạt 15 triệu xe vào năm 2020 
+7,theo báo_cáo tổng_kết  tính đến ngày 30/4/2016  các dòng xe hybrid của toyota đã giảm_thiểu được xấp_xỉ 67 triệu tấn khí thải co2 một tác_nhân của hiện_tượng nóng lên toàn_cầu  so với những mẫu xe cùng kích_cỡ và hiệu_năng nhưng dùng nhiên_liệu xăng thông_thường 
+8,toyota cũng đã ước_tính rằng các xe hybrid đã tiết_kiệm khoảng 25 tỷ lít xăng so với các phương_tiện khác chạy bằng xăng với cùng thông_số kĩ_thuật 
+9,toyota đã cho ra_mắt  coaster_hybrid_ev  vào tháng 8/1997 và mẫu xe_du_lịch prius được sản_xuất hàng_loạt đầu_tiên trên thế_giới trong tháng 12 cùng năm 
+10,kể từ đó đến nay  các mẫu xe toyota hybrid đã nhận được sự chào_đón nông nhiệt và ủng_hộ tích_cực từ người tiêu_dùng trên toàn thế_giới 

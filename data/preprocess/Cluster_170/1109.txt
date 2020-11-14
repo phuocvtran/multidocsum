@@ -1,0 +1,16 @@
+idx, sentence
+0,ca_khúc ngày_xưa hoàng_thị là một sáng_tác của cố nhạc_sĩ phạm_duy được phổ từ thơ phạm_thiên_thư vào năm 1971 
+1,ca_khúc này được nhiều ca_sĩ thể_hiện rất thành_công như_thanh_thúy  thái_thanh … và trở_thành một tuyệt_tác ở những năm 70 của thế_kỷ trước 
+2,ngày_xưa hoàng_thị kể về câu_chuyện tình thuở học_trò trong_sáng  hồn_nhiên 
+3,đó là hình_ảnh một cô nữ_sinh trung_học trên con đường tan trường về phát_hiện có một nam_sinh si_tình cứ lặng_lẽ đi theo sau mình 
+4,giọng_hát cao_vút  trong_trẻo và … ngọt_lịm của hoa_khôi đồng_bằng sông_cửu_long khiến cho không chỉ giám_khảo mà nhiều khán_giả có_mặt tại trường_quay cũng hòa mình theo điệu hát và ngân_nga hát theo một_cách say_sưa 
+5,giám_khảo thanh_hà nhận_xét đây là phần trình_diễn hoàn_hảo  bởi nam_em không chỉ có một gương_mặt đẹp  thân_hình đẹp mà tiết_mục của cô hôm_nay cũng rất tuyệt_vời 
+6,trái_ngược với ý_kiến của giám_khảo thanh_hà  danh_ca phương_dung và danh_ca họa_mi cho rằng nam_em hát hơi khô và cần hát nhẹ_nhàng  dịu_dàng hơn 
+7,dù nam_em đã hát tốt ở những nốt cao nhưng nốt thấp còn chưa ổn và cần cố_gắng nhiều hơn 
+8,trong khi đó  nam ca_sĩ trường vũ với vai_trò giám_khảo khách_mời thay_vì nhận_xét về chuyên_môn đã bày_tỏ thắc_mắc về … cái tên của nam_em  “ ban_đầu khi đọc tên tôi tưởng có năm em  năm cô cùng hát nhưng lúc ra thì chỉ thấy có một em ” 
+9,nam em giải_thích rằng bà nội dặn mẹ cô nếu sinh ra con_trai thì đặt tên nguyễn_quốc_nam  còn sinh con_gái thì đặt nguyễn_thị_lệ_nam  cuối_cùng lại  sinh_đôi 
+10,“ chữ em xuất_phát từ đó  còn nam là mang nghĩa quê_hương việt_nam ”  chân dài tiền_giang giải_thích 
+11,cái tên mang ý_nghĩa đẹp của cô được các vị giám_khảo thích_thú 
+12,kết_quả cuối_cùng  nam_em nhận được tổng_số điểm là 37  trong đó giám_khảo phương_dung cho nam_em 9 điểm  giám_khảo họa_mi  85  giám_khảo thanh_hà  975 và giám_khảo khách_mời là ca_sĩ trường vũ cũng cho nam_em số điểm 975 
+13,nói về lần đầu ngồi “ ghế nóng ” một cuộc thi ca_hát tại việt_nam  trường vũ tâm_sự   lần đầu làm giám_khảo  tôi hồi_hộp lắm 
+14,càng hồi_hộp hơn khi ngồi chung với các thần_tượng của mình như ca_sĩ phương_dung  họa_mi  

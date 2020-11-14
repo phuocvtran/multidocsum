@@ -1,0 +1,11 @@
+idx, sentence
+0,thông_tin từ tổng_công_ty hàng_không việt_nam  vietnam_airlines  cho biết  hai vị_trí lãnh_đạo cấp cao là chủ_tịch hội_đồng_quản_trị  tổng_giám_đốc mới đã được bổ_nhiệm sau đại_hội cổ_đông thường_niên của tổng_công_ty vào ngày 23/5 
+1,theo đó  tại đại_hội  các cổ_đông đã tiến_hành đề_cử và biểu_quyết bầu_cử bổ_sung thành_viên hội_đồng_quản_trị nhiệm_kỳ 2015  2020 
+2,căn_cứ kết_quả biểu_quyết  đại_hội nhất_trí bầu bổ_sung ông dương_trí_thành vào hội_đồng_quản_trị nhiệm_kỳ 2015  2020 
+3,ngay sau đại_hội  hội_đồng_quản_trị tổng_công_ty đã họp và nhất_trí thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hội_đồng_quản_trị vietnam_airlines do thay_đổi công_tác theo phân_công của bộ chính_trị 
+4,ông phạm_ngọc_minh  thành_viên hội_đồng_quản_trị thôi kiêm giữ chức tổng_giám_đốc vietnam_airlines để bổ_nhiệm làm chủ_tịch hội_đồng_quản_trị và ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc để bổ_nhiệm chức_vụ thành_viên hội_đồng_quản_trị kiêm giữ chức tổng_giám_đốc vietnam_airlines 
+5,các quyết_định sẽ chính_thức có hiệu_lực từ 0  00 giờ ngày 1/6/2016  giờ việt_nam  
+6,cũng vào thời_điểm diễn ra đại_hội_đồng cổ_đông thường_niên này  vietnam_airlines sắp hoàn_tất việc đàm_phán hợp_đồng mua_bán cổ_phần  ssa  với tập_đoàn hàng_không nhật_bản_ana_holdings để tiến_hành ký_kết vào cuối tháng 5 này 
+7,kết_quả đàm_phán này đã được bộ giao_thông vận_tải phê_duyệt 
+8,theo đó  tổng_công_ty hàng_không việt_nam thực_hiện phát_hành thêm cổ_phần cho nhà_đầu_tư chiến_lược nước_ngoài là tập_đoàn hàng_không nhật bảnana_holdings_inc để tăng vốn điều_lệ bằng hình_thức chào bán cổ_phần riêng_lẻ  với số cổ_phần bán là 107668938 cổ_phần  tỷ_lệ nắm giữ của ana_holdings_inc là 877  vốn điều_lệ của vietnam_airlines sau khi phát_hành 
+9,sau khi hoàn_tất_giao_dịch với ana_holdings_inc  vietnam_airlines sẽ tiếp_tục phát_hành thêm cổ_phần để giảm tỷ_lệ nắm giữ của cổ_đông nhà_nước còn 75   hướng tới giảm tiếp xuống 65  vốn điều_lệ 

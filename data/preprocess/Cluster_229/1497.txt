@@ -1,0 +1,13 @@
+idx, sentence
+0,gần 1 tuần sau khi mourinho đặt bút ký hợp_đồng 3 năm với mu  tiền_đạo đội_trưởng rooney đã đưa ra lời bình_luận về vấn_đề này 
+1,cụ_thể  “ r10 ” đã lên_tiếng ca_ngợi quyết_định của giới chủ “ quỷ đỏ ” 
+2,đồng_thời  anh cũng nóng_lòng muốn được làm_việc với chiến_lược gia người bồ_đào_nha 
+3,trả_lời phỏng_vấn trước khi cùng đt_anh thi_đấu giao_hữu với bồ_đào_nha  rooney chia_sẻ  “ mourinho là một trong những hlv xuất_sắc nhất thế_giới 
+4,được làm_việc với ông ấy là điều thú_vị đối_với cá_nhân tôi cũng như những cầu_thủ khác của mu ” 
+5,được biết  kể từ ngày 77 tới  mourinho sẽ bắt_tay vào công_việc huấn_luyện ở mu
+6,hiện_tại  nhà cầm_quân 53 tuổi đang lên kế_hoạch mua_sắm cầu_thủ cũng như thanh_lọc đội_hình nhằm giúp nửa đỏ thành manchester cạnh_tranh chức vô_địch premier_league mùa tới 
+7,ngoài lời nhận_xét về mourinho  rooney cũng tỏ ra lạc_quan vào khả_năng đt_anh sẽ gặt_hái thành_công tại euro 2016  “ tôi cảm_thấy tự_hào khi được đeo chiếc băng đội_trưởng tuyển anh dự giải đấu lớn như euro 
+8,chúng_tôi đang sở_hữu đội_hình trẻ_trung và chất_lượng 
+9,tôi tin rằng  đt_anh đủ khả_năng chinh_phục_chức vô_địch tại giải đấu sắp tới 
+10,hiện_tại  tôi và các đồng_đội đang cảm_thấy rất thoải_mái trước khi euro 2016 khởi_tranh 
+11,chúng_tôi sẽ có vài ngày gặp_gỡ với các thành_viên trong gia_đình mình trước khi lên_đường sang pháp 

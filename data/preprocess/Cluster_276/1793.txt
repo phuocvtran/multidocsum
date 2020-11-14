@@ -1,0 +1,9 @@
+idx, sentence
+0,theo tạp_chí forbes  elizabeth holmes – nàng tỷ_phú xinh_đẹp 32 tuổi đồng_thời là người sáng_lập ra công_ty khởi_nghiệp y_học kỹ_thuật sinh_học theranos – bỗng_chốc trắng_tay sau 1 đêm khi tạp_chí này đánh_giá quỹ tài_sản cá_nhân của cô đang từ 45 tỉ usd năm_ngoái rớt xuống thành “ không có gì ” 
+1,elizabeth holmes sáng_lập theranos ở tuổi 19 bằng vốn đầu_tư mạo_hiểm vào năm 2003 với mục_tiêu_chuẩn_hóa và chính_thức_hóa các xét_nghiệm máu qua thiết_bị cầm tay edison 
+2,với tuyên_bố chỉ với 12 giọt máu trích từ đầu ngón tay đưa vào ống chứa siêu nhỏ  theranos có_thể chạy hơn 70 xét_nghiệm  từ việc kiểm_tra những bất_thường lượng đường trong máu cho đến các virus lây_nhiễm qua đường tình_dục với chi_phí thấp 
+3,holmes  trước đó được tạp_chí tài_chính này ca_ngợi là người phụ_nữ tự_thân giàu nhất nước mỹ  đã phải chứng_kiến quỹ tài_sản của mình  trở về mo  khi công_ty theranos đang bị chỉ_trích vì nhiều báo_cáo cho rằng các xét_nghiệm máu của dự_án này không chính_xác 
+4,chính những bản báo_cáo xét_nghiệm máu của máy edison không chính_xác này đã buộc forbes hạ giá_trị công_ty theranos đang từ mức 9 tỷ usd năm 2014 xuống còn mốc 800 triệu usd – một con_số mà các nhà_đầu_tư cho rằng “ thực_tế hơn ” 
+5,sau khi làm_việc với một loạt các chuyên_gia kinh_tế  nhà phân_tích đầu_tư  nhà_báo matthew_herper nhận_xét  “ với mức giá định thấp như vậy  cổ_phần của holmes thực_sự không có giá_trị ” 
+6,herper giải_thích  “ một_số nhà_đầu_tư theranos sở_hữu cổ_phiếu ưu_đãi  và chắc_chắn sẽ được ưu_tiên thanh_toán trước cô holmes – người đang nắm giữ 50  cổ_phiếu phổ_thông ” 
+7,việc forbes hạ thấp giá_trị của công_ty như một cú sốc đối_với holmes  những người hỗ_trợ từ phía sau và ban giám_đốc  bao_gồm cả những ông lớn trong giới doanh_nhân như henry_kissinger và bill_frist 

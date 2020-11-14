@@ -1,0 +1,17 @@
+idx, sentence
+0,theo thông_cáo báo_chí được vietfoods_phát đi tại cuộc họp_báo sáng nay 295  vào ngày 2042016  đội 14  chi_cục quản_lý thị_trường_hà_nội đã bắt_giữ  niêm_phong 22 tấn sản_phẩm của vietfoods bán cho công_ty thương_mại thực_phẩm hùng_anh  quận hoàng_mai  hà_nội  gồm hotdog xông khói  xúc_xích đức_vietfoods  xúc_xích frank_furter  xúc_xích chua thái_vietfoods 
+1,khi lập biên_bản vi_phạm hành_chính  đội 14 quản_lý thị_trường_hà_nội đã quay_phim  chụp hình  cung_cấp thông_tin cho báo_chí và truyền_hình với nội_dung sản_phẩm vietfoods đã sử_dụng chất cấm  chất gây ung_thư không được bộ y_tế cho_phép lưu_hành sau khi lấy mẫu bốn loại xúc_xích nói trên đi kiểm_nghiệm cho kết_quả chứa_chất sodium_nitrate 251 với hàm_lượng từ 89100 mg / kg 
+2,tại buổi họp_báo  vietfoods đưa ra một văn_bản của cục an_toàn thực_phẩm thuộc bộ y_tế ký ngày 2352016 trong đó có nêu  cục an_toàn thực_phẩm có ý_kiến chất natri_nitrat_ins 251  tên gọi khác của sodium_nitrate 251  không phải là chất cấm sử_dụng trong sản_xuất  chế_biến thực_phẩm 
+3,cục an_toàn thực_phẩm cho biết hàm_lượng natri_nitrat_ins 251 được phát_hiện trong sản_phẩm xúc_xích vietfoods từ 55 100 mg / kg là nằm trong ngưỡng an_toàn cho người sử_dụng 
+4,theo đó  cục an_toàn thực_phẩm đề_nghị chi_cục quản_lý thị_trường hà_nội cầm sớm tham_vấn chuyên_môn cục an_toàn thực_phẩm và cục an_toàn vệ_sinh thực_phẩm_bình_dương trước hoặc sau khi tạm giữ lô hàng để có quyết_định xử_lý vụ_việc kịp_thời  tránh gây tổn_hại cho doanh_nghiệp 
+5,theo thông_tin phát đi hôm_nay  vietfoods cho biết hậu_quả từ thông_tin trên báo_chí xuất_phát từ đội 14 chi_cục quản_lý thị_trường hà_nội đang ảnh_hưởng hết_sức nghiêm_trọng đến hoạt_động sản_xuất kinh_doanh của vietfoods 
+6,“ hơn một tháng qua  cơ_sở phải ngừng sản_xuất  hơn 100 công_nhân nghỉ_việc  hàng_hóa đều bị thu_giữ hoặc bị trả về  thiệt_hại tạm tính lên đến hàng chục tỉ đồng ”  thông_cáo báo_chí của vietfoods đề_cập 
+7,vietfoods khẳng_định sản_phẩm của vietfoods được phép sử_dụng chất phụ_gia sodium_nitrate 251 làm phụ_gia thực_phẩm với tác_dụng ổn_định màu 
+8,theo luật_sư nguyễn_văn_đức  người đại_diện pháp_lý vietfoods  hiện kho hàng của vietfoods có hàng chục tấn hàng bị trả về  toàn_bộ dây_chuyền của vietfoods ngưng hoạt_động 
+9,dây_chuyền sản_xuất_nhập_khẩu từ đức về cũng không sản_xuất được 
+10,“ chỉ vì một phát_ngôn hết_sức vô_trách_nhiệm của đội 14 quản_lý thị_trường_hà_nội dẫn đến doanh_nghiệp đứng trước nguy_cơ phá_sản 
+11,đến nay thì doanh_nghiệp chúng_tôi đã được minh_oan 
+12,nhưng việc lấy lại thị_trường rất khó_khăn bởi thông_tin đã được đăng_tải trên nhiều báo_chí  thông_tin sản_phẩm vietfoods đã chia_sẻ rộng_rãi trên mạng xã_hội … tất_cả những thông_tin này đã đánh_gục vietfoods ”  ông đức nói tại buổi họp_báo 
+13,ông đức cho biết thêm rằng ngày 275 vừa_qua  ông đã đến hà_nội làm_việc với quản_lý thị_trường hà_nội và đề_nghị lãnh_đạo đội 14 quản_lý thị_trường_hà_nội phải có lời xin_lỗi vietfoods công_khai trên báo_chí 
+14,lãnh_đạo quản_lý thị_trường_hà_nội hứa sẽ xử_lý vụ_việc theo yêu_cầu của đại_diện vietfoods 
+15,ông đức khẳng_định   nếu quản_lý thị_trường_hà_nội không cầu_thị  xin_lỗi theo đơn khiếu_nại thì công_ty chúng_tôi sẽ phải sử_dụng đến công_cụ pháp_lý để tự bảo_vệ  

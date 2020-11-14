@@ -1,0 +1,5 @@
+idx, sentence
+0,hợp_đồng ký_kết giữa hai bên  ảnh  khẳng_định việc tập_đoàn ana mua 8771  cổ_phần của vietnam_airlines với giá_trị 2431 tỉ đồng  tương_đương 109 triệu usd  
+1,các giao_dịch sẽ hoàn_tất vào ngày 172016 và ana sẽ chính_thức trở_thành cổ_đông chiến_lược của vietnam_airlines 
+2,hai bên dự_kiến sẽ triển_khai hợp_tác liên_danh và chương_trình khách_hàng thường_xuyên bắt_đầu từ ngày 30102016 trên 30 đường_bay nội_địa tại nhật_bản và việt_nam cùng 10 đường_bay quốc_tế giữa hai quốc_gia 
+3,khách_hàng thường_xuyên của mỗi hãng có_thể tích_lũy dặm khi bay trên các chuyến bay hợp_tác liên_danh giữa hai hãng và được trả thưởng trên các chuyến bay do hai hãng vừa là hãng tham_gia vừa là hãng khai_thác 

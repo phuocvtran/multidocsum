@@ -1,0 +1,4 @@
+idx, sentence
+0,điểm đặc_biệt của chương_trình tìm_kiếm nhóm nhạc tài_năng lần này là không chỉ dành riêng cho các bạn gái đam_mê ca_hát mà_còn dành cho các bạn gái biết chơi nhạc_cụ  cụ_thể là guitar điện và trống 
+1,đây là các nhạc_cụ tối_thiểu để có_thể thành_lập được một ban nhạc nữ tài_năng  và không kém phần trẻ_trung  sôi_động của thế_hệ các bạn gái trẻ ngày_nay 
+2,phần_thưởng danh_giá cho nhóm nhạc nữ chiến_thắng sẽ là tour lưu_diễn xuyên việt cùng ca_sĩ đông_nhi  cơ_hội tham_gia trong mv bài hát mới của đông_nhi và ký hợp_đồng 1 năm đào_tạo và bảo_trợ với công_ty sixth_sense_entertainment  “ lò đào_tạo ” các ca_sĩ trẻ tài_năng của_ông cao_thắng 

@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 30/5  ubnd tỉnh thừa_thiên_huế đã tổ_chức trưng_bày các phương_án về kiến_trúc công_trình xây_dựng cầu_vượt qua sông hương  nhằm lấy ý_kiến đóng_góp của người dân trong và ngoài tỉnh 
+1,20 phương_án đã được trưng_bày tại bảo_tàng văn_hóa huế để người_dân có_thể đưa ra ý_kiến  sau đó lựa_chọn phương_án tốt nhất đáp_ứng đầy_đủ các yêu_cầu về kiến_trúc thẩm_mỹ  cũng như giữ được nét văn_hóa huế 
+2,đây là phương_án của các đơn_vị tham_gia cuộc thi chọn phương_án kiến_trúc công_trình cầu_vượt sông hương  do ubnd tỉnh tthuế giao cho ban_đầu_tư xây_dựng giao_thông  sở gtvt  làm_chủ đầu_tư và tổ_chức thi_tuyển 
+3,trước đó  qua những lần thi_tuyển  công_trình kiến_trúc chiếc nón đạt giải nhất  giải nhì thuộc về phương_án trăng trên sông hương và giải ba thuộc về phương_án núi ngự_bình 
+4,tuy_nhiên  các phương_án còn nhiều bất_cập trong việc đảm_bảo yêu_cầu tính thẩm_mỹ  kiến_trúc chưa phù_hợp với lịch_sử văn_hóa huế 
+5,công_trình cầu_vượt qua sông hương thuộc dự_án đường nguyễn_hoàng và cầu_vượt qua sông hương  tphuế  
+6,vị_trí xây_dựng được xác_định từ đường nguyễn_hoàng  phường kim_long  bắc qua sông hương  nối đến đường bùi_thị_xuân  phường đúc  
+7,cầu có chiều dài khoảng 385 m  rộng 405 m 

@@ -1,0 +1,9 @@
+idx, sentence
+0,theo những tin_tức mới nhất trên báo dân_trí  vụ cháy nhà kinh_hoàng trong hẻm nhỏ xảy ra vào lúc 21 h30 tối qua ngày 2/6 
+1,cụ_thể vào thời_điểm trên  người dân phát_hiện căn nhà cấp bốn nằm trong hẻm 80 đường dương_quảng_hàm  quận gò_vấp  tphcm  bất_ngờ bốc cháy dữ_dội  khói_lửa bao_trùm căn nhà 
+2,thấy cháy lớn  người dân đã nhanh_chóng ngắt hệ_thống điện tổng bên ngoài khiến cửa_cuốn của ngôi nhà không_thể mở ra được  2 vợ_chồng cụ ông 70 tuổi bị kẹt lại bên trong la_hét  kêu cứu giữa biển lửa rợp_trời 
+3,nghe tiếng tri_hô cầu_cứu bên trong của hai vợ_chồng cụ ông 70 tuổi  hàng chục người huy_động xà_beng  búa  ra_sức phá cảnh cửa bên hông  lao vào đám cháy nhà nghi_ngút để cứu 2 nạn_nhân bị mắc_kẹt  đưa ra ngoài an_toàn 
+4,trong khi đó  nhận được tin cháy mới nhất  lực_lượng cảnh_sát phòng cháy chữa cháy quận gò_vấp đã khẩn_trương huy_động nhiều xe chữa_cháy cùng khoảng 40 chiến_sĩ có_mặt tại hiện_trường vụ cháy lớn để dập lửa 
+5,tuy_nhiên  do căn nhà nằm trong hẻm sâu nên xe cứu_hỏa phải đậu bên ngoài cách hiện_trường vụ cháy hơn 500 m 
+6,sau gần 2 giờ vật_lộn với đám cháy nhà  lính cứu_hỏa đã dập_tắt được ngọn lửa 
+7,nguồn tin từ báo vietnamnet cho hay  mặc_dù không gây thương_vong về người nhưng vụ cháy nhà khiến tài_sản bên trong căn nhà cấp 4 bị thiêu rụi 

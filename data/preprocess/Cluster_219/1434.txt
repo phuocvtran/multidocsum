@@ -1,0 +1,8 @@
+idx, sentence
+0,đây được xem là lễ_hội đạt kỷ_lục nhiều chủng_loại trái_cây nhất việt_nam với hơn 150 chủng_loại 
+1,trong đó  có nhiều loại trái lạ góp_mặt như cát_lồi  cù_nèo rừng  dưa quạ  mắt trâu  mồng hòe  trái gừa  bồng rừng … bộ sưu_tập củ  quả khổng_lồ với nhiều củ  quả lạ_mắt như bí_ngô nặng 70 kg  bí_đao 50 kg  dưa lưới 8 kg  chanh_yên 7 kg … cũng được giới_thiệu đến khách tham_quan 
+2,tuy có tên gọi là lễ_hội trái_cây nam_bộ nhưng sự_kiện quy_tụ nhiều loại trái_cây đến từ khắp mọi miền như sầu_riêng cái mơn  xoài_cát hòa_lộc  đào sa_pa  thanh_mai lào_cai … những mặt_hàng này sẽ được bán với giá rẻ hơn thị_trường 2030  
+3,theo ban tổ_chức  do tình_trạng hạn_hán  ngập_mặn ở đồng_bằng sông_cửu_long  lượng trái_cây ở lễ_hội năm nay giảm 20  so với năm_ngoái  tuy_nhiên  chủng_loại vẫn được đảm_bảo 
+4,bên_cạnh mục_tiêu quảng_bá đến du_khách đặc_sản trái_cây vùng sông_nước nam_bộ  ban tổ_chức cho biết  đây còn là dịp kết_nối giữa nhà_vườn với các doanh_nghiệp  nhằm giúp nông_dân mở_rộng đầu_ra cho sản_phẩm 
+5,kết_thúc lễ_hội  các loại trái_cây lạ sẽ không dừng lại ở triển_lãm  trưng_bày mà sẽ được các doanh_nghiệp hợp_tác với nhà_vườn đưa ra thị_trường 
+6,song_song với các chương_trình dành cho khách tham_quan và người tiêu_dùng  nhiều hoạt_động dành cho nông_dân cũng được chú_trọng  như hội_thi  trái ngonan toàn   nghệ_thuật tạo_hình bằng trái_cây  chương_trình hỗ_trợ nông_dân các tỉnh miền tây_nam_bộ gặp khó_khăn do dạn mặn 

@@ -1,0 +1,9 @@
+idx, sentence
+0,theo đó  tập_đoàn ana mua 8771  cổ_phần của vna với giá_trị 2431 tỉ đồng  tương_đương 109 triệu usd  
+1,dự_kiến sau khi hoàn_tất các giao_dịch vào ngày 17  ana sẽ chính_thức trở_thành cổ_đông chiến_lược của vna 
+2,vna và ana có_thể khai_thác  tận_dụng thế mạnh lẫn nhau mở_rộng mạng đường_bay và phát_triển sản_phẩm 
+3,triển_khai hợp_tác liên_danh và chương_trình khách_hàng thường_xuyên bắt_đầu từ ngày 3010 
+4,vna và ana sẽ hợp_tác liên_danh trên 30 đường_bay nội_địa tại nhật_bản và vn cùng 10 đường_bay quốc_tế giữa hai quốc_gia 
+5,khách_hàng thường_xuyên của mỗi hãng có_thể tích_lũy dặm khi bay trên các chuyến bay hợp_tác liên_danh giữa hai hãng và được trả thưởng trên các chuyến bay do hai hãng vừa là hãng tham_gia vừa là hãng khai_thác 
+6,vna và ana cũng sẽ hợp_tác trong hàng_loạt dịch_vụ liên_quan đến làm thủ_tục hành_khách  dịch_vụ hàng_hóa  vận_tải  suất ăn  bảo_dưỡng máy_bay và các dịch_vụ khác tại các sân_bay ở nhật_bản và vn 
+7,ana sẽ cử đại_diện tham_gia hội_đồng_quản_trị của vna  đồng_thời cam_kết chia_sẻ các kinh_nghiệm quản_trị hỗ_trợ vna nâng cao chất_lượng dịch_vụ  tối_ưu_hóa hoạt_động khai_thác 

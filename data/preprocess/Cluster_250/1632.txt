@@ -1,0 +1,11 @@
+idx, sentence
+0,2015 là năm thứ ba liên_tiếp đầu_tư trực_tiếp nước_ngoài từ nhật_bản rót vào 10 quốc_gia là thành_viên của hiệp_hội các quốc_gia đông_nam_á  asean  vượt qua đầu_tư trực_tiếp nước_ngoài từ nhật_bản chảy vào trung_quốc  hồng_kông  hãng tin bloomberg trích_dẫn số_liệu tổng_hợp của tổ_chức thương_mại nước_ngoài nhật_bản 
+1,tốc_độ đầu_tư của nhật_bản vào asean thậm_chí còn tăng_tốc 
+2,số tiền đầu_tư từ nhật_bản vào các quốc_gia đông_nam_á gần như tăng gấp ba lần so với năm năm trước  lên mức 20100 tỉ yen nhật  tương_đương 1809 tỉ usd tính đến cuối năm_ngoái  theo dữ_liệu ngân_hàng trung_ương nhật_bản 
+3,ngược_lại  tăng_trưởng đầu_tư của nhật_bản sang trung_quốc thì chậm lại vì các tranh_chấp về lãnh_thổ khiến giới doanh_nghiệp nhật phải đa_dạng_hóa các rủi_ro đầu_tư 
+4,trong bối_cảnh kinh_tế nhật_bản tăng_trưởng chậm_chạp  dân_số già và suy_giảm  các công_ty nhật tìm_kiếm cơ_hội phát_triển ở những nơi khác ngoài châu_á 
+5,“ đối_với nhật thì các thị_trường asean hấp_dẫn 
+6,nhiều nền kinh_tế có tiềm_năng lớn trong tăng_trưởng nhờ mức thu_nhập bình_quân đầu người tương_đối thấp và cơ_cấu dân_số trẻ ”  chuyên_gia kinh_tế ma_tieying tại hãng dbs_group ở singapore cho hay 
+7,ngoài_ra  việc thị_trường khu_vực asean mở_cửa và có chi_phí lao_động thấp hơn trung_quốc cũng là nguyên_nhân thu_hút dòng_chảy đầu_tư từ quốc_gia đông_á  ông tieying cho biết thêm 
+8,năm 2015  một cuộc khảo_sát về ý_định đầu_tư của các nhà_sản_xuất nhật_bản cho thấy 48  doanh_nghiệp có dự_định tăng_cường hoặc mở_rộng kinh_doanh ở trung_quốc 
+9,hồi năm 2011  số_liệu này là 73  

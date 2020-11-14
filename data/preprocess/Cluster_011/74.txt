@@ -1,0 +1,13 @@
+idx, sentence
+0,ngày 19/5  tại trung_tâm pháp_y đà_nẵng  khoa y_dược  đại_học đà_nẵng  tổ_chức lễ macchabée  tri_ân những người đã hiến thi_hài cho sự_nghiệp đào_tạo và nghiên_cứu y_khoa 
+1,các sinh_viên tự tay kết đài_sen  gấp hạc giấy và rải hoa_cúc dọc đường đi 
+2,đây là lần đầu_tiên buổi lễ được tổ_chức tại đà_nẵng  với sự góp_mặt của lãnh_đạo  giảng_viên cùng hơn 300 sinh_viên 
+3, sự cống_hiến  hy_sinh của cô  bác  anh  chị tuy âm_thầm  không có tượng đồng  bia đá nhưng trong trái_tim của thầy_trò chúng_tôi là những người thầy bất_tử    lãnh_đạo khoa y_dược đại_học đà_nẵng đọc văn_tế_tri_ân 
+4,cuối buổi lễ  các sinh_viên cầm đài_sen đã đốt nến  trang_nghiêm xếp thành hàng dài rước hương_án đến nơi đặt thi_hài những người hiến xác 
+5,phía bên trong phòng  hai thi_hài được đặt dưới những tràng hoa và nến 
+6,tất_cả đều thành_kính trong một buổi lễ đặc_biệt  ít người biết đến 
+7, đây là cơ_hội để chúng_em tri_ân những người hiến xác cho y_học 
+8,chính nhờ sự cống_hiến đó  chúng em mới có được cơ_hội thực_hành giải_phẫu trên cơ_thể người để học và hành_nghề sau_này   võ_tùng  sinh_viên lớp yk 14  nói 
+9,đại_diện khoa y_dược  đại_học đà_nẵng cho biết  những năm tiếp_theo  trường sẽ tổ_chức để tri_ân những người hiến xác cho khoa_học và giáo_dục y_đức cho sinh_viên 
+10,le macchabée có nguồn_gốc từ phương tây khoảng hồi đầu thế_kỷ xvi 
+11,tên của lễ được đặt theo tên của bác_sĩ judas_macchabée người pháp  người đã cùng đồng_nghiệp và học_trò lén đào mộ  lấy trộm tử_thi mới đem chôn hoặc đưa xác_chết vô_thừa_nhận ngoài đường về bí_mật giấu trong hầm_rượu để mổ_xẻ  tìm_hiểu các quy_luật vận_động  nhằm phục_vụ cho y_khoa 

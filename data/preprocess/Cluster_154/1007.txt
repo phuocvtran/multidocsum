@@ -1,0 +1,29 @@
+idx, sentence
+0,“ chúng_ta có trách_nhiệm phải nhìn thẳng vào lịch_sử ”  tổng_thống mỹ barack_obama phát_biểu trong chuyến viếng_thăm khu tưởng_niệm hòa_bình ở thành_phố hiroshima  nhật_bản  hôm 27/5  trong khuôn_khổ chuyến thăm nước này 
+1,tại đây  obama đặt vòng_hoa tại khu tưởng_niệm  cúi đầu  nhắm_mắt và im_lặng mặc_niệm  sau đó ông lùi lại để chứng_kiến thủ_tướng nhật_bản_shinzo_abe đặt vòng_hoa 
+2,cùng_với nagasaki  hiroshima là một trong hai thành_phố tại nhật_bản bị quân_đội mỹ ném bom_nguyên_tử vào những ngày cuối chiến_tranh thế_giới thứ hai 
+3,ngày 6/8/1945  quả bom_nguyên_tử thứ nhất mang tên “ little_boy ” được thả xuống hiroshima 
+4,ba ngày sau  đến lượt quả bom thứ hai mang tên “ fat_man ” phát_nổ tại nagasaki 
+5,theo ước_tính  140000 người dân hiroshima đã thiệt_mạng trực_tiếp hoặc gián_tiếp vì bom_nguyên_tử 
+6,con_số này tại nagasaki là 74000 
+7,phần_lớn người chết là thường_dân 
+8,tại khu tưởng_niệm hôm 27/5  nhiều thông_điệp hòa_bình đã được obama  vị tổng_thống mỹ đầu_tiên đến thăm hiroshima trong 70 năm qua  đưa ra 
+9,ông kêu_gọi thế_giới hãy giải_quyết các cuộc đối_đầu thông_qua biện_pháp ngoại_giao  và cố_gắng chấm_dứt xung_đột ngay khi nó mới chỉ bắt_đầu 
+10,cùng_với thủ_tướng shinzo_abe  obama tuyên_bố mong_muốn về một thế_giới không có vũ_khí hạt_nhân  và nhấn_mạnh thế_giới không bao_giờ được quên những gì đã xảy ra trong buổi sáng ngày 6/8/1945 
+11,nhắc lại vụ ném bom_nguyên_tử xuống hiroshima  ông obama nói với giọng xúc_động  “ 71 năm trước  vào một buổi sáng trời trong  không có mây  cái chết giáng xuống từ bầu_trời  và thế_giới bị biến_đổi 
+12,điều đó cho thấy nhân_loại có đủ phương_tiện để tự huỷ_hoại mình ” 
+13,tuy_nhiên  có_thể do xét đến các yếu_tố nhạy_cảm từ cả hai phía mỹ  nhật  obama không đưa ra lời xin_lỗi  cũng như không đề_cập đến việc cựu tổng_thống mỹ harry_truman đã chấp_thuận ném bom_hiroshima như thế_nào 
+14,ông cũng rất thận_trọng khi đề_cập đến cái chết của nhiều người hàn_quốc và tù_binh chiến_tranh mỹ khi vụ ném bom hạt_nhân xảy ra 
+15,thay vào đó  obama nhấn_mạnh ông đến đây để tưởng_nhớ những nạn_nhân đã khuất  dù họ mang quốc_tịch nào đi nữa 
+16,“ vì_sao chúng_tôi đến hiroshima 
+17,chúng_tôi đến để suy_tư về những sức_mạnh khủng_khiếp trong quá_khứ không xa 
+18,chúng_tôi đến để tưởng_nhớ người đã khuất   linh_hồn họ nói với chúng_tôi và bảo chúng_tôi hãy nhìn vào nội_tâm  suy_nghĩ xem mình là ai và mình sẽ trở_nên như thế_nào ”  tổng_thống mỹ nói 
+19,dù mỹ và nhật hiện là những đồng_minh thân_cận  nhưng giữa hai nước vẫn tồn_tại nhiều hố sâu bất_đồng về các vụ ném bom_nguyên_tử xuống hiroshima và nagasaki 
+20,quan_điểm phổ_biến từ phía mỹ cho rằng vụ đánh bom là cần_thiết để chấm_dứt chiến_tranh  và có_thể cứu được sinh_mạng của hàng triệu người khác 
+21,trong khi đó  nhiều người nhật vẫn tin rằng sinh_mạng hàng trăm_nghìn người dân vô_tội đã bị hy_sinh vô_ích 
+22,báo nikkei của nhật viết  dù tổng_thống mỹ kêu_gọi chấm_dứt sử_dụng vũ_khí hạt_nhân  nhưng chỉ cách ông vài bước chân  là một chiếc cặp màu đen chứa những vật_dụng tối_mật  có khả_năng cho_phép tổng_thống mỹ tiến_hành một cuộc tấn_công hạt_nhân ngay_lập_tức vào bất_kỳ nơi đâu 
+23,và nếu cuộc tấn_công này được tổng_thống kích_hoạt  thế_giới có_thể bị san_bằng trong vòng vài phút 
+24,hoặc nếu so với quả bom hạt_nhân mà mỹ từng ném xuống hiroshima  thì sức công_phá của vũ_khí hạt_nhân được kích_hoạt từ các thiết_bị bên trong chiếc cặp nói trên tương_đương với 22 nghìn quả bom như vậy 
+25,sau buổi lễ tưởng_niệm  hai nhà lãnh_đạo hàng_đầu của mỹ và nhật cùng đến thăm đài tưởng_niệm atomic_bomb_dome  nơi có tòa nhà duy_nhất còn tồn_tại sau trận đánh bom hiroshima 
+26,theo một quan_chức chính_phủ nhật  obama đã nói với thủ_tướng nhật  ông cảm_thấy vui vì đã có cơ_hội đến thăm hiroshima 
+27,ông shinzo_abe trả_lời rằng chuyến thăm của tổng_thống mỹ sẽ giúp thế_giới tiến gần hơn một bước đến việc xóa bỏ vũ_khí hạt_nhân 

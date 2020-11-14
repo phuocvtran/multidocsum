@@ -1,0 +1,6 @@
+idx, sentence
+0,ngày 22/5  công_an hà_nội đã ra_lệnh bắt khẩn_cấp và tạm giữ hình_sự huỳnh_quang_phong  sn 1961  trú tại quận_hai_bà_trưng  hà_nội  để điều_tra hành_vi “ lừa_đảo chiếm_đoạt tài_sản  
+1,kết_quả điều_tra ban_đầu cho thấy  phong nắm bắ được thông_tin chị cth  trú tại huyện hoài_đức  hà_nội có con_cháu trong nhà muốn vào học tại trường_trung_cấp csnd_vi  ở hưng_yên  
+2,phong chủ_động rêu_rao có nhiều mối quan_hệ “ chạy ” được cho người_nhà của chị hvào trường_trung_cấp csnd_vi với mức giá 400 triệu đồng 
+3,do đã quen_biết từ trước nên chị h đã tin_tưởng đưa tiền và hồ_sơ cho phong để đối_tượng này “ lo giúp ” 
+4,cơ_quan công_an cũng xác_định phong còn cầm 230 triệu đồng của anh nhq  trú tại quận tâyhồ  hà_nội  với lời hứa “ chạy ” cho người_nhà anh q vào trường_trung_cấp cảnhsát_vũ_trang  trụ_sở ở thị_trấn xuân_mai  huyện chương_mỹ  tp hà_nội  

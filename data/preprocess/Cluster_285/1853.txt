@@ -1,0 +1,16 @@
+idx, sentence
+0,sau phái_đoàn mito_hollyhock  đến lượt phía yokohama_fc cũng chính_thức cử người đến đàm_phán với clb hagl trong ngày 2/6 vừa_qua 
+1,đích_thân chủ_tịch clb nhật_bản là ông koji_kitagawa đã có cuộc trao_đổi với ông đoàn nguyên đức về tương_lai của tiền_vệ nguyễn_tuấn_anh và triển_vọng hợp_tác giữa 2 bên 
+2,trong buổi họp lần này giữa hai bên  rất nhiều vấn_đề đã được làm sáng_tỏ từ việc tuấn_anh chơi bóng tại yokohama cho đến triển_vọng tương_lai của cầu_thủ này 
+3,cụ_thể  phía yokohama đánh_giá rất cao nỗ_lực tập_luyện chăm_chỉ và tinh_thần cầu tiến của cầu_thủ trẻ quê thái_bình 
+4,dù chưa được ra sân thi_đấu  tuy_nhiên tuấn anh luôn giữ thái_độ chuyên_nghiệp và tinh_thần cầu tiến 
+5,thậm_chí  anh còn tự học tiếng nhật để có_thể giao_tiếp cùng đồng_đội tốt hơn 
+6,dù chưa được ra sân thi_đấu  song tinh_thần của tuấn_anh khiến yokohama rất thích_thú và đó là lí_do khiến họ đưa ra lời đề_nghị mới với phía hagl 
+7,cụ_thể  chủ_tịch đội bóng nhật đã bày_tỏ mong_muốn có được tuấn_anh trong 5 đến 10 năm nữa 
+8,“ thông_tin từ báo_chí vn mà tôi có được cho thấy nhiều người chỉ_trích rằng tuấn_anh sẽ thui_chột tài_năng vì ngồi ghế dự_bị quá nhiều ở yokohama_fc 
+9,thực_tế là ở jleague 2  giải hạng 2 nhật  có rất ít cầu_thủ dưới 21 tuổi như tuấn_anh vào sân đá chính 
+10,các em dù có tài_năng nhưng cần thời_gian để hòa_nhập 
+11,chúng_tôi đánh_giá cao tài_năng và tư_cách của tuấn_anh  do_vậy  chúng_tôi chính_thức đặt vấn_đề yokohama_fc muốn ký hợp_đồng từ 5 đến 10 năm với tuấn_anh 
+12,clb sẵn_sàng cho tuấn_anh về vn khoác áo đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào ”  ông kitagawa chia_sẻ 
+13,trước yêu_cầu khá bất_ngờ từ phía yokohama  chủ_tịch đoàn nguyên đức cho hay sẽ cần cân_nhắc thêm và đưa ra câu trả_lời cụ_thể sau 
+14,như_vậy ngoại_trừ trường_hợp xuân_trường sẽ ở lại incheon_united đến năm 2017  hiện cả công_phượng và tuấn_anh đều đã nhận được đề_nghị gia_hạn nhưng phía hagl chưa chấp_nhận 

@@ -1,0 +1,9 @@
+idx, sentence
+0,sáng 3/6  ubnd tp hcm khởi_công xây_dựng dự_án cầu_vượt  hầm chui vòng xoay mỹ_thủy_tại phường cát_lái  quận 2 
+1,đây là công_trình trọng_điểm nhằm giảm ùn_tắc  tai_nạn giao_thông tại cửa_ngõ vào cảng cát_lái 
+2,nút giao_thông mỹ_thủy là điểm giao của các tuyến quan_trọng là đường nguyễn_thị_định  đồng_văn cống dẫn vào cảng cát_lái  đường_vành_đai 2 nối cầu phú_mỹ qua khu công_nghệ_cao  nút giao_thông phú_hữu dẫn lên cao_tốc long_thành  dầu_giây 
+3,nguyễn_thị_định là đường ra_vào cảng cát_lái với lưu_lượng hơn 18000 xe container  xe_tải qua_lại mỗi ngày 
+4,đây là điểm đen ùn_tắc giao_thông  ảnh_hưởng thời_gian vận_chuyển hàng_hóa ra vào cảng của các doanh_nghiệp 
+5,nút giao_thông mỹ_thủy được chia làm hai giai_đoạn đầu_tư 
+6,giai_đoạn 1 với số vốn khoảng 840 tỷ đồng  giai_đoạn 2  hoàn_chỉnh  khoảng 1400 tỷ đồng  trong đó chi_phí xây_dựng 1000 tỷ  giải_phóng mặt_bằng gần 400 tỷ 
+7,dự_án gồm một cầu_vượt theo hướng vành_đai 2 gồm 4 làn xe rộng 17 m  dài 316 m  một hầm chui rẽ trái từ vành_đai 2 đi cát_lái với 2 làn xe rộng 9 m  dài 405 m  phần hầm kín dài 80 m 

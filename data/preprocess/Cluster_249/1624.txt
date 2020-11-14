@@ -1,0 +1,28 @@
+idx, sentence
+0,phóng_viên  sau một thời_gian vào_cuộc phối_hợp với cơ_quan_chức_năng kiểm_tra kỹ_lưỡng  đến thời_điểm này các ông có_thể khẳng_định tố_cáo xây_dựng móng cột_điện kiểu  bê_tông trộn đất  là đúng hay sai 
+1,ông phạm_lạp  đến thời_điểm này  khi đã có kết_quả kiểm_định chất_lượng bê_tông đã được lấy mẫu tại hiện_trường  chúng_tôi có_thể khẳng_định rằng việc phản_ánh của người dân là hoàn_toàn có cơ_sở 
+2,các ông đánh_giá thế_nào về mức_độ vi_phạm trong sự_việc này 
+3,chúng_tôi đánh_giá việc vi_phạm này hết_sức nghiêm_trọng 
+4,chỉ vì việc_làm sai_phạm của một_vài cá_nhân nhưng làm ảnh_hưởng rất lớn đến hình_ảnh và uy_tín của công_ty  làm xáo_trộn đời_sống và việc_làm của hàng ngàn cán_bộ công_nhân_viên của công_ty 
+5,những cá_nhân  đơn_vị nào sẽ phải chịu trách_nhiệm chính trong việc để xảy ra sự_việc này 
+6,việc tự_ý thi_công thêm những cột móng  dù chủ đầu_tư đã yêu_cầu dừng lại  thuộc trách_nhiệm của những ai 
+7,theo phân_cấp quản_lý nội_bộ của công_ty thì giám_đốc đơn_vị trực_thuộc  trưởng_ban chỉ_huy công_trình  đội_trưởng đội xây_lắp  cán_bộ giám_sát kỹ_thuật và một_số cán_bộ liên_quan đều phải chịu trách_nhiệm liên_quan về việc sai_phạm này 
+8,nhưng người chịu trách_nhiệm chính vẫn là đội_trưởng đội xây_lắp  ông nguyễn_văn_toán 
+9,sau khi có kết_luận kiểm_tra  chỉ rõ những vi_phạm  công_ty sông_đà 11 có những giải_pháp  xử_lý cụ_thể nào 
+10,trước_hết xin cảm_ơn các cơ_quan báo_chí  người dân đã phát_hiện và phản_ánh  để cho ban lãnh_đạo công_ty cổ_phần sông_đà kịp_thời xử_lý 
+11,chúng_tôi tiếp_nhận những thông_tin phản_ánh của các cơ_quan báo_chí với tinh_thần và thái_độ hết_sức cầu_thị  không bao_che  dung_túng sai_phạm của cấp dưới 
+12,ngay sau khi có kết_luận kiểm_định chất_lượng bê_tông  hội_đồng kỷ_luật công_ty ra quyết_định kỷ_luật cảnh_cáo giám_đốc  phó giám_đốc phụ_trách thi_công của cn11  7  cách_chức chức_vụ_trưởng_ban chỉ_huy công_trình  cách_chức đội_trưởng đội xây_lắp  cảnh_cáo 2 cán_bộ giám_sát kỹ_thuật  khiển_trách phòng kỹ_thuật công_ty về việc để xảy sai_phạm đáng tiếc này 
+13,yêu_cầu những cán_bộ có liên_quan nói trên phải chịu bồi_thường toàn_bộ những chi_phí phải làm lại các vị_trí móng trên 
+14,việc để xảy ra sự_việc như_vậy cho thấy trách_nhiệm trong việc quản_lý  giám_sát công_trình xây_dựng có lỗ_hổng không nhỏ 
+15,vậy trách_nhiệm của ban lãnh_đạo công_ty trong việc này như thế_nào 
+16,các ông sẽ thực_hiện ngay những giải_pháp nào để chấn_chỉnh và tránh tái_diễn chuyện tương_tự 
+17,qua sự_việc này chúng_tôi thấy việc đôn_đốc kiểm_tra  giám_sát của ban lãnh_đạo công_ty cần phải thường_xuyên hơn 
+18,việc bổ_nhiệm và sử_dụng chỉ_huy_trưởng công_trường cần phải xem_xét quy_trình cẩn_thận và chặt_chẽ hơn 
+19,để xảy ra việc này ban lãnh_đạo công_ty cũng nhận một phần trách_nhiệm của mình 
+20,bởi_vậy cần phải tăng_cường công_tác giám_sát kỹ_thuật tại hiện_trường  thực_hiện báo_cáo hàng ngày bằng văn_bản phải kèm theo những hình_ảnh để lãnh_đạo công_ty kiểm_soát và điều_hành 
+21,phối_hợp với chính_quyền địa_phương nơi công_trình đi qua để giải_quyết các vấn_đề phát_sinh liên_quan công_trình 
+22,đến nay  cơ_quan điều_tra tỉnh nam_định đã cho ý_kiến thế_nào về sự_việc này  theo thông_tin công_ty nắm được 
+23,quan_điểm của phía lãnh_đạo công_ty đối_với việc xử_lý những cá_nhân vi_phạm như thế_nào 
+24,đến nay chúng_tôi chỉ biết cơ_quan điều_tra tỉnh nam_định xuống hiện_trường thu_thập tài_liệu và tìm_hiểu công_trình 
+25,vì đây thuộc về lĩnh_vực chuyên_môn của ngành công_an chúng_tôi không có quyền tham_gia 
+26,quan_điểm của lãnh_đạo công_ty đối_với những cá_nhân có vi_phạm là những cá_nhân có liên_quan phải chấp_hành đúng theo những quyết_định kỷ_luật của công_ty và phải chịu hoàn_toàn chi_phí làm lại 2 vị_trí móng cột trên 

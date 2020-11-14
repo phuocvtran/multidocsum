@@ -1,0 +1,10 @@
+idx, sentence
+0,ngày 2/6  đoàn kiểm_tra liên_ngành vệ_sinh an_toàn thực_phẩm thành_phố vĩnh_long  vĩnh_long  cho biết  vừa_qua đoàn đã tiến_hành kiểm_tra đột_xuất 2 cơ_sở sản_xuất  kinh_doanh mắm  dưa mắm ở phường 4 và phường 5  thành_phố vĩnh_long  tra phát_hiện nhiều sai_phạm  đặc_biệt trong các ụ chứa mắm có rất nhiều dòi 
+1,theo đó  tại cơ_sở sản_xuất mắm minh_truyền  trên đường 8 tháng 3  phường 5  do ông nguyễn_minh_truyền làm_chủ 
+2,qua kiểm_tra  lực_lượng chức_năng phát_hiện trong các ụ chứa mắm có rất nhiều dòi  dụng_cụ chứa không có nắp đậy  người lao_động trực_tiếp chế_biến ở trần  chân trần đạp dưa làm_mắm 
+3,riêng khu_vực sản_xuất là nơi ẩm_thấp nên ứ_đọng nhiều nước  lại gần nhà_vệ_sinh  thiết_bị dùng để ủ mắm là bồn xi_măng cũ  đã qua sử_dụng nhiều năm 
+4,đồng_thời  cơ_sở còn mắc nhiều sai_phạm như  chưa xuất_trình giấy chứng_nhận đăng_ký kinh_doanh  đa_số lao_động không có giấy chứng_nhận sức_khỏe  chưa có kiến_thức và kĩ_năng chuyên_môn 
+5,tại thời_điểm kiểm_tra  cơ_sở có 5 tấn dưa mắm  2 tấn mắm  24 bồn làm_mắm và nhiều mắm thành_phẩm đang chờ tiêu_thụ 
+6,tương_tự  tại cơ_sở mắm mười_kiều  ngụ đường lò_rèn  phường 4  do chị nguyễn_thị_kim_anh làm_chủ 
+7,qua kiểm_tra  lực_lượng chức_năng phát_hiện  cách nơi ủ mắm 15 m có một chuồng gà_con khoảng 40 con  ụ chứa mắm nhiều dòi  không đảm_bảo vệ_sinh an_toàn thực_phẩm 
+8,theo chị anh cho biết  cơ_sở lấy mắm thành_phẩm ở đồng_tháp  châu_đốc  an_giang  về ủ sau đó đem bán 

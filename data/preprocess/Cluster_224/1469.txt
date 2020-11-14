@@ -1,0 +1,10 @@
+idx, sentence
+0,thông_tin từ hệ_thống đài thông_tin duyên_hải việt_nam cho_biết hiện vẫn đang phối_hợp cơ_quan_chức_năng và bộ_đội biên_phòng tỉnh thanh_hóa tìm_kiếm hai ngư_dân mất_tích trên tàu cá 
+1,tàu này mang số_hiệu đna90604_ts của ngư_dân nguyễn_sương  35 tuổi  trú phường nại_hiên_đông  quận sơn_trà  tp đà_nẵng   do ông nguyễn_văn_phú làm thuyền_trưởng 
+2,tối 305  tàu đang đánh_bắt tại khu_vực biển phía nam tây_nam  cách đảo hòn_mê  thanh_hóa  khoảng 7 hải_lý thì bị lật nghiêng và chìm 
+3,thời_điểm bị nạn  trên tàu có 13 ngư_dân  11 người trên tàu may_mắn thoát ra ngoài kịp và được tàu cá đna 90603 ts gần đó cứu sống  hai ngư_dân là anh_em họ của nhau  được xác_định là nguyễn_việt  18 tuổi  và nguyễn_vịnh  28 tuổi  hiện vẫn mất_tích  nghi kẹt bên trong tàu 
+4,đài_thông_tin duyên_hải việt_nam đã yêu_cầu tàu_thuyền hoạt_động trong khu_vực lân_cận tăng_cường trợ_giúp  tìm_kiếm người bị nạn sau khi nhận được thông_tin 
+5,bộ_đội biên_phòng tỉnh thanh_hóa cũng đã điều_động tàu bp 051201 cùng với 8 cán_bộ chiến_sĩ đến hiện_trường để tìm_kiếm nhưng hiện vẫn chưa tìm thấy người bị nạn 
+6,nguyên_nhân ban_đầu khiến tàu chìm được xác_định là do dây cần_cẩu trên tàu bị kẹt dẫn đến việc kéo tàu lật_úp 
+7,được biết  tàu bị chìm là tàu vỏ gỗ hành_nghề lưới_rê lớn nhất đà_nẵng hiện_nay 
+8,tàu đna 90604 ts được đóng theo mẫu tàu cá thái_lan  hạ thủy tháng 52014  có công_suất 1150 cv  dài 21 m  rộng 6 m và cao 38 m  với giá_trị 45 tỉ đồng 

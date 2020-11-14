@@ -1,0 +1,10 @@
+idx, sentence
+0,ngay sau đại_hội thường_niên 2016 của tổng_công_ty hàng_không việt_nam  vietnam_airlines  diễn ra ngày 23/5 ở hà_nội  hội_đồng_quản_trị công_ty đã họp và nhất_trí thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt_vietnam_airlines do thay_đổi công_tác theo phân_công của bộ_chính_trị và ông phạm_ngọc_minh thôi giữ chức tổng_giám_đốc để bổ_nhiệm làm chủ_tịch hội_đồng_quản_trị 
+1,ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc công_ty để nhận chức tổng_giám_đốc 
+2,ngày 1/6 tới  các quyết_định sẽ chính_thức có hiệu_lực 
+3,đây là lần đầu_tiên  sau khi cổ_phần_hóa  vietnam_airlines tiến_hành thay_đổi chức_vụ hàng_loạt lãnh_đạo 
+4,trước đó  vào thời_điểm diễn ra đại_hội cổ_đông thường_niên 2016  cổ_đông cũng thông_qua bầu_cử bổ_sung ông dương_trí_thành vào thành_viên hội_đồng_quản_trị nhiệm_kỳ 2015  2020 
+5,về hoạt_động đầu_tư  vietnam_airlines cho biết sắp hoàn_tất việc đàm_phán hợp_đồng mua_bán cổ_phần với tập_đoàn hàng_không nhật_bản_ana_holdings để tiến_hành ký_kết vào cuối tháng 5/2016 
+6,sau khi hoàn_tất_giao_dịch với ana_holdings_inc  vietnam_airlines sẽ tiếp_tục phát_hành thêm cổ_phần để giảm tỷ_lệ nắm giữ của cổ_đông nhà_nước còn 75   hướng tới giảm tiếp xuống 65  vốn điều_lệ 
+7,năm 2016  vietnam_airlines dự_kiến đạt tổng_sản_lượng vận_chuyển gần 201 triệu lượt khách  doanh_thu hợp nhất là 77800 tỷ đồng  trong đó công_ty mẹ đạt 62900 tỷ  lợi_nhuận trước thuế hợp_nhất toàn tổng_công_ty 2300 tỷ đồng 
+8,năm 2015  công_ty đã hoàn_thành vượt mức các chỉ_tiêu kế_hoạch với tổng_doanh_thu đạt hơn 69000 tỷ đồng  lợi_nhuận trước thuế hợp_nhất 10488 tỷ  tăng hơn 70  so với kế_hoạch 2015  tỷ_lệ lợi_nhuận ròng trên vốn chủ_sở_hữu vượt hơn 73  so với kế_hoạch năm 

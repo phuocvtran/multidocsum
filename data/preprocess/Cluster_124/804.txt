@@ -1,0 +1,17 @@
+idx, sentence
+0,cơ_quan công_an đang bắt giữ 8 đối_tượng trong đường_dây này và thu_giữ 10 kg ma_túy đá  2 bánh heroin  2 xe ô_tô  gần 25 tỷ đồng  hơn 52 ngàn usd  3 khẩu súng  15 viên đạn cùng một_số dụng_cụ khác … trong đó có 2 đối_tượng nguyễn_duy_hùng  sn 1970  quê tỉnh thái_nguyên  và nguyễn_tiến_khanh  sn 1981  quê tỉnh bà_rịa – vũng_tàu  được xác_định là giữ vai_trò cầm_đầu đường_dây buôn_bán ma_túy có quy_mô lớn  hoạt_động liên tỉnh này 
+1,được biết  hùng từng bị kết_án 7 năm tù về tội “ tàng_trữ  sử_dụng trái_phép chất ma_túy ” 
+2,sau khi ra tù hùng mở gara ô_tô lớn tại thái_nguyên  nhưng mục_đích chỉ che_mắt cơ_quan_chức_năng để buôn_bán ma_túy 
+3,từ đầu năm 2016  các trinh_sát của công_an tphcm và bộ công_an phát_hiện có một đường_dây buôn_bán ma_túy đá quy_mô hoạt_động trên địa_bàn tphcm và một_số tỉnh_thành khác 
+4,quá_trình điều_tra  sau đó cơ_quan công_an đã tiến_hành bắt_giữ quả_tang 2 đối_tượng nguyễn_thanh_phú  sn 1986  tạm_trú quận 6  và nguyễn_văn_hữu  sn 1994  tạm_trú quận 12  đang vận_chuyển 2 kg ma_túy đi tiêu_thụ được ngụy_trang trong thùng trái_cây 
+5,từ lời khai của 2 đối_tượng này  các trinh_sát bắt_đầu biết rõ tung_tích của tên cầm_đầu nguyễn_duy_hùng 
+6,đến giữa tháng 5/2016  các trinh_sát phát_hiện hùng và khanh gặp nhau ở gần cao_tốc long_thành – dầu_giây để giao hàng 
+7,sau đó  hùng lái xe ô_tô về đường đinh_bộ_lĩnh  phường 24  quận bình_thạnh  để chuẩn_bị đi với người_yêu 
+8,đúng lúc này  các trinh_sát ập vào  bắt_giữ đối_tượng hùng 
+9,khám_xét trong ô_tô của ông trùm  công_an có thu_giữ 6 kg ma_túy đá  1 khẩu súng k59  15 viên đạn  1 nòng giảm thanh  50 ngàn usd  21 tỷ đồng cùng nhiều giấy_tờ khác 
+10,cùng lúc đó 1 tổ công_tác đeo_bám đã chặn bắt đối_tượng khanh tại một trạm thu phí trên cao_tốc tphcm  long_thành  dầu_giây 
+11,cùng bị bắt_giữ với khanh trên ô_tô còn có 2 đàn_em của đối_tượng này là nguyễn_văn_hải  sn 1980  quê tỉnh bình_thuận  và võ kim_khánh  sn 1987  quê tỉnh phú_yên  
+12,công_an cũng có thu_giữ nhiều tang_vật ma_túy và súng trên ô_tô 
+13,hàng_loạt các chân_rết  đại_lý thứ cấp trong đường_dây của hùng  khanh đã bị lực_lượng công_an bắt_giữ ngay sau đó 
+14,tại cơ_quan điều_tra  hùng khai nhận đã mua ma_túy từ một người quốc_tịch trung_quốc ở cửa_khẩu tân_thanh  tỉnh lạng_sơn  với giá 200 triệu đồng / kg 
+15,sau đó hùng trực_tiếp lái ô_tô chuyển hàng vào tphcm để bán cho khanh với giá 350 triệu đồng / kg  tức hưởng lợi 150 triệu đồng / kg 

@@ -1,0 +1,8 @@
+idx, sentence
+0,khoảng 15 h chiều ngày 23/5  một vụ tai_nạn giao_thông xảy ra trên quốc_lộ 1a  qua địa_bàn xã an_hiệp  huyện châu_thành  tỉnh sóc_trăng  khiến nhiều người đi đường hoảng_hồn 
+1,theo đó  trong lúc đang lưu_thông hướng từ tp cần_thơ về bến_xe trung_tâm sóc_trăng  chiếc xe_khách giường nằm của hãng xe phương_trang mang bks 51b135  03 bất_ngờ lao lên vỉa_hè  đâm gãy nhiều cây_xanh ven đường  sau đó đâm gãy lìa trụ điện trung thế 
+2,dù trụ điện cao khoảng 10 m và rất nặng nhưng chiếc xe_khách đã “ bứng ” cột_điện này và đẩy đi cách vị_trí cũ khoảng 3 m mới chịu dừng lại 
+3,không chỉ vậy  chiếc xe còn đâm hư_hỏng chốt canh của trạm cân tải_trọng xe ven đường 
+4,tại hiện_trường cho thấy  đầu xe_khách bị hư_hỏng nặng  kính chắn gió phía trước bị vỡ 
+5,theo một nhân_chứng  tai_nạn xảy ra khi trong xe có khoảng 10 khách 
+6,khoảng 3  4 người bị_thương nhẹ được chuyển đến bệnh_viện điều_trị 

@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 195  tand tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử sơ_thẩm và tuyên_phạt bị_cáo nguyễn_ngọc_nguyên  31 tuổi  ngụ tổ 8  prạch_sỏi  tprạch_giá  kiên_giang  án chung_thân về tội “ giết người ” 
+1,theo cáo_trạng  ngày 23122015  sau khi nhậu cùng bạn_bè  nguyên về nhà vợ tại xã vĩnh_hòa_hiệp  hchâu_thành  kiên_giang  ngủ 
+2,tối cùng ngày  trong lúc nguyên và vợ là lê_thị_hậu  22 tuổi  ăn cơm thì xảy ra tranh_cãi chuyện tiền_bạc 
+3,trong lúc cự cãi  nguyên doạ nếu vợ nếu không đưa tiền thì sẽ chém 
+4,bị vợ thách_thức  nguyên bực_tức ra sau bếp lấy con dao rồi chém vợ khiến nạn_nhân_tử_vong tại_chỗ 
+5,lúc này  bà trần_thị_giêng  48 tuổi  mẹ vợ nguyên  chạy vào cũng bị nguyên rượt chém nhiều nhát vào người khiến bà giêng bị_thương ở tay và vai 
+6,bà giêng may_mắn chạy thoát được ra ngoài và trốn phía sau nhà hàng_xóm 
+7,gây_án xong  nguyên bỏ về nhà mẹ ruột ở phường rạch_sỏi  tprạch_giá và sau đó ra đầu_thú 

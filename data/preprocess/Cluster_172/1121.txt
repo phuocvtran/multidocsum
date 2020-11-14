@@ -1,0 +1,6 @@
+idx, sentence
+0,theo nội_dung vụ_án  vào_khoảng 13 h chiều 3132014  trong lúc tuần_tra trên địa_bàn  tổ công_tác công_an phường trường_thọ phát_hiện nguyễn_thanh_hải  sn 1993  ngụ huyện củ_chi  tp hồ_chí_minh  điều_khiển xe_gắn_máy  phía trước có treo túi_xách với biểu_hiện đáng ngờ 
+1,qua công_tác kiểm_tra đối_tượng hải  công_an thu_giữ 2 bịch nylon và 3 gói hình_chữ_nhật dán băng keo bên trong là chất bột màu trắng  qua giám_định của phòng kỹ_thuật hình_sự công_an tp hồ_chí_minh là chế_phẩm heroin trọng_lượng 105 kg 
+2,quá_trình điều_tra  ngày 3032014  hải khai nhận thông_qua người bạn tên lâm  không rõ lai_lịch  giới_thiệu cho hải biết một người tên phi  chưa rõ lai_lịch  nhờ hải cất_giấu 1 túi nilon màu đen bên trong chứa heroin không rõ trọng_lượng  trả tiền công mỗi ngày 500 nghìn đồng 
+3,hải mang về cất_giấu tại bụi chuối trước nhà 
+4,lo_sợ bị phát_hiện  trưa 3132014  khi đang trên đường mang số ma_túy trên sang xưởng gỗ nơi hải đang làm_việc để cất_giấu thì bị công_an phường trường_thọ bắt_giữ như trên 

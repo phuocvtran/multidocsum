@@ -1,0 +1,9 @@
+idx, sentence
+0,chiều 21/5  hagl đã phải nhận trận thua đậm 14 trên sân của sanna khánh_hòa 
+1,trận thua này khiến đội bóng phố núi tiếp_tục đứng ở vị_trí thứ 12 trên bxh_vleague 
+2,phát_biểu sau trận đấu  hlv nguyễn_quốc_tuấn thừa_nhận hagl thất_bại trong một trận đấu họ chơi dưới sức mình với một tinh_thần thi_đấu không tốt 
+3,ông tuấn nói   ngày hôm_nay  các em thi_đấu thiếu tập_trung và tinh_thần thi_đấu của các em cũng không tốt  
+4, ngoài_ra  thời_tiết oi_bức cũng khiến chúng_tôi gặp khó về thể_lực và đó là một trong những nguyên_nhân khiến chúng_tôi thất_bại  
+5, đội_bóng đã có bàn thắng sớm nhưng sau tình_huống đó  toàn đội chơi tệ và để thua những bàn thua rất ngớ_ngẩn  
+6, hiện_tại  trong đội_hình hagl thiếu một cầu_thủ có tố_chất thủ_lĩnh để điều_chỉnh nhịp_độ trên sân và thúc_đẩy tinh_thần các cầu_thủ  
+7,trong khi đó  hlv võ_đình_tân của đội chủ nhà skhánh_hòa cho rằng họ có chiến_thắng là do đã phân_tích kỹ lối chơi của hagl  đồng_thời cố_gắng đa_dạng lối chơi  hạn_chế sự phụ_thuộc vào uche 

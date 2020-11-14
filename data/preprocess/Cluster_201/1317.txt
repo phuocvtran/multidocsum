@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 1/6  trao_đổi với pv dân_trí  lãnh_đạo xã tam_thanh  tp tam_kỳ  quảng_nam  xác_nhận  trên địa_bàn vừa xảy ra một vụ điện giật làm một bé trai tử_vong 
+1,theo thông_tin  chiều tối ngày 31/5  cháu nguyễn_thành_công  11 tuổi  trú thị_xã điện_bàn  quảng_nam  được nghỉ_hè và được mẹ dẫn về quê ngoại chơi 
+2,tại đây cháu ra khu_vực quảng_trường biển tam_thanh  thuộc tp tam_kỳ  quảng_nam  chơi 
+3,trong lúc đi xe_đạp dạo quanh địa_điểm trên  bất_ngờ cháu bị vướng vào một đường_dây_điện dân_sinh cũ của nhà_hàng gần đó nên bị điện giật tử_vong 
+4,sau khi sự_việc xảy ra  lực_lượng chức_năng địa_phương đã có_mặt tại hiện_trường để điều_tra 
+5,sau đó  cơ_quan_chức_năng đã bàn_giao thi_thể nạn_nhân cho gia_đình lo hậu_sự 
+6,theo quan_sát  tại hiện_trường  khoảng_cách từ trụ điện đến nhà_hàng khá xa nhưng chủ nhà_hàng chỉ dùng một cây cột để nâng dây_điện nên đường_dây bị sà xuống sát đất 
+7,nhà hàng nằm trong diện giải_tỏa và không hoạt_động nhưng vẫn thắp điện để phục_vụ các nhân_viên trông giữ nhà_hàng 

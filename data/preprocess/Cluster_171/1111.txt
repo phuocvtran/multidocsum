@@ -1,0 +1,13 @@
+idx, sentence
+0,với những thành_công nhất_định  thời_gian qua  đông_nhi và ông cao_thắng bắt_đầu lấn_sân sang lĩnh_vực tìm_kiếm và đào_tạo tài_năng 
+1,mới_đây  cả hai đã chính_thức trở_thành huấn_luyện_viên giọng_hát việt nhí 2016 
+2,ngoài_ra  cặp_đôi này còn vừa ra_mắt nhóm nhạc nữ mang tên lip_b cuộc thi tìm_kiếm nhóm nhạc nữ tài_năng lần này do chính công_ty sixth_sense_entertainment của ông cao_thắng nắm vai_trò sản_xuất 
+3,điểm đặc_biệt của cuộc thi là không chỉ dành riêng cho các bạn yêu_thích ca_hát mà_còn hướng tới các bạn gái đam_mê trình_diễn với nhạc_cụ 
+4,ông cao_thắng chia_sẻ   thắng hy_vọng sẽ có_thể tìm_kiếm và thành_lập được một ban nhạc nữ tài_năng  vừa có chất giọng tốt vừa có_thể chơi được nhạc_cụ nhuần_nhuyễn  góp_phần thổi một luồng gió mới vào nền âm_nhạc việt_nam  
+5,giám_khảo của chương_trình là ca_sĩ đông_nhi  nhạc_sĩ hồ_hoài_anh và nhạc_sĩ trẻ đỗ_hiếu 
+6,là giọng ca nữ rất được yêu_thích hiện_nay  đông_nhi cho biết cô sẽ giúp các bạn gái tự_tin hơn về phong_cách trình_diễn  ngoại_hình khi đứng trên sân_khấu và đặc_biệt là tinh_thần vững_vàng để tiến gần hơn đến với giấc mơ 
+7,với nhiều năm kinh_nghiệm trong nghề  nhạc_sĩ hồ_hoài_anh sẽ phụ_trách tập_huấn phần chuyên_môn  nhạc_lý  kỹ_năng chơi nhạc_cụ cho các thí_sinh 
+8,là một nhạc_sĩ trẻ tài_năng với nhiều bản hit gần đây  đỗ_hiếu sẽ tư_vấn cho thí_sinh chọn được phong_cách và định_hướng âm_nhạc phù_hợp với thị_hiếu hiện_nay 
+9,cuộc thi sẽ chính_thức bắt_đầu từ ngày 305 đến hết ngày 87  bao_gồm 2 vòng thi  vòng_audition trực_tuyến và vòng chung_kết 
+10,kết_thúc vòng audition  ban giám_khảo sẽ chọn ra top 9 nữ thí_sinh xuất_sắc nhất tham_gia vào khóa huấn_luyện chuyên_sâu cùng với ca_sĩ đông_nhi  nhạc_sĩ hồ_hoài_anh  nhạc_sĩ đỗ_hiếu và các chuyên_gia hàng_đầu khác 
+11,sau đó  ban giám_khảo sẽ chọn ra 3 thành_viên xuất_sắc nhất  để thành_lập nhóm nhạc nữ tài_năng hello_yellow 

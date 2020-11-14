@@ -1,0 +1,7 @@
+idx, sentence
+0,đây là bước đệm để montenegro trở_thành thành_viên thứ 29 của nato  và là bước_đi mang tính tượng_trưng  vì trùng với kỷ_niệm 10 năm ngày độc_lập của montenegro 
+1,thủ_tướng dukanovic cho biết  sau 10 năm kể từ ngày độc_lập  montenegro đang tiến gần hơn tới việc trở_thành thành_viên chính_thức của nato 
+2,đây là minh_chứng cho thấy montenegro có tầm nhìn rõ_ràng về tương_lai đất_nước  cũng như cam_kết của quốc_gia để gia_nhập nato 
+3,đây là bước_tiến của quốc_gia này về phía nato sẽ tác_động đến việc tăng_cường sự ổn_định và an_ninh trong khu_vực tây_balkan 
+4,về_phần mình  tổng_thư_ký nato_jens_stoltenberg cho rằng  nghị_định thư vừa được ký_kết mới chỉ là bước đệm trong tiến_trình đưa montenegro trở_thành thành_viên đầy_đủ của nato và quốc_gia này cần tiếp_tục thực_hiện các cải_cách 
+5,28 nước thành_viên nato cần 18 tháng để phê_chuẩn thỏa_thuận gia_nhập nato của montenegro 

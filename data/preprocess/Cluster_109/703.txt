@@ -1,0 +1,20 @@
+idx, sentence
+0,với tổng_doanh_thu đạt 436 tỉ usd năm 2015  ab_inbev đã liên_tục giữ vững vị_trí tập_đoàn bia lớn nhất thế_giới trong suốt nhiều năm liền 
+1,theo bảng xếp_hạng brandz 2015  trong danh_mục 200 thương_hiệu đa_dạng mà ab_inbev sở_hữu  có đến 4 nhãn nằm trong 5 nhãn hàng bia có giá_trị nhất toàn_cầu 
+2,trong đó  budweiser đứng vị_trí đầu_bảng với giá_trị thương_hiệu lên đến gần 14 tỉ usd 
+3,tháng 5 năm 2015 vừa_qua  với mục_tiêu đẩy_mạnh đầu_tư tại thị_trường việt_nam cũng như mang đến những sản_phẩm tươi mới nhất cho người_yêu bia tại việt_nam  công_ty đã chính_thức khánh_thành máy ab_inbev tối_tân tại bình_dương 
+4,việc khánh_thành nhà_máy sản_xuất bia đầu_tiên của ab_inbev tại việt_nam đã gây sự chú_ý trong toàn ngành bia ở việt_nam và khu_vực 
+5,trong số 55 nhà_máy sản_xuất budweiser trên thế_giới  nhà_máy ở việt_nam nằm trong nhóm bảy nhà_máy được đầu_tư hệ_thống công_nghệ và quy_trình tối_tân nhất 
+6,theo đó  nhà_máy bia này sẽ mang đến cho người tiêu_dùng việt_nam sản_phẩm bia_budweiser_tươi mới nhất với chất_lượng thượng_hạng không_đổi từ 140 năm qua 
+7,được xây_dựng trên diện_tích 100000 m2 với công_suất 25 triệu lít bia mỗi năm  nhà_máy còn có khả_năng mở_rộng năng_lực sản_xuất lên gấp đôi trong tương_lai 
+8,sau một năm nhà_máy chính_thức khánh_thành  ab_inbev đã thành_công mang những sản_phẩm chất_lượng thượng_hạng và tươi mới cho người tiêu_dùng  gia_tăng mức_độ hiện_diện thương_hiệu trong phân khúc bia cao_cấp tại việt_nam 
+9,song_song việc đáp_ứng tốt nhu_cầu trong nước  nhà_máy ab_inbev tại bình_dương còn có khả_năng trở_thành bàn_đạp để đưa sản_phẩm đến các thị_trường khác trong khu_vực đông_nam_á 
+10,tại việt_nam  ab_inbev cũng rất chú_trọng các hoạt_động trách_nhiệm cộng_đồng  viết tắt là csr  để khuyến_khích người tiêu_dùng thưởng_thức bia có trách_nhiệm 
+11,điển_hình_như chương_trình thường_niên vào ngày_hội uống bia có trách_nhiệm toàn_cầu  đây là hoạt_động của ab_inbev nhằm truyền_tải các thông_điệp và nâng cao ý_thức_uống bia có trách_nhiệm trong cộng_đồng và là một phần trong cam_kết hàng năm của công_ty tại thị_trường địa_phương và quốc_tế để kêu_gọi việc thưởng_thức các sản_phẩm có cồn có trách_nhiệm 
+12,ngoài_ra  ab_inbev cũng mong_muốn đẩy_mạnh các hoạt_động thương_hiệu tại việt_nam  đặc_biệt là budweiser với những chương_trình quy_mô để mang đến trải_nghiệm đặc_sắc cho người tiêu_dùng 
+13,điển_hình_như đầu tháng 10 năm 2015 vừa_qua  budweiser tiếp_tục chuỗi hoạt_động âm_nhạc toàn_cầu made_for_music tại việt_nam với sự trở_lại của cuộc thi budjs  một sân_chơi thường_niên của budweiser dành riêng cho những người yêu thích edm  nhạc_điện_tử  
+14,dịp này  quy_mô của budjs đã được budweiser_đẩy lên một tầm cao mới  quy_tụ 30 dj tài_năng hàng_đầu của việt_nam 
+15,các dj trong danh_sách đề_cử  được gọi_là budj có cơ_hội cọ sát thực_tế đa_dạng ở trong nước và nước_ngoài để tiến tới danh_hiệu “ budj 2015 ” của budweiser qua bình_chọn của hàng triệu người hâm_mộ trong cả nước 
+16,không chỉ dừng lại ở đó  budweiser còn tạo điều_kiện cho các tài_năng trong nước tiếp_xúc với các dj hàng_đầu thế_giới như chuyến hành_trình khám_phá cuộc vui đỉnh_cao budweiser_storm  tại thẩm_quyến  với sự hội_tụ của các dj hàng_đầu thế_giới  trải_nghiệm đứng cùng sân_khấu với dj huyền_thoại tiesto  hạng 5 thế_giới  trong đêm chung_kết budjs 2015 hay cơ_hội đến với thiên_đường âm_nhạc_điện_tử tomorrowland 
+17,có_thể nói  budjs 2015 đã tạo nên những nhịp đập mạnh_mẽ cho đời_sống văn_hoá âm_nhạc_điện_tử tại việt_nam 
+18,điều này thế hiện được mục_tiêu đặt những viên gạch chắc_chắn cho sự đầu_tư dài_hạn vào thị_trường âm_nhạc_điện_tử của budweiser 

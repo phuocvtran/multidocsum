@@ -1,0 +1,4 @@
+idx, sentence
+0,theo cáo_trạng  ngày 30/3/2015  hải đến cầu_vượt tân_thới_hiệp  quận 12 gặp hai đối_tượng tên phi và bảo để nhận hơn 1 kg ma_túy 
+1,trên đường đi tiêu_thụ số ma_túy trên thì hải bị công_an quận thủ_đức bắt_giữ 
+2,hội_đồng xét_xử nhận_định_lượng ma_túy hải mua_bán trái_phép là rất lớn  nếu số ma_túy trên tuồn ra được ngoài xã_hội sẽ cực_kì nguy_hiểm 

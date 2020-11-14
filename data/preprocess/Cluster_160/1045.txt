@@ -1,0 +1,26 @@
+idx, sentence
+0,chiếm_dụng 18 tỷ đồng suốt 3 năm ban quản_trị chung_cư the_harmona cho biết  không_chỉ chủ đầu_tư cầm_cố dự_án và căn_hộ của dân cho ngân_hàng bidv mà_còn “ ôm ” quỹ bảo_trì của cư_dân là 18 tỷ đồng chưa kể lãi_suất 
+1,trong 3 năm qua  ban quản_trị đã nhiều lần có văn_bản gửi đến chủ đầu_tư là công_ty cổ_phần thanh_niên  thanh_niên corp  và công_ty cổ_phần vật_tư xuất_nhập_khẩu tân_bình  tamexim  nhưng công_ty này vẫn “ phớt_lờ ” yêu_cầu chính_đáng đó 
+2,trước tình_hình trên  ban quản_trị chung_cư the_harmona cho biết sẽ tiếp_tục có đơn kiến_nghị ubnd quận tân_bình  sở xây_dựng tphcm có biện_pháp cưỡng_chế để buộc chủ đầu_tư bàn_giao lại số tiền quỹ bảo_trì trên cho cư_dân 
+3,tại hội_nghị cư_dân bất_thường chiều 29/5  nhiều cư_dân đã vây lấy chủ đầu_tư để phản_đối về những việc mà thanh_niên corp và tamexim đã gây ra 
+4,do thanh_niên corp không có_mặt nên chỉ có ông vũ_tuấn_khanh  đại_diện tamexim “ chịu_trận ” với cư_dân 
+5,ông khanh thừa_nhận có việc chủ đầu_tư chiếm_dụng quỹ bảo_trì 
+6,ông khanh cho biết  tamexim cũng đã có kế_hoạch hoàn_trả khoản phí này nhưng do quá khó_khăn nên chưa thu_xếp được 
+7,trong tuần này  công_ty sẽ có văn_bản trả_lời cư_dân về thời_hạn bàn_giao quỹ bảo_trì này 
+8,ông khanh cũng thay_mặt chủ đầu_tư xin_lỗi cư_dân về những “ phiền_toái ” đã gây ra 
+9,tamexim cam_kết sẽ tất_toán phần tiền vay tại ngân_hàng bidv chi_nhánh bắc sài_gòn trước ngày 15/6 
+10,ông khanh cho biết  hiện các công_đoạn làm sổ hồng cho cư_dân đã hoàn_tất  hồ_sơ cũng đã gửi sở tài_nguyên  môi_trường nhưng chưa được nhận sổ hồng vì sổ_đỏ hiện đang cầm_cố ở ngân_hàng 
+11,cư_dân yêu_cầu ông khanh trưng ra bằng_chứng về tiến_độ làm sổ hồng chứ không_thể nói_suông 
+12,ông khanh không cung_cấp được nên cư_dân càng thêm bức_xúc 
+13,“ nếu đúng_hẹn mà các ông không chuộc sổ_đỏ được thì các ông tính sao  
+14,tôi nói thật  chúng_tôi mất nhà thì các ông cũng phải ở tù ”  một cư_dân phản_ứng gay_gắt 
+15,tamexim “ né ” trả_lời văn_bản “ lạ ” cư_dân the_harmona cũng yêu chủ đầu_tư làm rõ những văn_bản “ lạ ” trong giao_dịch giữa ngân_hàng bidv với chủ đầu_tư và một_vài cá_nhân khác 
+16,cụ_thể  ngày 1/3/2016  bidv đã có văn_bản gửi thanh_niên corp và một cá_nhân tên đào việt_cường để đòi nợ 
+17,tại văn_bản này  bidv cho biết đang nhận cầm_cố hàng_loạt căn_hộ  c3 – 3  c3_– 4  c3 – 5  c3_– 6 … thuộc dự_án the_harmona để đảm_bảo khoản vay của ông đào việt_cường 
+18,hiện khoản nợ trên đã quá_hạn thanh_toán gốc và lãi kể từ ngày 21/1/2016 
+19,khoản vay đã được ngân_hàng cơ_cấu lại vào ngày 29/6/2012 
+20,bidv đề_nghị thanh_niên corp hỗ_trợ ngân_hàng thu_hồi nợ vì ông đào việt_cường là nhân_viên công_tác tại thanh_niên corp 
+21,trong khi đó  nhiều khách_hàng bị cầm_cố căn_hộ cho biết  trước đó họ đã ký hợp_đồng mua_bán với chủ đầu_tư 
+22,điển_hình  ngày 22/6/2012  ông nguyễn_văn_tuấn và bà đỗ_thị_yến linh đã ký hợp_đồng mua_bán căn_hộ số c3 – 4 với thanh_niên corp 
+23,như_vậy  nếu đã cơ_cấu lại vào ngày 29/6/2012  bidv không_thể nói không biết tài_sản mình đang cầm_cố đã bị chủ đầu_tư mang đi bán 
+24,trước tình_hình trên  hiện các cư_dân không biết thực_tế căn_hộ của mình đang có bao_nhiêu tổ_chức  cá_nhân mang đi cầm 

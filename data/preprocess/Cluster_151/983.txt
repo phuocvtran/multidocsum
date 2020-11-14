@@ -1,0 +1,15 @@
+idx, sentence
+0,hđxx không đồng_tình với quan_điểm luật_sư bào_chữa là bị_cáo phạm_tội thuộc trường_hợp giết người trong trạng_thái tinh_thần kích_động mạnh 
+1,tòa cùng quan_điểm với công_tố  đây là trường_hợp giết người mang tính côn_đồ điểm n khoản 1 điều 93 blhs 
+2,theo hồ_sơ  sáng 982015  bông ngồi uống rượu với mấy người bạn tại phòng trọ trên đường rạch_lồng_đèn  phường 7  quận 8   trong đó có vợ_chồng anh lưu_minh_đương 
+3,trong lúc nhậu  bông chụp ảnh vợ đương bằng điện_thoại_di_động mà không xin_phép nên xảy ra mâu_thuẫn 
+4,sau đó  bông tự xóa hết file ảnh rồi đưa điện_thoại vợ đương kiểm_tra 
+5,chiều cùng ngày  do vẫn còn bực_tức chuyện bị chụp ảnh lén  vợ đương rủ thêm một người bạn đến tìm gặp bông  rồi hai bên có lời qua tiếng lại 
+6,bông tát người bạn kia một cái  dẫn đến chảy máu mũi 
+7,cả hai quay về kể lại với đương 
+8,sợ bị đương trả_thù  bông lấy con dao giấu vào lưng quần trước khi ra ngoài uống cà_phê 
+9,khi đến trước quán cà_phê  bông gặp đương đi cùng hai người bạn 
+10,đương đi đến định đánh bông nhưng được can_ngăn 
+11,lúc này  em họ của đương đang ngồi trong quán cà_phê nhìn thấy đánh nhau liền cầm cục gạch trong quán chạy đến để bênh anh 
+12,nghĩ nguời này đến đánh mình  bông rút con dao thủ sẵn trong người đâm một nhát trúng ngực trái của anh này rồi bỏ chạy  vứt dao xuống mương nước 
+13,nạn_nhân được đưa đi cấp_cứu nhưng không qua khỏi do vết_thương đâm_thủng tim 

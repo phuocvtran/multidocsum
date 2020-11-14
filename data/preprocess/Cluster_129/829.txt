@@ -1,0 +1,6 @@
+idx, sentence
+0,khoảng 14 giờ 15 phút ngày 235  trên tuyến quốc_lộ 1  đoạn thuộc ấp an_trạch  xã an_hiệp  hchâu_thành  sóc_trăng   xe_khách giường nằm bs 51b  13503 của hãng xe phương_trang lưu_thông từ hướng tỉnh hậu_giang về tpsóc_trăng  sóc_trăng  
+1,khi đến đoạn đường trên  xe_khách giường nằm bất_ngờ mất lái  leo lên lề_đường  chạy băng qua cống thoát nước  tông gãy cột_điện trung thế  rồi tông sập lô_cốt trạm cân  nơi lực_lượng csgt thường túc_trực để kiểm_tra xe quá_tải  
+2,vụ tai_nạn khiến đầu xe_khách bị biến_dạng  kiếng trước nứt  nhiều kiếng hông xe vỡ nát 
+3,hai người khách trên xe bị_thương 
+4,rất mai thời_điểm xảy ra tai_nạn  trong lô_cốt trạm cân không có csgt ngồi trực 

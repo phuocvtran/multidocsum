@@ -1,0 +1,3 @@
+idx, sentence
+0,theo afp  hãng hàng_không lớn nhất khu_vực mỹ latinh_latam ngày 30/5 cho biết sẽ ngừng các chuyến bay của hãng tới quốc_gia đang chìm trong khủng_hoảng venezuela trong một khoảng thời_gian không giới_hạn  sau một động_thái tương_tự của hãng hàng_không đức_lufthansa 
+1,latam đã thông_báo về việc ngừng các chuyến bay tới venezuela trong một tuyên_bố  viện_dẫn  tình_hình kinh_tế vĩ_mô phức_tạp  đang tác_động đến venezuela  quốc_gia đang rơi vào khủng_hoảng_kinh_tế và chính_trị 

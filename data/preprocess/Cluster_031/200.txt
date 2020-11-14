@@ -1,0 +1,11 @@
+idx, sentence
+0,trả_lời pv báo người đưa_tin  ông triệu_đình_nhã  chủ_tịch hđqt  giám_đốc hợp_tác_xã dvsx_nông_nghiệp thôn triều_khúc  xã tân_triều  thanh_trì  hà_nội cho biết  đã nhận được thông_tin gia_đình ông trần_công_ứng  62 tuổi  ở số 10 xóm lẻ  triều_khúc  tân_triều  thanh_trì  phản_ánh về hóa_đơn tiền điện gần 20 triệu đồng 
+1,theo ông nhã  vào chiều ngày 18/5  đơn_vị đã làm_việc với gia_đình ông trần_công_ứng về vấn_đề này 
+2,ông nhã cũng cho biết  sẽ đưa đồng_hồ nước đi kiểm_định để tìm_hiểu rõ về việc giá điện nước tăng cao 
+3,trong khi đó  ông nguyễn_hữu_vỵ  chủ_tịch xã tân_triều cũng cho hay  “ về việc tiền nước nhà ông ứng tăng cao bất_thường  chúng_tôi sẽ làm_việc với hợp_tác_xã  tìm_hiểu xem nguyên_nhân và hướng giải_quyết của hợp_tác_xã như thế_nào 
+4,theo tôi việc này có_thể do đồng_hồ hoặc hệ_thống nước  chúng_tôi phải xác_định nguyên_nhân có_thể đưa đồng_hồ đi kiểm_định ” 
+5,trước đó  gia_đình ông trần_công_ứng  xóm lẻ  thôn triều_khúc  xã tân_triều  thanh_trì  hn  cho biết  hóa_đơn tiền nước sinh_hoạt của gia_đình trong tháng 4/2016 lên tới gần 20 triệu đồng  ứng với 1029 m3 nước  
+6,trong khi đó  gia_đình ông ứng gồm 6 người  4 người_lớn và 2 trẻ nhỏ  hàng tháng chỉ sử_dụng khoảng 200000  280000 tiền nước / tháng 
+7,bất_ngờ vì hóa_đơn tiền nước cao bất_thường  ông ứng đã phản_ánh lên hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp triều_khúc  đơn_vị quản_lý điện  nước của xã tân_triều 
+8,tuy_nhiên  cán_bộ ở đây khẳng_định  nhân_viên chốt số đã ghi lại đúng số nước gia_đình ông ứng dùng 
+9,và yêu_cầu trước ngày 24/5  gia_đình phải đóng tiền nước nếu không sẽ bị cắt nước 

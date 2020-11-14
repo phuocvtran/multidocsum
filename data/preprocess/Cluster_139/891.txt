@@ -1,0 +1,19 @@
+idx, sentence
+0,thời_gian qua  cụ ông này có đơn tố_cáo một_số cán_bộ xã có biểu_hiện tham_nhũng trong quá_trình xây trường tiểu_học ở xã 
+1,chiều 265  thiếu_tá trần_văn_hùng – phó_trưởng công_an huyện thanh_chương  nghệ_an   cho biết đơn_vị đang tiến_hành điều_tra  truy_tìm hai đối_tượng chém ông nguyễn_quang_lộc  sn 1947  trú xóm 3  xã thanh_tường  huyện thanh_chương  trọng_thương 
+2,ông lộc trình_bày  trước đó lúc 19 giờ tối 245  trong lúc ông từ nhà đi ra mở quán tạp_hóa của gia_đình để bán hàng thì có hai người_lạ_mặt chở nhau trên xe_máy đến bắt_chuyện 
+3,sau đó họ hỏi ông có phải tên là lộc không 
+4,thấy ông lộc trả_lời đúng  một trong hai người đàn_ông nói lát họ sẽ đến quán tạp_hóa của ông để mua hàng 
+5,trong lúc ông lộc đang loay_hoay mở_cửa quán  anh nguyễn_thế_định  trú cùng xóm  chạy sang thông_báo là có hai người đi xe_máy đến hỏi 
+6,sau đó  anh định căn_dặn ông lộc nên cẩn_thận 
+7,nhiều người dân cũng xác_nhận  suốt buổi chiều cùng ngày  hai người đàn_ông này lân_la đi tìm ông lộc 
+8,khoảng hơn 8 giờ tối cùng ngày  lúc này vợ ông lộc cũng ra trông quán cùng chồng thì thấy hai người đàn_ông lạ_mặt quay lại 
+9,một người ngồi yên trên xe  còn một người đi bộ vào bảo ông lộc bán cho một gói bim bim 
+10,ông lộc lấy gói bim bim giao cho khách xong ngồi xuống ghế 
+11,lúc này  vị khách lạ_mặt đi vào chỗ ông lộc ngồi rồi rút dao ra chém khiến ngón_tay cái của bàn_tay trái ông này bị đứt lìa rơi xuống đất  ngón_tay cái của bàn_tay phải bị cắt sâu một_nửa 
+12,“ lúc đó  tôi đưa gói bim bim xong ngồi xuống để hai tay lên đùi 
+13,thấy khách đi vào  tôi cứ nghĩ rằng anh ta đến gần để trả tiền gói bánh nên không đề_phòng gì cả ” – ông lộc kể lại 
+14,ngay sau khi chém ông lộc xong  người đàn_ông lạ_mặt chạy ra chỗ chiếc xe_máy có bạn ngồi chờ rồi cả hai bỏ trốn 
+15,ông lộc được mọi người đưa vào bệnh_viện đa_khoa huyện thanh_chương  sau đó chuyển lên bệnh_viện chấn_thương chỉnh_hình tỉnh nghệ_an để điều_trị 
+16,ông lộc cho biết  ông không hề quen_biết hai người đàn_ông lạ_mặt chém ông 
+17,thời_gian gần đây  ông lộc có làm đơn tố_cáo một_số cán_bộ xã thanh_tường vì đã vi_phạm trong quá_trình sử_dụng tài_chính xây_dựng trường tiểu_học tại xã này  nhưng đến nay đơn tố_cáo của ông vẫn chưa được chính_quyền địa_phương phản_hồi 

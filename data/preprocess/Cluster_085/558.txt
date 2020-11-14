@@ -1,0 +1,13 @@
+idx, sentence
+0,ngày 22/5  đại_tá trương_ngọc_danh  phó_giám_đốc công_an tỉnh cà_mau cho biết  đã chỉ_đạo lực_lượng truy bắt và xử_lý nghiêm vụ chém người xảy ra vào 2 h ngày 20/5  phường 9  thành_phố cà_mau  
+1,công_an cà_mau vừa bắt phan_hoàng_thông  tự cu_thông  để điều_tra vụ truy sát nói trên 
+2,lực_lượng trinh_sát cho biết  những người có liên_quan đến vụ chém người đã lẩn trốn sau khi tham_gia truy sát thái thiện_nhân  ở khóm 3  phường 4  thành_phố cà_mau  
+3,vào lúc 2 h ngày 20/5  gần 20 người đi bằng xe_máy  xông vào quán ăn trên đường nguyễn_trãi  phường 9  thành_phố cà_mau  dùng hung_khí nguy_hiểm để truy sát anh thái thiện_nhân  25 tuổi 
+4,thái thiện_nhân ngủ đêm  trông_coi cơ_sở thiện_thanh_spa  tại số 44  đường nguyễn_trãi  phường 9  thành_phố cà_mau  
+5,khi phát_hiện nhóm người cầm mã_tấu xông tới  anh nhân bỏ chạy vào phía sau quán ăn 
+6,nhưng những người này đổi theo  chém trúng nhiều nhát lên đầu và tay 
+7,gia_đình nạn_nhân đã trình_báo_vụ_việc với công_an thành_phố cà_mau và chở anh này đi cấp_cứu 
+8,các bác_sĩ bệnh_viện đa_khoa cà_mau khâu 27 mũi các vết_thương trên đầu và tay_trái 
+9,trước đó  bà thái thiện_thanh nhận được tin nhắn trên facebook của một người có “ máu_mặt ” băng_nhóm ở cà_mau với nội_dung “ gặp đâu chém đó  không nói nhiều  ” sau đó  cơ_sở thiện_thanh_spa liên_tục bị khủng_bố bằng gạch đá  nước_sơn  hột_vịt thúi 
+10,bà thái thiện_thanh trình_báo và cầu_cứu công_an phường 4  công_an thành_phố cà_mau can_thiệp  bảo_vệ tính_mạng 
+11,thế nhưng vụ truy sát lại xảy ra như tin nhắn trên facebook trước đó 

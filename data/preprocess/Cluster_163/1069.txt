@@ -1,0 +1,10 @@
+idx, sentence
+0,cụ_thể  tập_đoàn ana mua 8771  cổ_phần của vietnam_airlines với giá_trị 2431 tỷ đồng  tương_đương 109 triệu usd  
+1,dự_kiến sau khi hoàn_tất_giao_dịch vào ngày 1/7  ông lớn hàng_không nhật_bản_chính_thức trở_thành cổ_đông chiến_lược của hãng hàng_không quốc_gia 
+2,mối quan_hệ hợp_tác_chiến_lược này hứa_hẹn giúp vietnam_airlines và tập_đoàn ana khai_thác  tận_dụng thế mạnh của đôi bên  từ đó mở_rộng mạng bay  đẩy_mạnh sản_phẩm 
+3,hai đơn_vị sẽ hợp_tác mở chương_trình khách_hàng thường_xuyên từ 30/10  đồng_thời triển_khai liên_danh trên 30 đường_bay nội_địa nhật_bản  việt_nam và 10 đường_bay quốc_tế giữa hai nước 
+4,khách_hàng thường_xuyên của mỗi hãng có_thể tích_lũy dặm thưởng hoặc được trả thưởng trên các chuyến bay liên_danh 
+5,vietnam airlines và tập_đoàn ana cũng kết_hợp trong nhiều dịch_vụ liên_quan đến làm thủ_tục hành_khách  vận_chuyển hàng_hóa  vận_tải  suất ăn  bảo_dưỡng máy_bay và các dịch_vụ khác tại sân_bay nhật_bản  việt_nam 
+6,ngoài_ra  tập_đoàn ana sẽ hỗ_trợ kỹ_thuật cho vietnam_airlines trên nhiều lĩnh_vực  từ quản_trị  chiến_lược  đến công_tác kỹ_thuật  đào_tạo 
+7,ông phạm_ngọc_minh  tổng_giám_đốc vietnam_airlines nhận_định  “ hợp_tác với tập_đoàn ana  đơn_vị sở_hữu một trong những hãng hàng_không có chất_lượng dịch_vụ hàng_đầu khu_vực và thế_giới giúp chúng_tôi tự_tin hơn trong việc đổi_mới đội tàu_bay  nâng cao chất_lượng dịch_vụ  hoạt_động hiệu_quả hơn ” 
+8,về phía đối_tác nhật_bản  ông shinya_katanozaka  tổng_giám_đốc tập_đoàn ana cho biết  “ qua mối quan_hệ đối_tác kinh_doanh và vốn đầu_tư này  tập_đoàn ana sẽ thúc_đẩy_mạnh hơn nữa các mối quan_hệ kinh_tế  văn_hóa giữa nhật_bản và các quốc_gia châu_á khác như việt_nam ” 

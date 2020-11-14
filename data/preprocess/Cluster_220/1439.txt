@@ -1,0 +1,8 @@
+idx, sentence
+0,phó chủ_tịch ubnd tphcm lê_văn_khoa vừa yêu_cầu ubnd quận 5 rà_soát phương_án hỗ_trợ  bồi_thường  tái_định_cư để vận_động  thuyết_phục 10 hộ dân còn lại khẩn_trương di_dời khỏi chung_cư số 727  đường trần_hưng_đạo  quận 5  
+1,trường_hợp người_dân không chịu di_dời thì thực_hiện cưỡng_chế để đảm_bảo tính_mạng và tài_sản người dân 
+2,bên_cạnh đó  ubnd tp cũng chỉ_đạo quận 5 phối_hợp các cơ_quan liên_quan tiếp_tục theo_dõi  cập_nhật tình_trạng chất_lượng công_trình chung_cư để xử_lý ngay khi có hiện_tượng  nguy_cơ sập đổ nhằm đảm_bảo an_toàn cao nhất cho người dân 
+3,ubnd tp giao công_ty tnhh_mtv dịch_vụ công_ích quận 5  chủ đầu_tư xây_dựng mới chung_cư chịu trách_nhiệm thanh_toán chi_phí kiểm_định chung_cư cho công_ty kiểm_định xây_dựng sài_gòn và liên_hệ  đôn_đốc đơn_vị kiểm_định thực_hiện sớm để sở xây_dựng có cơ_sở triển_khai tiếp các nội_dung liên_quan 
+4,được xây_dựng từ năm 1975  chung_cư 727 có kết_cấu 13 tầng và 1 sân_thượng là nơi sinh_sống của 600 hộ với hơn 2500 nhân_khẩu 
+5,do cơ_sở_hạ_tầng xuống_cấp  không đảm_bảo trong công_tác phòng_chống cháy nổ  cũng như an_toàn tính_mạng người dân nên cuối năm 2007 ubnd tphcm đã chỉ_đạo các ban_ngành liên_quan khẩn_trương di_dời chung_cư này  chậm nhất đến ngày 30/4/2008 phải hoàn_thành 
+6,tuy_nhiên  đến nay  10 hộ dân vẫn chưa rời khỏi căn chung_cư được xem là “ tàn_tạ ” nhất sài_gòn này 

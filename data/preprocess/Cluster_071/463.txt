@@ -1,0 +1,15 @@
+idx, sentence
+0,bóng mới lăn 14 phút  ha_gia_lai đã tìm được bàn thắng mở tỷ_số 
+1,từ quả đá phạt cách khung_thành khánh_hoà_chừng 25 m  cựu trung_vệ của đội_tuyển u19 việt_nam là trần_hữu_đông_triều có cú sút phạt cực_mạnh  làm bó_tay thủ_môn tuấn_mạnh của khánh_hoà  ghi_bàn giúp đội bóng phố núi dẫn trước 10 
+2,sau bàn thua  khánh_hoà dồn lên tấn_công mạnh_mẽ 
+3,cũng không lâu sau khi bị thủng_lưới  đội bóng phố biển có cơ_hội để gỡ hoà 
+4,phút 16  thủ_thành tô vĩnh_lợi bên phía ha gia_lai truy cản trái_phép cầu_thủ của đối_phương trong khu_vực 16 m50  và ha_gia_lai phải chịu phạt_đền 
+5,dù_vậy  từ chấm 11 m  uche của khánh_hoà lại không thắng được thủ_thành tô vĩnh_lợi  và đội chủ nhà không_thể có bàn thắng 
+6,tuy_nhiên  bất_chấp việc không đá thành_công_quả 11 m  bản_thân uche nói_riêng và toàn đội khánh_hoà nói_chung vẫn không xuống tinh_thần  bằng_chứng là họ vẫn ghi liên_tiếp 2 bàn trước khi hiệp 1 kết_thúc 
+7,phút 31  chính uche là người có pha đá phạt trực_tiếp từ khoảng 20 m  đưa bóng qua hàng_rào phòng_ngự của đội khách  làm bó_tay thủ_thành tô vĩnh_lợi bên phía ha gia_lai  san_bằng tỷ_số 11 cho đội bóng phố biển 
+8,chưa hết  chừng 5 phút sau  cũng chính uche là người ghi_bàn thắng thứ 2  giúp cho khánh_hoà vượt lên dẫn trước 
+9,đấy là tình_huống mà hàng thủ của ha_gia_lai bỏ lỏng tiền_đạo ngoại của đội chủ nhà  trước khi uche ung_dung hạ_thủ_môn tô vĩnh_lợi trong pha đối_mặt  21 
+10,sang hiệp 2  cho_dù uche bị chấn_thương và không_thể tiếp_tục hiện_diện trên sân  nhưng lối chơi tấn_công của khánh_hoà vẫn đầy nguy_hiểm  trong khi ha_gia_lai vẫn tỏ ta thiếu kinh_nghiệm trong việc tổ_chức phòng_ngự 
+11,sau một_vài cơ_hội bị bỏ lỡ  khánh_hoà có bàn thắng thứ 3 ở phút 63 
+12,đấy là tình_huống mà các cầu_thủ ha_gia_lai bất_lực trong pha chống bóng bổng  để bóng đến chân_đình_kha bên phía khánh_hoà  rồi cầu_thủ này tung người đá vô lê tuyệt đẹp vào góc gần  nâng tỷ_số lên 31 cho đoàn quân của hlv võ_đình_tân 
+13,chưa dừng lại tại đây  ở phút bù giờ thứ 2 của trận đấu  khánh_hoà ghi thêm 1 bàn nữa  do công của duy_thanh  vẫn đến từ một tình_huống kết_thúc cận thành  ấn_định chiến_thắng 41 cho đội bóng phố biển  đồng_thời khép lại một buổi chiều buồn cho ha gia_lai 

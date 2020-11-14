@@ -1,0 +1,11 @@
+idx, sentence
+0,ông lê_ngọc_thạch  chủ_tịch ubnd phường cam_nghĩa  tp cam_ranh  khánh_hòa  ngày 31/5  xác_nhận  công_an tp cam_ranh  công_an huyện cam_lâm đang điều_tra  truy bắt nhóm đối_tượng đập_vỡ kính  trấn_lột tiền khách đi trên các xe taxi từ tp nha_trang hướng sân_bay cam_ranh 
+1,ông vũ_tiến cường  thanh_tra pháp_chế xử_lý tai_nạn  phòng vận_hành của một hãng taxi đóng tại tp nha_trang  khánh_hòa   cho biết  đơn_vị này đã trình_báo công_an phường cam_nghĩa  tp cam_ranh  về việc một xe taxi của hãng bị các đối_tượng lạ đập_vỡ kính  đòi đưa tiền 
+2,theo ông cường  trước đó vào khoảng 1 h55 ngày 28/5  anh huỳnh_anh_vũ  sn 1979  tp nha_trang   lái_xe taxi mang bks 79a085  45 chở 2 khách từ tp nha_trang đi sân_bay cam_ranh 
+3,khi anh vũ chở khách đi hết đại_lộ nguyễn_tất_thành  đoạn thuộc phường cam_nghĩa  chuẩn_bị vào sân_bay cam_ranh thì bị một_số đối_tượng lạ rất hung_hãn chặn đầu khiến khách hoảng_loạn 
+4,xe taxi của anh vũ_bị các đối_tượng đập_vỡ kính chắn gió phía sau  kính bên tài  hư_hỏng nặng 
+5,ngoài_ra  các đối_tượng còn lấy một bóp của 2 vị khách  bên trong có khoảng 2 triệu đồng 
+6,được biết  vào thời_điểm trên  còn 2 xe taxi của 2 hãng khác cũng bị một_số đối_tượng xịt sơn vào kính chắn gió phía trước  đập_vỡ kính 
+7,tuy_nhiên  các tài_xế đã lùi xe lại và chạy_thoát 
+8,theo chủ_tịch ubnd phường cam_nghĩa  ông lê_ngọc_thạch  đoạn đường các đối_tượng chặn xe taxi nằm giáp_ranh giữa huyện cam_lâm và tp cam_ranh  cách sân_bay cam_ranh hơn 2 km 
+9,hiện cơ_quan công_an đang điều_tra và chưa xác_định được các đối_tượng từ đâu đến 

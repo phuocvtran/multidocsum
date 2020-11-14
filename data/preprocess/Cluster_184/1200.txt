@@ -1,0 +1,12 @@
+idx, sentence
+0,trong ngày 31/5  ván đấu thứ sáu giải cờ_vua vô_địch châu_á diễn ra giữa lê_quang_liêm  elo 2718  và đối_thủ đến từ indonesia  sethuraman  elo 2647  
+1,trong trận đấu này quang_liêm của việt_nam cầm_quân đen và đã giành chiến_thắng thuyết_phục trước kỳ thủ người indonesia 
+2,cũng trong ngày đấu này  gao_rui  elo 2556  đã để thua trận trước đồng_hương trung_quốc wei_yi  elo 2694  nên lê_quang_liêm của việt_nam đã giành lại được vị_trí dẫn_đầu của mình tại giải cờ_vua vô_địch châu_á 
+3,quang liêm hiện_tại bất bại sau sáu ván  bốn thắng  hai hoà   có năm điểm 
+4,bằng điểm_số với anh nhưng kém chỉ_số phụ là wei_yi 
+5,ở ván đấu thứ_bảy diễn ra hôm_nay 1/6  hai đối_thủ dẫn_đầu này sẽ đụng_độ trực_tiếp 
+6,quang liêm có lợi_thế khi cầm_quân trắng 
+7,dù trước đó  tại ván đấu thứ 4 kỳ_thủ việt_nam chịu bất_lợi cầm quân đen và để wei_yang  elo 2611  cầm hoà 
+8,nguyễn_ngọc trường_sơn  elo 2636  cũng đã có bốn điểm  đứng thứ 18 
+9,ở ván thứ_sáu  anh cầm_quân trắng và đã đánh_bại sonaya_deni  elo 2310  
+10,hôm_nay  kỳ_thủ việt_nam sẽ cầm quân đen đối_đầu với igonin_temur  elo 2474  

@@ -1,0 +1,14 @@
+idx, sentence
+0,liên_hợp_quốc ước_tính  có khoảng 50000 người iraq  trong đó có khoảng 20000 trẻ_em mắc_kẹt ở fallujah 
+1,các báo_cáo của tổ_chức này cho thấy hàng trăm gia_đình bị tổ_chức nhà_nước hồi_giáo tự_xưng sử_dụng như “ lá_chắn sống ” tại trung_tâm fallujah 
+2,đàn_ông và các bé trai từ_chối chiến_đấu cho is bị giết_hại không ít  chưa kể  nhiều thường_dân thiệt_mạng trong các vụ pháo_kích vào thành_phố này 
+3,chính_phủ iraq mới_đây lên kế_hoạch tái chiếm fallujah từ tay iraq  nhưng theo các nhà phân_tích  cuộc_chiến giành lại thành_phố này không hề dễ_dàng 
+4,“ đó sẽ là một trận chiến đầy khó_khăn ”  trung_tướng mark_hertling – một chuyên_gia quân_sự nói với cnn 
+5,“ tôi nghĩ rằng sẽ mất nhiều thời_gian để giành lại thành_phố ”  ông hertling nói 
+6,hàng trăm người  trong đó chủ_yếu là phụ_nữ và trẻ_em chạy trốn khỏi fallujah từ hôm 28/5 vừa_qua – khi quân_đội iraq bắt_đầu tấn_công các tay súng is 
+7,những người chạy trốn khỏi thành_phố loạn_lạc kể rằng  họ sống trong khổ_sở vì thiếu lương_thực  nước_sạch và vật_tư y_tế 
+8,hôm_qua  31/5   giao_tranh ác_liệt nổ ra giữa lực_lượng an_ninh iraq với các tay súng is tại rìa phía nam thành_phố 
+9,hiện chưa rõ con_số thiệt_hại hai bên là bao_nhiêu  song is tuyên_bố nhóm này đã giết_hại ít_nhất 25 binh_sĩ iraq  phá_hủy 6 xe quân_đội và ngăn lực_lượng an_ninh iraq tiến về phía nam fallujah 
+10,song  thông_tin này chưa được xác_nhận 
+11,bước tiếp_theo của quân_đội chính_phủ iraq là tiến sâu vào trung_tâm thành_phố  phần nguy_hiểm và gay_cấn nhất của kế_hoạch tái chiếm fallujah 
+12,giai_đoạn mới nhất của kế_hoạch tái chiếm fallujah vừa được công_bố hôm 30/5 vừa_qua bởi phát_ngôn_viên quân_đội iraq_yahya_rasoul trên truyền_hình quốc_gia nước này 

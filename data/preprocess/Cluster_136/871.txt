@@ -1,0 +1,12 @@
+idx, sentence
+0,karius đồng_ý bản hợp_đồng có thời_hạn 5 năm với câu_lạc_bộ đang chơi ở premier_league  sự có_mặt của thủ_môn trẻ này sẽ gây sức_ép mạnh_mẽ lên lựa_chọn số_một hiện_tại ở anfield_simon_mignolet 
+1,thủ_môn 22 tuổi này khi vừa đến liverpool đã được trao chiếc áo số 1 trong khi thủ_môn hay mắc_lỗi mignolet hiện đang đeo áo số 22 
+2,karius tập_luyện tại học_viện trẻ của manchester_city trong hai năm trước khi trở về đức vào năm 2011 để khoác áo câu_lạc_bộ mainz 05 tại bundesliga 
+3,karius sẽ là động_lực cần_thiết cho thủ_môn 16 lần khoác áo tuyển bỉ_mignolet  người gần như luôn chắc suất tại liverpool kể từ khi đến anfield ba năm trước đây dù phong_độ rất thiếu thuyết_phục 
+4,mùa giải 2015  2016  karius ra sân cả 34 trận ở bundesliga  giữ sạch lưới 9 trận để giúp mainz đứng thứ 6 trên bảng xếp_hạng 
+5,anh quyết_định gia_nhập liverpool sau khi nói_chuyện với huấn_luyện_viên klopp 
+6, thật vinh_dự để chơi cho một câu_lạc_bộ như thế_này 
+7,tôi biết rất nhiều về liverpool và thường_xuyên xem họ thi_đấu trên truyền_hình 
+8,tôi hiểu tất_cả về lịch_sử  đội_hình của đội bóng này 
+9,tôi đã nói_chuyện với klopp và tôi đã bị thuyết_phục ngay sau đó   karius phát_biểu trên website của liverpool 
+10,karius là hợp_đồng thứ ba của hlv klopp kể từ khi ông tiếp_quản liverpool vào tháng 102015  sau trung_vệ joel_matip  schalke 04  và tiền_vệ marko_grujic  red_star_belgrade  

@@ -1,0 +1,13 @@
+idx, sentence
+0,đây là nội_dung văn_bản vừa được thứ_trưởng bộ tài_chính đỗ hoàng_anh_tuấn ký gửi lãnh_đạo ngân_hàng nhà_nước về trường_hợp của ngân_hàng thương_mại cổ_phần đầu_tư và phát_triển việt_nam  bidv  và ngân_hàng thương_mại cổ_phần công_thương việt_nam  vietinbank  
+1,lãnh_đạo bộ tài_chính cho rằng  việc phân_chia_phần lợi_nhuận còn lại do tổ_chức tín_dụng  chi_nhánh ngân_hàng nước_ngoài tự quyết_định 
+2,tuy_nhiên  quy_định cũng nêu rõ  “ đối_với tổ_chức tín_dụng là ngân_hàng thương_mại cổ_phần do nhà_nước sở_hữu trên 50  vốn điều_lệ  người đại_diện vốn_nhà_nước tại ngân_hàng phải lấy ý_kiến ngân_hàng nhà_nước việt_nam và thống_nhất với bộ tài_chính về việc phân_chia lợi_nhuận còn lại để biểu_quyết tại đại_hội_đồng cổ_đông  ” cũng theo đại_diện ngành tài_chính  quyền  trách_nhiệm của người đại_diện vốn_nhà_nước là yêu_cầu công_ty cổ_phần  công_ty trách_nhiệm hữu_hạn hai thành_viên trở lên nộp vào ngân_sách nhà_nước khoản lợi_nhuận  cổ_tức được chia tương_ứng với phần vốn_nhà_nước đầu_tư tại công_ty 
+3,qua đó  để đảm_bảo đúng quy_định  lãnh_đạo bộ tài_chính đề_nghị thống_đốc ngân_hàng nhà_nước việt_nam chỉ_đạo người đại_diện phần vốn_nhà_nước tại bidv và vietinbank biểu_quyết chia cổ_tức năm 2015 bằng tiền_mặt và nộp vào ngân_sách khoản được chia cho phần vốn_nhà_nước 
+4,ban_đầu  cả hai ngân_hàng này đều cam_kết sẽ trả cổ_tức bằng tiền_mặt  tỷ_lệ trên_dưới 10  nhưng sau đó đều lỡ_hẹn 
+5,trong đại_hội_đồng cổ_đông thường_niên năm 2015 tổ_chức hồi tháng 4  đại_diện bidv cho biết sẽ trả cổ_tức bằng cổ_phiếu theo tỷ_lệ 85  
+6,ban lãnh_đạo bidv cho rằng  sau khi sáp_nhập với ngân_hàng thương_mại cổ_phần phát_triển nhà đồng_bằng sông_cửu_long  mhb   số_lượng cổ_phiếu bidv tăng lên đồng_nghĩa số_lượng cổ_phiếu chia cổ_tức tăng lên nên sẽ khó giữ được mức cổ_tức_như ban_đầu 
+7,nếu thực_hiện chi_trả cổ_tức bằng tiền_mặt  đại_diện bidv khẳng_định  việc thực_hiện tăng vốn hơn 9400 tỷ trong năm nay sẽ rất khó 
+8,với vietinbank  ban lãnh_đạo ngân_hàng này cho hay  do giao_dịch sáp_nhập với ngân_hàng thương_mại cổ_phần xăng_dầu  pgbank   ngân_hàng này đã trình đại_hội cổ_đông sửa_đổi hợp_đồng sáp_nhập theo hướng vietinbank không được chia cổ_tức trước sáp_nhập  trừ trường_hợp chia cổ_tức trước khi sáp_nhập theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền phù_hợp với quy_định của pháp_luật hoặc chính_sách của nhà_nước  
+9,áp_lực phải tăng vốn là nguyên_nhân chính khiến các ngân_hàng chuyển sang phân_phối lợi_nhuận bằng cổ_phiếu thay_vì tiền_mặt 
+10,tăng vốn bằng chính lợi_nhuận làm ra cũng là mong_muốn nhiều lãnh_đạo các nhà_băng đưa ra khi giải_trình với cổ_đông 
+11,ngoài_ra  nhiều nhà_băng khác lại đã kiên_định với chính_sách không trả cổ_tức từ nhiều năm nay vì mục_tiêu củng_cố vốn chủ sở_hữu 

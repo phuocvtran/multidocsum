@@ -1,0 +1,27 @@
+idx, sentence
+0,xe tự dóng giả xe thương_binh chạy đầy trên phố tuyến_đường giải_phóng  kim_đồng thuộc địa_bàn quận hoàng_mai  giáp_ranh với hai_bà_trưng nơi đội csgt số 14 phụ_trách được xem là “ rốn lũ ” vi_phạm liên_quan đến xe_ba bánh giả xe thương_binh hoạt_động 
+1,không khó để nhận thấy trên dọc tuyến đường giải_phóng tập_trung rất đông lượng xe_ba bánh giả xe thương_binh đứng chờ việc 
+2,đa_phần những lái_xe này đều còn khá trẻ ngồi vắt_vẻo trên ghế lái 
+3,một_số còn đánh_xe chình_ình ra ngay ở ngã ba  mắc võng phía sau thùng_xe vô_tư nằm ngủ mặc cho dòng phương_tiện đi_lại trên đường  cũng như nguy_cơ xảy ra tngt giữa các phương_tiện 
+4,trực_tiếp chỉ_đạo một tổ công_tác đặc_biệt của đơn_vị  trung_tá lê_văn_tiến  đội_trưởng đội csgt số 14 chọn đúng ngã ba kim_đồng – giải_phóng để kịp_thời phát_hiện  xử_phạt đối_với các lái_xe giả_danh xe thương_binh để hoạt_động 
+5,ngoài biên_bản xử_phạt cũng như các trang_thiết_bị  công_cụ hỗ_trợ theo quy_định  tổ công_tác còn huy_động một xe cẩu kéo  xe nâng có tải_trọng lớn để hỗ_trợ cho việc vận_chuyển phương_tiện vi_phạm về bãi tạm giữ 
+6,ít phút sau khi triển_khai đội_hình  tổ công_tác đã phát_hiện  dừng xe kiểm_tra đối_với trương_văn_chỉ ở hoàng_mai  hà_nội đang điều_khiển xe_ba bánh giả xe thương_binh chở hàng phía sau 
+7,qua kiểm_tra  lái_xe chỉ sinh năm 1994 và không xuất_trình được giấy_phép lái_xe  không có đăng_ký xe 
+8,csgt đã lập biên_bản tạm giữ  đưa phương_tiện về bãi theo quy_định 
+9,trong khi thiếu_úy hoàng_văn_khoa đang lập biên_bản xử_phạt đối_với lái xe chỉ thì từ trong phố kim_đồng  chiếc xe_ba bánh do lái_xe đào_văn_sáng  sn 1977  ở phú_xuyên  hà_nội  điều_khiển chở phía sau nhiều loại hàng_hóa lao vút ra đường giải_phóng 
+10,để tránh không bị csgt kiểm_tra  lái_xe này đã cố lách xe chen vào giữa dòng phương_tiện trên đường 
+11,tuy_nhiên  hành_vi của lái_xe này đã bị chỉ_huy tổ công_tác kiên_quyết yêu_cầu dừng phương_tiện  kiểm_tra 
+12,với lỗi điều_khiển xe_ba bánh tự dóng giả xe thương_binh  không có giấy_phép lái_xe  đăng_ký xe  phương_tiện vi_phạm cũng bị csgt ra quyết_định tạm giữ 
+13,huy_động tổng_lực csgt kéo giảm bền_vững vi_phạm ngoài đội csgt số 14  công_tác xử_lý các lỗi vi_phạm nổi_cộm theo thông_báo 149 cũng được chỉ_huy đội csgt số 3 giao trực_tiếp cho đại_úy đinh_tiến_vũ  đội_phó của đơn_vị phụ_trách 
+14,đê la_thành  hoàng_cầu  trường_chinh  là những tuyến đường được đội csgt số 3 tập_trung xử_lý vi_phạm về xe_ba bánh  mũ_bảo_hiểm và dừng đỗ sai quy_định 
+15,thông_tin với pv  đại_úy đinh_tiến_vũ cho biết  trong 7 ngày triển_khai thực_hiện thông_báo 149  đội csgt số 3 đã phát_hiện  kiểm_tra  xử_phạt hơn 200 trường_hợp vi_phạm trong đó có 20 xe ba bánh tự dóng giả xe thương_binh 
+16,đơn_vị cũng đã tạm giữ 16 phương_tiện và hàng chục bộ giấy_tờ xe vi_phạm 
+17,còn tổ công_tác của đội csgt số 4 do trung_úy mai_đức_hiếu chỉ_huy cũng phát_hiện  xử_phạt hàng chục trường_hợp xe_ba bánh vi_phạm  trong đó có nhiều xe giả_danh xe thương_binh 
+18,thống_kê của đội csgt số 14 cho thấy  trong 10 ngày  từ ngày 15/5  25/5   đơn_vị đã tạm giữ 40 phương_tiện xe_ba bánh  trong đó  có nhiều trường_hợp là thương_binh giả  xe ba bánh tự chế 
+19,“ có tới 90  các phương_tiện xe_ba bánh lưu_thông trên đường đều là xe tự chế  tự lắp_ráp  trong đó  có nhiều trường_hợp là xe_ba bánh đội_lốt xe thương_binh 
+20,một điểm chung của những dòng xe ba bánh tự chế  mạo_danh xe thương_binh là người điều_khiển thường rất trẻ  sức_khỏe tốt 
+21,quá_trình csgt kiểm_tra  lái_xe vi_phạm đều không xuất_trình được giấy_tờ chứng_minh thương_binh  không có thẻ bảo_hiểm y_tế cho người có công  không có xác_nhận của chính_quyền địa_phương  … cụ_thể  trong số 40 trường_hợp xe_ba bánh vi_phạm đang bị đội csgt số 14 tạm giữ  có đến 28 trường_hợp là xe tự chế  xe tự lắp_ráp 
+22,đối_với những trường_hợp vi_phạm này  đội csgt số 14 kiên_quyết xử_lý nghiêm để lập lại trật_tự giao_thông đô_thị ”  trung_tá lê_văn_tiến  đội_trưởng đội csgt số 14 cho biết 
+23,đánh_giá về công_tác xử_phạt các trường_hợp vi_phạm  trung_tá nguyễn_văn_tiến  đội_phó đội csgt số 4 cho hay  đơn_vị đã xử_lý 679 trường_hợp vi_phạm  trong đó đa_phần là vi_phạm mũ_bảo_hiểm 
+24,đáng chú_ý  lỗi vi_phạm về dừng đỗ  sai quy_định cũng chiếm tỷ_lệ tương_đối cao trong tổ số xử_lý 
+25,thượng_tá nguyễn_thanh_hải  phó trưởng_phòng csgt đánh_giá  ngoài việc kiểm_tra xe_ba bánh  xe_xích_lô  vi_phạm mũ_bảo_hiểm và dừng đỗ của các đội csgt quản_lý địa_bàn  phòng csgt còn huy_động đội chỉ_huy giao_thông và điều_khiển đèn tín_hiệu giao_thông_qua hệ_thống camera xử_phạt chủ_động phát_hiện  xử_lý đối_với các phương_tiện vi_phạm 

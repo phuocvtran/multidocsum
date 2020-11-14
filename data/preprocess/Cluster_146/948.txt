@@ -1,0 +1,13 @@
+idx, sentence
+0,vụ_việc trên xảy ra vào_khoảng 15 h30 chiều ngày 28/5  tại showrom cà_phê của tập_đoàn cà_phê trung_nguyên số 45 đường lý_tự_trọng  phường tân_an  tp buôn_ma_thuột  tỉnh đắk_lắk 
+1,đối_tượng bị bắt_giữ là lê_văn_công  25 tuổi  trú tại huyện đông_anh  tp hà_nội  
+2,theo thông_tin trên công_an nhân_dân  trước đó vào chiều ngày 27/5  công có mang theo một_số đồ_đạc vào ngồi uống cà_phê và hỏi nhân_viên xin số điện_thoại của ông đặng_lê_nguyên_vũ  chủ_tịch tập_đoàn cà_phê trung_nguyên có việc riêng nhưng nhân_viên nói không biết nên công bỏ sang khách_sạn đối_diện để thuê phòng nghỉ 
+3,đến khoảng 15 h30 chiều ngày 28/5  công mang theo đồ vào showrom ngồi uống cà_phê 
+4,tại đây  công tiếp_tục xin số điện_thoại và đòi gặp ông đặng_lê_nguyên_vũ  khi không được nhân_viên đáp_ứng  công đã rút dao khống_chế chị hoàng_thị_ngọc_thùy  25 tuổi  nhân_viên phục_vụ quán  
+5,chưa dừng lại  công hét lên yêu_cầu gặp ông đặng_lê_nguyên_vũ hoặc người có trách_nhiệm của tập_đoàn cà_phê trung_nguyên để khiếu_nại việc “ đánh_cắp chất_xám ” của mình 
+6,cùng lúc  công_xô đổ nhiều ly chén  tách  máy pha cà_phê  theo tuổi_trẻ 
+7,bất_ngờ trước hành_động lạ của khách  sợ bị ảnh_hưởng đến tính_mạng của con_tin  một_số nhân_viên tìm cách tiếp_cận công và trình_báo_vụ_việc cho cơ_quan_chức_năng 
+8,nhận được tin báo  công_an phường ea_tam  cảnh_sát hình_sự công_an tp buôn_ma_thuột và lực_lượng cảnh_sát 113 đã có_mặt tại hiện_trường 
+9,sau hơn 15 phút tiếp_cận  thuyết_phục thả con_tin không thành  lợi_dụng sự sơ_hở của đối_tượng  lực_lượng chức_năng đã khống_chế tước_đoạt hung_khí  bắt_giữ công và giải_thoát an_toàn cho con_tin 
+10,chị thùy chỉ bị_thương nhẹ ở lòng bàn_tay 
+11,theo một cán_bộ điều_tra cho biết  vào thời_điểm công bị bắt_giữ và khống_chế  đối_tượng này có biểu_hiện bị ngáo đá  nói_nhảm rất nhiều 

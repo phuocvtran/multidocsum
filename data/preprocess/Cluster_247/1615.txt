@@ -1,0 +1,11 @@
+idx, sentence
+0,ngày 2/6  tại phiên xử sơ_thẩm lưu_động  tand tỉnh thanh_hóa tuyên_phạt hoàng_ngọc_hùng  28 tuổi  trú phường quảng_thành  tp thanh_hóa  20 năm tù về tội giết_người 
+1,bị_cáo phải bồi_hoàn số tiền hơn 110 triệu đồng cho gia_đình bị hại 
+2,bản_án xác_định  ngày 21/12/2015  hùng và anh bùi_xuân_vinh  39 tuổi  cùng quê  đưa xe_máy của bạn vinh đi cắm lấy một triệu đồng để mua ma_túy dùng chung 
+3,hôm sau  do người bạn đòi xe nên vinh nói hùng đưa xe_máy của mình đi thế chỗ 
+4,vinh hứa sẽ chuộc xe ra nên hùng đồng_ý 
+5,ngày 23/12  hùng nghĩ_lại việc nhiều lần cầm_cố xe_máy lấy tiền mua ma_túy dùng chung với vinh nhưng mình đều phải tự đi chuộc 
+6,cho_rằng lần này cũng bị lừa nên hùng nảy_sinh ý_định giết anh vinh nếu không đòi được tiền chuộc xe 
+7,trưa cùng ngày  hùng_thủ sẵn hai con dao nhọn sang nhà người hàng_xóm uống bia 
+8,dở cuộc  hắn điện_thoại cho vinh đến để hỏi tiền 
+9,vinh đến nhưng nói đang đi vay tiền và sẽ trả sau khiến hai bên xảy ra cãi_vã 

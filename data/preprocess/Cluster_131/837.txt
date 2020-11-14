@@ -1,0 +1,14 @@
+idx, sentence
+0,sau lần ra_mắt đầu_tiên vào đầu tháng 4 vừa_qua tại triển_lãm môtô  xe_máy việt_nam 2016  phải đến tận bây_giờ honda mới chính_thức công_bố giá dành cho chiếc winner 150 
+1,cụ_thể  chiếc winner 150 có hai phiên_bản là cao_cấp và thể_thao 
+2,giá_bán của phiên_bản cao_cấp là 4599 triệu đồng và bản thể_thao có giá 4549 triệu đồng  và có sẵn từ ngày 8/6/2016 
+3,về màu_sắc  phiên_bản cao_cấp có 2 tùy chọn màu là đen_đỏ và xanh đỏ_đen 
+4,hai tùy chọn màu tương_ứng của phiên_bản thể_thao là đỏ_đen và trắng_đen 
+5,về kiểu_dáng  winner 150 sở_hữu thiết_kế thể_thao  vỏ nhựa khá gân_guốc tạo được vẻ nam_tính với hệ_thống đèn_pha led  đèn hậu nổi_bật  mặt đồng_hồ tích_hợp màn_hình lcd hiển_thị các thông_tin về tốc_độ 
+6,tuy_nhiên  tổng_thể mặt trước của chiếc xe nhìn không thật_sự linh_hoạt và giống với chiếc blade 110 
+7,honda winner là mẫu xe côn tay 150 phân_khối đầu_tiên của công_ty nhật_bản tại thị_trường việt 
+8,xe được trang_bị khối động_cơ_dohc  xylanh đơn  phun xăng điện_tử  làm mát bằng dung_dịch  dung_tích 1491 cc 
+9,kết_hợp với hộp_số 6 cấp  động_cơ tạo ra công_suất tối_đa 154 mã_lực tại vòng tua máy 9000 vòng / phút và mômen xoắn cực_đại 135 nm tại vòng tua máy 6500 vòng / phút 
+10,ngoài_ra  honda_winner 150 được cung_cấp nhiều trang_thiết_bị hỗ_trợ tính_năng vận_hành thể_thao  an_toàn như cặp lốp không săm cỡ lớn với kích_thước 90/80  17m 46p trước và 120 / 7017 m / c 58p sau 
+11,bên_cạnh đó là cặp phanh đĩa có kích_thước 256 mm trước và 220 mm sau 
+12,phía honda còn cung_cấp 15 bộ phụ_kiện khác nhau với hai màu chủ_đạo là đỏ và vàng ánh_kim  nhằm đáp_ứng nhu_cầu người_người dùng 

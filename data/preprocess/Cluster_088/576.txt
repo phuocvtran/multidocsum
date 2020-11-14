@@ -1,0 +1,16 @@
+idx, sentence
+0,theo sputnik_news  t14_armata lần đầu xuất_hiện trong lễ duyệt_binh chào_mừng ngày chiến_thắng của nga tại quảng_trường đỏ năm 2015 
+1,tại thời_điểm đó  t14_armata được quảng_bá là sẽ “ mở ra một chương mới cho ngành công_nghiệp chế_tạo xe_tăng ” 
+2,theo đó  nhờ công_nghệ tàng_hình của mình  t14_armata hoàn_toàn “ biến mất ” trước sóng hồng_ngoại và nhiều loại quang_phổ khác 
+3,ngoài_ra  t14_armata còn được trang_bị hệ_thống quét điện_tử chủ_động  apar  tương_tự như trên siêu chiến_đấu cơ thế_hệ thứ 5 t50_pak_fa 
+4,các radar và camera trên t14_armata không chỉ được sử_dụng cho mục_đích chiến_đấu mà_còn đảm_nhiệm nhiệm_vụ trinh_sát 
+5,trang_thiết_bị vũ_khí trên siêu tăng t14_armata bao_gồm pháo 125 mm và súng_máy điều_khiển từ xa 762 mm 
+6,sắp tới  siêu tăng t14_armata sẽ được cải_tiến để trở_thành pháo_tự_hành hạng nặng với khẩu_pháo được nâng_cấp lên 152 mm 
+7,một trong những tính_năng quan_trọng khác của siêu tăng t14_armata chính là tháp pháo không người lái 
+8,3 binh_sĩ lái xe_tăng sẽ được ngồi trong một khoang lái bọc thép ở phía trước xe  tách_biệt hoàn_toàn với phần tháp pháo 
+9,điều này sẽ giúp tăng khả_năng sống_sót cho binh_sĩ trong trường_hợp xe_tăng bị tấn_công 
+10,với thiết_kế như vậy cùng hệ_thống apar và các loại vũ_khí phòng_thủ chủ_động  t14_armata trở_thành loại xe_tăng có khả_năng đánh chặn bất_kỳ loại vũ_khí chống_tăng nào hiện_nay 
+11,điều này khiến t14_armata trở_thành “ độc cô cầu bại ” trên chiến_trường 
+12,các công_nghệ được áp_dụng cho t14_armata cũng sẽ được sử_dụng cho t15  một loại xe chiến_đấu bộ_binh hạng nặng được cho là sẽ sớm được nâng_cấp thành xe chiến_đấu không người lái 
+13,ngoài_ra  nga cũng sẽ phát_triển một xe chiến_đấu hỗ_trợ xe_tăng mang tên terminator3 và nâng_cấp pháo_tự_hành koalitsiyasv dựa trên bộ khung của siêu tăng t14_armata 
+14,dù ấn_độ  trung_quốc  ai_cập và nhiều quốc_gia khác rất muốn sở_hữu_t14_armata nhưng các tập_đoàn công_nghiệp quốc_phòng của nga sẽ ưu_tiên đáp_ứng cho quân_đội nga trước 

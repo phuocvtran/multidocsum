@@ -1,0 +1,21 @@
+idx, sentence
+0,ự án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái do công_ty cổ_phần hoa_sen yên_bái làm_chủ đầu_tư  được xây_dựng trên khu đất có diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỷ đồng 
+1,dự_án được đặt tại trung_tâm kinh_tế  chính_trị  văn_hóa của tỉnh yên_bái  tọa_lạc ngay vòng xoay ngã tư – chốt giao nhau của ba tuyến đường chính  nguyễn_tất_thành  nguyễn_văn_cừ và ngô_gia_tự thuộc phường đồng_tâm 
+2,đồng_thời  với hai mặt tiền đường nguyễn_tất_thành và nguyễn_văn_cừ  dự_án sẽ tạo sự liên_kết dễ_dàng với các khu_vực dân_cư lân_cận 
+3,tính đến thời_điểm này  dự_án được xem là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất tỉnh yên_bái 
+4,dự_án bao_gồm 01 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m²  được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán café  căn_hộ cao_cấp 
+5,thiết_kế của dự_án là sự kết_hợp hài hòa giữa vẻ đẹp đặc_trưng của núi_rừng tây_bắc và biểu_tượng của thương_hiệu hoa_sen 
+6,phần kết_cấu chung của tòa nhà được xây_dựng theo lối kiến_trúc “ bậc_thang ”  lấy cảm_hứng từ hình_ảnh cánh đồng_ruộng bậc_thang mù_cang_chải – một danh_thắng quốc_gia của tỉnh yên_bái 
+7,riêng phần trung_tâm của tòa nhà là hình_ảnh hoa_sen 3 cánh vừa hé nở  đang vươn cao tạo điểm nhấn nổi_bật  ấn_tượng 
+8,nhìn toàn_cảnh  dự_án vừa có sự vững_chắc  kiên_cố của kiến_trúc bậc_thang  vừa có sự mềm_mại  thanh_thoát và duyên_dáng của biểu_tượng hoa_sen tạo nên một tổng_thể kiến_trúc hiện_đại  tinh_tế và đẳng_cấp 
+9,dự_án gồm 2 giai_đoạn  trong đó giai_đoạn 1 bắt_đầu từ tháng 5/2016 đến tháng 6/2017 sẽ thi_công xây_dựng cơ_sở_hạ_tầng cơ_bản toàn_bộ khu đất và các hạng_mục công_trình như  khách_sạn 4 sao thấp tầng  trung_tâm thương_mại  trung_tâm tổ_chức hội_nghị  nhà_hàng tiệc cưới  quán café  bãi đỗ xe đa chức_năng 
+10,giai_đoạn 2 từ tháng 6/2019 đến tháng 6/2020 sẽ hoàn_thiện các hạng_mục còn lại của dự_án gồm  khách_sạn 4 sao cao_tầng  mở_rộng khách_sạn 4 sao thấp tầng  căn_hộ 
+11,dự_án dự_kiến sẽ được hoàn_thành vào năm 2020 
+12,khi hoàn_thành và chính_thức đưa vào hoạt_động  khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái sẽ trở_thành một trong những dự_án trọng_điểm góp_phần thúc_đẩy đưa thành_phố yên_bái thực_hiện mục_tiêu trở_thành đô_thị loại ii vào năm 2020 và đô_thị loại i vào năm 2050 
+13,dự_án sẽ là đòn_bẩy giúp tỉnh yên_bái khai_thác tối_đa những tiềm_năng vốn có  xứng_đáng trở_thành trung_tâm kinh_tế của vùng tây_bắc việt_nam 
+14,bên_cạnh đó  dự_án còn mang đến những giá_trị sống vượt_trội cho người dân tỉnh yên_bái thông_qua việc cung_cấp các dịch_vụ thương_mại  vui_chơi  giải_trí chất_lượng tốt nhất và là điểm dừng chân_lý_tưởng đối_với du_khách trong nước và quốc_tế 
+15,đồng_thời  dự_án hứa_hẹn sẽ mang lại những cơ_hội đầu_tư kinh_doanh hấp_dẫn cho các nhà_đầu_tư trong thời_gian tới 
+16,phát_biểu tại lễ khở công  ông lê_phước_vũ  chủ_tịch tập_đoàn hoa_sen  cho biết  “ đây là dự_án bất_động_sản  dịch_vụ và du_lịch đầu_tiên của tập_đoàn hoa_sen  đánh_dấu bước_tiến mới của một doanh_nghiệp hàng_đầu trong lĩnh_vực tôn thép tại việt_nam và đông_nam_á bước sang lĩnh_vực hoàn_toàn mới 
+17,dự_án được xây_dựng trên khu đất có diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỷ đồng  dự_kiến sẽ được hoàn_thành vào năm 2020 
+18,tính đến nay  dự_án được xem là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất tỉnh yên_bái với 01 tòa nhà 15 tầng được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán café  căn_hộ cao_cấp 
+19,khi hoàn_thành và đi vào hoạt_động  dự_án hứa_hẹn sẽ mang đến những bước chuyển mình rõ_rệt cho thành_phố yên_bái nói_riêng và tỉnh yên_bái nói_chung  góp_phần đánh_thức tiềm_năng và đẩy_mạnh phát_triển du_lịch yên_bái trở_thành ngành kinh_tế mũi_nhọn của tỉnh trong tương_lai ” 

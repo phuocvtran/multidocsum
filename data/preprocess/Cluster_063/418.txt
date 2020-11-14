@@ -1,0 +1,11 @@
+idx, sentence
+0,cách đây gần 1 tháng  lee nguyễn có tên trong danh_sách sơ_bộ 40 cầu_thủ của hlv jurgen_klinsmann 
+1,đây là điều hoàn_toàn xứng_đáng với cầu_thủ gốc việt bởi anh đã chơi rất hay trong 3 mùa giải vừa_qua trong màu áo new_eangland 
+2,thực_tế  cựu cầu_thủ bình_dương đã thường_xuyên được klinsmann triệu_tập vào đtqg trong thời_gian gần đây tham_dự các trận giao_hữu 
+3,tưởng như cơ_hội được dự copa_america 2016 sẽ mở ra với lee nguyễn_sau khi anh có_mặt trong danh_sách sơ_bộ 40 cầu_thủ của chiến_lược gia người đức 
+4,tuy_nhiên vào phút cuối klinsmann đã gạch tên tiền_vệ gốc việt trong số 23 người được dự giải đấu vào tháng 6 tới 
+5,như_vậy  cầu_thủ thuộc biên_chế của new_england vẫn chưa có lần thứ 2 được dự copa_america 
+6,trước đây anh từng được khoác áo đội bóng xứ cờ hoa tại giải vô_địch bóng_đá nam_mỹ năm 2007 
+7,ngoài lee nguyễn  hlv klinsmann cũng gạch tên tiền_đạo altidore trong danh_sách tham_dự copa_america 2016 trên sân_nhà 
+8,những trụ_cột như dempsey  tim_howard  bradley  yedlin  geoff_cameron đều có_mặt 
+9,bất_ngờ nhất là cầu_thủ trẻ mới 17 tuổi của dortmund  christian_pulisic lại được chiến_lược gia người đức đặt niềm tin 

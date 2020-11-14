@@ -1,0 +1,19 @@
+idx, sentence
+0,ngày 195  vũ_quang hà  ca_sĩ quang_hà  35 tuổi  quê_quán hà_nội  ngụ quận gò_vấp  tphcm  cho biết vừa hoàn_tất các thủ_tục gửi đơn tố_cáo lên các cơ_quan_chức_năng  tố_cáo một người bạn và cháu trai của người này đã lập kế_hoạch lừa_đảo toàn_bộ sổ hồng  hồ_sơ công_chứng căn nhà giá_trị gần 4 tỷ đồng của ca_sĩ quang_hà trên đường hồ_văn_huê  phường 9  quận phú_nhuận  tphcm
+1,theo tường_trình  căn nhà của ca_sĩ quang_hà trên đường hồ_văn_huê  phường 9  quận phú_nhuận  tphcm do người anh  cùng mẹ khác cha  đứng_tên 
+2,gần đây  ca_sĩ quang_hà có ý_định bán căn nhà vì không có người trông_coi 
+3,vào thời_điểm tháng 22016  ca_sĩ quang_hà có quen và chơi thân với một “ khán_giả hâm_mộ ” tên trần_thanh_h  37 tuổi  quê_quán nam_định  
+4,sau nhiều lần đi chơi  viếng chùa  giữa những người này trở_nên thân_thiết 
+5,h và cháu của mình là trần_quốc_v  27 tuổi  vài_ba lần đến nhà ca_sĩ quang_hà_chơi và ngủ lại 
+6,trong một lần trò_chuyện  h biết ca_sĩ quang_hà có ý_định bán căn nhà trên đường hồ_văn_huê nên ngỏ ý muốn mua 
+7,ca_sĩ quang_hà cho biết trị_giá căn nhà là 41 tỷ nhưng sau nhiều lần thương_thảo  ca_sĩ quang_hà đồng_ý bán với giá 39 tỷ đồng 
+8,sáng 165  h và cháu vào tphcm cầm theo một vali màu đen nói bên trong có 200 ngàn usd gặp anh của quang_hà và h đã lấy từ trong vali một_ít tiền đưa cho người cháu đi mua đồ trước mặt anh của ca_sĩ 
+9,tối 175  h đến nhà của ca_sĩ quang_hà trên đường phan_huy_ích  phường 14  quận gò_vấp và cầm theo vali nói trên ngủ lại nhà ca_sĩ quang_hà với lý_do tiện cho việc ra công_chứng giấy_tờ mua_bán nhà vào sáng hôm sau 
+10,sáng 185  h kêu ca_sĩ quang_hà đưa chìa_khóa phòng để cất vali tiền rồi cùng anh của ca_sĩ quang_hà đến một văn_phòng công_chứng tư trên địa_bàn quận 3 làm thủ_tục bán nhà  ca_sĩ quang_hà không đi cùng vì đang bị bệnh  
+11,anh ca_sĩ quang_hà cho biết  khi đến phòng công_chứng đã thấy cháu của h chờ sẵn 
+12,khi mọi thủ_tục mua_bán nhà hoàn_tất  h kêu anh chở mình sang quận 7  các thủ_tục còn lại người cháu của h sẽ làm nốt với phòng công_chứng 
+13,trong lúc chở h đi  anh của ca_sĩ quang_hà đề_nghị h giao tiền thì anh ta cho biết  tiền để trong vali cất trong phòng nhà ca_sĩ quang_hà và nói “ yên_tâm ” về nhà sẽ chồng tiền đầy_đủ 
+14,khi đến khu_vực quận 7  h nói muốn mua nước uống nên xuống xe kêu anh chờ 
+15,tuy_nhiên chờ cả giờ đồng_hồ không thấy h quay lại  gọi vào số điện_thoại của h và người cháu thì máy cúp 
+16,khi biết sự_việc  hai anh_em ca_sĩ quang_hà_gọi điện_báo cho công_an phường 14  quận gò_vấp xuống ghi_nhận vụ_việc 
+17,chiếc vali trong nhà ca_sĩ quang_hà mà hải để lại được đưa về trụ_sở công_an phường 14  quận gò_vấp mở khóa kiểm_tra thì phát_hiện bên trong toàn … giấy_báo 

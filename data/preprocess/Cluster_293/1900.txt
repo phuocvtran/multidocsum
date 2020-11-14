@@ -1,0 +1,6 @@
+idx, sentence
+0,vụ tai_nạn xảy ra vào khoảng 8 h ngày 3/6 tại công_trình nhà ở đang xây_dựng ở số 123 lê_thanh_nghị  phường hòa_cường_bắc  quận hải_châu  tp đà_nẵng  do người đàn_ông tên hà làm_chủ 
+1,theo một người dân sinh_sống gần đó kể lại  thời_điểm trên  tại công_trình có 2 lao_động đang thi_công_vận_chuyển vật_liệu đất  đá lên tầng cao 
+2,trong quá_trình kéo tời  anh trần_quốc_tiến  sinh 1972  trú sơn_trà  đà_nẵng  bất_ngờ rơi từ tầng 3 công_trình xuống đất 
+3,hậu_quả người đàn_ông tử_vong trên đường đi cấp_cứu 
+4,ngay sau khi xảy ra vụ tại nạn  công_an phường_hòa_cường bắc đã có_mặt phong_tỏa hiện_trường và tiến_hành điều_tra 

@@ -1,0 +1,9 @@
+idx, sentence
+0,đây là sự_kiện mở_màn chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác  ” kéo_dài hai tuần  do diễn_viên paul_blackthorne  trung_tâm giáo_dục thiên_nhiên  env  và tổ_chức bảo_vệ tê_giác thế_giới  sri  cùng phối_hợp thực_hiện  nhằm nâng cao nhận_thức cộng_đồng và giảm_thiểu nhu_cầu tiêu_thụ sừng tê_giác tại việt_nam 
+1,đặc_biệt  đồng_hành cùng paul_blackthorne trong chiến_dịch này còn có hai đại_sứ tê_giác của env là nghệ_sĩ xuân_bắc và ca_sĩ hồng_nhung 
+2,nam diễn_viên paul_blackthorne  được khán_giả việt_nam biết tới qua phim_truyền_hình nhiều tập_arrow  mũi_tên xanh   24  24 giờ   er và lagaan sẽ ở hà_nội trong hai tuần kể từ ngày 195 
+3,sau sự_kiện giao_lưu ngày 205  paul_blackthorne sẽ tham_gia vào nhiều hoạt_động khác như gặp_gỡ các lãnh_đạo doanh_nghiệp việt_nam  triển_lãm bảo_vệ tê_giác  giao_lưu về chủ_đề tê_giác với học_sinh và tham_quan một_số trung_tâm cứu_hộ động_vật hoang_dã 
+4,“ loài tê_giác đang đứng bên bờ vực tuyệt_chủng bởi lòng_tham và sự thiếu hiểu_biết của nhiều người 
+5,điều đó làm tôi rất buồn  thất_vọng và quyết_tâm phải làm điều gì đó ”  paul_blackthorne chia_sẻ 
+6,trước đó  chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác  ” đã được nam diễn_viên phát_động cùng cầu_thủ đội_tuyển arsenal_aaron_ramsey từ tháng 4/2016 bằng việc quảng_bá và bán áo_phông in hình_vẽ tê_giác gắn với phác_họa bản_đồ việt_nam của họa_sĩ nổi_tiếng rob_prior 
+7,rất nhiều người nổi_tiếng cũng đã tham_gia chiến_dịch này  trong đó có các cầu_thủ mesut_ozil  mathieu_flamini  calum_chambers và các diễn_viên hollywood như stephen_amell  matt_smith  john_barrowman  alex_kingston  aamir_khan  emily_bett_rickards và david_ramsey 

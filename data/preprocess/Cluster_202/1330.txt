@@ -1,0 +1,10 @@
+idx, sentence
+0,theo thông_tin ban_đầu  khoảng 4 h sáng cùng ngày  ông nguyễn_hoàng_quân  52 tuổi  ngụ phường 5  tpbạc_liêu  chủ_tịch hội nông_dân_tpbạc_liêu  đang đi tập_thể_dục gần cầu tôn_đức_thắng  nối phường 5 với phường 1  thì thấy trần_văn_trường  25 tuổi  ngụ phường 5  đang ngồi gục đầu trên dốc cầu 
+1,thấy vậy  ông quân đến gần  hỏi_thăm  tuy_nhiên  bất_ngờ đối_tượng trường đạp ông quân rồi dùng dao tự chế thủ sẵn trong người chém liên_tiếp vào người ông quân  khiến ông té gục tại_chỗ 
+2,khi thấy ông quân té ngục  đối_tượng này rời khỏi hiện_trường  tẩu_thoát 
+3,rất may  nạn_nhân được người dân gần hiện_trường phát_hiện  đưa đi cấp_cứu tại bệnh_viện đa_khoa tỉnh bạc_liêu 
+4,sau khi nhận thông_tin  lực_lượng công_an tpbạc_liêu đã đến hiện_trường 
+5,bằng biện phép nghiệp_vụ  lực_lượng công_an đã nhanh_chóng xác_định được đối_tượng gây_án và bắt_giữ trường khi đang ẩn_náu ở một chòi tôm gần khu_vực gây_án khoảng 300 m 
+6,tại cơ_quan công_an  đối_tượng trường khai nhận đang nghiện ma_tuý và không có xích_mích gì với ông quân 
+7,khi ông quân hỏi_thăm  trường đang bực_tức trong mình và nhìn ông quân không thiện_cảm nên dùng dao chém vào người nạn_nhân 
+8,sau khi nhập_viện  ông quân được y  bác_sĩ nhiệt_tình cứu_chữa  phẫu_thuật vết_thương nên sức_khoẻ tạm ổn và đã hồi tỉnh 

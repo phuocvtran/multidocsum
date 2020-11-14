@@ -1,0 +1,4 @@
+idx, sentence
+0,gundogan đã ký hợp_đồng 4 năm với nhà đkvđ_cúp liên_đoàn_anh và trở_thành chữ_ký đầu_tiên của man_xanh dưới kỷ_nguyên guardiola  sau khi cựu hlv của bayern_munich thay_thế băng ghế huấn_luyện của manuel_pellegrini 
+1,trả_lời phỏng_vấn mcfccouk sau khi hoàn_tất vụ chuyển_nhượng  gundogan đã nói lời cảm_ơn dortmund về quãng thời_gian gắn_bó với đội bóng của bundesliga  nhưng thừa_nhận cơ_hội được làm_việc với guardiola khiến anh không_thể từ_chối 
+2,“ tôi rất háo_hức gia_nhập man_city ”  gundogan bộc_bạch  “ khi biết man_city quan_tâm  tôi đã nghĩ tới một thỏa_thuận nhanh_chóng được hoàn_tất ” 

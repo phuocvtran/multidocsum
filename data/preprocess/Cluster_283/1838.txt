@@ -1,0 +1,4 @@
+idx, sentence
+0,nguồn tin từ công_an tỉnh lạng_sơn  khoảng 16 h ngày 3052016  ban chuyên_án đã tổ_chức bắt quả_tang đối_tượng hoàng_thị_phượng  sn 1980  trú tại thôn còn quyền  xã hồng_phong  huyện cao_lộc  về hành_vi mua_bán  vận_chuyển 2 kg ma_túy đá 
+1,với các chứng_cứ thu được  ngay trong ngày  ban chuyên_án đã thi_hành lệnh bắt  khám_xét khẩn_cấp nơi ở đối_với hai đối_tượng hoàng_thị_kim_cúc  sn 1978 trú tại thôn còn làng  xã hồng_phong  huyện cao_lộc  và hoàng_thị_khuyên  sn 1986 trú tại thôn thâm_kéo – cốc_nam  xã tân_mỹ  huyện văn_lãng  
+2,tang_vật thu_giữ gồm 700 triệu đồng  5 cuốn sổ tiết_kiệm tổng_số tiền gần 3 tỷ đồng và nhiều tài_liệu liên_quan 

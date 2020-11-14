@@ -1,0 +1,11 @@
+idx, sentence
+0,theo nguồn tin trên trang mạng_military__com  giới_chức mỹ đang điều_tra nguyên_nhân vì sao chiếc máy_bay này gặp sự_cố khi hạ_cánh xuống tàu sân_bay 
+1,quan_chức hải_quân mỹ cho biết  máy_bay ea18g_growler bị vướng vào cáp hãm trên tàu sân_bay khi vẫn chưa hạ_cánh hoàn_toàn  khiến mũi phi_cơ hư_hỏng  và các vật_thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động_cơ 
+2,trong khi mức_độ thiệt_hại vẫn đang được đánh_giá  phi_cơ hiện không_thể cất_cánh 
+3,phát_ngôn_viên của lực_lượng không_quân thuộc hải_quân mỹ ở thái_bình_dương  jeannie_groeneveld  cho biết sự_cố xảy ra khi máy_bay tác_chiến điện_tử cố_gắng hạ_cánh trên tàu sân_bay john_c_stennis vào tối_ngày 29/5 
+4,tàu sân_bay này đang thực_hiện sứ_mệnh tuần_tra tại biển_đông vào thời_điểm đó 
+5,không có thủy_thủ bị_thương  và không có tàu hoặc máy_bay khác bị hư_hỏng trong sự_cố trên 
+6,trung_tâm an_toàn hải_quân mỹ liệt_kê sự_cố vào loại a báo_cáo ban_đầu ước_tính máy_bay trị_giá 68 triệu usd này gặp phải thiệt_hại lên tới 2 triệu usd 
+7,hiện chưa rõ máy_bay có_thể được sửa_chữa ngay trên tàu sân_bay hay hải_quân mỹ huy_động một chiếc growler khác đến bổ_sung vào phi_đội chiến_đấu 
+8,tàu sân_bay john_cstennis hoạt_động ở biển_đông kể từ giữa tháng 4 
+9,ngày 15/4  bộ_trưởng quốc_phòng mỹ ash_carter đến thăm tàu này để nhấn_mạnh mỹ kiên_quyết đóng_góp vào việc duy_trì ổn_định trong khu_vực 

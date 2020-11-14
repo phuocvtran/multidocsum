@@ -1,0 +1,3 @@
+idx, sentence
+0,hầm gothard gồm 2 hầm đơn  mỗi hầm tương_ứng với một tuyến đường_ray 
+1,sau 17 năm thi_công  công_trình thế_kỷ với chi_phí xây_dựng hơn 12 tỷ francs_thụy_sĩ này được khoan sâu trong lòng núi với mục_tiêu trở_thành một trong những tuyến đường xuyên núi alpe quan_trọng nhất nối_liền bắc và nam_âu 

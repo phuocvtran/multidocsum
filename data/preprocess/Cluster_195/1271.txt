@@ -1,0 +1,5 @@
+idx, sentence
+0,truyền_thông ấn_độ đưa tin  sáng 31/5  một vụ hỏa_hoạn đã xảy ra tại một kho đạn_dược của quân_đội nước này gần thành_phố nagpur  thuộc bang maharastra  phía tây ấn_độ khiến ít_nhất 17 binh_sĩ thiệt_mạng và hàng chục người khác bị_thương 
+1,theo các nhân_chứng gần hiện_trường  vụ hỏa_hoạn đã lan nhanh sau một tiếng nổ lớn vào lúc 1 h30 sáng  theo giờ_địa_phương  
+2,lực_lượng cứu_hỏa đã kiểm_soát tình_hình đám cháy sau gần 5 tiếng đồng_hồ dập lửa 
+3,những người bị_thương đã được đưa đến bệnh_viện cấp_cứu  tuy_nhiên số người tử_vong có_thể sẽ tăng do có nhiều người bị_thương nặng 

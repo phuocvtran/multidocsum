@@ -1,0 +1,4 @@
+idx, sentence
+0,vụ_án liên_quan đến việc byuyyuksarac đăng status trong instagram năm 2014  khi ông erdogan là người đứng đầu chính_phủ 
+1,cô đã chia_sẻ  bài_thơ nhà lãnh_đạo ”  the_masters_poem  châm_biếm quốc_ca của nhĩ kỳ  được công_bố trên tạp_chí uykusuz 
+2,sau đó cô đã xóa link này vì một trong những người bạn của cô cảnh_báo về hậu_quả có_thể xảy ra 

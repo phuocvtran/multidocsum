@@ -1,0 +1,6 @@
+idx, sentence
+0,ts thiên đưa ra nhiều giải_pháp để tphcm trở_thành một đầu_tàu thực_sự của vn 
+1,trong đó  ông đề_cập đến việc phải có giải_pháp kinh_tế ngăn_chặn dòng người ồ_ạt di_cư vào thành_phố một_cách vô điều_kiện  đặc_biệt là lao_động trình_độ thấp  tránh quá_tải dân_số và tránh xu_hướng “ nông_thôn hóa ” 
+2,dân_số gắn với dân_cư qua việc phân_bố dân_cư theo nghề  theo tuyến phát_triển  bảo_đảm trình_độ văn_hóa  văn_minh tương_xứng với mục_tiêu phát_triển 
+3,ông thiên_lấy ví_dụ  kinh_nghiệm phát_triển của khu đô_thị phú_mỹ_hưng  xác_định xây_dựng đô_thị hiện_đại  đẳng_cấp cao ngay từ đầu  không gây ra làn_sóng nhập_cư ồ_ạt lao_động trình_độ thấp  kéo_theo đó là tình_trạng quá_tải dân_số chất_lượng thấp  và kinh_nghiệm phát_triển khu_phố tây  q 1   nơi dễ_dãi cho_phép nhập_cư và sinh_sống để thu lợi ngắn_hạn nhưng trả_giá dài_hạn  chân_dung văn_minh đô_thị nhếch_nhác  hạ_cấp  
+4,về cơ_cấu ngành_nghề  chỉ chấp_nhận những ngành công_nghệ_cao hoặc có đẳng_cấp nghề_nghiệp cao  giới_hạn lao_động ngành_nghề dịch_vụ thấp …

@@ -1,0 +1,4 @@
+idx, sentence
+0,theo số_liệu do bộ nội_vụ cung_cấp  ông van_der bellen giành được 2254484 lá phiếu  chiếm tỷ_lệ 503   trong khi ứng_viên hofer chỉ giành được 2223458 phiếu  chiếm tỷ_lệ 497    kém khoảng 31000 phiếu_bầu 
+1,phát_biểu sau khi giành chiến_thắng  ông van_der bellen cam_kết sẽ giải_quyết các vấn_đề gây chia_rẽ trong xã_hội  vốn đã được bộc_lộ rõ trong cuộc bầu_cử lần này 
+2,ông thừa_nhận chiến_thắng này có_thể sẽ khiến một_số người tức_giận  nhưng ông tôn_trọng sự lựa_chọn khác nhau của các cử_tri áo 

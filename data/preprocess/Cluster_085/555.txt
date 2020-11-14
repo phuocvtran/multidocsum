@@ -1,0 +1,10 @@
+idx, sentence
+0,tối 22/5  tin từ công_an tỉnh cà_mau cho biết  vừa bắt phan_hoàng_thông  tự cu_thông  và truy bắt các đối_tượng khác có liên_quan đến vụ chém người  vừa xảy ra tại một cơ_sở spa trên đường nguyễn_trãi  phường 9  tp cà_mau  
+1,thông_tin ban_đầu  vào khoảng 2 h ngày 20/5  khi anh thái thiện_nhân  25 tuổi  đang trông_coi cơ_sở thiện_thanh_spa  địa_chỉ_số 44  đường nguyễn_trãi  thì bất_ngờ có hơn chục người đi xe_máy  tay cầm hung_khí tiến về phía anh đang ngồi 
+2,khi thấy các tượng nói trên  nạn_nhân lập_tức bỏ chạy nhưng đã bị các đối_tượng đuổi kịp  chém nhiều nhát vào đầu và tay_trái  khiến nạn_nhân gục tại_chỗ 
+3,sau khi gây_án  các đối_tượng nhanh_chóng rời khởi hiện_trường 
+4,nạn_nhân được người_nhà đưa đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch 
+5,các y_bác_sĩ cho biết  nạn_nhân bị_thương rất nặng  phải khâu gần 30 mũi 
+6,theo lời của người_nhà nạn_nhân  trước khi xảy ra vụ_việc  bà thái thiện_thanh  cơ_sở thiện_thanh_spa  có nhận được tin nhắn đe_dọa trên facbook với nội_dụng “ gặp đâu chém đó  không nói nhiều  ” 
+7,ngoài_ra  thời_gian gần đây  cơ_sở của bà còn liên_tục bị “ khủng_bố ” bằng nước_sơn  gạch đá và hột_vịt thúi 
+8,trước những sự_việc đã xảy ra  bà thái thiện_thanh có đến trình_báo cơ_quan công_an nhờ can_thiệp  nhưng vụ truy sát vẫn xảy ra 

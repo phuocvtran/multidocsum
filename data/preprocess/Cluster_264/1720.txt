@@ -1,0 +1,29 @@
+idx, sentence
+0,ngày 36  cảnh_sát cho biết đã tìm thấy cậu bé yamato_tanooka đang trú_ẩn gần doanh_trại quân_đội komagatake tại thị_trấn shikabe  tỉnh hokkaido  nhật_bản   cách khoảng 7 km so với địa_điểm mất_tích ban_đầu  theo the_japan_times 
+1,yamato được tìm thấy trong tình_trạng sức_khỏe và tinh_thần tương_đối ổn_định  đặc_biệt không hề tỏ ra lo_lắng 
+2,lực_lượng cứu_hộ đã cho em ăn_uống rồi chuyển ngay đến bệnh_viện hakodate  thành_phố hakodate  tỉnh hokkaido  bằng trực_thăng để đoàn_tụ với cha_mẹ 
+3,yamato kể lại với hãng tin kyodo rằng sau khi đi lang_thang trong rừng suốt đêm 285  cậu bé tìm thấy khu căn_cứ quân_sự và quyết_định ở lại 
+4,tuy không có thức_ăn nhưng em đã may_mắn tiếp_cận được nguồn nước_sạch  kênh_truyền_hình nhk cho hay 
+5,theo japan_times  từ tối 285  sau khi bị bỏ_rơi trong rừng  yamato chỉ uống nước để tồn_tại mà không hề có thực_phẩm nào 
+6,đến lúc được nhân_viên cứu_hộ tìm thấy và cho cơm_nắm  bánh_mì thì cậu bé vồ lấy ăn ngấu_nghiến vì đói 
+7,các bác_sĩ cũng xác_nhận  yamato bị suy_dinh_dưỡng nhẹ và mất nước 
+8,đây có_thể được xem là điều thần_kỳ vì yamato chỉ mới 7 tuổi và ăn_mặc tương_đối phong_phanh khi mất_tích 
+9,trong khi đó  vào ban_đêm  nhiệt_độ trong rừng có_thể xuống đến khoảng 6 độ c hơn_nữa  theo hãng tin jiji  khu rừng nơi cậu bé đi lạc còn là địa_bàn sinh_sống của loài gấu nâu_ussuri 
+10,hồi tháng 52016  người_ta đã tìm thấy xác của ít_nhất 3 nạn_nhân bị gấu tấn_công với vô_số vết cào  cắn_xé tại tỉnh akita 
+11,họ được cho là vào rừng để tìm măng tre 
+12,chưa hết  vào ngày 315  tại khu_vực yamato mất_tích đã xảy ra trận mưa rất lớn  khiến hi_vọng sống_sót càng trở_nên mong_manh hơn 
+13,hiện_tại  cậu bé chưa đủ tỉnh_táo để cảnh_sát có_thể lấy được lời khai  từ đó tìm_hiểu phép màu đã giúp em sống_sót qua các điều_kiện vô_cùng ngặt_nghèo như_vậy 
+14, làm_sao một đứa bé 7 tuổi có_thể sống_sót 6 ngày trong rừng mà chỉ có nước_sạch được chứ   một người dùng mạng xã_hội thắc_mắc 
+15, thật_lòng tôi đã cho rằng cái kết sẽ không có_hậu 
+16,với tư_cách cũng là phụ_huynh của một bé 7 tuổi  tôi chỉ biết nói rằng bản_thân rất hạnh_phúc   người dùng khác chia_sẻ 
+17,tài_khoản twitter_senthil xúc_động   còn tin_tức nào ngọt_ngào hơn điều này nữa chứ 
+18, yamatotanooka được tìm thấy còn sống và tương_đối khỏe_mạnh 
+19,vậy là lời cầu nghuyện của hàng triệu người đã không bị lãng_phí  
+20,trước đó  vào hôm 285  bố_mẹ yamato đã khai_báo với cảnh_sát địa_phương rằng con_trai của mình đi lạc và mất_tích trong rừng khi cả gia_đình đang cùng lên núi hái rau 
+21,thời_điểm này  cậu bé chỉ mặc quần_jean cùng chiếc áo sơ_mi ngắn tay 
+22,tuy_vậy  qua quá_trình điều_tra  ông takayuki_tanooka  44 tuổi  bố cậu bé  thừa_nhận do trong lúc đi đường  yamato liên_tục nghịch phá  lấy đá ném vào ôtô của người khác nên cả hai vợ_chồng tức_giận  quyết_định phạt con_trai bằng cách bắt em xuống xe rồi lái đi xa khoảng 500 mét  nhưng 5 phút sau quay lại tìm thì nhận ra cậu bé đã biến mất 
+23,trong 6 ngày qua  gần 200 cảnh_sát tỉnh hokkaido  75 thành_viên lực_lượng phòng_vệ nhật_bản  cùng một_số tình_nguyện_viên và người dân địa_phương đã được huy_động để tham_gia cuộc tìm_kiếm yamato_tanooka 
+24,suốt quá_trình tìm_kiếm yamato  ông takayuki hối_hận  chúng_tôi đã làm một điều không_thể tha_thứ với con mình và gây ra rắc_rối cho tất_cả mọi người 
+25,giờ_đây  tôi chỉ có một ước_muốn duy_nhất là con_trai được an_toàn ” 
+26,vụ_việc cha_mẹ vô_tình bỏ lại con_trai trong khu rừng đầy gấu đã thu_hút nhiều sự chú_ý  thông_cảm từ cộng_đồng nhật_bản và quốc_tế 
+27,ngoài việc cầu_nguyện  hi_vọng cho cậu bé yamato được an_toàn  người_ta còn lên_tiếng trách_móc cách hành_xử của ông_bà tanooka 

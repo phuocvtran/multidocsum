@@ -1,0 +1,6 @@
+idx, sentence
+0,sáng 3/6  đại_tá phạm_trung_thành  trưởng_phòng tham_mưu tổng_hợp kiêm người phát_ngôn công_an tỉnh kiên_giang cho biết khoảng 4 h sáng cùng ngày  trên địa_bàn ấp thạnh_phong  xã thạnh_đông  huyện an_minh  tỉnh kiên_giang xảy ra vụ giết người 
+1,nghi_phạm là lê_văn_nhỏ  61 tuổi  thường_trú ấp thạnh_phong  xã thạnh_đông  huyện an_minh  tỉnh kiên_giang 
+2,sau khi cãi nhau với vợ là trần_thị_tuyết_mai  49 tuổi  do ghen_tuông  đợi lúc vợ ngủ say  nhỏ dùng búa chặt gần đứt_đầu vợ rồi uống thuốc tự_tử 
+3,ngay sau đó  người_nhà đưa nhỏ đi cấp_cứu tại bệnh_viện an_minh 
+4,công_an huyện đã có_mặt ghi_nhận vụ_việc  đồng_thời chuyển nhỏ lên bệnh_viện đa_khoa tỉnh kiên_giang cấp_cứu 

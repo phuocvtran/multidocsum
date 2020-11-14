@@ -1,0 +1,6 @@
+idx, sentence
+0,ngày 30/5  sở gtvt tỉnh tthuế tổ_chức trưng_bày 20 phương_án kiến_trúc cầu qua sông hương tại trục đường lê_lợi  cạnh bảo_tàng văn_hóa_huế  thuộc_địa_chỉ 25 lê_lợi  thành_phố huế   nhằm lấy ý_kiến người dân tham_gia đóng_góp lựa_chọn phương_án tốt nhất  đáp_ứng các yêu_cầu về thẩm_mỹ  kiến_trúc  văn_hóa huế 
+1,trước đó  sở gtvt tỉnh tthuế hai lần tổ_chức thi_tuyển phương_án kiến_trúc  tuy_nhiên  mẫu thiết_kế từng đạt giải nhất và được lựa_chọn đã vấp phải nhiều luồng ý_kiến không đồng_tình của người_dân  cũng như các nhà_chuyên_môn  bởi công_trình chưa đáp_ứng được yêu_cầu thẩm_mỹ  lịch_sử và văn_hóa huế 
+2,mặt_khác  phương_án này được đánh_giá là còn nặng_nề  kết_cấu chịu lực phức_tạp  thi_công khó_khăn 
+3,việc giới_thiệu các mẫu phương_án kiến_trúc lần này tạo điều_kiện để người dân tiếp_cận một_cách khách_quan  toàn_diện hơn với các ý_tưởng thiết_kế  từ đó có những ý_kiến đóng_góp phù_hợp  giúp huế có thêm một cây cầu đúng với tâm_nguyện của nhiều người 
+4,việc trưng_bày  lấy ý_kiến kéo_dài đến hết ngày 29/6 

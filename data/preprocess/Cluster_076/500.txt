@@ -1,0 +1,13 @@
+idx, sentence
+0,theo những tin_tức mới nhất trên báo infonet  trước hiện_tượng cá chết hàng_loạt bất_thường tại vùng_biển ven các tỉnh miền trung  cục quản_lý chất_lượng nông_lâm và thủy_sản  nafiqad  thuộc bộ nnptnt vừa có công_văn yêu_cầu các tỉnh liên_quan  tổ_chức lấy mẫu muối  kiểm_tra khẩn_cấp các chỉ_tiêu về an_toàn thực_phẩm 
+1,theo đó  nafiqad yêu_cầu các tỉnh nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận  các trung_tâm chất_lượng nông_lâm_thủy_sản vùng 123 tổ_chức lấy mẫu muối  kiểm_tra khẩn_cấp các chỉ_tiêu về an_toàn thực_phẩm 
+2,trong công_văn số 949 / qlcl  cl2 do cục_trưởng nguyễn_thư_tiệp ký chuyển gửi ngày 19/5  có nêu rõ  trong thời_gian qua đã xảy ra hiện_tượng cá chết bất_thường tại vùng_biển ven các tỉnh miền trung 
+3,để đảm_bảo an_toàn cho người tiêu_dùng  cục quản_lý chất_lượng nông_lâm và thủy_sản  qlclnlts  đề_nghị các đơn_vị  chi_cục qlclnlts các tỉnh nói trên  trong trường_hợp địa_phương có sản_xuất muối_ăn  thực_hiện lấy 3 mẫu muối sản_xuất năm 2016  từ 3 cơ_sở sản_xuất trên địa_phương   gửi các trung_tâm clnlts để phân_tích các chỉ_tiêu kim_loại nặng  as  cd  pb  hg  
+4,báo_cáo kết_quả phân_tích các mẫu muối  trên cơ_sở đối_chiếu với mức giới_hạn tại qcvn 82  2011 / byt  về cục_qlclnlts 
+5,các trung_tâm qlnlts vùng 1/6 tiếp_nhận mẫu và ưu_tiên phân_tích các chỉ_tiêu kim_loại nặng  as  cd  pb  hg  để trả kết_quả trong thời_gian sớm nhất 
+6,ngày 4/5  viện kiểm_nghiệm an_toàn vệ_sinh thực_phẩm quốc_gia  bộ y_tế  đã có công_văn trả_lời về việc kiểm_nghiệm 16 mẫu thực_phẩm hải_sản tại hà_tĩnh 
+7,theo đó tất_cả mẫu lấy từ các chợ đều có hàm_lượng kim_loại nặng nằm trong ngưỡng cho_phép 
+8,trước đó  ngày 2/5  chi_cục an_toàn vệ_sinh thực_phẩm  trung_tâm y_tế dự_phòng tỉnh hà_tĩnh phối_hợp với trung_tâm y_tế dự_phòng huyện cẩm_xuyên và lộc_hà tổ_chức lấy 16 mẫu thực_phẩm gồm  cá biển các loại  mực  tôm và ghẹ 
+9,trong đó có 5 mẫu cá  1 mẫu tôm và 1 mẫu_mực được lấy tại chợ gò_cá cẩm_nhượng  huyện cẩm_xuyên và 7 mẫu cá  1 mẫu ghẹ  1 mẫu_mực được lấy tại chợ cá xã thạch_kim huyện lộc_hà 
+10,đáng chú_ý  cũng liên_quan đến vụ cá chết hàng_loạt ở miền trung  ngày 4/5  viện kiểm_nghiệm an_toàn vệ_sinh thực_phẩm quốc_gia đã trả_lời kết_quả kiểm_nghiệm mẫu thực_phẩm hải_sản được lấy tại chợ gò_cá  cẩm_nhượng  huyện cẩm_xuyên và chợ cá thạch_kim  huyện lộc_hà  tỉnh hà_tĩnh 
+11,kết_quả kiểm_nghiệm cho thấy hàm_lượng kim_loại nặng trong tất_cả các mẫu đều nằm trong ngưỡng cho_phép  báo dân_trí đưa tin 

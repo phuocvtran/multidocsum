@@ -1,0 +1,19 @@
+idx, sentence
+0,những ngày qua  gia_đình ông trần_công_ứng  62 tuổi  ở số 10 xóm lẻ  triều_khúc  tân_triều  thanh_trì  hà_nội  vẫn chưa hết bàng_hoàng  choáng_váng và bức_xúc khi nhận được hóa_đơn tiền nước tăng cao bất_thường lên tới 19125036 đồng với số nước sử_dụng là 1029 m3 cho gia_đình 6 người 
+1,sáng ngày 20/5  chia_sẻ với pv báo người đưa_tin  ông trần_công_ứng cho biết  “ vụ_việc này làm ảnh_hưởng nhiều tới việc sinh_hoạt của gia_đình tôi 
+2,sau nhiều ngày lên làm_việc với htx_dvsx_nông_nghiệp_triều_khúc  sáng nay phía htx đã xuống gia_đình tôi lấy đồng_hồ nước đi kiểm_định  không biết kết_quả sẽ như thế_nào ” 
+3,liên_quan tới vụ_việc này  trao_đổi với pv báo người đưa tin  ông nguyễn_hữu_vỵ  chủ_tịch xã tân_triều cho biết  “ ubnd xã chưa nhận được đơn thư hay phản_ánh từ phía gia_đình ông trần_công_ứng về hóa_đơn tiền nước 19 triệu 
+4,nhưng đây là vụ_việc xảy ra trên địa_bàn xã quản_lý  nên chúng_tôi đã mời htx_dvsx_nông_nghiệp_triều_khúc lên để làm_việc  giải_trình về vấn_đề này 
+5,ubnd xã yêu_cầu htx không được phép dừng việc cấp nước_sạch cho gia_đình ông ứng  đồng_thời htx phải tìm_hiểu nguyên_nhân vì sao giá tiền nước lại tăng cao như_thế ” 
+6,“ chúng_tôi cũng mới biết được nội_dung cuộc họp_báo của htx ngày 19/5  chúng_tôi cũng đã yêu_cầu htx phải phối_hợp với các cơ_quan báo_chí  thông_tin_đại_chúng để giải_quyết vụ_việc này cho tốt  tránh sự hiểu nhầm ”  ông nguyễn_hữu_vỵ nói 
+7,cũng trong buổi sáng ngày 20/5   trao_đổi với chúng_tôi ông chử_minh_quân – chánh_văn_phòng ubnd huyện thanh_trì  hà_nội cho biết  “ chúng_tôi đang triển_khai tìm_hiểu thông_tin này từ ubnd xã tân_triều và từ nhiều kênh khác nhau để làm rõ nguyên_nhân 
+8,chúng_tôi vẫn chưa nhận được báo_cáo của ubnd xã tân_triều về việc này 
+9,trước đó  gia_đình ông trần_công_ứng  62 tuổi  ở số 10 xóm lẻ  triều_khúc  tân_triều  thanh_trì  hà_nội  đã choáng_váng khi nhận được hóa_đơn tiền nước lên tới 19125036 đồng với số nước sử_dụng là 1029 m3 cho gia_đình 6 người 
+10,những tháng trước  hóa_đơn tiền điện mà gia_đình ông phải chi_trả dao_động từ 200000 – 300000 đồng cho 6 người  4 người_lớn  2 trẻ nhỏ  sử_dụng 
+11,tuy_nhiên  cuối tháng 4 vừa_qua  gia_đình ông ứng đã thực_sự rất sốc khi được nhân_viên thu tiền nước thông_báo sử_dụng hết 1029 m3 nước với số tiền lên đến 19125036 đồng 
+12,ông ứng cho biết tháng 4 gia_đình ông vẫn sinh_hoạt như các tháng trước nhưng hóa_đơn tiền nước tăng gấp 100 lần 
+13,từ trước tới nay  chỉ có 2 lần tiền nước của gia_đình ông tăng cao hơn bình_thường nhưng cũng lên khoảng 800000  1 triệu đồng 
+14,cả 2 lần đó đều do phao nước tự_động trong bể hỏng nên nước bị tràn 
+15,lần này  ông ứng đã kiểm_tra nhưng đường_ống và tất_cả đều hoạt_động ổn_định 
+16,ông ứng đã gửi kiến_nghị lên hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp nhưng họ cho số_liệu trên là đúng 
+17,gia_đình ông ứng sẽ bị cắt nước nếu ngày 24/5 không đóng tiền nước 

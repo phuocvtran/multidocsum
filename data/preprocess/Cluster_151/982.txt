@@ -1,0 +1,14 @@
+idx, sentence
+0,ngày 275  tại trường tiểu_học an_phong  phường 7  quận 8  tp hcm   tand tp mở phiên_tòa lưu_động và tuyên_phạt bị_cáo nguyễn_văn_bông  sn 1984  ngụ quận 12  tp hcm  mức án chung_thân về tội “ giết_người ” 
+1,theo cáo_trạng  trưa 982015  nguyễn_văn_bông cùng vợ_chồng anh lưu_minh_đương và một_vài người ngồi uống rượu tại một phòng trọ ở phường 7  quận 8 
+2,do bông dùng điện_thoại chụp hình vợ anh đương mà không xin_phép nên 2 người phát_sinh mâu_thuẫn 
+3,sau đó  bông xóa hết hình trong điện_thoại 
+4,chiều cùng ngày  sau khi tiệc tàn  chị luyến  vợ anh đương vẫn còn bực_tức nên rủ một người bạn đến phòng trọ tìm gặp bông 
+5,hai bên lời qua tiếng lại 
+6,bông đánh bạn chị luyến chảy máu mũi 
+7,có người can_ngăn nên sự_việc tạm lắng 
+8,một lúc sau  đương biết chuyện liền tìm bông tính_sổ 
+9,hai bên gặp nhau ở quán cà_phê 
+10,đương xông vào định hành_hung thì bị bạn đi cùng bông đẩy ngã 
+11,lúc này  trần_minh_lợi  em họ_đương  nhìn thấy anh đánh nhau liền cầm cục gạch chạy đến bênh_vực 
+12,nghĩ lợi đánh mình  bông rút dao  thủ sẵn trong người  đâm một nhát trúng ngực lợi 

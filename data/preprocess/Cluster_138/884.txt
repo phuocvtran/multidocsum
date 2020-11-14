@@ -1,0 +1,5 @@
+idx, sentence
+0,bộ nông_nghiệp_và_phát_triển_nông_thôn vừa trình thủ_tướng chính_phủ xem_xét  dừng chủ_trương chuyển mục_đích sử_dụng 63 ha rừng tại vườn_quốc_gia yok_đôn để xây_dựng thủy_điện đrăng_phốk thuộc tỉnh đăk_lăk 
+1,theo bộ_nông_nghiệp_và_phát_triển_nông_thôn  nếu xây_dựng thủy_điện này sẽ phải chuyển mục_đích sử_dụng tổng_cộng 63 ha đất có rừng  trong đó 53 ha sẽ bị chuyển_đổi vĩnh_viễn 
+2,lý_do theo bộ nông_nghiệp_và_phát_triển_nông_thôn là rừng khu_vực tây_nguyên hiện_nay đã bị suy_giảm nghiêm_trọng về độ che_phủ và chất_lượng 
+3,nếu xây_dựng đập  chặn dòng sẽ làm thay_đổi dòng_chảy  ảnh_hưởng đến hệ_sinh_thái và tạo thuận_lợi hơn cho các hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy khi nước dâng 

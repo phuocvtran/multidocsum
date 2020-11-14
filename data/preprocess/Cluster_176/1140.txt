@@ -1,0 +1,20 @@
+idx, sentence
+0,chính_xác là mất tới 58 năm để đt xứ wales hội_nhập trở_lại với một ngày hội bóng_đá lớn 
+1,điều đó cho thấy  sự háo_hức của họ mãnh_liệt ra_sao trước thềm euro 2016 trên đất pháp 
+2,trong danh_sách 23 cầu_thủ dự euro kì này  hlv chris_coleman may_mắn có những con bài tốt nhất 
+3,đó ashley_williams  swansea   ramsey  arsenal  và đặc_biệt là siêu_sao gareth_bale  real_madrid  
+4,trả_lời phỏng_vấn bbc mới_đây  cầu_thủ đắt_giá nhất thế_giới thậm_chí còn đưa ra tuyên_bố hùng_hồn về tham_vọng của đt xứ wales 
+5,anh tin rằng đội bóng của mình đủ sức làm_nên những bất_ngờ lớn 
+6,“ chúng_tôi sẽ không dự giải chỉ để cho đủ số_lượng 
+7,chúng_tôi muốn giành chiến_thắng ở mọi trận đấu 
+8,trước_mắt là ngôi đầu_bảng và mở ra cho mình những cơ_hội 
+9,chúng_tôi cảm_thấy tự_tin vào khả_năng của mình và có_thể làm mọi thứ ”  bale nói 
+10,“ chúng_tôi là một tập_thể đã được xây_dựng chơi với nhau trong một thời_gian khá dài và tất_cả đều rất hiểu nhau 
+11,tinh_thần đoàn_kết sẽ là chìa_khóa để chúng_tôi tiến xa 
+12,mỗi thành_viên đều có ý_thức chiến_đấu mỗi khi ra sân ” 
+13,đt xứ wales sẽ khởi_đầu chiến_dịch euro 2016 bằng trận gặp slovakia ngày 11/6 trước khi phải đối_mặt với đt anh 5 ngày sau và đá trận cuối vòng bảng gặp nga ngày 20/6 
+14,về cá_nhân gareth_bale  anh vừa trải qua kì_nghỉ ngắn ngày sau trận chung_kết champions_league 
+15,tiền_vệ của real_madrid nói  anh đã hồi_phục 7080  sức_lực và sẽ sung_mãn nhất khi vòng chung_kết euro khởi_tranh 
+16,danh_sách 23 cầu_thủ xứ wales tới pháp  thủ_môn  wayne_hennessey  danny_ward  owain_fon_williams 
+17,hậu_vệ  chris_gunter  james_chester  ashley_williams  ben_davies  neil_taylor  james_collins  jazz_richards 
+18,tiền_vệ  joe_allen  joe_ledley  aaron_ramsey  andy_king  david_edwards  jonny_williams  david_vaughan  george_williams 

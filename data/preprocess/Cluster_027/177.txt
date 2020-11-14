@@ -1,0 +1,31 @@
+idx, sentence
+0,didi chuxing là kết_quả của cuộc hợp_nhất giữa hai công_ty  didi_dache và kuaidi_dache 
+1,ngay từ khi mới thành_lập năm 2012  cả didi_dache lẫn kuaidi_dache đều nhận được sự ủng_hộ từ các công_ty công_nghệ hàng_đầu trung_quốc 
+2,trong khi didi_dache được hỗ_trợ vững_chắc bởi tencent  nhà phát_triển ứng_dụng lớn của trung_quốc cũng như ở khu_vực châu_á  thái_bình_dương  kuaidi_dache cũng đã thu_hút đầu_tư từ gã khổng_lồ thương_mại_điện_tử alibaba 
+3,hai ứng_dụng này đã hợp_nhất vào tháng 2/2015  lấy tên là didi_kuaidi  sau đó đổi thành didi_chuxing  và ngày_càng mở_rộng quy_mô 
+4,công_ty đã phát_triển từ dịch_vụ gọi taxi thành một trong những mạng_lưới vận_tải một cửa lớn nhất thế_giới  cung_cấp nhiều dịch_vụ vận_tải như taxi  xe bus  đi chung xe và cho thuê tài_xế 
+5,hiện didi_chuxing cung_cấp khoảng 11 triệu chuyến xe mỗi ngày  có khoảng hơn 300 triệu người sử_dụng tại hơn 400 thành_phố của trung_quốc 
+6,mới_đây  apple đã trở_thành nhà_đầu_tư chiến_lược quan_trọng của didi sau khi rót vào công_ty này nguồn vốn 1 tỷ usd 
+7,có_thể thấy  didi_chuxing đang bước những bước rất dài và chắc_chắn trên con đường phát_triển của mình 
+8,sự lớn_mạnh của didi hôm_nay không phải chỉ nhờ sự hậu_thuẫn vững_vàng của tencent hay alibaba  mà_còn được quyết_định bởi một đội_ngũ lãnh_đạo tuyệt_vời  trong đó có jean_liu  người vừa có công lớn trong việc thu_hút được 1 tỉ usd tiền vốn đầu_tư từ apple về cho didi_chuxing và đẩy uber vào bước_đường_cùng tại thị_trường trung_quốc 
+9,jean liu sinh năm 1978  là cử_nhân đại_học bắc_kinh  thạc sỹ đại_học harvard ngành khoa_học máy_tính 
+10,cô là con_gái của một nhân_vật huyền_thoại trong lĩnh_vực công_nghệ ở trung_quốc  liu_chuanzhi  nhà sáng_lập hãng máy_tính lenovo 
+11,trước khi được cheng_wei mời về làm giám_đốc điều_hành didi năm 2014  jean_liu đã có 12 năm làm_việc tại ngân_hàng_đầu_tư đa_quốc_gia goldman_sachs 
+12,để vào được ngân_hàng danh_tiếng này  cô đã phải vượt qua 18 vòng phỏng_vấn  bắt_đầu làm_việc với vị_trí nhân_viên phân_tích và trở_thành một trong những giám_đốc trẻ tuổi nhất trong lịch_sử của ngân_hàng này 
+13,cô cũng từng thử sức ở nhiều lĩnh_vực khác như thời_trang  chăm_sóc sức_khỏe  nông_nghiệp 
+14,đầu năm 2015  ngay trước thương_vụ sáp_nhập của didi_dache với kuaidi_dache  jean_liu đã được bổ_nhiệm làm chủ_tịch công_ty 
+15,nói về jean_liu  jixun_foo cho rằng  “ cô ấy chính là phép_cộng tuyệt_vời dành cho đội_ngũ của didi  ” ở cương_vị chủ_tịch  cô có một lịch làm_việc dày_đặc  chỉ rời công_ty sau 9 giờ tối để về nhà cho con ngủ  rồi sau đó lại tiếp_tục với cuộc họp vào lúc đêm muộn 
+16,jean liu chia_sẻ  “ mục_tiêu của didi là trong vòng ba năm phục_vụ được khoảng 30 triệu người một ngày  bằng cách giúp họ tìm được một chiếc taxi  xe bus hoặc bất_kỳ phương_tiện giao_thông nào trong vòng 3 phút  ” cũng trong năm 2015  jean_liu được fortune bình_chọn là một trong 25 nữ doanh_nhân có ảnh_hưởng nhất tại trung_quốc_đại_lục 
+17,năm nay  jean_liu sẽ là người cầm ngọn đuốc chính_thức đại_diện cho trung_quốc tại thế_vận_hội mùa hè ở rio de janeiro 
+18,chỉ trong vòng ít hơn 15 năm sau khi trở_thành chủ_tịch công_ty dịch_vụ gọi taxi didi  cô đã làm tăng số_lượng nhân_viên của công_ty từ 700 lên 5000 người thông_qua việc cung_cấp thêm dịch_vụ chia_sẻ hành_trình và bổ_sung đội xe 
+19,trên cương_vị chủ_tịch công_ty  jean cũng bắt_tay hợp_tác cùng các đối_tác như grab  của singapore   ola_cabs  của ấn_độ  và lyft  của mỹ  để cung_cấp thêm lựa_chọn cho hành_khách của didi_chuxing 
+20,cuối_cùng  jean_liu là người có công lớn trong việc mang về khoản đầu_tư trị_giá 1 tỉ usd từ apple  nâng tổng_số tiền công_ty này huy_động được lên tới 3 tỉ usd 
+21,càng ấn_tượng hơn khi thỏa_thuận tỉ đô này của jean_liu và ceo_apple là tim_cook vốn xuất_phát từ câu nói dí_dỏm của jean_liu khi tới thăm trụ_sở apple vào ngày 20/4  “ bất_kỳ_công_ty nào có tên gọi gắn liền với một loại hoa_quả nào đó đều luôn đạt được những kỳ_tích to_lớn ” 
+22,trong khi apple là  quả táo  thì cái tên didi lại mang nghĩa như một  quả cam bé_nhỏ  
+23,kết_quả là  thỏa_thuận trị_giá 1 tỷ usd được ký_kết chỉ 22 ngày sau đó 
+24,tất_cả những điều kể trên đã góp_phần khiến uber  đối_thủ cạnh_tranh_hùng_mạnh nhất của didi thời_điểm hiện_tại bị hạ_bệ và mất đi hoàn_toàn lợi_thế ở thị_trường trung_quốc 
+25,didi chuxing tuyên_bố họ có 300 triệu người dùng và 14 triệu lái xe đăng_ký trên 400 thành_phố của trung_quốc 
+26,công_ty khởi_nghiệp này tự_tin khẳng_định rằng họ đang thống_trị thị_trường gọi taxi với 143 triệu chuyến xe được thực_hiện thông_qua nền_tảng của mình vào năm_ngoái 
+27,ngoài thành_tích giúp didi_chuxing bước sang một trang sử mới  jean_liu còn gây ấn_tượng với nhiều người bởi hồ_sơ không_thể đẹp hơn 
+28,cụ_thể  liu có kinh_nghiệm làm_việc 12 năm tại ngân_hàng goldman_sachs  bao_gồm chức_danh cao nhất là tổng_giám_đốc 
+29,cô cũng nằm trong hội_đồng_quản_trị của nhiều công_ty hoạt_động trong các lĩnh_vực khác nhau bao_gồm thời_trang  chăm_sóc sức_khỏe 

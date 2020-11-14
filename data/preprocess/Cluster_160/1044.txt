@@ -1,0 +1,35 @@
+idx, sentence
+0,tổng_giám_đốc công_ty việt an_hòa  trần_khánh_quang nhận_xét  về mặt lý_thuyết  hệ_thống luật có đầy_đủ các điều_khoản quy_định nhằm giám_sát việc bán nhà hình_thành trong tương_lai cũng như bảo_vệ quyền của người mua nhà 
+1,theo đó  luật_nhà_ở  luật_kinh_doanh bất_động_sản đều có những yêu_cầu khá cụ_thể về nghĩa_vụ của chủ đầu_tư như  trước khi bán nhà phải xây xong móng và có vốn đối_ứng  công_trình phải gắn liền với quyền sử_dụng đất  khi thế_chấp tài_sản phải tuân_thủ các hướng_dẫn về giải chấp  phải tiến_hành các thủ_tục cấp giấy chứng_nhận cho người dân  các ngân_hàng cũng có những quy_định rất chặt về quy_trình thẩm_định cho vay và kiểm_tra thông_tin khách vay  tài_sản thế_chấp trên hệ_thống 
+2,luật cũng bảo_vệ quyền_sở_hữu_tài_sản cho người mua nhà 
+3,tuy_nhiên  sở_dĩ có_thể xảy ra tình_trạng chung_cư bị thế_chấp 2 lần hoặc bị bán trùng căn_hộ như chung_cư the_harmona là do những lỗ_hổng quản_lý 
+4,ông quang chỉ ra 5 điểm mấu_chốt cần lưu_ý trong vụ siết nợ chung_cư gây hoang_mang và tranh_cãi trong tuần qua 
+5,thứ nhất  ngân_hàng đã công_chứng thế_chấp đầu_tiên đối_với quyền sử_dụng đất và tài_sản hình_thành trên đất nên ngân_hàng không sai khi đòi tài_sản đảm_bảo nếu nợ quá_hạn 
+6,các phản_ứng chỉ là cách_thức đòi nợ chưa phù_hợp 
+7,thứ hai  chủ đầu_tư khi bán cho khách_hàng từng căn thì phải có sự đồng_ý của ngân_hàng thông_qua việc giải chấp theo quy_định 
+8,chỉ sau khi tiến_hành giải chấp  chủ căn_hộ mới có_thể mang chính tài_sản này đi thế_chấp ngân_hàng để vay tiền 
+9,thứ ba  khách_hàng khi mua phải biết rõ căn_hộ dự_án đã thế_chấp chưa  nhưng thường khách_hàng không làm điều này hoặc không biết phải kiểm_tra ra_sao 
+10,thứ tư  nếu khách_hàng mua căn_hộ và thế_chấp vay ở một ngân_hàng khác thì phải có sự đồng_ý và giải chấp của ngân_hàng bidv 
+11,thứ năm  để xảy ra sự_vụ thế_chấp tài_sản chồng_chéo 2 lần là lỗi nghiệp_vụ của ngân_hàng do không kiểm_tra định_kỳ hàng tháng  quý hoặc năm 
+12,với 5 cơ_sở trên  có_thể thấy dù quy_định khá chặt_chẽ nhưng các lỗ_hổng nằm ở khâu giám_sát quá_trình bán hàng và cho vay 
+13,bán trùng căn_hộ là vi_phạm pháp_luật và thế_chấp 2 lần nhưng không tiến_hành giải chấp là trái với quy_định 
+14,để tránh rắc_rối khi mua căn_hộ hình_thành trong tương_lai  khách_hàng có_thể tham_khảo các nguồn sau  sở xây_dựng  để biết dự_án có đủ điều_kiện được bán hay không  và ngân_hàng  để biết tài_sản này có bị mang đi thế_chấp bởi một cá_nhân hay tổ_chức nào trước đó hay không  
+15,lỗ_hổng còn lại là làm cách nào biết được chủ đầu_tư có bán trùng căn_hộ  một căn_hộ bán cho nhiều người  
+16,với trường_hợp của harmona  các trường_hợp bị bán trùng thường xảy ra ở nhóm khách_hàng mua nhà bằng tiền_mặt và không vay ngân_hàng 
+17, đây lại là vấn_đề thuộc về uy_tín và đạo_đức kinh_doanh vì hiện_nay chưa có quy_định nào bắt_buộc hoặc chế_tài doanh_nghiệp phải báo_cáo những sản_phẩm nào đã bán hoặc còn tồn_kho   ông quang nói 
+18,tiến_sĩ đinh_thế_hiển phân_tích  đối_với câu_chuyện harmona  việc bidv để tài_sản thế_chấp của mình bị bán cho người dân và chủ đầu_tư thu gần hết số tiền bán nhà thì trước_hết là lỗi nghiệp_vụ của chính nhà_băng này 
+19, cán_bộ ngân_hàng phải có sự kiểm_tra  giám_sát thường_xuyên tình_trạng dự_án 
+20,khi đó  mọi động_thái  sự thay_đổi nào tại dự_án thì ngân_hàng đều biết 
+21,vậy_thì làm_sao xảy ra được việc chủ đầu_tư tự_ý mang căn_hộ đã thế_chấp bán cho cư_dân được   ông hiển phân_tích 
+22,hiện_nay  để bảo_vệ quyền_lợi cho người mua nhà  ông đinh_thế_hiển cho biết  bản_thân người dân phải tự tìm_hiểu dự_án thật kỹ càng trước khi quyết_định xem dự_án đó đủ điều_kiện mua_bán không  có_thể tham_khảo thông_tin ở sở xây_dựng   và xem dự_án có được ngân_hàng bảo_lãnh không 
+23,bởi theo quy_định hiện_hành  từ 172015  luật_kinh_doanh bất_động_sản 2014 chính_thức có hiệu_lực  đồng_nghĩa với quy_định doanh_nghiệp bất_động_sản phải được ngân_hàng bảo_lãnh khi bán  cho thuê nhà hình_thành trong tương_lai 
+24,quy_định này ban_hành nhằm nâng cao trách_nhiệm của chủ đầu_tư  giao nhà cho khách_hàng theo đúng cam_kết 
+25,thứ hai  khách_hàng đã ứng tiền trước cho chủ đầu_tư thì khách_hàng có_thể yên_tâm  nếu chủ đầu_tư không hoàn_thành dự_án như cam_kết thì ngân_hàng có trách_nhiệm hoàn tiền lại cho khách mua nhà 
+26,để hướng_dẫn thực_thi các quy_định này  ngày 265 ngân_hàng nhà_nước đã ban_hành thông_tư 07 quy_định về bảo_lãnh ngân_hàng  có hiệu_lực từ ngày 98 
+27,hôm giữa tháng 82015  ngân_hàng nhà_nước đã công_bố danh_sách 33 ngân_hàng đầu_tiên có đủ điều_kiện bảo_lãnh cho chủ đầu_tư dự_án bất_động_sản để bán  cho thuê mua nhà ở hình_thành trong tương_lai 
+28,với danh_sách này  người mua nhà có_thể tham_khảo tìm_hiểu tại các dự_án của mình để đảm_bảo quyền_lợi 
+29,trao_đổi với pv  tiến_sĩ bùi_quang_tín  trường đại_học ngân_hàng tp hcm  cho biết nếu chiếu theo luật_nhà ở năm 2014 và thông_tư 26 của ngân_hàng nhà_nước ngày 9122015 hướng_dẫn trình_tự thủ_tục giải chấp thế_chấp tài_sản dự_án đầu_tư xây_dựng nhà_ở  nhà ở hình_thành trong tương_lai thì có quy_định là các chủ đầu_tư được quyền_thế_chấp quyền sử_dụng đất và tài_sản hình_thành trên đất để vay vốn 
+30,và thông_tư này cũng nêu rõ là tài_sản hình_thành này không phát_sinh tranh_chấp  khiếu_kiện  khiếu_nại  nếu theo thông_tin ban_đầu  doanh_nghiệp vay bidv là lúc tài_sản xây chưa xong và chưa bán cho người dân thì coi như là tài_sản thế_chấp hợp_lệ 
+31,tuy_nhiên  vấn_đề lỗ_hổng pháp_lý là thông_tư 26 này không có hướng_dẫn cụ_thể việc sau khi cho vay thì ngân_hàng phải làm như thế_nào để có_thể giám_sát được tài_sản này 
+32,bởi khi chủ đầu_tư đã mang tài_sản đi thế_chấp cho ngân_hàng thì không được quyền bán cho người dân nữa  trừ trường_hợp là có sự đồng_ý của phía ngân_hàng nhận bảo_lãnh và dòng tiền thu về từ việc bán đó phải chảy vào ngân_hàng để thu_hồi nợ 
+33,ngoài_ra  các quy_định_luật hiện_nay cũng chưa quy_định rõ các biện_pháp chế_tài về việc nếu chủ dự_án làm sai sẽ xử_lý như thế_nào 

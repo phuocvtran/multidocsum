@@ -1,0 +1,8 @@
+idx, sentence
+0,theo công_bố từ toyota  tính đến hết tháng tư vừa_qua  hãng đã bán ra 9014000 chiếc xe hybrid trên toàn_cầu  tính từ chiếc đầu_tiên là coaster_hybrid_ev  trình_làng tháng 8/1997 
+1,mặc_dù có tuổi đời phát_triển khá lâu  nhưng toyota chỉ thực_sự đạt được những thành_tích đáng_kể trong thời_gian gần đây 
+2,trong khoảng 9 tháng trở_lại  hãng xe nhật đã bán được 1 triệu chiếc 
+3,thành_công nhất trong những dòng xe xanh hybrid của toyota phải kể đến prius 
+4,được sản_xuất lần đầu vào tháng 12/1997  đến nay đã có 4 triệu chiếc prius được giao đến khách_hàng  chiếm gần một_nửa thành_tích của toyota 
+5,theo sau đó là aqua  prius_c với hơn 1 triệu xe  và prius_a  prius v cùng prius  với doanh_số khoảng 634 nghìn xe 
+6,ngoài_ra  lexus 500 h  toyota_chr hay auris_hybrid là những thành_viên mới nhất tham_gia vào phân khúc xe này của toyota 

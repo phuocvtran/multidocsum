@@ -1,0 +1,33 @@
+idx, sentence
+0,từ ngày 30/05  các lực_lượng_vũ_trang iraq đã tiếp_tục tiến_công mạnh vào thành_phố fallujah trong một chiến_dịch tấn_công cuối_cùng quyết giành lại thành_phố có 50000 người dân đang bị khủng_bố is bắt_giữ làm con_tin 
+1,dưới mặt_đất  pháo_binh và xe_tăng không ngừng tập_kích vào các vị_trí cố_thủ của khủng_bố từ ba hướng vào thành_phố  dưới sự yểm_trợ của các cuộc tấn_công đường không của lực_lượng không_quân liên_minh do mỹ dẫn_đầu 
+2,trước hỏa_lực dữ_dội của quân_đội chính_phủ  lực_lượng khủng_bố is đáp trả “ yếu_ớt ” bằng cách triển_khai các tay súng bắn_tỉa và chống_trả bằng súng_cối trước các đợt ném bom vào trận_địa 
+3,trận chiến này có khả_năng sẽ còn kéo_dài  khi các lực_lượng chính_phủ đang tiến vào thành_phố và cố_gắng giảm_thiểu thương_vong cho dân_thường trước lo_ngại khủng_bố is sẽ sử_dụng người dân làm “ lá_chắn sống ” 
+4,các cuộc tập_kích trong những ngày qua bước_đầu đã tiêu_diệt 24 tay súng is khi các binh_sĩ iraq tiến sâu vào thành_phố fallujah 
+5,một cuộc tấn_công đẫm máu đã diễn ra trong khu_phố shaab_shi’ite khi một kẻ đánh bom tự_sát đã lái_xe đâm vào một trạm kiểm_soát gần một khu thương_mại  làm thiệt_mạng 8 dân_thường và 3 binh_sĩ chính_phủ 
+6,một kẻ đánh bom liều chết khác đã tấn_công vào một khu chợ tại thị_trấn tamiyah  cách thủ_đô baghdad khoảng 31 dặm về phía bắc 
+7,vụ nổ bom tự_sát đã giết_hại 7 dân_thường và 3 cảnh_sát cùng 24 người khác bị_thương  theo một sĩ_quan cảnh_sát địa_phương cho biết thêm 
+8,kể từ khi phát_động chiến_dịch tấn_công fallujah từ ngày 22/05 đến ngày 30/05  các lực_lượng chính_phủ hầu_như chỉ chiến_đấu với is tại các vùng ngoại_vi_thành_phố nhằm siết chặt vòng_vây trước khi tiến vào giải_phóng khu_vực nội_thị 
+9,đến nay  80  lãnh_thổ quanh khu_vực fallujah đã nằm trong kiểm_soát của quân_đội iraq 
+10,khoảng 3700 người đã tháo_chạy khỏi fallujah  con_số này do những người đi sơ_tán cung_cấp cho nhân_viên unhcr thực_địa  theo bà ariane_rummery  người phát_ngôn unhcr 
+11, người dân ở fallujah bị ép phải di_chuyển cùng phiến_quân is trong thành_phố  
+12,các lực_lượng iraq đang vấp phải sự chống_cự mạnh_mẽ từ is 
+13,sau khi tấn_công thành_phố từ phía nam theo ba hướng hôm 30/5  họ đã đưa quân vào được khu naimiyah 
+14,thiếu_tướng abdelwahab alsaadi  tổng chỉ_huy chiến_dịch giành lại fallujah  nói is sáng sớm qua đã phản_công tại đây 
+15, có khoảng 100 phiến_quân tham_gia nhưng chúng không sử_dụng bom xe hoặc kẻ đánh bom tự_sát   ông alsaadi nói với afp 
+16,quân_đội iraq đẩy_lùi đợt tấn_công  diệt 75 phiến_quân 
+17,hiện chưa rõ thiệt_hại phe chính_phủ 
+18,nhà_chức_trách iraq đang tạm giữ khoảng 500 người đàn_ông và bé trai dưới 12 tuổi từ fallujah để  kiểm_tra an_ninh  
+19,quá_trình trên có_thể kéo_dài 7 ngày  ông spindler nói 
+20,theo chuyên_gia lina_khatib  lãnh_đạo chương_trình trung_đông và bắc_phi tại tổ_chức chatham_house  cho rằng giành  chiến_thắng  trước is không đơn_giản chỉ là tiêu_diệt tổ_chức này về mặt quân_sự 
+21,vì_thế  đối_với bà  thắng_lợi trên dường_như chỉ là nhất_thời bởi các nhân_tố dẫn đến sự hình_thành của is vẫn chưa bị xóa bỏ hoàn_toàn 
+22,việc cộng_đồng người sunni cảm_thấy bất_mãn với chính_phủ do người shiite kiểm_soát là một trong những nhân_tố quan_trọng khiến is có_thể bám rễ và sinh_sôi nhanh_chóng tại iraq  bà khatib đánh_giá 
+23,họ luôn cho rằng chính_phủ do người shiite nắm giữ thân iran và duy_trì chính_sách phân_biệt đối_với họ bất_kể là dưới sự lãnh_đạo của cựu thủ_tướng nouri almaliki hay thủ_tướng đương_nhiệm haider alabadi 
+24,việc chính_quyền sử_dụng dân_quân người shiite trong cuộc_chiến chống is càng khiến người sunni cảm_thấy họ bị tách rời 
+25,mặc_dù lực_lượng sunni có tham_gia chiến_dịch fallujah nhưng vai_trò của họ đã bị lu_mờ trước thanh_thế của dân_quân người shiite do iran hậu_thuẫn 
+26,với những người sunni ủng_hộ is ở fallujah  sự tham_gia của dân_quân người shiite sẽ đẩy họ xích lại gần hơn với is 
+27,trong khi đó  với những người không theo is  được giải_phóng nhờ dân_quân shiite chỉ như một sự thay_đổi người cai_trị 
+28,hàng nghìn người sunni đã bỏ trốn hoặc đang chuẩn_bị tháo_chạy khỏi fallujah khi chiến_dịch càn_quét is được triển_khai 
+29,câu_hỏi đặt ra là những người này sẽ đi đâu 
+30,họ có_thể đến các khu_vực tập_trung đông người shitte sinh_sống 
+31,nhưng nếu_vậy  nguy_cơ bùng_phát những cuộc xung_đột sắc_tộc sẽ là rất cao  bà khatib nhấn_mạnh 

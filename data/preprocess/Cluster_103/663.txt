@@ -1,0 +1,9 @@
+idx, sentence
+0,trong một cuộc phỏng_vấn với reuters tuần trước  ông trump cho hay sẵn_sàng đàm_phán với ông kim để dừng chương_trình hạt_nhân của triều_tiên 
+1, quyết_định gặp hay không tùy thuộc vào quyết_định từ nhà lãnh_đạo tối_cao của tôi nhưng tôi nghĩ ý_tưởng hoặc cuộc nói_chuyện của ông trump chẳng có ý_nghĩa gì   so se_pyong  đặc_phái_viên của triều_tiên tại liên_hợp_quốc  nói khi đang trên đường rời bình nhưỡng sau khi tham_dự đại_hội đảng lần đầu_tiên sau 36 năm 
+2, đó là sự lợi_dụng cho cuộc bầu_cử  chỉ thế thôi 
+3,một loại tuyên_truyền hoặc quảng_cáo   ông nói thêm 
+4, điều đó là vô_ích  chỉ là một động_thái cho cuộc bầu_cử tổng_thống  
+5,triều tiên hồi tháng một tiến_hành vụ thử hạt_nhân thứ tư và một tháng sau phóng thử tên lửa tầm xa  dẫn đến những biện_pháp cấm_vận nghiêm_ngặt hơn 
+6,ông so  người cũng là đại_sứ triều_tiên tại hội_nghị liên_hợp_quốc về giải_trừ quân_bị  tái khẳng_định rằng nước này đã sẵn_sàng quay lại cuộc đàm_phán 6 bên đang bị đình_chỉ về chương_trình hạt_nhân 
+7,trung_quốc và nga ủng_hộ điều này nhưng mỹ và các đồng_minh bác_bỏ  ông so cho hay 

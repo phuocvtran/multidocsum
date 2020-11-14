@@ -1,0 +1,8 @@
+idx, sentence
+0,vào khoảng 17 giờ ngày 26 tại địa_phận thôn đông_xuyên  xã đông_tiến  huyện yên_phong  bắc_ninh   5 người đã bị điện giật chết khi làm cầu dẫn ra bè cá tại sông_cầu 
+1,thông_tin trên được lãnh_đạo ubnd xã đồng_tiến xác_nhận  và cho hay trong số 5 nạn_nhân có 4 người là thanh_thiếu_niên 
+2,một nạn_nhân còn lại là anh nguyễn_văn_thủy  37 tuổi  
+3,lãnh_đạo ubnd xã đồng_tiến cho biết  anh thủy  chủ lồng cá  nhờ 4 thanh_thiếu_niên cùng địa_phương xuống lắp lại chiếc cầu sắt từ bờ ra lồng cá thì không may bị điện giật tử_vong 
+4,phát_hiện sự_việc  người dân trong thôn đã cố_gắng cứu 5 nạn_nhân nhưng bất_thành 
+5,trong số các nạn_nhân_tử_vong  có một cháu nhỏ 12 tuổi 
+6,tiếp_nhận thông_tin  các cơ_quan_chức_năng huyện yên_phong đã có_mặt giải_quyết vụ_việc 

@@ -1,0 +1,8 @@
+idx, sentence
+0,như thông_tin đã đưa  khoảng 18 h ngày 7/8  1 chiếc xe bồn đang xuống hàng vào bể chứa tại cửa_hàng xăng dầu ka_long  tp móng cái đã bốc cháy dữ_dội 
+1,đến 21 h20 ’ cùng ngày  đám cháy được hoàn_toàn khống_chế 
+2,xe bồn chở xăng bị cháy hỏng hoàn_toàn  một phần cây_xăng cũng bị hủy_hoại 
+3,nguyên_nhân ban_đầu được công_an thành_phố móng_cái xác_định  cùng lúc xe bồn mang bks_29c  64337 do lái_xe nguyễn_văn_thành sinh năm 1994 chở 22591 lít xăng a92 đến tiếp xăng cho cửa_hàng thì gia_đình anh_chị trường  hằng tạm_trú ở ngay cạnh cửa_hàng xăng dầu ka_long đang làm lễ cúng trong nhà có thắp hương và bày vàng_mã 
+4,do tàn lửa từ việc thắp hương  đốt vàng_mã của gia_đình phát_tán đúng lúc xe bồn đang bơm xăng xuống bể chứa đã gây ra cháy 
+5,do cây_xăng bốc cháy ngay cạnh bến_xe_khách móng_cái  nên lãnh_đạo bến_xe đã yêu_cầu 150 xe_khách giường nằm đang đỗ ở bến đến những nơi an_toàn để đón khách đồng_thời di_dời 28 hộ dân buôn_bán sinh_sống xung_quanh cây_xăng đến nơi an_toàn 
+6,đến sáng ngày 8/8  bến_xe_khách móng_cái và 28 hộ dân đã trở_lại hoạt_động bình_thường 

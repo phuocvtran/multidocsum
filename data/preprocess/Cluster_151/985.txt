@@ -1,0 +1,10 @@
+idx, sentence
+0,theo cáo_trạng  ngày 982015 ba anh_em nguyễn_văn_bông  nguyễn_văn_lên  nguyễn_văn_giàu và phan_khánh_linh  lưu_minh_đương cùng vợ là liêu_thị_luyến ngồi uống rượu tại phòng trọ ở tổ 72 rạch lồng_đèn  phường 7  quận 8  
+1,do bông chụp hình luyến bằng điện_thoại_di_động mà không nói trước nên giữa bông và đương xảy ra mâu_thuẫn 
+2,bông xóa hết toàn_bộ_hình luyến trong máy rồi đưa lại điện_thoại cho luyến xem  sau đó tất_cả ra về 
+3,khoảng 10 phút sau  bực_tức bông  luyến rủ linh đến phòng trọ của bông tìm gặp bông  hai bên có lời qua tiếng lại 
+4,bông dùng tay tát làm linh chảy máu mũi  giàu đang đứng gần đó liền đến can_ngăn 
+5,luyến và linh bỏ về phòng trọ và kể lại mọi việc cho đương nghe 
+6,trưa cùng ngày  do sợ bị đương đánh nên bông_thủ sẵn một con dao trong người  cùng lên ra ngoài uống cà_phê 
+7,khi cả hai đến trước quán cà_phê thì gặp đương  linh  giàu 
+8,đương đi đến định đánh bông nhưng được giàu can_ngăn và làm đương ngã xuống_đường 

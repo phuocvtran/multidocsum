@@ -1,0 +1,19 @@
+idx, sentence
+0,như_vậy  ngoài lĩnh_vực “ sở_trường ” của hoa_sen lâu_nay được biết đến là nhà_sản_xuất  kinh_doanh tôn thép số 1 việt_nam  với 40  thị_phần tôn và gần 20  thị_phần ống thép   đồng_thời là nhà xuất_khẩu tôn thép hàng_đầu đông_nam_á  đây là dự_án bất_động_sản  dịch_vụ và du_lịch đầu_tiên của tập_đoàn này 
+1,dự_án này đánh_dấu bước_ngoặt khá bất_ngờ của tập_đoàn hoa_sen trong chiến_lược đầu_tư  đặc_biệt là đầu_tư vào khu_vực tây_bắc  lâu_nay vốn nhiều khó_khăn  ít nhà_đầu_tư tìm đến 
+2,theo tiết_lộ của ông lê_phước_vũ  chủ_tịch tập_đoàn hoa_sen  trước đây  ông từng có kinh_nghiệm đầu_tư vào bất_động_sản  nhưng lúc đó chưa phù_hợp 
+3,dự_án này ông vũ đã ấp_ủ hơn hai năm trước đây  qua nhiều lần khảo_sát và thuê các chuyên_gia tư_vấn hàng_đầu của nước_ngoài trước khi quyết_định đầu_tư 
+4,“ sau quá_trình phát_triển  chúng_tôi đã tạo tăng_trưởng mạnh_mẽ  lợi_nhuận tốt  có dòng tiền tốt 
+5,bất_động_sản  du_lịch là lĩnh_vực mới  nhưng hoàn_toàn tiềm_năng và đặc_biệt là nằm trong khả_năng đầu_tư của chúng_tôi ”  ông vũ khẳng_định 
+6,theo ông vũ  yên_bái là trung_tâm của tây_bắc  nơi có rất nhiều tiềm_năng  hơn_nữa  ông rất mến và nể tinh_thần “ rải_thảm_đỏ ” của lãnh_đạo tỉnh này và người dân nơi đây 
+7,bên cạnh những di_tích lịch_sử  văn_hóa đậm_đà bản_sắc dân_tộc  yên_bái còn có các danh_thắng cấp quốc_gia như ruộng bậc_thang mù_cang_chải  hồ thác_bà  khu du_lịch suối_giàng  có_thể khai_thác phát_triển du_lịch 
+8,ngoài_ra  theo ông vũ  tới đây  hoa_sen sẽ đầu_tư vào khu du_lịch tâm_linh  sinh_thái ở đầm vân_hội  yên_bái  với khoảng 1000 ha  trong đó 400 ha mặt_nước 
+9,dự_án khu trung_tâm thương_mại  dịch_vụ  khách_sạn  nhà_hàng và tổ_chức sự_kiện trên công_ty cổ_phần hoa_sen yên_bái làm_chủ đầu_tư  được xây_dựng trên khu đất có diện_tích 15 ha  nằm tại khu trung_tâm kinh_tế  chính_trị văn_hóa của yên_bái 
+10,tính đến thời_điểm này  dự_án được xem là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất yên_bái 
+11,khi dự_án hoàn_thành và đi vào hoạt_động  hứa_hẹn là “ đầu_tàu ” đánh_thức phát_triển du_lịch của yên_bái  cũng như thu_hút nhiều nhà đầu_tư khác vào tỉnh này 
+12,đặc_biệt  dự_án nằm gần kề trục đường_quốc_lộ 37  kết_nối với cao_tốc nội_bài – lào_cai  tuyến giao_thông quan_trọng nối_liền đồng_bằng sông_hồng và tây_bắc 
+13,vị_trí đắc_địa này sẽ giúp dự_án thuận_tiện trong việc giao_thương  thu_hút khách du_lịch 
+14,dự_án bao_gồm 1 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m²  được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán café  căn_hộ cao_cấp 
+15,dự_kiến dự_án sẽ hoàn_thiện vào năm 2020 
+16,dự_án này có thiết_kế kết_hợp hài hòa giữa vẻ đẹp đặc_trưng  ruộng bậc_thang mù cang_chải của núi_rừng tây_bắc và hoa_sen  biểu_tượng thương_hiệu của tập_đoàn 
+17,nhìn toàn_cảnh  dự_án vừa có sự vững_chắc  kiên_cố của kiến_trúc bậc_thang  vừa có sự mềm_mại  thanh_thoát và duyên_dáng của biểu_tượng hoa_sen tạo nên một tổng_thể kiến_trúc hiện_đại  tinh_tế và đẳng_cấp 

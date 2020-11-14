@@ -1,0 +1,7 @@
+idx, sentence
+0,khoảng 15 giờ hôm_nay  235   một nam thanh_niên đi cùng bạn gái trên xe taxi đã yêu_cầu tài_xế dừng xe  mở_cửa bước ra và nhảy_cầu thanh_trì  huyện gia_lâm  hà_nội  tự_tử 
+1,bước đầu cơ_quan_chức_năng xác_định  nam thanh_niên nói trên là nguyễn_văn_b  21 tuổi  trú tại huyện phú_xuyên  hà_nội  
+2,thời_điểm trên  nam thanh_niên này đi taxi cùng bạn gái là nguyễn_thị_v  17 tuổi  trú tại huyện thuận_thành  bắc_ninh  trên xe taxi hướng từ gia_lâm về nội_thành hà_nội 
+3,khi đến giữa cầu  nam thanh_niên đã mở cửa xe đi xuống cầu  rồi nhảy xuống sông  bỏ mặc bạn gái ngồi trên xe taxi 
+4,“ chiếc xe taxi bất_ngờ dừng giữa cầu  nam thanh_niên bước trên xe xuống và lao thẳng xuống dòng sông  sự_việc diễn ra trong vài giây nên người qua đường không kịp can_thiệp ”  một nhân_chứng kể lại 
+5,tiếp_nhận thông_tin  đội cảnh_sát giao_thông_số 14  công_an hà_nội  đã có_mặt bảo_vệ hiện_trường  phối_hợp với các lực_lượng chức_năng khác tổ_chức tìm_kiếm nam thanh_niên nói trên 

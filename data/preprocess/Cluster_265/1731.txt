@@ -1,0 +1,20 @@
+idx, sentence
+0,trong cuộc phòng vấn đầu_tiên với truyền_thông quốc_tế kể từ khi được tân tổng_thống rodrigo_duterte bổ_nhiệm  ông yasay đã liên_tục nhấn_mạnh quan_điểm độc_lập của philippines trong việc giải_quyết các tranh_chấp với trung_quốc liên_quan tới vấn_đề biển_đông 
+1,phát_biểu tại manila  một ngày sau khi tổng_thống duterte chỉ_định nội_các mới  ngoại_trưởng yasay nói  “ chúng_tôi sẽ không trở_thành tay_sai của bất_cứ quốc_gia nào ” 
+2,dưới thời cựu tổng_thống benigno_aquino  philippines đã xích lại gần hơn với mỹ  trong khi quan_hệ giữa manila và bắc_kinh không ngừng trở_nên căng_thẳng 
+3,ngoại_trưởng yasay cho rằng mối quan_hệ philippinestrung_quốc cần được cải_thiện 
+4,ông nói  “ miễn_là trung_quốc tôn_trọng luật_pháp  tôn_trọng chủ_quyền và sự toàn_vẹn lãnh_thổ của chúng_tôi … chúng_tôi đảm_bảo rằng tình hữu_nghị và quan_hệ song_phương sẽ trở_nên vững_chắc hơn ” 
+5,trước đó  ngoại_trưởng trung_quốc_vương nghị khẳng_định cánh cửa đối_thoại luôn rộng_mở  và điều này có_thể có lợi cho việc “ phá vỡ thế bế_tắc ” trong quan_hệ song_phương giữa trung_quốc và philippines những năm gần đây 
+6,ngày 31/5  tổng_thống vừa đắc_cử duterte tuyên_bố philippines sẽ không phụ_thuộc vào washington 
+7,giới quan_sát cho rằng điều này báo_hiệu khả_năng manila có_thể sẽ thay_đổi cách giải_quyết vấn_đề biển_đông và các vấn_đề an_ninh khác 
+8,ông yasay nói về bài phát_biểu của tổng_thống duterte  “ tổng_thống đang khẳng_định quan_điểm rằng  theo hiến_pháp  chúng_tôi nên thực_hiện một chính_sách ngoại_giao độc_lập ” 
+9,tân ngoại_trưởng yasay cho biết ông duterte sẽ tôn_trọng các hiệp_định hiện có với mỹ  kể_cả thỏa_thuận tăng_cường hợp_tác quốc_phòng cho_phép quân_đội mỹ tăng_cường hoạt_động tại các căn_cứ ở philippines 
+10,ngay sau khi có tin ông duterte đắc_cử tổng_thống  người đứng đầu nhà trắng_barack_obama đã có cuộc điện_đàm chúc_mừng chiến_thắng 
+11,ông yasay nói  “ đây là một dấu_hiệu vô_cùng mạnh_mẽ cho thấy tình hữu_nghị giữa philippines và mỹ không hề bị ảnh_hưởng và sẽ không bị ảnh_hưởng bởi cuộc bầu_cử vừa_qua ” 
+12,tuy_nhiên  tân tổng_thống philippines_duterte cũng không loại_trừ khả_năng đàm_phán lại các thỏa_thuận đã có với mỹ trong tương_lai nếu cần_thiết 
+13,ngoại_trưởng yasay nói  “ tổng_thống ủng_hộ các thỏa_thuận mà chúng_tôi đã có … song không loại_trừ khả_năng rằng trong tương_lai  nếu nảy_sinh nhu_cầu chính_đáng về việc đàm_phán lại những thỏa_thuận này vì lợi_ích chung của hai nước  thì chúng_tôi sẽ không ngần_ngại tiến_hành ” 
+14,tòa_án tối_cao philippines năm nay đã phê_chuẩn một thỏa_thuận hợp_hiến  cho_phép mỹ xây_dựng các nhà_kho và trung_tâm hậu_cần ở bất_cứ nơi nào trên lãnh_thổ philippines 
+15,washington cũng đang tích_cực giúp quốc_gia từng là thuộc_địa của mình tăng_cường_quốc_phòng  trong đó có việc cung_cấp 3 tàu hộ_tống lớp hamilton  nhiều trang_thiết_bị radar và một tàu nghiên_cứu biển  dự_kiến cập cảng philippines trong tháng 7/2016  
+16,tăng_cường năng_lực quốc_phòng là một trong những nỗ_lực của philippines nhằm củng_cố các tuyên_bố chủ_quyền tại biển_đông  nơi trung_quốc đã và đang xây_dựng nhiều đảo nhân_tạo và cơ_sở_hạ_tầng dânquân sự trên đó 
+17,ngoại_trưởng yasay  người đã từng tham_gia quá_trình đàm_phán các thỏa_thuận thương_mại toàn_cầu  cho biết manila sẽ tôn_trọng mọi phán_quyết của tòa trọng_tài thường_trực  pca  tại la_haye  hà_lan   nơi philippines đã đệ đơn kiện trung_quốc về các đòi_hỏi chủ_quyền phi_lý ở biển_đông 
+18,hiện chưa rõ chính_xác thời_điểm pca công_bố phán_quyết 

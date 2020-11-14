@@ -1,0 +1,8 @@
+idx, sentence
+0,trong lễ nhậm_chức tại văn_phòng dành cho lãnh_đạo đài_loan ở thành_phố đài_bắc  bà thái anh_văn xuất_hiện cùng cựu lãnh_đạo đài_loan mã_anh cửu 
+1,cơ_quan ngoại_giao đài_loan cho biết gần 700 nguyên_thủ quốc_gia  các nhà ngoại_giao và quan_chức các nước đã tham_dự lễ nhậm_chức của tân lãnh_đạo đài_loan 
+2,bà thái anh_văn sau đó có bài phát_biểu nhậm_chức  trong đó tập_trung vào các vấn_đề kinh_tế  phát_triển bền_vững và mối quan_hệ với trung_quốc_đại_lục 
+3,bà thái anh_văn tuyên_bố muốn duy_trì hòa_bình với bắc_kinh_song cương_quyết khẳng_định bắc_kinh phải tôn_trọng nền dân_chủ của đài_loan 
+4,trong vai_trò mới là nhà lãnh_đạo đài_loan  bà thái anh_văn phải đối_mặt với nhiều khó_khăn  thách_thức  đặc_biệt là vực dậy nền kinh_tế đang suy_thoái và giải_quyết mối quan_hệ với trung_quốc 
+5,bà thái anh_văn  59 tuổi  chủ_tịch đảng_dân_tiến  dpp   đã giành chiến_thắng trong cuộc bầu_cử người đứng đầu chính_quyền đài_loan hồi giữa tháng 1 năm nay 
+6,việc dpp có quan_điểm ủng_hộ đài_loan độc_lập đã khiến chính_quyền bắc_kinh không hài_lòng và thường_xuyên gây áp_lực lên hòn đảo này 

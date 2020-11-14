@@ -1,0 +1,9 @@
+idx, sentence
+0,theo những tin_tức mới nhất trên báo vtc_news  chiều ngày 19/5  ubnd tỉnh quảng_ninh cho biết các cơ_quan_chức_năng tỉnh vừa có động_thái ‘ mạnh_tay ’ đối_với doanh_nghiệp có nhân_viên bị tố ‘ chặt chém ’ du_khách  bắt khách trả trên 6 triệu đồng cho một bữa trưa 
+1,cụ_thể  về việc tàu hồng_long_qn_– 7038 “ chặt chém ” đoàn khách du_lịch  đơn_vị này đã ra quyết_định đình_chỉ hoạt_động 6 tháng đối_với cả đội tàu du_lịch hồng_long  gồm 6 tàu  kể từ ngày 19/5 
+2,theo đó  trên cơ_sở đề_xuất của ubnd tp hạ_long tại văn_bản số 2379 ngày 19/5  đề_nghị từ_chối cấp phép rời cảng  bến đối_với tàu du_lịch vi_phạm ”  sở giao_thông vận_tải quảng_ninh vừa giao cảng_vụ đường_thủy nội_địa quảng_ninh ra thông_báo và thực_hiện từ_chối cấp phép rời cảng  bến đối_với đội tàu du_lịch đang hoạt_động trên vịnh hạ_long thuộc quyền_sở_hữu hoặc quản_lý  khai_thác của doanh_nghiệp tư_nhân huyền_việt để làm rõ 
+3,trước đó ngày 15/5  theo phản_ánh của du_khách  đoàn khách của họ gồm 5 người_lớn và 3 trẻ_em  trong đó có một gia_đình việt_kiều  thuê tàu du_lịch hồng_long_qn  7038 của doanh_nghiệp tư_nhân huyền_việt để tham_quan vịnh hạ_long với giá_cả đã được thỏa_thuận trước 
+4,tuy_nhiên  tàu này kết_thúc chuyến đi sớm 2 tiếng so với hợp_đồng  lý_do được nhà tàu giải_thích là do có mưa_giông nên bị gọi về 
+5,đoàn khách này còn “ tố ” bị nhân_viên trên tàu “ ép ” phải thanh_toán bữa ăn với giá gần 8 triệu đồng cộng thêm 600000 đồng_tiền dịch_vụ  cao hơn nhiều so với giá thỏa_thuận 
+6,ubnd tp hạ_long sau khi nhận được phản_ánh của du_khách đã chỉ_đạo các đơn_vị chức_năng vào_cuộc kiểm_tra  xác_minh vụ_việc 
+7,kết_quả ban_đầu cho thấy  tàu hồng_long_qn_– 7038 đã có hành_vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm  theo thông_tin trên báo dân_trí 

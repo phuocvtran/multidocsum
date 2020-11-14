@@ -1,0 +1,4 @@
+idx, sentence
+0,tại vòng đấu_loại  xuân_vinh xếp_hạng tư đạt tổng điểm 585 giành quyền tham_dự vòng bắn chung_kết 
+1,vào vòng đấu_tranh ngôi vô_địch  xuân_vinh đạt thành_tích 1798 điểm thua tay súng oleh_omenchk  hcv  và ismail_keles  hcb  
+2,trước đó tranh tài nội_dung 50 m súng ngắn bắn chậm nam  xuân_vinh chỉ đạt 554 điểm xếp_hạng 32 

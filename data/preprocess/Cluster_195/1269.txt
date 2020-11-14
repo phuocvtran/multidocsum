@@ -1,0 +1,7 @@
+idx, sentence
+0,ngọn lửa bùng_phát dữ_dội vào sáng sớm và nhanh_chóng lan ra các kho hàng  gây ra các vụ nổ lớn buộc cơ_quan_chức_năng phải di_dời khoảng 1000 dân_làng trong khu_vực lân_cận 
+1,nhân_viên cứu_hỏa ngay_lập_tức được huy_động dập_tắt ngọn lửa và đưa người bị_thương đến bệnh_viện 
+2,hiện_tại chưa có báo_cáo cụ_thể về thiệt_hại cũng như nguyên_nhân gây ra vụ cháy nghiêm_trọng này 
+3,đây không phải lần đầu_tiên ấn_độ gặp sự_cố cháy nổ tại các kho đạn dược những năm gần đây 
+4,vào năm 2010  một đám cháy tại một trong những kho chứa đạn_dược lớn nhất ấn_độ ở miền đông panagarh đã gây ra một loạt các vụ nổ  nhưng không gây thương_tích 
+5,năm 2007  hàng ngàn người dân kashmir sống ở huyện anantnag được sơ_tán sau khi một đám cháy lớn bùng_phát tại một kho chứa hàng  làm bị_thương ít_nhất 25 người 

@@ -1,0 +1,8 @@
+idx, sentence
+0,chị lan chết trong tư_thế bị trói  ngoài cửa căn nhà_tập_thể là xác người chồng  anh huấn  gục trên vũng máu 
+1,tại hiện_trường có dấu_hiệu của một vụ nổ 
+2,căn_cứ dấu_vết hiện_trường  hiện có giả_thuyết cho rằng người chồng đã sát_hại vợ rồi dùng vật_liệu nổ tự vẫn 
+3,tuy_nhiên  cơ_quan công_an chưa công_bố thông_tin về kết_luận ban_đầu 
+4,theo điều_tra  chị lan và anh huấn cùng quê ở thanh_hoá  đều làm_việc tại công_ty than ở thị_trấn thanh_sơn  huyện sơn_động 
+5,họ kết_hôn đã 8 năm  chưa có con 
+6,gần đây  hai vợ_chồng có mâu_thuẫn 

@@ -1,0 +1,23 @@
+idx, sentence
+0,tố_cáo của người_dân có cơ_sở liên_quan đến vụ_việc công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định bị tố có trụ móng làm bằng bê_tông trộn … đất  chiều nay 2/6  ông phạm_lạp  phó giám_đốc công_ty cổ_phần sông_đà 11 đã tổ_chức gặp_mặt báo_chí 
+1,trả_lời những nghi_vấn  ông lạp khẳng_định  đến thời_điểm này  khi đã có kết_quả kiểm_định chất_lượng bê_tông đã được lấy mẫu tại hiện_trường  có_thể khẳng_định rằng việc phản_ánh của người dân là hoàn_toàn có cơ_sở 
+2,“ chúng_tôi đánh_giá việc vi_phạm này hết_sức nghiêm_trọng 
+3,chỉ vì việc_làm sai_phạm của một_vài cá_nhân nhưng làm ảnh_hưởng rất lớn đến hình_ảnh và uy_tín của công_ty  làm xáo_trộn đời_sống và việc_làm của hàng ngàn cán_bộ công_nhân_viên của công_ty ”  ông lạp khẳng_định 
+4,theo ông lạp  về phân_cấp quản_lý thì giám_đốc đơn_vị trực_thuộc  trưởng_ban chỉ_huy công_trình  đội_trưởng đội xây_lắp  cán_bộ giám_sát kỹ_thuật và một_số cán_bộ liên_quan đều phải chịu trách_nhiệm liên_quan về việc sai_phạm này 
+5,trong đó  người chịu trách_nhiệm chính vẫn là đội_trưởng đội xây_lắp  ông nguyễn_văn_toán 
+6, ngay sau khi có kết_luận kiểm_định chất_lượng bê_tông  hội_đồng kỷ_luật công_ty ra quyết_định kỷ_luật cảnh_cáo giám_đốc  phó giám_đốc phụ_trách thi_công của cn11  7  cách_chức chức_vụ_trưởng_ban chỉ_huy công_trình  cách_chức đội_trưởng đội xây_lắp  cảnh_cáo 2 cán_bộ giám_sát kỹ_thuật  khiển_trách phòng kỹ_thuật công_ty về việc để xảy sai_phạm đáng tiếc này 
+7,yêu_cầu những cán_bộ có liên_quan nói trên phải chịu bồi_thường toàn_bộ những chi_phí phải làm lại các vị_trí móng trên ”  ông lạp nhấn_mạnh 
+8,bên_cạnh đó  vị phó giám_đốc cũng khẳng_định  quan_điểm của lãnh_đạo công_ty đối_với những cá_nhân có vi_phạm là những cá_nhân có liên_quan phải chấp_hành đúng theo những quyết_định kỷ_luật của công_ty và phải chịu hoàn_toàn chi_phí làm lại 2 vị_trí móng cột trên 
+9,đã gặp_gỡ 2 người tố_cáo cũng trong buổi gặp_gỡ báo_chí  ông lập khẳng_định đã giao cán_bộ xuống gặp trực_tiếp 2 người tố_cáo  thừa_nhận tố_cáo có cơ_sở và mong_muốn giúp cho công_ty có điều_kiện khắc_phục  sửa_chữa 
+10,trước thông_tin nói rằng có người của đơn_vị thi_công đã tới gặp 2 người tố_cáo đề_nghị đưa 100 triệu đồng để mua sự im_lặng  ông lạp khẳng_định lãnh_đạo công_ty sông_đà 11 không biết việc ấy 
+11,“ người là ai thì chúng_tôi không rõ  cũng không nắm được 
+12,có_thể những ông nghĩ rằng mình bị kỷ_luật đến xin_xỏ thì sao  chúng_tôi không nắm được việc ấy ”  ông lạp phân_trần 
+13,vị lãnh_đạo cũng thừa_nhận  nếu sự_việc không bị phát_hiện sẽ ảnh_hưởng đến chất_lượng công_trình  ví_dụ như gặp bão gió thì có_thể gây ra đổ cột 
+14,trước đó  anh vũ đức_thuận  sn 1970   trú tại thôn an_hưng  xã đại_an  huyện vụ_bản  tỉnh nam_định đã lên_tiếng với báo_chí về những khuất_tất trong quá_trình thi_công các trụ móng cột_điện đường_dây 220 kv ninh_bình  nam_định 
+15,theo anh thuận  đầu tháng 3/2016  chủ_thầu thi_công cột_điện của đường_dây 220 kv chạy qua xã đại_an thuê anh và máy trộn bê_tông với giá 12 triệu đồng / ngày 
+16,đến giữa tháng 4/2016  trong quá_trình làm_việc  anh giật_mình khi tốp thợ yêu_cầu chỉ bỏ một phần xi_măng vào trộn cùng đá_sỏi  phần còn lại là đất cho phần đế móng 
+17,với kinh_nghiệm của mình  anh thuận cho rằng  việc đổ bê_tông làm đế cho một công_trình này phải mất khoảng 25  30 ngày 
+18,tuy_nhiên  chỉ trong 2 ngày_đêm  đã đổ xong phần đế móng 
+19,sau khi thi_công xong móng cột_điện thứ nhất  anh thuận đã báo với chủ thi_công xin nghỉ vì không muốn tiếp_tay cho việc xây_dựng gian_dối 
+20,sau khi nghỉ làm  vào khoảng tháng 5/2016  anh thuận cùng em_trai phát_hiện đội thi_công vẫn làm theo cách cũ khi đổ cột móng thứ 2 
+21,quá bức_xúc  2 anh_em anh thuận đã bí_mật quay video lại làm bằng_chứng rồi gửi đến các cơ_quan báo_chí để tố_cáo việc_làm sai_trái trên 

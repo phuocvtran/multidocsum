@@ -1,0 +1,4 @@
+idx, sentence
+0,phó cục_trưởng thông_tin đối_ngoại – bộ thông_tin và truyền_thông bùi_sỹ_hoa  phó chủ_tịch ubnd tỉnh nghệ_an lê_ngọc_hoa và các sở  ban  ngành  quan_khách và nhân_dân tham_dự buổi lễ 
+1,triển_lãm diễn ra từ ngày 36 đến hết ngày 56  trưng_bày 154 tư_liệu  văn_bản  ấn_phẩm và gần 100 bản_đồ là tập_hợp các nguồn tư_liệu đã được công_bố từ trước đến nay của các nhà_nghiên_cứu  học_giả trong nước và quốc_tế về hai quần_đảo hoàng_sa và trường_sa của việt_nam 
+2,ngoài_ra  triển_lãm còn trưng_bày nhóm tư_liệu hiện_vật  hình_ảnh về công_cuộc thực_thi chủ_quyền và đấu_tranh “ bảo_vệ chủ_quyền hoàng_sa  trường_sa ” 

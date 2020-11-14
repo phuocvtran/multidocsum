@@ -1,0 +1,24 @@
+idx, sentence
+0,ngày 23/5  tand tỉnh hòa_bình mở phiên_tòa sơ_thẩm_xét_xử khà_a_giàng  51 tuổi  ngụ xã hang_kia  huyện mai_châu  về các tội mua_bán  vận_chuyển trái_phép chất ma_túy  tàng_trữ trái_phép vũ_khí quân_dụng và tàng_trữ trái_phép vật_liệu nổ 
+1,theo cáo_trạng  do có mối quan_hệ quen_biết với khà a_giàng nên sáng 28/4/2003  thào_a_vảng  39 tuổi  trú tại xã cán_cẩu  huyện si_ma_cai  tỉnh lào_cai  đã rủ thào a_hòa  34 tuổi  ở cùng thôn  đến nhà giàng để mua thuốc_phiện về bán 
+2,8 h ngày 25/8/2003  vảng và hòa đi xe_khách đến nhà giàng để mua 5 kg thuốc_phiện với giá 14 triệu đồng 
+3,trong lúc chờ xe để mang số thuốc_phiện vừa mua được về lào_cai  vảng và hòa bị tổ công_tác của công_an xã pà_cò  huyện mai_châu kiểm_tra  phát_hiện 6 gói thuốc_phiện với tổng trọng_lượng 48695 gram 
+4,ngày 13/11/2003  cơ_quan cảnh_sát điều_tra công_an tỉnh hòa_bình ra quyết_định khởi_tố bị_can và ra_lệnh bắt tạm giam đối_với giàng về tội mua_bán trái_phép chất ma_túy 
+5,nhưng trước đó  giàng bỏ trốn khỏi địa_phương nên bị công_an truy_nã và sau đó là tạm đình_chỉ điều_tra 
+6,trong quá_trình bỏ trốn  giàng tiếp_tục tham_gia vận_chuyển trái_phép 64 bánh heroin 
+7,lúc đó khoảng 8 h ngày 26/5/2005  giàng đang ở nhà một_mình thì có một người đàn_ông không quen_biết đến đặt vấn_đề thuê ông ta vận_chuyển 2 can nhựa chứa heroin đến khu_vực đèo thung_khe  huyện mai_châu với tiền công 50 triệu đồng 
+8,giàng đồng_ý nên khoảng 13 h cùng ngày  người đàn_ông nói trên quay lại và giao cho giàng 2 chiếc can nhựa chứa heroin 
+9,họ thống_nhất thời_gian  địa_điểm  phương_thức giao_nhận hàng 
+10,sau đó  giàng đã gặp hờ_a_dế  hờ_a_giàng  sùng_a_giàng  khà_a_lếnh để đặt vấn_đề thuê vận_chuyển số heroin cho giàng về hà_nội_giao cho người đàn_ông đã thuê giàng vận_chuyển 
+11,đến khoảng 1 h ngày 27/5/2005  giàng gọi hờ a_dế  hờ_a_giàng  sùng_a_giàng  khà_a_lếnh dậy  giao cho mỗi người một chiếc điện_thoại_di_động và dặn khi nào lên đến đỉnh đèo thung_khe thì bật điện_thoại để thống_nhất địa_điểm giao_nhận heroin 
+12,nếu không có ai gọi thì mang heroine về thanh_xuân  hà_nội  giao cho một người tên bình để nhận tiền công vận_chuyển 
+13,sau đó  các “ mắc xích ” của giàng đã mang 2 chiếc can đi theo đường_mòn về bến_xe xăm_khòe  huyện mai_châu để đón xe_khách 
+14,khi xe đi đến thị_trấn mai_châu thì hờ_a_dế và hờ_a_giàng  sùng_a_giàng đã bị công_an huyện mai_châu_phát_hiện  bắt quả_tang 
+15,kiểm_tra 2 can nhựa của các nghi can mang theo  công_an phát_hiện tổng_cộng 64 bánh heroin có tổng trọng_lượng là 2212912 gram 
+16,ngay sau đó  khà_a_lếnh cũng bị bắt khẩn_cấp còn giàng bỏ trốn 
+17,ngày 14/6/2005  công_an tỉnh hòa_bình đã ra quyết_định khởi_tố bị_can đối_với giàng về tội mua_bán  vận_chuyển trái_phép chất ma_túy và tiến_hành khám_xét khẩn_cấp nhà của “ ông tùm ” 
+18,tại đây  nhà_chức_trách thu_giữ 7 gói thuốc_nổ amonit có tổng trọng_lượng 1400 gram  3 kíp nổ điện 
+19,ngày 26/12/2005  công_an hòa_bình khởi_tố bị_can đối_với giàng về tội tàng_trữ trái_phép vật_liệu nổ 
+20,do_giàng bỏ trốn khỏi địa_phương nên ngày 21/6/2005  công_an hòa_bình ra quyết_định truy_nã đối_với giàng 
+21,đến ngày 6/5/2011  giàng đã đến công_an xã hang_kia  huyện mai_châu đầu_thú 
+22,ngày 16/5/2011 và ngày 3/6/2011  công_an hòa_bình ra các quyết_định phục_hồi điều_tra bị_can  cấm đi khỏi nơi cư_trú đối_với giàng trong vụ_án 64 bánh heroin và gần 5 kg thuốc_phiện 

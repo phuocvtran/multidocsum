@@ -1,0 +1,17 @@
+idx, sentence
+0,đúng 10 năm sau khi đoạt được cành cọ_vàng đầu_tiên  ken_loach một lần nữa áp_đảo liên_hoan cannes với i  daniel_blake 
+1,đây là một bộ phim chỉ_trích chính_sách_xã_hội phi_lý trên đất anh 
+2,giải_thưởng lớn được trao_tặng cho nhà làm phim người canada  xavier_dolan  27 tuổi  nhờ juste la fin du_monde  chỉ là tận_thế  nói về quan_hệ phức_tạp trong một gia_đình  vào lúc louis trở_về để báo cho mẹ  anh_trai và cô em_gái út về cái chết cận_kề của mình 
+3,giải_thưởng quan_trọng thứ ba của liên_hoan cannes dành cho bộ phim được dàn_dựng khéo_léo nhất 
+4,năm nay phần_thưởng này được trao cho hai bộ phim đồng_hạng  personal_shopper của đạo_diễn pháp oliver_assayas và baccalauréat của nhà làm phim người roumanie  cristian_mungiu 
+5,anh từng đoạt cành cọ_vàng của cannes năm 2007 
+6,giải_thưởng của ban giám_khảo cannes lần thứ 69 được dành cho american_honey của nữ đạo_diễn anh  andrea_arnold 
+7,nhiều nhà bình_luận cho rằng những bộ phim hay nhất về xã_hội mỹ thường do các nhà làm phim nước_ngoài đem lại 
+8,forushande  le_client  khách_hàng do nhà làm phim iran  asghar_farhadi biên_soạn có kịch_bản độc_đáo nhất của liên_hoan năm nay đã chinh_phục ban giám_khảo được đặt dưới sự_chủ_tọa của đạo_diễn úc_george_miller 
+9,về hai giải_thưởng được chờ_đợi của tất_cả các liên_hoan phim đó là giải nam và nữ diễn_viên xuất_sắc nhất 
+10,năm nay  một lần nữa khách_hàng được xướng_tên trong buổi lễ trao giải  nam tài_tử shahab_hosseini đã rất xúc_động khi nhận giải_thưởng cao_quý này 
+11,điện_ảnh châu_á phần_nào được an_ủi với giải nữ diễn_viên xuất_sắc nhất được trao cho jaclyn_jose  nhờ thủ vai bà mẹ rosa  trong bộ phim philippines_ma’rosa của brillante_mendoza 
+12,trong đó  tác_giả tố_cáo cảnh nghèo và nạn tham_nhũng tại quốc_gia đông_nam_á này 
+13,giải ống_kính vàng dành cho bộ phim đầu_tay dộc đáo nhất về tay đạo_diễn pháp gốc maroc_houda_benyamina với divines 
+14,cành cọ_vàng 2016 dành cho thể_loại phim ngắn được trao_tặng nhà làm phim tây ban_nha với timecode 
+15,cuối_cùng liên_hoan_cannes 2016 dành riêng một cành cọ_vàng đặc_biệt để vinh_danh sự_nghiệp điện_ảnh của nam diễn_viên lão_thành jean  pierre_léaud 

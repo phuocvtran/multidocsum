@@ -1,0 +1,19 @@
+idx, sentence
+0,ngày 19/5  cơ_quan cảnh_sát điều_tra bộ công_an đã tạm giữ kwon_yonggil  sn 1982  quốc_tịch hàn_quốc  để xử_lý liên_quan đến hành_vi tổ_chức đánh_bạc qua mạng 
+1,điều_tra ban_đầu  từ tháng 3 đến 11/2013  kwon_yonggil cầm_đầu và lập trang mạng đánh_bạc tại philippines 
+2,khoảng thời_gian từ tháng 11/2015 đến 1/2016  kwon_yonggil sang việt_nam thiết_lập đường_dây đánh_bạc qua mạng 
+3,kwon yonggil có nhiệm_vụ quản_lý tiền và giao oh_junghyun và kim_myụngun được giao nhiệm_vụ quản_lý trang_web 
+4,hai đối_tượng này có trách_nhiệm thu và chuyển tiền cho khách_hàng 
+5,tại việt_nam  các đối_tượng núp dưới “ vỏ bọc ” khách du_lịch và là doanh_nhân để tìm_hiểu thị_trường làm_ăn 
+6,băng_nhóm này thuê căn_hộ để hoạt_động cho việc đánh_bạc phi_pháp 
+7,tùy theo cách đặt_cược của người chơi  các đối_tượng sẽ tìm cách gian_lận tiền của những con_bạc 
+8,người chơi đoán trúng tỷ_số được các đối_tượng trả tiền và sẽ “ móc_túi ” những người chơi khác bằng trò đoán không đúng tỷ_số 
+9,chỉ trong thời_gian ngắn  băng_nhóm này thu lợi bất_chính hơn 16 tỷ won 
+10,hành_vi của các đối_tượng đã bị cảnh_sát hàn_quốc phát_hiện và có công_văn đề_nghị công_an việt_nam hỗ_trợ bắt_giữ kwon_yonggil 
+11,ngày 12/4  ban tổng_thư_ký interpol đã ra quyết_định truy_nã quốc_tế số a3102 / 42016 đối_với kwon_yonggil về tội_danh vi_phạm_luật xúc_tiến thể_thao 
+12,ngay sau đó  bộ công_an đã giao nhiệm_vụ cho cục cảnh_sát truy_nã tội_phạm phối_hợp với cục đối_ngoại  các đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh và các đơn_vị thuộc bộ_quốc_phòng  công_an tp hà_nội  công_an tp hồ_chí_minh và các địa_bàn trọng_điểm tiến_hành rà_soát  truy bắt đối_tượng 
+13,trưa 17/5  người dân trình_báo thông_tin liên_quan đến một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã đi vào một khu chung_cư cao_cấp thuộc phường tân_phong  quận 7  tp hcm  
+14,các trinh_sát tiến_hành rà_soát  nhận_dạng và xác_định đối_tượng đúng là kwon_yonggil 
+15,các trinh_sát đã ập vào căn_hộ  bắt_giữ kwon_yonggil và tiến_hành khám_xét khẩn_cấp nơi ở 
+16,tại cơ_quan điều_tra  kwon_yonggil thừa_nhận hành_vi phạm_tội 
+17,kwon yonggil thuê căn_hộ chung_cư tại phường tân_phong  quận 7  để tiếp_tục gây_án thì bị cơ_quan_chức_năng phát_hiện 

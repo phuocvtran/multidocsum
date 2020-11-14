@@ -1,0 +1,11 @@
+idx, sentence
+0,ilkay_gundogan đã chính_thức trở_thành tân_binh đầu_tiên của manchester_city dưới thời huấn_luyện_viên pep_guardiola  theo bản hợp_đồng có thời_hạn 4 năm 
+1,trên trang_chủ  manchester_city cũng đã chính_thức công_bố chiêu_mộ thành_công tuyển_thủ_đức từ câu_lạc_bộ dortmund 
+2,man city không thông_báo mức phí chuyển_nhượng nhưng theo báo_giới anh thì đội bóng này đã phải chi ra số tiền lên đến 21 triệu bảng 
+3,chia_sẻ sau khi đầu_quân man_city  ilkay_gundogan cho biết  “ tôi rất vui_mừng khi được gia_nhập manchester_city 
+4,khi tôi biết được manchester_city muốn chiêu_mộ tôi  trái_tim tôi mách_bảo mình phải chuyển tới đội bóng này 
+5,mọi thứ sau đó được hoàn_tất một_cách nhanh_chóng  
+6,tiền_vệ này cũng gửi lời cảm_ơn đến ban lãnh_đạo cũng như người hâm_mộ dortmund 
+7, tôi trân_trọng quãng thời_gian chơi bóng cho borussia_dortmund  tôi muốn gửi lời cảm_ơn tới câu_lạc_bộ  các cổ_động_viên  nhưng người ủng_hộ  động_viên tôi trong suốt 5 năm qua  
+8, bây_giờ  tôi muốn bắt_đầu một thử_thách mới tại city  cơ_hội được làm_việc với huấn_luyện_viên pep_guardiola  tôi hãnh_diện khi trở_thành bản hợp_đồng đầu_tiên của đội bóng ở mùa hè năm nay  
+9,tiền_vệ 35 tuổi này hiện đang trong giai_đoạn điều_trị chấn_thương đầu_gối và chỉ có_thể trở_lại vào đầu mùa giải tới 

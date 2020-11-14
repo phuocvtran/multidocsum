@@ -1,0 +1,6 @@
+idx, sentence
+0,bộ tài_chính có công_văn gửi thống_đốc ngân_hàng nhà_nước đề_nghị can_thiệp  yêu_cầu ngân_hàng tmcp đầu_tư và phát_triển vn  bidv  và ngân_hàng tmcp_công_thương  vietinbank  phải chi_trả cổ_tức năm 2015  bổ_sung cân_đối ngân_sách năm 2016 
+1,công_văn nêu rõ  theo nghị_quyết số 99/2015 / qh13  quốc_hội giao dự_toán thu cân_đối ngân_sách nhà_nước năm 2016 có một khoản là 55000 tỉ đồng 
+2,khoản này bao_gồm lợi_nhuận còn lại và cổ_tức được chia cho phần vốn_nhà_nước tại các công_ty cp có vốn góp do bộ  ngành  địa_phương đại_diện chủ_sở_hữu và số lợi_nhuận còn lại sau khi trích nộp các quỹ theo quy_định của pháp_luật của các tập_đoàn  tổng_công_ty nhà_nước sở_hữu 100  vốn 
+3,sở_dĩ có đề_xuất này  theo bộ tài_chính tại nghị_định 57/2012 / nđcp quy_định  đối_với tổ_chức tín_dụng là ngân_hàng tmcp do nhà_nước sở_hữu trên 50  vốn điều_lệ  người đại_diện vốn_nhà_nước tại ngân_hàng phải lấy ý_kiến ngân_hàng nhà_nước và thống_nhất với bộ tài_chính về việc phân_chia lợi_nhuận còn lại để biểu_quyết tại đại_hội_đồng cổ_đông 
+4,bộ tài_chính đề_nghị ngân_hàng nhà_nước chỉ_đạo người đại_diện phần vốn_nhà_nước tại bidv  vietinbank biểu_quyết chia cổ_tức tài_chính năm 2015 bằng tiền_mặt và nộp toàn_bộ số cổ_tức được chia cho phần vốn_nhà_nước tại 2 ngân_hàng trên vào ngân_sách 

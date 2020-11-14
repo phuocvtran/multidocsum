@@ -1,0 +1,21 @@
+idx, sentence
+0,theo rt  nhà_nước hồi_giáo  is  đã nhận trách_nhiệm về vụ tấn_công qua hãng tin amaq 
+1, những người hồi_giáo dòng alawite ở tartus và jableh  là mục_tiêu của các vụ đánh bom liên_hoàn 
+2,tổng_thống syria_bashar_alassad và phần_lớn quân_đội đều là người alawite 
+3,kênh_truyền_hình ikhbariya cho biết  có khoảng 3 vụ nổ xảy ra tại thị_trấn ven biển jableh  gần tuyến đường_sắt địa_phương 
+4,vụ nổ thứ 4 xảy ra tại trung_tâm cấp_cứu của một bệnh_viện địa_phương  theo ria_novosti 
+5,vụ nổ bom đã khiến 45 người thiệt_mạng 
+6,nguồn tin sau đó nâng tổng_số người thiệt_mạng lên hơn 100 người 
+7,đài_fm_sham nói rằng vụ nổ đầu_tiên diễn ra ngay ở lối vào thị_trấn 
+8,một chiếc xe chở đầy thuốc_nổ tương_đương với 250 kg tnt đã bất_ngờ nổ tung 
+9,3 vụ nổ khác do những kẻ đánh bom tự_sát thực_hiện  ít_nhất một trong số này là phụ_nữ 
+10,3 vụ nổ khác xảy ra tại khu_vực dân_cư ở thị_trấn ven biển tartus  các nhân_chứng cho biết 
+11,ít_nhất 20 người đã thiệt_mạng trong các vụ nổ ở khu_vực này 
+12,theo kênh_truyền_hình nhà_nước syria  vụ nổ ở tartus bắt_nguồn từ một xe bom và sau đó là những kẻ đánh bom tự_sát 
+13,cả hai khu_vực bị tấn_công đều nằm gần căn_cứ quân_sự nga ở syria 
+14,cảng tartus từ nhiều năm qua đã là nơi đồn_trú của hải_quân nga 
+15,cảng này thường_xuyên được sử_dụng để nga vận_chuyển các thiết_bị quân_sự đến quốc_gia trung_đông này 
+16,trong khi đó  sân_bay quốc_tế basil alassad gần jableh là nơi nga xây_dựng căn_cứ không_quân hmeymim 
+17,đây là nơi các chiến_đấu cơ_nga tiến_hành không_kích chống khủng_bố từ tháng 9/2015 
+18,bộ ngoại_giao nga đã lên_án các vụ đánh bom đẫm máu ở syria trong ngày 23/5 
+19,moscow tin rằng đây là các hành_động nhằm ngăn_cản lệnh ngừng_bắn và nỗ_lực tìm_kiếm một giải_pháp chính_trị cho cuộc khủng_hoảng ở syria 

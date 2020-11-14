@@ -1,0 +1,12 @@
+idx, sentence
+0,tối 1/6  đt việt_nam đã có_mặt tại thành_phố yangon  myanmar  để chuẩn_bị tham_dự giải giao_hữu quốc_tế myanmar 2016 với sự tham_dự của 4 đội bóng gồm đt việt_nam  singapore  hồng_kông  trung_quốc  và chủ nhà myanmar 
+1,sau chiến_thắng 20 trước đt_syria tại mỹ_đình_tối 31/5  thầy_trò hlv hữu_thắng lên_đường sang myanmar với tinh_thần khá hưng_phấn 
+2,dù chuyến bay từ hà_nội sang yangon có bị chậm khoảng 30 phút so với dự_kiến  nhưng công_vinh và đồng_đội vẫn tỏ ra hết_sức vui_vẻ  thoải_mái khi vừa đặt_chân đến myanmar 
+3,phần_lớn các học_trò của hlv hữu_thắng đều háo_hức hướng đến “ danh_hiệu ” đầu_tiên của đt việt_nam dưới thời ông thầy xứ nghệ 
+4,tuy_nhiên  khi các tuyển_thủ việt_nam tươi_cười làm thủ_tục nhận phòng khách_sạn tối 1/6 thì công_phượng lại tìm một góc riêng ngồi khá trầm_tư 
+5,tìm_hiểu chúng_tôi được biết tiền_đạo đang đầu_quân cho clb mito_hollyhock  nhật_bản  đã dính chấn_thương sau khi được vào sân khoảng 30 phút cuối trận thắng đt_syria của đt việt_nam 
+6,theo công_phượng  anh chưa biết chiều ngày 2/6 có_thể tập_luyện bình_thường cùng đồng_đội để chuẩn_bị cho trận đấu với hồng_kông  trung_quốc  hay không 
+7,đây thực_sự là thông_tin gây bất_ngờ với đông_đảo người hâm_mộ 
+8,vì trong trận đấu với đt_syria  công_phượng đã  chiến_đấu  hết_mình cho đến khi trọng_tài thổi còi kết_thúc trận đấu và không có biểu_hiện dính chấn_thương nào 
+9,sáng 2/6  các bác_sĩ của đt việt_nam mới kiểm_tra lại tình_hình chấn_thương của_công phượng rồi báo_cáo hlv hữu_thắng xem tiền_đạo xuất_thân từ hagl có_thể tập_luyện và thi_đấu được hay không 
+10,trong khi đó  trao_đổi cùng hlv hữu_thắng  thuyền_trưởng của đt việt_nam đã thừa_nhận  “ công_phượng hiện đang bị chấn_thương cổ_chân sau trận đấu với đt_syria ” 

@@ -1,0 +1,29 @@
+idx, sentence
+0,elizabeth holmes là nhà sáng_lập công_ty khởi_nghiệp theranos chuyên xét_nghiệm y_tế vào năm 2003 
+1,theranos cho biết họ có_thể xét_nghiệm 240 loại bệnh chỉ từ một_vài giọt máu 
+2,phần_lớn tài_sản của cô holmes đến từ 50  cổ_phần trong startup này 
+3,holmes từng được tờ forbes ca_ngợi là người phụ_nữ tự_thân lập_nghiệp giàu nhất nước mỹ với tổng_tài_sản 45 tỉ usd 
+4,song đó chỉ là câu_chuyện của năm_ngoái 
+5,hôm 16  forbes cho hay họ hạ mức tài_sản ròng của holmes xuống còn “ không có gì ” 
+6,điều này khiến cô bị loại khỏi danh_sách những người giàu_có của tạp_chí mỹ  theo cnn 
+7,tờ forbes viết như sau  ước_tính của chúng_tôi về giá_trị tài_sản mà cô holmes sở_hữu hoàn_toàn dựa trên 50  cổ_phần trong theranos  công_ty xét_nghiệm máu mà cô thành_lập vào năm 2003 với kế_hoạch cách_mạng_hóa thị_trường xét_nghiệm chẩn_đoán 
+8,cổ_phần theranos không giao_dịch trên bất_kỳ_thị_trường_chứng_khoán nào  các nhà_đầu_tư mua cổ_phần vào năm 2014 với mức giá cho thấy công_ty có giá 9 tỉ usd 
+9,song kể từ đó  theranos gặp nhiều cáo_buộc cho rằng các xét_nghiệm của hãng là không chính_xác 
+10,công_ty hiện bị điều_tra bởi các cơ_quan liên_bang 
+11,yếu_tố này cộng với thông_tin mới cho thấy theranos có doanh_thu hằng năm ít hơn 100 triệu usd khiến forbes thay_đổi ước_tính giá_trị của theranos xuống mức thấp hơn 
+12,sau khi trao_đổi với một chục nhà_đầu_tư mạo_hiểm  nhà phân_tích và chuyên_gia trong ngành công_nghiệp  forbes kết_luận rằng giá_trị thực_tế của theranos là 800 triệu usd  thay_vì 9 tỉ usd 
+13,con_số 800 triệu usd đại_diện cho tài_sản trí_tuệ của theranos và 724 triệu usd mà hãng đã gọi vốn được  theo hãng nghiên_cứu đầu_tư mạo_hiểm vc_experts 
+14,con_số đó cũng đại_diện cho doanh_thu được nhân lên nhiều lần của công_ty 
+15,với mức giá thấp đến thế  cổ_phần của cô holmes trong hãng cơ_bản là không có giá_trị 
+16,những nhà_đầu_tư vào theranos nắm cổ_phiếu ưu_đãi  tức_là họ được trả cổ_tức trước holmes  người sở_hữu cổ_phiếu phổ_thông 
+17,dưới đây là một_số lý_do khiến forbes hạ giá_trị ước_tính của công_ty thử_nghiệm máu theranos  1 
+18,quá nhiều thứ không rõ_ràng 
+19,trừ con_số 9 tỉ usd  tất_cả mọi thứ đều bí_mật 
+20,theranos cho hay họ có_thể thay_thế xét_nghiệm máu truyền_thống  trong đó giọt máu được lấy bằng kim_tiêm từ ngón tay  cho vào một lọ nhỏ và mang tới các loại máy_móc có khả_năng thực_hiện hàng chục thử_nghiệm 
+21,tuy_nhiên hãng không cung_cấp dữ_liệu nào cho thấy hệ_thống này có hiệu_quả 
+22,2 
+23,không cung_cấp dữ_liệu 
+24,cô holmes đã hứa rằng sẽ cung_cấp dữ_liệu sáu tháng  nhưng đến tháng 4 vẫn chưa nộp một tờ giấy nào 
+25,ban_đầu  cô trình_bày trước cục quản_lý thực_phẩm và dược_phẩm mỹ  fda  thử_nghiệm duy_nhất cho virus herpes để làm bằng_chứng tính hiệu_quả của công_nghệ  và 120 thử_nghiệm khác cũng tương_tự như trên 
+26,fda sau đó công_bố các hạn_chế khiến theranos phải ngừng sử_dụng cách xét_nghiệm lấy máu từ ngón tay 
+27,theo bài báo đăng trên the wall_street_journal hồi tháng 5  hãng đã phải hủy hàng ngàn đợt xét_nghiệm 

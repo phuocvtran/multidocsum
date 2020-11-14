@@ -1,0 +1,6 @@
+idx, sentence
+0,sự_cố xảy ra khi chiếc máy_bay airbus 319 của hãng hàng_không s7_airlines hoàn_thành chuyến bay từ st_petersburg đến matxcơva với 147 hành_khách trên khoang 
+1,sau khi hạ_cánh tại sân_bay domodedovo vào lúc 13 h50 chiều 26  điều_phối_viên đã thông_báo với các phi_công rằng  nên chờ_đợi khi một máy_bay khác cũng bay từ st_petersburg rời khỏi đường_băng 
+2,sau 2 phút chờ_đợi  đường_băng dưới bánh máy_bay bắt_đầu bị sụp xuống  khiến máy_bay bị tụt xuống hố 
+3,sự_cố khiến các phi_công không_thể đưa máy_bay ra khỏi đường_băng ngay_lập_tức 
+4,các nhân_viên sân_bay đã quyết_định sơ_tán tất_cả hành_khách  còn máy_bay được kéo về bãi đỗ 

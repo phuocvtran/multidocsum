@@ -1,0 +1,20 @@
+idx, sentence
+0,trong thời_kỳ mang thai bé indie  cô zoe_eastman đã dành hàng tiếng đồng_hồ nằm trong bồn_tắm và thậm_chí chăm_chỉ tắm ngày 3 lần chỉ để ăn cho hết những đám bọt xà_phòng tắm cuối_cùng trong bồn 
+1,cô zoe_eastman  33 tuổi  sống ở liverpool  anh chia_sẻ  “ trong thời_kỳ mang thai  lúc đầu  tôi chỉ muốn tắm với những mùi hương nhẹ_nhàng 
+2,nhưng đến tuần thai thứ 20 thì bỗng_nhiên cơn thèm ăn bong_bóng xà_phòng xuất_hiện 
+3,cứ ăn bong_bóng xà_phòng là tôi như được tiếp thêm sinh_lực 
+4,cảm_giác như nó rất gợi_cảm với tôi  sự ham_muốn này dần_dần dường_như còn mãnh_liệt hơn cả sự ham_muốn tình_dục ” 
+5,trong tuần đầu_tiên khi cô bắt_đầu ăn bọt xà_phòng  cô đã phải dấu cơn nghiện kỳ_quặc này với chồng chưa cưới của mình  anh mark_smith  34 tuổi 
+6,tuy_nhiên  vào một đêm anh đã tình_cờ phát_hiện cô đang tắm với một khuôn_mặt đầy bong_bóng xà_phòng 
+7,cô chia_sẻ  “ khi mark bắt_gặp tôi đang ăn bọt xà_phòng tắm  tôi rất xấu_hổ  nhưng đối_với tôi lúc đó thì việc ăn bong_bóng luôn khiến tôi hưng_phấn nên tôi không quan_tâm đến việc người khác nhìn tôi ăn chúng ghê thế_nào 
+8,dần_dần thì tôi quyết_định tắm cả ngày để được ăn bong_bóng ” 
+9,khi mark kể sở_thích kỳ_quặc của cô với những người khác  họ đều khuyên anh hãy đưa zoe đi khám  xem cô có bị mắc chứng_pica hay không 
+10,pica là chứng rối_loạn ăn_uống liên_quan đến sự thiếu_hụt chất sắt trong cơ_thể 
+11,khi cô đến gặp bác sỹ để kiểm_tra  kết_quả là lượng sắt trong máu hoàn_toàn bình_thường và cô không mắc bệnh pica 
+12,tuy_nhiên  bác sỹ khẳng_định rằng việc cô ăn bọt xà_phòng tắm không ảnh_hưởng đến đứa trẻ 
+13,vì_vậy  khi trở_về nhà  cô zoe lại tiếp_tục sở_thích ăn_uống kỳ_quái của mình 
+14,tuy_nhiên  cô không ăn mọi loại bọt xà_phòng mà chỉ thích mùi hương thơm từ nhân_sâm và hạt tiêu đen của hãng sữa tắm radox_muscle_therapy 
+15,cơn nghiện của zoe chỉ chấm_dứt khi cô sinh bé indie 
+16,hiện indie đã được 2 tuổi 
+17,zoe cho biết  “ sau khi sinh con_trai  sở_thích đó bỗng_nhiên không còn nữa 
+18,khi tôi nếm thử bọt xà_phòng xem mình có còn thích chúng nữa không thì mùi_vị chúng không còn ngon_lành nữa mà lại khiến tôi phải nôn ói ” 

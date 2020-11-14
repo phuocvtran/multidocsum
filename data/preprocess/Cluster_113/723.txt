@@ -1,0 +1,10 @@
+idx, sentence
+0,sáng 235  tand tỉnh tây_ninh đã tuyên_phạt các bị_cáo nguyên là lãnh_đạo công_ty tnhh mtv_mía đường tây_ninh  doanh_nghiệp 100  vốn_nhà_nước  từ 510 năm tù giam về tội cố_ý làm trái các quy_định nhà_nước gây hậu_quả nghiêm_trọng 
+1,cụ_thể  bị_cáo trần_cảnh_lạc  62 tuổi  nguyên chủ_tịch hđqt  tổng_giám_đốc 10 năm tù  nguyễn_xuân_danh  47 tuổi  nguyên phó_phòng kinh_doanh 9 năm tù_và nguyễn_thị_phúc  54 tuổi  nguyên kế_toán_trưởng 5 năm tù 
+2,theo cáo_trạng  với chức_năng xuất bán hàng_hóa nông_sản  danh_tìm đối_tác để ký hợp_đồng xuất_khẩu hàng_hóa qua trung_quốc 
+3,danh không trực_tiếp sang trung_quốc tìm đối_tác để ký hợp_đồng mà tìm đến đinh_thị_thảo  54 tuổi  ngụ tp lạng_sơn để bàn_bạc thực_hiện các hợp_đồng xuất_khẩu bán hàng_hóa cho công_ty tnhh_tm  xnk xi_lai_phúc_và công_ty tnhh guo qi do_li  đều của trung_quốc  
+4,trong quá_trình mua_bán  lạc yêu_cầu_danh đề_nghị đinh_thị_thảo phải chứng_thực lãnh_sự tư_cách pháp_nhân của công_ty xi_lai_phúc_và công_ty guo qi do_li nhưng thảo không có các giấy_tờ chứng_thực lãnh_sự theo yêu_cầu 
+5,để đối_phó  hợp_thức_hóa các giấy_tờ này  được sự đồng_ý của lạc  danh và phúc đã bàn với thảo để danh làm giả các giấy_tờ cho thảo trở_thành người đại_diện thay_mặt 2 công_ty trung_quốc thương_thảo ký hợp_đồng với công_ty mía đường tây_ninh 
+6,từ tháng 72009 đến tháng 82012  danh và phúc đã tham_mưu cho tổng_giám_đốc lạc_ký 50 hợp_đồng xuất_khẩu tinh_bột sắn  gạo … sang trung_quốc 
+7,mặc_dù thảo nhận hàng_hóa nhưng thanh_toán chậm hoặc kéo_dài thời_gian thanh_toán không đúng theo thỏa_thuận hợp_đồng nhưng lạc vẫn tiếp_tục ký tiếp các hợp_đồng  trong đó  có 5 hợp_đồng sau_cùng giá_trị khoảng 61 tỉ đồng nhưng thảo chỉ trả 6 tỉ  nợ lại 55 tỉ đồng không thu_hồi được 
+8,sau khi có tranh_chấp  tổng_lãnh_sự quán trung_quốc tại tphcm có công_hàm thông_báo cơ_quan quản_lý trung_quốc không có thông_tin đăng_ký của công_ty tnhh xnk xi_lai_phúc  công_ty guo qi do_li cũng không có bất_kỳ giao_dịch nào với công_ty mía đường tây_ninh 

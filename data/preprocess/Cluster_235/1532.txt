@@ -1,0 +1,8 @@
+idx, sentence
+0,đến sáng 26  công_an tỉnh quảng_trị cho biết cơ_quan này vẫn đang điều_tra nguyên_nhân vụ hỏa_hoạn xảy ra tại siêu_thị điện_máy kim_nguyên  siêu_thị điện_máy lớn nhất tại tp đông_hà trên đường trần_hưng_đạo vào rạng sáng cùng ngày 
+1,trước đó  vào khoảng gần 2 g sáng  người dân bất_ngờ phát_hiện ngọn lửa bốc lên từ tầng hai của siêu_thị này 
+2,chỉ khoảng 15 phút sau ngọn lửa đã bao_trùm toàn_bộ siêu_thị 
+3,lực_lượng cứu_hỏa của phòng cảnh_sát chữa cháy công_an tỉnh quảng_trị đã có_mặt ngay sau đó cùng tám xe cứu_hỏa để dập lửa và ngăn ngọn lửa lan qua những cửa_hàng khác cùng khu_phố 
+4,tuy_nhiên  khoảng hai tiếng sau đó ngọn lửa mới được khống_chế 
+5,toàn_bộ số hàng_hóa gồm máy_giặt  tủ_lạnh  điều_hòa  ở tầng hai  tầng ba đã bị lửa thiêu rụi 
+6,một_số mặt_hàng điện_máy ở tầng một đã được lực_lượng cứu_hỏa phá cửa sắt đem ra được 

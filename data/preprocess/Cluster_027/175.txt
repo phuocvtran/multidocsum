@@ -1,0 +1,40 @@
+idx, sentence
+0,một trong những động_thái đầu_tiên của jean_liu sau khi trở_thành chủ_tịch công_ty dịch_vụ gọi taxi didi_dache vào tháng 2/2015 là xúc_tiến thương_vụ sáp_nhập bất_ngờ với đối_thủ cạnh_tranh lớn nhất của họ kuaidi_dache để tạo ra công_ty mới với cái tên didi_chuxing 
+1,chỉ trong vòng ít hơn 15 năm  cô đã làm tăng số_lượng nhân_viên của công_ty từ 700 lên 5000 người thông_qua việc cung_cấp thêm dịch_vụ chia_sẻ hành_trình và bổ_sung đội xe 
+2,trên cương_vị chủ_tịch công_ty  jean cũng bắt_tay hợp_tác cùng các đối_tác như grab  của singapore   ola_cabs  của ấn_độ  và lyft  của mỹ  để cung_cấp thêm lựa_chọn cho hành_khách của didi_chuxing 
+3,cuối_cùng  jean_liu là người có công lớn trong việc mang về khoản đầu_tư trị_giá 1 tỉ usd từ apple  nâng tổng_số tiền công_ty này huy_động được lên tới 3 tỉ usd 
+4,càng ấn_tượng hơn khi thỏa_thuận tỉ đô này của jean_liu và ceo_apple là tim_cook vốn xuất_phát từ câu nói dí_dỏm của jean_liu khi tới thăm trụ_sở apple vào ngày 20/4  “ bất_kỳ_công_ty nào có tên gọi gắn liền với một loại hoa_quả nào đó đều luôn đạt được những kỳ_tích to_lớn ” 
+5,trong khi apple là  quả táo  thì cái tên didi lại mang nghĩa như một  quả cam bé_nhỏ  
+6,kết_quả là  thỏa_thuận trị_giá 1 tỷ usd được ký_kết chỉ 22 ngày sau đó 
+7,tất_cả những điều kể trên đã góp_phần khiến uber  đối_thủ cạnh_tranh_hùng_mạnh nhất của didi thời_điểm hiện_tại bị hạ_bệ và mất đi hoàn_toàn lợi_thế ở thị_trường trung_quốc 
+8,didi chuxing tuyên_bố họ có 300 triệu người dùng và 14 triệu lái xe đăng_ký trên 400 thành_phố của trung_quốc 
+9,công_ty khởi_nghiệp này tự_tin khẳng_định rằng họ đang thống_trị thị_trường gọi taxi với 143 tỉ chuyến xe được thực_hiện thông_qua nền_tảng của mình vào năm_ngoái 
+10,ngoài thành_tích giúp didi_chuxing bước sang một trang sử mới  jean_liu còn gây ấn_tượng với nhiều người bởi hồ_sơ không_thể đẹp hơn 
+11,cụ_thể  liu có kinh_nghiệm làm_việc 12 năm tại ngân_hàng goldman_sachs  bao_gồm chức_danh cao nhất là tổng_giám_đốc 
+12,cô cũng nằm trong hội_đồng_quản_trị của nhiều công_ty hoạt_động trong các lĩnh_vực khác nhau bao_gồm thời_trang  chăm_sóc sức_khỏe  liu còn vinh_dự là người đại_diện cho trung_quốc cầm đuốc tại thế_vận_hội olympic mùa hè năm nay diễn ra ở rio de janeiro  brazil 
+13,jean liu cũng chính là con_gái của liu_chuanzhi – nhà sáng_lập hãng máy_tính lenovo 
+14,và jean_liu hiện mới chỉ 38 tuổi 
+15,dưới đây là bài phỏng_vấn của jean_liu được thực_hiện với tờ fast_company  q  làm_sao chị có_thể thực_hiện được nhiều thay_đổi tới vậy cho công_ty chỉ trong một khoảng thời_gian ngắn 
+16,a  quy_tắc của tôi là cử những “ người cũ ”  những người đã gắn_bó với công_ty trong vòng hơn 2 năm để thử_nghiệm và bắt_đầu làm những điều mới_mẻ 
+17,vì_vậy  bất_kể khi nào bắt_tay vào một lĩnh_vực mới  chúng_tôi sẽ cử những người đã quen_thuộc với văn_hóa công_ty để bắt_tay vào làm 
+18,như_vậy sẽ tạo ra đội_ngũ làm_việc có chất_lượng 
+19,q  vậy việc lựa_chọn nhân_viên giỏi có phải là ưu_tiên hàng_đầu khi muốn phát_triển công_ty một_cách nhanh_chóng không 
+20,a  để_trở_thành một công_ty lớn  bạn không chỉ cần có một sản_phẩm tốt mà_còn phải có những nhân_viên giỏi nhất 
+21,chúng_tôi nhắm đến việc chọn những nhân_tài trẻ tuổi giỏi nhất từ những lĩnh_vực khác nhau và chắc_chắn rằng họ có cảm_giác rằng mình sẽ tạo ra được sức ảnh_hưởng lớn cho công_ty 
+22,độ tuổi trung_bình của toàn_bộ 5000 nhân_viên của didi_chuxing hiện_nay là 26 
+23,q  những trở_ngại lớn nhất với didi_chuxing ở trung_quốc là gì 
+24,a  hiện chỉ có ít hơn 10  dân_số trung_quốc có ô_tô 
+25,chính_phủ mới ra quy_định cấm ô_tô đi vào các đường_phố bởi dân_số trung_quốc đang ngày_một đông_đúc 
+26,vì_vậy  chúng_tôi đang xây_dựng nền_tảng cung_cấp phương_tiện di_chuyển cho mọi người bằng nhiều hình_thức khác nhau bao_gồm cả taxi  xe bus hay hitchhike  một hình_thức đi nhờ xe  
+27,q  để đánh_bại uber và chiếm toàn_bộ thị_phần ở quê nhà  didi đã tốn tới hàng tỉ usd phải không 
+28,a  với tôi mà nói  sự xuất_hiện của uber không tạo ra nhiều thay_đổi 
+29,sự cạnh_tranh luôn khiến bạn trở_nên tốt hơn 
+30,tại các quốc_gia phương tây phát_triển  uber xây_dựng những sản_phẩm cho cả tầng_lớp trung và thượng_lưu 
+31,còn chúng_tôi cung_cấp dịch_vụ cho tất_cả những ai không_thể tiếp_cận với ô_tô 
+32,thử_thách lớn nhất của chúng_tôi là điều_hành được mạng_lưới hiệu_quả tại những thị_trường lớn 
+33,trung_quốc có hơn 40 thành_phố với hơn 2 triệu người 
+34,didi đã thực_hiện được 14 tỉ chuyến xe trong năm 2015 
+35,những thách_thức tại trung_quốc thực_sự rất lớn 
+36,q  điều gì khiến chị có động_lực để gắn_bó với didi 
+37,a  khi nhìn ra cửa_sổ mỗi ngày  tôi phải chứng_kiến cảnh_tượng khói bụi  ô_nhiễm  điều thực_sự khiến tôi khó_chịu nhất là khi mỗi ngày có tới hơn 800 triệu người sống ở khu_vực ngoại_ô phải đối_mặt với những vấn_đề này 
+38,mục_tiêu của didi là trong vòng 3 năm tới sẽ phục_vụ được 30 triệu người mỗi ngày  bằng việc giúp họ gọi được xe ô_tô  xe bus hay bất_kỳ phương_tiện giao_thông nào  bao_gồm cả những phương_tiện chia_sẻ  trong vòng 3 phút 

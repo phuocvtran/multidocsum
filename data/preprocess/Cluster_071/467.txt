@@ -1,0 +1,16 @@
+idx, sentence
+0,hagl mở tỷ_số ở phút 15 
+1,đông_triều thực_hiện pha đá phạt từ khoảng_cách 25 m  đưa bóng đi hiểm_hóc khiến thủ_môn tuấn_mạnh không_thể cứu thua cho khánh_hòa 
+2,phút 31  khánh_hòa san_bằng tỷ_số 11 
+3,từ vị_trí đá phạt khoảng 20 m  uche_sút phạt căng vào góc gần đưa bóng đi hiểm_hóc đánh_bại thủ_môn vĩnh_lợi 
+4,chỉ 6 phút sau  khánh_hòa vượt lên dẫn 21  người lập_công lại là uche 
+5,phút 64  đội chủ nhà có bàn nâng tỷ_số lên 31 với pha lập công của đình_kha 
+6,khánh_hòa ấn_định chiến_thắng 41 ở phút 90  3 
+7,sau đường chuyền vào từ bên cánh trái của đồng_đội  duy_thanh đệm lòng chân phải ghi_bàn cho đội chủ nhà khánh_hòa 
+8,với kết_quả này  khánh_hòa vươn lên vị_trí thứ 6 trên bảng xếp_hạng với 16 điểm  trong khi hagl đứng thứ 11 khi có 11 điểm 
+9,trên sân long_an  shbđà_nẵng đã có chiến_thắng đậm với tỷ_số 31 trước đội chủ nhà long_an 
+10,thất_bại này khiến thầy_trò hlv ngô_quang_sang tiếp_tục lâm_nguy khi mới chỉ có trong tay 8 điểm xếp áp_chót  còn shb_đà_nẵng xếp thứ tư với 18 điểm 
+11,trên sân cẩm_phả  than quảng_ninh được đánh_giá cao hơn xskt cần_thơ và họ đã nhập_cuộc đầy tự_tin 
+12,ngay phút thứ 8  dyachenko đã mang về bàn mở tỉ_số cho đội chủ nhà 
+13,đến phút 24  than quảng_ninh đã có được bàn nhân đôi cách biết do công của bisan_george 
+14,cần_thơ chỉ có được bàn rút ngắn tỉ_số xuống 12 do công của patiyo 

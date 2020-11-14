@@ -1,0 +1,23 @@
+idx, sentence
+0,chiếc airbus_a320232 số_hiệu ms804 của hãng hàng_không egyptair khởi_hành lúc 23  09 phút ngày 18/5 từ sân_bay charles de gaulle  paris  pháp tới cairo  ai_cập 
+1,tuy_nhiên  nó đã biến mất khỏi màn_hình radar của trung_tâm điều_khiển không_lưu của hy_lạp và ai_cập lúc 2 h45 và rơi vào địa_trung_hải khoảng 10 dặm bên trong vùng lãnh_hải ai cập 
+2,trên chiếc máy_bay có 66 người bao_gồm 7 thành_viên phi_hành_đoàn  3 nhân_viên bảo_vệ  30 công_dân ai_cập  17 công_dân pháp cũng như các công_dân của iraq  arab_saudi và các nước khác 
+3,chiếc máy_bay này được sản_xuất năm 2003  được điều_khiển bởi hai phi_công đã có hàng ngàn giờ kinh_nghiệm trong buồng_lái 
+4,báo_cáo của các cơ_quan sân_bay ai_cập cho biết  hàng_hóa không chứa các vật_liệu nguy_hiểm hoặc bất_cứ thứ gì khác_thường 
+5,thủ_tướng ai cập sherif_ismail cho biết khả_năng máy_bay bị khủng_bố là không_thể tránh khỏi 
+6,ông nhấn_mạnh rằng không có cuộc gọi cứu nạn nào từ buồng_lái và không có báo_cáo cho thấy máy_bay bị lệch khỏi đường_bay hoặc độ cao trước khi biến mất 
+7,phát_ngôn_viên của quân_đội ai cập  chuẩn_tướng mohammed_samir khẳng_định trong một bài viết trên trang facebook của quân_đội cho biết các phi_công đã không gửi tín_hiệu cấp_cứu 
+8,sau khi máy_bay_biến mất  tổng_thống pháp francois_hollande đã triệu_tập một cuộc họp khẩn_cấp tại điện elysee 
+9,trong khi đó  một_số nhân_chứng ở hy_lạp đã quay được 1 video cho thấy khoảnh_khắc một quả cầu lửa khổng_lồ xuất_hiện trên bầu_trời tại khu_vực máy_bay ai cập mang số_hiệu ms804 bị mất_tích 
+10,điều đó cho thấy giả_định ms804 mang một quả bom hẹn giờ phát_nổ khi máy_bay đang ở trong không_phận ai_cập là hoàn_toàn có cơ_sở 
+11,nguồn tin quân_sự  tình_báo chống khủng_bố debkafile cho rằng nếu máy_bay bị rơi bởi một hành_động khủng_bố  nó sẽ là cú sốc lớn nhất của is đến ngành hàng_không quốc_tế dân_sự  du_lịch ai_cập  và các dịch_vụ an_ninh  kiểm_soát của pháp và ai_cập 
+12,đây là lần thứ hai trong vòng chưa đầy một năm  is đã thành_công sử_dụng bom hẹn giờ trên một máy_bay chở khách liên_quan đến ai_cập 
+13,chiếc đầu_tiên là một chiếc airbus_a321 của nga cất_cánh từ sharm alsheikh và bị nổ trên bán_đảo sinai vào ngày 31/10 
+14,tất_cả 224 hành_khách và phi_hành_đoàn đã thiệt_mạng 
+15,một trong những câu hỏi chính trong việc điều_tra thảm_họa máy_bay mới nhất sẽ là thiết_bị nổ được đưa lên máy_bay ở cairo hay paris 
+16,nếu nó đã xảy ra ở paris  nó sẽ đặt ra câu hỏi liệu phần_tử khủng_bố is đã thâm_nhập vào đội mặt_đất tại sân_bay charles_de gaulle 
+17,nếu điều đó là đúng  nó sẽ đem tới một nguy_cơ nghiêm_trọng nhất cho chính_phủ và người dân pháp kể từ sau vụ tấn_công khủng_bố tháng 11 năm 2015 tại paris khiến 130 người thiệt_mạng và hàng trăm người bị_thương 
+18,đây cũng là một dấu_hiệu cho thấy sự leo_thang khủng_bố của is khi đây là vụ khủng_bố thứ hai trong vòng 3 tháng vào một mục_tiêu hàng_không dân_sự ở tây_âu 
+19,trước đó  sân_bay quốc_tế brussels  bỉ bị đánh bom vào tháng 3 khiến 31 người thiệt_mạng và khoảng 200 người bị_thương 
+20,nhưng nếu việc điều_tra thấy quả bom đã được đưa lên máy_bay ở cairo trước khi nó khởi_hành đi paris  nó sẽ cho thấy sự leo_thang nghiêm_trọng và nguy_hiểm của is ở ai cập 
+21,điều đó chứng_tỏ is đã xâm_nhập sâu của is và khả_năng hoạt_động không lường trước được của tổ_chức khủng_bố này ở ai cập

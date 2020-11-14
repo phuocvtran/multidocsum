@@ -1,0 +1,21 @@
+idx, sentence
+0,theo savills  phú_quốc là một đại_diện mới trong thị_trường bất_động_sản nghỉ_dưỡng 
+1,thị_trường phú_quốc đã bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở được cải_thiện mạnh_mẽ 
+2,tính đến q1 / 2016  tổng nguồn cung của phú_quốc có hơn 1700 căn từ 6 dự_án biệt_thự và một dư án căn_hộ 
+3,tính đến q1 / 2016  phân khúc biệt_thự đã bán được 65  và phân khúc căn_hộ đã bán được 35  
+4,các dự_án này có tình_hình hoạt_động tốt nhờ có chiến_lược tiếp_thị  uy_tín của chủ đầu_tư  tiến_độ xây_dựng tốt và những bãi biển hoang_sơ 
+5,tất_cả các dự_án đều nằm trong khu nghỉ_dưỡng với đầy_đủ các tiện_ích và tiện_nghi 
+6,hầu_hết người mua là từ hà_nội  chiếm khoảng 80   tiếp_theo là người mua từ hồ_chí_minh với khoảng 15  
+7,những người mua bất_động_sản nghỉ_dưỡng ở phú_quốc chủ_yếu là mua để đầu_tư hoặc nghỉ_dưỡng 
+8,savills đánh_giá  thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc đã thu_hút nhiều nhà_đầu_tư nhờ tình_hình du_lịch phát_triển và nhiều chính_sách hỗ_trợ 
+9,tuy_nhiên  hầu_hết các dự_án tương_lai vẫn đang trong quy_hoạch vì chính_quyền địa_phương thường_xuyên thay_đổi chính_sách và quy_hoạch chung của đảo 
+10,có 3 dự_án mới và giai_đoạn kế_tiếp của ba dự_án hiện_hữu công_bố là sẽ gia_nhập thị_trường kể từ q2 / 2016 trở đi  cung_cấp hơn 660 căn 
+11,nguồn cung khách_sạn bùng_nổ đa_số các khách_sạn phú_quốc là của người địa_phương và có quy_mô nhỏ  chỉ một_ít được xếp_hạng và quản_lý chuyên_nghiệp 
+12,đến q1 / 2016  chỉ có 33  tổng cung trên đảo  tương_đương 2500 phòng  được xếp_hạng 3 đến 5 sao 
+13,60  trong số đó chỉ vừa_mới hoạt_động trong hai năm qua sau khi sân_bay quốc_tế phú_quốc hoàn_thành 
+14,trước năm 2015  do nguồn cung hạn_chế nên các khách_sạn phú_quốc hoạt_động ổn_định với công_suất cao trên 80  trong mùa cao_điểm từ tháng 11 đến tháng 3 
+15,tuy_nhiên  việc nguồn cung phòng bùng_nổ gần đây tác_động mạnh lên thị_trường  công_suất mùa cao_điểm q1 / 2016 chỉ đạt 53  
+16,ngoài chi_phí hoạt_động cao  đa_số các dự_án trên đảo đều là khu nghỉ_dưỡng nên có giá phòng khá cao so với các thành_phố biển khác ở việt_nam  đạt 105usd / phòng / đêm 
+17,nhờ cơ_sở_hạ_tầng cải_thiện  chính_sách ưu_đãi và bờ biển đẹp  phú_quốc là điểm du_lịch biển lý_tưởng 
+18,sau khi sân_bay hoàn_thành vào năm 2012  khách du_lịch đến đây tăng mạnh 55  / năm trong ba năm qua 
+19,bốn tháng đầu năm 2016  huyện_đảo đón 523000 khách quốc_tế  tăng 37  theo năm 

@@ -1,0 +1,7 @@
+idx, sentence
+0,“ hiện chúng_tôi đang chờ tỉnh thành_lập đoàn xuống khảo_sát  tìm nguyên_nhân dẫn đến sự_cố 
+1,sau đó huyện sẽ có hướng xử_lý cụ_thể 
+2,trước_mắt  nhằm đảm_bảo an_toàn tại vị_trí cầu bị sập  các cơ_quan chuyên_môn của huyện đã cắm biển cảnh_báo_an_toàn  mở đường_tránh cho người dân đi_lại được thông_suốt ”  ông tiến nói 
+3,cầu_ô_rô bị sập vào rạng sáng 58 
+4,tại hiện_trường  một mố_cầu  trụ cầu và 2 nhịp cầu đã bị gãy  đổ xuống sông 
+5,tại vị_trí mố_cầu bị sụp xảy ra hiện_tượng sụp lún đất rất nghiêm_trọng  chiều dài sạt_lở từ bờ ra sông khoảng 20 m  khoét sâu xuống dưới đáy sông 

@@ -1,0 +1,17 @@
+idx, sentence
+0,hiện_nay  bất_động_sản ven biển được xem là một đại_diện mới trên thị_trường bất_động_sản nghỉ_dưỡng 
+1,trong đó  phú_quốc được coi là một địa_điểm đầu_tư lý_tưởng  sôi_động nhờ cơ_sở_hạ_tầng được cải_thiện mạnh_mẽ 
+2,tính đến hết quý 1/2016  phú_quốc có hơn 1700 căn_hộ nghỉ_dưỡng từ 6 dự_án biệt_thự và 1 dự_án căn_hộ 
+3,các dự_án này có tình_hình hoạt_động tốt nhờ chiến_lược tiếp_thị  uy_tín của chủ đầu_tư  tiến_độ xây_dựng và những bãi biển hoang_sơ với đầy_đủ các tiện_ích và tiện_nghi 
+4,hầu_hết người mua là từ hà_nội  chiếm khoảng 80   tiếp_theo là người mua từ tphcm với khoảng 15  
+5,theo thống_kê  hiện các khách_sạn ở phú_quốc đa_phần vẫn là của người địa_phương và có quy_mô nhỏ  chỉ một_số ít được xếp_hạng và quản_lý chuyên_nghiệp 
+6,tính đến quý 1/2016  chỉ có 33  tổng nguồn cung trên đảo  tương_đương 2500 phòng  được xếp_hạng từ 3 đến 5 sao 
+7,60  trong số đó vừa_mới hoạt_động trong hai năm qua sau khi sân_bay quốc_tế phú_quốc hoàn_thành 
+8,nếu trước năm 2015  do nguồn cung hạn_chế  các khách_sạn ở đây luôn hoạt_động ổn_định với công_suất cao  trên 80   trong mùa cao_điểm từ tháng 11 đến tháng 3 
+9,tuy_nhiên  việc nguồn cung phòng bùng_nổ gần đây tác_động mạnh lên thị_trường  kéo_theo công_suất mùa cao_điểm quý 1/2016 chỉ đạt 53  
+10,sau khi sân_bay hoàn_thành vào năm 2012  khách du_lịch đến đây tăng mạnh 55  / năm trong 3 năm qua 
+11,trong 4 tháng đầu năm 2016  huyện đảo phú_quốc đã đón 523000 khách quốc_tế  tăng 37  theo năm 
+12,ngoài chi_phí hoạt_động  đa_số các dự_án trên đảo đều là khu nghỉ_dưỡng nên có giá phòng khá cao so với các thành_phố biển khác ở việt_nam  đạt 105 usd / phòng / đêm 
+13,cùng_với cơ_sở_hạ_tầng cải_thiện theo từng năm  chính_sách ưu_đãi và bờ biển đẹp  phú_quốc là điểm du_lịch biển lý_tưởng 
+14,đồng_thời  cũng thu_hút thêm nhiều nhà_đầu_tư vào phân khúc bất_động_sản nghỉ_dưỡng 
+15,tuy_nhiên  trên thực_tế  hầu_hết các dự_án vẫn đang trong quy_hoạch vì chính_quyền địa_phương thường_xuyên thay_đổi chính_sách và quy_hoạch chung của đảo 

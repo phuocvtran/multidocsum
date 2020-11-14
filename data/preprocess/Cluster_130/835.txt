@@ -1,0 +1,11 @@
+idx, sentence
+0,mặc_dù còn có nhiều tranh_cãi về chất_lượng nhưng nhờ việc lấy bối_cảnh ở nhiều địa_điểm khác nhau trong phim đã giúp cho doanh_thu xmen  apocalypse có khởi_đầu rất tốt ở thị_trường quốc_tế 
+1,còn ở mỹ  phim được trình chiều chính_thức vào ngày 27/5 sắp tới 
+2,theo thống_kê  phim đã thu về được 1033 triệu usd từ 20596 rạp phim khác nhau và đứng hạng 1 gần như hoàn_toàn về mặt doanh_thu của 75 quốc_gia đang trình_chiếu bộ phim 
+3,dẫn_đầu là anh quốc với 105 triệu usd  tiếp_theo là mexico_86 triệu usd  brazil_66 triệu usd  nga_65 triệu usd và cuối_cùng là pháp với 59 triệu usd 
+4,tính từ đầu năm tới giờ  batman  superman  dawn of_justice hiện đang đứng đầu cuộc_chiến doanh_thu mở_màn của giới siêu anh_hùng với 2565 triệu usd 
+5,nối_tiếp sau đó lần_lượt là “ captain_america  civil_war ” và “ deadpool ” với 2004 triệu usd và 132 triệu usd 
+6,tính riêng trong series xmen  “ xmen  days of_future_past ” mới là bộ phim có doanh_thu mở_màn đứng đầu với 172 triệu usd doanh_thu quốc_tế 
+7,có nhiều nhà phân_tích dự_đoán “ xmen  apocalypse ” chỉ có_thể dừng lại ở con_số 748 triệu usd sau khi bộ phim không còn được trình_chiếu nữa 
+8,nếu điều này xảy ra thật thì bản_thân phim sẽ thua cả đàn_anh “ deadpool ” vừa_qua với doanh_thu 763 triệu usd 
+9,tuy_nhiên  chiến_thắng tuyệt_đối hiện_tại vẫn là “ captain_america  civil_war ” của disney với doanh_thu đã vượt lên con_số 1 tỷ và chưa có dấu_hiệu hạ nhiệt 

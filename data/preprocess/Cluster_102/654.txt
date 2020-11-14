@@ -1,0 +1,9 @@
+idx, sentence
+0,thông_cáo của nhà_trắng khẳng_định  việt_nam và mỹ đã mở_rộng hợp_tác trên lĩnh_vực viện_trợ nhân_đạo và đấu_tranh giảm nhẹ thiên_tai 
+1,mỹ cũng đang củng_cố mối hợp_tác về an_ninh với việt_nam  trong đó có việc giúp chính_phủ việt_nam xây_dựng năng_lực an_ninh hàng_hải bằng cách cung_cấp 457 triệu usd kể từ tài_khóa 2014 cùng các chương_trình xây_dựng năng_lực thực_thi pháp_luật khác 
+2,bên_cạnh đó  mỹ còn trợ_giúp việt_nam qua việc hỗ_trợ tài_chính cho quỹ sáng_kiến an_ninh hàng_hải  msi   một sáng_kiến mà bộ_quốc_phòng mỹ đã cam_kết tài_trợ 425 triệu usd trong 5 năm 
+3,mỹ cũng dự_kiến cung_cấp cho việt_nam 18 tàu tuần_tra metal_shark  đồng_thời hỗ_trợ công_tác huấn_luyện và trang_thiết_bị thực_thi pháp_luật trên biển cho lực_lượng cảnh_sát biển việt_nam 
+4,thông_cáo nhấn_mạnh hải_quân hai nước đang hợp_tác ngày_càng chặt_chẽ hơn để đảm_bảo an_ninh và an_toàn hàng_hải 
+5,thông_cáo được đưa ra tại thời_điểm tổng_thống mỹ barack_obama đang có chuyến thăm chính_thức việt_nam kéo_dài ba ngày  từ 2325 / 5  
+6,trong cuộc họp_báo chung với chủ_tịch nước trần_đại_quang diễn ra hôm 23/5  tổng_thống mỹ obama tuyên_bố dỡ bỏ hoàn_toàn lệnh_cấm_vận vũ_khí đối_với việt_nam 
+7,theo ông  động_thái này nhằm hướng tới bình_thường hóa quan_hệ giữa những cựu thù và loại_bỏ  vết_tích còn sót lại của chiến_tranh_lạnh  

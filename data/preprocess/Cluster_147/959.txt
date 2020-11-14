@@ -1,0 +1,10 @@
+idx, sentence
+0,chiều 285  nạn_nhân của vụ_việc  anh rachicd  34 tuổi  quốc_tịch maroc  vẫn đang điều_trị tại bệnh_viện chợ_rẫy 
+1,thông_tin ban_đầu  tối 275  chị trần_thị_thu_trang  vợ anh rachicd  đi xe ô_tô về nhà  chung_cư phúc yến  p 15  qtân_bình  
+2,trong lúc anh rachid đang bế con nhỏ và chị trang đang xuống xe  bất_ngờ hai đối_tượng mặc áo_mưa điều_khiển xe_máy áp sát  giật chiếc bóp trên tay chị trang 
+3,thấy vợ bị cướp  anh rachicd vội đặt con xuống  đuổi theo  thì bị một trong hai tên cướp dùng vật nhọn đâm vào mặt  ngực 
+4, lúc đó chồng tôi chạy theo tên cướp thì xuất_hiện thêm hai thanh_niên chạy đến cản đường để đồng_bọn tháo_chạy   chị trang cho biết 
+5,khi bọn cướp tháo_chạy  chị trang tìm thấy được bóp mình tại hiện_trường 
+6,tuy_nhiên tiền và 2 điện_thoại_di_động hiệu iphone bị mất 
+7,anh rachicd bị_thương chảy nhiều máu 
+8,người dân đã nhanh_chóng đưa nạn_nhân đi bệnh_viện chợ_rẫy cấp_cứu 

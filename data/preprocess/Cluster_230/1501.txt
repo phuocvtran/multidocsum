@@ -1,0 +1,7 @@
+idx, sentence
+0,trong buổi sáng ngày thi_đấu thứ hai  hầu_hết các cặp đấu có sự xuất_hiện của chủ nhà việt_nam đều không giành được chiến_thắng 
+1,tuy_vậy  sự xuất_hiện của tiến_minh đã đem lại sự khác_biệt 
+2,trước aditya_joshi của ấn_độ  không mất quá nhiều thời_gian để tay_vợt chủ nhà khẳng_định đẳng_cấp 
+3,kết_quả 20 với tỉ_số các set là 2118  218 giúp tiến_minh có khởi_đầu ấn_tượng tại giải năm nay 
+4,nếu_như tiến_minh thi_đấu thành_công buổi sáng thì buổi chiều cùng ngày  vũ_thị_trang và nguyễn_thị_sen cũng làm được điều tương_tự ở nội_dung đồng_đội nữ 
+5,dù đã có lúc cặp vđv để đội bạn dẫn trước  nhưng bằng bản_lĩnh  vũ_thị_trang và đồng_đội vẫn có được chiến_thắng chung_cuộc 20 

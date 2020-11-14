@@ -1,0 +1,8 @@
+idx, sentence
+0,theo bảng thứ_bậc vừa được liên_đoàn judo thế_giới công_bố nữ vđv judo_văn_ngọc_tú  hạng cân 48 kg nữ có 238 điểm  xếp_hạng 44 thế_giới và hạng 8 châu_á 
+1,điểm_số và thứ_tự này là vừa đủ để võ_sĩ người sóc_trăng lần thứ hai liên_tiếp giành vé tham_dự olympic  sau london 2012 
+2,vòng loại môn judo để tìm vé đến olympic diễn ra từ 30/5/2014 và kết_thúc vào 30/5/2016 
+3,mỗi hạng cân  mỗi quốc_gia chỉ được tối_đa một vđv tham_dự 
+4,ở hạng cân 48 kg nữ có 22 suất  trong đó bao_gồm  một suất đặc_cách cho vđv nước chủ nhà brazil  14 suất dành cho các võ_sĩ có thứ_hạng cao trên bảng xếp_hạng judo thế_giới  bảy suất còn lại phân_bổ cho vđv của 5 châu_lục  châu_âu 2  châu_á 2  châu_phi 1  châu_mỹ 1  châu đại_dương 1  có số điểm tích_lũy cao nhất 
+5,tham_dự vòng loại  võ_sĩ văn_ngọc_tú thi_đấu không thành_công khi thường bị loại sớm ở các vòng đầu_tiên 
+6,tuy_nhiên  số điểm tích_lũy của võ_sĩ việt_nam luôn ở mức ổn_định trong top 50 và điều đó giúp cô gái 28 tuổi này giành suất đến olympic 

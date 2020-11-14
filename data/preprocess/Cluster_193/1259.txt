@@ -1,0 +1,8 @@
+idx, sentence
+0,theo rt  3 nghi phạm người pakistan ở độ tuổi từ 28 đến 31 đã bị bắt_giữ ngay trong lễ_hội âm_nhạc schlossgrabenfest tối chủ_nhật vừa_qua  sau khi có 3 phụ_nữ tố_cáo với cảnh_sát bị một nhóm đàn_ông có_vẻ như là người nam_á vây lấy và quấy_rối tình_dục 
+1,sau đó  đã có thêm 15 phụ_nữ tố_cáo với cảnh_sát rằng họ cũng đã bị tấn_công với kiểu tương_tự tại lễ_hội âm_nhạc schlossgrabenfest 
+2,vụ_việc này xảy ra chỉ hai tuần sau khi hai thiếu_nữ 17 và 18 tuổi bị một nhóm 10 người đàn_ông quấy_rối tình_dục tại một lễ_hội đường_phố tại berlin 
+3,sau đó  đã có 2 người gốc thổ nhĩ kỳ  1 người không rõ quốc_tịch ở độ tuổi 14 đến 17 bị cảnh_sát bắt_giữ 
+4,chính_phủ đức đã lên ngân_sách sẽ dành tới gần 94 tỷ euros  khoảng 105 tỷ đô_la mỹ  cho người tị_nạn trong vòng năm năm tới 
+5,đồng_thời với đó  đã có nhiều chương_trình giáo_dục về các quy_tắc vệ_sinh cơ_bản  về cách làm_quen và cư_xử với phụ_nữ dành cho người tị_nạn 
+6,tuy_nhiên  các vụ tấn_công và quấy_rối tình_dục cho người tị_nạn gây ra vẫn không ngừng tăng lên 

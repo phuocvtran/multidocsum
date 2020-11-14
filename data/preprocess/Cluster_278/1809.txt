@@ -1,0 +1,9 @@
+idx, sentence
+0,ngân_hàng nhà_nước vừa cho biết sẽ dừng hoạt_động bán tiền lưu_niệm 100 đồng cho các tổ_chức  cá_nhân từ ngày 6/6 
+1,việc bán tiền lưu_niệm được bắt_đầu từ ngày 12/4 tại hà_nội và 22/4 tại tp hcm 
+2,tại điểm bán tiền lưu_niệm ở cả hai địa_phương này đều có những hàng dài người dân xếp_hàng chờ mua 
+3,đến nay  theo ngân_hàng nhà_nước  đã có 20000 lượt khách là cá_nhân mua tiền lưu_niệm 
+4,tiền lưu_niệm 100 đồng được phát_hành_nhân kỷ_niệm 65 năm ngày thành_lập ngân_hàng nhà_nước việt_nam  6/5/1951  6/5/2016  
+5,tờ tiền có kích_thước to hơn so với các tờ tiền polymer thông_thường  82x163 mm   chất_liệu bằng cotton màu_sắc đỏ 
+6,mặt trước là hình quốc_huy  chân_dung chủ_tịch hồ_chí_minh  dòng chữ ngân_hàng nhà_nước việt_nam  mệnh_giá 100 đồng in đậm với logo 65 năm kỷ_niệm thành_lập và có chữ_ký của thống_đốc nguyễn_văn_bình 
+7,giá_bán tiền 100 đồng lưu_niệm này là 20000 đồng  loại in tờ_rơi  và 25000 đồng  loại in folder  

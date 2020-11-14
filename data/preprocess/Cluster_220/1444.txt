@@ -1,0 +1,10 @@
+idx, sentence
+0,phó chủ_tịch ubnd tphcm lê_văn_khoa vừa yêu_cầu ubnd quận 5 khẩn_trương thuyết_phục 10 hộ dân còn lại ở tại chung_cư số 727 đường trần_hưng_đạo di_dời đi nơi khác 
+1,công_văn chỉ_đạo của phó chủ_tịch ubnd tphcm nêu rõ  trong trường_hợp đã vận_động thuyết_phục nhưng 10 hộ dân còn lại vẫn không đồng_ý thì tiến_hành thực_hiện cưỡng_chế theo quy_định để đảm_bảo tính_mạng và tài_sản của người_dân 
+2,ubnd tphcm cũng chỉ_đạo ubnd quận 5 chủ_động phối_hợp các cơ_quan liên_quan tiếp_tục theo_dõi để xử_lý ngay khi có nguy_cơ sập đổ sập nhằm đảm_bảo an_toàn 
+3,ông lê_văn_khoa giao công_ty tnhh một thành_viên dịch_vụ công_ích quận 5  chủ đầu_tư xây_dựng mới chung_cư này chịu trách_nhiệm thanh_toán chi_phí kiểm_định chung_cư cho công_ty kiểm_định xây_dựng sài_gòn và liên_hệ  đôn_đốc đơn_vị kiểm_định thực_hiện sớm 
+4,chung_cư 727 trần_hưng_đạo có tuổi thọ hơn 50 năm  cách chợ bến_thành gần 2 km 
+5,đây là tòa nhà được mỹ xây_dựng để quân_đội mỹ ở những năm trước 1975 
+6,sau hơn 50 năm  những cột bêtông chung_cư đã trơ lõi sắt khiến tòa nhà rơi vào cảnh nguy_hiểm 
+7,năm 2002  tphcm quyết_định di_dời khoảng 2200 người 
+8,tuy_nhiên  chung_cư được cho là hoang_tàn nhất tphcm hiện còn 10 hộ sinh_sống 

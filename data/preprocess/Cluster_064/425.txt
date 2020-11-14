@@ -1,0 +1,17 @@
+idx, sentence
+0,sau một thời_gian cân_nhắc  hlv gerardo_martino cuối_cùng cũng đã chính_thức chốt danh_sách đt_argentina dự vck_copa_america 2016 trên đất mỹ 
+1,đúng như những thông_tin trước đó  siêu_sao lionel_messi đã được lựa_chọn tham_dự copa_america 2016 đầu tháng 6 tới  thay_vì olympic_rio 2016 vào tháng 8 
+2,được biết  đây là giải đấu kỷ_niệm 100 năm tuổi của copa_america sau lần đầu ra mắt vào năm 1916 
+3,vì_là một giải đấu đặc_biệt  copa_america quy_tụ không chỉ những đội bóng trong khu_vực mỹ latinh mà_còn cả bắc mỹ và vùng_biển caribe 
+4,nói cách khác  copa_america năm nay không khác nào một giải đấu dành riêng cho châu_mỹ 
+5,hiện_tại  đt_argentina vẫn nghiễm_nhiên là một trong những ứng_cử_viên hàng_đầu cho chức vô_địch 
+6,với dàn hảo thủ mà họ đang sở_hữu  albiceleste luôn được giới truyền_thông dành sự quan_tâm đặc_biệt 
+7,theo danh_sách mới được liên_đoàn bóng_đá argentina công_bố  messi sẽ cùng 22 tuyển_thủ argentina dự giải này lần  cùng với nhiều anh tài khác như gonzalo_higuain  sergio_aguero  angel_di_maria  javier_mascherano hay nicolas_otamendi 
+8,tuy_vậy  trong danh_sách triệu_tập của hlv martino cũng gây khá nhiều bất_ngờ  khi rất nhiều ngôi_sao lớn vắng_mặt 
+9,trong đó  kể đến là trường_hợp của carlos_tevez  paulo_dybala hay pablo_zabaleta 
+10,được biết  tevez và dybala đều là những tiền_đạo “ có số má ”  nhưng việc họ bị hlv martino gạch tên đã khiến người đặc dấu_hỏi 
+11,thậm_chí nhiều người cho rằng 2 cầu_thủ này không tham_dự copa_america 2016 là vì họ bận tham_dự olympic_rio 2016 cùng đt olympic_argentina 
+12,về_phần mình  hậu_vệ phải zabaleta không dự copa_america 2016 đơn_giản là vì ở mùa giải năm nay anh ít được thi_đấu tại man_city  chỉ ra sân 21 lần trên mọi đấu_trường  
+13,ở vck_copa_america 2016  đt_argentina nằm bảng d cùng với các đối_thủ gồm nhà đkvđ_chile  panama và bolivia 
+14,theo lịch thi_đấu  đội bóng xứ tango sẽ ra_quân vào ngày 66 tới với việc chạm_trán ngay đối_thủ sừng_sỏ là nhà đkvđ_chile 
+15,danh_sách đội_hình 23 cầu_thủ argentina dự copa_america 2016  thủ_môn  mariano_andujar  estudiantes   nahuel_guzman  club_tigres   sergio_romero  man_united  hậu_vệ  victor_cuesta  independiente   ramiro_funes_mori  everton   jonathan_maidana  river   gabriel_mercado  river   nicolas_otamendi  man_city   marcos_rojo  man_united   facundo_roncaglia  fiorentina  tiền_vệ  ever_banega  sevilla   lucas_biglia  lazio   augusto_fernandez  atletico_madrid   matias_kranevitter  atletico_madrid   erik_lamela  tottenham   javier_mascherano  barcelona   javier_pastore  psg 

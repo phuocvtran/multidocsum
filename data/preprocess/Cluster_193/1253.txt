@@ -1,0 +1,7 @@
+idx, sentence
+0,3 phụ_nữ đã báo_cáo với cảnh_sát về việc bị xâm_hại tình_dục ở lễ_hội âm_nhạc schlossgrabenfest  tổ_chức tại darmstadt  gần frankfurt hôm thứ 7  mô_tả các thủ_phạm có ngoại_hình nam_á 
+1,nhờ can_thiệp nhanh_chóng  cảnh_sát đã bắt_giữ 3 nghi phạm là người tị_nạn từ pakistan ở độ tuổi từ 2831 
+2,họ cho biết rằng chắc_chắn còn nhiều thủ_phạm tham_gia tấn_công nữa 
+3,kể từ đó  đã có thêm 15 phụ_nữ báo_cáo việc bị quấy_rối bởi một nhóm đàn_ông vây quanh 
+4,trước đó 2 tuần  cảnh_sát cũng bắt_giữ ba thanh_thiếu_niên  2 trong số đó gốc thổ nhĩ kỳ vì đã quấy_rối hai phụ_nữ ngay trên đường_phố berlin 
+5,các vụ_việc này làm người_ta nhớ tới vụ cả nghìn người bị tấn_công trong lễ_hội năm mới ở cologne 

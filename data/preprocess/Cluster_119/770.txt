@@ -1,0 +1,8 @@
+idx, sentence
+0,ngôi_sao 20 tuổi là một trong những nghệ_sĩ sở_hữu_lượng album bán_chạy nhất trên thế_giới năm 2015 
+1,nhân_dịp hợp_đồng thu âm của cô đã ký với hãng xl của anh từ năm 19 tuổi đã hết hạn  hãng sony đã nhanh chân vào_cuộc và có được hợp_đồng “ đắt_giá ” với hoạ_mi nước anh 
+2,theo ước_tính  khối tài_sản mà adele hiện sở_hữu lên tới 85 triệu bảng anh  phần_lớn góp được từ thành_công của lượng album phát_hành 
+3,trong đó  có 35 triệu bảng anh doanh_thu từ album “ 25 ” 
+4,phát_hành từ tháng 11/2015  album “ 25 ” được ghi_nhận là “ làm sống lại doanh_số bán album  đã bán được hơn 19 triệu bản trên toàn thế_giới_tính đến thời_điểm này 
+5,tại mỹ  “ 25 ” cũng là album bán_chạy nhất trong 1 tuần riêng_lẻ  từ khi bxh này được lập ra_vào năm 1991 
+6,trước đó  album thứ hai của adele “ 21 ” đã bán được hơn 30 triệu bản trên toàn_cầu và trở_thành album thành_công nhất trong thập_kỷ qua 

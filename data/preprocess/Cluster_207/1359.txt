@@ -1,0 +1,6 @@
+idx, sentence
+0,một_số người dân chứng_kiến vụ cháy cho biết  vào_khoảng 14 h30  ngày 1/6  họ nhìn thấy khói và lửa bất_ngờ bùng_phát ở tầng 4 của nhà_hàng trúc_lâm_trai ở số 39 phố lê_ngọc_hân 
+1,ngay sau đó  người đã dùng các bình_chữa_cháy cá_nhân để dập lửa nhưng vẫn nhanh_chóng lan xuống tầng 2 của trúc_lâm_trai 
+2,ngọn lửa kèm mùi khét của dây_điện cháy và khói đen bốc mù_mịt  khiến nhân_viên nhà_hàng hoảng_loạn  tháo_chạy  đồng_thời báo lực_lượng pccc 
+3,không lâu sau  lực_lượng cảnh_sát phòng cháy chữa cháy số 1 đã huy_động 4 xe gồm 3 xe chữa_cháy và 1 xe chở nước đến hiện_trường triển_khai các phương_án dập lửa 
+4,theo phòng cảnh_sát pccc số 1  sở cảnh_sát pccc tp hà_nội   vụ cháy xảy ra vào_khoảng 14 h30 ngày 1/6  tại nhà_hàng trúc_lâm_trai  ở số 39 phố lê_ngọc_hân  quận_hai_bà_trưng  hà_nội đã được đơn_vị khống_chế và dập_tắt hoàn_toàn vòa khoảng hơn 15 h cùng ngày 

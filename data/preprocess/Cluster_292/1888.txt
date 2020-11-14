@@ -1,0 +1,7 @@
+idx, sentence
+0,phát_biểu khai_mạc vòng chấm chung_khảo  chủ_tịch hội nhà_báo việt_nam thuận_hữu  chủ_tịch hội_đồng chung_khảo cho biết  đây là sự_kiện lớn của báo_chí cả nước  là giải_thưởng dành cho các tác_phẩm báo_chí xuất_sắc  tôn_vinh các tác_giả  nhóm tác_giả có tác_phẩm xuất_sắc nhất hằng năm 
+1,hội_đồng sơ_khảo đã lựa_chọn và trình lên hội_đồng chung_khảo danh_sách 143 tác_phẩm thuộc 11 loại giải  được lựa_chọn từ 1660 tác_phẩm gửi dự giải 
+2,hội_đồng chung_khảo sẽ làm_việc khách_quan  công_tâm  trí_tuệ để chọn được những tác_phẩm xuất_sắc nhất trong số 143 tác_phẩm vào chung_khảo để trao giải vào dịp kỷ_niệm ngày báo_chí cách_mạng việt_nam 216 
+3,theo phó_chủ_tịch hội nhà_báo việt_nam mai_đức_lộc  chủ_tịch hội_đồng sơ_khảo  nhìn_chung các tác_phẩm dự giải_đáp_ứng được các tiêu_chí xét chọn  đã phản_ánh khá sâu_sắc các sự_kiện chính_trị lớn của đất_nước trong năm 2015 như đại_hội_đảng_toàn_quốc lần thứ 12  về thực_hiện các nghị_quyết  chính_sách điều_hành_kinh_tế  xã_hội của chính_phủ trong năm 2015 
+4,số_lượng tác_phẩm viết về bảo_vệ chủ_quyền biển đảo  nông_thôn  nông_dân khá nhiều  có chất_lượng 
+5,ngoài_ra còn có các tác_phẩm phản_ánh đấu_tranh phòng  chống tham_nhũng  tiêu_cực  đấu_tranh với các thế_lực thù_địch  các hoạt_động chống_phá nhà_nước và chế_độ 

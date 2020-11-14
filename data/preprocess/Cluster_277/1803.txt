@@ -1,0 +1,3 @@
+idx, sentence
+0,từ ngày 1/6 đến hết 30/6/2016  khách_hàng mua honda_lead 125 cc  wave_rsx 110 cc  wave_rsx_fi 110 cc  blade 110 cc sẽ được tặng phiếu quà tặng trị_giá 500000 đồng  riêng khách_hàng mua lead sẽ được thêm 1 mũ_bảo_hiểm honda_jet 
+1,riêng với mẫu xe_tay côn msx 125 cc  từ ngày 16/2016 cho đến hết ngày 15/07/2016  khách_hàng mua xe sẽ nhận ngay 1 phiếu quà tặng trị_giá 3 triệu đồng và được hỗ_trợ 100  phí trước_bạ 

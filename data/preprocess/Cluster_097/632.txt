@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 23/5  công_an xã kỳ_sơn  huyện tân_kỳ  nghệ_an  xác_nhận trên địa_bàn vừa phát_hiện một thanh_niên treo cổ tự_tử gần nhà_máy sản_xuất phân_hữu_cơ vi_sinh 
+1,theo đó  vào lúc 7 h sáng cùng ngày  người dân xóm minh_sơn  xã kỳ_sơn hoảng_hốt nghe tiếng hét của một người phụ_nữ 
+2,ngay sau đó  mọi người đổ_xô tới xem sự_việc thì thấy một người đàn_ông trong tư_thế treo_cổ 
+3,ngay_lập_tức  người dân địa_phương đã đưa nạn_nhân đi tới trạm_xá cấp_cứu nhưng không kịp  nạn_nhân đã tử_vong trước đó 
+4,nhận được tin báo từ quần_chúng nhân_dân  công_an xã kỳ_sơn đã có_mặt bảo_vệ hiện_trường  đồng_thời báo cho công_an huyện tân_kỳ tới khám_nghiệm hiện_trường  khám_nghiệm tử_thi để làm rõ nguyên_nhân vụ_việc 
+5,nạn_nhân được xác_định là anh trần_văn_minh  sn 1987  trú tại xã kỳ_sơn  huyện tân_kỳ  
+6,được biết  anh_minh thời_gian gần đây có những dấu_hiệu bất_thường  hay cau có và thường tỏ ra mệt_mỏi  chán_nản 
+7,tối_ngày 22/5  anh_minh ra nhà anh_trai ở xóm minh_sơn chơi  đến sáng ngày hôm sau thì mất_tích nên gia_đình huy_động mọi người tỏa ra đi tìm 

@@ -1,0 +1,11 @@
+idx, sentence
+0,ngày 205 vừa_qua  người hâm_mộ trung_quốc cũng như trên toàn châu_á của lâm_tâm_như và hoắc_kiến_hoa_đón tin_mừng khi cặp đôi xác_nhận chuyện hẹn_hò sau nhiều năm phủ_nhận 
+1,hôm_nay 215  truyền_thông tại đài_loan tiết_lộ một bí_mật “ động_trời ” khi cho biết nữ diễn_viên 40 tuổi đang mang thai ở những tháng đầu và khẳng_định đây chính là nguyên_nhân khiến cặp đôi vội_vàng công_bố chuyện hẹn_hò 
+2,ngay_lập_tức  phóng_viên của trang giải_trí et_today đã liên_hệ với đại_diện lâm_tâm_như để xác_minh thông_tin 
+3,nữ quản_lý của người_đẹp đã vô_cùng tức_giận và một mực phủ_nhận  “ người tung tin_đồn thật quá_đáng 
+4,những chuyện vui như vậy không nên bị đồn đoán lung_tung  chỉ khiến người khác mất_vui ” 
+5,ngoài_ra còn có thông_tin  hoắc_kiến_hoa lên kế_hoạch quay về đài_loan để sinh_sống vì lâm_tâm như 
+6,hoắc kiến_hoa vốn là người đài_loan nhưng lại phát_triển sự_nghiệp ở thượng_hải  trung_quốc   nhưng vì nữ diễn_viên hoàn_châu cách cách vốn quen cuộc_sống ở đài_loan nên tài_tử sẽ chiều lòng người_đẹp  định_cư tại đây 
+7,hôm 205  lâm_tâm như vui_vẻ cho biết  “ anh ấy đang tìm mua nhà  
+8,năm 2005  lâm_tâm_như và hoắc_kiến_hoa bắt_đầu_mối lương_duyên khi cùng hợp_tác trong bộ phim tàu_điện_ngầm 
+9,dù bị báo_chí đồn_thổi hẹn_hò nhiều lần nhưng cặp_đôi luôn khẳng_định chỉ là bạn_bè 

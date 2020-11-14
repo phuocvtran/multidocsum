@@ -1,0 +1,43 @@
+idx, sentence
+0,bà ko yong_suk  60 tuổi và chồng ri_gang đã sống ở mỹ gần 20 năm nay 
+1,hiện họ có một cửa_hàng giặt là ở thành_phố new_york và sống cách trung_tâm vài tiếng đi xe 
+2,chồng bà cho biết rất mong_mỏi “ đứa cháu ” sẽ cho_phép trở về quê thăm gia_đình 
+3,ngoài_ra  hai vợ_chồng bà ri muốn lên_tiếng trước những lời cáo_buộc mà họ cho là  dối_trá trắng_trợn ” từ phía hàn_quốc rằng 2 người đã chiếm_đoạt hàng triệu usd từ chính_quyền kim_jongun và chi_tiêu vào những món đồ xa_xỉ 
+4,cặp vợ_chồng đồng_ý chia_sẻ câu_chuyện của mình với tờ washington_post với điều_kiện không lộ mặt trên báo 
+5,“ bạn_bè nói tôi may_mắn vì ở mỹ  tôi có mọi thứ ”  bà ri nói 
+6,“ con tôi đi học đầy_đủ và chúng đang rất thành_công 
+7,tôi có một ông chồng biết sửa mọi đồ_đạc 
+8,chẳng có gì phải mơ_ước hơn nữa ” 
+9,ông gang cho rằng “ tôi đã đạt được giấc mơ mỹ ” 
+10,bà ri cho biết mình rời khỏi triều_tiên sau khi chị_gái bà bị chẩn_đoán ung_thư vú giai_đoạn cuối vào năm 1998 
+11,bà ri nói mình xuất_thân từ một gia_đình bình_thường nhưng may_mắn chị_gái bà là ko_yong_hui lọt vào “ mắt_xanh ” của cố lãnh_đạo kim_jongil và được ông này lấy làm vợ 
+12,cuộc_sống gia_đình bà ri thay_đổi hoàn_toàn và bà nghiễm_nhiên thuộc về tầng_lớp tinh_hoa ở triều_tiên 
+13,năm 1992  bà ri tới thành_phố bern  thụy_sĩ cùng con_trai cả của chị_gái là kim_jongchol 
+14,4 năm sau  người con_trai khác của chị_gái bà là kim_jongun cũng tới thụy_sĩ để học_tập 
+15,khi đó  lãnh_đạo đương_nhiệm của triều_tiên hiện_nay mới bước sang tuổi 12 
+16,bà ri chăm_sóc hai đứa cháu như con_đẻ của mình  nấu cho chúng ăn và đưa chúng đi trượt_tuyết khắp dãy alps 
+17,“ chúng_tôi sống trong một căn nhà bình_thường như bao gia_đình khác 
+18,tôi chẳng khác gì mẹ các cháu ”  bà ri chia_sẻ 
+19,“ tôi khuyến_khích các cháu dẫn bạn về nhà như những gia_đình bình_thường khác 
+20,chúng hay ăn bánh tôi làm và chơi lego ” 
+21,bà ri cho biết dù còn nhỏ nhưng cháu của bà đã cho thấy những dấu_hiệu của lãnh_đạo tương_lai 
+22,bà ri nói rằng kim_jongun “ nóng_tính và không dễ kiềm_chế cơn giận ” 
+23,bà kể có lần kim_jongun bị mẹ nói về việc quá mải chơi  cậu bé kim đã không nói gì nhưng tuyệt_thực mấy hôm để phản_đối 
+24,vào mùa hè  kim_jongun quay về triều_tiên và nghỉ_mát tại bãi biển wonsan mát_mẻ 
+25,bà ri chia_sẻ hoạt_động ưa_thích của kim_jongun là chơi bóng_rổ 
+26,điều này khiến cậu cao hơn cha của mình 
+27,kim_jongun rất ám_ảnh với môn thể_thao này và thường ôm một quả bóng đi ngủ 
+28,tuy_nhiên  một thời_gian sau đó  bà ri cùng chồng đã trốn khỏi bình_nhưỡng và tới mỹ khi chị_gái bị phát_hiện mắc ung_thư 
+29,khi biết chị_gái mình không còn sống được bao_lâu  bà ri sợ rằng gia_đình sẽ bị liên lụy nên quyết_định bỏ trốn khỏi đất_nước 
+30,bà ri nói  “ trong lịch_sử  có nhiều trường_hợp những người thân_tín với lãnh_đạo cấp cao bị vạ lây vì những chuyện không đâu 
+31,tôi nghĩ rằng tốt hơn hết nên tránh xa những hiểm_họa kiểu như_vậy ” 
+32,năm 1998  gia_đình bà ri và 3 người con đã tới sứ_quán mỹ ở thụy_sĩ để xin tị_nạn chính_trị 
+33,vài tháng sau  họ được cấp visa tị_nạn chính_trị và tới một nhà_thờ hàn_quốc ở hoa_kỳ để xin cư_trú 
+34,tuy_nhiên  nơi này không chấp_nhận gia_đình bà ri 
+35,họ chuyển tới một khu_vực khác không có người châu_á để tạm cư 
+36,gia_đình bà ri dùng số tiền 200000 usd mà cia cấp cho bà để mua một căn nhà 2 tầng ở đây 
+37,3 đứa con của bà được nuôi_nấng và trưởng_thành từ ngôi nhà này 
+38,bà ri và chồng mở một tiệm giặt là 
+39,số tiền kiếm được đủ trang_trải cuộc_sống cho 3 đứa con học_hành và giúp bà có những chuyến đi chơi tới las_vegas hay hàn_quốc 
+40,một người con của bà đang theo_đuổi ngành số_học  đứa còn lại chuyên_tâm vào khoa_học máy_tính 
+41,chỉ có một người con duy_nhất là không học_hành mà ở nhà giúp bố_mẹ 

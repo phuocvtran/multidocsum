@@ -1,0 +1,10 @@
+idx, sentence
+0,mullah abdul_rauf  một chỉ_huy cấp cao của taliban ngày 225 cho biết  mansour đã chết trong một cuộc không_kích của mỹ vào đêm 2052016 
+1,cuộc tấn_công xảy ra ở khu_vực biên_giới afghanistanpakistan 
+2,trong khi đó  văn_phòng tổng_thống ashraf_ghani đã xác_nhận cuộc không_kích này 
+3,reuters dẫn lời phát_ngôn_viên của tổng_thống afghanistan ngày 225 nói rằng  một cuộc không_kích bằng máy_bay không người lái nhắm vào lãnh_đạo taliban ở afghanistan dường_như đã thành_công 
+4,lãnh_đạo afghanistan  ông abdullah_abdullah cũng nói rằng  mansour có khả_năng đã bị tiêu_diệt 
+5,hôm 215  bộ_quốc_phòng mỹ đã xác_nhận tiến_hành cuộc không_kích trên ở một khu_vực xa_xôi của vùng biên_giới afghanistanpakistan  nhằm vào thủ_lĩnh tối_cao của taliban là mullah_akhtar_mohammad_mansour 
+6,đây không phải là lần đầu_tiên mansour bị tấn_công bởi quân_đội mỹ 
+7,hồi tháng 122015  các nguồn tin cũng xác_nhận mansour bị_thương và có_thể đã chết sau cuộc đọ súng gần quetta  pakistan 
+8,nhưng lần này  hoa_kỳ đã sử_dụng máy_bay không người lái và cơ_hội sống_sót của mansour là rất ít 

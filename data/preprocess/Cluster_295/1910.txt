@@ -1,0 +1,7 @@
+idx, sentence
+0,ngày 3/6  người dân tại tại phường tân_an  tp buôn_ma_thuột  đắk_lắk  trong khi đi tập_thể_dục đã phát_hiện xác một quân_nhân nằm chết trên vệ đường nên đã trình_báo cơ_quan_chức_năng 
+1,danh_tính nạn_nhân được xác_định là thiếu_tá nguyễn_duy_chuyển  46 tuổi  quê tại huyện tĩnh_gia  tỉnh thanh_hóa  
+2,được biết  thiếu_tá chuyển hiện đang công_tác tại sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh đắk_lắk 
+3,sau khi nhận được thông_tin  cơ_quan_chức_năng tỉnh đắk_lắk có_mặt tại hiện_trường và đưa xác nạn_nhân về bệnh_xá của sư_đoàn 470 để khám_nghiệm tử_thi và bàn_giao cho gia_đình lo hậu_sự 
+4,theo nguồn tin riêng của pv  cùng ngày đối_tượng giết thiếu_tá chuyển đã đến cơ_quan công_an đầu_thú 
+5,hiện vụ_việc đang được cơ_quan_chức_năng tỉnh đắk_lắk tiến_hành điều_tra  làm rõ nguyên_nhân 

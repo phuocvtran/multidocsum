@@ -1,0 +1,20 @@
+idx, sentence
+0,chiều 20/5  tand tp hcm xử phúc_thẩm vụ hoa_hậu đông_nam_á lê_thị_diệu_hân_kiện bà phan_thị_minh_trang  52 tuổi  quận 3  về việc tranh_chấp hợp_đồng thuê nhà và bồi_thường thiệt_hại 
+1,theo đó  tòa chấp_nhận một phần yêu_cầu của diệu_hân về việc chấm_dứt hợp_đồng thuê nhà  không chấp_nhận yêu_cầu buộc bà trang phải thanh_toán tiền_cọc và bồi_thường thiệt_hại với tổng_số tiền 270 triệu đồng 
+2,ngoài_ra  tòa cũng chấp_nhận toàn_bộ phản tố của bà trang  buộc diệu_hân thanh_toán 360 triệu đồng tiền thuê nhà còn thiếu từ tháng 7/2015 đến tháng 2/2016 
+3,tại phiên_tòa hoa_hậu diệu_hân cho biết  giữa mình và bà trang có ký hợp_đồng thuê nhà từ tháng 10/2014 với số tiền đặt_cọc là 135 triệu đồng và giá thuê mỗi tháng là 45 triệu đồng 
+4,diệu hân đã thực_hiện đầy_đủ nghĩa_vụ theo hợp_đồng trong quá_trình thuê nhà 
+5,theo diệu_hân  trong quá_trình mình thuê nhà  bà trang nhiều lần cho người đến dùng lời_lẽ xúc_phạm đến danh_dự  nhân_phẩm của mình 
+6,trong đó  có việc bà trang cho rằng cô có “ dan_díu ” với chồng của bà 
+7,riêng ngày 31/5/2015  bà trang đến cửa_hàng  chửi_mắng  cho rằng cô ngoại_tình với chồng bà 
+8,sau đó  cô đã trình_báo công_an phường 5  quận 3  giải_quyết 
+9,phía cơ_quan_chức_năng mời cả hai bên lên làm_việc  yêu_cầu không được tái_phạm 
+10,tuy_nhiên  sau đó  bà trang vẫn tiếp_tục đến và tái_diễn sự_việc 
+11,diệu hân đề_nghị mở clip phía mình cung_cấp để công_khai hành_vi của bà trang 
+12,cô cũng cho hay  đã gửi đơn tố_cáo gửi đến công_an quận 3 
+13,kiểm_sát_viên đề_nghị được hoãn phiên_tòa để công_an giải_quyết xong đơn tố_cáo về hành_vi của bà trang  từ đó  lấy kết_quả làm cơ_sở vững_chắc  tuyên bản_án hợp_tình  hợp_lý 
+14,tòa hội_ý 
+15,sau đó  hđxx nhận_định  việc diệu hân tranh_chấp hợp_đồng thuê nhà  yêu_cầu bồi_thường thiệt_hại và việc tố hành_vi vu_khống của bà trang là hai vụ_việc khác nhau 
+16,do_vậy  tòa bác yêu_cầu mở clip của diệu_hân và yêu_cầu hoãn phiên_tòa của đại_diện viện_kiểm_sát 
+17,sau phiên_tòa  diệu_hân cho rằng  trong phiên_tòa  bà trang nói chỉ có mâu_thuẫn cá_nhân nhỏ_nhặt  nhưng trong các clip cô quay lại thể_hiện thái_độ hằn_học  chửi_bới  vu không mình 
+18,cô không hiểu tại_sao  phía tòa không bớt chút thời_gian xem các clip này để nhìn_nhận vấn_đề một_cách khách_quan hơn 

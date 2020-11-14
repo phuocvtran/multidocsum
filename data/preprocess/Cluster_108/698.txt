@@ -1,0 +1,4 @@
+idx, sentence
+0,theo đó  coteccons  đơn_vị xây_dựng và tổng thầu thi_công hàng_đầu việt_nam  sẽ là đối_tác_chiến_lược  tổng thầu trong xây_dựng  thiết_kế và thi_công các dự_án bất_động_sản của khang_điền trong thời_gian tới  đồng_thời kiến_tạo những công_trình xây_dựng mang thương_hiệu việt đẳng_cấp quốc_tế 
+1,khang_điền sẽ cùng khải_hoàn_land phát_triển các dự_án bất_động_sản cũng như phân_phối các dự_án của khang_điền đến khách_hàng 
+2,khang_điền hiện có quỹ đất hơn 500 ha tại khu_vực phía đông và tây_nam tp hcm với định_vị phân khúc bất_động_sản nhà ở trung và cao_cấp 

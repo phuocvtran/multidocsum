@@ -1,0 +1,21 @@
+idx, sentence
+0,ngày 195  công_an p 5  q 3 tphcm cho biết đã tiếp_nhận đơn tố_cáo của ông nguyễn_phi_cường  tức_quang_cường  40 tuổi  ngụ p 14  qgò_vấp  đối_với ông tth
+1,và ông tqv
+2, cùng quê_quán nam_định  về hành_vi lừa_đảo theo đơn của ông cường  hai ông h và v đã không thanh_toán số tiền gần 4 tỉ đồng khi mua căn_hộ ở lô b  chung_cư 43d  đường hồ_văn_huê  p 9  qphú_nhuận do ông cường sở_hữu 
+3,trao_đổi với tuổi_trẻ  ca_sĩ quang_hà cho biết ông cường là anh_trai  quản_lý của mình nên để ông cường đứng_tên chủ_quyền căn_hộ nói trên 
+4,ca_sĩ quang_hà nói anh quen_biết với tth
+5,và tqv
+6,trong một lần diễn ở hà_nội 
+7,biết tin ca_sĩ quang_hà cần bán căn_hộ trên  ông tth
+8,thương_lượng mua lại với giá 39 tỉ đồng 
+9,hai bên thỏa_thuận sang_tên cho tqv
+10, cháu ông tth
+11, đứng chủ_quyền 
+12,tối 175  ông tth
+13,xách một vali đến nhà quang_hà và ông cường trên đường phan_huy_ích  p 14  qgò_vấp 
+14,ông h nói với ông cường trong vali có chứa 200000 usd để thanh_toán tiền mua căn_hộ 
+15,sáng 185  ông cường lái ôtô chở ông tth
+16,đến một phòng công_chứng trên đường nguyễn_thị_minh_khai  p 5  q 3   nhưng khi đi ông tth
+17,không xách theo chiếc vali mà để lại nhà của quang_hà 
+18,sau khi công_chứng  ông h đưa toàn_bộ giấy_tờ căn_hộ cho v giữ 
+19,sau đó  ông h rủ ông cường lái_xe sang q 7 để làm_việc riêng của ông h  khi đến q 7  ông h nói ông cường đứng chờ để mua nước rồi bỏ trốn 

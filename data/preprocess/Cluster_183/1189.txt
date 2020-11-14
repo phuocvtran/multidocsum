@@ -1,0 +1,11 @@
+idx, sentence
+0,trong quá_khứ  hlv mourinho và pep_guardiola từng có mối hiềm_khích khi hai người dẫn_dắt real_madrid và barcelona 
+1,ở mùa giải tới  họ sẽ nằm quyền ở hai clb thành manchester là mu và man_city 
+2,giới mộ điệu chờ_đợi cuộc_chiến nảy_lửa giữa mourinho và pep_guardiola ở trong lẫn ngoài sân_cỏ 
+3,tuy_nhiên  “ người đặc_biệt ” khẳng_định ông sẽ không sa_đà với những cuộc tranh_cãi cá_nhân với pep_guardiola ở mùa giải trước 
+4,phát_biểu trong buổi họp_báo ở lisbon  hlv mourinho nói  “ những gì diễn ra trong quá_khứ không cho_phép tôi đứng ngoài_cuộc 
+5,trong 2 năm mà đối_đầu với pep_guardiola  chúng_tôi bị đẩy vào thế sống_còn 
+6,đơn_giản  chỉ có tôi hoặc ông ấy lên_ngôi cao nhất 
+7,cuộc_chiến cá_nhân của chúng_tôi vì_thế có nhiều ý_nghĩa bởi nó ảnh_hưởng tới mọi thứ 
+8,tuy_nhiên  ở premier_league  nếu tôi và ông ấy tập_trung đối_đầu nhau thì một người khác sẽ lên_ngôi vô_địch 
+9,do_đó  tôi cũng không muốn sa_đà vào những tranh_cãi cá_nhân với pep_guardiola ” 

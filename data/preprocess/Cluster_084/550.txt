@@ -1,0 +1,8 @@
+idx, sentence
+0,vụ_việc được người dân phát_hiện vào khoảng 5 h ngày 23/5  tại khu_vực cầu cứng  tổ 26  phường phương_lâm  thành_phố hòa_bình  tỉnh hòa_bình 
+1,một_số người dân phát_hiện ra vụ_việc cho biết  khi đó họ đi tập_thể_dục buổi sáng bàng_hoàng phát_hiện một thi_thể nam thanh_niên dính nhiều máu  đã tử_vong nên đã báo cơ_quan_chức_năng 
+2,nhận được tin báo  lực lương công_an tp hòa_bình  tỉnh hòa_bình có_mặt  đồng_thời  phong_tỏa hiện_trường  tiến_hành công_tác khám_nghiệm tử_thi  điều_tra nguyên_nhân vụ_việc 
+3,một đại_diện đội điều_tra công_an tp hòa_bình  tỉnh hòa_bình cho biết thi_thể nạn_nhân là nam_giới   chưa rõ danh_tính  độ tuổi khoảng 25  30 tuổi 
+4,nạn_nhân chết trong tư_thể nằm_ngửa  trên mặt  phần mồm và tai có nhiều vết máu 
+5,qua khám_nghiệm sơ_bộ ban_đầu xác_định không có dấu_hiệu của ngoại_lực 
+6,nhiều khả_năng nạn_nhân sốc thuốc dẫn đến vỡ động mạnh 

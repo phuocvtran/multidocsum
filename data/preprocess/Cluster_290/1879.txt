@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 2/6  gia_đình của 6 trong số 15 thành_viên phi_hành_đoàn trên chuyến bay mang số_hiệu mh17 của hãng hàng_không malaysia_airlines  mas   bị bắn hạ ở miền đông_ukraine năm 2014  đã nộp đơn_kiện và khẳng_định mas phải chịu trách_nhiệm về thảm_họa này 
+1,đây là vụ kiện đầu_tiên nhằm vào mas sau khi mh17 bị bắn hạ 
+2,ông balan_nair  luật_sư đại_diện cho biết đơn kiện buộc_tội mas bất_cẩn và vi_phạm hợp_đồng khi điều máy_bay mh17 đi qua khu_vực đang ở trong tình_trạng xung_đột vũ_trang và đặt chuyến bay vào tình_trạng “ rủi_ro vô_lý  có_thể gây nguy_hiểm chết người 
+3,ông balan không đưa ra con_số đền_bù cụ_thể và cho rằng vấn_đề này do tòa quyết_định 
+4,mas từng đề_nghị một mức bồi_thường  không công_khai   nhưng gia_đình các nạn_nhân đã từ_chối 
+5,hiện mas chưa đưa ra bình_luận gì về vụ kiện này 
+6,theo công_ước montreal năm 1999  người_nhà nạn_nhân có hai năm để khỏi kiện hãng hàng_không liên_quan sau một vụ tai_nạn máy_bay 

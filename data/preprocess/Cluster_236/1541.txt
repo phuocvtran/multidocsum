@@ -1,0 +1,10 @@
+idx, sentence
+0,báo_cáo được công_bố ngày 315 cũng chỉ ra rằng  số người phải sống kiếp nô_lệ thời hiện_đại đã gia_tăng 28  so với cách đây 2 năm 
+1,báo_cáo được tổng_hợp  phân_tích dữ_liệu thông_tin từ 167 quốc_gia với 42000 cuộc phỏng_vấn đã được tiến_hành bằng 53 ngôn_ngữ khác nhau 
+2,theo báo_cáo này  ấn_độ là đất_nước có số người phải sống kiếp nô_lệ cao nhất  với 1835 triệu người 
+3,cũng theo báo_cáo này  xét về mặt số_lượng  top 5 nước có nhiều người phải sống trong kiếp nô_lệ nhất lại đều là những quốc_gia châu_á 
+4,sau ấn_độ lần_lượt là trung_quốc  339 triệu người   pakistan  213 triệu người   bangladesh  153 triệu người  và uzbekistan  123 triệu người  
+5,cảnh sống nô_lệ thời hiện_đại được mô_tả là tình_trạng một người không có quyền tự quyết_định vận_mệnh của bản_thân do bị đe_dọa  ép_buộc  lạm_dụng  bạo_lực hoặc lừa_bịp 
+6,họ có_thể bị lừa sống và lao_động như nô_lệ trên các tàu đánh_cá  trái với ý_muốn của họ hoặc bị ép làm_việc trong các nhà_thổ 
+7,hiện_nay khoảng 124 nước đã hình_sự_hóa_nạn buôn_người phù_hợp với nghị_định_thư của liên_hợp_quốc và 96 quốc_gia đã xây_dựng các kế_hoạch hành_động quốc_gia để giải_quyết vấn_nạn này 
+8,tuy_nhiên  người sáng_lập quỹ walk_free_foundation năm 2012  ông trùm khai_thác mỏ người úc  andrew_forrest vẫn kêu_gọi chính_phủ các quốc_gia cần có những hành_động và biện_pháp mạnh_mẽ hơn để chống lại vấn_nạn này 

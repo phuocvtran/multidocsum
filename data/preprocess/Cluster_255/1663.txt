@@ -1,0 +1,4 @@
+idx, sentence
+0,khoảng 6 giờ ngày 26  một người đàn_ông  chưa rõ danh_tính  điều_khiển ô_tô_hiệu bentley_bs 51a  50308 lưu_thông trên đường nguyễn_văn_linh  hướng từ hnhà_bè về q 7  tphcm  
+1,khi đang dừng đèn_đỏ ở giao_lộ nguyễn_văn_linh  nguyễn_đức_cảnh  q 7  tphcm   xe bentley bị xe container bs 50ld  07279  lưu_thông cùng chiều từ phía sau húc vào đuôi  văng xa cả chục mét 
+2,hậu_quả  phần đuôi xe bentley vỡ nát  biến_dạng  phần đầu container móp méo  dầu_nhớt chảy lênh_láng 

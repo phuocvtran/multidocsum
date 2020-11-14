@@ -1,0 +1,14 @@
+idx, sentence
+0,liên_quan tới vụ_việc  hóa_đơn tiền nước hơn 19 triệu đồng / tháng của gia_đình ông trần_công_ứng  số 10  xóm lẻ  triều_khúc  tân_trều  thanh_trì  hà_nội   chiều 205  trao_đổi với pv  ông nguyễn_hữu_vỵ  chủ_tịch xã tân_triều cho biết  ubnd xã chưa nhận được đơn thư phản_ánh từ phía gia_đình ông ứng về hóa_đơn tiền nước 19 triệu 
+1,nhưng đây là vụ_việc xảy ra trên địa_bàn xã quản_lý  nên xã đã mời htx dịch_vụ sản_xuất nông_nghiệp_triều_khúc lên để làm_việc  giải_trình về vấn_đề này 
+2,theo ông vỵ  ubnd xã phải gửi giấy triệu_tập đến 2 lần thì ông triệu_đình_nhã – chủ_nhiệm hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp cùng ông nguyễn_trung_dũng  trưởng_phòng kế_toán  tài_vụ mới chịu lên làm_việc 
+3,“ nội_dung cuộc làm_việc  ubnd xã yêu_cầu htx không được phép dừng việc cấp nước_sạch cho gia_đình ông ứng và phải mang đồng_hồ nước đi kiểm_định để tìm_hiểu nguyên_nhân vì sao giá tiền nước lại tăng cao như_thế ”  ông vỵ nói 
+4,ông vỵ cũng cho biết đã nhắc_nhở thái_độ của ông nguyễn_trung_dũng  trưởng_phòng kế_toán  tài_vụ htx trong buổi họp_báo sáng 195 
+5,phía ubnd xã tân_triều yêu_cầu htx phải phối_hợp với các cơ_quan báo_chí  thông_tin_đại_chúng để giải_quyết vụ_việc này cho tốt  tránh sự hiểu nhầm 
+6,về phía gia_đình ông trần_công_ứng cho biết  sáng nay  205   htx đã tới tháo đồng_hồ nước của gia_đình ông mang đến chi_cục tiêu_chuẩn đo_lường chất_lượng hà_nội kiểm_định 
+7,sau khi tháo đồng_hồ  htx đã cho người lắp một chiếc đồng_hồ khác để gia_đình có_thể tiếp_tục sử_dụng nước 
+8,“ gia_đình tôi mong_muốn cơ_quan_chức_năng sớm tìm ra nguyên_nhân để làm sáng_tỏ vụ_việc 
+9,cả 3 năm nay nhà tôi dùng nước cũng chưa hết bằng số tiền của tháng 42016 
+10,chúng_tôi rất mệt_mỏi và hoang_mang vì sợ nếu không đóng tiền sẽ bị cắt nước ”  ông ứng nói 
+11,trước đó  gia_đình ông trần_công_ứng  62 tuổi  ở số 10  xóm lẻ  triều_khúc  tân_triều  thanh_trì  hà_nội  đã choáng_váng khi nhận được hóa_đơn tiền nước lên tới 19125036 đồng với số nước sử_dụng là 1029 m3 cho gia_đình 6 người 
+12,ông ứng đã gửi kiến_nghị lên hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp nhưng họ cho số_liệu trên là đúng và cho rằng đường_ống nước_nhà ông bị vỡ nên số nước mới tăng đột_biến như vậy 

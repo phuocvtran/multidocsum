@@ -1,0 +1,20 @@
+idx, sentence
+0,chiều 20/5  tại hà_nội  trung_tâm giáo_dục thiên_nhiên  env   tổ_chức bảo_vệ tê_giác thế_giới  sri  và diễn_viên hollywood_paul_blackthorne phối_hợp tổ_chức họp_báo và toạ_đàm cùng hơn 500 sinh_viên trường đại_học thăng_long để mở_màn chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác ” 
+1,paul_blackthorne nổi_tiếng ở hollywood với vai diễn chính trong phim doom và mũi_tên  arrow  
+2,chia_sẻ với báo_chí  nam diễn_viên paul_blackthorne cho biết  “ đến lúc này  việt_nam là một trong những thị_trường tiêu_thụ tê_giác lớn nhất thế_giới 
+3,niềm tin mù_quáng vào việc sử_dụng sừng tê_giác để chữa bệnh và thể_hiện đẳng_cấp khiến nhu_cầu tiêu_thụ ngày_một gia_tăng 
+4,năm 2010  cá_thể tê_giác java cuối_cùng tại việt_nam đã bị giết để lấy sừng 
+5,ước_tính mỗi ngày lại có ba cá_thể tê_giác bị sát_hại ở nam_phi 
+6,theo tổ_chức bảo_tồn thiên_nhiên quốc_tế  iucn   nếu tình_trạng săn_bắn tê_giác tiếp_tục diễn ra như hiện_nay thì tê_giác có_thể sẽ bị tuyệt_chủng vào năm 2026  
+7,nam diễn_viên hollywood_paul_blackthorne nhấn_mạnh  “ loài tê_giác đang đứng bên bờ vực tuyệt_chủng bởi lòng_tham và sự thiếu hiểu_biết của nhiều người 
+8,tôi chọn việt_nam là điểm dừng chân bởi_lẽ đây là một điểm_nóng về tiêu_thụ sừng tê_giác 
+9, việt_nam ơi  bảo_vệ tê_giác ” là tên của chiến_dịch do trung_tâm giáo_dục thiên_nhiên và tổ_chức bảo_vệ tê_giác thế_giới  sri  tổ_chức  nhằm nâng cao nhận_thức cộng_đồng và giảm_thiểu nhu_cầu tiêu_thụ sừng tê_giác tại việt_nam 
+10,tôi chọn việt_nam là điểm dừng chân bởi_lẽ việt_nam là điểm_nóng về tiêu_thụ sừng tê_giác  loài tê_giác đang đứng bên bờ tuyệt_chủng bởi long tham và sự thiếu hiểu_biết của nhiều người  chúng_ta phải cùng nhau làm điều gì đó ” 
+11,theo  diễn_viên paul_blackthorne  năm 2015 có gần 1200 cá_thể tê_giác bị giết_hại để lấy sừng 
+12,với tần_suất này  tính đến năm 2026 loài tê_giác sẽ bị tiệt chủng 
+13,trong khi đó  sừng tê_giác – nguyên_nhân để những con tê_giác bị săn_bắt  lại không phải là thần_dược như mọi người đã tưởng 
+14,còn bà vũ_thị_quyên  giám_đốc trung_tâm giáo_dục thiên_nhiên  “ buôn_bán sừng tê_giác cho lợi_nhuận rất lớn  nó được ví_như vàng_đen 
+15,trong những năm trước  chúng_tôi làm_việc với cơ_quan_chức_năng bắt_giữ các đối_tượng buôn_bán sừng tê_giác nhưng chỉ bắt được những người vận_chuyển thuê mà không bắt được kẻ cầm_đầu 
+16,chúng_tôi muốn cho mọi người biết không nên sử_dụng sừng tê_giác  cần phải bảo_vệ chúng  sừng tê_giác không phải thần_dược ” 
+17,trong khi đó  bà susie_offordwoolley  phó giám_đốc tổ_chức sri  “ bảo_tồn tê_giác ở việt_nam đang là vấn_đề rất nóng  đây là mắt_xích quan_trọng trong việc vận_chuyển và buôn_bán tê_giác  ta cần hành_động ngay để xử_lý được vấn_nạn buôn_lậu tê_giác và bảo_tồn tê_giác ” cũng trong chương_trình này  có hơn 500 sinh siên của trường đh thăng_long đã có buổi trao_đổi với nam diễn_viên paul_blackthorne về sự_thật sừng tê_giác không phải là “ thần_dược ” 
+18,đây là cơ_hội để những bạn trẻ hiểu hơn về trách_nhiệm của mình trong việc bảo_vệ sự cân_bằng hệ_sinh_thái 

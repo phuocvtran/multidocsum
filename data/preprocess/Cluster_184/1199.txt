@@ -1,0 +1,18 @@
+idx, sentence
+0,kỳ thủ ấn_độ_sethuraman_sp
+1, hcđ nội_dung cờ tiêu_chuẩn tại giải năm_ngoái  là người sở_hữu_elo cao nhất mà lê_quang_liêm phải đối_mặt kể từ đầu giải  theo đúng nguyên_tắc đối_đầu trực_tiếp giữa những ai có cùng điểm_số 
+2,đúng như lo_ngại  sethuraman_sp
+3,đã thi_đấu rất kiên_cường  tận_dụng ưu_thế khai cuộc trước để liên_tục gài các thế cờ khó đối_với quang_liêm bằng các nước đổi quân  lần_lượt tượng  hậu rồi mã chỉ sau khoảng 14 nước đi 
+4,bằng lối đánh hết_sức tự_tin  quang_liêm bình_tĩnh hóa_giải mọi trở_ngại  vừa phòng_ngự chắc_chắn vừa dồn_ép đối_phương trở_lại 
+5,không có ưu_thế về quân nhưng sau 51 nước đi  liêm sử_dụng cặp xe phá toang thành_trì của đối_phương  buộc sethuraman_sp
+6,phải chấp_nhận thua cuộc 
+7,với chiến_thắng quan_trọng này  quang_liêm đạt 5 điểm  quay lại ngôi đầu vừa để mất vào tay gao_rui một vòng đấu trước đó 
+8,kỳ thủ trung_quốc này chấp_nhận nhường_bước đồng_hương wei_yi hơn mình gần 150 elo  trao cơ_hội công_phá ngôi đầu của quang_liêm cho wei_yi 
+9,bằng điểm nhưng kém quang_liêm về hệ_số phụ  wei_yi đáng để mọi đối_thủ tại giải phải e_dè 
+10,chẳng xa_lạ với người hâm_mộ cờ  wei_yi được biết đến khi nhận danh_hiệu đại kiện_tướng từ năm 13 tuổi  xếp thứ tư trong danh_sách những kỳ_thủ trẻ tuổi nhất thế_giới có được vinh_dự này 
+11,anh cũng là kỳ_thủ trẻ nhất thế_giới sở_hữu_elo “ khủng ” 2700  được góp_mặt trong nhóm siêu_đại kiện_tướng hồi đầu tháng 5  hiện tạm bị mất vài điểm elo  xuống mức 2694  
+12,ở ván đấu này  trừ quang_liêm và wei_yi giành chiến_thắng  sáu bàn đấu của 12 kỳ_thủ trong nhóm dẫn đầu_bảng xếp_hạng đều có kết_quả hòa 
+13,nguyễn_ngọc trường_sơn  2636  sau thất_bại dưới tay gao_rui ở vòng đấu trước cũng kịp trở_lại với chiến_thắng quan_trọng trước deni_sonjaya  indonesia  2556   vươn lên vị_trí 18 trên bảng xếp_hạng với 4 điểm 
+14,nguyễn_huỳnh_minh_huy  2458  trong khi đó lại không_thể làm hơn adhiban_s  2665   lùi xuống tận vị_trí 23 với 35 điểm trong tay 
+15,việc đối_đầu cùng wei_yi ở ván 7 được đánh_giá là rất quan_trọng đối_với quang_liêm trong hành_trình chinh_phục danh_hiệu châu_lục mà anh đang hướng tới sau 2/3 chặng đường của giải 
+16,với vị_trí hạt_giống số 1  quang liêm_chính là mục_tiêu công_phá của mọi đối_thủ nhưng xem ra anh đang tận_dụng tốt những ưu_thế của mình để duy_trì ngôi đầu_bảng ở 5/6 vòng đã đấu 

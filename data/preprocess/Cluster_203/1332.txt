@@ -1,0 +1,10 @@
+idx, sentence
+0,đề thi với câu hỏi tình_huống đặt ra  “ anh a  trong tâm_trạng rất bất_ổn đến trung_tâm tư_vấn pháp_luật có yêu của tư_vấn về vụ_việc vừa xảy ra tại nhà anh 
+1,nội_dung vụ_việc mà anh a trình_bày ” được đưa ra dưới dạng bài thơ 
+2,tóm_tắt sự_việc là để cai_sữa cho con_trai 4 tuổi  anh a bôi lo dung_dịch màu vàng lên “ gò bông đào ” của vợ rồi đi làm 
+3,sau khi đi làm anh mới phát_hiện mình lấy nhầm lọ thuốc cực độc  nghĩ mình đã hại con nên anh tức_tốc phóng về nhà 
+4,bất_ngờ khi về anh  nghe con nói là ông hàng_xóm gần nhà đã chết trong kia 
+5,câu_hỏi đưa ra là sinh_viên hãy đặt câu hỏi và sắp_xếp thành bảng hỏi để hỏi anh a  nhằm làm rõ nội_dung vụ_việc và làm rõ yêu_cầu tư_vấn của anh a_  đề thi cho_phép học_viên được sử_dụng tài_liệu 
+6,đề thi ngay khi được đưa lên facebook đã khiến nhiều người bất_ngờ  tò_mò về đáp_án 
+7,bên cạnh một_số ý_kiến băn_khoăn  không ít người cho rằng người ra đề thi có óc hài_hước và tình_huống đưa ra cực_kỳ hóc_hiểm 
+8,đối_với ngành luật có đặc_thù riêng  không nên đánh_giá quá khắt_khe 

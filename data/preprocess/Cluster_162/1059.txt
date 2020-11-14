@@ -1,0 +1,8 @@
+idx, sentence
+0,dự_án mövenpick cam_ranh resort nằm tại trung_tâm bãi_dài  cách sân_bay quốc_tế cam_ranh 4 km  và thuận_tiện cho việc di_chuyển tới các danh_lam thắng_cảnh nổi_tiếng như tháp_chàm  đà_lạt … bên_cạnh đó  bãi dài là bãi biển tự_nhiên  có triền cát trắng mịn thoải dài  nước_biển trong xanh kết_hợp cùng khí_hậu ôn_hòa  quanh_năm có nắng dịu nhẹ sẽ là yếu_tố địa_lợi để thu_hút du_khách trong và ngoài nước tới nghỉ_dưỡng 
+1,phát_biểu tại buổi lễ ra_mắt  ông andrew_langdon_– phó chủ_tịch cấp cao tập_đoàn mövenpick cam_kết  với uy_tín và bề_dày kinh_nghiệm quản_lý gần 100 khách_sạn  khu nghỉ_dưỡng tại 24 quốc_gia trên thế_giới  cùng những tiêu_chuẩn quản_lý khắt_khe của tập_đoàn hàng_đầu thụy_sỹ  mövenpick mang đến sự hài_lòng cho du_khách khi đến với mövenpick cam_ranh resort 
+2,đồng_thời  đảm_bảo tỷ_lệ lấp đầy dự_án và mang lại lợi_nhuận cho các nhà_đầu_tư 
+3,bên_cạnh đó  mövenpick cam_ranh resort còn sở_hữu thiết_kế kiến_trúc độc_đáo vừa hiện_đại lại vừa mang dáng_dấp địa_phương và đều hướng biển  nhìn thấy biển và rất gần biển 
+4,thiết_kế có tính điển_hình này của mövenpick cam_ranh resort có ý_nghĩa nâng tầm vị_thế của quần_thể dự_án trên thị_trường bất_động_sản nghỉ_dưỡng 
+5,anh trần_quang_mạnh  chuyên_gia trong lĩnh_vực bất_động_sản chia_sẻ  “ mövenpick cam_ranh resort là một dự_án cực_kỳ đặc_biệt với những điểm ưu_việt có 1 không 2 
+6,dự_án hội_tụ đầy_đủ những điểm thuận_lợi để thành_công như  vị_trí đắt_giá  100  các thiết_kế đều hướng ra biển 

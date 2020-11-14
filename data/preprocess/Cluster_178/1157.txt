@@ -1,0 +1,7 @@
+idx, sentence
+0,messi và cha_anh phải đối_mặt với 3 tội_danh gian_lận thuế  với tổng_số tiền lên tới 41 triệu euro trong khoảng thời_gian từ 2007  2009 
+1,phiên tòa xét_xử cả 2 đang diễn ra ở barcelona 
+2,luật_sư của messi  ông enrique_bacigalupo đã có_mặt ở tòa_án  làm các thủ_tục cần_thiết để bảo_vệ cho thân_chủ mình 
+3,vào tháng 9/2015  messi đáng_lẽ đã tránh được việc phải ra hầu_tòa khi cha_anh là jorge_messi đứng ra nhận trách_nhiệm chính cho vụ trốn_thuế 
+4,tuy_nhiên các công_tố_viên của tòa_án tối_cao tây ban_nha đã bác_bỏ điều này 
+5,họ đưa ra yêu_cầu cả messi cũng phải góp_mặt trong phiên_tòa xét_xử 

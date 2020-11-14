@@ -1,0 +1,83 @@
+idx, sentence
+0,chủ_tịch ubnd tphcm nguyễn_thành_phong cùng nhiều lãnh_đạo trung_ương và tphcm  đại_diện các ban_ngành cùng các chuyên_gia uy_tín trong và ngoài nước đã tham_dự hội_thảo 
+1,phát_biểu khai_mạc hội_thảo  tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong cho biết câu_chuyện phát_triển tphcm từ nhiều năm qua chưa bao_giờ hết tính thời_sự  nhất_là với các nhà hoạch_định chính_sách  giới chuyên_gia  lãnh_đạo các doanh_nghiệp của tphcm cũng như hàng triệu người dân quan_tâm 
+2,9500 bài viết  ý_kiến từ giữa tháng 22016  báo tuổi_trẻ đã mở chuyên_mục  dân đặt_hàng lãnh_đạo tphcm  trên báo tuổi_trẻ online và diễn_đàn  tphcm  khát_vọng vươn lên  từ cuối tháng 4  2016 trên nhật_báo tuổi_trẻ 
+3,đến nay đã có hơn 9500 bài viết  ý_kiến từ chuyên_gia  cựu lãnh_đạo của trung_ương  tphcm  người dân thành_phố  kể_cả người việt đang sống và làm_việc tại nước_ngoài gửi về 
+4,phần_lớn trong con_số hơn 9500 gửi_gắm đó là những ý_kiến ngắn_gọn  đề_xuất những nội_dung rất cụ_thể 
+5,bên_cạnh đó là những bài viết công_phu  trình_bày như một dự_án  công_trình thật_sự 
+6,không ít bài viết là sự trăn_trở nghiên_cứu có chiều sâu  đưa ra giải_pháp thiết_thực 
+7,về hình_thức tham_gia của bạn_đọc  diễn_đàn cũng nhận được ý_kiến với nhiều hình_thức khác nhau 
+8,rất nhiều trong số đó là những lá thư_điện_tử  những ý_kiến phản_hồi nhưng cũng có không ít ý_kiến được viết_tay nắn_nót trên giấy 
+9,nhiều ý bày_tỏ sự tin_tưởng và kỳ_vọng vào các chỉ_đạo quyết_liệt của lãnh_đạo thành_phố 
+10,từ việc kỳ_vọng  nhiều bạn_đọc cũng cho rằng chính những việc_làm thiết_thực  những chỉ_đạo sâu_sát của lãnh_đạo tphcm đã tạo nên cảm_hứng cho họ phấn_đấu và hoàn_thiện mình 
+11, điều khiến những người làm báo chúng_tôi vô_cùng cảm_kích là tất_cả các bài viết  ý_kiến trên dù được thể_hiện nhiều hình_thức khác nhau  dưới dạng thư_điện_tử hay được viết tay trên giấy  đều có chung tâm_huyết muốn được góp công_sức không_chỉ để không chỉ tphcm mà cả nước sẽ phát_triển mạnh_mẽ hơn  đời_sống người dân cải_thiện nhiều hơn nữa   tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong cho biết 
+12,tại hội_thảo  ông tăng_hữu_phong đã trao tận_tay chủ_tịch ubnd tphcm nguyễn_thành_phong 9500 ý_kiến góp_ý hiến_kế mà bạn_đọc đã gửi đến báo tuổi_trẻ  mong tuổi_trẻ làm cầu_nối chuyển đến lãnh_đạo tphcm tphcm đã có tầm nhìn vượt lên chưa 
+13,phát_biểu đặt_hàng cho những thảo_luận tại hội_thảo  phó trưởng_ban kinh_tế trung_ương nguyễn_ngọc_bảo cho rằng tphcm cần có quy_hoạch với tầm nhìn trong 2030 năm tới  tạo môi_trường và điều_kiện cho doanh_nghiệp tự_do cạnh_tranh thực_sự  đặt mục_tiêu tphcm phải nằm trong top 5 tp các chỉ_số quản_trị 
+14,phải đề_xuất với trung_ương cho tphcm các chính_sách vượt_trội để thực_sự trở_thành đầu_tàu và động_lực tăng_trưởng của tp phía nam 
+15, muốn tphcm trở_thành động_lực tăng_trưởng  bắt_buộc phải có cơ_chế vượt_trội 
+16,đó là cơ_chế chính_sách phân_bổ và sử dùng nguồn_lực cho phát_triển  đất_đai tài_nguyên  vốn  khoa_học công_nghệ  đổi_mới toàn_diện giáo_dục  khoa_học công_nghệ  tạo ra động_lực cho sự phát_triển   ông bảo nói 
+17,bức_xúc trước những cơ_hội đã chưa đưa tphcm thực_sự vươn lên phát_triển tương_xứng với tầm_vóc của trung_tâm kinh_tế đầu_tàu phía nam và cả nước  pgs tiến_sĩ trần_đình_thiên  viện_trưởng viện kinh_tế vn  đặt vấn_đề  điều gì đã làm cho tphcm chưa trở_thành đầu_tàu phát_triển  hiện_nay tphcm không còn chạy như một đầu_tàu thực_sự mà chỉ như một toa tàu  
+18, tphcm là đầu_tàu  có ai chịu trách_nhiệm về sự tụt_hậu này 
+19,tại_sao đầu_tàu mà_lại chạy chậm  
+20,  ông thiên_hỏi 
+21,ông cho rằng tphcm đã tụt_hậu xa hơn một_số tp khác  những tp mà 4050 năm trước cùng trình_độ xuất_phát như tphcm
+22, có phải vì các tp kia có lợi_thế đặc_biệt hay họ chọn được hướng phát_triển phù_hợp xu_thế thời_đại  biết đẩy_mạnh cải_cách thể_chế 
+23,nếu xét về vì có lợi_thế nên ta lại lúng_túng không bứt lên được  những tp kia không có lợi_thế nên họ lại bứt_phá lên rất mạnh  hội_tụ và hội_nhập quốc_tế   
+24,ông đặt thẳng với các cử_toạ câu hỏi  tphcm đã có tầm nhìn vượt lên chưa 
+25,thể_chế cho sự phát_triển của tp này đã có chưa   
+26,tại_sao tphcm là đầu_tàu mà chạy chậm 
+27,19/05/2016 10  25 gmt  7 tto  sáng 195  tại khách_sạn rex  tphcm   báo tuổi_trẻ đã tổ_chức hội_thảo  tphcm  khát_vọng vươn lên  
+28,chủ_tịch ubnd tphcm nguyễn_thành_phong cùng nhiều lãnh_đạo trung_ương và tphcm  đại_diện các ban_ngành cùng các chuyên_gia uy_tín trong và ngoài nước đã tham_dự hội_thảo 
+29,tại_sao tphcm là đầu_tàu mà chạy chậm 
+30,chủ_tịch ubnd tphcm nguyễn_thành_phong  giữa  tham_dự hội_thảo “ tphcm  khát_vọng vươn lên ” sáng 195  ảnh  quang_định tại_sao tphcm là đầu_tàu mà chạy chậm 
+31,ông tăng_hữu_phong  trái   tổng_biên_tập báo tuổi_trẻ  trao 9500 ý_kiến của bạn_đọc cho ông nguyễn_thành_phong  chủ_tịch ubnd tphcm tại hội_thảo  ảnh  quang_định phát_biểu khai_mạc hội_thảo  tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong cho biết câu_chuyện phát_triển tphcm từ nhiều năm qua chưa bao_giờ hết tính thời_sự  nhất_là với các nhà hoạch_định chính_sách  giới chuyên_gia  lãnh_đạo các doanh_nghiệp của tphcm cũng như hàng triệu người dân quan_tâm 
+32,9500 bài viết  ý_kiến từ giữa tháng 22016  báo tuổi_trẻ đã mở chuyên_mục  dân đặt_hàng lãnh_đạo tphcm  trên báo tuổi_trẻ online và diễn_đàn  tphcm  khát_vọng vươn lên  từ cuối tháng 4  2016 trên nhật_báo tuổi_trẻ 
+33,đến nay đã có hơn 9500 bài viết  ý_kiến từ chuyên_gia  cựu lãnh_đạo của trung_ương  tphcm  người dân thành_phố  kể_cả người việt đang sống và làm_việc tại nước_ngoài gửi về 
+34,phần_lớn trong con_số hơn 9500 gửi_gắm đó là những ý_kiến ngắn_gọn  đề_xuất những nội_dung rất cụ_thể 
+35,bên_cạnh đó là những bài viết công_phu  trình_bày như một dự_án  công_trình thật_sự 
+36,không ít bài viết là sự trăn_trở nghiên_cứu có chiều sâu  đưa ra giải_pháp thiết_thực 
+37,về hình_thức tham_gia của bạn_đọc  diễn_đàn cũng nhận được ý_kiến với nhiều hình_thức khác nhau 
+38,rất nhiều trong số đó là những lá thư_điện_tử  những ý_kiến phản_hồi nhưng cũng có không ít ý_kiến được viết_tay nắn_nót trên giấy 
+39,nhiều ý bày_tỏ sự tin_tưởng và kỳ_vọng vào các chỉ_đạo quyết_liệt của lãnh_đạo thành_phố 
+40,từ việc kỳ_vọng  nhiều bạn_đọc cũng cho rằng chính những việc_làm thiết_thực  những chỉ_đạo sâu_sát của lãnh_đạo tphcm đã tạo nên cảm_hứng cho họ phấn_đấu và hoàn_thiện mình 
+41, điều khiến những người làm báo chúng_tôi vô_cùng cảm_kích là tất_cả các bài viết  ý_kiến trên dù được thể_hiện nhiều hình_thức khác nhau  dưới dạng thư_điện_tử hay được viết tay trên giấy  đều có chung tâm_huyết muốn được góp công_sức không_chỉ để không chỉ tphcm mà cả nước sẽ phát_triển mạnh_mẽ hơn  đời_sống người dân cải_thiện nhiều hơn nữa   tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong cho biết 
+42,tại hội_thảo  ông tăng_hữu_phong đã trao tận_tay chủ_tịch ubnd tphcm nguyễn_thành_phong 9500 ý_kiến góp_ý hiến_kế mà bạn_đọc đã gửi đến báo tuổi_trẻ  mong tuổi_trẻ làm cầu_nối chuyển đến lãnh_đạo tphcm tphcm đã có tầm nhìn vượt lên chưa 
+43,phát_biểu đặt_hàng cho những thảo_luận tại hội_thảo  phó trưởng_ban kinh_tế trung_ương nguyễn_ngọc_bảo cho rằng tphcm cần có quy_hoạch với tầm nhìn trong 2030 năm tới  tạo môi_trường và điều_kiện cho doanh_nghiệp tự_do cạnh_tranh thực_sự  đặt mục_tiêu tphcm phải nằm trong top 5 tp các chỉ_số quản_trị 
+44,phải đề_xuất với trung_ương cho tphcm các chính_sách vượt_trội để thực_sự trở_thành đầu_tàu và động_lực tăng_trưởng của tp phía nam 
+45, muốn tphcm trở_thành động_lực tăng_trưởng  bắt_buộc phải có cơ_chế vượt_trội 
+46,đó là cơ_chế chính_sách phân_bổ và sử dùng nguồn_lực cho phát_triển  đất_đai tài_nguyên  vốn  khoa_học công_nghệ  đổi_mới toàn_diện giáo_dục  khoa_học công_nghệ  tạo ra động_lực cho sự phát_triển   ông bảo nói 
+47,bức_xúc trước những cơ_hội đã chưa đưa tphcm thực_sự vươn lên phát_triển tương_xứng với tầm_vóc của trung_tâm kinh_tế đầu_tàu phía nam và cả nước  pgs tiến_sĩ trần_đình_thiên  viện_trưởng viện kinh_tế vn  đặt vấn_đề  điều gì đã làm cho tphcm chưa trở_thành đầu_tàu phát_triển  hiện_nay tphcm không còn chạy như một đầu_tàu thực_sự mà chỉ như một toa tàu  
+48, tphcm là đầu_tàu  có ai chịu trách_nhiệm về sự tụt_hậu này 
+49,tại_sao đầu_tàu mà_lại chạy chậm  
+50,  ông thiên_hỏi 
+51,ông cho rằng tphcm đã tụt_hậu xa hơn một_số tp khác  những tp mà 4050 năm trước cùng trình_độ xuất_phát như tphcm
+52, có phải vì các tp kia có lợi_thế đặc_biệt hay họ chọn được hướng phát_triển phù_hợp xu_thế thời_đại  biết đẩy_mạnh cải_cách thể_chế 
+53,nếu xét về vì có lợi_thế nên ta lại lúng_túng không bứt lên được  những tp kia không có lợi_thế nên họ lại bứt_phá lên rất mạnh  hội_tụ và hội_nhập quốc_tế   
+54,ông đặt thẳng với các cử_toạ câu hỏi  tphcm đã có tầm nhìn vượt lên chưa 
+55,thể_chế cho sự phát_triển của tp này đã có chưa   
+56,tại_sao tphcm là đầu_tàu mà chạy chậm 
+57,quang_cảnh hội_thảo “ tphcm  khát_vọng vươn lên ” sáng 195  ảnh  quang_định tại_sao tphcm là đầu_tàu mà chạy chậm 
+58,ông nguyễn_ngọc_bảo  phó ban kinh_tế trung_ương  gợi_mở về định_hướng phát_triển của tphcm trong những năm tới tại hội_thảo  ảnh  quang_định tại_sao tphcm là đầu_tàu mà chạy chậm 
+59,pgsts trần_đình_thiên  viện_trưởng viện kinh_tế vn  trình_bày tham_luận tại hội_thảo  ảnh  quang_định hy_vọng  hội_tụ  hào_kiệt giám_đốc đào_tạo chương_trình gỉang dạy kinh_tế fulbright_huỳnh_thế_du gợi_ý tphcm phải có tầm nhìn vượt đại_dương để trở_thành một đô_thị phát_triển vào năm 2045 
+60,theo ông du  lâu_nay tphcm có quá nhiều vòng kim cô  nguồn_lực ít  đội_ngũ không có động_lực  thể_chế trói_buộc nên khó phát_triển 
+61, phải khơi lại tính tiên_phong và khả_năng dẫn_dắt  chính_quyền  doanh_nghiệp  người dân  lãnh_đạo ở tp phải tạo ra được cảm_hứng để mọi người cùng đồng_lòng   ông thế_du chia_sẻ với hội_thảo 
+62,tiến_sĩ vũ_minh_khương  đại_học quốc_gia singapore  cho rằng tên của tphcm có 3 chữ h  hy_vọng  hội_tụ  hào_kiệt 
+63,ông nhấn_mạnh tphcm có nhiều điểm sáng như sự thành_công của khu_vực phú_mỹ_hưng  lôi_kéo được intel đến vn  có sự xuất_hiện và dấu_ấn của một nguồn cung_cấp thông_tin uy_tín và đáng tin_cậy như báo tuổi_trẻ 
+64,tphcm phải là tấm_gương cho cả nước dám nhìn vào sự_thật mình đang vướng_mắc và làm gì để vượt qua  theo ông tphcm mà không vươn lên được thì vn cũng khó có_thể vươn lên 
+65,cần có khát_vọng  chiến_lược nhiều cánh_tay của đại_biểu tham_gia hội_thảo đã liên_tục đưa lên đề_nghị được đóng_góp ý_kiến và phát_biểu phản_biện với các chuyên_gia 
+66,bà dương thanh_thủy  chủ_tịch hội_đồng_quản_trị tập_đoàn trung_thủy  phát_biểu phải làm cho thành_phố an_ninh  an_toàn  vệ_sinh  để trở_thành thành_phố đáng sống  thu_hút du_khách nước_ngoài và và các nhà_đầu_tư 
+67,theo luật_sư trương_trọng_nghĩa  làm_sao để tphcm phải là nơi đáng sống theo hướng tiện  phải đảm_bảo nhu_cầu tối_thiểu  vệ_sinh  điện nước nhưng quan_trọng hơn hết phải làm thành_phố an_toàn  tử_tế  trật_tự  sạch xanh  đối_xử với nhau văn_minh  điều này không dễ_dàng 
+68,cái yếu của tphcm là công_tác tổ_chức thực_hiện bị rơi vào tình_trạng đánh_trống bỏ dùi  trống_đánh_xuôi kèn thổi ngược và đầu voi đuôi chuột 
+69, khi nghe lãnh_đạo chia_sẻ  người dân cảm_thấy tin_tưởng và hy_vọng nhưng khi tiếp_xúc với bên dưới thì họ lại gặp những vấn_đề khó_khăn  cản_trở    ông nghĩa nói 
+70,đại_biểu nguyễn_hữu_thọ  chủ_tịch hiệp_hội du_lịch vn  cho rằng thành_phố vẫn chưa có tầm nhìn dài  sự liên_kết trong quan_hệ chính_quyền  người dân còn chưa thật_sự ấn_tượng và thành_phố cần có khát_vọng  chiến_lược 
+71,thời_gian hội_thảo đã kết_thúc mà_còn nhiều ý_kiến  cánh_tay đưa lên nhưng chưa có cơ_hội trình_bày 
+72,không phụ lòng tin của dân phát_biểu kết_luận hội_thảo  chủ_tịch ubnd tphcm nguyễn_thành_phong cảm_ơn các nhà_khoa_học  nhà quản_lý  nhà đàu tư  doanh_nghiệp đã tham_gia  đóng_góp ý_kiến  trình_bày các trăn_trở  tìm ra giải_pháp phát_triển cho tphcm tại hội_thảo  tphcm  khát_vọng vươn lên  do báo tuổi_trẻ tổ_chức 
+73,mong rằng thời_gian tới  thành_phố sẽ tiếp túc_nhận được các ý_kiến hiến_kế  cùng chung sức cho sự_nghiệp phát_triển kinh_tế cho thành_phố theo hướng bền_vững hiện_đại 
+74, sau hội_thảo này  xin đề_nghị báo tuổi_trẻ có nhũng đúc_kết giải_pháp gửi ubnd tphcm  các sở ngành  đơn_vị liên_quan nghiên_cứu  tổ_chức đánh_giá hiệu_quả lề_lối làm_việc  qua đó rút kinh_nghiệm để chủ_động triển_khai các công_tác tốt hơn  hiệu_quả hơn  
+75, hôm_nay tôi nhận được hơn 9500 ý_kiến đóng_góp thể_hiện tấm lòng của người dân vì sự phát_triển của thành_phố  mong_muốn thành_phố tạo ra những chuyển_động bứt_phá hơn trong tương_lai  đồng_thời gửi gấm niềm tin của người_dân với những lãnh_đạo thành_phố 
+76,chúng_tôi sẽ không ngừng nỗ_lực cố_gắng  không phụ lòng tin của người dân đối_với sự phát_triển của thành_phố trong tương_lai   chủ_tịch ubnd tphcm nguyễn_thành_phong cam_kết 
+77,tiếp_thu ý_kiến của chủ_tịch nguyễn_thành_phong  tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong đề_nghị những ý_kiến chưa được thể_hiện trong hội_thảo sẽ tiếp_tục gửi đến báo tuổi_trẻ  tiếp_tục tiếp_thu  chắt_lọc để chuyển_giao cho thành_phố trong thời_gian tới 
+78,ông diệp_dũng chủ_tịch hđqt_saigon_coop  phải có tư_duy lãnh_đạo doanh_nghiệp thành_phố đáng sống là nơi mà các doanh_nghiệp khi cần sự hỗ_trợ thì ngay_lập_tức doanh_nghiệp sẽ được sở  ngành  đơn_vị liên_quan hỗ_trợ hết_mình 
+79,phải làm_sao để cán_bộ lãnh_đạo ở thành_phố phải có tư_duy của lãnh_đạo doanh_nghiệp 
+80,khi đó chính_quyền vừa hỗ_trợ doanh_nghiệp vừa sử_dụng và phân_bổ nguồn_lực hiệu_quả  từ đây hiệu_quả sẽ xuất_hiện đầy_đủ cho một thành_phố đáng sống 
+81,ông phạm_phú_quốc  tổng_giám_đốc công_ty đầu_tư tài_chính nhà_nước tphcm  hfic   cần nhiều giải_pháp huy_động vốn phát_triển

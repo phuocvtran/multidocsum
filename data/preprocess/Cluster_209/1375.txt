@@ -1,0 +1,17 @@
+idx, sentence
+0,các doanh_nghiệp thuộc 7 ngành hàng_tiêu_dùng ở 18 tỉnh / thành_phố trên toàn_quốc tới đây sẽ được hỗ_trợ về vốn  phân_phối  đẩy_mạnh tiêu_thụ hàng việt tại các hệ_thống siêu_thị 
+1,đây là một trong những điểm đáng chú_ý được đưa ra tại lễ ký_kết_hợp_tác đợt 1 của tập_đoàn vingroup với gần 250 doanh_nghiệp việt_nam tham_gia chương_trình “ đồng_hành  hỗ_trợ và thúc_đẩy sản_xuất nội_địa ” 
+2,các doanh_nghiệp ký_kết với tập_đoàn vingroup thuộc 7 ngành hàng_tiêu_dùng cơ_bản là thực_phẩm  hóa mỹ_phẩm  văn_phòng_phẩm  đồ_chơi  hàng gia_dụng  hàng thực_phẩm tươi_sống  thời_trang và bông vải_sợi ở 18 tỉnh / thành_phố trên toàn_quốc 
+3,theo thỏa_thuận được ký_kết với gần 250 doanh_nghiệp  tập_đoàn vingroup và các công_ty thành_viên sẽ triển_khai các gói giải_pháp tổng_thể bao_gồm  ưu_đãi về phân_phối  tăng_cường hiện_diện thương_hiệu của doanh_nghiệp trong hệ_sinh_thái hàng_hóa  dịch_vụ của vingroup  tư_vấn công_nghệ  quản_trị và kiểm_soát chất_lượng  marketing  tiêu_thụ hàng_hóa  tham_gia góp vốn nâng cao hiệu_quả sản_xuất 
+4,trong số này  hơn 140 doanh_nghiệp đã ký_kết_hợp_tác về phân_phối  theo đó trong vòng một năm  từ 1/6/2016 đến 1/6/2017 các doanh_nghiệp trên sẽ được hỗ_trợ đưa hàng vào hệ_thống siêu_thị vinmart của vingroup với các điều_kiện ưu_đãi hợp_lý 
+5,ông lê_khắc_hiệp  phó chủ_tịch hđqt tập_đoàn vingroup cho biết  mục_tiêu của chương_trình nhằm thúc_đẩy sản_xuất trong nước  góp_phần tạo nguồn thực_phẩm sạch và hàng_tiêu_dùng có chất_lượng  đồng_thời xây_dựng các thương_hiệu quốc_gia  tiến tới là các thương_hiệu đẳng_cấp quốc_tế 
+6,một trong điểm đáng chú_ý là riêng các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu bằng 0  
+7,toàn_bộ phần chiết_khấu sẽ được hoàn_trả 100  về nhà cung_cấp  với mục_đích tạo thêm nguồn kinh_phí để doanh_nghiệp tái_đầu_tư 
+8,ông la_quan_ba  phó_tổng_giám_đốc công_ty ctc chuyên sản_xuất chế_biến thủy_hải_sản và gia_súc gia_cầm có trụ_sở tại cần_thơ cho rằng  “ việc ký_kết giữa vingroup và các doanh_nghiệp là một việc_làm hết_sức cần_thiết  tạo điều_kiện cho các doanh_nghiệp việt_nam  đặc_biệt là doanh_nghiệp nhỏ và vừa đưa được hàng vào siêu_thị 
+9,với việc không tính chiết_khấu hoa_hồng thì giúp doanh_nghiệp đảm_bảo lợi_nhuận để hoạt_động 
+10,tôi nghĩ đây là việc_làm hết_sức có ý_nghĩa 
+11,hiện_nay mới cam_kết trong 1 năm 
+12,nếu mà kéo_dài thêm thì rất tốt cho doanh_nghiệp  ” việt_nam đã gia_nhập cộng_đồng kinh_tế asean  hàng_hóa của các nước trong khu_vực đang phủ đầy kênh siêu_thị lớn tại hà_nội  tp hcm và nhiều tỉnh_thành trong cả nước 
+13,trong khi đó  các doanh_nghiệp việt_nam gặp nhiều khó_khăn từ chi_phí đầu vào tăng cao  tiêu_thụ sản_phẩm khó_khăn 
+14,nhiều hệ_thống siêu_thị ngoại đòi tăng mức chiết_khấu hoa_hồng khiến doanh_nghiệp việt càng khó đưa hàng vào hệ_thống phân_phối 
+15,do_đó  theo bà vũ_kim_hạnh  chủ_tịch hội doanh_nghiệp hàng việt_nam chất_lượng cao  trong bối_cảnh này  liên_kết giữa các doanh_nghiệp nội trong việc củng_cố  mở_rộng hệ_thống bán_lẻ của người việt và ưu_tiên cho hàng việt là rất quan_trọng 

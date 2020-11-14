@@ -1,0 +1,14 @@
+idx, sentence
+0,buổi đối_thoại được tổ_chức sau khi người dân bức_xúc chặn không cho xe vận_chuyển rác vào khu xử_lý 
+1,tại buổi đối_thoại  người dân 3 xã nam_sơn  bắc_sơn  hồng_kỳ  huyện sóc_sơn  đã đưa ra hàng_loạt kiến_nghị và đặt câu hỏi với chủ_tịch ubnd thành_phố  trong đó tập_trung kiến_nghị về nâng mức tiền hỗ_trợ về ảnh_hưởng môi_trường cho người dân  xây_dựng trạm quan_trắc theo_dõi ô_nhiễm không_khí  nguồn nước 
+2,đồng_thời  kiến_nghị làm dự_án cấp nước_sạch cho người dân 
+3,đáp lại ý_kiến của người dân  ông chung chỉ_đạo ubnd huyện sóc_sơn triển_khai ngay dự_án di_dời người dân trong khu_vực ô_nhiễm ở phạm_vi 500 m 
+4,“ thành_phố sẽ bố_trí đủ ngân_sách  vì_vậy huyện phải làm ngay dự_án  làm hạ_tầng đến đâu thì thực_hiện di_chuyển người dân tới đó ”  ông chung chỉ_đạo 
+5,ông chung cũng cam_kết  ngay sau buổi đối_thoại sẽ chỉ_đạo các ngành nghiên_cứu nâng mức hỗ_trợ cho người dân trong vùng chịu ảnh_hưởng ô_nhiễm 
+6,tuy_nhiên  việc nâng mức hỗ_trợ thuộc thẩm_quyền của hđnd thành_phố  vì_vậy  mức hỗ_trợ được nâng lên ra sao  ông chung cam_kết sẽ trả_lời người dân sớm nhất 
+7,về kiến_nghị được hưởng bảo_hiểm y_tế ở mức cao nhất  ông chung giao nhiệm_vụ cho chủ_tịch ubnd huyện sóc_sơn triển_khai cấp thẻ bảo_hiểm y_tế cho tất_cả người dân trong vùng ảnh_hưởng 
+8,thời_gian thực_hiện ngay từ ngày thứ 2  305  tới 
+9,trước kiến_nghị của người_dân về việc cấp nước_sạch  ông chung giao sở xây_dựng nghiên_cứu thực_hiện dự_án  tiến_hành lắp_đặt đường_ống đến những hộ dân chưa được cung_cấp nước_sạch 
+10,tại buổi đối_thoại  ông chung cũng thừa_nhận  có tình_trạng xe vận_chuyển rác_thải không phải xe chuyên_chở dẫn đến tình_trạng ô_nhiễm trong quá_trình vận_chuyển 
+11,trước người dân  ông chung cam_kết thành_phố sẽ đầu_tư  đến năm 2017 sẽ thay_đổi toàn_bộ xe chuyên_chở rác theo hướng chuyên_dụng 
+12,kết_thúc buổi đối_thoại  ông chung cam_kết với những nội_dung kiến_nghị thuộc thẩm_quyền của thường_trực hđnd tp  ông sẽ trả_lời trực_tiếp người dân trong vòng 1 tuần tới 

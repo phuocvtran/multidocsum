@@ -1,0 +1,26 @@
+idx, sentence
+0,chiều ngày 8/8  công_an tỉnh hà_nam đã tổ_chức cuộc họp_báo và trao thưởng cho các cá_nhân  tập_thể trong việc khám_phá vụ án bắn chết ông lê_hữu_trí  giám_đốc một doanh_nghiệp trên địa_bàn tỉnh hà_nam vào chiều ngày 4/7 
+1,tại buổi họp_báo  thiếu_tướng hồ_sỹ_tiến  cục_trưởng cục cảnh_sát điều_tra tội_phạm về trật_tự xã_hội  c45  đã báo_cáo tóm_tắt về vụ án gây rúng_động ở hà_nam vừa_qua 
+2,theo đó  vào 15 h18 ngày 4/7  tại thôn bảo_lộc 1  phường thanh_châu  thành_phố phủ_lý xảy ra vụ giết người 
+3,nạn_nhân là ông lê_hữu_trí  sn 1975  trú tại thôn bảo_lộc 1  phường thanh_châu  thành_phố phủ_lý  
+4,sau khi vào miếu bảo_lộc 1 thắp hương  trên đường đi ra thì ông trí bị 2 đối_tượng đi xe_máy  mặc áo chống nắng  sử_dụng súng bắn từ 4 đến 5 phát khiến ông trí gục ngã  sau đó các đối_tượng lên xe_máy bỏ chạy 
+5,nạn_nhân được đưa ngay đi bệnh_viện cấp_cứu  nhưng do vết_thương quá nặng  đến 17 h50 ’ cùng ngày ông trí đã tử_vong 
+6,ngay sau khi vụ_án xảy ra  công_an tỉnh hà_nam đã tổ_chức khám_nghiệm hiện_trường  lấy lời khai các nhân_chứng và đang tập_trung điều_tra truy_xét  bắt_giữ các đối_tượng gây_án 
+7,do tính_chất nghiêm_trọng của sự_việc  làm ảnh_hưởng đến tình hinh an_ninh trật_tự của tinh_hà_nam  thủ_tướng chính_phủ nguyễn_xuân_phúc đã chỉ_đạo bộ công_an  công_an tỉnh hà_nam tập_trung cao_độ để phá vụ_án này 
+8,thực_hiện chỉ_đạo của thủ_tướng chính_phủ  bộ_trưởng bộ công_an đã chỉ_đạo tổng_cục cảnh_sát  công_an tỉnh hà_nam thành_lập ban chuyên_án  tổng_cục cảnh_sát thành_lập ban chỉ_đạo điều_tra chuyên_án và giao cho c45 chủ_trì phối_hợp với các đơn_vị sự_nghiệp tập_trung đấu_tranh 
+9,theo thiếu_tướng hồ_sỹ_tiến  đến thời_điểm này  ban chuyên_án đã bắt tất_cả các đối_tượng liên_quan đến sự_việc trên 
+10,vào chiều ngày 7/8  ban chuyên_án đã thu_giữ được các tang_vật vụ_án  sau hơn 1 tháng vào_cuộc  sáng ngày 6/8  ban chỉ_đạo chuyên_án đã quyết_định phá_án  tiến_hành bắt  khám_xét đồng_loạt 3 đối_tượng về hành_vi giết người 
+11,các đối_tượng gồm  nguyễn_sỹ_đạt  sn 1970  trú tại tổ_dân_phố bảo_lộc 1  phương thanh_châu  thành_phố phủ_lý  hà_nam  – có 1 tiền_án vè tội chiếm_đoạt tài_sản  lê_thái_duy  sn 1988  trú tại tổ 26  phường kim_tân  thành_phố lào_cai   lê_việt_hoàn  sn 1981  trú thôn câu_nhân  xã mỹ_thuận  huyện mỹ_lộc  tỉnh nam_định  – có 1 tiền_án về tội cướp_giật tài_sản 
+12,tại cơ_quan công_an  các đối_tượng đã nhận tội và khai  do mâu_thuẫn cá_nhân giữa nguyễn_sỹ_đạt và lê_hữu_trí từ trước  đạt đã lên kế_hoạch và thuê lê_việt_hoàn_giết ông trí với giá 500 triệu đồng 
+13,đạt đã chuẩn_bị súng k54 trước cho hoàn vào khu_vực ba_sao  huyện kim_bảng để hướng_dẫn và tập bắn trước 
+14,tại đây  hoàn đã ngắm và bắn thử vào cây 2 phát 
+15,do đã nắm được thói_quen hay đi lễ chùa của ông trí vào ngày 1 và rằm hàng tháng  nên đạt đã trao_đổi và thống_nhất với hoàn sẽ bắn ông trí khi lễ tại miếu_thần – thôn bảo_lộc 1  phường thanh_châu  thành_phố phủ_lý 
+16,theo kế_hoạch  ngày 19/6  rằm tháng 5 âm_lịch   hoan cùng duy mang theo súng đến khu_vực miếu_thần chờ ông trí để bắn giết ông trí 
+17,tuy_nhiên  không hiểu vì lý_do gì ông trí lại không đến  nên sự_việc bất_thành 
+18,đến ngày 4/7  1/6 âm_lịch   hoàn và duy mượn một chiếc xe_máy wave màu đỏ bks 90b1 – 73591  mặc áo chống nắng và để súng vào trong cốp chờ hiệu_lệnh của đạt để bắn ông trí 
+19,đúng lúc ông trí vừa ra khỏi nơi lễ thì hoàn rút súng bắn hết 1 băng_đạn 6 viên làm ông trí gục tại_chỗ 
+20,sau đó  hoàn_kẹp súng vào bụng chạy đến chỗ duy chờ sẵn lên xe tẩu_thoát 
+21,trên đường tẩu_thoát  hoàn điện cho đạt thông_báo đã bắn chết ông trí 
+22,cũng trong dịp này  bộ công_an  ubnd tỉnh hà_nam đã khen_thưởng cho các cá_nhân  tập_thể có thành_tích xuất_sắc trong việc phá_án 
+23,phát_biểu tại buổi lễ  ông nguyễn_đình_khang  bí_thư tỉnh_ủy tỉnh hà_nam cho_biết   các lực_lượng trong ban chuyên_án đã không quản khó_khăn  vất_vả để phá vụ_án này  đảm_bảo niềm tin với nhân_dân  với lực_lượng công_an 
+24,tôi mong ban chuyên_án sớm hoàn_tất hồ_sơ  để xử_lý các đối tượn theo đúng quy_định của pháp_luật  

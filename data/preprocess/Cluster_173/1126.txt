@@ -1,0 +1,19 @@
+idx, sentence
+0,ubnd tỉnh lào_cai vừa có quyết_định phê_duyệt quy_hoạch chi_tiết công_viên văn_hóa sa_pa nhằm phát_triển bền_vững  tạo không_gian  cảnh_quan  môi_trường đô_thị và phục_vụ nhu_cầu của du_khách để đô_thị du_lịch sa_pa trở_thành một điểm du_lịch hấp_dẫn  tương_xứng với tiềm_năng và những lợi_thế cạnh_tranh đang có 
+1,công_viên văn_hóa sa_pa rộng 118 ha  nằm trong tổng_thể quy_hoạch chung đô_thị du_lịch sa_pa  thuộc_địa_giới hành_chính_thị_trấn sa_pa và xã san_sả_hồ 
+2,công_viên văn_hóa sa_pa bao_gồm các khu chức_năng chính  khu vui_chơi giải_trí theo mô_hình disneyland kết_hợp du_lịch sinh_thái ngoài_trời  khu nghỉ_dưỡng đẳng_cấp quốc_tế  khách_sạn 56 sao  khu spa cao_cấp  khu dịch_vụ thể_thao   
+3,kèm theo đó là tuyến tàu_hỏa leo núi  khu_vực bảo_tồn bản_sắc văn_hóa dân_tộc  khu_vực công_viên nhân_tạo  công_viên tự_nhiên … 
+4,tạo thành điểm đến hấp_dẫn cho du_khách đến với sa_pa 
+5,điểm đến này sẽ tạo nên đột_phá trong phát_triển du_lịch và đô_thị sa_pa  với mục_tiêu trong tương_lai sẽ phát_triển trở_thành điểm đến du_lịch tích_hợp  đem lại trải_nghiệm nghỉ_ngơi thư_giãn  gần_gũi thiên_nhiên  sang_trọng  tiện_nghi và là khu vui_chơi ngắm cảnh cho du_khách đến sa_pa 
+6,trước đó  hồi cuối năm 2015  tại một hội_nghị quảng_bá xúc_tiến đầu_tư du_lịch tây_bắc  tập_đoàn sun_group đã ký_kết chương_trình hợp_tác đầu_tư vào tỉnh lào_cai trong giai_đoạn 2016  2020 với những dự_án rất lớn 
+7,cụ_thể như phát_triển hạ_tầng khu du_lịch cáp_treo sa_pa với các loại_hình khách_sạn bị gặp rất nhiều phản_đối 
+8,ông nguyễn_văn_mỹ  chủ_tịch hđqt công_ty dã_ngoại lửa việt  một doanh_nghiệp du_lịch tên_tuổi khẳng_định  ông không_thể tin được và có_thể nói là bị sốc thật_sự  phải dùng từ là “ choáng_váng ” 
+9,dự_án không chỉ có cáp_treo mà_còn cả một khu liên_hợp gồm có sân golf 18 lỗ  các resort cao_cấp và nhiều khu vui_chơi giải_trí khác 
+10,dự_án này được triển_khai ngay tại núi fansipan là ngọn núi cao nhất đông_dương  và nằm ngay tại vườn_quốc_gia hoàng_liên 
+11,ông chủ lửa việt khẳng_định   không một nước nào lại triển_khai một dự_án du_lịch tầm_cỡ trong vườn_quốc_gia như vậy 
+12,một dự_án cáp_treo có công_suất tới 2000 khách / h  một ngày tới 20000 khách  trong khi trên đỉnh fansipan chỉ chứa 1000 người đã là quá_tải 
+13,vì_vậy  để đáp_ứng công_suất này  đương_nhiên sẽ phải phá rừng  bạt đất lấy mặt_bằng 
+14,ngoài_ra  để đảm_bảo cho tuyến cáp dài tới 7 km với các trụ đỡ khổng_lồ  nằm giữa rừng nguyên_sinh  người_ta không_thể phá rừng xây trụ  
+15,cùng quan_điểm  ts nguyễn_văn_vịnh  nguyên phó_viện_trưởng viện nghiên_cứu kinh_tế xã_hội và phát_triển  đh hà_nội  cho rằng  không xây cáp_treo và cũng không nên xây chùa  dựng tượng phật trên đỉnh núi fansipan  dù chỉ ở độ cao 2800 m  
+16,việt_nam là quốc_gia đa_văn_hóa vì_vậy  càng không nên gắn fansipan chỉ với biểu_tượng của phật_giáo 
+17,từ khi có tin dự_án cáp_treo lên fansipan được triển_khai  trên mạng xã đã xuất_hiện những lời kêu_gọi phản_đối dự_án này 

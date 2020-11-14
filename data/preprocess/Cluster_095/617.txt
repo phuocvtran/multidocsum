@@ -1,0 +1,5 @@
+idx, sentence
+0,22 h ngày 21/5  trên quốc_lộ 1a thuộc địa_phận xã yên_mỹ  huyện lạng_giang  cảnh_sát giao_thông công_an tỉnh bắc_giang kiểm_tra ôtô bán tải đi hướng hà_nội  lạng_sơn do nguyễn_quang_huy  27 tuổi  trú tỉnh lạng_sơn  cầm lái 
+1,tổ công_tác yêu_cầu mở khoang chở hàng để kiểm_tra nhưng lái_xe trình_bày không có chìa_khoá nên được yêu_cầu đưa phương_tiện về trụ_sở để làm_việc 
+2,dọc đường đi  lái_xe gợi_ý đưa tổ công_tác 500 triệu đồng để bỏ_qua song đã bị nhắc_nhở 
+3,với sự có_mặt của phòng cảnh_sát kinh_tế và vksnd tỉnh  nhà_chức_trách mở khoang hàng đã phát_hiện 17 bao_tải chứa gần 110 đoạn ngà_voi có tổng trọng_lượng 5535 kg  ước_lượng số ngà của 20 con_voi trở lên  

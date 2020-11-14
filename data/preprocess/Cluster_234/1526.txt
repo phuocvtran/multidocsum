@@ -1,0 +1,25 @@
+idx, sentence
+0,liên_quan đến vụ nổ xe_khách khánh_đơn trên đường chạy từ lào về nghệ_an vào sáng 2/6  trạm biên_phòng cửa_khẩu cha_lo  quảng_bình  cho biết  hiện trạm đã cử cán_bộ trực_tiếp đến hiện_trường phối_hợp_lực_lượng chức_năng để xử_lý và điều_tra nguyên_nhân vụ_việc 
+1,theo ông nguyễn_ngọc_tú  trạm_trưởng trạm biên_phòng cửa_khẩu cha_lo  vụ tai_nạn xảy ra vào khoảng 5 h sáng tại đất_nước lào  cách cửa_khẩu natàu hơn 8 km 
+2, xe_khách này chạy tuyến thàkhẹc  vinh  chở 13 người và bị gặp nạn trên đường đi về tp_vinh  nghệ_an  
+3,vụ tai_nạn đã làm 8 người chết tại_chỗ  chủ_yếu là người ở nghệ_an và 4 người khác bị_thương  đã chở 3 người về tp vinh để cấp_cứu 
+4,theo các hành_khách đi về thì họ nói tại hiện_trường có xác_pháo chứ chúng_tôi chưa vào đó nên chưa xác_minh được 
+5,chiếc xe đang lên đèo thì gặp nạn chứ không đâm vào xe nào khác   ông tú nói 
+6,ông tú cũng cho biết thêm  danh_tính ban_đầu của các nạn_nhân được xác_định gồm  phạm_đình_tú  sn 1982   hoàng_thế_chiến  sn 1988  
+7,cả 2 người này đều bị_thương nặng  trong đó có 1 người quê ở xã đô_thành  yên_thành  
+8,danh_tính 6 người tử_vong gồm  nguyễn_bá_lợi  sn 1971   nguyễn_kế_hải  sn 1973   nguyễn_thế_hậu  sn 1970  nạn_nhân_hậu và hải là 2 anh_em ruột  
+9,cả 3 nạn_nhân này cùng trú xóm 3  xã nghi_kiều  nghi_lộc  nghệ_an 
+10,ngoài_ra  3 nạn_nhân_tử_vong khác đều trú tại xã nghĩa_lộc  nghĩa_đàn  nghệ_an  gồm  cao_văn_hoạt  dương_ngọc_thạch  trần_thế_dũng  sn 1972  
+11,2 nạn_nhân còn lại hiện chưa xác_định được danh_tính 
+12,riêng tài_xế và phụ xe không bị_thương nhưng hiện đang ở tại hiện_trường để phối_hợp với cơ_quan_chức_năng điều_tra vụ_việc 
+13,trong khi đó  trao_đổi với báo_chí  ông võ_minh_đức  chánh_văn_phòng ban an_toàn giao_thông tỉnh nghệ_an cũng cho biết đang cử các đơn_vị xác_minh từ phía nhà xe khánh_đơn 
+14,13 h chiều 2/6  pv đã trực_tiếp về địa_chỉ nhà xe khách khánh_đơn đóng tại xóm 1  xã nghi_diên  huyện nghi_lộc  nghệ_an  
+15,dù có người ở trong nhà nhưng chủ nhà khoá kín cổng  không tiếp_xúc với người lạ 
+16,được biết  chủ xe_khách là vợ_chồng ông nguyễn_đức_thu  sn 1953  và bà nguyễn_thị_đơn  sn 1968  cùng con rể tên là khánh 
+17,qua điện_thoại  ông nguyễn_đức_thu  chủ nhà xe khánh_đơn xác_nhận  xe_khách gặp nạn tại lào vào sáng sớm nay là xe của nhà mình 
+18,đây là loại xe 35 chỗ 
+19,ông thu cho biết thêm  từ khi nghe tin xe gặp nạn  nhiều người có người_thân đi trên chiếc xe liên_tục gọi điện hỏi thông_tin danh_tính người chết  bị_thương 
+20,tuy_nhiên  ông đang liên_lạc với cơ_quan_chức_năng để xác_minh cụ_thể 
+21,trước đó như đã đưa tin  khoảng 5 h sáng 2/6 khi xe_khách của nhà_xe khánh_đơn  địa_chỉ tại xã nghi_diên  nghi_lộc  nghệ_an  mang bks lào  un  3897 chạy đến địa_phận huyện bualapha  tỉnh khăm_muộn  lào  bất_ngờ nổ tung 
+22,vụ tai_nạn khiến 8 hành_khách đi trên xe tử_vong tại_chỗ  3 người khác được đưa đi cấp_cứu trong tình_trạng nguy_kịch 
+23,hiện  nguyên_nhân vụ tai_nạn đang được cơ_quan_chức_năng điều_tra làm rõ 

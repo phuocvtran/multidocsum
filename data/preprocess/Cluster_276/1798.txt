@@ -1,0 +1,16 @@
+idx, sentence
+0,forbes cho biết  tài_sản của holmes được đánh_giá dựa trên 50  cổ_phần của cô tại theranos  công_ty chuyên xét_nghiệm máu mà cô sáng_lập vào năm 2003 với kế_hoạch tạo nên cuộc cách_mạng trong lĩnh_vực xét_nghiệm y_học 
+1,cổ_phiếu của theranos chưa được niêm_yết  các nhà_đầu_tư cá_nhân đã mua cổ_phiếu này vào năm 2014  giúp giá_trị của công_ty được định_mức ở 9 tỷ usd 
+2,từ đó cho tới nay  theranos đang gặp “ rắc_rối ” với các vụ điều_tra liên_quan tới tính chính_xác của các xét_nghiệm do công_ty thực_hiện 
+3,việc này  cộng với việc có thông_tin rằng doanh_thu của theranos hàng năm ít hơn 100 triệu usd  khiến forbes buộc phải hạ mức định_giá tài_sản của elizabeth_holmes xuống 
+4,forbes đã trao_đổi với các nhà_đầu_tư vốn  chiến_lược gia  các chuyên_gia_thuộc lĩnh_vực định_giá và đưa ra kết_luận rằng  theranos hiện có giá_trị 800 triệu usd  thay_vì 9 tỷ usd như trước đấy 
+5,điều này khiến lượng cổ_phiếu mà holmes nắm giữ tại công_ty hầu_như không đáng_giá  bởi các nhà_đầu_tư cá_nhân nắm giữ cổ_phiếu của theranos sẽ được ưu_tiên trả trước trong trường_hợp công_ty gặp trục_trặc  thay_vì cổ_phiếu thông_thường của holmes 
+6,dưới đây là các lý_do forbes hạ mức đánh_giá theranos và đưa tài_sản của holmes về con_số không 
+7,quá nhiều điều không được biết  ngoài việc theranos từng được định_giá ở mức 9 tỷ usd khi các nhà_đầu_tư cá_nhân mua cổ_phiếu  mọi điều về công_ty này đều bí_ẩn 
+8,theranos cho biết sẽ thay_thế những xét_nghiệm máu truyền_thống bằng một chiếc máy có_thể thực_hiện hàng tá xét_nghiệm với chỉ 1 giọt máu 
+9,tuy_nhiên  công_ty chưa giới_thiệu được dữ_liệu chứng_minh tính chính_xác của thiết_bị này 
+10,theranos không công_bố thông_tin  holmes từng hứa rằng sẽ công_bố số_liệu của công_ty trong vòng 6 tháng  nhưng đã không hề cung_cấp bất_kỳ thông_tin nào cho tới này 
+11,cô từng công_bố giấy_phép của cơ_quan quản_lý dược_phẩm và thực_phẩm để chứng_minh rằng thiết_bị của cô được phép hoạt_động 
+12,nhưng cơ_quan này vừa đưa ra_lệnh giới_hạn sử_dụng thiết_bị thử máu của theranos để điểu_tra 
+13,thị_trường mục_tiêu của theranos có_thể không tồn_tại  các chuyên_gia vẫn giữ thái_độ nghi_ngờ việc theranos có_thể trị_giá gần bằng các bậc đàn_anh trong ngành như laboratory_corp_of_america 
+14,theranos có lượng khách_hàng ít hơn và cần phải nhanh_chóng nâng cao lượng khách_hàng phục_vụ để thu được lợi_nhuận đáng_kể 

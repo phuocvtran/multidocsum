@@ -1,0 +1,8 @@
+idx, sentence
+0,thông_tin ban_đầu khoảng 6 g cùng ngày  chiếc xe bentley biển số 51a  50308 đang chạy trên đường nguyễn_văn_linh hướng về khu chế_xuất tân_thuận 
+1,khi đến giao_lộ nguyễn_văn_linh  nguyễn_đức_cảnh  tài_xế cho xe dừng đèn_đỏ thì bất_ngờ bị chiếc xe container húc từ đằng sau tới khiến chiếc xế hộp văng về phía trước hơn chục mét 
+2,rất may vụ tai_nạn không gây thiệt_hại về người 
+3,tuy_nhiên  phần đuôi xe bentley bị hư_hỏng nặng sau cú tông này 
+4,phần đầu xe container cũng bị vỡ nhiều bộ_phận  dầu_nhớt và nước xe chảy tràn ra đường 
+5,dấu thắng xe_lết của xe container kéo_dài nhiều mét trên mặt_đường 
+6,được biết  giá trung_bình một chiếc bentley mới được nhập về việt_nam không dưới 10 tỷ đồng 

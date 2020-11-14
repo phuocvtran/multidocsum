@@ -1,0 +1,14 @@
+idx, sentence
+0,t14 armata xuất_hiện lần đầu_tiên trong lễ duyệt_binh mừng chiến_thắng phát_xít tại moscow năm 2015 
+1,nhờ công_nghệ tàng_hình  cỗ máy chiến_tranh thực_sự trở_nên “ vô_hình ” trước hệ_thống dò_tìm hồng_ngoại và quang_phổ khác nhau 
+2,xe_tăng được trang_bị công_nghệ điện_tử chủ_động quét tìm mục_tiêu  aesa / apar  tương_tự hệ_thống trên siêu chiến_đấu cơ_t50_pak_fa thế_hệ 5 
+3,radar và camera không chỉ giúp xe_tăng chống kẻ_thù mà con thực_hiện hoạt_động trinh_sát cũng như điều_chỉnh hỏa_lực 
+4,t14 armata có nhiều loại vũ_khí hiện_đại  chẳng_hạn đại_bác giảm thanh_cỡ nòng 125 mm và súng_máy điều_khiển từ xa cỡ nòng 762 mm 
+5,trong tương_lai  đại_bác của chiến_xa sẽ nâng cỡ nòng lên đến 152 mm nhằm tăng hiệu_quả chiến_đấu 
+6,nhưng công_nghệ_armata không chỉ dừng lại ở t14 
+7,trong thời_gian này  nga đang dự_kiến phát tiển một loại xe_tăng yểm_trợ xe bộ_binh chiến_đấu có tên gọi terminator3 sử_dụng khung_gầm armata 
+8,ngoài_ra  hệ_thống pháo_tự_hành koalitsiyasv sẽ được nâng_cấp cho armata 
+9,tính_năng chính của xe_tăng armata là tháp pháo điều_khiển từ xa 
+10,tổ lái gồm 3 người ngồi trong buồng_lái bọc thắp đặt trước thân xe  thiết_kế này cho tạo khả_năng sống_sót cao cho binh_sĩ 
+11,buồng_lái bọc thép  tháp pháo tự_động  radar apar và hệ_thống vũ_khí phòng_thủ chủ_động giúp t14_armata trở_thành một chiến xe độc_đáo có khả_năng ngăn_chặn mọi loại vũ_khí chống tăng hiện_nay 
+12,tính_năng này giúp xe_tăng trở_nên bất bại trên chiến_trường 

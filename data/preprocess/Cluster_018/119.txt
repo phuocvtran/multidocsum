@@ -1,0 +1,9 @@
+idx, sentence
+0,đến sáng  chị nguyễn_thị_kim_loan  vợ anh em  lấy một nửa  làm sạch bỏ nội_tạng chế_biến món kho sả ớt cho 9 người trong gia_đình cùng ăn 
+1,chiều cùng ngày  chị lấy phần còn lại chế_biến món khổ qua xào  tuy_nhiên nội_tạng 4 con cóc to không bị loại_bỏ 
+2,thấy vậy  anh em lấy gan và bao_tử cho con_trai là cháu trần_nguyễn_hoài_nam  4 tuổi  ăn 
+3,đến 18 giờ 30  bé nam bị nôn nhiều  chân_tay lạnh  môi tím  tim đập chậm 
+4,anh_em đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị 
+5,đến 22 giờ 30 phút cùng ngày  bé tử_vong 
+6,sau đó 2 bé nguyễn_kim_hà và nguyễn_kim_yến cùng ăn buổi chiều được đưa vào bệnh_viện theo_dõi và điều_trị 
+7,hiện_tại  2 bé vẫn đang được theo_dõi tại bệnh_viện  sức_khỏe ổn_định 

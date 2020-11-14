@@ -1,0 +1,9 @@
+idx, sentence
+0,mới_đây  phòng cảnh_sát hình_sự  pc45  công_an tỉnh quảng_nam vừa bắt khẩn_cấp hai đối_tượng gồm  đặng_xuân_hoa_diễm  sn1985  và phạm_ngọc_tuấn  sn 1994   cùng trú tại tỉnh gia_lai  vì hành_vi bán vàng giả 
+1,được biết  hai đối_tượng này đều không có nghề_nghiệp  đi lang_thang khắp nơi để lừa_đảo 
+2,trước đó  trên địa_bàn tỉnh đã xuất_hiện nhiều vụ bán vàng giả cho các tiệm vàng 
+3,thủ_đoạn của bọn tội_phạm này là giả_vờ túng_thiếu nên bán vàng cưới để thực_hiện giao_dịch 
+4,theo lời khai của hai đối_tượng  trong khoảng thời_gian từ 9/4 đến 11/5  chúng đã kết_hợp với đồng_bọn để thực_hiện trót_lọt 8 vụ lừa_đảo chiếm_đoạt tài_sản bằng cách bán vàng giả 
+5,đến ngày 11/5  các đối_tượng bị bại_lộ khi chúng tiếp_tục thực_hiện hành_vi lừa_đảo tại tiệm vàng của anh phan_châu_trưởng  xã tam_hải  núi_thành  cũng với thủ_đoạn trên 
+6,tuy_nhiên  sau khi kiểm_tra và phát_hiện vàng giả  chủ tiệm đã nhanh_chóng báo cho cơ_quan công_an đến bắt_giữ 
+7,có_thể thấy dù đây là một thủ_đoạn lừa_đảo mới và hết_sức tinh_vi nhưng trước sự tấn_công quyết_liệt của pc45  các đối_tượng lừa_đảo đã sa lưới  góp_phần giữ vững an_ninh trật_tự tại địa_phương để người dân yên_tâm kinh_doanh 

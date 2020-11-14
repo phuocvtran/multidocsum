@@ -1,0 +1,10 @@
+idx, sentence
+0,sau trận thắng thuyết_phục trước syria  bóng_đá việt_nam tiếp_tục đón tin_vui khi đtvn tăng 12 bậc trên bxh_fifa 
+1,tháng trước  thầy_trò hlv hữu_thắng tiếp_tục tụt hạng trên bxh và đứng thứ 145 thế_giới với 228 điểm 
+2,trong tháng 5  đtvn chỉ có 1 trận giao_hữu gặp syria 
+3,chiến_thắng 20 trước đối_thủ đang đứng trên mình 30 bậc đã giúp đtvn tích_lũy thêm điểm để thăng_tiến trên bxh_fifa 
+4,cụ_thể  với 266 điểm đtvn nhảy_vọt tới 12 bậc để lên xếp_hạng 133 thế_giới 
+5,ở khu_vực đông_nam_á  hlv hữu_thắng và học_trò vẫn giữ nguyên vị_trí thứ 3 
+6,trong khi đó  thái_lan đã soán ngôi đầu khu_vực của philippines sau khi tăng 2 bậc lên 117 thế_giới  còn đối_thủ tụt hạng 5 bậc  đứng thứ 120 
+7,ở tốp đầu  arghentina vẫn giữ vững vị_trí số 1 thế_giới với 1503 điểm  hơn đt_bỉ phía dưới tới 119 điểm 
+8,chile tụt liền 2 bậc  xuống vị_trí thứ 5 để nhường chỗ cho colombia và đức lần_lượt xếp thứ 3 và 4 

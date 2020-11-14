@@ -1,0 +1,5 @@
+idx, sentence
+0,liên_quan đến vụ hiếp_dâm thiếu_nữ giữa ban_ngày ở kon_tum  sáng 23/5  công_an huyện đắk_hà cho hay đơn_vị này đã bắt trần_hữu_anh  sn 1986  đắk_la  đắk_hà  để điều_tra 
+1,trước đó  ngày 20/5  công_an huyện đắk_hà_nhận được trình_báo của chị ltt  sn 1998  đắk_la  về việc bản_thân bị hiếp_dâm tại địa_phương  tờ công_lý đưa tin 
+2,vào_cuộc điều_tra  công_an đã xác_định trần_hữu_anh là nghi can chính 
+3,đối_tượng này có nhiều đặc_điểm giống với khai_báo của chị t tại cơ_quan công_an  trần_hữu_anh đã thừa_nhận hành_vi hiếp_dâm chị t vào ngày 17/5  theo dân việt 

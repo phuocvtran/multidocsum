@@ -1,0 +1,9 @@
+idx, sentence
+0,ngân_hàng tmcp công_thương việt_nam  vietinbank  mã  ctg  vừa phát đi thông_báo thoái vốn tại ngân_hàng tmcp sài_gòn công_thương  saigonbank  trong quý ii / 2016 
+1,cụ_thể  vietinbank đăng_ký bán đấu_giá gần 17 triệu cổ_phần  chiếm 548  vốn cổ_phần có quyền biểu_quyết saigonbank để giảm sở_hữu xuống 151 triệu cổ_phần  tương_ứng với 491  vốn 
+2,thời_gian dự_kiến thực_hiện là quý ii / 2016 
+3,giá khởi_điểm là 10800 đồng / cổ_phiếu 
+4,theo yêu_cầu của ủy_ban chứng_khoán nhà_nước  ubcknn  về việc hồ_sơ công_bố thông_tin thoái vốn của vietinbank tại saigonbank  việc thoái vốn trên là để đảm_bảo tuân_thủ quy_định của ngân_hàng nhà_nước việt_nam về việc quy_định các giới_hạn  tỷ_lệ bảo_đảm an_toàn trong hoạt_động của tổ_chức tín_dụng  chi_nhánh ngân_hàng nước_ngoài 
+5,theo yêu_cầu này  ngân_hàng thương_mại chỉ được mua  nắm giữ cổ_phiếu của một tổ_chức tín_dụng  tctd  khác dưới 5  vốn cổ_phần có quyền biểu_quyết của tctd đó 
+6,vậy_nên  vietinbank thực_hiện thoái vốn tại saigonbank từ 1039  xuống 491  vốn cổ_phần có quyền biểu_quyết của saigonbank thông_qua hình_thức bán đấu_giá công_khai 
+7,phương_thức chào bán sẽ bán đấu_giá công_khai qua công_ty cổ_phần chứng_khoán ngân_hàng công_thương việt_nam 

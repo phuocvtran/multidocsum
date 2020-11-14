@@ -1,0 +1,11 @@
+idx, sentence
+0,copa america_centenario 2016 là một cột mốc có ý_nghĩa vô_cùng quan_trọng với các đội bóng nam_mỹ bởi đây là sự_kiện đặc_biệt được tổ_chức để kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ 
+1,lần đầu_tiên giải được tổ_chức ở một quốc_gia ngoài nam_mỹ 
+2,các đội bóng hàng_đầu châu_lục sẽ tranh tài trong các trận đấu diễn ra tại 10 thành_phố lớn nhất nước mỹ 
+3,khác với các kỳ copa_america trước đây  tại copa_america_centenario 2016 lần đầu_tiên giải đấu có sự tham_dự của 16 đội bóng  10 đội nam_mỹ và 6 đội thuộc khu_vực concacaf   với 4 bảng đấu  mỗi bảng sẽ lấy 2 đội nhất nhì lọt vào vòng tứ_kết 
+4,điều này cũng khiến giải đấu hứa_hẹn tính cạnh_tranh hấp_dẫn hơn với cuộc đối_đầu nảy_lửa giữa những tên_tuổi lớn nhất trong làng bóng_đá châu_lục và thế_giới  những ngôi_sao sân_cỏ hàng_đầu 
+5,copa america_centenario 2016 ấn_tượng với nhiều mới_mẻ và khác_biệt 
+6,vtvcab tường_thuật trực_tiếp toàn_bộ 32 trận đấu  các chương_trình tổng_hợp trên hệ_thống_kênh thể_thao tv  bóng_đá tv  thể_thao tv_hd  bóng_đá tv_hd  thể_thao tin_tức hd 
+7,vtvcab cũng đầu_tư_sản_xuất các chương_trình đồng_hành  gương_mặt copa và hành_trình copa 
+8,gương_mặt copa giới_thiệu các đội_tuyển tiêu_biểu và các cầu_thủ xuất_sắc nhất của các đội_tuyển quốc_gia  những ngôi_sao tài_năng trên sàn_diễn copa_america 
+9,sự xuất_hiện và tỏa sáng của các cầu_thủ hàng_đầu thể giới cũng là một trong những điều được chờ_đợi nhất từ giải đấu lớn này 

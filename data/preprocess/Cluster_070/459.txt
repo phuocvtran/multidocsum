@@ -1,0 +1,7 @@
+idx, sentence
+0,trước đó  từ sáng nay  hội cổ_động_viên than quảng_ninh đã mang ghế nhựa  loa thùng đến xếp_hàng ngay_ngắn bên ngoài sân cẩm_phả  dự_định sẽ cổ_vũ cho đội nhà bên ngoài trời 
+1,các cổ_động_viên cũng in dòng chữ trên áo  vleague_silent   tạm dịch  vleague im_lặng   mang khẩu_trang kín_mít 
+2,đến 17 giờ 30 phút chiều nay  không còn cảnh cổ_động_viên xếp ghế bên ngoài sân_vận_động  tất_cả đã di_chuyển vào trong sân  tất_cả ghế và loa cũng được dọn_dẹp 
+3,tuy_nhiên  khán_đài b  nơi thông_thường vẫn được phủ_xanh bởi hàng ngàn cổ_động_viên đội nhà hôm_nay bỗng trống_trơn  chỉ còn một tấm pano rất lớn 
+4,số cổ_động_viên mang áo xanh truyền_thống của than quảng_ninh ngồi các khán_đài còn lại của sân cẩm_phả  đồng_thời đeo khẩu_trang đồng_loạt 
+5,đây được xem như một động_thái của hội cổ_động_viên đất mỏ phản_đối lại quyết_định của công_ty cổ_phần bóng_đá việt_nam vpf  đơn_vị tổ_chức vleague  khi mới_đây công_ty này đã ra quyết_định yêu_cầu các hội cổ_động_viên không được dùng loa điện  loa công_suất lớn trên khán_đài khi trận đấu diễn ra 

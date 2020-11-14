@@ -1,0 +1,12 @@
+idx, sentence
+0,messi và ông jorge  cha_đẻ của ngôi_sao và cũng là người cũng người quản_lý_tài_chính của messi  bị_cáo_buộc lừa chính_phủ tây ban_nha khi trốn_thuế hơn 4 triệu euro  hay 45 triệu usd  trong thời_gian từ năm 2007  2009 
+1,nhà_chức_trách cáo_buộc rằng hai người đã sử_dụng các thiên_đường thuế ở belize và uruguay để che_giấu thu_nhập từ bản_quyền hình_ảnh 
+2,cơ_quan_thuế tây ban_nha đang đòi phạt nặng và kết_án tù 
+3,messi và cha_đẻ phủ_nhận bất_kỳ hành_vi sai_trái nào 
+4,phiên tòa dự_kiến diễn ra trong ba ngày  với messi xuất_hiện tại tòa_án hôm thứ_năm 
+5,không đọc hợp_đồng 
+6,các thu_nhập liên_quan đến quyền hình_ảnh của messi  bao_gồm các hợp_đồng với banco_sabadell  danone  adidas  pepsicola  procter  gamble và kuwait_food_company 
+7,các luật_sư của messi lập_luận rằng ngôi_sao bóng_đá  không bao_giờ dành một phút nào trong đời để đọc  nghiên_cứu hoặc phân_tích  các hợp_đồng 
+8,nhưng tòa_án tối_cao ở barcelona phán_quyết hồi tháng 6/2015 rằng messi không nên được miễn_tố vì lý_do không biết chuyện gì xảy ra với tài_chính của mình  vì vấn_đề này đã được cha_đẻ quản_lý một phần 
+9,vào tháng 8/2013  messi và cha_đẻ đã trả 5 triệu euro  hay 56 triệu usd   gọi là khoản tự_nguyện  thanh_toán sửa_sai   bằng với mức thuế bị_cáo_buộc là lẽ_ra họ phải đóng nhưng chưa được nộp  cộng thêm với lãi_suất 
+10,messi là cầu_thủ 5 lần sở_hữu_danh_hiệu ‘ cầu_thủ xuất_sắc nhất thế_giới trong năm  ’

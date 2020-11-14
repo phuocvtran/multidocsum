@@ -1,0 +1,14 @@
+idx, sentence
+0,ngày 27/5  tand tphcm mở phiên_tòa lưu_động tại quận 8  xét_xử và tuyên_phạt_tù chung_thân đối_với bị_cáo nguyễn_văn_bông  sn 1984  ngụ huyện tam_nông  tỉnh đồng_tháp  về tội “ giết người ” 
+1,theo cáo_trạng  vào khoảng 10 h15  ngày 9/8/2015  nguyễn_văn_bông  nguyễn_văn_đương cùng nhóm nam_nữ ngồi uống rượu tại một phòng trọ ở phường 7  quận 8 
+2,do bông dùng điện_thoại chụp hình chị liêu_thị_luyến  vợ của đương  mà không xin_phép nên giữa bông và đương xảy ra mâu_thuẫn 
+3,khoảng 13 h cùng ngày  nhậu xong tất_cả ra về 
+4,khoảng vài phút sau do vẫn còn bực_tức nên luyến rủ một người bạn nữ tên linh đến phòng trọ tìm gặp bông 
+5,tại đây hai bên xảy ra cự cãi  bông dùng tay tát vào mặt linh làm chảy máu mũi 
+6,về nhà  cả hai đem sự_việc trên kể lại cho đương nghe 
+7,khoảng 13 h30 cùng ngày  do sợ bị đương tìm đánh nên bông lấy con dao giấu trong người và đi ra ngoài uống cà_phê 
+8,khi bông đến trước quán cà_phê ở đường rạch lồng_đèn  phường 7  quận 8 thì gặp đương 
+9,đương định đi đến đánh bông nhưng được những người đi chung can_ngăn và ôm kéo đương ngã xuống_đường 
+10,lúc này  trần_minh_lợi  em họ của đương  đang ngồi uống nước trong quán thấy đương đánh nhau liền cầm cục gạch chạy đến bênh_vực cho đương 
+11,lo_sợ lợi đánh mình  bông rút dao_thủ sẵn đâm lợi trúng ngực trái 
+12,sau khi gây_án  bông vứt con dạo lại hiện_trường rồi bỏ trốn 

@@ -1,0 +1,7 @@
+idx, sentence
+0,anh phan_đức_huy đến bãi thu_mua lốp xe cũ ở đường giải_phóng  tp buôn_ma_thuột  kéo điện ra hàn ôtô  chiều 19/5 
+1,lúc sau  hai vợ_chồng chủ cơ_sở ra thì phát_hiện nam công_nhân nằm bất_động  thùng_xe bị nhiễm_điện 
+2, tôi liền hô_hoán mọi người ngắt_điện 
+3,anh ấy được đi cấp_cứu nhưng đã không qua khỏi   anh trần_chung_thủy  chủ cơ_sở cho biết 
+4,anh huy lái_xe chở lốp cũ cho vợ_chồng anh chung 
+5,sáng cùng ngày  do được nghỉ nên anh ở nhà đi làm rẫy  đến chiều đến chỗ làm thì bị nạn 

@@ -1,0 +1,6 @@
+idx, sentence
+0,“ từ đáy_lòng mình  tôi xin_lỗi người dân và hội_đồng thành_phố tokyo ”  ông masuzoe cúi gập người khi nói 
+1,thị_trưởng tokyo thừa_nhận “ đã gây ra rắc_rối lớn vì chi_phí cho những chuyến công_tác nước_ngoài ” cũng như làm dấy lên nghi_ngờ về việc sử_dụng công_quỹ không đúng mục_đích 
+2,rắc_rối của ông masuzoe vỡ_lở từ tháng 4 khi có tin ông dùng xe công để đến một ngôi nhà ở phía nam_tokyo vào dịp cuối tuần 
+3,sau đó  lại nổi lên tin  trong chuyến công_du tới london và paris năm_ngoái  20 quan_chức thành_phố đã tiêu tốn 50 triệu yên  khoảng 450000 usd  và ông masuzoe bay với vé hạng nhất cũng như nghỉ tại phòng hạng sang 
+4,ông cũng bị_cáo_buộc dùng công_quỹ để mua đồ cá_nhân 

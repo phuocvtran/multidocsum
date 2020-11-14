@@ -1,0 +1,8 @@
+idx, sentence
+0,trưa ngày 235  công_an cà_mau xác_nhận cơ_quan này đã bắt nghi can phan_hoàng_thông  tên gọi khác là  cu thông   để điều_tra vụ truy sát khiến một người bị_thương xảy ra trước đó 
+1,theo thông_tin ban_đầu  khoảng 2 giờ ngày 205  gần 20 người đi bằng xe_máy đã xông vào quán ăn trên đường nguyễn_trãi  phường 9  tp cà_mau  truy sát anh thái thiện_nhân  25 tuổi  
+2,anh nhân là nhân_viên của cơ_sở thiện_thanh_spa  tại số 44  đường nguyễn_trãi  phường 9  tp cà_mau  
+3,khi nhóm người này đến quán ăn  anh nhân bỏ chạy vào phía sau quán 
+4,nhưng những người này quyết truy sát  chém trúng nhiều nhát lên đầu và tay anh nhân 
+5,nạn_nhân sau đó được mọi người đưa đi bệnh_viện cấp_cứu  phải khâu 27 mũi các vết_thương trên đầu và tay_trái 
+6,theo một nguồn tin  trước khi xảy ra vụ_việc  bà thái thiện_thanh  chủ cơ_sở thiện_thanh_spa  có nhận được tin nhắn đe_dọa trên facebook với nội_dung dọa truy sát “ gặp đâu chém đó  không nói nhiều ” 

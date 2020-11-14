@@ -1,0 +1,5 @@
+idx, sentence
+0,trước đó  khoảng 6 g cùng ngày  người dân tại phường tân_an  tp buôn_ma_thuột  phát_hiện thi_thể thiếu_tá nguyễn_duy_chuyển  thuộc phòng kinh_doanh sư_đoàn 470  bộ_chỉ_huy quân_sự tỉnh đắk_lắk  nên đã báo công_an 
+1,“ công_an tỉnh đã cử công_an tp buôn_ma_thuột đến hiện_trường để điều_tra ban_đầu 
+2,khi danh_tính của nạn_nhân được xác_định  công_an tỉnh đã bàn_giao vụ_việc cho điều_tra hình_sự bộ_chỉ_huy quân_sự tỉnh đắk_lắk tiếp_tục làm rõ nguyên_nhân ”  lãnh_đạo này nói 
+3,cũng theo lãnh_đạo này  nhận_định ban_đầu là thiếu_tá chuyển bị giết và công_an tp buôn_ma_thuột cũng đã lấy lời khai của nhiều người  sau đó bàn_giao cho quân_đội tiếp_tục điều_tra  tìm nguyên_nhân 

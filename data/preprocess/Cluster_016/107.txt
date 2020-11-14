@@ -1,0 +1,7 @@
+idx, sentence
+0,brussels  ttknato_jen_stoltenberg loan_báo  nato và montenegro_định ký_kết trong ngày thứ_năm văn_kiện nhận quốc_gia nhỏ_bé vùng balkan là thành_viên thứ 29 của liên_minh 
+1,trong buổi họp_báo trước hội_nghị ngoại_trưởng họp 2 ngày tại bản_doanh brussels  ông stoltenberg xác_nhận  đây là tín_hiệu cho hay các thành_viên nato tiếp_tục củng_cố ổn_định và an_ninh tại miền tây balkan 
+2,đây cũng là bằng_chứng nato tiếp_tục chính_sách mở_cửa trước ngày khai_mạc hội_nghị thượng_đỉnh tại thủ_đô ba_lan vào tháng 7 sẽ phê_duyệt các điều_chỉnh quân_sự đã thỏa_thuận sau khủng_hoảng ukraine và sự_kiện nga sáp_nhập bán_đảo crimea 
+3,nga lên_án nato thu_nhận montenegro như là mưu định xâm_phạm các quyền_lợi chiến_lược của nga 
+4,ttk stoltenberg trả_lời “ mọi quốc_gia có quyền chọn tương_lai của mình  phản_ứng bằng trừng_phạt của nga sẽ là không chính_đáng ” 
+5,montenegro đuợc chính_thức mời từ tháng 12  khiến moscow dọa sẽ đáp trả để bảo_vệ quyền_lợi an_ninh tại vùng balkan 

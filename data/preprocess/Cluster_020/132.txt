@@ -1,0 +1,23 @@
+idx, sentence
+0,ngày 17/5  nhiều người ngỡ_ngàng khi chứng_kiến cảnh hàng trăm_nghìn con cá chết nổi trắng kênh nhiêu_lộc  thị_nghè 
+1,chi_cục thủy_sản tp hcm bước_đầu xác_định nguyên_nhân xảy ra tình_trạng này là do cơn cơn mưa chiều 16/5 cuốn nhiều chất bẩn trên đường_phố  trong cống_rãnh đổ ra kênh nên gây ô_nhiễm cục_bộ  làm tăng cao nồng_độ các chất gây hại như nh3  nh4  giảm lượng dưỡng_khí 
+2,đến cuối ngày  cá chết trôi theo thủy_triều dồn lại từng mảng 2 bên kênh khiến nhiều người xót_xa 
+3,ông nguyễn_toàn_thắng  giám_đốc sở tài_nguyên môi_trường tp hcm  cho biết trong đợt này có hơn 14 tấn cá bị chết 
+4,để khắc_phục sự_cố  chi_cục thuỷ_sản đã phối_hợp cùng công_ty môi_trường tiến_hành vớt cá chết  đồng_thời rải 900 kg khoáng_chất zeolite để làm sạch môi_trường 
+5,trong ngày 17/5  công_ty môi_trường huy_động trên 16 phương_tiện gồm ca_nô  tàu cùng 60 công_nhân làm_việc liên_tục 
+6,hai túi cước bên mạn tàu chật_cứng xác các loại cá và rác 
+7,cần_cẩu liên_tục đưa từng túi cá lớn lên ca_nô 
+8,công_nhân chỉnh túi cá để cho vào các thùng_rác 
+9,nhóm công_nhân khác sử_dụng ca_nô vớt cá chết cùng các loại rác trước cống đầu nguồn kênh ở đường út_tịch  quận tân_bình 
+10,một_số đoạn kênh cá chết dạt vào 2 bên bờ dày_đặc  công_nhân chỉ mất khoảng hơn chục phút vớt là đầy thùng 
+11,cuối giờ chiều 17/5  chiếc ca_nô do 2 công_nhân đang vớt cá gần khu_vực cầu trần_khánh_dư  quận 3 bị lật úp và chìm hẳn xuống đáy kênh 
+12,nguyên_nhân do thùng cá quá đầy  nặng nên phương_tiện bị nghiêng trong quá_trình di_chuyển 
+13,phút nghỉ_ngơi của một công_nhân khi cá chết đã vớt đầy thùng  dưới dòng nước là cá nổi lềnh_bềnh và bốc mùi hôi_thối 
+14, từ sáng tới chiều chúng_tôi chỉ nghỉ_ngơi có 30 phút để ăn cơm 
+15,phải vớt gấp  nếu không là cá chết càng bốc mùi  sẽ rất khủng_khiếp đối_với người dân sinh_sống xung_quanh   ông phan_ngọc_hải  đội_trưởng nhóm công_nhân vớt cá cho hay 
+16,dọc tuyến kênh từ cầu_hoàng_hoa_thám đến thượng_nguồn  các ca_nô  tàu vớt cá liên_tục chở xác cá tập_kết tại bến gần nhà thi đầu rạch_miễu  quận phú_nhuận để chuyển lên xe 
+17,các công_nhân cho biết  so với việc vớt rác và lục_bình  vớt cá chết cực hơn nhiều vì chúng nằm rải_rác  vừa nặng lại vừa bốc mùi hôi_thối 
+18,hàng chục chiếc thùng đựng cá chết bốc mùi thối nồng_nặc khắp khu_vực 
+19,theo giám_đốc sở nnptnt  hiện_tượng cá chết có_thể sẽ còn diễn ra vào 1 đến 2 cơn mưa tiếp_theo và chấm_dứt khi môi_trường nước ổn_định 
+20,hai năm trước sau những cơn mưa đầu mùa  tình_trạng cá chết cũng đã xảy ra nhưng số_lượng không nhiều như năm nay 
+21,toàn_bộ số cá chết sẽ được đưa lên xe chuyên_dụng chở về bãi rác đa_phước  huyện bình_chánh để xử_lý theo đúng quy_định 

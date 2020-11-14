@@ -1,0 +1,8 @@
+idx, sentence
+0,trên trang twitter  ứng_cử_viên hàng_đầu của đảng_cộng_hòa nói   chiếc máy_bay khởi_hành từ paris  có_vẻ như lại là một vụ tấn_công khủng_bố 
+1,khi nào chúng_ta mới cứng_rắn  khôn_ngoan và thận_trọng đây   
+2,ông donald_trump thường_xuyên kêu_gọi trấn_áp mạnh_mẽ hơn nữa  chủ_nghĩa khủng_bố hồi_giáo cực_đoan  và có những tuyên_bố mang tính khiêu_khích gây tranh_cãi về người hồi_giáo  như kêu_gọi cấm người hồi_giáo tới mỹ 
+3,cùng ngày  ứng_cử_viên tổng_thống mỹ của đảng dân_chủ hillary_clinton nói rằng vụ rơi máy_bay chở khách của hãng egyptair cùng ngày nhiều khả_năng có liên_quan đến khủng_bố 
+4,trả_lời phỏng_vấn trực_tiếp kênh cnn  bà hillary cho hay   rất có_thể đây là hành_động của khủng_bố 
+5,tất_nhiên là nguyên_nhân chính_xác vẫn phải chờ điều_tra 
+6,nhưng một lần nữa  vụ_việc đã nêu bật những mối đe_dọa mà chúng phải ta đối_mặt từ các nhóm khủng_bố có tổ_chức  

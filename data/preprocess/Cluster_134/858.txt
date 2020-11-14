@@ -1,0 +1,14 @@
+idx, sentence
+0,thông_tin này thật_sự khiến rất nhiều người cảm_thấy sốc  đặc_biệt sau khi nadal vừa cán mốc 200 trận thắng ở các giải grand_slam sau chiến_thắng trước facundo_bagnis ở vòng 2 giải roland_garros diễn ra hôm 26/5 
+1, tôi đến với giải mà không có được sức_khỏe tốt 
+2,bản_thân vẫn cảm_thấy bị đau đôi_chút ở cổ_tay  song  đã cố_gắng chữa_trị để có_thể ra sân 
+3,toàn_bộ êkíp đã nỗ_lực giúp_đỡ tôi trong thời_gian qua  tuy_nhiên  tình_hình không có tiển triển tốt 
+4,bản_thân phải tiêm thuốc giảm đau vào ngày hôm_qua  nhưng tới sáng này thì tôi còn không_thể cử_động cổ_tay   nadal chia_sẻ 
+5,chủ_nhân của 9 chức vô_địch roland_garros buộc phải rút_lui khỏi roland_garros 2016 vì lo_sợ chấn_thương trở_nên nghiêm_trọng hơn nếu tiếp_tục nén đau thi_đấu 
+6,thậm_chí   vua đất nện  còn tiết_lộ các bác_sĩ quan_ngại anh có_thể bị gãy cổ tay trong trường_hợp chấn_thương tệ hơn 
+7,trên twitter  ngôi_sao người tây ban_nha cũng thừa_nhận đã gặp vấn_đề cổ_tay suốt nửa tháng qua 
+8,theo lịch thi_đấu  nadal sẽ chạm_trán đồng_hương marcel_granollers tại vòng 3 roland_garros  thế nhưng trận đấu này chắc_chắn không diễn ra 
+9,việc tay_vợt hạng 4 thế_giới rút_lui khỏi giải là điều rất đáng tiếc với người hâm_mộ  khi anh được đánh_giá trở_thành một trong những ứng_viên sáng_giá cho danh_hiệu vô_địch  và đặc_biệt có_thể chặn_đứng novak_djokovic  tay_vợt số 1 thế_giới 
+10,lúc này  djokovic cũng rộng cửa lên_ngôi hơn vì nadal là tên_tuổi số má duy_nhất nằm chung nhánh đấu với anh 
+11,cho tới nay  giải roland_garros phải lần_lượt chứng_kiến nhiều tên_tuổi rơi_rụng vì chấn_thương 
+12,cụ_thể  roger_federer bỏ giải từ trước khi sân_chơi này diễn ra  và giờ tới lượt nadal nối_gót 

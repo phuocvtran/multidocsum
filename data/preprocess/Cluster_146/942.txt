@@ -1,0 +1,9 @@
+idx, sentence
+0,chiều 28/5  lê_văn_công  25 tuổi  quê hà_nội  đến uống cà_phê tại quán trên đường lý_tự_trọng  phường tân_an  tp buôn_ma_thuột  đăk_lăk  
+1,lúc sau  khi nữ nhân_viên hoàng_thị_ngọc_thùy  25 tuổi  đi ra thì công bất_ngờ lao đến kề dao khống_chế 
+2,kẻ này hét lớn  yêu_cầu được gặp ông chủ tập_đoàn cà_phê của quán hoặc người có trách_nhiệm để khiếu_nại việc  đánh_cắp chất_xám  của mình 
+3,cùng lúc  anh ta xô đổ nhiều ly chén  tách  máy pha cà_phê tại quán 
+4,công_an phường  cảnh_sát hình_sự và cảnh_sát 113 được huy_động đến thuyết_phục nam thanh_niên thả con_tin 
+5,sau hơn 15 phút tiếp_cận  lợi_dụng lúc anh ta sơ_hở  cảnh_sát đã ập vào khống_chế công  giải_thoát an_toàn cho nữ nhân_viên 
+6,theo nhân_viên tại quán  chiều hôm trước  công mang theo một_số đồ_đạc đến uống cà_phê và hỏi xin số điện_thoại của ông chủ_tịch tập_đoàn cà_phê 
+7,nghe các nhân_viên bảo không có số  anh ta sang khách_sạn đối_diện thuê nghỉ 

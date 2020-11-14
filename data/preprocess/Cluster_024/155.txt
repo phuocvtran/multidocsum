@@ -1,0 +1,13 @@
+idx, sentence
+0,báo_cáo cũng chỉ ra rằng ntd ở khu_vực đông_nam_á vẫn là ntd tự_tin nhất toàn_cầu 
+1,trong khu_vực  philippines  đạt 119 điểm   indonesia  đạt 117 điểm   thái_lan  đạt 105 điểm  … là những nơi có chỉ_số niềm tin cao nhất 
+2,bà nguyễn_hương_quỳnh  tổng_giám_đốc công_ty nielsen vn cho biết  “ chỉ_số niềm tin cho thấy những hi_vọng về tương_lai của ntd_việt 
+3,một trong những yếu_tố để lý_giải cho sự lạc_quan đó chính là trung_bình ntd việt chi nhiều tiền hơn cho bản_thân họ để cải_thiện lối sống  và họ khát_khao được có cuộc_sống tốt hơn mỗi ngày ” 
+4,khi nói đến tiết_kiệm  người việt vẫn đứng đầu_bảng trên toàn thế_giới với 78   giảm 1  so với quý trước   theo sau là indonesia  75    philippines  69    singapore  67    malaysia  67   và thái_lan  66   
+5,nhiều người thay_đổi thói_quen chi_tiêu để cắt_giảm chi_phí sinh_hoạt 
+6,theo đó  8/10 người việt đã điều_chỉnh thói_quen trong 12 tháng vừa_qua để tiết_kiệm chi_phí  82   
+7,khoảng 3/5 người  61_  đã giảm chi_tiêu cho quần_áo mới và cắt_giảm chi_phí giải_trí bên ngoài  58   so với cùng kỳ năm_ngoái 
+8,khoảng một_nửa ntd_việt đã cắt_giảm chi_phí ga  điện  47   và chi_phí điện_thoại  44   
+9,tuy_nhiên  đáng chú_ý là ntd_việt tiếp_tục sẵn_sàng cho các khoản chi_tiêu lớn khác sau khi đã trang_trải đầy_đủ các chi_phí sinh_hoạt thiết_yếu 
+10,khoảng 4/10 người cho biết sẽ sử_dụng tiền nhàn_rỗi cho các mục_đích  du_lịch  38    giải_trí bên ngoài  34    các sản_phẩm công_nghệ mới  32    trang_hoàng nhà_cửa  31_  
+11,“ nhiều người mong_muốn sở_hữu nhà_riêng hoặc có_thể sử_dụng quỹ thời_gian rỗi để đi du_lịch lâu hơn  vì_vậy họ cần phải tăng tiết_kiệm ”  bà quỳnh phân_tích 

@@ -1,0 +1,15 @@
+idx, sentence
+0,tai_nạn vừa xảy ra tại một gia_đình ở cao_lãnh  đồng_tháp khiến trẻ_em trong nhà phải nhập_viện với cùng triệu_chứng nôn ói  đau bụng  chóng_mặt  trong đó bé_nhỏ nhất đã không qua khỏi 
+1,thông_tin từ bệnh_viện đa_khoa đồng_tháp  bệnh_nhi 4 tuổi được gia_đình đưa đến cấp_cứu trong tình_trạng rất nguy_kịch  giãn đồng_tử  trụy tim_mạch  suy hô_hấp cấp 
+2,nguyên_nhân được xác_định do ngộ_độc thực_phẩm 
+3,hai bé còn lại chỉ bị ngộ_độc nhẹ 
+4,gia_đình nạn_nhân cho biết  người bố đi ra đồng bắt được khoảng hơn chục con cóc  ếch và nhái 
+5,người vợ sau đó mang đi làm_thịt rồi xào cho cả nhà cùng ăn với cơm 
+6,thức_ăn chế_biến xong  ưu_tiên cho con nhỏ nhất  người bố dành cho con phần ngon nhất là gan cóc 
+7,phần còn lại cả nhà cùng ăn 
+8,khoảng nửa giờ ăn  bé bắt_đầu than mệt kèm nôn ói 
+9,tình_trạng sức_khỏe sau đó cứ yếu dần 
+10,tiếp sau đó  hai cô chị cũng có biểu_hiện khó_chịu  chóng_mặt 
+11,hai người còn lại trong gia_đình là bố và mẹ do nhường cho con nên không có biểu_hiện ngộ_độc 
+12,cũng theo lời kể của gia_đình với bác_sĩ  khi làm_thịt cóc  mẹ các bé không biết nội_tạng cóc chứa_chất_độc nên không bỏ đi 
+13,đây cũng chính là nguyên_nhân khiến bé trai tử_vong 

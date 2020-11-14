@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 1/6  nhiều tờ báo đồng_loạt đưa tin nữ ca sỹ xinh_đẹp taylor_swift và bạn trai chia_tay khiến các fan vô_cùng bất_ngờ và tiếc_nuối 
+1,cặp đôi kết_thúc mối quan_hệ lãng_mạn sau 15 tháng hẹn_hò 
+2,“ không có xung_đột nào cả  chỉ đơn_giản là họ không còn muốn ở bên nhau nữa ”  một nguồn tin tiết_lộ trên tờ people 
+3,giọng ca 26 tuổi và chàng dj 32 tuổi vừa có kỳ nghỉ kỷ_niệm 1 năm ngày yêu nhau vào tháng 3 vừa_qua 
+4,khi được hỏi về mối quan_hệ trong cuộc phỏng_vấn với vouge gần đây  taylor_swift cho hay  “ tôi đang có một mối quan_hệ tuyệt_vời ” 
+5,calvin_harris phải nhập_viện vì tai_nạn xe_hơi ở las_vegas hôm 20/5 và phải hủy một_số show 
+6,taylor_swift và calvin_harris gặp nhau tại lễ trao giải brit_awards 2015 vào tháng 2 và người bạn thân ellie_goulding đã “ mai_mối ” cho cặp uyên_ương 
+7,hai người được xem là một trong những cặp đôi đẹp nhất làng nhạc mỹ 

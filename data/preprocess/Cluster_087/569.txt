@@ -1,0 +1,15 @@
+idx, sentence
+0,bảy nghi can gồm  nguyễn_duy_hùng  còn gọi_là thầy  46 tuổi  ngụ thái_nguyên   nguyễn_tiến_khanh  35 tuổi  ngụ bà_rịavũng_tàu   khưu_thanh_thảo  còn gọi cu “ tửng ”  42 tuổi  ngụ q 1   nguyễn_thanh_phú  30 tuổi  ngụ q 6   nguyễn_văn_hữu  22 tuổi  ngụ q 12   nguyễn_văn_hải  36 tuổi  qbình_thạnh  và nguyễn_đức_thanh tuấn  26 tuổi  
+1,theo thông_tin ban_đầu  năm 2003  nguyễn_duy_hùng bị công_an thái_nguyên bắt_giữ và bị tòa tuyên_án 7 năm tù về tội tàng_trữ  sử_dụng trái_phép chất ma_túy 
+2,ra tù  hùng về mở garage sửa_chữa ô_tô tại tpthái_nguyên  nhưng thực_chất là thiết_lập đường_dây mua_bán ma_túy “ đá ” khép_kín từ bắc vào nam 
+3,mỗi tháng  hùng vài lần chạy ô_tô  bs  29c613  22  lên cửa_khẩu tân_thanh mua hàng “ đá ” từ đầu_mối phía trung_quốc với giá 200 triệu đồng / kg chở vào sài_gòn phân_phối lại cho thảo  khanh … với giá 350 triệu đồng / kg 
+4,trong các “ đại_lý ” của hùng  có nguyễn_thanh_phú thường_xuyên vào quán bar  vũ_trường ăn_chơi và móc_nối bán ma_túy “ đá ” nên lọt vào “ tầm ngắm ” của lực_lượng phối_hợp 
+5,tối 2012016  phú đi taxi ra một bãi xe ở qthủ đức lấy 14 kg ma_túy “ đá ” ngụy_trang trong thùng trái_cây do khanh gửi thì bị trinh_sát bắt quả_tang 
+6,khám_xét chỗ ở của phú tại một khách_sạn trên đường âu_dương_lân  q 8   trinh_sát bắt thêm một đàn_em của phú tên hữu cùng hơn 400 gr ma_túy “ đá ” và thu_giữ 3 cân điện_tử … từ đầu_mối này  lực_lượng phối_hợp tập_trung theo_dõi mọi động_tĩnh của ông chủ garage tên hùng ở thái_nguyên 
+7,ngày 185  trinh_sát phát_hiện hùng chạy ô_tô đến gần khu_vực đường_cao_tốc tphcm  long_thành  dầu_giây gặp khanh 
+8,sau đó hùng quay về một con hẻm trên đường đinh_bộ_lĩnh  p 24  qbình_thạnh giao hàng cho thảo thì bị bắt_giữ cùng với tang_vật gồm 6 kg ma_túy “ đá ”  1 khẩu súng_ngắn  15 viên đạn  1 nòng giảm thanh  50000 usd và hơn 21 tỉ đồng 
+9,trong khi đó  thảo đi xe_gắn_máy  bs  70k12149  và định mở cốp lấy súng chống trả nhưng bị khống_chế 
+10,trinh_sát thu_giữ trong cốp xe thảo 1 khẩu súng_ngắn  2 bánh heroine  312 triệu đồng và 2200 usd 
+11,ở hướng khác  sau khi khanh rời khỏi đường_cao_tốc chạy về hướng tỉnh lâm_đồng đến khu_vực trạm thu phí thì bị lực_lượng chức_năng bắt_giữ cùng hải 
+12,trinh_sát cũng phát_hiện trên ô_tô 1 kg ma_túy “ đá ” và 1 khẩu súng_ngắn 
+13,tiến_hành khám_xét nơi ở của hải sau đó trên đường nguyễn_thị_thập  q 7   trinh_sát thu_giữ 700 gr ma_túy “ đá ” và bắt tuấn  người cất_giữ ma_túy cho hải  cùng 300 gr ma_túy “ đá ” 

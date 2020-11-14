@@ -1,0 +1,6 @@
+idx, sentence
+0,trong tháng này  toàn_bộ 11 nhóm hàng_hóa và dịch_vụ tính cpi đều tăng  trong đó tăng cao nhất vẫn là nhóm giao_thông với mức tăng 239  so với tháng trước  trong tháng 4 nhóm giao_thông đã tăng 173  so với tháng 3  
+1,nhóm có mức tăng cao thứ hai là nhóm nhà_ở và vật_liệu xây_dựng với mức tăng 088  so với tháng trước  trong tháng 4 nhóm này đã tăng 071  so với tháng 3  
+2,tiếp đến  chỉ_số giá nhóm hàng_ăn và dịch_vụ ăn_uống tăng 036  so với tháng 4  trong đó giá lương_thực tăng 068   giá các mặt_hàng ăn_uống ngoài gia_đình tăng 016   và thực_phẩm tăng 038  so với tháng trước 
+3,nhóm đồ_uống và thuốc_lá tăng 011  so với tháng trước  nhóm may_mặc  mũ nón  giày_dép tăng nhẹ 002   nhóm thiết_bị và đồ_dùng gia_đình tăng 009   nhóm thiết_bị và dịch_vụ y_tế tăng 005   nhóm bưu_chính viễn_thông tăng 003   nhóm giáo_dục tăng 002   nhóm văn_hóa  giải_trí và du_lịch tăng 034   nhóm hàng_hóa và dịch_vụ khác tăng 056  so với tháng trước 
+4,trong tháng 5  chỉ_số giá là vàng tăng 154   trong khi giảm 01  so với tháng 4 

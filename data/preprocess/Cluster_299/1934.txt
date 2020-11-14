@@ -1,0 +1,16 @@
+idx, sentence
+0,thông_tin từ ông lê_thy_hà  trưởng đại_diện cảng_hàng_không khu_vực miền nam tại buôn_ma_thuột cho biết  do sự_cố kỹ thuận nên từ 6 h sáng nay  3/6   sân_bay buôn_ma_thuột  tỉnh đắk_lắk đã phải tạm hoãn tất_cả các chuyến bay khai_thác tại đây 
+1,theo ông hà  có 7 chuyến bay đến và rời buôn_ma_thuột đã bị hoãn để đảm_bảo an_toàn 
+2,cảng_hàng_không buôn_ma_thuột cũng đã có thông_báo để các hãng hàng_không chủ_động thông_tin và có chế_độ chăm_sóc cho những đối_tượng hành_khách trong các chuyến bay bị hoãn 
+3,đại_diện cảng_hàng_không buôn_ma_thuột cũng cho biết  dự_kiến khoảng sau 14 h chiều nay  các sự_cố sẽ được khắc_phục xong và sân_bay này có_thể khai_thác trở_lại 
+4,trước đó  ông nguyễn_chánh_duy  giám_đốc cảng_hàng_không buôn_ma_thuột kỳ_vọng  tất_cả các sự_cố sẽ được khắc_phục xong sau 12 h trưa nay 
+5,trao_đổi với dân_trí  đại_diện hãng hàng_không vietjet cho biết  nguyên_nhân tạm_thời đóng cửa là do sự_cố bong đường_băng 
+6,theo thông_tin từ hãng này thì hôm_nay có ít_nhất 14 chuyến bay bị ảnh_hưởng  trong đó  có 6 chuyến của vietnam_airlines và 8 chuyến của vietjet 
+7,các chuyến bay vietjet chậm từ 67 tiếng chờ sân_bay mở_cửa hoạt_động trở_lại 
+8,tuy_nhiên  cũng theo đại_diện hãng bay này thì không chỉ sân_bay buôn_ma_thuột mà tại một_số sân_bay khác  chất_lượng đường_băng vẫn chưa đảm_bảo  thường phải sửa và ảnh_hưởng đến hoạt_động khai_thác của các hãng hàng_không 
+9,sáng nay  hãng hàng_không quốc_gia việt_nam  vietnam_airlines  cũng phát đi thông_cáo tạm ngừng khai_thác các chuyến bay đến / đi từ buôn_ma_thuột “ do sân_bay đóng_cửa để sửa_chữa ” 
+10,nguyên_nhân cụ_thể cũng được vietnam_airlines cho biết đó là do “ đường_băng bị bong tróc lớn  cảng_hàng_không buôn_ma_thuột tạm_thời đóng cửa đến 14 h chiều ” 
+11,riêng vietnam_airlines phải tạm ngừng khai_thác 6 chuyến bay đến và đi từ buôn_ma_thuột trong_sáng nay bao_gồm 2 chuyến trên đường_bay giữa hà_nội – buôn_ma_thuột  2 chuyến trên đường_bay giữa tp_hồ_chí_minh – buôn_ma_thuột và 2 chuyến trên đường_bay giữa đà_nẵng – buôn_ma_thuột 
+12,đồng_thời  vietnam_airlines cũng cho biết  đã triển_khai tăng 6 chuyến trên các đường_bay giữa hà_nội / tp
+13,hồ_chí_minh / đà_nẵng – buôn_ma_thuột ngay trong chiều nay để phục_vụ nhu_cầu đi_lại của hành_khách 
+14,tuy_nhiên  phía vietnam airlines cũng thừa_nhận rằng  việc khai_thác trở_lại các chuyến bay trong ngày hôm_nay còn phụ_thuộc vào tình_hình sửa_chữa thực_tế tại cảng_hàng_không buôn_ma_thuột 

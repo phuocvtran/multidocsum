@@ -1,0 +1,8 @@
+idx, sentence
+0,khoảng 16 h ngày 19/5  anh phạm_đức_huy  sn 1985  trú tại p khánh_xuân  tp buôn_ma_thuột  tỉnh đắk_lắk  trong lúc hàn thùng_xe ô_tô tải mang bks  47c114  26  không may bị điện giật dẫn đến tử_vong 
+1,theo thông_tin ban_đầu  trước đó khoảng 1 tiếng  anh huy đến nhà của ông trần_hữu_trung  sn 1982  tại số nhà 93 giải_phóng  p tân_thành  tp buôn_ma_thuột để bốc lốp xe cũ lên ô_tô tải 
+2,phát_hiện thùng_xe bị hư nên anh huy kéo điện ra để hàn lại 
+3,trong quá_trình làm_việc  không may anh huy bị điện giật đến tử_vong 
+4,ông trần_hữu_trung cho biết  ông phát_hiện anh huy nằm bất_tỉnh trên thùng_xe  toàn_bộ xe bị nhiễm_điện 
+5,ngay_lập_tức  ông hô_hoán mọi người đến giúp_đỡ  đồng_thời ngắt cầu_dao_điện 
+6,anh huy sau đó được đưa đến bệnh_viện đa_khoa tỉnh đắk_lắk cấp_cứu nhưng nạn_nhân đã tử_vong 

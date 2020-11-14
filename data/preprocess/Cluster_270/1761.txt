@@ -1,0 +1,4 @@
+idx, sentence
+0,theo báo_cáo từ ông trương_quốc_dụng  hạt_trưởng hạt kiểm_lâm huyện krông_pa  khoảng 16 h chiều 2/6  phát_hiện 4 đối_tượng lâm_tặc vận_chuyển gỗ trái_phép  lực_lượng kiểm_lâm đã yêu_cầu các đối_tượng dừng thuyền kiểm_tra 
+1,tuy_nhiên  các đối_tượng đã lái thuyền đâm thẳng vào lực_lượng rồi dùng mã_tấu  dao tấn_công khiến 2 kiểm_lâm là anh phạm_văn_duy và lê_văn_hóa bị_thương 
+2,trong tình_thế nguy_cấp  kiểm_lâm_viên đinh_việt_hồng dùng súng bắn 5 phát chỉ_thiên và một phát súng vào mạn_thuyền lâm_tặc 

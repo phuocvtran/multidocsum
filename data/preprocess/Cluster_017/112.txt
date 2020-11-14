@@ -1,0 +1,17 @@
+idx, sentence
+0,trang tin metro của anh cho biết  con chó lao vào tấn_công những đứa trẻ đang chơi_đùa trong một công_viên ở thị_trấn blyth  hạt northumberland  anh 
+1,hầu_hết bọn trẻ có_mặt đều bị cắn do các em cố tìm cách cứu nhau  khiến con chó lại càng nổi_điên hơn 
+2,ít_nhất 9 đứa trẻ đã được đưa tới bệnh_viện để điều_trị vết_thương 
+3, con chó tấn_công 14 đứa trẻ  hệt như một vụ khủng_bố vậy 
+4,những đứa trẻ bị_thương nằm ở khắp nơi 
+5,ơn chúa là không đứa con nào của tôi bị con chó cắn   cô shryl_allison  người có con_gái 12 tuổi chơi tại hiện_trường kể lại với kênh_truyền_hình chronicle_live 
+6,theo lời cô allison  cứ mỗi lần bọn trẻ cố cứu nhau thì lại bị con chó cắn trúng 
+7, mấy đứa nhỏ phải ráng trèo lên những chỗ cao để tránh_né 
+8,con chó hoàn_toàn nổi_điên 
+9,cuối_cùng  cha của một bé gái nhìn thấy và chạy tới nhảy_bổ lên con chó 
+10,ông ấy đè nó xuống cho tới khi cảnh_sát đến 
+11,cả dãy phố đã thực_sự hoảng_loạn 
+12,tôi chưa bao_giờ chứng_kiến một sự_việc như thế này  
+13,những người dân địa_phương nói rằng con chó chạy chơi bình_thường ở công_viên khoảng 45 phút trước khi lên_cơn cắn người 
+14,cảnh_sát hạt northumbria cho biết con chó hung_tợn đã bị khống_chế 
+15,tuy_nhiên  cho đến thời_điểm hiện_tại  vẫn chưa tìm được chủ của nó 

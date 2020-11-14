@@ -1,0 +1,8 @@
+idx, sentence
+0,cuốn madam_nhu  quyền_lực bà rồng do nxb hội nhà_văn liên_kết với công_ty tnhh mtv sách_phương_nam ấn_hành từ đầu năm 2016 
+1,việc thu_hồi này là bởi tháng 2/2016  cục xuất_bản đã có công_văn số 124 / cxbiphqlxb yêu_cầu nhà_xuất_bản hội nhà_văn đình_chỉ cuốn sách madam_nhu  quyền_lực bà rồng phiên_bản xuất_bản lần đầu  để “ rà_soát lại toàn_bộ nội_dung  chỉnh sửa một_số chi_tiết trong sách và bìa 4 ” 
+2,theo công_văn của sở tttt  hiện trên thị_trường đang lưu_hành hai phiên_bản quyển madam_nhu  quyền_lực bà rồng  trong đó phiên_bản “ tái_bản lần 1 có sửa_chữa ” không thuộc đối_tượng của công_văn này 
+3,sở tttt yêu_cầu các phòng_văn_hóa thông_tin ở các quận  huyện và các cơ_sở phát_hành sách nếu phát_hiện tổ_chức  cá_nhân có phát_hành quyển sách madam_nhu  quyền_lực bà rồng phiên_bản in lần đầu chưa được sửa_chữa thì yêu_cầu tổ_chức  cá_nhân đó dừng ngay việc phát_hành và chuyển trả sách về cho nxb hội nhà_văn hoặc công_ty phương_nam 
+4,ấn_phẩm life_plaza do nxb thanh_niên cấp phép ấn_hành  công_văn của sở tttt  do phó giám_đốc võ_văn_long ký ngày 2052016  cho biết đây cũng là bước thực_hiện yêu_cầu của cục xuất_bản theo công_văn số 374 / cxbiphqlxb ban_hành ngày 2842016 có nội_dung “ rà_soát  kiểm_tra và thu_hồi cuốn sách “ life_plaza ” của nhà_xuất_bản thanh_niên ” 
+5,lý_do thu_hồi cuốn sách là do  “ cuốn sách trên vi_phạm về thủ_tục xuất_bản  không thực_hiện đúng theo bản đã biên_tập  đã duyệt  sách in ra thể_hiện dạng tạp_chí  in bìa không theo bản duyệt  không ghi số_lượng in  phát_hành khi chưa có quyết_định phát_hành của nhà_xuất_bản thanh_niên  
+6,cuốn sách trên đã phát_hành trái_phép trên thị_trường ” 

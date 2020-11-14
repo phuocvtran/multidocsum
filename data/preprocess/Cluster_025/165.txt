@@ -1,0 +1,15 @@
+idx, sentence
+0,chương_trình được diễn ra trong không_khí long_trọng với sự tham_dự của lãnh_đạo tỉnh_ủy  hội_đồng nhân_dân  ubnd và các cơ_quan sở_ban_ngành tỉnh yên_bái và nhân_dân địa_phương 
+1,dự_án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái do công_ty cổ_phần hoa_sen yên_bái làm_chủ đầu_tư  được xây_dựng trên khu đất có diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỷ đồng 
+2,dự_án được đặt tại trung_tâm kinh_tế  chính_trị  văn_hóa của tỉnh yên_bái  tọa_lạc ngay vòng xoay ngã tư – chốt giao nhau của ba tuyến đường chính  nguyễn_tất_thành  nguyễn_văn_cừ và ngô_gia_tự thuộc phường đồng_tâm  thành_phố yên_bái 
+3,đồng_thời  với hai mặt tiền đường nguyễn_tất_thành và nguyễn_văn_cừ  dự_án sẽ tạo sự liên_kết dễ_dàng với các khu_vực dân_cư lân_cận 
+4,đặc_biệt  dự_án nằm gần kề trục đường_quốc_lộ 37  kết_nối với cao_tốc nội_bài – lào_cai  tuyến giao_thông quan_trọng nối_liền đồng_bằng sông_hồng và tây_bắc 
+5,vị_trí đắc_địa này sẽ giúp dự_án thuận_tiện trong việc giao_thương  thu_hút khách du_lịch 
+6,tính đến thời_điểm này  dự_án được xem là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất tỉnh yên_bái 
+7,dự_án bao_gồm 01 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m²  được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán café  căn_hộ cao_cấp 
+8,thiết_kế của dự_án là sự kết_hợp hài hòa giữa vẻ đẹp đặc_trưng của núi_rừng tây_bắc và biểu_tượng của thương_hiệu hoa_sen 
+9,phần kết_cấu chung của tòa nhà được xây_dựng theo lối kiến_trúc “ bậc_thang ”  lấy cảm_hứng từ hình_ảnh cánh đồng_ruộng bậc_thang mù_cang_chải – một danh_thắng quốc_gia của tỉnh yên_bái 
+10,riêng phần trung_tâm của tòa nhà là hình_ảnh hoa_sen 3 cánh vừa hé nở  đang vươn cao tạo điểm nhấn nổi_bật  ấn_tượng 
+11,nhìn toàn_cảnh  dự_án vừa có sự vững_chắc  kiên_cố của kiến_trúc bậc_thang  vừa có sự mềm_mại  thanh_thoát và duyên_dáng của biểu_tượng hoa_sen tạo nên một tổng_thể kiến_trúc hiện_đại  tinh_tế và đẳng_cấp 
+12,đây là dự_án bất_động_sản  dịch_vụ và du_lịch đầu_tiên của tập_đoàn hoa_sen  đánh_dấu bước_tiến mới của một doanh_nghiệp hàng_đầu trong lĩnh_vực tôn thép tại việt_nam và đông_nam_á bước sang một lĩnh_vực hoàn_toàn mới 
+13,việc đầu_tư xây_dựng dự_án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái thể_hiện bản_lĩnh vượt_trội và tầm nhìn chiến_lược của tập_đoàn hoa_sen trong thời_kỳ hội_nhập 

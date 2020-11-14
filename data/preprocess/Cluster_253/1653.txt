@@ -1,0 +1,2 @@
+idx, sentence
+0,theo sở thông_tin và truyền_thông  cuốn sách do nxb hội nhà_văn kết_hợp nhà_sách phương_nam ấn_hành lần đầu vào đầu năm 2016 đã có những vi_phạm và cục xuất_bản yêu_cầu đình_chỉ để rà_soát nội_dung 

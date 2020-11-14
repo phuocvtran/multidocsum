@@ -1,0 +1,10 @@
+idx, sentence
+0,trong một tuyên_bố  latam cho biết tập_đoàn hàng_không có trụ_sở tại chile này và các công_ty con ở peru và brazil quyết_định cắt_giảm các chuyến bay tại mỹ latinh do  tình_hình kinh_tế vĩ_mô phức_tạp  đang tác_động đến khu_vực này 
+1,theo đó  các điều_kiện kinh_tế khó_khăn tại mỹ latinh buộc latam thay_đổi các cung đường_bay nội_địa và quốc_tế 
+2,trong bối_cảnh này  các công_ty quyết_định tạm_thời đình_chỉ hoạt_động tại sân_bay quốc_tế simon_bolivar ở thủ_đô caracas của venezuela trong thời_gian không giới_hạn 
+3,latam cũng cam_kết sẽ nỗ_lực khôi_phục lại hoạt_động ngay khi điều_kiện cho_phép 
+4,thông_báo của latam cho biết tuyến đường bay đến caracas từ sao paulo  brazil  sẽ tạm dừng từ ngày 28/5 trong khi tuyến bay từ lima  peru  và santiago  chile  sẽ ngừng từ ngày 1/8 
+5,những hành_khách đã đặt vé trước sẽ được hoàn_lại tiền 
+6,trước đó 1 ngày  hãng hàng_không lufthansa của đức cũng đã thông_báo sẽ ngừng các chuyến bay từ đức tới thủ_đô caracas của venezuela do tình_hình kinh_tế nguy_cấp ở venezuela cũng như những khó_khăn trong việc trao_đổi tiền_tệ ở nước này 
+7,ngoài lufthansa  các hãng hàng_không khác cũng vấp phải vấn_đề tương_tự ở venezuela kể từ năm 2014 khi tiền bán vé bằng đồng_bolivar không_thể đổi sang đồng usd do chính_sách kiểm_soát tiền_tệ của nước này 
+8,nền kinh_tế venezuela đang đối_mặt với nhiều khó_khăn trong bối_cảnh giá dầu giảm và mức lạm_phát lớn 

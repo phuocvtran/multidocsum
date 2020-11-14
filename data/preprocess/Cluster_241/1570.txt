@@ -1,0 +1,7 @@
+idx, sentence
+0,new_york_post ngày 1/6 dẫn một nguồn tin tin_cậy cho biết một đao_phủ is khét_tiếng  có thân_hình to_lớn và mang biệt_danh  máy_ủi   đã bị quân_đội syria bắt_giữ 
+1,theo đó  đao_phủ với biệt_danh  máy_ủi   không xác_định được tên thật  nặng tới 127 kg 
+2,tên này cũng là thành_viên của một tổ_chức với tên gọi  ủy_ban chặt chém  của is  xuất_hiện trong một đoạn video mới được phía quân_đội syria công_bố 
+3,đoạn clip ghi lại cảnh tên khủng_bố két tiếng này này nằm trên một chiếc xe_tải và bị binh_lính syria chở đi 
+4,đao_phủ với biệt_danh  máy_ủi  luôn xuất_hiện với khuôn_mặt che_kín và đã có_mặt trong các đoạn video xử_tử hàng chục tù_nhân vô_tội và chặt tay trẻ_em 
+5,dã_man nhất là đoạn video ghi lại cảnh tên này xử_tử một cậu bé 15 tuổi vì tội nghe nhạc pop của phương tây 

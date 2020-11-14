@@ -1,0 +1,14 @@
+idx, sentence
+0,flc thanh_hóa  flc thanh_hóa vs hải_phòng  vleague 2016  treo thuong tien ty  flc_thanh_hoa_thuong tien ty flc thanh_hóa là đội bóng có khung tiền thưởng cao nhất ở mùa giải năm nay 
+1,theo đó  mỗi trận thắng trên sân_nhà các cầu_thủ sẽ nhận ngay 500 triệu đồng 
+2,chiến_thắng trên sân khách phần_thưởng là 600 triệu đồng 
+3,tuy_nhiên  số tiền thưởng nóng của flc thanh_hóa đã được tăng gấp đôi trước trận tiếp_đón hải_phòng tại vòng 11 vleague vào chiều ngày 22/5 
+4,theo đó  ban lãnh_đạo đội bóng xứ thanh đã nâng mức thưởng cho đoàn quân của gđkt lê_thụy_hải lên thành 1 tỷ đồng nếu giành thắng_lợi ở trận đấu này 
+5,đây là liều “ doping ” lớn với các cầu_thủ flc thanh_hóa bởi hải_phòng không phải là một đối_thủ dễ bị bắt_nạt 
+6,đoàn quân của hlv trương_việt_hoàng đang cho thấy là đội bóng gây ấn_tượng nhất ở mùa giải năm nay với 8 trận thắng  1 trận hòa và chỉ mới thua 1 trận để vững_vàng ở vị_trí số 1 trên bảng xếp_hạng 
+7,hai cái tên nguy_hiểm nhất của đội bóng đất cảng là cặp tiền_đạo faganstevens 
+8,nếu giành chiến_thắng trong chuyến làm_khách flc thanh_hóa chiều_mai  hải_phòng chắc_chắn sẽ giành chức vô_địch ở lượt đi 
+9,tuy_nhiên  rất khó để đoàn quân hlv trương_việt_hoàng có_thể hoàn_thành mục_tiêu của mình bởi flc thanh_hóa cũng đang cho thấy sự trở_lại khi vừa có chiến_thắng 40 ở trận đấu bù với đồng_tháp vào giữa tuần 
+10,chiến_thắng vừa_qua  giúp flc thanh_hóa leo lên vị_trí thứ 2 trên bảng xếp_hạng và rút ngắn khoảng_cách giữa hai đội chỉ còn 6 điểm 
+11,mức thưởng 1 tỷ đồng cho một trận thắng vừa được flc thanh_hóa đưa ra trở_thành mức thưởng khủng nhất cho một trận đấu tại vleague 2016 
+12,trước đó  clb sài_gòn fc là đội nhận được thưởng nhiều nhất cho một chiến_thắng khi đoàn quân hlv nguyễn_đức_thắng nhận 900 triệu đồng cho chiến_thắng trước shb đà_nẵng 

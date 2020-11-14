@@ -1,0 +1,13 @@
+idx, sentence
+0,như_vậy  sau nhiều chờ_đợi  chiếc xe côn tay “ bình_dân ” 150 phân_khối đầu_tiên của honda đã chính_thức công_bố giá bán ra thị_trường 
+1,theo đó  honda_winner 150 có giá 4549 triệu đồng cho phiên_bản thể_thao và 4599 triệu đồng cho bản cao_cấp tại việt_nam 
+2,xe có 4 tùy chọn màu_sắc khác nhau bao_gồm  đỏ_đen  trắng_đen  phiên_bản thể_thao   xanh mờ và đen mờ  phiên_bản cao_cấp  
+3,về ngoại_hình  honda_winner 150 sở_hữu phong_cách thể_thao với những đường_nét hầm_hố  sắc_cạnh và thanh_thoát nếu nhìn từ phía trước và phía sau 
+4,tuy_nhiên  nếu nhìn ngang có cảm_giác phía trước xe_hơi gù bởi thiết_kế hai bên yếm trước vểnh cao 
+5,kiểu thiết_kế này vốn được ưa_chuộng tại nhiều thị_trường đông_nam_á khác như thái_lan  indonesia  malaysia … hệ_thống đèn_pha xe sử_dụng công_nghệ_led trong khi cụm đồng_hồ tích_hợp thêm màn_hình lcd hiện_đại 
+6,sức_mạnh của winner 150 đến từ động cơ xi_lanh đơn làm mát bằng dung_dịch có dung_tích 150 phân_khối tích_hợp công_nghệ phun xăng điện_tử kết_hợp cùng bình xăng 45 lít 
+7,động_cơ có công_suất 1475 mã_lực tại vòng tua 9000 vòng / phút  mô men xoắn 135 nm tại 6500 vòng / phút 
+8,winner 150 có tới 6 số truyền_động thay_vì 5 số như trên exciter 150 
+9,đây được xem là một ưu_thế  đặc_biệt là khi chạy đường_dài ở tốc_độ cao 
+10,những thông_số khác của honda_winner 150 bao_gồm giảm xóc dạng ống_lồng phía trước và lò_xo trụ đơn thể_thao phía sau 
+11,xe sử_dụng lốp không săm với đường_kính bánh trước 90/80 trong khi bánh sau 120 / 70 giúp tăng khả_năng bám đường  nhất_là khi vào cua 

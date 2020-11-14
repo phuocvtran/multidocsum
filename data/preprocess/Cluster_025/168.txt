@@ -1,0 +1,5 @@
+idx, sentence
+0,dự_án được xây_dựng trên diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỷ đồng và sẽ được hoàn_thành vào năm 2020 
+1,dự_án gồm một tòa nhà 15 tầng có tổng diện_tích sàn trên 74000 m2 được xây_dựng thành các khu phức_hợp  cung_cấp các hạng_mục đa_dạng như  trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán cà_phê  căn_hộ cao_cấp 
+2,cũng tại lễ khởi_công  tập_đoàn hoa_sen đã trao_tặng 24 con bò cho 12 hộ dân tại 2 xã suối_bu  huyện văn_chấn  và xã trạm_tấu  huyện trạm_tấu  thông_qua chương_trình lục_lạc vàng của đài_truyền_hình việt_nam 
+3,tập_đoàn cũng đã tặng 50 chiếc xe_đạp cho 50 học_sinh nghèo hiếu_học của tỉnh yên_bái  tiếp thêm nghị_lực giúp các em viết tiếp ước_mơ đến trường 

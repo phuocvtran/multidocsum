@@ -1,0 +1,12 @@
+idx, sentence
+0,trong thời_gian qua  báo_giới đã liên_tục đồn_thổi về khả_năng daniel_alves sẽ chia_tay barcelona 
+1,cuối_cùng  tất_cả đã có câu trả_lời 
+2,trước báo_giới  giám_đốc thể_thao của barcelona  robert_fernandez đã xác_nhận về sự ra_đi của hậu_vệ người brazil 
+3,ông robert_fernandez cho biết  “ daniel_alves muốn ra đi 
+4,chúng_tôi không_thể giữ chân cậu ấy 
+5,barcelona luôn muốn giữ chân hậu_vệ này nhưng khi cậu ấy không còn tha_thiết cống_hiến  chúng_tôi tôn_trọng quyết_định của daniel_alves ” 
+6,thực_tế  ở mùa giải trước  daniel_alves đã nhấp_nhổm rời khỏi barcelona 
+7,mặc_dù vậy  blđ đội bóng xứ catalan đã thuyết_phục thành_công cầu_thủ này ở lại 
+8,hiện_tại  vẫn chưa rõ lý_do vì_sao daniel_alves nằng_nặc đòi rời khỏi barcelona bởi_lẽ cầu_thủ này luôn được đảm_bảo vị_trí chính_thức 
+9,theo diễn_biến trong những ngày qua  bến đỗ mới của daniel_alves có_thể là juventus 
+10,cách đây vài ngày  đích_thân tổng_giám_đốc của juventus  beppe_marotta đã khẳng_định đang đàm_phán với daniel_alves 

@@ -1,0 +1,21 @@
+idx, sentence
+0,chiều ngày 26/5  thiếu_tá trần_văn_hùng – phó_trưởng công_an huyện thanh_chương  nghệ_an  cho biết  đơn_vị đang điều_tra  truy_tìm hai đối_tượng lạ_mặt chém đứt lìa ngón tay của ông nguyễn_quang_lộc  sn 1947  trú tại xóm 3  xã thanh_tường  thanh_chương  vào tối 24/5 
+1,theo trình_bày của ông nguyễn_quang_lộc  khoảng 19 h ngày 24/5  ông đi ra quán tạp_hóa  cách nhà khoảng 500 m  để mở quán bán hàng 
+2,khi vừa ra khỏi cổng nhà thì gặp 2 người đàn_ông đi xe_máy hỏi ông có phải là ông lộc không và bảo ông ra quán tạp_hóa  lát nữa họ sẽ ra mua hàng 
+3,ông lộc kể  “ khi tôi đến quá thì gặp anh nguyễn_thế_định  trú cùng xóm  nhà gần quán tạp_hóa của ông lộc  
+4,anh định bảo lúc chiều có 2 người_lạ_mặt đến quán tìm tôi và dặn tôi cẩn_thận 
+5,một lát sau có anh nguyễn_huy_nguyệt – công_an_viên xóm đến vì nhận được thông_tin từ anh thắng – công_an_viên xóm 3 về 2 người_lạ_mặt tìm tôi 
+6,sau đó vợ tôi cũng nghe thông_tin nên đi ra quán ngồi 
+7,khoảng 20 h15 thì hai người_lạ_mặt lúc nãy dừng xe trước quán 
+8,một người vẫn ngồi trên xe  một người mặc bộ quần_áo màu đen đi vào quán hỏi mua một gói bim bim 
+9,tôi lấy bim bim đưa cho khách  anh ta cầm lấy rồi đi ra 
+10,tôi vào bàn ngồi  thấy anh ta đi vào  tôi nghĩ vào trả tiền 
+11,bất_ngờ anh ta rút con dao chém vào tay tôi đang đặt cạnh nhau trên đùi 
+12,quá bất_ngờ tôi không kịp phản_ứng  ngón_tay cái bàn_tay trái bị chém đứt lìa  rơi xuống nền nhà  ngón_tay cái bàn tay phải bị chém 1 nửa ” 
+13,sau khi gây_án  đối_tượng lạ_mặt nhanh_chóng bỏ chạy ra xe và được đồng_bọn chở đi 
+14,ông lộc được hàng_xóm và gia_đình sơ_cứu vết_thương và chuyển đến bệnh_viện đa_khoa huyện thanh_chương  sau đó được chuyển đến bệnh_viện chấn_thương chỉnh_hình tỉnh nghệ_an để điều_trị 
+15,do ngón tay bị chém đứt lìa hoàn_toàn nên các bác sỹ không_thể phẫu_thuật nối_lại mà chỉ có_thể băng_bó  cầm máu và điều_trị vết_thương 
+16,vết_thương ở ngón_tay cái bàn tay phải được khâu lại 
+17,“ tôi hoàn_toàn không quen_biết hai người đàn_ông đó nên không biết động_cơ  mục_đích của họ khi chém tôi ”  ông lộc khẳng_định 
+18,ông lộc cũng cho biết  thời_gian vừa_qua ông có viết đơn tố_cáo cán_bộ ubnd xã thanh_tường_vi_phạm trong công_tác quản_lý  sử_dụng tài_chính liên_quan đến kinh_phí xây_dựng trường tiểu_học của xã 
+19,tuy_nhiên nội_dung tố_cáo của ông chưa được cơ_quan có thẩm_quyền trả_lời 

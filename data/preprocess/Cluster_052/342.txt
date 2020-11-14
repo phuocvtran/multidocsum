@@ -1,0 +1,14 @@
+idx, sentence
+0,sau khi nghị_án  hđxx đã bác kháng_cáo của hoa_hậu đông_nam_á 2012  lê_thị_diệu_hân  26 tuổi  trong việc đòi chủ nhà phải bồi_thường 270 triệu đồng 
+1,đồng_thời  tòa phúc_thẩm cũng chấp_nhận đơn của bà trang  buộc diệu_hân phải trả số tiền thuê nhà còn thiếu là 360 triệu đồng 
+2,theo nội_dung đơn_kiện của diệu_hân  cô thuê căn nhà của bà trang trên đường võ_văn_tần  quận 3  để sinh_sống và kinh_doanh với giá 45 triệu đồng / tháng  hợp_đồng thuê nhà có hiệu_lực đến tháng 2/2016 
+3,sau đó  theo trình_bày của diệu_hân thì bà trang thường_xuyên đến cửa_hàng gây_rối vì cho rằng cô có quan_hệ bất_chính với chồng bà 
+4,chiều 31/5/2015  bà trang tiếp_tục đến cửa_hàng gây chuyện  công_an phường 5  quận 3 phải vào_cuộc và yêu_cầu 2 bên viết cam_kết không gây_rối an_ninh trật_tự trên địa_bàn 
+5,bà trang đồng_ý không tiếp_tục gây_rối  tạo điều_kiện cho diệu_hân kinh_doanh nhưng yêu_cầu hoa_hậu này phải sớm chấm_dứt hợp_đồng thuê nhà vì cho rằng cô đã vi_phạm một_số điều_khoản trong hợp_đồng 
+6,sau vụ_việc này  cho rằng bà trang xúc_phạm mình và đơn_phương chấm_dứt hợp_đồng  diệu_hân đã làm đơn khởi_kiện đến tand quận 3 yêu_cầu bà trang bồi_thường 135 triệu đồng tiền đặt_cọc thuê nhà và bồi_thường 135 triệu tổn thất_tinh_thần  tổng_cộng là 270 triệu đồng 
+7,đồng_thời  hân cũng không sử_dụng căn nhà thuê của bà trang nữa 
+8,ngoài_ra  hoa_hậu diệu hân cũng có đơn yêu_cầu các cơ_quan_chức_năng xử_lý bà trang vì đã vu_khống cô dan_díu với chồng bà 
+9,sau đó  bà trang có đơn bác_bỏ các yêu_cầu của diệu_hân trong đơn_kiện 
+10,đồng_thời  bà trang yêu_cầu hoa_hậu này phải trả 360 triệu đồng tiền 8 tháng thuê nhà còn lại trong hợp_đồng 
+11,tại tòa  hoa_hậu diệu_hân cho biết  sau khi đoạt vương_miện hoa_hậu đông_nam_á năm 2012  cô mở cửa_hàng kinh_doanh  thiết_kế thời_trang và dần rút chân ra khỏi giới showbiz 
+12,tuy_nhiên  bà trang đã vô_cớ đánh_ghen gây ảnh_hưởng nghiêm_trọng đến danh_dự  uy_tín của cô 

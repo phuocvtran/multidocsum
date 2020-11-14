@@ -1,0 +1,7 @@
+idx, sentence
+0,tại buổi làm_việc ngày 28/4  sau khi nghe giám_đốc công_viên phần_mềm quang_trung nói lương kỹ_sư 810 triệu mỗi tháng  bí_thư thành_ủy tp hcm đinh_la_thăng cho rằng  “ lương 810 triệu mà làm phần_mềm thì sao sống được  chỉ bằng công_nhân may 
+1,người_ta chỉ có_thể ở nhà mình  ăn cơm nhà nấu  đi xe_buýt đi làm  chứ ở nhà_trọ thì không đủ sống ” 
+2,khi công_ty này cho biết đang thiếu nguồn nhân_lực  bí_thư đinh_la_thăng đặt câu hỏi  sinh_viên ra trường thiếu việc_làm nhiều trong khi công_ty lại thiếu nhân_lực trầm_trọng  tại_sao không tuyển_dụng sinh_viên 
+3,trả_lời câu_hỏi này  giám_đốc công_ty cho biết  nhiều năm nay ngành cntt không còn là ngành hấp_dẫn đối_với sinh_viên 
+4,đó là một trong những nguyên_nhân khiến các công_ty phần_mềm tuyển không đủ nhu_cầu 
+5,bí_thư thăng lập_tức phản_bác lại  “ không hot vì các anh trả lương quá thấp chứ gì ” 

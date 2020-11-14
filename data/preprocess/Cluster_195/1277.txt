@@ -1,0 +1,8 @@
+idx, sentence
+0,vụ nổ xảy ra lúc 1 h30 sáng cùng ngày tại kho đạn trung_tâm ở pulgaon  cách thủ_phủ nagpur của bang miền tây maharashtra khoảng 110 km 
+1,đây là một trong những kho đạn lớn nhất của quân_đội ấn_độ  và là nơi cất_giữ của nhiều loại đạn_dược  từ ak47 đến tên lửa brahmos 
+2,sau đó vài giờ  đám cháy lớn tại một trong những gian chứa đạn đã được dập_tắt  nhưng vẫn còn một_số đám cháy nhỏ chưa được dập 
+3,những nạn_nhân bị_thương đã được đưa đến bệnh_viện cấp_cứu  song số người thiệt_mạng có_thể tiếp_tục tăng do nhiều người bị_thương đang ở trong tình_trạng nguy_kịch 
+4,thủ_tướng ấn_độ_narendra_modi đã yêu_cầu bộ_trưởng quốc_phòng manohar_parrikar tới thị_sát kho đạn để nắm_bắt tình_hình 
+5,theo kế_hoạch  ông parrikar sẽ đến pulgaon vào cuối ngày hôm_nay 
+6,hơn 1000 cư_dân ở các ngôi làng gần kho đạn đã được sơ_tán để đảm_bảo an_toàn 

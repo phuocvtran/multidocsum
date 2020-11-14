@@ -1,0 +1,43 @@
+idx, sentence
+0,tphcm đang nỗ_lực thay_đổi chính mình theo hướng thay_đổi đẳng_cấp  đua_tranh để vươn lên ngang tầm những tp lớn  hiện_đại trong khu_vực 
+1,sẽ phải có rất nhiều tuyến giải_pháp cụ_thể ở tầm chiến_lược và chiến_thuật cho tphcm  giải_pháp trong từng bước_đi và các giải_pháp xử_lý vấn_đề cụ_thể hay tình_thế  
+2,trong phạm_vi bài viết ngắn này  chỉ xin đề_xuất một_số giải_pháp mang tính tổng_quát  có ý_nghĩa định_hướng và gợi_ý 
+3,1 
+4,đặc_biệt đề_cao định_hướng hiện_đại_hóa trong mục_tiêu phát_triển và phải nghiêm_khắc  kiên_trì tuân_thủ định_hướng này 
+5,để thực_hiện định_hướng  cần giải_quyết cả ba nhóm vấn_đề lớn   về dân_số  dân_cư  phải có giải_pháp kinh_tế ngăn_chặn dòng người ồ_ạt di_cư vào tp vô điều_kiện  đặc_biệt là lực_lượng lao_động trình_độ thấp  tránh quá_tải dân_số và tránh xu_hướng “ nông_thôn hóa ” 
+6,dân_số gắn với dân_cư  phân_bố dân_cư theo nghề  theo tuyến phát_triển  bảo_đảm trình_độ văn_hóa  văn_minh tương_xứng với mục_tiêu phát_triển 
+7, về cơ_cấu ngành_nghề  chỉ chấp_nhận những ngành công_nghệ_cao hoặc có đẳng_cấp nghề_nghiệp cao  các ngành dịch_vụ  
+8,giới_hạn lao_động ngành_nghề dịch_vụ trình_độ thấp  vệ_sinh  môi_trường  cấp thoát nước đô_thị   nỗ_lực hiện_đại_hóa các dịch_vụ ở mức cao nhất có_thể 
+9, về kết_cấu_hạ_tầng  nếu lấy mức_độ tắc_nghẽn giao_thông làm một thước số_đo điển_hình trình_độ hiện_đại_hóa của tp thì nhìn từ góc_độ hạ_tầng  rõ_ràng chỉ số đo này tùy thuộc vào  i  quy_mô và cơ_cấu  trình_độ dân_số  ii  định_hướng quy_hoạch không_gian tp  quy_tụ lại trong quy_hoạch giao_thông  tp tập_trung phát_triển trên mặt_đất hay phát_triển theo cả chiều sâu / phát_triển đô_thị ngầm   iii  định_hướng văn_hóa giao_thông đô_thị  rút ngắn “ thời_đại văn_minh xe_máy ” để chuyển nhanh qua “ nền văn_minh ôtô ”  hoặc sớm định_hướng “ giao_thông thông_minh ”  hay tiếp_tục duy_trì “ nền văn_minh xe_máy ” như hiện_nay 
+10,2 
+11,không_gian đô_thị của tphcm phải là không_gian kết_nối hạ_tầng tối_ưu  làm nền_tảng và phục_vụ một tp thông_minh  phát_triển bền_vững 
+12,tiêu_chuẩn nền_tảng của “ hòn ngọc viễn_đông ” hiện_đại là không bị ngập_lụt  ít  hoặc không  bị kẹt xe  ít bị tắc_nghẽn giao_thông 
+13,để giải_quyết vấn_đề này  trên cơ_sở kinh_nghiệm đã có  tp cần định_hướng phát_triển của mình theo ba tuyến  một là hạn_chế mở tp ra hướng đông_nam  tiến về phía biển  nguy_cơ bịt hết đường thoát nước nội_thành  hoặc phải đầu_tư cực lớn để giải_quyết căn_bản vấn_đề thoát nước  ngập_lụt  
+14,hay ngược_lại  nên chọn hướng phát_triển chính của tp là tây_bắc 
+15,hai là tăng_cường “ ngầm_hóa ” đô_thị  đặc_biệt ở những vùng đô_thị mới 
+16,lưu_ý rằng không chỉ “ ngầm_hóa ” các công_trình giao_thông mà_còn phải “ ngầm_hóa ” cả không_gian đô_thị 
+17,ba là tích_cực ứng_dụng “ giao_thông thông_minh ” 
+18,3 
+19,xây_dựng tphcm thành trung_tâm giáo_dục  đào_tạo và nghiên_cứu  phát_triển đẳng_cấp quốc_tế và khu_vực 
+20,singapore rõ_ràng là một hình_mẫu thích_hợp và có tính thuyết_phục cao 
+21,4 
+22,định_hướng quy_hoạch phát_triển đô_thị vùng tphcm theo “ chùm ” và “ chuỗi ”  có xu_hướng “ ly_tâm ”  thoát khỏi xu_hướng “ hướng_tâm ” đang thống_trị hiện_nay 
+23,hai điều_kiện là  các đô_thị mới đủ hiện_đại  tiện_nghi để tạo sức hấp_dẫn “ ly_tâm ”  hệ_thống giao_thông kết_nối trung_tâm  ngoại_vi phải thuận_lợi  tiện_nghi và thông_suốt  bảo_đảm tốc_độ lưu_thông cao  
+24,5 
+25,giao_thông kết_nối tốt các tọa_độ kết_nối quốc_tế  sân_bay và cảng trung_chuyển quốc_tế  với trung_tâm tp 6 
+26,xây_dựng tphcm thành trung_tâm “ khởi_nghiệp ”  khuyến_khích đầu_tư mạo_hiểm  coi đây là một giải_pháp quan_trọng bậc nhất  vừa để thúc_đẩy tinh_thần sáng_tạo kinh_doanh vừa tăng_cường các phẩm_chất nhân_văn của người tp 7 
+27,xây_dựng thể_chế chính_quyền đô_thị  theo các hình_mẫu hiện_đại  các nước phát_triển   yếu_tố cơ_bản để có một đô_thị thượng tôn pháp_luật  công_khai minh_bạch và bảo_đảm dân_chủ 
+28,8 
+29,tạo_lập lực_lượng doanh_nghiệp mạnh  coi một_số tập_đoàn doanh_nghiệp tư_nhân mạnh làm trụ_cột  tích_cực thu_hút đầu_tư nước_ngoài  trong đó các tập_đoàn lớn  nhà_đầu_tư chiến_lược  có khả_năng mở_rộng kết_nối chuỗi toàn_cầu  là mục_tiêu ưu_tiên 
+30,chú_trọng lôi_kéo  thu_hút lực_lượng người việt ở nước_ngoài có gốc_rễ sài_gòn  lực_lượng hoa_kiều trên địa_bàn tp  coi đây là những nhân_tố_lan tỏa và kết_nối đầu_tư  thương_mại toàn_cầu hiệu_quả nhất 
+31,rút kinh_nghiệm các đô_thị trên thế_giới trong xu_hướng tích_cực thu_hút đầu_tư nước_ngoài của việt_nam  tphcm với tư_cách là trung_tâm kinh_tế  công_nghiệp  trục nan_hoa của asean  chắc_chắn còn phát_triển mạnh_mẽ thời_gian tới 
+32,trong bối_cảnh đó  nhiều vấn_đề liên_quan đến môi_trường sống đang cùng lúc xuất_hiện 
+33,tuy_nhiên  may_mắn là có_thể đoán trước các vấn_đề nào sẽ phát_sinh dễ_dàng khi nhìn vào lịch_sử phát_triển của các đô_thị trong quá_khứ  đồng_thời nếu dành thời_gian nhìn vào lịch_sử các vấn_đề này được giải_quyết thì cũng có_thể dễ_dàng tìm thấy phương_pháp giải_quyết 
+34,vấn_đề của tphcm hiện_nay là có_thể có lựa_chọn tốt nhất  đảm_bảo kinh_phí thực_hiện và thực_hiện được hay không mà thôi 
+35,ví_dụ như tình_trạng giao_thông đô_thị trở_nên quá đông_đúc 
+36,do dân_cư tập_trung và xe_hơi ngày_càng phổ_biến dẫn đến tình_trạng tắc_nghẽn 
+37,cầu_vượt ở các điểm giao_lộ không phải là giải_pháp căn_bản 
+38,có nhiều điều có_thể học từ những kinh_nghiệm của các nước khác  nhưng phải dựa trên hình_thái đô_thị và tập_quán sinh_hoạt của người dân  đầu_tiên là hoàn_thiện các tuyến xe_buýt  đường_sắt đô_thị  lrt  light_rail_transit  tàu_điện mặt_đất  để chuyển từ xe_máy  xe_hơi sang các phương_tiện giao_thông công_cộng 
+39,thứ hai  giảm lượng giao_thông_qua trung_tâm tp bằng các tuyến đường vành_đai để phương_tiện giao_thông đi vòng qua 
+40,thứ ba  mở_rộng chiều ngang của đường và cao_tốc hóa để làm tăng dung_lượng giao_thông cho các tuyến đường chính trong tp thứ tư  hoàn_thiện đường cho người đi bộ sao cho dễ đi  hạn_chế việc đỗ xe ở các điểm đỗ xe  đậu xe  tiến tới cho_phép đi bộ đi làm  đi học 
+41,thứ năm  ưu_tiên xe_đạp và các phương_tiện giao_thông công_cộng vào trong trung_tâm tp để bảo_vệ môi_trường 

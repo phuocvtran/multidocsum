@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 26/5  công_an huyện thanh_chương  nghệ_an  cho hay  đơn_vị này đang điều_tra  truy_tìm 2 đối_tượng chém đứt ngón tay của ông nguyễn_quang_lộc  sn 1947  thanh_tường  thanh_chương  
+1,được biết  khoảng 20 h15 ngày 24/5  ông lộc đang ở quán tạp_hóa của gia_đình thì có 2 vị khách lạ đi xe_máy đến  tờ vov đưa tin 
+2,một trong hai người vào mua 1 gói bim bim 
+3,sau khi nhận gói bim bim  người này đi ra ngoài rồi quay trở vào 
+4,khi người khách vào  ông lộc tưởng là trả tiền nên không chú_ý 
+5,bất_ngờ  người này dùng dao chém ông lộc khiến nạn_nhân đứt ngón_tay cái của bàn_tay trái 
+6,sau khi gây_án  2 đối_tượng này nhanh_chóng lên xe bỏ trốn 
+7,ông lộc được đưa đi cấp_cứu nhưng ngón tay không nối được  theo công_lý 

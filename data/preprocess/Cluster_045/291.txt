@@ -1,0 +1,9 @@
+idx, sentence
+0,theo thông_tin báo_chí phản_ánh  ngày 15/5  tàu du_lịch này chở đoàn khách gồm 5 người_lớn và 3 trẻ_em  trong đó có một gia_đình là việt_kiều  tham_quan vịnh hạ_long với giá_cả thỏa_thuận trước 
+1,tuy_nhiên  tàu du_lịch này kết_thúc chuyến đi sớm trước 2 tiếng đồng_hồ so với hợp_đồng với lý_do có mưa dông nên bị trung_tâm gọi về 
+2,kết_thúc chuyến đi  đoàn khách này đã bị tàu du_lịch ép_giá  phải thanh_toán bữa ăn lên gần 8 triệu đồng và cộng thêm 600 ngàn đồng_tiền dịch_vụ  cao hơn nhiều so với giá thỏa_thuận 
+3,thực_hiện chỉ_đạo trên  ngay trong ngày  công_an tp hạ_long cùng với đội quản_lý thị_trường số 1 và số 5  chi_cục quản_lý thị_trường quảng_ninh  phòng cảnh_sát số 5  cảnh_sát pccc tỉnh  cảng_vụ đường_thủy quảng_ninh  ban quản_lý vịnh hạ_long kiểm_tra  xác_minh làm rõ sự_việc nêu trên 
+4,đồng_thời chi_cục thuế tp hạ_long kiểm_tra đột_xuất việc chấp_hành các quy_định pháp_luật về thuế của doanh_nghiệp tư_nhân huyền_việt là doanh_nghiệp sở_hữu đội tàu du_lịch hồng_long 
+5,qua kiểm_tra  bước_đầu đã xác_định tàu hồng_long_qn7038 đã có hành_vi vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 
+6,đội tàu hồng_long từ 1/1/2016 đến nay đã 3 lần bị xử_lý vi_phạm  đưa khách vào nhà_bè kinh_doanh hải_sản trái_phép  để phương_tiện khác bám buộc vào phương_tiện của mình bán hàng_hóa 
+7,tàu qn7038 đã bị công_an tp hạ_long xử_phạt 3 lần về lỗi vi_phạm để khách đứng ngồi trên mui khi đang hành_trình … với những vi_phạm trên  ubnd tp hạ_long đề_nghị cảng_vụ đường_thủy nội_địa quảng_ninh ngừng cấp phép rời cảng  bến đối_với toàn_bộ các tàu du_lịch của đội tàu du_lịch hồng_long  thời_gian ngừng cấp phép hoạt_động trong 6 tháng 

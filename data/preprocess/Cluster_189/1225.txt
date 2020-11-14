@@ -1,0 +1,9 @@
+idx, sentence
+0,dài 57 km và sâu 23 km  đường_hầm gotthard_base_tunnel  gbt  sẽ kết_nối phần phía bắc với phía nam châu_âu và rút ngắn thời_gian đi_lại cho nhiều tuyến đường xe_lửa 
+1,nó vượt qua đường_hầm seikan dài 539 km của nhật_bản  trở_thành đường_hầm xe_lửa dài nhất thế_giới 
+2,thủ_tướng đức_angela_merkel  tổng_thống pháp francois_hollande và thủ_tướng italia_matteo_renzi sẽ cùng giới_chức thụy_sĩ tham_dự lễ khánh_thành đường_hầm này 
+3,họ đi trên chuyến tàu đầu_tiên xuyên qua đường_hầm vào hôm_nay 16 
+4,đường_hầm sẽ đi vào hoạt_động đầy_đủ trong tháng 122016 
+5,đường_hầm gbt nối thành_phố erstfeld thuộc bang uri ở miền trung thụy_sĩ với thành_phố bodio của vùng ticino ở miền nam 
+6,tàu_hỏa chạy với vận_tốc lên tới 200 km / h có_thể rút ngắn được thời_gian đi_lại từ thành_phố zurich của thụy_sĩ đến milan  italia từ khoảng 1 giờ cho đến hai giờ 40 phút 
+7,cơ_quan đường_sắt liên_bang thụy_sĩ ước_tính  hành_khách sử_dụng đường_hầm này sẽ tăng từ 9000 lượt người một ngày lên khoảng 15000 lượt trước năm 2020 

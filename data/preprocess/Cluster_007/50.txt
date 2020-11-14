@@ -1,0 +1,6 @@
+idx, sentence
+0,chiều 19/5  anh phan_đức_huy  31 tuổi  ngụ phường khánh_xuân  tp buôn_ma_thuột  đắk_lắk  nối dây_điện để hàn cửa ôtô tải  không may bị giật tử_vong 
+1,theo ông trần_thủy_chung  chủ cơ_sở thu_mua lốp cũ ở đường giải_phóng  phường tân_thành   khoảng 15 h cùng ngày  nạn_nhân đến bãi_tập_kết lốp cũ của gia_đình và kéo điện ra hàn cửa_xe 
+2,“ hai vợ_chồng tôi đang ăn cơm nên không để_ý 
+3,khoảng 20 phút sau  khi ra ngoài  tôi thấy huy nằm ngửa trên đất  thùng_xe bị nhiễm_điện   anh chung nhớ lại và kể mình đã hô_hoán mọi người ngắt nguồn điện  đưa nạn_nhân đi cấp_cứu nhưng không qua khỏi 
+4,người nhà anh huy cho biết  thường_ngày nạn_nhân chở thuê lốp xe cũ cho vợ_chồng ông chung 

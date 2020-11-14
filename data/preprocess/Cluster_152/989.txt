@@ -1,0 +1,20 @@
+idx, sentence
+0,nạn_nhân là một cô gái 16 tuổi 
+1,cô gái này cho rằng mình đã bị đánh thuốc_mê sau khi đến nhà bạn trai cuối tuần trước và khi tỉnh dậy  cô thấy mình đang ở một ngôi nhà khác và có rất nhiều đàn_ông lạ_mặt vây quanh 
+2,cô hoàn_toàn khỏa_thân và trên người có nhiều vết_thương 
+3,chỉ vài ngày sau đó  hôm 24/5  cô phát_hiện vài kẻ trong số những đối_tượng cưỡng_hiếp cô tung đoạn video hiếp_dâm tập_thể lên twitter 
+4,đoạn video dài 40 giây và ngay_lập_tức bị lan_truyền rộng_rãi trên mạng xã_hội trước khi tài_khoản đăng_tải bị khóa 
+5,trả_lời truyền_thông địa_phương  mẹ của cô gái này cho biết gia_đình cô đã xem đoạn video và mọi người đều khóc vì tức_giận 
+6, tôi hối_hận vì đã xem đoạn video đó 
+7,khi biết chuyện  lúc đầu chúng_tôi không tin 
+8,điều này thật_sự đau_đớn và chúng_tôi thấy rất tuyệt_vọng 
+9,con gái tôi suy_sụp và cảm_thấy rối_bời 
+10,tình_hình thật_sự nghiêm_trọng   bà cho biết 
+11,vụ_việc đã gây chấn_động trên toàn đất_nước brazil 
+12,nhiều nhóm đã kêu_gọi biểu_tình trong những ngày tới để lên_án vụ_việc và phản_đối tình_trạng cưỡng_hiếp phụ_nữ tại nước này 
+13,ngoài_ra trên các trang mạng xã_hội còn xuất_hiện nhiều bình_luận bày_tỏ giận_dữ với hashtag  estupronuncamais  nghĩa_là “ chấm_dứt nạn cưỡng_hiếp ”  
+14,ngày 27/5  cảnh_sát brazil đã bắt_giữ 4 người đàn_ông  trong đó có cả người_yêu của cô gái 
+15,người này và một nghi phạm 41 tuổi bị_cáo buộc tội hiếp_dâm  hai đối_tượng khác bị truy_tố với tội tung ảnh đồi_trụy lên mạng xã_hội 
+16,cơ_quan phụ_nữ của liên_hợp_quốc đã ra tuyên_bố kêu_gọi nhà_chức_trách brazil điều_tra vụ_việc nhưng phải tôn_trọng quyền riêng_tư của nạn_nhân và tránh khiến cô thêm tổn_thương 
+17,các chuyên_gia xã_hội_học cho biết  tại brazil có nhiều vụ cưỡng_hiếp không được trình_báo do nạn_nhân cảm_thấy e_sợ  xấu_hổ và mặc_cảm vì những điều họ đã trải qua 
+18,ước_tính chỉ có 35  số vụ tấn_công tình_dục được trình_báo 

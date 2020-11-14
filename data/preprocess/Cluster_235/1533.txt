@@ -1,0 +1,6 @@
+idx, sentence
+0,khoảng 1 h sáng 2/6  tầng 2 tòa nhà 3 tầng siêu_thị điện_máy kim_nguyên tại đường trần_hưng_đạo  phường 1  tp đông_hà  quảng_trị  bất_ngờ phát_hỏa 
+1,siêu_thị chứa hàng điện_máy  điện_lạnh  đồ gia_dụng với chất_liệu nhựa  xốp dễ bắt_lửa khiến công_tác chữa cháy gặp nhiều khó_khăn 
+2,ngọn lửa đỏ_rực bốc ngùn_ngụt  lan rộng ra cả 3 tầng của tòa nhà  kèm theo nhiều tiếng nổ lớn 
+3,nhận tin báo  cảnh_sát chữa cháy quảng_trị điều nhiều phương_tiện cùng khoảng 100 lính cứu_hỏa đến hiện_trường 
+4,cảnh_sát phá hai lớp cửa  tiếp_cận bên trong và cố_gắng đưa nhiều mặt_hàng ra ngoài để giảm_thiểu thiệt_hại 

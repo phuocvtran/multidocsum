@@ -1,0 +1,25 @@
+idx, sentence
+0,liên_quan đến những vụ cướp_giật tài_sản táo_tợn gây hoang_mang dư_luận trên địa_bàn huyện phú_giáo  tỉnh bình_dương  sáng ngày 20/5  cơ_quan csđt công_an huyện phú_giáo cho biết  đơn_vị vừa bắt_giữ hai nghi can chính của vụ_án đó là nguyễn_thanh_sơn  25 tuổi  ngụ xã hưng_hòa  huyện bàu_bàng  và trương_thị_hồng_nhung  22 tuổi  ngụ xã phước_hòa  huyện phú_giáo  
+1,cặp tình_nhân này được xác_định gây ra ít_nhất 12 vụ cướp_giật tài_sản 
+2,đôi_nam_nữ bí_ẩn điều_khiển xe exciter theo hồ_sơ của cơ_quan công_an  vào khoảng giữa tháng 4/2015 trên địa_bàn huyện phú_giáo nổi lên tình_trạng các đối_tượng lợi_dụng trời tối  đường vắng để cướp_giật tài_sản của người dân  nạn_nhân thường là phụ_nữ đi xe_máy một_mình 
+3,vụ thứ nhất xảy ra vào_khoảng 12 h30 trưa 3/5 trên đường đh506  thuộc tổ 1 ấp tân_tiến  xã phước_sang 
+4,lúc đó chị trần_thị_tâm  sn 1976  ngụ ấp 9  xã an_linh  huyện phú_giáo  đang trên đường từ thị_trấn phước_vĩnh về nhà 
+5,khi đi đến đoạn đường trên đã bị hai đối_tượng gồm 1 nam  1 nữ điều_khiển xe yamaha_exciter màu đỏ_đen vượt lên dùng roi điện khống_chế và cướp của chị tâm 10 triệu đồng và 1 điện_thoại_di_động nokia 
+6,tiếp đến vào khoảng 3 h sáng 9/5 tại kp5  thị_trấn phước_vĩnh  huyện phú_giáo chị lê_thị_ngọc_thúy  ngụ kp4  thị_trấn phước_vĩnh  điều_khiển xe_máy lưu_thông trên đường đt741 hướng từ xã an_bình về thị_trấn phước_vĩnh để bán hàng 
+7,đến trước cổng trung_đoàn_bộ_binh 271 thì chị phát_hiện có 1 xe_máy chạy phía sau 
+8,khi chị chạy đến kp5  thị_trấn phước_vĩnh thì bất_ngờ chiếc xe trên vượt lên áp sát khiến chị ngã xuống_đường 
+9,chị thúy chưa kịp đứng dậy thì bị gã trực_tiếp điều_khiển xe xông vào đánh túi_bụi rồi yêu_cầu chị đưa tiền 
+10,chị thúy cho biết  khi chị trả_lời không có tiền thì bị gã này rút ra một vật giống roi điện dí vào người chị và tiếp_tục truy_hỏi  đồng_thời lục_soát chị thúy tìm tài_sản 
+11,không tìm được tài_sản  gã này đến chỗ xe_máy của nạn_nhân lấy đi một túi màu đen trong đó có 2 con dao_bào  1 con dao thái thịt  1 chiếc quần vải  1 hũ muối_tiêu  sau đó hắn đến xe có một cô gái đang chờ và cùng tẩu_thoát 
+12,đây chỉ là 2 trường_hợp điển_hình trong số những vụ mà cơ_quan công_an ghi_nhận được 
+13,trong các vụ cướp đều có thủ_đoạn gây_án và những điểm trùng khớp  điều này khiến người dân tin rằng các vụ cướp này do cùng một băng_nhóm thực_hiện 
+14,cặp tình_nhân sa lưới theo lời khai của các nạn_nhân  bọn cướp còn khá trẻ  độ tuổi từ 20 đến 30 
+15,chúng thường chọn  con mồi  là phụ_nữ đi xe_máy lúc đêm khuya  vắng người để hành_động 
+16,khi ra_tay  các đối_tượng này dùng cây  roi điện  dao để đe_dọa  uy_hiếp và cướp tài_sản của người_dân 
+17,sự_việc trên đang khiến cho nhiều người dân lo_lắng  nhất_là thời_điểm này nhiều người dân đang chuẩn_bị cho việc cạo mủ cao_su 
+18,nhận được thông_tin  cơ_quan công_an huyện phú_giáo đã nhanh_chóng vào_cuộc  sàng_lọc  xác_minh các đối_tượng nghi_vấn đồng_thời thành_lập các tổ tuần_tra cơ_động trên các tuyến đường 
+19,chiều 18/5  nhận được tin báo từ công_an xã tam_lập trên địa_bàn vừa xảy ra một vụ cướp_giật  thủ_phạm là một cặp nam_nữ đi xe mô_tô 
+20,lãnh_đạo công_an huyện lập_tức huy_động lực_lượng công_an huyện và công_an các xã  thị_trấn  tiến_hành chốt chặn  truy_xét vụ_việc 
+21,đến khoảng 24 giờ cùng ngày các trinh_sát đã bắt_giữ được sơn và nhung 
+22,qua điều_tra ban_đầu 2 đối_tượng khai nhận là đối_tượng nghiện ma_túy 
+23,để có tiền tiêu_xài và sử_dụng ma_túy  từ đầu năm 2016 đến nay  2 đối_tượng đã dùng hung_khí là roi điện thực_hiện 12 vụ cướp  cướp_giật tài_sản trên địa_bàn huyện bàu_bàng và huyện phú_giáo 

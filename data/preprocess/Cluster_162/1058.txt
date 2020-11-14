@@ -1,0 +1,18 @@
+idx, sentence
+0,mặc_dù 14 h ngày 28/5  lễ ra_mắt dự_án khu du_lịch nghỉ_dưỡng movenpick cam_ranh resort tại lotte hà_nội mới chính_thức diễn ra  nhưng trước đó cả giờ đồng_hồ  nhiều nhà_đầu_tư đã có_mặt tại đây để tìm_hiểu thông_tin trực_tiếp từ công_ty eurowindow_nha_trang 
+1,có mặt từ rất sớm  ông trần_kiến_thành  lãnh_đạo một công_ty địa_ốc cho biết  nhu_cầu nghỉ_dưỡng của khách du_lịch trong và ngoài nước ngày_càng tăng mạnh nên hoạt_động đầu_tư vào bất_động_sản nghỉ_dưỡng thời_điểm này rất phù_hợp và hiệu_quả đầu_tư cao 
+2,trong khi đó  vị_trí địa_lý – thổ_nhưỡng và khí_hậu của bãi dài  cam_ranh đặc_biệt thích_hợp cho việc phát_triển du_lịch nghỉ_dưỡng bởi chất_lượng bãi biển đẹp tự_nhiên  nước_sạch  trong xanh  bờ cát trắng mịn thoải dài  không_khí trong_lành 
+3,do vị_trí nằm rất gần sân_bay quốc_tế cam_ranh  thuận_lợi về giao_thông  nên bãi dài xứng_đáng là ưu_tiên số 1 để định_hướng phát_triển dự_án movenpick cam_ranh resort 
+4,ông hannes_romauch  tổng_giám_đốc công_ty eurowindow_nha_trang cho biết  movenpick cam_ranh resort là quần_thể nghỉ_dưỡng bao_gồm 121 biệt_thự  132 căn_hộ nghỉ_dưỡng và 250 phòng khách_sạn tiêu_chuẩn 5 sao quốc_tế  cùng hệ_thống dịch_vụ tiện_ích như sân tập golf  sân tennis  bể_bơi  khu spa  chuỗi nhà_hàng  khu vui_chơi trẻ_em  làng thụy_sỹ và khu vui_chơi ngoài_trời phù_hợp các hoạt_động team building 
+5,toàn_bộ khu nghỉ_dưỡng mang phong_cách thiết_kế hiện_đại và pha lẫn nét kiến_trúc địa_phương với mái ngói cong kiểu chămpa 
+6,những kiến_trúc_sư hàng_đầu thế_giới đã kiến_tạo nên một công_trình kiến_trúc mang giá_trị văn_hóa cao bên bờ vịnh cam_ranh 
+7,tất_cả 121 căn biệt_thự movenpick_villas  132 căn_hộ nghỉ_dưỡng movenpick_condotel và 250 phòng khách_sạn đều được thiết_kế hướng biển và nhìn thấy biển và rất gần biển  đáp_ứng tiêu_chí quan_trọng nhất của bất_động_sản nghỉ_dưỡng ven biển 
+8,đại_diện đơn_vị quản_lý  ông andrew_langdon_– phó chủ_tịch cấp cao tập_đoàn movenpick hotels  resorts  thụy_sỹ  chia_sẻ  “ là tập_đoàn danh_tiếng hàng_đầu thế_giới  movenpick đã thành_công trong việc quản_lý gần 100 khách_sạn  khu nghỉ_dưỡng tại 24 quốc_gia trên thế_giới 
+9,chúng_tôi đồng_hành với chủ đầu_tư eurowindow từ các khâu thiết_kế  lựa_chọn vật_liệu  xây_dựng  đến bảo_dưỡng  bảo_trì và quản_lý khu nghỉ_dưỡng movenpick cam_ranh resort theo tiêu_chuẩn 5 sao quốc_tế 
+10,sự hợp_tác giữa chúng_tôi và chủ đầu_tư sẽ tạo cho các khách_hàng cơ_hội sở_hữu và chuyển_nhượng biệt_thự dưới thương_hiệu quốc_tế movenpick 
+11,với dự_án này  chúng_tôi còn dành cho khách_hàng quyền_lợi đặc_biệt  đó là vừa được tham_gia chương_trình cho thuê lại với lợi_nhuận cao  vừa được ở tại biệt_thự của mình trong thời_gian 180 ngày / năm ” 
+12,có_mặt tại buổi lễ  ông nguyễn_thanh_bình – phó_tổng_giám_đốc ngân_hàng vpbank cho biết  ngoài mức lợi_nhuận cam_kết 10  / năm trong 10 năm của chủ đầu_tư dành cho các nhà_đầu_tư thứ cấp  ngân_hàng vpbank cam_kết bảo_lãnh mức lợi_nhuận tối_thiểu 9  / năm và tạo điều_kiện cho khách_hàng vay vốn lên đến 70  giá_trị bất_động_sản nghỉ_dưỡng 
+13,một đại_diện của của công_ty eurowindow_nha_trang cho biết  lễ ra_mắt diễn ra với sự có_mặt của hơn 600 nhà_đầu_tư thứ cấp và các chuyên_gia trong lĩnh_vực địa_ốc 
+14,nhiều nhà_đầu_tư thứ cấp chấp_nhận xếp_hàng chờ đến lượt “ chốt ” những căn biệt_thự và căn_hộ nghỉ_dưỡng mà họ tâm_đắc lựa_chọn 
+15,ngay trong buổi lễ  khách_hàng đặt mua căn_hộ nghỉ_dưỡng_movenpick_condotel đã được bốc thăm trúng thưởng 
+16,03 khách_hàng may_mắn nhận giải_thưởng lớn ngay tại lễ ra_mắt dự_án là  ông lê_hồng_quân  cầu_giấy  hn  trúng_giải nhất 1 cây vàng sjc 9999  ông lê_hoàng_bắc  trần_hưng_đạo  tp hcm  trúng_giải nhì 5 chỉ vàng sjc 9999 và ông lê_khắc_hanh  lạng_sơn  nhận phần quà 3 chỉ vàng sjc 9999 cho giải ba 

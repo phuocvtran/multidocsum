@@ -1,0 +1,10 @@
+idx, sentence
+0,lúc 1 giờ sáng nay  ngày 26   một vụ cháy nghiêm_trọng xảy ra tại siêu_thị điện_máy kim_nguyên  đường trần_hưng_đạo  phường 1  tp đông_hà  quảng_trị  
+1,nhiều người dân sống xung_quanh siêu_thị điện_máy cho biết vào thời_điểm trên ngọn lửa bốc cháy dữ_dội ở tầng 2 tòa nhà của siêu_thị điện_máy kim_nguyên  ngọn lửa lớn kèm theo những tiếng nổ khiến người dân vô_cùng lo_lắng 
+2,nhận được tin báo  lực_lượng chức_năng đã điều 2 xe chữa_cháy đến hiện_trường tiến_hành dập lửa 
+3,tuy_nhiên  ngọn lửa quá lớn nên lực_lượng pccc đã huy_động thêm 4 xe chữa_cháy chuyên_dụng  1 xe thang và 1 xe chống bạo_động cùng khoảng 100 chiến_sĩ đến để cùng dập lửa 
+4,quan_sát hiện_trường vụ cháy  ngọn lửa bùng lên dữ_dội  có màu xanh tím phát ra từ cả 3 tầng của siêu_thị điện_tử  điện_lạnh  tin_học  viễn_thông  điện gia_dụng kim_nguyên kèm theo liên_tục những tiếng nổ lớn 
+5,các mặt_hàng bên trong siêu_thị đa_phần là đồ điện  nhựa  xốp … dễ bắt_lửa nên ngọn lửa lan ra nhanh_chóng  công_tác dập lửa gặp nhiều khó_khăn 
+6,đến khoảng 3 giờ 30 phút cùng ngày  ngọn lửa cơ_bản được khống_chế 
+7,gần như toàn_bộ siêu_thị đã bị thiêu rụi 
+8,ước_tính thiệt hạiban đầu lên đến hàng tỉ đồng 

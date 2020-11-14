@@ -1,0 +1,11 @@
+idx, sentence
+0,mức thuế mới 522  sẽ áp_dụng đối_với thép tấm cán nguội do trung_quốc sản_xuất 
+1,đây là loại thép được sử_dụng trong xây_dựng  sản_xuất xe_hơi và container vận_tải 
+2,bộ thương_mại mỹ đưa ra phán_quyết trong bối_cảnh căng_thẳng thương_mại giữa mỹ và trung_quốc đang lên cao đối_với một_số sản_phẩm  bao_gồm cả thịt gà 
+3,riêng thép là một vấn_đề nhạy_cảm 
+4,các nhà_sản_xuất thép nội_địa mỹ và châu_âu cho rằng  trung_quốc đang làm méo_mó thị_trường toàn_cầu và gây nguy_cơ “ ngập_lụt ” ngành thép thế_giới do bán_phá_giá để giải_quyết nguồn cung dư_thừa ra nước_ngoài 
+5,các doanh_nghiệp thép lớn của mỹ đã gửi đơn lên ủy_ban thương_mại_quốc_tế mỹ  itc  đề_nghị cấm tất_cả mọi loại thép nhập_khẩu từ trung_quốc 
+6,các đơn_vị này cáo_buộc 12000 công_nhân ngành thép nước này đã bị sa_thải trong 1 năm qua do sự cạnh_tranh không lành_mạnh của trung_quốc 
+7,trong khi đó  phía trung_quốc nói rằng  sự suy_giảm của nền kinh_tế là nguyên_nhân khiến ngành thép gặp khó và đã có những biện_pháp giảm sản_lượng thép 
+8,tuy_nhiên  nước này cũng khẳng_định  họ vẫn sẽ tiếp_tục các chính_sách hỗ_trợ các công_ty sản_xuất thép như một giải_pháp nhằm đưa kinh_tế_phục_hồi 
+9,năm_ngoái  giá_trị xuất_khẩu các sản_phẩm thép tấm cán nguội của trung_quốc sang mỹ đạt khoảng 272 triệu usd 

@@ -1,0 +1,6 @@
+idx, sentence
+0,đội 6  phòng cảnh_sát tội_phạm về môi_trường công_an tp hải_phòng cho biết vừa phối_hợp với ban chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng và công_an xã bắc_hưng đã tiến_hành kiểm_tra cơ_sở sơ_chế lòng lợn do ông nguyễn_trọng_dư  33 tuổi  ở xã bắc_hưng  huyện tiên_lãng  tp hải_phòng làm_chủ  phát_hiện gần 15 tấn lòng lợn đựng trong 10 thùng xốp  đang trong quá_trình phân hủy  bốc mùi hôi_thối 
+1,khu_vực chế_biến vô_cùng mất vệ_sinh  bẩn_thỉu  ruồi_nhặng bú bám khắp các vật_dụng chứa số lòng thối này 
+2,tại thời_điểm kiểm_tra  chủ cơ_sở này không xuất_trình được giấy_tờ chứng_minh nguồn_gốc thực_phẩm hợp_pháp của số hàng_hóa nói trên 
+3,đấu_tranh làm rõ  chủ cơ_sở này khai nhận  toàn_bộ số hàng_hóa trên được ông mua từ các cơ_sở giết_mổ lợn ở huyện tiên_lãng và các lò_mổ lợn trên địa_bàn thành_phố  sau đó tập_kết về xưởng của mình sơ_chế  rồi bán ra thị_trường 
+4,đối_với lô hàng trên  ông nguyễn_trọng_dư thừa_nhận đã thu_mua từ nhiều ngày trước  sơ_chế qua bằng muối  phèn_chua và để trong tủ cấp đông  chuẩn_bị giao cho các quán ăn  nhà_hàng 

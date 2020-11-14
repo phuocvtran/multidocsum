@@ -1,0 +1,7 @@
+idx, sentence
+0,sự_việc xảy ra hôm 285 tại vườn_thú cincinnati  ohio  mỹ 
+1,theo báo_chí địa_phương  bé trai 4 tuổi đang đi chơi sở_thú cùng gia_đình thì rơi xuống hào nước ngay khu_vực chuồng khỉ 
+2,con khỉ_đột đực 17 tuổi nặng hơn 180 kg đã lao đến tóm lấy  kéo_lê và quăng_quật bé trong 10 phút trước sự chứng_kiến tuyệt_vọng của gia_đình em và những người khác 
+3,trước tình_huống này  một đội phản_ứng đặc_biệt đã buộc bắn hạ con khỉ 
+4,cậu bé sau đó được đưa đến bệnh_viện với nhiều vết_thương  may_mắn đều là những vết_thương nhẹ 
+5,ban giám_đốc sở_thú cho biết con khỉ_đột bị bắn hạ là giống khỉ quý_hiếm nằm trong danh_sách loài bị đe_dọa  nhưng họ không có lựa_chọn nào khác vì đứa trẻ lúc đó đang trong  tình_trạng bị đe_dọa tính_mạng   họ cũng cho biết đây là lần đầu_tiên đội đặc_nhiệm bắn hạ một con vật trong sở_thú trong tình_huống khẩn_cấp 

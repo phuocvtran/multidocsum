@@ -1,0 +1,4 @@
+idx, sentence
+0,24 h qua  ở các tỉnh tây_bắc và việt bắc bắc_bộ  khu_vực tây_nguyên và nam_bộ đã có mưa vừa  mưa to và rải_rác có dông 
+1,một_số nơi có lượng mưa lớn như sapa  lào_cai  83 mm  tam_đường  lai_châu  55 mm  yên_bái 66 mm  eahleo  đắc_lắc  121 mm  dự_báo  trong_sáng và đêm nay  24/5  ở các tỉnh tây_bắc  việt_bắc của bắc_bộ còn có mưa  có nơi mưa vừa  mưa to và dông 
+2,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 

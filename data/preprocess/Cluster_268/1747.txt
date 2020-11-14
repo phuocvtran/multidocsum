@@ -1,0 +1,10 @@
+idx, sentence
+0,vào đêm trước ngày quốc_tế thiếu_nhi  tổng_thống nga_vladimir_putin đã trao_tặng huy_chương  gia_đình vẻ_vang  cho các gia_đình đông con 
+1,trong buổi lễ trang_trọng  bé gái 4 tuổi  một trong số 11 người con của gia_đình clishova  bắt_đầu khóc 
+2,ông putin đã cố_gắng an_ủi cô bé bằng cách ngồi xuống thấp và vuốt tóc bé gái 
+3,ông nhấn_mạnh rằng để trông_nom số_lượng trẻ_con nhiều như vậy là  việc không dễ chút nào  
+4,mẹ của bé 4 tuổi yana  bà tamara clishova kể với đài_phát_thanh rằng bé gái bị mệt và xúc_động một_chút nên đã òa khóc 
+5, từ buổi sáng  chúng_tôi đã được đi tham_quan  vì_vậy bé hơi mệt một_chút  có chút phấn_khích  chúng_tôi không thường_xuyên tham_gia các sự_kiện mà có nhiều sự chú_ý như vậy 
+6,có quá_tải một_chút 
+7,nhưng sau đó cô bé đã đến bên tổng_thống  ông putin bế em bé vào vòng_tay mình  và hai người đã nói_chuyện rất vui 
+8,đứa trẻ đã bình_tĩnh và vui_vẻ trở_lại   bà clishova cho biết 

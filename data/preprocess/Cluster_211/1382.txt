@@ -1,0 +1,9 @@
+idx, sentence
+0,cụ_thể  ngày 31/5  ubnd tỉnh gia_lai cho biết đã ra quyết_định thu_hồi 5089 ha đất của công_ty hagl và cho công_ty cổ_phần nông_nghiệp nuti thuê đất để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu 
+1,dự_án trên được ubnd tỉnh gia_lai cho công_ty hagl thuê từ năm 2006 
+2,năm 2011  hagl được cấp giấy chứng_nhận quyền sử_dụng đất có thời_hạn đến tháng 2/2042 
+3,tuy_nhiên  ngày 11/5/2015  công_ty cổ_phần nông_nghiệp nuti có đơn đề_nghị thuê lại diện_tích trên 
+4,ubnd tỉnh gia_lai yêu_cầu công_ty hagl bàn_giao lại toàn_bộ diện_tích đất trên cho công_ty cổ_phần nông_nghiệp nuti quản_lý để đầu_tư chăm_sóc cây hồ_tiêu 
+5,trước đó  ubnd tỉnh kon_tum cũng đã đã thống_nhất thu_hồi và chấm_dứt hoạt_động dự_án trồng cỏ và nuôi bò quy_mô 111880 con được đưa ra dựa trên đề_xuất của chính chủ đầu_tư là tập_đoàn hoàng_anh gia_lai 
+6,công_ty của bầu_đức  dù được phát tín_hiệu chấp_thuận giãn_nợ từ phía ngân_hàng song nợ vay của hoàng_anh gia_lai thực_tế vẫn đang vượt 28000 tỷ đồng 
+7,trong khi đó  khi việt_nam tham_gia hiệp_định đối_tác xuyên thái_bình_dương  tpp   ngành chăn_nuôi được dự_báo sẽ khó_khăn khi thuế với các loại thịt bò  gà … sẽ về 0  trong lộ_trình 10 năm 

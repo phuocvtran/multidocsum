@@ -1,0 +1,13 @@
+idx, sentence
+0,đây là trận đấu trong khuôn_khổ vòng 11 kleague_classic 
+1,cũng trong chiều 22/5  ngày_hội việt_nam tại hàn_quốc sẽ diễn ra tại sân nhà của incheon_united với rất nhiều hoạt_động hấp_dẫn 
+2,tại đây  người hâm_mộ có cơ_hội nhận áo đấu  búp_bê có in_hình xuân_trường 
+3,ngoài việc tham_dự các hoạt_động bên lề  nhiều khả_năng xuân_trường sẽ ra sân thi_đấu với gwangju  chính_thức ra_mắt kleague  “ phía incheon united vừa gọi điện báo_xuân_trường đã hồi_phục chấn_thương và được đăng_ký thi_đấu 
+4,nhiều khả_năng  cậu ấy sẽ được tung vào sân ”  trưởng_đoàn clb hagl nguyễn_tấn_anh cho biết 
+5,đầu tháng 5  tiền_vệ người tuyên_quang dính chấn_thương xương_chậu trong một buổi tập cùng incheon_united 
+6,các bác_sĩ dự_đoán anh phải nghỉ thi_đấu 3 tuần 
+7,tuy_nhiên  xuân_trường đã nỗ_lực hồi_phục để trở_lại sớm 
+8,trước khi được đăng_ký thi_đấu với gwangju  cầu_thủ sinh năm 1995 đã có 2 đường kiến_tạo cho đội dự_bị trong khuôn_khổ rleague
+9,theo báo_chí địa_phương  hlv kim_dohoon nhiều khả_năng tung xuân_trường vào sân từ hiệp 2 
+10,incheon united  4 điểm  đang đứng cuối bảng nên họ phải tính_toán  cân_nhắc kỹ khi lựa_chọn đội_hình khi gặp gwangju  11 điểm  
+11,trong một bài viết trên tờ korea_times  cây_bút john_duerden nhận_định incheon là ứng_viên nặng ký cho chiếc vé xuống hạng và xuân_trường có_thể là một giải_pháp để tăng tính đột_biến trong lối chơi 

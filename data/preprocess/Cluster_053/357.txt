@@ -1,0 +1,11 @@
+idx, sentence
+0,đại_tướng lê_hồng_anh  nguyên_ủy_viên bộ chính_trị  tới dự đại_lễ 
+1,nhiều lãnh_đạo cấp cao cũng gửi hoa_chúc_mừng  chủ_tịch nước trần_đại_quang  bí_thư thành_ủy tphcm đinh_la_thăng  nguyên chủ_tịch nước trương_tấn_sang  nguyên_thủ_tướng nguyễn_tấn_dũng  nguyên bí_thư thành_ủy tphcm lê_thanh_hải … thông_điệp phật_đản của đức pháp_chủ giáo_hội phật_giáo việt_nam  trưởng lão hòa_thượng thích_phổ_tuệ nêu rõ  “ với tinh_thần nhập_thế  mỗi người bằng những hành_động thiết_thực nhất hãy bảo_vệ môi_trường bền_vững và ứng_phó với biến_đổi khí_hậu đang đe_dọa đời_sống của chính chúng_ta ” 
+2,diễn_giải về ý_nghĩa phật_đản năm nay  ban_hoằng_pháp trung_ương nhận_định đại_lễ phật_đản năm nay diễn ra trong bối_cảnh thế_giới còn nhiều mâu_thuẫn  các vụ xung_đột sắc_tộc và tôn_giáo là nguyên_nhân dẫn đến những cuộc khủng_bố đẫm máu gây chết_chóc tang_thương cho người dân vô_tội 
+3,mặt_khác  biến_đổi khí_hậu từng ngày đang đe_dọa tính_mạng hàng tỉ người trên hành_tinh  trong đó việt_nam đang phải gánh_chịu một phần hậu_quả nghiêm_trọng 
+4,xu_hướng toàn_cầu hóa  tình_hình an_ninh khu_vực trên biển_đông đã tác_động và ảnh_hưởng đến đời_sống xã_hội và an_ninh đất_nước 
+5,với truyền_thống yêu nước  hộ quốc an_dân  đồng_hành sắt_son với dân_tộc  phật_giáo việt_nam nhận_thức sâu_sắc sự thịnh_suy của phật_giáo liên_quan mật_thiết với sự tồn_vong của dân_tộc 
+6,do_đó là người con phật  phải sống có trách_nhiệm với cộng_đồng xã_hội  lấy lý_tưởng vô_ngã và tinh_thần hòa_hợp làm nòng_cốt cho mọi hoạt_động phật sự  đồng_lòng chung sức góp_phần cho sự_nghiệp phát_triển phồn_vinh của đạo_pháp và dân_tộc 
+7,đại_lễ tại việt_nam_quốc_tự còn diễn ra nghi_thức thả chim bồ_câu và bóng bay cầu_nguyện cho thế_giới hòa_bình 
+8, cùng ngày  lãnh_đạo tp đã đi thăm  chúc_mừng các cơ_sở phật_giáo nhân_dịp đại_lễ phật_đản 
+9,bà võ_thị_dung  trưởng ban tổ_chức thành_ủy tphcm  bà trương_thị_ánh  phó_chủ_tịch hđnd tp  cùng đại_diện các ban_ngành tới thăm châu_lâm_ni_tự  qbình_thạnh   ngôi chùa nhỏ nhưng có nhiều đóng_góp cho công_tác xã_hội của tp nhiều năm qua như mở trường dạy_học xóa mù hơn 20 năm  giúp_đỡ  tặng mỗi năm hàng chục ngàn phần quà cho những người hoàn_cảnh khó_khăn trong khu_vực 

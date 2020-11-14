@@ -1,0 +1,7 @@
+idx, sentence
+0,cụ_thể  vietjet_air và tập_đoàn chế_tạo máy_bay boeing của mỹ đã ký_kết hợp_đồng đặt mua 100 tàu_bay b737_max 200 
+1,bà nguyễn_thị_phương_thảo  tổng_giám_đốc vietjet_air và ông ray_conner  tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing đại_diện cho hai bên ký hợp_đồng này 
+2, với các thiết_kế và công_nghệ tiên_tiến nhất  dòng máy_bay hiệu_suất cao b737_max 200 sẽ giúp vietjet phát_triển mạng_lưới bay hiệu_quả kinh_tế dẫn_đầu thị_trường  mang lại những trải_nghiệm tuyệt_vời cho khách_hàng và đóng_góp vào những thành_công cho vietjet trong thời_gian tới   ông ray_conner nói 
+3,bà nguyễn_thị_phương_thảo  tổng_giám_đốc vietjet_air cho biết việc đầu_tư đội máy_bay b737_max 200 sẽ phục_vụ cho chiến_lược phát_triển mạnh_mẽ hơn nữa mạng đường_bay quốc_tế trong thời_gian tới của vietjet 
+4, qua hợp_đồng này  vietjet sẽ góp_phần tăng kim_ngạch thương_mại giữa việt_nam và hoa_kỳ  đóng_góp vào sự phát_triển hội_nhập của ngành hàng_không việt_nam   bà cho hay 
+5,số máy_bay được ký_kết ngày hôm_nay dự_kiến sẽ được giao hàng từ năm 2019 đến năm 2023 

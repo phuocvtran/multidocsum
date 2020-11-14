@@ -1,0 +1,12 @@
+idx, sentence
+0,sau khi ký hợp_đồng dẫn_dắt mu thay louis van_gaal  mourinho đã ngỏ ý muốn mời giggs làm trợ_lý giống như 2 người tiền_nhiệm là david_moyes và van_gaal 
+1,đây không phải là điều bất_ngờ  bởi cựu tiền_vệ người xứ wales đang là cầu_thủ thi_đấu nhiều nhất cho mu với tổng_cộng 963 lần ra sân trên mọi đấu_trường 
+2,ngoài_ra  giggs đã cùng “ quỷ đỏ ” giành 34 danh_hiệu lớn_nhỏ 
+3,vì_vậy  tiếng_nói và tầm ảnh_hưởng của “ gigssy ” đối_với các cầu_thủ mu là rất lớn 
+4,mặc_dù nhận được lời đề_nghị của mourinho  song giggs đã thẳng_thừng từ_chối 
+5,được biết  cựu tuyển_thủ xứ wales đã trở về từ kỳ nghỉ_hè 
+6,dự_kiến  trong vài ngày tới  anh sẽ dọn hết đồ_đạc của mình ở mu
+7,theo tiết_lộ của tờ mirror  anh   nguyên_nhân khiến giggs quyết_định chia_tay mu xuất_phát từ việc anh không phải là người trợ_lý_số một của mourinho 
+8,trong những năm gần đây  rui_faria luôn được xem là “ cánh_tay_phải ” của chiến_lược gia người bồ_đào nha ở bất_cứ clb nào mà ông dẫn_dắt 
+9,do cảm_thấy vai_trò của mình bị lu_mờ dưới thời mourinho nên giggs đã thẳng_thừng từ_chối 
+10,mặt_khác  cựu cầu_thủ sinh năm 1973 cũng muốn được trở_thành hlv trưởng của 1 clb khác nhằm tích_lũy thêm kinh_nghiệm cầm_quân để có_thể sớm thực_hiện được giấc mơ ngồi vào “ ghế nóng ” tại sân old_trafford giống như người thầy của anh trước_đây là sir_alex_ferguson 

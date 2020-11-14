@@ -1,0 +1,10 @@
+idx, sentence
+0,theo người dân  ngọn lửa bắt_đầu xuất_hiện ở tầng 2 của siêu_thị  kèm theo những tiếng nổ lớn 
+1,sau khi nhận tin báo  lượng lượng pccc công_an tỉnh quảng_trị đã điều 2 xe chữa_cháy đến hiện_trường 
+2,tuy_nhiên  vì ngọn lửa bao_trùm và hiện_trường khó tiếp_cận  nên lực_lượng pccc đã huy_động thêm 4 xe chữa_cháy chuyên_dụng  1 xe thang và 1 xe chống bạo_động cùng khoảng 100 chiến_sĩ đến để cùng dập lửa 
+3,ghi_nhận tại hiện_trường  chỉ sau một thời_gian  cả 3 tầng của siêu_thị kim nguyên_bị ngọn lửa bao_trùm 
+4,lực_lượng chức_năng được trang_bị các thiết_bị bảo_hộ để vào bên trong siêu_thị 
+5,các cửa_kính cũng được phá_bỏ để phun nước chữa_cháy 
+6,các mặt_hàng bên trong siêu_thị đa_phần là đồ điện  nhựa nên ngọn lửa lan nhanh khiến công_tác dập lửa gặp nhiều khó_khăn 
+7,tuy_nhiên  lực_lượng chức_năng đã cố_gắng đưa nhiều thiết_bị  máy_móc  hàng_hóa chưa bị ngọn lửa làm hư_hỏng ra bên ngoài 
+8,đến khoảng 3 h35 cùng ngày  ngọn lửa cơ_bản được khống_chế 

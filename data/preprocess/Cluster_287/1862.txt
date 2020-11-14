@@ -1,0 +1,21 @@
+idx, sentence
+0,chủ_trì hội_nghị trực_tuyến toàn_quốc về bảo_hiểm y_tế  bhyt  sáng nay  thủ_tướng nguyễn_xuân_phúc cho rằng  mục_tiêu tiến tới bhyt toàn dân là việc lớn  liên_quan đến sức_khoẻ của nhân_dân 
+1,“ sau 25 năm thực_hiện  các ngành đã cố_gắng nâng diện tham_gia bhyt lên 75  
+2,đây là cố_gắng rất đáng trân_trọng nhưng mục_tiêu 78  vào cuối năm nay đã cao chưa 
+3,tôi cho chưa phải là cao ”  thủ_tướng đánh_giá 
+4,do_đó thủ_tướng đề_nghị nâng chỉ_tiêu tham_gia bhyt lên để người dân được hưởng phúc_lợi xã_hội  được chăm_sóc sức_khoẻ  thể_hiện sự tiến_bộ trong lãnh_đạo điều_hành 
+5,“ chúng_ta phải bàn xem đến 2020 chỉ_tiêu tham_gia bhyt bao_nhiêu là vừa  85  hay 90  
+6,tôi nghĩ phải 91  thay_vì 80  như hiện_tại ”  thủ_tướng nói 
+7,để thực_hiện được mục_tiêu  thủ_tướng đề_nghị làm rõ trách_nhiệm của từng ngành  từng địa_phương  phải có phân_công_cụ_thể  không chỉ vì mục_tiêu số_lượng mà_còn cả chất_lượng 
+8,“ khi chỉ_tiêu đã có  tiền_bạc đã có thì chất_lượng phục_vụ thế_nào  có phân_biệt giữa khám tự_do  khám có tiền với khám bhyt không  có phân_biệt khi mua thuốc không  ”  thủ_tướng đặt câu hỏi 
+9,dự_kiến hội_nghị cũng cho ý_kiến vào dự_thảo quyết_định của thủ_tướng về việc giao chỉ_tiêu bao_phủ bhyt giai_đoạn 2017  2020 
+10,liên thông 14000 cơ_sở khám chữa bệnh tại hội_nghị  thứ_trưởng bộ tài_chính  tổng_giám_đốc bhxh việt_nam nguyễn_thị_minh cho biết  đến cuối 2015  tỉ_lệ tham_gia bhyt đã đạt 765  
+11,trong 6 tháng đầu năm  đã có trên 708 triệu đối_tượng tham_gia  tăng khoảng 083  triệu và vẫn đang tích_cực triển_khai các giải_pháp để đạt mục_tiêu 78  dân_số có bhyt cuối năm nay 
+12,bà minh cho biết  trong quá_trình tổ_chức thực_hiện gặp rất nhiều khó_khăn  vướng_mắc 
+13,trong đó bhxh việt_nam chưa được giao đầy_đủ trách_nhiệm để đề_xuất các cơ_chế  chính_sách  các hộ cận nghèo tại nhiều tỉnh vẫn chưa có cơ_chế hỗ_trợ  lộ_trình điều_chỉnh giá dịch_vụ y_tế còn chậm và chưa đảm_bảo công_bằng  do_đó bhxh đề_nghị chính_phủ giao bhxh việt_nam có các cơ_chế chủ_động hơn 
+14,cho_phép mở_rộng mạng_lưới thu bhyt  có_thể huy_động các doanh_nghiệp  cơ_sở y_tế  các trạm bưu_điện … để người_dân có_thể mua bhyt tại bất_cứ đâu  có chính_sách ưu_đãi với nhóm tham_gia bhyt theo hộ gia_đình 
+15,bhxh đề_nghị các tỉnh  thành_phố huy_động mọi nguồn_lực để hỗ_trợ cho người dân thuộc hộ cận nghèo  hộ gia_đình làm nông  lâm  ngư  diêm_nghiệp có mức_sống trung_bình  học_sinh  sinh_viên thuộc các gia_đình đông con khó_khăn kinh_tế và các hộ gia_đình khác 
+16,“ chúng_tôi đã tính_toán  mức hỗ_trợ đóng bhyt cho các đối_tượng trên trong năm 2016 là 4501 tỷ đồng 
+17,số tiền này có_thể ưu_tiên dùng từ nguồn kinh_phí kết_dư ”  bà minh thông_tin 
+18,ngoài_ra bhxh đề_nghị bộ y_tế nâng cao chất_lượng dịch_vụ y_tế để thu_hút với người dân tham_gia bhyt  có lộ_trình tăng_giá dịch_vụ bảo_đảm công_bằng giữa các đối_tượng 
+19,“ chúng_tôi cũng đề_nghị bộ_quốc_phòng  bộ công_an  bộ_gdđt điều_chỉnh lộ_trình để 100  đối_tượng trong lực_lượng_vũ_trang  học_sinh  sinh_viên tham_gia bhyt vào năm 2017 ”  bà minh nói 

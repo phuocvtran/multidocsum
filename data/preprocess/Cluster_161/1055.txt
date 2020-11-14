@@ -1,0 +1,21 @@
+idx, sentence
+0,một tháng qua  thông_tin xúc_xích của vietfoods có chất gây ung_thư đã khiến cho người tiêu_dùng hoang_mang  người kinh_doanh gặp khó_khăn 
+1,đến nay  vụ_việc đã được làm sáng_tỏ nhưng những thiệt_hại về sản_xuất  kinh_doanh  thương_hiệu của vietfoods là rất lớn 
+2,tuy_nhiên  không_chỉ riêng vietfoods mà các doanh_nghiệp  dn  chế_biến thực_phẩm khác cũng đang bị ảnh_hưởng nặng_nề vì nhiều người tiêu_dùng cứ thấy xúc_xích là quay lưng 
+3,thiệt_hại dây_chuyền chị lê_ngọc_mai  chủ một cửa_hàng tạp_hóa ở quận tân_bình  tphcm  cho biết gần đây lượng tiêu_thụ xúc_xích của cửa_hàng chị bị chậm lại  thậm_chí giảm đến 30  
+4,dù cửa_hàng chị đang bán xúc_xích của một thương_hiệu lớn khác  không phải của vietfoods nhưng cũng bị vạ lây 
+5,“ trước_đây trung_bình một tuần tôi bán được 100 cây  sau khi có thông_tin xúc_xích gây ung_thư thì bán giảm nhiều 
+6,nhiều phụ_huynh trước chở con ghé cửa_hàng  khi bé muốn mua xúc_xích thì ba_mẹ mua ngay nhưng bây_giờ họ không mua cho con nữa ”  chị mai than_thở 
+7,theo ông nguyễn_thành_chánh  trưởng_phòng marketing công_ty cổ_phần đồ_hộp hạ_long  thông_tin xúc_xích có chất gây ung_thư làm không chỉ vietfoods mà cả các công_ty chế_biến thực_phẩm khác cũng bị ảnh_hưởng khi người tiêu_dùng quay lưng 
+8,“ không chỉ xúc_xích tươi mà cả xúc_xích tiệt_trùng cũng giảm rất rõ  giảm 30   40  so với cùng kỳ ”  ông chánh nói 
+9,ông đặng_văn_thiệp  đại_diện công_ty behn_meyer  đức  nhà_cung_cấp nguyên_liệu phụ_gia chế_biến thịt lớn cho đối_tác tại việt_nam   cho hay thông_tin về xúc_xích có chất gây ung_thư đã làm thị_trường chế_biến thịt nói_riêng và thực_phẩm nói_chung rớt thê_thảm 
+10,doanh_số kinh_doanh của công_ty giảm đến 50  
+11,“ tất_cả khách_hàng hầu_như gọi điện_thoại hoang_mang 
+12,họ hỏi tại_sao vậy  cái đó gây hại không ”  ông thiệp kể 
+13,cơ_quan quản_lý phải thận_trọng nhận_xét về vụ_việc của vietfoods  ông đặng_văn_thiệp thẳng_thắn cho rằng việc cơ_quan quản_lý thị_trường vội_vàng công_bố thông_tin xúc_xích có chất cấm  chất gây ung_thư khi chưa có kết_luận cuối_cùng “ không chỉ giết chết vietfoods mà_còn góp_phần giết chết ngành chế_biến thực_phẩm nói_chung ” 
+14,“ cùng là người trong ngành  chúng_tôi chia_sẻ với vietfoods khi bị sự_cố nặng_nề ”  ông văn_đức mười  tổng_giám_đốc công_ty vissan  nói 
+15,theo ông mười  các dn trong ngành đều bị ảnh_hưởng bởi thông_tin này vì sản_lượng  doanh_số đều sụt giảm nhưng quan_trọng hơn là niềm tin người tiêu_dùng đối_với ngành thực_phẩm chế_biến 
+16,hiện_nay tuy được minh_oan nhưng rõ_ràng điều này cũng chưa_thể giúp cho việc sản_xuất của vietfoods phục_hồi 
+17,“ cái sai này ai là người chịu trách_nhiệm  cần phải làm rõ 
+18,theo tôi  cơ_quan quản_lý nhà_nước cần có thái_độ dũng_cảm nhìn_nhận để người sản_xuất  kinh_doanh yên_tâm 
+19,chúng_tôi mong_muốn cơ_quan quản_lý nhà_nước khi công_bố thông_tin gì cần phải cẩn_trọng bởi nó không chỉ ảnh_hưởng đến thương_hiệu dn mà ảnh_hưởng đến cả một ngành  một nền kinh_tế ”  ông mười nhấn_mạnh 

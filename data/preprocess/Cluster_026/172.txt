@@ -1,0 +1,24 @@
+idx, sentence
+0,humy_complex cung_cấp cho thị_trường phía tây thủ_đô 287 căn_hộ hạng sang với nhiều tiện_ích đa_dạng ngay tại tòa căn_hộ và trong tổng_thể chung khu đô_thị đoàn_ngoại_giao 
+1,tổng diện_tích xây_dựng căn_hộ là 40260 m2 với 35 tầng chức_năng hiện_đại 
+2,tầng 1 dành cho khu_vực lễ_tân  phòng sinh_hoạt cộng_đồng và các shop thời_trang với những thương_hiệu nổi_tiếng 
+3,tầng 2 đến tầng 5 là khu văn_phòng hạng a đáp_ứng nhu_cầu thuê chất_lượng cao của các cơ_quan  tổ_chức nước_ngoài cũng như các doanh_nghiệp hàng_đầu việt_nam 
+4,tầng 6 đến 35 là khu căn_hộ cao_cấp với diện_tích linh_hoạt từ 87 m2 – 211 m2 
+5,ngoài_ra  cư_dân cũng có_thể tận_hưởng các dịch_vụ đẳng_cấp năm sao tại tầng dịch_vụ quy_hoạch riêng_biệt trong tòa nhà với độ cao 72 m 
+6,tại đây  mỗi ngày sống là một ngày nghỉ_dưỡng trải_nghiệm không_gian sống lý_tưởng tiện_ích tiêu_chuẩn quốc_tế với phòng tập_gym  bể_bơi  bar  cofe 
+7,vị_trí vàng dự_án tọa_lạc tại lô_n01_– t4  khu đô_thị đoàn_ngoại_giao  phường_xuân_tảo  quận bắc từ_liêm  hà_nội  liền kề siêu đô_thị starlake 
+8,nơi đây đang được quy_hoạch trở_thành trung_tâm kinh_tế  hành_chính và văn_hóa mới của cả nước với những công_trình ngoạn_mục như tháp truyền_hình cao nhất thế_giới  nhà_hát thăng_long  bảo_tàng lịch_sử quốc_gia … trong tương_lai  các đại_sứ_quán  trụ_sở của các cơ_quan_hành_chính quan_trọng  các siêu trung_tâm thương_mại cũng sẽ được bố_trí tại đây  mang đến những cơ_hội kinh_doanh  đầu_tư vàng cho cư_dân 
+9,đặc_biệt đây còn là linh_khí hội_tụ  phong_thủy hanh_thông  cuộc_sống thịnh_vượng hứa_hẹn mang đến cuộc_sống phồn_vinh cho cư_dân 
+10,xét về vị_trí tự_nhiên  dự_án phumy_complex nằm phía tây của hồ_tây 
+11,với tầm nhìn thoáng_đãng  cư_dân có_thể thưởng_ngoạn vẻ đẹp của hồ_tây  sông_hồng và các công_viên xanh mướt xung_quanh không_gian sống 
+12,phumy complex cách các địa_điểm trung_tâm trong bán_kính chưa đầy 3 km như cầu thăng_long  cầu nhật_tân  hồ_tây  siêu_thị metro  đại_học quốc_gia  khu đô_thị ciputra … nhờ vậy  cư_dân có_thể dễ_dàng tận_hưởng các dịch_vụ về giao_thông  giáo_dục  thương_mại với chất_lượng hàng_đầu 
+13,tiện_ích tối_ưu phumy_complex có đầy_đủ những tiện_ích tiêu_chuẩn cho một tòa căn_hộ đẳng_cấp 
+14,03 tầng_hầm với tổng diện_tích 9240 m2 bố_trí cho khu_vực để ô_tô  xe_máy  đảm_bảo giao_thông thoải_mái cho cư_dân 
+15,toàn_bộ tòa nhà được bố_trí 05 thang_máy chở khách và 01 thang hàng thương_hiệu thys_sen cao_cấp từ hàn_quốc hoặc mitsubishi của thái_lan với tốc_độ cao 30 m / s  công_nghệ và thiết_kế theo tiêu_chuẩn của khách_sạn cao_cấp 
+16,hệ_thống quản_lý  an_ninh phục_vụ 24/24 giúp cư_dân tận_hưởng môi_trường sống an_toàn  tiện_lợi 
+17,lễ_tân tại tầng 1 được ốp đá marble hoặc granit tự_nhiên tạo cảm_giác như khách_sạn sẽ là điểm lý_tưởng để đón_tiếp các cư_dân và khách_mời 
+18,bên_cạnh đó  phòng sinh_hoạt cộng_đồng rộng_rãi  hiện_đại sẽ là nơi diễn ra các sự_kiện giao_lưu  chia_sẻ thông_tin  sinh_hoạt đa_dạng của cư_dân 
+19,tầng dịch_vụ và các shop thời_trang  trang_sức tại tầng 1 cung_cấp những tiện_ích hoàn_hảo như phòng tập gym và yoga cao_cấp  nhà_hàng  bể_bơi trẻ_em  bể_bơi người_lớn liên_hoàn  khu_vực barcafé sang_trọng … ngoài_ra  siêu dự_án tây_hồ_tây và các tòa căn_hộ khác trong khu đô_thị đoàn_ngoại_giao cũng đang đẩy nhanh tiến_độ xây_dựng cũng như hoàn_thiện các khu dịch_vụ sang_trọng đi kèm 
+20,khách_hàng khi mua căn_hộ phumy_complex cũng đồng_nghĩa sẽ được trải_nghiệm những tiện_ích gộp của quần_thể căn_hộ này như đại trung_tâm thương_mại  giải_trí  chăm_sóc sức_khỏe  trường_học  công_viên … cơ_hội đầu_tư sinh lời cao chính nhờ những ưu_thế không phải bàn_cãi về vị_trí cũng như quy_hoạch tiện_ích  dự_án phumy_complex trở_thành cái tên được giới đầu_tư và khách_hàng mua ở săn_đón nhiệt_tình ngay trước khi dự_án được bung hàng 
+21,khách_hàng mua ở hưởng lợi từ giá_trị căn_hộ tăng nhanh theo thời_gian 
+22,khách đầu_tư có hơn một lí_do để tin rằng họ sẽ gặt quả ngọt trong tương_lai khi xuống tiền tại dự_án này 

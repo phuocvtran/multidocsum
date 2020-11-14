@@ -1,0 +1,13 @@
+idx, sentence
+0,vietjet tưng_bừng khai_trương đường_bay tphcm – kuala_lumpur tại thủ_đô kuala_lumpur  malaysia  
+1,chuyến bay đầu_tiên của vietjet tới kula_lumpur mang số_hiệu vj825 đã hạ_cánh lúc 12  00  giờ_địa_phương  với sự chào_đón nhiệt_liệt của người_dân và đoàn lãnh_đạo cấp cao hai nước việt_nam và malaysia  gồm có sự hiện_diện của phó_thủ_tướng nước chxhcn việt_nam trịnh_đình_dũng  lãnh_đạo bộ giao_thông vận_tải việt_nam  lãnh_đạo bộ giao_thông vận_tải malaysia và lãnh_đạo các ban_ngành 
+2,phát_biểu tại buổi khai_trương  ủy_viên trung_ương đảng  phó_thủ_tướng chính_phủ trịnh_đình_dũng đánh_giá cao quyết_tâm của vietjet – một hãng hàng_không thế_hệ mới trong việc tạo ra cầu_nối giữa việt_nam và malaysia 
+3,phó_thủ_tướng cũng đánh_giá cao nỗ_lực của vietjet trong việc cung_cấp dịch_vụ hàng_không an_toàn  đem lại nhiều lợi_ích cho người dân hai nước 
+4,những hành_khách đi kuala_lumpur trên chuyến bay đầu_tiên được thưởng_thức vũ_điệu truyền_thống quốc hoa malaysia và được tặng những món quà xinh_xắn từ vietjet 
+5,với giờ bay thuận_tiện  dịch_vụ chất_lượng  giá vé hấp_dẫn  đường_bay đáp_ứng nhu_cầu di_chuyển  du_lịch của người dân 2 nước  góp_phần thúc_đẩy giao_thương và hội_nhập toàn_cầu 
+6,vé máy_bay được mở bán trên tất_cả các kênh của vietjet bao_gồm tại website wwwvietjetaircom  trên điện_thoại smartphone_https//mvietjetaircom và facebook_wwwfacebookcom/vietjetvietnam  mục “ đặt vé ” 
+7,thanh_toán ngay bằng các loại thẻ visa / master / amex / jcb / thẻ atm của 24 ngân_hàng lớn tại việt_nam  có đăng_ký internet_banking  
+8,đường_bay tphcm – kuala_lumpur được khai_thác hàng ngày  thời_gian bay khoảng 1 giờ 55 phút 
+9,chuyến bay sẽ khởi_hành từ tphcm lúc 9 h30 và đến kuala_lumpur lúc 12 h25  giờ_địa_phương  
+10,chiều ngược_lại khởi_hành lúc 13 h00  giờ_địa_phương  từ kuala_lumpur và tới tphcm lúc 13 h55  giờ_địa_phương  
+11,chào_đón sự_kiện trên  vietjet công_bố 3 ngày vàng siêu khuyến_mại 31/5 và 0102 / 6/2016 với hàng trăm_nghìn vé tiết_kiệm giá từ 0 đồng vào khung giờ vàng 12 h – 14 h  áp_dụng trên tất_cả đường_bay trong nước và quốc_tế đến malaysia  singapore  hàn_quốc  đài_loan  thái_lan và myanmar cho thời_gian bay từ 15/8 đến 31/12/2016  trừ các ngày lễ tết  

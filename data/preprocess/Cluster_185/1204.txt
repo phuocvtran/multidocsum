@@ -1,0 +1,9 @@
+idx, sentence
+0,thiếu_niên họ từ  16 tuổi  đến từ tỉnh tứ_xuyên  bị bắt tại sân_bay dubai  các tiểu_vương_quốc arab thống_nhất  uae   vì đi lậu trên chuyến bay của hãng emirates_airlines khởi_hành từ thượng_hải ngày 26/5  theo sohu 
+1,từ khai đã trốn trong khoang chở hàng trên máy_bay suốt 10 giờ 
+2,hiện chưa rõ cậu làm thế_nào để vượt qua an_ninh ở sân_bay phố_đông  thượng_hải  để lẻn lên máy_bay 
+3,từ cho biết muốn đến dubai để thử làm_ăn xin 
+4,cậu nghe nói rằng ở dubai  người ăn_xin kém nhất cũng có_thể kiếm được 480000 nhân_dân_tệ  72900 usd  một tháng mà không mất một giọt mồ_hôi 
+5,từ chưa đủ tuổi vị_thành_niên nên sẽ không phải đối_mặt với hậu_quả nghiêm_trọng 
+6,hình_phạt dự_kiến là trục_xuất và cấm trở_lại dubai 
+7,cảnh_sát đang xem_xét khả_năng có một băng đảng nào đó liên_quan trong vụ_việc 

@@ -1,0 +1,32 @@
+idx, sentence
+0,cùng_với sự phát_triển “ nóng ” của các hãng hàng_không hiện_nay là bài_toán nan_giải về hạ_tầng 
+1,cảng_hàng_không  chk  tân_sơn_nhất hiện đã chạm mức quá_tải còn chk nội_bài cũng được dự_báo với sức tăng_trưởng “ nóng ” như hiện_nay thì trong vòng 3 năm nữa  sẽ rơi vào tình_trạng quá_tải như tân_sơn_nhất bây_giờ 
+2,phóng_viên báo_điện_tử chính_phủ đã có cuộc trao_đổi với cục_trưởng cục hàng_không việt_nam lại xuân_thanh về những kế_hoạch mở_rộng và nâng công_suất của 2 chk quốc_tế lớn nhất nước hiện_nay 
+3,theo báo_cáo mới nhất của cục hàng_không việt_nam  thị_phần quốc_tế của các hãng hàng_không việt_nam năm 2015 là 481   nhưng trong 4 tháng đầu năm 2016  thị_phần này giảm xuống 43  
+4,vì_sao có sự sụt_giảm này  thưa ông 
+5,cục_trưởng lại xuân_thanh  con_số 43  không phải do các hãng hàng_không việt_nam không tăng_trưởng mà do các hãng hàng_không quốc_tế đang tăng_cường các chuyến bay vào việt_nam 
+6,điều này chứng_tỏ thị_trường việt_nam đang được chú_trọng 
+7,nói hơi ngược  nhưng thực_tế  chúng_tôi muốn kéo thị_phần quốc_tế của các hãng hàng_không việt_nam xuống khoảng 40  để tăng tỉ_lệ các hãng quốc_tế đến đất_nước chúng_ta bởi bây_giờ các hãng hàng_không quốc_tế vẫn đang lấy thị_trường singapore  thái_lan  hong_kong làm trọng_điểm 
+8,đây là chiến_lược “ cạnh_tranh điểm đến quốc_tế ” mà ngành hàng_không việt_nam đang hướng tới 
+9,về thị_trường nội_địa  hiện vietnamairlines và vietjetair đang cạnh_tranh nhau ở mức 4042  
+10,các hãng cạnh_tranh nhau mạnh như hiện_nay thì người dân sẽ được hưởng lợi 
+11, cạnh_tranh điểm đến quốc_tế  nhưng hạ_tầng của chúng_ta đã cho_phép chưa thưa ông  đặc_biệt trong bối_cảnh sân_bay tân_sơn_nhất quá_tải 
+12,cục_trưởng lại xuân_thanh  sân_bay tân_sơn_nhất vẫn đang là điểm nghẽn căng_thẳng của hàng_không 
+13,tổng thị_trường hàng_không việt_nam hiện là hơn 25 triệu hành_khách mỗi tháng thông_qua các chk  riêng lượng hành_khách qua chk tân_sơn_nhất 4 tháng đầu năm 2016 là 10 triệu hành_khách / tháng  chiếm tỉ_lệ 40   trong khi đó những năm trước_đây tỉ_lệ này đều hơn 50  
+14,con_số này chứng_tỏ việc khai_thác hàng_không giữa các chk không qua chk tân_sơn_nhất tăng mạnh  các chk địa_phương hoạt_động nhiều hơn 
+15,về phương_án xử_lý  chính_phủ đã thông_qua việc di_dời hoạt_động bay quân_sự ra khỏi chk tân_sơn_nhất và có chính_sách tiếp_tục giành quỹ đất của quân_sự cho hàng_không dân_dụng để gỡ “ nút thắt ” này 
+16,tphcm cũng có kế_hoạch mở_rộng đường giao_thông tiếp_cận tân_sơn_nhất như  cải_tạo nút giao trường_sơn  phối_hợp với bộ_quốc_phòng nghiên_cứu mở đường song_song với đường cộng_hòa  mở_rộng đường hoàng_hoa_thám 
+17,bên_cạnh đó  việc giải_quyết đường lăn độc_đạo của tân_sơn_nhất cũng là việc gấp cần xử_lý bởi đây chính là nguyên_nhân khiến năng_lực của sân_bay này thấp 
+18,tphcm đang thực_hiện quy_hoạch về nhà_ga lưỡng_dụng với công_suất 10 triệu hành_khách 
+19,tổng_công_ty cảng_hàng_không việt_nam cũng có kế_hoạch mở_rộng nhà_ga nội_địa của tân_sơn_nhất thêm khoảng 45 triệu hành_khách nữa 
+20,như_vậy  sau khi mở_rộng  tân_sơn_nhất sẽ đạt công_suất khoảng 40 triệu hành_khách tương_ứng với năng_lực thông quan trên bầu_trời của sân_bay này 
+21,còn chk nội_bài đã sắp chạm mức quá_tải chưa  thưa ông 
+22,cục_trưởng lại xuân_thanh  chk nội_bài có công_suất thiết_kế 25 triệu hành_khách / năm 
+23,tuy_nhiên  với sức tăng_trưởng “ nóng ” như hiện_nay  năm 2015 là 22  nhưng 4 tháng đầu năm 2016 đã là 31   thì trong vòng 3 năm nữa  nội_bài sẽ rơi vào tình_trạng quá_tải như tân_sơn_nhất bây_giờ 
+24,theo quy_hoạch giao_thông vận_tải thủ_đô hà_nội đến năm 2030  tầm nhìn đến năm 2050 vừa được thủ_tướng chính_phủ phê_duyệt  sau năm 2030  nội_bài sẽ đạt công_suất 50 triệu hành_khách 
+25,ông có_thể nói rõ hơn về việc mở_rộng  nâng công_suất này 
+26,cục_trưởng lại xuân_thanh  như tôi đã nói ở trên  chk nội_bài_chỉ thêm vài năm nữa sẽ “ vỡ trận ” nên kế_hoạch mở_rộng  nâng công_suất của sân_bay này là việc cấp_bách 
+27,tuy_nhiên  để nâng công_suất của nội_bài thêm 25 triệu hành_khách / năm nữa thì đây sẽ là dự_án long_thành thứ hai và còn khó_khăn hơn dự_án xây_dựng chk_long_thành bởi quỹ đất theo quy_hoạch phải mở_rộng xuống phía nam mới bảo_đảm được đường cấthạ cánh độc_lập nhưng hiện_nay dân_cư dày_đặc  việc giải_phóng mặt_bằng sẽ rất khó_khăn 
+28,thực_hiện đúng theo quy_hoạch vừa được thủ_tướng chính_phủ phê_duyệt thì việc mở_rộng sẽ được xây_dựng đối_diện với sân_bay nội_bài hiện_nay  lật qua đại_lộ võ_nguyên_giáp  với diện_tích 720 ha thuộc 3 xã  phú_minh  phú_cường  mai_đình của huyện sóc_sơn 
+29,chi_phí giải_phóng mặt_bằng  đền_bù và xây_dựng khu tái_định_cư cho người dân dự_kiến khoảng 2 tỷ usd  tính theo thời_giá năm 2015  
+30,chi_phí xây_dựng các hạng_mục chính của “ nội_bài 2 ”  đường lăn  sân đỗ  khu nhà_ga  đèn_chiếu sáng …  khoảng 78000 tỷ đồng và sẽ thực_hiện theo hình_thức xã_hội_hóa 

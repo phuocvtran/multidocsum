@@ -1,0 +1,5 @@
+idx, sentence
+0,tin_tức liên_quan đến vụ tai_nạn xe ô_tô  điên  đâm hàng_loạt xe_máy xảy ra vào_khoảng 17 h30 chiều_qua  31/5   theo thông_tin từ người dân tại hiện_trường  vụ tai_nạn khiến ít_nhất 6 người bị_thương đã được đưa đi cấp_cứu ngay sau đó 
+1,theo một_số người dân  vào thời_gian trên họ xe thấy một tiếng nổ lớn  tiếp sau đó chiếc xe fortuner_bks_30p  2153 đi từ hướng đài_cồ việt về xã_đàn đến khu_vực cầu_vượt thì loạng_choạng và đâm vào 8 chiếc xe cùng chiều 
+2,theo ghi_nhận tại hiện_trường  chiếc xe xe fortuner_bks_30p  2153 bị hết_hơi  nghi bị nổ lốp   ở bánh sau bên phải một chiếc xe_máy nằm gọn trong gầm xe  nhiều xe_máy khác bị đâm văng ra xa và hư_hỏng nặng 
+3,được biết các nạn_nhân trong vụ tai_nạn đều bị_thương nhẹ nên đã trở_về nhà sau khi được đưa vào viện 

@@ -1,0 +1,9 @@
+idx, sentence
+0,chiều 16  ông nguyễn_thanh_bình  chủ_tịch ubnd xã tam_thanh  tptam_kỳ  quảng_nam  cho biết chủ nhà_hàng ba_cơ đã nhận trách_nhiệm sau vụ một bé trai 11 tuổi vướng dây_điện của nhà_hàng tại quảng_trường biển tam_thanh bị điện giật tử_vong 
+1,tai_nạn xảy ra khoảng 17 giờ 30 phút ngày 315 
+2,thời_điểm trên  em nguyễn_thành_công  11 tuổi  học lớp 5  đang đạp xe dạo_chơi tại quảng_trường biển  khi đến vị_trí dây_điện sà thấp và đọng nước thì bị điện giật chết 
+3,em công quê gốc ở điện_an  txđiện_bàn  quảng_nam  nhưng theo gia_đình chuyển vào tphcm
+4,công về quảng_nam cùng cha nhân_dịp nghỉ_hè 
+5,tối_qua  315   sau khi xảy ra tai_nạn thương_tâm  lực_lượng công_an và ngành điện_lực đã có_mặt tại hiện_trường để phân_tích  xác_định nguyên_nhân vụ_việc 
+6,cơ_quan_chức_năng xác_định đường_dây_điện dân_sinh là của nhà_hàng ba_cơ 
+7,mặc_dù nhà_hàng chuyển sang địa_điểm mới cách đó 100 mét nhưng vẫn sử_dụng đường_dây_điện này để phục_vụ sinh_hoạt cho nhân_viên 

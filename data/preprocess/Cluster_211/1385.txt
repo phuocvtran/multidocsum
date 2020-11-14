@@ -1,0 +1,5 @@
+idx, sentence
+0,theo thông_tin từ ubnd tỉnh gia_lai  phó chủ_tịch ubnd tỉnh gia_lai kpă_thuyên  vừa ký quyết_định thu_hồi trên 50 ha đất của công_ty cp hoàng_anh gia_lai  hagl  và giao số đất này cho công_ty nông_nghiệp_nuti để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu tại xã gào  tp_pleiku  và xã ia_băng  chư_prông  
+1,thời_hạn sử_dụng đất đến năm 2042 
+2,diện_tích đất bị thu_hồi này nằm ở xã gào  tp_pleiku  và xã ia_băng  chư_prông   được cơ_quan_chức_năng cấp giấy_chứng_nhận quyền sử_dụng đất cho hoàng_anh gia_lai có thời_hạn từ năm 2011 đến tháng 2/2042 
+3,mới_đây  tỉnh kon_tum cũng đã thống_nhất thu_hồi giấy chứng_nhận đầu_tư và chấm_dứt hoạt_động tại dự_án đầu_tư trồng cỏ  nuôi bò_thịt công_nghệ_cao của hagl do tập_đoàn này đã chủ_động chấm_dứt hoạt_động của dự_án 

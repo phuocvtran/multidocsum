@@ -1,0 +1,18 @@
+idx, sentence
+0,hôm 235  đoàn làm phim ma_nữ báo_thù của đạo_diễn vĩnh_khương có buổi giao_lưu báo_chí với sự tham_gia của các diễn_viên  trịnh kim_chi  hiền_mai  mai hàn  diễn_viên chính trương_nam_thành_dù đang bận quay_phim vẫn tranh_thủ đến sớm 30 phút để giao_lưu trước khi lên_đường đi long_an 
+1,trương_nam_thành cho biết khi đọc kịch_bản  anh rất thích_thú với nhân_vật của mình 
+2,trong phim  á vương 3 tại cuộc thi manhunt 2011 vào vai huy  chàng luật_sư điển_trai có một tương_lai ngời sáng cùng một tình_yêu tươi_đẹp với lan  thanh_trần  
+3,tuy_nhiên  khi về nhà_lan để ngỏ cưới  huy lại vướng vào lưới tình của một ma_nữ xinh_đẹp trong chính ngôi nhà của lan 
+4, khi được đọc kịch_bản  thành đã phải ồ lên thích_thú vì nhân_vật của mình 
+5,luật_sư huy_lâm vào tình_huống vừa có một tình_yêu chân_thành với vợ sắp cưới  lại sa vào lưới tình của một ma_nữ xinh_đẹp 
+6,giống như tình với người và duyên với ma_vậy   trương_nam_thành chia_sẻ 
+7,bộ phim được quay tại núi bạch_mã có độ cao gần 2000 m  cách huế 50 km 
+8,ngoài việc chí phí cao vì xa_xôi thì điều_kiện đi_lại tại đây cũng cực_kỳ khó_khăn  đường dốc hiểm_trở 
+9,ban_ngày không có điện  đến tối mới có điện từ khoảng 17 giờ đến 22 giờ 
+10,trên núi lại không có người sinh_sống  duy_nhất chỉ có trạm kiểm_lâm là có người ở 
+11,tuy_nhiên  cũng nhờ vậy_mà các thành_viên trong đoàn làm phim được dịp xích lại gần nhau hơn 
+12,vào vai ma_nữ trong phim là nữ diễn_viên trẻ mai_hàn  hiện là sinh_viên năm 2 của trường sân_khấu điện_ảnh 
+13,mai hàn cho biết cô chưa từng tham_gia bộ phim nào và khi casting đã diễn thử vai lan  vợ sắp cưới của huy nhưng sau đó lại được chọn vào vai  ma_nữ 
+14,hai diễn_viên gạo_cội trịnh kim_chi và hiền_mai cũng hào_hứng cho biết một trong những lý_do khiến họ nhận_lời tham_gia phim là vì  muốn trở_thành tình_địch trên phim 
+15,trịnh kim_chi cho biết   chi nhận_lời tham_gia phim này vì biết có hiền_mai cùng đóng chung 
+16,ngoài đời  hai đứa là bạn_bè rất thân nên khi đọc kịch_bản thấy hai nhân_vật lại là tình_địch của nhau  chi càng quyết_tâm phải đóng_phim này   cười  

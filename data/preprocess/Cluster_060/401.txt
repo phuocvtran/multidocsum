@@ -1,0 +1,6 @@
+idx, sentence
+0,copa america_centenario là giải đấu danh_giá nhất cấp đtqg ở khu_vực châu_mỹ 
+1,giải đấu này quy_tụ 16 đội bóng mạnh nhất từ 2 liên_đoàn conmebol  lđbđ_nam_mỹ  và concacaf  lđbđ_bắc  trung_mỹ và carribe  
+2,năm nay là năm kỷ_niệm 100 năm đánh_dấu sự ra_đời của copa_america  cũng là năm đầu_tiên giải đấu này diễn ra ở ngoài khu_vực nam_mỹ 
+3,với những đội_tuyển mạnh như argentina  brazil  mỹ hay colombia  copa_america là một giải đấu rất đáng xem với những người_yêu bóng_đá 
+4,để phục_vụ nhu_cầu theo_dõi của nhm  mới_đây vtv đã công_bố bản_quyền phát_sóng copa_america_centenario thông_qua hệ_thống các kênh thể_thao tv  bóng_đá tv thuộc ban biên_tập truyền_hình cáp  đài_th việt_nam  vtvpcd  

@@ -1,0 +1,5 @@
+idx, sentence
+0,ông trần_văn_phúc  trưởng_phòng kinh_doanh gas saigon_petro cho biết  từ 1/6  giá gas bán_lẻ của công_ty sẽ được điều_chỉnh giảm 125 đồng / kg  đã có vat   tương_đương mức giảm 1500 đồng / bình 12 kg 
+1,với mức giảm này  giá bán_lẻ tối_đa tới tay người dùng khu_vực tphcm là 272000 đồng / bình 12 kg 
+2,theo ông phúc  việc giá gas bán_lẻ giảm do giá gas thế_giới tháng 6 giảm 5 usd / tấn  xuống còn 3475 usd / tấn 
+3,đại_diện một_số hãng gas khác cũng cho biết có mức giảm tương_tự  xuống còn khoảng 270000  275000 đồng / bình 12 kg 

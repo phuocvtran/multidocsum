@@ -1,0 +1,24 @@
+idx, sentence
+0,vụ_việc ông nguyễn_phi_cường  quản_lý của ca_sĩ quang_hà  gửi đơn đến báo thanh_niên tố_cáo hai người quen dàn_cảnh lừa mua nhà trị_giá gần 4 tỉ đồng của ca_sĩ quang_hà nhưng không thanh_toán tiền được dư_luận quan_tâm 
+1,vấn_đề pháp_lý ở đây là  liệu căn_hộ của ca_sĩ quang_hà có mất hay không khi thủ_tục ký_kết công_chứng hợp_đồng mua_bán căn_hộ đã được hoàn_tất 
+2,có cơ_sở để hủy hợp_đồng theo luật_sư  ls  nguyễn_đức_chánh  thuộc đoàn ls tphcm   vụ_việc mua_bán căn_hộ chung_cư của ca_sĩ quang_hà hiện_nay đang dừng lại ở việc đã ký công_chứng hợp_đồng mua_bán  chưa kê_khai thuế thu_nhập cá_nhân  lệ_phí trước_bạ tại chi_cục thuế qphú_nhuận và chưa đăng_ký quyền_sở_hữu nhà ở tại chi_nhánh văn_phòng đăng_ký quyền sử_dụng đất qphú_nhuận 
+3,vì_vậy  trong trường_hợp này  bên bán có_thể tiến_hành thủ_tục khởi_kiện tại tand qphú_nhuận về tranh_chấp hợp_đồng mua_bán căn_hộ chung_cư theo quy_định của bộ_luật tố_tụng dân_sự 
+4,theo đó  yêu_cầu khởi_kiện có_thể là hủy hợp_đồng mua_bán căn_hộ chung_cư  hoặc yêu_cầu tiếp_tục thực_hiện hợp_đồng mua_bán mà hai bên đã ký công_chứng và lúc này  bên bán có quyền yêu_cầu tòa_án buộc bên mua thanh_toán số tiền chưa trả 
+5,việc lựa_chọn yêu_cầu khởi_kiện là quyền của bên khởi_kiện 
+6,nhưng qua vụ_việc này  khả_năng bên bán là ca_sĩ quang_hà sẽ chọn yêu_cầu hủy hợp_đồng mua_bán căn_hộ chung_cư đã được văn_phòng công_chứng trung_tâm  tphcm  chứng_nhận 
+7,còn theo điều 95 luật_đất_đai 2013 về đăng_ký đất_đai  nhà ở và tài_sản khác gắn liền với đất thì việc đăng_ký đất_đai  tài_sản gắn liền với đất có hiệu_lực kể từ thời_điểm đăng_ký vào_sổ địa_chính  tức_là cập_nhật trên trang sau của giấy chứng_nhận quyền sử_dụng đất  quyền_sở_hữu nhà ở và tài_sản khác gắn liền với đất hoặc được cấp giấy chứng_nhận mới  
+8,“ vì_vậy  nếu bên bán khởi_kiện yêu_cầu hủy hợp_đồng mua_bán căn_hộ chung_cư trong khi bên mua chưa thanh_toán tiền mua  chưa đăng_ký quyền_sở_hữu nhà ở thì vẫn có cơ_sở để hủy hợp_đồng mua_bán này ”  ls_chánh cho biết 
+9,để tránh cho việc bên mua hoàn_tất các thủ_tục kê_khai thuế và đăng_ký quyền_sở_hữu rồi từ đó tẩu_tán tài_sản hoặc giao_dịch với bên thứ 3 có_thể gây thiệt_hại cho bên bán  bên bán cần làm đơn yêu_cầu tòa_án áp_dụng biện_pháp khẩn_cấp tạm_thời là “ cấm hoặc buộc đương_sự thực_hiện hành_vi nhất_định ” theo khoản 12 điều 102 bộ_luật tố_tụng dân_sự cùng lúc với việc nộp đơn khởi_kiện 
+10,nếu toà_án chấp_nhận áp_dụng biện_pháp không cho bên mua kê_khai thuế  đăng_ký quyền_sở_hữu thì bên mua chưa_thể hoàn_tất thủ_tục 
+11,khởi_kiện ra tòa_án ls_huỳnh_công_thư  thuộc đoàn_ls tỉnh long_an  phân_tích  căn_cứ điều 12 khoản 1 luật_nhà_ở 2014  trừ khi các bên có thỏa_thuận khác  thì thời_điểm chuyển_quyền sở_hữu nhà là thời_điểm bên mua đã thanh_toán đủ tiền mua nhà và đã nhận nhà ở 
+12,mặt_khác  hợp_đồng mua_bán nhà_ở là một loại hợp_đồng_song vụ  theo đó  một bên có nghĩa_vụ giao nhà và bên kia có nghĩa_vụ thanh_toán tiền mua nhà 
+13,như_vậy  mặc_dù ông hà  qua ông cường  đã ký hợp_đồng công_chứng  đã giao nhà nhưng chưa nhận được tiền nên việc chuyển_quyền sở_hữu chưa hoàn_tất 
+14,ông hà có_thể khởi_kiện ông v để hủy_bỏ việc mua_bán nhà và lấy lại giấy_tờ nhà 
+15,đối_với va_li được cho là tiền để lại nhà ông cường  ls nguyễn_tấn_thi  thuộc đoàn ls tphcm  nêu ý_kiến  va_li để lại nhà ông cường nhưng không có nghĩa đó là số tiền ông h và v thanh_toán cho ông cường vì hai bên chưa mở ra xem  chưa xác_định đó là số tiền thanh_toán tiền mua nhà 
+16,vì_vậy  giao_dịch dân_sự giữa ông cường và ông h  v chưa hoàn_thành  hợp_đồng công_chứng có_thể bị tuyên vô_hiệu 
+17,trong vụ_việc này  mỗi vị_trí cần chứng_minh những vấn_đề khác nhau đó là bên ông h cần chứng_minh rằng ông cường đã nhận tiền  còn ông cường phải chứng_minh ông h  ông v đã nói_dối đó là va_li tiền để trả tiền nhà 
+18,tỉnh_táo tránh bị lừa ls cao_hoàng_sang  thuộc đoàn ls tphcm  nêu  hiện_nay có rất nhiều chiêu trò lừa_đảo trọng việc mua_bán nhà  vì_vậy  người mua và người bán đều cần tỉnh_táo để tránh bị lừa 
+19,cần tìm_hiểu kỹ giấy_tờ nhà  đất và nguồn_gốc nhà_đất  xem giấy_tờ thật hay giả  ai là chủ_sở_hữu  có thế_chấp  cầm_cố hay tranh_chấp gì không 
+20,việc thanh_toán của các bên nên thanh_toán qua ngân_hàng và yêu_cầu ngân_hàng là bên thứ ba đứng trung_gian 
+21,khi nào các bên tiến_hành xong các thủ_tục  ngân_hàng mới cho chuyển tiền 
+22,việc này vừa là chứng_cứ khi tranh_chấp hợp_đồng mua_bán vừa đảm_bảo tránh cướp_giật 

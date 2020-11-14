@@ -1,0 +1,7 @@
+idx, sentence
+0,vụ_việc xảy ra khoảng 4 h sáng nay  36  tại huyện an_minh  tỉnh kiên_giang gây xôn_xao dư_luận 
+1,nạn_nhân là trần_thị_tuyết_mai  sn 1967  hộ_khẩu thường_trú ấp bình_đông i  xã bình_thạnh_đông  huyện phú_tân  tỉnh an_giang   đối_tượng gây_án là lê_văn_nhỏ  sn 1954  ngụ ấp thạnh_phong  xã đông_thạnh  huyện an_minh  
+2,thông_tin ban_đầu  nhỏ và mai có quan_hệ yêu_đương  từ đầu năm đến nay  cả hai về huyện an_minh  sống chung với nhau như vợ_chồng 
+3,gần đây  nhỏ hay nghi_ngờ mai có quan_hệ bất_chính với người đàn_ông khác nên giữa 2 người thường_xuyên xảy ra cự cãi 
+4,đến 4 h sáng nay  36   trong lúc mai đang ngủ thì bất_ngờ bị nhỏ dùng búa_chém vào vùng cổ gây tử_vong 
+5,sau khi gây_án  nhỏ uống thuốc_trừ_sâu tự_tử  nhưng đã được người_thân phát_hiện  đưa đến bệnh_viện cấp_cứu kịp_thời 

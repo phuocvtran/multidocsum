@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 98  tin từ công_an huyện kỳ_anh  hà_tĩnh  cho biết  cơ_quan này vừa ra quyết_định khởi_tố đối_với 2 đối_tượng nguyễn_thành_trinh  sn 1980  và lê_xuân_kỳ  sn 1970  ở xã kỳ_phong  huyện kỳ_anh  hà_tĩnh  về tội hiếp_dâm trẻ_em 
+1,theo đó  2 đối_tượng trinh và kỳ mở quán tổ_chức hoạt_động mại_dâm tại địa_bàn xã kỳ_phòng nhưng thiếu người phục_vụ 
+2,ngày 236  do quen_biết từ trước nên kỳ và trinh đã gọi điện cho lô_thị_xuân_lý  sn 1986  ở bản hạnh_tiến  xã thanh_sơn  huyện thanh_chương  nghệ_an  nhờ tìm người xuống phục_vụ tại quán 
+3,ngày 266  lý tìm được em ktb
+4, sn 2001  ở thanh_chương  nghệ_an  rồi hẹn với trinh và kỳ ra tp vinh đón 
+5,trinh và kỳ đã ra tp vinh đón em b về và đưa cho lý_5_triệu đồng 
+6,sau khi đón em b về quán tại xã kỳ_phong  hai đối_tượng kỳ và trinh thay nhau hãm_hiếp trước khi bắt em b phục_vụ mại_dâm tại quán mặc cho em b khóc_lóc van_xin 

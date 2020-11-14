@@ -1,0 +1,2 @@
+idx, sentence
+0,lý_giải_nguyên_nhân giá gas tháng 6 giảm  ông trần_văn_phúc  trưởng_phòng kinh_doanh – công_ty dầu_khí tp_hồ_chí_minh  saigon_petro  cho biết  do giá gas thế_giới bình_quân tháng 6/2016 vừa công_bố ở mức 3475 usd / tấn  giảm 5 usd / tấn so với tháng 5/2016 nên giá gas trong nước được điều_chỉnh giảm nhẹ  nhằm đảm_bảo_thủ quy_luật thị_trường và quyền_lợi của người tiêu_dùng 

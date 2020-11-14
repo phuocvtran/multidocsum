@@ -1,0 +1,10 @@
+idx, sentence
+0,theo russia_today  ông mikhail_fridman cho hay  “ tôi không thích tuyên_bố công_khai nhiều  nhưng tôi nói rằng tôi sẽ chuyển toàn_bộ số tiền của mình để làm từ_thiện 
+1,tôi không có kế_hoạch để số tiền đó cho các con thừa_kế ” 
+2,tỉ_phú giàu thứ nhì nước nga phát_biểu như trên khi trả_lời câu_hỏi từ khán_giả trong một câu_lạc_bộ của tạp_chí forbes 
+3,theo fridman  cho người trẻ số tiền lớn có_thể hủy_hoại cuộc_đời của họ 
+4,ông còn cho hay ông không muốn con mình tham_gia vào hoạt_động kinh_doanh của hãng alfa_group do ông lãnh_đạo 
+5,fridman nói rằng ông muốn con_cái đi theo bước chân của ông  tự_thân tạo ra thứ gì đó của riêng mình 
+6,ngoài_ra  vị tỉ_phú 52 tuổi không muốn con_gái đầu_lòng là laura  năm nay 22 tuổi  trở_thành tâm_điểm của những người có ý_định xấu 
+7,tỉ_phú nga chia_sẻ thêm nhiều đối_tác làm_ăn của ông cũng có quyết_định tương_tự 
+8,ông fridman có bốn người con  người nhỏ nhất 10 tuổi và lớn nhất 22 tuổi 

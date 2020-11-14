@@ -1,0 +1,20 @@
+idx, sentence
+0,thông_tin bất_ngờ trên được thông_báo sau khi tay_vợt người tây ban_nha hạ facundo_bagnis ở vòng 2 
+1,nadal đã quyết_định rút_lui ngay trước trận đấu với tay_vợt marcel_granollers ở vòng 3 
+2,tay vợt người tây ban_nha cho biết anh đã tiêm thuốc gây_tê vào cổ_tay trước khi bước vào thi_đấu 
+3,nhưng cuối_cùng  nadal đã không_thể tiếp_tục thi_đấu do bị chấn_thương hành_hạ 
+4,“ hôm_qua  tôi đã tiêm thuốc gây_tê để thi_đấu 
+5,đến tối hôm_qua thì tôi cảm_thấy đau nhiều hơn và hôm_nay  tôi cảm_thấy mình không_thể cử_động cổ_tay 
+6,nếu đây không phải là roland_garros  tôi có_lẽ sẽ không mạo_hiểm để thi_đấu ở những vòng đầu ”  nadal chia_sẻ 
+7,anh cũng cho biết nếu tiếp_tục mạo_hiểm thi_đấu thì cổ_tay sẽ bị chấn_thương nặng 
+8,“ đây là thời_điểm khó_khăn và là cuộc họp_báo khó_khăn nhất mà tôi từng tham_dự  nhưng đây sẽ không phải là dấu chấm_hết với tôi ”  tay_vợt người tây ban_nha thú_nhận 
+9,anh hy_vọng có_thể thi_đấu ở wimbledon vào tháng sau   chúng_tôi sẽ làm_việc chăm_chỉ để sẵn_sàng thi_đấu ở wimbledon 
+10,tôi cần để cổ_tay mình nghỉ_ngơi trong vài tuần rồi mới điều_trị 
+11,hy_vọng là mọi chuyện rồi sẽ ổn  
+12,nadal đã 9 lần vô_địch roland_garros 
+13,anh thất_vọng khi phải rút_lui ở giải đấu lần này  “ chín lần trước  tôi đã có_thể_trạng tốt để vô_địch roland_garros 
+14,để vô_địch giải đấu lần này  tôi cần phải chơi 5 trận nữa 
+15,nhưng với tình_hình sức_khỏe hiện_tại thì điều đó là bất_khả_thi ” 
+16,với việc_nadal_rút_lui  tay_vợt marcel_granollers sẽ vào thẳng vòng trong 
+17,djokovic do_vậy cũng dễ_thở hơn nhiều 
+18,tay vợt người serbia đang nỗ_lực để giành danh_hiệu đầu_tiên ở roland_garros 

@@ -1,0 +1,19 @@
+idx, sentence
+0,người_ta bảo pep_guardiola sống vô_cảm  lạnh_nhạt và luôn giữ khoảng_cách với tất_cả mọi người 
+1,lắm kẻ còn đồn_thổi pep đến bayern vì tiền chứ tình_yêu làm_gì có trong từ_điển của chiến_lược gia tây ban_nha  hoặc cái thứ lung_linh ấy ông để lại nou_camp từ rất lâu rồi 
+2,thậm_chí tay nhà_báo nào đó từng viết rằng với một người thực_dụng  không cảm_xúc như pep  đừng mơ đến chuyện lão rơi nước_mắt trong ngày chia_tay bayern 
+3,nên nhớ  thời_điểm chia_tay barca  nơi đưa nhà cầm_quân tây ban_nha đến tột_đỉnh danh_vọng  cũng chẳng có giọt nước_mắt nào rơi cả 
+4,nhưng đêm qua  pep chứng_minh rằng tất_cả đã sai 
+5,sau khi douglas_costa sút tung_lưới dortmund ở loạt đá luân_lưu quyết_định giúp bayern vô_địch cúp_qg_đức  pep ôm mặt òa khóc  nước_mắt lăn dài trên má  rơi lã_chã xuống mặt cỏ 
+6,pep không “ diễn ”  bởi_lẽ chẳng người đàn_ông nào diễn lại có_thể khóc ngon_lành và mặt sưng_húp đến vậy 
+7,trong sự khóc ấy  người_ta thấy bóng hình của một cậu học_sinh lớp 12 vừa tốt_nghiệp và sắp xa trường  xa lớp  xa bạn_bè 
+8,cảm_xúc trộn_lẫn  hòa_quyện vào nhau rồi vỡ òa 
+9,vui có  buồn có và tiếc nhớ cũng có 
+10,pep vui vì sau 120 phút kịch_chiến cùng kình_địch dortmund  bayern giành chiến_thắng trong loạt đá luân_lưu 
+11,pep buồn vì sau 3 năm mà như ông nói “ suốt 24 tiếng đều nghĩ về các học_trò ”  ông vẫn không_thể giúp bayern vô_địch champions_league 
+12,nhưng nhiều hơn cả là cảm_xúc tiếc nhớ 
+13,sau trận chung_kết này  pep chia_tay bayern để đến dẫn_dắt man_city 
+14,ông nói trong nước_mắt  “ “ tôi sẽ nhớ tất_cả mọi người  đặc_biệt là những học_trò của tôi 
+15,tôi đã có 3 năm quá tuyệt_vời tại đây ” 
+16,đáp lại tình_cảm của ông thầy  các cầu_thủ bayern công_kênh pep sau khi trận đấu kết_thúc  thủ_quân philipp_lahm ép ông lên nhận cúp vô_địch 
+17,nếu pep không được lòng học_trò  đừng mơ những ngôi_sao của “ hùm xám ” làm thế 

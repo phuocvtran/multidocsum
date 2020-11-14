@@ -1,0 +1,16 @@
+idx, sentence
+0,phát_biểu tại lễ khai_mạc  chủ_tịch hội nhà_báo việt_nam thuận_hữu  chủ_tịch hội_đồng chung_khảo giải báo_chí quốc_gia lần thứ x khẳng_định đây là mùa giải đầu_tiên trong nhiệm_kỳ mới của ban_chấp_hành hội nhà_báo việt_nam khóa x  2015  2020  với nhiều thành_viên mới trong hội_đồng giải và hội_đồng chung_khảo 
+1,qua 10 mùa giải  các cấp hội  các cơ_quan báo_chí trong cả nước ngày_càng nhiệt_tình hưởng_ứng 
+2,vòng chấm sơ_khảo được triển_khai sớm hơn gần một tháng 
+3,hội_đồng chấm sơ_khảo làm_việc chuyên_nghiệp  tinh_thần trách_nhiệm cao  đã lựa_chọn và trình hội_đồng chung_khảo danh_sách 143 tác_phẩm thuộc 11 loại giải được chọn từ 1660 tác_phẩm dự giải 
+4,đây là những tác_phẩm tiêu_biểu  phản_ánh trung_thực_tình_hình kinh_tế  chính_trị  xã_hội  an_ninh quốc_phòng của đất_nước  có tính định_hướng dư_luận xã_hội 
+5,trong đó có nhiều tác_phẩm có hiệu_quả tác_động xã_hội tốt  được các cơ_quan_chức_năng tiếp_thu  giải_quyết 
+6,năm nay  giải báo_chí quốc_gia tiếp_tục nhận được sự hưởng_ứng nhiệt_tình của các cấp hội trong cả nước với 169 cấp hội  cá_nhân tham_dự 11 loại giải 
+7,giải năm nay có số hội nhà_báo tỉnh  thành_phố tham_dự cao nhất tính từ giải đầu_tiên đến nay với 61/63 hội nhà_báo tỉnh  thành_phố tham_gia 
+8,chủ_tịch hội nhà_báo việt_nam thuận_hữu nhận_xét các tác_phẩm dự giải đã phản_ánh trung_thực các sự_kiện chính_trị lớn của đất_nước trong năm 2015  năm có nhiều sự_kiện trọng_đại  cả nước tiến tới đại_hội_đảng_toàn_quốc lần thứ xii  thực_hiện nghị_quyết trung_ương 4 khóa xi về xây_dựng đảng  thực_hiện các nghị_quyết  chính_sách điều_hành_kinh_tế  xã_hội của chính_phủ trong năm 2015  học_tập và làm theo tấm_gương đạo_đức hồ_chí_minh … số_lượng tác_phẩm viết về bảo_vệ chủ_quyền biển đảo khá nhiều và có chất_lượng tốt 
+9,các tác_phẩm dự thi đều đáp_ứng được các tiêu_chí xét chọn của giải  bám_sát nhiệm_vụ chính_trị của đất_nước trong năm với nhiều khó_khăn  thử_thách mới  phản_ánh kịp_thời  sinh_động  đa_dạng tình_hình kinh_tế  xã_hội  phản_ánh quyết_liệt vấn_đề an_ninh quốc_phòng  nhất_là bảo_vệ chủ_quyền biển  đảo thiêng_liêng của tổ_quốc 
+10,các tác_phẩm cũng phản_ánh cuộc đấu_tranh phòng  chống tham_nhũng  tiêu_cực  đấu_tranh với các thế_lực thù_địch  các hoạt_động sai_trái chống_phá nhà_nước và chế_độ 
+11,bên_cạnh đó còn có các tác_phẩm giới_thiệu các nhân_tố mới  gương người tốt việc tốt  điển_hình tiên_tiến trong hoạt_động kinh_tế  xây_dựng và bảo_vệ tổ_quốc  xóa_đói_giảm_nghèo  các tác_phẩm viết về đề_tài nông_dân  nông_nghiệp  nông_thôn và nhiều vấn_đề kinh_tế xã_hội khi việt_nam tham_gia hiệp_định đối_tác xuyên thái_bình_dương  tpp   hướng tới cộng_đồng asean … phó chủ_tịch hội nhà_báo việt_nam mai_đức_lộc  chủ_tịch hội_đồng sơ_khảo giải báo_chí quốc_gia lần thứ x cho biết các tác_phẩm dự giải đã đồng_đều về chất_lượng  không có khoảng_cách quá lớn giữa báo_chí trung_ương  địa_phương 
+12,tuy_nhiên  điểm yếu chung của các tác_phẩm là chưa sâu  chưa đạt tầm của vấn_đề đặt ra 
+13,số_lượng tác_phẩm dự thi tăng nhưng chưa có tác_phẩm đặc_biệt nổi_trội 
+14,báo điện_tử tham_dự nhiều nhưng chưa thể_hiện được tính đặc_trưng của báo điện_tử 

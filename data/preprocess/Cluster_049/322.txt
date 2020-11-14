@@ -1,0 +1,3 @@
+idx, sentence
+0,tàu lowlands sky  quốc_tịch panama có trọng_tải  dwt  hơn 32000 dwt và chiều dài hơn 177 mét  chở 21000 tấn than đá nhập_khẩu từ indonesia 
+1,đây là chuyến tàu có trọng_tải và chiều dài lớn nhất đầu_tiên cập cảng gò_dầu_nhập hàng 

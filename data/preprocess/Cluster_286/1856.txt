@@ -1,0 +1,9 @@
+idx, sentence
+0,clb barca vừa chính_thức xác_nhận sẽ chia_tay hậu_vệ dani_alves trong mùa_hè này 
+1,thông_tin trên cũng đã được chính giám_đốc thể_thao robert_fernandez của barca xác_nhận với báo_giới 
+2, alves muốn ra đi và chúng_tôi không_thể giữ anh ấy 
+3,barca luôn muốn alves ở lại  nhưng anh ấy đã quyết_định và chúng_tôi phải tôn_trọng điều đó   fernandez nói 
+4,hiện chưa_thể khẳng_định 100  bến đỗ mới của hậu_vệ người brazil  song gần như chắc_chắn đó sẽ là juventus 
+5,cách đây hai hôm  giám_đốc điều_hành của juventus  ông beppe_marotta đã xác_nhận đang đàm_phán chiêu_mộ alves và tỏ ra lạc_quan về thương_vụ này 
+6,theo báo_chí italia  nếu không có gì thay_đổi  alves sẽ chính_thức trở_thành cầu_thủ của juve vào ngày 5/6 tới 
+7,tại juventus  alves sẽ nhận lương 4 triệu euro / năm  thấp hơn 2 triệu euro so với thu_nhập ở barca 

@@ -1,0 +1,39 @@
+idx, sentence
+0,ban chuyên_án bắt_giữ 3 đối_tượng  nguyễn_sỹ_đạt  sn 1970  hộ_khẩu thường_trú  tổ_dân_phố bảo_lộc 1  phường thanh_châu  tp phủ_lý  tỉnh hà_nam  đã có một tiền_án về tội lừa_đảo chiếm_đoạt tài_sản  lê_thái_duy  sn 1988  trú tại tổ 5  phường lương_khánh_thiện  tp phủ_lý  tỉnh hà_nam   chưa có tiền_án  tiền_sự  lê_việt_hoàn  sn 1981  trú ở đường đề_yêm  phường lê_hồng_phong  tp phủ_lý  tỉnh hà_nam  có một tiền_án về tội cướp tài_sản 
+1,bắn thử trước khi gây_án trong buổi họp_báo chiều 8/8  tại trụ_sở công_an tỉnh hà_nam  trung_tá chu_văn_phú  phó cục_trưởng cục chính_trị  tổng_cục cảnh_sát  bộ công_an  đã đọc thư khen và quyết_định khen_thưởng của bộ_trưởng bộ công_an đối_với các lực_lượng tham_gia điều_tra  làm rõ vụ_án giết người  tàng_trữ  sử_dụng vũ_khí quân_dụng xảy ra ngày 4/7/2016 tại tỉnh hà_nam gây xôn_xao dư_luận 
+2,theo nội_dung vụ_án  vào khoảng 15 h30 phút ngày 4/7  tại khu_vực miếu thần thuộc tổ_dân_phố bảo_lộc 1  phường thanh_châu  tp phủ_lý  hà_nam  xảy ra vụ ám_sát kinh_hoàng khiến một người tử_vong 
+3,nạn_nhân là ông lê_hữu_trí  giám_đốc công_ty tnhh_hữu_trí bị hai đối_tượng bịt mặt bắn nhiều phát đạn khi vừa ra khỏi cổng miếu 
+4,xét tính_chất đặc_biệt nghiêm_trọng  đối_tượng gây_án manh_động  sử_dụng súng nơi công_cộng  công_an tỉnh hà_nam đã huy_động nhiều lực_lượng phối_hợp với các đơn_vị của bộ công_an tập_trung phá_án 
+5,nạn_nhân_tử_vong bởi 5 vết_thương ở tim  sườn  theo chia_sẻ của cơ_quan điều_tra  vụ trọng_án này xảy ra giữa “ thanh_thiên bạch_nhật ” tại một địa_bàn phức_tạp về hình_sự  ma_túy của tp phủ_lý  tỉnh hà_nam 
+6,trước thời_điểm xảy ra vụ_án không lâu  tại tp phủ_lý cũng vừa xảy ra một vụ án dùng súng bắn vào nhà trung_tá lê_đức_tùng  trưởng công_an tp phủ_lý_gây dư_luận xấu trong xã_hội 
+7,từ đó dẫn đến việc người dân trên địa_bàn lo_sợ bị trả_thù nên đã từ_chối hợp_tác hoặc không cung_cấp thông_tin cho cơ_quan điều_tra 
+8,giá_trị thông_tin và vật_chứng tại hiện_trường rất hạn_chế 
+9,sau hơn một tháng điều_tra  vụ_án đã khám_phá thành_công 
+10,ban chuyên_án đã bắt_giữ nhóm đối_tượng gây_án 
+11,quá_trình điều_tra làm rõ  do mâu_thuẫn cá_nhân giữa nguyễn_sỹ_đạt và lê_hữu_trí từ trước  đạt đã lên kế_hoạch và thuê lê_việt_hoàn_giết ông trí  với giá 500 triệu 
+12,đạt đã trực_tiếp mua súng và hướng_dẫn hoàn_bắn thử súng để chuẩn_bị kế_hoạch giết người 
+13,nắm được thói_quen nạn_nhân hay đi lễ chùa vào các ngày_rằm và mùng 1 tại miếu thần   phường thanh_châu  tp phủ_lý  hà_nam   đạt đã trao_đổi và thống_nhất với hoàn sẽ bắn anh khi anh trí đi lễ 
+14,theo kế_hoạch  ngày 19/6  tức rằm tháng 5 âm_lịch  hoàn cùng duy mang súng đến khu_vực miếu_thần chờ ông trí để sát_hại 
+15,tuy_nhiên do hôm đó ông trí không đến miếu nên các nghi can không_thể gây_án 
+16,tội_phạm sa lưới sau 32 ngày_đêm đến khoảng 6 h  ngày 4/7/2016  tức ngày 1/6 âm_lịch   hoàn đi xe_máy sang nhà của long  ngõ 63  sông_cầu  phường lương_khánh_thiện  để đón duy 
+17,lúc này  duy đang ở nhà long nên đã mượn xe_máy wave màu đỏ mang bks 90 b1735  91 của long để thực_hiện_hành_vi phạm_tội 
+18,hai đối_tượng này đã mặc áo chống nắng  che biển số xe và giấu súng vào trong cốp trước khi đến địa_điểm trên để chờ hiệu_lệnh của đạt 
+19,sau khi nhận được thông_báo ông trí đã xuất_hiện ở miếu_thần  duy lái xe chở hoàn đi vòng lối sau miếu và nấp ở gần cổng 
+20,đến lúc ông trí đi ra  hoàn_đi từ phía sau cách ông trí khoảng 2 m  rút súng bắn hết 1 băng_đạn 6 viên làm ông trí gục tại_chỗ 
+21,ngay sau đó  hoàn bỏ chạy đến chỗ duy đã nổ máy chờ sẵn  nhanh_chóng tẩu_thoát khỏi hiện_trường 
+22,dù được đưa đi cấp_cứu ngay_lập_tức  nhưng nạn_nhân đã tử_vong vì vết_thương quá nặng 
+23,trên đường bỏ chạy  hoàn_gọi điện_thoại cho đạt thông_báo đã bắn chết ông trí 
+24,đến cổng trường đại_học công_nghiệp hà_nội  cơ_sở hà_nam  tp phủ_lý  tỉnh hà_nam  thì hoàn  duy gặp đạt đi ôtô đến và cùng nhau chạy về khu_vực núi cấm thì dừng lại 
+25,hoàn bảo duy_mở cốp để lấy hai áo chống nắng và súng rồi sang xe ôtô của đạt đi phi_tang 
+26,đồng_thời  hoàn bảo duy chạy xe về phi_trường ở suối_ngang 
+27,khi đến hồ tam_trúc  đạt dừng xe và tự tay tháo_rời các bộ_phận của súng rồi vứt xuống hồ đồng_thời  định đốt hai áo chống nắng nhưng vì có người khác xuất_hiện nên vứt xuống rìa đường bêtông  còn hoàn thì vứt điện_thoại và sim ở vệ đường 
+28,sau đó  đạt và hoàn về phi_trường gặp duy rồi cùng uống bia đến 22 h thì giải_tán 
+29,“ đối_tượng hoàn là người hà_nam  nhưng lên lào_cai làm_ăn  lại ở gần nhà đối_tượng duy và thông_qua các mối quan_hệ đã giới_thiệu cho đạt thực_hiện kế_hoạch của mình 
+30,và đối_tượng duy  tuy không người địa_bàn này  nhưng đã rất nhiều lần khảo_sát đường đi lối lại của địa_bàn thanh_châu  tp phủ_lý  hà_nam  cũng như nhận_dạng chính_xác anh trí để gây vụ_án 
+31,đây là một trong những thủ_đoạn mới của các đối_tượng ma_túy  hình_sự hiện_nay  đó là sử_dụng những người mới  những người chưa biết gì  đặc_biệt là trẻ_em  … thay_vì các sát_thủ chuyên_nghiệp để đánh lạc hướng sự chú_ý của cơ_quan điều_tra khi vụ_việc xảy ra ”  thiếu_tướng hồ_sỹ_tiến  cục_trưởng cục cảnh_sát hình_sự  c45  nói về thủ_đoạn mới của các tội_phạm hiện_nay 
+32,hiện_nay  cơ_quan cảnh_sát điều_tra bộ công_an đang tiếp_tục tiến_hành điều_tra  làm rõ nguyên_nhân bản_chất vụ_án và các tình_tiết liên_quan khác  xử_lý theo đúng pháp_luật 
+33,cần xử_lý nghiêm theo luật_sư nguyễn_anh thơm  đoàn_luận sư hà_nội   quyền sống là một trong những quyền cơ_bản nhất của con_người 
+34,mọi hành_vi tước đoạt quyền sống của con_người trái pháp_luật đều bị xử_lý nghiêm theo qui_định của pháp_luật 
+35,các đối_tượng trong vụ_án này đã sử_dụng súng quân_dụng k54 để bắn chết ông lê_hữu_trí nên hành_vi tàng_trữ súng là đã xâm_hại đến chính_sách độc_quyền quản_lý về vũ_khí của nhà_nước  trực_tiếp xâm_phạm trật_tự  an_toàn công_cộng  tính_mạng sức_khỏe  tài_sản của công_dân và tổ_chức 
+36,do_đó  hành_vi phạm_tội của đối_tượng nguyễn_sỹ_đạt  lê_việt_hoàn  lê_thái_duy đã phạm_tội giết_người và tội tàng_trữ vũ_khí quân_dụng 
+37,tội_phạm và hình_phạt được qui_định tại điểm m  n  o  p khoản 1 điều 93 blhs và điều 230 blhs 

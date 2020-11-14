@@ -1,0 +1,8 @@
+idx, sentence
+0,phát_biểu tại thủ_đô tehran hôm 22/5  thứ_trưởng bộ dầu_mỏ iran_rokneddin_javadi nói rằng iran sẽ không đóng_băng tốc_độ khai_thác dầu của mình cho đến khi đạt bằng năng_suất trước khi bị thế_giới trừng_phạt do chương_trình hạt_nhân gây tranh_cãi 
+1, trong hoàn_cảnh hiện_nay  chính_phủ và bộ dầu_mỏ sẽ không đưa ra bất_kỳ một chính_sách hoặc kế_hoạch nào cho công_ty dầu_khí quốc_gia iran  nioc  nhằm ngăn_chặn sự gia_tăng trong khai_thác và xuất_khẩu dầu   ông javadi  người kiêm_nhiệm_chức chủ_tịch nioc nói với hãng tin mehr của iran 
+2, hiện năng_suất xuất_khẩu dầu_thô  gồm cả khí_hóa lỏng của iran đã đạt mức 2 triệu thùng mỗi ngày 
+3,có khả_năng ngành xuất_khẩu dầu_thô của iran sẽ đạt 22 triệu thùng mỗi ngày vào giữa mùa hè này    ông javadi cho biết 
+4,một cuộc họp giữa các nhà xuất_khẩu dầu hàng_đầu opec  gồm cả iran sẽ được tổ_chức vào ngày 2/6 
+5,chương_trình nghị_sự dự_kiến là kế_hoạch cứu lấy thị_trường dầu của opec và các nước không thuộc opec bằng cách đóng_băng sản_lượng khai_thác 
+6,hồi tháng 4  hội_nghị của opec tại qatar đã thất_bại sau khi arập_xê út yêu_cầu iran tham_gia kế_hoạch cứu lấy ngành sản_xuất dầu_mỏ  nhưng tehran từ_chối 

@@ -1,0 +1,15 @@
+idx, sentence
+0,cuộc đối_đầu giữa hai đội bóng đang xếp ở vị_trí nhất và nhì trên bảng xếp_hạng ở mùa giải năm nay là hải_phòng với flc thanh_hóa đang là tâm_điểm chú_ý của người hâm_mộ bóng_đá nước_nhà 
+1,nếu bỏ_túi 3 điểm sau trận đấu trên sân khách  đội bóng hải_phòng sẽ gia_tăng khoảng_cách với chính flc thanh_hóa lên tới 9 điểm và sẽ rất tự_tin trên con đường giành ngôi vô_địch 
+2,ngược_lại  nếu buộc đội bóng đất cảng tay_trắng ra về  flc thanh_hóa sẽ rút ngắn khoảng_cách với hải_phòng và cuộc đua đến chức vô_địch ở mùa giải năm nay sẽ trở_nên hấp_dẫn và kịch_tính hơn nhiều 
+3,với những màn thể_hiện quá ấn_tượng trong chuỗi trận vừa_qua và hiện đang độc_chiếm ngôi đầu  nên không ai nghi_ngờ về sức_mạnh của đội bóng đến từ thành_phố hoa_phượng đỏ 
+4,chưa kể  đội bóng này vừa có trận thắng trước khánh_hòa với tỷ_số 20  nên các cầu_thủ của hlv trương_việt_hoàng sẽ hành_quân đến sân thanh_hóa với một tâm_lý hết_sức thoải_mái 
+5,việc giành 3 điểm  hoặc chí_ít là 1 điểm trên sân khách không phải là nhiệm_vụ quá khó_khăn đối_với các cầu_thủ hải_phòng 
+6,trong khi đó  đội bóng của xứ thanh cũng vừa có trận thắng đậm đội đồng_tháp với tỷ_số 40 và đang hừng_hực khát_vọng rút ngắn khoảng_cách về điểm_số với đội dẫn_đầu để tiếp_tục nuôi giấc mơ vô_địch ở mùa giải năm nay 
+7,về lực_lượng  ở trận đối_đầu với hải_phòng  flc thanh_hóa sẽ ra_quân với đội_hình mạnh nhất khi có sự phục_vụ đầy_đủ của các cầu_thủ nòng_cốt như omar  quốc_phương  văn_phong  hoàng_thịnh  đình_tùng … tuy_nhiên  chính áp_lực phải thắng đang là một trở_ngại tâm_lý rất lớn đè nặng lên đôi vai của giám_đốc kỹ_thuật lê_thụy_hải và những cầu_thủ flc thanh_hóa 
+8,“ có_thể lối chơi của hải_phòng ở mùa giải năm nay không thực_sự đẹp_mắt 
+9,nhưng bạn thấy đấy  họ đá rất hiệu_quả 
+10,ngoài 2 ngoại binh chơi ở vị_trí tiền_đạo thuộc loại tốt nhất ở vleague hiện_nay  hải_phòng còn có một hàng hậu_vệ rất chắc_chắn 
+11,hlv trương_việt_hoàng luôn có đủ lực_lượng cần_thiết để phục_vụ cho ý_đồ chiến_thuật của mình ”  ông hải nói 
+12,vẫn theo ông hải  flc thanh_hóa luôn gặp khó_khăn trong nhân_sự 
+13,do độ chênh_lệch trình_độ giữa các cầu_thủ chính_thức và cầu_thủ dự_bị quá xa  nên chúng_tôi luôn thiếu sự linh_hoạt trong điều_chỉnh lối chơi cho từng trận đấu 

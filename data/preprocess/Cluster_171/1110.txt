@@ -1,0 +1,14 @@
+idx, sentence
+0,cuộc thi tìm_kiếm nhóm nhạc nữ hello_yellow do một nhãn hàng phối_hợp cùng công_ty sixth_sense_entertainment tổ_chức 
+1,ban tổ_chức cho biết cuộc thi sẽ chính_thức bắt_đầu từ ngày 3052016 đến hết ngày 872016  bao_gồm 2 vòng thi  vòng_audition trực_tuyến và vòng chung_kết 
+2,vòng audition sẽ khởi_động từ ngày 16 đến hết ngày 306 
+3,các bạn gái có_thể đăng_ký theo hình_thức nhóm hoặc cá_nhân  từng hạng_mục  ca_sĩ  guitar hay nghệ_sĩ trống 
+4,kết_thúc vòng_audition_ban giám_khảo sẽ chọn ra top 9 nữ thí_sinh xuất_sắc nhất cho 3 hạng_mục tham_gia vào khóa huấn_luyện cùng ca_sĩ đông_nhi  nhạc_sĩ hồ_hoài_anh  nhạc_sĩ đỗ_hiếu và các chuyên_gia khác 
+5,trong vai_trò giám_khảo  đông_nhi sẽ giúp thí_sinh tự_tin trong phong_cách trình_diễn  ngoại_hình khi đứng trên sân_khấu và đặc_biệt chú_trọng khi biểu_diễn 
+6,nhạc_sĩ hồ_hoài_anh sẽ phụ_trách tập_huấn chuyên_môn  nhạc_lý và kĩ_năng chơi nhạc_cụ cho thí_sinh 
+7,nhạc_sĩ trẻ đỗ_hiếu sẽ tư_vấn cho thí_sinh chọn phong_cách và định_hướng âm_nhạc_phụ hợp với xu_thế hiện_nay 
+8,sau đợt huấn_luyện  top 9 thí_sinh sẽ đi vào vòng chung_kết diễn ra vào ngày 87 tại tp hồ_chí_minh 
+9,sau đó ban giám_khảo sẽ chọn ra 3 thành_viên xuất_sắc nhất để thành_lập nhóm nhạc nữ tài_năng hello_yellow 
+10,nhóm nhạc hello_yellow sẽ được nhận tour lưu_diễn xuyên việt cùng ca_sĩ đông_nhi  đồng_thời tham_gia đóng mv cùng đông_nhi và được ký hợp_đồng đào_tạo 1 năm với công_ty sixth_sense_entertainment 
+11,là thành_viên ban giám_khảo  ca_sĩ đông_nhi chia_sẻ  “ chương_trình tìm_kiếm nhóm nhạc tài_năng lần này không chỉ dành riêng cho các bạn gái đam_mê ca_hát mà_còn dành cho các bạn gái biết chơi nhạc_cụ  cụ_thể là guitar điện và trống 
+12,đây là 2 nhạc_cụ tối_thiểu để thành_lập được một nhóm nhạc nữ tài_năng không kém phần trẻ_trung  sôi_động của các thế_hệ bạn gái trẻ ngày_nay ” 

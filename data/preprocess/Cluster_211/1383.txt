@@ -1,0 +1,6 @@
+idx, sentence
+0,ông kpă_thuyên  phó chủ_tịch ubnd tỉnh gia_lai vừa ký quyết_định thu_hồi trên 50 ha đất của hoàng_anh gia_lai  đồng_thời giao số đất này cho cty nông_nghiệp_nuti để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu tại xã ia_băng  chư_prông  và xã gào  tp pleiku  
+1,thời_hạn sử_dụng đất đến năm 2042 
+2,số đất trên do ubnd tỉnh gia_lai cấp cho hoàng_anh gia_lai tháng 2/2001  hiện_nay đang trồng tiêu 
+3,ngày 11/5  cty nông_nghiệp_nuti có đơn đề_nghị thuê đất và đến ngày 23/5 được ubnd tỉnh gia_lai chấp_thuận 
+4,ubnd tỉnh gia_lai yêu_cầu hoàng_anh gia_lai bàn_giao lại toàn_bộ diện_tích đất trên cho cty cổ_phần nông_nghiệp nuti quản_lý để đầu_tư chăm_sóc cây hồ_tiêu 

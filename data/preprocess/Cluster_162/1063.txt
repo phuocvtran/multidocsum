@@ -1,0 +1,15 @@
+idx, sentence
+0,mövenpick cam_ranh resort có quy_mô dự_án 24 ha với nhiều loại_hình nghỉ_dưỡng gồm 250 phòng khách_sạn  132 căn_hộ movenpick_condotel  121 biệt_thự movenpick_villas cùng hệ_thống dịch_vụ tiện_ích đẳng_cấp cao  sân golf tiêu_chuẩn quốc_tế  sân tennis  bể_bơi  khu spa  chuỗi nhà_hàng 5 sao và khu vui_chơi trẻ_em … khu nghỉ_dưỡng đẳng_cấp 5 sao quốc_tế này được đầu_tư bởi chủ đầu_tư danh_tiếng eurowindow_holding 
+1,đơn_vị quản_lý dự_án là tập_đoàn mövenpick hotels  resorts  thụy_sỹ  
+2,đây là tập_đoàn nổi_tiếng hàng_đầu thế_giới có rất nhiều kinh_nghiệm trong việc quản_lý các khách_sạn và khu nghỉ_dưỡng cao_cấp 
+3,movenpick cam_ranh resort có vị_trí tại bãi dài  chỉ cách sân_bay quốc_tế cam_ranh 4 km 
+4,với ưu_thế bãi biển đẹp  bờ cát thoải trắng mịn  nước_biển trong xanh và khí_hậu ôn_hòa quanh_năm  bãi dài là điểm đến hoàn_hảo cho du_khách trong nước và quốc_tế suốt 4 mùa 
+5,vị_trí địa_lý của dự_án  điều_kiện thổ_nhưỡng và khí_hậu hoàn_toàn thuận_lợi cho việc phát_triển khu nghỉ_dưỡng 
+6,ngay tại buổi lễ ra_mắt  ông andrew_langdon_– phó chủ_tịch cấp cao tập_đoàn movenpick cam_kết đảm_bảo cho chất_lượng của biệt_thự  căn_hộ nghỉ_dưỡng  khách_sạn duy_trì ở đẳng_cấp cao 
+7,với uy_tín và bề_dày kinh_nghiệm quản_lý gần 100 khách_sạn  khu nghỉ_dưỡng tại 24 quốc_gia trên thế_giới  movepick có mạng_lưới hội_viên đông_đảo  mỗi năm đón hơn 7 triệu lượt khách đến nghỉ_dưỡng 
+8,những tiêu_chuẩn quản_lý khắt_khe của tập_đoàn hàng_đầu thụy_sỹ mang đến sự hài_lòng cho du_khách  đảm_bảo tỷ_lệ lấp đầy dự_án và mang lại lợi_nhuận cho các nhà_đầu_tư 
+9,movenpick cam_ranh resort sở_hữu thiết_kế kiến_trúc độc_đáo vừa hiện_đại vừa mang dáng_dấp địa_phương  là một tác_phẩm kiến_trúc với giá_trị văn_hóa cao 
+10,tất_cả các phòng khách_sạn  căn_hộ movenpick_condotel và biệt_thự nghỉ_dưỡng movenpick_villas đều được thiết_kế hướng biển  nhìn thấy biển 
+11,thiết_kế có tính_chất điển_hình của movenpick cam_ranh resort có ý_nghĩa nâng tầm vị_thế dự_án trên thị_trường bất_động_sản nghỉ_dưỡng 
+12,phát_biểu tại buổi lễ  ông nguyễn_thanh_bình – phó_tổng_giám_đốc ngân_hàng vpbank cho biết  “ ngoài mức cam_kết lợi_nhuận tối_thiểu 10  / năm trong 10 năm của chủ đầu_tư  ngân_hàng vpbank còn cam_kết bảo_lãnh mức lợi_nhuận 9  / năm trong 10 năm 
+13,đồng_thời dành cho các nhà_đầu_tư mức vay ưu_đãi tối_đa lên đến 70  giá_trị bất_động_sản  mức vay tốt nhất trên thị_trường bất_động_sản nghỉ_dưỡng hiện_nay ” 

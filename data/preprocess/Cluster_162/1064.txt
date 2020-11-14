@@ -1,0 +1,24 @@
+idx, sentence
+0,cơ_hội đầu_tư hấp_dẫn ngày 28/5/2016  dự_án khu du_lịch nghỉ_dưỡng movenpick cam_ranh resort được ra_mắt tại khách_sạn lotte hà_nội với sự có_mặt của hơn 600 nhà_đầu_tư thứ cấp và các chuyên_gia trong lĩnh_vực địa_ốc 
+1,chương_trình đã trở_thành một ngày hội đầu_tư  nơi các chuyên_gia tư_vấn và khách_hàng cùng nhau chia_sẻ bí_quyết để bảo_toàn nguồn vốn và gia_tăng giá_trị tài_sản 
+2,ông hannes_romauch  tổng_giám_đốc công_ty eurowindow_nha_trang cho biết  movenpick cam_ranh resort là quần_thể nghỉ_dưỡng bao_gồm 121 biệt_thự  132 căn_hộ nghỉ_dưỡng và 250 phòng khách_sạn tiêu_chuẩn 5 sao quốc_tế  cùng hệ_thống dịch_vụ tiện_ích như sân tập golf  sân tennis  bể_bơi  khu spa  chuỗi nhà_hàng  khu vui_chơi trẻ_em  làng thụy_sĩ và khu vui_chơi ngoài_trời phù_hợp các hoạt_động team building 
+3,toàn_bộ khu nghỉ_dưỡng mang phong_cách thiết_kế hiện_đại và pha lẫn nét kiến_trúc địa_phương với mái ngói cong kiểu chămpa 
+4,những kiến_trúc_sư hàng_đầu thế_giới đã kiến_tạo nên một công_trình kiến_trúc mang giá_trị văn_hóa cao bên bờ vịnh cam_ranh 
+5,tất_cả 121 căn biệt_thự movenpick_villas  132 căn_hộ nghỉ_dưỡng movenpick_condotel và 250 phòng khách_sạn đều được thiết_kế hướng biển và nhìn thấy biển và rất gần biển  đáp_ứng tiêu_chí quan_trọng nhất của bất_động_sản nghỉ_dưỡng ven biển 
+6,ông hannes nhấn_mạnh  nhu_cầu nghỉ_dưỡng của khách du_lịch trong và ngoài nước ngày_càng tăng mạnh nên hoạt_động đầu_tư vào bất_động_sản nghỉ_dưỡng thời_điểm này rất phù_hợp và hiệu_quả đầu_tư cao 
+7,vị_trí địa_lý  thổ_nhưỡng và khí_hậu của bãi dài  cam_ranh đặc_biệt thích_hợp cho việc phát_triển du_lịch nghỉ_dưỡng bởi chất_lượng bãi biển đẹp tự_nhiên  nước_sạch  trong xanh  bờ cát trắng mịn thoải dài  không_khí trong_lành  đồng_thời nằm rất gần sân_bay quốc_tế cam_ranh  thuận_lợi về giao_thông  nên bãi dài là ưu_tiên số 1 để chủ đầu_tư định_hướng phát_triển dự_án movenpick cam_ranh resort 
+8,bđs nghỉ_dưỡng ưu_việt đại_diện đơn_vị quản_lý  ông andrew_langdon  phó chủ_tịch cấp cao tập_đoàn movenpick hotels  resorts  thụy_sĩ  chia_sẻ  “ chúng_tôi là tập_đoàn danh_tiếng hàng_đầu thế_giới  với phương_châm chúng_tôi làm những điều bình_thường một_cách phi_thường  movenpick đã thành_công trong việc quản_lý gần 100 khách_sạn  khu nghỉ_dưỡng tại 24 quốc_gia trên thế_giới  bao_gồm  thái_lan  philipine  ai_cập  li_băng … mỗi năm chúng_tôi đón hơn 7 triệu lượt khách đến nghỉ_dưỡng 
+9,movenpick sở_hữu mạng_lưới hội_viên đông_đảo khắp toàn_cầu  đây sẽ là điều_kiện thuận_lợi để chúng_tôi đảm_bảo lấp đầy khu nghỉ_dưỡng movenpick cam_ranh resort  mang đến nguồn lợi_nhuận cao cho các nhà_đầu_tư 
+10,với dự_án này  chúng_tôi còn dành cho khách_hàng quyền_lợi đặc_biệt không có ở bất_cứ dự_án nào trên thị_trường  đó là khách_hàng vừa được tham_gia chương_trình cho thuê lại với lợi_nhuận cao  vừa được ở tại biệt_thự của mình trong thời_gian 180 ngày / năm ” 
+11,ông nguyễn_thanh_bình  phó_tổng_giám_đốc ngân_hàng vpbank bày_tỏ sự tin_tưởng vào thành_công của dự_án bởi movenpick cam_ranh resort hội_tụ đầy_đủ những điểm ưu_việt so với các sản_phẩm khác trên thị_trường bất_động_sản nghỉ_dưỡng 
+12,ông bình cho biết  ngân_hàng vpbank và eurowindow đã có lịch_sử hợp_tác nhiều năm và tiếp_tục phát_triển ở dự_án này 
+13,ngoài mức lợi_nhuận cam_kết 10  / năm trong 10 năm của chủ đầu_tư dành cho các nhà_đầu_tư thứ cấp  ngân_hàng vpbank cam_kết bảo_lãnh mức lợi_nhuận tối_thiểu 9  / năm và tạo điều_kiện cho khách_hàng vay vốn lên đến 70  giá_trị bất_động_sản nghỉ_dưỡng 
+14,sau phần chia_sẻ của chuyên_gia tư_vấn bất_động_sản trần_quang_mạnh về “ những cái nhất ” của movenpick cam_ranh resort  ông nguyễn_mạnh_cường  giám_đốc sàn giao_dịch bất_động_sản eurowindow_holding đã thay_mặt 12 đơn_vị phân_phối phát lệnh đặt mua movenpick_villas và movenpick_condotel 
+15,trước sức hút mạnh_mẽ của sản_phẩm bất_động_sản nghỉ_dưỡng “ độc_nhất vô nhị ” này  các nhà_đầu_tư thứ cấp đã xếp_hàng chờ đến lượt khớp lệnh đặt mua những căn biệt_thự và căn_hộ nghỉ_dưỡng mà họ ưng_ý 
+16,ngay trong buổi lễ  khách_hàng đặt mua căn_hộ nghỉ_dưỡng_movenpick_condotel đã được bốc thăm trúng thưởng 
+17,03 khách_hàng may_mắn nhận giải_thưởng lớn là  ông lê_hồng_quân  cầu_giấy  hn  trúng_giải nhất 1 cây vàng sjc 9999  ông lê_hoàng_bắc  trần_hưng_đạo  tp hcm  nhận giải nhì 5 chỉ vàng sjc 9999 và ông lê_khắc_hanh  lạng_sơn  trúng thưởng 3 chỉ vàng sjc 9999 cho giải ba 
+18,ông lê_hồng_quân chia_sẻ  “ movenpick là một cơ_hội đầu_tư tốt nên quyết_định đặt mua căn_hộ nghỉ_dưỡng movenpick_condotel 
+19,tôi thực_sự bất_ngờ và rất vui khi trúng_giải nhất 1 cây vàng sjc_9999 của chương_trình 
+20,đây là một điều rất may_mắn của tôi 
+21,tôi tin_tưởng sẽ đầu_tư thành_công với movenpick ” 
+22,khách_hàng đặt mua biệt_thự nghỉ_dưỡng movenpick_villas tiếp_tục từ nay đến ngày 1762016 có có cơ_hội trúng thưởng giải đặc_biệt là 01 căn_hộ nghỉ_dưỡng_movenpick_condotel trị_giá 24 tỷ đồng và nhiều giải_thưởng vàng 9999 sjc 

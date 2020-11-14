@@ -1,0 +1,5 @@
+idx, sentence
+0,trước đó  khoảng 22 h ngày 2152016  tổ tuần_tra kiểm_soát giao_thông của phòng cảnh_sát giao_thông công_an tỉnh bắc_giang do đại_úy nguyễn_hùng_cường làm tổ_trưởng cùng 7 tổ_viên làm nhiệm_vụ tại km 104  200 quốc_lộ 1a thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tỉnh bắc_giang 
+1,qua công_tác trinh_sát  tổ tuần_tra phát_hiện xe ô_tô bán tải nhãn_hiệu ford_ranger đi hướng hà_nội  lạng_sơn bks 12c044  29  do lái_xe là nguyễn_quang_huy  sn 1988   trú tại xã hoàng_đồng  thành_phố lạng_sơn  tỉnh lạng_sơn  điều_khiển có nhiều nghi_vấn 
+2,tiến_hành kiểm_tra  tổ công_tác phát_hiện trên xe chở nhiều hàng_hóa nghi là ngà_voi 
+3,trong quá_trình lập biển bản lái_xe cố_tình đưa 500 triệu đồng cho tổ công_tác để được bỏ_qua 

@@ -1,0 +1,11 @@
+idx, sentence
+0,hiện_tại nhã_phương đang ở hàn_quốc để ghi_hình cho tuổi thanh_xuân 2 
+1,cô ở lại hàn_quốc tới giữa tháng 6 và sau đó trở_về việt_nam để tiếp_tục các phân cảnh tiếp_theo của tuổi thanh_xuân 2 tại đà_nẵng tới cuối tháng 8 
+2,cô bật_mí trong phần 2  ngoài tính_cách  ngoại_hình của nhã_phương cũng sẽ có sự thay_đổi đáng_kể 
+3,nếu_như trong phần 1  nhân_vật linh có hai kiểu tóc  mái_tóc ngắn dễ_thương ở đầu phần 1  mái_tóc xoăn dài dịu_dàng của cuối phần 1 thì ở phần 2  linh được tạo_hình với mái_tóc đen dài 
+4,nhã phương chia_sẻ  linh sẽ có nhiều sự đột_phá  dễ khiến mọi người đồng_cảm hơn so với phần 1 
+5,trong phần 2  cặp_đôi linh  junsu  kang_tae_oh  cũng gặp nhiều sóng_gió và linh sẽ phải mạnh_mẽ đối_diện với những khó_khăn đó 
+6,linh mạnh_mẽ chiến_đấu để giành tình_yêu là điều mà rất nhiều khán_giả trông_đợi bởi trong phần 1  linh quá nhập_nhằng và thường_xuyên né_tránh tình_cảm của jun_su 
+7,cô đồng_thời_tiết_lộ tuổi thanh_xuân 2 dự_kiến ra_mắt khán_giả vào cuối tháng 10 trên kênh vtv3 
+8,linh trong tuổi thanh_xuân có sự thay_đổi ngoại_hình  nhã_phương ngoài đời cũng xây_dựng hình_ảnh sang_trọng  nữ_tính 
+9,cô nàng thích những bộ_đồ có màu_sắc nhã_nhặn và thử_nghiệm phong_cách thời_trang trễ vai 

@@ -1,0 +1,15 @@
+idx, sentence
+0,những vụ_việc thú_dữ tấn_công người trong các thành_phố không phải là hiếm khi tại nhiều nơi  các vườn thú khá gần khu dân_cư 
+1,thậm_chí  kể_cả sự_việc người dân bất_cẩn để xổng thú nuôi của mình ra ngoài cũng gây nguy_hiểm cho cộng_đồng 
+2,mới_đây  tại một công_viên khu_vực blyth  northumberland  vương_quốc anh  một sự_việc hy_hữu đã xảy ra khi một con chó dữ đã xông vào cắn và tấn_công 14 em nhỏ 
+3,theo thông_tin ghi_nhận  vụ_việc xảy ra vào lúc 6  30 tối 
+4,một bà mẹ đã miêu_tả khung_cảnh sự_việc như một  bãi_chiến_trường  khi những đứa trẻ bị_thương nằm la_liệt trên cỏ và chờ sự cấp_cứu của y_tế 
+5,nhiều người còn cho rằng  sự hỗn_loạn xảy ra giống như một cuộc tấn_công của khủng_bố 
+6,sheryl_allison  mẹ của một bé gái 12 tuổi có_mặt tại công_viên vào thời_điểm đó cho hay  chú chó đã tấn_công khoảng 14 đứa trẻ 
+7, tuy_nhiên  may_mắn là lũ trẻ nhà tôi đều an_toàn  
+8,theo người dân địa_phương  con chó đã có_mặt tại công_viên 45 phút trước khi xảy ra vụ_việc 
+9,khi nó xông vào tấn_công một đứa trẻ  đám trẻ xông vào nhằm giải_cứu nạn_nhân đầu_tiên 
+10,tuy_nhiên không may  lũ trẻ càng cố_gắng giải_thoát nạn_nhân thì chú chó lại càng hăng lên và quay sang tấn_công tất_cả 
+11,demi  một cô bé 12 tuổi cho biết  khung_cảnh quả_thực rất đáng sợ và lũ trẻ đã không_thể kiểm_soát được con vật đáng sợ 
+12,phải đến khi một ông bố phát_hiện việc xảy ra tại công_viên và xông vào ghìm chú chó xuống  chờ cảnh_sát tới giải_quyết thì sự_việc mới tạm dừng 
+13,cả khu_phố trở_nên hỗn_loạn vì đây là lần đầu_tiên một sự_việc hy_hữu như vậy xảy ra 

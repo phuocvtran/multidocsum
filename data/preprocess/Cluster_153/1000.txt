@@ -1,0 +1,40 @@
+idx, sentence
+0,người dì 60 tuổi của ông kim_jong_un  bà ko yong_suk cho washington_post biết  bà đã đánh_đổi cuộc_sống xa_hoa ở bình nhưỡng để sống một cuộc_đời giản_dị tại mỹ từ gần 20 năm trước 
+1,với sự giúp_đỡ của cia  bà suk  có chị_gái là một trong những người vợ của cố lãnh_đạo kim_jong_il  đã trốn khỏi triều_tiên năm 1998 
+2,bà đã phải che_giấu thân_phận thật của mình  sống gần_như vô_danh ngay sát thành_phố new_york cùng với chồng 
+3,họ thường vào trung_tâm thành_phố để làm công_việc khâu viền quần và thỉnh_thoảng cũng đi chơi tại quảng_trường thời_đại hay công_viên trung_tâm 
+4,ngôi nhà thuộc hàng trung_lưu của bà suk  được trả một phần bằng số tiền 200000 usd mà bà nhận được từ cia  treo đầy các bức ảnh gia_đình  trrong đó có cả ảnh của người cháu kim_jong_un 
+5,“ kim_jong_un và con trai tôi chơi với nhau từ khi mới sinh 
+6,tôi đã thay tã cho chúng 
+7,thằng bé không phải là người hay gây_rối nhưng khá nóng_tính và thiếu sự bao_dung 
+8,khi mẹ của kim_jong_un cố_gắng ngăn thằng bé không được chơi nhiều mà phải tập_trung học_hành  thường kim_jong_un sẽ không cãi lại nhưng tìm cách phản_đối khác  chẳng_hạn như tuyệt_thực ”  bà suk kể lại 
+9,người dì của lãnh_đạo triều_tiên cũng cho biết  ngay từ khi mới chỉ là một đứa trẻ  kim_jong_un đã biết sẽ có một ngày mình được lên làm vua 
+10,“ kim_jong_un không_thể lớn lên một_cách bình_thường khi mọi người xung_quanh luôn tìm cách nịnh_bợ và lừa_dối thằng bé như_vậy ”  bà nói 
+11,bà suk đã rời khỏi triều_tiên sau khi chị_gái của mình mắc căn_bệnh ung_thư vú vào đầu những năm 1990 
+12,bà cho rằng chế_độ không còn cần mình nữa và địa_vị của gia_đình bà sẽ bị đe_dọa một_khi người chị_gái qua_đời 
+13,bà cũng cho biết  bà rời đất_nước vì tin rằng chị_gái của mình có_thể tìm được các dịch_vụ y_tế tốt hơn bên ngoài triều_tiên 
+14,nhưng trong khi bà suk đang sống một cuộc_sống xa_hoa ở bình nhưỡng  sở_hữu một chiếc mercedesbenz thì mọi thứ đã thay_đổi khi bà tới mỹ 
+15,“ công_việc duy_nhất mà tôi có_thể làm mà không cần nói tiếng anh  đó là giặt_là ”  bà nhớ lại 
+16,bà cùng chồng của mình  ông ri_gang  đã làm_việc hết_sức chăm_chỉ  nuôi_nấng ba người con và đã đạt được “ giấc mơ mỹ ” 
+17,“ bạn_bè của tôi ở đây nói rằng tôi may_mắn  rằng tôi có mọi thứ 
+18,bọn trẻ của tôi được đi học và chúng đã thành_công 
+19,tôi còn có một người chồng tốt  người có_thể sửa mọi thứ 
+20,không còn gì khiến chúng_tôi phải ghen_tị nữa ”  bà suk tâm_sự 
+21,bà quyết_định phá vỡ sự im_lặng về cuộc_sống ở mỹ bởi bà muốn có_thể quay trở_lại triều_tiên 
+22,bà lưỡng_lự khi nói bất_kỳ điều gì tiêu_cực về ông kim_jong_un 
+23,nhưng bà thừa_nhận  “ trong lịch_sử  có_thể thấy những người thân_thiết với một lãnh_đạo quyền_lực thường dính vào những rắc_rối bất_ngờ bởi một thế_lực nào_đó 
+24,tôi nghĩ rằng sẽ tốt hơn nếu chúng_tôi tránh xa các loại rắc_rối này ” 
+25,bà suk có vẻ_ngoài rất giống với người chị ko_yong_hui của mình 
+26,bà là người chăm_sóc ông kim_jong_un và kim_jong_chol  người con trai đầu của chị mình  khi hai anh_em học tại bern  thụy_sỹ trong những năm 1990 
+27,“ chúng_tôi sống trong một ngôi nhà bình_thường và hành_động như một gia_đình bình_thường 
+28,tôi đóng giả là mẹ của hai đứa trẻ 
+29,tôi khuyến_khích thằng bé đưa bạn_bè về nhà bởi tôi muốn chúng sống một cuộc_đời bình_thường 
+30,tôi làm đồ ăn_vặt cho bọn trẻ  chúng thường ăn bánh và chơi lego ”  bà suk nói 
+31,bà cũng đưa ông kim_jong_un tới disneyland_paris  trượt_tuyết trên đỉnh alps và bởi ở sông riviera ở pháp 
+32,trong quãng thời_gian đó  ông kim đã thể_hiện sự yêu_thích đặc_biệt cho bóng_rổ 
+33,“ thằng bé bắt_đầu chơi bóng_rổ và trở_nên ám_ảnh bởi nó 
+34,kim jong_un còn thường_xuyên ôm cả bóng đi ngủ ”  người dì cho biết 
+35,do ông kim thấp hơn các bạn cùng trang_lứa nên mẹ của ông thường nói rằng nếu ông chơi bóng_rổ thì có_thể cải_thiện được chiều cao 
+36,chồng của bà suk đã cho washington_post xem bức hình chưa từng được công_bố của cậu bé kim_jong_un 13 tuổi  đang mặc một bộ đồng_phục bóng_rổ và cầm một chiếc cúp vàng 
+37,trong một bức ảnh khác  bà suk chỉ cho phóng_viên người em_gái của kim_jong_un là kim_yo_jong  người phụ_trách bộ_máy truyền_thông của đảng lao_động triều_tiên 
+38,bà suk cũng cho rằng ông kim_jong_un_sinh năm 1982  cùng năm với con_trai bà  chứ không phải 1984 như báo_chí vẫn nói 

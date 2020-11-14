@@ -1,0 +1,24 @@
+idx, sentence
+0,sau nhiều ngày âm_thầm chuẩn_bị  ngày 19/05/2016_hsg đã chính_thức khởi_công dự_án phức_hợp tttm  khách_sạn nghỉ_dưỡng tại thành_phố yên_bái  tỉnh yên_bái 
+1,lý_do khiến chủ_tịch hsg lê_phước_vũ mở_rộng sang lĩnh_vực bất_động_sản cũng như chọn yên_bái  một tỉnh miền núi phía bắc làm bàn_đạp để bước vào một lĩnh_vực hoàn_toàn mới_lạ  đến nay vẫn chưa được giải_đáp thỏa_đáng 
+2,chỉ trước đó 10 ngày  ngày 09/05/2016  hsc thông_báo thành_lập 4 công_ty con  bao_gồm hoa_sen yên_bái  hoa_sen hội_vân  hoa_sen vân_hội và hoa_sen quy_nhơn 
+3,các công_ty này đều tập_trung vào bất_động_sản và du_lịch 
+4,cho đến cuối ngày 20/05  trên website của hsg vẫn không có bất_kỳ thông_tin nào về việc này 
+5,việc mở_rộng hoạt_động kinh_doanh sang mảng khách_sạn nghỉ_dưỡng được thể_hiện qua việc hsg thông_qua một_số dự_án xây_dựng khách_sạn 
+6,theo đó  ctcp hoa_sen yên_bái xây_dựng dự_án phức_hợp tại tỉnh yên_bái theo 2 giai_đoạn 
+7,tổng vốn đầu_tư cho dự_án này ước_tính là 1200 tỷ đồng 
+8,dự_án này nằm trên lô đất với diện_tích 15 ha và dự_kiến sẽ xây_dựng một tòa 15 tầng  trong một khu phức_hợp cung_cấp các hạng_mục đa_dạng từ trung_tâm thương_mại  khách_sạn  căn_hộ cao_cấp 
+9,hsg nắm giữ 70  cổ_phần tại công_ty này 
+10,vốn đầu_tư cho giai_đoạn 1 sẽ là khoảng 260 tỷ đồng 
+11,công_ty dự_kiến xây_dựng cơ_sở_hạ_tầng toàn_bộ khu đất cùng với các hạng_mục công_trình như  khách_sạn 4 sao thấp tầng  một khu hội_nghị  tiệc cưới  một trung_tâm thương_mại và theo kế_hoạch đến tháng 6 năm sau sẽ hoành thành 
+12,vốn đầu_tư giai_đoạn 2 sẽ là khoảng 940 tỷ đồng 
+13,công_ty sẽ hoàn_thiện các hạng_mục còn lại là khách_sạn 4 sao cao_tầng  mở_rộng khách_sạn 4 sao thấp tầng và khu căn_hộ từ tháng 6/2019 đến tháng 6/2020 
+14,cho cả hai giai_đoạn  ctcp hoa_sen yên_bái sẽ sử_dụng cả vốn chủ_sở_hữu và vốn vay để tài_trợ với tỷ_lệ 20  và 80  
+15,đối_với 4 công_ty con mới thành_lập  hsg nắm giữ từ 45   70  cổ_phần tại mỗi công_ty  trong khi đó phần còn lại do ông lê_phước_vũ và công_ty về du_lịch của ông là du_lịch hoa_sen nắm giữ 
+16,dựa trên cấu_trúc cổ_đông này  kết_quả kinh_doanh của 2 công_ty sẽ được hợp_nhất vào báo_cáo tài_chính của hsg là hoa_sen yên_bái và hoa_sen vân_hội 
+17,trong khi đó  hoa_sen hội_vân và hoa_sen quy_nhơn sẽ là các công_ty liên_kết 
+18,hsg hiện đang tiến_hành các nghiên_cứu khả_thi bao_gồm các hoạt_động theo dự_kiến của 3 công_ty còn lại 
+19,tuy_nhiên  có_thể thấy mức_độ thâm_nhập vào ngành khách_sạn của ông lê_phước_vũ vẫn chưa rõ_ràng 
+20,cả 4 công_ty đều có khả_năng sẽ tham_gia vào lĩnh_vực khách_sạn nghĩ dưỡng  mặc_dù với mức_độ khác nhau 
+21,hsg hiện đang đầu_tư vào nhiều công_ty với các hoạt_động kinh_doanh đa_dạng 
+22,đánh_giá về phản_ứng của thị_trường_chứng_khoán trước việc hsg lấn_sân sang lĩnh_vực mới  công_ty chứng_khoán thành_phố hồ_chí_minh  hsc  cho rằng nhiều khả_năng là không đồng_nhất với nhiều nđt mong_muốn công_ty tập_trung hơn vào mảng kinh_doanh chủ_chốt  là sản_xuất các sản_phẩm thép và nhựa 

@@ -1,0 +1,8 @@
+idx, sentence
+0,thông_tin trên báo tiền_phong cho hay  chiều hôm_qua 22/5  đại_tá trương_ngọc_danh  phó_gđ công_an tỉnh cà_mau cho biết đã chỉ_đạo truy bắt và kịp_thời xử_lý nhóm đối_tượng hành_hung người bằng dao diễn ra vào 14 giờ ngày 20/5 trên địa_bàn thành_phố cà_mau 
+1,thông_tin ban_đầu cho hay  khi anh nhân đang đứng trông_coi cơ_sở spa_thiện_thanh  ở số 44  đường nguyễn_trãi  thành_phố cà_mau thì bị một nhóm hơn 10 người đi xe_máy  tay cầm dao tiến đến chỗ anh nhân 
+2,khi nhìn thấy hành_vi của nhóm đối_tượng trên  anh nhân lập_tức vùng dậy bỏ chạy nhưng đã bị nhóm trên đuổi theo và chém nhiều nhát vào đầu và tay_trái khiến anh nhân trở_tay không kịp và gục tại_chỗ  theo công_lý đưa tin 
+3,ngay sau khi gây án xong  nhóm đối_tượng trên lập_tức rời khỏi hiện_trường  anh nhân được người nha đưa đến cơ_sở y_tế gần nhà thăm khám và băng_bó vết_thương 
+4,người_nhà nạn_nhân cho biết  trước khi sự_việc này xảy ra  và thiện_thanh đã nhận được tin nhắn đe_dọa trên facebook với nội_dung  “ gặp đâu chém đó  không nói nhiều  ” 
+5,và thời_gian gần đây  cơ_sở spa này liên_tiếp bị ném nước_sơn  gạch đá và trứng vịt thối trước cửa 
+6,bà thiện_thanh đã cầu_cứu công_an vì cho rằng tính_mạng của mình đang bị đe_dọa  nhưng sự_việc đáng tiếc vẫn đã xảy ra 

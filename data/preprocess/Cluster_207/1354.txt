@@ -1,0 +1,7 @@
+idx, sentence
+0,theo phòng cảnh_sát phòng cháy chữa cháy số 1  cảnh_sát phòng cháy và chữa_cháy thành_phố hà_nội   vụ hỏa_hoạn nói trên không gây thiệt_hại về người nhưng toàn_bộ tầng 4 của nhà_hàng trúc_lâm_trai bị thiêu rụi 
+1,theo thông_tin ban_đầu từ một_số nhân_viên của nhà_hàng trúc_lâm_trai  khoảng 14 giờ 30 phút ngày 1/6  tại tầng 4 là khu_vực bếp của nhà_hàng đột_nhiên phát_hỏa 
+2,lửa kèm mùi khét của dây_điện cháy khiến nhân_viên nhà_hàng đang nghỉ trưa hoảng_loạn  tháo_chạy 
+3,một_số người đã dùng các bình_chữa_cháy cá_nhân để dập lửa nhưng  bà hỏa  vẫn nhanh_chóng lan xuống tầng 2 của nhà_hàng trúc_lâm trai  khói đen bốc mù_mịt 
+4,nhận được tin báo  lực_lượng cảnh_sát phòng cháy chữa cháy số 1 đã huy_động 4 xe gồm 3 xe chữa_cháy và 1 xe chở nước đến hiện_trường triển_khai các phương_án dập lửa 
+5,sau những nỗ_lực của cảnh_sát  đến 15 giờ 5 phút cùng ngày  vụ hỏa_hoạn được dập_tắt 

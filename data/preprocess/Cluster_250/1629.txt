@@ -1,0 +1,9 @@
+idx, sentence
+0,2015 là năm thứ 3 liên_tiếp đầu_tư trực_tiếp nước_ngoài  fdi  của nhật_bản vào asean vượt đầu_tư vào trung_quốc và hong_kong 
+1,theo số_liệu của tổ_chức xúc_tiến thương_mại nhật_bản  jetro   tốc_độ này đang tăng lên 
+2,đầu_tư của nhật_bản vào asean đã tăng gần gấp 3 so với 5 năm trước  lên 20100 tỷ yen  1809 tỷ usd  cuối năm_ngoái  số_liệu của ngân_hàng trung_ương nhật_bản cho biết 
+3,sau tranh_chấp trên biển hoa_đông năm 2012  đầu_tư của nhật_bản vào trung_quốc chậm dần 
+4,nhiều công_ty nhật_bản phải đa_dạng_hóa để phân_tán rủi_ro đầu_tư 
+5,tăng_trưởng nhật_bản giảm dần và dân_số nước này già đi cũng khiến các doanh_nghiệp tìm_kiếm cơ_hội ngoài châu_á 
+6, các thị_trường asean rất hấp_dẫn  theo góc nhìn của nhật_bản   ma_tieying – nhà kinh_tế học tại dbs_group nhận_xét trên bloomberg   rất nhiều nền kinh_tế có tiềm_năng tăng_trưởng tốt  nhờ cơ_cấu dân_số trẻ và thu_nhập bình_quân đầu người thấp  
+7,sự cởi_mở của các thị_trường trong khu_vực này  cùng chi_phí lao_động thấp hơn trung_quốc cũng là các yếu_tố hấp_dẫn 

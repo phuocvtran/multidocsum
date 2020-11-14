@@ -1,0 +1,7 @@
+idx, sentence
+0,tại đại_hội đảng lao_động triều_tiên đầu tháng này  lãnh_tụ bắc triều_tiên kim_jong_un đã ngỏ ý sẵn_sàng đối_thoại với miền nam 
+1,trong một thông_cáo phát đi hôm thứ_bảy tuần qua  quân_đội bắc_triều_tiên đã kêu_gọi phía hàn_quốc hãy chấp_nhận thiện_chí của miền bắc để vượt qua « tình_trạng thảm_họa » trong quan_hệ liên_triều 
+2,bình nhưỡng cũng đề_nghị hai bên tổ_chức cuộc họp trù_bị cho các cuộc đàm_phán song_phương về quân_sự 
+3,tuy_nhiên bộ quốc_phòng hàn_quốc đã bác_bỏ đề_nghị này với lý_lẽ cho rằng bình_nhưỡng không hề đả_động tới chương_trình hạt_nhân của họ 
+4,phát_ngôn_viên quốc_phòng hàn_quốc moon_sang_gyun tuyên_bố với báo_chí  « đề_nghị đàm_phán mà không nói đến giải_trừ hạt_nhân thì chỉ là trò lừa_phỉnh … và chúng_tôi quyết_tâm với đường_lối giải_trừ hạt_nhân phải là ưu_tiên số một khi đề_cập đến đối_thoại với miền bắc » 
+5,tuy_nhiên  bắc_triều_tiên nhiều lần nhắc lại sẽ không đàm_phán về kho vũ_khí hạt_nhân của họ 

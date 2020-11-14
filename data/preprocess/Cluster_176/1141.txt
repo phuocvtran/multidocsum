@@ -1,0 +1,23 @@
+idx, sentence
+0,đt xứ wales mất tới 58 năm để tham_dự một giải đấu lớn 
+1,bởi_vậy những ngôi_sao của đội bóng này đang rất quyết_tâm có_thể làm_nên chuyện trên đất pháp 
+2,xứ wales đến với giải đấu lần này với một đội_hình tương_đối_chất_lượng 
+3,trong tay hlv chris_coleman có những cầu_thủ tốt  có phải kể đến như ashley_williams  swansea   ramsey  arsenal  và đặc_biệt là tiền_vệ gareth_bale  real_madrid  
+4,rõ_ràng trong số những ngôi_sao của xứ wales thì tiền_vệ gareth_bale là cái tên sáng_giá nhất 
+5,siêu_sao của real_madrid đang là một trong những cầu_thủ tấn_công hay nhất thế_giới  anh là cầu_thủ mà bóng_đá nước này đặt nhiều kỳ_vọng nhất 
+6,áp_lực đang đè nặng lên vai bale và anh rất quyết_tâm ở giải đấu trên đất pháp 
+7,trả_lời phỏng_vấn bbc mới_đây  cầu_thủ đắt_giá nhất thế_giới thậm_chí còn đưa ra tuyên_bố hùng_hồn về tham_vọng của đt xứ wales 
+8,anh tin rằng đội bóng của mình đủ sức làm_nên những bất_ngờ lớn 
+9,phát_biểu trước báo_giới bale nói  “ chúng_tôi cố_gắng giành chiến_thắng ở tất_cả những trận đấu tại euro 2016 
+10,trước_mắt chúng_tôi sẽ hướng đến ngôi đầu_bảng 
+11,xứ wales có những cầu_thủ tốt và đủ sức làm_nên những cú sút 
+12,chúng_tôi là một tập_thể đã thi_đấu cùng nhau trong một thời_gian dài  những cầu_thủ đều rất hiểu nhau 
+13,tinh_thần đoàn_kết sẽ là chìa_khóa để chúng_tôi tiến xa 
+14,mỗi cầu_thủ xứ wales đều đặt mục_tiêu rất cao ở giải đấu lần này ” 
+15,đt xứ wales khởi_đầu chiến_dịch euro 2016 bằng trận gặp slovakia ngày 11/6 trước khi phải đối_mặt với đt anh 5 ngày sau và đá trận cuối vòng bảng gặp nga ngày 20/6 
+16,đây là bảng đấu không hề dễ_dàng và khả_năng đi tiếp của bale và các đồng_đội là không hề dễ_dàng 
+17,ngôi_sao của real vừa trải qua kỳ nghỉ ngắn ngày sau khi giành chiến_thắng trong trận chung_kết champions_league 
+18,cầu_thủ sinh năm 1989 khẳng_định anh gần như đã đạt trạng_thái tốt nhất và sẵn_sàng tỏa sáng trên đất pháp 
+19,danh_sách 23 cầu_thủ xứ wales tới pháp thủ_môn  wayne_hennessey  danny_ward  owain_fon_williams 
+20,hậu_vệ  chris_gunter  james_chester  ashley_williams  ben_davies  neil_taylor  james_collins  jazz_richards 
+21,tiền_vệ  joe_allen  joe_ledley  aaron_ramsey  andy_king  david_edwards  jonny_williams  david_vaughan  george_williams 

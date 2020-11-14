@@ -1,0 +1,9 @@
+idx, sentence
+0,ông thane_maynard  giám_đốc sở_thú cincinnati tại bang ohio  mỹ  cho biết một cậu bé khoảng 3 tuổi trèo lên rào_chắn chuồng khỉ_đột rồi ngã từ độ cao khoảng hơn 3 m xuống hào bảo_vệ phía dưới vào lúc 16 h00  giờ_địa_phương  ngày 28/5 
+1,sau đó  con khỉ_đột đực có tên harambe  nặng hơn 180 kg  lúc đó đang ở dưới hào đã đi ra  chộp lấy cậu bé và kéo_lê khắp chuồng trong vòng 10 phút trước khi nhân_viên sở_thú phát_hiện ra và quyết_định rút súng bắn hạ con vật để giải_cứu cậu bé 
+2,cậu bé sau đó đã được đưa đến bệnh_viện nhi cincinnati để điều_trị với nhiều vết_thương trên cơ_thể 
+3,tuy_nhiên  cậu bé vẫn may_mắn bảo_toàn được tính_mạng sau vụ_việc vô_cùng nguy_hiểm trên 
+4,ông maynard cho biết đội phản_ứng nhanh đã quyết_định bắn chết con khỉ_đột thay_vì dùng thuốc_mê bởi đây là tình_huống “ ngàn cân_treo sợi tóc ” cần phải xử_lý tức_thì trong khi với một con vật to_lớn như harambe  thuốc_mê không_thể có tác_dụng ngay_lập_tức 
+5,“ họ đã quyết_định đúng_đắn và cứu mạng cậu bé ”  ông maynard khẳng_định 
+6,cũng theo ông maynard đây là lần đầu_tiên họ buộc phải bắn chết một con vật được nuôi tại sở_thú trong một tình_huống khẩn_cấp 
+7,trước đó  sở_thú này chưa từng xảy ra vụ_việc có người rơi xuống chuồng thú như vậy 

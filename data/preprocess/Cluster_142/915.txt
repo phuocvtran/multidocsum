@@ -1,0 +1,29 @@
+idx, sentence
+0,bí_thư thăng nêu ra nghịch_lý là sinh_viên ra trường thiếu việc_làm nhiều trong khi công_viên phần_mềm lại thiếu nhân_lực trầm_trọng 
+1,bí_thư thành_uỷ chỉ ra điểm mấu_chốt là quang_trung đã thiếu liên_kết giữa nhà_trường  công_viên phần_mềm và doanh_nghiệp 
+2,“ sau singapore nhiều chứ  một_chút sao được ” theo ông lâm nguyễn_hải_long  giám_đốc  công_viên phần_mềm quang_trung hiện đứng thứ 3 tại đông_nam_á  có nghĩa là thua philippines về quy_mô  thua malaysia về chuỗi khu phần_mềm và “ đứng sau singapore về lượng chất_xám ” 
+3,nghe vậy  bí_thư thăng_bình_luận  “ sau singapore nhiều chứ  một_chút sao được ” 
+4,trả_lời những chất_vấn của bí_thư thành_uỷ  ông lâm nguyễn_hải_long  giám_đốc công_viên phần_mềm quang_trung  cho biết  nhiều năm nay ngành công_nghệ_thông_tin không còn là ngành hấp_dẫn đối_với sinh_viên 
+5,đó là nguyên_nhân khiến các công_ty phần_mềm tuyển không đủ nhu_cầu 
+6,phản_bác lại ý_kiến này  bí_thư thăng cho rằng  “ không hot vì các anh trả lương thấp ” 
+7,trước thông_tin một kỹ_sư phần_mềm có kinh_nghiệm 3 năm có mức lương 810 triệu  bí_thư thăng bức_xúc  “ lương 810 triệu mà làm phần_mềm thì sao sống được  chỉ bằng công_nhân may 
+8,người_ta chỉ có_thể ở nhà mình  ăn cơm nhà nấu  đi xe_máy đi làm  chứ ở nhà_trọ thì không đủ sống ” 
+9,một lý_do nữa  bí_thư thành_uỷ khẳng_định  “ cơ_chế phối_hợp chưa tốt 
+10,người_ta nói 2 người nhật làm việc tốt hơn 2 người việt  vì chúng_ta phối_hợp không tốt 
+11,chúng_ta làm_việc như để cua vào chậu  còn nào bò lên thì con khác kéo xuống 
+12,ông nào cũng giỏi nhưng hợp_tác lại không tốt ”  ông thăng nói 
+13,bí_thư thành_uỷ cho rằng  để giải_quyết vấn_đề nguồn nhân_lực  khu phần_mềm cần phải đưa chính người của mình vào nhà_trường để đào_tạo  đồng_thời phải chủ_động đặt_hàng nhà_trường những kiến_thức mà mình cần chứ không chờ_đợi 
+14,nhà_nước thì mới thụ_động như thế ông long cũng cho biết  việc đầu_tư hạ_tầng công_nghệ vẫn chưa hoàn_chỉnh do cơ_chế xin vốn phải chạy “ lòng_vòng ” khắp các sởngành 
+15,bí_thư thăng cho biết  bí_thư thành_uỷ là người đứng đầu thành_phố nhưng chưa từng nghe phía công_viên phần_mềm giới_thiệu các ứng_dụng 
+16,“ nếu vướng thì các anh phải trình_bày chứ  chỗ cần gõ_cửa thì không gõ  các anh cứ đi đâu ” 
+17,bí_thư thăng phê  “ các anh nhà_nước thì mới thụ_động như_thế 
+18,nếu anh coi mình là tư_nhân thì chắc_chắn sẽ có cách tiếp_cận khác 
+19,bởi_vì  tp hcm là một thị_trường rất lớn khi tp đang triển_khai chính_quyền điện_tử  áp_dụng công_nghệ_thông_tin trong y_tế  giao_thông  đô_thị  chống tội_phạm ” 
+20,bí_thư thành_uỷ đề_nghị công_viên phần_mềm quang_trung phải chủ_động phối_hợp với doanh_nghiệp và nhà_trường để đào_tạo và cung_ứng đủ nguồn nhân_lực 
+21,bí_thư thăng chia_sẻ nỗi lo về thị_trường lao_động trường khi tham_gia hiệp_định tpp 
+22,“ nếu cứ như hiện_nay  lao_động việt_nam sẽ bật bãi khi hội_nhập 
+23,chúng_ta sẽ thua philippines khi lao_động của họ vừa giỏi chuyên_môn vừa biết nói tiếng anh 
+24,hội_nhập thì không_thể chỉ nói tiếng việt được ”  ông thăng nói 
+25,sáng cùng ngày bí_thư đinh_la_thăng đã đi thị_sát tiến_độ công_trình metro số 1 bến_thành – suối_tiên 
+26,tại công_trường ga nhà_hát lớn tp  ông hoàng_như_cương  phó_trưởng bql đường_sắt đô_thị tp hcm  báo_cáo tiến_độ toàn tuyến metro số 1 đã hoàn_thành được 50  nhưng gói thầu ga bến_thành vẫn chưa triển_khai được 
+27,một_số tuyến metro còn lại cũng gặp khó_khăn  đặc_biệt về vốn thực_hiện 

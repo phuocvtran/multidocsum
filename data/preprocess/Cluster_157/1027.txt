@@ -1,0 +1,19 @@
+idx, sentence
+0,một bác_sĩ khoa tai_mũi họngbệnh viện đa_khoa nghệ_an cho biết  ngày 29/5 bệnh_nhân thắng được chuyển từ bệnh_viện đa_khoa huyện quế_phong tới bệnh_viện đa_khoa nghệ_an trong tình_trạng bị tổn_thương vùng khí_quản do một_số vết dao cứa vào cổ 
+1,quá_trình điều_trị  bác_sĩ đã khâu da tại vết_thương 
+2,hiện vết_thương không gây ảnh_hưởng tới tính_mạng của bệnh_nhân 
+3,theo vị bác_sĩ thì hiện_tại thắng tỉnh_táo  tuy_nhiên không chịu trò_chuyện  luôn tỏ ra lầm lỳ 
+4,bệnh_nhân thắng vẫn được xếp nằm chung buồng với một_số bệnh_nhân khác  song luôn có cảnh_sát ngồi túc_trực bênh cạnh 
+5,trong khi đó  tại khoa_ngoại lồng_ngực  bệnh_viện đa_khoa nghệ_an  bệnh_nhân sầm_bá_dần  trú tại xã mường_nọc  huyện quế_phong  nạn_nhân được xác_định bị đối_tượng vi_văn_thắng dùng dao tấn_công cũng đang được bác_sĩ chăm_sóc 
+6,bác_sĩ nguyễn_hữu_nam  trưởng khoa_ngoại lồng_ngực cho biết  bệnh_nhân dần nhập_viện trong tình_trạng tỉnh_táo  da xanh  khó thở 
+7,quá_trình thăm khám xác_định  nạn_nhân bị vết_thương ở thành ngực bên trái do dao hung_khí gây nên 
+8,có mạc_nối thòi qua vết_thương  thủng cơ_hoành  rách gan  thủng ruột_non 
+9,từ 8 h sáng 29/5  ê_kíp gần 10 y_bác_sĩ liên_khoa đã tiến_hành phẫu_thuật trong 2 giờ đồng_hồ đã hoàn_thành ca_mổ để dẫn_lưu màng_phổi  khâu cơ_hoành  cầm máu gan  khâu ruột_non 
+10,hiện_tại  sau mổ bệnh_nhân dần tỉnh_táo  tự thở  qua được giai_đoạn nguy_kịch 
+11,tuy_nhiên cần phải hồi_sức và theo_dõi sát 
+12,về diễn_biến vụ_án  theo một_số nhân_chứng  trước đó vào chiều 28/5  vi_văn_thắng tới nhà vợ_chồng ông sầm_văn_dần và bà vi_thị_loan để chơi và uống rượu 
+13,sau chầu rượu  ông dần say  lăn ra ngủ 
+14,chừng 19 h tối  thắng dùng dao tấn_công bà vi_thị_loan để cướp tài_sản trên người nạn_nhân 
+15,phát_hiện vợ bị tấn_công  ông dần lao tới thì bị thắng đâm vào người khiến ông dần ôm vết_thương lết chạy ra ngõ kêu cứu 
+16,nghi_phạm thắng sau đó đã rời khỏi hiện_trường 
+17,khi chạy tới địa_bàn xã tiền_phong  huyện quế_phong hắn_ta dùng dao tự cắt vào cổ_tự_sát  nhưng được cảnh_sát khống_chế đưa đi viện kịp_thời 

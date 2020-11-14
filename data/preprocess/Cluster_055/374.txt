@@ -1,0 +1,12 @@
+idx, sentence
+0,sáng nay  ngày 21/5   đám_cưới goo_hye_sun và ahn_jae_hyun đã chính_thức được tổ_chức theo một_cách rất đặc_biệt 
+1,cặp tình_nhân nổi_tiếng đã tới khoa nhi của bệnh_viện severance  seoul và tổ_chức hôn_lễ ngay tại đây thay_vì làm nghi_lễ rước_dâu tại nhà_thờ theo phong_tục truyền_thống 
+2,có rất nhiều phóng_viên đã có_mặt tại bệnh_viện để ghi_hình cặp_đôi 
+3,goo hye_sun và ahn_jae_hyun đã có khoảng thời_gian gặp_gỡ báo_chí tại bệnh_viện 
+4,cặp_đôi cũng dùng toàn_bộ số tiền tổ_chức đám_cưới để tặng cho các bệnh_nhi ở đây 
+5,một_số nguồn tin cho biết  goo_hye_sun và ahn_jae_hyun sẽ cùng gia_đình tận_hưởng bữa ăn cùng nhau chứ không tổ_chức tiệc mừng như những cặp_đôi khác 
+6,người đại_diện của bệnh_viện severance  seoul bày_tỏ sự biết_ơn  cảm_kích trước hành_động của goo_hye_sun và ahn_jae_hyun 
+7,người đại_diện cho biết họ hứa sẽ sử_dụng số tiền ý_nghĩa này một_cách có_ích nhất 
+8,xuất_hiện_tại bệnh_viện  cô_dâu goo_hye_sun ăn_mặc khá giản_dị nhưng vẫn rất xinh_đẹp trong bộ_đồ màu hồng phấn 
+9,trên môi của người_đẹp vườn sao băng luôn nở sẵn nụ cười rạng ngời 
+10,trong khi đó  chú_rể ahn_jae_hyun cũng ăn_mặc khá đơn_giản với áo_thun kết_hợp với sơ_mi trắng 

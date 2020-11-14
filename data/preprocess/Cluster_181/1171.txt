@@ -1,0 +1,14 @@
+idx, sentence
+0,roy_hodgson chính_thức công_bố danh_sách 23 tuyển_thủ cùng đt_anh tham_dự vkc_euro 2016 
+1,đáng chú_ý  tiền_đạo marcus_rashford của man_utd đã được điền tên 
+2,đây có_thể xem là một món quà lớn với marcus_rashford  cũng như là một cú hích trong sự_nghiệp của cầu_thủ mới 18 tuổi này 
+3,trước đó  ngay trong trận ra_mắt tam_sư ở cuộc đối_đầu với australia  rashford đã ghi_bàn và có_lẽ chính điều này đã thuyết_phục hlv roy_hodgson 
+4,cũng trong bản danh_sách  tiền_đạo daniel_sturridge được giữ lại dù dính chấn_thương 
+5,được biết  tiền_đạo của liverpool đã có_thể tập nhẹ trong buổi tập mới nhất của tam_sư 
+6,như_vậy  với sự góp_mặt của rashford và sturridge  hlv hodgson sẽ mang 5 tiền_đạo tới pháp 
+7,tại vck_euro sắp tới  sturridge sẽ mặc áo số 15  trong khi rashford đã được trao số 22 
+8,kane sẽ mặc áo số 9  vardy được trao số áo 11 
+9,còn rooney vẫn giữ được áo số 10 ưa_thích của mình 
+10,trong khi đó  tiền_vệ danny_drinkwater của leicester và tiền_vệ andros_townsend của newcastle đã bị loại khỏi danh_sách cuối_cùng 
+11,đây là điều không bất_ngờ và bản_thân hai cầu_thủ này cũng đã có những sự chuẩn_bị về mặt tâm_lý 
+12,townsend đã không có_mặt trong danh_sách đăng_ký của tam_sư ở hai trận giao_hữu gần nhất với thổ nhĩ kỳ và úc  trong khi drinkwater chơi vỏn_vẹn 16 phút trước thổ nhĩ_kỳ và 90 phút ở cuộc đối_đầu australia nhưng không để lại nhiều dấu_ấn 

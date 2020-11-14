@@ -1,0 +1,9 @@
+idx, sentence
+0,nhằm đem tới sự thuận_lợi cho người dân cũng như du_khách  một_số tuyến phố và các bệnh_viện lớn tại thành_phố hồ_chí_minh đã được triển_khai wifi miễn_phí 
+1,theo phó chủ_tịch ubnd tp hcm  ông trần_vĩnh_tuyến  sắp tới toàn thành_phố sẽ được trang_bị wifi 
+2,theo đó  một doanh_nghiệp singapore đã đề nghịe trang_bị wifi miễn_phí cho toàn thành_phố để khách du_lịch có_thể tiện tra_cứu thông_tin 
+3,bên_cạnh đó  việc mở_rộng cung_cấp mạng không dây trên diện giộng sẽ giúp thực_hiện nhiều vấn_đề xoanh quanh việc xây_dựng chính_quyền điện_tử mà thành_phố này đang tập_trung triển_khai 
+4, tôi đã làm_việc với họ và sẽ có văn_bản chính_thức 
+5,làm thí_điểm hay đại_trà thì sẽ tính_toán 
+6,điều này góp_phần đẩy_mạnh truyền_thông và tạo điểm nhấn cho du_lịch thành_phố 
+7,hệ_thống wifi có 2 cấp_độ  đối_với những nơi cần điểm nhấn thì tốc_độ nhanh hơn để tiện_lợi cho việc tra_cứu   ông tuyến nói tại cuộc họp về kế_hoạch hoạt_động du_lịch 6 tháng cuối năm hôm 31/5 

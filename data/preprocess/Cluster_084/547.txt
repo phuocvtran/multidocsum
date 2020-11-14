@@ -1,0 +1,7 @@
+idx, sentence
+0,ngày 23/5  công_an tỉnh hòa_bình cho biết  đang điều_tra nguyên_nhân cái chết của một thanh_niên  chưa rõ danh_tính   được người dân phát_hiện tại khu_vực cầu cứng  phường phương_lâm  thành_phố hòa_bình 
+1,trước đó  khoảng 5 h sáng cùng ngày  một_số người dân khu_vực trên đang đi tập_thể_dục thì bất_ngờ phát_hiện nạn_nhân liền báo cơ_quan công_an 
+2,khám_nghiệm hiện_trường  cơ_quan công_an xác_định nạn_nhân là một nam_giới  khoảng 25 – 30 tuổi  chết trong tư_thế nằm_ngửa  trên mặt  miệng và tai có nhiều vết máu 
+3,thi_thể không có dấu hiện của tác_động ngoại_lực 
+4,công_an thành_phố hòa_bình tiến_hành giám_định pháp_y  đưa thi_thể nạn_nhân về bvđk tỉnh hòa_bình làm các thủ_tục cần_thiết 
+5,nạn_nhân nghi chết do bị sốc thuốc_phiện dẫn đến vỡ động_mạch_máu 

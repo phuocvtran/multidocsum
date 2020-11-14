@@ -1,0 +1,6 @@
+idx, sentence
+0,theo guardian  tuyến đường_hầm xe_lửa gotthard của thụy_sĩ dài 57 km nằm ở độ sâu 23 km bên dưới dãy núi alps với tổng kinh_phí xây_dựng 11 tỉ euro và 17 năm để hoàn_thành 
+1,vượt qua kỷ_lục là một tuyến đường_hầm dài nhất và đắt nhất thế_giới  tại thời_điểm mà các phong_trào chủ_nghĩa dân_tộc và đóng cửa biên_giới gia_tăng  các nhà lãnh_đạo châu_âu hy_vọng  đường_hầm gotthard còn trở_thành công_trình nhắc_nhở người_ta rằng  châu_âu sẽ tiếp_tục phá_bỏ mọi rào_cản để có_thể xích lại gần nhau hơn 
+2,do_đó  không phải ngẫu_nhiên mà thủ_tướng đức_angela_merkel  tổng_thống pháp françois_hollande và thủ_tướng ý_matteo_renzi đã thu_xếp công_việc để cùng tổng_thống thụy_sĩ_johann_schneiderammann đi trên chuyến tàu đầu_tiên trong dịp khánh_thành đường_hầm xe_lửa xuyên núi hôm_nay  16 
+3,tham_dự lễ khai_trương với kinh_phí tổ_chức ước_tính khoảng 8 triệu euro còn có 1200 khách_mời 
+4,sau khai_trương  tuyến đường sẽ tiếp_tục được triển_khai các chuyến tàu thử_nghiệm tiếp_theo cho tới lúc chính_thức hoạt_động bình_thường vào tháng 122016 

@@ -1,0 +1,7 @@
+idx, sentence
+0,đội tàu hồng_long thuộc doanh_nghiệp tư_nhân huyền_việt  có tàu du_lịch hồng_long_qn  7038 bị du_khách tố_cáo về hành_vi lừa_đảo  “ chặt chém ” du_khách tham_quan vịnh hạ_long ngày chủ_nhật 1552016 
+1,trong đó  những người khách cho rằng họ bị cắt xén hành_trình  thu tiền dịch_vụ ăn_uống quá cao 
+2,nhận được phản_ánh từ du_khách và báo_chí  ngày 175  ubnd tp hạ_long chỉ_đạo các đơn_vị chức_năng liên_quan vào_cuộc phối_hợp kiểm_tra  xác_minh vụ_việc 
+3,qua kiểm_tra  cơ_quan_chức_năng phát_hiện những hành_vi vi_phạm của tàu hồng_long_qn  7038 như  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định và không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 
+4,trước đó  từ ngày 112016  đội tàu hồng_long cũng ba lần vi_phạm  bị đề_nghị từ_chối cáp phép rời cảng  bến với hai lỗi là đưa khách vào nhà_bè kinh_doanh hải_sản trái_phép vịnh hạ_long và để phương_tiện khác bám buộc vào phương_tiện của mình bán hàng_hóa 
+5,riêng tàu hồng_long_qn  7038 bị công_an tp hạ_long xử_phạt 3 lần cùng về lỗi vi_phạm để khách đứng ngồi trên mui khi đang hành_trình 

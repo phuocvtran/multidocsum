@@ -1,0 +1,4 @@
+idx, sentence
+0,ngày 31/5  tòa_án nhân_dân tp hồ_chí_minh đã tuyên_án đối_với năm bị_cáo trong vụ_án “ lừa_đảo ”  “ vi_phạm quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng ” xảy ra tại công_ty tnhh tư_vấn thiết_kế xây_dựng ktt và ngân_hàng nông_nghiệp_và_phát_triển_nông_thôn  chi_nhánh bình_chánh  agribank bình_chánh  
+1,tòa đã tuyên_phạt nguyễn_đức_trí  nguyên giám_đốc công_ty ktt tù_chung_thân  trương_xuân_quang  kế_toán_trưởng công_ty ktt 20 năm tù về tội lừa_đảo chiếm_đoạt tài_sản  đồng_thời buộc trí và quang liên_đới bồi_thường cho agribank bình_chánh hơn 231 tỷ đồng  tiền gốc và lãi phát_sinh đến thời_điểm khởi_tố vụ_án  
+2,đối_với nhóm các bị_cáo nguyên là cán_bộ agribank bình_chánh  nguyễn_văn_lợi  nguyên phó giám_đốc bị phạt 7 năm tù  trần_thị_hoàng_yến  nguyên phó trưởng_phòng kế_hoạch kinh_doanh bị phạt 6 năm tù_và nguyễn_thị_thanh_nga  nguyên cán_bộ tín_dụng bị phạt 5 năm tù 

@@ -1,0 +1,17 @@
+idx, sentence
+0,liverpool đã hoàn_tất bản hợp_đồng trị_giá 47 triệu bảng với thủ_môn loris_karius người đức 
+1,anh đến từ clb mainz và sẽ gắn_bó với sân anfield trong 5 năm 
+2,karius sẽ được khoác chiếc áo số 1 của liverpool từ mùa tới 
+3,thủ_thành 22 tuổi này tỏ ra hạnh_phúc khi được chuyển đến chơi cho the_kop 
+4,karius cho biết  “ đó là cảm_giác rất tốt và là một vinh_dự khi được khoác áo liverpool 
+5,clb có lịch_sử đặc_biệt và những cđv tuyệt_vời 
+6,vì_vậy  tôi muốn được chơi ở anfield 
+7,tôi biết rất nhiều về clb từ các phương_tiện truyền_thông 
+8,lịch_sử của đội bóng  tất_cả mọi người đều biết đến ” 
+9,“ có rất nhiều thứ trong đầu tôi khi nghĩ về clb này 
+10,tôi đã nói_chuyện với hlv juergen_klopp và cảm_thấy rất tuyệt_vời 
+11,ông đã chia_sẻ với tôi về tương_lai  những gì sẽ làm với clb và cầu_thủ 
+12,tôi đã bị thuyết_phục và quyết_định khoác áo liverpool ” 
+13,karius từng được đào_tạo ở man_city trong những năm 2009  2011 trước khi chuyển tới mainz 
+14,trong mùa giải này  karius giữ sạch lưới 9 trận ở bundesliga và góp công lớn vào thành_tích đứng thứ 6 của mainz 
+15,ở sự_nghiệp quốc_tế  karius đã được thi_đấu cho đội u21_đức 

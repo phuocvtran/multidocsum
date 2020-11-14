@@ -1,0 +1,14 @@
+idx, sentence
+0,trong số 9 đồng_phạm của minh  sâm  phải ra hầu_tòa lần này có cả con_gái và con_rể của ông ta 
+1,tand tỉnh bắc_ninh cho hay  người ngồi ghế chủ_tọa phiên xét_xử là thẩm_phán phạm_văn_tuyên  chánh_án tand tỉnh bắc_ninh 
+2,trước đó  vào chiều_tối 13/8/2014  nguyễn_hữu_hoàng  sn 1991  nhân_viên văn_phòng ban quản_lý chợ gỗ phù_khê_đông_– chợ đồng_bèo  thuộc công_ty tnhh đại_an bị cục cảnh_sát điều_tra tội_phạm về ma_túy  bộ công_an bắt quả_tang về hành_vi cưỡng_đoạt tài_sản với số tiền 12 triệu đồng 
+3,bắt_giữ các đối_tượng liên_quan  cơ_quan công_an thu_giữ 6 khẩu súng các loại  1 quả lưu đạn  nhiều đao_kiếm cùng các loại công_cụ hỗ_trợ khác và nhiều xế hộp hạng sang maybach  lexus  bmw … cơ_quan điều_tra cũng thu_giữ toàn_bộ giấy_tờ  sổ_sách thể_hiện số tiền mà các đối_tượng đã cưỡng_đoạt trong thời_gian dài 
+4,theo cáo_trạng  năm 2010  công_ty tnhh đại_an do nguyễn_ngọc_minh làm giám_đốc được ubnd tỉnh bắc_ninh cấp phép làm_chủ đầu_tư 2 khu chợ phù_khê_thượng và phù_khê_đông  thị_xã từ_sơn 
+5,ngoài_ra  minh_sâm còn tự_ý biến một phần đất dự_án làm chợ tấn_bào để kinh_doanh gỗ 
+6,minh  sâm  đã cầm_đầu băng_nhóm côn_đồ ở từ_sơn  tự thành_lập ban quản_lý chợ phù_khê_đông  giao cho có gái và con rể quản_lý 
+7,còn khu chợ phù_khê_thượng và chợ tiến_bào  minh_sâm giao cho đàn_em thân_tín là nguyễn_thành_hưng  63 tuổi  tức hưng_sóc  điều_hành 
+8,các xe trọng_tải lớn khi vào chợ gỗ phù_khê phải nộp cho băng_nhóm của minh  sâm  từ 1 – 3 triệu đồng / lần lưu bãi 
+9,ôtô không chở hàng khi vào đây cũng phải nộp 50000 đồng 
+10,ngoài_ra  minh_sâm còn chỉ_đạo đàn_em ép các phương_tiện chở gỗ vào các kho_bãi của hộ kinh_doanh cá_thể phải vào chợ dỡ_hàng để thu phí bốc_xếp  bến_bãi 
+11,trường_hợp nào chống_đối  sẽ bị đám đàn_em của minh  sâm  đe_dọa  xử_lý  dưới_trướng của minh “ sâm ” và hưng “ sóc ” có hàng chục thanh_niên bặm_trợn  có nhiều tiền_án  tiền_sự  nên dù bị cưỡng_đoạt trắng_trợn  thường_xuyên  các chủ xe  thương_lái_buôn gỗ đã phải ngoan_ngoãn nộp tiền để được yên_ổn làm_ăn 
+12,trước khi cáo_trạng được ban_hành  nguyễn_thành_hưng  tức_hưng_sóc  bị chết vì bệnh nên cơ_quan_chức_năng đã đình_chỉ điều_tra đối_với người này về 2 tội cưỡng_đoạt tài_sản và tàng_trữ trái_phép vũ_khí quân_dụng 

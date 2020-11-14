@@ -1,0 +1,7 @@
+idx, sentence
+0,bà trần_thị_tuyết_mai và ông lê_văn_nhỏ  62 tuổi   ngụ ấp thạnh_phong  xã đông_thạnh  huyện an_minh sống với nhau như vợ_chồng từ đầu năm 2016 đến nay 
+1,thời_gian gần đây  cả hai thường_xuyên xảy ra cự cãi do ông nhỏ hay ghen vì nghi_ngờ bà mai ngoại_tình  nên khoảng 4 giờ sáng 36  trong lúc bà mai đang ngủ  ông nhỏ dùng búa tấn_công bà rồi uống thuốc tự_tử nhưng không thành 
+2,hiện ông nhỏ đang được điều_trị tại bv đa_khoa kiên_giang 
+3,bs tô_minh_thắng  phó_trưởng khoa cấp_cứu bv đa_khoa tỉnh kiên_giang  cho biết khoảng 10 giờ 30 ngày 36  khoa cấp_cứu bệnh_viện tiếp_nhận bệnh_nhân lê_văn_nhỏ uống thuốc_trừ_sâu 
+4,lúc nhập_viện  bệnh_nhân nhỏ tỉnh  tự thở  không tăng_tiết đàm  không run cơ nhưng không giao_tiếp 
+5,hiện sức_khỏe của ông lê_văn_nhỏ đã ổn_định và đang được theo_dõi ở khoa hồi_sức chống độc 

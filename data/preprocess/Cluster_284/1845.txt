@@ -1,0 +1,3 @@
+idx, sentence
+0,mới_đây  trên trang cá_nhân của mình  hoa_hậu kỳ_duyên đã chia_sẻ hình_ảnh chụp phía sau của bạn trai với dòng chú_thích   his back  feel safe   tạm dịch  tấm lưng của anh ấy  cảm_thấy an_toàn  pv  
+1,đông_đảo fan của kỳ_duyên đã nhanh_chóng vào chúc_mừng kỳ duyên vì có được bạn trai vừa đẹp_trai lại ga lăng 

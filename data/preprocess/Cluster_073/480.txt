@@ -1,0 +1,5 @@
+idx, sentence
+0,ngày 21/5  công_an hà_nội bắt huỳnh_quang_phong  55 tuổi  ở quận_hai_bà_trưng  để điều_tra hành_vi lừa_đảo chiếm_đoạt tài_sản 
+1,khi quen chị cao  ông phong mạo_nhận là chủ_tịch hđqt công_ty xây_dựng 69 hà_nội  có_thể giúp người_nhà của chị xin vào học trung_cấp cảnh_sát với chi_phí 400 triệu đồng 
+2,nhận đủ tiền với chiêu lừa này  ông phong còn nhận 230 triệu đồng của người bạn chị cao với lời hứa tương_tự 
+3,không thấy người_thân được đi học  hai bị hại nhiều lần đòi tiền nhưng không được trả 

@@ -1,0 +1,11 @@
+idx, sentence
+0,đánh_giá cao nỗ_lực của tập_đoàn th_true_milk đưa sản_phẩm  thương_hiệu “ made in việt_nam ” ra nước_ngoài  thủ_tướng nguyễn_xuân_phúc khẳng_định chính_phủ việt_nam sẽ tiếp_tục tạo mọi điều_kiện để hỗ_trợ triển_khai dự_án và tin_tưởng rằng dự_án sẽ hoàn_thành đúng thời_gian dự_kiến  trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu  đáp_ứng nguyện_vọng của nhân_dân hai nước  phù_hợp với xu_hướng phát_triển năng_động  góp_phần nâng cao hiệu_quả hợp_tác song_phương việt_nam – liên_bang  lb  nga 
+1,thủ_tướng cũng bày_tỏ mong_muốn chính_phủ lb_nga cũng như chính_quyền tỉnh mátxcơva tạo mọi điều_kiện thuận_lợi để dự_án thành_công 
+2,tại lễ khởi_công  bà thái_hương  chủ_tịch tập_đoàn th đã chính_thức tuyên_bố khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại tỉnh moscow với mức đầu_tư 500 triệu usd  giai_đoạn 1 của dự_án tại liên_bang_nga 
+3,dự_kiến vào giữa năm 2017  sản_phẩm sữa_tươi sạch th đầu_tiên sẽ ra_mắt tại xứ_sở bạch_dương 
+4,đây là giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tập_trung quy_mô công_nghiệp và một_số dự_án về thực_phẩm với tổng vốn đầu_tư là 27 tỷ usd tại liên_bang_nga 
+5,trong đó  dự_án sữa triển_khai theo 3 giai_đoạn 
+6,khi hoàn_thành dự_án ở giai_đoạn 3  tổng_số đàn bò dự_kiến là  350000 con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
+7,tập_đoàn th cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn nước nga 
+8,theo bộ kế_hoạch và đầu_tư việt_nam  nga hiện đang đứng thứ 17/112 quốc_gia và vùng lãnh_thổ đầu_tư vào việt_nam với 114 dự_án đầu_tư còn hiệu_lực  tổng vốn đầu_tư đăng_ký đạt 208 tỉ usd trong các lĩnh_vực như năng_lượng  khai_khoáng  chế_tạo_máy  dịch_vụ du_lịch … việt_nam có 20 dự_án đầu_tư sang nga với tổng vốn đầu_tư_cấp mới và tăng vốn là 293 tỉ usd trong các lĩnh_vực thăm_dò và khai_thác dầu_khí  dịch_vụ 
+9,như_vậy  tại thời_điểm này  dự_án đầu_tư của tập_đoàn th đang là dự_án lớn nhất cả về quy_mô sản_xuất và nguồn vốn sử_dụng 

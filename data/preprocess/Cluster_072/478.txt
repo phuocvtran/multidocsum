@@ -1,0 +1,6 @@
+idx, sentence
+0,thủ_tướng afghanistan_abdullah_abdulla đã xác_nhận lãnh_đạo taliban đã chết trong trận oanh_kích do máy_bay không người lái của mỹ thực_hiện bên trong lãnh_thổ pakistan 
+1,từ miến_điện  ngoại_trưởng mỹ cũng gián_tiếp xác_nhận tin này khi tuyên_bố không_quân mỹ đã oanh_kích thủ_lĩnh taliban akhtar_mansour  diệt_trừ một mối đe_dọa thường_trực 
+2,theo giới phân_tích  cái chết của akhtar_mansour có_thể mở_đường cho một nhân_vật mới  ôn_hoà  lên thay 
+3,akhtar_mansour có tiếng là một nhân_vật cứng_rắn sẵn_sàng tiêu_diệt những taliban ly_khai và đối_thủ chính_trị 
+4,năm 2015  dadullah  một thủ_lĩnh ly_khai đã bị hạ_sát 

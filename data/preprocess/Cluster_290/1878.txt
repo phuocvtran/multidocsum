@@ -1,0 +1,7 @@
+idx, sentence
+0,afp đưa tin ngày 2/6  balan_nair  luật_sư đại_diện cho gia_đình của 6 thành_viên phi_hành_đoàn cho biết  đơn kiện_cáo_buộc hãng malaysia_airlines cẩu_thả và vi_phạm hợp_đồng  gây nên thảm_kịch hồi tháng 7/2014 
+1,đây được cho là đơn_kiện đầu_tiên của thân_nhân thành_viên phi_hành_đoàn với malaysia_airlines 
+2,theo đơn_kiện  malaysia_airlines thiếu trách_nhiệm khi cho mh17 bay qua khu_vực có xung_đột vũ_trang  đặt sự sống của hành_khách và phi_hành_đoàn vào nguy_hiểm  nguy_cơ tử_vong cao 
+3,ông balan không cung_cấp số tiền bồi_thường mà các gia_đình đòi từ hãng trên là bao_nhiêu và nói rằng việc này sẽ được tòa_án quyết_định 
+4,cũng theo vị luật_sư này  malaysia_airlines từng đề_nghị giải_quyết bằng một khoản tiền bồi_thường song các gia_đình không đồng_ý 
+5,chong seng_see  chị_gái của một thành_viên phi_hành_đoàn cho hay  gia_đình cô đã phải chịu nỗi đau “ khủng_khiếp ” sau cái chết của người_thân 

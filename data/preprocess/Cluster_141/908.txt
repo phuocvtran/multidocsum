@@ -1,0 +1,14 @@
+idx, sentence
+0,việc người dân chốt chặn  ngăn hai lối vào nhà_máy xử_lý rác nam_sơn  đường nam_sơn và đường hồng_kỳ  đã khiến hàng trăm xe_rác ùn ứ đứng thành một hàng dài hàng km 
+1,sự_việc nghiêm_trọng hơn khi người dân thay phiên nhau chốt chặn cả đêm 26/5  kéo_dài sang ngày hôm_nay 27/5 
+2,người dân mang chăn màn ra nằm chắn giữa đường  không cho xe_rác vào bãi 
+3,trao_đổi với vietnamnet  ông nguyễn_ngọc_oanh  phó chủ_tịch xã nam_sơn cho biết  khi xảy ra vụ_việc  hôm_nay  27/5  xã đã tổ_chức cuộc họp gấp với sự tham_gia của phó chủ_tịch ubnd huyện sóc_sơn đỗ_tuấn_minh  cùng các ban_ngành của huyện  xã và chi_bộ thôn đông_hạ 
+4,nội_dung cuộc họp là vận_động người dân giải_tán  không chặn đường để xe_rác có lối vào đổ rác trong bãi chứa của nhà_máy xử_lý rác nam_sơn 
+5,phó chủ_tịch xã nam_sơn giải_thích  việc người dân_biểu_tình  chặn xe_rác do không đồng_tình với phương_án_phí bồi_thường ô_nhiễm môi_trường cho các hộ dân sống gần bãi_rác 
+6,“ người dân từ lâu đã có đơn phản_ánh  kiến_nghị lên các cấp  kiến_nghị lên ubnd tphà nội 
+7,thành_phố mới_đây đã ban_hành quyết_định về việc đền_bù  hỗ_trợ cho các hộ dân sống gần vùng ô_nhiễm với các mức tiền từ 8000 đ – 70000 đ / người / tháng 
+8,bà_con cho rằng  việc đền_bù như_thế chưa hợp_lý_do có sự chênh_lệch lớn ở các mức tiền đền_bù  hỗ_trợ ”  ông oanh cho hay 
+9,ông nguyễn_văn_diu  thôn đông_hạ  xã nam_sơn  nói với vietnamnet cho biết  nguyên_nhân người dân chặn xe_rác do bãi_rác gây ô_nhiễm môi_trường nghiêm_trọng  ảnh_hưởng đến đời_sống trong nhiều năm qua 
+10,ngoài_ra  phương_án bồi_thường  hỗ_trợ phí ảnh_hưởng từ ô_nhiễm bãi_rác cho người_dân không hợp_lý  có sự chênh_lệch rất lớn về mức đền_bù hỗ_trợ đối_với các hộ dân trong cùng một xã 
+11,hiện_tại  hàng trăm người dân vẫn đang tập_trung chốt chặn hai lối vào của bãi chứa rác chờ xử_lý 
+12,do các xe chở rác chỉ đổ rác vào ban_đêm nên số_lượng người dân chốt_giữ  chặn xe tập_trung vào ban_đêm càng lớn 

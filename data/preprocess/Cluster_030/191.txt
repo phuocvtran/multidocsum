@@ -1,0 +1,17 @@
+idx, sentence
+0,một_số trang mạng không nắm rõ cũng dẫn lại thông_tin này khiến người tiêu_dùng lo_lắng  các doanh_nghiệp bị ảnh_hưởng 
+1,thực_chất  hai chất bảo_quản methylchlorothiazolinone  mct  và methylisothiazolinone  mit  lâu_nay được phép sử_dụng trong dầu_gội  theo tỷ_lệ quy_định  chứ không phải là những “ chất cấm ”  “ chất độc_hại ” như thông_tin trên một_số trang mạng trong những ngày qua 
+2,cụ_thể  ngày 2942016 vừa_qua  cục quản_lý_dược  bộ y_tế  có công_văn gửi sở y_tế các tỉnh  thành trong nước và các doanh_nghiệp sản_xuất  kinh_doanh mỹ_phẩm  trong đó có nêu rõ hai chất mct và mit được phép sử_dụng với tỷ_lệ như sau  hỗn_hợp methylchlorothiazolinone với methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 được sử_dụng trong các sản_phẩm rửa_sạch  rinseoff products  với nồng_độ không quá 00015  ” 
+3,hỗn_hợp methylchlorothiazolinone với methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 không được dùng thêm thành_phần methylisothiazolinone trong một sản_phẩm mỹ_phẩm 
+4,các sản_phẩm mỹ_phẩm sản_xuất trong nước  nhập_khẩu chưa đáp_ứng quy_định mới nêu trên được phép lưu_hành trên thị_trường đến hết ngày 30112016 
+5,cục quản_lý_dược đề_nghị sở y_tế các tỉnh  thành phổ_biến cho các doanh_nghiệp trên địa_bàn biết về việc này 
+6,việc cục quản_lý dược  bộ y_tế  đưa ra thông_báo trên là dựa trên triển_khai quy_định về các chất sử_dụng trong mỹ_phẩm của asean  trên cơ_sở đánh_giá của asean 
+7,như_vậy  có nghĩa  hai chất methylchlorothiazolinone và methylisothiazolinone vẫn được dùng trong dầu gội theo quy_định về hàm_lượng  tỷ_lệ như trên  chứ không phải là chất cấm 
+8,theo các quy_định hiện_tại  các cơ_quan_chức_năng châu_âu chỉ quy_định về việc điều_chỉnh hàm_lượng mct và mit dùng trong mỹ_phẩm để kiểm_soát khả_năng gây nhạy_cảm cho da đối_với mỹ_phẩm lưu lại trên da như sản_phẩm dưỡng  và an_toàn trong hàm_lượng quy_định đối_với các mỹ_phẩm rửa_sạch như sữa tắm  dầu gội  dầu xả … thông_tin sai lệnh khiến doanh_nghiệp khổ_sở  người tiêu_dùng lo_lắng trước những thông_tin không chính_xác về hai chất trên khiến người tiêu_dùng hoang_mang  ảnh_hưởng đến các doanh_nghiệp lâu năm trong và ngoài nước tại việt_nam  ngày 1752016  hiệp_hội tinh_dầu_hương_liệu mỹ phẩm việt_nam có công_văn gửi các báo đài để thông_tin rõ về vấn_đề này 
+9,theo công_văn  năm 2014  châu_âu đưa ra các quy_định về điều_chỉnh hàm_lượng mct và mit dùng trong mỹ_phẩm  lưu lại trên da  để kiểm_soát nguy_cơ có_thể gây nhạy_cảm cho da  theo hàm_lượng  tỷ_lệ như nói ở trên 
+10,và các nước asean áp_dụng quy_định của châu_âu về hàm_lượng 2 chất như nói trên 
+11,mỗi quốc_gia thành_viên asean quyết_định đưa ra thời_hạn áp_dụng phù_hợp 
+12,chẳng_hạn  thái_lan  myanmar  campuchia và lào  việt_nam đến hết tháng 112016  indonesia hết tháng 122016 … theo hiệp_hội tinh_dầu_hương_liệu mỹ phẩm việt_nam  chưa có báo_cáo chính_thức nào khẳng_định các chất mct và mit có_thể gây mất an_toàn ở một hàm_lượng nhất_định 
+13,việc thay_đổi quy_định là chỉ điều_chỉnh hàm_lượng sử_dụng cho_phép với hai chất mct  mit chứ không phải cấm sử_dụng 
+14,“ một_số thông_tin gọi các chất bảo_quản mct và mit là “ chất cấm sử_dụng trong mỹ_phẩm ”  “ chất độc_hại ” … là không chính_xác về cơ_sở khoa_học lẫn quy_định hiện_hành 
+15,chúng_tôi xin khẳng_định lại  theo quy_định hiện_hành của châu_âu  asean và cả việt_nam  hai chất bảo_quản trên không bị cấm mà chỉ giới_hạn nồng_độ  hàm_lượng … ”  hiệp_hội tinh_dầu_hương_liệu mỹ phẩm việt_nam nêu 

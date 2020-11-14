@@ -1,0 +1,11 @@
+idx, sentence
+0,vụ cháy xảy ra vào đêm 2/6  tại căn nhà cấp 4 bên trong hẻm 80 dương_quảng_hàm  quận gò_vấp  tphcm 
+1,thông_tin ban_đầu  khoảng 21 h  người dân phát_hiện khói_lửa bốc lên nghi_ngút từ căn nhà cấp 4 nói trên 
+2,lo_sợ đám cháy uy_hiếp hệ_thống điện nên một_số người đã tìm cách ngắt hệ_thống điện tổng 
+3,lúc này  hai vợ_chồng ông lão 70 tuổi ở bên trong căn nhà đang rực_lửa  không_thể thoát ra ngoài do điện bị cúp  cánh cửa_cuốn vì_thế không mở ra được 
+4,nghe tiếng tri_hô cầu_cứu bên trong của hai vợ_chồng cụ ông 70 tuổi  hàng chục người huy_động xà_beng  búa  phá cảnh cửa bên hông  lao vào đám cháy nghi_ngút để cứu 2 nạn_nhân bị mắc_kẹt  đưa ra ngoài an_toàn 
+5,nhận được tin báo  cảnh_sát pccc quận gò_vấp huy_động nhiều xe chữa_cháy cùng hàng chục chiến_sĩ có_mặt để dập lửa 
+6,do căn nhà nằm trong hẻm sâu nên xe cứu_hỏa phải đậu bên ngoài cách hiện_trường vụ cháy hơn 500 m 
+7,sau gần 2 giờ vật_lộn với đám_cháy  lính cứu_hỏa đã dập_tắt được ngọn lửa 
+8,không có thương_vong về người  tuy_nhiên vụ cháy khiến tài_sản bên trong căn nhà cấp 4 bị thiêu rụi 
+9,được biết  căn nhà này có hơn 10 người sinh_sống nhưng tại thời_điểm_hỏa hoạn chỉ có ông_bà_cụ bên trong 

@@ -1,0 +1,4 @@
+idx, sentence
+0,theo đó  với chương_trình “ 20 năm honda  tưng_bừng quà hấp_dẫn ”  từ ngày 1/6 đến hết 30/6/2016  khách_hàng mua xe honda_lead 125 cc tại các cửa_hàng bán xe và dịch_vụ do honda_ủy_nhiệm  head  trên toàn_quốc nhận ngay phiếu quà tặng 500000 đồng và mũ_bảo_hiểm honda_jet 
+1,cũng trong thời_gian trên  khách_hàng mua xe wave_rsx / wave rsxfi 110 cc và blade 110 cc được honda việt_nam tặng một phiếu mua hàng trị_giá 500000 đồng 
+2,đặc_biệt  với chương_trình khuyến_mãi “ xe ngầu  quà_chất ”  khách_hàng mua xe msx 125 cc tại các head từ ngày 1/6/2016 đến ngày 15/7/2016 trên toàn_quốc sẽ nhận được ngay một phiếu quà tặng 3 triệu đồng có giá_trị sử_dụng ngay lần mua xe đó và đồng_thời được hỗ_trợ 100  phí trước_bạ 

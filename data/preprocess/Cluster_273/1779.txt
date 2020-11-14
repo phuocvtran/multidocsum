@@ -1,0 +1,7 @@
+idx, sentence
+0,danh_tính nạn_nhân_tử_vong được xác_định là anh võ_đình_toàn  28 tuổi  ngụ khối quang_trung  pvinh_tân  tp vinh 
+1,người bị_thương là một phụ_nữ tên h thông_tin ban_đầu  khoảng 13 h30 chiều 2/6  sau đám giỗ tại một căn nhà tên đường đường đặng_văn_thụy  khối 15  pcửa_nam  tp vinh  anh toàn và một nam thanh_niên xảy ra mâu_thuẫn  cãi_vã 
+2,trong lúc xô_xát  nam thanh_niên này dùng dao chém trọng_thương anh toàn và chị h  sau đó bỏ trốn khỏi hiện_trường 
+3,anh toàn và chị h được người dân đưa đi bệnh_viện cấp_cứu trong tình_trạng bị_thương ở vùng đầu  mặt với nhiều vết chém 
+4,đến khoảng 21 h35 tối 2/6  anh toàn tử_vong do vết_thương nặng và được đưa về gia_đình 
+5,22 h30 đêm 2/6  phòng giám_định pháp_y đã có_mặt để khám_nghiệm tử_thi 

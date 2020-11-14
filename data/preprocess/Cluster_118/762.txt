@@ -1,0 +1,6 @@
+idx, sentence
+0,theo đó  nữ diễn_viên angelina_jolie sẽ giảng bài cho sinh_viên  tham_gia các hội_thảo chuyên_đề cùng một_số sự_kiện cộng_đồng tại trung_tâm vì phụ_nữ  hòa bình và an_ninh thuộc trường đại_học kinh_tế london  anh  
+1,angelina jolie được bổ_nhiệm cùng william_hague  người đã cùng jolie thành_lập sáng_kiến phòng_chống bạo_lực tình_dục trong xung_đột  psvci  vào năm 2012  khi ông là ngoại_trưởng anh 
+2,hai giáo_sư thỉnh_giảng khác là jane_connors  giám_đốc vận_động của tổ_chức ân_xá quốc_tế  ai   madeleine_rees  tổng_thư_ký liên_đoàn_quốc_tế phụ_nữ vì hòa bình và tự_do  wilpf  
+3,chương_trình giảng_dạy bao_gồm các khóa học  phụ_nữ  hòa_bình và an_ninh    giới_tính và quân_sự  và  giới_tính và quyền con_người  
+4,sinh_viên sẽ nghiên_cứu về phòng_chống bạo_lực tình_dục trong các cuộc xung_đột  về phụ_nữ  hòa_bình và an_ninh 

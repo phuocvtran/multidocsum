@@ -1,0 +1,9 @@
+idx, sentence
+0,theo nhnn  trong thời_gian nhnn tổ_chức bán tiền lưu_niệm  tờ tiền mệnh_giá 100 đồng nhận được sự quan_tâm và đánh_giá cao của nhiều tổ_chức  cá_nhân trong và ngoài nước 
+1,ngay sau khi có thông_tin nhnn tổ_chức bán tiền lưu_niệm  rất đông người dân đã đổ_xô đến các điểm bán tại số 16 tông_đản  hà_nội   thậm_chí liên lục có đoàn người xếp_hàng từ sáng sớm để được vào mua tiền 
+2,không công_bố số_lượng tiền bán ra cụ_thể  nhưng nhnn cho biết  số_lượng tiền lưu_niệm phát_hành lần này chủ_yếu được bán rộng_rãi cho nhiều tổ_chức  đơn_vị trong  ngoài ngành và trên 20000 lượt khách_hàng cá_nhân đã mua 
+3,đến nay số_lượng tiền lưu_niệm dành bán cho công_chúng đã hết 
+4,kể từ ngày 12/4 tại hà_nội và từ 22/4 tại tphcm  nhnn việt_nam đã tổ_chức bán tiền lưu_niệm mệnh_giá 100 đồng  phát_hành vào dịp kỷ_niệm 65 năm thành_lập ngành ngân_hàng việt_nam 
+5,tờ tiền lưu_niệm có kích_thước to hơn so với các tờ tiền polymer thông_thường  chất_liệu bằng cotton màu_sắc đỏ 
+6,mặt trước là hình quốc_huy  chân_dung chủ_tịch hồ_chí_minh  dòng chữ ngân_hàng nhà_nước việt_nam  mệnh_giá 100 đồng in đậm với logo 65 năm kỷ_niệm thành_lập nhnn 
+7,theo đó  tiền lưu_niệm 100 đồng có giá bán 20000 đồng / tờ  loại tờ_rời  và 25000 đồng / tờ  loại tờ foder  được bọc trong phong_bao  kèm chú_thích song_ngữ việt  anh  

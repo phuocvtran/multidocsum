@@ -1,0 +1,6 @@
+idx, sentence
+0,người phát_ngôn của hãng hàng_không turkish_airlines cho biết ngày 23/5  nhà_chức_trách nước này đã tiến_hành sơ_tán và lục_soát một máy_bay của hãng này khi đang đỗ tại sân_bay ataturk  sân_bay chính của thành_phố istanbul sau khi phát_hiện một mẩu giấy có nội_dung đe_dọa đánh bom 
+1,theo người phát_ngôn trên  toàn_bộ 134 người trên máy_bay  bao_gồm cả phi_hành_đoàn  đã được sơ_tán 
+2,điểm đến của chuyến bay này theo lịch_trình là thành_phố kayseri  miền trung thổ nhĩ kỳ 
+3,một chiếc máy_bay khác sau đó đã được điều đến để phục_vụ hành_khách 
+4,từ đầu năm nay  thổ nhĩ kỳ đã phải hứng_chịu một loạt vụ đánh bom liều chết  trong đó có 2 vụ tấn_công vào các khu_vực nghỉ_dưỡng ở istanbul và 2 vụ đánh bom xe ở thủ_đô ankara 

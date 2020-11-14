@@ -1,0 +1,7 @@
+idx, sentence
+0,ba ca_khúc được chọn thu lần này gồm như hòn bi xanh  em là hoa_hồng nhỏ  vì có chúng_em nên đời_sống không già 
+1,đây là 3 sáng_tác dành cho thiếu_nhi nổi_tiếng và quen_thuộc với mọi người của cố nhạc_sĩ 
+2,liên khúc được hòa_âm bởi nhạc_sĩ nguyễn_minh_quân 
+3,mv được quay đơn_giản tại phòng thu với sự hỗ_trợ bè của các em thiếu_nhi trong nhóm bè sơn_ca 
+4,những khoảnh_khắc tự_nhiên cùng tinh_thần vui_tươi  trẻ_trung tạo nên một liên khúc rộn_rã  tràn_đầy sắc_màu và ý_nghĩa 
+5,chia_sẻ về ý_tưởng phát_hành single lần này  đức_tuấn cho biết đây là món quà dành tặng các bé nhân_dịp ngày quốc_tế thiếu_nhi 1/6 đồng_thời gửi đến những người_yêu nhạc trịnh 

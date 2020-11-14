@@ -1,0 +1,7 @@
+idx, sentence
+0,vụ tai_nạn thương_tâm xảy ra vào_khoảng 17 h ngày 26 tại thôn đông_xuyên  xã đông_tiến  huyện yên_phong  tỉnh bắc_ninh 
+1,theo đó  vào thời_điểm trên anh nguyễn_văn_thủy  37 tuổi  trú tại địa_phương  cùng 4 thanh_thiếu_niên sửa_chữa cầu dẫn ra lồng bè cá nuôi trên sông_cầu  không may cả 5 người bị điện giật 
+2,khi mọi người phát_hiện đã tìm cách cứu_giúp nhưng bất_thành 
+3,được biết  ngoài anh thủy  4 nạn_nhân đều ở độ tuổi1216 tuổi 
+4,có hai nạn_nhân là cậu cháu ruột 
+5,ông nguyễn_hạnh_chung  bí_thư huyện_uỷ yên_phong  cho biết trên tuổi_trẻ  ngay sau khi nhận được thông_tin  lãnh_đạo ubnd huyện cùng công_an huyện đã có_mặt tại hiện_trường để tổ_chức khám_nghiệm và bàn_giao các thi_thể về cho gia_đình lo mai_táng ngay trong đêm 

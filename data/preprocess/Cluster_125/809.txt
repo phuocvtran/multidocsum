@@ -1,0 +1,19 @@
+idx, sentence
+0,jess gayford  26 tuổi đang mang thai tháng thứ 8 
+1,cô nghiện tất_cả các loại xà_phòng và dung_dịch rửa tay 
+2,bà mẹ một con chia_sẻ rằng sở_thích kỳ_lạ bắt_đầu từ lúc cô thử liếm một bánh xà_phòng 
+3,đến nay trung_bình cô tiêu_thụ 2 chai nước rửa tay trong một tuần 
+4,mẹ của cậu con_trai 5 tuổi cho biết cô ngày_càng thích ăn xà_phòng 
+5, tôi muốn liếm thử một bánh xà_phòng nên mua và bắt_đầu liếm 
+6,điều này nghe có_vẻ kinh_tởm  nhưng thật_ra vị của nó rất tuyệt  
+7,ban_đầu chồng của cô là anh lee_trimby  31 tuổi  lo_ngại xà_phòng sẽ ảnh_hưởng xấu đến đứa con trong bụng vợ  song các bác_sĩ đã trấn_an rằng em bé sẽ không bị ảnh_hưởng gì 
+8,người mẹ thừa_nhận cảm thấy kỳ_lạ về chứng thèm ăn của mình 
+9,các chuyên_gia cho rằng jess đang mắc chứng pica  hội_chứng thèm ăn những thứ kỳ_lạ 
+10,nhiều người mắc hội_chứng này còn thèm ăn cả sắt  đá 
+11,phần_lớn những người bị hội_chứng pica là trẻ_con và phụ_nữ mang thai  do sự thay_đổi bất_thường của nội_tiết_tố trong cơ_thể 
+12,tình_trạng thèm ăn xà_phòng của jess ngay_lập_tức thu_hút nhiều sự chú_ý từ phía các bà mẹ mang thai 
+13,thậm_chí có những phụ_nữ thú_nhận rằng cũng thèm ăn xà_phòng như cô 
+14,tháng 4 vừa_rồi  một phóng_sự của đài_truyền_hình anh đưa tin bà bầu tên silvia mắc bệnh thèm ăn sỏi đá 
+15,slvia chia_sẻ trên trang health rằng   khi nhìn thấy một hòn đá trước mặt  tôi chỉ cảm_thấy thèm ăn 
+16,tôi cố_gắng ngăn mình nhìn những viên đá và không dám vào các trang_web vật_liệu xây_dựng  bởi_vì tôi sẽ trở_nên rối_loạn và phấn_khích 
+17,tôi chỉ muốn ăn chúng ngay_lập_tức  

@@ -1,0 +1,13 @@
+idx, sentence
+0,hôm 275  mourinho đã chính_thức nhận_lời dẫn_dắt mu theo bản hợp_đồng có thời_hạn 3 năm 
+1,như_vậy  chiến_lược gia người bồ_đào nha sẽ tiếp_tục có cơ_hội giáp_mặt với người đồng_nghiệp guardiola  bởi kể từ ngày 17 tới  guardiola sẽ tiếp_quản man_city thay manuel_pellegrini 
+2,trong quá_khứ  mourinho và guardiola đã có 2 năm đối_đầu với nhau  2010  2012  khi họ còn dẫn_dắt real_madrid  mourinho  và barcelona  guardiola  
+3,khi đó  mối quan_hệ giữa đôi bên luôn trong tình_trạng căng_thẳng 
+4,vì_vậy  khi “ người đặc_biệt ” nhận_lời dẫn_dắt mu  giới chuyên_môn và người hâm_mộ đang nóng_lòng chờ_đợi màn so tài giữa họ 
+5,tuy_nhiên  mourinho vừa khẳng_định rằng  ông chỉ tập_trung vào việc giúp mu chinh_phục_chức vô_địch premier_league và các danh_hiệu cao_quý khác  chứ không bận_tâm tới “ cuộc_chiến ” với guardiola 
+6,mourinho nói  “ kinh_nghiệm trong những năm cầm_quân giúp tôi có thêm sự tỉnh_táo 
+7,khi còn làm_việc ở tây ban_nha  tôi đã có 2 năm đối_đầu với guardiola 
+8,ở thời_điểm đó  cuộc_chiến cá_nhân giữa chúng_tôi mang tính quyết_định tới ngôi vô_địch la_liga 
+9,mặc_dù vậy  cuộc đua tới ngôi vương tại premier_league khốc_liệt hơn rất nhiều 
+10,nếu tôi quá tập_trung vào guardiola cùng man_city và ngược_lại  đội bóng khác sẽ lên_ngôi vô_địch 
+11,do_đó  tôi sẽ không để mình bị vướng vào những cuộc tranh_cãi với pep ” 

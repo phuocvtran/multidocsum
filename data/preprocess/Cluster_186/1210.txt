@@ -1,0 +1,11 @@
+idx, sentence
+0,chiều nay  31/5  chủ_tịch ubnd tphcm nguyễn_thành_phong và phó bí_thư thường_trực thành_uỷ tất_thành_cang cùng lãnh_đạo các sở_ban_ngành chức_năng  các chuyên_gia  nhà_khoa_học đã làm_việc với ept để xem_xét đề_án chống ngập_tphcm 
+1,ông nguyễn_công_anh  đại_diện nhóm nghiên_cứu thuộc ebt đề_xuất thực_hiện các giải_pháp “ mềm ”  giảm_thiểu tác_động đến môi_trường  sinh_thái 
+2,thay_vì xây cống tại các cửa_sông lòng_tàu  soài_rạp để hạ thấp mực nước triều trên sông  ept đề_nghị làm một kè mềm có hình_dạng như hai cánh cửa tự_động khép mở trên sông  vừa hạ_thấp được mực nước triều  vừa đảm_bảo giao_thông thuỷ luôn thông_suốt với khẩu_độ mở của kè là từ 50  100 m  ngoài_ra  giải_pháp này còn góp_phần giảm_thiểu tình_trạng xâm_nhập mặn và điều_tiết lũ khi thượng_nguồn các sông có mưa lớn 
+3,theo ông nguyễn_công_anh  tphcm là đại đô_thị với 65  địa_hình xấp_xỉ mực nước triều 
+4,trong tương_lai  tphcm phát_triển về hướng biển nên cần phải chấp_nhận sống chung và thân_thiện với nước 
+5,tại những khu_vực thấp trủng  tphcm cần làm các khu đô_thị nổi 
+6,trước_mắt  cần làm hồ sinh_học  điều_tiết tại huyện cần_giờ 
+7,mô_hình này đã được nghiên_cứu và ứng_dụng thành_công tại đbscl 
+8,theo phó bí_thư thường_trực thành_uỷ tất_thành_cang  cần_giờ có rừng_phòng_hộ  khu dự_trữ sinh_quyển thế_giới  là khu_vực nhạy_cảm nên muốn làm hồ điều_tiết  cần nghiên_cứu rất kỹ 
+9,“ các giải_pháp chống ngập cần đồng_bộ và cần đặt trong vùng tphcm gồm các tỉnh long_an  bình_dương  đồng_nai  bà_rịa – vũng_tàu … đây là giải_pháp có tính khả_thi nhưng cần triển_khai thí_điểm ở một nhánh  chi_lưu cụ_thể giải_quyết chống ngập lưu_vực hẹp hơn để đánh_giá hiệu_quả ” – ông cang nói 

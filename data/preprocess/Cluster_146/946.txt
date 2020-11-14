@@ -1,0 +1,10 @@
+idx, sentence
+0,theo một_số nhân_viên tại showroom cà_phê trung_nguyên cho biết  trước đó vào chiều 27/5  công có mang theo một_số đồ_đạc vào ngồi uống cà_phê và hỏi nhân_viên xin số điện_thoại của ông đặng_lê_nguyên_vũ  chủ_tịch tập_đoàn cà_phê trung_nguyên có việc riêng nhưng nhân_viên nói không biết nên công bỏ sang khách_sạn ở khu_vực đối_diện để thuê nghỉ 
+1,đến khoảng 15 h30 chiều ngày 28/5  công mang theo đồ vào showroom ngồi uống cà_phê 
+2,tại đây  công tiếp_tục xin đòi gặp ông đặng_lê_nguyên_vũ thì nhân_viên nói ông vũ không có ở đây 
+3,ngay lúc này  chị hoàng_thị_ngọc_thùy  25 tuổi  nhân_viên phục_vụ  đi ra thì công bất_ngờ rút một con dao thái_lan thủ sẵn trong người lao đến khống_chế để được đáp_ứng yêu_cầu của mình 
+4,lúc này  sợ bị ảnh_hưởng đến tính_mạng của con_tin  một_số nhân_viên tìm cách tiếp_cận công và trình_báo_vụ_việc cho cơ_quan_chức_năng 
+5,nhận được tin báo  lực_lượng công_an phường ea_tam  cảnh_sát hình_sự  công_an tp buôn_ma_thuột và lực_lượng cảnh_sát 113 đã lập_tức có_mặt tại hiện_trường 
+6,sau hơn 15 phút tiếp_cận  lợi_dụng sự sơ_hở của đối_tượng  lực_lượng_hình_sự đã xông vào khống_chế tước_đoạt hung_khí  bắt_giữ công và giải_thoát an_toàn cho con_tin 
+7,theo lời khai ban_đầu của đối_tượng  do tập_đoàn cà_phê trung_nguyên có sử_dụng một phần_mềm quản_lý mà do công viết ra nhưng không xin_phép nên công xin được gặp ông đặng_lê_nguyên_vũ để đòi lại 
+8,còn theo một cán_bộ điều_tra cho biết  vào thời_điểm công bị bắt_giữ và khống_chế  đối_tượng này có biểu_hiện bị ngáo đá  nói_nhảm rất nhiều 

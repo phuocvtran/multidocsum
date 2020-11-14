@@ -1,0 +1,7 @@
+idx, sentence
+0,ngày 3/6  đại_tá phạm_trung_thành  người phát_ngôn công_an tỉnh kiên_giang cho biết  cơ_quan điều_tra đang cử cán_bộ đến bệnh_viện tỉnh này để giám_sát lê_văn_nhỏ  61 tuổi  vì nghi can giết_người này đang được bác_sĩ cấp_cứu 
+1,nạn_nhân là vợ của nhỏ  bà trần_thị_tuyết_mai  49 tuổi 
+2,khoảng 4 h cùng ngày  người dân xã thạnh_đông  huyện an_minh  kiên_giang  nghe tiếng phụ_nữ kêu cứu thất_thanh trong một ngôi nhà ở ấp thạnh_phong 
+3,hàng_xóm chạy đến thì phát_hiện bà mai nằm gục trên vũng máu  cổ có vết chém và nạn_nhân_tử_vong sau đó 
+4,tại hiện_trường còn có lê_văn_nhỏ nhưng xung_quanh người đàn_ông này nồng_nặc mùi thuốc_trừ_sâu 
+5,mọi người sau đó báo công_an và đưa nhỏ đi cấp_cứu vì nghi can được sát định đã tự_tử bằng thuốc_độc 

@@ -1,0 +1,5 @@
+idx, sentence
+0,associated_press  ap  dẫn lời chỉ_huy cấp cao của taliban_mullah_abdul_rauf cho biết mansoor đã chết trong cuộc tấn_công vào đêm 20/5 tại khu_vực biên_giới afghanistanpakistan 
+1,một quan_chức an_ninh aghanistan giấu tên nói với the guardian rằng cái chết đã được xác_nhận 
+2,trước đó không lâu  lầu năm góc cũng cho hay đã tiến_hành cuộc tấn_công nhắm mục_tiêu là mullah_akhtar_mansoor tại thị_trấn ahmad_wal  phía tây nam pakistan nhưng chưa đưa ra thông_tin chắc_chắn về cái chết của mansoor 
+3,những tuyên_bố của lầu năm_góc cho biết mansoor là nhà lãnh_đạo của taliban là mối đe_dọa cho dân_thường và lực_lượng an_ninh afghanistan cũng như binh_lính mỹ 

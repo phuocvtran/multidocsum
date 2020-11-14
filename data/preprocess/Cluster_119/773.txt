@@ -1,0 +1,11 @@
+idx, sentence
+0,bản hợp_đồng đắt_giá cùng hãng sony đã biến “ họa mi nước anh ” adele trở_thành giọng ca có giá_trị thương_mại to_lớn nhất trong lịch_sử nền âm_nhạc anh quốc 
+1,kỷ_lục trước đó thuộc về nam ca_sĩ robbie_williams 
+2,cựu thành_viên ban nhạc take_that từng kí vào một bản hợp_đồng trị_giá 80 triệu bảng anh với hãng fmi vào năm 2002 
+3,đây là một thành_tích rất đáng tự_hào của adele  đặc_biệt là khi “ họa mi nước anh ” năm nay chỉ mới bước sang tuổi 28 
+4,bản hợp_đồng đắt_giá nhất thế_giới dành cho ca_sĩ nữ trước đây thuộc về huyền_thoại whitney_houston  với con_số 70 triệu bảng anh kí_kết cùng hãng arise 
+5,bản hợp_đồng thu âm đắt_giá không chỉ khẳng_định vị_trí hàng_đầu của adele mà_còn giúp nữ ca_sĩ nâng tổng giá_trị tài_sản cá_nhân lên con_số khổng_lồ  175 triệu bảng anh  hơn 56 nghìn tỉ đồng 
+6,một nguồn tin từ hãng sony cũng khẳng_định  “ chúng_tôi vừa có được chữ_ký của ngôi_sao nổi_tiếng nhất nền âm_nhạc đương_đại 
+7,điều này thật tuyệt_vời ” 
+8,con_số 90 triệu bảng anh là hoàn_toàn xứng_đáng với danh_tiếng và tầm ảnh_hưởng của adele 
+9,với bản hợp_đồng trên  hãng sony sẽ nắm giữ toàn_quyền phát_hành các sản_phẩm âm_nhạc của “ họa mi nước anh ” trên phạm_vi toàn thế_giới 

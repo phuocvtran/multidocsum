@@ -1,0 +1,20 @@
+idx, sentence
+0,tiền_đạo trẻ rashford_sinh năm 1997 xuất_thân từ lò đào_tạo carrington của man_utd 
+1,màn ra_mắt ấn_tượng của rasford là cú đúp vào lưới midtjylland giúp cho “ quỷ đỏ ” giành chiến tại europa_league 
+2,sau đó rashford tiếp_tục được hlv van_gaal tin_dùng và trao cơ_hội ra sân tại premier_league 
+3,trung_phong rashford có tỷ_lệ “ nổ_súng ” rất đáng ngạc_nhiên 
+4,premier league mùa giải 2015 / 16 vừa_qua  có thời_điểm tiền_đạo trẻ mu ở nhóm quán_quân tỷ_lệ săn bàn 
+5,rashford đạt tỷ_lệ 063 bàn / trận vượt qua cả harry_kane  jame_vardy và sánh ngang aguero  man_city  
+6,mùa giải vừa_qua  man_utd đã giành chiến_thắng 10 trong trận lượt_về premier_league ngay tại etihad 
+7,người ghi_bàn không ai khác chính là rashford  tiền_đạo trẻ mu đã có pha đi bóng qua hậu_vệ áo xanh rồi đưa bóng lọt háng thủ_thành joe_hart 
+8,đây là một trong những “ di_sản ” đáng nhớ nhất van_gaal để lại sân old_trafford 
+9,rashford sở_hữu tốc_độ  sự thông_minh và một_chút “ hoang_dã ” trong khi thi_đấu 
+10,có những bàn thắng tiền_đạo trẻ mu đi bóng khá bất_ngờ đối_với hàng thủ đối_phương 
+11,sự “ hoang_dã ” dựa trên đầu_óc thông_minh tạo điểm nhấn cho tiền_đạo người anh 
+12,không phải vô_cớ mà ban lãnh_đạo mu nâng lương cao để “ trói ” chân tiền_đạo “ cây nhà ” 
+13,theo đó  thu_nhập của rashford nâng lên đến xấp_xỉ 30 nghìn bảng một tuần 
+14,một con_số đáng mơ_ước đối_với các cầu_thủ mới bước chân lên đội một mu
+15,ước_tính thu_nhập của rashford đã tăng lên 16 lần so với trước khi mu ký hợp_đồng 4 năm 
+16,mới_đây  28/5  trong trận giao_hữu giữa đt_anh và úc  tiền_đạo trẻ 18 tuổi thuộc biên_chế mu đã lập_công 
+17,rashford trở_thành cầu_thủ trẻ nhất trong lịch_sử tuyển anh ghi_bàn thắng ở trận ra_mắt 
+18,ấn_tượng với mà trình_diễn đó roy_hodgson quyết_định trao cho anh cơ_hội khoác áo đt_anh 

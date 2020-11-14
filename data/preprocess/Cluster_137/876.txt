@@ -1,0 +1,4 @@
+idx, sentence
+0,ngôi_sao vừa được tự_do sau khi rời paris_saintgermain lái chiếc xe sang_trọng đến khách_sạn park ở thủ_đô stockholm  nơi đt_thụy_điển đóng quân nhằm chuẩn_bị cho euro 2016 
+1,nhiều người mô_tả ibrahimovic giống như một  ông hoàng  khi lái chiếc xe long_lanh có giá lên đến gần 970000 usd 
+2,porsche 918 spyder là dòng xe có khả_năng tăng_tốc từ 0100 km / h chỉ trong 28 giây và có khả_năng đạt tốc_độ tối_đa lên đến 340 km / h 

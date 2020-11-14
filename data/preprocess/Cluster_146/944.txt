@@ -1,0 +1,16 @@
+idx, sentence
+0,khoảng 15 g ngày 285  lê_văn_công  26 tuổi  ở đội 2  nhuế  kim_trung  đông_anh  hà_nội  đến uống cà_phê tại quán cà_phê trung_nguyên  số 47  lý_tự_trọng  ptân_an  tp buôn_ma_thuột  đắk_lắk  
+1,chừng 1 giờ sau  công gọi tính tiền 
+2,nhân_viên hoàng_thị_ngọc_thủy  25 tuổi  đến tính tiền bất_ngờ công rút dao thái_lai dùng gọt trái_cây trong người  dí vào cổ khống_chế nhân_viên này 
+3,chưa dừng lại  công hét lên yêu_cầu gặp ông đặng_lê_nguyên_vũ hoặc người có trách_nhiệm của tập_đoàn cà_phê trung_nguyên để khiếu_nại việc “ đánh_cắp chất_xám ” của mình 
+4,cùng lúc  công_xô đổ nhiều ly chén  tách  máy pha cà_phê 
+5,bất_ngờ trước hành_động lạ của khách  nhân_viên quán cà_phê này gọi 113 và công_an phường 
+6,ít phút sau  công_an tp buôn_ma_thuột xuất_hiện 
+7,lực_lượng công_an thuyết_phục công thả con_tin 
+8,sau đó  lợi_dụng lúc công mất chú_ý  công_an bất_ngờ khống_chế và giải_thoát chị thủy 
+9,chị thủy bị_thương nhẹ ở lòng bàn_tay 
+10,theo nhân_viên quán  chiều 275  công đã đến uống cà_phê và xin số của ông đặng_lê_nguyên_vũ 
+11,các nhân_viên trả_lời không có số  công sang khách_sạn gần đó để trọ qua đêm 
+12,khoảng 15 g30 ngày 285  công quay lại uống cà_phê và xảy ra sự_việc như trên 
+13,đến 17 g50  công_an lấy lời khai của_công 
+14,hàng trăm người dân hiếu kỳ tập_trung theo_dõi sự_việc 

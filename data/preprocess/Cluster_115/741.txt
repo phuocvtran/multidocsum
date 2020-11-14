@@ -1,0 +1,9 @@
+idx, sentence
+0,tổng_công_ty hàng_không việt_nam  vietnam_airlines  vừa có tân chủ_tịch hđqt và tổng_giám_đốc mới  sau khi kết_thúc đại_hội cổ_đông 
+1,được biết  ông phạm_ngọc_minh_sinh năm 1960  là kỹ_sư kinh_tế vận_tải hàng_không tại đại_học hàng_không dân_dụng kiev  tiến_sĩ kinh_tế 
+2,ông đảm_nhận chức tổng_giám_đốc vietnam_airlines từ năm 2007  trước đó ông đảm_nhiệm_chức phó_tổng_giám_đốc từ năm 1993 
+3,còn tân tổng_giám_đốc dương_trí_thành_sinh năm 1961  ông bắt_đầu công_tác tại vietnam_airlines sau khi tốt_nghiệp trường đại_học ngoại_thương và từng giữ các chức_vụ_phó ban kế_hoạch thị_trường  trưởng_ban tiếp_thị hành_khách  giám_đốc văn_phòng miền_nam  phó_tổng_giám_đốc vietnam_airlines 
+4,đến năm 2012  ông dương_trí_thành được điều_động kiêm_nhiệm_chức_vụ chủ_tịch hđqt công_ty cổ_phần hàng_không jetstar_pacific  sau đó ông thành giữ chức phó_tổng_giám_đốc vietnam_airlines 
+5,năm 2015  tổng_sản_lượng vận_chuyển hành_khách của vna đạt khoảng 174 triệu lượt khách và hàng_hóa đạt 2216 ngàn tấn 
+6,tổng_doanh_thu hợp_nhất đạt hơn 69 ngàn tỷ đồng trong đó doanh_thu công_ty mẹ đạt hơn 566 ngàn tỷ đồng 
+7,lợi_nhuận trước thuế hợp_nhất đạt 1049 tỷ đồng  tăng hơn 70  so với kế_hoạch 2015 …

@@ -1,0 +1,8 @@
+idx, sentence
+0,theo hồ_sơ  hải thông_qua bạn_bè quen_biết với phi  không rõ lai_lịch  cùng lê_quốc_bảo  ngụ quận 12  
+1,hải biết hai người này mua_bán heroin 
+2,ngày 3032014  hải đến cầu_vượt tân_thới_hiệp  quận 12 theo phi đi gặp bảo nhận hơn 1 kg ma_túy 
+3,phi cho hải 500000 đồng tiền công nhờ mang về nhà hải để mai sẽ qua chia số ma_túy trên thành những gói nhỏ rồi bán_lẻ cho khách quen 
+4,để tránh bị phát_hiện  hải mang số ma_túy trên giấu ở bụi chuối trước nhà tại phường đông_hưng_thuận  quận 12 
+5,sợ bị bại_lộ  ngày hôm sau hải chuyển số ma_túy này đến xưởng gỗ  nơi mình làm_việc ở quận 9 để cất_giữ 
+6,trên đường đi  hải bị công_an quận thủ_đức phát_hiện và bắt_giữ cùng tang_vật là 10559 g ma_túy 

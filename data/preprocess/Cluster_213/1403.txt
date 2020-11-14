@@ -1,0 +1,11 @@
+idx, sentence
+0,sau hơn 1 ngày làm_việc và nghị_án  ngày 315  tand tp hcm kết_thúc phiên xử sơ_thẩm và đưa ra hình_phạt đối_với các bị_cáo trong vụ_án làm thất_thoát 231 tỉ đồng tại ngân_hàng nông_nghiệp và phát_triển nông_thôn việt_nam  chi_nhánh bình_chánh  agribank_cn bình_chánh  
+1,theo đó  bị_cáo nguyễn_đức_trí  giám_đốc công_ty tnhh tư_vấn thiết_kế xây_dựng ktt  chịu mức án chung_thân  trương_xuân_quang  kế_toán_trưởng công_ty ktt  20 năm tù  cùng về tội “ lừa_đảo chiếm_đoạt tài_sản ” 
+2,cùng phạm_tội “ vi_phạm các quy_định về cho vay trong hoạt_động của các tổ_chức tín_dụng ”  ba bị_cáo nguyên là cán_bộ agribank cn bình_chánh chịu hình_phạt lần_lượt  nguyễn_văn_lợi  nguyên phó giám_đốc  7 năm tù  trần_thị_hoàng_yến  nguyên phó phòng kế_hoạch  kinh_doanh  6 năm tù  nguyễn_thị_thanh_nga  nguyên cán_bộ tín_dụng  5 năm tù 
+3,tổng_hợp với hình_phạt trong vụ_án siêu lừa dương thanh_cường trước đó  bị_cáo lợi phải chấp_hành 15 năm tù  yến và nga mỗi người 13 năm tù 
+4,tháng 72014  cơ_quan điều_tra nhận công_văn đề_nghị hỗ_trợ xử_lý khoản vay của công_ty ktt từ agribank cn bình_chánh 
+5,công_an xác_định trí lợi_dụng mối quan_hệ với ông lý_văn_chức  qua_đời năm 2012  nguyên giám_đốc agribank cn bình_chánh  đã phạm_tội trong một vụ án khác  để vay vốn 
+6,từ đó  trí và quang_lập khống hồ_sơ dự_án xây_dựng khu dân_cư ở quận 7  tp hcm  với tổng mức đầu_tư hơn 2000 tỉ đồng  vốn đầu_tư tự có hơn 1955 tỉ đồng 
+7,kế_tiếp  cả hai nâng khống vốn điều_lệ  lập nhiều hợp_đồng và phiếu chi giả … tạo nên dự_án ma nhằm thế_chấp ngân_hàng 
+8,nga thẩm_định doanh_nghiệp này có năng_lực tài_chính  có khả_năng và kinh_nghiệm quản_lý thực_hiện dự_án  giá_trị tài_sản đủ đảm_bảo cho khoản vay đề_xuất 
+9,yến thông_qua báo_cáo của nga rồi trình_lợi và chức phê_duyệt 

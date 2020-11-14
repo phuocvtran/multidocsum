@@ -1,0 +1,8 @@
+idx, sentence
+0,thông_tin trên pravda cho biết  sự_việc hy_hữu xảy ra ngày 2/6 khi chiếc airbus 319 của hãng hàng_không s7_airlines đáp xuống sân_bay domodedov  hoàn_tất chuyến bay từ thành_phố st 
+1,petersburg đến thủ_đô moscow  hạ_cánh tại đường_băng và đang chờ hướng_dẫn vào bãi đỗ 
+2,vào khoảng 13 h50  nhân_viên bộ_phận kiểm_soát không_lưu tại sân_bay đã thông_báo với máy_bay này phải chờ một máy_bay khác cũng từ st 
+3,petersburg đáp xuống 
+4,tuy_nhiên  chỉ trong vòng 2 phút chờ_đợi  bề_mặt của đường_băng phía dưới bánh bất_ngờ bị sụt_lún và khiến máy_bay bị tụt xuống  gầm máy_bay bị kẹt_cứng trong miệng hố 
+5,máy_bay này sau đó đã phải giữ nguyên vị_trí tại đường_băng trong vòng nửa tiếng đồng_hồ 
+6,các nhân_viên sân_bay đã quyết_định sơ_tán toàn_bộ_hành_khách và máy_bay sau đó mới được kéo về bãi đỗ 

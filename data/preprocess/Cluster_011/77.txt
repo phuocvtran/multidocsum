@@ -1,0 +1,8 @@
+idx, sentence
+0,hơn 300 sinh_viên khoa y_dược cùng thầy_cô  cán_bộ khoa đã có_mặt tại lễ tri_ân 
+1,tại đây  các bạn sinh_viên đã được thầy_cô trong khoa ôn lại lịch_sử phát_triển của ngành y_khoa và bộ_môn giải_phẫu học 
+2,đặc_biệt là sự đóng_góp của những thi_hài người hiến xác là rất lớn và có ý_nghĩa đối_với ngành y_khoa 
+3,theo đó  những người hiến xác đã âm_thầm hi_sinh quyền_lợi của bản_thân mình và gia_đình cho sự_nghiệp đào_tạo và nghiên_cứu y_khoa 
+4,được biết  từ năm 2007  khoa y_dược – đại_học đà_nẵng đã phối_hợp với đh y_dược tphcm tuyển_sinh đào_tạo y_khoa 
+5,từ năm 2008  khoa đã tiếp_nhận 2 tiêu_bản nhân_thể từ đh y_dược tp hcm về đặt tại bv đa_khoa đà_nẵng  bộ_môn giải phẩu học đã được đưa vào giảng_dạy tại khoa từ năm 2011 
+6,tiếp đó  khoa y_dược tiếp_tục nhận 2 tiêu_bản nhân_thể mới và với sự giúp_đỡ của trung_tâm pháp_y tp  đà_nẵng đã đặt 2 tiêu_bản nhân_thể mới vào bộ_môn giải phẩu học 

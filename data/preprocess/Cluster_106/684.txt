@@ -1,0 +1,11 @@
+idx, sentence
+0,theo bbc  ngọn lửa bùng lên tại ký_túc_xá trường nội_trú witthaya  huyện wiengpapao phía bắc tỉnh chiang_rai vào khoảng 23 h ngày 22/5 
+1,38 nữ_sinh  từ 513 tuổi  đang ngủ tại ký_túc_xá khi hỏa_hoạn xảy ra 
+2,hiện hai em vẫn mất_tích  5 em khác bị_thương 
+3, hầu_hết học_sinh thiệt_mạng bởi các em đã ngủ_say khi vụ cháy xảy ra 
+4,các em còn lại còn thức nên chạy được ra ngoài 
+5,hai trong số 5 em bị_thương đang trong tình_trạng nguy_kịch   prayad_singsin  quan_chức cảnh_sát  cho biết 
+6,theo ông singsin  lực_lượng cứu_hỏa chỉ cứu được vài em trước khi ngọn lửa bao_trùm cả tòa nhà 
+7,hỏa_hoạn đã được dập_tắt 
+8,nhà_chức_trách đang điều_tra nguyên_nhân vụ_việc 
+9,nhiều bức ảnh xuất_hiện trên phương_tiện truyền_thông địa_phương cho thấy  tòa nhà hai tầng bốc cháy ngùn_ngụt và nhân_viên cứu_hỏa đang nỗ_lực dập_tắt ngọn lửa 

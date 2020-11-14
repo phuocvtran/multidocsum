@@ -1,0 +1,11 @@
+idx, sentence
+0,đối_tượng bị bắt là trần_văn_trường  22 tuổi  ngụ khóm 8  phường 5  thành_phố bạc_liêu  
+1,trường đã dùng mã_tấu chém ông nguyễn_hồng_quân  52 tuổi  chủ_tịch hội nông_dân thành_phố bạc_liêu  ngụ khóm 8  phường 5  thành_phố bạc_liêu  vào rạng sáng 1/6 
+2,theo hồ_sơ điều_tra ban_đầu của cơ_quan công_an  khoảng 4 h30 ngày 1/6  ông nguyễn_hồng_quân từ nhà đi tập_thể_dục buổi sáng thì gặp trần_văn_trường đang ngồi tại khu_vực cầu tôn_đức_thắng  khóm 10  phường 1 
+3,ông quân thấy người cùng xóm nên hỏi_thăm  “ đi đâu mà người dính đầy bùn đất  ” 
+4,trường không trả_lời và ông quân tiếp_tục đi tập_thể_dục 
+5,ngay sau đó trường về nhà  lấy mã_tấu giấu vào người  quay lại cầu tôn_đức_thắng ngồi chờ ông quân 
+6,khi vừa thấy ông quân trên đường đi tập_thể_dục về  trường liền khống_chế ông quân và rút mã_tấu chém chục nhát vào người làm ông quân bất_tỉnh tại_chỗ 
+7,sau đó  trường nhanh chân chạy trốn  ông quân được người dân đưa vào bệnh_viện cấp_cứu 
+8,nhận được tin báo  công_an thành_phố bạc_liêu đã huy_động lực_lượng vây_bắt trường khi đối_tượng đang lẩn trốn tại nhà vào sáng cùng ngày 
+9,hiện sức_khỏe ông quân đã tạm_thời qua cơn nguy_kịch 

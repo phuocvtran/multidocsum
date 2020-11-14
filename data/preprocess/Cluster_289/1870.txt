@@ -1,0 +1,12 @@
+idx, sentence
+0,vụ_việc xảy ra khoảng 9 giờ 15 sáng nay  36  trên đường hồ_văn_cống  ptương bình_hiệp  tpthủ_dầu_một  bình_dương  
+1,thời_điểm này bà ntnm
+2, 40 tuổi  chủ một tiệm vàng ở ptương bình_hiệp  điều_khiển xe_du_lịch biển số 93h6789 chở 2 con nhỏ đến một quán cà_phê trên đường nguyễn_chí_thanh  ptương bình_hiệp  
+3,lúc xuống xe  bà m quên không rút chìa_khóa xe 
+4,lúc này  một nam thanh_niên xuất_hiện và lấy trộm ô_tô phóng đi 
+5,khi rời hiện_trường gần 1 km  chiếc xe này đã lao vào quán cà_phê  ủi bay bảng_hiệu  cổng quán cùng 2 cột_điện  đuôi xe văng vào bên trong quán còn đầu xe quay hướng ra ngoài 
+6,nhiều bàn_ghế của quán cà_phê  cùng 1 chiếc xe_máy bị biến_dạng  méo_mó 
+7,rất may không có người bị_thương 
+8,một người dân cho biết  sau khi tông xe vào quán cà_phê  nam thanh_niên bước xuống xe và có biểu_hiện như phê ma_túy 
+9,sau đó  người này mở cửa xe ngồi vào bên trong cho đến khoảng 15 phút sau  công_an ptương bình_hiệp đến bắt_giữ thanh_niên này 
+10,tại trụ_sở công_an  nam thanh_niên được xác_định là lê_trung_hiếu  27 tuổi  ngụ cùng ptương bình_hiệp  

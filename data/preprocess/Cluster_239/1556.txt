@@ -1,0 +1,16 @@
+idx, sentence
+0,gần đây  mạng xã_hội xôn_xao với hình_ảnh giấy khen đề “ danh_hiệu học_sinh khen từng mặt ” được cho là của trường tiểu_học tân_phương  ứng_hòa  hà_nội  
+1,nhiều người cho rằng danh_hiệu này rất khó_hiểu  tối_nghĩa 
+2,trong khi đó  giấy_khen phải được trình_bày chỉn_chu  dễ hiểu 
+3,một phụ_huynh cho biết   đến người_lớn còn tranh_luận đến đau_đầu thì học_sinh nhận giấy_khen sao có_thể biết ý_nghĩa để tự_hào   
+4,bạn kim_hồng bình_luận  chữ “ mặt ” chỉ dùng trong văn nói dân_gian  còn khi đã viết vào văn_bản  đặc_biệt trong ngành giáo_dục  cần sử_dụng văn viết phổ_thông 
+5,xác_nhận đây là giấy_khen thuộc trường tiểu_học tân_phương  ứng_hòa  hà_nội   bà trần_thị_tám  hiệu_trưởng nhà_trường  thông_tin  giấy_khen được ghi theo quy_định của_thông_tư 30 
+6,cụ_thể  trường có hai hình_thức khen là học_sinh toàn_diện và học_sinh khen từng mặt 
+7,trước tranh_luận của nhiều phụ_huynh  bà tám nhận_lỗi từ_ngữ trong giấy_khen gây khó hiểu  “ chúng_tôi nên cụ_thể_hóa cho thấy các em nổi_trội mặt nào  ví_dụ về môn toán  tiếng việt  hay thể_dục thể_thao thay_vì ghi quá chung 
+8,nhà_trường sẽ rút kinh_nghiệm ” 
+9,hướng_dẫn của bộ_gdđt về đánh_giá và khen học_sinh tiểu_học theo thông_tư 30 ban_hành ngày 6/1/2015  có ghi  “ hiệu_trưởng chỉ_đạo_giáo_viên chủ_nhiệm họp với các giáo_viên dạy cùng lớp  thông_qua nhận_xét quá_trình và kết_quả học_tập  hoạt_động giáo_dục khác để tổng_hợp đánh_giá mức_độ hình_thành và phát_triển năng_lực  phẩm_chất của từng học_sinh 
+10,việc ghi vào giấy_khen  nếu có  về nội_dung khen_thưởng học_sinh là hết_sức linh_hoạt do giáo_viên chủ_nhiệm và hiệu_trưởng quyết_định  không áp_dụng theo khuôn_mẫu có sẵn ” 
+11,hiện_nay  mỗi trường đều có cách đánh_giá  ghi giấy khen riêng 
+12,kết_thúc năm_học  nhiều phụ_huynh thi nhau khoe giấy_khen của con trên mạng xã_hội đạt danh_hiệu  “ học_sinh tiêu_biểu ”  “ hoàn_thành xuất_sắc nhiệm_vụ ”  “ nổi_bật về phát_triển phẩm_chất ”  “ hoàn_thành tốt các môn tiểu_học và phát_triển năng_lực phẩm_chất ” … tuy_nhiên  nhiều người lại đặt câu hỏi băn_khoăn  không biết vì_sao con được khen 
+13,được khen như thế này đang xếp loại gì 
+14,con mạnh về phương_diện nào 

@@ -1,0 +1,36 @@
+idx, sentence
+0,mặc_dù kiểm_soát bóng vượt_trội  hơn gấp đôi thời_gian của đối_phương nhưng thực_tế mu không có nhiều đợt tấn_công tốt để tiếp_cận khung_thành của crystal_palace 
+1,đội bóng đến từ thủ_đô london thi_đấu rất chắc_chắn và cũng tạo được những đợt tấn_công đáp trả khiến đối_thủ không dám dâng cao_cả đội_hình 
+2,đáng_lẽ  crystal_palace đã có_thể ghi_bàn mở tỉ_số sớm nhưng bàn thắng của connor_wickham đã bị trọng_tài mark clattenburg khi ông không cho đội bóng này hưởng lợi_thế 
+3,tuy_nhiên  cuối_cùng vẫn là crystal_palace mở tỉ_số 
+4,jason puncheon với một cú vô lê tuyệt_vời đã mở tỉ_số ở phút 78 
+5,nhưng niềm vui của người hâm_mộ “ đại_bàng ” quá ngắn ngủ  bởi chỉ ba phút sau đó  mata đã giúp đội bóng đến từ thành manchester có bàn thắng gỡ hòa 
+6,tỉ_số 11 được giữ nguyên cho tới hết trận khiến hai đội bóng phải bước vào hiệp phụ 
+7,tưởng như crystal_palace sẽ gặp thuận_lợi hơn khi mu bị mất người sau khi smalling nhận thẻ_đỏ ở phút 105 
+8,nhưng trong thế 10 chống lại 11  mu lại có được bàn thắng nâng tỉ_số lên 21 ở phút 110 của lingard  người đã vào thay mata ở cuối hiệp hai 
+9,kết_quả 21 được giữ nguyên cho tới hết trận và như vậy mu vô_địch fa_cup 
+10,phút 120  2  hết giờ mu thắng chung_cuộc 21_phút 110  bàn thắng  martial đã không_thể đón bóng ở trung_tâm vòng cấm_địa và để bóng bật ngược trở_lại  rất nhanh_nhẹn lingard lao vào dứt_điểm đưa bóng vào góc trái cầu_môn nâng tỉ_số lên 21 phút 107  crystal_palace đang cố tranh_thủ lợi_thế hơn người 
+11,gayle phá bẫy việt_vị băng xuống đối_mặt với de_gea 
+12,và chiến_thắng thuộc về thủ_thành người tây_ban_nha_hiệp phụ thứ 2 phút 105  thẻ_đỏ  mu chỉ còn 10 người do smalling phải nhận thẻ thứ hai do kéo ngã bolasie 
+13,phút 102  sau tình_huống phá bóng không an_toàn của hàng thủ mu  bolasie đã rất nhanh chân bắt vô lê đưa bóng đi tầm thấp hướng vào góc phải cầu_môn 
+14,tuy_nhiên  de_gea đã đổ người rất nhanh để đẩy bóng ra ngoài hiệp phụ thứ nhất phút 90  5  hết giờ  hai đội phải tiến_hành thi_đấu hiệp phụ  90  4 ’   mariappa vào thay dann  90 ’   mata rời sân  lingard vào thay 
+15,phút 81  bàn thắng  niềm_vui của cổ_động_viên crystal_palace nhanh_chóng bị dập_tắt khi mà mu có bàn gỡ hòa 
+16,rooney có pha đi bóng rất dài  cuối_cùng anh cũng thực_hiện một cú tạt từ bên phải vào trong trung_tâm vòng cấm_địa  fellaini_đỡ ngực để hãm bóng lại và mata đã rất nhanh_nhẹn lao vào dứt_điểm luôn 
+17,tỉ_số được san hòa_11 phút 78  bàn thắng  đón_nhận đường chuyền bổng của đồng_đội  puncheon tung chân bắt vô lê ở góc hẹp 
+18,một cú sút uy_lực khiến cho de_gea trở_tay không kịp 
+19,crystal palace đã mở tỉ_số  72   puncheon vào sân thay cabaye 
+20,young vào thay cho marcus_rashford  66   darmian vào thay rojo_phút 61  lại là cột_dọc 
+21,thêm một lần nữa cột_dọc từ_chối bàn thắng của “ quỷ đỏ ”  lần này tới lượt martial không gặp_may  tiền_đạo người pháp đánh_đầu sau quả tạt của valencia_phút 56  smalling đã không_thể phá dứt_khoát quả đá phạt của đối_phương và vô_tình đưa bóng vào vừa_tầm cho jedinak dứt_điểm 
+22,tiếc cho đội bóng của pardew khi cơ_hội hiếm_hoi có_thể làm rung lưới de_gea nhưng lại không_thể tận dung phút 53  quá thiếu may_mắn cho mu 
+23,fellaini ra chân nhanh sau đường chuyền dọn cỗ của valencia nhưng thật đáng tiếc cột_dọc lại giúp crystal_palace cứu thua 
+24,phút 45  1  hết hiệp thi_đấu thứ nhất phút 40  rojo nhận thẻ_vàng đầu_tiên khi phạm lỗi với đối_thủ phú 33  rashford thể_hiện sức càn lướt tốt với pha đi bóng đầy tốc_độ và kỹ_thuật ở bên phải xâm_nhập vòng cấm_địa 
+25,tiền_đạo trẻ người anh căng ngang sang trái cho martial đệm bóng hướng vào góc trái cầu_môn 
+26,khoảng_cách không xa nhưng thật tiếc khi martial đặt lòng đưa bóng trúng người đối_phương bật ra phút 25  lại là fellaini vượt qua sự truy cản của jedinak trong pha bóng bổng của mu 
+27,tiền_vệ người bỉ đã đánh_đầu đưa bóng cắt chéo khung_thành ra ngoài 
+28,một tình_huống tiếp_tục khiến cổ_động_viên crystal_palace giật_mình phút 19  cabaye đá phạt và anh treo bóng bổng vào trong tâm vòng cấm_địa  bolasie đánh_đầu đưa bóng thẳng vào chỗ của de_gea 
+29,bóng đi tầm cao và chốt chặn của mu đã nhanh_chóng đẩy bóng vọt xà chịu phạt_góc 
+30,phút 15  rooney cầu_may bằng một quả sút xa 
+31,cú_sút đội_trưởng mu chỉ khiến thủ_thành speroni mất tới hai nhai nhịp với có_thể ôm gọn trái bóng phút 11  cổ_động_viên crystal_palace có một pha thót tim khi fellaini vượt qua sự truy cản của jedinak để lao ra đánh_đầu ở trung_tâm vòng cấm từ quả phạt_góc 
+32,may cho “ đại_bàng ” khi tiền_vệ người bỉ lại đánh_đầu sượt bóng phút 7  rashford va_chạm với một cầu_thủ crystal_palace khi xâm_nhập vào trong vòng cấm_địa đối_phương 
+33,tuy_nhiên  trọng_tài clattenburg đã không cắt còi và mu không được hưởng quả phạt_đền 
+34,23 h30 trận đấu bắt_đầu đội_hình xuất_phát manchester_united  de_gea  valencia  smalling  blind  rojo  carrick  mata  fellaini  rooney  martial  rashford dự_bị  jones  young  romero  ander_herrera  schneiderlin  lingard  darmian_crystal_palace  hennessey  ward  dann  delaney  souare  jedinak  cabaye  zaha  mcarthur  bolasie  wickham dự_bị  speroni  mariappa  gayle  adebayor  sako  kelly  puncheon

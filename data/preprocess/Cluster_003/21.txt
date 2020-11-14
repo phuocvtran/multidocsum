@@ -1,0 +1,10 @@
+idx, sentence
+0,hôm_nay 205  bà thái anh_văn  nữ lãnh_đạo đầu_tiên của đài_loan  chính_thức nhậm_chức 
+1,cũng bắt_đầu từ hôm_nay  bà sẽ phải cân_bằng mong_muốn của 2 đối_tượng  những người đã bầu_cử cho bà  và các nhà lãnh_đạo trung_quốc 
+2,trong cuộc bầu_cử tháng 1  khi đảng dân_tiến giành quyền kiểm_soát các ngành lập_pháp của chính_phủ  bà thái anh_văn đã được giao cho nhiều trọng_trách 
+3,trong chiến_dịch vận_động tranh_cử  bà thái đã hứa sẽ duy_trì vị_thế của đài_loan với trung_quốc 
+4,tuy_nhiên  một mối quan_hệ không tốt với bắc_kinh có_thể làm suy_yếu khả_năng hoàn_thành những mục_tiêu của bà 
+5,trong bài phát_biểu nhậm_chức của mình  bà sẽ phải trấn_an và thuyết_phục cộng_đồng quốc_tế rằng bà có_thể xử_lý mối quan_hệ phức_tạp với trung_quốc  trong khi các cử_tri bầu_cử cho bà chủ_yếu chỉ quan_tâm đến các vấn_đề đài_loan 
+6,bà thái anh_văn đã đi vào lịch_sử đài_loan khi trở_thành nữ lãnh_đạo đầu_tiên của hòn đảo này  sau khi ứng_cử_viên eric_chu của quốc_dân_đảng  kmt  cầm_quyền thừa_nhận thất_bại trong cuộc bầu_cử vị_trí lãnh_đạo 
+7,kết_quả của cuộc bầu_cử hồi tháng 1 có_thể được coi như một cuộc trưng_cầu dân_ý về mối quan_hệ giữa đài_loan và trung_quốc  vốn được thắt chặt dưới thời của nhà lãnh_đạo mã_anh cửu 
+8,những lợi_ích kinh_tế của việc hợp_tác sâu hơn với bắc_kinh không khiến người dân đài_loan thay_đổi lập_trường phản_đối trung_quốc can_thiệp quá sâu vào các vấn_đề của đài_bắc 

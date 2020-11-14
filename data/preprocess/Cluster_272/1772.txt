@@ -1,0 +1,6 @@
+idx, sentence
+0,sáng 36  ubnd tỉnh nghệ_an đã tổ_chức triển_lãm bản_đồ và tư_liệu “ hoàng_sa  trường_sa của việt_namnhững bằng_chứng lịch_sử và pháp_lý ” tại thị_xã cửa_lò  tỉnh nghệ_an 
+1,hàng trăm tư_liệu  bản_đồ và các chứng_cứ lịch_sử pháp_lý đã được trưng_bày tại cuộc triển_lãm phục_vụ người dân trong tỉnh và du_khách thập_phương đến tham_quan 
+2,đây là những chứng_cứ lịch_sử và pháp_lý khẳng_định chủ_quyền không_thể chối_cãi của việt_nam đối_với hai quần_đảo hoàng_sa và tường_sa 
+3,phát_biểu tại buổi triễn lãm  ông lê_ngọc_hoa  phó_chủ_tịch ubnd tỉnh nghệ_an nói  “ ngoài việc khẳng_định chủ_quyền về hai quần_đảo hoàng_sa  trường_sa  cuộc triễn lãm sẽ góp nâng cao nhận_thức  khẳng_định tinh_thần đoàn_kết  ý_chí trách_nhiệm của nhân_dân cả nước nói_chung và và nhân_dân tỉnh nghệ_an nói_riêng  nhắc_nhở mỗi người dân chúng_ta luôn biết_ơn các thế_hệ cha_anh đã hy_sinh để bảo_vệ chủ_quyền thiêng_liêng của tổ_quốc ” 
+4,tại buổi triễn lãm  ubnd tỉnh nghệ_an cũng tổ_chức hội_thảo về biển đảo việt_nam với khách_mời là ông trần_công_trục  nguyên trưởng ban biên_giới của chính_phủ 

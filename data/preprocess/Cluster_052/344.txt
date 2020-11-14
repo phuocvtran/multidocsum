@@ -1,0 +1,12 @@
+idx, sentence
+0,theo hồ_sơ  từ tháng 102014 diệu_hân thuê một phần căn nhà số 423 võ_văn_tần của bà trang để kinh_doanh thời_trang  giá thuê mỗi tháng là 45 triệu  tiền_cọc là 135 triệu đồng 
+1,thời_gian thuê nhà ở đây  phía bà trang đã có những mâu_thuẫn cá_nhân với diệu_hân và xảy ra những lần xúc_phạm  chửi_bới  làm ảnh_hưởng đến uy_tín cũng như việc kinh_doanh buôn_bán của diệu_hân 
+2,đỉnh điểm công_an phường 5  quận 3 đã mời hai bên làm_việc 
+3,không muốn tiếp_tục thuê nhà bà trang  diệu_hân đã gửi thông_báo chuyển phát qua bưu_điện 2 lần đến bà trang và bà trang đã xác_nhận là đã nhận được 
+4,sau đó  diệu_hân chuyển toàn_bộ tài_sản của cô tại mặt_bằng này đi chỗ khác còn chìa_khóa bà trang đã giữ 
+5,tuy_nhiên bà trang không trả lại tiền_cọc 135 triệu đồng cho diệu_hân 
+6,xử sơ_thẩm  ngày 1822016  tand quận 3 tuyên chấm_dứt hợp_đồng thuê nhà giữa diệu_hân và bà trang  bác yêu_cầu trả lại tiền_cọc cho diệu_hân  đồng_thời buộc diệu_hân phải trả thêm 8 tháng tiền thuê nhà tương_đương 360 triệu kể từ khi cô dọn đi 
+7,diệu hân đã kháng_cáo đồng_thời cũng yêu_cầu xử_lý hình_sự_việc bà trang xúc_phạm cô với clip  hình_ảnh kèm theo 
+8,hiện_nay  cơ_quan_chức_năng vẫn đang thụ_lý 
+9,diệu hân cho rằng  bà trang chửi_mắng  đánh_ghen vì cho rằng cô có quan_hệ với chồng của bà trang mà không có chứng_cứ nào đã ảnh_hưởng nghiêm_trọng danh_dự của cô 
+10,đó là nguyên_nhân cô_đơn_phương chấm_dứt hợp_đồng và đã thông_báo cho bà trang 

@@ -1,0 +1,5 @@
+idx, sentence
+0,sáng sớm 36  trong lúc tập_thể_dục  1 người đã phát_hiện thi_thể 1 người đàn_ông chết bên vệ đường tại phường tân_an  tp buôn_ma_thuột  tỉnh đắk_lắk nên báo cho cơ_quan_chức_năng 
+1,nhận được tin báo  lực_lượng điều_tra quân_sự của tỉnh đắk_lắk và một_số cơ_quan đã đến khám_nghiệm hiện_trường  đưa xác nạn_nhân về bệnh_xá của sư_đoàn 470 tiến_hành khám_nghiệm tử_thi  điều_tra làm rõ nguyên_nhân 
+2,theo cơ_quan_chức_năng  nạn_nhân được xác_định là thiếu_tá nguyễn_duy_chuyển  46 tuổi  quê huyện tĩnh_gia  tỉnh thanh_hóa  
+3,thiếu_tá chuyển hiện đang là trợ_lý phòng kinh_doanh của sư_đoàn 470 

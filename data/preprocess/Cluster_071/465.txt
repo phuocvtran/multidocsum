@@ -1,0 +1,11 @@
+idx, sentence
+0,trước vòng đấu này  người hâm_mộ mong_chờ một trận chiến thực_sự trên sân nha_trang 
+1,tuy_nhiên  đội bóng phố núi không thể_hiện được một phong_độ tốt  đặc_biệt là ở hàng phòng_ngự trong trận đấu chiều nay 
+2,nhập_cuộc khá chủ_động và tổ_chức tấn_công tốt  các cầu_thủ hagl là những người tạo được nhiều ấn_tượng hơn trong những phút đầu_tiên cảu trận đấu 
+3,họ thậm_chí còn có được bàn thắng mở tỷ_số ở phút thứ 15 khi trung_vệ đông_triều bất_ngờ dứt_điểm vô_cùng hiểm_hóc từ pha đá phạt trực_tiếp ở khoảng_cách khá đáng_kể  2 phút sau  tô vĩnh_lợi cản_phá thành_công pha đá penalty của uche khiến cho đội khách càng có thêm niềm tin vào một chiến_thắng trên sân_khách 
+4,tuy_nhiên  đó là tất_cả những gì mà các cầu_thủ hagl làm được trong cả trận đấu 
+5,phút 31  uche  trả_lời  đông_triều bằng một pha đá phạt đẹp không kém cầu_thủ phố núi  trước khi tận_dụng tốt cơ_hội trời ban từ pha phối_hợp phòng_ngự không tốt của các hậu_vệ áo trắng để nâng tỷ_số của trận đấu ở phút 36 
+6,đây cũng là tỷ_số của hiệp 1 
+7,bước sang hiệp 2  khánh_hòa chủ_động phòng_ngự còn hagl bắt_buộc phải dâng cao  nhưng hàng thủ của đội khách liên_tục gặp vấn_đề 
+8,phút 65  8 cầu_thủ áo trắng trong hình huống chống bóng bổng không_thể cản_phá pha đánh đầu ngược ra tuyến 2 của hậu_vệ zarour  và duy_kha đã tận_dụng tốt cơ_hội mà đồng_đội tạo ra để nâng tỷ_số lên 30 
+9,duy_thanh ấn_định tỷ_số 41 của trận đấu với 1 pha đệm bóng cự ly gần ở phút 90  3 

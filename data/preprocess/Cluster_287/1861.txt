@@ -1,0 +1,13 @@
+idx, sentence
+0,sáng 3/6  thủ_tướng chính_phủ nguyễn_xuân_phúc và phó_thủ_tướng vũ_đức_đam chủ_trì hội_nghị trực_tuyến với các bộ ngành  địa_phương trên toàn_quốc bàn các giải_pháp đẩy_mạnh thực_hiện bảo_hiểm y_tế  bhyt  toàn dân 
+1,phát_biểu khai_mạc hội_nghị  thủ_tướng nguyễn_xuân_phúc nhấn_mạnh  nâng cao tỉ_lệ bhyt tiến tới bhyt toàn dân là việc rất thiết_thực  nhất_là đối_với người nghèo  đối_tượng gặp nhiều khó_khăn được đảng  nhà_nước  cộng_đồng xã_hội quan_tâm  đây là một trong những việc quan_trọng nhất để bảo_đảm an_sinh xã_hội 
+2,sau gần 25 năm thực_hiện  từ 1992  chính_sách bảo_hiểm y_tế  các cấp  các ngành đã có nhiều nỗ_lực và đạt nhiều kết_quả  chính_sách pháp_luật được hoàn_thiện  đối_tượng tham_gia bảo_hiểm y_tế được mở_rộng  chất_lượng khám  chữa bệnh được nâng cao với tỉ_lệ lên đến hơn 76  
+3,thủ_tướng nguyễn_xuân_phúc cho rằng đây là những tiến_bộ rất đáng mừng cho thấy công_tác mở_rộng bhyt đã được chú_trọng  quan_tâm nhưng các bộ ngành  địa_phương cần phải nỗ_lực  cố_gắng nhiều hơn nữa  cao hơn nữa 
+4,thủ_tướng nhấn_mạnh  chúng_ta đã có quyết_sách rất quan_trọng là phải nâng tỉ_lệ người dân tham_gia bhyt để mọi người dân đều được hưởng phúc_lợi xã_hội quan_trọng này  đặc_biệt là đối_tượng khó_khăn  người nghèo   chỉ_tiêu nâng lên bao_nhiêu  85  hay 90  
+5,tôi nghĩ là phải là 91    thủ_tướng gợi_ý 
+6,ngoài_ra  thủ_tướng cũng đề_nghị các ý_kiến thảo_luận tại hội_nghị cần làm rõ trách_nhiệm của từng bộ  ngành  địa_phương trong phát_triển bhyt toàn dân  không chỉ số_lượng mà cả chất_lượng  bảo_đảm người_bệnh có thẻ bhyt được hưởng đầy_đủ các quyền_lợi trong chăm_sóc sức_khỏe 
+7,tổng_giám_đốc bhxh việt_nam nguyễn_thị_minh cho biết năm 2015 đã nỗ_lực hoàn_thành vượt mức chỉ_tiêu bao_phủ với 765  người dân cả nước tham_gia bhyt  đầu năm 2016 có 708 triệu người tham_gia  tăng 083 triệu so với năm 2015 và đang nỗ_lực mở_rộng 
+8,tuy_nhiên  quá_trình tổ_chức thực_hiện gặp nhiều khó_khăn  vướng_mắc 
+9,bhxh việt_nam chưa được giao đầy_đủ trách_nhiệm để đề_xuất các cơ_chế  chính_sách 
+10,ngoài_ra  quyết_định 1548 của thủ_tướng giao các địa_phương huy_động nguồn_lực hỗ_trợ người dân  trước_mắt hỗ_trợ 30  còn lại cho các hộ cận nghèo mua bhyt nhưng một_số tỉnh chưa có cơ_chế hỗ_trợ 
+11,hầu_hết các địa_phương chưa hỗ_trợ các hộ nông_lâm ngư_nghiệp có mức_sống trung_bình  đối_tượng học_sinh  sinh_viên … chưa có giải_pháp hỗ_trợ mở_rộng tới các đối_tượng vùng bãi ngang ven biển  vùng đặc_biệt khó_khăn …  để hoàn_thành mục_tiêu sớm bao_phủ bhyt toàn dân  bhxh kiến_nghị thủ_tướng xem_xét quyết_định điều_chỉnh chỉ_tiêu bao_phủ tới 2020  với định_hướng tới năm 2020 có ít_nhất 90  người_dân có bhyt   bà minh nói 

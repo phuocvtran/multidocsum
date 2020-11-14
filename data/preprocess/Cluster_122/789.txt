@@ -1,0 +1,9 @@
+idx, sentence
+0,cô đã đánh_bại justin_bieber  drake  taylor_swift và the_weeknd để giành giải_thưởng danh_giá nhất trong đêm   nghệ_sĩ của năm  
+1,cô cũng đã mang về giải_thưởng  album top_billboard 200   khi album  25  xuất_sắc vượt qua  purpose  của justin_bieber   x  của ed_sheeran   1989  của taylor_swift và  beauty behind_the_madness  của the_weeknd 
+2,trong một tin nhắn video  adele bày_tỏ sự vui_mừng và gửi lời cảm_ơn tới khán_giả 
+3,justin bieber chiến_thắng ở hạng_mục  nam nghệ_sĩ xuất_sắc  trong khi the_weeknd giành được 8 giải_thưởng  con_số kỷ_lục của một nam nghệ_sĩ  trong đó đáng chú_ý là giải_thưởng  nghệ_sĩ top_hot 100  
+4,trong bài phát_biểu của mình  nam ca_sĩ đã dành tặng giải_thưởng này đến huyền_thoại prince quá_cố  ca_ngợi prince là  nguồn cảm_hứng  lớn của mình 
+5,rihanna nhận giải  thành_tựu billboard  sau khi giành đa_số phiếu_bầu của khán_giả trước các đối_thủ drake  adele  little_big_town và the_weeknd 
+6,những cống_hiến trong sự_nghiệp của celine_dion được vinh_danh với giải  billboard biểu_tượng  
+7,diva đã không_thể kiềm được nước_mắt khi nhận chiếc cúp từ chính con_trai mình 

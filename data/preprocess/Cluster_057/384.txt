@@ -1,0 +1,12 @@
+idx, sentence
+0,sau gần 8 tháng thất_nghiệp kể từ khi bị liverpool sa_thải_hồi tháng 10/2015  hlv brendan_rodgers đã chính_thức tìm được bến đỗ mới 
+1,theo đó  rodgers đã được celtic bổ_nhiệm làm hlv trưởng của đội bóng này 
+2,được biết  hợp_đồng giữa rodgers và đội bóng scotland chỉ có thời_hạn trong vòng 1 năm 
+3,việc rodgers chuyển tới dẫn_dắt celtic không quá bất_ngờ  bởi trong vòng 1 tuần nay thông_tin này đã tràn_ngập trên các trang báo tại anh 
+4,trong khi đó  đích_thân chủ_tịch của celtic là dermot_desmond cũng đã xác_nhận điều này 
+5,phát_biểu sau khi ngồi vào ghế nóng tại celtic  cựu hlv liverpool cho hay  “ tôi rất vui_mừng khi trở_thành hlv mới của celtic  đây quả_thực là một vinh_dự lớn đối_với tôi 
+6,tôi đã theo_dõi celtic từ lâu và giờ thì tôi đã trở_thành một phần của đội bóng này 
+7,tôi sẽ làm tốt nhất những gì trong khả_năng để có_thể mang về cho celtic thêm những danh_hiệu ” 
+8,trước khi dẫn_dắt celtic  rodgers đã có 3 năm dẫn_dắt liverpool và không có được bất_cứ danh_hiệu nào 
+9,thành_tích tốt nhất mà the_kop có được dưới thời rodgers là ngôi á_quân premier_league mùa giải 2013 / 14 
+10,đây cũng chính là mùa giải mà rodgers nhận được danh_hiệu hlv hay nhất năm 

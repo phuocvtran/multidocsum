@@ -1,0 +1,14 @@
+idx, sentence
+0,chiều ngày 9/8  nguồn tin của pv dân_trí cho biết  ông lê_thành_huấn  phó giám_đốc sở giao_thông vận_tải  gtvt  tỉnh cà_mau  vừa ký báo_cáo gửi ubnd tỉnh cà_mau  đồng_thời đề_xuất hướng xử_lý công_trình cầu_ô_rô bị đổ sập vào ngày 5/8 
+1,theo báo_cáo của sở gtvt tỉnh cà_mau  cây cầu giao_thông bị đổ sập nói trên thuộc tuyến đường ô_tô đến trung_tâm xã đất_mũi  do chủ_tịch ubnd huyện ngọc_hiển làm_chủ đầu_tư 
+2,toàn tuyến đường có chiều dài 13400 m  có 6 cầu giao_thông  tuyến đường được đầu_tư với quy_mô đường cấp vi đồng_bằng 
+3,trước thời_điểm xảy ra sự_cố  toàn tuyến đã láng nhựa được 86 km  phần đường còn lại đã thi_công xong các lớp đá mặt_đường  chuẩn_bị láng nhựa  
+4,các cây cầu trên tuyến đường cũng đã cơ_bản hoàn_thành  chỉ còn thi_công hoàn_thiện đường đầu_cầu  trong đó có cầu_ô_rô được thiết_kế với tải_trọng h8  gồm 5 nhịp  với chiều dài 846 m  cầu này được triển_khai thi_công vào tháng 5/2013 
+5,theo đánh_giá sơ_bộ  nguyên_nhân xảy ra sự_cố sập cầu là do mố a cầu_ô_rô chỉ cách mố b cầu cái_dày  cũng thuộc dự_án này  khoảng hơn 50 m  đường đầu cầu đi trên bãi bồi giữa 2 tuyến kênh có địa_chất rất yếu 
+6,hơn_nữa  cầu bắc qua kênh ô_rô chỉ cách ngã ba_đình khoảng 150 m  do sông sâu  nước chảy mạnh nên đường đầu cầu có nguy_cơ mất ổn_định cao 
+7,đoàn kiểm_tra xác_định  với chiều cao khá lớn  khi đường đầu cầu bị sạt_lở với khối_lượng lớn  đất sẽ đẩy ra phía bờ sông làm mất ổn_định và gãy cọc mố  kéo_theo sập 2 nhịp cầu và trụ t1 
+8,theo đó  đoàn kiểm_tra đề_xuất ubnd tỉnh cà_mau chỉ_đạo thành_lập tổ điều_tra sự_cố để giám_định nguyên_nhân  đề_nghị ubnd huyện ngọc_hiển cung_cấp toàn_bộ hồ_sơ  tài_liệu và các văn_bản có liên_quan đến công_trình cầu_ô_rô  hồ_sơ dự_án  thiết_kế bản_vẽ  hồ_sơ quản_lý chất_lượng  …  để phục_vụ công_tác giám_định nguyên_nhân sự_cố  chậm nhất_là ngày 12/8/2016 
+9,như dân_trí đã thông_tin  khuya ngày 5/8  người dân sống quanh khu_vực cầu_ô_rô nghe tiếng_động rất lớn từ phía cầu_ô_rô 
+10,khi người dân ra xem thì phát_hiện cầu này bị sập 2 nhịp xuống kênh 
+11,theo đánh_giá của người dân  do mố_cầu làm rất sơ_sài  vị_trí cầu lại nằm gần ngã ba sông  kênh ô_rô rất sâu  nước chảy xiết nên ảnh_hưởng rất lớn vào các trụ cầu 
+12,người dân cũng nghi_ngờ  công_trình này đã bị “ rút_ruột ” nên dẫn đến kém chất_lượng 

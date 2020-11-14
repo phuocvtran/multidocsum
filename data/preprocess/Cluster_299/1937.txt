@@ -1,0 +1,21 @@
+idx, sentence
+0,cảng_hàng_không buôn_ma_thuột đã có báo_cáo khẩn gửi các cơ_quan_chức_năng về sự_cố 
+1,theo đó  trong quá_trình kiểm_tra đường_băng trước khi vận_hành sáng 36  nhân_viên sân_bay đã phát_hiện một vệt bê_tông bị bong dài khoảng 50 cm trên đường_băng 
+2,để đảm_bảo an_toàn  cảng_hàng_không buôn_ma_thuột đã quyết_định tạm dừng hoạt_động cất hạ_cánh của máy_bay từ 6 giờ đến 14 giờ trong ngày để sửa_chữa vết bong này 
+3,việc xử_lý vệt đường bong này sẽ hoàn_tất trong sáng 36 
+4,đại_diện cảng_hàng_không buôn_ma_thuột cũng cho biết có các chuyến bay đi và đến sân_bay này vào buổi sáng sẽ bị chậm giờ cất  hạ_cánh khoảng 56 giờ 
+5,với các chuyến bay đi và đến vào buổi chiều như lịch_trình thì vẫn được đảm_bảo đúng giờ 
+6,đại_diện hãng hàng_không vietnam_airlines cho biết hãng này phải tạm ngừng khai_thác sáu chuyến bay đến và đi từ buôn_mê_thuột trong_sáng 36 bao_gồm hai chuyến giữa hà_nội  buôn mê_thuột  hai chuyến tphcm  buôn mê_thuột và hai chuyến trên đường_bay giữa đà_nẵng  buôn mê_thuột 
+7,thay vào đó  vietnam_airlines sẽ tăng sáu chuyến trên các đường_bay đến và đi buôn_ma_thuột trong chiều nay 
+8,hãng hàng_không vietjet_air cũng cho biết có bảy chuyến bay đến sân_bay buôn_ma_thuột bị chậm giờ cất / hạ_cánh từ 67 giờ trong ngày hôm_nay 
+9,ghi_nhận tại cảng_hàng_không buôn_ma_thuột  đến hơn 12 giờ ngày 36  tất_cả các cửa làm thủ_tục bay đều đóng cửa 
+10,hành_khách của các hãng hàng_không lỉnh_kỉnh hành_lý liên_tục gặp đại_diện các hãng hàng_không để phản_ứng việc bị chậm chuyến bay 
+11,nhiều hành_khách ngồi  nằm trên các ghế chờ tỏ ra mệt_mỏi 
+12,anh trịnh_văn_toàn  trú tp buôn_ma_thuột  cho biết  mua vé hãng vietjet tuyến buôn_ma_thuột  tp vinh 
+13,lịch bay 10 g20 nhưng đến hơn 12 giờ vẫn chưa_thể bay 
+14,thắc_mắc vỡi hãng thì được thông_báo đường_băng của cảng_hàng_không đang bị hỏng nên lịch bay sẽ hoãn đến 16 g40 cùng ngày 
+15,“ khi lên làm thủ_tục  hãng thông_báo chuyến bay sẽ chậm 30 phút 
+16,chờ mấy tiếng đồng_hồ giờ vẫn chưa_thể bay 
+17,đành phải quay về nhà ngồi chờ  hãng cũng không có hỗ_trợ gì cho hành_khách  ” – anh toàn phản_ánh 
+18,trong khi đó  hành_khách nguyễn_văn_chanh  65 tuổi  trú huyện lắk  cho biết  nhà cách sân_bay hơn 60 km nên phải thuê taxi gần cả triệu đồng 
+19,lên đến sân_bay thì được thông_báo hoãn chuyến bay đến 19 g30  nên đành bắt xe quay ngược về nhà 

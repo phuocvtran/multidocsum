@@ -1,0 +1,8 @@
+idx, sentence
+0,tổng_công_ty hàng_không việt_nam  vietnam_airlines  cho biết  do đường_băng bị bong tróc lớn  cảng_hàng_không buôn_ma_thuột tạm_thời đóng cửa đến 14 h chiều nay 3/6/2016 để sửa_chữa nên vietnam_airlines  vna  phải tạm ngừng khai_thác 6 chuyến bay đến và đi từ buôn_mê_thuột trong_sáng nay bao_gồm 2 chuyến trên đường_bay giữa hà_nội – buôn_mê_thuột  vn1600 / vn1601   2 chuyến trên đường_bay giữa tp_hồ_chí_minh – buôn_mê_thuột  vn1414 / vn1415  và 2 chuyến trên đường_bay giữa đà_nẵng – buôn_mê_thuột  vn1912 / vn1913  
+1,theo vna  đơn_vị này đã triển_khai tăng 6 chuyến trên các đường_bay giữa hà_nội / tp
+2,hồ_chí_minh / đà_nẵng – buôn_ma_thuột ngay trong chiều nay để phục_vụ nhu_cầu đi_lại của hành_khách 
+3,việc khai_thác trở_lại các chuyến bay trong ngày hôm_nay còn phụ_thuộc vào tình_hình sửa_chữa thực_tế tại cảng_hàng_không buôn_ma_thuột  vietnam_airlines khuyến_nghị hành_khách tiếp_tục theo_dõi và chủ_động liên_hệ các phòng vé của vietnam_airlines trước khi ra sân_bay 
+4,số điện_thoại  hà_nội – 04 
+5,38320320  tp hcm – 0838320320  đà_nẵng – 05113832320  buôn_ma_thuột – 05003954442  văn_phòng tp  hoặc 05003862287  sân_bay  
+6,còn các hãng hàng_không jetstar_pacific cho biết  có 3 chuyến bay giữa vinhbuôn_ma_thuột và thành_phố hồ_chí_minh  buôn_ma_thuột  hải phòngbuôn ma_thuột trong ngày 3/6 cũng phải hủy do công_tác sửa_chữa đường_băng 

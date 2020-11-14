@@ -1,0 +1,17 @@
+idx, sentence
+0,sau khi đón sinh_nhật bên cạnh người_thân và bạn_bè vào ngày 20/05 vừa_qua  nhã_phương lên_đường sang hàn_quốc để thực_hiện phần 2 bộ phim tuổi thanh_xuân 
+1,cô sẽ lưu lại xứ_sở kim_chi tới giữa tháng 6 và sau đó trở_về việt_nam để tiếp_tục các phân cảnh tiếp_theo của tuổi thanh_xuân 2 tại đà_nẵng tới cuối tháng 8 
+2,nhã phương cho biết  phần 2 của tuổi thanh_xuân dự_kiến ra_mắt khán vào cuối tháng 10 trên kênh vtv3 
+3,trong tuổi thanh_xuân 2  ngoài tính_cách  ngoại_hình của nhã_phương cũng sẽ có sự thay_đổi đáng_kể 
+4,sau mái_tóc ngắn dễ_thương ở đầu phần 1  mái_tóc xoăn dài dịu_dàng của cuối phần 1 thì ở phần 2  nhã_phương được tạo_hình với mái_tóc đen dài 
+5,theo nhã_phương chia_sẻ  linh sẽ có nhiều sự đột_phá  dễ khiến mọi người đồng_cảm hơn so với phần 1 
+6,trong phần 2  cặp_đôi linh  junsu cũng gặp nhiều sóng_gió và linh sẽ phải mạnh_mẽ đối_diện với những khó_khăn đó 
+7,thời_gian gần đây nhã_phương vô_tình bị truyền_thông hiểu lầm khi cho rằng cô đang xây_dựng hình_ảnh táo_bạo  sexy quá mức 
+8,nhã phương khẳng_định  hình_ảnh một mỹ_nhân sang_trọng  sở_hữu phong_cách nữ_tính là điều cô đang hướng tới 
+9,nhã phương là nữ diễn_viên không chỉ ghi_điểm trong mắt công_chúng bởi lối diễn_xuất tự_nhiên  mà_còn thu_hút người khác bằng vẻ đẹp dịu_dàng  thanh_lịch với gu thời_trang đơn_giản nhưng lôi_cuốn như một tiểu_thư đài_các 
+10,dù không hề mix đồ cầu_kỳ nhưng set đồ chỉ gồm 2 màu đen  trắng của nhã_phương vẫn gây được ấn_tượng với chiếc áo voan mỏng phối cùng chiếc váy hình chữ a cũng đủ làm người khác ngắm nhìn bởi vẻ đẹp cổ_điển mà nó mang lại 
+11,cô nàng với biệt_danh  bánh_bèo  luôn thích những chiếc váy có màu_sắc nhã_nhặn 
+12,chiếc váy màu hồng pastel hai dây ôm sát_thân_hình quyến_rũ  giúp nabi_nhã_phương khéo_léo khoe thân_hình “ chuẩn không cần chỉnh ” 
+13,thời_gian trở_lại dây  nữ diễn_viên tuổi thanh_xuân đang dần hướng đến hình_ảnh trưởng_thành  sang_trọng hơn khi phong_cách thời_trang trễ vai cũng được cô áp_dụng trong set đồ  vừa hờ_hững  mơ_mộng  khoe khéo bờ vai trần mảnh_dẻ và xương_quai_xanh e_ấp 
+14,nhã phương như đang nói với công_chúng sự biến hóa trong phong_cách của mình 
+15,nếu ở trên kín_đáo  nhẹ_nhàng thần_thái quý_phái  thì những shot hình cuối_cùng  nhã_phương đã giúp bộ đầm đỏ tươi tìm được đúng chủ_nhân của nó 

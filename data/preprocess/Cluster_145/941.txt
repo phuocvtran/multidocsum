@@ -1,0 +1,6 @@
+idx, sentence
+0,trước đó  thêm một trường_hợp nhập_viện trong tình_trạng hôn_mê sâu  ngừng tim  ngừng phổi  toàn than tím_tái  … đã không qua khỏi và được người_nhà đưa về 
+1,ba người đang được điều_trị tại bv gồm  hồ_nghĩa  sn 1968   hồ_lĩnh  sn 1999  và hồ_toán  cùng trú tại tổ 6  kv3 phường an_hòa  tp huế  tỉnh tt  huế  trong tình_trạng xoàng đầu  tức ngực  tê các chi  bỏng  do bị sét đánh 
+2,theo lời kể của ông hồ_nghĩa  chiều 28/5  họ đang gieo sạ ruộng tại cánh đồng_bào miêu_đông_sở  phường an_hòa  
+3,được một lúc thì trời kéo mây đen_kịt  kèm theo sấm_sét nên ai_nấy đều chạy về nhà 
+4,lúc đang chạy trên con đê thì trời đổ mưa  hai cha con ông hồ_nghĩa_cùng ông hồ_toán và 3 đứa trẻ từ 12 tuổi trở xuống dùng bạt phủ lên chiếc xe_máy rồi chui vào trú_ẩn và bị sét đánh bất_tỉnh 

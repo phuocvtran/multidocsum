@@ -1,0 +1,2 @@
+idx, sentence
+0,nguyên_nhân khiến giá gas tháng 6 giảm là do các nhà_cung_cấp thế_giới công_bố giá loại nhiên_liệu này lùi về còn 3475 usd / tấn  giảm 5 usd / tấn so với tháng 5 

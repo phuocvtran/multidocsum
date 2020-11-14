@@ -1,0 +1,12 @@
+idx, sentence
+0,alan pulido hiện là cầu_thủ của olympiakos  hy_lạp  và cũng đã từng có một_số trận khoác áo đội_tuyển mexico trong thời_gian trước đây 
+1,theo bbc  alan_pulido đã bị bắt_cóc ở bang tamaulipas vào đêm 285  theo giờ_địa_phương  
+2,khi đó  anh cùng với bạn gái vừa rời khỏi một bữa tiệc thì bị 6 tên cướp có bịt mặt_nạ bắt_cóc 
+3,sau khi cảnh_sát vào_cuộc  anh cùng bạn gái đã được giải_thoát vào đêm ngày 295  theo giờ_địa_phương  
+4,trả_lời phỏng_vấn báo_giới với một chiếc băng ở tay_phải  pulido cho biết anh hoàn_toàn khỏe_mạnh 
+5,một thành_viên của chính_quyền bang_tamaulipas  egidio_torre_cantu đã nói  “ điều quan_trọng nhất là anh ấy đã ở đây với chúng_ta  đó là những gì chúng_tôi muốn nói với các bạn ” 
+6,ngoài_ra  chính_quyền địa_phương không cung_cấp thêm quá nhiều chi_tiết về vụ_việc này 
+7,mùa giải vừa_qua  pulido đã ghi được 6 bàn thắng sau 15 trận ra sân trong màu áo olympiakos ở giải vô_địch quốc_gia hy_lạp 
+8,anh đã góp_mặt trong thành_phần đội_tuyển mexico dự vòng chung_kết world_cup 2014 nhưng lại không có cơ_hội tham_dự copa_america 2016 tới đây 
+9,tamaulipas là một bang ở phía đông_bắc mexico  nằm ở gần biên_giới với mỹ 
+10,đây là một trong những bang có tình_trạng bất_ổn nhất mexico 

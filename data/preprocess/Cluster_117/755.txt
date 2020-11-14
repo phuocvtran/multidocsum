@@ -1,0 +1,3 @@
+idx, sentence
+0,theo bộ này  hiện iran đang cố_gắng để nâng cao kim_ngạch xuất_khẩu dầu_thô sau khi lệnh trừng_phạt được dỡ bỏ 
+1,hiện  sản_lượng xuất_khẩu dầu_thô của iran đạt 2 triệu thùng dầu / ngày  và dự_kiến sẽ tăng lên mức 22 triệu thùng trong thời_gian tới 

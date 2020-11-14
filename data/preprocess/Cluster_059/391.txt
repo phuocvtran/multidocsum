@@ -1,0 +1,15 @@
+idx, sentence
+0,ở vòng 11 vleague này  thanh_hóa sẽ có cơ_hội thu_hẹp khoảng_cách với đội đầu_bảng hải_phòng khi tiếp đối_thủ trên sân_nhà 
+1,đây được đánh_giá là trận “ chung_kết lượt đi ” ở lượt đấu thứ 11 và có ảnh_hưởng không nhỏ đến cuộc đua vô_địch 
+2,nhằm động_viên tinh_thần cầu_thủ đội nhà  lãnh_đạo clb thanh_hóa treo thưởng số tiền 1 tỷ đồng nếu các cầu_thủ giành chiến_thắng trước đối_thủ khó chơi đến từ đất cảng 
+3,sau 10 vòng đấu  hải_phòng đang là đội bóng khó đánh_bại nhất ở vleague  khi họ mới thua 1 trận sau 10 vòng đấu  8 thắng  1 hòa  1 thua  
+4,thầy_trò hlv trương_việt_hoàng đang dẫn đầu_bảng xếp_hạng với 25 điểm  bỏ_xa thanh_hóa xếp sau tới 6 điểm 
+5,tuy_nhiên  đội chủ nhà cũng có_thể tự_tin khi họ sở_hữu hai mũi_nhọn đáng gờm trên hàng công 
+6,tiền_đạo omar đang có phong_độ tốt với thành_tích ghi_bàn bằng stevens  7 pha lập công 
+7,bên_cạnh đó  ngoại bin ivan_firer cũng chơi rất tốt và luôn tạo ra đột_biến 
+8,về phía hải_phòng  đội chủ sân lạch_tray chào_đón sự trở_lại của stevens sau án treo giò 
+9,bởi_vậy  sức_mạnh đến từ bộ đôi ngoại binh jamaica gồm fagan và stevens sẽ là thử_thách không nhỏ cho hàng thủ của thanh_hóa 
+10,cuộc đối_đầu này cũng chứng_kiến ngày trở_về của hàng_loạt cầu_thủ 2 bên từng chơi cho đối_thủ 
+11,đội_hình nội_binh của thanh_hóa có nhiều cầu_thủ từng khoác áo hải_phòng và ngược_lại 
+12,thủ_môn thanh_thắng  đình_tùng  văn_phong và cả hlv lê_thụy_hải của đội bóng xứ thanh đều từng có 2 năm gắn_bó với đội bóng đất cảng 
+13,thêm một sự trùng_hợp thú_vị nữa là cả 2 nội binh ghi nhiều bàn nhất cho hải_phòng ở mùa giải 2016 là văn_thắng và xuân_hùng  3 bàn  lại đều là cầu_thủ gốc thanh_hóa 

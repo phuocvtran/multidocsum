@@ -1,0 +1,33 @@
+idx, sentence
+0,ngày_mai có_thể sẽ đưa đồng_hồ nước đi kiểm_định chiều ngày 19/5  trao_đổi với chúng_tôi  bà_hoàng_thị_hòa  60 tuổi  trú tại tân_triều  xã triều_khúc  thanh_trì  hà_nội  cho biết  sáng nay  gia_đình bà đã ra hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp_triều_khúc để xem lại hóa_đơn tiền nước các 3 tháng đầu năm 
+1,‘ tại buổi làm_việc có cả các phóng_viên báo_chí tham_dự nhưng ông kế_toán_trưởng chỉ đưa ra hóa_đơn tiền nước trong tháng 1  2  3 của gia_đình tôi chứ không trả_lời thêm các ý_kiến gì 
+2,khi gia_đình tôi đề_nghị cho xem_lại cuống hóa_đơn nước của các năm trước cũng không được đồng_ý   bà hòa cho hay 
+3,theo bà hòa  cả gia_đình bà có 6 nhân_khẩu gồm vợ_chồng bà  vợ_chồng người con_trai và hai cháu nhỏ 
+4,trước khi nhận được hóa_đơn tiền nước tháng 4/2016 với mức sử_dụng hơn 1000 m3  tổng_số tiền lên đến 19125036 đồng thì mỗi tháng  gia_đình bà chỉ dùng trong khoảng trên_dưới 100 m3 mỗi tháng 
+5,‘ nghe thấy anh chốt nước thông_báo hết đến hơn 1000 m3  tính ra bằng hơn 19 triệu đồng mà tôi gần như không tin đó là thật  mắt hoa hết cả  chân không còn đứng vững 
+6,gia_đình tôi có 6 người  hàng tháng vẫn dùng chỉ khoảng 90  100 m3 là nhiều  tính ra độ hơn 200000  300000 đồng mỗi tháng 
+7,có một_vài tháng phao trong bể bị hỏng thì tiền nước cũng chỉ lên cùng lắm đến hơn 1 triệu / tháng  thế_mà đùng cái nghe thông_báo thế  thực_sự là hoảng quá   bà hòa cho hay 
+8,cũng theo bà hòa  ngay sau khi nhận được thông_báo về tiền nước  gia_đình bà đã lên hợp_tác_xã gặp lãnh_đạo đơn_vị để hỏi và giải_quyết nhưng đến nay  đã có hơn 5 cuộc gặp diễn ra nhưng vẫn không được giải_quyết chính_đáng 
+9,phía hợp_tác_xã giữ_nguyên quan_điểm không sai mà cái này thuộc về trách_nhiệm của gia_đình bà và họ cho rằng việc hóa_đơn tiền nước tăng đột_biến là do vỡ đường_ống nước hoặc do bể nước  phao nước có vấn_đề 
+10,‘ nhưng thực_tế thì đường_ống nước nhà tôi vẫn bình_thường  không sao cả  nước xả ra để rửa 
+11,nếu ống nước mà vỡ thì hơn 1000 m3 như_thế mỗi ngày phải chảy ra đến vài chục m3  như vậy  nó phải lênh_láng nước ra chứ đâu có như thế_này 
+12,gia_đình tôi cho rằng không đúng và đề_nghị được đem đồng_hồ đi kiểm_tra nhưng phía hợp_tác_xã đã ra 3 điều_kiện 
+13,nếu bây_giờ nhà tôi chấp_nhận đóng tiền nước thì chỉ phải đóng 10800000 đồng theo mức tính hữu_nghị làng_xóm như lần trước đã thông_báo thôi 
+14,còn nếu mang đồng_hồ đi giám_định thì gia_đình phải chịu hoàn_toàn trách_nhiệm 
+15,nếu đồng_hồ đúng  chất_lượng đạt yêu_cầu thì gia_đình tôi phải đóng toàn_bộ hóa_đơn tiền nước là 19125036 đồng 
+16,nếu đồng_hồ bị sai theo nghi_vấn thì phía hợp_tác_xã sẽ lấy 3 tháng tiền nước gần đây cộng vào chia trung_bình 3 tháng  tức_là tháng 1  tháng 2 và tháng 3 
+17,nếu đúng như_vậy thì chúng_tôi chỉ phải đóng khoảng hơn 200000 đồng   bà hòa nói 
+18,còn theo ông trần_công_ứng  chồng bà hòa thì  sau buổi làm_việc vào sáng 19/5  theo thông_báo mới nhất của hợp_tác_xã thì có_thể trong ngày_mai  20/5   hợp_tác_xã sẽ cùng gia_đình đưa đồng_hồ nước của gia_đình đi kiểm_định để làm rõ 
+19,sụt cân vì quá suy_nghĩ bà hòa cho biết thêm  do sơ_suất của gia_đình nên toàn_bộ hóa_đơn tiền nước đã không còn được lưu lại  cộng thêm với việc bị hợp_tác_xã gây khó nên ông_bà rất lo_lắng  suy_nghĩ nhiều 
+20,‘ từ lúc nghe thông_báo tiền nước đến nay  xong lên đề_nghị nhiều lần không được nên vợ_chồng tôi lúc_nào cũng lo_lắng  mấy đêm mất_ngủ liền  cứ chợp mắt vào là lại nghĩ 
+21,trước tôi 46 kg mà mấy ngày suy_nghĩ sụt mất cả 1 kg  giờ còn 45 kg 
+22,còn ông nhà tôi thì mấy năm trước bị tai_biến nên mấy hôm_nay  sự_việc xảy ra như_thế  ông ấy bức_xúc  đôi_khi nổi_nóng nên gia_đình cũng rất lo_lắng 
+23,cứ thế này thì không biết sẽ còn thế_nào nữa đây 
+24,chúng_tôi già rồi nên cũng chẳng muốn thế này đâu   bà hòa chia_sẻ 
+25,cũng theo bà hòa  ông_bà trước đây đều làm_ruộng  sau chuyển sang buôn_bán nhỏ  không có lương hưu nên tất_cả đều trông nhờ vào vợ_chồng anh con_trai và các con 
+26,trong khi đó  vợ_chồng anh con_trai đang phải nuôi con nhỏ  thu_nhập cũng không quá cao so với các gia_đình xung_quanh 
+27,‘ gia_đình không phải khó_khăn quá  cũng đủ ăn nhưng mà giờ bảo bỏ ra đủ là hơn 19 triệu hay giảm rồi là hơn 10 triệu để đóng tiền nước này thì chắc_chắn là chúng_tôi phải đi vay_mượn thêm chứ không có ngay được 
+28,nhưng thực_sự là nếu gia_đình tôi dùng nhiều thì tôi dù vay_mượn cũng sẵn_sàng đóng  tuy_nhiên  tôi cũng đã trình_bày  gia_đình tôi có thế  bán hàng ăn_uống thì không  rửa xe cũng không mà nước lên đến vậy là không đúng 
+29,giờ chúng_tôi chỉ mong sao sự_việc được giải_quyết rõ_ràng xem nguyên_nhân là do đâu  chứ cứ thế này mệt_mỏi lắm   bà hòa bày_tỏ 
+30,trong chiều nay  chúng_tôi đã có_mặt tại trụ_sở hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp_triều_khúc để tìm_hiểu thêm sự_việc nhưng theo ông nguyễn_trung_dũng  kế_toán_trưởng cho biết  lãnh_đạo đều đã đi vắng hết nên không_thể trả_lời thêm gì 
+31,chúng_tôi cũng liên_lạc thêm vào số máy của ông triệu_đình_nhã  chủ_nhiệm htx dịch_vụ sản_xuất nông_nghiệp triều_khúc nhưng tắt máy 

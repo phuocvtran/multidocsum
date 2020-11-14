@@ -1,0 +1,11 @@
+idx, sentence
+0,voa phiên_bản tiếng hàn dẫn lời một người triều_tiên đào_tẩu sang hàn_quốc năm_ngoái cho biết  yo_jong chưa kết_hôn và bác_bỏ những tin_đồn trước đó về đám_cưới của cô 
+1,trước đó  có thông_tin cho rằng cô đã kết_hôn với con_trai của bí_thư đảng lao_động triều_tiên choe_ryonghae 
+2,một tin_đồn khác lại nói cô đã cưới một quan_chức trẻ trong đảng 
+3,trong cuốn hồi_ký được viết sau khi tới thăm bình nhưỡng  cựu đầu_bếp sushi kenji_fujimoto  người đã làm_việc với cố chủ_tịch kim_jongil  cũng khẳng_định cô yo_jong chưa từng kết_hôn 
+4,đầu_bếp fujimoto đã tới thăm thủ_đô của triều_tiên từ hôm 1223 / 4/2016 
+5,ông tuyên_bố đã ăn tối với nhà lãnh_đạo kim_jong_un  cô kim_yo_jong và ông choe_ryonghae 
+6,fujimoto là một trong số_ít người nước_ngoài chứng_kiến nhà lãnh_đạo kim_jong_un trưởng_thành  do ông có thời_gian 13 năm làm đầu_bếp cho cố chủ_tịch kim_jongil 
+7,voa cũng dẫn nguồn tin cho biết  cô yo_jong đã được thăng chức làm phó_ban tuyên_giáo của đảng lao_động triều_tiên vào năm 2014 
+8,cô được cho là quản_lý tất_cả những lần xuất_hiện trước công_chúng của anh_trai  bao_gồm lịch_trình và các hoạt_động hậu_cần  cũng như đóng vai_trò là một cố_vấn chính_trị 
+9,cũng theo nguồn tin của voa  con_trai ông choe_ryonghae đã qua_đời trong một tai_nạn giao_thông vào tháng 1/2013 

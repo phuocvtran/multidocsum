@@ -1,0 +1,5 @@
+idx, sentence
+0,đến dự có chủ_tịch nước trần_đại_quang  trưởng_lão hòa_thượng thích_phổ_tuệ  pháp_chủ giáo_hội phật_giáo vn  đại_diện mttq vn  nhiều ban  bộ  ngành  đại_sứ  đại_diện các cơ_quan ngoại_giao nước_ngoài tại vn và các chư tôn đức giáo_phẩm giáo_hội phật_giáo vn  các tôn_giáo bạn cùng đông_đảo phật_tử 
+1,phát_biểu tại buổi lễ  chủ_tịch nước trần_đại_quang khẳng_định đại_lễ phật_đản là sự_kiện tôn_giáo rất quan_trọng trong đời_sống tín_ngưỡng và tinh_thần của đồng_bào phật_tử nước ta 
+2,đảng  nhà_nước và nhân_dân ghi_nhận  trân_trọng và đánh_giá cao những đóng_góp thiết_thực  đầy ý_nghĩa của giáo_hội phật_giáo vn và toàn_thể tăng_ni  phật_tử vn đối_với sự_nghiệp đại_đoàn_kết toàn dân_tộc  xây_dựng và bảo_vệ tổ_quốc vn xã_hội_chủ_nghĩa 
+3,chủ_tịch nước bày_tỏ tin_tưởng  giáo_hội phật_giáo vn tiếp_tục gìn_giữ  phát_huy tinh_thần “ hộ_quốc  an_dân ” với phương_châm “ đạo_pháp  dân_tộc  chủ_nghĩa xã_hội ”  cổ_vũ  động_viên tăng_ni  phật_tử ở trong và ngoài nước đoàn_kết chặt_chẽ với các tầng_lớp nhân_dân tích_cực tham_gia bảo_vệ vững_chắc chủ_quyền quốc_gia  toàn_vẹn lãnh_thổ thiêng_liêng của tổ_quốc 

@@ -1,0 +1,6 @@
+idx, sentence
+0,động_đất xảy ra cách thành_phố keelung 731 km  với tâm chấn ở ngoài biển  độ sâu 2713 km 
+1,tại quận yilan và hualien là nơi nhiều người cảm_thấy rung_chuyển rõ nhất 
+2,theo bưu_điện_hoa_nam buổi sáng  tại những thành_phố khác như đài_bắc  tân_bắc và taoyuan  hsinchu và miaoli  người dân cũng cảm_thấy rung_chuyển từ mặt_đất 
+3,hiện chưa có con_số thương_vong về người và của 
+4,hệ_thống tàu_điện tại đài_bắc vẫn hoạt_động bình_thường 

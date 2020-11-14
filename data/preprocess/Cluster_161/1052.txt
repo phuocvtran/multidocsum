@@ -1,0 +1,10 @@
+idx, sentence
+0,trong tháng qua  hơn 100 công_nhân viet_foods phải nghỉ_việc  hàng tồn_kho nhiều do không tiêu_thụ được  bị trả lại  đối_tác viện cớ không thanh_toán nợ … khiến cơ_sở gặp nhiều khó_khăn 
+1,trước đó  ngày 204  đội 14 chi_cục qltt tp hà_nội tạm giữ 22 tấn xúc_xích viet_foods tại công_ty tnhh thương_mại thực_phẩm hùng_anh  quận hoàng_mai  do nghi_vấn chứa_chất gây ung_thư là natri nitrat  e 251  
+2,tuy_nhiên  sau đó  theo tham_vấn chuyên_môn của cục an_toàn thực_phẩm ngày 235  e 251 không phải là chất cấm sử_dụng trong sản_xuất  chế_biến thực_phẩm 
+3,hiện nhiều nước cho_phép sử_dụng chất này trong xúc_xích với ngưỡng quy_định như mỹ  singapore là 500 mg / kg  canada  malaysia 200 mg / kg 
+4,trong khi đó  hàm_lượng e 251 trong xúc_xích viet_foods là 55100 mg / kg nên an_toàn với người sử_dụng 
+5,đáng lưu_ý  e 251 trong sản_phẩm không phải do nhà_sản_xuất đưa vào mà tồn_dư trong rau  củ  quả  trứng  cá  sữa  dạng nitrat chuyển hóa thành nitrit  
+6,sau đó  cơ_quan qltt đã có quyết_định trả lại toàn_bộ hàng_hóa tạm giữ cho viet_foods do cơ_sở không vi_phạm 
+7,tại cuộc họp_báo nêu trên  một_số doanh_nghiệp trong ngành thực_phẩm chế_biến  phụ_gia thực_phẩm cho biết doanh_số bị sụt giảm 30   50  sau vụ tạm giữ xúc_xích viet_foods 
+8,ông đặng_văn_thiệp  đại_diện công_ty behn_meyer_việt_nam  cung_cấp phụ_gia thực_phẩm   cho rằng quản_lý phụ_gia ở việt_nam có nhiều bất_cập 

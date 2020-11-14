@@ -1,0 +1,5 @@
+idx, sentence
+0,theo tin_tức trên báo vnexpress  pháp_luật tp hcm  vietnamnet  vào ngày 22/5  hai máy_bay dự_phòng  cùng đoàn hộ_tống dự_bị phục_vụ cho chuyến công_du của tổng_thống obama đã hạ_cánh xuống sân_bay quốc_tế đà_nẵng 
+1,hai chiếc máy_bay dự_phòng đáp xuống sân_bay đà_nẵng là chiếc máy_bay boeing_c17 và c32 
+2,trong đó  chiếc boeing_c17 chở nhiều trang_thiết_bị  xe phục_vụ đoàn  xe an_ninh  hộ_tống  y_tế và các nhu_yếu_phẩm  hiện 2 chiếc máy_bay đang đậu ở cạnh nhà_ga mới trong sân_bay 
+3,hai chiếc máy_bay này được bố_trí tại sân_bay đà_nẵng để dự_phòng cho tổng_thống obama và phái_đoàn 

@@ -1,0 +1,17 @@
+idx, sentence
+0,sáng nay  công_an huyện quế_phong  nghệ_an  cho biết  trên địa_bàn vừa xảy ra vụ án_mạng “ giết người và cướp tài_sản ” nghiêm_trọng 
+1,vụ_án khiến 1 người tử_vong  1 người bị_thương nặng 
+2,theo đó  vào khoảng 20 h ngày 28/5  công_an xã mường_nọc  huyện quế_phong nhận tin báo  hai vợ_chồng ông sầm_văn_dần  61 tuổi và bà vi_thị_loan  63 tuổi  trú bản cỏ_noong  xã mường_noọc  quế_phong  bị sát_hại tại nhà_riêng 
+3,tại hiện_trường  bà loan bị chém nhiều nhát chết tại_chỗ  còn ông dần bị chém bất_tỉnh trên sàn nhà 
+4,anh vi_văn_xan trú cùng bản cho biết  khoảng 20 h cùng ngày  ông dần bò lết vào nhà anh trong tình_trạng bê_bết máu  với nhiều vết dao đâm ở cổ  bụng  ngực  ngay sau đó  ông dần được đưa đi cấp_cứu tại bệnh_viện đa_khoa nghệ_an 
+5,ông lương trường_sơn  trưởng ca xã mường_noọc cho biết  nghi can gây_án được xác_định là vi_văn_thắng  23 tuổi  trú cùng bản với các nạn_nhân 
+6,trước đó  chiều 28/5  thắng đến nhà ông dần và uống rượu 
+7,sau khi uống xong  thắng và ông dần nằm ngủ ở sàn nhà 
+8,một lúc sau  thắng tỉnh_giấc trước  ra_tay sát_hại bà loan để cướp đôi bông_tai bằng vàng 
+9,sau đó  chém ông dần nhiều nhát bất_tỉnh trên sàn nhà  tưởng nạn_nhân đã chết  thắng bỏ trốn khỏi hiện_trường 
+10,đến 9 h sáng ngày 29/5  công_an huyện quế_phong  nghệ_an  phát_hiện đối_tượng thắng đang lẩn trốn tại nhà người_thân tại bản phương_tiến 1  xã tiền_phong 
+11,lực_lượng công_an nhanh_chóng triển_khai kế_hoạch vây_bắt 
+12,khi phát_hiện bị lực_lượng chức_năng vây_bắt  đối_tượng đã tự dùng dao đâm vào cổ để tự_sát 
+13,ngay sau đó  lực_lượng công_an đã nhanh_chóng đưa thắng tới bệnh_viện đa_khoa huyện quế_phong cấp_cứu 
+14,11 h trưa cùng ngày  qua thăm khám ban_đầu  đối_tượng thắng bị_thương quá nặng nên đã được chuyển lên bệnh_viện tuyến trên điều_trị 
+15,được biết  đối_tượng thắng là một con_nghiện từ lâu và thường hay trộm_cắp tài_sản của người_dân trên địa_bàn 

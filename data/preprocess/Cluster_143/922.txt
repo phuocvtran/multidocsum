@@ -1,0 +1,6 @@
+idx, sentence
+0,đây là một trong những quy_định mới trong công_văn do thứ_trưởng bộ giáo_dục_và_đào_tạo nguyễn_vinh_hiển gửi cho các trường đại_học chù trì cụm thi trung_học_phổ_thông quốc_gia 2016 hướng_dẫn định_mức chi lệ_phí dự thi 2016 
+1,theo đó  năm 2016 các trường đại_học chủ_trì cụm thi sẽ không thu lệ_phí phúc_khảo của thí_sinh dự thi trung_học_phổ_thông quốc_gia 
+2,nội_dung chi  mức chi cho chấm thẩm_định  chấm phúc_khảo  thanh_tra thi  kiểm_tra bài thi trường đại_học vận_dụng theo thông_tư 66  hướng_dẫn về nội_dung  mức chi  công_tác quản_lý_tài_chính  tổ_chức các kỳ thi phổ_thông 
+3,ngoài quy_định này  công_văn cũng quy_định mức chi_chi_tiết cho nhiều khoản phục phụ kỳ thi trung_học_phổ_thông quốc_gia  các trường đại_học không chi vượt mức quy_định này 
+4,các khoản chi sẽ do ngân_sách nhà_nước hỗ_trợ 

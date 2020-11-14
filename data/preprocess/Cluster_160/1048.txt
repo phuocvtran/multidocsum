@@ -1,0 +1,3 @@
+idx, sentence
+0,ngày 30/5  ubnd tphcm đã họp báo công_bố những thông_tin liên_quan đến việc chung_cư the_harmona  quận tân_bình bị ngân_hàng bidv siết nợ 
+1,tại cuộc họp_báo  ông võ_văn_hoan  đại_diện ubnd tphcm cho biết  cư_dân không có lỗi khi mua nhà ở the_harmona  quan_điểm của ubnd là bảo_vệ quyền_lợi chính_đáng của người dân đã mua căn_hộ hợp_pháp 

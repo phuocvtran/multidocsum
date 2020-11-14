@@ -1,0 +1,35 @@
+idx, sentence
+0,ông brandon_cipes  phó chủ_tịch phụ_trách hệ_thống thông_tin tại công_ty oceanx đã dành đủ thời_gian cho vị_trí cấp cao mảng công_nghệ_thông_tin  đến mức rất ghét một cuộc gọi chào bán hàng 
+1,“ giống như chuyện mua một chiếc xe_hơi  một quá_trình có_vẻ như đơn_giản  nhưng mỗi lần tôi cần mua thì nó giống như một thử_thách kéo_dài từ năm đến sáu giờ 
+2,hầu_hết chúng_ta đều nỗ_lực để các nhân_viên bán hàng không làm_phiền mình ”  ông cipes nói 
+3,dù_vậy  không phải lúc_nào ông cũng nghĩ như_thế 
+4,hồi năm 2013  ông vẫn quen với các nhân_viên bán hàng song tư_duy của ông khác đi kể từ khi ông gửi thư_điện_tử đến hãng sản_xuất phần_mềm atlassian yêu_cầu công_ty này gửi một đại_diện bán hàng đến cho ông 
+5,hãng công_nghệ trả_lời “ không ” 
+6,atlassian là công_ty thực_hiện các ứng_dụng nhắn_tin và quản_lý dự_án phổ_biến như jira và hipchat  và không đặt ra doanh_số bán hàng hay giảm_giá vào cuối mỗi quý 
+7,đội_ngũ bán hàng của họ không tiếp_thị sản_phẩm đến bất_cứ ai  vì atlassian chẳng có lấy một nhân_viên trong nhóm bán hàng 
+8,từ chỗ một cái tên vô_danh  công_ty úc trở_thành ngọn hải_đăng cho các doanh_nghiệp khác chỉ nhờ vào tiếp_thị truyền_miệng để xây_dựng thị_phần 
+9,“ khách_hàng chẳng muốn gọi một nhân_viên bán hàng nếu họ không cần 
+10,khách_hàng thích tìm câu trả_lời trên trang_web hơn ”  ceo_atlassian_scott_farquhar nói 
+11,cách các hãng công_nghệ bán phần_mềm thay_đổi đáng_kể trong thập_niên qua 
+12,sự sẵn có của các phương_án thay_thế mã nguồn mở thúc_đẩy các thương_hiệu truyền_thống  nâng cao thách_thức cung_cấp nhiều phiên_bản miễn_phí và dùng thử phần_mềm 
+13,ibm  oracle và hewlett_packard_enterprise  hp   những hãng truyền_thống thuê hàng ngàn nhân_viên bán hàng có hưởng hoa_hồng  đang mua lại nguồn mở hoặc công_ty đám_mây với các phương_pháp bán hàng khác nhau 
+14,slack  dropbox và github cố_gắng thu_hút khách_hàng doanh_nghiệp chủ_yếu bằng các đánh_giá tốt 
+15,ý_tưởng của họ là phân_phối sản_phẩm đến cá_nhân và nhóm nhỏ khách_hàng tiềm_năng và kỳ_vọng nhu_cầu sẽ tăng lên theo đó 
+16,đến nay  atlassian là ví_dụ điển_hình nhất của mô_hình này 
+17,công_ty xuất_hiện trên thị_trường 14 năm  được định_giá 5 tỉ usd kể từ khi lên sàn chứng_khoán hồi tháng 122015 
+18,hơn 80 công_ty trong danh_sách top 100 doanh_nghiệp của fortune sử_dụng phần_mềm của atlassian 
+19,các nhà_đầu_tư mạo_hiểm và đồng doanh_nghiệp bạn thường nói về việc đi theo ít_nhất là một phần chiến_lược bán hàng của hãng 
+20,ông farquhar và ceo đồng_cấp mike_cannonbrookes thành_lập atlassian khi họ học ngành it tại đại_học new_south_wales 
+21,ban_đầu  cặp_đôi khởi_nghiệp dựa vào tiếp_thị truyền_miệng vì họ không biết gì về việc bán phần_mềm 
+22,bước đột_phá đầu_tiên của họ là vào năm 2002  khi trang_web cho phép bạn tải về bản dùng thử miễn_phí song đó chưa phải là phiên_bản trang_bị đầy_đủ như bản được bán ra 
+23,tất_cả đơn hàng của họ đến qua fax 
+24,một ngày nọ  máy_fax đưa đến đơn hàng của american_airlines 
+25,một nhân_viên của hãng hàng_không này đã tải phần_mềm và định_hình nó mà không cần sự giúp_đỡ của atlassian 
+26,american airlines đã chi 800 usd cho đơn hàng đầu_tiên đó 
+27,“ đó là bước ngoặc lớn đối_với chúng_tôi ”  ông farquhar nói  cho hay cả hai nhà sáng_lập đều tự_tin rằng họ có_thể tiếp_tục phát_triển mô_hình kinh_doanh mà không cần lấy một nhân_viên bán hàng 
+28,năm 2015  doanh_số của atlassian là 320 triệu usd 
+29,chi_phí bán hàng  tiếp_thị của hãng chủ_yếu đổ vào quảng_cáo  thanh_toán cho các đối_tác chỉ bằng 1/5 con_số trên 
+30,trong khi đó  salesforce__com chi một_nửa doanh_thu cho việc bán hàng và tiếp_thị và hãng box  công_ty trả lương cao cho đội_ngũ nhân_viên bán hàng trong vài năm qua  thì chi đến 80  
+31,doanh_thu của atlassian được cho là sẽ lên đến 450 triệu usd trong năm nay 
+32,chủ_tịch atlassian_jay_simons cho hay tiết_kiệm chi_phí trả cho nhân_viên bán hàng giúp công_ty có nhiều tiền để đầu_tư vào nghiên_cứu  phát_triển nhằm tinh_chỉnh phần_mềm  giúp nó dễ_dàng được thử_nghiệm  hiểu và mua hơn 
+33,“ nhân_viên bán hàng là lựa_chọn cuối_cùng khi tất_cả các phương_án khác của bạn không hoạt_động tốt ”  farquhar nói 

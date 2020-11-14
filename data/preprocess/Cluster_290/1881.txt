@@ -1,0 +1,8 @@
+idx, sentence
+0,đơn_kiện_cáo_buộc hãng hàng_không malaysia_airlines cẩu_thả và vi_phạm hợp_đồng 
+1,đây là đơn_kiện đầu_tiên của thân_nhân thành_viên phi_hành_đoàn chống lại malaysia_airlines  afp dẫn nguồn từ ông balan_nair  luật_sư đại_diện cho các gia_đình nguyên_đơn 
+2,hai tuần trước  một nhóm gồm 33 thân_nhân của những hành_khách người úc  new_zealand và malaysia bị thiệt_mạng trong vụ mh17 đã đệ đơn_kiện chính_phủ nga và tổng_thống vladimir_putin tại tòa_án nhân_quyền châu_âu 
+3,tất_cả 298 người  gồm hành_khách  phần_lớn là người hà_lan  và 15 thành_viên phi_hành_đoàn  đã thiệt_mạng khi chiếc boeing 777 bị trúng tên lửa buk do nga chế_tạo lúc đang bay trên vùng_trời miền đông ukraine ngày 1772014 
+4,theo đơn_kiện của các gia_đình 6 thành_viên phi_hành_đoàn  hãng hàng_không thiếu trách_nhiệm khi cho mh17 bay qua khu_vực có xung_đột vũ_trang  đặt cả hành_khách và phi_hành_đoàn vào nguy_cơ tử_vong cao 
+5,ông balan không cho biết tiền bồi_thường mà các gia_đình đòi từ hãng hàng_không là bao_nhiêu 
+6,ông nói rằng malaysia_airlines từng đề_nghị giải_quyết bằng một khoản tiền bồi_thường nhưng các gia_đình không đồng_ý và quyết_định đưa ra tòa 

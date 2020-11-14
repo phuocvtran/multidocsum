@@ -1,0 +1,11 @@
+idx, sentence
+0,theo đó  vào_khoảng 17 h30 chiều ngày 2/6  ông nguyễn_xuân_thủy  37 tuổi  trú ở thôn đông_xuyên  xã đông_tiến  huyện yên_phong  tỉnh bắc_ninh  nhờ 4 em nhỏ từ 12 – 16 tuổi xuống sông để điều_chỉnh lại chiếc cầu dẫn từ lồng cá lên bờ thì bị điện giật 
+1,thấy 4 đứa trẻ bị điện giật  ông thủy cũng nhảy xuống cứu thì bị giật theo khiến cả 5 người tử_vong 
+2,sau khi sự_việc xảy ra  người dân quanh khu_vực đã nhanh_chóng ngắt_điện và thông_báo cơ_quan_chức_năng 
+3,nhận được tin báo  các đơn_vị nghiệp_vụ của huyện yên_phong và tỉnh bắc_ninh đã nhanh_chóng có_mặt tại hiện_trường để điều_tra  làm rõ vụ_việc 
+4,trao_đổi với pv  lãnh_đạo ubnd xã đông_tiến cho biết  gia_đình ông nguyễn_xuân_thủy đặt lồng bè nuôi cá dưới một con sông gần nhà 
+5,tại khu nuôi cá ông thuỷ dựng một căn chòi nhỏ để trông_coi 
+6,vụ tai_nạn thương_tâm khiến cả xóm nghèo bàng_hoàng 
+7, có một cháu tử_vong gọi thuỷ bằng cậu ruột 
+8,những em còn lại cũng có họ_hàng 
+9,nhận_định ban_đầu  có_thể do hệ_thống điện sinh_hoạt trong căn chòi trông cá bị hở đoạn dẫn đến khu_vực nuôi cá nên khi chỉnh sửa cầu dẫn từ lồng cá lên bờ  điện nhiễm xuống nước hoặc lồng cá làm cả 5 đều bị điện giật   vị lãnh_đạo ubnd xã đông_tiến cho biết 

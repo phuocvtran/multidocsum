@@ -1,0 +1,7 @@
+idx, sentence
+0,sáng nay 16  tin từ bộ_chỉ_huy bồ đội biên_phòng tỉnh thanh_hóa cho biết đang phối_hợp với lực_lượng chức_năng tìm cách tiếp_cận tàu cá đna 90604 để tìm_kiếm  cứu_hộ 2 ngư_dân mất_tích 
+1,trước đó  vào_khoảng 19 giờ ngày 305  tại khu_vực phía nam tây_nam cách đảo hòn_mê  thanh_hóa  khoảng 7 hải_lý  tàu cá đna 90604 công_suất 900 cv đang đánh_cá trên biển thì gặp nạn 
+2,lúc này trên tàu có 13 người  11 người đã thoát ra ngoài và được tàu cá đna 90603 đánh_bắt gần đó cứu sống  2 người còn lại nghi bị mắc_kẹt trong tàu là anh vịnh  sn 1988  và anh việt  1998  cùng quê tỉnh quảng_ngãi  
+3,nhận được tin báo  lực_lượng biên_phòng thanh_hóa đã điều_động 1 tàu cùng 8 cán_bộ đến hiện_trường tìm_kiếm cứu nạn  đồng_thời phát tín_hiệu tìm_kiếm cứu nạn cho các tàu đang hoạt_động gần đó tham_gia cứu nạn 
+4,tàu cứu nạn của biên_phòng thanh_hóa và nhiều tàu cá trong hơn 1 ngày qua đã tích_cực tìm_kiếm trên khu_vực tàu bị nạn nhưng không có kết_quả do tàu bị nạn có trọng_tải lớn  lại lật_úp và nổi lập_lờ trên biển nên không lặn xuống để tìm_kiếm 2 người nghi mắc_kẹt trong tàu 
+5,một đội thợ lặn chuyên_nghiệp đã được huy_động  đang khẩn_trương tiếp_cận tàu đna 90604 để tìm_kiếm 2 ngư_dân mất_tích 

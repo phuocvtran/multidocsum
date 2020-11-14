@@ -1,0 +1,13 @@
+idx, sentence
+0,lúc 22 h tối_ngày 2/6  lãnh_đạo huyện krông_pa  tỉnh gia_lai  xác_nhận và cho biết  hiện cơ_quan cảnh_sát điều_tra công_an huyện vẫn đang tiến_hành điều_tra vụ lâm_tặc chống đối lực_lượng kiểm_lâm khi đang truy_quét trên địa_bàn 
+1, theo thông_tin ban_đầu tôi nắm  thì vào thời_điểm cuối ngày  hạt kiểm_lâm huyện krông_pa sau khi nhận được nguồn tin lâm_tặc vận_chuyển gỗ trên sông krông_năng  xã krông_năng  huyện krông_pa  thì triển_khai lực_lượng để bắt_giữ 
+2,sau khi đụng_độ thì có 3 kiểm_lâm bị_thương  1 lâm_tặc_tử_vong nghi là do bị lực_lượng kiểm_lâm bắn trúng   lãnh_đạo này cho biết 
+3,một nguồn tin khác cho hay  vào thời_điểm xảy ra sự_việc  khi lực_lượng kiểm_lâm phát_hiện các đối_tượng vận_chuyển gỗ liền dùng xuồng ra giữa sông để kiểm_tra 
+4,khi xuồng lực_lượng chức_năng áp gần sát  kiểm_lâm_viên yêu_cầu hợp_tác vì cho rằng số gỗ đang vận_chuyển là phi_pháp  nhưng nhóm lâm_tặc đã thủ sẵn hung_khí để đe_doạ 
+5,các đối_tượng lâm_tặc này thủ sẵn các loại như mã_tấu  rựa và dùng nhiều lời_nói doạ_dẫm để hù_doạ lực_lượng 
+6,không_những thế  các đối_tượng còn hung_hãn dùng thuyền chở gỗ tông vào xuồng kiểm_lâm 
+7,vào thời_điểm này  một kiểm_lâm_viên dùng súng bắn chỉ_thiên nhiều phát để cảnh_cáo  tuy_nhiên  các đối_tượng này vẫn không chấp_hành mà_còn hung_hãn hơn 
+8,các đối_tượng lâm_tặc được cho là dùng hung_khí tấn_công các cán_bộ chức_năng  khiến một_số người bị_thương 
+9,vào thời_điểm trên  kiểm_lâm đinh việt_hồng buộc phải dùng súng bắn vào mạn_thuyền của lâm_tặc với mục_đích để thuyền thủng lớp vỏ cho chìm nhưng đạn bay trúng vào chân nguyễn_sơn_đông  trú tại tỉnh phú_yên  
+10,sau khi thấy đông bị_thương  nhiều cán_bộ cũng bị_thương thì cả hai nhóm rút_lui sau đó 
+11,tối cùng ngày  công_an huyện krông_pa nhận được tin báo người bị kiểm_lâm bắn là nguyễn_sơn_đông đã tử_vong khi đang trên đường đưa về tỉnh phú_yên cấp_cứu 

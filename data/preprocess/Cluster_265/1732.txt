@@ -1,0 +1,14 @@
+idx, sentence
+0,tổng_thống đắc_cử của philippines_rodrigo_duterte hôm 31/5 đã công_bố danh_sách nội_các  trong đó vị_trí ngoại_trưởng được giao cho luật_sư yasay 
+1,trong lần tiếp_xúc báo_chí quốc_tế đầu_tiên  ông yasay nhấn_mạnh sự độc_lập của philippines trong giải_quyết tranh_chấp ở biển_đông với trung_quốc 
+2, chúng_ta sẽ không khúm_núm trước bất_kỳ quốc_gia nào   reuters ngày 2/6 dẫn lời ông 
+3,dưới thời của tổng_thống benigno_aquino sắp mãn_nhiệm  philippines tăng_cường quan_hệ với mỹ và thường trong tình_trạng căng_thẳng với trung_quốc 
+4,theo yasay  chính_phủ mới mong_muốn  cải_thiện quan_hệ  với trung_quốc 
+5, miễn_là trung_quốc tuân_thủ_pháp_quyền  tôn_trọng toàn_vẹn lãnh_thổ và chủ_quyền của philippines  thì chúng_ta nên phát_triển mối quan_hệ và tình hữu_nghị ngày_càng mạnh_mẽ hơn   ông yasay nêu quan_điểm 
+6,về phán_quyết mà philippines theo_đuổi tại tòa_án trọng_tài thường_trực  pca   ông yasay nói manila sẽ tôn_trọng mọi quyết_định cuối_cùng của tòa 
+7,ông cũng nêu rõ philippines sẵn_sàng đàm_phán song_phương với trung_quốc về tranh_chấp ở bãi cạn scarborough  nhưng vẫn duy_trì đối_thoại đa_phương về vấn_đề ở quần_đảo trường_sa 
+8,ngoại_trưởng trung_quốc_vương nghị hoan_nghênh tuyên_bố của manila và nói luôn để mở cánh cửa đối_thoại 
+9,ông vương nói đây là biện_pháp hữu_ích để  phá vỡ thế bế_tắc  trong quan_hệ trung_quốc  philippines những năm gần đây 
+10, chúng_tôi vui_mừng trông_đợi những quyết_định khôn_ngoan của tân_chính_phủ philippines   ông vương nói 
+11,theo kế_hoạch  ông duterte sẽ chính_thức nhậm_chức tổng_thống philippines vào ngày 30/6 
+12,ông đã nêu rõ philippines không muốn phụ_thuộc vào mỹ  cho thấy khả_năng chuyển_biến trong cách xử_lý những vấn_đề an_ninh và tình_hình biển_đông 

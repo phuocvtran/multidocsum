@@ -1,0 +1,9 @@
+idx, sentence
+0,thông_tin từ vietjet cho biết  đường_bay tphcmkuala_lumpur được khai_thác hàng ngày với thời_gian bay khoảng 1 giờ 55 phút 
+1,chuyến bay khởi_hành từ tphcm lúc 9 giờ 30  giờ_địa_phương  và đến kuala_lumpur lúc 12 giờ 25  giờ_địa_phương  
+2,chiều ngược_lại khởi_hành lúc 13 giờ  giờ_địa_phương  từ kuala_lumpur và tới tphcm lúc 13 giờ 55  giờ_địa_phương  
+3,phát_biểu tại buổi lễ khai_trương đường_bay tại sân_bay kuala_lumpur  phó_thủ_tướng việt_nam trịnh_đình_dũng nhấn_mạnh đường_bay sẽ đáp_ứng nhu_cầu di_chuyển  du_lịch của người dân hai nước  đồng_thời góp_phần thúc_đẩy giao_thương và hội_nhập toàn_cầu 
+4,vietjet hiện đang khai_thác 36 máy_bay a320 và a321  thực_hiện gần 250 chuyến bay mỗi ngày  với gần 50 đường_bay phủ khắp các thành_phố lớn tại việt_nam và các đường_bay quốc_tế đến singapore  hàn_quốc  đài_loan  trung_quốc  thái_lan  myanmar và malaysia 
+5,cũng trong hôm_nay 16  một hãng hàng_không giá rẻ khác là jetstar_pacific cũng đã chính_thức mở đường bay hà_nộichu_lai và hà_nộiquy_nhơn 
+6,đây là hai đường_bay thẳng được mở sau các đường_bay tphcmchu_lai và tphcmquy_nhơn đã được jetstar_pacific khai_thác từ năm 2015 
+7,ông lê_hồng_hà  tổng_giám_đốc jetstar_pacific  cho biết trong giai_đoạn đầu hãng thực_hiện ba chuyến khứ_hồi mỗi tuần giữa hà_nộichu_lai vào các ngày thứ_tư  thứ_sáu  chủ_nhật  và giữa hà_nộiquy_nhơn vào các ngày thứ_hai  thứ_tư và chủ_nhật bằng máy_bay airbus_a320 với 180 ghế đồng_hạng phổ_thông 

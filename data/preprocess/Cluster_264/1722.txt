@@ -1,0 +1,12 @@
+idx, sentence
+0,hãng tin afp dẫn nguồn tin từ giới_chức nhật_bản cho biết  cậu bé yamato_tanooka  7 tuổi  bị mất_tích sau chuyến đi chơi cùng gia_đình trong một khu rừng đầy gấu ở phía bắc nhật_bản đã được tìm thấy hôm_nay 3/6 
+1,theo người phát_ngôn của lực_lượng cảnh_sát nhật_bản  một quan_chức của lực_lượng phòng_vệ nhật_bản đã tình_cờ tìm thấy cậu bé bên trong một căn_cứ quân_sự vào lúc 7 h50 sáng nay  theo giờ_địa_phương  
+2,tanooka gần như không hề bị_thương và vẫn duy_trì tình_trạng sức_khỏe tốt 
+3,“ cậu bé không có vết_thương nào ngoài da  và bé tự giới_thiệu tên mình là yamato_tanooka ”  người phát_ngôn cho biết 
+4,manabu_takehara  người phát_ngôn của lực_lượng phòng_vệ nhật_bản cũng xác_nhận rằng đã tìm thấy cậu bé mất_tích trong rừng 
+5,“ sức_khỏe của bé vẫn tốt  tuy_nhiên bé vẫn được đưa tới bệnh_viện bằng trực_thăng y_tế để kiểm_tra thêm ”  ông takehara chia_sẻ với afp 
+6,vụ mất_tích xảy ra hôm 28/5 khi cả gia_đình yamato tanooka đi leo núi tại khu_vực phía bắc đảo hokkaido 
+7,ban_đầu  cha_mẹ của yamato_tanooka khai_báo với cảnh_sát rằng con_trai họ mất_tích trong lúc cả nhà đang đi dạo trong rừng và hái rau dại 
+8,tuy_nhiên  sau đó họ buộc phải thừa_nhận rằng  chính họ đã yêu_cầu tanooka xuống xe để phạt cậu bé vì trước đó đã ném đá vào các xe ô_tô và người đi đường khi chơi cạnh một dòng sông 
+9,sau khi lái_xe đi xa khoảng 500 m  cha_mẹ tanooka quay lại để đón con mình thì phát_hiện ra cậu bé đã không còn ở đó 
+10,như_vậy  tanooka đã mất_tích trong khoảng thời_gian 5 phút bắt_đầu từ khi cậu bị bỏ lại một_mình trong rừng 

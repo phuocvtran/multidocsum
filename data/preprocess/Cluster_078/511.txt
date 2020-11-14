@@ -1,0 +1,9 @@
+idx, sentence
+0,cô gái natalie_tyson đến với vị_trí lái_xe trong đoàn xe hộ_tống tổng_thống mỹ vào năm 2014  khi ấy natalie_tyson vẫn đang là một cô sinh_viên 24 tuổi người california 
+1,cô gái này đã chia_sẻ về việc cô được lựa_chọn như thế_nào trong số các tình_nguyện viên làm lái_xe cho đoàn xe hộ_tống tổng_thống obama trong những ngày ông ở san_francisco  dù cô không có kinh_nghiệm  chưa được huấn_luyện  thậm_chí còn không biết phải làm gì trong một tình_huống khẩn_cấp 
+2,natalie cho biết  chỉ 1 tuần trước khi tổng_thống obama tới thăm thành_phố san_francisco vào ngày 10102014  một người bạn đang làm_việc ở nhà_trắng nhắn_tin cho cô gợi_ý rằng cô có muốn tham_gia đoàn hộ_tống với tư_cách lái_xe chở đoàn phóng_viên hay không 
+3,natalie trả_lời rằng cô từng lái_xe bán tải  có lý_lịch lái_xe cũng như thân_nhân trong_sạch và sẵn_sàng nhận nhiệm_vụ 
+4,một tuần sau đó  cô có_mặt tại sân_bay quốc_tế san_francisco  chờ đón chiếc chuyên_cơ không_lực 1 hạ_cánh 
+5,khi được báo the_times hỏi rằng cô sẽ xử_lý thế_nào trong trường_hợp xảy ra tấn_công  natalie_tyson thừa_nhận  cô đã được các mật_vụ chỉ_dẫn sơ_bộ trước khi được ngồi sau vô lăng 
+6,họ chủ_yếu cảnh_báo_cô không nên đâm phải bất_kỳ chiếc xe hộ_tống nào của cảnh_sát  thường do cảnh_sát địa_phương điều_khiển 
+7,natalie nói thêm rằng  trong trường_hợp khẩn_cấp  cô sẽ theo đuôi chiếc xe ô_tô phía trước 

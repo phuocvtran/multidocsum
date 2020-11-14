@@ -1,0 +1,13 @@
+idx, sentence
+0,vụ nổ xảy ra vào_khoảng 4 giờ hôm_nay 26  tại km 09  500 trên ql 12a  đoạn qua bản noong_bua  huyện bua_la_pha  tỉnh khăm_muộn  lào 
+1,thông_tin từ đồn biên_phòng cửa_khẩu quốc_tế cha_lo  khoảng 6 giờ hôm_nay  26   đồn nhận tin báo có vụ tai_nạn nổ xe_khách nghiêm_trọng trên đất lào  nằm cách cửa_khẩu cha_lo khoảng 15 km 
+2,ngay sau đó  đồn đã cử tổ công_tác đi xác_minh và phối_hợp với cơ_quan_chức_năng của lào để xử_lý vụ_việc 
+3,theo thông_tin ban_đầu  chiếc xe_khách gặp nạn của nhà_xe khánh_đơn do tài_xế nguyễn_đức_tú  26 tuổi  quê xã nghi_yên  nghi_lộc  nghệ_an  điều_khiển chạy về nghệ_an  trên xe có tất_cả 13 người 
+4,vụ nổ rất lớn khiến 8 người chết tại_chỗ  3 người bị_thương nặng  trong đó có 1 người hôn_mê sâu được đưa về tpvinh  nghệ_an  cấp_cứu 
+5,tài_xế và 1 người của nhà_xe chỉ bị_thương nhẹ và hiện đang có_mặt tại đồn công_an lằng_khằng 
+6,thông_tin từ những người chứng_kiến tại hiện_trường cho hay trên xe có rất nhiều gỗ khúc 
+7,xác_pháo vương_vãi rất nhiều trên xe và xung_quanh tại hiện_trường 
+8,cơ_quan_chức_năng nhận_định nguyên_nhân ban_đầu gây nổ là do pháo 
+9,hiện cơ_quan_chức_năng đang tiếp_tục điều_tra nguồn_gốc và số_lượng của gỗ và pháo trên xe để biết được lực nổ 
+10,khu_vực xảy ra tai_nạn thảm_khốc không có sóng di_động nên việc liên_lạc lấy thông_tin khó_khăn 
+11,thông_tin từ huyện nghi_lộc  nghệ_an  cho hay  có 3 người chết ở xã nghi_kiều  gồm 2 nam 1 nữ 

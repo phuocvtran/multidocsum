@@ -1,0 +1,9 @@
+idx, sentence
+0,từ mùa giải tới  manchester_city sẽ được dẫn_dắt bởi hlv giàu tham_vọng là pep_guardiola 
+1,vì_thế  mùa_hè năm nay dự_kiến sẽ là thời_điểm đánh_dấu sự tăng_cường lực_lượng đáng_kể của đội bóng chủ sân etihad 
+2,và khi mà kỳ chuyển_nhượng hè này còn chưa bắt_đầu  man_city đã có được chữ_ký của tân_binh đầu_tiên  đó là tiền_vệ ilkay_gundogan từ dortmund 
+3,theo một_số nguồn tin  mức giá mà man_city phải bỏ ra để mua tiền_vệ 25 tuổi này vào khoảng 20 triệu bảng  kèm theo một_số khoản phụ_phí 
+4,phát_biểu sau khi chính_thức là người của đội bóng anh  cầu_thủ gốc thổ nhĩ kỳ nói   tôi rất hạnh_phúc khi gia_nhập manchester_city 
+5,khi tôi biết man_city quan_tâm đến tôi  tôi đã nhanh_chóng quyết_định đến với đội bóng này 
+6,tôi hứa sẽ giúp manchester_city có được những thành_công ở mùa giải tới trên cả hai đấu_trường ngoại_hạng anh và champions_league  
+7,hiện_tại  gundogan vẫn đang trong thời_kỳ dưỡng thương và sẽ không_thể tham_dự euro 2016 cùng đt đức 

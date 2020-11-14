@@ -1,0 +1,56 @@
+idx, sentence
+0,buổi hội_thảo đã thu_hút sự quan_tâm tham_gia đến phút cuối của đông_đảo trí_thức  nhà lãnh_đạo  cộng_đồng doanh_nghiệp  chuyên_gia trong và ngoài nước 
+1,đến dự còn có các ông  nguyễn_thành_phong  ủy_viên trung_ương đảng  chủ_tịch ubnd tphcm  nguyễn_ngọc_bảo  phó trưởng ban kinh_tế trung_ương  phạm_chánh_trực  nguyên phó trưởng ban kinh_tế trung_ương  phan_minh_tánh  nguyên trưởng ban dân_vận trung_ương  và bà phạm_phương_thảo  nguyên chủ_tịch hđnd tphcm
+2,các đại_biểu tham_dự đều thống_nhất một tinh_thần chung  năm 2016 là tròn 30 năm kể từ ngày thực_hiện công_cuộc đổi_mới 
+3,30 năm sau  diện_mạo của tp sẽ ra sao  tất_cả tùy thuộc vào hành_động của chúng_ta từ bây_giờ 
+4,chuyện này phải bàn ráo_riết và thực_hiện rốt_ráo  bởi thời_cơ để vươn lên sẽ nhanh_chóng vuột mất nếu không biết nắm_bắt 
+5,cần cơ_chế vượt_trội là người đầu_tiên trình_bày tham_luận  pgsts trần_đình_thiên  viện_trưởng viện kinh_tế việt_nam  nhận_xét tphcm là đầu_tàu mà đang chạy với tốc_độ của  toa tàu 
+6,ông thiên_đặt ra hàng_loạt dấu_chấm_hỏi  “ những tp có cùng  thậm_chí có xuất_phát_điểm thấp hơn tphcm mà nay họ đã vượt lên như singapore  kuala_lumpur  bangkok  dù họ chẳng có lợi_thế vượt_trội gì so với chúng_ta 
+7,có phải vì họ không có lợi_thế gì nên họ vượt được không 
+8,hay họ đã chọn được xu_hướng phát_triển phù_hợp với thời_đại 
+9,phải_chăng các lợi_thế đang kìm_chân chúng_ta  ” 
+10,nói thêm về thể_chế  ông thiên dẫn_chứng  “ tôi có trò_chuyện với bí_thư thành_ủy tp đinh_la_thăng  anh ấy bảo trong này còn nhiều nguồn_lực mạnh 
+11,nguồn nhiều  lực nhiều mà không_thể cựa_quậy nổi 
+12,chỉ cần có cơ_chế thì tp có_thể vượt lên gấp đôi ” 
+13,ông thiên cho rằng động_lực để làm thêm  phát_triển thêm của tp hiện không có 
+14,“ bởi cách phân_bổ ngân_sách chưa hợp_lý 
+15,tp cứ làm thêm được bao_nhiêu cũng bị thu về trên cả thì tiến lên để làm gì  ”  ông thiên nói_thẳng 
+16,ông đề_nghị  “ đừng để tp phải đi xin từng cơ_chế  từng giải_pháp rời_rạc 
+17,bởi cái gì cũng phải xin thì rất khổ 
+18,phải xác_định rõ không phải tp đi xin rồi chờ cả nước ban_ơn 
+19,tạo điều_kiện để tp phát_triển  đó là trách_nhiệm của cả nước với tp  bởi đó là động_lực cho cả nước 
+20,tạo điều_kiện cho đầu_tàu phải là nghĩa_vụ quốc_gia ” 
+21,ông nguyễn_ngọc_bảo cũng cho rằng muốn tp thật_sự tăng_trưởng thì không_thể thiếu cơ_chế vượt_trội  cần đề_xuất trung_ương cho tp những cơ_chế vượt_trội để thật_sự là đầu_tàu và động_lực tăng_trưởng cho các tỉnh phía nam nói_riêng và cả nước nói_chung 
+22,ông huỳnh_thế_du  giám_đốc đào_tạo chương_trình fulbright  nhận_định thêm  đội_ngũ công_chức hiện_tại của tp thiếu động_cơ 
+23,cơ_chế đánh_giá và bổ_nhiệm cán_bộ theo nguyên_tắc chỉ cần “ không sai ” chứ không dựa trên “ hiệu_quả công_việc  không phân_định rõ_ràng trách_nhiệm làm triệt_tiêu khả_năng sáng_tạo  không tạo động_lực thôi_thúc họ nghĩ ra cách làm mới  
+24,công_thức chữ “ h ” và bài_toán “ săn hươu ” có_mặt tại hội_thảo khi vừa đáp chuyến bay từ singapore về tphcm  tiến_sĩ vũ_minh_khương  giảng_viên trường đh quốc_gia singapore  cho biết ông muốn trở_về để góp tiếng_nói  ý_tưởng cho tphcm  một miền đất hào_hiệp  nghĩa_tình 
+25,“ với tphcm  tôi nghĩ nhiều đến những chữ h  đó phải là mảnh đất của hi_vọng  của sự hội_tụ  của các hào_kiệt 
+26,chính đội_ngũ lãnh_đạo của tp phải tạo ra được cảm_hứng để 10 triệu dân tp có chung hi_vọng  để mọi nguồn_lực  mọi hào_kiệt_cùng hội_tụ về đây ”  ông khương hiến_kế 
+27,cụ_thể hơn  ông khương đề ra cái gọi là “ bài_toán săn hươu ” 
+28,ông ví_von  “ săn được hươu  cả đội thợ_săn phải tuân_thủ kỷ_luật nghiêm_ngặt  họ không có quyền nổ_súng khi người đội_trưởng chưa ra hiệu_lệnh 
+29,đó là nguyên_tắc bất_di_bất_dịch 
+30,nếu trong đội chỉ cần có một người vì miếng lợi trước_mắt  vì lợi_ích cá_nhân mà nổ súng ngay khi thấy con thỏ chạy qua thì buổi săn hươu coi như thất_bại ” 
+31,theo ông khương  quản_lý nhà_nước cũng vậy 
+32,chỉ cần trong bộ_máy có người vì lợi_ích cá_nhân mà vi_phạm nguyên_tắc nhưng không bị xử_lý thì sẽ ảnh_hưởng đến lợi_ích chung 
+33,phải làm nghiêm việc này 
+34,ông khương cũng đề_xuất cần minh_định các giá_trị và ứng_xử phù_hợp với giá_trị thật 
+35,đó là nguyên_tắc trong điều_hành  quản_lý 
+36,ông khương hiến_kế thêm  “ tphcm là nơi có nhiều người hoa  đây là cộng_đồng có nhiều kinh_nghiệm trong kinh_doanh mà nếu biết tranh_thủ sẽ tạo thêm sức_mạnh rất lớn cho tp  kéo_theo đó là sự đồng_tình  ủng_hộ của rất nhiều người dân trung_quốc bản_địa ” 
+37,khơi_gợi mọi tiềm_lực để phát_triển với góc nhìn của một nhà_nghiên_cứu độc_lập  ông huỳnh_thế_du cho rằng với quá nhiều “ chiếc vòng kim cô ” trên đầu như lâu_nay  những gì tphcm làm được đã là một nỗ_lực lớn 
+38,“ tuy_nhiên  để nắm_bắt tốt cơ_hội phát_triển  tp phải có đột_phá về tầm nhìn  về chiến_lược và quan_trọng nhất là phải thu_hút được người giỏi  người giàu và doanh_nghiệp ”  ông du nhấn_mạnh 
+39,theo ông du  một trong những trọng_tâm cần làm sắp tới là tập_trung phát_triển bán_đảo thủ_thiêm 
+40,đây sẽ là nơi đặt các trụ_sở quốc_tế phối_hợp hoạt_động của các công_ty toàn_cầu  trung_tâm dịch_vụ tài_chính  ngoài_ra  tp cần tập_trung xây_dựng một hệ_thống giao_thông công_cộng công_suất lớn trên cơ_sở các quy_hoạch hiện_tại 
+41,tp nên hạn_chế việc chỉnh_trang các khu trung_tâm hiện_hữu gây tốn_kém ngân_sách 
+42,ông du cũng nhấn_mạnh vai_trò của liên_kết vùng 
+43,“ nếu không liên_kết vùng thì “ vô_phương ” cho tphcm và cũng là “ vô_phương ” cho cả nước ”  ông du quyết_liệt 
+44,ông võ_quốc_thắng  chủ_tịch hội_đồng_quản_trị đồng_tâm group  cũng chia_sẻ  “ gần đây  rất mừng là lớp lãnh_đạo mới của tp đã có những chuyển_động 
+45,gặp doanh_nghiệp chúng_tôi  câu đầu_tiên mà chủ_tịch nguyễn_thành_phong hỏi là  “ dạo này em có gặp khó_khăn gì không  ” chứ anh không phải hỏi tôi làm_ăn có tốt không 
+46,đây là một sự thay_đổi  một_cách tiếp_cận với nhiều chia_sẻ để tháo_gỡ khó_khăn 
+47,tôi cho đây là bước chuyển hợp_lý  hợp lòng_dân ” 
+48,phát_biểu kết_luận hội_thảo  chủ_tịch ubnd tphcm nguyễn_thành_phong đánh_giá cao những đóng_góp quý_giá trong việc tìm_kiếm các giải_pháp để nâng cao khả_năng cạnh_tranh và môi_trường sống tốt cho tp  từng bước đưa tphcm ngang tầm với các tp khác trong khu_vực 
+49,ông cũng cho rằng lãnh_đạo tp sẽ không ngừng cố_gắng  không phụ lòng tin của người dân tp đối_với sự phát_triển của tp trong tương_lai 
+50, tổng_biên_tập báo tuổi_trẻ tăng_hữu_phong  kỳ_vọng tphcm có những bứt_phá  chuyển_mình mạnh_mẽ câu_chuyện phát_triển tphcm từ nhiều năm qua chưa bao_giờ hết tính thời_sự  nhất_là với các nhà hoạch_định chính_sách  giới chuyên_gia  lãnh_đạo các doanh_nghiệp của tp cũng như hàng triệu người dân tâm_huyết 
+51,từ giữa tháng 22016  báo tuổi_trẻ đã mở chuyên_mục “ dân đặt_hàng lãnh_đạo tphcm ” trên báo tuổi_trẻ online và diễn_đàn “ tphcm  khát_vọng vươn lên ” từ cuối tháng 42016 trên nhật_báo tuổi_trẻ 
+52,đến nay đã có hơn 9500 bài viết  ý_kiến từ chuyên_gia  cựu lãnh_đạo của tphcm  trung_ương  người dân tp  kể_cả người việt đang sinh_sống  làm_việc ở nước_ngoài và người nước_ngoài đang sinh_sống và làm_việc tại việt_nam gửi về 
+53,dù được thể_hiện bằng nhiều hình_thức khác nhau  dưới dạng thư_điện_tử hay được viết tay trên giấy  các ý_kiến này đều có chung tâm_huyết muốn được góp công_sức để không chỉ tphcm mà cả nước sẽ phát_triển mạnh_mẽ hơn  đời_sống người dân cải_thiện nhiều hơn nữa 
+54,trong suốt chặng đường hình_thành và phát_triển  tphcm từng nổi lên như một địa_chỉ có những nhà lãnh_đạo  doanh_nghiệp và người dân mạnh_dạn vượt_rào  đi đầu trong đổi_mới và thật_sự mang lại những thành_tựu phát_triển ấn_tượng cho chính mình và cho cả nước 

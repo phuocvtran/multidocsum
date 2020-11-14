@@ -1,0 +1,7 @@
+idx, sentence
+0,theo ab_inbev  hình_ảnh mới của thương_hiệu sẽ làm nổi_bật những chi_tiết thể_hiện sự cao_cấp và chất_lượng thượng_hạng của budweiser  thông_qua biểu_tượng chiếc nơ  màu đỏ đặc_trưng và kiểu chữ cổ_điển toát lên sự mới_mẻ  hiện_đại  đồng_thời vẫn giữ được nét truyền_thống lâu_đời 
+1,các sản_phẩm budweiser với diện_mạo mới sẽ chính_thức có_mặt trên thị_trường từ ngày 1/6/2016 
+2,ông ricardo_vasques  tổng_giám_đốc công_ty ab inbev việt_nam cho_biết  từ khi chính_thức hoạt_động vào tháng 5/2015  nhà_máy bia ab_inbev đã thành_công trong việc hỗ_trợ công_ty mang hàng triệu lít bia_budweiser và beck’s đến tay người tiêu_dùng tại việt_nam và những quốc_gia châu_á khác  nhờ vào lợi_thế địa_lí chiến_lược của mình 
+3,ab inbev cũng cam_kết sẽ đầu_tư lâu_dài tại thị_trường đầy tiềm_năng như việt_nam nói_riêng và trong khu_vực nói_chung 
+4,cũng tại buổi lễ  ab_inbev đã mang đến một trải_nghiệm đặc_biệt qua việc mô_phỏng nhà_máy bia thu_nhỏ đầy_ắp những nguyên_liệu cao_cấp được tuyển_chọn nghiêm ngăt nhất và tái_hiện trực_quan  sinh_động quy_trình ủ bia độc_đáo duy_nhất của budweiser 
+5,phần dẫn_dắt câu_chuyện “ bí_ẩn ” đằng sau mỗi chai bia để đạt đến hương_vị cân_bằng hoàn_hảo của ông michael_kraemer  chuyên_gia ủ bia toàn_cầu của budweiser đã khiến người tham_dự không khỏi ấn_tượng và mãn nhãn 

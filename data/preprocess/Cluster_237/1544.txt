@@ -1,0 +1,8 @@
+idx, sentence
+0,“ chúng_tôi quan_ngại về việc bảo_vệ những trẻ_em đang đối_mặt với bạo_lực cực_đoan ”  ông peter_hawkins  đại_diện của unicef tại iraq cho biết trong một thông_cáo 
+1,cũng theo ông hawkins  “ trẻ_em đang đối_mặt với nguy_cơ bị tuyển_mộ để tham_gia chiến_đấu ” bên trong tp fallujah và “ chia_cắt với gia_đình ” nếu các em tìm cách chạy trốn 
+2,trước tình_hình này  unicef kêu_gọi tất_cả các bên liên_quan bảo_vệ trẻ_em trong fallujah và mở lối đi an_toàn cho những người muốn rời khỏi thành_phố 
+3,với sự hỗ_trợ của lực_lượng dân_quân người shiite và các cuộc không_kích do liên_quân do mỹ dẫn_đầu thực_hiện  ngày 235  các lực_lượng_vũ_trang iraq đã mở cuộc tấn_công nhằm giành lại tp fallujah 
+4,đây được cho là một trong những trận chiến lớn nhất từng diễn ra để đẩy_lùi is 
+5,cuộc_chiến giành lại fallujah dự_kiến sẽ kéo_dài vì is đã kiểm_soát khu_vực này trong hơn hai năm 
+6,bom được cho là nằm rải_rác khắp fallujah và sự hiện_diện của những người dân bị mắc_kẹt sẽ hạn_chế liên_quân do mỹ dẫn_đầu thực_hiện các cuộc không_kích hỗ_trợ quân_đội iraq 

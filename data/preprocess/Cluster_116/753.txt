@@ -1,0 +1,9 @@
+idx, sentence
+0,ngày 245  tổng_cục thống kế đã công_bố chỉ_số giá tiêu_dùng  cpi  tháng 5 
+1,theo đó  cpi tháng 5 năm tăng 054  so với tháng trước  tính từ đầu năm cpi đã tăng 188  
+2,cpi bình_quân năm_tháng đầu năm 2016 tăng 159  so với cùng kỳ năm_ngoái 
+3,trong 11 nhóm hàng_hóa và dịch_vụ chính  nhóm giao_thông có mức tăng cao nhất ở mức 239   thứ hai là nhóm nhà_ở và vật_liệu xây_dựng tăng 088   đứng thứ ba là nhóm hàng_hóa và dịch_vụ khác tăng 056   8 nhóm hàng còn lại có mức tăng nhẹ 
+4,theo cơ_quan thống_kê  các nguyên_nhân dẫn tới cpi tháng 5 tăng là do chỉ_số giá nhóm lương_thực tăng 068  
+5,cụ_thể  thương_lái thu_gom lúa gạo thực_hiện các hợp_đồng xuất_khẩu gạo đã ký và tác_động của khô hạn  xâm_nhập mặn tại các tỉnh đbscl 
+6,chỉ_số nhóm thực_phẩm tăng 038  chủ_yếu tăng ở nhóm hàng các loại thịt sau khi xảy ra hiện_tượng cá chết tại các tỉnh miền trung  người dân hạn_chế sử_dụng thủy_hải_sản  cùng với việc thương_lái thu_gom lợn hơi để xuất_khẩu sang trung_quốc 
+7,đặc_biệt theo tổng_cục thống_kê  giá xăng tăng 640 đồng / lít  dầu_diesel tăng 1150 đồng / lít vào các ngày 204 và ngày 55 dẫn tới chỉ_số giá nhóm nhiên_liệu tăng 515  so với tháng trước  góp_phần tăng cpi chung khoảng 021  

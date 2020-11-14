@@ -1,0 +1,18 @@
+idx, sentence
+0,hôm 275  cảnh_sát brazil nói rằng đã xác_định và tiến_hành tìm_kiếm 4 trong số hơn 30 người đàn_ông bị_cáo_buộc hiếp_dâm 
+1,đây là vụ_việc diễn ra ở khu ổ_chuột thuộc ngoại_ô thành_phố rio_de_janeiro  brazil   khiến tổng_thống michel_temer  người đang tạm_quyền thay bà dilma_rousseff phải triệu_tập cuộc họp khẩn_cấp với các bộ_trưởng an_ninh  nhấn_mạnh phải xử_lý nghiêm vấn_đề 
+2,“ thật vô_lý trong thế_kỷ 21 mà chúng_ta vẫn phải sống chung với những tội_ác man_rợ thế_này ”  ông temer nói 
+3,vụ hãm_hiếp gây sốc này đã lan_truyền rộng_rãi sau khi một_số tài_khoản twitter đã đăng_tải hình_ảnh và video cô gái trong tình_trạng khỏa_thân  khiến dư_luận sục_sôi 
+4,đặc_biệt  một_số tài_khoản khác trong lúc chia_sẻ thông_tin ấy thậm_chí còn đổ_lỗi cho cô gái và đăng_tải nội_dung châm_biếm  dung_tục thay_vì phẫn_nộ với những kẻ gây ra vụ_việc 
+5,cảnh_sát sau đó vào cuộc và yêu_cầu công_chúng giúp_đỡ  theo_dõi 4 người đàn_ông đã được xác_định  và tìm_kiếm những kẻ còn lại 
+6,một_số thông_tin từ địa_phương cho biết có hơn 800 người đã thành_lập một đường_dây_nóng để chia_sẻ thông_tin  theo ap 
+7,đến nay  nhà_chức_trách mô_tả vụ hiếp_dâm xảy ra vào hôm 215  khi cô gái đến nhà bạn trai nằm trong khu ổ_chuột sao joao  phía tây rio de janeiro 
+8,báo brazil_o’globo dẫn lời nạn_nhân 16 tuổi nói  “ tôi muốn họ thấy công_lý đến từ chúa 
+9,tôi cảm_thấy bọn họ thật là rác_rưởi 
+10,sự sỉ_nhục và kỳ_thị ấy mới khiến tôi cảm_thấy tổn_thương nhất 
+11,những người nói rằng đó là lỗi của tôi  rằng do tôi ăn_mặc thiếu vải 
+12,tôi muốn mọi người biết rằng đó không phải lỗi của phụ_nữ 
+13,bạn không_thể đổ_lỗi cho một nạn_nhân của vụ cướp  cho việc bị cướp được ” 
+14,tại cuộc họp_báo ngày 275  cảnh_sát nói rằng cô gái tố_cáo đã bị 33 người đàn_ông hãm_hiếp và đến hôm sau mới lấy lại ý_thức 
+15,cảnh_sát cũng chưa chắc_chắn về số_lượng người đàn_ông tham_gia vào trò man_rợ ấy và cần phỏng_vấn thêm nghi phạm để xác_nhận 
+16,cậu bạn trai 19 tuổi của cô gái cũng là người đang bị truy_lùng  dù chưa chắc anh ta có góp_phần vào vụ_việc hay không 

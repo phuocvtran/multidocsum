@@ -1,0 +1,5 @@
+idx, sentence
+0,chiều 195  công_an quận thủ_đức  tp hcm   cho biết đang tạm giữ nguyễn_anh_tuấn  sn 1974  ngụ quận bình_thạnh  tphcm  để làm rõ hành_vi  chiếm_đoạt tài_sản  
+1,theo hồ_sơ công_an  vào ngày 22 tài_xế tuấn chở chị nguyễn_thị_diễm_t  sn 1990  từ sân_bay tân_sơn_nhất về phường tam_phú  quận thủ_đức  
+2,khi xe dừng trước nhà  chị thúy đưa cho tài_xế tuấn thẻ visa và đọc mật_khẩu để thanh_toán tiền_cước 210000 đồng 
+3,lúc xuống xe chị t đã để quên chiếc ví tại băng ghế sau trong đó có thẻ visa vừa thanh_toán cước 

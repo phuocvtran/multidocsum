@@ -1,0 +1,3 @@
+idx, sentence
+0,ngày 23 /  trả_lời báo tiền_phong  ông lê_hữu_thống  chi_cục_trưởng chi_cục thi_hành án huyện buôn_đôn  tỉnh đắk_lắk  xác_nhận  ông đặng_văn_ngân  chi_cục_phó chi_cục tha huyện này đã bị cơ_quan điều_tra viện_ksnd_tối_cao về địa_phương bắt tạm giam từ ngày 20/5/2016  để điều_tra về hành_vi “ thiếu tinh_thần trách_nhiệm gây hậu_quả nghiêm_trọng ” 
+1,ông đặng_văn_ngân sinh năm 1962  chức_danh chuyên_môn là chấp_hành viên trung_cấp  đã nhiều lần chuyển công_tác qua các cơ_quan khác nhau trong ngành thi_hành án tỉnh đắk_lắk  trước khi về chi_cục tha huyện buôn_đôn từ tháng 10/2015 

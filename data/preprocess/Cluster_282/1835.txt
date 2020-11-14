@@ -1,0 +1,37 @@
+idx, sentence
+0,nếu_như những tập trong vòng “ lập đội ” của chương_trình “ đấu_trường tiếu_lâm ” khiến người xem cười không_ngớt và thích_thú trước khiếu hài_hước của các thí_sinh dự thi thì vòng “ song đấu ” lại gây thất_vọng 
+1,nguyên_nhân chính là do kịch_bản 
+2,một_số kịch_bản bị đánh_giá nhảm_nhí  thiếu “ chất gây cười ” và không có sự liên_kết 
+3,dù ngay tại sân_khấu các thí_sinh thừa_nhận khả_năng của mình có_hạn hay chưa có kinh_nghiệm diễn_xuất  các giám_khảo thì tỏ ra thất_vọng vì thí_sinh của mình không thuộc bài  quên_thoại  sửa_thoại và tự_ý làm theo ý mình thì vẫn không_thể phủ_nhận có những kịch_bản được xây_dựng quá dở  quá tệ 
+4,bởi với những thí_sinh đã quen_mặt trên sàn_diễn như lê_trang  lê_thị_dần … thì không_thể có lí_do nào khác 
+5,từ đây  một_số khán_giả đánh_giá trình_độ  khả_năng của các hlv 
+6,bị cư_dân mạng chỉ_trích và “ ném đá ” nhiều nhất là giám_khảo trấn_thành 
+7,đạo_diễn đức_thịnh là vị hlv được khen nhiều nhất bởi không ít tiết_mục của thí_sinh trong đội vị giám_khảo này được đánh_giá vừa có yếu_tố gây cười vừa chứa_đựng ý_nghĩa nhân_văn sâu_sắc 
+8,dẫu vậy  mới_đây đạo_diễn đức_thịnh bất_ngờ lên_tiếng phân_trần trước những chỉ_trích rằng kịch_bản từng tiểu_phẩm trong “ đấu_trường tiếu_lâm ” chưa được như mong_đợi 
+9,có_thể nói  đây là lần hiếm_hoi vị đạo_diễn kín_tiếng của showbiz việt lên_tiếng 
+10,trên trang cá_nhân  đức thịnh viết  “ đọc lướt qua các comment của khán_giả khi xem chương_trình thì thấy có khá nhiều thắc_mắc liên_quan đến việc kịch_bản các tiểu_phẩm hài là của ai  của thí_sinh hay của huấn_luyện_viên 
+11,thật_ra chương_trình không qui_định điều này 
+12,tất_cả dựa vào sự bàn_bạc tính_toán chung của thí_sinh và huấn_luyện_viên 
+13,bắt_đầu  thí_sinh sẽ lên ý_tưởng và nội_dung mà họ thích nhất  tất_nhiên là theo từng tiêu_chí của mỗi vòng đấu  
+14,tiếp_theo  nếu nhận thấy ý_tưởng và nội_dung thí_sinh đưa ra tốt  thì huấn_luyện_viên sẽ cùng thí_sinh phát_triển và tập_luyện 
+15,nếu không tốt  huấn_luyện_viên sẽ bàn_bạc cùng thí_sinh để đưa ra ý_tưởng nội_dung khác 
+16,sau khi thống_nhất  thí_sinh sẽ tập rồi huấn_luyện_viên sẽ chuốt lại cho tốt hơn 
+17,một tiểu_phẩm tốt hay chưa tốt đều là công và lỗi cả hai 
+18,tuy_nhiên  thú_thật có những vòng đấu đội đức_thịnh thi_đấu chưa tốt là hoàn_toàn lỗi ở huấn_luyện_viên 
+19,ngay khi họ diễn được khoảng 2 phút đầu tôi đã nhận ra mình sai 
+20,khi nào đến những tập như vậy  tôi sẽ chia_sẻ trên facebook này để thấy lỗi của tôi là gì 
+21,và cũng có những vòng đấu  kịch_bản rất hay nhưng do thí_sinh diễn không tốt  có_thể vì áp_lực tâm_lý  
+22,rất là tiếc 
+23,chuyện này cũng bình_thường 
+24,đứng diễn hài trong một cuộc thi_hài mang tính cá_nhân như đấu_trường tiếu_lâm rất khác với việc thi nhóm 
+25,thí_sinh phải rất bản_lĩnh và đầy năng_lực mới trình_diễn hiệu_quả những gì đã tập_luyện 
+26,mọi người phải hiểu là rất khó 
+27,huấn_luyện_viên chỉ là người dìu_dắt 
+28,khi trình_diễn  một_mình thí_sinh phải đối_diện với tất_cả 
+29,đây là cuộc thi đường dài  có những vòng đấu rất tệ và những vòng đấu thăng_hoa 
+30,có lúc tính đúng  có lúc sai 
+31,nhưng tôi tin  những thí_sinh đi tới vòng cuối_cùng luôn là những người giỏi và  lì_lợm  nhất 
+32,cuối_cùng  nói điều này không phải để chứng_tỏ mình cao_thượng 
+33,riêng ở đội đức_thịnh  không nói ở đội khác nhé   những phần trình_diễn không tốt của thí_sinh hầu_như đều là do lỗi ở huấn_luyện_viên 
+34,chọn concept sai  không hứng_thú với tiêu_chí vòng đấu  chưa hiểu rõ thí_sinh  bận quá thiếu chăm_chút 
+35,nhiều lúc tôi rất muốn xin_lỗi thí_sinh của mình nhưng sợ mọi người nghĩ mình xạo lại thôi ” 

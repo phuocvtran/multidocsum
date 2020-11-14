@@ -1,0 +1,15 @@
+idx, sentence
+0,có_thể bị tấn_công bằng tên lửa đất đối không hãng phân_tích tình_báo stratfor của mỹ nhận_định  máy_bay của egyptair có_thể đã bị tấn_công bởi một tên lửa đất đối không 
+1,“ đây vẫn có_thể là một vụ tấn_công bằng tên lửa đất đối không mặc_dù các phiến_quân ở ai_cập và các khu_vực xung_quanh khó có khả_năng tấn_công máy_bay ở tọa_độ đó ” 
+2,tuy_nhiên  cơ_quan này cũng đưa ra nhiều khả_năng khác nhau  theo stratfor không_thể có chuyện máy_bay trục_trặc kỹ_thuật ở độ cao 11000 m vì trục_trặc này thường chỉ xảy ra lúc cất_cánh hoặc hạ_cánh khi trọng_lực ở mức cao nhất 
+3,tuy_nhiên  không loại_trừ thân máy_bay bị hỏng_hóc 
+4,một giả_thiết khác theo stratfor đó là máy_bay bị gài gom tự chế 
+5,giả_thiết này giống với giả_thiết trong vụ máy_bay chở khách của hãng metrojet  nga  bị rơi ở bán_đảo sinai hồi cuối tháng 10/2015 
+6,tuy không loại_trừ bất_cứ giả_thiết nào dẫn đến việc mất_tích của máy_bay ms804 nhưng giới_chức địa_phương và quốc_tế đều thiên về giả_thiết máy_bay bị tấn_công khủng_bố 
+7,máy_bay mang số_hiệu ms804 của egyptair gặp nạn sáng nay 19/5 khi đang trên đường từ paris đến cairo của ai_cập  mang theo 66 người trong đó chủ_yếu là công_dân ai_cập 
+8,theo thông_tin từ giới_chức hy_lạp  quốc_gia tham_gia điều_tra và tìm_kiếm ms804  ở những thời_khắc cuối_cùng trước khi biến mất khỏi màn_hình radar  máy_bay của egyptair bất_ngờ thực_hiện cú rẽ ngoặt sang phải  sau đó sang trái và hạ độ cao từ trên 11000 m xuống hơn 4500 m rồi 3000 m và biến mất khỏi màn_hình radar 
+9,mảnh vỡ tìm thấy không phải của ms804 trả_lời phỏng_vấn hãng tin cnn  ông ahmed_adel  phó chủ_tịch egyptair  nói rằng những tuyên_bố trước đó của ông rằng đã tìm thấy mảnh vỡ của ms804 là không chính_xác 
+10,“ chúng_tôi xin đính_chính lại thông_tin đã tìm thấy mảnh vỡ bởi cái mà chúng_tôi tìm thấy không phải là của máy_bay ms804 
+11,do_đó chiến_dịch tìm_kiếm  cứu_hộ vẫn tiếp_diễn ”  ông adel nói 
+12,trước đó  giới_chức ai cập tuyên_bố đã tìm thấy những mảnh vỡ lớn của máy_bay egyptair mất_tích 
+13,truyền_hình nhà_nước hy_lạp cũng xác_nhận các mảnh vỡ nghi của máy_bay ms804 được tìm thấy tại vị_trí cách đảo crete chừng 370 km  cùng với những vật_thể màu cam nghi là phao cứu_sinh trên máy_bay 

@@ -1,0 +1,21 @@
+idx, sentence
+0,ngày 12/4  với hành_trang là một chiếc xe_đạp  bếp cồn  một chiếc lều ngủ và vài bộ quần_áo  trần_nguyễn_an_khương  sinh năm 1988  ở cà_mau  bắt_đầu hành_trình đạp xe xuyên việt với mục_đích vận_động người dân hiến tạng 
+1,sau 37 ngày  đạp xe qua 27 tỉnh_thành với 5 triệu đồng trong người  khương tới hà_nội ngày 19/5 
+2,tại trung_tâm điều_phối ghép tạng quốc_gia  khương luôn nở nụ cười  và hạnh_phúc khi việc_làm của mình có_thể góp sức nhỏ_bé vào việc thay_đổi suy_nghĩ của nhiều người  giúp họ biết nhiều hơn về việc ghép tạng  từ đó có_thể giúp được nhiều người hơn nữa 
+3,từ nỗi đau quá lớn khương cho biết  động_lực giúp mình có_thể vượt qua mọi khó_khăn làm điều này là một câu_chuyện buồn 
+4,bạn_thân của anh bị suy thận giai_đoạn cuối 
+5,để có_thể sống tiếp  người bạn này cần phải ghép thận  song điều_kiện không cho_phép và không có nguồn thận để ghép  người bạn này đã ra đi mãi_mãi ở tuổi 24 
+6,là người chứng_kiến tất_cả nỗi đau về thể_xác và sự ra đi tức_tưởi của bạn  khương luôn dằn_vặt và trăn_trở làm_sao để những người khác không phải ra đi khi tuổi_đời còn quá trẻ 
+7,ngay sau đó  chàng trai_trẻ đã mạnh_dạn đến bệnh_viện chợ_rẫy tp hcm đăng_ký hiến mô tạng khi qua_đời 
+8,khương hiểu rõ có rất nhiều mảnh đời bất_hạnh không may mắc trọng_bệnh đang mòn_mỏi chờ nguồn mô tạng hiến  mong hồi_sinh_sự sống 
+9,chàng trai_trẻ hy_vọng  hành_động này có_thể thay_đổi cuộc_sống của những bệnh_nhân như người bạn của mình 
+10,khương còn nghĩ bản_thân cần phải làm_việc gì đó để mọi người có cái nhìn khách_quan và nhân_văn hơn với công_việc đăng_ký hiến tặng mô tạng sau khi qua_đời 
+11,ý_tưởng đạp xe xuyên việt để vận_động mọi người bắt_đầu từ đó 
+12,anh được cả bố và mẹ ủng_hộ 
+13,“ nhiều người gọi tôi là thần_kinh ” để vượt qua chặng đường hơn 3000 km  mỗi ngày chàng thanh_niên này dậy từ 5 h  và kết_thúc lúc 1819 h  trung_bình một ngày đạp xe gần 100 km 
+14,suốt hành_trình đó  khương gặp rất nhiều người  kể cho họ nghe về nỗi đau  sự mất_mát của bản_thân và về những người bệnh nặng đang chờ ghép tạng tại các cơ_sở y_tế  nhiều trong số đó không may_mắn đã qua_đời 
+15,“ nghe tôi tâm_sự  nhiều người cảm_thông và nói rằng sẽ suy_nghĩ lại về việc hiến tặng mô tạng khi qua_đời  song một_số khác lại cho rằng tôi có vấn_đề về thần_kinh ”  khương kể 
+16,ngay khi ra tới hà_nội  khương đã tìm tới trung_tâm điều_phối quốc_gia về ghép tạng để đăng_ký hiến tạng sống  hiến thận khi đang còn sống  pv  khiến nhiều người cảm_phục 
+17,về điều này  giáo_sư trịnh_hồng_sơn  giám_đốc trung_tâm điều_phối quốc_gia về ghép tạng cho hay  mong_muốn và ý_định của khương là một nghĩa_cử cao_đẹp  song để thực_hiện được anh sẽ phải trải qua một cuộc kiểm_tra toàn_diện về sức_khỏe 
+18,nếu mọi chỉ_số cơ_thể đáp_ứng yêu_cầu  sức_khỏe bảo_đảm  khương mới có_thể thực_hiện được mong_muốn 
+19,ngoài_ra  khương cần có thêm sự đồng_ý của gia_đình cho quyết_định này 

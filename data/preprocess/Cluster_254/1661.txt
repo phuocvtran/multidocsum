@@ -1,0 +1,3 @@
+idx, sentence
+0,tờ telegraph giới_thiệu về thủ_đô hà_nội rằng  ẩm_thực hà_nội đủ hấp_dẫn ngay cả với tổng_thống barack_obama … chính tại nơi đây  tổng_thống hoa_kỳ đã thưởng_thức bữa tối là món bún_chả với giá chỉ 6 usd cùng đầu_bếp nổi_tiếng anthony_bourdain 
+1,telegraph còn tư_vấn du_khách nên ăn giống như cách người dân địa_phương thưởng_thức ẩm_thực và thử nếm những món ăn đường_phố như  bún_chả  phở  bánh mỳ kẹp với pa_tê  dưa_chuột  rau_thơm … và sẽ tuyệt hơn nếu du_khách kết_thúc bữa ăn với cốc café truyền_thống hoặc café trứng – một sự pha_trộn độc_đáo giữa café và trứng gà 

@@ -1,0 +1,8 @@
+idx, sentence
+0,nạn_nhân bị chém chết là anh võ_đình_toàn  28 tuổi  trú tại phường cửa_nam  tpvinh  nghệ_an  và 1 người phụ_nữ bị_thương được cấp_cứu tại một bệnh_viện ở nghệ_an 
+1, chúng_tôi vẫn đang tiếp_tục truy bắt nghi phạm nên_danh_tính nghi_phạm sẽ được tiết_lộ cho báo_chí sau   một điều_tra_viên cho hay 
+2,theo thông_tin ban_đầu  khoảng 13 giờ ngày 26  anh toàn đến dự đám giỗ của gia_đình người quen trên đường đặng_văn_thụy  khối 15  phường cửa_nam  tpvinh
+3,tại đây  anh toàn mâu_thuẫn với một nam thanh_niên khác cũng đến dự đám giỗ  nên cả hai xảy ra cãi_cọ 
+4,trong lúc xô_xát  nam thanh_niên này bất_ngờ dùng dao chém trọng_thương anh toàn và một người phụ_nữ ngồi cùng bàn  rồi bỏ trốn khỏi hiện_trường 
+5,anh toàn và người phụ_nữ được đưa đi cấp_cứu trong tình_trạng bị_thương với nhiều vết chém trên cơ_thể 
+6,đến khoảng 21 giờ 30 phút ngày 26  anh toàn tử_vong tại bệnh_viện do vết_thương quá nặng 

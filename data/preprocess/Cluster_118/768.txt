@@ -1,0 +1,15 @@
+idx, sentence
+0,không chỉ là một nữ diễn_viên đoạt giải oscar  mà angelina_jolie còn vừa được bổ_nhiệm làm giáo_sư thỉnh_giảng tại trường kinh_tế london  một trong những ngôi trường danh_giá nhất nước anh 
+1,cô sẽ cùng william_hague  cựu bộ_trưởng ngoại_giao anh  tham_gia giảng_dạy cho các sinh_viên khóa thạc_sĩ tại trung_tâm phụ_nữ  hòa bình và an_ninh của trường này 
+2,ở các nước âu_mỹ  giáo_sư là một chức_vụ giảng_dạy  thường do các trường đại_học tự chọn_lựa và quyết_định 
+3,angelina jolie vốn là đại_sứ đặc_biệt của cao_ủy liên_hiệp_quốc về người tị_nạn 
+4,cô đã nhiều lần lên_tiếng vì quyền_lợi của người tị_nạn  và chống lại nạn bạo_lực tình_dục trong chiến_tranh 
+5,cô nói   tôi cảm_thấy rất được khuyến_khích bởi việc tạo ra chương_trình giảng_dạy này 
+6,tôi hy_vọng những tổ_chức giáo_dục khác sẽ làm theo  vì chúng_ta cần thảo_luận về việc nâng cao nữ_quyền và chấm_dứt tình_trạng những tội_ác ảnh_hưởng đến phụ_nữ không bị trừng_phạt  như bạo_lực tình_dục trong chiến_tranh 
+7,tôi mong_chờ được giảng_dạy và học_hỏi từ các sinh_viên  cũng như chia_sẻ kinh_nghiệm của mình khi làm_việc với các chính_phủ và liên_hiệp_quốc  
+8,angelina jolie trước đây từng theo học trường trung_học_beverley_hills và moreno ở california 
+9,khi học ở trường moreno  cô theo phong_cách punk nổi_loạn  mặc đồ đen và xăm_mình 
+10,angelina tốt_nghiệp trung_học ở tuổi 16  rồi bắt_đầu sự_nghiệp diễn_xuất 
+11,cuối thập_niên 1990  cô tạm ngừng diễn_xuất để tham_gia khóa học đạo_diễn và biên kịch tại đại_học new_york  sau đó trở_lại và nhận những vai diễn đình_đám trong các phim hollywood 
+12,trong khi đó  hôm 22/5 vừa_qua  brad_pitt đã ra_tay giúp một bé gái leo qua hàng_rào khi cô bé này bị kẹt giữa đám đông chen_lấn tại phim_trường  allied  ở tây ban_nha 
+13,được biết  khi đó có rất nhiều người hâm_mộ tụ_tập để nhìn thấy nam tài_tử  nên dẫn đến cảnh chen_lấn 

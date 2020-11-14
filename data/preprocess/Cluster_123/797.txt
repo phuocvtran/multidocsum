@@ -1,0 +1,5 @@
+idx, sentence
+0,đặc_biệt  dấu mốc 1 triệu xe hybrid bán ra gần đây đã đạt được chỉ trong thời_gian 9 tháng 
+1,giúp làm giảm_thiểu các tác_động xấu tới môi_trường là một trong những ưu_tiên hàng_đầu của toyota 
+2,theo đó  các mẫu xe thân_thiện với môi_trường chỉ thực_sự có tác_động tích_cực đến cuộc_sống của chúng_ta nếu chúng được sử_dụng rộng_rãi 
+3,vì_vậy  toyota đã không ngừng nỗ_lực giới_thiệu hàng_loạt các mẫu xe lai hybrid ra thị_trường 

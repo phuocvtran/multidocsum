@@ -1,0 +1,10 @@
+idx, sentence
+0,“ từ tận đáy lòng mình  tôi xin gửi lời xin_lỗi tới người dân tokyo và hội_đồng thành_phố ”  ông masuzoe nói trong bài phát_biểu tại cơ_quan lập_pháp địa_phương 
+1,sau đó  thị_trưởng tokyo đã cúi gập đầu để nhận_lỗi trước người dân 
+2,ông masuzoe cam_kết từ bây_giờ sẽ không sử_dụng dịch_vụ hạng thương_gia trong các chuyến bay và cắt_giảm các khoản chi trong các chuyến công_tác 
+3,ông cũng nhờ luật_sư kiểm_tra lại các khoản chi từ nguồn quỹ công mà ông đã sử_dụng trước đây và hứa sẽ trả lại số tiền vi_phạm 
+4,thị_trưởng masuzoe  67 tuổi  trước đó đã phải đối_mặt với làn_sóng phản_ứng dữ_dội từ người dân nhật_bản về những khoản chi mạnh_tay của ông trong những chuyến công_tác nước_ngoài  những thương_vụ mua_bán đấu_giá qua mạng và những hoạt_động nghỉ_ngơi tại các khách_sạn và khu nghỉ_dưỡng cao_cấp 
+5,ông masuzoe bắt_đầu vấp phải sự chỉ_trích từ cuối 4 sau khi xuất_hiện thông_tin ông đã chi 200 triệu yên  tương_đương 18 triệu usd  cho 8 chuyến đi nước_ngoài trong vòng 2 năm kể từ khi ông bắt_đầu nhận chức thị_trưởng tokyo năm 2014 
+6,ngay sau đó  có nguồn tin tiết_lộ rằng ông đã sử_dụng xe công_vụ quá thường_xuyên  tới 48 lần chỉ trong một năm từ tháng 4/2015 đến nay  để đi về quê ở yugawara  một khu nghỉ_dưỡng suối_nước_nóng ở tỉnh kanagawa 
+7,trong năm 2015  một chuyến đi kéo_dài một tuần tới paris  pháp  và london  anh  của đoàn đại_biểu do thị_trưởng masuzoe dẫn_đầu để chuẩn_bị cho thế_vận_hội olympic_tokyo năm 2020 đã tiêu tốn khoảng 50 triệu yên  tương_đương 460000 usd   đủ để mua một căn_hộ mới ở trung_tâm tokyo 
+8,ông còn bị_cáo_buộc sử_dụng tiền quỹ  trong đó có các khoản quyên_góp từ các nhà tài_trợ và tiền thuế do chính_phủ cấp  để mua nhiều đồ_dùng cá_nhân 

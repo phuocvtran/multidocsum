@@ -1,0 +1,8 @@
+idx, sentence
+0,zlatan ibrahimovic đang trên đường tới sân old_trafford  sau khi mourinho chuẩn_bị được bổ_nhiệm thay van_gaal ngồi  ghế nóng  
+1,theo tờ mirror  tay săn bàn 34 tuổi đã đồng_ý ký 1 năm cho mu cùng lựa_chọn thêm 1 mùa  nhận lương 250000 bảng / tuần 
+2,ibrahimovic muốn hoàn_tất hợp_đồng sớm  trước khi vck_euro 2016 khởi_tranh 
+3,sau khi khép lại mùa giải cuối_cùng không_thể ấn_tượng hơn với psg  với cú đúp danh_hiệu và bản_thân giành vua phá lưới ligue 1  38 bàn   50 bàn trên mọi mặt_trận 
+4,hôm_qua  24/5   ibrahimovic đã được nhìn thấy cưỡi siêu xe cực xịn đến nơi đóng_quân của thụy_điển  ở stockholm 
+5,đó là chiếc porsche 918 spyder  một trong những chiếc xe_hơi độc_đáo  đắt nhất tại mỹ 2015  có giá lên tới 965000 usd 
+6,đây là siêu xe có động_cơ mạnh_mẽ  được thiết_kế như xe đua  có công_suất tổng_hợp 887 mã_lực 

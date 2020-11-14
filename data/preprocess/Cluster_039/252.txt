@@ -1,0 +1,7 @@
+idx, sentence
+0,công_an quận thủ_đức  tp hcm  vừa tạm giữ nguyễn_anh_tuấn  42 tuổi  ngụ quận bình_thạnh  tphcm  để làm rõ hành_vi chiếm_đoạt tài_sản 
+1,theo thông_tin ban_đầu  ngày 2/2  tuấn lái taxi chở chị thúy  26 tuổi  từ sân_bay tân_sơn_nhất về phường tam_phú  quận thủ_đức 
+2,khi xe dừng trước nhà  chị thúy đưa thẻ visa cho tài_xế  đồng_thời đọc mật_khẩu để thanh_toán cước_phí vận_chuyển hơn 200000 đồng 
+3,khi xuống xe  vị khách nữ để quên ví ở băng ghế sau  trong có chiếc thẻ visa vừa thanh_toán cước 
+4,về giao_ca  tài_xế tuấn phát_hiện khách để quên tài_sản đã nổi lòng_tham 
+5,anh ta mang thẻ visa của thúy đi rút 34 triệu đồng 

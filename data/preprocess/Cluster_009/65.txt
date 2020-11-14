@@ -1,0 +1,10 @@
+idx, sentence
+0,theo hãng tin ap  các vụ nổ xảy ra tại căn_cứ quân_sự mỹ_camp_carroll  cách thủ_đô seoul khoảng 280 km về phía đông_nam 
+1,thông_tin ban_đầu cho thấy 1 tòa nhà nằm trong khu quân_sự đã bị hư_hại 
+2,truyền_thông hàn_quốc đăng_tải chùm ảnh tòa nhà này bị lửa_táp cháy xém do nằm gần 1 trong các bình oxy phát_nổ 
+3,18 xe cứu_hỏa được điều tới hiện_trường  dập_tắt đám cháy trong vòng chưa đầy 1 giờ 
+4,theo lực_lượng cứu_hỏa địa_phương  các mảnh vỡ bay tung tóe  rơi cả vào một ngôi làng nông_nghiệp gần đó làm bùng lên nhiều đám cháy khác 
+5,một quan_chức bộ an_ninh và an_toàn công_cộng hàn_quốc giấu tên tiết_lộ mỗi bình chứa oxy nặng khoảng 50 kg 
+6,ngoài 20 bình lớn  một số_lượng các bình oxy nhỏ không xác_định cũng đã phát_nổ 
+7,hiện chưa ghi_nhận về thương_vong trong vụ_hỏa_hoạn này 
+8,một cư_dân địa_phương nói với kênh_truyền_hình ytn rằng ngôi nhà của ông – nằm cách căn_cứ mỹ khoảng 200  300 m – đã rung lên bần_bật sau một loạt tiếng nổ lớn 

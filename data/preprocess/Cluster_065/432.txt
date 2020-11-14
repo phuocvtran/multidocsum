@@ -1,0 +1,22 @@
+idx, sentence
+0,đối_với cả bayern và dortmund thì đây là một trận chung_kết có ý_nghĩa quan_trọng 
+1,trong khi bayern cần một chiếc cúp để chia_tay pep_guardiola thì phía dortmund cũng rất muốn giải cơn khát danh_hiệu kéo_dài từ 2012 tới nay 
+2,ngoài_ra  đây cũng là cơ_hội để hlv thomas_tuchel giành danh_hiệu đầu_tiên trong sự_nghiệp huấn_luyện 
+3,có_lẽ cũng chính vì tính_chất đặc_biệt quan_trọng của trận đấu mà cả bayern lẫn dortmund đều dành cho đối_thủ một sự tôn_trọng nhất_định 
+4,trận chung_kết cúp qg đức cũng vì_thế diễn ra trong một thế_trận đầy toan_tính của cả 2 bên 
+5,bayern như thường_lệ vẫn là đội bóng làm_chủ thế_trận 
+6,trong thế_trận như vậy  cầu_thủ chơi nổi_bật nhất trên sân không ai khác lại là nhân_vật trung_tâm của trận đấu  mats_hummels 
+7,trung_vệ đội_trưởng của dortmund sẽ chuyển sang đầu_quân cho bayern ở mùa tới chính là cầu_thủ đạt tỷ_lệ thắng trong các pha tranh_chấp tay đôi cao nhất trên sân  với 714  thắng 
+8,bước sang hiệp 2  cả 2 đội đã chơi cởi_mở hơn 
+9,những cơ_hội rõ_ràng cũng vì_thế xuất_hiện đều_đặn hơn và bayern vẫn là đội chiếm ưu_thế 
+10,phút 52  ribery bắt volley từ chếch bên cánh phải để lewandowski tung người đệm_bóng nhưng lại chệch khung gỗ trong gang_tấc 
+11,phút 64  mueller thoát xuống thuận_lợi  chuyền cho lewandowski nhưng ngôi_sao người ba_lan lại dứt_điểm vọt xà 
+12,tới phút 75  ribery dứt_điểm đưa bóng đập chân một cầu_thủ áo_vàng nhưng thủ_thành burki vẫn kịp_thời cản_phá 
+13,phía dortmund cũng có những tình_huống phản_công khá đáng_kể nhưng không tận_dụng được 
+14,chính những cơ_hội không được tận_dụng khiến cho bayern và dortmund phải bước sang những hiệp phụ 
+15,thế_trận chặt_chẽ tiếp_tục được hai tái_lập 
+16,cơ_hội đáng_kể nhất trong 2 hiệp phụ là tình_huống lewandowksi đối_mặt burki nhưng cú ra chân của tiền_đạo này lại bị hậu_vệ piszczek xuất_thần hóa_giải 
+17,điều đó buộc cả 2 đội phải bước vào loạt sút luân_lưu cân_não 
+18,trong loạt đấu_súng  các cầu_thủ bayern với bản_lĩnh tốt hơn đã giành chiến_thắng với tỷ_số 43 để lần thứ 18 giành chức vô_địch cúp qg_đức 
+19,đây được xem là một món quà chia_tay ý_nghĩa của pep dành cho bayern  chấm_dứt một triều_đại tại đội bóng xứ bavaria 
+20,đội_hình thi_đấu bayern  neuer  lahm  boateng  kimmich  alaba  thiago  vidal  costa  müller  ribéry  coman 108    lewandowski 

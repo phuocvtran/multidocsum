@@ -1,0 +1,12 @@
+idx, sentence
+0, tôi không phải người thích phô_trương 
+1,nhưng tôi có_thể khẳng_định sẽ chuyển toàn_bộ tài_sản của mình làm từ_thiện 
+2,tôi không có kế_hoạch để lại bất_cứ cái gì cho con_cái đâu   fridman cho biết trong một sự_kiện dành riêng cho người giàu tuần này 
+3,ông giải_thích rằng đưa người trẻ một_số tiền lớn có_thể sẽ hủy_hoại đời họ 
+4,ông cũng không muốn con_cái tham_gia hoạt_động trong alfa_group của mình 
+5,fridman muốn con_cái tiếp bước mình và tạo ra cơ_nghiệp của riêng họ 
+6,một lý_do khác là ông không muốn con_gái lớn  laura  22 tuổi  trở_thành mục_tiêu của những kẻ có ý_đồ xấu 
+7,tài_phiệt có 4 người con  nhỏ nhất mới 10 tuổi 
+8,forbes ước_tính tỷ_phú 52 tuổi này hiện có 142 tỷ usd  là người giàu nhì_nga và thứ 63 thế_giới 
+9,ông là đồng sáng_lập kiêm chủ_tịch tập_đoàn đa_ngành alfa_group  có nhà_băng tư_nhân lớn nhất nga  alfa_bank  tập_đoàn bán_lẻ x5_retail  có chuỗi siêu_thị tại nga 
+10,ông cũng có cổ_phần trong kênh_truyền_hình a1_tv_channel và công_ty đầu_tư letterone 

@@ -1,0 +1,10 @@
+idx, sentence
+0,tờ guardian của anh mới_đây đưa tin  nữ diễn_viên angelina_jolie vừa được học_viện kinh_tế london bổ_nhiệm làm giáo_sư thỉnh_giảng  giảng_dạy trong một khoảng thời_gian ngắn  vào năm tới 
+1,cụ_thể  minh_tinh 40 tuổi sẽ đứng lớp tại một khóa thạc_sĩ giảng_dạy về nữ_giới  hòa_bình và an_ninh 
+2,khóa học này được điều_hành bởi trung_tâm phụ_nữ  hòa bình và an_ninh của trường  được angelina và william_hague  cựu bộ_trưởng ngoại_giao của anh mở ra vào năm 2015 
+3,“ mục_đích của chúng_tôi là mở_rộng thảo_luận về cách_thức thúc_đẩy quyền_lợi của phụ_nữ và chấm_dứt việc miễn hình_phạt cho những tội_ác bất_công gây ảnh_hưởng đến phụ_nữ  ví_dụ như bạo_lực tình_dục trong xung_đột ” – angelina_jolie nói với guardian qua tư_cách đặc_phái_viên của cao_ủy liên_hiệp_quốc về người tị_nạn vào hôm 23/5 
+4,“ tôi hướng tới việc giảng_dạy và học_hỏi lại từ các sinh_viên cũng như chia_sẻ những kinh_nghiệm cá_nhân khi làm_việc với các chính_phủ và liên_hợp_quốc ” – nữ diễn_viên nói tiếp 
+5,đồng_hành giảng_dạy với angelina là cựu bộ_trưởng ngoại_giao anh william_hague 
+6,cả hai sẽ đứng lớp ít_nhất 1 lần 1 năm tùy thuộc vào lịch_trình công_việc cũng như theo thoả_thuận với giám_đốc trung_tâm 
+7,với vai_trò mới này  angelina sẽ không được trả lương 
+8,cô sẽ có những bài_giảng  hội_thảo và nghiên_cứu 

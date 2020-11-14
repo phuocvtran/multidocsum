@@ -1,0 +1,34 @@
+idx, sentence
+0,lớp có 60 học_sinh thì có 60 giấy_khen và vô_số các kiểu khen lạ_tai  những nội_dung khen mà phụ_huynh đọc xong không hiểu gì cả 
+1,“ đạt danh_hiệu học_sinh khen từng mặt ” thông_tư 30 về đổi_mới đánh_giá học_sinh tiểu_học đã xóa bỏ cách xếp loại học_sinh theo danh_hiệu khá  giỏi như quy_định cứng trước đây 
+2,học_sinh sẽ được giáo_viên nhận_xét  đánh_giá suốt quá_trình theo hướng khuyến_khích  khen những mặt cụ_thể học_sinh làm tốt  không nhất_thiết phải “ tốt toàn_diện ” mới khen 
+3,điều này được bộ_gdđt khẳng_định là yếu_tố nhân_văn của thông_tư 30 
+4,thế nhưng  đã qua mấy mùa thực_hiện  mà mỗi lần khen không chỉ giáo_viên tiểu_học phải đánh_vật với xấp giấy_khen để tìm ra lời_khen khác_biệt và xác_đáng  mà cả phụ_huynh  học_sinh cũng đầy những tâm_tư  băn_khoăn không ít khi nhận những giấy_khen ấy 
+5,một tấm giấy_khen của học_sinh lớp 1 trường tiểu_học tân_phương  ứng_hòa  hà_nội được đưa lên diễn_đàn giáo_viên tiểu_học thu_hút khá nhiều bình_luận của giáo_viên  phụ_huynh 
+6,nội_dung giấy_khen ghi “ đạt danh_hiệu học_sinh khen từng mặt ” 
+7,trao_đổi với tuổi_trẻ  bà dương_thị_nụ  phó_hiệu_trưởng trường tiểu_học tân_phương  cho biết cách khen như thế này là theo tinh_thần của thông_tư 30 
+8,“ thông_tư 30 để mở cho các trường linh_hoạt trong việc ghi nội_dung khen_thưởng học_sinh 
+9,vì_thế  cách khen như thế_nào do mỗi trường quy_định 
+10,lãnh_đạo trường tôi thống_nhất hai nội_dung khen  “ khen toàn_diện ”  đối_với học_sinh đạt thành_tích học_tập  rèn_luyện tốt mọi mặt  và “ khen từng mặt ”  đối_với học_sinh đạt thành_tích tốt một_mặt nào đó  
+11,cách thay_đổi như thế_này  theo chúng_tôi hiểu là giảm áp_lực thành_tích từ phía phụ_huynh  cũng giảm căng_thẳng cho học_sinh 
+12,việc khen chỉ mang tính động_viên  khích_lệ các con thôi ”  bà nụ chia_sẻ 
+13,“ tại_sao với những học_sinh đạt thành_tích tốt từng mặt không ghi cụ_thể hơn 
+14,ví_dụ “ đạt thành_tích tốt môn toán  môn tiếng việt  có tính kỷ_luật tốt  biết chia_sẻ  giúp_đỡ bạn_bè   ”  chúng_tôi thắc_mắc 
+15,trả_lời câu_hỏi này  bà nụ cho biết  “ mảng “ khen ” là một trong những mảng việc khiến giáo_viên tiểu_học thời_điểm này mất nhiều thời_gian 
+16,chưa kể phải ghi_nhận_xét học_bạ theo thông_tư 30 
+17,ban giám_hiệu nhà_trường sợ giáo_viên sơ_suất  để xảy ra những nhầm_lẫn  sai_sót nếu phải “ cụ_thể_hóa ” từng trường_hợp 
+18,bởi_vậy chỉ thống_nhất hai nội_dung  khen toàn_diện và khen từng mặt  ” 
+19,theo_dõi và khen những tiến_bộ  dù chỉ là một_mặt nào đó của học_sinh  khích_lệ  động_viên học_sinh nỗ_lực là định_hướng đúng 
+20,tuy_nhiên  những danh_hiệu được linh_hoạt kiểu này thì phụ_huynh cũng bó_tay vì sự rối_rắm  mù_mờ về nghĩa 
+21,chia_sẻ với nhiều phụ_huynh có con học tiểu_học thời_điểm này  chúng_tôi cũng nhận được những băn_khoăn  phiền_muộn với cách khen “ lạ ” 
+22,một phụ_huynh ở nam_định cho biết lời khen vừa dài vừa trúc_trắc  khó hiểu  ví_dụ như “ đạt thành_tích tốt nội_dung học_tập các môn_học và phát_triển năng_lực  phẩm_chất ”  phát_biểu về tình_trạng giấy_khen “ trăm hoa đua nở ”  nhiều phụ_huynh bày_tỏ sự không đồng_tình 
+23,“ khen tràn_lan như vậy thì không còn sự trang_trọng  thiêng_liêng khi mỗi học_sinh được nhận tấm giấy khen vào lúc kết_thúc năm_học ”  một phụ_huynh có con học trường tiểu_học nguyễn_trãi  hà_nội nói 
+24,“ khích_lệ  động_viên là việc cần 
+25,nhưng từ chỉ_đạo “ tăng_cường khích_lệ  động_viên ” mà sáng_tạo ra nhiều kiểu “ danh_hiệu ” lạ như thế thì mệt lắm ”  một phụ_huynh khác ở hà_nội bức_xúc 
+26,nỗi khổ của giáo_viên trong một phiên họp phụ_huynh cuối năm  cô_giáo chủ_nhiệm một trường tiểu_học ở quận_hai_bà_trưng  hà_nội phân_trần  “ tôi đã nghe một_số phụ_huynh bàn_tán sau buổi họp phụ_huynh của lớp khác rằng  danh_hiệu “ hoàn_thành tốt nhiệm_vụ ” và “ hoàn_thành xuất_sắc nhiệm_vụ ” tương_đương với mức nào trước đây 
+27,nhiều phụ_huynh phản_ứng thái quá và thiếu sự cảm_thông với những lời khen lạ_tai ” 
+28,theo cô_giáo  để nhận_xét đủ cho 55 học_sinh lớp 5  kịp trả học_bạ cho các em trong buổi họp phụ_huynh cuối năm  cô_giáo đã dành thời_gian cả tuần  phải tranh_thủ cả giờ_nghỉ giải_lao  thức đêm để làm  “ mất_công_sức đã đành  nhưng tôi khổ nhất là việc viết nhận_xét  viết lời khen 
+29,bởi nếu rập_khuôn giống nhau thì không phải tinh_thần đổi_mới  mà nhận_xét từng học_sinh để có sự khác_biệt cũng rất khó  khi không phải học_sinh nào cũng có điểm nổi_trội  có thành_tích đặc_biệt 
+30,vì_thế  có những học_sinh nhận được lời khen trung_tính cũng là việc bất_khả_kháng ”  cô_giáo này cho biết 
+31,một_số giáo_viên tiểu_học thừa_nhận để tránh cho phụ_huynh bức_xúc  thầy_cô đã phải dành thời_gian để “ quy_đổi ” lời khen 
+32,ví_dụ “ hoàn_thành xuất_sắc nhiệm_vụ ” tương_đương với danh_hiệu học_sinh giỏi  “ hoàn_thành nhiệm_vụ ” tương_đương với học_sinh tiên_tiến  xoay_quanh những rắc_rối về lời_khen  nhiều hiệu_trưởng  giáo_viên tiểu_học cho rằng họ đang chịu áp_lực rất nhiều từ phụ_huynh  khi thói_quen “ có danh_hiệu ” với những lời khen quen_thuộc đã quá ăn sâu vào suy_nghĩ của nhiều người 

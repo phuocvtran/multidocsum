@@ -1,0 +1,11 @@
+idx, sentence
+0,chiều 205  tại hà_nội  trung_tâm giáo_dục thiên_nhiên  env   tổ_chức bảo_vệ tê_giác thế_giới  sri  và diễn_viên hollywood_paul_blackthorne phối_hợp tổ_chức họp_báo và toạ_đàm cùng hơn 500 sinh_viên trường đại_học thăng_long để mở_màn chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác  ” 
+1,phát_biểu tại họp_báo  nam diễn_viên paul_blackthorne cho biết  hiện_nay  việt_nam là một trong những thị_trường tiêu_thụ tê_giác lớn nhất thế_giới 
+2,niềm tin mù_quáng vào việc sử_dụng sừng tê_giác để chữa bệnh và thể_hiện đẳng_cấp khiến nhu_cầu tiêu_thụ ngày_một gia_tăng 
+3,năm 2010  cá_thể tê_giác java cuối_cùng tại việt_nam đã bị giết để lấy sừng 
+4,ước_tính mỗi ngày lại có ba cá_thể tê_giác bị sát_hại ở nam_phi 
+5,theo tổ_chức bảo_tồn thiên_nhiên quốc_tế  iucn   nếu tình_trạng săn_bắn tê_giác tiếp_tục diễn ra như hiện_nay thì tê_giác có_thể sẽ bị tuyệt_chủng vào năm 2026 
+6,nam diễn_viên nhấn_mạnh  “ loài tê_giác đang đứng bên bờ vực tuyệt_chủng bởi lòng_tham và sự thiếu hiểu_biết của nhiều người 
+7,tôi chọn việt_nam là điểm dừng chân bởi_lẽ đây là một điểm_nóng về tiêu_thụ sừng tê_giác ” 
+8,bà susie_offord_–_woolley  phó_giám_đốc tổ_chức sri cho hay  bảo_vệ loài tê_giác là trách_nhiệm toàn_cầu 
+9,nếu chúng_ta cùng chung sức có_thể mang lại một tương_lai tốt_đẹp hơn cho loài tê_giác 

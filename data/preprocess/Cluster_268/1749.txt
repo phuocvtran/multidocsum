@@ -1,0 +1,9 @@
+idx, sentence
+0,bé yana_kleshova  4 tuổi  đã bất_ngờ bật khóc khi gia_đình em đang đứng trên sân_khấu nhận giải_thưởng từ tổng_thống putin 
+1,trước khoảnh_khắc bất_ngờ đó  tổng_thống putin đã ngồi xuống  xoa nhẹ vào má cô bé để an_ủi 
+2,mặc_dù vậy  cô bé yana vẫn không ngừng khóc và chạy tới nép vào người mẹ 
+3,ông putin sau đó tiếp_tục ngồi xuống và chỉ tay vào ống_kính máy_ảnh bên dưới nhưng yana vẫn tiếp_tục khóc 
+4,rốt_cuộc tổng_thống nga đành đứng dậy  đưa tay ôm mặt tỏ ý “ chịu_thua ” 
+5,yana là thành_viên nhỏ_tuổi nhất trong gia_đình 
+6,cô bé cùng các anh_chị và bố_mẹ tới nhận giải_thưởng vinh_danh các bậc cha_mẹ tại điện kremlin trong ngày quốc_tế thiếu_nhi 1/6 
+7,đây là giải_thưởng của chính_phủ nga dành cho những bậc phụ_huynh sinh_thành và nuôi_nấng từ 7 người con trở_lên nhưng vẫn đảm_bảo việc chăm_sóc sức_khỏe  y_tế  giáo_dục  cũng như phát_triển trí_tuệ và đạo_đức cho con_em mình 

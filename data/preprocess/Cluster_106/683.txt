@@ -1,0 +1,10 @@
+idx, sentence
+0,ngày 23/5  giới_chức thái_lan cho biết ít_nhất 17 nữ_sinh đã thiệt_mạng trong một vụ hỏa_hoạn xảy ra ở ký_túc_xá trường pithakkiart_witthaya vào đêm 22/5 tại huyện wiang_pa_pao  thuộc tỉnh chiang_rai miền bắc nước này 
+1,phát_biểu với báo_giới  đại_tá cảnh_sát prayad_singsin tỉnh chiang_rai cho biết vụ_việc xảy ra vào lúc 23 giờ theo giờ_địa_phương  16 giờ_gmt  
+2,ngoài 17 nạn_nhân thiệt_mạng còn có 2 người mất_tích và 5 người bị_thương  trong đó 2 người hiện trong tình_trạng nguy_kịch 
+3,đám cháy đã được dập_tắt 
+4,nguyên_nhân vụ_việc đang được điều_tra 
+5,giới_chức tỉnh chiang_rai đã xác_nhận thông_tin trên  đồng_thời cho biết các học_sinh thiệt_mạng ở độ tuổi từ 613 
+6,khi hỏa_hoạn xảy ra có tất_cả 38 học_sinh đang ở trong ký_túc_xá 
+7,phần_lớn các học_sinh này đến từ các bộ_tộc nghèo sống ở vùng núi về thị_trấn học 
+8,hỏa_hoạn xảy ra vào ban_đêm nên nhiều học_sinh đang ngủ say không kịp chạy_thoát 

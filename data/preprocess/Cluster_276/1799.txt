@@ -1,0 +1,13 @@
+idx, sentence
+0,nữ tỷ_phú elizabeth_holmes  32 tuổi  rất nổi_tiếng tại mỹ  từng được coi là steve_jobs thứ 2  vì cô có khả_năng thay_đổi cả ngành y_tế  như cách steve_jobs thay_đổi ngành điện_thoại_di_động 
+1,từng đứng đầu danh_sách của forbes về những phụ_nữ giàu nhất nước mỹ năm 2015  nhưng giờ_đây elizabeth_holmes bị xóa tên khỏi danh_sách này sau khi thông_tin tài_sản cá_nhân của cô thay_đổi từ 45 tỷ usd thành con_số 0 tròn_trĩnh 
+2,elizabeth holmes_sinh năm 1984 
+3,cô bỏ học giữa_chừng ở đại_học stanford và thành_lập công_ty theranos chuyên về xét_nghiệm máu năm 2003 khi mới 19 tuổi 
+4,elizabeth_holmes đã huy_động thành_công hàng triệu usd với tuyên_bố công_nghệ của mình có_thể xử_lý nhanh_chóng hàng_loạt xét_nghiệm chỉ từ vài giọt máu 
+5,năm_ngoái  cô xếp vị_trí đầu_tiên trên bảng xếp_hạng những phụ_nữ giàu nhất nước mỹ năm 2015 với khối tài_sản ước_tính 45 tỷ usd 
+6,forbes định_giá lại công_ty theranos của elizabeth_holmes do các vụ điều_tra và cáo_buộc gần đây với công_ty này  từ các cuộc trò_chuyện với giới phân_tích và chuyên_gia đầu_tư  forbes cho rằng công_ty này chỉ đáng_giá 800 triệu usd mặc_dù trước đó  giá_trị của theranos được ước_tính lên tới 9 tỷ usd 
+7,theo forbes  thông_tin tài_sản của elizabeth_holmes được định_giá dựa trên 50  cổ_phần của cô tại công_ty theranos 
+8,cổ_phiếu theranos không được giao_dịch đại_chúng trên bất_kỳ sàn chứng_khoán nào 
+9,do_đó  forbes ước_tính tài_sản theo mức giá cổ_phần nhà_đầu_tư tư_nhân mua vào năm 2014 thì giá_trị công_ty là 9 tỷ usd 
+10,tuy_nhiên sau đó  theranos bị_cáo_buộc đưa ra kết_quả xét_nghiệm không chính_xác và đã bị cơ_quan_chức_năng vào_cuộc điều_tra 
+11,thông_tin mới_đây cho thấy  doanh_thu hàng năm của công_ty này chưa đến 100 triệu usd khiến forbes quyết_định hạ giá_trị tài_sản ước_tính của elizabeth xuống 0 usd và xóa tên cô khỏi danh_sách những nữ tỷ_phú tự_thân giàu nhất thế_giới cũng như các danh_sách tỷ_phú khác của tạp_chí danh_tiếng này 

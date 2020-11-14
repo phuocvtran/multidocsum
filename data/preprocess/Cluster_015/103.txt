@@ -1,0 +1,6 @@
+idx, sentence
+0,hãng tin nhà_nước triều_tiên_kcna cho biết  trung_tâm nghiên_cứu tác_hại của thuốc_lá sẽ được mở_rộng từ bình_nhưỡng đến các tỉnh_thành_phố khác trên cả nước nhằm kêu_gọi người dân bỏ hút thuốc 
+1,những trung_tâm này sẽ phân_phối các sản_phẩm hỗ_trợ người dân bỏ thuốc theo sự cho_phép của tổ_chức y_tế_thế_giới  who  
+2,trong khi đó  tờ rodong_shinmun khẳng_định rằng  thuốc_lá giờ không còn được coi là thời_thượng ở triều_tiên và chính_phủ đã có rất nhiều biện_pháp nhằm hạn_chế người dân sử_dụng sản_phẩm này 
+3,lãnh_đạo triều_tiên kim_jongun  người được cho là nghiện thuốc_lá nặng  chưa được nhìn thấy hút bất_kì điếu thuốc nào kể từ khi xuất_hiện trong cuộc thử_nghiệm tên lửa_đạn_đạo vào hôm 153 
+4,đây chính là lí_do truyền_thông hàn_quốc suy_đoán rằng  ông kim_jongun có_thể đã bỏ thuốc để làm_gương cho người dân 

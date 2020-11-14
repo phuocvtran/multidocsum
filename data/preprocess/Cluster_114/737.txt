@@ -1,0 +1,17 @@
+idx, sentence
+0,truy_tố hàng_loạt đại_gia thủy_sản và 8 người nguyên là cán_bộ ngân_hàng bắt_giam một đại_gia thủy_sản lừa_đảo gần 120 tỷ của ngân_hàng thông_tin trên được ông võ_thanh_hùng  trưởng_ban quản_lý khu chế xuấtcông_nghiệp cần_thơ  tổ_trưởng tổ công_tác đặc_biệt xử_lý vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã  gọi tắt là công_ty thiên_mã  cho biết vào chiều 235 
+1,theo đó  sau gần một tháng làm_việc  tổ công_tác xác_định  tổng_số nợ của doanh_nghiệp  dn  này lên đến 891 tỷ đồng 
+2,trong đó  516 tỷ đồng vốn của chi_nhánh hai ngân_hàng lớn ở hậu_giang với tiền lãi 383 tỷ đồng 
+3,số còn lại là nợ người bán cá_tra  các đơn_vị cung_cấp vật_tư  trong khi tổng giá_trị tài_sản hiện_tại của đơn_vị này chỉ khoảng 110 tỷ đồng  đã cầm_cố  thế_chấp 
+4,về nguyên_nhân dẫn đến tình_trạng nợ_nần chồng_chất của công_ty thiên_mã  ông võ_thanh_hùng  cho biết  “ do vay vốn ngắn_hạn đầu_tư trung dài_hạn và đổ vào bất_động_sản trong khi lãi_suất vay ngân_hàng quá cao  có lúc lên đến 21  / năm 
+5,khi thị_trường nhà_đất đóng_băng  ngành cá_tra rơi vào khủng_hoảng_thừa đã làm cho dn mất cân_đối ngày_càng nghiêm_trọng ” 
+6,hiện tại nhà_máy của công_ty thiên_mã hoạt_động gia_công cho một đơn_vị khác tại kcn trà_nóc  dn còn nợ tiền điện  nước  lương công_nhân gần 1 tỷ đồng 
+7,hiện không còn cách cứu_vãn tình_hình sản_xuất kinh_doanh của dn này 
+8,theo ông võ_thanh_hùng  để không phát_sinh nợ mới và ổn_định việc_làm  thu_nhập của 400 công_nhân tại đây  chúng_tôi đề_nghị ubnd tp cần_thơ phương_án cho thuê nhà_xưởng hoặc kêu_gọi các chủ_nợ lớn tham_gia tái cơ_cấu 
+9,còn nếu tình_hình phức_tạp hơn thì đề_nghị tuyên_bố phá_sản dn này 
+10,trước đó  cuối tháng 32016  cục cảnh_sát kinh_tế  c46  bộ công_an  đã khởi_tố  bắt tạm giam ông phan_bá_tòng  giám_đốc công_ty thiên_mã  kcn trà_nóc  quận ô_môn  tp cần_thơ  
+11,15 năm trước  từ một nhân_viên nhà_hàng với khả_năng quản_lý tốt  giỏi tiếng anh cộng với tài pha_chế rượu  ông tòng được một thương_nhân người mỹ để_ý và mời hợp_tác làm_ăn trong lĩnh_vực xnk thủy_sản 
+12,do đảm_nhiệm tốt vai_trò đại_lý cung_ứng nguồn hàng cá_tra  ba sa xuất_khẩu qua mỹ nên việc làm_ăn của ông này ngày_càng phát_triển 
+13,năm 2005  ông tòng đứng ra thành_lập công_ty thiên_mã với vốn điều_lệ 70 tỷ đồng để chủ_động sản_xuất kinh_doanh theo quy_trình khép_kín 
+14,biệt_danh “ tòng_thiên_mã ” cũng bắt_đầu từ đây 
+15,không lâu sau  đơn_vị này phất lên với 3 nhà_máy sản_xuất có hàng nghìn công_nhân làm_việc  12 trang_trại thủy_sản khép_kín quy_mô 100 ha  với tổng mức đầu_tư hàng trăm tỷ đồng 

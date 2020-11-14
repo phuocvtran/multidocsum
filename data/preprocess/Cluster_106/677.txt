@@ -1,0 +1,11 @@
+idx, sentence
+0,vụ cháy xảy ra vào đêm 225  trong lúc nhiều em đang ngủ và không kịp phản_ứng khi ngọn lửa bùng_phát ở tòa nhà hai tầng 
+1,“ vụ cháy xảy ra lúc 23 giờ đêm chủ_nhật 225 
+2,có 17 học_sinh nữ đã thiệt_mạng  2 em mất_tích và 5 em bị_thương ”  afp dẫn lời prayad_singsin  chỉ_huy lực_lượng cảnh_sát ở tỉnh chiang_rai 
+3,theo cập_nhật của cnn sau đó  số người chết đã tăng lên 18 
+4,hai_mươi bé gái đã được giải_cứu sau khi lính cứu_hỏa dùng thang để vào tòa nhà  cnn dẫn lời chỉ_huy đơn_vị cứu_hỏa ở chiang_rai  ông sawang_momdee 
+5,ông nói   chúng_tôi đã cố_gắng cứu tất_cả mọi người qua đường cửa_sổ  nhưng ngọn lửa bùng lên quá nhanh 
+6,chúng_tôi đã làm hết_sức mình  các quan_chức của tỉnh chiang_rai xác_nhận có 38 học_sinh trong ký_túc_xá lúc xảy ra vụ cháy 
+7,các học_sinh này tuổi từ 6 đến 13  chủ_yếu là người ở các bộ_tộc vùng núi ở địa_phương 
+8,lực_lượng cứu_hộ ở thái_lan đã dập lửa trong đêm 225 và tiến_hành kiểm_tra địa_điểm cháy từ đêm 22 đến sáng 235 
+9,nguyên_nhân vụ cháy vẫn đang tiếp_tục được điều_tra 

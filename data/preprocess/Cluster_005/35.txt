@@ -1,0 +1,12 @@
+idx, sentence
+0,công_văn do chủ_tịch tư hội nguyễn_việt_thắng ký  nêu rõ chính_phủ  các bộ  ngành liên_quan đã có những biện_pháp chỉ_đạo quyết_liệt trong việc tìm ra nguyên_nhân cá biển chết hàng_loạt ở các tỉnh từ hà_tĩnh đến thừa_thiên  huế 
+1,ngày 115  văn_phòng chính_phủ cũng đã có văn_bản yêu_cầu các bộ tài_nguyên  môi_trường  nnptnt  tài_chính có ý_kiến trả_lời công_văn của hội_nghề cá ngày 284 về việc cá biển chết hàng_loạt 
+2,tuy_nhiên  “ đã hai tuần trôi qua  hội_nghề cá chưa nhận được văn_bản trả_lời nào của các bộ ” 
+3,theo hội_nghề cá  để giải_quyết dứt_điểm vấn_đề cũng là để có câu trả_lời chính_xác cho người làm nghề cá và người việt_nam tiêu_dùng thủy_sản  hội_nghề cá việt_nam kiến_nghị chính_phủ và các bộ  ngành liên_quan  đẩy nhanh tiến_độ xác_định nguyên_nhân cá biển chết hàng_loạt 
+4,càng kéo_dài thì chất_độc trong trầm_tích ở đáy biển sẽ bị pha loãng dần 
+5,các mẫu cá chết ở thời_điểm đầu tháng 42016 đang được lưu tại các phòng kiểm_nghiệm hết hạn lưu mẫu sẽ được tiêu_hủy khiến cho việc truy_tìm chính_xác nguyên_nhân sẽ khó_khăn hơn 
+6,theo hội_nghề cá   việc xác_định nguyên_nhân cá chết là hết_sức cần_thiết chẳng những trấn_an dư_luận  làm cho người tiêu_dùng an_tâm mà_còn là sự tuân_thủ quy_định của hiệp_định sps của wto mà việt_nam là thành_viên 
+7,trong công_văn  hội nghề cá cho biết chưa xác_định được nguyên_nhân cá chết  nên người dân ven biển từ hà_tĩnh đến thừa_thiên  huế chưa_thể đi đánh_cá ven biển  các hộ nuôi cá  nuôi tôm sử_dụng nước_biển cũng chưa_thể nuôi lại 
+8,hội nghề cá đề_nghị chính_phủ tiếp_tục hỗ_trợ mỗi thành_viên của gia_đình bị hại do cá chết 15 kg gạo / tháng tính từ tháng 42016 đến khi xác_định được nguyên_nhân cá chết và sản_xuất được phục_hồi 
+9,hội nghề cá cho rằng nếu nguyên_nhân cá chết do con_người gây ra thì thủ_phạm gây ra việc này ngoài việc phải chịu những hình_phạt do pháp_luật quy_định  còn phải chi_trả toàn_bộ chi_phí hỗ_trợ cho ngư_dân mà chính_phủ đã ứng trước 
+10,đồng_thời phải chi_trả cho chính_phủ những thiệt_hại về tài_nguyên sinh_vật biển bị hủy_hoại và chi_phí phục_hồi môi_trường_sinh_thái của các vùng_biển chịu tác_động của việc này 

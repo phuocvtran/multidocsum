@@ -1,0 +1,16 @@
+idx, sentence
+0,hôm_nay  31/5   siêu_sao lionel_messi sẽ có_mặt tại tòa_án ở barcelona để tham_dự phiên_tòa cáo_buộc anh và cha của mình  ông jorge_messi trốn_thuế số tiền lên tới 41 triệu euro diễn ra từ năm 2007 đến 2009 
+1,đã có rất nhiều thông_tin đa_chiều về việc leo có tội hay không 
+2,mới_đây  tờ el_periodico của xứ catalan đã tiết_lộ thêm những “ thâm_cung bí sử ” về vụ_án của m10 
+3,theo những gì ngôi_sao đang thi_đấu cho barca khai với thẩm_phán hồi năm 2013  anh hoàn_toàn không biết gì về nội_dung của những hợp_đồng do bố của mình  ông jorge_messi đưa 
+4,“ tôi hoàn_toàn tin_tưởng vào bố của mình 
+5,ông ấy điều_hành mọi công_việc kinh_doanh và tài_chính của tôi 
+6,ông ấy nói gì  tôi sẽ làm như_vậy ” 
+7,“ tôi là người kí mọi thứ cuối_cùng  nhưng tôi không bao_giờ đọc chúng 
+8,tôi không hề biết nội_dung những gì mình kí ” 
+9,khi được thẩm_phán hỏi tại_sao lại dễ_dàng kí vào những bản hợp_đồng như_vậy mà không hề đọc  messi giải_thích rất đơn_giản  “ đó là cách làm_việc của tôi ” 
+10,nếu những thông_tin ở trên là đúng sự_thật  nhiều khả_năng lionel_messi sẽ thoát tội  nhưng bố của anh sẽ phải bóc lịch với mức án nặng nhất là 22 tháng 
+11,nhưng ngay cả khi leo bị xác_định là có tội  khả_năng anh ngồi_tù là không cao  bởi không có tiền_án tiền_sự và sẵn_sàng nộp lại khoản tiền đã thiếu  đã trả đủ khoản tiền hơn 4 triệu euro kể trên và nộp một khoản tiền phạt như một_cách để tự răn_đe bản_thân đã vô_tình  quên  quy_định của luật_pháp tây ban_nha  
+12,đó là những điều_kiện cần và đủ để cho các thẩm phám không kết_tội cầu_thủ đã 5 lần giành qbv_fifa 
+13,tuy_nhiên  dù bị xác_định là có tội hay không  vụ_việc liên_quan đến thuế của messi vẫn là lời cảnh_tỉnh cho chính anh và các ngôi_sao khác 
+14,họ cần nắm rõ hơn về luật_pháp và có trách_nhiệm về những gì mình kí  nếu không hoàn_toàn có_thể sẽ phải ngồi_tù dù vô_tình hay hữu_ý 

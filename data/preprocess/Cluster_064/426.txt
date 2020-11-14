@@ -1,0 +1,10 @@
+idx, sentence
+0,mặc_dù là đội_tuyển giàu thành_tích thứ 2 ở copa_america với 14 lần vô_địch  chỉ sau uruguay  nhưng argentina đã lỡ_hẹn với ngai_vàng ở giải đấu này kể từ năm 1993 
+1,điều đó khiến cho đội_tuyển xứ tango rất quyết_tâm giật chức vô_địch ở kỳ copa_america đặc_biệt vào năm nay 
+2,đó là lý_do argentina triệu_tập binh hùng tướng mạnh tham_dự giải đấu này 
+3,điều đó khác hoàn_toàn với đội_tuyển brazil  khi họ để nhiều trụ_cột ở nhà để_dành sức chinh_phục huy_chương vàng bóng_đá nam olympic 2016 
+4,sức_mạnh của tuyển argentina vẫn nằm ở hàng công với những chân sút thượng_thặng như messi  higuain  aguero … thậm_chí  ngay cả dybala  người chơi cực hay trong màu áo juventus mùa giải vừa_qua  và tevez vẫn bị gạch tên 
+5,ngoài_ra  đội_tuyển argentina tới với copa_america 2016 với dàn sao đang đạt phong_độ cao ở nhiều vị_trí khác như lamela  tottenham   mascherano  barcelona   augusto_fernandez  atletico_madrid  … do_đó  họ được đánh_giá là ứng_cử_viên số 1 cho chức vô_địch giải đấu này 
+6,ở copa_america 2016  argentina nằm cùng bảng d với đkvđ_chile  panama và bolivia 
+7,họ sẽ ra_quân vào 09 h00 ngày 7/6 gặp chile  đối_thủ vừa đánh_bại họ trong trận chung_kết copa_america vào năm_ngoái 
+8,danh_sách 23 cầu_thủ argentina tham_dự copa_america 2016  thủ_môn  mariano_andujar  estudiantes   nahuel_guzman  club_tigres   sergio_romero  manchester_united  hậu_vệ  victor_cuesta  independiente   ramiro_funes_mori  everton   jonathan_maidana  river   gabriel_mercado  river   nicolas_otamendi  manchester_city   marcos_rojo  manchester_united   facundo_roncaglia  fiorentina  tiền_vệ  ever_banega  sevilla   lucas_biglia  lazio   augusto_fernandez  atletico_madrid   matias_kranevitter  atletico_madrid   erik_lamela  tottenham   javier_mascherano  barcelona   javier_pastore  paris_saintgermain 

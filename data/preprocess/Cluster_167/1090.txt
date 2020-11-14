@@ -1,0 +1,11 @@
+idx, sentence
+0,lại hương_thảo từng tham_gia nhiều cuộc thi nhan_sắc và đoạt nhiều danh_hiệu như hoa_khôi thể_thao 2012  giải phụ hoa_hậu châu_á  hoa_hậu cộng_đồng tại cuộc thi hoa_hậu siêu_quốc_gia 2012 
+1,năm 2013  cô từng đại_diện cho việt_nam dự thi miss_world nhưng không đạt được thành_tích nào 
+2,vài năm trở_lại đây  cô gần như không tham_gia các hoạt_động showbiz 
+3,hiện_tại  cô làm_việc ở một ngân_hàng tại tp hcm 
+4,khi cô công_bố tin_tức về đám_cưới  nhiều bạn_bè của cô đã bất_ngờ vì trước đó người_đẹp khá kín_tiếng về chuyện tình_cảm 
+5,cô cho biết tình_yêu của hai người đã chín_muồi sau 2 năm tìm_hiểu 
+6,ngày 29/5  hương_thảo chính_thức lên xe hoa về nhà chồng 
+7,đám_cưới của lại hương_thảo diễn ra tối 29/5 tại khách_sạn intercontinental_asiana_saigon với khoảng 700 khách_mời bao_gồm khách_khứa và bạn thân của nhà chú_rể  trong đó có gia_đình ca sỹ trang_nhung  cô và con_gái ngô_phương bích_ngọc đích_thân hát tặng gia_đình 2 bên 
+8,trước tin_đồn ông xã là đại_gia ngành ngân_hàng  lại hương_thảo phủ_nhận 
+9,cô cho biết  chồng sắp cưới là người bình_thường  không thuộc giới thượng_lưu như nhiều người đồn đoán 

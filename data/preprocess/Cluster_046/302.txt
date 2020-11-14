@@ -1,0 +1,17 @@
+idx, sentence
+0,chiều 205  hàng trăm người dân tp nha_trang  khánh_hòa  kéo đến cảng cá hòn_rớ thuộc xã phước_đồng  tp nha_trang xem con cá_ngừ vây xanh quý_hiếm do tàu cá kh 90297 ts của ông huỳnh_thiên_minh  ngụ xã phước_đồng  câu được đưa vào cảng 
+1,người dân háo_hức chờ_đợi nhiều tiếng đồng_hồ để xem con cá này vì đây là loài cá cực quý_hiếm 
+2,trên thế_giới  loại cá này được bán với giá rất cao 
+3,khi đưa vào cảng  con cá trên dài hơn 2 m  cân nặng hơn 300 kg 
+4,bà nguyễn_thị_thu_thanh  giám_đốc công_ty hải_sản bền_vững  doanh_nghiệp mua gom cá_ngừ đại_dương   cho biết nếu chuyên_gia thủy_sản nhật_bản xác_định đây đúng là cá_ngừ vây xanh còn đảm_bảo chất_lượng  doanh_nghiệp này sẽ hỗ_trợ chủ tàu tổ_chức bán đấu_giá và công_ty hải_sản bền_vững cũng sẽ tham_gia đấu_giá như các doanh_nghiệp khác 
+5,tuy_nhiên  một chuyên_gia người nhật được mời đến để xác_định cá sau khi xem con cá này đã lẳng_lặng bỏ đi 
+6,theo bà thanh  đây đúng là cá_ngừ vây xanh cực quý_hiếm 
+7,tuy_nhiên  thịt con cá đã bị hỏng do bảo_quản không đảm_bảo hoặc do để quá lâu 
+8,do_đó  các doanh_nghiệp không mua con cá này 
+9,theo chủ tàu huỳnh_thiên_minh  tàu cá của ông xuất_phát ra khơi ngày 254 
+10,đến ngày 155  trong khi đang câu cá_ngừ đại_dương trên vùng_biển giữa quần_đảo hoàng_sa và trường_sa của việt_nam thì bắt được con cá này 
+11,xác_định đây là con cá quý_hiếm  có giá_trị cao  tàu của ông minh chở cá vào đất_liền 
+12,trên đường tàu vào bờ  nhiều thương_lái đã gọi điện_thoại liên_hệ để mua nhưng ông nói khi đưa cá vào cảng ai mua giá cao ông sẽ bán 
+13,theo tự_điển wikipedia  cá ngừ vây xanh có đặc_trưng là vây màu xanh  là loài cá hiếm  được xếp vào danh_sách các loài đang gặp nguy_hiểm 
+14,cá_ngừ vây xanh được tìm thấy chủ_yếu ở thái_bình_dương và ấn_độ_dương 
+15,ngoài_ra  chúng còn có_thể sống ở đại tây_dương  địa_trung_hải 

@@ -1,0 +1,7 @@
+idx, sentence
+0,chiều 28/5  thông_tin từ cơ_quan csđt công_an tphcm cho biết cơ_quan này đang phối_hợp cùng các phòng nghiệp_vụ và công_an huyện hóc_môn đang khẩn_trương điều_tra vụ trộm két sắt  xảy ra tại nhà ông trương_văn_hiền  là tổng_giám_đốc tổng_công_ty văn_hóa sài_gòn 
+1,ông hiền là đại_biểu hđnd tphcm khóa viii và vừa trúng_cử đại_biểu hđnd khóa ix 
+2,thông_tin ban_đầu  nhà của ông hiền nằm ở đường tô_ký  xã thới_tam_thôn  huyện hóc_môn 
+3,vào đêm 26/5  lợi_dụng mọi người đang say ngủ  kẻ_gian đã đột_nhập vào nhà ông hiền và trộm đi một chiếc két sắt chứa nhiều tài_sản 
+4,sau khi phát_hiện bị mất_trộm  gia_đình ông hiền đã đến công_an xã thới_tam_thôn trình_báo 
+5,theo khai_báo của gia_đình nạn_nhân  tổng_số tài_sản chứa trong két sắt bị mất_trộm trị_giá khoảng 2 tỷ đồng  ngoài_ra còn có một_số giấy_tờ quan_trọng khác 

@@ -1,0 +1,14 @@
+idx, sentence
+0,trong báo_cáo gửi ubnd tp hcm  sở giáo_dục tp hcm cho biết ngày 5/5 vừa_qua  ông nguyễn_trung_đức  thành_viên hđqt đại_học hoa_sen  đã gửi công_văn lên sở này đề_nghị công_nhận nghị_quyết đại_hội cổ_đông bất_thường ngày 2/8/2014 với lý_do  sổ cổ_đông và cổ_phiếu có quyền biểu_quyết tại đại_hội chiếm tỷ_lệ 7008  
+1,tòa_án sơ_thẩm đã xác_nhận tỷ_lệ sở_hữu của công_ty iconnect_và công_ty coordinate tại đại_học hoa_sen ngày 29/9/2015 
+2,bản_án sơ_thẩm mà tand tp hcm đã phán_quyết là chấp_nhận toàn_bộ yêu_cầu khởi_kiện của nguyên_đơn  công_ty iconnect   buộc đại_học hoa_sen phải thanh_toán số tiền tạm_ứng cổ_tức năm_học 2013  2014 cho công_ty này 
+3,tòa cũng không chấp_nhận yêu_cầu của bị_đơn là đại_học hoa_sen về việc yêu_cầu iconnect phải thanh_toán tiền lãi trả chậm 
+4,hồi cuối tháng 4  tand cấp cao tại tp hcm đã xét_xử phúc_thẩm và giữ nguyên nội_dung bản_án sơ_thẩm 
+5,trước đó  chủ_tịch hđqt đại_học hoa_sen  nhiệm_kỳ 2012  2017  trần_văn_tạo đã gửi công_văn đến các cấp có thẩm_quyền để báo_cáo tình_hình tranh_chấp cổ_phần 
+6,ông kiến_nghị cơ_quan nhà_nước không ra các quyết_định liên_quan đến quyền biểu_quyết của các thành_viên góp vốn trong khi quyền_sở_hữu và quyền định_đoạt đối_với số cổ_phần chưa được tòa_án giải_quyết triệt_để 
+7,ngoài_ra  bà bùi_trân_phượng – hiệu_trưởng trường – cùng 8 cổ_đông cũng đề_nghị ubnd tp hcm  sở giáo_dục tp hcm tạm_thời không ra bất_kỳ quyết_định nào có liên_quan đến quyền biểu_quyết với tư_cách cổ_đông đại_học hoa_sen 
+8,tuy_nhiên  đối_chiếu với các quy_định hiện_hành về điều_lệ trường đại_học  đại_học tư_thục của chính_phủ  sở giáo_dục_và_đào_tạo tp hcm khẳng_định việc công_nhận hđqt được bầu vào tháng 8/2014 là không phù_hợp 
+9,hồi tháng 5/2015  ubnd tp hcm cũng có văn_bản thống_nhất với sở giáo_dục_và_đào_tạo tp hcm về việc không công_nhận hđqt đại_học hoa_sen được bầu tại đại_hội cổ_đông bất_thường trên 
+10,theo sở giáo_dục tp hcm  đại_học hoa_sen từng bị thanh_tra bộ giáo_dục_và_đào_tạo xử_phạt vì những sai_phạm trong thực_hiện liên_kết tổ_chức đào_tạo trình_độ cử_nhân quản_lý khách_sạn – nhà_hàng quốc_tế khi chưa được phép của bộ  sai_phạm trong quyết_định mức học_phí và tổ_chức thu học_phí vượt quy_định 
+11,trước đó  ngày 2/8/2014  ông nguyễn_trung_đức  thành_viên hđqt đh hoa_sen  đã tổ_chức đại_hội cổ_đông bất_thường với sự tham_dự của các cổ_đông đại_diện cho khoảng 70  tổng_số cổ_phần của trường và có tờ_trình  đề_nghị ubnd tp hcm xem_xét  ra quyết_định công_nhận hđqt nhiệm_kỳ 2  2012  2017  
+12,do cổ_đông tham_dự đại_hội cổ_đông bất_thường chỉ sở_hữu cổ_phần tương_ứng là 59  vốn điều_lệ  trong khi quy_chế tổ_chức hoạt_động của trường này quy_định phải đạt 65   nên hđqt và các cổ_đông đại_học hoa_sen cũng chưa thống_nhất tỷ_lệ góp vốn và phải giải_quyết các tranh_chấp tại tòa kinh_tế  tand tp hcm 

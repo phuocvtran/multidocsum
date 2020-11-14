@@ -1,0 +1,19 @@
+idx, sentence
+0,trong bảng xếp_hạng danh_tiếng millward_brown  budweiser đã vươn lên vị_trí nhãn hàng bia đắt_giá nhất thế_giới với giá_trị thương_hiệu ước_tính lên đến gần 14 tỉ usd trong năm 2015 
+1,con_số này không có gì lạ khi nhu_cầu về sản_phẩm bia lâu_đời này của tập_đoàn ab_inbev liên_tục tăng  khiến số_lượng nhà_máy sản_xuất budweiser trên toàn_cầu tăng lên gấp đôi trong sáu năm gần đây 
+2,dù đã có_mặt ở hơn 80 quốc_gia  budweiser vẫn liên_tục vươn đến những mục_tiêu cao hơn nữa 
+3,việc xây_dựng nhà_máy tối_tân cách đây 1 năm tại việt_nam đã thể_hiện rõ mục_tiêu muốn đầu_tư mạnh_mẽ vào thị_trường đông_nam_á của công_ty này 
+4,trong suốt 140 năm  budweiser liên_tục lớn_mạnh nhờ vào chất_lượng sản_phẩm thượng_hạng đồng_nhất  thương_hiệu lâu_đời và công_nghệ sản_xuất hiện_đại hàng_đầu thế_giới 
+5,tuy_nhiên  trong bối_cảnh cạnh_tranh ngày_càng khốc_liệt và thị_trường lẫn người tiêu_dùng thay_đổi nhanh hơn trước  ab_inbev nói_chung và budweiser nói_riêng những năm gần đây được đánh_giá là có nhiều chiến_lược hiệu_quả trong việc xây_dựng một thương_hiệu đẳng_cấp và thấu_hiểu tâm_lý người dùng 
+6,tại việt_nam  ab_inbev rất chú_trọng đẩy_mạnh các hoạt_động trách_nhiệm cộng_đồng  viết tắt là csr  
+7,các chương_trình khuyến_khích người tiêu_dùng uống có trách_nhiệm của công_ty cũng để lại dấu_ấn bởi tính thiết_thực và hiệu_quả 
+8,điển_hình_như chương_trình thường_niên của ab_inbev vào ngày_hội uống bia có trách_nhiệm toàn_cầu 
+9,vào ngày này  toàn_bộ nhân_viên của ab_inbev việt_nam đã đến nhiều siêu_thị ở các thành_phố lớn để tiếp_cận trực_tiếp người tiêu_dùng với mong_muốn truyền_tải thông_điệp thưởng_thức có trách_nhiệm đến cộng_đồng 
+10,đây là động_thái tại thị_trường địa_phương của ab_inbev trong một mục_tiêu to_lớn hơn ở cấp_độ toàn_cầu là tiếp_cận ít_nhất 100 triệu người trưởng_thành để truyền_đạt thông_điệp về việc không uống các sản_phẩm có cồn khi chưa đủ tuổi 
+11,ông ricardo_vasques  tổng_giám_đốc của ab_inbev việt_nam chia_sẻ  “ chúng_tôi đã có một năm rất đặc_biệt khi nhà_máy đầu_tiên của ab_inbev tại tỉnh bình_dương chính_thức đi vào hoạt_động và tiếp_tục mang những trải_nghiệm bia đẳng_cấp thế_giới đến với người tiêu_dùng việt_nam 
+12,chúng_tôi cam_kết sẽ có những hoạt_động liên_tục để đảm_bảo những sản_phẩm này sẽ được tiêu_thụ một_cách có trách_nhiệm  ” ngoài các hoạt_động csr  ab_inbev cũng mong_muốn mang đến những trải_nghiệm cuộc vui đỉnh_cao cho người_yêu bia tại việt_nam 
+13,điển_hình_như budweiser tại đây luôn gắn liền với những trải_nghiệm đặc_sắc  mang đến cơ_hội hoà_mình cùng các cuộc_vui đỉnh_cao cho người_yêu bia 
+14,những ai yêu_thích âm_nhạc_điện_tử  edm  hẳn không_thể quên chuỗi hoạt_động thường_niên mang tên budjs  cuộc thi đã tạo nên nhịp đập mạnh_mẽ cho đời_sống edm tại việt_nam với những cuộc_vui âm_nhạc cuồng_nhiệt 
+15,trong vòng 3 tháng  trang_web chính_thức của chương_trình wwwbudjscom đã thu_hút hàng trăm_nghìn người hâm_mộ edm trên cả nước cùng theo_dõi  đồng_hành cùng 30 dj tài_năng hàng_đầu việt_nam 
+16,với ê_kíp sản_xuất chuyên_nghiệp  vòng chung_kết budjs 2015  budweiser_festival  đã đưa hơn 10000 khán_giả vào không_khí cuộc_vui sôi_động của âm_nhạc_điện_tử cùng sự tham_dự của dj huyền_thoại tiesto  hạng 5 thế_giới theo tạp_chí dj_mag   một trong những đại_sứ chính_thức của budweiser_made for music  làm thỏa_mãn những tín_đồ edm khó_tính nhất 
+17,không chỉ hợp_tác với huyền_thoại tiesto  budweiser còn song_hành và liên_tục giới_thiệu đến người hâm_mộ việt_nam những dj hàng_đầu thế_giới như diplo  skrillex  merk  kremont hay klingande 

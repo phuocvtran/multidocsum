@@ -1,0 +1,16 @@
+idx, sentence
+0,tiền_đạo alan_pulido đã bị một nhóm người có trang_bị súng bắt_cóc vào tối thứ_bảy tuần qua tại quê nhà ciudad_victoria  bang tamaulipas  mexico 
+1,cầu_thủ 25 tuổi đang khoác áo clb olympiakos  hy_lạp  bị một nhóm người bao_vây khi đang ở trong xe cùng bạn gái 
+2,một người đeo mặt_nạ đã chĩa súng vào người cầu_thủ này bắt đi theo chúng bỏ lại bạn gái anh một_mình 
+3,gia_đình của pulido sau đó nhận được cuộc gọi đòi tiền chuộc từ bọn bắt_cóc trên 
+4,pulido cho biết với báo_chí hôm thứ hai  “ tôi vẫn ổn 
+5,cảm_ơn chúa  ” 
+6,anh kể lại thừa lúc những kẻ bắt_cóc mất tập_trung  anh đã đập_cửa_kính  lao ra ngoài gọi điện_thoại cho cảnh_sát 
+7,một_mình anh đã chóng trả quyết_liệt với họ trước khi cảnh_sát có_mặt 
+8,tiền_đạo này bị đứt cổ_tay vì mảnh vỡ kính xe 
+9,cảnh_sát sau đó bắt được người đàn_ông 38 tuổi 
+10,người này thừa_nhận họ là băng tội_phạm ở địa_phương 
+11,cảnh_sát đang truy bắt 3 tên còn lại trong nhóm 
+12,tamaulipas là một trong số những bang có nhiều băng_nhóm tội_phạm hoạt_động nhất ở mexico 
+13,chính_phủ nước này đã tăng_cường an_ninh  phòng_chống tội_phạm nhưng vẫn chưa_thể đẩy_lùi tình_trạng trên 
+14,theo thống_kê  mỗi năm ở mexico có khoảng 1000 vụ bắt đòi tiền chuộc xảy ra 

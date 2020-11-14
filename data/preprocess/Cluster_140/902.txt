@@ -1,0 +1,10 @@
+idx, sentence
+0,thông_tin cho hay  cơ_quan csđt công_an tphcm hiện đang phối_hợp cùng công_an huyện hóc_môn để điều_tra  truy_xét vụ trộm tài_sản lớn xảy ra tại ngôi nhà số 14/1 d  đường tô_ký  xã thới_tam_thôn  huyện hóc_môn  xảy ra đêm 26/5 
+1,chủ nhà là ông trương_văn_hiền  sn 1967  
+2,diễn_biến ban_đầu cho hay  trong đêm 26/5 gia_đình ông hiền phát_hiện bị trộm đột_nhập nhà ở địa_chỉ nói trên và lấy trộm đi két sắt chứa tài_sản 
+3,sau khi nhận tin báo từ gia_đình nạn_nhân  cơ_quan công_an đã vào cuộc khám_nghiệm hiện_trường  lấy lời khai của những người liên_quan 
+4,được biết gia_đình ông hiền khai_báo  trong két sắt bị trộm có chứa tài_sản có giá_trị chừng 2 tỷ đồng cùng nhiều giấy_tờ quan_trọng khác 
+5,đáng nói ông trương_văn_hiền hiện là tổng_giám_đốc tổng_công_ty văn_hóa sài_gòn 
+6,ông hiền là đại_biểu hđnd tphcm khóa vii  nhiệm_kỳ 2011 – 2016 
+7,vừa_qua  ông hiền tiếp_tục trúng_cử là đại_biểu hđnd kháo ix  nhiệm_kỳ 2016 – 2021  tại đơn_vị bầu_cử số 33 huyện hóc_môn  với tỷ_lệ 6691  phiếu 
+8,bầu 

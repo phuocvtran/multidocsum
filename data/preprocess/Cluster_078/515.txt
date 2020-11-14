@@ -1,0 +1,12 @@
+idx, sentence
+0,theo sau chiếc xe cadillac của tổng_thống obama hay ngồi là khoảng 20 – 30 chiếc xe nối_đuôi nhau để bảo_vệ vị tổng_thống này 
+1,hình_ảnh nữ đặc_vụ tóc vàng lái một trong hai chiếc cadillac_one cho tổng_thống obama tại việt_nam đã được nhóm phóng_viên ghi lại 
+2,tuy_nhiên  cô gái may_mắn này lại chỉ là một nữ_sinh_viên 24 tuổi tên là natalie_tyson  đang sinh_sống và học_tập tại california 
+3,cô là một trong những tình_nguyện viên lái_xe nằm trong đoàn xe bám sát xe của tổng_thống obama khi ông tới san_francisco 
+4,tyson từng chia_sẻ với tờ new_york_times rằng  “ vào ngày 10/10 khi tổng_thống obama tới san_fransisco  một người bạn làm_việc ở nhà_trắng đã nhắn_tin hỏi tôi có sẵn_sàng để lái chiếc xe sang_trọng và như một thành_viên của nhóm hộ_tống không  ” cô trả_lời với anh bạn của mình rằng cô chưa từng lái một chiếc xe như_thế bao_giờ  nhưng đã từng làm tài_xế đưa_đón khách 
+5,cô cũng cho biết thêm mình có một hồ_sơ sạch_sẽ  không có tiền_án và sẵn_sàng để đảm_nhận công_việc 
+6,một tuần sau  cô có_mặt tại sân_bay quốc_tế san_francisco nơi chiếc air_force_one đáp xuống 
+7,khi được hỏi  nếu có khả_năng xảy ra tấn_công thì cô đã xử_lí như thế_nào 
+8,cô trả_lời  trước đó cô không có chút thông_tin nào về những người ngồi trên xe  và chỉ khi cô lái_xe cô mới biết những người ngồi sau cô là những mật_vụ của tổng_thống 
+9,cô cũng cho biết thêm  nếu có bất_cứ cảnh_báo nguy_hiểm nào  những mật_vụ sẽ là người xử_lí 
+10,tyson cũng cho biết  trong trường_hợp khẩn_cấp cô chỉ cần làm theo chiếc xe chạy phía trước mình 

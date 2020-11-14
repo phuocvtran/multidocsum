@@ -1,0 +1,23 @@
+idx, sentence
+0,lạ_lùng “ khen từng mặt ” chị t  một phụ_huynh có con học ở trường tiểu_học tân_phương  ứng_hòa  hà_nội  chia_sẻ hình_ảnh giấy_khen của con và rất băn_khoăn vì chưa từng thấy danh_hiệu này bao_giờ  “ đạt danh_hiệu học_sinh khen từng mặt ” 
+1,mình không hiểu khen thế này là thế_nào  con được khen mặt gì 
+2,bạn phạm_oanh  hà_nội  chia_sẻ  làm trong ngành giáo_dục mà đến giấy_khen  nhà_trường cũng ghi rất tối_nghĩa  không rõ_ràng 
+3,thế này làm_sao học_trò tiến_bộ được 
+4,chị bích_thuận  một phụ_huynh có con đang học tiểu_học ở huyện thanh_trì  hà_nội  cho hay  nhìn giấy_khen của các con thì thấy mỗi nơi ghi một kiểu không thống_nhất 
+5,“ trường con mình cũng “ khen toàn_diện ” và “ khen từng mặt ” 
+6,với “ khen toàn_diện ” thì cụm từ này chung 
+7,còn “ khen từng mặt ” thì khen con mặt nào  sẽ ghi rõ mặt đó ”  chị thuận cho biết 
+8,được biết  việc ghi giấy_khen không thống_nhất như trên đây là do áp_dụng đánh_giá học_sinh theo thông_tư 30  đánh_giá bằng nhận_xét thay cho điểm_số  
+9,một_số giáo_viên tiểu_học cho biết  đánh_giá qua điểm_số như trước đây đơn_giản và dễ_dàng 
+10,nhưng từ khi áp_dụng thông_tư mới này  để tránh cho phụ_huynh bức_xúc  thầy_cô đã phải dành thời_gian để “ quy_đổi ” lời khen 
+11,ví_dụ “ hoàn_thành xuất_sắc nhiệm_vụ ” tương_đương với danh_hiệu học_sinh giỏi  “ hoàn_thành nhiệm_vụ ” tương_đương với học_sinh tiên_tiến hoặc khen một_mặt nào đó trong phong_trào rèn_luyện thân_thể  khen cũng  áp_lực sau khi có công_văn số 39 / bgdđtgdth ngày 6/1/2015 của bộ giáo_dục_và_đào_tạo về việc tổng_hợp đánh_giá và khen_thưởng học_sinh tiểu_học theo thông_tư 30/2014 / ttbgdđt  việc ghi giấy_khen phải hết_sức linh_hoạt  phải dùng các câu nhận_xét thế_nào để tương_ứng với từng trình_độ  không theo khuôn_mẫu có sẵn trước đây 
+12,vì_vậy  mới có chuyện mỗi nơi một kiểu giấy_khen  mỗi trường mỗi kiểu nhận_xét như hiện_nay 
+13,quanh những rắc_rối về lời_khen  nhiều hiệu_trưởng  giáo_viên tiểu_học cho rằng  chính bản_thân họ đang chịu áp_lực rất nhiều từ phụ_huynh  bởi như hiện_nay  giáo_viên không có điểm_số để “ quy_đổi ” 
+14,vì_vậy  tùy trình_độ của giáo_viên để có lời khen dễ hay khó hiểu dành cho học_sinh 
+15,cô trần_thị_tám  hiệu_trưởng trường tiểu_học tân_phương  ứng_hòa  hà_nội  cho rằng  sở_dĩ giấy khen ghi “ đạt danh_hiệu khen từng mặt ” là do nhà_trường thực_hiện theo thông_tư 30 
+16,theo đó  nhà_trường có hai hình_thức khen học_sinh toàn_diện và học_sinh khen từng mặt 
+17,“ đáng ra  phải cụ_thể_hóa_ra là từng mặt đấy là các em nổi_trội mặt nào như  nổi_trội về môn toán  môn tiếng việt  hay thể_dục thể_thao 
+18,tuy_nhiên  nhà_trường rút kinh_nghiệm vì đã dùng từ chung_chung ” 
+19,cô tạ_thị_bích_ngọc  hiệu_trưởng trường tiểu_học nam_trung_yên  hà_nội  cũng cho hay việc ghi giấy_khen sao cho phù_hợp với học_sinh và để phụ_huynh cũng an_tâm quả không dễ chút nào 
+20,tuy_nhiên  vận_dụng đúng thông_tư 30  cuối năm nhà_trường khen theo hình_thức mỗi cháu phải có một lời khen riêng sao cho thích_hợp với quá_trình học_tập 
+21,chẳng_hạn  học_sinh xuất_sắc thì ghi  “ học_sinh hoàn_thành nhiệm_vụ toàn_diện ” hoặc “ học_sinh hoàn_thành tốt môn toán / hoàn_thành tốt môn tiếng việt ”  “ học_sinh hoàn_thành tốt môn đạo_đức ” 

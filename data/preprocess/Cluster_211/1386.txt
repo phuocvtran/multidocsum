@@ -1,0 +1,6 @@
+idx, sentence
+0,vừa_qua  ubnd tỉnh gia_lai đã ban_hành_quyết_định số 75 / qđubnd về việc thu_hồi 5089 ha đất của ctcp hoàng_anh gia_lai và cho ctcp_nông_nghiệp_nuti thuê đất để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu tại xã ia_băng  huyện chư_prông và xã gào  thành_phố pleiku  tỉnh gia_lai 
+1,cụ_thể  ctcp hoàng_anh gia_lai bị thu_hồi 426 ha đất đã trồng hồ_tiêu tại xã ia_băng  huyện chư_prông 
+2,đồng_thời  tập_đoàn này cũng bị thu_hồi 4377 ha đất đã trồng hồ_tiêu và 286 ha đất đường lô tại xã gào  thành_phố pleiku 
+3,cũng theo quyết_định này  5089 ha đất đã được ubnd tỉnh gia_lai cho ctcp hoàng_anh gia_lai thuê tại quyết_định số 264 / qđubnd ngày 23/11/2006 
+4,như_vậy  hagl đã thuê 5089 ha đất này suốt 10 năm qua 

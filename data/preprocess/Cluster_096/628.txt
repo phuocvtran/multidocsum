@@ -1,0 +1,8 @@
+idx, sentence
+0,trước khi bị bắt  ông ngân là phó chi_cục_trưởng chi_cục thi_hành án dân_sự  thads  huyện buôn_đôn  tỉnh đắk_lắk 
+1,theo kết_quả điều_tra  trong quá_trình ông ngân được phân_công  tổ_chức việc thi_hành án  bản_án và quyết_định có liên_quan đến nghĩa_vụ trả nợ của bà nguyễn_thị_nhung  trú tại phường tân_lợi  tp buôn_ma_thuột  tỉnh đắk_lắk  đối_với 7 cá_nhân  gồm  bà nguyễn_thị_nhường  ông lê_thanh_tuyền và bà lê_thị_quế  bà vũ_thị_thuý_thu_hồng  bà nguyễn_thị_thu_thuỷ  ông nguyễn_mạnh_hồng  bà lê_thị_thu_hương 
+2,nhưng đặng_văn_ngân đã không làm đúng trách_nhiệm  nhiệm_vụ theo quy_định của pháp_lệnh thads năm 2004  luật_thads năm 2008 và các văn_bản pháp_luật có liên_quan gây hậu_quả nghiêm_trọng 
+3,cụ_thể  theo 6 bản_án  quyết_định của tand tp buôn_ma_thuột và tand tỉnh đắk_lắk thì bà nhung phải có nghĩa_vụ trả nợ cho 7 cá_nhân nêu trên được thi_hành án với tổng_số tiền hơn 7 tỷ đồng 
+4,nhưng do chi_cục_phó đặng_văn_ngân không thi_hành các bản_án này  không kê_biên tài_sản dẫn đến bà nhung đã chuyển_nhượng và tẩu_tán tài_sản là nhà  đất trị_giá hơn 45 tỷ đồng 
+5,hậu_quả 7 cá_nhân đã không được thi_hành theo nội_dung các bản_án đã có hiệu_lực pháp_luật 
+6,ngoài_ra  cơ_quan điều_tra viện_ksnd tối_cao còn đang xem_xét hành_vi “ ra quyết_định trái pháp_luật ” của ông đặng_văn_ngân 

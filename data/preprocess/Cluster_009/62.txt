@@ -1,0 +1,10 @@
+idx, sentence
+0,các quan_chức hàn_quốc giấu tên cho biết  khoảng 20 khoang chứa oxy  mỗi khoang nặng khoảng 50 kg đã phát_nổ 
+1,ngoài_ra  một_số khoang chứa oxy nhỏ hơn cũng đồng_thời phát nổ  tuy_nhiên hiện vẫn chưa rõ số_lượng cụ_thể là bao_nhiêu  các quan_chức hàn_quốc cho biết thêm 
+2,trong khi đó  quân_đội mỹ chỉ thông_báo rằng có một vụ nổ khoang chứa oxy xảy ra  còn không nêu rõ số khoang chứa phát_nổ 
+3,các quan_chức phụ_trách vấn_đề an_toàn công_cộng của hàn_quốc tiết_lộ rằng họ có được những thông_tin về vụ nổ từ các quan_chức tại sở cứu_hỏa địa_phương 
+4,các quan_chức tại sở cứu_hỏa nơi xảy ra vụ_việc cho biết họ đã điều 18 xe cứu_hỏa tới hiện_trường và dập_tắt đám cháy trong vòng chưa đầy một giờ đồng_hồ 
+5,vụ nổ xảy ra tại căn_cứ carroll của quân_đội mỹ  cách thủ_đô seoul của hàn_quốc 280 km về phía đông_nam 
+6,quân_đội mỹ hiện đang tiến_hành điều_tra nguyên_nhân của vụ nổ này 
+7,có thông_tin cho rằng một căn nhà tại căn_cứ carroll đã bị phá_hủy  còn các công_trình khác nằm trong và ngoài căn_cứ này không bị ảnh_hưởng 
+8,truyền_thông hàn_quốc đã đăng_tải những bức ảnh chụp từ hiện_trường đám cháy cho thấy một căn nhà gần như bị thiêu rụi hoàn_toàn  đây cũng là nơi đặt những khoang chứa oxy phát_nổ 

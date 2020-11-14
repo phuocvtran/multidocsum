@@ -1,0 +1,4 @@
+idx, sentence
+0,thủ_môn  wayne_hennessey  danny_ward  owain_fon_williams 
+1,hậu_vệ  chris_gunter  james_chester  ashley_williams  ben_davies  neil_taylor  james_collins  jazz_richards 
+2,tiền_vệ  joe_allen  joe_ledley  aaron_ramsey  andy_king  david_edwards  jonny_williams  david_vaughan  george_williams 

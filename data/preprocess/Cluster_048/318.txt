@@ -1,0 +1,11 @@
+idx, sentence
+0,các tin tặc trộm hơn 12 triệu usd từ một ngân_hàng ở ecuador hồi năm 2015 chuyển phần_lớn số tiền lấy được thông_qua 23 công_ty đăng_ký ở hồng_kông  reuters dẫn hồ_sơ tòa_án cho biết 
+1,các hồ_sơ tòa_án cung_cấp cái nhìn đầu_tiên về những nơi số tiền trên lưu_chuyển sau khi nó được đưa đến các tài_khoản ở hồng_kông 
+2,những tài_liệu này bắt_nguồn từ một vụ kiện đầu năm 2015 của ngân_hàng ecuador_banco_del_austro  bda  tại hồng_kông chống lại các công_ty nhận hay chịu trách_nhiệm về số tiền hơn 9 triệu usd trong tổng_số tiền mất_cắp 
+3,bda cáo_buộc các công_ty làm_giàu bất_hợp_pháp và tìm cách thu_hồi số tiền trên 
+4,số tiền còn lại 3 triệu usd được chuyển tới các tài_khoản ở dubai và một_số nơi khác  reuters dẫn hồ_sơ tòa_án tại mỹ  không liên_quan đến vụ kiện tại hồng_kông 
+5,được biết  các tin tặc trộm tiền từ ngân_hàng banco del austro bằng phương_thức sử_dụng lỗ_hổng trong hệ_thống tin nhắn toàn_cầu của hội viễn_thông tài_chính liên ngân_hàng thế_giới  swift  để thực_hiện các lệnh chuyển tiền 
+6,phương_thức này cũng được tin tặc dùng để lấy 81 triệu usd từ ngân_hàng trung_ương bangladesh hồi tháng 2 qua  và vụ tấn_công bất_thành mới_đây vào ngân_hàng thương_mại_tpbank của việt_nam 
+7,trong vụ trộm tại ngân_hàng banco del austro  tiền được chuyển bởi ngân_hàng mỹ wells_fargo dựa trên các tin nhắn swift xác_thực 
+8,ban_đầu  các tin tặc chuyển 9139 triệu usd đến tài_khoản 4 công_ty ở hồng_kông tại ngân_hàng hsbc và hang_seng 
+9,tiếp đó  có ít_nhất 31 triệu usd trong con_số trên được 4 công_ty chuyển_tiếp cho tài_khoản ngân_hàng của 19 công_ty khác 

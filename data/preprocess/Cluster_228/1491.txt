@@ -1,0 +1,21 @@
+idx, sentence
+0,chưa đầy 24 giờ sau khi đánh_bại syria 20  thầy_trò hữu_thắng đã bay sang yangon  myanmar chuẩn_bị cho giải tứ_hùng 
+1,đối_thủ của tuyển việt_nam trong trận đấu_loại trực_tiếp vào 15 h ngày 3/6 là hồng_kông  trung_quốc  
+2,nếu đá bại hồng_kông  tuyển việt_nam gặp đội thắng ở cặp myanmar  singapore trong trận chung_kết tối 5/6 
+3,tinh_thần của thầy_trò hữu_thắng đang rất sảng_khoái sau trận thắng syria 
+4,tuy_nhiên  ngay trước khi bay sang myanmar  tuyển việt_nam đã nhận tin không vui khi công_phượng không_thể di_chuyển bình_thường 
+5,tiền_đạo đang chơi cho clb mito_hollyhock đã di_chuyển bằng những bước chân tập_tễnh suốt chặng đường từ hà_nội đến yangon 
+6,theo hlv nguyễn_hữu_thắng  công_phượng bị bong_gân mức_độ nhẹ 
+7,vì_vậy  hlv trưởng tuyển việt_nam khẳng_định  công_phượng vẫn có_thể tập_luyện và thi_đấu bình_thường 
+8,thông_tin này có_vẻ khả_quan  hơn là những thông_tin được đưa ra trước khi lên_đường 
+9,trước đó  công_phượng được xác_định là bị lật sơ_mi cổ_chân  cần ít_nhất 1 tuần dưỡng thương 
+10,điều đó khiến khả_năng ra sân của_công phượng vẫn còn bỏ_ngỏ  dù tiền_đạo này vẫn cùng đồng_đội bay sang myanmar 
+11,trước khi bay sang myanmar  tuyển việt_nam cũng nói lời chia_tay với hoàng_thịnh và văn_thắng 
+12,bộ đôi này dính chấn_thương  không_thể mạo_hiểm sử_dụng ở myanmar 
+13,vì_vậy  hlv hữu_thắng đã quyết_định cất hoàng_thịnh và văn_thắng ở nhà 
+14,hôm_nay  2/6   tuyển việt_nam có buổi tập làm_quen với mặt sân chính tại yangon 
+15,hlv hữu_thắng cho hay  mật_độ đá 2 ngày / trận đòi_hỏi các học_trò phải phân_phối sức_lực thật tốt 
+16,chính vì_thế  sự chuẩn_bị cho trận gặp hồng_kông  trung_quốc  cũng được hlv hữu_thắng thực_hiện một_cách nhẹ_nhàng  thoải_mái cho học_trò 
+17,được biết  điều_kiện ăn_ở tại yangon của thầy_trò hữu_thắng khá ổn 
+18,tuyển việt_nam và 2 đội khách đều được bố_trí trú_quân tại khách_sạn yangon  một trong khách_sạn hạng sang của thành_phố 
+19,hai trận đấu của tuyển việt_nam tại cup tứ_hùng đều được k  mua bản_quyền và tường_thuật trực_tiếp 

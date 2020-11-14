@@ -1,0 +1,23 @@
+idx, sentence
+0,anh_em ca_sĩ quang_hà vừa nộp đơn đến phòng cảnh_sát hình_sự  công_an tphcm và một_số cơ_quan công_an liên_quan tố_cáo việc bị 2 đối_tượng tên h và v lừa_đảo sang_tên căn_hộ ở lô b  chung_cư 43d  đường hồ_văn_huê  p 9  qphú_nhuận có giá_trị 4 tỷ đồng 
+1,theo trình_bày của ông quang_cường  người bạn tên h biết anh_em nam ca_sĩ đang muốn bán căn nhà nên đã đến xem và ngỏ ý muốn mua với số tiền 39 tỉ đồng  sau khi công_chứng sẽ trả tiền một lần 
+2,tối 17/5  người này có cầm một vali đến địa_chỉ 331 / 42 phan_huy_ích  phường 14  quận gò_vấp  tphcm  và nói trong đó có 200 ngàn usd 
+3,người này hẹn sáng 18/5 công_chứng mua_bán nhà  sau khi công_chứng xong về nhà thanh_toán tiền 
+4,số tiền là 39 tỉ đồng 
+5,sáng hôm sau  khi công_chứng xong tại phòng công_chứng  số tiền ghi trong hợp_đồng công_chứng là 1 tỷ đồng  người này kêu quang_cường chờ để đi mua nước thì cầm giấy chứng_nhận nhà_đất đi mất 
+6,sau đó hai anh_em nam ca_sĩ đã tới trình_báo ngay với công_an phường 14  quận gò_vấp về sự_việc trên 
+7, khi công_an phường vào nhà tôi cùng quang_hà mang vali ra phường làm_việc khi mở vali ra thì không có gì trong đó cả 
+8,đây là vụ lừa_đảo trắng_trợn mới mục_đích lấy giấy chứng_nhận nhà_đất để làm những việc xấu 
+9,tôi mong cơ_quan pháp_luật xử_lý người lừa_đảo này trả lại giấy chứng_nhận nhà cho tôi   quang_cường cho hay 
+10,bên_cạnh việc lo_ngại việc anh_em ca_sĩ quang_hà bị lừa_đảo  không ít độc_giả cũng bày_tỏ băn_khoăn trước thông_tin ca_sĩ và quản_lý của mình đã có hành_vi trái pháp_luật khi cố_tình ghi giá_trị hợp_đồng chuyển_nhượng căn_hộ thấp hơn để trốn_thuế 
+11,trao_đổi với pv báo điện_tử người đưa tin  luật_sư đỗ_hữu_đĩnh  giám_đốc công_ty luật tnhh_việt_kim nhận_định  qua thông_tin vụ_việc mà quang_cường cung_cấp cho báo_chí thì có_thể cho thấy bản_thân người này cũng đã có dấu_hiệu vi_phạm pháp_luật 
+12,việc kê_khai giá_trị chuyển_nhượng trong hợp_đồng thấp hơn giá_trị thực_tế chuyển_nhượng là hành_vi trốn_thuế nhà_nước 
+13,người chuyển_nhượng nhà_ở là người có thu_nhập nên phải nộp thuế thu_nhập cá_nhân nên việc ghi thấp xuống trong hợp_đồng này có_thể khiến nhà_nước thất_thoát thuế khá nhiều 
+14,đó là chưa kể việc các bên còn định thực_hiện  mặc_dù chưa thực_hiện  việc thanh toàn hợp_đồng_bằng ngoại_tệ 
+15,điều mà pháp_luật cấm khi thực_hiện giao_dịch   luật_sư đĩnh nói 
+16,cũng chia_sẻ quan_điểm về vấn_đề trên luật_gia  thạc_sĩ luật nguyễn_thị_hằng bày_tỏ  “ là một quản_lý của ca_sĩ nổi_tiếng  quang_cường chắc_chắn nắm rõ những quy_định trên nhưng đã cố_tình “ lách luật ” 
+17,tức_là đã cố_tình không thực_hiện đúng nghĩa_vụ của một công_dân đối_với nhà_nước 
+18,nhưng khi sự_việc xảy ra lại “ sốt_sắng ” nhờ cơ_quan bảo_vệ pháp_luật vào_cuộc giúp mình 
+19,điều đó  để nhận thấy rằng bản_thân người này cũng phải suy_nghĩ lại về những hành_xử của mình sao cho phù_hợp ” 
+20,trong khi đó  dưới góc_độ quyền khởi_kiện  trả_lời cho báo thanh_niên online  ls_huỳnh_công_thư  thuộc đoàn_ls tỉnh long_an  phân_tích  căn_cứ điều 12 khoản 1 luật_nhà_ở 2014  trừ khi các bên có thỏa_thuận khác  thì thời_điểm chuyển_quyền sở_hữu nhà là thời_điểm bên mua đã thanh_toán đủ tiền mua nhà và đã nhận nhà ở 
+21,mặt_khác  hợp_đồng mua_bán nhà_ở là một loại hợp_đồng_song vụ  theo đó  một bên có nghĩa_vụ giao nhà và bên kia có nghĩa_vụ thanh_toán tiền mua nhà 

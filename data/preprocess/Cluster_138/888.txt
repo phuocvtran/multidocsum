@@ -1,0 +1,18 @@
+idx, sentence
+0,nội_dung trên được nói rõ tại văn_bản kiến_nghị thủ_tướng chính_phủ của bộ_nnptnt 
+1,bộ nông_nghiệp_và_phát_triển_nông_thôn vừa trình thủ_tướng chính_phủ xem_xét  dừng chủ_trương chuyển mục_đích sử_dụng 63 ha rừng tại vườn_quốc_gia yok_đôn để xây_dựng thủy_điện đrăng_phốk thuộc tỉnh đắk_lắk 
+2,theo bộ_nông_nghiệp_và_phát_triển_nông_thôn  nếu xây_dựng thủy_điện này sẽ phải chuyển mục_đích sử_dụng tổng_cộng 63 ha đất có rừng  trong đó 53 ha sẽ bị chuyển_đổi vĩnh_viễn 
+3,trong khi đó  khu_vực này là rừng tự_nhiên với khoảng 3 héc_ta rừng giàu  11 héc_ta rừng trung_bình và 49 héc_ta rừng nghèo 
+4,hiện_nay  rừng tây_nguyên đang bị suy_giảm nghiêm_trọng cả về diện_tích lẫn chất_lượng 
+5,trong năm năm qua độ che_phủ rừng đã giảm 61   đặc_biệt tại khu_vực tiếp_giáp với vườn_quốc_gia yok_đôn 
+6, rừng khu_vực tây_nguyên hiện_nay đã bị suy_giảm nghiêm_trọng về độ che_phủ và chất_lượng 
+7,nếu xây_dựng đập  chặn dòng sẽ làm thay_đổi dòng_chảy  ảnh_hưởng đến hệ_sinh_thái và tạo thuận_lợi hơn cho các hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy khi nước dâng   văn_bản_bộ nnptnt nói rõ 
+8,trước lo_ngại  rừng bị suy_giảm rất nghiêm_trọng  nhiều khu_vực không còn rừng  bộ_nnptnt kiến_nghị chính_phủ xem_xét dừng dự_án trên 
+9,theo hồ_sơ thiết_kế  công_trình thủy_điện đrăng_phốk xây_dựng theo kiểu đập dâng trên sông sêrêpốk thuộc xã krông_na  huyện buôn_đôn  tỉnh đắk_lắk 
+10,công_suất nhà_máy dự_kiến 26 mw với tổng vốn đầu_tư khoảng 850 tỉ đồng 
+11,chủ đầu_tư là công_ty cổ_phần đầu_tư xây_dựng và ứng_dụng công_nghệ mới  tecco  
+12,dự_án đang trong giai_đoạn thuê tư_vấn đánh_giá tác_động môi_trường của chủ đầu_tư 
+13,trước đó  tại các phiên họp quốc_hội  nhiều đại_biểu quốc_hội đã đánh_giá cao việc chính_phủ đánh_giá  rà_soát quy_hoạch thủy_điện để loại_bỏ 424 dự_án  không xem_xét đưa vào quy_hoạch 172 vị_trí tiềm_năng  tạm dừng có thời_hạn 136 dự_án  tiếp_tục rà_soát  đánh_giá 158 dự_án 
+14,cùng với đó  nghị_quyết của quốc_hội cũng nhấn_mạnh  thời_gian tới sẽ tiếp_tục tổ_chức rà_soát  đánh_giá quy_hoạch thủy_điện  kể_cả các dự_án tạm dừng có thời_hạn  các công_trình thủy_điện đang vận_hành khai_thác  bảo_đảm sử_dụng tài_nguyên nước hợp_lý  bảo_vệ đa_dạng_sinh_học  kiên_quyết loại_bỏ  dừng các dự_án  công_trình thủy_điện không hiệu_quả  không bảo_đảm an_toàn  có ảnh_hưởng xấu tới chế_độ dòng_chảy  môi_trường và đời_sống người dân 
+15,nâng cao chất_lượng lập  thẩm_định  phê_duyệt và quản_lý thực_hiện quy_hoạch 
+16,tổ_chức thực_hiện thống_nhất  đồng_bộ quy_hoạch thủy_điện trong tổng_thể quy_hoạch phân ngành năng_lượng 

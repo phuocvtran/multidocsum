@@ -1,0 +1,12 @@
+idx, sentence
+0,phát_biểu tại cuộc họp_báo hôm 18/5  giờ tokyo   ceo_suzuki_osamu_suzuki đã cúi gập người trước đông_đảo báo_giới  “ chúng_tôi thành_thật xin_lỗi vì đã không áp_dụng đúng những tiêu_chuẩn của đất_nước nhật_bản để đo mức tiết_kiệm nhiên_liệu cho xe suzuki ” 
+1,như_vậy  suzuki là hãng xe đầu_tiên thừa_nhận đã làm sai so với quy_chuẩn sau khi bộ giao_thông nhật yêu_cầu các hãng xe tiến_hành điều_tra nội_bộ sau vụ gian_lận mức tiêu_thụ nhiên_liệu của mitsubishi bị phanh_phui hồi tháng trước 
+2,cụ_thể  ban_đầu mitsubishi thừa_nhận đã “ phóng_đại ” tới 10  về khả_năng tiết_kiệm nhiên_liệu của 4 mẫu xe cỡ nhỏ do hãng sản_xuất 
+3,sau đó  hãng tiếp_tục khẳng_định đã gian_lận khí thải của toàn_bộ các mẫu xe của hãng bán ra tại thị_trường nhật_bản trong vòng 25 năm qua 
+4,điều đáng chú_ý là sau mitsubishi  đến lượt hãng xe đồng_hương nissan cũng bị_cáo_buộc gian_lận khí thải với các mẫu xe của hãng bán tại hàn_quốc 
+5,một cuộc điều_tra của chính_phủ đã phát_hiện nissan đã sử_dụng một thiết_bị “ đặc_biệt ” trên dòng xe thể_thao đa_dụng qashqai nhằm vô_hiệu_hóa hệ_thống quản_lý khí thải trong điều_kiện lái_xe thực_tế 
+6,bộ môi_trường hàn_quốc cho biết sẽ đình_chỉ việc tiêu_thụ xe qashqai tại hàn_quốc và yêu_cầu nissan triệu_hồi 814 phương_tiện liên_quan 
+7,và danh_sách các hãng xe gian_lận tiếp_tục được kéo_dài thêm với cái tên mới nhất suzuki 
+8,suzuki hiện đang là nhà_sản_xuất ô_tô lớn thứ 4 tại nhật_bản  sau toyota  nissan và honda  với thị_phần chính là phân khúc xe kei_car  xe siêu nhỏ  
+9,kết_thúc năm tài_chính kết_thúc vào tháng 3/2016  tổng_lượng xe tiêu_thụ toàn_cầu của suzuki giảm 3   còn 295 triệu xe 
+10,riêng tại thị_trường nhật  suzuki đã giảm sản_lượng xe sản_xuất tại tháng thứ 13 liên_tiếp 

@@ -1,0 +1,9 @@
+idx, sentence
+0,nguồn tin từ tmz cho biết cảnh_sát phát_hiện ra vụ_việc sau khi được thông_tin từ đạo_diễn kyle_newman 
+1,vợ anh là nữ diễn_viên jamie_king  một người bạn thân khác của taylor_swift đã nhận được một tin nhắn dọa giết từ một người dùng mạng_twitter ẩn_danh 
+2,sau điều_tra  cảnh_sát còn cho biết ngoài jamie_king  hàng_loạt các ngôi_sao khác cũng nhận được nội_dung tương_tự từ cùng một người  nổi_bật nhất là taylor_swift  cara_delevingne và gigi_hadid 
+3,điều đáng nói  đây đều là những cô bạn có quan_hệ mật_thiết với nữ ca_sĩ 27 tuổi 
+4,trong khi  công_chúa nhạc đồng_quê  nhận được tin nhắn với nội_dung   tôi sẽ giết các người  thì gigi_hadid lại mệt_mỏi với những tin đại_loại như   những kẻ đáng chết sẽ phải chết   còn cara_delevingne thì phải chịu_đựng sự khủng_bố tinh_thần với thông_điệp   ta sẽ giết những người bạn của ngươi  ta cảm_thấy phấn_khích vì điều đó  
+5,người_mẫu chrissy_teigen  vợ của nam ca_sĩ john_legend cũng là một trong số những nạn_nhân của kẻ biến_thái này 
+6,nhận thấy tính nghiêm_trọng của vụ_việc  hiện cảnh_sát đã được cấp giấy_phép để điều_tra dữ_liệu người dùng twitter nhằm nhanh_chóng phát_hiện ra danh_tính thủ_phạm 
+7,dù đây chỉ là một tin nhắn dọa giết nhưng không_thể xem nhẹ tính_chất nguy_hiểm của hành_động này 

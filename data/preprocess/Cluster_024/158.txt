@@ -1,0 +1,9 @@
+idx, sentence
+0,nielsen cho biết  trong bối_cảnh chi_phí sinh_hoạt ngày_càng tăng cao thì xu_hướng thay_đổi thói_quen chi_tiêu để cắt_giảm chi_phí sinh_hoạt tiếp_tục là ưu_tiên hàng_đầu của người việt 
+1,8 trong 10 người việt đã điều_chỉnh thói_quen trong 12 tháng vừa_qua để tiết_kiệm chi_phí 
+2,khoảng 3 trên 5 người việt đã giảm chi_tiêu cho quần_áo mới và cắt_giảm chi_phí giải_trí bên ngoài so với cùng kỳ năm_ngoái 
+3,khoảng một_nửa người tiêu_dùng việt đã cắt_giảm chi_phí ga  điện và chi_phí điện_thoại 
+4,tuy_nhiên  người tiêu_dùng việt vẫn tiếp_tục sẵn_sàng chi tiền cho các khoảng lớn khác sau khi đã trang_trải đầy_đủ các chi_phí sinh_hoạt thiết_yếu 
+5,thống_kê cho thấy  có khoảng 4/10 người việt cho biết sẽ sử_dụng tiền nhàn_rỗi cho các mục_đích  du_lịch  giải_trí bên ngoài  mua các sản_phẩm công_nghệ mới  cũng như trang_hoàng nhà_cửa 
+6,về vấn_đề sức_khỏe  khoảng 1/3 người tiêu_dùng việt chỉ ra rằng sức_khỏe là mối quan_tâm đứng đầu hoặc đứng thứ 2 của họ trong vòng 6 tháng tới 
+7,tuy_nhiên  ntd cũng quan_tâm đến những vấn_đề khác như  cân_bằng cuộc_sống / công_việc  việc tăng các chi_phí hóa_đơn thiết_yếu và giá thực_phẩm  nợ cũng như việc tăng các chi_phí sinh_hoạt thiết_yếu 

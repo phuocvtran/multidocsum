@@ -1,0 +1,20 @@
+idx, sentence
+0,ubnd xã nhắc_nhở thái_độ của ông nguyễn_trung_dũng trao_đổi với pv về sự_việc hóa_đơn tiền nước hơn 19 triệu đồng / tháng của gia_đình ông trần_công_ứng  thanh_trì  hà_nội   ông nguyễn_hữu_vỵ  chủ_tịch ubnd xã tân_triều cho biết  xã chưa nhận được đơn thư phản_ánh từ phía gia_đình ông ứng về sự_việc trên 
+1,tuy_nhiên  nhận thấy đây là vụ_việc xảy ra trên địa_bàn xã quản_lý  nên xã đã mời htx dịch_vụ sản_xuất nông_nghiệp_triều_khúc  htx_dvsxnn  lên để làm_việc  giải_trình về vấn_đề này 
+2,mặc_dù vậy  ubnd xã đã phải gửi giấy triệu_tập đến lần thứ 2 thì ông triệu_đình_nhã – chủ_nhiệm htx_dvsxnn cùng ông nguyễn_trung_dũng  trưởng_phòng kế_toán  tài_vụ mới chịu lên làm_việc 
+3,“ tại buổi làm_việc  ubnd xã yêu_cầu htx_dvsxnn không được phép dừng việc cấp nước_sạch cho gia_đình ông trần_công_ứng và phải mang đồng_hồ nước của gia_đình ông ứng đi kiểm_định để tìm_hiểu nguyên_nhân vì sao giá tiền nước lại tăng cao như_thế ” – ông vỵ khẳng_định 
+4,ngoài_ra  ubnd xã cũng nhắc_nhở thái_độ của ông nguyễn_trung_dũng  trưởng_phòng kế_toán  tài_vụ htx_dvsxnn trong buổi họp_báo sáng 195 
+5,ubnd xã yêu_cầu htx_dvsxnn phải phối_hợp với các cơ_quan báo_chí  thông_tin_đại_chúng để giải_quyết vụ_việc này cho tốt  tránh sự hiểu nhầm 
+6,chỉ sinh_hoạt bình_thường không_thể hết hơn 1000 m3 nước / tháng về phía gia_đình ông trần_công_ứng cho biết  ngày 205 htx_dvsxnn đã tới tháo đồng_hồ nước của gia_đình ông mang đến chi_cục tiêu_chuẩn đo_lường chất_lượng hà_nội kiểm_định 
+7,sau khi tháo đồng_hồ  htx đã cho người lắp một chiếc đồng_hồ khác để gia_đình có_thể tiếp_tục sử_dụng nước 
+8, khoảng 8 giờ sáng  htx cho người xuống tháo đồng_hồ nước của gia_đình tôi và lập biên_bản  niêm_phong đưa đi kiểm_định để làm rõ_ràng vụ_việc ”  ông ứng nói 
+9,theo đó  ông bùi_văn_năng – trưởng_ban kiểm_soát htx_dvsxnn là người trực_tiếp mang chiếc đồng_hồ đi kiểm_định 
+10,ngoài_ra  người_nhà ông ứng cũng đi cùng để đảm_bảo tính khách_quan 
+11,chiếc đồng_hồ nước của ông ứng được mang đến chi_cục tiêu_chuẩn đo_lường chất_lượng hà_nội  số 89 nguyễn_thái_học  đống_đa  hà_nội  
+12,sau khi xem hóa đơn nhập hàng của htx_dvsxnn  chị trần_thị_bích hằng – nhân_viên chi_cục đã lập biên_bản tiếp_nhận chiếc đồng_hồ 
+13,“ do lãnh_đạo đang bận đi công_tác nên chưa_thể kiểm_định ngay 
+14,chúng_tôi đã lập biên_bản tiếp_nhận chiếc đồng_hồ và sẽ có kết_quả thông_báo đến gia_đình vào ngày 275 tới đây ”  chị hằng cho hay 
+15,heo chị hằng  mỗi chiếc đồng_hồ nước có thời_gian sử_dụng 5 năm 
+16,chiếc đồng_hồ của gia_đình ông ứng mới lắp năm 2013  như vậy còn khoảng 2 năm nữa mới hết hạn 
+17,chị_hằng cũng nhận_định  đã có nhiều trường_hợp đến chi_cục nhờ kiểm_định lại đồng_hồ nước 
+18,“ có_khi cơ_cấu bánh_xe của đồng_hồ có vấn_đề hoặc khi sử_dụng máy_bơm_hút nước  hơi_nước có_thể khiến đồng_hồ quay nhanh … tuy_nhiên  việc một gia_đình 6 người chỉ dùng sinh_hoạt bình_thường không_thể hết hơn 1000 m3 nước / tháng ” – chị hằng nói 

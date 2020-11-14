@@ -1,0 +1,4 @@
+idx, sentence
+0,chiều ngày 2/6  cơ_quan csđt công_an thành_phố móng_cái cho hay  đơn_vị này đang tiến_hành điều_tra vụ trộm_cắp tài_sản  xảy ra tại đền xã_tắc thuộc khu 3 phường ka_long   thành_phố móng_cái  quảng_ninh  
+1,theo thông_tin từ cơ_quan ca tp móng_cái  cơ_quan csđt đã thu_giữ hình_ảnh được ghi lại từ camera gắn tại đền cho thấy có 2 thanh_niên đã cạy cửa  đột_nhập  dùng thanh sắt và đục của thợ_mộc phá_hỏng 3 chiếc hòm công_đức  lấy đi khoảng 300 triệu đồng 
+2,nhận dạng hình_ảnh từ camera cho thấy đối_tượng thứ nhất khoảng 2530 tuổi  cao khoảng 1 m65  đối_tượng thứ 2 cùng độ tuổi  cao khoảng 1 m70 

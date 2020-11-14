@@ -1,0 +1,8 @@
+idx, sentence
+0,trang sputnik ngày 31/5 đưa tin  tòa_án thổ nhĩ kỳ vừa kết_án 14 tháng tù_treo cựu hoa_hậu nước này vì “ công_khai xúc_phạm ” tổng_thống recep_tayyip_erdogan trên mạng xã_hội 
+1,theo tờ báo milliyet  hồi năm 2014  cựu hoa_hậu_thổ nhĩ kỳ năm 2006  người_đẹp merve_buyuksarac đã đăng_tải trên ứng_dụng instagram bản parody nhái lại quốc_ca thổ nhĩ kỳ kèm theo một bài thơ trào_phúng chỉ_trích và chế_nhạo tổng_thống erdogan 
+2,các luật_sư của tổng_thống thổ nhĩ kỳ cho biết  bài thơ này “ như một cuộc tấn_công chống lại quyền cá_nhân ” của ông erdogan 
+3,tòa_án ở thành_phố istanbul đã đồng_ý với lập_luận của luật_sư tổng_thống và kết_án người_đẹp buyuksarac 14 tháng tù_treo  và nếu tái_phạm cô sẽ phải ngồi_tù 
+4,trước phán_quyết này  luật_sư của cựu hoa_hậu đã bày_tỏ sự bất_đồng với các quyết_định của tòa_án 
+5,trong khi đó  theo số_liệu thống_kê mới nhất  hiện đang có 1845 người dân thổ nhĩ kỳ bị điều_tra về tội xúc_phạm ông erdogan 
+6,nếu bị kết_tội  những người này có_thể bị phạt tới 4 năm tù 

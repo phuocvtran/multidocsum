@@ -1,0 +1,44 @@
+idx, sentence
+0,báo vtc_news dẫn nguồn tin cho biết  năm_ngoái  elizabeth_holmes đứng thứ nhất trong danh_sách những phụ_nữ tự_thân giàu_có nhất nước mỹ của forbes với tài_sản trị_giá 45 tỷ usd nhưng hôm_nay  forbes đã quyết_định hạ mức định_giá tài_sản của cô về con_số không 
+1,forbes cho biết  tài_sản của holmes được đánh_giá dựa trên 50  cổ_phần của cô tại theranos  công_ty chuyên xét_nghiệm máu mà cô sáng_lập vào năm 2003 với kế_hoạch tạo nên cuộc cách_mạng trong lĩnh_vực xét_nghiệm y_học 
+2,cổ_phiếu của theranos chưa được niêm_yết  các nhà_đầu_tư cá_nhân đã mua cổ_phiếu này vào năm 2014  giúp giá_trị của công_ty được định_mức ở 9 tỷ usd 
+3,từ đó cho tới nay  theranos đang gặp “ rắc_rối ” với các vụ điều_tra liên_quan tới tính chính_xác của các xét_nghiệm do công_ty thực_hiện 
+4,việc này  cộng với việc có thông_tin rằng doanh_thu của theranos hàng năm ít hơn 100 triệu usd  khiến forbes buộc phải hạ mức định_giá tài_sản của elizabeth_holmes xuống 
+5,forbes đã trao_đổi với các nhà_đầu_tư vốn  chiến_lược gia  các chuyên_gia_thuộc lĩnh_vực định_giá và đưa ra kết_luận rằng  theranos hiện có giá_trị 800 triệu usd  thay_vì 9 tỷ usd như trước đấy 
+6,điều này khiến lượng cổ_phiếu mà holmes nắm giữ tại công_ty hầu_như không đáng_giá  bởi các nhà_đầu_tư cá_nhân nắm giữ cổ_phiếu của theranos sẽ được ưu_tiên trả trước trong trường_hợp công_ty gặp trục_trặc  thay_vì cổ_phiếu thông_thường của holmes 
+7,vậy tại_sao một công_ty tiềm_năng được thành_lập với kế_hoạch mang tới cuộc cách_mạng trong lĩnh_vực xét_nghiệm máu từng được định_giá cao bỗng_dưng lại bị hạ định_giá xuống quá thấp như vậy 
+8,thông_tin trên trí_thức trẻ  có 3 nguyên_nhân khiến forbes hạ mức định_giá của theranos   mức định_giá 9 tỷ usd vẫn là một điều bí_ẩn 
+9,theranos cho biết công_ty này có_thể thay_thế phương_pháp xét_nghiệm máu truyền_thống bằng một chiếc kim châm cực nhỏ được giấu trong một chiếc hộp nhỏ như đồng xu  hai giọt máu sẽ được trích ra và sau đó 240 phép xét_nghiệm có_thể được thực_hiện trong thời_gian ngắn hơn rất nhiều so với phương_pháp truyền_thống  giá lại rẻ hơn 
+10,tuy_nhiên  công_ty này lại chưa đưa ra bất_kỳ bằng_chứng_thực_tế nào chứng_minh rằng công_nghệ của họ hoạt_động hiệu_quả 
+11, thông_tin thiếu minh_bạch  holmes từng hứa sẽ công_khai dữ_liệu về công_nghệ tiến_bộ của công_ty trong vòng 6 tháng nhưng đến tháng tư năm nay vẫn chưa có văn_bản nào được đưa ra 
+12,theo thông_tin ban_đầu  holmes cho biết công_ty đã nhận được sự chấp_thuận của cơ_quan quản_lý thực_phẩm và dược_phẩm hoa_kỳ  fda  để thực_hiện việc xét_nghiệm virus herpes  đây được cho là bước khởi_đầu cho 120 sự cấp phép thực_hiện sau đó 
+13,tuy_nhiên  sau đó phía fda đã không chấp_nhận và yêu_cầu theranos ngừng sử_dụng công_nghệ xét_nghiệm của họ và không chấp_thuận cho cả những trường_hợp sau_này 
+14,theranos đã buộc phải hủy hàng nghìn xét_nghiệm  theo một bài báo của the wall_street_journal đăng hồi tháng 5/2016 
+15, thị_trường mục_tiêu không tồn_tại  nhiều chuyên_gia luôn hoài_nghi về ý_tưởng cho rằng giá_trị của theranos ngang bằng với một_số  ông lớn  khác cùng ngành như laboratory_corp 
+16,of america  vốn_hoá thị_trường 13 tỷ usd  hay quest_diagnostics  vốn_hoá thị_trường 11 tỷ usd  
+17,tuy_nhiên  thực_tế là giá cho mỗi lần xét_nghiệm tại theranos rẻ hơn các đối_thủ  nên ngoài việc cần cải_thiện biên lợi_nhuận  công_ty này cũng cần tìm_kiếm được nhiều khách_hàng tham_gia xét_nghiệm hơn nếu muốn đạt mức giá_trị ngang_bằng với các công_ty kể trên 
+18,“ cố_gắng thay_thế công_nghệ xét_nghiệm trong phòng_thí_nghiệm thông_thường là một việc không hề đơn_giản ”  robert_nelson đến từ quỹ arch_ventures cho hay 
+19,lợi_nhuận trong lĩnh_vực này vốn thấp và đặc_biệt lại sẽ càng khó hơn để một công_nghệ mới có_thể thành_công 
+20,robert_kocher  một chuyên_gia đầu_tư chuyên về lĩnh_vực y_tế của quỹ đầu_tư mạo_hiểm venrock  cho rằng nếu công_nghệ của theranos thực_sự có giá_trị thì công_ty này nên tập_trung vào bán thiết_bị xét_nghiệm thay_vì cố sáng_tạo lại những thứ mà lapcorp hay quest_diagnostics đã khá thành_công 
+21,tháng 8 tới đây  holmes sẽ phải trình_bày dữ_liệu kinh_doanh của theranos trong cuộc họp hàng năm của aacc  hiệp_hội hóa_học lâm_sàng mỹ 
+22,tại đây  những dữ_liệu về công_nghệ mới của cũng như thông_tin về tình_hình kinh_doanh của theranos có_thể được làm sáng_tỏ hơn  song ở thời_điểm hiện_tại elizabeth_holmes đã bị loại ra khỏi danh_sách những nữ tỷ_phú tự_thân giàu nhất thế_giới cũng như các danh_sách tỷ_phú khác của forbes 
+23,nữ tỷ_phú elizabeth_holmes đã làm_giàu như thế_nào 
+24,elizabeth_holmes sinh ra_vào tháng 2/1984 trong một gia_đình trí_thức 
+25,mẹ cô – bà noel_anne là chuyên_viên ủy_ban quốc_hội 
+26,bố cô – ông christian_holmes làm_việc cho nhiều tổ_chức chính_phủ và là đã từng là đại_sứ mỹ tại trung_quốc 
+27,do đặc_thù công_việc của ông christian_holmes  gia_đình cô holmes thường_xuyên phải di_chuyển nhiều nơi từ washington để houston và trung_quốc 
+28,elizabeth_holmes bỏ học khi mới 19 tuổi  trước đó  cô theo học khoa kỹ_thuật hóa_học  đại_học stanford  sau 2 năm nghiên_cứu và tìm tỏi ý_tưởng  cô đặt viên gạch đầu_tiên của đế_chế theranos năm 21 tuổi 
+29,sau khoảng thời_gian dài nài_nỉ bố_mẹ  ông_bà holmes cũng đành đồng_ý để con_gái đem toàn_bộ tiền học_phí đi mở công_ty riêng  sự thành_công của cô là điều mà ông_bà holmes không_thể ngờ tới 
+30,tự_lập ở tuổi 21  elizabeth_holmes từ hai bàn_tay_trắng trở_thành tỷ_phú mỹ  ý_tưởng ban_đầu của theranos là tạo ra thứ khiến các bác_sĩ nội_khoa thất_nghiệp 
+31,cụ_thể hơn  holmes muốn sáng_tạo ra một thiết_bị kiểm_tra sức_khỏe tổng_thể chỉ với đúng một giọt máu 
+32,với cương_vị chủ_tịch theranos  các quản_lý cấp dưới của holmes 100  là đàn_ông 
+33,ban giám_đốc của theranos gồm toàn những quan_chức chính_phủ đã về hưu như 3 cựu bộ_trưởng nội_các mỹ  george_shultz  bill_perry  henry_kissinger  2 thượng_nghị_sĩ nghị_viện mỹ  cựu giám_đốc cục chỉ_huy quân_sự mỹ  một đô_đốc hải_quân và nguyên giám_đốc trung_tâm kiểm_soát và phòng_ngừa dịch_bệnh mỹ 
+34,sau hơn một thập_kỷ cố_gắng không mệt_mỏi  holmes gặt_hái thành_công khi theranos đã trở_thành một trong những cái tên  sừng_sỏ  nhất làng công_nghệ_sinh_học thế_giới 
+35,theranos có giá_trị 9 tỷ usd  189 nghìn tỷ đồng  và cô holmes đang nắm giữ một_nửa cổ_phần công_ty 
+36,hiện_nay  thiết_bị của theranos có_thể làm 70 bài kiểm_tra sức_khỏe chỉ với một giọt máu 
+37,mặc_dù kiếm tiền từ máu  nhưng elizabeth_holmes bị chứng sợ kim_tiêm 
+38,cô thừa_nhận bản_thân chỉ sợ kim_tiêm chứ không sợ máu cho lắm 
+39,trong buổi phỏng_vấn với cnn năm 2014  cô holmes đã đưa ra một ví_dụ rất thú_vị về nỗi sợ của mình   nếu_như người ngoài hành_tinh đến đây và hỏi chúng_ta trò tra_tấn ghê_rợn nhất trái_đất là gì  tôi nghĩ trò ghê nhất là chọc cây kim vào cơ_thể ai đó và hút máu của họ ra hoặc truyền cái gì đó vào  
+40,cô mơ_ước được vào đại_học khi mới lớp 10  lớp 11 elizabeth đã có một buổi nói_chuyện với hiệu_trưởng đại_học stanford và được nhận vào học ngay_lập_tức 
+41,giáo_sư hóa_học channing_robertson  thầy_giáo cũ của holmes hiện đang làm_việc tại công_ty theranos 
+42,ngày holmes bỏ học  cô nói với ông robertson rằng đến một ngày nào đó cô sẽ mời ông về làm_việc cho cô  giáo_sư robertson vô_cùng ấn_tượng và đã giới_thiệu holmes cho một quỹ đầu_tư mạo_hiểm 

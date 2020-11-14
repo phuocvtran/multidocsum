@@ -1,0 +1,28 @@
+idx, sentence
+0,dự_báo trong_sáng và đêm nay 24/5 ở bắc_bộ dự_báo có mưa  có nơi mưa vừa  mưa to và dông 
+1,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá 
+2,theo trung_tâm dự_báo khí_tượng thủy_văn trung_ương 24 h qua  ở các tỉnh tây_bắc và việt bắc bắc_bộ  khu_vực tây_nguyên và nam_bộ đã có mưa vừa  mưa to và rải_rác có dông 
+3,một_số nơi có lượng mưa lớn như sapa  lào_cai  83 mm  tam_đường  lai_châu  55 mm  yên_bái 66 mm  eahleo  đắc_lắc  121 mm  dự_báo  trong_sáng và đêm nay  24/5  ở các tỉnh tây_bắc  việt_bắc của bắc_bộ còn có mưa  có nơi mưa vừa  mưa to và dông 
+4,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+5,khu_vực tây_nguyên và nam_bộ trong 23 ngày tới tiếp_tục có mưa  mưa vừa  có nơi mưa to và rải_rác có dông 
+6,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+7,trên biển  do ảnh_hưởng của gió_mùa tây_nam đang hoạt_động mạnh_dần nên khu_vực vùng_biển từ bình_thuận đến cà_mau  cà_mau đến kiên_giang  vịnh thái_lan và khu_vực nam_biển_đông  bao_gồm cả quần_đảo trường_sa  có mưa dông mạnh  tại côn_đảo  bà_rịa  vũng_tàu  đã có gió_giật mạnh cấp 7 
+8,trong 23 ngày tới  khu_vực nam_biển_đông  bao_gồm cả vùng_biển quần_đảo trường_sa   vùng_biển từ bình_thuận đến cà_mau  cà_mau đến kiên_giang và vịnh thái_lan tiếp_tục có mưa dông mạnh 
+9,dự_báo thời_tiết các khu_vực trên cả nước ngày 24/5  phía tây_bắc_bộ  đêm và sáng có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
+10,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+11,độ_ẩm từ 80  100  
+12,nhiệt_độ thấp nhất 22  25 độ c nhiệt_độ cao nhất 26  29 độ c  có nơi trên 30 độ c_phía đông_bắc_bộ  đêm và sáng sớm có mưa  có nơi mưa vừa  mưa to và rải_rác có dông  sau có mưa  mưa_rào rải_rác 
+13,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+14,độ_ẩm từ 70  98  
+15,nhiệt_độ thấp nhất 23  26 độ c nhiệt_độ cao nhất 28  31 độ c các tỉnh từ thanh_hóa  thừa_thiên_huế  có mưa_rào và dông vài nơi  riêng phía bắc đêm và sáng sớm có mưa  có nơi mưa vừa và rải_rác có dông 
+16,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+17,độ_ẩm từ 70  98  
+18,nhiệt_độ thấp nhất 23  26 độ c nhiệt_độ cao nhất 30  33 độ c các tỉnh từ đà_nẵng đến bình_thuận  ngày nắng  chiều_tối và đêm có mưa_rào và dông vài nơi 
+19,độ_ẩm từ 65  95  
+20,nhiệt_độ thấp nhất 25  28 độ c nhiệt_độ cao nhất 32  35 độ c khu_vực tây_nguyên  ngày có mưa_rào và dông vài nơi  chiều_tối và đêm có mưa  mưa vừa  có nơi mưa to và rải_rác có dông 
+21,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+22,độ_ẩm từ 55  97  
+23,nhiệt_độ thấp nhất 21  24 độ cnhiệt độ cao nhất 31  34 độ c khu_vực nam_bộ  ngày có mưa_rào và dông vài nơi  chiều_tối và đêm có mưa  mưa vừa  có nơi mưa to và rải_rác có dông 
+24,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+25,độ_ẩm từ 70  98  
+26,nhiệt_độ thấp nhất 23  26 độ c nhiệt_độ cao nhất 31  34 độ c 

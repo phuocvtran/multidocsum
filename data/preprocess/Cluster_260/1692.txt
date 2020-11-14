@@ -1,0 +1,10 @@
+idx, sentence
+0,ryan giggs sắp chấm_dứt mối quan_hệ công_việc kéo_dài 29 năm với manchester_united khi trở về manchester từ dubai 
+1,giggs sẽ từ_chối đề_nghị làm trợ_lý của jose_mourinho để có cơ_hội thử sức trong vai_trò hlv trưởng ở một đội bóng khác 
+2,cựu cầu_thủ 42 tuổi vừa quay về manchester sau kỳ nghỉ_hè ngắn ngày 
+3,giggs  người đã làm_việc với tư_cách trợ_lý cho hlv louis_van_gaal lẫn david_moyes  được xem là một ứng_viên cho chiếc ghế hlv trưởng mu sau khi van_gaal ra đi  nhưng mu quyết_định bổ_nhiệm jose_mourinho vào vị_trí này 
+4,sự có_mặt của mourinho ở sân old_trafford đồng_nghĩa những trợ_lý thân_cận của “ người đặc_biệt ”  bao_gồm rui faria  silvino_louro  cùng với hlv thể_lực carlos_lalin cũng sẽ tới làm_việc tại mu 
+5,faria sẽ được bổ_nhiệm làm trợ_lý chính của mourinho  do_vậy giggs sẽ phải chấp_nhận một vị_trí thấp hơn dưới thời hlv mới 
+6,tờ manchester_evening_news cho biết  giggs đã được cả mu lẫn cá_nhân mourinho mời ở lại  trong một vai_trò mới ở học_viện bóng_đá của clb  hiện đang được quản_lý bởi đồng_đội cũ và bạn thân của giggs  nicky_butt 
+7,tuy_nhiên giggs được cho là đã rất thất_vọng trước việc không được mu tín_nhiệm  và bản_thân giggsy cũng muốn thử sức mình ở môi_trường mới 
+8,mu tuy mời giggs ở lại nhưng cũng không thúc_ép 

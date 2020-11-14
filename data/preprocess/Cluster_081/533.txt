@@ -1,0 +1,5 @@
+idx, sentence
+0,ông alexander_van_der_bellen  72 tuổi  chuyên_gia kinh_tế  được đảng môi_trường ủng_hộ  đã trở_thành tổng_thống áo với kết_quả rất sít_sao trước đối_thủ của đảng cực_hữu khi chỉ hơn đối_thủ này chưa tới 06  tổng_số phiếu_bầu 
+1,đảng cực_hữu không giành được ghế tổng_thống nhưng đó không phải là một thất_bại 
+2,nếu tất_cả các đảng khác dồn phiếu cho ông bellen  toàn_bộ số phiếu đó cũng chỉ cao hơn một_chút so với số phiếu_bầu cho ứng_cử_viên cực_hữu 
+3,theo đó  chưa bao_giờ xu_hướng dân_tộc chủ_nghĩa giành được tới 497  số phiếu trong một cuộc bầu_cử 

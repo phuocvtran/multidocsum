@@ -1,0 +1,23 @@
+idx, sentence
+0,theo trang mạng quân_sự mỹ ngày 1/6  một máy_bay chiến_đấu ea18g_growler khi đang trong quá_trình hạ_cánh xuống tàu sân_bay uss_john_c_stennis thì bị vướng vào cáp hãm đà khi vẫn chưa hạ_cánh hẳn  khiến mũi phi_cơ hư_hỏng  và các vật_thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động_cơ 
+1,sự_cố xảy ra hôm 29/5 đã khiến máy_bay chiến_đấu này bị hư_hỏng nặng  không_thể hoạt_động 
+2,theo nguồn tin hải_quân mỹ  thời_điểm đó tàu sân_bay uss_stennis đang hoạt_động trên biển_đông  rất may sự_cố không khiến thủy_thủ bị_thương hay các máy_bay khác hư_hỏng 
+3,trung_tâm an_toàn hải_quân mỹ liệt_kê sự_cố vào loại a  tức_là chiếc máy_bay giá_trị 68 triệu usd gặp thiệt_hại ít_nhất hai triệu usd 
+4,nhưng groeneveld cho biết việc phân_loại vẫn đang được đánh_giá và có_thể được hạ xuống_cấp thấp hơn 
+5,giới_chức bảo_trì máy_bay cho biết họ đang đánh_giá mức_độ hư_hỏng của chiếc ea18g_growler và xác_định_liệu chiếc máy_bay này có_thể sửa_chữa hay phải dùng một chiếc growler thay_thể 
+6,ea18g growler là biến_thể tấn_công_điện_tử được phát_triển dựa trên mẫu tiêm_kích hạm f / a18e / f để phục_vụ trên hạm_đội tàu sân_bay hùng_mạnh của hải_quân mỹ 
+7,ea18g growler được tập_đoàn boeing phát_triển từ đầu những năm 2000 để thay_thế cho loại ea6b_prowler đã cũ của hải_quân mỹ 
+8,trong ảnh là máy_bay tấn_công_điện_tử ea6b bay giữa  dẫn_đầu 2 chiếc ea18g 
+9,trong ảnh là mẫu thử_nghiệm ea1 của chương_trình phát_triển máy_bay tấn_công_điện_tử ea18g_growler được ra_mắt công_chúng ngày 3/8/2006 
+10,trong giai_đoạn 2008  2009  một số máy_bay ea18g bắt_đầu được triển_khai hạn_chế trong các đơn_vị không_quân hải_quân 
+11,tổng_cộng  hải_quân mỹ đã đặt_hàng chế_tạo 114 chiếc ea18g  đơn_giá mỗi chiếc 682 triệu usd 
+12,tính tới thời_điểm hiện_tại đã có khoảng 100 chiếc ea18g được cung_cấp cho hải_quân mỹ 
+13,máy_bay tác_chiến điện_tử trên hạm ea18g có chúng hơn 90  thiết_kế với chuẩn máy_bay tiêm_kích hạm f / a18e / f super_hornet 
+14,nó cũng dùng chung radar mạng pha chủ_động aesa_an / apg79  hệ_thống vũ_khí cũng như hệ_thống quản_lý tích_trữ an / ayk22 
+15,được thiết_kế cho nhiệm_vụ tấn_công_điện_tử  thực_hiện chiến_thuật áp_chế lực_lượng phòng không đối_phương  sead   pháo vulcan 20 mm đã bị loại_bỏ khỏi phần mũi để thêm vào hệ_thống điện_tử  và các phần khác của khung máy_bay cũng vậy   máy thu alq218 được lắp ở đầu_cánh  ngoài_ra còn có máy alq99 là máy làm nhiễu ở dải_tần_số cao và tần_số thấp 
+16,thiết_bị làm nhiễu và những thùng nhiên_liệu phụ cũng được tăng thêm  mặc_dù như vậy  ea18g sẽ có tầm hoạt_động dài hơn và thời_gian trên không cũng tăng thêm 
+17,việc loại_bỏ 2 điểm treo ở đầu_mút cánh khiến ea18g chỉ còn 9 giá treo  6 dưới cánh  3 dưới thân  có khả_năng mang 8 tấn trang_bị các loại vũ_khí sát_thương  tên lửa không đối không aim9 / aim120 và tên lửa chống radar agm88_harm  và thiết_bị trinh_sát / tác_chiến điện_tử  hệ_thống gây_nhiễu an / alq99  hệ_thống định_vị hồng_ngoại an / asq228  hệ_thống tách sóng an / alq218  
+18,ea18g có_thể được trang_bị với 5 thiết_bị gây_nhiễu chiến_thuật alq99  thêm 2 tên lửa aim120 để tự_vệ và hai tên lửa chống bức_xạ tốc_độ cao agm88_harm để diệt radar 
+19,ea18g cũng sẽ sử_dụng hệ_thống xóa bỏ gây_nhiễu incans  hệ_thống này cho_phép truyền_thông_tin bằng tiếng_nói trong nội_bộ  trong khi hệ_thống thông_tin của đối_phương bị nhiễu 
+20,trong đó  vũ_khí diệt radar agm88_harm thực_sự là thách_thức đối_với hệ_thống radar nói_chung và hệ_thống radar trên các tàu_chiến nói_riêng 
+21,agm88_harm  giá thứ 3  từ trái qua phải  lắp đầu nổ phá mảnh nặng 66 kg  tầm bắn khoảng 150 km  tốc_độ siêu_âm  có_thể tấn_công đài radar địch kể_cả trong trường_hợp radar bị tắt  

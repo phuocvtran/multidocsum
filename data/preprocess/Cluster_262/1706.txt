@@ -1,0 +1,7 @@
+idx, sentence
+0,theo đó  ông nguyễn_xuân_thuỷ  37 tuổi  người địa_phương  đặt lồng bè nuôi cá tại sông_cầu  đoạn qua địa_phận xã đông_tiến 
+1,tại khu nuôi cá ông thuỷ dựng một căn chòi nhỏ để trông_coi 
+2,người dân tại đây cho biết  khoảng 17 g30 ngày 2/6  4 thiếu_niên đang tắm sông thì được ông thủy_nhờ để điều_chỉnh lại chiếc cầu dẫn từ lồng cá lên bờ 
+3,khi cả 5 người đang khiêng chiếu lồng sắt thì thì bị điện giật khiến tất_cả tử_vong 
+4,ngay sau khi sự_việc xảy ra  lực_lượng công_an huyện yên_phong và chính_quyền địa_phương đã có_mặt để điều_tra vụ_việc và chia_buồn cùng các gia_đình nạn_nhân 
+5,lãnh_đạo huyện yên_phong cho biết  chính_quyền địa_phương sẽ tổ_chức thăm_hỏi gia_đình các nạn_nhân trong ngày 3/6 đồng_thời rà_soát các khu nuôi_trồng của người_dân  đảm_bảo an_toàn hệ_thống điện 

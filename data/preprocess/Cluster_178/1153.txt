@@ -1,0 +1,9 @@
+idx, sentence
+0,messi đã trải qua một mùa bóng không quá thành_công như mong_đợi 
+1,không_những vậy  anh còn dính vào vô_số rắc_rối chỉ vì vấn_đề thuế_má với nhà cầm_quyền 
+2,trước vụ ra tòa vào ngày_mai  31/5  người_ta mới lật lại những gì ngôi_sao người argentina từng phát_biểu hồi năm 2013 
+3,nghe những phát_biểu này mới thấy messi  quê một cục  đến thế_nào 
+4, tôi tin bố tôi  ông ấy tiếp_quản mọi thứ liên_quan đến vấn_đề kinh_tế 
+5,ông ấy nói gì thì tôi sẽ làm thế   messi chia_sẻ khi nói với tờ el_periodico của xứ catalan 
+6,messi tin_tưởng vào ông bố jorge_horacio đến_nỗi không thèm đọc bất_cứ điều_khoản hợp_đồng nào  dù có_lẽ anh cũng phải hiểu nguyên_tắc cơ_bản của mọi chữ_kí  đó là  bút sa gà chết  
+7, tôi kí mọi thứ  nhưng chẳng đọc chúng bao_giờ  

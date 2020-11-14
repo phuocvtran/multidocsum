@@ -1,0 +1,17 @@
+idx, sentence
+0,theo báo_cáo này  chỉ_số nhà quản_trị mua hàng  purchasing_managers_’_index  pmi  toàn_phần lĩnh_vực sản_xuất của việt_nam – một chỉ_số tổng_hợp về tình_trạng ngành sản_xuất  đã tăng nhẹ từ mức 523 điểm trong tháng 42016 lên 527 điểm trong tháng 52016  cho thấy sức_khỏe lĩnh_vực sản_xuất đã cải_thiện mạnh_mẽ 
+1,các điều_kiện kinh_doanh đã tốt lên trong suốt sáu tháng qua với mức cải_thiện trong tháng 5 là lớn nhất trong một năm qua 
+2,sự cải_thiện các điều_kiện kinh_doanh gần đây chủ_yếu là nhờ mức tăng đáng_kể số_lượng đơn đặt_hàng mới 
+3,trong tháng 52016  số_lượng đơn đặt_hàng mới đã tăng nhanh hơn  trong đó  cả lĩnh_vực sản_xuất hàng_hóa tiêu_dùng và hàng_hóa đầu_tư cơ_bản đều có số_lượng đơn đặt_hàng mới tăng  trong khi các công_ty sản_xuất hàng_hóa trung_gian lại giảm 
+4,số_lượng đơn đặt_hàng xuất_khẩu mới trong tháng 52016 cũng tăng  mặc_dù với mức_độ yếu hơn so với tháng 42016  hàng_hóa trung_gian lại giảm 
+5,hơn 27  số số người trả_lời khảo_sát cho biết có tăng số_lượng đơn đặt_hàng xuất_khẩu mới  trong khi có 21  số người cho biết giảm 
+6,số_lượng đơn đặt_hàng mới tăng cao nên sản_lượng ngành sản_xuất tiếp_tục tăng trong tháng 52016  với mức tăng nhanh nhất kể từ tháng 7 năm_ngoái  và đây là lần tăng thứ sáu liên_tiếp 
+7,để đáp_ứng số_lượng đơn đặt_hàng mới nhiều hơn  các nhà_sản_xuất đã tuyển thêm nhân_viên và đã tăng hoạt_động mua hàng 
+8,theo đó  việc_làm đã tăng tháng thứ hai liên_tiếp  mặc_dù chỉ là tăng nhẹ và với tốc_độ chậm hơn so với tháng trước đó 
+9,trong khi đó  tốc_độ tăng mua hàng_hóa đầu vào đã gia_tăng với mức tăng nhanh nhất kể từ tháng 7 năm_ngoái 
+10,hoạt_động mua hàng đã tăng trong suốt sáu tháng qua 
+11,chi_phí đầu_vào trong tháng vừa_rồi cũng tăng tháng thứ hai liên_tiếp và có mức_độ tăng nhanh nhất kể từ tháng 82014 
+12,những người trả_lời khảo_sát cho biết chi_phí nguyên_vật_liệu cao hơn  và một_số trường_hợp cho rằng chi_phí tăng là do thiếu nguồn cung 
+13,vì giá_cả đầu_vào tiếp_tục tăng  các nhà_sản_xuất đã tăng_giá_cả đầu_ra tương_ứng 
+14,mức_độ tăng_giá vẫn thấp nhưng nhanh hơn so với tháng trước đó 
+15,giá_cả đầu_ra tăng trong lĩnh_vực hàng_hóa tiêu_dùng và hàng_hóa đầu_tư cơ_bản  nhưng giảm trong lĩnh_vực hàng_hóa trung_gian 

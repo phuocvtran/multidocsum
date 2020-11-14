@@ -1,0 +1,6 @@
+idx, sentence
+0,đại_diện trường đại_học kinh_tế london  lse  ngày 23/5 thông_báo  bắt_đầu từ mùa thu năm nay  angelina_jolie sẽ giảng bài cho sinh_viên  tham_gia các hội_thảo chuyên_đề cùng một_số sự_kiện cộng_đồng tại trung_tâm nói trên 
+1,những hoạt_động này đều nằm trong khoá đào_tạo thạc_sĩ kéo_dài một năm của nhà_trường 
+2,khóa đào_tạo có mục_đích khá tương_đồng với mục_đích trong sứ_mệnh mà nữ diễn_viên nổi_tiếng đang đảm_nhận tại liên_hợp_quốc  đó là khuyến_khích bình_đẳng giới và giúp_đỡ các phụ_nữ chịu thiệt_thòi do bị tác_động bởi xung_đột trên toàn thế_giới 
+3,nữ diễn_viên từng đoạt giải oscar sẽ tham_gia đội_ngũ giảng_viên thỉnh_giảng cùng jane_connors  giám_đốc vận_động quốc_tế thuộc tổ_chức ân_xá quốc_tế_geneva  cựu ngoại_trưởng anh lord_william_hague và madeleine_rees  tổng_thư_ký liên_đoàn_quốc_tế phụ_nữ vì hòa bình và tự_do 
+4,chia_sẻ cảm_xúc về niềm vinh_dự lớn_lao này  angelina_jolie khẳng_định cô rất thích_ý_tưởng sáng_tạo của chương_trình đào_tạo thạc_sĩ nói trên  đồng_thời hy_vọng các cơ_sở giảng_dạy khác cũng nên cân_nhắc việc áp_dụng mô_hình này  bởi các hoạt_động thảo_luận nhằm nâng cao quyền của phụ_nữ và chấm_dứt những tội_ác đối_với phụ_nữ do phân_biệt đối_xử đều là những việc mang ý_nghĩa quan_trọng 

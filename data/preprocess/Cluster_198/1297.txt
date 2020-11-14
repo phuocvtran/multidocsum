@@ -1,0 +1,4 @@
+idx, sentence
+0,theo phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam phan_thị_thu_hiền  thực_hiện kế_hoạch cung_cấp dịch_vụ công trực_tuyến của bộ_gtvt  giai_đoạn 2013  2015  định_hướng đến năm 2020  sau 5 tháng nghiên_cứu  xây_dựng hệ_thống cung_cấp dịch_vụ công mức_độ 4 cấp giấy_phép lái_xe quốc_tế quốc_tế  tổng_cục đã hoàn_thành các thủ_tục để chính_thức đưa vào sử_dụng dịch_vụ 
+1,việc cấp và quản_lý giấy_phép lái_xe  gplx  quốc_tế mang lại sự thuận_lợi cho người lao_động  lưu_học_sinh và cán_bộ đang làm_việc  công_tác tại các nước tham_gia công_ước_viên 1968 được sử_dụng giấy_phép lái_xe nội_địa và giấy_phép lái_xe quốc_tế để lái_xe theo quy_định của luật_pháp quốc_tế 
+2,người có nhu_cầu cấp gplx quốc_tế không phải đến trực_tiếp để làm thủ_tục và nhận kết_quả  công_dân đã có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử  wwwdrvngovvn và wwwdichvuconggplxgovvn  8000  kết_quả gplx quốc_tế sẽ được đơn_vị bưu_chính chuyển phát đến tận_tay người nhận 

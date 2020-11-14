@@ -1,0 +1,4 @@
+idx, sentence
+0,đó là ba ca_khúc rất hay dành cho thiếu_nhi của nhạc_sĩ họ trịnh  cho thấy sự lựa_chọn tinh_tế của đức_tuấn  như hòn bi xanh  em là hoa_hồng nhỏ và vì có chúng_em nên đời_sống không già 
+1,các chương_trình truyền_hình dành cho trẻ_em đang vắng_bóng những ca_khúc phù_hợp với lứa tuổi các em  mà thay vào đó là những ca_khúc người_lớn buộc các em phải “ gồng ” quá nhiều khi thể_hiện 
+2,đó cũng là một lý_do khiến chàng ca_sĩ chuyên hát tình_ca lần này chọn hát nhạc thiếu_nhi 

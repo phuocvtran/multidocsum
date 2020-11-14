@@ -1,0 +1,7 @@
+idx, sentence
+0,nguồn tin của vietnamnet cho hay  công_an huyện hóc_môn  tphcm đang phối_hợp cùng các phòng nghiệp_vụ công_an tphcm điều_tra  truy_xét vụ trộm tài_sản khủng xảy ra trên địa_bàn huyện này 
+1,đáng nói nhà bị trộm viếng là gia_đình ông trương_văn_hiền  sn 1967   tổng_giám_đốc tổng_công_ty văn_hóa sài_gòn  là đại_biểu hđnd tphcm khóa viii  vừa trúng_cử đại_biểu hđnd khóa ix 
+2,theo nguồn tin nói trên  ngôi nhà bị trộm của ông hiền nằm ở đường tô_ký  xã thới_tam_thôn  huyện hóc_môn 
+3,được biết  trộm đột_nhập vào nhà ông hiền trong đêm 26/5 lấy đi 1 két sắt chứa tài_sản 
+4,theo thông_tin khai_báo  trong két sắt trên có chứa tài_sản trị_giá khoảng 2 tỷ đồng  cùng nhiều giấy_tờ quan_trọng khác 
+5,sau khi nhận tin báo  cơ_quan công_an đã tiến_hành khám_nghiệm hiện_trường  lấy lời khai của những người có liên_quan 

@@ -1,0 +1,12 @@
+idx, sentence
+0,theo tin_tức từ báo vnexpress  một thiếu_niên trung_quốc bị bắt vì đi lậu máy_bay sang dubai  các tiểu_vương_quốc arab thống_nhất  vì nghe nói có_thể kiếm bộn tiền chỉ bằng việc ăn_xin tại đây 
+1,thiếu_niên họ từ  16 tuổi  đến từ tỉnh tứ_xuyên  bị bắt tại sân_bay dubai  các tiểu_vương_quốc arab thống_nhất  uae   vì đi lậu trên chuyến bay của hãng emirates_airlines khởi_hành từ thượng_hải ngày 26/5  theo sohu 
+2,từ khai đã trốn trong khoang chở hàng trên máy_bay suốt 10 giờ 
+3,hiện chưa rõ cậu làm thế_nào để vượt qua an_ninh ở sân_bay phố_đông  thượng_hải  để lẻn lên máy_bay 
+4,từ cho biết muốn đến dubai để thử làm_ăn xin 
+5,cậu nghe nói rằng ở dubai  người ăn_xin kém nhất cũng có_thể kiếm được 480000 nhân_dân_tệ  72900 usd  một tháng mà không mất một giọt mồ_hôi 
+6,do_vậy  cậu đã quyết_định lẻn vào khoang hàng của một chuyến bay hãng emirates cất_cánh từ sân_bay thượng_hải đi dubai hôm 26/5 
+7,sau khoảng 10 giờ bay  nam_sinh này đã bị bắt tại sân_bay ở dubai 
+8,cậu khai rằng mình trốn ở trong khoang chở hàng và cảm_giác khi ngồi trong đó khá thoải_mái 
+9,vì_là trẻ chưa thành_niên  nam_sinh này sẽ không phải đối_mặt với bất_kì hình_phạt nghiêm_trọng nào 
+10,tuy_nhiên  cảnh_sát dubai hiện vẫn đang điều_tra xem liệu hành_động của cậu thiếu_niên này có liên_quan đến băng đảng nào không 

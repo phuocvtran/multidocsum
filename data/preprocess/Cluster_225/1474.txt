@@ -1,0 +1,4 @@
+idx, sentence
+0,đó là chùm 3 ca_khúc nổi_tiếng  như hòn bi xanh  em là hoa_hồng nhỏ  vì có chúng_em nên đời_sống không già 
+1,đức tuấn cho biết đây là món quà anh dành tặng các bé nhân_dịp ngày quốc_tế thiếu_nhi 1/6 sắp đến và cũng đồng_thời dành tặng cho cả người_lớn bởi số đông công_chúng nhạc trịnh đều yêu âm_nhạc của ông nhưng đã bỏ_qua một mảng sáng_tác rất hay của ông về đề_tài thiếu_nhi 
+2,bên_cạnh đó  đức_tuấn cũng nói rằng các chương_trình truyền_hình dành cho trẻ_em hiện_nay đang “ vắng_bóng ” dần những ca_khúc phù_hợp với các em  mà thay vào đó là những ca_khúc người_lớn  nên một phần_nào đó anh cũng muốn nhắc nhớ mọi người về những bài hát hay  phù_hợp với độ tuổi và tình_cảm của các bé 

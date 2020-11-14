@@ -1,0 +1,12 @@
+idx, sentence
+0,rạng sáng hôm_nay  theo giờ việt_nam   nhiều báo anh  trong đó có tờ uy_tín là telegraph  đồng_loạt đưa tin trợ_lý hlv ryan_giggs chuẩn_bị rời khỏi old_trafford sau 29 năm gắn_bó 
+1,khi truyền_thông xứ_sở sương_mù loan báo tin_tức cùng lúc như thế này  có_thể tin rằng sự_việc gần như chắc_chắn xảy ra 
+2,trong ngày hôm_nay  2/6   ryan_giggs sẽ trở_lại anh sau kỳ nghỉ ngắn ở dubai và được cho là sẽ có 1 cuộc trao_đổi với hlv mourinho để thông_báo quyết_định ra đi 
+3,sau khi hlv mourinho được bổ_nhiệm  ryan_giggs được mời giữ một trọng_trách nhỏ hơn vị_trí trợ_lý hlv hiện_tại ông đang làm 
+4,đó là vai_trò kết_nối giữa đội u21 và đội 1 
+5,tuy_vậy  qua các động_thái của giggs kể từ khi ghế hlv ở old_trafford_đổi chủ  có_thể tin rằng huyền_thoại mu đã sẵn_sàng ra đi để gây_dựng sự_nghiệp 
+6,cần biết rằng  mourinho có 1 trợ_lý thân_cận và trung_thành hết_mực là rui_faria 
+7,báo_chí anh nhận_định chiến_lược gia người bồ_đào nha muốn bổ_nhiệm rui_faria làm trợ_lý thay_vì ryan_giggs 
+8,huyền_thoại ryan_giggs_sinh ngày 29/11/1973 tại cardiff  xứ wales 
+9,ban_đầu giggs ăn tập ở đội trẻ man_city từ 1985 
+10,đến năm 1987 tức vừa tròn 14 tuổi  giggs về đầu_quân cho mu 

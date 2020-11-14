@@ -1,0 +1,13 @@
+idx, sentence
+0,đến sáng 1/6  gia_đình em nguyễn_thành_công  sn 2005  đã tiến_hành tổ_chức tang_lễ cho nạn_nhân 
+1,chính_quyền và người dân đến thăm_viếng  chia_buồn 
+2,trước đó  lúc 17 h30 ngày 31/5  bé nguyễn_thành_công cùng bạn đạp xe dạo_chơi ở khu công_viên biển xã tam_thanh  tptam_kỳ  tỉnh quảng_nam khi đến khu_vực trước nhà_hàng ba_cơ  thôn hạ_thanh 1  xã tam_thanh  thì bị vướng vào đường_dây điện_dẫn đến tử_vong 
+3,công cùng ba_mẹ sinh_sống ở tp hcm nhưng do được nghỉ_hè nên cả nhà về quê thăm ông_bà  được 3 ngày thì xảy ra sự_việc đau_lòng trên 
+4,theo người_nhà nạn_nhân  phải đến 1 giờ sáng ngày 1/6  gia_đình mới có_thể đưa bé về nhà để lo mai_táng do việc hoàn_thành các biên_bản làm_việc với các bên chưa được thống_nhất 
+5,“ gia_đình không yêu_cầu tiền_bạc nhưng yêu_cầu người liên_quan phải có trách_nhiệm ” – ông huỳnh_tấn_vỹ  đại_diện gia_đình cho hay 
+6,ông nguyễn_tuấn_– đại_diện chủ nhà_hàng ba_cơ cho biết  “ sự_việc đau_lòng  xảy ra ngoài ý_muốn 
+7,chúng_tôi thành_thật xin_lỗi gia_đình cháu công và hứa sẽ bù_đắp những mất_mát của gia_đình ” 
+8,theo ông tuấn  nhà_hàng ba_cơ đã chuyển sang địa_điểm mới cách đó 100 m  nhưng đường_dây_điện vẫn hoạt_động là để phục_vụ sinh_hoạt cho các nhân_viên 
+9,ông nguyễn_thanh_bình  chủ_tịch ubnd xã tam_thanh  cho biết  sau khi sự_việc xảy ra  các cơ_quan_chức_năng đã vào cuộc điều_tra để làm rõ vụ_việc 
+10,toàn_bộ hồ_sơ do công_an thành_phố xử_lý 
+11,bước đầu đã xác_định  đường_dây mà bé công vướng phải là của nhà_hàng ba_cơ 

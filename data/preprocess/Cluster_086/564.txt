@@ -1,0 +1,40 @@
+idx, sentence
+0,hiện_nay  23/05   do ảnh_hưởng của gió_mùa tây_nam đang hoạt_động mạnh_dần nên khu_vực vùng_biển từ bình_thuận  cà_mau  cà_mau  kiên_giang  vịnh thái_lan và khu_vực nam biển đông  bao_gồm cả quần_đảo trường_sa  có mưa dông mạnh 
+1,dự_báo trong 23 ngày tới khu_vực nam biển đông  bao_gồm cả quần_đảo trường_sa   vùng_biển từ bình thuậncà_mau  cà_maukiên_giang và vịnh thái_lan tiếp_tục có mưa dông mạnh 
+2,từ ngày 2325 / 5  ở vịnh thái_lan  vùng_biển cà_maukiên_giang  bao_gồm các đảo phú_quốc  thổ_chu   vùng_biển từ bình_thuận đến cà_mau  vùng_biển phía nam biển đông  bao_gồm cả quần_đảo trường_sa   có gió_tây_nam mạnh cấp 45  giật cấp 67 
+3,cấp_độ rủi_ro thiên_tai  cấp 1 
+4,ngoài_ra trong ngày hôm_nay  23/05   khu_vực bắc_biển_đông  bao_gồm cả quần_đảo hoàng_sa  có mưa_rào và dông  trong cơn dông có khả_năng cao xuất_hiện lốc xoáy và gió_giật mạnh 
+5,do ảnh_hưởng của hội_tụ gió trên cao nên trong đêm nay và ngày_mai  23/5  ở phía tây_bắc_bộ tiếp_tục có mưa_rào và rải_rác có dông  từ đêm mai  23/5   do ảnh_hưởng của hội_tụ gió trên cao kết_hợp với rãnh áp_thấp bị nén nên ở bắc_bộ và bắc_trung_bộ có khả_năng xảy ra mưa dông diện rộng  một_số nơi có mưa vừa đến mưa to 
+6,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+7,theo dự_báo của trung_tâm khí_tượng và thủy_văn trung_ương  các tỉnh phía tây_bắc_bộ nhiều mây  có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
+8,gió nhẹ 
+9,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+10,độ_ẩm từ 6898  
+11,nhiệt_độ thấp nhất từ 22  25 oc 
+12,nhiệt_độ cao nhất từ 26  29 oc 
+13,phía đông_bắc_bộ nhiều mây  ngày có mưa_rào và dông vài nơi  riên vùng núi có mưa  mưa_rào rải_rác và có nơi có dông  đêm có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
+14,gió nhẹ 
+15,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh  độ_ẩm từ 6396  
+16,nhiệt_độ thấp nhất từ 23  26 oc 
+17,nhiệt_độ cao nhất từ 28  31 oc 
+18,các tỉnh từ thanh_hóa  thừa_thiên_huế mây thay_đổi  có mưa_rào và dông vài nơi 
+19,gió nhẹ 
+20,độ_ẩm từ 6596  
+21,nhiệt_độ thấp nhất từ 24  27 oc 
+22,nhiệt_độ cao nhất từ 30  33 oc 
+23,đà_nẵng đến bình_thuận mây thay_đổi  ngày nắng  chiều_tối và đêm có mưa_rào và dông vài nơi 
+24,gió nhẹ 
+25,độ_ẩm từ 6595  
+26,nhiệt_độ thấp nhất từ 25  28 oc 
+27,nhiệt_độ cao nhất từ 32  35 oc  khu_vực tây_nguyên mây thay_đổi  ngày có mưa_rào và dông vài nơi  chiều_tối và đêm có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
+28,gió_tây nam cấp 23 
+29,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+30,độ_ẩm từ 5595  
+31,nhiệt_độ thấp nhất từ 21  24 oc 
+32,nhiệt_độ cao nhất từ 31  34 oc 
+33,nam_bộ mây thay_đổi  ngày nắng  chiều_tối có mưa  có nơi mưa vừa  mưa to và rải_rác có dông  đêm có mưa_rào và dông vài nơi 
+34,gió_tây nam cấp 23 
+35,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
+36,độ_ẩm từ 60  95  
+37,nhiệt_độ thấp nhất từ 25  28 oc 
+38,nhiệt_độ cao nhất từ 31  34 oc 

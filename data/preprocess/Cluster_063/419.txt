@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 1/5 vừa_qua  hlv jurgen_klinsmann đã công_bố danh_sách sơ_bộ 40 cầu_thủ dự copa_america 2016 của đt mỹ  trong đó có tên cầu_thủ gốc việt lee nguyễn_
+1,điều này giúp cầu_thủ 30 tuổi kỳ_vọng vào việc sẽ có lần thứ 2 tham_dự một kỳ copa_america cùng đt mỹ nhưng điều đó đã không xảy ra 
+2,trong bản danh_sách 23 người cuối_cùng được chiến_lược gia 51 tuổi lựa_chọn đã không có tên của cựu cầu_thủ hagl 
+3,đây là điều không mấy bất_ngờ vì dù lee nguyễn có thể_hiện tốt đến đâu ở mls thì anh cũng chưa bao_giờ thực_sự được hlv klinsmann tin_tưởng trao cho một vị_trí thi_đấu thường_xuyên của đt mỹ 
+4,cùng_chung số_phận với lee nguyễn_còn có một_số cái tên đáng chú_ý khác như tiền_đạo jozy_altidore  thủ_môn nick_rimando và hậu_vệ tân_binh của chelsea  matt_miazga 
+5,không gọi lee nguyễn  hlv klinsmann đặt trọn niềm tin vào những cựu_binh như jermaine_jones  michael_bradley  clint_dempsey 
+6,bên_cạnh đó  ông cũng trao cơ_hội cho thần_đồng của dortmund  christian_pulisic 

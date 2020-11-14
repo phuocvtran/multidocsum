@@ -1,0 +1,13 @@
+idx, sentence
+0,tuần trước  trong buổi phỏng_vấn với hãng tin reuters tại tp new_york – mỹ  ông trump bày_tỏ nguyện_vọng muốn nói_chuyện với lãnh_đạo triều_tiên nhằm nỗ_lực ngăn_chặn chương_trình hạt_nhân của bình_nhưỡng  đề_xuất một thay_đổi quan_trọng trong chính_sách của mỹ đối_với quốc_gia khép_kín này 
+1,đáp lại  ông so_se_pyong – đại_sứ triều_tiên tại liên_hiệp_quốc ở tp geneva –_thụy_sĩ – trả_lời hãng reuters rằng  “ quyết_định gặp hay không tùy thuộc vào lãnh_đạo tối_cao của chúng_tôi  nhưng tôi nghĩ ý_tưởng hay cuộc nói_chuyện của ông trump thật vô_nghĩa ” 
+2,“ đó chỉ là công_cụ cho cuộc bầu_cử tổng_thống  một loại công_tác tuyên_truyền hoặc quảng_cáo 
+3,nó chẳng có ý_nghĩa hay thành_ý gì hết ” – ông so nói thêm 
+4,người này còn nhắc lại việc tổng_thống mỹ barack_obama khi còn là ứng_cử_viên cũng từng hứa_hẹn trong các chiến_dịch rằng sẽ gặp lãnh_đạo của triều_tiên nhưng chưa bao_giờ thực_hiện 
+5,ngoài_ra  ông so cho biết triều_tiên đang chuẩn_bị ngồi lại trong cuộc đàm_phán 6 bên về chương_trình hạt_nhân 
+6,trong khi trung_quốc và nga ủng_hộ ý_tưởng này thì mỹ và đồng_minh gồm hàn_quốc  nhật_bản phản_đối 
+7,“ là một quốc_gia sở_hữu hạt_nhân có trách_nhiệm  chúng_tôi sẽ không bao_giờ châm ngòi trước 
+8,nếu mỹ dùng vũ_khí hạt_nhân  chúng_tôi buộc phải đáp trả ” – ông so tuyên_bố 
+9,“ nếu mỹ từ_bỏ các chính_sách thù_địch của họ và thay_đổi thái_độ thì chúng_tôi sẽ có quan_hệ như một quốc_gia bình_thường 
+10,đối_với hàn_quốc  chúng_tôi đã đề_nghị một cuộc đàm_phán quân_sự cấp cao nhưng họ từ_chối ” – ông so tiết_lộ 
+11,hôm 235  hàn_quốc bác_bỏ đề_nghị tổ_chức cuộc đàm_phán quân_sự từ phía triều_tiên vì cho rằng nó thiếu kế_hoạch chấm_dứt chương_trình hạt_nhân của triều_tiên 

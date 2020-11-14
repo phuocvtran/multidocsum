@@ -1,0 +1,4 @@
+idx, sentence
+0,cụ_thể  honda việt_nam thực_hiện hai chương_trình khuyến_mãi hấp_dẫn với tên gọi “ 20 năm honda  tưng_bừng quà hấp_dẫn ” cho các mẫu xe lead 125 cc  wave_rsx 110 cc  wave_rsx_fi 110 cc  blade 110 cc diễn ra từ ngày 01/06 đến hết 30/06/2016 và “ xe ngầu  quà_chất ” cho mẫu xe_tay côn msx 125 cc bắt_đầu từ ngày 01/06/2016 cho đến hết ngày 15/07/2016 
+1,khi mua xe honda_lead 125 cc trong thời_gian khuyến_mại  khách_hàng sẽ nhận ngay phiếu quà tặng 500000 đồng và mũ_bảo_hiểm sành_điệu honda_jet 
+2,mua xe wave_rsx / wave rsx_fi 110 cc và blade 110 cc với phiếu quà tặng 500000 đồng 

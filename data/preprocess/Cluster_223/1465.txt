@@ -1,0 +1,11 @@
+idx, sentence
+0,với taylor_swift chuyện tình_yêu dường_như là một thứ mà cô khó nắm được như trong âm_nhạc 
+1,nếu cô nổi_tiếng  giàu_có và tài_giỏi với hàng chục giải_thưởng âm_nhạc uy_tín thì chuyện tình_yêu luôn làm cho nữ ca_sĩ 26 tuổi này đau_lòng 
+2,từng thừa_nhận rất nhiều lần là không may_mắn trong tình_yêu nhưng từ khi yêu calvin_harris  chủ_nhân ca_khúc red đã không giấu_giếm hạnh_phúc và mới_đây cô còn cho biết đã nghĩ đến đám_cưới cổ_tích cho mình sau khi cùng bạn trai mua một dinh_thực hơn 10 triệu usd để sống cùng 
+3,tuy_nhiên  sau 15 tháng hạnh_phúc tờ people cho rằng muối quan_hệ của họ đã chấm_dứt 
+4,ngay cả bạn_bè của cặp_đôi cũng thừa_nhận điều này 
+5,lần gần đây nhất họ xuất_hiện cùng nhau là vào tháng 4 
+6,taylor_swift và calvin_harris biết nhau do nữ ca_sĩ ellie_goulding giới_thiệu tại lễ trao giải brit 2015 
+7,sau đó taylor và dj nổi_tiếng và giàu này đã bắt_đầu tìm_hiểu và công_khai từ đầu năm 2015 
+8,cả hai được xem là cặp đôi đẹp và giàu_có nhất trong làng nhạc mỹ 
+9,đầu năm 2016  họ được bầu_chọn là cặp_đôi nổi_tiếng được trả lương cao nhất ngành công_nghiệp âm_nhạc của forbes  với thu_nhập tổng_hợp hơn 146 triệu usd 

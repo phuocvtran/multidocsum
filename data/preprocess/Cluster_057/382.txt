@@ -1,0 +1,12 @@
+idx, sentence
+0,celtic chính_thức bổ_nhiệm brendan_rodgers làm tân hlv hôm thứ_bảy 21/5  theo hợp_đồng xem_xét gia_hạn sau mỗi 12 tháng 
+1,chủ_tịch clb ian bankier kỳ_vọng hlv 43 tuổi người bắc_ireland sẽ giúp celtic trở_lại với thành_công ở đấu_trường châu_âu 
+2,đội_bóng của thành glasgow vô_địch quốc_gia liên_tiếp năm mùa qua  nhưng họ không vượt qua được vòng sơ loại để dự vòng bảng champions_league ở hai mùa giải gần đây 
+3,mùa này  họ sớm phải dừng bước ở europa_league ngay vòng bảng khi không thắng một trận nào 
+4,rodgers từng nhận giải “ hlv hay nhất năm 2014 ” của ngoại_hạng anh  sau khi giúp liverpool suýt đăng_quang ở mùa bóng 2013  14  kém nhà vô_địch man_city chỉ hai điểm  
+5,sao tiền_đạo luis_suarez của barca đã ngợi_khen thày cũ  khi chúc_mừng celtic có được “ một trong những hlv hay nhất ở châu_âu ” 
+6,hồi đầu tháng 10/2015  rodgers bị liverpool sa_thải sau hơn ba năm cầm_quân ở sân anfield 
+7,thành_tích tồi_tệ của đội bóng áo đỏ kéo_dài từ mùa giải trước nữa là nguyên_nhân chính khiến ông mất ghế ngay ở đầu mùa giải vừa xong 
+8, tôi rất vui_mừng khi được chọn làm hlv của celtic ”  rodgers phát_biểu trên trang_web chính_thức của clb này 
+9,ông còn hứa_hẹn   tôi sẽ cống_hiến tất_cả những gì tôi có cho đội bóng 
+10,tôi sẽ làm tất_cả những gì có_thể để mang lại cho người hâm_mộ nơi đây thứ bóng_đá hấp_dẫn và chiến_thắng ” 

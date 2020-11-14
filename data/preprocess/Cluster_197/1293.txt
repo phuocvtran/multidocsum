@@ -1,0 +1,34 @@
+idx, sentence
+0,ngày 31/5  tại xã gio_việt  huyện gio_linh  quảng_trị  tand tỉnh quảng_trị mở phiên_tòa lưu_động xét_xử trần_đình_thịnh  29 tuổi  trú xã cam_hiếu  huyện cam_lộ  về tội giết người 
+1,hội_đồng xét_xử nhận_định hành_vi của thịnh là man_rợ  nguy_hiểm cho xã_hội lại có tình_tiết tăng nặng “ giết 2 người ” nên đã ra quyết_định tuyên_án tử_hình đối_với thịnh 
+2,ngoài_ra tòa cũng buộc thịnh bồi_thường tổng_cộng 290 triệu đồng cho gia_đình anh lai 
+3,theo cáo_trạng  bị_cáo thịnh lập gia_đình và có 2 con với quách_thị_thơm  31 tuổi  quê thanh_hóa  
+4,cuộc_sống khó_khăn nên tháng 2/2015  thịnh đi lao_động ở trung_quốc  thơm ở nhà nuôi con nhỏ 
+5,thời_gian này  thơm nảy_sinh quan_hệ tình_cảm với trần_văn_lai  40 tuổi  trú thôn tân_xuân  gio_việt  huyện gio_linh  
+6,câu_chuyện đến tai thịnh  ngày 23/7/2015  thịnh từ trung_quốc trở về nhà để giải_quyết sự_việc 
+7,thơm thừa_nhận có qua_lại tình_cảm với trần_văn_lai  thịnh tức_giận đã đánh thơm 
+8,biết tin thơm bị chồng đánh  lai và vợ của lai là trần_thị_phượng đưa về trạm_xá xã gio_việt điều_trị vết_thương  sau đó đón xe_khách cho thơm về quê ngoại  ở nga_sơn  thanh_hóa  
+9,thời_gian sau  biết mình làm_việc không đúng nên thơm đã chủ_động nhắn_tin  điện_thoại xin_lỗi chồng mình 
+10,thịnh đồng_ý bỏ_qua mọi việc  đồng_thời hẹn thơm vào quảng_trị rồi cả hai sẽ cùng vào tỉnh bình_dương tìm việc_làm để sinh_sống  làm lại cuộc_đời   cũng nhằm mục_đích cách_ly với ông lai 
+11,cuộc hẹn giữa hai vợ_chồng vỡ_lở khi thơm biết mình có thai với ông lai nên không đến ngay quảng_trị mà cùng bố_mẹ vào thẳng thị_xã dĩ_an  bình_dương  nơi em ruột thơm đang sinh_sống làm_ăn 
+12,ngày 13/8/2015  thơm đi phá_thai 
+13,ngay hôm sau thơm vội_vã trở ra quảng_trị để gặp thịnh và giấu chuyện mình đã vào bình_dương phá_thai 
+14,ngày 16/8/2015  thịnh và thơm lại vào bình_dương như đã hẹn trước đó 
+15,ngày 18/8/2015  thịnh cùng thơm thuê nhà_nghỉ ở txdĩ an_tâm_sự 
+16,thịnh tra_hỏi chuyện tình_cảm giữa thơm và ông lai có còn không 
+17,thơm một lần nữa thừa_nhận mối quan_hệ với lai  đồng_thời cho biết trong thời_gian ở thanh_hóa có liên_lạc với tình_nhân 
+18,sau tra_hỏi  thơm một_mực hứa từ bỏ mối quan_hệ tình_cảm với ông lai  thịnh gật đầu đồng_ý 
+19,hôm sau  thịnh và thơm thuê 1 nhà_nghỉ khác trên địa_bàn thị_xã thuận_an  bình_dương 
+20,thấy vợ có những biểu_hiện bất_thường nên thịnh tiếp_tục tra_hỏi thơm 
+21,biết không_thể giấu được  thơm thừa_nhận đã có thai với ông lai và đã trốn vào bình_dương phá_thai trước đó 
+22,thịnh khóc  vừa buồn  vừa tức_giận nên bỏ xuống quán vỉa_hè uống bia giải_sầu 
+23,khi thịnh quay trở_lại phòng nghỉ thấy thơm đang cầm điện_thoại_di_động nên giật lại 
+24,thịnh choáng_váng khi thấy tin nhắn trong điện_thoại với nội_dung  “ nếu anh thịnh bỏ em  anh có đi với em không  ” 
+25,đang trong người có  ma_men   thịnh điên_tiết lấy con dao_gọt vỏ trái_cây đâm nhiều nhát làm thơm chết tại_chỗ 
+26,ngay sau đó  thịnh di_chuyển về tphcm rồi rạng sáng hôm sau đi máy_bay từ tân_sơn_nhất ra sân_bay phú_bài  thừa_thiên_huế   tiếp đó đón xe_khách ra quảng_trị để tìm đến nhà tình_địch 
+27,khoảng 20 h30 ngày 20/8/2015  thịnh mang con dao_dài 74 cm  cán gỗ  về thôn tân_xuân  xã gio_việt   đi thẳng vào nhà ông lai 
+28,lúc này ông lai đang nằm trên giường ngủ với vợ 
+29,bất_ngờ  thịnh vung dao chém gần như đứt cổ của ông lai 
+30,sau khi gây_án  thịnh chạy bộ đến trốn vào một nghĩa_trang gần đó 
+31,xác_định đây là một vụ án_mạng nghiêm_trọng  cơ_quan điều_tra đã huy_động 300 cán_bộ  chiến_sĩ công_an chốt chặn  bao_vây khu_vực gần hiện_trường 
+32,từ những đặc_điểm nhận_dạng do người_nhà nạn_nhân cung_cấp  cùng thông_tin từ chiếc xe_máy hung_thủ để lại  cơ_quan_chức_năng xác_định được nghi_phạm là trần_đình_thịnh 

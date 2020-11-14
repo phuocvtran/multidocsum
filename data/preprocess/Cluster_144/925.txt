@@ -1,0 +1,8 @@
+idx, sentence
+0,theo đó  vào thời_điểm trên anh tiến và gia_đình đang ngủ trưa thì nghe tiếng_động lớn trên trần nhà 
+1,anh liền kêu các thành_viên chạy ra khỏi nhà 
+2,qua kiểm_tra gia_đình thấy trường gần 200 viên ngói bị tốc  rơi xuống bể nát 
+3,ngay khi xảy ra sự_việc  anh tiến đã trực_tiếp đến cảng_vụ hàng_không sân_bay vinh và điện_báo ban_công_an xã nghi_trung để giải_quyết sự_việc 
+4,vào lúc 15 giờ cùng ngày  đại_diện cảng_vụ hàng_không miền bắc  an_ninh sân_bay quốc_tế vinh cùng ban_công_an xã đã có_mặt tại hiện_trường để kiểm_tra sự_việc 
+5,ông võ_văn_pháp – phó_trưởng đại_diện cảng_vụ hàng_không miền bắc tại nghệ_an cho biết  hiện_tại đang lập biên_bản để báo_cáo sự_việc lên cấp trên để xem phương_án giải_quyết 
+6,do chưa xác_định  được chuyến bay của hãng nào nên cần thời_gian kiểm_tra lại bên bộ_phận đài không lưu và hệ_thống điều_hành đường_bay 

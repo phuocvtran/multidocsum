@@ -1,0 +1,6 @@
+idx, sentence
+0,khoảng 22 h00 ngày 21/5/2016  tổ tuần_tra kiểm_soát giao_thông của phòng cảnh_sát giao_thông do đại_úy nguyễn_hùng_cường làm tổ_trưởng cùng 07 tổ_viên làm nhiệm_vụ tại km 104  200 quốc_lộ 1a thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tỉnh bắc_giang  đã tiến_hành kiểm_tra 01 xe ô_tô bán tải bks  12c044  29 nhãn_hiệu ford_ranger đi hướng hà_nội  lạng_sơn có nhiều nghi_vấn 
+1,kiểm_tra thấy xe chở hàng nặng  tổ công_tác yêu_cầu mở khoang chở hàng để kiểm_tra nhưng lái_xe là nguyễn_quang_huy  sn 1988  trú tại  xã hoàng_đồng  thành_phố lạng_sơn  tỉnh lạng_sơn  trình_bày không có chìa_khoá 
+2,trước biểu_hiện đó  tổ công_tác đưa phương_tiện và lái_xe về trụ_sở cơ_quan để kiểm_tra 
+3,trong quá_trình về trụ_sở đơn_vị  lái_xe gợi_ý đưa cho tổ công_tác 500000000 đồng  năm_trăm triệu đồng  để bỏ_qua 
+4,tuy_nhiên tổ công_tác cương_quyết đưa về trụ_sở cơ_quan báo_cáo lãnh_đạo đơn_vị  thông_báo cho phòng cảnh_sát kinh_tế và viện_kiểm_sát nhân_dân tỉnh đến phối_hợp mở khoá khoang chở hàng_hoá phát_hiện 17 bao_tải chứa 107 đoạn ngà_voi tổng trọng_lượng 5535 kg  ước_lượng số ngà của khoảng 20 con_voi trở lên   01 bộ biển số xe ô_tô 29c315  68 

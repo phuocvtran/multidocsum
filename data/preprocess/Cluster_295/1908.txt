@@ -1,0 +1,5 @@
+idx, sentence
+0,sáng 3/6  cơ_quan_chức_năng tỉnh đắk_lắk đang tiến_hành khám_nghiệm hiện_trường  khám_nghiệm tử_thi thiếu_tá nguyễn_duy_chuyển  46 tuổi  quê tại huyện tĩnh_gia  tỉnh thanh_hóa  – công_tác tại phòng kinh_doanh của sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh đắk_lắk để làm rõ nguyên_nhân dẫn đến cái chết của nạn_nhân 
+1,trước đó vào sáng sớm cùng ngày  một_số người dân tại phường tân_an  tp buôn_ma_thuột đi tập_thể_dục đã phát_hiện xác thiếu_tá chuyển bị giết nằm bên vệ đường  trên cơ_thể bê_bết máu nên đã nhanh_chóng trình_báo cơ_quan_chức_năng 
+2,sau đó  thi_thể thiếu_tá chuyển được chuyển về bệnh_xá của sư_đoàn 470 để cơ_quan_chức_năng tiến_hành làm_việc 
+3,theo một nguồn tin cho biết  đối_tượng giết thiếu_tá chuyển đã đến cơ_quan công_an tỉnh đắk_lắk đầu_thú vào trưa cùng ngày 

@@ -1,0 +1,7 @@
+idx, sentence
+0,chấn_thương háng mà tiền_vệ người tuyên_quang gặp phải trong một buổi tập không quá nặng  và theo thông_tin mới_đây thì anh đã hoàn_toàn bình_phục 
+1,xuân_trường đã ít_nhiều để lại dấu_ấn của mình khi được sử_dụng trong hai trận đấu tại rleague giải dành cho những cầu_thủ dự_bị của hàn_quốc  với đường kiến_tạo giúp đồng_đội ghi_bàn 
+2,có nghĩa xuân_trường sẵn_sàng xung_trận như đúng kế_hoạch  khi incheon_united tiếp_đón gwang_ju_fc thuộc vòng 11 kleague_classic diễn ra cuối tuần này 
+3,kể từ thời_điểm sang hàn_quốc đến nay  xuân_trường vẫn chưa lần nào được incheon_united được đăng_ký tại hạng đấu cao nhất xứ_sở kim_chi 
+4,vào chủ_nhật này  22/5  cũng là ngày_lễ_hội việt_nam – hàn_quốc do một ngân_hàng lớn  incheon_united và hội kiều_bào việt nam tại hàn_quốc sẽ phối_hợp tổ_chức 
+5,các kiều_bào việt_nam đang sinh_sống  học_tập  làm_ăn tại hàn_quốc được miễn_phí vé vào sân theo_dõi trận đấu giữa incheon_united  gwang_ju_fc  đồng_thời giao_lưu  nhận quà từ xuân_trường  ca_sĩ sunny  của nhóm snsd  

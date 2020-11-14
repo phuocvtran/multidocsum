@@ -1,0 +1,4 @@
+idx, sentence
+0,liên_quan đến vụ_việc  thông_tin từ bộ y_tế cho biết  cùng ngày 16  ông nguyễn_xuân_trường  chánh_văn_phòng bộ y_tế đã ký thông_báo số 48 / tbkl về việc kỷ_luật cán_bộ  công_chức đối_với ông đỗ trường_duy  cán_bộ văn_phòng bộ y_tế 
+1,theo thông_tin trên cổng thông_tin điện_tử bộ y_tế giới_thiệu  ông đỗ trường duy hiện đang giữ chức phó chánh_văn_phòng bộ y_tế 
+2,thông_báo của văn_phòng bộ y_tế cho biết   sau khi nghe đồng_chí đỗ trường duy tường_trình sự_việc  hội_đồng kỷ_luật của văn_phòng bộ đã phân_tích và nhận thấy  đây là một việc xảy ra ngoài cơ_quan và là một va_chạm cá_nhân nhưng do thiếu kiềm_chế đã xảy ra xử_sự không đúng_mức  không thể_hiện văn_minh lịch_sự của người cán_bộ công_chức  như thông_tin mạng đã đưa   

@@ -1,0 +1,15 @@
+idx, sentence
+0,ngày 27/5  tand_tphcm mở phiên_tòa xét lưu_động và tuyên_phạt bị_cáo nguyễn_văn_bông  32 tuổi  trú tại đồng_tháp  tù_chung_thân về tội “ giết người ” 
+1,theo cáo_trạng  ngày 9/8/2015  tại phòng trọ quận 8  tphcm  bao_gồm nguyễn_văn_bông  nguyễn_văn_lên  nguyễn_văn_giàu  lên  giàu đều là em ruột của bông   phan_khánh_linh  lưu_minh_đương và liêu_thị_luyến  vợ anh đương  nhậu cùng nhau 
+2,sau đó  bông lấy điện_thoại ra chụp hình luyến mà không được luyến đồng_ý  nên đã xảy ra mâu_thuẫn 
+3,tuy nhiện  ngay sau đó  bông xóa hết toàn_bộ_hình luyến trong máy rồi đưa điện_thoại cho luyến xem 
+4,đến khoảng 13 giờ cùng ngày  tất_cả ra về 
+5,luyến rủ linh đến phòng trọ bông thì hai bên có lời qua tiếng lại 
+6,bông dùng tay tát làm linh chảy máu mũi thì giàu đang đứng gần đó liền đến can_ngăn 
+7,luyến và linh đi về phòng trọ và kể lại mọi việc cho đương nghe 
+8,khoảng 13 giờ 30 cùng ngày  bông cùng lên ra ngồi quán nước và thủ sẵn con dao trong người 
+9,khi tới quán nước  thì bông gặp đương  linh  giàu 
+10,đương đi đến định đánh bông nhưng được giàu can_ngăn và ôm kéo làm đương ngã xuống_đường 
+11,lúc này  trần_văn_lợi đang ngồi trong quán cà_phê nhìn thấy đương đánh nhau  liền cầm cục gạch trong quán chạy đến bênh_vực đương 
+12,nghĩ lợi_định đánh mình  bông rút dao chạy đến đâm một nhát trúng ngực trái_lợi rồi bỏ chạy 
+13,ngay sau đó  lợi được mọi người đưa đi cấp_cứu nhưng đã chết trước đó 

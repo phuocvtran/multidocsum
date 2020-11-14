@@ -1,0 +1,15 @@
+idx, sentence
+0,tin_tức trên tri_thức trực_tuyến  chiều 31/5  lãnh_đạo tp hcm cùng các ban_ngành liên_quan  các chuyên_gia chống ngập  các nhà_khoa_học cùng nghe công_ty mục_tiêu vì môi_trường và cộng_đồng  ept  báo_cáo phương_án  giải_pháp chống ngập trên địa_bàn thành_phố 
+1,tại buổi làm_việc  ông nguyễn_công_anh  đại_diện công_ty ept đã báo_cáo đề_án  các giải_pháp cấp_bách nhằm giảm đỉnh triều cao bất_thường trong hệ_thống sông đồng_nai – vàm cỏ để chống ngập cho tp hcm và quy_hoạch khả_thi bền_vững nhằm giữ mức triều cao bình_thường trong hệ_thống các sông này 
+2,phía công_ty này đề_xuất thành_phố khẩn_trương thực_hiện mô_hình “ kè hở áp_lực cột nước thấp quy_mô cận thực_tế  trên các nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp  lòng_tàu và đồng_tranh 
+3,giảm mức đỉnh triều trên sông đồng_nai và vàm_cỏ bằng biện_pháp phi_công_trình là xây_dựng hồ đa_nhiệm 
+4,điều_tiết tại huyện cần_giờ có hay không có hệ_thống cửa đóng – mở để thu xả nước triều nhằm giữ mức triều cao bình_thường và 8 nhiệm_vụ về nước trong hệ_thống sông sài_gòn – đồng_nai – vàm_cỏ để bảo_đảm sự phát_triển bền_vững cho tp hcm giai_đoạn 2020  2050 
+5,được biết  toàn_bộ đề_án có tổng mức kinh_phí hơn 20000 tỷ 
+6,báo dân việt đưa tin  tại buổi làm_việc  nhiều chuyên_gia đã băn_khoăn về tính khả_thi của đề_án 
+7,bà nguyễn_thị_thanh_mỹ  phó giám_đốc sở tnmt đề_nghị làm rõ tính khả_thi so với quy_hoạch của thành_phố  cảnh_báo việc xây hồ điều_tiết ở cần_giờ gần rừng_phòng_hộ nên sẽ tác_động đến môi_trường và phá vỡ hệ_sinh_thái của rừng 
+8,tiến_sĩ phạm_sanh  chuyên_gia giao_thông cho rằng  nên dừng lại ở đề_tài nghiên_cứu khoa_học chứ không phải là một chương_trình chống ngập 
+9,“ đây là một ý_tưởng hay nhưng cần nghiên_cứu  tính_toán kỹ hơn  nếu được nên thử_nghiệm trước ở phạm_vi một dòng sông chứ chưa nên áp_dụng với quy_mô như tp hcm ”  ông sanh nói 
+10,sau khi nghe các ý_kiến phản_biện từ các chuyên_gia  nhà_khoa_học  lãnh_đạo tp hcm rất hoan_nghênh đề_án của công_ty ept và các ý_kiến phản_biện  góp_ý của các chuyên_gia 
+11,kết_luận buổi làm_việc  ông nguyễn_thành_phong  chủ_tịch ubnd tp hcm cho rằng  ngập nước là bức_xúc của người dân tp hcm và chống ngập là 1 trong 7 chương_trình trọng_tâm đột_phá của thành_phố 
+12,ông phong khẳng_định  “ đề_án chống ngập ” mới chỉ là ý_tưởng khoa_học chứ chưa phải là dự_án để thành_phố đưa vào triển_khai thì hết ngập 
+13,đây là ý_tưởng thiên về đối_phó với triều lên chứ chưa đồng_bộ về chống ngập 

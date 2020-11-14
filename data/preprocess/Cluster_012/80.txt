@@ -1,0 +1,8 @@
+idx, sentence
+0,ngày 20/5  công_an huyện phú_giáo  tỉnh bình_dương cho biết  đã bắt_giữ hai đối_tượng là nguyễn_thanh_sơn  25 tuổi  ngụ xã hưng_hòa  huyện bàu_bàng  và trương_thị_hồng_nhung  22 tuổi  ngụ xã phước_hòa  huyện phú_giáo  để điều_tra về hành_vi cướp tài_sản 
+1,trước đó  vào chiều ngày 18/5  sơn điều_khiển xe_máy chở nhung đi cướp tài_sản 
+2,phát_hiện thấy một phụ_nữ cầm túi_xách  đôi_nam_nữ đã áp sát “ con mồi ” rồi dùng roi điện chặn cướp túi_xách 
+3,nhận được tin báo của nạn_nhân  lực_lượng công_an huyện phú_giáo đã phối_hợp với công_an các xã  thị_trấn lân_cận tổ_chức chốt chặn  truy bắt hai đối_tượng trên 
+4,đến sáng ngày 20/5  lực_lượng chức_năng đã bắt được sơn và nhung tại khu nhà_trọ cùng tang_vật của vụ cướp 
+5,qua điều_tra  hai đối_tượng khai nhận  để có tiền mua ma_túy sử_dụng nên đã nảy_sinh ý_định đi cướp tài_sản 
+6,hai đối_tượng đã thực_hiện trót_lọt 12 vụ ở huyện bàu_bàng và huyện phú_giáo 

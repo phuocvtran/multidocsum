@@ -1,0 +1,10 @@
+idx, sentence
+0,chiều 2/6  đại_sứ_quán thụy_điển đã tổ_chức buổi lễ trao_tặng tượng điêu_khắc cố_thủ_tướng thụy_điển_olof_palme và khai_trương phòng vui_chơi cho trẻ_em tại bệnh_viện nhi_trung_ương 
+1,tác_phẩm điêu_khắc chân_dung cố_thủ_tướng thụy_điển_olof_palme được đặt tại bệnh_viện nhi_trung_ương có kích_thước chiều rộng 20 cm  chiều_cao 40 cm 
+2,đây là tác_phẩm do nhà điêu_khắc qvarsebo thiết_kế và là bản_sao của bức tượng ông olof_palme được đặt trong tòa nhà quốc_hội thụy_điển 
+3,không chỉ là người bạn lớn của nhân_dân việt_nam trong giai_đoạn đấu_tranh thống_nhất đất_nước  cố_thủ_tướng thụy_điển_olof_palme cũng là người chủ_trương kiên_trì hợp_tác và hỗ_trợ việt_nam trong công_cuộc tái_thiết đất_nước 
+4,phát_biểu tại buổi lễ  ông piere_schori_– đặc_phái_viên cao_cấp của thủ_tướng thụy_điển_stefan_lofven nhấn_mạnh  thụy_điển là nước phương tây đầu_tiên thiết_lập quan_hệ ngoại_giao với việt_nam và sẽ luôn trân_trọng  tiếp_tục duy_trì mối quan_hệ bền chặt với việt_nam trong thời_gian tới 
+5,cố cố_thủ_tướng thụy_điển_olof_palme chính là người đã khơi_nguồn cho mối quan_hệ ngoại_giao giữa hai nước và đã đặt nền_tảng vững_chắc cho một mối quan_hệ giữa hai quốc_gia 
+6,một trong những lĩnh_vực đạt hiệu_quả cao xuyên suốt lịch_sử quan_hệ giữa hai nước là lĩnh_vực y_tế 
+7,thụy_điển đã giúp việt_nam xây_dựng nhiều công_trình quan_trọng  trong đó có bệnh_viện nhi_trung_ương  bệnh_viện việt_nam – thụy_điển tại uông_bí  quảng_ninh   hỗ_trợ xây_dựng lại bệnh_viện bạch_mai bị bom tàn_phá … pgsts lê_thanh_hải – giám_đốc bệnh_viện nhi_trung_ương nhấn_mạnh  hợp_tác y_tế việt_nam – thụy_điển đạt được kết_quả trong hầu_hết các lĩnh_vực chuyên_môn 
+8,từ hỗ_trợ xây_dựng bệnh_viện  đào_tạo hệ_thống cán_bộ  hỗ_trợ chăm_sóc sức_khỏe bà mẹ và trẻ_em  hỗ_trợ chăm_sóc sức_khỏe tại các vùng khó_khăn cho đến hỗ_trợ chính_sách y_tế hoặc phòng_chống đại_dịch …

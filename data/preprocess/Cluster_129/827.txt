@@ -1,0 +1,5 @@
+idx, sentence
+0,theo đó  vào thời_điểm khoảng 14 h ngày 23/5  trên tuyến quốc_lộ 1a  thuộc địa_phận ấp an_trạch  xã an_hiệp  huyện châu_thành  tỉnh sóc_trăng  xe_khách giường nằm của công_ty cổ_phần phương_trang mang biển kiểm_soát 51b  13503 đang điều_khiển theo hướng từ hậu_giang về tpsóc_trăng  đã bất_ngờ mất lái  leo lên vỉa_hè  tông gãy cột_điện trung thế  rồi ủi sập lô_cốt trạm cân 
+1,tại hiện_trường phần đầu xe và kính xe vỡ nát 
+2,rất may vụ tai_nạn không gây thiệt_hại lớn về người  chỉ một hành_khách bị_thương nhẹ được đưa vào bệnh_viện điều_trị 
+3,được biết thời_điểm xảy ra tai_nạn trên xe có khoảng 10 hành_khách 

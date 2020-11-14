@@ -1,0 +1,9 @@
+idx, sentence
+0,hàng chục người đi đường thoát chết khi chiếc xe ben lật ngang dưới dốc cầu phú_mỹ  quận 2  tphcm vào chiều 78 
+1,17 h  trời mưa lớn  xe ben loại 15 tấn bks 51c642  38 lưu_thông trên cầu phú_mỹ hướng từ quận 7 về quận 2  khi đổ gần hết dốc cầu  thuộc phường cát_lái  quận 2   mất kiểm_soát cày nát dải_phân_cách trước khi lao sang làn đường xe hai bánh 
+2,chiếc xe tiếp_tục chao_đảo lao đi khoảng 15 m rồi lật ngang trên làn đường xe_máy  hàng chục người đang lưu_thông trên làn đường này thoát chết trong gang_tấc 
+3,sự_cố khiến tài_xế xe ben bị bất_tỉnh được người dân đưa đi bệnh_viện cấp_cứu 
+4,“ tôi và rất nhiều người chạy xe_máy đổ dốc cầu thì thấy xe_ben lao ầm_ầm phía trước rồi lật ngang 
+5,nếu chạy nhanh vài giây tôi không biết chuyện gì sẽ xảy ra  
+6,lúc phát_hiện sự_cố  tôi cùng nhiều người dừng xe lại nên bị các xe_máy phía sau tông liên_hoàn  một_số người vứt xe nhảy lên lề_đường ”  một nhân_chứng kể 
+7,tại hiện_trường  xe ben lật ngang chắn toàn_bộ phần đường dành cho xe hai bánh  nhiều mét dải_phân_cách bị ủi ngã  một đoạn lan_can cầu phú_mỹ cũng bị biến_dạng 

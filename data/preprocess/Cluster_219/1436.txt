@@ -1,0 +1,15 @@
+idx, sentence
+0,trọng_tâm của lễ_hội lần này bắt_đầu từ ngày 1  9/6 với chương_trình diễu_hành “ trái_cây khổng_lồ ”  chợ_nổi trái_cây và các sản_phẩm làng_nghề  hội_thi trái_cây ngon nam_bộ an_toàn  nghệ_thuật tạo_hình bằng trái_cây  cuộc thi ăn dưa_hấu thần_tốc và thi hát “ quê_hương bốn_mùa tươi_đẹp ”  biểu_diễn diều nghệ_thuật  điểm hấp_dẫn du_khách là được mua những đặc_sản  trái_cây giảm_giá từ 20  30  so với giá_cả thị_trường 
+1,dự và phát_biểu tại lễ khai_mạc  phó chủ_tịch ubnd tphcm ông huỳnh_cách_mạng cho biết  lễ_hội lần này tiếp_tục khai_thác thế mạnh về tính độc_đáo  phong_phú  đa_dạng của đặc_sản trái_cây việt_nam nói_chung  trái_cây của vùng sông_nước nam_bộ nói_riêng 
+2,qua đó  tôn_vinh thành_quả của những người nông_dân ngày_đêm cần_cù_lao_động  tạo ra quả ngon cho người dân thành_phố  đẩy_mạnh quảng_bá điểm đến tphcm 
+3,ông huỳnh_cách_mạng nhấn_mạnh  “ lễ_hội trái_cây nam_bộ năm nay đã mở_rộng quy_mô  tổ_chức với nhiều hoạt_động ý_nghĩa 
+4,điển_hình_như tuần_lễ trái_cây việt_nam  được triển_khai trên diện rộng đến đông_đảo người dân thành_phố và du_khách thông_qua hệ_thống khách_sạn  các trung_tâm thương_mại  chợ  tạo sự lan tỏa cho lễ_hội và góp_phần hình_thành thói_quen tiêu_dùng bền_vững cho người dân tphcm 
+5,đặc_biệt  chương_trình hỗ_trợ nông_dân các tỉnh miền tây_nam_bộ gặp hạn_hán  bị xâm_nhập mặn lần đầu_tiên được tổ_chức trong lễ_hội là một hoạt_động ý_nghĩa  mang đậm tính nhân_văn  phát_huy tinh_thần tương_thân tương_ái  nghĩa_tình của người dân thành_phố ” 
+6,ngay trong ngày khai_mạc  sân_khấu hóa các chương_trình nghệ_thuật với sự tham_gia của các nước như ấn_độ  hàn_quốc  malaysia  campuchia  lào đã thu_hút đông_đảo lượng du_khách  đặc_biệt là các du_khách nhí 
+7,trong niềm vui hân_hoan của ngày quốc_tế thiếu_nhi 1/6  em văn_phúc thịnh và trần_thoại_bảo_vy  bình_dương  chia_sẻ  “ con học lớp 3/1  trường từ đức cơ_sở 1 
+8,sáng hôm_nay  ba_mẹ dẫn con đi suối_tiên chơi để giải_trí cho những ngày con miệt_mài học_tập 
+9,đến đây con thấy trái_cây bán rất là nhiều 
+10,con thích ăn dừa_nước và chơi bắn súng ” 
+11,trong sáng ngày 1/6  dòng khách_thập_phương đổ về suối_tiên khá đông 
+12,gia_đình bà mai_thị_thu_duyên  định_quán  đồng_nai  cũng dẫn 4 đứa cháu của mình đến để cảm_nhận không_khí của lễ_hội trái_cây nam_bộ 2016 
+13,bà nói  “ năm nào gia_đình cũng tổ_chức cho các cháu đi chơi trong dịp hè để các cháu thư_giãn  để vào năm học hoặc ôn_tập các cháu thật_sự thoải_mái và học_tập tốt hơn ” 

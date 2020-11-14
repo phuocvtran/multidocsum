@@ -1,0 +1,11 @@
+idx, sentence
+0,vụ tai_nạn xảy ra vào sáng hôm_nay  ngày 2/6  trên đoạn đường nguyễn_văn_linh  hướng từ quốc_lộ 1 đi khu chế_xuất tân_thuận  quận 7  
+1,trong lúc đang dừng chờ đèn_đỏ bentley bất_ngờ bị chiếc container tông thẳng từ phía sau khiến xế hộp bị hất văng hàng chục mét 
+2,được biết  chiếc xe sang bentley trên mang biển kiểm_soát 51a – 50308 
+3,rất may_mắn  không có ai bị thương_vong trong vụ tai_nạn 
+4,tuy_nhiên do cú tông mạnh đã khiến chiếc bentley bị nát nguyên phần đuôi  phần đầu của container cũng bị hư_hỏng nặng 
+5,hiện_tại  nguyên_nhân vụ tai_nạn đang được các cơ_quan_chức_năng làm rõ 
+6,được biết  chiếc siêu xe bị tai_nạn là dòng bentley continental_flying_spur thế_hệ 2014 
+7,xe sử_dụng động_cơ 6 lít  cho công_suất tối_đa 616 mã_lực  mômen xoắn cực_đại 800 nm 
+8,sức_mạnh động_cơ được truyền xuống bánh_xe thông_qua hộp_số tự_động 8 cấp 
+9,nhờ đó mà bentley_continental_flying_spur chỉ mất 46 giây để tăng_tốc từ 0100 km / h  trước khi đạt vận_tốc tối_đa 320 km / h 
