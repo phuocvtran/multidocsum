@@ -146,7 +146,7 @@ dmypy.json
 .vscode
 
 ### data ###
-data/interim
-data/raw
+data/*
+!data/external
 
 # End of https://www.toptal.com/developers/gitignore/api/python,vscode
