@@ -5,7 +5,21 @@ from typing import Dict, List
 
 class DataIO:
     @staticmethod
-    def load(path: str, key_pos: int=None) -> Dict[str, List[str]]:
+    def load(path: str) -> List[str]:
+        res = []
+        for fi in glob(os.path.join(path, '*')):
+            with open(fi, 'r') as f:
+                res.append(f.read())
+        
+        return res
+    
+    @staticmethod
+    def write(data: List[str], path: str) -> None:
+        with open(path, 'w') as f:
+            f.write('n'.join(data))
+    
+    @staticmethod
+    def load_raw_(path: str, key_pos: int=None) -> Dict[str, List[str]]:
         data = {}
         for fi in glob(path):
             if key_pos is None:
@@ -23,7 +37,7 @@ class DataIO:
         return data
     
     @staticmethod
-    def write(data: Dict[str, List[str]], path: str) -> None:
+    def write_(data: Dict[str, List[str]], path: str) -> None:
         os.makedirs(path, exist_ok=True)
         for key in data:
             cluster_path = os.path.join(path, key)

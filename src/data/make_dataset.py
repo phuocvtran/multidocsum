@@ -35,7 +35,7 @@ def _preprocess_n_write(data: Dict[str, List[str]], func: Callable, out_path: st
 
 def preprocess() -> None:
     print('Loading data...')
-    raw_data = DataIO.load(RAW_DATA_PATH, RAW_CLUSTER_POS)
+    raw_data = DataIO.load_raw_(RAW_DATA_PATH, RAW_CLUSTER_POS)
 
     print('Processing data...')
     
@@ -66,4 +66,4 @@ def preprocess() -> None:
     kwargs = {'punctuation': punctuation}
     no_punct_data = _preprocess_n_write(sent_seg_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
     
-    DataIO.write(no_punct_data, 'data/processed')
+    DataIO.write_(no_punct_data, 'data/processed')
