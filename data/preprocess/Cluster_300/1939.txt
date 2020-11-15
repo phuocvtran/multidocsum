@@ -1,9 +1,9 @@
 idx, sentence
-0,cũng theo ông hà  khoảng 15 giờ chiều cùng ngày  cảng_hàng_không buôn_ma_thuột đã tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn 
-1,trước đó  vào sáng 36  bộ_phận kỹ_thuật cảng_hàng_không buôn_ma_thuột kiểm_tra  phát_hiện trên đường_băng xuất_hiện một vết bong tróc dài khoảng 50 cm 
-2,để đảm_bảo an_toàn  cảng_hàng_không sân_bay buôn_ma_thuột đã cho dừng mọi hoạt_động bay từ 6 giờ sáng đến 14 giờ trong ngày để sửa_chữa vết bong này 
-3,đại_diện cảng_hàng_không buôn_ma_thuột cũng cho biết các chuyến bay đi và đến sân_bay vào buổi sáng bị chậm giờ cất  hạ_cánh khoảng 56 giờ 
-4,sau khi khắc_phục xong sự_cố  các chuyến bay đi và đến vào buổi chiều như lịch_trình thì vẫn được đảm_bảo đúng giờ 
-5,đại_diện hãng vietnam_airlines cho biết vì sự_cố  hãng đã phải tạm ngừng khai_thác sáu chuyến bay đến và đi từ buôn_ma_thuột trong_sáng 36 gồm hai chuyến giữa hà_nội  buôn_ma_thuột  hai chuyến tphcm  buôn_ma_thuột và hai chuyến trên đường_bay giữa đà_nẵng  buôn_ma_thuột 
-6,thay vào đó  hãng này sẽ tăng sáu chuyến trên các đường_bay đến và đi buôn_ma_thuột trong chiều nay 
-7,hãng hàng_không vietjet_air cũng có bảy chuyến bay đến sân_bay buôn_ma_thuột bị chậm giờ cất / hạ_cánh từ 67 giờ trong ngày hôm_nay 
+0,ông hà khoảng 15 giờ chiều ngày cảng_hàng_không buôn_ma_thuột tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn
+1,sáng 36 bộ_phận kỹ_thuật cảng_hàng_không buôn_ma_thuột kiểm_tra phát_hiện đường_băng xuất_hiện một vết bong tróc dài khoảng 50 cm
+2,đảm_bảo an_toàn cảng_hàng_không sân_bay buôn_ma_thuột dừng mọi hoạt_động bay 6 giờ sáng đến 14 giờ trong ngày sửa_chữa vết bong
+3,đại_diện cảng_hàng_không buôn_ma_thuột biết chuyến bay đi đến sân_bay buổi sáng chậm giờ cất hạ_cánh khoảng 56 giờ
+4,khắc_phục xong sự_cố chuyến bay đi đến buổi chiều lịch_trình đảm_bảo đúng giờ
+5,đại_diện hãng vietnam_airlines biết sự_cố hãng tạm ngừng khai_thác sáu chuyến bay đến đi buôn_ma_thuột trong_sáng 36 gồm hai chuyến giữa hà_nội buôn_ma_thuột hai chuyến tphcm buôn_ma_thuột hai chuyến đường_bay giữa đà_nẵng buôn_ma_thuột
+6,thay hãng tăng sáu chuyến đường_bay đến đi buôn_ma_thuột trong chiều nay
+7,hãng hàng_không vietjet_air bảy chuyến bay đến sân_bay buôn_ma_thuột chậm giờ cất / hạ_cánh 67 giờ trong ngày hôm_nay

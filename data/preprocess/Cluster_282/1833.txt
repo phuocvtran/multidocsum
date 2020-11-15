@@ -1,14 +1,14 @@
 idx, sentence
-0,đấu_trường tiếu_lâm đã có một khởi_đầu rất thuận_lợi khi ngay từ tập đầu lên sóng đã chiếm được cảm_tình của khán_giả bởi format lạ  sức hút của các huấn_luyện_viên là những đạo_diễn  nghệ_sĩ hài đang được yêu_mến và sự mới_mẻ trong dàn thí_sinh thi_tài 
-1,tuy_nhiên  khi bước vào vòng song_đấu  chương_trình lại không tạo được hiệu_ứng như ban_đầu 
-2,rất nhiều khán_giả đã bày_tỏ sự thất_vọng về kịch_bản của vòng đấu này 
-3,nhiều người đặt câu hỏi tại_sao cứ phải liên_tục giả gái  tại_sao câu_chuyện không có điểm nhấn nào  tại_sao vòng một  lúc các thí_sinh  tự_biên tự diễn  thì khán_giả cười còn vòng hai  khi đã có sự giúp_sức của các huấn_luyện_viên thì nhiều tiểu_phẩm lại chẳng cười nổi 
-4,ngay cả những thí_sinh được kỳ_vọng sẽ bùng_nổ trong vòng song đấu cũng không đạt được đỉnh cao phong_độ của mình như tuấn_kiệt  minh_ngọc  lê_lộc  minh_dự   trong khi đó  những thí_sinh không thật_sự nổi_bật ở vòng_lập đội lại chiếm được nhiều cảm_tình của khán_giả trong vòng song đấu như thanh_phong  xuân_nghị  lê_trang  trên trang cá_nhân của mình  đạo_diễn đức_thịnh đã có những chia_sẻ thẳng_thắn và nhận_lỗi về những tiểu_phẩm chưa hay trong đội của mình 
-5,anh thú_thật  có những vòng đội đức_thịnh thi_đấu chưa tốt  hoàn_toàn lỗi ở huấn_luyện_viên 
-6,ngay khi họ diễn được khoảng 2 phút đầu tôi đã nhận ra mình sai 
-7,và cũng có những vòng đấu  kịch_bản rất hay nhưng do thí_sinh diễn không tốt  có_thể vì áp_lực tâm_lý  
-8,rất là tiếc   đạo_diễn đức thịnh viết 
-9,lỗi này có_thể là do chọn sai concept  không hứng_thú với tiêu_chí vòng đấu  chưa hiểu rõ thí_sinh hoặc huấn_luyện_viên bận quá  thiếu chăm_chút 
-10, nhiều lúc tôi rất muốn xin_lỗi thí_sinh của mình nhưng sợ mọi người nghĩ mình xạo  lại thôi ”  đức_thịnh thẳng_thắn 
-11,đạo_diễn đức_thịnh đánh_giá đây là cuộc thi đường dài  có những vòng đấu rất tệ và những vòng đấu thăng_hoa  có lúc tính đúng  có lúc sai 
-12,tuy_nhiên   những thí_sinh đi tới vòng cuối_cùng luôn là những người giỏi và  lì_lợm  nhất  
+0,đấu_trường tiếu_lâm một khởi_đầu thuận_lợi tập đầu sóng chiếm cảm_tình khán_giả format lạ sức hút huấn_luyện_viên đạo_diễn nghệ_sĩ hài yêu_mến mới_mẻ trong dàn thí_sinh thi_tài
+1,tuy_nhiên bước vòng song_đấu chương_trình tạo hiệu_ứng ban_đầu
+2,khán_giả bày_tỏ thất_vọng về kịch_bản vòng đấu
+3,người đặt câu hỏi tại_sao liên_tục giả gái tại_sao câu_chuyện điểm nhấn nào tại_sao vòng một thí_sinh tự_biên tự diễn khán_giả cười còn vòng hai giúp_sức huấn_luyện_viên tiểu_phẩm chẳng cười nổi
+4,thí_sinh kỳ_vọng bùng_nổ trong vòng song đấu đạt đỉnh cao phong_độ mình tuấn_kiệt minh_ngọc lê_lộc minh_dự trong thí_sinh thật_sự nổi_bật ở vòng_lập đội chiếm cảm_tình khán_giả trong vòng song đấu thanh_phong xuân_nghị lê_trang trang cá_nhân mình đạo_diễn đức_thịnh chia_sẻ thẳng_thắn nhận_lỗi về tiểu_phẩm hay trong đội mình
+5,anh thú_thật vòng đội đức_thịnh thi_đấu tốt hoàn_toàn lỗi ở huấn_luyện_viên
+6,họ diễn khoảng 2 phút đầu tôi nhận mình sai
+7,vòng đấu kịch_bản hay thí_sinh diễn tốt áp_lực tâm_lý
+8,tiếc đạo_diễn đức thịnh viết
+9,lỗi chọn sai concept hứng_thú tiêu_chí vòng đấu hiểu rõ thí_sinh hoặc huấn_luyện_viên bận quá thiếu chăm_chút
+10,tôi muốn xin_lỗi thí_sinh mình sợ mọi người nghĩ mình xạo thôi ” đức_thịnh thẳng_thắn
+11,đạo_diễn đức_thịnh đánh_giá cuộc thi đường dài vòng đấu tệ vòng đấu thăng_hoa tính đúng sai
+12,tuy_nhiên thí_sinh đi tới vòng cuối_cùng luôn người giỏi lì_lợm nhất

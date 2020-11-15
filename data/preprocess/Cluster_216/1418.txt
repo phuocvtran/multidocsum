@@ -1,14 +1,14 @@
 idx, sentence
-0,chiều 31/5  tòa_án nhân_dân tỉnh bà_rịavũng_tàu đã tuyên_phạt bị_cáo phạm_văn_minh  50 tuổi  giám_đốc công_ty tnhh thương_mại và chế_biến thực_phẩm phú an_sinh  quận 12  tphcm  gọi tắt là công_ty phú an_sinh  19 năm tù về tội lạm_dụng tín_nhiệm chiếm_đoạt tài_sản 
-1,tòa cũng tuyên bị_cáo minh phải bồi_thường số tiền hơn 73 tỉ đồng cho sở công_thương và 335 tỉ đồng cho sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu 
-2,công_ty phú an_sinh chuyên kinh_doanh mua_bán  giết_mổ  chế_biến thực_phẩm  chăn_nuôi gia_súc gia_cầm 
-3,công_ty có đầu_tư nhà_máy chế_biến gia_súc  gia_cầm tại xã hắc_dịch  huyện tân_thành  tỉnh bà_rịavũng_tàu 
-4,năm 2010  công_ty phú an_sinh đã nhận tạm_ứng vốn từ nguồn vốn của ngân_sách tỉnh bà_rịavũng_tàu để thực_hiện hai chương_trình bình_ổn giá trên địa_bàn tỉnh 
-5,cụ_thể  tháng 11/2010  công_ty nhận tạm_ứng số tiền 165 tỉ đồng từ sở công_thương tỉnh để tham_gia dự_trữ hàng_hóa  bình_ổn giá cho tỉnh 
-6,thời_gian hỗ_trợ và hoàn vốn là 6 tháng kể từ ngày nhận  không tính lãi vốn tạm_ứng 
-7,sau khi sở công_thương tỉnh chuyển số tiền trên cho công_ty phú an_sinh  công_ty này chỉ sử_dụng 560 triệu đồng để tham_gia bình_ổn giá 
-8,số còn lại công_ty phú an_sinh sử_dụng vào mục_đích khác 
-9,tính đến thời_điểm phải hoàn vốn  công_ty phú an_sinh mới trả lại cho sở công_thương số tiền hơn 91 tỉ đồng 
-10,trong năm 2010  sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu cũng chuyển cho công_ty phú an_sinh 35 tỉ đồng để thu_mua lợn của người chăn_nuôi trên địa_bàn đem giết_mổ sẵn  đưa vào cấp đông dự_trữ nhằm bình_ổn giá trong tình_hình dịch_bệnh lợn tai xanh trên địa_bàn tỉnh 
-11,tuy_nhiên  công_ty phú an_sinh chỉ sử_dụng hơn 10 tỉ đúng mục_đích 
-12,số tiền còn lại  công_ty này sử_dụng vào các mục_đích khác như mua giống  trả nợ  trả lương …
+0,chiều 31/5 tòa_án nhân_dân tỉnh bà_rịavũng_tàu tuyên_phạt bị_cáo phạm_văn_minh 50 tuổi giám_đốc công_ty tnhh thương_mại chế_biến thực_phẩm phú an_sinh quận 12 tphcm gọi tắt công_ty phú an_sinh 19 năm tù về tội lạm_dụng tín_nhiệm chiếm_đoạt tài_sản
+1,tòa tuyên bị_cáo minh bồi_thường số tiền hơn 73 tỉ đồng sở công_thương 335 tỉ đồng sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu
+2,công_ty phú an_sinh chuyên kinh_doanh mua_bán giết_mổ chế_biến thực_phẩm chăn_nuôi gia_súc gia_cầm
+3,công_ty đầu_tư nhà_máy chế_biến gia_súc gia_cầm xã hắc_dịch huyện tân_thành tỉnh bà_rịavũng_tàu
+4,năm 2010 công_ty phú an_sinh nhận tạm_ứng vốn nguồn vốn ngân_sách tỉnh bà_rịavũng_tàu thực_hiện hai chương_trình bình_ổn giá địa_bàn tỉnh
+5,cụ_thể tháng 11/2010 công_ty nhận tạm_ứng số tiền 165 tỉ đồng sở công_thương tỉnh tham_gia dự_trữ hàng_hóa bình_ổn giá tỉnh
+6,thời_gian hỗ_trợ hoàn vốn 6 tháng kể ngày nhận tính lãi vốn tạm_ứng
+7,sở công_thương tỉnh chuyển số tiền công_ty phú an_sinh công_ty sử_dụng 560 triệu đồng tham_gia bình_ổn giá
+8,số còn công_ty phú an_sinh sử_dụng mục_đích khác
+9,tính đến thời_điểm hoàn vốn công_ty phú an_sinh mới trả sở công_thương số tiền hơn 91 tỉ đồng
+10,trong năm 2010 sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu chuyển công_ty phú an_sinh 35 tỉ đồng thu_mua lợn người chăn_nuôi địa_bàn đem giết_mổ sẵn đưa cấp đông dự_trữ nhằm bình_ổn giá trong tình_hình dịch_bệnh lợn tai xanh địa_bàn tỉnh
+11,tuy_nhiên công_ty phú an_sinh sử_dụng hơn 10 tỉ đúng mục_đích
+12,số tiền còn công_ty sử_dụng mục_đích khác mua giống trả nợ trả lương …

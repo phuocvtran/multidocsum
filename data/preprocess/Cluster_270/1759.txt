@@ -1,15 +1,15 @@
 idx, sentence
-0,theo thông_tin ban_đầu  chiều ngày 2/6  hạt kiểm_lâm krông_pa nhận được tin báo 1 nhóm lâm_tặc từ phú_yên dùng thuyền sắt men theo sông krông_năng  đoạn qua xã krông_năng  krông_pa  để vận_chuyển gỗ lậu 
-1,ngay sau đó  đơn_vị đã cử 5 cán_bộ của hạt xuống hiện_trường để xác_minh vụ_việc gồm các anh phạm_văn_duy  lê_văn_hóa  đoàn_xuân_hồng  đinh_việt_hồng và trần_kim_vũ 
-2,đến khoảng 16 h cùng ngày  5 cán_bộ trên đã có_mặt tại hiện_trường 
-3,tại thời_điểm này  4 đối_tượng lâm_tặc đang trên thuyền sắt  chở khoảng 45 m3 gỗ căm_xe để xuôi về phú_yên 
-4,ngay_lập_tức  4 cán_bộ kiểm_lâm dùng 1 chiếc thuyền nhỏ để bám theo các đối_tượng trên 
-5,khi thuyền của kiểm_lâm áp sát thuyền của lâm_tặc  các cán_bộ yêu_cầu nhóm đối_tượng này cho thuyền dừng lại 
-6,tuy_nhiên  các đối_tượng không_những không nghe theo mà dùng dao  mã_tấu chém liên_tục về phía kiểm_lâm 
-7,nhận thấy đối_tượng hung_hãn  có hành_vi chống_đối nguy_hiểm nên kiểm_lâm_viên đinh việt_hồng đã rút súng bắn 5 phát chỉ_thiên 
-8,mặc cho các kiểm_lâm_viên đã bắn súng thị_uy  các đối_tượng lâm_tặc vẫn tiếp_tục chống_trả  lái thuyền đâm va vào thuyền kiểm_lâm  dùng gậy đánh tới_tấp về kiểm_lâm_viên phạm_văn_duy và lê_văn_hóa 
-9,thấy vậy  kiểm_lâm_viên đinh việt_hồng tiếp_tục dùng súng bắn vào mạn_thuyền của lâm_tặc để thuyền chìm  nhưng đạn đã bay vào người đối_tượng nguyễn_sơn_đông 
-10,bị_thương  nhóm lâm_tặc cho thuyền chạy nhanh về hướng phú_yên 
-11,còn các kiểm_lâm đưa người của mình về bệnh_viện huyện krông_pa 
-12,anh phạm_văn_duy khâu 2 mũi ở tay  còn anh lê_văn_hóa_bị xây_xát 
-13,hạt kiểm_lâm huyện krông_pa cho biết  tối cùng ngày  đơn_vị này đã nhận được tin báo từ công_an của huyện về việc đối_tượng nguyễn_sơn_đông đã tử_vong do mất quá nhiều máu 
+0,thông_tin ban_đầu chiều ngày 2/6 hạt kiểm_lâm krông_pa nhận tin báo 1 nhóm lâm_tặc phú_yên dùng thuyền sắt men sông krông_năng đoạn xã krông_năng krông_pa vận_chuyển gỗ lậu
+1,đơn_vị cử 5 cán_bộ hạt xuống hiện_trường xác_minh vụ_việc gồm anh phạm_văn_duy lê_văn_hóa đoàn_xuân_hồng đinh_việt_hồng trần_kim_vũ
+2,đến khoảng 16 h ngày 5 cán_bộ có_mặt hiện_trường
+3,thời_điểm 4 đối_tượng lâm_tặc thuyền sắt chở khoảng 45 m3 gỗ căm_xe xuôi về phú_yên
+4,ngay_lập_tức 4 cán_bộ kiểm_lâm dùng 1 thuyền nhỏ bám đối_tượng
+5,thuyền kiểm_lâm áp sát thuyền lâm_tặc cán_bộ yêu_cầu nhóm đối_tượng thuyền dừng
+6,tuy_nhiên đối_tượng không_những nghe dùng dao mã_tấu chém liên_tục về phía kiểm_lâm
+7,nhận thấy đối_tượng hung_hãn hành_vi chống_đối nguy_hiểm kiểm_lâm_viên đinh việt_hồng rút súng bắn 5 phát chỉ_thiên
+8,mặc kiểm_lâm_viên bắn súng thị_uy đối_tượng lâm_tặc tiếp_tục chống_trả lái thuyền đâm va thuyền kiểm_lâm dùng gậy đánh tới_tấp về kiểm_lâm_viên phạm_văn_duy lê_văn_hóa
+9,thấy kiểm_lâm_viên đinh việt_hồng tiếp_tục dùng súng bắn mạn_thuyền lâm_tặc thuyền chìm đạn bay người đối_tượng nguyễn_sơn_đông
+10,bị_thương nhóm lâm_tặc thuyền chạy nhanh về hướng phú_yên
+11,còn kiểm_lâm đưa người mình về bệnh_viện huyện krông_pa
+12,anh phạm_văn_duy khâu 2 mũi ở tay còn anh lê_văn_hóa_bị xây_xát
+13,hạt kiểm_lâm huyện krông_pa biết tối ngày đơn_vị nhận tin báo công_an huyện về đối_tượng nguyễn_sơn_đông tử_vong mất quá máu

@@ -1,8 +1,8 @@
 idx, sentence
-0,vào khoảng 14 giờ 30 phút  nhóm ba người gồm ông hồ_nghĩa  sn 1968  cùng con_trai là hồ_lĩnh  sn 1999  và ông nguyễn_văn_toán  sn 1970   cùng trú tổ 6  khu_vực 3  phường an_hòa  tp huế  đang đi gieo mạ khu_vực ruộng_đồng_bào miêu  khu_vực đốc_sơ  phường an_hòa  cùng ba em nhỏ là nam_sinh đang đi chơi đồng sát đó  do cơn mưa lớn kèm giông_tố nên cả sáu người cùng nhau vào trú_ẩn ở một cái chòi nhỏ ven bờ ruộng 
-1,bất_ngờ sét đánh lớn khiến mọi người trong nhóm văng ra khỏi chòi 
-2,hậu_quả  cả ba người bị_thương nặng  gồm ông nghĩa  anh lĩnh và ông toán được đưa đi cấp_cứu kịp_thời tại bệnh_viện tư_huế 
-3,các nạn_nhân được chẩn_đoán chấn_thương lưng  cột_sống  tức ngực  tê hai chi dưới và bỏng  riêng anh lĩnh bị đau_mắt phải  váng_đầu  tức ngực  ba em nhỏ may_mắn chỉ bị tê người nên được điều_trị ở nhà 
-4,cũng vào thời_điểm trên  ông lê_văn_tưởng  sn 1974   trú thôn bồn_phổ  phường hương_an  thị_xã hương_trà  thừa_thiên  huế  đang làm_đồng cũng bị sét đánh rất nặng 
-5,sau khi được đưa vào cấp_cứu tại bệnh_viện tư_huế  bệnh_nhân tưởng được ghi_nhận bị hôn_mê sâu  tím tái toàn_thân  lông tóc cháy_sém  ngừng tim phổi 
-6,dù đã được tích_cực hồi_sức nhưng đã tử_vong vào_khoảng 16 giờ cùng ngày 
+0,khoảng 14 giờ 30 phút nhóm ba người gồm ông hồ_nghĩa sn 1968 con_trai hồ_lĩnh sn 1999 ông nguyễn_văn_toán sn 1970 trú tổ 6 khu_vực 3 phường an_hòa tp huế đi gieo mạ khu_vực ruộng_đồng_bào miêu khu_vực đốc_sơ phường an_hòa ba em nhỏ nam_sinh đi chơi đồng sát cơn mưa lớn kèm giông_tố sáu người nhau trú_ẩn ở một chòi nhỏ ven bờ ruộng
+1,bất_ngờ sét đánh lớn khiến mọi người trong nhóm văng khỏi chòi
+2,hậu_quả ba người bị_thương nặng gồm ông nghĩa anh lĩnh ông toán đưa đi cấp_cứu kịp_thời bệnh_viện tư_huế
+3,nạn_nhân chẩn_đoán chấn_thương lưng cột_sống tức ngực tê hai chi bỏng riêng anh lĩnh đau_mắt váng_đầu tức ngực ba em nhỏ may_mắn tê người điều_trị ở nhà
+4,thời_điểm ông lê_văn_tưởng sn 1974 trú thôn bồn_phổ phường hương_an thị_xã hương_trà thừa_thiên huế làm_đồng sét đánh nặng
+5,đưa cấp_cứu bệnh_viện tư_huế bệnh_nhân tưởng ghi_nhận hôn_mê sâu tím tái toàn_thân lông tóc cháy_sém ngừng tim phổi
+6,dù tích_cực hồi_sức tử_vong vào_khoảng 16 giờ ngày

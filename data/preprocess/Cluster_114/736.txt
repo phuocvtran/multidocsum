@@ -1,19 +1,19 @@
 idx, sentence
-0,chiều 23/5  ông võ_thanh_hùngtrưởng ban quản_lý khu_chế_xuất  công_nghiệp cần_thơ  tổ_trưởng tổ công_tác đặc_biệt xử_lý vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã  cho biết công_ty này nợ gần 900 tỷ đồng 
-1,và phương_án trả nợ chì còn cách cho thuê nhà_máy hoặc huy_động các chủ_nợ tham_gia tái cơ_cấu doanh_nghiệp 
-2,trong số gần 900 tỉ đồng tiền nợ  có 516 tỷ đồng vay từ hai ngân_hàng lớn có trụ_sở chi_nhành tại tỉnh hậu_giang 
-3,số còn lại là nợ người bán cá_tra  các đơn_vị cung_cấp vật_tư và tiền lãi  nợ_nần rất nhiều nhưng tổng giá_trị tài_sản hiện_tại của công_ty thiên_mã chỉ khoảng 110 tỷ đồng  đã cầm_cố  thế_chấp 
-4,ông hùng cho biết thêm  sở_dĩ doanh_nghiệp đang đứng bên bờ vực phá_sản do ông tòng vay vốn ngắn_hạn đầu_tư trung dài_hạn và đổ vào bất_động_sản trong khi lãi_suất vay ngân_hàng quá cao  có lúc lên đến 21  / năm 
-5,khi thị_trường nhà_đất đóng_băng  ngành cá_tra rơi vào khủng_hoảng_thừa đã làm cho danh nghiệp mất cân_đối nghiêm_trọng 
-6,nhà_máy của công_ty thiên_mã_hiện chỉ hoạt_động gia_công cho một đơn_vị khác tại khu_công_nghiệp trà_nóc và còn nợ tiền điện  nước và lương công_nhân gần 1 tỷ đồng 
-7,để không phát_sinh nợ mới và ổn_định việc_làm  thu_nhập của 400 công_nhân tại đây  tổ công_tác đã đề_nghị ubnd tp cần_thơ phương_án cho thuê nhà_xưởng hoặc kêu_gọi các chủ_nợ lớn tham_gia tái cơ_cấu 
-8,nếu tình_hình nghiêm_trọng hơn thì đề_nghị tuyên_bố phá_sản doanh_nghiệp này 
-9,như báo gia_đình việt_nam đã thông_tin trước đó  vào lúc 20 h50 phút ngày 31/3  cục cảnh_sát kinh_tế  c46   bộ công_an  phối_hợp với công_an tp cần_thơ đã tiến_hành khám_xét nơi làm_việc và nhà_riêng của ông phan_bá_tòng  hay còn gọi_là tòng_thiên_mã   giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã  qô_môn  tp cần_thơ  để điều_tra hành_vi sai_phạm về kinh_tế liên_quan đến một_số ngân_hàng tại cần_thơ 
-10,gần 10 cán_bộ của c46 và pc46  công_an phường cái_khế  quận ninh_kiều đã phối_hợp tiến_hành khám_xét căn biệt_thự hoành_tráng của ông tòng trong hẻm 75 đường trần_phú 
-11,cùng thời_gian này  một mũi trinh_sát khác đã phối_hợp với công_an quận ô_môn tiến_hành khám_xét nơi làm_việc của ông tòng trong khu_công_nghiệp trà_nóc 
-12,vào đầu giờ chiều cùng ngày  bộ công_an cũng đã tiến_hành bắt_giữ ông tòng và dẫn_giải ông này về trụ_sở của c46 bằng đường_hàng_không để tiến_hành điều_tra và thực_hiện các bước thủ_tục tố_tụng cần_thiết 
-13,tại cần_thơ  ông tòng từng được biết đến là một doanh_nhân thành_đạt  hoạt_động trong lĩnh_vực nuôi_trồng  sản_xuất  tiêu_thụ  xuất_khẩu cá_tra  ba sa xuất_khẩu 
-14,ông tòng cũng được mọi người hiểu là người phóng_túng  tiêu tiền như nước theo kiểu ngắt khúc 
-15,làm giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã  để có đồng vốn phục_vụ cho thu_mua thủy_sản  đầu_tư nhà_máy  ông tòng phải lập nhiều hồ_sơ để vay vối tại các ngân_hàng trên địa_bàn tp cần_thơ và khu_vực đbscl 
-16,trong nhiều hồ_sơ này có nhiều bộ không “ minh_bạch ” đã dẫn đến việc ngân_hàng không_thể thu_hồi được vốn và chuyển sang nợ xấu 
-17,số tiền nợ_nần được xác_định khoảng gần 900 tỉ đồng 
+0,chiều 23/5 ông võ_thanh_hùngtrưởng ban quản_lý khu_chế_xuất công_nghiệp cần_thơ tổ_trưởng tổ công_tác đặc_biệt xử_lý vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã biết công_ty nợ gần 900 tỷ đồng
+1,phương_án trả nợ chì còn cách thuê nhà_máy hoặc huy_động chủ_nợ tham_gia tái cơ_cấu doanh_nghiệp
+2,trong số gần 900 tỉ đồng tiền nợ 516 tỷ đồng vay hai ngân_hàng lớn trụ_sở chi_nhành tỉnh hậu_giang
+3,số còn nợ người bán cá_tra đơn_vị cung_cấp vật_tư tiền lãi nợ_nần tổng giá_trị tài_sản hiện_tại công_ty thiên_mã khoảng 110 tỷ đồng cầm_cố thế_chấp
+4,ông hùng biết thêm sở_dĩ doanh_nghiệp đứng bên bờ vực phá_sản ông tòng vay vốn ngắn_hạn đầu_tư trung dài_hạn đổ bất_động_sản trong lãi_suất vay ngân_hàng quá cao đến 21 / năm
+5,thị_trường nhà_đất đóng_băng ngành cá_tra rơi khủng_hoảng_thừa làm danh nghiệp mất cân_đối nghiêm_trọng
+6,nhà_máy công_ty thiên_mã_hiện hoạt_động gia_công một đơn_vị khác khu_công_nghiệp trà_nóc còn nợ tiền điện nước lương công_nhân gần 1 tỷ đồng
+7,phát_sinh nợ mới ổn_định việc_làm thu_nhập 400 công_nhân tổ công_tác đề_nghị ubnd tp cần_thơ phương_án thuê nhà_xưởng hoặc kêu_gọi chủ_nợ lớn tham_gia tái cơ_cấu
+8,tình_hình nghiêm_trọng hơn đề_nghị tuyên_bố phá_sản doanh_nghiệp
+9,báo gia_đình việt_nam thông_tin 20 h50 phút ngày 31/3 cục cảnh_sát kinh_tế c46 bộ công_an phối_hợp công_an tp cần_thơ tiến_hành khám_xét làm_việc nhà_riêng ông phan_bá_tòng hay còn gọi_là tòng_thiên_mã giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã qô_môn tp cần_thơ điều_tra hành_vi sai_phạm về kinh_tế liên_quan đến một_số ngân_hàng cần_thơ
+10,gần 10 cán_bộ c46 pc46 công_an phường cái_khế quận ninh_kiều phối_hợp tiến_hành khám_xét căn biệt_thự hoành_tráng ông tòng trong hẻm 75 đường trần_phú
+11,thời_gian một mũi trinh_sát khác phối_hợp công_an quận ô_môn tiến_hành khám_xét làm_việc ông tòng trong khu_công_nghiệp trà_nóc
+12,đầu giờ chiều ngày bộ công_an tiến_hành bắt_giữ ông tòng dẫn_giải ông về trụ_sở c46 bằng đường_hàng_không tiến_hành điều_tra thực_hiện bước thủ_tục tố_tụng cần_thiết
+13,cần_thơ ông tòng biết đến một doanh_nhân thành_đạt hoạt_động trong lĩnh_vực nuôi_trồng sản_xuất tiêu_thụ xuất_khẩu cá_tra ba sa xuất_khẩu
+14,ông tòng mọi người hiểu người phóng_túng tiêu tiền nước kiểu ngắt khúc
+15,làm giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã đồng vốn phục_vụ thu_mua thủy_sản đầu_tư nhà_máy ông tòng lập hồ_sơ vay vối ngân_hàng địa_bàn tp cần_thơ khu_vực đbscl
+16,trong hồ_sơ bộ “ minh_bạch ” dẫn đến ngân_hàng không_thể thu_hồi vốn chuyển sang nợ xấu
+17,số tiền nợ_nần xác_định khoảng gần 900 tỉ đồng

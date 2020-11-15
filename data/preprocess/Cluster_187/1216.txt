@@ -1,4 +1,4 @@
 idx, sentence
-0,đón đoàn có đại_diện lãnh_đạo ubndtphcm  quân_khu 7  bộ_tư_lệnh hải_quân cùng một_số cơ_quan_chức_năng liên_quan 
-1,phía australia có tổng_lãnh_sự tại tphcm và tùy_viên quốc_phòng tại hà_nội 
-2,theo chương_trình  nhóm sỹ quan  chỉ_huy tàu sẽ tới chào xã_giao lãnh_đạo sở ngoại_vụ thành_phố  thủ_trưởng bộ_tư_lệnh quân_khu 7 và đại_diện quân_chủng hải_quân 
+0,đón đoàn đại_diện lãnh_đạo ubndtphcm quân_khu 7 bộ_tư_lệnh hải_quân một_số cơ_quan_chức_năng liên_quan
+1,phía australia tổng_lãnh_sự tphcm tùy_viên quốc_phòng hà_nội
+2,chương_trình nhóm sỹ quan chỉ_huy tàu tới chào xã_giao lãnh_đạo sở ngoại_vụ thành_phố thủ_trưởng bộ_tư_lệnh quân_khu 7 đại_diện quân_chủng hải_quân

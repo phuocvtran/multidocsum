@@ -1,6 +1,6 @@
 idx, sentence
-0,dự_án sẽ được thi_công hai giai_đoạn 
-1,tổng mức đầu_tư giai_đoạn 1 là 8379 tỷ đồng  và tổng mức đầu_tư giai_đoạn 2 khoảng 1500 tỷ đồng 
-2,trong giai_đoạn 1 sẽ xây_dựng cầu vượt qua nút giao theo hướng đường_vành_đai 2 cho 4 làn xe ô_tô  rộng 17 m  dài 316 m  xây_dựng hầm chui rẽ trái từ đường vành_đai 2 đi cát_lái gồm 2 làn xe  rộng 9 m  dài 405 m  phần hầm kín dài 80 m  xây_dựng cầu_kỳ hà 3 có kết_cấu tương_đương cầu hiện_hữu  xây_dựng các đường chui dưới dạ cầu mỹ_thủy  cầu_kỳ hà 2  cầu_kỳ hà 3 để giảm lưu_lượng xe hai bánh tập_trung về nút  đảm_bảo an_toàn giao_thông 
-3,việc triển_khai dự_án sẽ phải thu_hồi  giải_tỏa hơn 576 ha đất  làm ảnh_hưởng đến cuộc_sống của gần 150 hộ dân thuộc phường cát_lái và thạnh_mỹ_lợi  quận 2 
-4,hiện_nay  lượng xe lưu_thông_qua vòng xoay mỹ_thủy_tăng đột_biến là do lưu_lượng xe từ các tỉnh miền tây  theo hướng từ đường nguyễn_văn_linh vào đường vành_đai đông và lưu_lượng xe từ đường_cao_tốc_thành_phố hồ_chí_minh – long_thành – dầu_giây lưu_thông_qua vòng xoay mỹ_thủy để vào cảng cát_lái  kết_hợp với lượng xe trên đường đồng_văn cống gây nên hiện_tượng ùn ứ tại vòng xoay mỹ_thủy 
+0,dự_án thi_công hai giai_đoạn
+1,tổng mức đầu_tư giai_đoạn 1 8379 tỷ đồng tổng mức đầu_tư giai_đoạn 2 khoảng 1500 tỷ đồng
+2,trong giai_đoạn 1 xây_dựng cầu vượt nút giao hướng đường_vành_đai 2 4 làn xe ô_tô rộng 17 m dài 316 m xây_dựng hầm chui rẽ trái đường vành_đai 2 đi cát_lái gồm 2 làn xe rộng 9 m dài 405 m phần hầm kín dài 80 m xây_dựng cầu_kỳ hà 3 kết_cấu tương_đương cầu hiện_hữu xây_dựng đường chui dạ cầu mỹ_thủy cầu_kỳ hà 2 cầu_kỳ hà 3 giảm lưu_lượng xe hai bánh tập_trung về nút đảm_bảo an_toàn giao_thông
+3,triển_khai dự_án thu_hồi giải_tỏa hơn 576 ha đất làm ảnh_hưởng đến cuộc_sống gần 150 hộ dân thuộc phường cát_lái thạnh_mỹ_lợi quận 2
+4,hiện_nay lượng xe lưu_thông_qua vòng xoay mỹ_thủy_tăng đột_biến lưu_lượng xe tỉnh miền tây hướng đường nguyễn_văn_linh đường vành_đai đông lưu_lượng xe đường_cao_tốc_thành_phố hồ_chí_minh – long_thành – dầu_giây lưu_thông_qua vòng xoay mỹ_thủy cảng cát_lái kết_hợp lượng xe đường đồng_văn cống gây hiện_tượng ùn ứ vòng xoay mỹ_thủy

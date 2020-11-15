@@ -1,2 +1,2 @@
 idx, sentence
-0,hôm_qua 315  liên_đoàn_judo thế_giới đã khép lại các giải đấu có tính điểm và tính kết_quả trao suất olympic 2016 
+0,hôm_qua 315 liên_đoàn_judo thế_giới khép giải đấu tính điểm tính kết_quả trao suất olympic 2016

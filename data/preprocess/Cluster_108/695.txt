@@ -1,6 +1,6 @@
 idx, sentence
-0,theo đó  coteccons sẽ là đối_tác_chiến_lược  tổng thầu trong các hoạt_động xây_dựng  thiết_kế và thi_công các dự_án bất_động_sản  bđs  sắp tới của khang_điền 
-1,dịp này  khang_điền ký hợp_tác đầu_tư với khải_hoàn_land nhằm phát_triển dự_án theo đúng nhu_cầu và mở_rộng kênh phân_phối uy_tín đến khách_hàng 
-2,mở_đầu cho sự hợp_tác này  khải_hoàn_land sẽ hợp_tác đầu_tư vào dự_án khu_biệt_thự cao_cấp lucasta chuẩn năm sao 
-3,đây được xem là một trong những dự_án nổi_bật  tiên_phong tạo diện_mạo mới cho bđs cao_cấp khu_vực phía đông tphcm
-4,được biết lucasta do cbre quản_lý và giám_sát chất_lượng công_trình cao_cấp theo tiêu_chuẩn của scqc  ngân_hàng vietinbank tài_trợ chính 
+0,coteccons đối_tác_chiến_lược tổng thầu trong hoạt_động xây_dựng thiết_kế thi_công dự_án bất_động_sản bđs sắp tới khang_điền
+1,dịp khang_điền ký hợp_tác đầu_tư khải_hoàn_land nhằm phát_triển dự_án đúng nhu_cầu mở_rộng kênh phân_phối uy_tín đến khách_hàng
+2,mở_đầu hợp_tác khải_hoàn_land hợp_tác đầu_tư dự_án khu_biệt_thự cao_cấp lucasta chuẩn năm sao
+3,xem một trong dự_án nổi_bật tiên_phong tạo diện_mạo mới bđs cao_cấp khu_vực phía đông tphcm
+4,biết lucasta cbre quản_lý giám_sát chất_lượng công_trình cao_cấp tiêu_chuẩn scqc ngân_hàng vietinbank tài_trợ chính

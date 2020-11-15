@@ -1,7 +1,7 @@
 idx, sentence
-0,đêm 2/6  khói_lửa bốc lên ngùn_ngụt từ căn nhà trong hẻm 80  đường dương_quảng_hàm   quận gò_vấp  tphcm  
-1,phát_hiện đám cháy  người dân trong khu_vực đã ngắt hệ_thống điện khiến cánh cửa_cuốn trong nhà này không mở ra được  vợ_chồng cụ ông 70 tuổi mắc_kẹt bên trong la_hét  kêu cứu 
-2,ngay sau đó người dân quanh đây liền dùng xà_beng  búa phá cảnh cửa hông  lao vào đám cháy đưa vợ_chồng cụ ông ra ngoài an_toàn 
-3,nhận được tin báo lực_lượng cảnh_sát pccc quận gò_vấp có_mặt tại hiện_trường nhưng con hẻm nhỏ khiến xe chữa_cháy không_thể tiếp_cận được gây khó_khăn cho việc chữa_cháy 
-4,rất may  các chiến_sĩ đã kịp_thời tiếp_cận các họng cứu_hỏa cách căn nhà đang cháy hơn 100 m để lấy nước chữa_cháy 
-5,sau gần 2 h chữa cháy  đám cháy được dập_tắt hoàn_toàn 
+0,đêm 2/6 khói_lửa bốc ngùn_ngụt căn nhà trong hẻm 80 đường dương_quảng_hàm quận gò_vấp tphcm
+1,phát_hiện đám cháy người dân trong khu_vực ngắt hệ_thống điện khiến cánh cửa_cuốn trong nhà mở vợ_chồng cụ ông 70 tuổi mắc_kẹt bên trong la_hét kêu cứu
+2,người dân quanh liền dùng xà_beng búa phá cảnh cửa hông lao đám cháy đưa vợ_chồng cụ ông ngoài an_toàn
+3,nhận tin báo lực_lượng cảnh_sát pccc quận gò_vấp có_mặt hiện_trường con hẻm nhỏ khiến xe chữa_cháy không_thể tiếp_cận gây khó_khăn chữa_cháy
+4,may chiến_sĩ kịp_thời tiếp_cận họng cứu_hỏa cách căn nhà cháy hơn 100 m lấy nước chữa_cháy
+5,gần 2 h chữa cháy đám cháy dập_tắt hoàn_toàn

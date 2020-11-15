@@ -1,10 +1,10 @@
 idx, sentence
-0,theo thông_tin ban_đầu  7 vụ nổ xảy ra gần như đồng_thời  nhắm vào các mục_tiêu như trạm xe_buýt  bệnh_viện và các khu_vực có nhiều thường_dân gần căn_cứ không_quân khmeimim  tp jablah  và căn_cứ hải_quân tartus  tp tartus  của nga 
-1,đài quan_sát_nhân_quyền syria cho biết  khi mọi người đến hiện_trường của chiếc bom xe đầu_tiên phát nổ  hai kẻ đánh bom tự_sát đã kích_hoạt đai bom 
-2,đài quan_sát này cũng cho biết  ba trong bốn vụ nổ còn lại được ghi_nhận ở gần 1 nhà_ga xe_lửa địa_phương tại thành_phố ven biển jableh 
-3,hãng tin ria_novosti cho biết vụ nổ thứ 4 xảy ra tại phòng cấp_cứu của một bệnh_viện 
-4,heo truyền_thông syria đưa tin  có ít_nhất 78 người thiệt_mạng trong 7 vụ đánh bom liên_hoàn kể trên  nhưng con_số mà tổ_chức giám_sát_nhân_quyền syria đưa ra là hơn 145 người thiệt_mạng 
-5,tổ_chức nhà_nước hồi_giáo tự_xưng is đã lên tiếng nhận trách_nhiệm cho các vụ tấn_công hôm 23/5 
-6,tổng_thư_ký liên_hợp quốcông ban ki_moon đã lên_án các cuộc tấn_công khủng_bố 
-7,nga tái khẳng_định các cuộc tấn_công này đã  chứng_minh tình_trạng mong_manh của syria và sự cần_thiết phải có một biện_pháp mạnh để tái khởi_động lại cuộc đàm_phán hòa_bình  
-8,pháp gọi đây là hành_động  ghê_tởm  của is 
+0,thông_tin ban_đầu 7 vụ nổ xảy gần đồng_thời nhắm mục_tiêu trạm xe_buýt bệnh_viện khu_vực thường_dân gần căn_cứ không_quân khmeimim tp jablah căn_cứ hải_quân tartus tp tartus nga
+1,đài quan_sát_nhân_quyền syria biết mọi người đến hiện_trường bom xe đầu_tiên phát nổ hai kẻ đánh bom tự_sát kích_hoạt đai bom
+2,đài quan_sát biết ba trong bốn vụ nổ còn ghi_nhận ở gần 1 nhà_ga xe_lửa địa_phương thành_phố ven biển jableh
+3,hãng tin ria_novosti biết vụ nổ thứ 4 xảy phòng cấp_cứu một bệnh_viện
+4,heo truyền_thông syria đưa tin ít_nhất 78 người thiệt_mạng trong 7 vụ đánh bom liên_hoàn kể con_số tổ_chức giám_sát_nhân_quyền syria đưa hơn 145 người thiệt_mạng
+5,tổ_chức nhà_nước hồi_giáo tự_xưng is tiếng nhận trách_nhiệm vụ tấn_công hôm 23/5
+6,tổng_thư_ký liên_hợp quốcông ban ki_moon lên_án cuộc tấn_công khủng_bố
+7,nga tái khẳng_định cuộc tấn_công chứng_minh tình_trạng mong_manh syria cần_thiết một biện_pháp mạnh tái khởi_động cuộc đàm_phán hòa_bình
+8,pháp gọi hành_động ghê_tởm is

@@ -1,19 +1,19 @@
 idx, sentence
-0,bà ko_yongsuk  em_gái của mẹ lãnh_đạo kim_jongun đã đảo tẩu sang mỹ từ năm 1998 thay_vì hàn_quốc 
-1,bà hiện đang sống cùng chồng và ba đứa con trong căn nhà hai tầng có treo ảnh lãnh_đạo kim thời niên_thiếu 
-2,gia_đình bà này đã dùng 200000 usd mà cục tình_báo trung_ương mỹ cia đưa cho bà để mua một căn nhà tại new_york  mở một tiệm giặt là 
-3,đây là nguồn sống giúp bà nuôi nấng ba đứa con ăn_học và có việc_làm ổn_định 
-4,bà ko chia_sẻ  bạn_bè bà cho rằng bà may_mắn và có mọi thứ 
-5,tờ the_washington_post cũng cho biết  con_gái bà được học ở trường tốt và chúng rất thành_công và 1 người chồng làm được mọi thứ 
-6,trước đến nay  truyền_thông thế_giới luôn dự_đoán tuổi của ông kim_jongun khoảng 3435 tuổi  nhưng bà ko cho biết ông kimm_jongun_sinh năm 1984 
-7,bà cho biết bà chắc_chắn về năm sinh của kim_jonngun vì có cùng năm sinh với con trai bà 
-8,bà ko cho biết  năm 1996 ông kim được đưa đến thụy_sỹ để học trường quốc_tế khi vừa tròn 12 tuổi 
-9,vợ_chồng bà đã được giao nhiệm_vụ đến đó để chăm_lo cho cuộc_sống của ông kim 
-10,bà cho biết bà đã đóng vai mẹ cho kim_jongun và động_viên ông đưa bạn về nhà chơi vì bà muốn kim_jongun và con mình có mọt cuộc_sống bình_thường 
-11,bà cũng cho biết  kim_jong  un  không phải là một kẻ gây_rối  nhưng nóng_tính và thiếu kiên_nhẫn 
-12,nếu bị nhắc không nên chơi những thứ đó quá nhiều và phàn_nàn vì chưa chăm_học  cậu sẽ không nói lại nhưng phản_đối bằng cách khác  như tuyệt_thực  
-13,bà chia_sẻ  sở_thích chính của ông kim_jongun ngày bé là bóng_rổ 
-14,kim jongun thích đến_nỗi ôm quả bóng đi ngủ cùng 
-15,tuy_nhiên  vì một lý_do nào đó  bà và chồng quyết_định trốn khỏi thụy_sĩ và đào_tẩu sang mỹ 
-16,sau đó  hai vợ_chồng bà định_cư tại new_york và bắt_đầu một cuộc_sống mới với tên mới 
-17,vợ_chồng bà đã mở tiệm giặt ủi nhờ hỗ_trợ tài_chính từ cia  nhưng khẳng_định hai vợ_chồng không tiết_lộ bất_cứ một bí_mật quốc_gia nào cho cia 
+0,bà ko_yongsuk em_gái mẹ lãnh_đạo kim_jongun đảo tẩu sang mỹ năm 1998 thay_vì hàn_quốc
+1,bà hiện sống chồng ba đứa con trong căn nhà hai tầng treo ảnh lãnh_đạo kim thời niên_thiếu
+2,gia_đình bà dùng 200000 usd cục tình_báo trung_ương mỹ cia đưa bà mua một căn nhà new_york mở một tiệm giặt
+3,nguồn sống giúp bà nuôi nấng ba đứa con ăn_học việc_làm ổn_định
+4,bà ko chia_sẻ bạn_bè bà bà may_mắn mọi thứ
+5,tờ the_washington_post biết con_gái bà học ở trường tốt chúng thành_công 1 người chồng làm mọi thứ
+6,đến nay truyền_thông thế_giới luôn dự_đoán tuổi ông kim_jongun khoảng 3435 tuổi bà ko biết ông kimm_jongun_sinh năm 1984
+7,bà biết bà chắc_chắn về năm sinh kim_jonngun năm sinh con trai bà
+8,bà ko biết năm 1996 ông kim đưa đến thụy_sỹ học trường quốc_tế tròn 12 tuổi
+9,vợ_chồng bà giao nhiệm_vụ đến chăm_lo cuộc_sống ông kim
+10,bà biết bà đóng vai mẹ kim_jongun động_viên ông đưa bạn về nhà chơi bà muốn kim_jongun con mình mọt cuộc_sống bình_thường
+11,bà biết kim_jong un một kẻ gây_rối nóng_tính thiếu kiên_nhẫn
+12,nhắc chơi thứ quá phàn_nàn chăm_học cậu nói phản_đối bằng cách khác tuyệt_thực
+13,bà chia_sẻ sở_thích chính ông kim_jongun ngày bé bóng_rổ
+14,kim jongun thích ôm quả bóng đi ngủ
+15,tuy_nhiên một lý_do nào bà chồng quyết_định trốn khỏi thụy_sĩ đào_tẩu sang mỹ
+16,hai vợ_chồng bà định_cư new_york bắt_đầu một cuộc_sống mới tên mới
+17,vợ_chồng bà mở tiệm giặt ủi nhờ hỗ_trợ tài_chính cia khẳng_định hai vợ_chồng tiết_lộ bất_cứ một bí_mật quốc_gia nào cia

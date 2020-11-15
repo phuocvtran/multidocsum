@@ -1,2 +1,2 @@
 idx, sentence
-0,các chuyến bay tạm ngừng khai_thác gồm 2 chuyến trên đường_bay giữa hà_nội  buôn_ma_thuột  vn1600 / vn1601   2 chuyến trên đường_bay giữa tphcm  buôn_ma_thuột  vn1414 / vn1415  và 2 chuyến trên đường_bay giữa đà_nẵng  buôn_ma_thuột  vn1912 / vn1913  
+0,chuyến bay tạm ngừng khai_thác gồm 2 chuyến đường_bay giữa hà_nội buôn_ma_thuột vn1600 / vn1601 2 chuyến đường_bay giữa tphcm buôn_ma_thuột vn1414 / vn1415 2 chuyến đường_bay giữa đà_nẵng buôn_ma_thuột vn1912 / vn1913

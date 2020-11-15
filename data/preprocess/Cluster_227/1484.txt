@@ -1,17 +1,17 @@
 idx, sentence
-0,trận bán_kết roland_garros sắp tới sẽ là lần thứ 16 murray đối_đầu với wawrinka 
-1,murray là người đang tạm dẫn với thành_tích thắng thua là 87 
-2,tuy_nhiên  ở 3 lần gặp nhau gần đây nhất  chiến_thắng lại thuộc về wawrinka 
-3,trở_lại với các trận đấu ở vòng tứ_kết 
-4,murray có khởi_đầu thuận_lợi khi dẫn trước tay_vợt nước chủ nhà richard_gasquet với tỷ_số 52 trong set 1 
-5,mặc_dù vậy  sự_chủ_quan đến từ murray_cộng với nỗ_lực tuyệt_vời của gasquet giúp tay_vợt người pháp thắng liền 5 game sau đó để giành lấy set 1 
-6,tuy_nhiên  đó là tất_cả những gì gasquet làm được 
-7,sau khi vượt khó với chiến_thắng ở loạt tiebreak trong set 2  murray đã chơi bùng_nổ ở những ván tiếp_theo 
-8,chung_cuộc  tay_vợt vương_quốc anh đánh_bại gasquet với tỷ_số 57  76  3   60 và 62 
-9,trong khi đó  đkvđ_wawrinka giành vé vào bán_kết sau khi vượt qua albert_ramosvinolas với tỷ_số 62  61 và 76  7  
-10,trong cả trận  wawrinka có 8 cú ace  ghi được 49 điểm winners và giành 5 break để kết_thúc trận đấu sau 2 giờ đồng_hồ 
-11,trong ngày hôm_qua  những trận đấu còn lại ở vòng 4 cũng đã được diễn ra sau khi bị hoãn liên_tục vì trời mưa 
-12,novak djokovic lọt vào trận tứ_kết grand_slam_thứ 28 liên_tiếp sau khi đánh_bại roberto_bautista_agut với tỷ_số 36  64  61 và 75 
-13,đối_thủ tiếp_theo của nole là tomas_berdych  người đã vượt qua david_ferrer_30 
-14,ở nội_dung của nữ  serena_williams chạm_trán với yulia_putintseva ở tứ_kết 
-15,trước đó  cả 2 tay_vợt đã lần_lượt vượt qua elina_svitolina và carla_suarez_navarro ở vòng 4 cùng với tỷ_số 20 
+0,trận bán_kết roland_garros sắp tới lần thứ 16 murray đối_đầu wawrinka
+1,murray người tạm dẫn thành_tích thắng thua 87
+2,tuy_nhiên ở 3 lần gặp nhau gần nhất chiến_thắng thuộc về wawrinka
+3,trở_lại trận đấu ở vòng tứ_kết
+4,murray khởi_đầu thuận_lợi dẫn tay_vợt nước chủ nhà richard_gasquet tỷ_số 52 trong set 1
+5,mặc_dù sự_chủ_quan đến murray_cộng nỗ_lực tuyệt_vời gasquet giúp tay_vợt người pháp thắng liền 5 game giành lấy set 1
+6,tuy_nhiên tất_cả gasquet làm
+7,vượt khó chiến_thắng ở loạt tiebreak trong set 2 murray chơi bùng_nổ ở ván tiếp_theo
+8,chung_cuộc tay_vợt vương_quốc anh đánh_bại gasquet tỷ_số 57 76 3 60 62
+9,trong đkvđ_wawrinka giành vé bán_kết vượt albert_ramosvinolas tỷ_số 62 61 76 7
+10,trong trận wawrinka 8 cú ace ghi 49 điểm winners giành 5 break kết_thúc trận đấu 2 giờ đồng_hồ
+11,trong ngày hôm_qua trận đấu còn ở vòng 4 diễn hoãn liên_tục trời mưa
+12,novak djokovic lọt trận tứ_kết grand_slam_thứ 28 liên_tiếp đánh_bại roberto_bautista_agut tỷ_số 36 64 61 75
+13,đối_thủ tiếp_theo nole tomas_berdych người vượt david_ferrer_30
+14,ở nội_dung nữ serena_williams chạm_trán yulia_putintseva ở tứ_kết
+15,2 tay_vợt lần_lượt vượt elina_svitolina carla_suarez_navarro ở vòng 4 tỷ_số 20

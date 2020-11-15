@@ -1,17 +1,17 @@
 idx, sentence
-0,là nhóm nhạc có ba thành_viên khá nổi_tiếng trong cộng_đồng underground  tiết_mục của foe được nhiều người đón chờ ở tập 4 vòng tranh_đấu 
-1,và không phụ sự kỳ_vọng của khán_giả  ba chàng trai nhóm foe đã mang đến không_khí vô_cùng sôi_động cho sân_khấu nhân_tố bí_ẩn tuần này 
-2,ở vòng hội_ngộ  nhóm nhạc underground từng khuấy_động sân_khấu bằng một ca_khúc tự sáng_tác 
-3,đến với vòng tranh_đấu  nhóm foe tiếp_tục mang đến một sáng_tác mới mang tên bố_vợ 
-4,ca_khúc được mashup với một bản disco kinh_điển ở thập_niên 70 – daddy_cool 
-5,điểm nhấn của tiết_mục không chỉ nằm ở phần âm_nhạc sôi_động mà_còn đến từ những vũ_đạo ấn_tượng được các chàng trai nhóm foe gọi vui là  vũ_điệu chấm_phẩy  
-6,yanbi thậm_chí đã bất_chấp việc bị chấn_thương đùi để thể_hiện điệu nhảy này cùng các thành_viên nhóm 
-7, một tiết_mục vui  đậm tính giải_trí   giám_khảo tùng dương nhận_xét phần trình_diễn của foe   tiết_mục có cốt_truyện hài_hước 
-8,với phần hát  nếu chỉ dừng ở hát hip hop trên nền disco thì cũng ổn 
-9,tuy_nhiên  để những người khó_tính nhận_xét  tôi nghĩ phải xem_xét 
-10,tôi muốn các bạn đưa bản_sắc của mình nhiều hơn nữa vào những tiết_mục hip hop  
-11,kết_thúc tiết_mục  các giám_khảo đều bày_tỏ sự yêu_thích với năng_lượng của nhóm và đồng_ý cho họ ngồi vào một trong 6 chiếc ghế đỏ 
-12,tuy_nhiên  thời_gian họ chiếm_giữ vị_trí này lại không lâu 
-13,chỉ ít phút sau đó  nhóm foe đã buộc phải nhường vị_trí cho nhóm dolphins 
-14,điều đó đồng_nghĩa với việc nhóm foe của yanbi đã tạm rời khỏi nhân_tố bí_ẩn 
-15,ngoài foe  các nhóm cánh_diều  cadimen  thăng_long  the_passion cũng phải nói lời chia_tay chương_trình 
+0,nhóm nhạc ba thành_viên khá nổi_tiếng trong cộng_đồng underground tiết_mục foe người đón chờ ở tập 4 vòng tranh_đấu
+1,phụ kỳ_vọng khán_giả ba chàng trai nhóm foe mang đến không_khí vô_cùng sôi_động sân_khấu nhân_tố bí_ẩn tuần
+2,ở vòng hội_ngộ nhóm nhạc underground khuấy_động sân_khấu bằng một ca_khúc tự sáng_tác
+3,đến vòng tranh_đấu nhóm foe tiếp_tục mang đến một sáng_tác mới mang tên bố_vợ
+4,ca_khúc mashup một bản disco kinh_điển ở thập_niên 70 – daddy_cool
+5,điểm nhấn tiết_mục nằm ở phần âm_nhạc sôi_động mà_còn đến vũ_đạo ấn_tượng chàng trai nhóm foe gọi vui vũ_điệu chấm_phẩy
+6,yanbi thậm_chí bất_chấp chấn_thương đùi thể_hiện điệu nhảy thành_viên nhóm
+7,một tiết_mục vui đậm tính giải_trí giám_khảo tùng dương nhận_xét phần trình_diễn foe tiết_mục cốt_truyện hài_hước
+8,phần hát dừng ở hát hip hop nền disco ổn
+9,tuy_nhiên người khó_tính nhận_xét tôi nghĩ xem_xét
+10,tôi muốn bạn đưa bản_sắc mình hơn tiết_mục hip hop
+11,kết_thúc tiết_mục giám_khảo bày_tỏ yêu_thích năng_lượng nhóm đồng_ý họ ngồi một trong 6 ghế đỏ
+12,tuy_nhiên thời_gian họ chiếm_giữ vị_trí lâu
+13,ít phút nhóm foe buộc nhường vị_trí nhóm dolphins
+14,đồng_nghĩa nhóm foe yanbi tạm rời khỏi nhân_tố bí_ẩn
+15,ngoài foe nhóm cánh_diều cadimen thăng_long the_passion nói lời chia_tay chương_trình

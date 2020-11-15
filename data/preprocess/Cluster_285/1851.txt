@@ -1,8 +1,8 @@
 idx, sentence
-0,qua cuộc gặp_mặt trao_đổi với bầu đức  ông koji_kitawaga dành nhiều lời khen_ngợi tới tiền_vệ nguyễn_tuấn_anh và cho rằng cầu_thủ này sẽ còn tiến những bước xa hơn nữa trong tương_lai nếu được trao cơ_hội phù_hợp 
-1,dù từ lúc chuyển sang đầu_quân cho yokohama_fc  tuấn_anh chưa được ra sân thi_đấu một phút nào song cầu_thủ quê thái_bình chưa bao_giờ có ý_nghĩ bỏ_cuộc  chán_nản mà ngược_lại  anh luôn tập_luyện tích_cực  hoàn_thành đầy_đủ giáo_án của bhl đội bóng đề ra 
-2,thậm_chí  để dễ_dàng hòa_nhập và thuận_tiện hơn trong việc trao_đổi chiến_thuật với các đồng_đội và hlv  tuấn_anh còn tự học thêm cả tiếng nhật 
-3,chính thái_độ cầu tiến của tuấn_anh đã ghi_điểm với lãnh_đạo yokohama_fc và đó là lý_do để họ đặt vấn_đề với hagl nhằm giữ cầu_thủ trẻ này ở lại nhật lâu_dài 
-4,“ chúng_tôi đánh_giá cao tài_năng và tư_cách của tuấn_anh  do_vậy yokohama_fc muốn ký hợp_đồng từ 5 đến 10 năm với tuấn_anh 
-5,clb sẵn_sàng cho tuấn_anh về phục_vụ đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào … ”  chủ_tịch koji_kitawaga chia_sẻ 
-6,song theo thông_tin từ trưởng_đoàn hagl  nguyễn_tấn_anh  bầu đức hiện chưa đồng_ý và muốn chờ xem màn trình_diễn  sự tiến_bộ của tuấn_anh trong thời_gian tới 
+0,cuộc gặp_mặt trao_đổi bầu đức ông koji_kitawaga dành lời khen_ngợi tới tiền_vệ nguyễn_tuấn_anh cầu_thủ còn tiến bước xa hơn trong tương_lai trao cơ_hội phù_hợp
+1,dù chuyển sang đầu_quân yokohama_fc tuấn_anh sân thi_đấu một phút nào song cầu_thủ quê thái_bình bao_giờ ý_nghĩ bỏ_cuộc chán_nản ngược_lại anh luôn tập_luyện tích_cực hoàn_thành đầy_đủ giáo_án bhl đội bóng đề
+2,thậm_chí dễ_dàng hòa_nhập thuận_tiện hơn trong trao_đổi chiến_thuật đồng_đội hlv tuấn_anh còn tự học thêm tiếng nhật
+3,chính thái_độ cầu tiến tuấn_anh ghi_điểm lãnh_đạo yokohama_fc lý_do họ đặt vấn_đề hagl nhằm giữ cầu_thủ trẻ ở nhật lâu_dài
+4,“ chúng_tôi đánh_giá cao tài_năng tư_cách tuấn_anh do_vậy yokohama_fc muốn ký hợp_đồng 5 đến 10 năm tuấn_anh
+5,clb sẵn_sàng tuấn_anh về phục_vụ đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào … ” chủ_tịch koji_kitawaga chia_sẻ
+6,song thông_tin trưởng_đoàn hagl nguyễn_tấn_anh bầu đức hiện đồng_ý muốn chờ xem màn trình_diễn tiến_bộ tuấn_anh trong thời_gian tới

@@ -1,17 +1,17 @@
 idx, sentence
-0,bí_thư thành_ủy tphcm đinh_la_thăng đã trao_đổi với ông lâm nguyễn_hải_long  giám_đốc công_viên phần_mềm quang_trung  qtsc  như vậy tại buổi làm_việc với đơn_vị này vào ngày 285 
-1,báo_cáo với bí_thư thăng  ông long nêu một_số khó_khăn đang gặp phải  trong đó có nói đến chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin  cntt  không đảm_bảo trong khi các doanh_nghiệp lớn tại qtsc luôn có nhu_cầu tuyển_dụng hàng năm khá cao 
-2,khi bí_thư thăng hỏi về mức lương của vị giám_đốc qtsc  ông long cho biết lương của ông hiện là 24 triệu đồng / tháng 
-3,bí_thư thăng liền nói  “ lương của giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu cả nước  đứng top đầu khu_vực mà chừng đó thì sao được 
-4,lương cậu phải 10 lần như thế thì mới xứng_đáng  mới có động_lực làm_việc ” 
-5,còn về chuyện thiếu nguồn nhân_lực  bí_thư đinh_la_thăng đặt câu hỏi  sinh_viên ra trường thiếu việc_làm nhiều trong khi qtsc lại thiếu nhân_lực trầm_trọng  tại_sao không tuyển_dụng sinh_viên 
-6,trả_lời câu_hỏi này  ông long cho biết nhiều năm nay ngành cntt không còn là ngành hấp_dẫn đối_với sinh_viên 
-7,đó là một trong những nguyên_nhân khiến các công_ty phần_mềm tuyển không đủ nhu_cầu 
-8,bí_thư thăng lập_tức phản_bác lại  “ không hot vì các anh trả lương quá thấp chứ gì ” 
-9,thông_tin với bí_thư thăng  ông long cho biết tại qtsc một kỹ_sư phần_mềm có kinh_nghiệm ba năm có mức lương từ 810 triệu đồng 
-10,bất_ngờ với thông_tin này  bí_thư thăng nói  “ lương 810 triệu mà làm phần_mềm thì sao sống được  chỉ bằng công_nhân may 
-11,người_ta chỉ có_thể ở nhà mình  ăn cơm nhà nấu  đi xe_buýt đi làm  chứ ở nhà_trọ thì không đủ sống ” 
-12,về hướng cải_thiện thu_nhập cho các kỹ_sư phần_mềm  bí_thư thăng đề_nghị qtsc cần thúc_đẩy cổ_phần_hóa công_ty 
-13,về vấn_đề này  ông long khẳng_định ông ủng_hộ và cho biết nếu nhà_nước cho_phép thì sẽ tiến_hành làm nhanh 
-14,tại buổi làm_việc  bí_thư đinh_la_thăng cũng đề_nghị trong chiến_lược phát_triển sắp tới  qtsc phải gắn với chiến_lược phát_triển chung của tp  nhất_là phải tham_gia vào bảy chương_trình đột_phá của tp  trong đó đặc_biệt là chương_trình nâng cao chất_lượng nguồn nhân_lực  chất_lượng tăng_trưởng  năng_lực cạnh_tranh 
-15,đồng_thời  qtsc phải đưa ứng_dụng cntt vào các chương_trình đột_phá của tp như chống ngập  chống ùn_tắc giao_thông  xây_dựng chính_quyền điện_tử  chống trộm_cắp  tội_phạm … theo ông thăng  hiện_nay thị_trường quá rộng_lớn nhưng ứng_dụng cntt lại rất yếu 
+0,bí_thư thành_ủy tphcm đinh_la_thăng trao_đổi ông lâm nguyễn_hải_long giám_đốc công_viên phần_mềm quang_trung qtsc buổi làm_việc đơn_vị ngày 285
+1,báo_cáo bí_thư thăng ông long nêu một_số khó_khăn gặp trong nói đến chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin cntt đảm_bảo trong doanh_nghiệp lớn qtsc luôn nhu_cầu tuyển_dụng hàng năm khá cao
+2,bí_thư thăng hỏi về mức lương vị giám_đốc qtsc ông long biết lương ông hiện 24 triệu đồng / tháng
+3,bí_thư thăng liền nói “ lương giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu nước đứng top đầu khu_vực chừng sao
+4,lương cậu 10 lần thế mới xứng_đáng mới động_lực làm_việc ”
+5,còn về thiếu nguồn nhân_lực bí_thư đinh_la_thăng đặt câu hỏi sinh_viên trường thiếu việc_làm trong qtsc thiếu nhân_lực trầm_trọng tại_sao tuyển_dụng sinh_viên
+6,trả_lời câu_hỏi ông long biết năm nay ngành cntt còn ngành hấp_dẫn đối_với sinh_viên
+7,một trong nguyên_nhân khiến công_ty phần_mềm tuyển đủ nhu_cầu
+8,bí_thư thăng lập_tức phản_bác “ hot anh trả lương quá thấp ”
+9,thông_tin bí_thư thăng ông long biết qtsc một kỹ_sư phần_mềm kinh_nghiệm ba năm mức lương 810 triệu đồng
+10,bất_ngờ thông_tin bí_thư thăng nói “ lương 810 triệu làm phần_mềm sao sống bằng công_nhân may
+11,người_ta ở nhà mình ăn cơm nhà nấu đi xe_buýt đi làm ở nhà_trọ đủ sống ”
+12,về hướng cải_thiện thu_nhập kỹ_sư phần_mềm bí_thư thăng đề_nghị qtsc thúc_đẩy cổ_phần_hóa công_ty
+13,về vấn_đề ông long khẳng_định ông ủng_hộ biết nhà_nước cho_phép tiến_hành làm nhanh
+14,buổi làm_việc bí_thư đinh_la_thăng đề_nghị trong chiến_lược phát_triển sắp tới qtsc gắn chiến_lược phát_triển chung tp nhất_là tham_gia bảy chương_trình đột_phá tp trong đặc_biệt chương_trình nâng cao chất_lượng nguồn nhân_lực chất_lượng tăng_trưởng năng_lực cạnh_tranh
+15,đồng_thời qtsc đưa ứng_dụng cntt chương_trình đột_phá tp chống ngập chống ùn_tắc giao_thông xây_dựng chính_quyền điện_tử chống trộm_cắp tội_phạm … ông thăng hiện_nay thị_trường quá rộng_lớn ứng_dụng cntt yếu

@@ -1,9 +1,9 @@
 idx, sentence
-0,chuẩn đô_đốc colin_kilrain cho biết cuộc gặp kéo_dài khoảng nửa giờ bên lề một hội_nghị tổ_chức ở tampa  florida  mỹ  hôm 265 vừa_qua  tức_là chỉ 3 ngày sau khi mỹ dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương đối_với việt_nam  23/5  
-1,theo chuẩn đô_đốc colin_kilrain  hai chỉ_huy lực_lượng đặc_nhiệm đều rất hào_hứng về cuộc gặp giữa những nhà lãnh_đạo mỹ  việt_nam_nhân chuyến thăm của tổng_thống obama đến việt_nam 
-2,“ cuộc gặp hữu_ích đó làm hai chúng_tôi đều phấn_khích 
-3,chúng_tôi muốn nói với các sĩ_quan của mình rằng chúng_tôi đã sẵn_sàng hành_động ”  chuẩn_đô_đốc kilrain nói 
-4,tuy_nhiên  ông nhấn_mạnh rằng hành_động gì và như thế_nào còn phụ_thuộc vào quyết_định của chính_phủ mỹ và việt_nam 
-5,“ chúng_tôi rất quan_tâm đến chương_trình hợp_tác sắp tới nhưng cũng rất thận_trọng với những bước_đi mà chính_phủ 2 nước đặt ra ”  chuẩn_đô_đốc colin_kilrain cho biết theo reuters  nguồn tin từ hạm_đội thái_bình_dương mỹ cho biết hải_quân mỹ từng đề_nghị quốc_hội nước này cho thực_hiện nhiều hơn những chuyến thăm của tàu hải_quân mỹ tới việt_nam 
-6,năm 2015  hải_quân mỹ đã có 4 chuyến tàu cập cảng việt_nam trong các cuộc thăm hữu_nghị chính_thức 
-7,quan_hệ việt  mỹ trong thời_gian gần đây đang phát_triển tốt_đẹp  đặc_biệt khi mỹ thực_hiện chiến_lược xoay trục về châu_á  trong đó việt_nam giữ vị_trí như_là đối_tác quan_trọng 
+0,chuẩn đô_đốc colin_kilrain biết cuộc gặp kéo_dài khoảng nửa giờ bên lề một hội_nghị tổ_chức ở tampa florida mỹ hôm 265 vừa_qua tức_là 3 ngày mỹ dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương đối_với việt_nam 23/5
+1,chuẩn đô_đốc colin_kilrain hai chỉ_huy lực_lượng đặc_nhiệm hào_hứng về cuộc gặp giữa nhà lãnh_đạo mỹ việt_nam_nhân chuyến thăm tổng_thống obama đến việt_nam
+2,“ cuộc gặp hữu_ích làm hai chúng_tôi phấn_khích
+3,chúng_tôi muốn nói sĩ_quan mình chúng_tôi sẵn_sàng hành_động ” chuẩn_đô_đốc kilrain nói
+4,tuy_nhiên ông nhấn_mạnh hành_động thế_nào còn phụ_thuộc quyết_định chính_phủ mỹ việt_nam
+5,“ chúng_tôi quan_tâm đến chương_trình hợp_tác sắp tới thận_trọng bước_đi chính_phủ 2 nước đặt ” chuẩn_đô_đốc colin_kilrain biết reuters nguồn tin hạm_đội thái_bình_dương mỹ biết hải_quân mỹ đề_nghị quốc_hội nước thực_hiện hơn chuyến thăm tàu hải_quân mỹ tới việt_nam
+6,năm 2015 hải_quân mỹ 4 chuyến tàu cập cảng việt_nam trong cuộc thăm hữu_nghị chính_thức
+7,quan_hệ việt mỹ trong thời_gian gần phát_triển tốt_đẹp đặc_biệt mỹ thực_hiện chiến_lược xoay trục về châu_á trong việt_nam giữ vị_trí như_là đối_tác quan_trọng

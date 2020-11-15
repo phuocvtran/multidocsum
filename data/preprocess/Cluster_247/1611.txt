@@ -1,18 +1,18 @@
 idx, sentence
-0,tin_tức trên báo dân_trí ngày 2/6 đăng_tải  tand tỉnh thanh_hóa mở phiên_tòa sơ_thẩm_xét_xử lưu_động bị_cáo hoàng_ngọc_hùng  28 tuổi  tp thanh_hóa  tại ubnd phường quảng_thành với tội_danh “ giết_người ” 
-1,với hành_vi phạm_tội của bị_cáo  hùng bị vksnd đề_nghị mức án 20 năm tù giam 
-2,hđxx cũng quyết_định tuyên_phạt bị_cáo hùng 20 năm tù giam  bồi_thường cho gia_đình nạn_nhân 115 triệu đồng 
-3,theo tri_thức trực_tuyến đưa tin về bản cáo_trạng  ngày 21/12/2015  hùng và bùi_xuân_vinh  39 tuổi  ở cùng quê  đưa xe_máy của bạn vinh đi cắm lấy 1 triệu đồng để mua ma_túy dùng chung 
-4,hôm sau  do người bạn đòi xe nên anh vinh nói với hùng đưa xe_máy đi cầm_cố thay_đổi 
-5,vinh hứa sẽ bỏ tiền lấy xe ra nên hùng đồng_ý 
-6,hai ngày sau  hùng nghĩ_lại việc nhiều lần dùng xe_máy cầm_cố lấy tiền mua ma_túy dùng chung nhưng mình đều phải tự đi chuộc 
-7,hắn cho rằng lần này cũng bị lừa nên nảy_sinh ý_định giết anh vinh nếu không nhận được tiền 
-8,sau đó  hùng chuẩn_bị sẵn 2 con dao nhọn 
-9,trưa cùng ngày  hùng mang theo dao sang nhà nhà anh nguyễn_văn_quế  cùng phường quảng_thành  ngồi uống bia 
-10,nhận được điện_thoại  vinh cùng một người bạn xuất_hiện tại nhà anh quế 
-11,tại đây  khi mọi người đã vào trong nhà_khách  giữa hùng và anh vinh xảy ra cãi_vã 
-12,anh vinh nói đang đi vay tiền và sẽ trả vào chiều hoặc sáng_mai 
-13,lúc này  hùng bực_tức rút dao cứa_cổ anh vinh từ phía sau 
-14,người đàn_ông 39 tuổi bỏ chạy và được mọi người vào can_ngăn 
-15,tuy_nhiên  hùng vẫn đuổi theo tiếp_tục dùng dao đâm một nhát vào sau lưng anh vinh 
-16,nạn_nhân loạng_choạng ngã gục 
+0,tin_tức báo dân_trí ngày 2/6 đăng_tải tand tỉnh thanh_hóa mở phiên_tòa sơ_thẩm_xét_xử lưu_động bị_cáo hoàng_ngọc_hùng 28 tuổi tp thanh_hóa ubnd phường quảng_thành tội_danh “ giết_người ”
+1,hành_vi phạm_tội bị_cáo hùng vksnd đề_nghị mức án 20 năm tù giam
+2,hđxx quyết_định tuyên_phạt bị_cáo hùng 20 năm tù giam bồi_thường gia_đình nạn_nhân 115 triệu đồng
+3,tri_thức trực_tuyến đưa tin về bản cáo_trạng ngày 21/12/2015 hùng bùi_xuân_vinh 39 tuổi ở quê đưa xe_máy bạn vinh đi cắm lấy 1 triệu đồng mua ma_túy dùng chung
+4,hôm người bạn đòi xe anh vinh nói hùng đưa xe_máy đi cầm_cố thay_đổi
+5,vinh hứa bỏ tiền lấy xe hùng đồng_ý
+6,hai ngày hùng nghĩ_lại lần dùng xe_máy cầm_cố lấy tiền mua ma_túy dùng chung mình tự đi chuộc
+7,hắn lần lừa nảy_sinh ý_định giết anh vinh nhận tiền
+8,hùng chuẩn_bị sẵn 2 con dao nhọn
+9,trưa ngày hùng mang dao sang nhà nhà anh nguyễn_văn_quế phường quảng_thành ngồi uống bia
+10,nhận điện_thoại vinh một người bạn xuất_hiện nhà anh quế
+11,mọi người trong nhà_khách giữa hùng anh vinh xảy cãi_vã
+12,anh vinh nói đi vay tiền trả chiều hoặc sáng_mai
+13,hùng bực_tức rút dao cứa_cổ anh vinh phía
+14,người đàn_ông 39 tuổi bỏ chạy mọi người can_ngăn
+15,tuy_nhiên hùng đuổi tiếp_tục dùng dao đâm một nhát lưng anh vinh
+16,nạn_nhân loạng_choạng ngã gục

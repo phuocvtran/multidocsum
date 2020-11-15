@@ -1,14 +1,14 @@
 idx, sentence
-0,chiều 23/5  công_an tphcm vẫn đang phối_hợp cùng công_an quận 2 để điều_tra  khoanh vùng truy bắt hung_thủ ra_tay sát_hại người phụ_nữ  phi_tang xác trong bỏ trong bao_tải  vứt ở bãi đất trống gần khu chung_cư thạnh_mỹ_lợi  quận 2  được phát_hiện trong_sáng cùng ngày 
-1,bước đầu  công_an làm rõ  danh_tính nạn_nhân là bà phan_thị_ánh_hương  sn 1975  tạm_trú quận 2  
-2,hiện công_an đang phối_hợp với gia_đình bà hương  rà_soát các mối quan_hệ  các thông_tin liên_quan nhằm phục_vụ quá_trình điều_tra  mở_rộng truy_xét các hung_thủ gây_án 
-3,theo người_thân bà hương  bà này hành_nghề làm móng tay  móng chân dạo 
-4,như_thường_lệ  trưa ngày 22/5 bà hương nói với gia_đình là đi làm cho khách ở khu_vực quận 2 
-5,đến đêm không thấy bà hương về gia_đình bắt_đầu lo_lắng  gọi điện thì không liên_lạc được 
-6,cả gia_đình chia nhau đi tìm nhưng vẫn không thấy tung_tích 
-7,đến trưa 23/5  gia_đình có đọc báo mạng  có thông_tin phát_hiện thi_thể người phụ_nữ bỏ trong bao_tải nên lập_tức liên_hệ công_an để tìm_hiểu 
-8,khi được cho nhận_dạng  gia_đình đã đau_đớn xác_nhận  thi_thể đó chính là bà hương 
-9,gia_đình bà hương cho biết thêm  trước khi ra khỏi nhà  nạn_nhân có đeo nhiều nữ_trang trên người 
-10,tuy_nhiên khi cơ_quan_chức_năng khám_nghiệm hiện_trường thì số nữ_trang đó đã biến mất 
-11,như báo điện_tử antđ thông_tin  rạng sáng cùng ngày  một người nhặt ve_chai tại khu đất trống cạnh khu chung_cư thạnh_mỹ_lợi  phường thạnh_mỹ_lợi  quận 2  phát_hiện bao_tải màu trắng nằm dưới lùm cây 
-12,người này bước đến mở ra  thì tá_hỏa_phát_hiện thi_thể người phụ_nữ  nằm trọn_vẹn bên trong 
+0,chiều 23/5 công_an tphcm phối_hợp công_an quận 2 điều_tra khoanh vùng truy bắt hung_thủ ra_tay sát_hại người phụ_nữ phi_tang xác trong bỏ trong bao_tải vứt ở bãi đất trống gần khu chung_cư thạnh_mỹ_lợi quận 2 phát_hiện trong_sáng ngày
+1,bước đầu công_an làm rõ danh_tính nạn_nhân bà phan_thị_ánh_hương sn 1975 tạm_trú quận 2
+2,hiện công_an phối_hợp gia_đình bà hương rà_soát mối quan_hệ thông_tin liên_quan nhằm phục_vụ quá_trình điều_tra mở_rộng truy_xét hung_thủ gây_án
+3,người_thân bà hương bà hành_nghề làm móng tay móng chân dạo
+4,như_thường_lệ trưa ngày 22/5 bà hương nói gia_đình đi làm khách ở khu_vực quận 2
+5,đến đêm thấy bà hương về gia_đình bắt_đầu lo_lắng gọi điện liên_lạc
+6,gia_đình chia nhau đi tìm thấy tung_tích
+7,đến trưa 23/5 gia_đình đọc báo mạng thông_tin phát_hiện thi_thể người phụ_nữ bỏ trong bao_tải lập_tức liên_hệ công_an tìm_hiểu
+8,nhận_dạng gia_đình đau_đớn xác_nhận thi_thể chính bà hương
+9,gia_đình bà hương biết thêm khỏi nhà nạn_nhân đeo nữ_trang người
+10,tuy_nhiên cơ_quan_chức_năng khám_nghiệm hiện_trường số nữ_trang biến mất
+11,báo điện_tử antđ thông_tin rạng sáng ngày một người nhặt ve_chai khu đất trống cạnh khu chung_cư thạnh_mỹ_lợi phường thạnh_mỹ_lợi quận 2 phát_hiện bao_tải màu trắng nằm lùm cây
+12,người bước đến mở tá_hỏa_phát_hiện thi_thể người phụ_nữ nằm trọn_vẹn bên trong

@@ -1,5 +1,5 @@
 idx, sentence
-0,không xuất_hiện trên sân_khấu để nhận giải vì đang bận_rộn với chuyến lưu_diễn thế_giới nhưng adele vẫn là cái tên làm nóng lễ trao giải billboard 2016 
-1,adele cũng đoạt giải_thưởng album top_billboard 200 khi album “ 25 ” của cô xuất_sắc vượt qua “ purpose ” của justin_bieber  “ x ” của ed_sheeran  “ 1989 ” của taylor_swift và “ beauty behind_the_madness ” của the_weeknd 
-2,ngoài_ra  cô còn nhận giải nữ_nghệ_sĩ xuất_sắc  nghệ_sĩ top_billboard 200  ca_khúc bán_chạy nhất dành cho “ hello ” … hoàng_tử nhạc pop justin_bieber chiến_thắng ở hạng_mục nam nghệ_sĩ xuất_sắc và đoạt giải nghệ_sĩ được truyền_thông xã_hội yêu_mến nhất 
-3,trong khi đó  ban nhạc the_weeknd giành được 8 giải_thưởng  nhiều hơn bất_kỳ nam nghệ_sĩ nào trong lịch_sử   bao_gồm cả giải_nghệ_sĩ top_hot 100  nghệ_sĩ có doanh_thu bán ca_khúc hàng_đầu  nghệ_sĩ có ca_khúc radio hàng_đầu  nghệ_sĩ sở_hữu ca_khúc nghe trực_tuyến hàng_đầu  nghệ_sĩ rb xuất_sắc nhất …
+0,xuất_hiện sân_khấu nhận giải bận_rộn chuyến lưu_diễn thế_giới adele tên làm nóng lễ trao giải billboard 2016
+1,adele đoạt giải_thưởng album top_billboard 200 album “ 25 ” cô xuất_sắc vượt “ purpose ” justin_bieber “ x ” ed_sheeran “ 1989 ” taylor_swift “ beauty behind_the_madness ” the_weeknd
+2,ngoài_ra cô còn nhận giải nữ_nghệ_sĩ xuất_sắc nghệ_sĩ top_billboard 200 ca_khúc bán_chạy nhất dành “ hello ” … hoàng_tử nhạc pop justin_bieber chiến_thắng ở hạng_mục nam nghệ_sĩ xuất_sắc đoạt giải nghệ_sĩ truyền_thông xã_hội yêu_mến nhất
+3,trong ban nhạc the_weeknd giành 8 giải_thưởng hơn bất_kỳ nam nghệ_sĩ nào trong lịch_sử bao_gồm giải_nghệ_sĩ top_hot 100 nghệ_sĩ doanh_thu bán ca_khúc hàng_đầu nghệ_sĩ ca_khúc radio hàng_đầu nghệ_sĩ sở_hữu ca_khúc nghe trực_tuyến hàng_đầu nghệ_sĩ rb xuất_sắc nhất …

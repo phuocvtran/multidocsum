@@ -1,12 +1,12 @@
 idx, sentence
-0,nhóm nhân_quyền bước_đi tự_do  có trụ_sở tại australia  đã đưa ra ước_tính về những người sinh ra trong tình_trạng nô_lệ  bị buôn_bán cho hoạt_động mại_dâm hoặc bị gán nợ  lao_động cưỡng_bức lên tới 458 triệu người  tăng hơn so với con_số 358 trong năm 2014 
-1,andrew_forrest  người sáng_lập quỹ bước_đi tự_do cho biết việc gia_tăng gần 30  là do thu_nhập dữ_liệu tốt hơn mặc_dù ông sợ rằng tình_hình đã trở_nên tồi_tệ hơn khi mà việc di_cư  nhập_cư toàn_cầu ngày_càng dễ tổn_thương tới tất_cả các hình_thức nô_lệ 
-2,tình_trạng nô_lệ được tìm thấy ở tất_cả 167 quốc_gia trong bảng xếp_hạng trong đó ấn_độ có số_lượng lớn nhất  ước_tính 184 triệu nô_lệ trong tổng_số dân 13 tỷ người 
-3,triều_tiên được xếp_hạng tồi_tệ nhất trong tỉ_lệ nô_lệ khi mà cứ 20 người lại có 1 nô_lệ  tức 44  trong số 25 triệu dân  
-4,chính_phủ triều_tiên có ít động_thái nhất để chấm_dứt tình_trạng này 
-5, chúng_ta cần làm rõ là chúng_ta không khoan_nhượng với chế_độ nô_lệ  ở đâu có chế_độ nô_lệ  chúng_ta sẽ không giao_thương với họ   ông forrest nói với reuters 
-6,ông forrest biết rằng những số_liệu mới nhất có_thể bị chỉ_trích bởi một_số nhà_nghiên_cứu nói rằng chỉ_số này đã sử_dụng phương_pháp không chính_xác  dùng cuộc điều_tra ở một_số nước rồi suy ra số_liệu cho các nước khác 
-7,chỉ_số năm 2016 dựa trên cuộc thăm_dò với 42000 người bằng 53 ngôn_ngữ ở 25 quốc_gia 
-8,nhưng ông forrest nói rằng việc thiếu dữ_liệu về nô_lệ trong quá_khứ đã cản_trở những nỗ_lực giải_quyết vấn_đề này và ông thách những người chỉ_trích đưa ra được số_liệu thay_thế 
-9,tổ_chức lao_động_quốc_tế của lhq ước_tính có 21 triệu người trên toàn thế_giới là nạn_nhân của lao_động cưỡng_bức nhưng điều này không có nghĩa là tất_cả họ đều là nô_lệ 
-10,forrest nói rằng chỉ_số nô_lệ toàn_cầu nhằm đo_lường tỷ_lệ nô_lệ tại 167 quốc_gia đông dân nhất thế_giới cũng như mức_độ bị tổn_thương của người dân khi bị nô_dịch_hóa và những nỗ_lực mà chính_phủ các nước đã làm để chiến_đấu với vấn_đề này 
+0,nhóm nhân_quyền bước_đi tự_do trụ_sở australia đưa ước_tính về người sinh trong tình_trạng nô_lệ buôn_bán hoạt_động mại_dâm hoặc gán nợ lao_động cưỡng_bức tới 458 triệu người tăng hơn con_số 358 trong năm 2014
+1,andrew_forrest người sáng_lập quỹ bước_đi tự_do biết gia_tăng gần 30 thu_nhập dữ_liệu tốt hơn mặc_dù ông sợ tình_hình trở_nên tồi_tệ hơn di_cư nhập_cư toàn_cầu ngày_càng dễ tổn_thương tới tất_cả hình_thức nô_lệ
+2,tình_trạng nô_lệ tìm thấy ở tất_cả 167 quốc_gia trong bảng xếp_hạng trong ấn_độ số_lượng lớn nhất ước_tính 184 triệu nô_lệ trong tổng_số dân 13 tỷ người
+3,triều_tiên xếp_hạng tồi_tệ nhất trong tỉ_lệ nô_lệ 20 người 1 nô_lệ tức 44 trong số 25 triệu dân
+4,chính_phủ triều_tiên ít động_thái nhất chấm_dứt tình_trạng
+5,chúng_ta làm rõ chúng_ta khoan_nhượng chế_độ nô_lệ ở đâu chế_độ nô_lệ chúng_ta giao_thương họ ông forrest nói reuters
+6,ông forrest biết số_liệu mới nhất chỉ_trích một_số nhà_nghiên_cứu nói chỉ_số sử_dụng phương_pháp chính_xác dùng cuộc điều_tra ở một_số nước suy số_liệu nước khác
+7,chỉ_số năm 2016 dựa cuộc thăm_dò 42000 người bằng 53 ngôn_ngữ ở 25 quốc_gia
+8,ông forrest nói thiếu dữ_liệu về nô_lệ trong quá_khứ cản_trở nỗ_lực giải_quyết vấn_đề ông thách người chỉ_trích đưa số_liệu thay_thế
+9,tổ_chức lao_động_quốc_tế lhq ước_tính 21 triệu người toàn thế_giới nạn_nhân lao_động cưỡng_bức nghĩa tất_cả họ nô_lệ
+10,forrest nói chỉ_số nô_lệ toàn_cầu nhằm đo_lường tỷ_lệ nô_lệ 167 quốc_gia đông dân nhất thế_giới mức_độ tổn_thương người dân nô_dịch_hóa nỗ_lực chính_phủ nước làm chiến_đấu vấn_đề

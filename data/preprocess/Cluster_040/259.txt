@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 20/5  tại thành_phố nha_trang  tỉnh_đoàn khánh_hòa đã tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” của trung_ương đoàn_thanh_niên cộng_sản hồ_chí_minh cho hai thiếu_niên người dân_tộc raglai vì đã có hành_động dũng_cảm quên mình cứu được 5 học_sinh bị trượt chân rơi xuống lòng hồ tà_rục  ngày 20/4 vừa_qua 
-1,hai thiếu_niên là bo_tý  16 tuổi  trú tại xã ba_cụm_bắc và cao_lâm  14 tuổi  trú tại xã sơn_bình  huyện miền núi khánh_sơn 
-2,chiều 20/4  trong lúc hai em bo_tý và cao_lâm đang đi chăn bò thuê ở phía dưới chân đập hồ_thủy_lợi tà_rục  xã cam_phước_tây  huyện cam_lâm  thì phát_hiện có 7 nữ_sinh của trường_trung_học cơ_sở nguyễn_du  xã cam_phước_đông  thành_phố cam_ranh  bị trượt chân rơi xuống lòng hồ 
-3,lập_tức  hai em bo_tý và cao_lâm_lao nhanh xuống hồ lần_lượt cứu được 5 nữ_sinh đưa vào bờ 
-4,tại buổi lễ  bí_thư tỉnh_đoàn khánh_hòa nguyễn_văn_nhuận đã biểu_dương  khen_ngợi hành_động dũng_cảm của hai em bo_tý và cao_lâm  đồng_thời gửi lời chia_buồn đến gia_đình có 2 nữ_sinh bị đuối nước trong vụ tai_nạn này 
-5,qua tìm_hiểu  biết được hoàn_cảnh gia_đình của hai em bo_tý và cao_lâm rất khó_khăn  quỹ tấm lòng vàng  báo lao_động đã vận_động các tổ_chức  cá_nhân hỗ_trợ cho mỗi em 55 triệu đồng 
+0,ngày 20/5 thành_phố nha_trang tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” trung_ương đoàn_thanh_niên cộng_sản hồ_chí_minh hai thiếu_niên người dân_tộc raglai hành_động dũng_cảm quên mình cứu 5 học_sinh trượt chân rơi xuống lòng hồ tà_rục ngày 20/4 vừa_qua
+1,hai thiếu_niên bo_tý 16 tuổi trú xã ba_cụm_bắc cao_lâm 14 tuổi trú xã sơn_bình huyện miền núi khánh_sơn
+2,chiều 20/4 trong hai em bo_tý cao_lâm đi chăn bò thuê ở phía chân đập hồ_thủy_lợi tà_rục xã cam_phước_tây huyện cam_lâm phát_hiện 7 nữ_sinh trường_trung_học cơ_sở nguyễn_du xã cam_phước_đông thành_phố cam_ranh trượt chân rơi xuống lòng hồ
+3,lập_tức hai em bo_tý cao_lâm_lao nhanh xuống hồ lần_lượt cứu 5 nữ_sinh đưa bờ
+4,buổi lễ bí_thư tỉnh_đoàn khánh_hòa nguyễn_văn_nhuận biểu_dương khen_ngợi hành_động dũng_cảm hai em bo_tý cao_lâm đồng_thời gửi lời chia_buồn đến gia_đình 2 nữ_sinh đuối nước trong vụ tai_nạn
+5,tìm_hiểu biết hoàn_cảnh gia_đình hai em bo_tý cao_lâm khó_khăn quỹ tấm lòng vàng báo lao_động vận_động tổ_chức cá_nhân hỗ_trợ em 55 triệu đồng

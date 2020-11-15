@@ -1,6 +1,6 @@
 idx, sentence
-0,nạn_nhân_tử_vong được xác_định là anh võ_đình_toàn  sn 1988  phường vinh_tân  tpvinh   còn người bị_thương là một bạn gái toàn 
-1,thông_tin ban_đầu  khoảng 13 h30 chiều 2/6  sau đám giỗ tại một căn nhà trên đường đặng_văn_thụy  phường cửa_nam  anh toàn và một nam thanh_niên trong đám giỗ xảy ra mâu_thuẫn 
-2,trong cãi_vã  nam thanh_niên  chưa rõ danh_tính  đã dùng dao chém trọng_thương anh toàn và bạn gái  sau đó bỏ trốn khỏi hiện_trường 
-3,sau khi bị chém  anh toàn và bạn gái được người_thân đưa đi bệnh_viện cấp_cứu trong tình_trạng bị_thương ở vùng đầu  mặt với nhiều vết chém 
-4,tuy_nhiên do vết_thương quá nặng  đến tối 2/6  anh toàn tử_vong được người_nhà đưa về an_táng tại gia_đình 
+0,nạn_nhân_tử_vong xác_định anh võ_đình_toàn sn 1988 phường vinh_tân tpvinh còn người bị_thương một bạn gái toàn
+1,thông_tin ban_đầu khoảng 13 h30 chiều 2/6 đám giỗ một căn nhà đường đặng_văn_thụy phường cửa_nam anh toàn một nam thanh_niên trong đám giỗ xảy mâu_thuẫn
+2,trong cãi_vã nam thanh_niên rõ danh_tính dùng dao chém trọng_thương anh toàn bạn gái bỏ trốn khỏi hiện_trường
+3,chém anh toàn bạn gái người_thân đưa đi bệnh_viện cấp_cứu trong tình_trạng bị_thương ở vùng đầu mặt vết chém
+4,tuy_nhiên vết_thương quá nặng đến tối 2/6 anh toàn tử_vong người_nhà đưa về an_táng gia_đình

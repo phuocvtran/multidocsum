@@ -1,39 +1,39 @@
 idx, sentence
-0,trên trang cá_nhân của quang_cường  anh_trai kiêm quản_lý ca_sĩ quang_hà  trong hai ngày qua đã có những chia_sẻ về việc vừa bị lừa mất sổ_đỏ căn nhà trị_giá 4 tỷ đồng phú_nhuận  tp hcm 
-1,theo quang_cường kể lại  anh cùng với hai người đàn_ông khác là h và v vốn là bạn_bè thân_thiết trong khoảng hơn nữa năm trở_lại đây 
-2,hai người cùng quê nam_định có giao_dịch mua_bán căn nhà nói trên qua điện_thoại 
-3,ban_đầu  mức giá mà phía quang_hà  quang cường cùng đưa ra là 41 tỷ đồng  sau khi thương_lượng với nam ca_sĩ  hai bên đồng_ý mức giá 39 tỷ 
-4,vào ngày 16/5  người đàn_ông tên h vào tp hcm để làm thủ_tục giao tiền và công_chứng sang_tên căn_hộ 
-5,người này cũng xin ngủ qua đêm tại căn_hộ này 
-6,khi đến nơi  h cầm theo valy và nói trong đó có 200 ngàn usd dùng để giao_dịch nhà 
-7, khi đang đi cùng trên ô_tô  h có nói với tôi rằng  sau khi công_chứng xong về nhà thanh_toán tiền mua nhà 
-8,tôi có ghi_âm câu nói này 
-9,tất_cả sự_việc mua_bán trên ca_sĩ quang_hà đều biết  vì tôi và quang_hà ở cùng nhà 
-10,h cũng hứa với quang_hà là sẽ trả tiền như đã từng hứa với tôi 
-11,sáng ngày 18/5  trước khi đi công_chứng  h có nhắc tôi valy tiền để trong phòng 
-12,hỏi tôi có chìa_khóa không  tôi nói để tôi tìm thì h bảo không cần nữa 
-13,đến khi tôi cùng h đến phòng công_chứng thì người đàn_ông còn lại là v cũng đã có_mặt sẵn 
-14,sau khi công_chứng xong  h rủ tôi đi sang quận 7 để làm_việc riêng của anh ấy thì tôi định lấy lại giấy chứng_nhận nhà_đất vì chưa trả tiền 
-15,anh h nói để giấy chứng_nhận nhà_đất cho anh v giữ  chút_nữa anh_em mình về nhà thanh_toán tiền 
-16,khi qua quận 7  anh h kêu tôi chờ để anh đi mua nước thế là anh h trốn luôn 
-17,tôi quay lại phòng công_chứng thì anh v cũng không có ở đó 
-18,tôi đã trình_báo công_an vụ_việc này ngay sau đó 
-19,sau đó  tôi trở về nhà cùng quang_hà ra công_an trình_bày vụ_việc trên 
-20,đến khi công_an vào nhà tôi cùng quang_hà mang valy ra phường mở thì trong đó không có gì cả 
-21,đây là vụ lừa_đảo trắng_trợn mới mục_đích lấy giấy chứng_nhận nhà_đất để làm những việc xấu 
-22,tôi mong cơ_quan pháp_luật xử_lý người lừa_đảo này trả lại giấy chứng_nhận nhà cho tôi   quang_cường kể lại 
-23,khi được hỏi vì_sao không nhận cọc trước  quang_cường chia_sẻ rằng  anh và quang_hà có mối quan_hệ thân_thiết với h và v nên có phần chủ_quan 
-24, mặc_dù chúng_tôi chỉ mới thân_thiết nhau khoảng nửa năm nay nhưng h và v  rất nhiệt_tình  chơi với bạn_bè không tỏ ra lợi_dụng nhau  sòng_phẳng và không tính_toán 
-25,anh_em thường_xuyên đi chơi  ăn_uống nên không có lý_do gì khiến tôi cảnh_giác   quang_cường cho biết 
-26, ông_bầu  ca_sĩ quang_hà còn chia_sẻ  trước đó hai ngày  anh cũng đã có linh_cảm không tốt nhưng lại không nghĩ vận xui lại xảy ra ngay sau đó 
-27, trước đó hai ngày  hồ_sơ giao_dịch nhà_đất của tôi bị trả lại vì phát_hiện thông_tin trên giấy chứng mình nhân_dân của tôi và giấy_tờ nhà_đất không giống nhau  vì tôi sinh ra ở hà_nội nhưng hộ_khẩu giờ lại ở tphcm
-28,tôi đã đợi hai ngày để xác_nhận lại giấy_tờ cá_nhân đúng pháp_luật 
-29,vốn là người duy_tâm  lẽ_ra tôi nên cảnh_giác hơn khi chuyện này gặp trục_trặc ngay từ đầu nhưng tôi không để_ý  
-30,khi được hỏi về khả_năng đòi lại tài_sản trong vụ lừa_đảo này  quang_cường cho biết   h và v sẽ không làm gì được khi nắm trong tay sổ_đỏ nhà của tôi vì chuyện này giờ từ trung_ương đến địa_phương đã biết 
-31,tôi đã kịp_thời thông_báo với chính_quyền địa_phương  sở tài_nguyên môi_trường và đề_nghị tạm_thời không cho sang_nhượng căn nhà trên nữa để chờ cơ_quan_chức_năng xác_minh xử_lý theo pháp_luật  
-32,một thông_tin mới nhất mà quang_cường chia_sẻ riêng với phóng_viên đó là chuyện h và v đã  lừa không đến nơi đến chốn  
-33,cụ_thể  anh nói   giữa tôi và h còn thiếu một giấy ủy quyền có chữ_ký của tôi 
-34,ngay sau khi ký xong sổ_đỏ  h nhanh_chóng lôi_kéo tôi đi sang quận 7  vì tưởng_chừng giao_dịch vậy là xong rồi 
-35,tuy_nhiên  theo quy_định pháp_luật thì cần có thêm giấy ủy quyền kèm chữ_ký xác_nhận của tôi 
-36,vì h đã bỏ_sót điều này nên chắc_chắn không_thể làm gì được dù nắm sổ_đỏ trong tay 
-37,tôi vừa được biết  trong khoảng 2  3 tháng nữa  cơ_quan nhà_nước sẽ cấp sổ_đỏ mới cho tôi  
+0,trang cá_nhân quang_cường anh_trai kiêm quản_lý ca_sĩ quang_hà trong hai ngày chia_sẻ về lừa mất sổ_đỏ căn nhà trị_giá 4 tỷ đồng phú_nhuận tp hcm
+1,quang_cường kể anh hai người đàn_ông khác h v vốn bạn_bè thân_thiết trong khoảng hơn năm trở_lại
+2,hai người quê nam_định giao_dịch mua_bán căn nhà nói điện_thoại
+3,ban_đầu mức giá phía quang_hà quang cường đưa 41 tỷ đồng thương_lượng nam ca_sĩ hai bên đồng_ý mức giá 39 tỷ
+4,ngày 16/5 người đàn_ông tên h tp hcm làm thủ_tục giao tiền công_chứng sang_tên căn_hộ
+5,người xin ngủ đêm căn_hộ
+6,đến h cầm valy nói trong 200 ngàn usd dùng giao_dịch nhà
+7,đi ô_tô h nói tôi công_chứng xong về nhà thanh_toán tiền mua nhà
+8,tôi ghi_âm câu nói
+9,tất_cả sự_việc mua_bán ca_sĩ quang_hà biết tôi quang_hà ở nhà
+10,h hứa quang_hà trả tiền hứa tôi
+11,sáng ngày 18/5 đi công_chứng h nhắc tôi valy tiền trong phòng
+12,hỏi tôi chìa_khóa tôi nói tôi tìm h bảo
+13,đến tôi h đến phòng công_chứng người đàn_ông còn v có_mặt sẵn
+14,công_chứng xong h rủ tôi đi sang quận 7 làm_việc riêng anh ấy tôi định lấy giấy chứng_nhận nhà_đất trả tiền
+15,anh h nói giấy chứng_nhận nhà_đất anh v giữ chút_nữa anh_em mình về nhà thanh_toán tiền
+16,quận 7 anh h kêu tôi chờ anh đi mua nước thế anh h trốn luôn
+17,tôi quay phòng công_chứng anh v ở
+18,tôi trình_báo công_an vụ_việc
+19,tôi trở về nhà quang_hà công_an trình_bày vụ_việc
+20,đến công_an nhà tôi quang_hà mang valy phường mở trong
+21,vụ lừa_đảo trắng_trợn mới mục_đích lấy giấy chứng_nhận nhà_đất làm xấu
+22,tôi mong cơ_quan pháp_luật xử_lý người lừa_đảo trả giấy chứng_nhận nhà tôi quang_cường kể
+23,hỏi vì_sao nhận cọc quang_cường chia_sẻ anh quang_hà mối quan_hệ thân_thiết h v phần chủ_quan
+24,mặc_dù chúng_tôi mới thân_thiết nhau khoảng nửa năm nay h v nhiệt_tình chơi bạn_bè tỏ lợi_dụng nhau sòng_phẳng tính_toán
+25,anh_em thường_xuyên đi chơi ăn_uống lý_do khiến tôi cảnh_giác quang_cường biết
+26,ông_bầu ca_sĩ quang_hà còn chia_sẻ hai ngày anh linh_cảm tốt nghĩ vận xui xảy
+27,hai ngày hồ_sơ giao_dịch nhà_đất tôi trả phát_hiện thông_tin giấy chứng mình nhân_dân tôi giấy_tờ nhà_đất giống nhau tôi sinh ở hà_nội hộ_khẩu giờ ở tphcm
+28,tôi đợi hai ngày xác_nhận giấy_tờ cá_nhân đúng pháp_luật
+29,vốn người duy_tâm lẽ_ra tôi cảnh_giác hơn gặp trục_trặc đầu tôi để_ý
+30,hỏi về khả_năng đòi tài_sản trong vụ lừa_đảo quang_cường biết h v làm nắm trong tay sổ_đỏ nhà tôi giờ trung_ương đến địa_phương biết
+31,tôi kịp_thời thông_báo chính_quyền địa_phương sở tài_nguyên môi_trường đề_nghị tạm_thời sang_nhượng căn nhà chờ cơ_quan_chức_năng xác_minh xử_lý pháp_luật
+32,một thông_tin mới nhất quang_cường chia_sẻ riêng phóng_viên h v lừa đến đến chốn
+33,cụ_thể anh nói giữa tôi h còn thiếu một giấy ủy quyền chữ_ký tôi
+34,ký xong sổ_đỏ h nhanh_chóng lôi_kéo tôi đi sang quận 7 tưởng_chừng giao_dịch xong
+35,tuy_nhiên quy_định pháp_luật thêm giấy ủy quyền kèm chữ_ký xác_nhận tôi
+36,h bỏ_sót chắc_chắn không_thể làm dù nắm sổ_đỏ trong tay
+37,tôi biết trong khoảng 2 3 tháng cơ_quan nhà_nước cấp sổ_đỏ mới tôi

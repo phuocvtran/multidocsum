@@ -1,13 +1,13 @@
 idx, sentence
-0,ubnd tp hcm vừa giao quận 1 phối_hợp với các đơn_vị liên_quan nghiên_cứu  lập báo_cáo đầu_tư dự_án khu công_viên cảng bạch_đằng do một doanh_nghiệp đề_xuất 
-1,động_thái của công_ty này diễn ra sau khi thành_phố kêu_gọi tham_gia đầu_tư dự_án quy_hoạch khai_thác phát_triển khu công_viên cảng bạch_đằng theo hình_thức xã_hội_hóa  đoạn từ công_viên phía trước bảo_tàng tôn_đức_thắng đến trước đường hàm_nghi  
-2,theo đó  công_ty sẽ nghiên_cứu lập_quy_hoạch chi_tiết và đầu_tư dự_án trên diện_tích 1708 ha  hơn 7 ha mặt_đất công_viên và diện_tích mặt_nước khoảng 10 ha  
-3,dự_án bao_gồm các chức_năng như  công_viên  trung_tâm thương_mại ngầm  bãi đậu xe ngầm  hệ_thống giao_thông kết_nối với bến tàu  bến du_lịch khu_vực sông sài_gòn … đơn_vị này đề_xuất tự bỏ kinh_phí nghiên_cứu lập báo_cáo và dự_án đầu_tư 
-4,sau khi đầu_tư hoàn_chỉnh phần_hạ_tầng kỹ_thuật  công_ty sẽ phối_hợp cùng các cơ_quan_chức_năng nghiệm_thu  đưa vào khai_thác sử_dụng 
-5,đổi lại  đơn_vị nghiên_cứu xin ubnd tp hcm chấp_nhận cho đầu_tư kinh_doanh một phần trung_tâm thương_mại ngầm  bãi đậu xe ngầm 
-6,ngoài_ra  đơn_vị này cũng đề_xuất được phép khai_thác kinh_doanh ẩm_thực trong khu công_viên của dự_án khi đầu_tư hoàn_chỉnh 
-7,theo quy_hoạch phát_triển đô_thị của tp hcm  khu trung_tâm được quy_hoạch với diện_tích 930 ha 
-8,trong đó  công_viên bạch_đằng  thuộc bờ tây sông sài_gòn  là một trong những khu_vực đặc_biệt  được áp_dụng quy_chế xây_dựng phát_triển đặc_biệt 
-9,nơi này không có đất tư_nhân  công_trình chỉ được thiết_kế nhà hóng_mát hoặc những kết_cấu tương_tự phải tuân_thủ theo quy_định hiện_hành 
-10,trước đó  lãnh_đạo ubnd tp hcm khẳng_định khu_vực này sẽ được quy_hoạch đầu_tư nâng_cấp  chỉnh_trang để trở_thành khu_vực vui_chơi  giải_trí cho người dân và phục_vụ du_lịch 
-11,thành_phố đã giao tổng_công_ty du_lịch sài_gòn lập dự_án đầu_tư  khai_thác và quản_lý công_viên cảng bạch_đằng 
+0,ubnd tp hcm giao quận 1 phối_hợp đơn_vị liên_quan nghiên_cứu lập báo_cáo đầu_tư dự_án khu công_viên cảng bạch_đằng một doanh_nghiệp đề_xuất
+1,động_thái công_ty diễn thành_phố kêu_gọi tham_gia đầu_tư dự_án quy_hoạch khai_thác phát_triển khu công_viên cảng bạch_đằng hình_thức xã_hội_hóa đoạn công_viên phía bảo_tàng tôn_đức_thắng đến đường hàm_nghi
+2,công_ty nghiên_cứu lập_quy_hoạch chi_tiết đầu_tư dự_án diện_tích 1708 ha hơn 7 ha mặt_đất công_viên diện_tích mặt_nước khoảng 10 ha
+3,dự_án bao_gồm chức_năng công_viên trung_tâm thương_mại ngầm bãi đậu xe ngầm hệ_thống giao_thông kết_nối bến tàu bến du_lịch khu_vực sông sài_gòn … đơn_vị đề_xuất tự bỏ kinh_phí nghiên_cứu lập báo_cáo dự_án đầu_tư
+4,đầu_tư hoàn_chỉnh phần_hạ_tầng kỹ_thuật công_ty phối_hợp cơ_quan_chức_năng nghiệm_thu đưa khai_thác sử_dụng
+5,đổi đơn_vị nghiên_cứu xin ubnd tp hcm chấp_nhận đầu_tư kinh_doanh một phần trung_tâm thương_mại ngầm bãi đậu xe ngầm
+6,ngoài_ra đơn_vị đề_xuất phép khai_thác kinh_doanh ẩm_thực trong khu công_viên dự_án đầu_tư hoàn_chỉnh
+7,quy_hoạch phát_triển đô_thị tp hcm khu trung_tâm quy_hoạch diện_tích 930 ha
+8,trong công_viên bạch_đằng thuộc bờ tây sông sài_gòn một trong khu_vực đặc_biệt áp_dụng quy_chế xây_dựng phát_triển đặc_biệt
+9,đất tư_nhân công_trình thiết_kế nhà hóng_mát hoặc kết_cấu tương_tự tuân_thủ quy_định hiện_hành
+10,lãnh_đạo ubnd tp hcm khẳng_định khu_vực quy_hoạch đầu_tư nâng_cấp chỉnh_trang trở_thành khu_vực vui_chơi giải_trí người dân phục_vụ du_lịch
+11,thành_phố giao tổng_công_ty du_lịch sài_gòn lập dự_án đầu_tư khai_thác quản_lý công_viên cảng bạch_đằng

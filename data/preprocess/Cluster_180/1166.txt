@@ -1,19 +1,19 @@
 idx, sentence
-0,huấn_luyện_viên joachim_loew đã chính_thức công_bố 23 cầu_thủ đội_tuyển đức sẽ tới pháp tham_dự vòng chung_kết euro 2016 
-1,tuy_nhiên  trong bản danh_sách này không có tên tiền_vệ marco_reus 
-2,marco reus bị loại khỏi danh_sách tuyển đức 
-3,nguồn  eurosport 
-4,marco reus bị loại khỏi danh_sách tuyển đức 
-5,nguồn  eurosport 
-6,đây thực_sự là cú sốc rất lớn cho người hâm_mộ 
-7,bản_thân reus có_lẽ cũng sẽ cảm_thấy buồn khi mà nó diễn ra đúng vào ngày_sinh_nhật lần thứ 27 của anh 
-8,cách đây hai năm  tiền_vệ này cũng đã không_thể cùng đội_tuyển đức đến brazil tham_dự vòng chung_kết world_cup 2014 với lý_do tương_tự 
-9,theo giới truyền_thông  tiền_vệ thuộc biên_chế câu_lạc_bộ dortmund đã bị dính chấn_thương háng và không kịp bình_phục để tham_dự ngày hội bóng_đá lớn nhất châu_âu 
-10,phát_biểu tại buổi công_bố danh_sách  huấn_luyện_viên joachim_loew cho biết   chúng_tôi đã phải mang nhiều người đến trại tập_luyện vì một_số cá_nhân bị chấn_thương 
-11,chúng_tôi cần đủ quân_số để đảm_bảo chất_lượng các buổi tập 
-12,tôi biết những người bị loại sẽ vô_cùng thất_vọng  
-13,reus bị loại vì chấn_thương  trong khi những cầu_thủ khác cũng đang rơi vào tình_trạng tương_tự là bastian_schweinsteiger và mats_hummels vẫn có tên trong danh_sách và được dự_báo sẽ kịp bình_phục khi euro 2016 diễn ra 
-14,ngoài reus  ba cầu_thủ khác cũng bị loại gồm có karim_bellarabi  julian_brandt và sebastian_rudy 
-15,danh_sách 23 cầu_thủ_đức dự euro 2016 thủ_môn  manuel_neuer  bayern_munich   bernd_leno  bayer_leverkusen   marcandre_terstegen  barcelona  
-16,hậu_vệ  jerome_boateng  bayern_munich   emre_can  liverpool   jonas_hector  koln   benedikt_howedes  schalke   mats_hummels  borussia_dortmund   shkodran_mustafi  valencia   antonio_rudiger  roma  
-17,tiền_vệ  sami_khedira  juventus   bastian_schweinsteiger  manchester_united   mesut_ozil  arsenal   andre_schurrle  wolfsburg   toni_kroos  real_madrid   mario_gotze  bayern_munich   julian_draxler  wolfsburg   leroy_sane  schalke   julian_weigl  borussia_dortmund   joshua_kimmich  bayern_munich  
+0,huấn_luyện_viên joachim_loew chính_thức công_bố 23 cầu_thủ đội_tuyển đức tới pháp tham_dự vòng chung_kết euro 2016
+1,tuy_nhiên trong bản danh_sách tên tiền_vệ marco_reus
+2,marco reus loại khỏi danh_sách tuyển đức
+3,nguồn eurosport
+4,marco reus loại khỏi danh_sách tuyển đức
+5,nguồn eurosport
+6,thực_sự cú sốc lớn người hâm_mộ
+7,bản_thân reus có_lẽ cảm_thấy buồn nó diễn đúng ngày_sinh_nhật lần thứ 27 anh
+8,cách hai năm tiền_vệ không_thể đội_tuyển đức đến brazil tham_dự vòng chung_kết world_cup 2014 lý_do tương_tự
+9,giới truyền_thông tiền_vệ thuộc biên_chế câu_lạc_bộ dortmund dính chấn_thương háng kịp bình_phục tham_dự ngày hội bóng_đá lớn nhất châu_âu
+10,phát_biểu buổi công_bố danh_sách huấn_luyện_viên joachim_loew biết chúng_tôi mang người đến trại tập_luyện một_số cá_nhân chấn_thương
+11,chúng_tôi đủ quân_số đảm_bảo chất_lượng buổi tập
+12,tôi biết người loại vô_cùng thất_vọng
+13,reus loại chấn_thương trong cầu_thủ khác rơi tình_trạng tương_tự bastian_schweinsteiger mats_hummels tên trong danh_sách dự_báo kịp bình_phục euro 2016 diễn
+14,ngoài reus ba cầu_thủ khác loại gồm karim_bellarabi julian_brandt sebastian_rudy
+15,danh_sách 23 cầu_thủ_đức dự euro 2016 thủ_môn manuel_neuer bayern_munich bernd_leno bayer_leverkusen marcandre_terstegen barcelona
+16,hậu_vệ jerome_boateng bayern_munich emre_can liverpool jonas_hector koln benedikt_howedes schalke mats_hummels borussia_dortmund shkodran_mustafi valencia antonio_rudiger roma
+17,tiền_vệ sami_khedira juventus bastian_schweinsteiger manchester_united mesut_ozil arsenal andre_schurrle wolfsburg toni_kroos real_madrid mario_gotze bayern_munich julian_draxler wolfsburg leroy_sane schalke julian_weigl borussia_dortmund joshua_kimmich bayern_munich

@@ -1,12 +1,12 @@
 idx, sentence
-0,người hâm_mộ premier_league đang chờ_đợi những màn đấu_trí cũng như đấu_khẩu giữa mourinho và pep_guardiola mỗi lần diễn ra trận derby thành manchester 
-1,cả hai từng là đối_thủ cạnh_tranh quyết_liệt khi pep còn dẫn_dắt barcelona và mourinho phụ_trách real ở la_liga 
-2,mối hiềm_khích của 2 hlv cá_tính này bắt_đầu bùng_nổ vào năm 2011  trên truyền_thông bồ_đào_nha  trước trận bán_kết champions_league 
-3,bốn tháng sau đó  “ người đặc_biệt ” đã chọc mắt trợ_lý tito_vilanova phía barca làm dấy lên cuộc_chiến giữa ban huấn_luyện và các cầu_thủ trong trận đấu ở cúp nhà_vua 
-4,dù có lịch_sử đầy mâu_thuẫn nhưng mourinho “ hứa ” sẽ không sa_đà vào những cuộc tranh_cãi vô_ích khi đối_đầu pep tại anh 
-5,“ những gì đã trải qua không cho_phép tôi là người vô_tội 
-6,tôi đã đối_đầu với pep 2 mùa giải ở la_liga  nơi chỉ tôi hoặc ông ta sẽ là nhà vô_địch 
-7,còn ở premier_league  nếu tôi chỉ chăm_chăm vào việc giành chiến_thắng anh ta hoặc ngược_lại thì một đội khác sẽ vô_địch 
-8,do_đó  tôi cũng không muốn sa_đà vào những tranh_cãi cá_nhân với pep_guardiola ”   người đặc_biệt  cho biết tại đại_học lisbon hôm 315 
-9,cũng trong buổi trò_chuyện ở bồ_đào_nha  hlv mourinho cũng bác_bỏ thông_tin mu sẽ mua tiền_vệ joao_mario của sporting_lisbon 
-10, không  tôi sẽ không lấy bất_kỳ cầu_thủ nào từ đây  
+0,người hâm_mộ premier_league chờ_đợi màn đấu_trí đấu_khẩu giữa mourinho pep_guardiola lần diễn trận derby thành manchester
+1,hai đối_thủ cạnh_tranh quyết_liệt pep còn dẫn_dắt barcelona mourinho phụ_trách real ở la_liga
+2,mối hiềm_khích 2 hlv cá_tính bắt_đầu bùng_nổ năm 2011 truyền_thông bồ_đào_nha trận bán_kết champions_league
+3,bốn tháng “ người đặc_biệt ” chọc mắt trợ_lý tito_vilanova phía barca làm dấy cuộc_chiến giữa ban huấn_luyện cầu_thủ trong trận đấu ở cúp nhà_vua
+4,dù lịch_sử đầy mâu_thuẫn mourinho “ hứa ” sa_đà cuộc tranh_cãi vô_ích đối_đầu pep anh
+5,“ trải cho_phép tôi người vô_tội
+6,tôi đối_đầu pep 2 mùa giải ở la_liga tôi hoặc ông ta nhà vô_địch
+7,còn ở premier_league tôi chăm_chăm giành chiến_thắng anh ta hoặc ngược_lại một đội khác vô_địch
+8,do_đó tôi muốn sa_đà tranh_cãi cá_nhân pep_guardiola ” người đặc_biệt biết đại_học lisbon hôm 315
+9,trong buổi trò_chuyện ở bồ_đào_nha hlv mourinho bác_bỏ thông_tin mu mua tiền_vệ joao_mario sporting_lisbon
+10,tôi lấy bất_kỳ cầu_thủ nào

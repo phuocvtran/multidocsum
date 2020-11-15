@@ -1,8 +1,8 @@
 idx, sentence
-0,báo_cáo được đưa ra sau khi quản_lý thị_trường_hà_nội tiến_hành kiểm_tra một_số cửa_hàng trên tuyến phố kim_ngưu  thanh_niên  xã_đàn  bạch_mai  ngọc_lâm  trần_thái_tông  đội_cấn  trần_đại_nghĩa  trong 8 cửa_hàng bị kiểm_tra  có 6 đơn_vị không có giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  một cửa_hàng_không thực_hiện khám sức_khoẻ cho đối_tượng thuộc diện phải khám sức_khoẻ định_kỳ và một cửa_hàng do chủ đi vắng nên phía cơ_quan_chức_năng chưa_thể xử_lý 
-1,nhiều cơ_sở trong số này cũng sử_dụng nguyên_liệu chưa chứng_minh được nguồn_gốc xuất_xứ 
-2,phía cơ_quan_chức_năng đã tạm giữ nhiều nguyên_vật_liệu để pha_chế trà sữa được nhập_khẩu  chui  như  13 gói trà xanh 250 g  9 gói trà hồng 190 g  6 gói coffee matte 250 g  một can đường nước 23 kg  26 kg hạt trân_châu  45 kg bột kem coffemate 
-3,chi_cục quản_lý thị_trường_hà_nội_hiện chưa đưa ra hình_thức xử_phạt đối_với những cơ_sở vi_phạm này 
-4,trước đó  ngày 12/5  quản_lý thị_trường_hà_nội đã tiến_hành kiểm_tra xưởng sản_xuất trà sữa trân_châu tại ngọc_hồi  hoàng_mai  thuộc sở_hữu của công_ty tnhh cảm_xúc do người đài_loan  trung_quốc  làm_chủ 
-5,theo các giấy_tờ được cung_cấp  cơ_sở sản_xuất trà sữa trân_châu_feeling_tea này có đầy_đủ giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm 
-6,tuy_nhiên  khi kiểm_tra kho hàng  cơ_quan_chức_năng đã phát_hiện rất nhiều các nguyên_liệu mà cơ_sở này dùng để sản_xuất trân_châu  thạch và trà được nhập chui từ nước_ngoài  không rõ nguồn_gốc xuất_xứ  không xuất_trình được hóa_đơn chứng_từ 
+0,báo_cáo đưa quản_lý thị_trường_hà_nội tiến_hành kiểm_tra một_số cửa_hàng tuyến phố kim_ngưu thanh_niên xã_đàn bạch_mai ngọc_lâm trần_thái_tông đội_cấn trần_đại_nghĩa trong 8 cửa_hàng kiểm_tra 6 đơn_vị giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm một cửa_hàng_không thực_hiện khám sức_khoẻ đối_tượng thuộc diện khám sức_khoẻ định_kỳ một cửa_hàng chủ đi vắng phía cơ_quan_chức_năng chưa_thể xử_lý
+1,cơ_sở trong số sử_dụng nguyên_liệu chứng_minh nguồn_gốc xuất_xứ
+2,phía cơ_quan_chức_năng tạm giữ nguyên_vật_liệu pha_chế trà sữa nhập_khẩu chui 13 gói trà xanh 250 g 9 gói trà hồng 190 g 6 gói coffee matte 250 g một can đường nước 23 kg 26 kg hạt trân_châu 45 kg bột kem coffemate
+3,chi_cục quản_lý thị_trường_hà_nội_hiện đưa hình_thức xử_phạt đối_với cơ_sở vi_phạm
+4,ngày 12/5 quản_lý thị_trường_hà_nội tiến_hành kiểm_tra xưởng sản_xuất trà sữa trân_châu ngọc_hồi hoàng_mai thuộc sở_hữu công_ty tnhh cảm_xúc người đài_loan trung_quốc làm_chủ
+5,giấy_tờ cung_cấp cơ_sở sản_xuất trà sữa trân_châu_feeling_tea đầy_đủ giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm
+6,tuy_nhiên kiểm_tra kho hàng cơ_quan_chức_năng phát_hiện nguyên_liệu cơ_sở dùng sản_xuất trân_châu thạch trà nhập chui nước_ngoài rõ nguồn_gốc xuất_xứ xuất_trình hóa_đơn chứng_từ

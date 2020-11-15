@@ -1,11 +1,11 @@
 idx, sentence
-0,con cá ngư đại_dương dài khoảng 3 m  nặng hơn 300 kg  theo các ngư_dân cảng hòa_rớ là lớn chưa từng có từ trước đến nay 
-1,thuyền_trưởng tàu cá kh 90297 huỳnh_phi_minh  50 tuổi  vui_mừng cho biết   trong 20 năm hành_nghề đánh_bắt cá ngừ đại_dương 
-2,đây là lần đầu_tiên chúng_tôi đánh_bắt được con cá_ngừ vây xanh lớn như vậy  
-3,theo ông minh  trong lúc ông cùng các thuyền_viên trên đường về bờ thì đánh được con cá này 
-4, 2 tiếng đồng_hồ sau khi đánh_bắt được  6 thuyền_viên mới kéo được con cá lên tàu   ông minh cho hay 
-5,ngay sau khi con cá được đưa lên khỏi hầm đá tại cảng hòn_rớ  rất đông người dân ùn_ùn kéo đến chiêm_ngưỡng con cá 
-6,ngoài con cá này  các ngư_dân trên tàu cũng đánh_bắt được hàng chục con cá_ngừ đại_dương khác nặng khoảng 4560 kg 
-7,bà nguyễn_thị_thu_thanh  gđ cty_tnhh_hải_sản bền_vững đã đến mua con cá với giá 180 nghìn đồng / kg  gấp đôi so với giá cá_ngừ đại_dương hiện_tại  
-8, ngư_dân chưa có kinh_nghiệm bảo_quản các loại cá lớn như thế này nên 1/3 con cá đã bị hư 
-9,đó là chưa kể con cá này cũng bị bệnh từ trước   bà thanh tiếc_nuối 
+0,con cá ngư đại_dương dài khoảng 3 m nặng hơn 300 kg ngư_dân cảng hòa_rớ lớn đến nay
+1,thuyền_trưởng tàu cá kh 90297 huỳnh_phi_minh 50 tuổi vui_mừng biết trong 20 năm hành_nghề đánh_bắt cá ngừ đại_dương
+2,lần đầu_tiên chúng_tôi đánh_bắt con cá_ngừ vây xanh lớn
+3,ông minh trong ông thuyền_viên đường về bờ đánh con cá
+4,2 tiếng đồng_hồ đánh_bắt 6 thuyền_viên mới kéo con cá tàu ông minh hay
+5,con cá đưa khỏi hầm đá cảng hòn_rớ đông người dân ùn_ùn kéo đến chiêm_ngưỡng con cá
+6,ngoài con cá ngư_dân tàu đánh_bắt hàng chục con cá_ngừ đại_dương khác nặng khoảng 4560 kg
+7,bà nguyễn_thị_thu_thanh gđ cty_tnhh_hải_sản bền_vững đến mua con cá giá 180 nghìn đồng / kg gấp đôi giá cá_ngừ đại_dương hiện_tại
+8,ngư_dân kinh_nghiệm bảo_quản loại cá lớn thế 1/3 con cá hư
+9,kể con cá bệnh bà thanh tiếc_nuối

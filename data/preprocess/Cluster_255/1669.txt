@@ -1,6 +1,6 @@
 idx, sentence
-0,vụ tai_nạn xảy ra vào_khoảng 6 h sáng 2/6 
-1,cụ_thể  chiếc ô_tô siêu sang hiệu bentley mang bks 51a503  08 lưu_thông trên đường nguyễn_văn_linh  hướng từ huyện bình_chánh về khu chế_xuất tân_thuận  quận 7  khi đến giao_lộ nguyễn_văn_linh – nguyễn_đức_cảnh  phường tân_phong  quận 7   tài_xế cho xe dừng chờ đèn_đỏ thì bất_ngờ bị chiếc xe container lưu_thông cùng chiều phía sau lao tới  tông mạnh vào đuôi 
-2,cú tông mạnh khiến chiếc xe sang bentley bị đẩy về phía trước khoảng 10 mét  phần đuôi xe bentley bị hư_hỏng khá nặng 
-3,may_mắn tài_xế không bị_thương sau sự_việc 
-4,sau tai_nạn  lực_lượng csgt quận 7 đã có_mặt xử_lý hiện_trường  điều_tra nguyên_nhân vụ_việc 
+0,vụ tai_nạn xảy vào_khoảng 6 h sáng 2/6
+1,cụ_thể ô_tô siêu sang hiệu bentley mang bks 51a503 08 lưu_thông đường nguyễn_văn_linh hướng huyện bình_chánh về khu chế_xuất tân_thuận quận 7 đến giao_lộ nguyễn_văn_linh – nguyễn_đức_cảnh phường tân_phong quận 7 tài_xế xe dừng chờ đèn_đỏ bất_ngờ xe container lưu_thông chiều phía lao tới tông mạnh đuôi
+2,cú tông mạnh khiến xe sang bentley đẩy về phía khoảng 10 mét phần đuôi xe bentley hư_hỏng khá nặng
+3,may_mắn tài_xế bị_thương sự_việc
+4,tai_nạn lực_lượng csgt quận 7 có_mặt xử_lý hiện_trường điều_tra nguyên_nhân vụ_việc

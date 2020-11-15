@@ -1,11 +1,11 @@
 idx, sentence
-0,giám_đốc sở tài_nguyên  môi_trường tp hcm nguyễn_toàn_thắng cho biết  đến sáng 18/5  các lực_lượng đã vớt được gần 70 tấn cá chết trên kênh nhiêu_lộc  thị_nghè 
-1,số cá chết này sẽ được đưa đi xử_lý ở bãi rác đa_phước  huyện bình_chánh  để đảm_bảo môi_trường 
-2,theo công_ty tnhh một thành_viên môi_trường đô_thị_thành_phố  có 54 canô  tàu với 250 lao_động được huy_động vớt cá chết suốt đêm qua đến sáng nay 
-3,tuy_nhiên  buổi sáng nước trên kênh hạ thấp nên một_số tàu cỡ lớn không tiếp_tục vớt cá được 
-4,đến trưa nay  dọc tuyến kênh  các tàu vớt cá vẫn hoạt_động nhưng chỉ còn lác_đác một_số khu_vực đầu nguồn còn xác cá 
-5,trước đó  chiều 17/5  ông nguyễn_phước_trung  giám_đốc sở nông_nghiệp và phát_triển nông_thôn tp hcm  cho hay  kết_quả xét_nghiệm cho thấy nước kênh nhiêu_lộc bị ô_nhiễm hữu_cơ và khí độc sinh ra khi có cơn mưa đầu mùa đẩy rác_thải  chất_thải chảy xuống dòng kênh 
-6,nguyên_nhân cá chết là tương_đồng với những năm trước nhưng lượng cá chết nhiều hơn do độ_ph trong nước kênh cao và nhiệt_độ cũng cao hơn 
-7,để hạn_chế tình_trạng cá chết  sở nông_nghiệp và phát_triển nông_thôn bỏ xuống kênh 5 tấn zeolite kết_hợp vi_sinh hữu_cơ để tăng_cường_độ oxy hòa_tan  giảm độ ô_nhiễm nước dưới kênh 
-8,ông trung cũng khuyến_cáo người_dân không nên vớt cá để sử_dụng cho người và gia_súc 
-9,hiện  độ ô_nhiễm của nước chưa ổn_định nên không phóng_sinh cá xuống kênh 
+0,giám_đốc sở tài_nguyên môi_trường tp hcm nguyễn_toàn_thắng biết đến sáng 18/5 lực_lượng vớt gần 70 tấn cá chết kênh nhiêu_lộc thị_nghè
+1,số cá chết đưa đi xử_lý ở bãi rác đa_phước huyện bình_chánh đảm_bảo môi_trường
+2,công_ty tnhh một thành_viên môi_trường đô_thị_thành_phố 54 canô tàu 250 lao_động huy_động vớt cá chết suốt đêm đến sáng nay
+3,tuy_nhiên buổi sáng nước kênh hạ thấp một_số tàu cỡ lớn tiếp_tục vớt cá
+4,đến trưa nay dọc tuyến kênh tàu vớt cá hoạt_động còn lác_đác một_số khu_vực đầu nguồn còn xác cá
+5,chiều 17/5 ông nguyễn_phước_trung giám_đốc sở nông_nghiệp phát_triển nông_thôn tp hcm hay kết_quả xét_nghiệm thấy nước kênh nhiêu_lộc ô_nhiễm hữu_cơ khí độc sinh cơn mưa đầu mùa đẩy rác_thải chất_thải chảy xuống dòng kênh
+6,nguyên_nhân cá chết tương_đồng năm lượng cá chết hơn độ_ph trong nước kênh cao nhiệt_độ cao hơn
+7,hạn_chế tình_trạng cá chết sở nông_nghiệp phát_triển nông_thôn bỏ xuống kênh 5 tấn zeolite kết_hợp vi_sinh hữu_cơ tăng_cường_độ oxy hòa_tan giảm độ ô_nhiễm nước kênh
+8,ông trung khuyến_cáo người_dân vớt cá sử_dụng người gia_súc
+9,hiện độ ô_nhiễm nước ổn_định phóng_sinh cá xuống kênh

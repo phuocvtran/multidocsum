@@ -1,4 +1,4 @@
 idx, sentence
-0,ngôi_sao vừa được tự_do sau khi rời paris_saintgermain lái chiếc xe sang_trọng đến khách_sạn park ở thủ_đô stockholm  nơi đt_thụy_điển đóng quân nhằm chuẩn_bị cho euro 2016 
-1,nhiều người mô_tả ibrahimovic giống như một  ông hoàng  khi lái chiếc xe long_lanh có giá lên đến gần 970000 usd 
-2,porsche 918 spyder là dòng xe có khả_năng tăng_tốc từ 0100 km / h chỉ trong 28 giây và có khả_năng đạt tốc_độ tối_đa lên đến 340 km / h 
+0,ngôi_sao tự_do rời paris_saintgermain lái xe sang_trọng đến khách_sạn park ở thủ_đô stockholm đt_thụy_điển đóng quân nhằm chuẩn_bị euro 2016
+1,người mô_tả ibrahimovic giống một ông hoàng lái xe long_lanh giá đến gần 970000 usd
+2,porsche 918 spyder dòng xe khả_năng tăng_tốc 0100 km / h trong 28 giây khả_năng đạt tốc_độ tối_đa đến 340 km / h

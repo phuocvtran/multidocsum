@@ -1,9 +1,9 @@
 idx, sentence
-0,sáng 2/6  tand tỉnh thanh_hóa xét_xử vụ án “ giết_người ” đối_với bị_cáo hoàng_ngọc_hùng  28 tuổi  trú phường quảng_thành  tp thanh_hóa  
-1,trước đó  ngày 21/12/2015  hùng và bùi_xuân_vinh  39 tuổi  cùng quê  là hai đối_tượng nghiện  rủ nhau mang xe_máy mà vinh mượn của một người bạn khác đi cầm_cố để lấy tiền mua ma_túy dùng chung 
-2,đến hôm sau  do phải trả lại xe_máy nên vinh bảo hùng kiếm tiền đến chuộc xe 
-3,lúc này hùng nghĩ mình lại bị vinh lừa vì đã nhiều lần cầm_cố xe_máy nhưng đều do hùng kiếm tiền chuộc 
-4,ngày 23/12  hùng_thủ dao trong người rồi đến nhà anh nguyễn_văn_quế  cùng phường quảng_thành  uống bia rồi gọi vinh ra uống cùng 
-5,tại đây  cả hai xảy ra cãi_vã  bất_ngờ hùng rút dao trong người đâm chém vinh 
-6,mọi người can_ngăn nhưng hùng vẫn xông vào dùng dao đâm vinh khiến nạn_nhân_tử_vong sau đó 
-7,sau khi gây_án  hoàng_ngọc_hùng rời khỏi hiện_trường nhưng sau đó đến cơ_quan công_an đầu_thú 
+0,sáng 2/6 tand tỉnh thanh_hóa xét_xử vụ án “ giết_người ” đối_với bị_cáo hoàng_ngọc_hùng 28 tuổi trú phường quảng_thành tp thanh_hóa
+1,ngày 21/12/2015 hùng bùi_xuân_vinh 39 tuổi quê hai đối_tượng nghiện rủ nhau mang xe_máy vinh mượn một người bạn khác đi cầm_cố lấy tiền mua ma_túy dùng chung
+2,đến hôm trả xe_máy vinh bảo hùng kiếm tiền đến chuộc xe
+3,hùng nghĩ mình vinh lừa lần cầm_cố xe_máy hùng kiếm tiền chuộc
+4,ngày 23/12 hùng_thủ dao trong người đến nhà anh nguyễn_văn_quế phường quảng_thành uống bia gọi vinh uống
+5,hai xảy cãi_vã bất_ngờ hùng rút dao trong người đâm chém vinh
+6,mọi người can_ngăn hùng xông dùng dao đâm vinh khiến nạn_nhân_tử_vong
+7,gây_án hoàng_ngọc_hùng rời khỏi hiện_trường đến cơ_quan công_an đầu_thú

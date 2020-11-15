@@ -1,35 +1,35 @@
 idx, sentence
-0,đánh_gục tên bắt_cóc đt_mexico sắp bước vào tranh tài ở copa_america 2016 
-1,song thông_tin khiến nhm_mexico xôn_xao nhất ít ngày qua chính là vụ tiền_đạo alan_pulido bị bắt_cóc 
-2,pulido đã ghi 4 bàn sau 6 lần khoác áo đt_mexico và từng cùng el_tri_dự world_cup 2014 
-3,thấy bảo chân_sút 25 tuổi của olympiakos không được dự copa_america 2016 vì đang vướng_mắc rắc_rối hợp_đồng với đội bóng cũ tigres_uanl 
-4,không được lên đội_tuyển đợt này  pulido về quê nhà ciudad_victoria  thuộc bang tamaulipas  vi_vu với bồ và bị bắt_cóc 
-5,pulido bị bắt_cóc vào đêm thứ_bảy vừa_qua  theo giờ_địa_phương  
-6,suốt 24 giờ tiếp_theo  anh vẫn bị toán bắt_cóc tống_tiền khống_chế 
-7,nhưng đến rạng sáng thứ_hai  anh đã được giải_cứu 
-8,ban_đầu  chỉ có tin chung_chung rằng pulido đã an_toàn với sự trợ_giúp của cảnh_sát 
-9,sau đó diễn_biến thoát hiểm cụ_thể của pulido được tiết_lộ chi_tiết hơn thì đây thực_sự là chuyện li_kỳ như trên phim hành_động 
-10,pulido đã có màn tự giải_cứu mình trước khi cảnh_sát can_thiệp 
-11,các nguồn tin tại mexico cho hay dù bị toán bắt_cóc khống_chế  pulido vẫn bình_tĩnh và kiên_trì chờ cơ_hội để trốn_thoát 
-12,24 giờ trôi qua tưởng như vô_vọng 
-13,đến rạng sáng thứ_hai  pulido bỗng thấy lóe lên cơ_hội 
-14,mấy tên khác bỏ ra ngoài  chỉ cắt lại một đồng_bọn ở lại trông_chừng anh 
-15,tiền_đạo cao 1 m76 và nặng 68 kg nhân lúc tên trông_chừng anh lơ là  sơ_hở đã lao vào quật ngã hắn 
-16,ở thế chủ_động  pulido đánh_gục tên tội_phạm  tước súng và điện_thoại của hắn 
-17,khổ_nỗi cửa phòng đã bị khóa ngoài nên anh không_thể thoát ra được 
-18,pulido lấy luôn điện_thoại của tên tội_phạm để gọi cho tổng_đài hỗ_trợ khẩn_cấp 066 nhờ báo cảnh_sát tới giải_cứu cho mình 
-19,anh được yêu_cầu miêu_tả địa_điểm nơi mình đang bị giam_giữ 
-20,bên tổng_đài 066 nghe rõ tiếng pulido quát tên tội_phạm nói đúng tên phố ra nhưng hắn không nói 
-21,pulido nhòm ra cửa_sổ  chỉ có_thể miêu_tả rằng anh bị giam trên tầng 2 của một căn nhà 2 tầng  phía trước nhà có 2 chiếc ô_tô màu đỏ và màu xám 
-22,ở cuộc gọi thứ 2 cho tổng_đài 066  pulido bảo anh đã nghe thấy tiếng còi xe cảnh_sát bên ngoài 
-23,anh được yêu_cầu bắn một phát đạn để cảnh_sát có_thể biết chính_xác anh đang bị giam ở đâu 
-24,song pulido_báo lại rằng súng hết đạn 
-25,pulido cẩn_thận miêu_tả chi_tiết rằng anh là người mặc quần_soóc và áo ba lỗ để cảnh_sát trong trường_hợp cần nổ súng không nhầm anh là kẻ bắt_cóc 
-26,đến cuộc gọi thứ 3 cho tổng_đài 066  pulido thông_báo anh được cảnh_sát giải_cứu ra ngoài an_toàn 
-27,tên tội_phạm bị anh hạ đã bị bắt 
-28,cảnh_sát đang truy bắt những tên còn lại trong nhóm 6 tên bắt_cóc pulido 
-29,nỗi lo an_ninh vụ pulido bị bắt_cóc tống_tiền vừa_qua càng gióng lên hồi chuông cảnh_báo về tình_hình an_ninh ở mexico nói_chung và bang tamaulipas nói_riêng 
-30,trong 4 tháng đầu năm nay  đã có 41 vụ bắt_cóc được trình_báo ở tamaulipas 
-31,trước đó  hậu_trường bóng_đá mexico từng ghi_nhận nhiều vụ bắt_cóc 
-32,năm 1999  thân_phụ của cựu thủ_thành jorge_campos bị bắt_cóc ở acapulco và 6 ngày sau đó thì được giải_cứu 
-33,năm 2005  hlv khi đó đang dẫn_dắt cruz_azul  ruben_omar_romano bị bắt_cóc ở mexico_city và phải 65 ngày sau mới được giải_cứu 
+0,đánh_gục tên bắt_cóc đt_mexico sắp bước tranh tài ở copa_america 2016
+1,song thông_tin khiến nhm_mexico xôn_xao nhất ít ngày chính vụ tiền_đạo alan_pulido bắt_cóc
+2,pulido ghi 4 bàn 6 lần khoác áo đt_mexico el_tri_dự world_cup 2014
+3,thấy bảo chân_sút 25 tuổi olympiakos dự copa_america 2016 vướng_mắc rắc_rối hợp_đồng đội bóng cũ tigres_uanl
+4,đội_tuyển đợt pulido về quê nhà ciudad_victoria thuộc bang tamaulipas vi_vu bồ bắt_cóc
+5,pulido bắt_cóc đêm thứ_bảy vừa_qua giờ_địa_phương
+6,suốt 24 giờ tiếp_theo anh toán bắt_cóc tống_tiền khống_chế
+7,đến rạng sáng thứ_hai anh giải_cứu
+8,ban_đầu tin chung_chung pulido an_toàn trợ_giúp cảnh_sát
+9,diễn_biến thoát hiểm cụ_thể pulido tiết_lộ chi_tiết hơn thực_sự li_kỳ phim hành_động
+10,pulido màn tự giải_cứu mình cảnh_sát can_thiệp
+11,nguồn tin mexico hay dù toán bắt_cóc khống_chế pulido bình_tĩnh kiên_trì chờ cơ_hội trốn_thoát
+12,24 giờ trôi tưởng vô_vọng
+13,đến rạng sáng thứ_hai pulido bỗng thấy lóe cơ_hội
+14,mấy tên khác bỏ ngoài cắt một đồng_bọn ở trông_chừng anh
+15,tiền_đạo cao 1 m76 nặng 68 kg nhân tên trông_chừng anh lơ sơ_hở lao quật ngã hắn
+16,ở thế chủ_động pulido đánh_gục tên tội_phạm tước súng điện_thoại hắn
+17,khổ_nỗi cửa phòng khóa ngoài anh không_thể thoát
+18,pulido lấy luôn điện_thoại tên tội_phạm gọi tổng_đài hỗ_trợ khẩn_cấp 066 nhờ báo cảnh_sát tới giải_cứu mình
+19,anh yêu_cầu miêu_tả địa_điểm mình giam_giữ
+20,bên tổng_đài 066 nghe rõ tiếng pulido quát tên tội_phạm nói đúng tên phố hắn nói
+21,pulido nhòm cửa_sổ miêu_tả anh giam tầng 2 một căn nhà 2 tầng phía nhà 2 ô_tô màu đỏ màu xám
+22,ở cuộc gọi thứ 2 tổng_đài 066 pulido bảo anh nghe thấy tiếng còi xe cảnh_sát bên ngoài
+23,anh yêu_cầu bắn một phát đạn cảnh_sát biết chính_xác anh giam ở đâu
+24,song pulido_báo súng hết đạn
+25,pulido cẩn_thận miêu_tả chi_tiết anh người mặc quần_soóc áo ba lỗ cảnh_sát trong trường_hợp nổ súng nhầm anh kẻ bắt_cóc
+26,đến cuộc gọi thứ 3 tổng_đài 066 pulido thông_báo anh cảnh_sát giải_cứu ngoài an_toàn
+27,tên tội_phạm anh hạ bắt
+28,cảnh_sát truy bắt tên còn trong nhóm 6 tên bắt_cóc pulido
+29,nỗi lo an_ninh vụ pulido bắt_cóc tống_tiền vừa_qua gióng hồi chuông cảnh_báo về tình_hình an_ninh ở mexico nói_chung bang tamaulipas nói_riêng
+30,trong 4 tháng đầu năm nay 41 vụ bắt_cóc trình_báo ở tamaulipas
+31,hậu_trường bóng_đá mexico ghi_nhận vụ bắt_cóc
+32,năm 1999 thân_phụ cựu thủ_thành jorge_campos bắt_cóc ở acapulco 6 ngày giải_cứu
+33,năm 2005 hlv dẫn_dắt cruz_azul ruben_omar_romano bắt_cóc ở mexico_city 65 ngày mới giải_cứu

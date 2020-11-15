@@ -1,12 +1,12 @@
 idx, sentence
-0,theo tài_liệu của cơ_quan_chức_năng  một nhóm các đối_tượng quốc_tịch hàn_quốc đã tổ_chức một trang_web đánh_bạc trực_tuyến qua mạng tại cả philippines và việt_nam 
-1,kwon yonggil tuy còn trẻ nhưng đã sớm tỏ ra là đối_tượng sành_sỏi trong đường_dây 
-2,tên này chịu trách_nhiệm quản_lý tiền của mạng_lưới kín giữa các khách_hàng  những tên còn lại nhận nhiệm_vụ quản_lý trang_web  thu và chuyển tiền cho khách_hàng 
-3,sau khi kiếm bộn tiền ở philippines  ổ_nhóm đánh_bạc nguy_hiểm này mò sang việt_nam_bằng con đường du_lịch và tìm_hiểu thị_trường 
-4,tại việt_nam  cả bọn thuê nhà_ở để tiếp_tục gây_án 
-5,chọn hình_thức đánh_bạc bằng việc đoán tỷ_số các trận đấu bóng  chúng móc_túi người tham_gia bằng cách gian_lận tiền của những người đoán không đúng tỷ_số và đã bỏ_túi hơn 16 tỷ won … xác_định được hành_vi phạm_tội của nhóm đối_tượng cờ_bạc xuyên quốc_gia trên  cảnh_sát hàn_quốc đã gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil  sn 1982  có số hộ_chiếu m02376084  mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 12/4/2016 của ban tổng_thư_ký interpol với tội_danh vi_phạm luật xúc_tiến thể_thao 
-6,nhận nhiệm_vụ  cục cảnh_sát truy_nã tội_phạm đã phối_hợp với cục đối_ngoại  các đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh và các đơn_vị thuộc bộ_quốc_phòng  công_an tp hà_nội  công_an tphcm và các địa_bàn trọng_điểm tiến_hành rà_soát  truy bắt đối_tượng 
-7,quá_trình rà_soát  các trinh_sát đặc_biệt chú_ý đến các khu_công_nghiệp  các địa_bàn trọng_điểm nơi có người nước_ngoài tạm_trú  làm_việc và sinh_sống  du_lịch tại việt_nam  đồng_thời phát_động phong_trào toàn dân tổ giác tội_phạm 
-8,trưa ngày 1752016  phát_hiện một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã đi vào một khu chung_cư cao_cấp  tổ công_tác đã phối_hợp với công_an phường tân_phong  quận 7  tphcm tổ_chức rà_soát 
-9,quá_trình rà_soát đã xác_định người hàn_quốc ở tại khu chung_cư đó chính là đối_tượng truy_nã kwon_yonggil 
-10,kế_hoạch bắt_giữ đối_tượng đã được tổ công_tác phối_hợp với công_an phường thực_hiện 
+0,tài_liệu cơ_quan_chức_năng một nhóm đối_tượng quốc_tịch hàn_quốc tổ_chức một trang_web đánh_bạc trực_tuyến mạng philippines việt_nam
+1,kwon yonggil tuy còn trẻ sớm tỏ đối_tượng sành_sỏi trong đường_dây
+2,tên chịu trách_nhiệm quản_lý tiền mạng_lưới kín giữa khách_hàng tên còn nhận nhiệm_vụ quản_lý trang_web thu chuyển tiền khách_hàng
+3,kiếm bộn tiền ở philippines ổ_nhóm đánh_bạc nguy_hiểm mò sang việt_nam_bằng con đường du_lịch tìm_hiểu thị_trường
+4,việt_nam bọn thuê nhà_ở tiếp_tục gây_án
+5,chọn hình_thức đánh_bạc bằng đoán tỷ_số trận đấu bóng chúng móc_túi người tham_gia bằng cách gian_lận tiền người đoán đúng tỷ_số bỏ_túi hơn 16 tỷ won … xác_định hành_vi phạm_tội nhóm đối_tượng cờ_bạc xuyên quốc_gia cảnh_sát hàn_quốc gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil sn 1982 số hộ_chiếu m02376084 mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 12/4/2016 ban tổng_thư_ký interpol tội_danh vi_phạm luật xúc_tiến thể_thao
+6,nhận nhiệm_vụ cục cảnh_sát truy_nã tội_phạm phối_hợp cục đối_ngoại đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh đơn_vị thuộc bộ_quốc_phòng công_an tp hà_nội công_an tphcm địa_bàn trọng_điểm tiến_hành rà_soát truy bắt đối_tượng
+7,quá_trình rà_soát trinh_sát đặc_biệt chú_ý đến khu_công_nghiệp địa_bàn trọng_điểm người nước_ngoài tạm_trú làm_việc sinh_sống du_lịch việt_nam đồng_thời phát_động phong_trào toàn dân tổ giác tội_phạm
+8,trưa ngày 1752016 phát_hiện một người hàn_quốc đặc_điểm giống đối_tượng truy_nã đi một khu chung_cư cao_cấp tổ công_tác phối_hợp công_an phường tân_phong quận 7 tphcm tổ_chức rà_soát
+9,quá_trình rà_soát xác_định người hàn_quốc ở khu chung_cư chính đối_tượng truy_nã kwon_yonggil
+10,kế_hoạch bắt_giữ đối_tượng tổ công_tác phối_hợp công_an phường thực_hiện

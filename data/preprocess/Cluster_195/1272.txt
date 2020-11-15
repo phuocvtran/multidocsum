@@ -1,13 +1,13 @@
 idx, sentence
-0,vụ cháy xảy ra tại kho vũ_khí ở pulgaon  tỉnh wardha vào khoảng 2 giờ sáng ngày 315  tức 3 giờ 30  giờ việt_nam  
-1,đây là kho vũ_khí lớn nhất của ấn_độ và cung_cấp vũ_khí cho toàn_bộ lực_lượng quân_đội vùng phía tây nước này  theo indian_express ngày 315 
-2,nhiều loại vũ_khí được lưu_trữ tại đây  từ tên lửa brahmos cho đến súng_trường ak47 
-3,india today cho hay một vụ nổ đã gây cháy ở một khu chứa vũ_khí 
-4,quân_đội ấn_độ_không bác_bỏ khả_năng có kẻ phá_hoại đứng đằng sau tai_nạn này 
-5,khoảng 19 nhân_viên an_ninh bị_thương sau khi ngọn lửa lan ra các khu chứa đạn_dược  bom và chất_nổ 
-6,lính cứu_hoả đã dập_tắt được đám cháy lớn  tuy_nhiên những đám cháy nhỏ vẫn đặt ra nguy_cơ gây nổ 
-7,đài_ndtv dẫn nguồn tin cho hay một_số người thiệt_mạng khi nỗ_lực chạy về phía đám cháy để dập lửa  ngăn_chặn các vụ nổ 
-8,những tiếng nổ vẫn được nghe thấy 8 giờ sau khi vụ cháy bắt_đầu 
-9,con_số thiệt_mạng sau vụ cháy có_thể tăng lên vì nhiều người bị_thương đang trong tình_trạng nguy_kịch 
-10,người dân tại 3 ngôi làng xung_quanh kho vũ_khí trên đã được sơ_tán 
-11,thủ_tướng narendra_modi đã chỉ_thị cho bộ_trưởng quốc_phòng manohar_parrikar đến hiện_trường để cập_nhật tình_hình 
+0,vụ cháy xảy kho vũ_khí ở pulgaon tỉnh wardha khoảng 2 giờ sáng ngày 315 tức 3 giờ 30 giờ việt_nam
+1,kho vũ_khí lớn nhất ấn_độ cung_cấp vũ_khí toàn_bộ lực_lượng quân_đội vùng phía tây nước indian_express ngày 315
+2,loại vũ_khí lưu_trữ tên lửa brahmos đến súng_trường ak47
+3,india today hay một vụ nổ gây cháy ở một khu chứa vũ_khí
+4,quân_đội ấn_độ_không bác_bỏ khả_năng kẻ phá_hoại đứng đằng tai_nạn
+5,khoảng 19 nhân_viên an_ninh bị_thương ngọn lửa lan khu chứa đạn_dược bom chất_nổ
+6,lính cứu_hoả dập_tắt đám cháy lớn tuy_nhiên đám cháy nhỏ đặt nguy_cơ gây nổ
+7,đài_ndtv dẫn nguồn tin hay một_số người thiệt_mạng nỗ_lực chạy về phía đám cháy dập lửa ngăn_chặn vụ nổ
+8,tiếng nổ nghe thấy 8 giờ vụ cháy bắt_đầu
+9,con_số thiệt_mạng vụ cháy tăng người bị_thương trong tình_trạng nguy_kịch
+10,người dân 3 ngôi làng xung_quanh kho vũ_khí sơ_tán
+11,thủ_tướng narendra_modi chỉ_thị bộ_trưởng quốc_phòng manohar_parrikar đến hiện_trường cập_nhật tình_hình

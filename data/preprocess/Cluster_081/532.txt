@@ -1,20 +1,20 @@
 idx, sentence
-0,ai chiến_thắng thì kết_quả cuộc bầu_cử cũng là bước_ngoặt chính_trị mới ở áo nói_riêng và châu_âu nói_chung 
-1,bởi_lẽ  đây là lần đầu_tiên trong lịch_sử hiện_đại áo  tổng_thống được bầu ra không thuộc 2 đảng_lớn  đảng_xã_hội dân_chủ áo và đảng nhân_dân áo   thậm_chí không thuộc đảng cầm_quyền hoặc trong liên_minh cầm_quyền 
-2,cuộc  đổi_ngôi  lần này cho thấy xu_hướng cực_hữu  bài ngoại  cực_đoan  đang thắng_thế tại áo 
-3,ở vòng đầu_tiên  thủ_lĩnh nhofer đã giành ưu_thế với 35  số phiếu_bầu  vượt xa đối_thủ abellen  21   
-4,kết_quả sơ_bộ cuộc bỏ_phiếu vòng hai hôm chủ_nhật vừa_qua cũng cho thấy sự dẫn trước của ứng_cử_viên cực_hữu nhofer dù chỉ với 519  số phiếu_bầu 
-5,sự bám đuổi sít_sao vốn được cho là rất hiếm_hoi trong các cuộc bầu_cử tại áo khiến kết_quả cuối_cùng phụ_thuộc hoàn_toàn vào số phiếu_bầu gửi qua đường bưu_điện còn lại  hiện vẫn trong quá_trình kiểm đếm  
-6,tuy_nhiên  cho_dù kết_quả có thế_nào  một điều dễ nhận thấy là sự trỗi dậy mạnh_mẽ của tư_tưởng cực_hữu tại áo đã được khẳng_định 
-7,sự trỗi dậy này được thúc_đẩy chủ_yếu từ cuộc khủng_hoảng di_cư đang làm điên_đảo cả châu_âu mà áo là quốc_gia  tuyến_đầu  
-8,ngoài_ra  những yếu_tố mà áo đang đối_mặt từ trước như tác_động của nền kinh_tế bấp_bênh  nạn thất_nghiệp cũng như ảnh_hưởng tiêu_cực từ lệnh_cấm_vận mà liên_minh_châu_âu  eu  áp_đặt với nga khiến nhiều nông_dân áo lao_đao  đã khiến cử_tri áo lựa_chọn sự bài_ngoại từ tư_tưởng cực_hữu như một cứu_cánh trong cơn khốn_khó 
-9,với ưu_thế đang có  nếu thủ_lĩnh nhofer thắng_cử  đây sẽ là lần đầu_tiên các nước tây_âu có đại_diện một đảng cực_hữu dân_tộc chủ_nghĩa trở_thành người đứng đầu nhà_nước 
-10,đảng tự_do áo hiện vẫn duy_trì quan_điểm cực_hữu  dân_tộc chủ_nghĩa  chống eu  thù_địch người nước_ngoài  hiển_nhiên sẽ không sẵn_sàng tiếp_nhận người nhập_cư 
-11,ông nhofer thậm_chí từng tuyên_bố sẵn_sàng giải_tán quốc_hội nếu cơ_quan lập_pháp này không cùng quan_điểm với tổng_thống 
-12,như_thế  nếu ứng_cử_viên này trở_thành nhà lãnh_đạo tối_cao của áo  quốc_gia láng_giềng của đức sẽ trở_thành trường_hợp  cá_biệt  trong gia_đình eu trên nhiều phương_diện 
-13,thêm vào đó  sự trỗi dậy của đảng_tự_do áo còn có_thể châm ngòi một trào_lưu tương_tự tại nhiều nước châu_âu trong bối_cảnh lục_địa già đang chìm_đắm trong khủng_hoảng di_cư và người_dân không mấy mặn_mà với cách điều_hành của các đảng cầm_quyền truyền_thống 
-14,trong năm 2015  áo đã nhận 90000 người di_cư  tương_đương hơn 1  dân_số 
-15,phần_lớn số người được nhận sau khi quốc_gia này và láng_giềng đức quyết_định mở_cửa biên_giới vào mùa thu năm_ngoái để đón dòng người di_cư trốn chạy khỏi cuộc_chiến tại syria 
-16,kể từ đó  dù chính_phủ áo đã tìm mọi cách để kiểm_soát cuộc khủng_hoảng nhưng không mang lại hiệu_quả 
-17,điều đó đã trở_thành một trong những nguyên_nhân chính khiến đảng_tự_do áo ngày_càng nhận được nhiều sự ủng_hộ của cử_tri 
-18,thực_tế  tư_tưởng bài ngoại  trong đó có vấn_đề di_cư đã bắt_đầu xuất_hiện ngày_càng nhiều ở các quốc_gia châu_âu khi sức_ép nhập_cư lớn dần  bất_kể đó là những nước đã đón_nhận lượng lớn người tị_nạn như đức và thuỵ_điển hay kiên_quyết  quay lưng  với điều đó như pháp và anh 
+0,ai chiến_thắng kết_quả cuộc bầu_cử bước_ngoặt chính_trị mới ở áo nói_riêng châu_âu nói_chung
+1,bởi_lẽ lần đầu_tiên trong lịch_sử hiện_đại áo tổng_thống bầu thuộc 2 đảng_lớn đảng_xã_hội dân_chủ áo đảng nhân_dân áo thậm_chí thuộc đảng cầm_quyền hoặc trong liên_minh cầm_quyền
+2,cuộc đổi_ngôi lần thấy xu_hướng cực_hữu bài ngoại cực_đoan thắng_thế áo
+3,ở vòng đầu_tiên thủ_lĩnh nhofer giành ưu_thế 35 số phiếu_bầu vượt xa đối_thủ abellen 21
+4,kết_quả sơ_bộ cuộc bỏ_phiếu vòng hai hôm chủ_nhật vừa_qua thấy dẫn ứng_cử_viên cực_hữu nhofer dù 519 số phiếu_bầu
+5,bám đuổi sít_sao vốn hiếm_hoi trong cuộc bầu_cử áo khiến kết_quả cuối_cùng phụ_thuộc hoàn_toàn số phiếu_bầu gửi đường bưu_điện còn hiện trong quá_trình kiểm đếm
+6,tuy_nhiên cho_dù kết_quả thế_nào một dễ nhận thấy trỗi dậy mạnh_mẽ tư_tưởng cực_hữu áo khẳng_định
+7,trỗi dậy thúc_đẩy chủ_yếu cuộc khủng_hoảng di_cư làm điên_đảo châu_âu áo quốc_gia tuyến_đầu
+8,ngoài_ra yếu_tố áo đối_mặt tác_động nền kinh_tế bấp_bênh nạn thất_nghiệp ảnh_hưởng tiêu_cực lệnh_cấm_vận liên_minh_châu_âu eu áp_đặt nga khiến nông_dân áo lao_đao khiến cử_tri áo lựa_chọn bài_ngoại tư_tưởng cực_hữu một cứu_cánh trong cơn khốn_khó
+9,ưu_thế thủ_lĩnh nhofer thắng_cử lần đầu_tiên nước tây_âu đại_diện một đảng cực_hữu dân_tộc chủ_nghĩa trở_thành người đứng đầu nhà_nước
+10,đảng tự_do áo hiện duy_trì quan_điểm cực_hữu dân_tộc chủ_nghĩa chống eu thù_địch người nước_ngoài hiển_nhiên sẵn_sàng tiếp_nhận người nhập_cư
+11,ông nhofer thậm_chí tuyên_bố sẵn_sàng giải_tán quốc_hội cơ_quan lập_pháp quan_điểm tổng_thống
+12,như_thế ứng_cử_viên trở_thành nhà lãnh_đạo tối_cao áo quốc_gia láng_giềng đức trở_thành trường_hợp cá_biệt trong gia_đình eu phương_diện
+13,thêm trỗi dậy đảng_tự_do áo còn châm ngòi một trào_lưu tương_tự nước châu_âu trong bối_cảnh lục_địa già chìm_đắm trong khủng_hoảng di_cư người_dân mấy mặn_mà cách điều_hành đảng cầm_quyền truyền_thống
+14,trong năm 2015 áo nhận 90000 người di_cư tương_đương hơn 1 dân_số
+15,phần_lớn số người nhận quốc_gia láng_giềng đức quyết_định mở_cửa biên_giới mùa thu năm_ngoái đón dòng người di_cư trốn chạy khỏi cuộc_chiến syria
+16,kể dù chính_phủ áo tìm mọi cách kiểm_soát cuộc khủng_hoảng mang hiệu_quả
+17,trở_thành một trong nguyên_nhân chính khiến đảng_tự_do áo ngày_càng nhận ủng_hộ cử_tri
+18,thực_tế tư_tưởng bài ngoại trong vấn_đề di_cư bắt_đầu xuất_hiện ngày_càng ở quốc_gia châu_âu sức_ép nhập_cư lớn dần bất_kể nước đón_nhận lượng lớn người tị_nạn đức thuỵ_điển hay kiên_quyết quay lưng pháp anh

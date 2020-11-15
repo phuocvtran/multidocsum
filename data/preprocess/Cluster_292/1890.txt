@@ -1,14 +1,14 @@
 idx, sentence
-0,hội_đồng chung_khảo giải báo_chí quốc_gia lần thứ x – năm 2015 sẽ họp trong 2 ngày 3 – 4/6/2016 tại hà_nội 
-1,tới dự_lễ khai_mạc sáng 3/6 có ủy_viên trung_ương đảng  bộ_trưởng bộ tttt trương_minh_tuấn  ủy_viên trung_ương đảng  chủ_tịch hội nhà_báo việt_nam ông thuận_hữu  cùng 41 thành_viên của hội_đồng chung_khảo 
-2,phát_biểu khai_mạc  ông thuận_hữu  chủ_tịch hội_đồng chung_khảo cho biết  năm nay có 1660 tác_phẩm dự giải báo_chí quốc_gia  cao hơn gần 200 tác_phẩm so với tổng_số 1468 tác_phẩm tham_dự năm trước 
-3,“ số_lượng tác_phẩm viết về chủ_quyền biển đảo khá nhiều  chất_lượng tốt 
-4,các tác_phẩm đều bám sát nhiệm_vụ chính_trị của đất_nước  phản_ánh quyết_liệt vấn_đề an_ninh quốc_phòng  đấu_tranh phòng_chống tham_nhũng  tiêu_cực  giới_thiệu nhân_tố mới  gương người tốt việc tốt  vấn_đề phát_triển kinh_tế gắn với bảo_vệ môi_trường  hướng tới cộng_đồng asean  gia_nhập tpp  nhiều tác_phẩm có tính phát_hiện tốt  thể_hiện chuyên_nghiệp  bài_bản  nhất_là truyền_hình và báo in ”  ông thuận_hữu cho biết 
-5,cũng theo ông thuận_hữu  sau vòng chấm sơ_khảo  đã có 143 tác_phẩm được vào chung_khảo 
-6,đây là những tác_phẩm phản_ánh trung_thực  toàn_diện  khách_quan tình_hình đất_nước 
-7,nhiều tác_phẩm có tác_động xã_hội tốt  được cơ_quan_chức_năng tiếp_thu giải_quyết 
-8,ông mai_đức_lộc  phó chủ_tịch hội nhà_báo việt_nam  chủ_tịch hội_đồng sơ_khảo cho biết thêm  đây là mùa giải có số_lượng tác_phẩm và đơn_vị tham_gia nhiều nhất từ trước tới nay 
-9,đến ngày 31/3/2016  ban thư_ký đã nhận được 1660 tác_phẩm tham_dự của 169 đơn_vị  cá_nhân 
-10,ngày 19/4  hội_đồng sơ_khảo đã họp phiên đầu_tiên với 60 ủy_viên trong 10 tiểu_ban để chấm 11 loại giải 
-11,“ trong 1660 tác_phẩm dự giải  hội_đồng sơ_khảo đã chấm 2 vòng đúng quy_chế và nhất_trí chọn 143 tác_phẩm vào vòng chung_khảo 
-12,các tác_phẩm vào vòng chung_khảo đều là tác_phẩm tiêu_biểu  có tính phát_hiện  phản_ánh khá sâu_sắc đời_sống báo_chí và đời_sống xã_hội  có định_hướng dư_luận xã_hội tốt  góp_phần vào công_cuộc xây_dựng và bảo_vệ tổ_quốc ”  ông mai_đức_lộc nói 
+0,hội_đồng chung_khảo giải báo_chí quốc_gia lần thứ x – năm 2015 họp trong 2 ngày 3 – 4/6/2016 hà_nội
+1,tới dự_lễ khai_mạc sáng 3/6 ủy_viên trung_ương đảng bộ_trưởng bộ tttt trương_minh_tuấn ủy_viên trung_ương đảng chủ_tịch hội nhà_báo việt_nam ông thuận_hữu 41 thành_viên hội_đồng chung_khảo
+2,phát_biểu khai_mạc ông thuận_hữu chủ_tịch hội_đồng chung_khảo biết năm nay 1660 tác_phẩm dự giải báo_chí quốc_gia cao hơn gần 200 tác_phẩm tổng_số 1468 tác_phẩm tham_dự năm
+3,“ số_lượng tác_phẩm viết về chủ_quyền biển đảo khá chất_lượng tốt
+4,tác_phẩm bám sát nhiệm_vụ chính_trị đất_nước phản_ánh quyết_liệt vấn_đề an_ninh quốc_phòng đấu_tranh phòng_chống tham_nhũng tiêu_cực giới_thiệu nhân_tố mới gương người tốt tốt vấn_đề phát_triển kinh_tế gắn bảo_vệ môi_trường hướng tới cộng_đồng asean gia_nhập tpp tác_phẩm tính phát_hiện tốt thể_hiện chuyên_nghiệp bài_bản nhất_là truyền_hình báo in ” ông thuận_hữu biết
+5,ông thuận_hữu vòng chấm sơ_khảo 143 tác_phẩm chung_khảo
+6,tác_phẩm phản_ánh trung_thực toàn_diện khách_quan tình_hình đất_nước
+7,tác_phẩm tác_động xã_hội tốt cơ_quan_chức_năng tiếp_thu giải_quyết
+8,ông mai_đức_lộc phó chủ_tịch hội nhà_báo việt_nam chủ_tịch hội_đồng sơ_khảo biết thêm mùa giải số_lượng tác_phẩm đơn_vị tham_gia nhất tới nay
+9,đến ngày 31/3/2016 ban thư_ký nhận 1660 tác_phẩm tham_dự 169 đơn_vị cá_nhân
+10,ngày 19/4 hội_đồng sơ_khảo họp phiên đầu_tiên 60 ủy_viên trong 10 tiểu_ban chấm 11 loại giải
+11,“ trong 1660 tác_phẩm dự giải hội_đồng sơ_khảo chấm 2 vòng đúng quy_chế nhất_trí chọn 143 tác_phẩm vòng chung_khảo
+12,tác_phẩm vòng chung_khảo tác_phẩm tiêu_biểu tính phát_hiện phản_ánh khá sâu_sắc đời_sống báo_chí đời_sống xã_hội định_hướng dư_luận xã_hội tốt góp_phần công_cuộc xây_dựng bảo_vệ tổ_quốc ” ông mai_đức_lộc nói

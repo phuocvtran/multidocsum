@@ -1,6 +1,6 @@
 idx, sentence
-0,cụ_thể  alan_pulido đã đánh_bại một trong những tên bắt_cóc để lấy lại điện_thoại 
-1,anh đấm vỡ cửa_kính  cố_gắng thoát thân ra ngoài và gọi điện cho cảnh_sát thông_báo vị_trí mình bị giam_giữ 
-2,alan pulido bình_tĩnh đến mức trong cuộc điện_thoại  anh đã thông_báo chi_tiết với cảnh_sát màu_sắc bộ quần_áo anh đang mặc để họ không nhầm_lẫn với bọn bắt_cóc trong lúc tấn_công giải_cứu 
-3,cú đấm vào cửa_kính khiến tiền_đạo đang khoác áo clb olympiakos  hi_lạp  này bị_thương ở cổ_tay vì mảnh kính vỡ 
-4,thống_đốc bang tamaulipas_torre_cantu cho biết pulido rất “ khôn_khéo  không manh_động ” và tiến_hành thương_lượng tiền chuộc với bọn bắt_cóc để được an_toàn nhằm kéo_dài thời_gian tự giải_thoát chính mình 
+0,cụ_thể alan_pulido đánh_bại một trong tên bắt_cóc lấy điện_thoại
+1,anh đấm vỡ cửa_kính cố_gắng thoát thân ngoài gọi điện cảnh_sát thông_báo vị_trí mình giam_giữ
+2,alan pulido bình_tĩnh đến mức trong cuộc điện_thoại anh thông_báo chi_tiết cảnh_sát màu_sắc bộ quần_áo anh mặc họ nhầm_lẫn bọn bắt_cóc trong tấn_công giải_cứu
+3,cú đấm cửa_kính khiến tiền_đạo khoác áo clb olympiakos hi_lạp bị_thương ở cổ_tay mảnh kính vỡ
+4,thống_đốc bang tamaulipas_torre_cantu biết pulido “ khôn_khéo manh_động ” tiến_hành thương_lượng tiền chuộc bọn bắt_cóc an_toàn nhằm kéo_dài thời_gian tự giải_thoát chính mình

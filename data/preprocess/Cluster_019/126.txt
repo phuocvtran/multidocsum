@@ -1,14 +1,14 @@
 idx, sentence
-0,ngày 19/5  tand tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử sơ_thẩm và tuyên_phạt bị_cáo nguyễn_ngọc_nguyên  31 tuổi  ngụ tổ 8  prạch_sỏi  tprạch_giá  kiên_giang  án chung_thân về tội giết_người  tin_tức đăng_tải trên báo thanh_niên 
-1,theo báo vov  vào ngày 23/12/2015  nguyên cùng một_số bạn_bè nhậu từ trưa tới khoảng 17 h thì về nhà vợ tại ấp vĩnh_thành  xã vĩnh_hoà_hiệp  huyện châu_thành  kiên_giang ngủ 
-2,đến khoảng 19 h cùng ngày  nguyên thức dậy và ăn cơm với vợ là lê_thị_hậu  22 tuổi  thì xảy ra mâu_thuẫn chuyện tiền_bạc 
-3,trong lúc cự cãi  nguyên dọa nếu vợ không đưa tiền thì sẽ chém 
-4,bị vợ thách_thức  nguyên bực_tức chạy ra sau bếp lấy cây dao bằng kim_loại màu trắng  loại dao làm cá  rồi túm tóc vợ đè xuống sàn gỗ và chém liên_tục nhiều nhát vào vùng đầu  cổ khiến nạn_nhân_tử_vong tại_chỗ 
-5,lúc này  bà trần_thị_giêng  58 tuổi  mẹ vợ nguyên  chạy vào thì bị nguyên xông đến dùng dao chém nhiều nhát khiến bà bị_thương ở vùng tay và vai trái 
-6,bà giêng cố gượng chạy ra ngoài kêu cứu nhưng nguyên cầm dao truy sát đến cùng 
-7,rất may  do đêm_tối nên việc bà giêng trốn phía sau nhà của một người hàng_xóm không bị con_rể phát_hiện 
-8,sau khi gây_án  nguyên trốn về nhà mẹ ruột ở phường rạch_sỏi  tp rạch_giá  cách nhà vợ khoảng 5 km 
-9,đến khoảng 22 h cùng ngày  nguyên ra đầu_thú tại công_an phường rạch_sỏi 
-10,tại phiên_tòa  nguyên_khai chung sống với chị hậu từ năm 2009  đến nay có 2 con_trai  cháu lớn mới 5 tuổi  cháu nhỏ 3 tuổi 
-11,hiện 2 cháu phải sống nhờ bà ngoại nuôi_dưỡng 
-12,trước khi chung sống với chị hậu  nguyên cũng đã có một đời vợ  có 1 con_trai nhưng đã ly_hôn 
+0,ngày 19/5 tand tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử sơ_thẩm tuyên_phạt bị_cáo nguyễn_ngọc_nguyên 31 tuổi ngụ tổ 8 prạch_sỏi tprạch_giá kiên_giang án chung_thân về tội giết_người tin_tức đăng_tải báo thanh_niên
+1,báo vov ngày 23/12/2015 nguyên một_số bạn_bè nhậu trưa tới khoảng 17 h về nhà vợ ấp vĩnh_thành xã vĩnh_hoà_hiệp huyện châu_thành kiên_giang ngủ
+2,đến khoảng 19 h ngày nguyên thức dậy ăn cơm vợ lê_thị_hậu 22 tuổi xảy mâu_thuẫn tiền_bạc
+3,trong cự cãi nguyên dọa vợ đưa tiền chém
+4,vợ thách_thức nguyên bực_tức chạy bếp lấy cây dao bằng kim_loại màu trắng loại dao làm cá túm tóc vợ đè xuống sàn gỗ chém liên_tục nhát vùng đầu cổ khiến nạn_nhân_tử_vong tại_chỗ
+5,bà trần_thị_giêng 58 tuổi mẹ vợ nguyên chạy nguyên xông đến dùng dao chém nhát khiến bà bị_thương ở vùng tay vai trái
+6,bà giêng cố gượng chạy ngoài kêu cứu nguyên cầm dao truy sát đến
+7,may đêm_tối bà giêng trốn phía nhà một người hàng_xóm con_rể phát_hiện
+8,gây_án nguyên trốn về nhà mẹ ruột ở phường rạch_sỏi tp rạch_giá cách nhà vợ khoảng 5 km
+9,đến khoảng 22 h ngày nguyên đầu_thú công_an phường rạch_sỏi
+10,phiên_tòa nguyên_khai chung sống chị hậu năm 2009 đến nay 2 con_trai cháu lớn mới 5 tuổi cháu nhỏ 3 tuổi
+11,hiện 2 cháu sống nhờ bà ngoại nuôi_dưỡng
+12,chung sống chị hậu nguyên một đời vợ 1 con_trai ly_hôn

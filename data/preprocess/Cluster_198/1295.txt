@@ -1,7 +1,7 @@
 idx, sentence
-0,theo đó  hàng triệu người sinh_sống  làm_việc ở nước_ngoài sẽ không phải đến cơ_sở cấp đổi vẫn làm được giấy_phép lái_xe quốc_tế 
-1,phát_biểu tại buổi lễ  bà phan_thị_thu_hiền  phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam cho_biết  “ việc cấp và quản_lý giấy_phép lái_xe quốc_tế cấp_độ 4 sẽ mang lại sự thuận_lợi cho người lao_động  lưu_học_sinh và cán_bộ đang làm_việc  công_tác tại các nước tham_gia công_ước vienna 1968  công_ước về giao_thông đường bộ năm 1968   ” “ việc triển_khai cấp đổi giấy_phép lái_xe qua mạng tạo điều_kiện để công_dân việt_nam hội_nhập  giao_thương với bạn_bè  đối_tác trên thế_giới 
-2,dịch_vụ công cấp_độ 4 là loại_hình cao nhất trong các hình_thức cải_cách thủ_tục hành_chính 
-3,điều này mang lại nhiều thuận_lợi cho người dân khi lái_xe cả trong và ngoài nước  ” bà phan_thị_thu_hiền nhận_định 
-4,người có nhu_cầu cấp giấy_phép lái_xe quốc_tế đã có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử wwwdrvngovvn và wwwdichvuconggplxgovvn  8000 và làm theo hướng_dẫn 
-5,mức lệ_phí cấp giấy_phép lái_xe quốc_tế qua mạng là 135000 đồng / giấy_phép lái_xe 
+0,hàng triệu người sinh_sống làm_việc ở nước_ngoài đến cơ_sở cấp đổi làm giấy_phép lái_xe quốc_tế
+1,phát_biểu buổi lễ bà phan_thị_thu_hiền phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam cho_biết “ cấp quản_lý giấy_phép lái_xe quốc_tế cấp_độ 4 mang thuận_lợi người lao_động lưu_học_sinh cán_bộ làm_việc công_tác nước tham_gia công_ước vienna 1968 công_ước về giao_thông đường bộ năm 1968 ” “ triển_khai cấp đổi giấy_phép lái_xe mạng tạo điều_kiện công_dân việt_nam hội_nhập giao_thương bạn_bè đối_tác thế_giới
+2,dịch_vụ công cấp_độ 4 loại_hình cao nhất trong hình_thức cải_cách thủ_tục hành_chính
+3,mang thuận_lợi người dân lái_xe trong ngoài nước ” bà phan_thị_thu_hiền nhận_định
+4,người nhu_cầu cấp giấy_phép lái_xe quốc_tế đăng_ký khai_báo trang thông_tin điện_tử wwwdrvngovvn wwwdichvuconggplxgovvn 8000 làm hướng_dẫn
+5,mức lệ_phí cấp giấy_phép lái_xe quốc_tế mạng 135000 đồng / giấy_phép lái_xe

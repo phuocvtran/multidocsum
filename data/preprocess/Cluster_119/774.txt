@@ -1,9 +1,9 @@
 idx, sentence
-0,nữ_ca_sĩ kiêm nhạc_sĩ 28 tuổi  người sở_hữu_sản_phẩm âm_nhạc bán_chạy nhất thế_giới năm 2015  lọt vào tầm ngắm của hãng sony sau khi hợp_đồng thu âm cô ký với hãng đĩa xl của anh từ năm 19 tuổi hết hạn 
-1,hiện_tại  khối tài_sản mà csở hữu là khoảng 123 triệu usd  chủ_yếu có được là nhờ vào thành_công từ các sản_phẩm âm_nhạc  bao_gồm hơn 506 triệu usd doanh_thu từ album 25 
-2,phát_hành vào tháng 10 năm_ngoái  album 25 được ghi_nhận là đã  làm sống lại doanh_số bán album  trên toàn thế_giới  khi tiêu_thụ tới 19 triệu bản trên toàn_cầu  tính tới thời_điểm này 
-3,tại mỹ  25 cũng là album bán_chạy nhất trong 1 tuần riêng_lẻ  từ khi bxh này được lập ra_vào năm 1991 
-4,album 21 mà nữ ca_sĩ ra_mắt năm 2011 hiện đã bán được 30 triệu bản trên toàn_cầu  và trở_thành album thành_công nhất trong thập_kỉ qua 
-5,thỏa_thuận này do jonathan_watkins  quản_lý của adele  đứng ra làm trung_gian 
-6,hiện cả sony_music  xl_recordings và quản_lý của adele đều chưa đưa ra bình_luận về động_thái này của nữ ca_sĩ 
-7,tuy_nhiên  nhiều nguồn tin trong ngành khẳng_định rằng sony đã đứng ra  bảo_trợ cho adele  người mà không còn nghi_ngờ gì nữa  chính là ngôi_sao lớn nhất của thế_hệ này  
+0,nữ_ca_sĩ kiêm nhạc_sĩ 28 tuổi người sở_hữu_sản_phẩm âm_nhạc bán_chạy nhất thế_giới năm 2015 lọt tầm ngắm hãng sony hợp_đồng thu âm cô ký hãng đĩa xl anh năm 19 tuổi hết hạn
+1,hiện_tại khối tài_sản csở hữu khoảng 123 triệu usd chủ_yếu nhờ thành_công sản_phẩm âm_nhạc bao_gồm hơn 506 triệu usd doanh_thu album 25
+2,phát_hành tháng 10 năm_ngoái album 25 ghi_nhận làm sống doanh_số bán album toàn thế_giới tiêu_thụ tới 19 triệu bản toàn_cầu tính tới thời_điểm
+3,mỹ 25 album bán_chạy nhất trong 1 tuần riêng_lẻ bxh lập ra_vào năm 1991
+4,album 21 nữ ca_sĩ ra_mắt năm 2011 hiện bán 30 triệu bản toàn_cầu trở_thành album thành_công nhất trong thập_kỉ
+5,thỏa_thuận jonathan_watkins quản_lý adele đứng làm trung_gian
+6,hiện sony_music xl_recordings quản_lý adele đưa bình_luận về động_thái nữ ca_sĩ
+7,tuy_nhiên nguồn tin trong ngành khẳng_định sony đứng bảo_trợ adele người còn nghi_ngờ chính ngôi_sao lớn nhất thế_hệ

@@ -1,15 +1,15 @@
 idx, sentence
-0,tin_tức trên báo dân việt  công_an tp móng_cái  quảng_ninh  xác_định  nguyên_nhân gây cháy xe ở cây_xăng ka_long là do tàn lửa từ việc thắp hương  đốt vàng_mã của gia_đình ở ngay cạnh phát_tán đúng lúc xe bồn đang bơm xăng xuống bể chứa 
-1,khoảng 17 h45 ngày 7/8  xe bồn mang bks  29c  64337 do lái_xe nguyễn_văn_thành  sn 1994  trú huyện thái_thụy  tỉnhthái bình  điều_khiển  chở 22591 lít xăng a92 đến tiếp xăng cho cửa_hàng xăng dầu bên cạnh bến_xe_khách ka_long  thuộc phường ka_long  tp móng_cái  
-2,trên xe bồn còn có phụ xe là đỗ_quang_hiếu  sn 1985  trú tại huyện thái_thụy  thái_bình  
-3,lúc này  cạnh xe bồn chở xăng có xe_khách giường nằm chạy tuyến móng_cái  cao_bằng đỗ song_song 
-4,xe_khách do đặng_đình_trường  sn 1982  trú huyện cẩm_giàng  tỉnh hải_dương  và lại_thị_hằng  sn 1977  trú thanh_oai  hà_nội  cùng quản_lý  điều_hành  tạm_trú tại nhà thuê của chị dung ở cạnh cửa_hàng xăng dầu ka_long 
-5,sau khi kiểm_tra  đối_chiếu sổ_sách và số_lượng xăng trên xe bồn  lê_văn_hải  nhân_viên giao_nhận hàng cây_xăng  cùng với hiếu  phụ xe bồn  tiến_hành bơm xăng xuống bể chứa 
-6,trước khi bơm xăng  hiếu phát_hiện gia_đình trường  hằng đang làm lễ cúng trong nhà và trước đầu xe_khách  có thắp hương và bày vàng_mã nên đã hỏi hải có bơm xăng được không  hải trả_lời không việc gì  cứ bơm xuống 
-7,do_vậy  hiếu đã vặn van để xả xăng xuống bồn 
-8,sau đó  xe_khách lùi ra để sang bến_xe đón khách thì có người phát_hiện đám cháy nên đã hô lớn 
-9,hiếu nhìn thấy có lửa ở đầu vòi bơm xuống bể chứa thì đã đóng van lại rồi cùng hải dùng bình chữa_cháy dập lửa nhưng không được  lửa mỗi lúc một lớn và lan rộng 
-10,báo tiền_phong đưa tin  nhận được thông_tin vụ_việc  tp móng_cái và các lực_lượng chức_năng khẩn_trương tập_trung cứu_hộ  cứu nạn 
-11,hàng trăm cán_bộ_chiến sỹ các lực_lượng cùng sự hỗ_trợ của các doanh_nghiệp  nhân_dân trên địa_bàn đã tích_cực tham_gia dập lửa 
-12,sau hơn 3 giờ chữa_cháy liên_tục  đến khoảng 20 h30 cùng ngày  đám cháy cơ_bản đã được khống_chế 
-13,để chống cháy lan  trong đêm  tp móng cái đã huy_động thêm nhiều xe cát để xử_lý cũng như đảm_bảo an_toàn khi có tình_huống xấu nhất 
+0,tin_tức báo dân việt công_an tp móng_cái quảng_ninh xác_định nguyên_nhân gây cháy xe ở cây_xăng ka_long tàn lửa thắp hương đốt vàng_mã gia_đình ở cạnh phát_tán đúng xe bồn bơm xăng xuống bể chứa
+1,khoảng 17 h45 ngày 7/8 xe bồn mang bks 29c 64337 lái_xe nguyễn_văn_thành sn 1994 trú huyện thái_thụy tỉnhthái bình điều_khiển chở 22591 lít xăng a92 đến tiếp xăng cửa_hàng xăng dầu bên cạnh bến_xe_khách ka_long thuộc phường ka_long tp móng_cái
+2,xe bồn còn phụ xe đỗ_quang_hiếu sn 1985 trú huyện thái_thụy thái_bình
+3,cạnh xe bồn chở xăng xe_khách giường nằm chạy tuyến móng_cái cao_bằng đỗ song_song
+4,xe_khách đặng_đình_trường sn 1982 trú huyện cẩm_giàng tỉnh hải_dương lại_thị_hằng sn 1977 trú thanh_oai hà_nội quản_lý điều_hành tạm_trú nhà thuê chị dung ở cạnh cửa_hàng xăng dầu ka_long
+5,kiểm_tra đối_chiếu sổ_sách số_lượng xăng xe bồn lê_văn_hải nhân_viên giao_nhận hàng cây_xăng hiếu phụ xe bồn tiến_hành bơm xăng xuống bể chứa
+6,bơm xăng hiếu phát_hiện gia_đình trường hằng làm lễ cúng trong nhà đầu xe_khách thắp hương bày vàng_mã hỏi hải bơm xăng hải trả_lời bơm xuống
+7,do_vậy hiếu vặn van xả xăng xuống bồn
+8,xe_khách lùi sang bến_xe đón khách người phát_hiện đám cháy hô lớn
+9,hiếu nhìn thấy lửa ở đầu vòi bơm xuống bể chứa đóng van hải dùng bình chữa_cháy dập lửa lửa một lớn lan rộng
+10,báo tiền_phong đưa tin nhận thông_tin vụ_việc tp móng_cái lực_lượng chức_năng khẩn_trương tập_trung cứu_hộ cứu nạn
+11,hàng trăm cán_bộ_chiến sỹ lực_lượng hỗ_trợ doanh_nghiệp nhân_dân địa_bàn tích_cực tham_gia dập lửa
+12,hơn 3 giờ chữa_cháy liên_tục đến khoảng 20 h30 ngày đám cháy cơ_bản khống_chế
+13,chống cháy lan trong đêm tp móng huy_động thêm xe cát xử_lý đảm_bảo an_toàn tình_huống xấu nhất

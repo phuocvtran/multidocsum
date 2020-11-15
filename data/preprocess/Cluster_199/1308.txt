@@ -1,16 +1,16 @@
 idx, sentence
-0,ngày 1/6  tand tp hà_nội mở phiên_tòa sơ_thẩm_xét_xử đoàn_văn_chuyên  sn 1991  ở xã vĩnh_khúc  huyện văn_giang  hưng_yên  về tội_danh “ giết_người ” 
-1,cáo_trạng của viện ksnd tp hà_nội xác_định  khoảng 9 h ngày 12/12/2015  đoàn_văn_chuyên điều khiểu xe ô_tô bks 89l0211 đi trên đường nguyễn_văn_linh  hướng từ hải_phòng  hà_nội 
-2,đến khu_vực ngã tư sài_đồng  nguyễn_văn_linh  quận long_biên  hà_nội   xe của chuyên vi_phạm luật giao_thông nên bị thượng_úy nguyễn_quốc_đạt  đội csgt số 5  phòng pc67  catp hà_nội  ra hiệu_lệnh dừng xe để kiểm_tra 
-3,thay_vì chấp_hành hiệu_lệnh của csgt  chuyên điều_khiển xe đâm thẳng vào thượng_úy đạt 
-4,gặp tình_huống bất_ngờ  thượng_úy đạt vội nhảy lên  bám vào cần gạt nước ở kính chắn gió đầu xe ô_tô  tiếp_tục ra yêu_cầu chuyên dừng xe 
-5,không_những không dừng xe  chuyên còn cho xe lao đi với tốc_độ cao  lạng_lách nhằm hất thượng_úy đạt xuống_đường 
-6,trên đường bỏ chạy  xe của chuyên đã va_chạm với chiếc xe ô_tô vios_bks 20a000  55 đi cùng chiều 
-7,thấy thượng_úy đạt vẫn bám cần gạt nước  chuyên điều_khiển xe với tốc_độ cao rồi phanh đột_ngột nhằm hất bằng được chiến sỹ csgt xuống_đường 
-8,thượng_úy đạt ngã xuống  bị cuốn vào gầm xe và bị kéo_lê khoảng 20 m  sau đó bị bánh sau của xe đè lên người 
-9,thượng_úy đạt được đồng_đội cùng người dân đưa đi cấp_cứu ngay sau đó nên đã qua cơn nguy_kịch nhưng bị tổn_hại sức_khỏe với tỷ_lệ thương_tích 59  
-10,viện ksnd tp hà_nội nhận_định  việc thượng_úy đạt không chết là nằm ngoài ý_muốn của chuyên 
-11,cho_nên  viện_ksnd truy_tố đoàn_văn_chuyên tội “ giết_người ” là hoàn_toàn có cơ_sở 
-12,tại phiên_tòa hôm_nay  16 /  đoàn_văn_chuyên thành_khẩn khai lại toàn_bộ_hành_vi phạm_tội của mình và mong hđxx cân_nhắc cho bị_cáo hưởng mức án thấp nhất 
-13,đại_diện viện ksnd tp hà_nội tham_gia phiên_tòa nhận_định  hành_vi của bị_cáo là nguy_hiểm cho xã_hội  xâm_hại trực_tiếp đến tính_mạng của người khác  đặc_biệt là người thi_hành công_vụ 
-14,bản_thân bị_cáo đã từng bị có 2 tiền_án và đã phải thi_hành hình phạt_tù  đã được giáo_dục cải_tạo  nhưng bản_chất côn_đồ  hung_hãn vẫn không thay_đổi nên cần phải xử_lý bị_cáo với mức án cao nhất 
+0,ngày 1/6 tand tp hà_nội mở phiên_tòa sơ_thẩm_xét_xử đoàn_văn_chuyên sn 1991 ở xã vĩnh_khúc huyện văn_giang hưng_yên về tội_danh “ giết_người ”
+1,cáo_trạng viện ksnd tp hà_nội xác_định khoảng 9 h ngày 12/12/2015 đoàn_văn_chuyên khiểu xe ô_tô bks 89l0211 đi đường nguyễn_văn_linh hướng hải_phòng hà_nội
+2,đến khu_vực ngã tư sài_đồng nguyễn_văn_linh quận long_biên hà_nội xe chuyên vi_phạm luật giao_thông thượng_úy nguyễn_quốc_đạt đội csgt số 5 phòng pc67 catp hà_nội hiệu_lệnh dừng xe kiểm_tra
+3,thay_vì chấp_hành hiệu_lệnh csgt chuyên điều_khiển xe đâm thẳng thượng_úy đạt
+4,gặp tình_huống bất_ngờ thượng_úy đạt vội nhảy bám gạt nước ở kính chắn gió đầu xe ô_tô tiếp_tục yêu_cầu chuyên dừng xe
+5,không_những dừng xe chuyên còn xe lao đi tốc_độ cao lạng_lách nhằm hất thượng_úy đạt xuống_đường
+6,đường bỏ chạy xe chuyên va_chạm xe ô_tô vios_bks 20a000 55 đi chiều
+7,thấy thượng_úy đạt bám gạt nước chuyên điều_khiển xe tốc_độ cao phanh đột_ngột nhằm hất bằng chiến sỹ csgt xuống_đường
+8,thượng_úy đạt ngã xuống cuốn gầm xe kéo_lê khoảng 20 m bánh xe đè người
+9,thượng_úy đạt đồng_đội người dân đưa đi cấp_cứu cơn nguy_kịch tổn_hại sức_khỏe tỷ_lệ thương_tích 59
+10,viện ksnd tp hà_nội nhận_định thượng_úy đạt chết nằm ngoài ý_muốn chuyên
+11,cho_nên viện_ksnd truy_tố đoàn_văn_chuyên tội “ giết_người ” hoàn_toàn cơ_sở
+12,phiên_tòa hôm_nay 16 / đoàn_văn_chuyên thành_khẩn khai toàn_bộ_hành_vi phạm_tội mình mong hđxx cân_nhắc bị_cáo hưởng mức án thấp nhất
+13,đại_diện viện ksnd tp hà_nội tham_gia phiên_tòa nhận_định hành_vi bị_cáo nguy_hiểm xã_hội xâm_hại trực_tiếp đến tính_mạng người khác đặc_biệt người thi_hành công_vụ
+14,bản_thân bị_cáo 2 tiền_án thi_hành hình phạt_tù giáo_dục cải_tạo bản_chất côn_đồ hung_hãn thay_đổi xử_lý bị_cáo mức án cao nhất

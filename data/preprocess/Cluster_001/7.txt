@@ -1,11 +1,11 @@
 idx, sentence
-0,hãng tin ria_novosti của nga dẫn nguồn tin từ trang almasry_alyoum hôm_qua 19/5 cho biết  cách đây gần hai năm  vào ngày 26/9/2014  nữ tiếp_viên ezeddin_samar của egyptair đã đăng_tải một bức ảnh kỳ_lạ trên facebook cá_nhân của cô chỉ vài tháng trước khi cô xin vào làm tại hãng 
-1,trong bức ảnh này  ezeddin_samar mặc đồng_phục của egyptair đã bị ướt_nhèm  kéo vali  bước từ dưới biển lên và phía sau là hình_ảnh một máy_bay đang chìm 
-2,chỉ vài tháng sau khi cô đăng bức ảnh này  cô đã xin vào làm tại egyptair 
-3,ezeddin samar cũng chính là nữ tiếp_viên có_mặt trên chuyến bay mang số_hiệu ms804 mất_tích hôm_qua 19/5 
-4,sự trùng_hợp ngẫu_nhiên này đang làm xôn_xao dư_luận  đặc_biệt là trong bối_cảnh các chuyên_gia hàng_không cho rằng chuyến bay ms804 có_vẻ bị tấn_công khủng_bố hơn là trục_trặc kỹ_thuật 
-5,máy_bay a320 với số_hiệu chuyến bay ms804 của egyptair mất_tích sáng qua sau khi cất_cánh từ sân_bay quốc_tế ở paris và trên đường tới cairo  ai_cập   mang theo 56 hành_khách và 10 thành_viên phi_hành_đoàn 
-6,được biết  phi_hành_đoàn trên chuyến bay gồm 2 phi_công  3 nhân_viên an_ninh và 5 tiếp_viên 
-7,điều đáng nói là thời_điểm máy_bay mất_tích không ghi_nhận bất_cứ hiện_tượng thời_tiết cực_đoan nào cũng như không có bất_cứ cuộc gọi khẩn_cấp nào từ phi_công 
-8,theo lời giới_chức hy_lạp  ở những phút cuối  cơ_quan kiểm_soát không_lưu của nước này đã tìm cách liên_lạc với phi_công của máy_bay nhưng không có phản_hồi 
-9,ở độ cao hơn 11000 m  máy_bay bất_ngờ xoay ngoặt sang phải sau đó xoay vòng sang trái và bắt_đầu hạ độ cao mà có_thể là bắt_đầu rơi rồi biến mất khỏi màn_hình radar 
+0,hãng tin ria_novosti nga dẫn nguồn tin trang almasry_alyoum hôm_qua 19/5 biết cách gần hai năm ngày 26/9/2014 nữ tiếp_viên ezeddin_samar egyptair đăng_tải một bức ảnh kỳ_lạ facebook cá_nhân cô vài tháng cô xin làm hãng
+1,trong bức ảnh ezeddin_samar mặc đồng_phục egyptair ướt_nhèm kéo vali bước biển phía hình_ảnh một máy_bay chìm
+2,vài tháng cô đăng bức ảnh cô xin làm egyptair
+3,ezeddin samar chính nữ tiếp_viên có_mặt chuyến bay mang số_hiệu ms804 mất_tích hôm_qua 19/5
+4,trùng_hợp ngẫu_nhiên làm xôn_xao dư_luận đặc_biệt trong bối_cảnh chuyên_gia hàng_không chuyến bay ms804 có_vẻ tấn_công khủng_bố hơn trục_trặc kỹ_thuật
+5,máy_bay a320 số_hiệu chuyến bay ms804 egyptair mất_tích sáng cất_cánh sân_bay quốc_tế ở paris đường tới cairo ai_cập mang 56 hành_khách 10 thành_viên phi_hành_đoàn
+6,biết phi_hành_đoàn chuyến bay gồm 2 phi_công 3 nhân_viên an_ninh 5 tiếp_viên
+7,đáng nói thời_điểm máy_bay mất_tích ghi_nhận bất_cứ hiện_tượng thời_tiết cực_đoan nào bất_cứ cuộc gọi khẩn_cấp nào phi_công
+8,lời giới_chức hy_lạp ở phút cuối cơ_quan kiểm_soát không_lưu nước tìm cách liên_lạc phi_công máy_bay phản_hồi
+9,ở độ cao hơn 11000 m máy_bay bất_ngờ xoay ngoặt sang xoay vòng sang trái bắt_đầu hạ độ cao bắt_đầu rơi biến mất khỏi màn_hình radar

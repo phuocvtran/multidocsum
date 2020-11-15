@@ -1,12 +1,12 @@
 idx, sentence
-0,đặc_biệt  ellly_trần_rạng_rỡ đảm_nhận vai_trò người_mẫu “ first face ” của bộ sưu_tập 
-1,sự xuất_hiện của cô khiến nhiều khán_giả bất_ngờ 
-2,không ít người hâm_mộ đi theo elly_trần_suốt đường catwalk để có cơ_hội ngắm người_đẹp 
-3,tại chương_trình lần này  nữ diễn_viên  khát_vọng thượng_lưu  catwalk trên phố đi bộ nguyễn_huệ có chiều dài 800 m 
-4,đường catwalk dài kỷ_lục này là thử_thách cho bất_cứ một người_mẫu chuyên_nghiệp nào khi phải trình_diễn trên đôi giày cao gót và di_chuyển quãng đường khác_xa 
-5,dù không có nhiều kinh_nghiệm trình_diễn  elly_trần vẫn luôn giữ nụ cười rạng_rỡ và thần_thái tỏa sáng trong quá_trình di_chuyển 
-6,ở cuối đường catwalk  elly_trần_thành_kính dâng đóa hoa_sen lên tượng_đài bác_hồ 
-7,trong chương_trình   bà mẹ hai con  diện mẫu áo_dài xuyên thấu do chính tay ntk anh_thư đo ni đóng giày cho cô 
-8,thiết_kế áo_cưới elly trần_diện nhấn_mạnh ở phần ngực áo đính kết đá quý thành một trái_tim to bản 
-9,phần chiết eo nhẹ_nhàng đặc_trưng của áo_dài nguyên_bản tôn lên vòng hai của bà mẹ hai con 
-10,đặc_biệt  phần tà áo sau được ghép_nối bởi nhiều lớp voan lưới  mang lại vẻ lãng_mạn  bồng_bềnh cho từng bước_đi 
+0,đặc_biệt ellly_trần_rạng_rỡ đảm_nhận vai_trò người_mẫu “ first face ” bộ sưu_tập
+1,xuất_hiện cô khiến khán_giả bất_ngờ
+2,ít người hâm_mộ đi elly_trần_suốt đường catwalk cơ_hội ngắm người_đẹp
+3,chương_trình lần nữ diễn_viên khát_vọng thượng_lưu catwalk phố đi bộ nguyễn_huệ chiều dài 800 m
+4,đường catwalk dài kỷ_lục thử_thách bất_cứ một người_mẫu chuyên_nghiệp nào trình_diễn đôi giày cao gót di_chuyển quãng đường khác_xa
+5,dù kinh_nghiệm trình_diễn elly_trần luôn giữ nụ cười rạng_rỡ thần_thái tỏa sáng trong quá_trình di_chuyển
+6,ở cuối đường catwalk elly_trần_thành_kính dâng đóa hoa_sen tượng_đài bác_hồ
+7,trong chương_trình bà mẹ hai con diện mẫu áo_dài xuyên thấu chính tay ntk anh_thư đo ni đóng giày cô
+8,thiết_kế áo_cưới elly trần_diện nhấn_mạnh ở phần ngực áo đính kết đá quý thành một trái_tim to bản
+9,phần chiết eo nhẹ_nhàng đặc_trưng áo_dài nguyên_bản tôn vòng hai bà mẹ hai con
+10,đặc_biệt phần tà áo ghép_nối lớp voan lưới mang vẻ lãng_mạn bồng_bềnh bước_đi

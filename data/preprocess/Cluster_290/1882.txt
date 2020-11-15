@@ -1,5 +1,5 @@
 idx, sentence
-0,chiếc boeing 777 số_hiệu mh17 của malaysia_airlines khởi_hành từ amsterdam  hà_lan  đến kuala_lumpur  malaysia  đã bị trúng một tên lửa đất đối không khi bay ngang vùng_trời xung_đột ở ukraine vào ngày 1772014  làm toàn_bộ 298 người trên máy_bay thiệt_mạng 
-1,theo ap  thomas_philip  luật_sư của các gia_đình phi_hành_đoàn mh17 cho biết  malaysia_airlines đã không đánh_giá đầy_đủ rủi_ro và sắp_xếp tuyến bay qua khu_vực xung_đột đã biết  đặt ra nguy_cơ cho những người trên máy_bay 
-2,malaysia airlines cũng bị_cáo_buộc vi_phạm hợp_đồng vì không đảm_bảo an_toàn và sức_khỏe cho phi_hành_đoàn chuyến bay 
-3,các gia_đình phi_hành_đoàn mh17 đòi bồi_thường những tổn_thất vật_chất và tinh_thần họ phải gánh_chịu do người_thân thiệt_mạng 
+0,boeing 777 số_hiệu mh17 malaysia_airlines khởi_hành amsterdam hà_lan đến kuala_lumpur malaysia trúng một tên lửa đất đối bay ngang vùng_trời xung_đột ở ukraine ngày 1772014 làm toàn_bộ 298 người máy_bay thiệt_mạng
+1,ap thomas_philip luật_sư gia_đình phi_hành_đoàn mh17 biết malaysia_airlines đánh_giá đầy_đủ rủi_ro sắp_xếp tuyến bay khu_vực xung_đột biết đặt nguy_cơ người máy_bay
+2,malaysia airlines bị_cáo_buộc vi_phạm hợp_đồng đảm_bảo an_toàn sức_khỏe phi_hành_đoàn chuyến bay
+3,gia_đình phi_hành_đoàn mh17 đòi bồi_thường tổn_thất vật_chất tinh_thần họ gánh_chịu người_thân thiệt_mạng

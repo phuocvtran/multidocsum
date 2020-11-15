@@ -1,7 +1,7 @@
 idx, sentence
-0,theo thông_tin ban_đầu  vào_khoảng 9 giờ ngày 36  chị nguyễn_thị_ngọc_mai  40 tuổi  dừng xe ô_tô biển kiểm_soát 93h6789 để ăn sáng tại một quán ăn trên đường nguyễn_chí_thanh  tp thủ_dầu_một  bình_dương  
-1,khi chị mai vừa vào trong quán thì lê_trung_hiếu  25 tuổi  mở cửa xe rồi lái đi 
-2,khi đến quốc_lộ 13 giao với đường hồ_văn_cống  tp thủ_dầu_một  hiếu lái chiếc xe tông vào một xe ba_gác 
-3,chưa dừng lại ở đó  chiếc xe tiếp_tục tông vào cột_điện  xe_máy và nhiều bàn_ghế trong quán mới dừng lại khiến nhiều người kinh_hãi 
-4,tại hiện_trường  chiếc xe bốn chỗ bị bể nát phần đầu  hư_hỏng nặng  cột_điện trước quán cà_phê bị tông đổ  mái_che của quán cà_phê bị sập  bàn_ghế văng khắp quán 
-5,một chiếc xe_máy của khách để gần đó cũng bị chiếc xe này kéo_lê vào quán 
+0,thông_tin ban_đầu vào_khoảng 9 giờ ngày 36 chị nguyễn_thị_ngọc_mai 40 tuổi dừng xe ô_tô biển kiểm_soát 93h6789 ăn sáng một quán ăn đường nguyễn_chí_thanh tp thủ_dầu_một bình_dương
+1,chị mai trong quán lê_trung_hiếu 25 tuổi mở cửa xe lái đi
+2,đến quốc_lộ 13 giao đường hồ_văn_cống tp thủ_dầu_một hiếu lái xe tông một xe ba_gác
+3,dừng ở xe tiếp_tục tông cột_điện xe_máy bàn_ghế trong quán mới dừng khiến người kinh_hãi
+4,hiện_trường xe bốn chỗ bể nát phần đầu hư_hỏng nặng cột_điện quán cà_phê tông đổ mái_che quán cà_phê sập bàn_ghế văng khắp quán
+5,một xe_máy khách gần xe kéo_lê quán

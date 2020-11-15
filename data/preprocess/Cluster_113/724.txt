@@ -1,9 +1,9 @@
 idx, sentence
-0,theo cáo_trạng  với chức_năng xuất bán hàng_hóa nông_sản  danh_tìm đối_tác để ký hợp_đồng xuất_khẩu hàng qua trung_quốc 
-1,tuy_nhiên  danh không trực_tiếp sang trung_quốc tìm đối_tác mà liên_hệ với đinh_thị_thảo  ngụ tỉnh lạng_sơn  để bàn_bạc thực_hiện các hợp_đồng xuất_khẩu bán hàng_hóa cho công_ty tnhh_tm  xnk xi_lai_phúc_và công_ty tnhh guo qi do_li  đều của trung_quốc  
-2,sau khi thống_nhất phương_án kinh_doanh  danh về bàn với lạc  phúc và thống_nhất các thủ_tục hợp_thức_hóa hồ_sơ xuất bán để lạc_ký các hợp_đồng xuất_khẩu hàng_hóa 
-3,trong quá_trình mua_bán  lạc yêu_cầu_danh đề_nghị đinh_thị_thảo phải chứng_thực lãnh_sự tư_cách pháp_nhân của công_ty xi_lai_phúc_và công_ty guo qi do_li nhưng thảo không đáp_ứng được 
-4,để hợp_thức_hóa các giấy_tờ này  danh_soạn thư bằng chữ việt với nội_dung giới_thiệu thảo là người hỗ_trợ về mặt ngôn_ngữ và thay_mặt 2 công_ty trung_quốc thương_thảo các hợp_đồng xuất_khẩu 
-5,mặc khác  danh tiếp_tục soạn giấy ủy quyền của các công_ty trung_quốc đối_với thảo để hợp_thức_hóa_pháp_nhân 
-6,trong thời_gian 4 năm  danh và phúc đã tham_mưu cho lạc_ký 50 hợp_đồng xuất_khẩu tinh_bột sắn  gạo … sang trung_quốc 
-7,mặc_dù thảo nhận hàng_hóa nhưng thanh_toán chậm hoặc kéo_dài thời_gian thanh_toán không đúng theo thỏa_thuận nhưng lạc vẫn ký tiếp các hợp_đồng  trong đó có 5 hợp_đồng sau_cùng trị_giá khoảng 61 tỉ đồng nhưng thảo chỉ trả 6 tỉ đồng  nợ 55 tỉ đồng 
+0,cáo_trạng chức_năng xuất bán hàng_hóa nông_sản danh_tìm đối_tác ký hợp_đồng xuất_khẩu hàng trung_quốc
+1,tuy_nhiên danh trực_tiếp sang trung_quốc tìm đối_tác liên_hệ đinh_thị_thảo ngụ tỉnh lạng_sơn bàn_bạc thực_hiện hợp_đồng xuất_khẩu bán hàng_hóa công_ty tnhh_tm xnk xi_lai_phúc_và công_ty tnhh guo qi do_li trung_quốc
+2,thống_nhất phương_án kinh_doanh danh về bàn lạc phúc thống_nhất thủ_tục hợp_thức_hóa hồ_sơ xuất bán lạc_ký hợp_đồng xuất_khẩu hàng_hóa
+3,trong quá_trình mua_bán lạc yêu_cầu_danh đề_nghị đinh_thị_thảo chứng_thực lãnh_sự tư_cách pháp_nhân công_ty xi_lai_phúc_và công_ty guo qi do_li thảo đáp_ứng
+4,hợp_thức_hóa giấy_tờ danh_soạn thư bằng chữ việt nội_dung giới_thiệu thảo người hỗ_trợ về mặt ngôn_ngữ thay_mặt 2 công_ty trung_quốc thương_thảo hợp_đồng xuất_khẩu
+5,mặc khác danh tiếp_tục soạn giấy ủy quyền công_ty trung_quốc đối_với thảo hợp_thức_hóa_pháp_nhân
+6,trong thời_gian 4 năm danh phúc tham_mưu lạc_ký 50 hợp_đồng xuất_khẩu tinh_bột sắn gạo … sang trung_quốc
+7,mặc_dù thảo nhận hàng_hóa thanh_toán chậm hoặc kéo_dài thời_gian thanh_toán đúng thỏa_thuận lạc ký tiếp hợp_đồng trong 5 hợp_đồng sau_cùng trị_giá khoảng 61 tỉ đồng thảo trả 6 tỉ đồng nợ 55 tỉ đồng

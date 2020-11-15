@@ -1,7 +1,7 @@
 idx, sentence
-0,lúc 21 h30 ngày 2/6  người dân phát_hiện căn nhà cấp bốn nằm trong hẻm 80 đường dương_quảng_hàm  quận gò_vấp  tphcm  bất_ngờ bốc cháy dữ_dội  khói_lửa bao_trùm căn nhà 
-1,thấy cháy  người dân đã nhanh_chóng ngắt hệ_thống điện tổng bên ngoài khiến cửa_cuốn của ngôi nhà không_thể mở ra được  2 vợ_chồng cụ ông 70 tuổi bị kẹt lại bên trong la_hét  kêu cứu 
-2,rất đông người dân đã dùng xà_beng  búa phá cánh cửa hông  lao vào đám cháy nghi_ngút khói cứu 2 người ra ngoài an_toàn 
-3,nhận được tin báo  phòng cảnh_sát pccc quận gò_vấp đã điều 6 xe_nước và gần 40 cán_bộ chiến_sĩ đến hiện_trường để dập lửa 
-4,do hiện_trường vụ cháy nằm sâu trong con hẻm nhỏ  xe chữa_cháy không_thể vào được nên cảnh_sát phải kéo vòi_rồng vào để chữa_cháy 
-5,sau gần 2 giờ tích_cực chữa_cháy  lính cứu_hỏa đã khống_chế được ngọn lửa 
+0,21 h30 ngày 2/6 người dân phát_hiện căn nhà cấp bốn nằm trong hẻm 80 đường dương_quảng_hàm quận gò_vấp tphcm bất_ngờ bốc cháy dữ_dội khói_lửa bao_trùm căn nhà
+1,thấy cháy người dân nhanh_chóng ngắt hệ_thống điện tổng bên ngoài khiến cửa_cuốn ngôi nhà không_thể mở 2 vợ_chồng cụ ông 70 tuổi kẹt bên trong la_hét kêu cứu
+2,đông người dân dùng xà_beng búa phá cánh cửa hông lao đám cháy nghi_ngút khói cứu 2 người ngoài an_toàn
+3,nhận tin báo phòng cảnh_sát pccc quận gò_vấp 6 xe_nước gần 40 cán_bộ chiến_sĩ đến hiện_trường dập lửa
+4,hiện_trường vụ cháy nằm sâu trong con hẻm nhỏ xe chữa_cháy không_thể cảnh_sát kéo vòi_rồng chữa_cháy
+5,gần 2 giờ tích_cực chữa_cháy lính cứu_hỏa khống_chế ngọn lửa

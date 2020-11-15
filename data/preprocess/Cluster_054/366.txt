@@ -1,32 +1,32 @@
 idx, sentence
-0,sáng 20/5  chàng trai trần_nguyễn_an_khương  28 tuổi  tân_lộc  bình_thới  cà_mau  đã cập bến hành_trình xuyên việt là trung_tâm điều_phối ghép tạng quốc_gia  bv_việt_đức  
-1,nhìn thấy khương  không ai nghĩ cậu lại có đủ nghị_lực để vượt chặng đường dài đến 2000 km bằng chiếc xe_đạp nhỏ_bé 
-2,khương chia_sẻ  kết_thúc hành_trình  anh mong_muốn được đăng_kí hiến tạng sống để có_thể giúp_đỡ một người_bệnh nào đó 
-3,khương kể  hành_trình xuyên việt mất trọn 38 ngày 
-4,cậu xuất_phát ngày 12/4 tại cà_mau và đến hà_nội vào đúng sinh_nhật bác 19/5 
-5,chuyến đi đặc_biệt đã khiến chàng trai_trẻ sụt 5 kg  chỉ còn vẻ vẹn 37 kg  nhưng khương chia_sẻ  “ thấy mình khỏe  vui và mong được hiến tạng ” 
-6,chàng thanh_niên này chia_sẻ câu_chuyện khiến anh quyết_định hành_trình xuyên việt này 
-7,người bạn thân của khương đã mất năm 2013  chỉ sau 2 tháng phát_hiện suy thận 
-8,chứng_kiến nỗi đau_đớn  niềm mong_mỏi đằng_đẵng của bạn sẽ có một người đăng_kí hiến cho mình quả_thận để sống với cõi_đời 
-9,nhưng cuối_cùng  không một_phép màu nào đến  bạn khương đã ra đi khi tuổi_đời còn rất trẻ 
-10,“ sau cái chết của bạn  mình như “ tỉnh_ngộ ”  tại_sao mình không làm gì đó để giúp những người suy tạng đang mỏi mòn  mong_chờ nguồn tạng hiến 
-11,và mình đã có ý_tưởng này ”  khương chia_sẻ 
-12,trước khi chuẩn_bị cho hành_trình dài xuyên việt  tháng 4/2013  khương đã đến bệnh_viện đh y_dược tphcm_hiến xác và tháng 8 cùng năm  tiếp_tục đến bệnh_viện chợ_rẫy tphcm đăng_ký hiến đa tạng sau khi chết_não 
-13,“ mình đi đăng_kí hiến tạng mà ba_mẹ không biết 
-14,khi mang thẻ đăng_kí hiến tạng sau chết_não về nhà  ba_mẹ đã rất sốc 
-15,nhưng khi nghe mình chia_sẻ  kể về câu_chuyện của bạn  kể về những người_bệnh mình chứng_kiến trong thời_gian vào thăm bạn  ông_bà đã ủng_hộ ”  khương nói 
-16,để bắt_đầu hành_trình xuyên việt  khương đã phải bươn_chải làm công_nhân nhiều tháng ròng 
-17,số tiền tích_luỹ được  khương dành mua chiếc xe_đạp 23 triệu đồng  còn lại 56 triệu đồng cầm theo làm lộ_phí đi đường 
-18,đúng ngày 12/4  từ cà_mau  chàng trai_trẻ bắt_đầu hành_trình 2000 km ra hà_nội 
-19,ngoài lộ_phí mang theo là 56 triệu đồng  khương còn mang theo một chiếc bếp cồn nhỏ phục_vụ đun_nấu trong quá_trình đi đường  mang theo lều ngủ cùng 2 pano nhỏ 2 bên với thông_điệp “ cho đi là còn mãi – cùng_chung tay vì sự sống ” 
-20,đồng_thời  khương cũng chuẩn_bị một_số tài luyện tuyên_truyền về hiến tạng để phát tại những nơi cậu dừng chân  nghỉ dọc đường 
-21,khương cũng tâm_nguyện ra đến hà_nội  sẽ đăng_kí hiến tạng sống  không chờ_đợi đến khi mình nằm xuống mới có_thể giúp mọi người 
-22,khương chia_sẻ thêm  “ trong hành_trình  cũng có người ủng_hộ  nhưng cũng có những người bảo khương có vấn_đề 
-23,nhưng chỉ cần thêm một người biết về hiến tạng là em thấy vui  thấy có động_lực để quyết_tâm ” 
-24,38 ngày  ngày nào cũng như ngày nào  khương dậy từ 5 h sáng để lên_đường  tối tối xin dựng lều tại cây_xăng ngủ  khi đói dừng lại nấu mỳ tôm  uống nước 
-25,sau 38 ngày  vượt qua bao khó_khăn  chàng trai ấy đã cập bến  đi qua 27 tỉnh_thành với tổng chi_phí 37 triệu đồng 
-26,trước tấm lòng  nhiệt_huyết của khương  pgsts_trịnh_hồng_sơn  giám_đốc trung_tâm điều_phối hiến ghép tạng quốc_gia cho biết  ông sẽ hỗ_trợ chàng trai này số tiền tiến_hành các xét_nghiệm để hiến tạng 
-27,ông cũng tặng chàng trai trẻ 1 triệu đồng cho hành_trình quay trở_lại miền nam  nhưng chàng trai kiên_quyết từ_chối 
-28,theo ts_sơn  ghép tạng có ý_nghĩa như thế_nào  thời_gian qua mọi người đều nhìn thấy 
-29,1 người chết_não hiến tạng có_thể cứu 1 bệnh_nhân suy_tim  1 người suy gan  2 bệnh_nhân suy thận  ghép giác_mạc  một người không may mất đi có_thể cứu rất nhiều người_bệnh đang sống đau_khổ  chờ_đợi cái chết hang ngày do căn_bệnh suy tạng không các gì cứu_chữa 
-30,ông mong_muốn sẽ nhiều người hiểu được ý_nghĩa việc hiến tạng như khương  để ngày_càng thêm có nhiều bệnh_nhân suy tạng được cứu sống 
+0,sáng 20/5 chàng trai trần_nguyễn_an_khương 28 tuổi tân_lộc bình_thới cà_mau cập bến hành_trình xuyên việt trung_tâm điều_phối ghép tạng quốc_gia bv_việt_đức
+1,nhìn thấy khương ai nghĩ cậu đủ nghị_lực vượt chặng đường dài đến 2000 km bằng xe_đạp nhỏ_bé
+2,khương chia_sẻ kết_thúc hành_trình anh mong_muốn đăng_kí hiến tạng sống giúp_đỡ một người_bệnh nào
+3,khương kể hành_trình xuyên việt mất trọn 38 ngày
+4,cậu xuất_phát ngày 12/4 cà_mau đến hà_nội đúng sinh_nhật bác 19/5
+5,chuyến đi đặc_biệt khiến chàng trai_trẻ sụt 5 kg còn vẻ vẹn 37 kg khương chia_sẻ “ thấy mình khỏe vui mong hiến tạng ”
+6,chàng thanh_niên chia_sẻ câu_chuyện khiến anh quyết_định hành_trình xuyên việt
+7,người bạn thân khương mất năm 2013 2 tháng phát_hiện suy thận
+8,chứng_kiến nỗi đau_đớn niềm mong_mỏi đằng_đẵng bạn một người đăng_kí hiến mình quả_thận sống cõi_đời
+9,cuối_cùng một_phép màu nào đến bạn khương đi tuổi_đời còn trẻ
+10,“ chết bạn mình “ tỉnh_ngộ ” tại_sao mình làm giúp người suy tạng mỏi mòn mong_chờ nguồn tạng hiến
+11,mình ý_tưởng ” khương chia_sẻ
+12,chuẩn_bị hành_trình dài xuyên việt tháng 4/2013 khương đến bệnh_viện đh y_dược tphcm_hiến xác tháng 8 năm tiếp_tục đến bệnh_viện chợ_rẫy tphcm đăng_ký hiến đa tạng chết_não
+13,“ mình đi đăng_kí hiến tạng ba_mẹ biết
+14,mang thẻ đăng_kí hiến tạng chết_não về nhà ba_mẹ sốc
+15,nghe mình chia_sẻ kể về câu_chuyện bạn kể về người_bệnh mình chứng_kiến trong thời_gian thăm bạn ông_bà ủng_hộ ” khương nói
+16,bắt_đầu hành_trình xuyên việt khương bươn_chải làm công_nhân tháng ròng
+17,số tiền tích_luỹ khương dành mua xe_đạp 23 triệu đồng còn 56 triệu đồng cầm làm lộ_phí đi đường
+18,đúng ngày 12/4 cà_mau chàng trai_trẻ bắt_đầu hành_trình 2000 km hà_nội
+19,ngoài lộ_phí mang 56 triệu đồng khương còn mang một bếp cồn nhỏ phục_vụ đun_nấu trong quá_trình đi đường mang lều ngủ 2 pano nhỏ 2 bên thông_điệp “ đi còn mãi – cùng_chung tay sống ”
+20,đồng_thời khương chuẩn_bị một_số tài luyện tuyên_truyền về hiến tạng phát cậu dừng chân nghỉ dọc đường
+21,khương tâm_nguyện đến hà_nội đăng_kí hiến tạng sống chờ_đợi đến mình nằm xuống mới giúp mọi người
+22,khương chia_sẻ thêm “ trong hành_trình người ủng_hộ người bảo khương vấn_đề
+23,thêm một người biết về hiến tạng em thấy vui thấy động_lực quyết_tâm ”
+24,38 ngày ngày nào ngày nào khương dậy 5 h sáng lên_đường tối tối xin dựng lều cây_xăng ngủ đói dừng nấu mỳ tôm uống nước
+25,38 ngày vượt bao khó_khăn chàng trai ấy cập bến đi 27 tỉnh_thành tổng chi_phí 37 triệu đồng
+26,tấm lòng nhiệt_huyết khương pgsts_trịnh_hồng_sơn giám_đốc trung_tâm điều_phối hiến ghép tạng quốc_gia biết ông hỗ_trợ chàng trai số tiền tiến_hành xét_nghiệm hiến tạng
+27,ông tặng chàng trai trẻ 1 triệu đồng hành_trình quay trở_lại miền nam chàng trai kiên_quyết từ_chối
+28,ts_sơn ghép tạng ý_nghĩa thế_nào thời_gian mọi người nhìn thấy
+29,1 người chết_não hiến tạng cứu 1 bệnh_nhân suy_tim 1 người suy gan 2 bệnh_nhân suy thận ghép giác_mạc một người may mất đi cứu người_bệnh sống đau_khổ chờ_đợi chết hang ngày căn_bệnh suy tạng cứu_chữa
+30,ông mong_muốn người hiểu ý_nghĩa hiến tạng khương ngày_càng thêm bệnh_nhân suy tạng cứu sống

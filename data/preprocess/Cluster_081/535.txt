@@ -1,11 +1,11 @@
 idx, sentence
-0,trong vòng bầu_cử tổng_thống thứ hai ngày 225  cử_tri áo sẽ lựa_chọn giữa 2 ứng_viên giành tỷ_lệ phiếu_bầu cao nhất ở vòng đầu là ông norbert_hofer thuộc đảng_tự_do áo và ông alexander van der_bellen của đảng_xanh 
-1,dù ai chiến_thắng thì đều là bước_ngoặt chính_trị mới ở áo 
-2,ở vòng đầu  ông hofer giành được 35  số phiếu còn ông van_der_bellen là 22  
-3,đây là lần đầu_tiên trong lịch_sử hiện_đại của áo  tổng_thống không thuộc 2 đảng lớn là đảng_xã_hội dân_chủ áo và đảng nhân_dân áo và cũng là lần đầu_tiên tổng_thống không thuộc đảng đang cầm_quyền hoặc trong liên_minh cầm_quyền 
-4,đảng tự_do áo còn có quan_điểm cực_hữu  dân_tộc chủ_nghĩa  chống eu  thù_địch người nước_ngoài và không sẵn_sàng tiếp_nhận người tị_nạn 
-5,ông hofer thậm_chí từng tuyên_bố sẵn_sàng giải_tán quốc_hội nếu quốc_hội không có cùng quan_điểm với tổng_thống 
-6,ông van_der_bellen chủ_trương ngược_lại và tuyên_bố sẽ không chấp_nhận bất_cứ chính_phủ liên_hiệp nào có sự tham_gia của đảng_tự_do áo 
-7,quan_điểm của hai ứng_viên khác nhau và khác với chính_phủ liên_hiệp đang cầm_quyền 
-8,đó mới chính là điều tiềm_ẩn nguy_cơ mất ổn_định xã_hội trong thời_gian tới ở áo 
-9,xã_hội và chính_trường không_chỉ tiếp_tục phân_hóa sâu_sắc mà_còn nghiêng về phía hữu  về thái quá và cực_đoan 
+0,trong vòng bầu_cử tổng_thống thứ hai ngày 225 cử_tri áo lựa_chọn giữa 2 ứng_viên giành tỷ_lệ phiếu_bầu cao nhất ở vòng đầu ông norbert_hofer thuộc đảng_tự_do áo ông alexander van der_bellen đảng_xanh
+1,dù ai chiến_thắng bước_ngoặt chính_trị mới ở áo
+2,ở vòng đầu ông hofer giành 35 số phiếu còn ông van_der_bellen 22
+3,lần đầu_tiên trong lịch_sử hiện_đại áo tổng_thống thuộc 2 đảng lớn đảng_xã_hội dân_chủ áo đảng nhân_dân áo lần đầu_tiên tổng_thống thuộc đảng cầm_quyền hoặc trong liên_minh cầm_quyền
+4,đảng tự_do áo còn quan_điểm cực_hữu dân_tộc chủ_nghĩa chống eu thù_địch người nước_ngoài sẵn_sàng tiếp_nhận người tị_nạn
+5,ông hofer thậm_chí tuyên_bố sẵn_sàng giải_tán quốc_hội quốc_hội quan_điểm tổng_thống
+6,ông van_der_bellen chủ_trương ngược_lại tuyên_bố chấp_nhận bất_cứ chính_phủ liên_hiệp nào tham_gia đảng_tự_do áo
+7,quan_điểm hai ứng_viên khác nhau khác chính_phủ liên_hiệp cầm_quyền
+8,mới chính tiềm_ẩn nguy_cơ mất ổn_định xã_hội trong thời_gian tới ở áo
+9,xã_hội chính_trường không_chỉ tiếp_tục phân_hóa sâu_sắc mà_còn nghiêng về phía hữu về thái quá cực_đoan

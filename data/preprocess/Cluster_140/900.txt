@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 28/5  công_an huyện hóc_môn phối_hợp công_an tp hcm điều_tra vụ trộm xảy ra tại nhà ông trương_văn_hiền  tổng_giám_đốc tổng_công_ty văn_hóa sài_gòn  đại_biểu hđnd tp hcm khóa ix 
-1,theo trình_báo của ông hiền  đêm 26/6  khi về nhà trên đường tô_ký  xã thới_tam_thôn  huyện hóc_môn   ông phát_hiện bị kẻ_gian đột_nhập lấy két sắt chứa tiền  vàng  giấy_tờ  giá_trị khoảng 2 tỷ đồng 
-2,cơ_quan điều_tra đã khám_nghiệm hiện_trường  lấy lời khai các nhân_chứng 
-3,bước đầu  cảnh_sát phát_hiện nhiều ổ_khóa nhà bị phá  trong nhà có dấu_hiệu lục_lọi 
+0,ngày 28/5 công_an huyện hóc_môn phối_hợp công_an tp hcm điều_tra vụ trộm xảy nhà ông trương_văn_hiền tổng_giám_đốc tổng_công_ty văn_hóa sài_gòn đại_biểu hđnd tp hcm khóa ix
+1,trình_báo ông hiền đêm 26/6 về nhà đường tô_ký xã thới_tam_thôn huyện hóc_môn ông phát_hiện kẻ_gian đột_nhập lấy két sắt chứa tiền vàng giấy_tờ giá_trị khoảng 2 tỷ đồng
+2,cơ_quan điều_tra khám_nghiệm hiện_trường lấy lời khai nhân_chứng
+3,bước đầu cảnh_sát phát_hiện ổ_khóa nhà phá trong nhà dấu_hiệu lục_lọi

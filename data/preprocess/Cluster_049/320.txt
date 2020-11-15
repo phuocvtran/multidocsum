@@ -1,7 +1,7 @@
 idx, sentence
-0,chiều 19/5  tàu lowlands_sky quốc_tịch panama  trọng_tải 32279 dwt và dài 177 m chở theo 21000 tấn than đá nhập_khẩu từ indonesia đã cập cảng gò_dầu  huyện long_thành  đồng_nai  
-1,đây là tàu có trọng_tải và chiều dài lớn nhất đầu_tiên cập cảng kể từ tháng 9/2015 khi cảng gò_dầu đưa vào vận_hành bến tàu 30000 dwt 
-2,quy_mô bến tàu mới gồm một cầu chính dài 460 m  rộng 22 m và hai cầu dẫn có năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa mỗi năm 
-3,công_trình cầu_cảng này có tổng mức đầu_tư 190 tỷ đồng nhằm nâng cao năng xếp_dỡ hàng_hoá cho hệ_thống cảng đồng_nai 
-4,theo lãnh_đạo cảng đồng_nai trong tháng 5 này sẽ tiếp_nhận thêm 3 tàu có trọng_tải tương_tự như tàu lowlands_sky vào cảng gò_dầu làm hàng 
-5,dự_kiến  sản_lượng bốc dỡ hàng_hóa thông_qua cảng gò_dầu năm 2016 là 3 triệu tấn sẽ sớm đạt được 
+0,chiều 19/5 tàu lowlands_sky quốc_tịch panama trọng_tải 32279 dwt dài 177 m chở 21000 tấn than đá nhập_khẩu indonesia cập cảng gò_dầu huyện long_thành đồng_nai
+1,tàu trọng_tải chiều dài lớn nhất đầu_tiên cập cảng kể tháng 9/2015 cảng gò_dầu đưa vận_hành bến tàu 30000 dwt
+2,quy_mô bến tàu mới gồm một cầu chính dài 460 m rộng 22 m hai cầu dẫn năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa năm
+3,công_trình cầu_cảng tổng mức đầu_tư 190 tỷ đồng nhằm nâng cao năng xếp_dỡ hàng_hoá hệ_thống cảng đồng_nai
+4,lãnh_đạo cảng đồng_nai trong tháng 5 tiếp_nhận thêm 3 tàu trọng_tải tương_tự tàu lowlands_sky cảng gò_dầu làm hàng
+5,dự_kiến sản_lượng bốc dỡ hàng_hóa thông_qua cảng gò_dầu năm 2016 3 triệu tấn sớm đạt

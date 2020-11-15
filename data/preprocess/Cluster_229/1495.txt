@@ -1,8 +1,8 @@
 idx, sentence
-0,mu chính_thức bổ_nhiệm mourinho vào “ chiếc ghế nóng ” tại old_trafford với bản hợp_đồng 3 năm cùng mức lương kỷ_lục lên tới 15 triệu bảng / năm và ông chính_thức trở_thành hlv hưởng lương cao nhất thế_giới 
-1,sau một tuần “ người đặc_biệt ” đảm_nhận làm hlv trưởng của quỷ đỏ thì mới_đây đội_trưởng rooney đã lên_tiếng ca_ngợi mourinho và kèm theo đó là việc anh rất nóng_lòng được làm_việc với chiến_lược gia người bồ_đào_nha này 
-2,“ ai cũng biết  mourinho là một trong những hlv xuất_sắc nhất thế_giới vào thời_điểm hiện_tại 
-3,được chơi bóng dưới sự dẫn_dắt của ông ấy là một điều thú_vị đối_với cá_nhân tôi ”  đội_trưởng “ tam_sư ” chia_sẻ 
-4,nhà cầm_quân 53 tuổi đã có cho riêng mình 30 danh_hiệu  trong đó có 2 lần đăng_quang tại giải đấu danh_giá nhất châu_âu  champions_league cùng porto và inter 
-5,có_thể nói  mu đang cần một người có cá_tính và danh_vọng như mourinho để vực dậy một quỷ đỏ “ nhu_nhược ” sau triều_đại của hlv van_gaal 
-6,bên_cạnh việc ủng_hộ “ người đặc_biệt ” lên thay van_gaal thì rooney cũng tin vào việc đăng_quang tại euro 2016 của đt_anh  anh nói  “ tôi cảm_thấy tự_hào khi được đeo chiếc băng đội_trưởng của đt_anh để dự giải đấu lớn như euro ” 
+0,mu chính_thức bổ_nhiệm mourinho “ ghế nóng ” old_trafford bản hợp_đồng 3 năm mức lương kỷ_lục tới 15 triệu bảng / năm ông chính_thức trở_thành hlv hưởng lương cao nhất thế_giới
+1,một tuần “ người đặc_biệt ” đảm_nhận làm hlv trưởng quỷ đỏ mới_đây đội_trưởng rooney lên_tiếng ca_ngợi mourinho kèm anh nóng_lòng làm_việc chiến_lược gia người bồ_đào_nha
+2,“ ai biết mourinho một trong hlv xuất_sắc nhất thế_giới thời_điểm hiện_tại
+3,chơi bóng dẫn_dắt ông ấy một thú_vị đối_với cá_nhân tôi ” đội_trưởng “ tam_sư ” chia_sẻ
+4,nhà cầm_quân 53 tuổi riêng mình 30 danh_hiệu trong 2 lần đăng_quang giải đấu danh_giá nhất châu_âu champions_league porto inter
+5,nói mu một người cá_tính danh_vọng mourinho vực dậy một quỷ đỏ “ nhu_nhược ” triều_đại hlv van_gaal
+6,bên_cạnh ủng_hộ “ người đặc_biệt ” thay van_gaal rooney tin đăng_quang euro 2016 đt_anh anh nói “ tôi cảm_thấy tự_hào đeo băng đội_trưởng đt_anh dự giải đấu lớn euro ”

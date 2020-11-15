@@ -1,8 +1,8 @@
 idx, sentence
-0,cơ_quan_chức_năng của tp hải_phòng bất_ngờ ập vào kiểm_tra một cơ_sở chế_biến nội_tạng heo của một hộ gia_đình tại xã bắc_hưng  huyện tiên_lãng thì phát_hiện và lập biên_bản thu_giữ tiêu_hủy gần 15 tấn nội_tạng động_vật bốc mùi hôi_thối đang chuẩn_bị được cơ_sở này sơ_chế để đem đi tiêu_thụ 
-1,ngày 26  phòng cảnh_sát tội_phạm về môi_trường  pc49  công_an tp hải_phòng cho biết vừa phối_hợp ban chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng và công_an xã bắc_hưng đột_xuất kiểm_tra cơ_sở sơ_chế nội_tạng heo do ông nguyễn_trọng_dư  33 tuổi  trú xã bắc_hưng  huyện tiên_lãng làm_chủ 
-2,đoàn kiểm_tra đã phát_hiện cơ_sở này đang chế_biến lòng heo không rõ nguồn_gốc  bốc mùi hôi_thối 
-3,tại thời_điểm kiểm_tra  cơ_quan_chức_năng phát_hiện gần 15 tấn lòng heo được đựng trong 10 thùng xốp  tất_cả đều đang trong quá_trình phân hủy nên bốc mùi hôi_thối nồng_nặc 
-4,chủ cơ_sở cũng không đưa ra được các giấy_tờ để chứng_minh nguồn_gốc số_lượng nội_tạng và thịt heo tại cơ_sở của mình 
-5,thừa_nhận với cơ_quan công_an  ông dư cho biết toàn_bộ số hàng_hóa trên được gia_đình thu_mua từ các cơ_sở giết_mổ heo ở huyện tiên_lãng và các lò_mổ heo khác trên địa_bàn tp  được gia_đình tập_kết về xưởng sơ_chế rồi bán ra thị_trường 
-6,đối_với lô hàng gần 15 tấn lòng heo tại cơ_sở  ông dư_thừa_nhận đã mua hàng này từ nhiều ngày trước và mới sơ_chế qua bằng muối  phèn_chua để trong tủ cấp đông  chuẩn_bị giao cho các quán ăn  nhà_hàng 
+0,cơ_quan_chức_năng tp hải_phòng bất_ngờ ập kiểm_tra một cơ_sở chế_biến nội_tạng heo một hộ gia_đình xã bắc_hưng huyện tiên_lãng phát_hiện lập biên_bản thu_giữ tiêu_hủy gần 15 tấn nội_tạng động_vật bốc mùi hôi_thối chuẩn_bị cơ_sở sơ_chế đem đi tiêu_thụ
+1,ngày 26 phòng cảnh_sát tội_phạm về môi_trường pc49 công_an tp hải_phòng biết phối_hợp ban chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng công_an xã bắc_hưng đột_xuất kiểm_tra cơ_sở sơ_chế nội_tạng heo ông nguyễn_trọng_dư 33 tuổi trú xã bắc_hưng huyện tiên_lãng làm_chủ
+2,đoàn kiểm_tra phát_hiện cơ_sở chế_biến lòng heo rõ nguồn_gốc bốc mùi hôi_thối
+3,thời_điểm kiểm_tra cơ_quan_chức_năng phát_hiện gần 15 tấn lòng heo đựng trong 10 thùng xốp tất_cả trong quá_trình phân hủy bốc mùi hôi_thối nồng_nặc
+4,chủ cơ_sở đưa giấy_tờ chứng_minh nguồn_gốc số_lượng nội_tạng thịt heo cơ_sở mình
+5,thừa_nhận cơ_quan công_an ông dư biết toàn_bộ số hàng_hóa gia_đình thu_mua cơ_sở giết_mổ heo ở huyện tiên_lãng lò_mổ heo khác địa_bàn tp gia_đình tập_kết về xưởng sơ_chế bán thị_trường
+6,đối_với lô hàng gần 15 tấn lòng heo cơ_sở ông dư_thừa_nhận mua hàng ngày mới sơ_chế bằng muối phèn_chua trong tủ cấp đông chuẩn_bị giao quán ăn nhà_hàng

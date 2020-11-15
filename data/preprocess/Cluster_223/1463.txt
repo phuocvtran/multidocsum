@@ -1,8 +1,8 @@
 idx, sentence
-0,taylor_swift và bạn trai calvin_harris  tên thật là adam_wiles  đã chính_thức  đường ai_nấy đi  sau gần 15 tháng yêu nhau 
-1,được biết  cặp_đôi đã kết_thúc mối quan_hệ từ tuần trước và chính dj điển_trai calvin_harris là người chủ_động nói lời chia_tay 
-2, giữa taylor_swift và calvin_harris không hề xảy ra bất_cứ cuộc tranh_cãi nào  nhưng có_lẽ sự lãng_mạn trong tình_yêu cũng dần mất đi 
-3,calvin chính là người chấm_dứt mối quan_hệ tình_cảm giữa hai người   theo một nguồn tin 
-4,trước đó  hồi tháng 3  taylor_swift vừa kỷ_niệm 1 năm yêu nhau với bạn trai calvin_harris 
-5,trong một đoạn video đăng_tải trên tài_khoản snapchat của mình   công_chúa nhạc đồng_quê  chia_sẻ hình_ảnh một chiếc bánh chocolate handmade với dòng chữ “ 1 year ” màu trắng trên đó 
-6,chiếc bánh còn được trang_trí bằng 2 hình trái_tim màu đỏ dễ_thương 
+0,taylor_swift bạn trai calvin_harris tên thật adam_wiles chính_thức đường ai_nấy đi gần 15 tháng yêu nhau
+1,biết cặp_đôi kết_thúc mối quan_hệ tuần chính dj điển_trai calvin_harris người chủ_động nói lời chia_tay
+2,giữa taylor_swift calvin_harris hề xảy bất_cứ cuộc tranh_cãi nào có_lẽ lãng_mạn trong tình_yêu dần mất đi
+3,calvin chính người chấm_dứt mối quan_hệ tình_cảm giữa hai người một nguồn tin
+4,hồi tháng 3 taylor_swift kỷ_niệm 1 năm yêu nhau bạn trai calvin_harris
+5,trong một đoạn video đăng_tải tài_khoản snapchat mình công_chúa nhạc đồng_quê chia_sẻ hình_ảnh một bánh chocolate handmade dòng chữ “ 1 year ” màu trắng
+6,bánh còn trang_trí bằng 2 hình trái_tim màu đỏ dễ_thương

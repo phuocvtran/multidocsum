@@ -1,9 +1,9 @@
 idx, sentence
-0,theo thông_tin mới nhất từ vov  vnexpress và nhiều tờ báo khác  cục hàng_không việt_nam đang tiến_hành lấy ý_kiến của các bộ ngành và thành_phố hà_nội về việc sẽ tiến_hành xây_dựng sân_bay nội_bài 2 với mục_đích nhằm giảm tải cho sân_bay nội_bài hiện_tại 
-1,cục_trưởng hàng_không việt_nam lại xuân_thanh cho biết  diện_tích xây_dựng sân_bay mới dự_kiến là 720 ha  nằm tại địa_bàn 3 xã phú_minh  phú_cường  mai_đình  huyện sóc_sơn  hà_nội 
-2,một_số hạng mục chính của sân_bay bao_gồm đường lăn  sân đỗ  khu nhà_ga  đèn_chiếu_sáng  … sẽ có chi_phí xây_dựng ban_đầu vào khoảng 78000 tỷ đồng và được thực_hiện theo hình_thức xã_hội_hóa 
-3,riêng chi_phí giải_phóng mặt_bằng  đền_bù cũng như xây_dựng khu tái_định_cư cho người dân dự_kiến khoảng 2 tỷ usd  tính theo thời_giá năm 2015 
-4,được biết  sân_bay nội_bài hiện_nay có công_suất thiết_kế 25 triệu hàng khách mỗi năm 
-5,trong năm 2015  sân_bay đạt mức tăng_trưởng 22   4 tháng đầu năm 2016 mức tăng_trưởng đã tăng lên 31_  tương_đương số hành_khách thông quan tăng lên 63 triệu người 
-6,có_thể thấy sức tăng_trưởng của sân_bay nội_bài đang ngày_càng nóng lên  rất có_thể chỉ vài năm nữa nội_bài sẽ đi theo vết xe đổ của sân_bay tân_sơn_nhất 
-7,và để đáp_ứng đủ nhu_cầu ngày_càng cao này thì kế_hoạch mở_rộng  nâng công_suất của sân_bay nội_bài là một việc_làm cấp_bách 
+0,thông_tin mới nhất vov vnexpress tờ báo khác cục hàng_không việt_nam tiến_hành lấy ý_kiến bộ ngành thành_phố hà_nội về tiến_hành xây_dựng sân_bay nội_bài 2 mục_đích nhằm giảm tải sân_bay nội_bài hiện_tại
+1,cục_trưởng hàng_không việt_nam xuân_thanh biết diện_tích xây_dựng sân_bay mới dự_kiến 720 ha nằm địa_bàn 3 xã phú_minh phú_cường mai_đình huyện sóc_sơn hà_nội
+2,một_số hạng mục chính sân_bay bao_gồm đường lăn sân đỗ khu nhà_ga đèn_chiếu_sáng … chi_phí xây_dựng ban_đầu khoảng 78000 tỷ đồng thực_hiện hình_thức xã_hội_hóa
+3,riêng chi_phí giải_phóng mặt_bằng đền_bù xây_dựng khu tái_định_cư người dân dự_kiến khoảng 2 tỷ usd tính thời_giá năm 2015
+4,biết sân_bay nội_bài hiện_nay công_suất thiết_kế 25 triệu hàng khách năm
+5,trong năm 2015 sân_bay đạt mức tăng_trưởng 22 4 tháng đầu năm 2016 mức tăng_trưởng tăng 31_ tương_đương số hành_khách thông quan tăng 63 triệu người
+6,thấy sức tăng_trưởng sân_bay nội_bài ngày_càng nóng vài năm nội_bài đi vết xe đổ sân_bay tân_sơn_nhất
+7,đáp_ứng đủ nhu_cầu ngày_càng cao kế_hoạch mở_rộng nâng công_suất sân_bay nội_bài một việc_làm cấp_bách

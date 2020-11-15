@@ -1,7 +1,7 @@
 idx, sentence
-0,theo đó  tòa tuyên  ông trần_cảnh_lạc  chủ_tịch hội_đồng thành_viên  kiêm tổng_giám_đốc cty tnhh_mtv_mía đường tây_ninh  10 năm tù  ông trần_xuân_danh  trưởng_phòng kinh_doanh  thương_mại  9 năm tù_và bà nguyễn_thị_phúc  kế_toán_trưởng – 5 năm tù  cùng tội_danh “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
-1,ngoài án tù  tòa cũng tuyên buộc 3 bị_cáo bồi_hoàn số tiền mà nhà_nước bị thất_thoát 
-2,theo bản_án đã tuyên  từ ngày 7/12/2009 đến ngày 27/8/2012  danh và phúc tham_mưu cho lạc_ký 50 hợp_đồng xuất hàng cho 2 cty xi_lai_phúc  guo qi do_li mà không sang phía trung_quốc tìm_hiểu về hai cty này 
-3,mặc_dù phía đối_tác thanh_toán chậm  kéo_dài thời_gian thanh_toán  không đúng quy_định trong các hợp_đồng ký_kết  trần_cảnh_lạc vẫn tiếp_tục ký tiếp 5 hợp_đồng bán hàng là tinh_bột sắn  gạo trị_giá gần 62 tỷ đồng 
-4,phía mua hàng chỉ thanh_toán cho cty mía đường tây_ninh 6 tỷ đồng  còn lại đến nay không có khả_năng thu_hồi gần 70 tỷ đồng 
-5,tại phiên_tòa  đại_diện viện_ksnd tỉnh tây_ninh giữ quyền công_tố đã đề_nghị hđxx xử_phạt trần_cảnh_lạc mức án 1012 năm tù  nguyễn_xuân_danh 810 năm tù_và nguyễn_thị_phúc 56 năm tù cùng về tội “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
+0,tòa tuyên ông trần_cảnh_lạc chủ_tịch hội_đồng thành_viên kiêm tổng_giám_đốc cty tnhh_mtv_mía đường tây_ninh 10 năm tù ông trần_xuân_danh trưởng_phòng kinh_doanh thương_mại 9 năm tù_và bà nguyễn_thị_phúc kế_toán_trưởng – 5 năm tù tội_danh “ cố_ý làm trái quy_định nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ”
+1,ngoài án tù tòa tuyên buộc 3 bị_cáo bồi_hoàn số tiền nhà_nước thất_thoát
+2,bản_án tuyên ngày 7/12/2009 đến ngày 27/8/2012 danh phúc tham_mưu lạc_ký 50 hợp_đồng xuất hàng 2 cty xi_lai_phúc guo qi do_li sang phía trung_quốc tìm_hiểu về hai cty
+3,mặc_dù phía đối_tác thanh_toán chậm kéo_dài thời_gian thanh_toán đúng quy_định trong hợp_đồng ký_kết trần_cảnh_lạc tiếp_tục ký tiếp 5 hợp_đồng bán hàng tinh_bột sắn gạo trị_giá gần 62 tỷ đồng
+4,phía mua hàng thanh_toán cty mía đường tây_ninh 6 tỷ đồng còn đến nay khả_năng thu_hồi gần 70 tỷ đồng
+5,phiên_tòa đại_diện viện_ksnd tỉnh tây_ninh giữ quyền công_tố đề_nghị hđxx xử_phạt trần_cảnh_lạc mức án 1012 năm tù nguyễn_xuân_danh 810 năm tù_và nguyễn_thị_phúc 56 năm tù về tội “ cố_ý làm trái quy_định nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ”

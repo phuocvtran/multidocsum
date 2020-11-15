@@ -1,19 +1,19 @@
 idx, sentence
-0,hãng tin sina cho_hay  trần_quán_hy và tần thư bồi bị bắt_gặp rời khách_sạn vào ngày 31/5 
-1,ngay khi phát_hiện phóng_viên bám sát  chân dài sinh năm 1990 vội_vàng che mặt  né_tránh ống_kính 
-2,cô được bạn trai dọn đường lên xe ôtô rất nhanh 
-3,đối_diện với phóng_viên  trần_quán_hy tỏ ra khó_chịu 
-4,anh cho biết đến vừa đưa bạn gái đến gặp bố_mẹ 
-5,bố anh  trần_trạch_dân đã lên xe trước đó 
-6,khi phóng_viên hỏi tần thư bồi về chuyện cô chưa ly_hôn  chân dài không trả_lời 
-7,lúc này  trần_quán_hy tức_giận ra_mặt và giơ  ngón tay thối  với phóng_viên 
-8,anh hét lớn   tôi có nhiều bạn gái lắm  lên_trang cá_nhân của tôi mà đọc  
-9,trước khi lên xe  nam diễn_viên không quên văng_tục với các phóng_viên 
-10, các người quá phiền   anh nói 
-11,bạn gái mới của trần_quán_hy  siêu mẫu tần thư bồi sinh năm 1990 tại thượng_hải 
-12,mối quan_hệ của hai người vấp chỉ_trích vì thông_tin người_đẹp họ tần chưa bỏ chồng 
-13,năm 2012  cô kết_hôn với ông chủ của mình  giám_đốc truyền_thông tập_đoàn hoa_nghị 
-14,đám_cưới cô có sự góp_mặt của nhiều nghệ_sĩ nổi_tiếng như ngô_ngạn_tổ  lisa_s  đại_s  vợ_chồng vương trung_lỗi 
-15,cô còn được vera_wang nhận làm con_gái nuôi  mặc váy cưới của bà trong ngày trọng_đại 
-16,trên trang cá_nhân  chồng cô  triệu lỗi chia_sẻ về chuyện ngoại_tình của thư bồi   tôi đã quá kinh_ngạc khi đọc tin_tức này  tôi cố_gắng học cách tha_thứ và buông bỏ  biết yêu_thương bản_thân mình 
-17,đời người thật như câu_chuyện cười  
+0,hãng tin sina cho_hay trần_quán_hy tần thư bồi bắt_gặp rời khách_sạn ngày 31/5
+1,phát_hiện phóng_viên bám sát chân dài sinh năm 1990 vội_vàng che mặt né_tránh ống_kính
+2,cô bạn trai dọn đường xe ôtô nhanh
+3,đối_diện phóng_viên trần_quán_hy tỏ khó_chịu
+4,anh biết đến đưa bạn gái đến gặp bố_mẹ
+5,bố anh trần_trạch_dân xe
+6,phóng_viên hỏi tần thư bồi về cô ly_hôn chân dài trả_lời
+7,trần_quán_hy tức_giận ra_mặt giơ ngón tay thối phóng_viên
+8,anh hét lớn tôi bạn gái lắm lên_trang cá_nhân tôi đọc
+9,xe nam diễn_viên quên văng_tục phóng_viên
+10,người quá phiền anh nói
+11,bạn gái mới trần_quán_hy siêu mẫu tần thư bồi sinh năm 1990 thượng_hải
+12,mối quan_hệ hai người vấp chỉ_trích thông_tin người_đẹp họ tần bỏ chồng
+13,năm 2012 cô kết_hôn ông chủ mình giám_đốc truyền_thông tập_đoàn hoa_nghị
+14,đám_cưới cô góp_mặt nghệ_sĩ nổi_tiếng ngô_ngạn_tổ lisa_s đại_s vợ_chồng vương trung_lỗi
+15,cô còn vera_wang nhận làm con_gái nuôi mặc váy cưới bà trong ngày trọng_đại
+16,trang cá_nhân chồng cô triệu lỗi chia_sẻ về ngoại_tình thư bồi tôi quá kinh_ngạc đọc tin_tức tôi cố_gắng học cách tha_thứ buông bỏ biết yêu_thương bản_thân mình
+17,đời người thật câu_chuyện cười

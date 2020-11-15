@@ -1,11 +1,11 @@
 idx, sentence
-0,chuẩn đô_đốc colin_kilrain  người đứng đầu lực_lượng đặc_nhiệm mỹ ở khu_vực châu_á  thái_bình_dương  cho biết ông đã gặp chỉ_huy lực_lượng đặc_công việt_nam_nhân_dịp người chỉ_huy đồng_cấp này ở florida  mỹ   và cả hai đã đề_cập đến những vấn_đề hợp_tác giữa lực_lượng đặc_nhiệm  reuters cho hay ngày 275 
-1,cuộc gặp giữa 2 vị chỉ_huy kéo_dài khoảng nửa giờ bên lề một hội_nghị tổ_chức ở tampa hôm 265 qua  vài ngày sau khi washington dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương cho việt_nam ngày 235 
-2,“ cả hai chúng_tôi rất quan_tâm đến chương_trình hợp_tác sắp tới nhưng cũng rất thận_trọng với những bước_đi mà chính_phủ 2 nước đặt ra ”  ông kilrain phát_biểu 
-3,chuẩn đô_đốc mỹ cho biết cả hai rất hào_hứng về cuộc gặp giữa những nhà lãnh_đạo mỹ  việt_nam_nhân chuyến công_du của tổng_thống barack_obama đến việt_nam từ 23  255 qua 
-4,“ cuộc gặp hữu_ích đó làm hai chúng_tôi đều phấn_khích 
-5,và chúng_tôi muốn quay về căn_cứ để nói với các sĩ_quan của mình rằng chúng_tôi đã sẵn_sàng hành_động ”  chuẩn_đô_đốc kilrain nói 
-6,tuy_nhiên  ông nhấn_mạnh rằng hành_động gì và như thế_nào còn phụ_thuộc vào quyết_định của chính_phủ mỹ và việt_nam 
-7,hải_quân mỹ đã thực_hiện những bước_đi quan_trọng trong mối quan_hệ quân_sự với việt_nam khi thực_hiện 4 chuyến tàu cập cảng việt_nam hồi năm 2015  reuters dẫn nguồn tin từ hạm_đội thái_bình_dương mỹ cho hay 
-8,lãnh_đạo hải_quân mỹ từng đề_nghị quốc_hội nước này cho_phép thực_hiện nhiều hơn những chuyến đi như_thế trong năm 2016 
-9,lực_lượng đặc_nhiệm mỹ bao_gồm nhiều đội quân tinh_nhuệ  trong đó có seal  đặc_nhiệm hài quân   delta  đặc_nhiệm lục_quân  và green_berets  mũ_nồi xanh  là những đội quân siêu_hạng  từng tham_gia nhiều nhiệm_vụ đặc_biệt  chiến_sự bất_thường trên khắp khu_vực và chiến_trường thế_giới 
+0,chuẩn đô_đốc colin_kilrain người đứng đầu lực_lượng đặc_nhiệm mỹ ở khu_vực châu_á thái_bình_dương biết ông gặp chỉ_huy lực_lượng đặc_công việt_nam_nhân_dịp người chỉ_huy đồng_cấp ở florida mỹ hai đề_cập đến vấn_đề hợp_tác giữa lực_lượng đặc_nhiệm reuters hay ngày 275
+1,cuộc gặp giữa 2 vị chỉ_huy kéo_dài khoảng nửa giờ bên lề một hội_nghị tổ_chức ở tampa hôm 265 vài ngày washington dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương việt_nam ngày 235
+2,“ hai chúng_tôi quan_tâm đến chương_trình hợp_tác sắp tới thận_trọng bước_đi chính_phủ 2 nước đặt ” ông kilrain phát_biểu
+3,chuẩn đô_đốc mỹ biết hai hào_hứng về cuộc gặp giữa nhà lãnh_đạo mỹ việt_nam_nhân chuyến công_du tổng_thống barack_obama đến việt_nam 23 255
+4,“ cuộc gặp hữu_ích làm hai chúng_tôi phấn_khích
+5,chúng_tôi muốn quay về căn_cứ nói sĩ_quan mình chúng_tôi sẵn_sàng hành_động ” chuẩn_đô_đốc kilrain nói
+6,tuy_nhiên ông nhấn_mạnh hành_động thế_nào còn phụ_thuộc quyết_định chính_phủ mỹ việt_nam
+7,hải_quân mỹ thực_hiện bước_đi quan_trọng trong mối quan_hệ quân_sự việt_nam thực_hiện 4 chuyến tàu cập cảng việt_nam hồi năm 2015 reuters dẫn nguồn tin hạm_đội thái_bình_dương mỹ hay
+8,lãnh_đạo hải_quân mỹ đề_nghị quốc_hội nước cho_phép thực_hiện hơn chuyến đi như_thế trong năm 2016
+9,lực_lượng đặc_nhiệm mỹ bao_gồm đội quân tinh_nhuệ trong seal đặc_nhiệm hài quân delta đặc_nhiệm lục_quân green_berets mũ_nồi xanh đội quân siêu_hạng tham_gia nhiệm_vụ đặc_biệt chiến_sự bất_thường khắp khu_vực chiến_trường thế_giới

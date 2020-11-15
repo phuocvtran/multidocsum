@@ -1,4 +1,4 @@
 idx, sentence
-0,ngay_lập_tức  thông_báo trên đã nhận được nhiều sự ủng_hộ của người_dân 
-1,tuy_nhiên về phía các chủ đầu_tư xây_dựng  thông_báo trên đã mang lại nhiều mối lo_lắng  băn_khoăn khi giá xây_dựng tầng_hầm ít_nhất thường cao gấp đôi chi_phí xây_dựng tầng nổi 
-2,theo giám_đốc một công_ty bất_động_sản ở hà_nội  chi_phí lớn trong việc xây_dựng tầng_hầm có_thể sẽ đẩy giá_bán nhà tăng cao 
+0,ngay_lập_tức thông_báo nhận ủng_hộ người_dân
+1,tuy_nhiên về phía chủ đầu_tư xây_dựng thông_báo mang mối lo_lắng băn_khoăn giá xây_dựng tầng_hầm ít_nhất thường cao gấp đôi chi_phí xây_dựng tầng nổi
+2,giám_đốc một công_ty bất_động_sản ở hà_nội chi_phí lớn trong xây_dựng tầng_hầm đẩy giá_bán nhà tăng cao

@@ -1,16 +1,16 @@
 idx, sentence
-0,siêu_phẩm “ xmen  apocalypse ” đã ra_mắt khán_giả quốc_tế  trong đó có việt_nam vào ngày 20/5 vừa_qua  trước khi khởi_chiếu tại thị_trường mỹ một tuần 
-1,một tín_hiệu đáng mừng là sau 3 ngày công_chiếu  bộ phim thu về 1033 triệu usd 
-2,giữa lúc “ xmen  apocalypse ” oanh_tạc các rạp chiếu_phim quốc_tế  nhà_sản_xuất của xmen  hãng 20 th century_fox đã hé lộ một trong những bất_ngờ thú_vị về_phần xmen tiếp_theo 
-3,đó là sự khai_sinh của thực_thể tâm_linh hùng_mạnh dark_phoenix 
-4,còn nhớ  trong phần phim “ xmen  the last stand ” ra_mắt năm 2006  jean_grey  famke_janssen  dần bị biến_chất bởi sức_mạnh dark_phoenix ngày lớn dần lên trong cơ_thể 
-5,theo đó  jean đã phát_điên và trở_thành nhân_vật phản_diện chính đối_đầu với nhóm xmen ở cuối phim 
-6,tuy_nhiên  khán_giả vẫn chưa nắm được hoàn_toàn diễn_biến của cảnh cuối và gần như mơ_hồ về lai_lịch của dark_phoenix vì sự_kiện ấy diễn ra khá nhanh 
-7,lần này  nhà đài_fox dường_như sẽ đào_sâu hơn nữa để thỏa_mãn người xem với một bộ phim tập_trung vào thời trẻ của jean_grey 
-8,đạo_diễn bryan_singer chia_sẻ  phần tiếp_theo của xmen có_thể sẽ xoay quanh nữ dị_nhân jean_grey  sophie_turner  cũng như cách con_người và dị_nhân dè_chừng cô sau khi nhân_vật này bộc_phát sức_mạnh khủng_khiếp của dark_phoenix ở cuối phần “ xmen  apocalypse ” 
-9,sophie turner cũng đã phát_biểu với ew rằng  “ tôi sẵn_lòng được tiếp_tục tham_gia trong phần phim tiếp_theo và trở_thành dark_phoenix nếu kịch_bản yêu_cầu ” 
-10,cô còn củng_cố thêm dự_đoán này khi chia_sẻ  “ hạt_giống phoenix chắc_chắn đã được cài cắm trong vài tình_tiết phim “ xmen  apocalypse ” 
-11,jean không_thể_nào kiểm_soát được năng_lực ấy  cô buộc phải tiếp_tục kìm_hãm trong đau_đớn hoặc giải_phóng nó hoàn_toàn 
-12,tôi nghĩ trong những phần phim trong tương_lai chúng_ta sẽ biết được thêm về điều đó ” 
-13,trong nguyên_tác truyện_tranh  dark_phoenix vốn là nhân_dạng ác_nhân của jean_grey sau khi bị phoenix_force chiếm_đoạt thân_xác 
-14,phoenix force được sinh ra từ hư không trong khoảng thời_điểm hồng_hoang của vũ_trụ 
+0,siêu_phẩm “ xmen apocalypse ” ra_mắt khán_giả quốc_tế trong việt_nam ngày 20/5 vừa_qua khởi_chiếu thị_trường mỹ một tuần
+1,một tín_hiệu đáng mừng 3 ngày công_chiếu bộ phim thu về 1033 triệu usd
+2,giữa “ xmen apocalypse ” oanh_tạc rạp chiếu_phim quốc_tế nhà_sản_xuất xmen hãng 20 th century_fox hé lộ một trong bất_ngờ thú_vị về_phần xmen tiếp_theo
+3,khai_sinh thực_thể tâm_linh hùng_mạnh dark_phoenix
+4,còn nhớ trong phần phim “ xmen the last stand ” ra_mắt năm 2006 jean_grey famke_janssen dần biến_chất sức_mạnh dark_phoenix ngày lớn dần trong cơ_thể
+5,jean phát_điên trở_thành nhân_vật phản_diện chính đối_đầu nhóm xmen ở cuối phim
+6,tuy_nhiên khán_giả nắm hoàn_toàn diễn_biến cảnh cuối gần mơ_hồ về lai_lịch dark_phoenix sự_kiện ấy diễn khá nhanh
+7,lần nhà đài_fox dường_như đào_sâu hơn thỏa_mãn người xem một bộ phim tập_trung thời trẻ jean_grey
+8,đạo_diễn bryan_singer chia_sẻ phần tiếp_theo xmen xoay quanh nữ dị_nhân jean_grey sophie_turner cách con_người dị_nhân dè_chừng cô nhân_vật bộc_phát sức_mạnh khủng_khiếp dark_phoenix ở cuối phần “ xmen apocalypse ”
+9,sophie turner phát_biểu ew “ tôi sẵn_lòng tiếp_tục tham_gia trong phần phim tiếp_theo trở_thành dark_phoenix kịch_bản yêu_cầu ”
+10,cô còn củng_cố thêm dự_đoán chia_sẻ “ hạt_giống phoenix chắc_chắn cài cắm trong vài tình_tiết phim “ xmen apocalypse ”
+11,jean không_thể_nào kiểm_soát năng_lực ấy cô buộc tiếp_tục kìm_hãm trong đau_đớn hoặc giải_phóng nó hoàn_toàn
+12,tôi nghĩ trong phần phim trong tương_lai chúng_ta biết thêm về ”
+13,trong nguyên_tác truyện_tranh dark_phoenix vốn nhân_dạng ác_nhân jean_grey phoenix_force chiếm_đoạt thân_xác
+14,phoenix force sinh hư trong khoảng thời_điểm hồng_hoang vũ_trụ

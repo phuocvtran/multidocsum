@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 195  tand tỉnh kiên_giang mở phiên_tòa xét_xử sơ_thẩm và đã tuyên_phạt bị_cáo nguyễn_ngọc_nguyên  thường gọi bé  sn 1985  ngụ tổ 8  đường nguyễn_chí_thanh  phường rạch_sỏi  tp rạch_giá  tỉnh kiên_giang  mức án chung_thân về tội “ giết_người ” 
-1,trong phần luận_tội  kiểm_sát_viên giữ quyền công_tố trước tòa cũng đề_nghị nguyên với mức án trên  do bị_cáo có 2 tình_tiết tăng nặng là “ giết nhiều người ” và “ có tính_chất côn_đồ ” 
-2,theo cáo_trạng  vào ngày 23122015  nguyên cùng một_số bạn_bè nhậu từ trưa tới khoảng 17 giờ cùng ngày thì về ngủ tại nhà vợ ở ấp vĩnh_thành  xã vĩnh_hòa_hiệp  huyện châu_thành  tỉnh kiên_giang 
-3,đến khoảng 19 giờ cùng ngày  nguyên thức dậy và ăn cơm với vợ  lê_thị_hậu  sn 1994  thì xảy ra mâu_thuẫn về chuyện tiền_bạc 
-4,trong lúc cự cãi  nguyên dọa nếu vợ không đưa tiền thì sẽ chém 
-5,bị vợ thách_thức  nguyên chạy ra sau bếp lấy cây dao  loại dao làm cá  rồi túm tóc vợ  đè xuống sàn gỗ và chém liên_tục nhiều nhát vào vùng đầu  cổ khiến nạn_nhân_tử_vong tại_chỗ 
-6,lúc này  bà trần_thị_giêng  sn 1968  mẹ vợ nguyên  chạy vào thì bị nguyên xông đến dùng dao chém nhiều nhát vào người bà giêng khiến bà bị_thương ở vùng tay và vai trái 
-7,mặc_dù bà giêng cố gượng chạy ra ngoài kêu cứu nhưng nguyên vẫn tiếp_tục cầm dao truy sát 
-8,rất may  nhờ đêm_tối nên bà giêng trốn phía sau nhà của một người hàng_xóm  không bị con_rể phát_hiện 
+0,ngày 195 tand tỉnh kiên_giang mở phiên_tòa xét_xử sơ_thẩm tuyên_phạt bị_cáo nguyễn_ngọc_nguyên thường gọi bé sn 1985 ngụ tổ 8 đường nguyễn_chí_thanh phường rạch_sỏi tp rạch_giá tỉnh kiên_giang mức án chung_thân về tội “ giết_người ”
+1,trong phần luận_tội kiểm_sát_viên giữ quyền công_tố tòa đề_nghị nguyên mức án bị_cáo 2 tình_tiết tăng nặng “ giết người ” “ tính_chất côn_đồ ”
+2,cáo_trạng ngày 23122015 nguyên một_số bạn_bè nhậu trưa tới khoảng 17 giờ ngày về ngủ nhà vợ ở ấp vĩnh_thành xã vĩnh_hòa_hiệp huyện châu_thành tỉnh kiên_giang
+3,đến khoảng 19 giờ ngày nguyên thức dậy ăn cơm vợ lê_thị_hậu sn 1994 xảy mâu_thuẫn về tiền_bạc
+4,trong cự cãi nguyên dọa vợ đưa tiền chém
+5,vợ thách_thức nguyên chạy bếp lấy cây dao loại dao làm cá túm tóc vợ đè xuống sàn gỗ chém liên_tục nhát vùng đầu cổ khiến nạn_nhân_tử_vong tại_chỗ
+6,bà trần_thị_giêng sn 1968 mẹ vợ nguyên chạy nguyên xông đến dùng dao chém nhát người bà giêng khiến bà bị_thương ở vùng tay vai trái
+7,mặc_dù bà giêng cố gượng chạy ngoài kêu cứu nguyên tiếp_tục cầm dao truy sát
+8,may nhờ đêm_tối bà giêng trốn phía nhà một người hàng_xóm con_rể phát_hiện

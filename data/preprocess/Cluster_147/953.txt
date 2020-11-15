@@ -1,6 +1,6 @@
 idx, sentence
-0,chiều 285  anh rachid  34 tuổi  quốc_tịch marốc  vẫn đang được điều_trị tại bệnh_viện chợ_rẫy  tphcm với vết_thương trên mặt và ngực do kẻ_cướp gây ra 
-1,có_mặt tại khoa cấp_cứu bệnh_viện  chị trần_thị_thu_trang  vợ anh rachicd  kể vào tối 275 vợ_chồng chị cùng con_gái  2 tuổi  đi xe_hơi về chỗ ở tại chung_cư phúc_yên  p 15  qtân_bình  
-2,khi anh rachid bế con nhỏ cùng vợ xuống xe thì hai nam thanh_niên mặc áo_mưa đi xe_máy áp sát giật chiếc bóp chị trang đang cầm trên tay 
-3,anh rachid vội bỏ con xuống đuổi theo giằng_co thì bị một thanh_niên dùng vật nhọn đâm xượt qua_mặt và ngực 
-4,“ lúc chồng tôi đuổi theo thấy có hai thanh_niên khác đi xe_máy cản đường ”  chị trang kể 
+0,chiều 285 anh rachid 34 tuổi quốc_tịch marốc điều_trị bệnh_viện chợ_rẫy tphcm vết_thương mặt ngực kẻ_cướp gây
+1,có_mặt khoa cấp_cứu bệnh_viện chị trần_thị_thu_trang vợ anh rachicd kể tối 275 vợ_chồng chị con_gái 2 tuổi đi xe_hơi về chỗ ở chung_cư phúc_yên p 15 qtân_bình
+2,anh rachid bế con nhỏ vợ xuống xe hai nam thanh_niên mặc áo_mưa đi xe_máy áp sát giật bóp chị trang cầm tay
+3,anh rachid vội bỏ con xuống đuổi giằng_co một thanh_niên dùng vật nhọn đâm xượt qua_mặt ngực
+4,“ chồng tôi đuổi thấy hai thanh_niên khác đi xe_máy cản đường ” chị trang kể

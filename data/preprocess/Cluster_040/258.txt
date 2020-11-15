@@ -1,9 +1,9 @@
 idx, sentence
-0,đó là 2 em bo_tý  14 tuổi  trú xã ba_cụm_bắc  huyện khánh_sơn  khánh_hòa  và cao_lâm  13 tuổi  trú xã sơn_bình  huyện khánh_sơn  
-1,để biểu_dương hành_động dũng_cảm xả_thân cứu người của 2 em  ban thường_vụ tư_đoàn tncs_hồ_chí_minh đã quyết_định trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” kèm theo phần_thưởng 500000 đồng cho mỗi em 
-2,2 trong 5 nữ_sinh được cứu là mai_thị_tân_uyên và trần_lê_phương_uyên  nữ_sinh lớp 7  trường thcs nguyễn_du  xã cam_phước_đông  tp cam_ranh  xúc_động cho biết rất bất_ngờ khi được gặp lại 2 ân_nhân cứu mạng trong vụ đuối nước vào hạ tuần tháng tư vừa_rồi 
-3,“ hôm_nay gặp lại các anh  em rất xúc_động và biết_ơn 2 anh đã xả_thân cứu bọn em 
-4,cảnh dưới nước khi đó hết_sức hoảng_loạn  bản_thân em thì sắp bị nước nhấn_chìm 
-5,sau tiếng la_hét cầu_cứu thì 2 anh bo_tý và cao_lâm_đứng ở phía bên nhà_máy nghe được và chạy tới … ”  em phương_uyên kể 
-6,“ mong quý lãnh_đạo  các cơ_quan tạo điều_kiện cho 2 anh được đi học do các anh đều nghỉ học sớm vì hoàn_cảnh khó_khăn 
-7,nếu các anh thấy khó_khăn trong học_tập thì tụi em sẽ giúp_đỡ hết_mình ”  em tân_uyên chia_sẻ thêm 
+0,2 em bo_tý 14 tuổi trú xã ba_cụm_bắc huyện khánh_sơn khánh_hòa cao_lâm 13 tuổi trú xã sơn_bình huyện khánh_sơn
+1,biểu_dương hành_động dũng_cảm xả_thân cứu người 2 em ban thường_vụ tư_đoàn tncs_hồ_chí_minh quyết_định trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” kèm phần_thưởng 500000 đồng em
+2,2 trong 5 nữ_sinh cứu mai_thị_tân_uyên trần_lê_phương_uyên nữ_sinh lớp 7 trường thcs nguyễn_du xã cam_phước_đông tp cam_ranh xúc_động biết bất_ngờ gặp 2 ân_nhân cứu mạng trong vụ đuối nước hạ tuần tháng tư vừa_rồi
+3,“ hôm_nay gặp anh em xúc_động biết_ơn 2 anh xả_thân cứu bọn em
+4,cảnh nước hết_sức hoảng_loạn bản_thân em sắp nước nhấn_chìm
+5,tiếng la_hét cầu_cứu 2 anh bo_tý cao_lâm_đứng ở phía bên nhà_máy nghe chạy tới … ” em phương_uyên kể
+6,“ mong quý lãnh_đạo cơ_quan tạo điều_kiện 2 anh đi học anh nghỉ học sớm hoàn_cảnh khó_khăn
+7,anh thấy khó_khăn trong học_tập tụi em giúp_đỡ hết_mình ” em tân_uyên chia_sẻ thêm

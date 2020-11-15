@@ -1,6 +1,6 @@
 idx, sentence
-0,đại_hội thường_niên lần này được tổ_chức sau hơn một năm vietnam_airlines chuyển_đổi hoạt_động theo mô_hình công_ty cổ_phần  ngày 1/4/2015  
-1,tại đại_hội  hđqt hãng đã thông_qua việc ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt_vietnam_airlines do thay_đổi công_tác theo phân_công của bộ_chính_trị  ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc để bổ_nhiệm làm chủ_tịch hđqt và ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc để bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc vietnam_airlines 
-2,các quyết_định sẽ chính_thức có hiệu_lực từ ngày 1/6/2016 
-3,thời_điểm này  vietnam_airlines sắp hoàn_tất việc đàm_phán hợp_đồng mua_bán cổ_phần  ssa  với tập_đoàn hàng_không nhật_bản_ana_holdings để tiến_hành ký_kết vào cuối tháng 5/2016 
-4,kết_quả đàm_phán này đã được bộ giao_thông vận_tải phê_duyệt 
+0,đại_hội thường_niên lần tổ_chức hơn một năm vietnam_airlines chuyển_đổi hoạt_động mô_hình công_ty cổ_phần ngày 1/4/2015
+1,đại_hội hđqt hãng thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt_vietnam_airlines thay_đổi công_tác phân_công bộ_chính_trị ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc bổ_nhiệm làm chủ_tịch hđqt ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc vietnam_airlines
+2,quyết_định chính_thức hiệu_lực ngày 1/6/2016
+3,thời_điểm vietnam_airlines sắp hoàn_tất đàm_phán hợp_đồng mua_bán cổ_phần ssa tập_đoàn hàng_không nhật_bản_ana_holdings tiến_hành ký_kết cuối tháng 5/2016
+4,kết_quả đàm_phán bộ giao_thông vận_tải phê_duyệt

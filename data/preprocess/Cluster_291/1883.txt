@@ -1,7 +1,7 @@
 idx, sentence
-0,công_tố_viên liên_bang đức cho hay trong một thông_cáo rằng các nghi phạm gồm hamza_c  27 tuổi  mahood_b  25 tuổi và abd_arahman_ak  31 tuổi 
-1,cảnh_sát đang khám_xét nhà của những người này 
-2,công_tố_viên liên_bang cũng cho biết đã phát lệnh bắt_giữ một người syria khác tên là saleh_a  25 tuổi  theo reuters 
-3,hai trong số các nghi_phạm  saleh_a và hamza_c  từng gia_nhập is ở syria vào năm 2014 và đã nhận nhiệm_vụ từ các thủ_lĩnh phiến_quân để tiến_hành một vụ tấn_công ở thị_trấn cổ_duesseldorf  phía tây nước đức 
-4,sau đó  họ dụ_dỗ những người còn lại tham_gia âm_mưu 
-5,saleh_a và hamza_c dự_tính cho hai người tự kích nổ bom trên một trục đường tấp_nập ở trung_tâm thị_trấn  sau đó những kẻ khác sẽ dùng súng và thiết_bị nổ sát_hại càng nhiều người đi đường càng tốt 
+0,công_tố_viên liên_bang đức hay trong một thông_cáo nghi phạm gồm hamza_c 27 tuổi mahood_b 25 tuổi abd_arahman_ak 31 tuổi
+1,cảnh_sát khám_xét nhà người
+2,công_tố_viên liên_bang biết phát lệnh bắt_giữ một người syria khác tên saleh_a 25 tuổi reuters
+3,hai trong số nghi_phạm saleh_a hamza_c gia_nhập is ở syria năm 2014 nhận nhiệm_vụ thủ_lĩnh phiến_quân tiến_hành một vụ tấn_công ở thị_trấn cổ_duesseldorf phía tây nước đức
+4,họ dụ_dỗ người còn tham_gia âm_mưu
+5,saleh_a hamza_c dự_tính hai người tự kích nổ bom một trục đường tấp_nập ở trung_tâm thị_trấn kẻ khác dùng súng thiết_bị nổ sát_hại người đi đường tốt

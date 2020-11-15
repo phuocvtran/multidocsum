@@ -1,7 +1,7 @@
 idx, sentence
-0,cơ_quan khảo_sát địa_chất mỹ  usgs  ban_đầu cho biết  trận động_đất này mạnh 61 độ richter  với tâm chấn cách đài_bắc  khoảng 110 km về phía đông_bắc 
-1,trong khi đó  theo cơ_quan khí_tượng_trung_ương đài_loan  trận động_đất mạnh 72 độ richter 
-2,các nhân_chứng cho biết có_thể cảm_nhận rung chấn của trận động_đất trên các tòa nhà ở đài_bắc và sân_bay quốc_tế ở đào_viên  phía nam đài_bắc 
-3,hiện chưa có báo_cáo nào về con_số thương_vong hay thiệt_hại đáng_kể do trận động_đất gây ra 
-4,hồi đầu tháng 2 vừa_qua  một trận động_đất có cường_độ 64 độ richter đã xảy ra tại phía nam_đảo đài_loan khiến nhiều cao_ốc đổ sập 
-5,số người thiệt_mạng trong trận động_đất này được xác_nhận là 116 người 
+0,cơ_quan khảo_sát địa_chất mỹ usgs ban_đầu biết trận động_đất mạnh 61 độ richter tâm chấn cách đài_bắc khoảng 110 km về phía đông_bắc
+1,trong cơ_quan khí_tượng_trung_ương đài_loan trận động_đất mạnh 72 độ richter
+2,nhân_chứng biết cảm_nhận rung chấn trận động_đất tòa nhà ở đài_bắc sân_bay quốc_tế ở đào_viên phía nam đài_bắc
+3,hiện báo_cáo nào về con_số thương_vong hay thiệt_hại đáng_kể trận động_đất gây
+4,hồi đầu tháng 2 vừa_qua một trận động_đất cường_độ 64 độ richter xảy phía nam_đảo đài_loan khiến cao_ốc đổ sập
+5,số người thiệt_mạng trong trận động_đất xác_nhận 116 người

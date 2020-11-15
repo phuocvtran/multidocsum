@@ -1,17 +1,17 @@
 idx, sentence
-0,những ngày gần đây  phụ_huynh băn_khoăn  dư_luận xôn_xao trước thông_tin về nội_dung viết trong trong giấy_khen của trường tiểu_học tân_phương  huyện ứng_hòa  hà_nội 
-1,để hiểu rõ hơn về giấy_khen có nội_dung   đạt danh_hiệu học_sinh khen từng mặt   sáng ngày 1/6  chia_sẻ với báo đất việt  cô dương_thị_nụ  phó_hiệu_trưởng trường tiểu_học tân_phương cho biết   nội_dung giấy_khen đó dành cho những em được khen học tốt về môn toán  môn tiếng việt hay bất_cứ môn nào trong chương_trình đào_tạo 
-2,viết trong giấy_khen như_vậy là để đưa chung về 1 mức khen 
-3,theo thông_tư 32 ngày trước thì phụ_huynh đang quen kiểu khen học_sinh giỏi hay tiên_tiến  còn theo thông_tư 30 hiện_nay thì có nhiều mức khen trong đó có khen toàn tiện và khen từng mặt 
-4,mức khen riêng các môn thì xếp các em vào 1 mặt  không ghi cụ_thể là khen từng môn nào để thuận_tiện cho các em 
-5,nói_tóm_lại  nội_dung khen các em học_sinh giỏi từ hạnh_kiểm đến đạo_đức thì đánh vào toàn_diện  còn không được tổng_hợp thì cho các em vào từng mặt  
-6,nói về thông_tư mới này  cô nụ cho hay   tùy thuộc vào nhận_thức của nhân_dân  nội_dung mới này ai có trình_độ trong lĩnh_vực giáo_dục và đánh_giá của tiểu_học thì không có vấn_đề gì  còn nếu phụ_huynh nào vẫn theo_đuổi theo lối tư_duy cũ thì sẽ chưa rõ 
-7,tuy_nhiên để thay_đổi nhận_thức của xã_hội thì cũng phải dần_dần chứ không_thể nôn_nóng ngày 1  ngày 2 được 
-8,còn riêng tôi đánh_giá  thông_tư mới này mở hơn và giảm đi áp_lực cho các em 
-9,tiếp_nhận những nội_dung mới này các em cũng thoải_mái  tinh_thần cũng cởi_mở hơn rất nhiều 
-10,đây cũng là mục_đích của thông_tư mới này 
-11,mặt_khác  với thông_tư mới này sẽ xóa bỏ được định_kiến của nhân_dân trong bối_cảnh nhiều áp_lực lên điểm_số của các em  
-12,cô nụ nói thêm   việc ra thông_tư với nội_dung viết giấy_khen mới như hiện_nay nhằm giúp các em phát_triển được cả trí_lực và thể_lực 
-13,ngoài_ra sẽ là những lời động_viên  khích_lệ các em cố_gắng 
-14,nội_dung viết trong giấy_khen mới này không mang tính áp_đặt cho gia_đình hay các em học_sinh 
-15,chính bởi_vậy  có_thể khẳng_định  nội_dung trong giấy_khen viết ở trường tân_phương là viết đúng theo quy_định của ngành  
+0,ngày gần phụ_huynh băn_khoăn dư_luận xôn_xao thông_tin về nội_dung viết trong trong giấy_khen trường tiểu_học tân_phương huyện ứng_hòa hà_nội
+1,hiểu rõ hơn về giấy_khen nội_dung đạt danh_hiệu học_sinh khen mặt sáng ngày 1/6 chia_sẻ báo đất việt cô dương_thị_nụ phó_hiệu_trưởng trường tiểu_học tân_phương biết nội_dung giấy_khen dành em khen học tốt về môn toán môn tiếng việt hay bất_cứ môn nào trong chương_trình đào_tạo
+2,viết trong giấy_khen như_vậy đưa chung về 1 mức khen
+3,thông_tư 32 ngày phụ_huynh quen kiểu khen học_sinh giỏi hay tiên_tiến còn thông_tư 30 hiện_nay mức khen trong khen toàn tiện khen mặt
+4,mức khen riêng môn xếp em 1 mặt ghi cụ_thể khen môn nào thuận_tiện em
+5,nói_tóm_lại nội_dung khen em học_sinh giỏi hạnh_kiểm đến đạo_đức đánh toàn_diện còn tổng_hợp em mặt
+6,nói về thông_tư mới cô nụ hay tùy thuộc nhận_thức nhân_dân nội_dung mới ai trình_độ trong lĩnh_vực giáo_dục đánh_giá tiểu_học vấn_đề còn phụ_huynh nào theo_đuổi lối tư_duy cũ rõ
+7,tuy_nhiên thay_đổi nhận_thức xã_hội dần_dần không_thể nôn_nóng ngày 1 ngày 2
+8,còn riêng tôi đánh_giá thông_tư mới mở hơn giảm đi áp_lực em
+9,tiếp_nhận nội_dung mới em thoải_mái tinh_thần cởi_mở hơn
+10,mục_đích thông_tư mới
+11,mặt_khác thông_tư mới xóa bỏ định_kiến nhân_dân trong bối_cảnh áp_lực điểm_số em
+12,cô nụ nói thêm thông_tư nội_dung viết giấy_khen mới hiện_nay nhằm giúp em phát_triển trí_lực thể_lực
+13,ngoài_ra lời động_viên khích_lệ em cố_gắng
+14,nội_dung viết trong giấy_khen mới mang tính áp_đặt gia_đình hay em học_sinh
+15,chính bởi_vậy khẳng_định nội_dung trong giấy_khen viết ở trường tân_phương viết đúng quy_định ngành

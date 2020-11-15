@@ -1,10 +1,10 @@
 idx, sentence
-0,vụ_việc được vnexpress  công_an nhân_dân  zing  vn đăng_tải 
-1,tai_nạn trên xảy ra vào_khoảng 16 h chiều 19/5  tại bãi thu_mua lốp xe cũ của gia_đình anh trần_thủy_chung  số 93 đường giải_phóng  tp buôn_ma_thuột  tỉnh đắk_lắk  
-2,nạn_nhân được xác_định là anh phan_đức_huy  31 tuổi  trú phường khánh_xuân  tp buôn_ma_thuột  
-3,trao_đổi với báo_chí  ông trần_thủy_chung  chủ cơ_sở thu_mua lốp cũ  nơi xảy ra tai_nạn  cho biết  vào khoảng 15 h cùng ngày  nạn_nhân đến bãi_tập_kết lốp cũ của gia_đình và kéo điện ra hàn cửa_xe 
-4,lúc đó  ông đang ăn cơm nên không để_ý 
-5,khoảng 20 phút sau  khi ra ngoài  ông thấy huy nằm ngửa trên đất  thùng_xe bị nhiễm_điện 
-6,ngay_lập_tức  ông gọi người tắt nguồn điện  đưa anh huy đi cấp_cứu nhưng không qua khỏi 
-7,được biết  anh huy làm lái_xe cho xưởng thu_mua lốp cũ của ông chung 
-8,sáng cùng ngày anh huy_nghỉ làm  chiều mới đến bãi thu_mua lốp làm_việc và xảy ra tai_nạn 
+0,vụ_việc vnexpress công_an nhân_dân zing vn đăng_tải
+1,tai_nạn xảy vào_khoảng 16 h chiều 19/5 bãi thu_mua lốp xe cũ gia_đình anh trần_thủy_chung số 93 đường giải_phóng tp buôn_ma_thuột tỉnh đắk_lắk
+2,nạn_nhân xác_định anh phan_đức_huy 31 tuổi trú phường khánh_xuân tp buôn_ma_thuột
+3,trao_đổi báo_chí ông trần_thủy_chung chủ cơ_sở thu_mua lốp cũ xảy tai_nạn biết khoảng 15 h ngày nạn_nhân đến bãi_tập_kết lốp cũ gia_đình kéo điện hàn cửa_xe
+4,ông ăn cơm để_ý
+5,khoảng 20 phút ngoài ông thấy huy nằm ngửa đất thùng_xe nhiễm_điện
+6,ngay_lập_tức ông gọi người tắt nguồn điện đưa anh huy đi cấp_cứu khỏi
+7,biết anh huy làm lái_xe xưởng thu_mua lốp cũ ông chung
+8,sáng ngày anh huy_nghỉ làm chiều mới đến bãi thu_mua lốp làm_việc xảy tai_nạn

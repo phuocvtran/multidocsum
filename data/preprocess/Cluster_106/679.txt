@@ -1,10 +1,10 @@
 idx, sentence
-0,cnn cho biết  hỏa_hoạn xảy ra vào lúc 23 h ngày 22/5  theo giờ_địa_phương  khi 38 nữ_sinh trong độ tuổi từ 512  đang ngủ tại khu ký_túc_xá của trường 
-1,ngoài 17 em thiệt_mạng  còn 2 em vẫn đang mất_tích và 5 em khác bị_thương 
-2, hầu_hết học_sinh thiệt_mạng bởi các em đã ngủ_say khi vụ cháy xảy ra 
-3,các em còn lại còn thức nên chạy được ra ngoài 
-4,hai trong số 5 em bị_thương đang trong tình_trạng nguy_kịch   một quan_chức cảnh_sát cho biết 
-5,báo thái_lan cho biết thi_thể các nạn_nhân đã được đưa tới bệnh_viện địa_phương để nhận_dạng 
-6,trường pithakkiart_witthaya là trường tư_thục mới đi vào hoạt_động được khoảng 5 năm 
-7,hầu_hết học_sinh là người dân_tộc_thiểu_số miền núi 
-8,cơ_quan_chức_năng đang tiến_hành điều_tra nguyên_nhân dẫn đến đám cháy 
+0,cnn biết hỏa_hoạn xảy 23 h ngày 22/5 giờ_địa_phương 38 nữ_sinh trong độ tuổi 512 ngủ khu ký_túc_xá trường
+1,ngoài 17 em thiệt_mạng còn 2 em mất_tích 5 em khác bị_thương
+2,hầu_hết học_sinh thiệt_mạng em ngủ_say vụ cháy xảy
+3,em còn còn thức chạy ngoài
+4,hai trong số 5 em bị_thương trong tình_trạng nguy_kịch một quan_chức cảnh_sát biết
+5,báo thái_lan biết thi_thể nạn_nhân đưa tới bệnh_viện địa_phương nhận_dạng
+6,trường pithakkiart_witthaya trường tư_thục mới đi hoạt_động khoảng 5 năm
+7,hầu_hết học_sinh người dân_tộc_thiểu_số miền núi
+8,cơ_quan_chức_năng tiến_hành điều_tra nguyên_nhân dẫn đến đám cháy

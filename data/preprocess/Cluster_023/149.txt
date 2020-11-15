@@ -1,9 +1,9 @@
 idx, sentence
-0,thuế 522  được áp cho thép cuộn nguội được dùng trong chế_tạo xe_hơi  thùng container  và xây_dựng 
-1,phán_quyết của bộ thương_mại hoa_kỳ được đưa ra càng làm tăng thêm căng_thẳng về sản_phẩm giữa hai nước trong đó có thịt gà 
-2,thép là chủ_đề rất nhạy_cảm và diễn ra trong năm bầu_cử mỹ khi các ứng_viên tranh_cử tổng_thống lên_tiếng nhiều về điều họ gọi là các tập_quán mậu_dịch không công_bằng của trung_quốc 
-3,các nhà_sản_xuất thép châu_âu và hoa_kỳ nói trung_quốc làm méo_mó thị_trường toàn_cầu bằng việc bán_tháo lượng cung lớn ra nước_ngoài 
-4,các nhà_sản_xuất thép hoa_kỳ nói chính_phủ trung_quốc trợ_giá không công_bằng cho xuất_khẩu thép 
-5,trong khi trung_quốc đang chịu áp_lực với chính ngành này ở trong nước vì các vấn_đề sản_xuất quá nhiều trong khi nhu_cầu nội_địa giảm 
-6,trong một vụ kiện riêng_biệt khác  các nhà_sản_xuất thép hoa_kỳ nói ủy_ban mậu_dịch quốc_tế hoa_kỳ đang tính cấm nhập toàn_bộ thép từ trung_quốc 
-7,ngành thép hoa_kỳ nói 12 ngàn công_nhân bị nghỉ_việc trong năm_ngoái vì cạnh_tranh không công_bằng từ trung_quốc 
+0,thuế 522 áp thép cuộn nguội dùng trong chế_tạo xe_hơi thùng container xây_dựng
+1,phán_quyết bộ thương_mại hoa_kỳ đưa làm tăng thêm căng_thẳng về sản_phẩm giữa hai nước trong thịt gà
+2,thép chủ_đề nhạy_cảm diễn trong năm bầu_cử mỹ ứng_viên tranh_cử tổng_thống lên_tiếng về họ gọi tập_quán mậu_dịch công_bằng trung_quốc
+3,nhà_sản_xuất thép châu_âu hoa_kỳ nói trung_quốc làm méo_mó thị_trường toàn_cầu bằng bán_tháo lượng cung lớn nước_ngoài
+4,nhà_sản_xuất thép hoa_kỳ nói chính_phủ trung_quốc trợ_giá công_bằng xuất_khẩu thép
+5,trong trung_quốc chịu áp_lực chính ngành ở trong nước vấn_đề sản_xuất quá trong nhu_cầu nội_địa giảm
+6,trong một vụ kiện riêng_biệt khác nhà_sản_xuất thép hoa_kỳ nói ủy_ban mậu_dịch quốc_tế hoa_kỳ tính cấm nhập toàn_bộ thép trung_quốc
+7,ngành thép hoa_kỳ nói 12 ngàn công_nhân nghỉ_việc trong năm_ngoái cạnh_tranh công_bằng trung_quốc

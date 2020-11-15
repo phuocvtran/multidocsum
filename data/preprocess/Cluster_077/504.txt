@@ -1,17 +1,17 @@
 idx, sentence
-0,năm 2014  ngành hàng_không thế_giới từng kinh_ngạc khi hãng hàng_không tư_nhân vietjet_ký hợp_đồng mua và thuê 100 máy_bay của airbus trị_giá 91 tỉ usd 
-1,nay  thương_vụ tiền tỉ của doanh_nghiệp hai nước càng làm cho thế_giới có cái nhìn khác về doanh_nghiệp tư_nhân vn 
-2,sự mở_rộng hợp_tác  khả_năng hội_nhập của doanh_nghiệp vn trong lĩnh_vực hàng_không là đại_diện cho sự hội_nhập của nhiều ngành kinh_tế khác 
-3,những bản hợp_đồng trên còn có ý_nghĩa thuyết_phục cho sự ủng_hộ về một nền kinh_tế_thị_trường hiện_diện tại vn 
-4,sự thành_công của một hãng hàng_không tư_nhân  ngoài nỗ_lực của doanh_nghiệp  còn dựa vào các chính_sách hỗ_trợ tích_cực và hiệu_quả của chính_phủ vn  điều mà cộng_đồng doanh_nghiệp trong và nước thừa_nhận 
-5,nhưng việc ký_kết mua máy_bay của hãng boeing còn có ý_nghĩa khác 
-6,mua máy_bay để bay đến các quốc_gia  trong đó có mỹ 
-7,nhưng cho đến nay  vn chưa có đường_bay trực_tiếp đến mỹ  làm mất đi cơ_hội cho cộng_đồng doanh_nghiệp và giao_lưu nhân_dân giữa hai quốc_gia 
-8,doanh_nhân mỹ đến vn làm_ăn và doanh_nghiệp việt đến mỹ  họ chờ_đợi có đường_bay trực_tiếp để rút ngắn thời_gian  tiết_kiệm tiền_bạc 
-9,mỹ và vn là hai nước có tiềm_năng du_lịch  nhưng do hạn_chế về đường không trực_tiếp  làm ảnh_hưởng đến khai_thác ngành công_nghiệp này 
-10,bởi_vì  việc xây_dựng đường_bay trực_tiếp đã được bàn_bạc và hứa_hẹn từ lâu  nhưng đến nay vẫn chưa là hiện_thực 
-11,để thỏa_mãn các yêu_cầu và tiêu_chuẩn an_toàn của cơ_quan hàng_không hoa_kỳ  faa   chắc_chắn các hãng hàng_không và ngành hàng_không vn có_thể đáp_ứng  vấn_đề còn lại là sự_tích_cực hợp_tác giữa hai bên 
-12,chúng_ta đã mất quá nhiều cơ_hội và không_thể để chậm_trễ 
-13,doanh_nhân và nhân_dân hai nước sẽ có nhiều cơ_hội hợp_tác và xích lại gần nhau hơn khi có những chuyến bay của vietnam_airlines  vietjet_air  jetstar bay trực_tiếp qua mỹ 
-14,bà_con việt_kiều sẽ có thêm điều_kiện để đi_lại  về thăm quê_hương  giao_lưu 
-15,quan_hệ hai nước sẽ có những bước phát_triển mới khi mở ra những chuyến bay trực_tiếp  để tuy “ xa nhà ” nhưng vẫn gần “ cửa_ngõ ” 
+0,năm 2014 ngành hàng_không thế_giới kinh_ngạc hãng hàng_không tư_nhân vietjet_ký hợp_đồng mua thuê 100 máy_bay airbus trị_giá 91 tỉ usd
+1,nay thương_vụ tiền tỉ doanh_nghiệp hai nước làm thế_giới nhìn khác về doanh_nghiệp tư_nhân vn
+2,mở_rộng hợp_tác khả_năng hội_nhập doanh_nghiệp vn trong lĩnh_vực hàng_không đại_diện hội_nhập ngành kinh_tế khác
+3,bản hợp_đồng còn ý_nghĩa thuyết_phục ủng_hộ về một nền kinh_tế_thị_trường hiện_diện vn
+4,thành_công một hãng hàng_không tư_nhân ngoài nỗ_lực doanh_nghiệp còn dựa chính_sách hỗ_trợ tích_cực hiệu_quả chính_phủ vn cộng_đồng doanh_nghiệp trong nước thừa_nhận
+5,ký_kết mua máy_bay hãng boeing còn ý_nghĩa khác
+6,mua máy_bay bay đến quốc_gia trong mỹ
+7,đến nay vn đường_bay trực_tiếp đến mỹ làm mất đi cơ_hội cộng_đồng doanh_nghiệp giao_lưu nhân_dân giữa hai quốc_gia
+8,doanh_nhân mỹ đến vn làm_ăn doanh_nghiệp việt đến mỹ họ chờ_đợi đường_bay trực_tiếp rút ngắn thời_gian tiết_kiệm tiền_bạc
+9,mỹ vn hai nước tiềm_năng du_lịch hạn_chế về đường trực_tiếp làm ảnh_hưởng đến khai_thác ngành công_nghiệp
+10,bởi_vì xây_dựng đường_bay trực_tiếp bàn_bạc hứa_hẹn lâu đến nay hiện_thực
+11,thỏa_mãn yêu_cầu tiêu_chuẩn an_toàn cơ_quan hàng_không hoa_kỳ faa chắc_chắn hãng hàng_không ngành hàng_không vn đáp_ứng vấn_đề còn sự_tích_cực hợp_tác giữa hai bên
+12,chúng_ta mất quá cơ_hội không_thể chậm_trễ
+13,doanh_nhân nhân_dân hai nước cơ_hội hợp_tác xích gần nhau hơn chuyến bay vietnam_airlines vietjet_air jetstar bay trực_tiếp mỹ
+14,bà_con việt_kiều thêm điều_kiện đi_lại về thăm quê_hương giao_lưu
+15,quan_hệ hai nước bước phát_triển mới mở chuyến bay trực_tiếp tuy “ xa nhà ” gần “ cửa_ngõ ”

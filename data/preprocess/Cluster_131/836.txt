@@ -1,23 +1,23 @@
 idx, sentence
-0,ra mắt từ tháng 4 tại triển_lãm xe_máy nhưng đến 24/5  honda việt_nam mới công_bố giá cho chiếc côn tay đầu_tiên của mình 
-1,winner được cho là sẽ cạnh_tranh với đối_thủ yamaha_exciter và là bước_tiến mới của hãng xe nhật trong phân khúc xe thể_thao 
-2,hướng tới khách_hàng trẻ và thay_đổi tầng_lớp khách_hàng truyền_thống 
-3,thiết_kế chi_tiết từng bộ_phận lại phân_định rõ_ràng winner và exciter 
-4,tổng_thể hình_dáng mẫu xe nhà honda là bước phát_triển từ đàn_em wave_rsx  trong khi exciter lại khác hẳn  không dính_dáng gì tới đàn_em sirius 
-5,cả hai chiếc underbone đều dùng mặt trước kiểu chiến_binh với khiên nhọn  đèn xinhan tích_hợp gọn hai bên 
-6,dáng đèn_pha là điểm trừ của exciter vì quá đơn_giản như xe số phổ_thông thì ở winner lại chăm_chút hơn  thêm đường cắt chữ v như khuôn_mặt của siêu_nhân 
-7,winner ăn điểm so với exciter ở đèn_pha thì mẫu xe của yamaha lại làm tốt hơn ở bộ áo yếm 
-8,các nhà thiết_kế của yamaha tạo cho exciter bộ quây kín  kéo_dài như phong_cách xe thể_thao phân_khối lớn trong khi đồng_nghiệp ở honda lại khiêm_tốn khi chỉ phá_cách đôi_chút yếm xe  nhìn vẫn khá giống loại trên rsx 
-9,winner còn thêm điểm trừ ở chắn_bùn trước khi hơi dài so với một mẫu xe thể_thao  nhưng lại tối_ưu hơn khi di_chuyển trời mưa 
-10,ở phía sau winner thon gọn khi gộp đèn xinhan và đèn hậu thành một cụm trong khi exciter tách riêng 
-11,với kiểu sắp_xếp này  winner_lợi về di_chuyển trong không_gian hẹp và exciter_lợi về vẻ_ngoài cân_đối 
-12,honda cũng tỏ ra bắt kịp xu_hướng thiết_kế xe thể_thao khi sử_dụng nhiều chi_tiết bằng nhựa sơn vân giả sợi carbon  loạt chất_liệu sử_dụng nhiều cho môtô phân_khối lớn 
-13,khách_hàng có_thể cảm_thấy quen_thuộc với winner để sẵn_sàng làm_quen vì thiết_kế giống rsx  ngược_lại exciter sẽ thu_hút theo kiểu khám_phá những điều mới 
-14,cụm đèn_pha trên winner dạng led 
-15,phanh đĩa hai bánh  ống_xả ốp  lazăng thể_thao  đồng_hồ analog kết_hợp lcd  giảm xóc đơn sau là những điểm chung trên hai mẫu xe nhật 
-16,bộ lốp không săm của winner kích_thước 90/80 trước và 120 / 70 sau 
-17,exciter tương_ứng là 70/90 và 120 / 70  lốp trước bé hơn winner 
-18,bình xăng winner lớn hơn đôi_chút với dung_tích 45 lít  mẫu xe của yamaha là 42 lít 
-19,động_cơ trên winner 150 là loại cam đôi dohc  150 phân_khối xilanh đơn phun xăng điện_tử pgmfi  làm mát bằng dung_dịch 
-20,tỷ_số nén 113  1  công_suất 154 mã_lực tại vòng tua máy 9000 vòng / phút  mômen xoắn cực_đại 135 nm tại 6500 vòng / phút 
-21,hộp_số 6 cấp 
+0,mắt tháng 4 triển_lãm xe_máy đến 24/5 honda việt_nam mới công_bố giá côn tay đầu_tiên mình
+1,winner cạnh_tranh đối_thủ yamaha_exciter bước_tiến mới hãng xe nhật trong phân khúc xe thể_thao
+2,hướng tới khách_hàng trẻ thay_đổi tầng_lớp khách_hàng truyền_thống
+3,thiết_kế chi_tiết bộ_phận phân_định rõ_ràng winner exciter
+4,tổng_thể hình_dáng mẫu xe nhà honda bước phát_triển đàn_em wave_rsx trong exciter khác hẳn dính_dáng tới đàn_em sirius
+5,hai underbone dùng mặt kiểu chiến_binh khiên nhọn đèn xinhan tích_hợp gọn hai bên
+6,dáng đèn_pha điểm trừ exciter quá đơn_giản xe số phổ_thông ở winner chăm_chút hơn thêm đường cắt chữ v khuôn_mặt siêu_nhân
+7,winner ăn điểm exciter ở đèn_pha mẫu xe yamaha làm tốt hơn ở bộ áo yếm
+8,nhà thiết_kế yamaha tạo exciter bộ quây kín kéo_dài phong_cách xe thể_thao phân_khối lớn trong đồng_nghiệp ở honda khiêm_tốn phá_cách đôi_chút yếm xe nhìn khá giống loại rsx
+9,winner còn thêm điểm trừ ở chắn_bùn hơi dài một mẫu xe thể_thao tối_ưu hơn di_chuyển trời mưa
+10,ở phía winner thon gọn gộp đèn xinhan đèn hậu thành một cụm trong exciter tách riêng
+11,kiểu sắp_xếp winner_lợi về di_chuyển trong không_gian hẹp exciter_lợi về vẻ_ngoài cân_đối
+12,honda tỏ bắt kịp xu_hướng thiết_kế xe thể_thao sử_dụng chi_tiết bằng nhựa sơn vân giả sợi carbon loạt chất_liệu sử_dụng môtô phân_khối lớn
+13,khách_hàng cảm_thấy quen_thuộc winner sẵn_sàng làm_quen thiết_kế giống rsx ngược_lại exciter thu_hút kiểu khám_phá mới
+14,cụm đèn_pha winner dạng led
+15,phanh đĩa hai bánh ống_xả ốp lazăng thể_thao đồng_hồ analog kết_hợp lcd giảm xóc đơn điểm chung hai mẫu xe nhật
+16,bộ lốp săm winner kích_thước 90/80 120 / 70
+17,exciter tương_ứng 70/90 120 / 70 lốp bé hơn winner
+18,bình xăng winner lớn hơn đôi_chút dung_tích 45 lít mẫu xe yamaha 42 lít
+19,động_cơ winner 150 loại cam đôi dohc 150 phân_khối xilanh đơn phun xăng điện_tử pgmfi làm mát bằng dung_dịch
+20,tỷ_số nén 113 1 công_suất 154 mã_lực vòng tua máy 9000 vòng / phút mômen xoắn cực_đại 135 nm 6500 vòng / phút
+21,hộp_số 6 cấp

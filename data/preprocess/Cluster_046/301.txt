@@ -1,4 +1,4 @@
 idx, sentence
-0,chiều 20/5  sau khi cập cảng cá hòn_rớ  anh huỳnh_phi_minh  ngụ xã phước_đồng  tp nha_trang  tỉnh khánh_hòa   chủ tàu kh 90297  ts  phải dùng cần_cẩu đưa cá_ngừ vây xanh nặng 307 kg lên bến  bán 180000 đồng / kg  trong khi giá cá_ngừ đại_dương đang ở mức 90000 đồng / kg 
-1,theo nhiều người  đây là lần đầu_tiên ngư_dân địa_phương câu được cá_ngừ vây xanh quý_hiếm to như vậy 
-2,anh huỳnh_văn_ty  1 trong 6 ngư_dân trên tàu kh 90297  ts  cho biết khoảng 2 giờ ngày 15/5  tại ngư_trường hoàng_sa của việt_nam  lực_lượng trên tàu phải mất 6 giờ mới đưa được cá lên tàu sau khi mắc câu 
+0,chiều 20/5 cập cảng cá hòn_rớ anh huỳnh_phi_minh ngụ xã phước_đồng tp nha_trang tỉnh khánh_hòa chủ tàu kh 90297 ts dùng cần_cẩu đưa cá_ngừ vây xanh nặng 307 kg bến bán 180000 đồng / kg trong giá cá_ngừ đại_dương ở mức 90000 đồng / kg
+1,người lần đầu_tiên ngư_dân địa_phương câu cá_ngừ vây xanh quý_hiếm to
+2,anh huỳnh_văn_ty 1 trong 6 ngư_dân tàu kh 90297 ts biết khoảng 2 giờ ngày 15/5 ngư_trường hoàng_sa việt_nam lực_lượng tàu mất 6 giờ mới đưa cá tàu mắc câu

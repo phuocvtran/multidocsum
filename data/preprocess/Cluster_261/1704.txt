@@ -1,10 +1,10 @@
 idx, sentence
-0,trang_chủ của man_city thông_báo đội bóng này đã chính_thức chiêu_mộ thành_công ilkay_gundogan với một bản hợp_đồng có thời_hạn 4 năm 
-1,để có được chữ_ký của tiền_vệ người đức  đội chủ sân etihad đã trả cho borussia_dortmund 20 triệu bảng và có_thể phát_sinh thêm các loại phụ_phí tùy điều_kiện 
-2,dù_vậy  tân_binh 25 tuổi này sẽ phải đợi thêm hơn 2 tháng nữa mới có_thể thi_đấu cho manchester_city 
-3,đầu tháng trước  gundogan đã phải trải qua ca phẫu_thuật đầu_gối và sẽ phải nghỉ thi_đấu đến tháng 9  có nghĩa là anh sẽ bỏ lỡ giai_đoạn đầu của mùa giải tới 
-4,trong bức thư chia_tay được tiền_vệ gốc thổ nhĩ kỳ gửi đến các cđv_dortmund  anh cho biết chính hlv pep_guardiola đã thuyết_phục anh gia_nhập manchester_city 
-5,“ lý_do của thương_vụ chuyển_nhượng này là cơ_hội được làm_việc cùng pep_guardiola tại manchester_city ”  anh chia_sẻ trên twitter cá_nhân 
-6,” guardiola đã đề_nghị tôi đến manchester và thuyết_phục tôi bằng triết_lý bóng_đá của ông ấy 
-7,tôi tin rằng đây là một bước đi đúng_đắn của tôi vào thời_điểm này 
-8,dưới sự dẫn_dắt của ông ấy  tôi muốn tiếp_tục nâng cao kỹ_năng bản_thân  ”
+0,trang_chủ man_city thông_báo đội bóng chính_thức chiêu_mộ thành_công ilkay_gundogan một bản hợp_đồng thời_hạn 4 năm
+1,chữ_ký tiền_vệ người đức đội chủ sân etihad trả borussia_dortmund 20 triệu bảng phát_sinh thêm loại phụ_phí tùy điều_kiện
+2,dù_vậy tân_binh 25 tuổi đợi thêm hơn 2 tháng mới thi_đấu manchester_city
+3,đầu tháng gundogan trải ca phẫu_thuật đầu_gối nghỉ thi_đấu đến tháng 9 nghĩa anh bỏ lỡ giai_đoạn đầu mùa giải tới
+4,trong bức thư chia_tay tiền_vệ gốc thổ nhĩ kỳ gửi đến cđv_dortmund anh biết chính hlv pep_guardiola thuyết_phục anh gia_nhập manchester_city
+5,“ lý_do thương_vụ chuyển_nhượng cơ_hội làm_việc pep_guardiola manchester_city ” anh chia_sẻ twitter cá_nhân
+6,” guardiola đề_nghị tôi đến manchester thuyết_phục tôi bằng triết_lý bóng_đá ông ấy
+7,tôi tin một bước đi đúng_đắn tôi thời_điểm
+8,dẫn_dắt ông ấy tôi muốn tiếp_tục nâng cao kỹ_năng bản_thân ”

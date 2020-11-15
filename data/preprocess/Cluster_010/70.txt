@@ -1,14 +1,14 @@
 idx, sentence
-0,chiều 195  đại_tá nguyễn_hải_thuận  đại_diện ban biên_tập báo_công_an tpđà_nẵng cho biết  sau khi nhận được thông_tin trình_báo về việc một đối_tượng trú tại tỉnh gia_lai mạo_danh là phóng_viên của báo để lừa_đảo người dân  lãnh_đạo công_an tp đã đề_nghị công_an tỉnh gia_lai tiến_hành điều_tra  làm rõ 
-1,đơn cầu_cứu vào ngày 2942016 của bà nông_thị_tươi  trú tại tổ_dân_phố 3  ttphú_thiện  hphú_thiện  tỉnh gia_lai  tố_cáo ông phạm_ngọc_hùng  trú thôn 1  xã trà_đa  tppleiku  tỉnh gia_lai  tự_xưng là cán_bộ công_an  phóng_viên báo_công_an tpđà_nẵng  văn_phòng đại_diện tại tây_nguyên đã nhận của bà 100 triệu đồng để “ chạy ” việc 
-2,thế nhưng khi không thực_hiện được  ông hùng không_những không chịu trả lại tiền cho bà tươi mà_còn chửi_bới  thách_thức 
-3,cụ_thể  theo trình_báo của bà tươi  vì muốn xin cho người cháu thực_hiện nghĩa_vụ vào công_an chuyên_nghiệp tại công_an hphú_thiện nên bà đã gặp hùng nhờ “ chạy_việc ” 
-4,ngày 3082011 và ngày 2042011  bà tươi đã đưa cho hùng số tiền tổng_cộng 45 triệu đồng 
-5,sau khi giao_nhận tiền  giữa hai bên đã làm giấy biên_nhận viết_tay và cùng ký 
-6,trong các giấy biên_nhận này  phạm_ngọc_hùng mạo_nhận “ nguyên cán_bộ a43  bộ công_an  hiện công_tác tại báo ca đà_nẵng  thường_trú tại tây_nguyên ” và “ đơn_vị công_tác a35  bca ” với lý_do “ giải_quyết công_việc ” 
-7,theo bà tươi  trong những lần khác giao tiền cho hùng  tổng_cộng đến 100 triệu đồng   giữa hai bên không ghi giấy biên_nhận 
-8,từ tháng 22014  cháu bà tươi hoàn_thành nghĩa_vụ tại công_an hphú_thiện và ra_quân thế nhưng ông hùng vẫn không lo được việc 
-9,bà tươi đã nhiều lần liên_hệ nhưng hùng không hồi_đáp và cũng không chịu trả lại số tiền 100 triệu đồng cho bà 
-10,qua bức_xúc  bà tươi đã gửi đơn đến ngành chức_năng của tỉnh gia_lai và tpđà_nẵng nhờ can_thiệp 
-11,đại_tá nguyễn_hải_thuận cho biết  báo_công_an tpđà_nẵng cũng như văn_phòng đại_diện tại tây_nguyên không có cán_bộ  phóng_viên nào có tên là phạm_ngọc_hùng 
-12,khẳng_định hành_vi của hùng là mạo_danh phóng_viên của tờ báo  đại_tá thuận cho biết  qua thông_tin ông nắm được hùng còn lừa_đảo nhiều người dân tại hphú_thiện cũng với chiêu “ chạy_việc ” 
+0,chiều 195 đại_tá nguyễn_hải_thuận đại_diện ban biên_tập báo_công_an tpđà_nẵng biết nhận thông_tin trình_báo về một đối_tượng trú tỉnh gia_lai mạo_danh phóng_viên báo lừa_đảo người dân lãnh_đạo công_an tp đề_nghị công_an tỉnh gia_lai tiến_hành điều_tra làm rõ
+1,đơn cầu_cứu ngày 2942016 bà nông_thị_tươi trú tổ_dân_phố 3 ttphú_thiện hphú_thiện tỉnh gia_lai tố_cáo ông phạm_ngọc_hùng trú thôn 1 xã trà_đa tppleiku tỉnh gia_lai tự_xưng cán_bộ công_an phóng_viên báo_công_an tpđà_nẵng văn_phòng đại_diện tây_nguyên nhận bà 100 triệu đồng “ chạy ”
+2,thế thực_hiện ông hùng không_những chịu trả tiền bà tươi mà_còn chửi_bới thách_thức
+3,cụ_thể trình_báo bà tươi muốn xin người cháu thực_hiện nghĩa_vụ công_an chuyên_nghiệp công_an hphú_thiện bà gặp hùng nhờ “ chạy_việc ”
+4,ngày 3082011 ngày 2042011 bà tươi đưa hùng số tiền tổng_cộng 45 triệu đồng
+5,giao_nhận tiền giữa hai bên làm giấy biên_nhận viết_tay ký
+6,trong giấy biên_nhận phạm_ngọc_hùng mạo_nhận “ nguyên cán_bộ a43 bộ công_an hiện công_tác báo ca đà_nẵng thường_trú tây_nguyên ” “ đơn_vị công_tác a35 bca ” lý_do “ giải_quyết công_việc ”
+7,bà tươi trong lần khác giao tiền hùng tổng_cộng đến 100 triệu đồng giữa hai bên ghi giấy biên_nhận
+8,tháng 22014 cháu bà tươi hoàn_thành nghĩa_vụ công_an hphú_thiện ra_quân thế ông hùng lo
+9,bà tươi lần liên_hệ hùng hồi_đáp chịu trả số tiền 100 triệu đồng bà
+10,bức_xúc bà tươi gửi đơn đến ngành chức_năng tỉnh gia_lai tpđà_nẵng nhờ can_thiệp
+11,đại_tá nguyễn_hải_thuận biết báo_công_an tpđà_nẵng văn_phòng đại_diện tây_nguyên cán_bộ phóng_viên nào tên phạm_ngọc_hùng
+12,khẳng_định hành_vi hùng mạo_danh phóng_viên tờ báo đại_tá thuận biết thông_tin ông nắm hùng còn lừa_đảo người dân hphú_thiện chiêu “ chạy_việc ”

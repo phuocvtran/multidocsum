@@ -1,8 +1,8 @@
 idx, sentence
-0,sáng 16  tráng láo_tú  sn 1968  người dân_tộc mông  trú tại bản a_lá  xã lóng_sập  huyện mộc_châu  tỉnh sơn_la  vừa bước xuống khỏi xe taxi trên đường đà_nẵng  phường cầu_tre  quận ngô_quyền  tp hải_phòng  đã bất_ngờ bị lực_lượng cảnh_sát điều_tra tội_phạm ma_túy  công_an tp hải_phòng  phối_hợp cùng đội kiểm_soát hải_quan  cục hải_quan hải_phòng  và ban phòng_chống tội_phạm ma_túy  bộ_tư_lệnh vùng cảnh_sát biển 1  bắt_giữ cùng hai bánh heroin 
-1,đây là kết_quả của nhiều ngày dõi theo đường_dây tàng_trữ  vận_chuyển  mua_bán heroin với số_lượng lớn từ sơn_la và tuyến biên_giới tây_bắc về hải_phòng và các tỉnh khác tiêu_thụ của lực_lượng công_an và các ngành chức_năng 
-2,xã lóng_sập  huyện mộc_châu  tỉnh sơn_la  vốn là địa_bàn trọng_điểm về ma_túy của khu_vực tây_bắc 
-3,tráng láo_tú có quan_hệ phức_tạp và cấu_kết với với nhiều đối_tượng có tiền_án  tiền_sự về ma_túy ở các tỉnh_thành  trong đó  có một_số đối_tượng sinh_sống tại hải_phòng tạo thành đường_dây phạm_tội khép_kín với thủ_đoạn hoạt_động tinh_vi 
-4,ngày 16  tú mang theo hai bánh heroin và “ bắt ” xe_khách đi từ sơn_la đến hải_phòng tìm gặp đồng_bọn trong đường_dây để bán 
-5,đến hải_phòng  tú liên_tục di_chuyển bằng taxi  xe_ôm … nhằm tránh sự phát_hiện của cơ_quan_chức_năng 
-6,khi đến đường đà_nẵng  phường cầu_tre  quận ngô_quyền   tú vừa xuống khỏi taxi đã bất_ngờ bị các lực_lượng chức_năng bắt_giữ cùng hai bánh heroin mang theo trên người 
+0,sáng 16 tráng láo_tú sn 1968 người dân_tộc mông trú bản a_lá xã lóng_sập huyện mộc_châu tỉnh sơn_la bước xuống khỏi xe taxi đường đà_nẵng phường cầu_tre quận ngô_quyền tp hải_phòng bất_ngờ lực_lượng cảnh_sát điều_tra tội_phạm ma_túy công_an tp hải_phòng phối_hợp đội kiểm_soát hải_quan cục hải_quan hải_phòng ban phòng_chống tội_phạm ma_túy bộ_tư_lệnh vùng cảnh_sát biển 1 bắt_giữ hai bánh heroin
+1,kết_quả ngày dõi đường_dây tàng_trữ vận_chuyển mua_bán heroin số_lượng lớn sơn_la tuyến biên_giới tây_bắc về hải_phòng tỉnh khác tiêu_thụ lực_lượng công_an ngành chức_năng
+2,xã lóng_sập huyện mộc_châu tỉnh sơn_la vốn địa_bàn trọng_điểm về ma_túy khu_vực tây_bắc
+3,tráng láo_tú quan_hệ phức_tạp cấu_kết đối_tượng tiền_án tiền_sự về ma_túy ở tỉnh_thành trong một_số đối_tượng sinh_sống hải_phòng tạo thành đường_dây phạm_tội khép_kín thủ_đoạn hoạt_động tinh_vi
+4,ngày 16 tú mang hai bánh heroin “ bắt ” xe_khách đi sơn_la đến hải_phòng tìm gặp đồng_bọn trong đường_dây bán
+5,đến hải_phòng tú liên_tục di_chuyển bằng taxi xe_ôm … nhằm tránh phát_hiện cơ_quan_chức_năng
+6,đến đường đà_nẵng phường cầu_tre quận ngô_quyền tú xuống khỏi taxi bất_ngờ lực_lượng chức_năng bắt_giữ hai bánh heroin mang người

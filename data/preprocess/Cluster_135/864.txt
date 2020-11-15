@@ -1,11 +1,11 @@
 idx, sentence
-0,sự kình_địch của mu và liverpool ai cũng rõ 
-1,ở hai trận đấu tại europa_league mùa này  họ đều có có xích_mích với nhau 
-2,ở trận lượt đi tại anfield  những cđv_mu có đã hành_động giễu_cợt  xúc_phạm nạn_nhân ở thảm_họa hillsborough 
-3,sau đó 1 tuần  những người liverpool đã trả_thù khi khơi_gợi lại nỗi đau của mu ở thảm_họa munich 
-4,để rồi  vào cuối trận  hai nhóm cđv đã có đụng_độ với nhau tạo nên cảnh tưởng hỗn_loạn 
-5,ngày hôm_qua  hai clb mu và liverpool đã hứng_chịu án phạt nặng_nề từ uefa 
-6,theo đó  mỗi clb phải nộp phạt gần 40000 euro 
-7,cụ_thể  liverpool phải nộp 20000 bảng từ tiền phạt kèm theo 17000 euro vì để cđv mang pháo_sáng vào sân 
-8,mu cũng chịu nộp phạt 20000 euro  kèm theo 18000 euro vì không kiểm_soát được vấn_đề an_ninh 
-9,bên_cạnh đó  uefa cũng yêu_cầu phía liverpool phải đền_bù thiệt_hại về cơ_sở_vật_chất cho mu sau khi đã đập phá trên khán_đài old_trafford  uefa cho_phép hai bên tự thỏa_thuận số tiền đền_bù 
+0,kình_địch mu liverpool ai rõ
+1,ở hai trận đấu europa_league mùa họ xích_mích nhau
+2,ở trận lượt đi anfield cđv_mu hành_động giễu_cợt xúc_phạm nạn_nhân ở thảm_họa hillsborough
+3,1 tuần người liverpool trả_thù khơi_gợi nỗi đau mu ở thảm_họa munich
+4,cuối trận hai nhóm cđv đụng_độ nhau tạo cảnh tưởng hỗn_loạn
+5,ngày hôm_qua hai clb mu liverpool hứng_chịu án phạt nặng_nề uefa
+6,clb nộp phạt gần 40000 euro
+7,cụ_thể liverpool nộp 20000 bảng tiền phạt kèm 17000 euro cđv mang pháo_sáng sân
+8,mu chịu nộp phạt 20000 euro kèm 18000 euro kiểm_soát vấn_đề an_ninh
+9,bên_cạnh uefa yêu_cầu phía liverpool đền_bù thiệt_hại về cơ_sở_vật_chất mu đập phá khán_đài old_trafford uefa cho_phép hai bên tự thỏa_thuận số tiền đền_bù

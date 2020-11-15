@@ -1,4 +1,4 @@
 idx, sentence
-0,từ trước đến nay  ông kim_jongun là người nghiện thuốc nặng 
-1,thực_tế  đã có rất nhiều hình_ảnh của ông với điếu thuốc trên tay 
-2,tuy_nhiên  vào tháng 3/2016 vừa_qua  nhà lãnh_đạo triều_tiên này đã quyết_định từ_bỏ thói_quen xấu và bằng cách đó khởi_động chiến_dịch quốc_gia chống hút thuốc 
+0,đến nay ông kim_jongun người nghiện thuốc nặng
+1,thực_tế hình_ảnh ông điếu thuốc tay
+2,tuy_nhiên tháng 3/2016 vừa_qua nhà lãnh_đạo triều_tiên quyết_định từ_bỏ thói_quen xấu bằng cách khởi_động chiến_dịch quốc_gia chống hút thuốc

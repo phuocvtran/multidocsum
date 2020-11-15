@@ -1,5 +1,5 @@
 idx, sentence
-0,theo báo tiền_phong  chiều nay 20/5  một con cá_ngừ vây xanh nặng tới gần 350 kg đã được ngư_dân huỳnh_phi_minh  50 tuổi  ở hòn_rớ  xã phước_đồng  nha_trang  khánh_hòa  thuyền_trưởng tàu kh 90297 ts câu được tại vùng_biển phía đông quần_đảo hoàng_sa và đưa về cảng cá hòn_rớ  thành_phố nha_trang  khánh_hòa  
-1,được biết  đây là con cá_ngừ biển lớn nhất từ trước đến nay do ngư_dân khánh_hòa câu được 
-2,ông huỳnh_minh_phi cho biết  rạng sáng ngày 15/5  tàu đã câu được con cá này ở vùng_biển phía đông quần_đảo hoàng_sa 
-3,lúc đó  tàu đã câu được 26 con cá_ngừ đại_dương  tổng trọng_lượng khoảng trên 1 tấn 
+0,báo tiền_phong chiều nay 20/5 một con cá_ngừ vây xanh nặng tới gần 350 kg ngư_dân huỳnh_phi_minh 50 tuổi ở hòn_rớ xã phước_đồng nha_trang khánh_hòa thuyền_trưởng tàu kh 90297 ts câu vùng_biển phía đông quần_đảo hoàng_sa đưa về cảng cá hòn_rớ thành_phố nha_trang khánh_hòa
+1,biết con cá_ngừ biển lớn nhất đến nay ngư_dân khánh_hòa câu
+2,ông huỳnh_minh_phi biết rạng sáng ngày 15/5 tàu câu con cá ở vùng_biển phía đông quần_đảo hoàng_sa
+3,tàu câu 26 con cá_ngừ đại_dương tổng trọng_lượng khoảng 1 tấn

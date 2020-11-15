@@ -1,11 +1,11 @@
 idx, sentence
-0,hai chuyên_cơ trên hạ_cánh sân_bay đà_nẵng vào ngày 22/5 
-1,theo quan_sát của phóng_viên dân_trí  hai chuyên_cơ này đang đậu tại khu_vực gần công_trình nhà_ga mới  phục_vụ apec 2017 diễn ra tại đà_nẵng 
-2,an_ninh tại sân_bay quốc_tế đà_nẵng cũng được thắt chặt hơn ngày thường 
-3,chiếc máy_bay c17 chở theo hàng_hóa  xe hộ_tống  xe phục_vụ đoàn  xe an_ninh  y_tế  phục_vụ tổng_thống obama trong trường_hợp có  kịch_bản  khác 
-4,c17 có_thể chứa được hàng_hóa như xe_tăng m1_abrams  3 xe stryker  hoặc 6 xe an_ninh bọc giáp m1117 
-5,tải_trọng của máy_bay là 77519 kg  chiều dài  53 m  sải_cánh  5175 m  chiều cao  168 m  diện_tích cánh của máy_bay là  353 m²  trọng_lượng rỗng  128100 kg  trọng_lượng cất_cánh tối_đa  265350 kg 
-6,trong khi đó  boeing_c32 là máy_bay vận_tải đa_năng  được chế_tạo trên nền_tảng boeing 757  200 
-7,chiếc máy_bay này chủ_yếu được sử_dụng để chở những nhân_vật quan_trọng của hoa_kỳ tới các địa_điểm trên khắp thế_giới 
-8,vào 21 h30 tối 22/5  chuyên_cơ không_lực một chở tổng_thống mỹ barack_obama đã chính_thức đáp xuống đường băng “ ưu_tiên đặc_biệt ” tại sân_bay quốc_tế nội_bài  hà_nội  
-9,tổng_thống obama bắt_đầu chuyến thăm chính_thức việt_nam trong 3 ngày  từ 23  25/5 
+0,hai chuyên_cơ hạ_cánh sân_bay đà_nẵng ngày 22/5
+1,quan_sát phóng_viên dân_trí hai chuyên_cơ đậu khu_vực gần công_trình nhà_ga mới phục_vụ apec 2017 diễn đà_nẵng
+2,an_ninh sân_bay quốc_tế đà_nẵng thắt chặt hơn ngày thường
+3,máy_bay c17 chở hàng_hóa xe hộ_tống xe phục_vụ đoàn xe an_ninh y_tế phục_vụ tổng_thống obama trong trường_hợp kịch_bản khác
+4,c17 chứa hàng_hóa xe_tăng m1_abrams 3 xe stryker hoặc 6 xe an_ninh bọc giáp m1117
+5,tải_trọng máy_bay 77519 kg chiều dài 53 m sải_cánh 5175 m chiều cao 168 m diện_tích cánh máy_bay 353 m² trọng_lượng rỗng 128100 kg trọng_lượng cất_cánh tối_đa 265350 kg
+6,trong boeing_c32 máy_bay vận_tải đa_năng chế_tạo nền_tảng boeing 757 200
+7,máy_bay chủ_yếu sử_dụng chở nhân_vật quan_trọng hoa_kỳ tới địa_điểm khắp thế_giới
+8,21 h30 tối 22/5 chuyên_cơ không_lực một chở tổng_thống mỹ barack_obama chính_thức đáp xuống đường băng “ ưu_tiên đặc_biệt ” sân_bay quốc_tế nội_bài hà_nội
+9,tổng_thống obama bắt_đầu chuyến thăm chính_thức việt_nam trong 3 ngày 23 25/5

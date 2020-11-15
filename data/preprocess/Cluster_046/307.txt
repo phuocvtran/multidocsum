@@ -1,12 +1,12 @@
 idx, sentence
-0,theo tin_tức trên báo tiền_phong  pháp_luật tp hcm  dân_trí  chiều ngày 20/5  tại cảng cá hòn_rớ  thành_phố nha_trang  khánh_hòa   tàu cá kh 90297 ts của ông huỳnh_phi_minh  50 tuổi  ở hòn_rớ  xã phước_đồng  nha_trang  khánh_hòa  đã đưa về một con cá_ngừ vây xanh quý_hiếm 
-1,biết tin ngư_dân minh bắt được cá_ngừ vây xanh  hàng trăm người dân và thương_lái đã tập_trung ở bến cảng để được tận_mắt chứng_kiến loài cá cực hiếm này 
-2,theo ngư_dân minh  vào rạng sáng ngày 15/5  khi tàu đang đánh_bắt ở vùng_biển phía đông quần_đảo hoàng_sa thì đã câu được con cá_ngừ vây xanh nặng hơn 300 kg  dài khoảng 2 m 
-3,ngay sau khi câu được con cá_ngừ này  thuyền cá của ngư_dân minh lập_tức quay về bờ 
-4,các chuyên_gia người nhật đã xác_nhận  đây là con cá_ngừ vây xanh cực hiếm với giá khoảng 30 usd trở lên / kg 
-5,tuy_nhiên  do ngư_dân bảo quan chưa tốt  nên khoảng 2/3 con cá đã bị giảm chất_lượng 
-6,con cá được bán cho công_ty tnhh_hải_sản bền_vững với giá 55 triệu đồng  180000 đồng / kg  
-7,được biết  cá ngừ vây xanh là loài cá ngư cực hiếm 
-8,cá_ngừ vây xanh được tìm thấy chủ_yếu ở thái_bình_dương và ấn_độ_dương 
-9,ngoài_ra  chúng còn có_thể sống ở đại tây_dương  địa_trung_hải 
-10,thịt cá_ngừ quý_hiếm này thường dùngđể chế_biến món sushi và sashimi ở nhật_bản  80  lượng cá này được người nhật tiêu_thụ 
+0,tin_tức báo tiền_phong pháp_luật tp hcm dân_trí chiều ngày 20/5 cảng cá hòn_rớ thành_phố nha_trang khánh_hòa tàu cá kh 90297 ts ông huỳnh_phi_minh 50 tuổi ở hòn_rớ xã phước_đồng nha_trang khánh_hòa đưa về một con cá_ngừ vây xanh quý_hiếm
+1,biết tin ngư_dân minh bắt cá_ngừ vây xanh hàng trăm người dân thương_lái tập_trung ở bến cảng tận_mắt chứng_kiến loài cá cực hiếm
+2,ngư_dân minh rạng sáng ngày 15/5 tàu đánh_bắt ở vùng_biển phía đông quần_đảo hoàng_sa câu con cá_ngừ vây xanh nặng hơn 300 kg dài khoảng 2 m
+3,câu con cá_ngừ thuyền cá ngư_dân minh lập_tức quay về bờ
+4,chuyên_gia người nhật xác_nhận con cá_ngừ vây xanh cực hiếm giá khoảng 30 usd trở / kg
+5,tuy_nhiên ngư_dân bảo quan tốt khoảng 2/3 con cá giảm chất_lượng
+6,con cá bán công_ty tnhh_hải_sản bền_vững giá 55 triệu đồng 180000 đồng / kg
+7,biết cá ngừ vây xanh loài cá ngư cực hiếm
+8,cá_ngừ vây xanh tìm thấy chủ_yếu ở thái_bình_dương ấn_độ_dương
+9,ngoài_ra chúng còn sống ở đại tây_dương địa_trung_hải
+10,thịt cá_ngừ quý_hiếm thường dùngđể chế_biến món sushi sashimi ở nhật_bản 80 lượng cá người nhật tiêu_thụ

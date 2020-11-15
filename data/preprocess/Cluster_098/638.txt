@@ -1,7 +1,7 @@
 idx, sentence
-0,an_ninh hàng_không sân_bay đà_nẵng cho biết 2 chiếc máy_bay này hạ_cánh xuống đà_nẵng hôm 22/5 và đang ở cạnh nhà_ga mới trong sân_bay 
-1,máy_bay vận_tải quân_sự c17 tải_trọng 77519 kg  dài 53 m  cao 168 m  sải_cánh 5175 m  có_thể chở được xe_tăng m1_abrams  3 xe stryker  hoặc 6 xe an_ninh bọc giáp m1117 
-2,chiếc c17 vừa đáp xuống sân_bay đà_nẵng hôm_qua chở các thiết_bị  xe phục_vụ đoàn  xe an_ninh  hộ_tống  y_tế và các nhu_yếu_phẩm 
-3,trong khi đó chiếc c32 là máy_bay vận_tải đa_năng chế_tạo trên nền_tảng boeing 757  200 
-4,c32 thường chở phó_tổng_thống mỹ với tên gọi air_force_two 
-5,hai chiếc máy_bay này được bố_trí tại sân_bay đà_nẵng để dự_phòng cho tổng_thống obama và phái_đoàn 
+0,an_ninh hàng_không sân_bay đà_nẵng biết 2 máy_bay hạ_cánh xuống đà_nẵng hôm 22/5 ở cạnh nhà_ga mới trong sân_bay
+1,máy_bay vận_tải quân_sự c17 tải_trọng 77519 kg dài 53 m cao 168 m sải_cánh 5175 m chở xe_tăng m1_abrams 3 xe stryker hoặc 6 xe an_ninh bọc giáp m1117
+2,c17 đáp xuống sân_bay đà_nẵng hôm_qua chở thiết_bị xe phục_vụ đoàn xe an_ninh hộ_tống y_tế nhu_yếu_phẩm
+3,trong c32 máy_bay vận_tải đa_năng chế_tạo nền_tảng boeing 757 200
+4,c32 thường chở phó_tổng_thống mỹ tên gọi air_force_two
+5,hai máy_bay bố_trí sân_bay đà_nẵng dự_phòng tổng_thống obama phái_đoàn

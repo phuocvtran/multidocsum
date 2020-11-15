@@ -1,10 +1,10 @@
 idx, sentence
-0,hôm_qua  vff đã công_bố án phạt rất nặng với trung_vệ đình_luật của bbình_dương 
-1,tình_huống đạp vào bụng felix của đình_luật_bị xác_định là cố_tình và bị vff xếp vào hành_vi cố_tình xâm_phạm thân_thể cầu_thủ đối_phương 
-2,do_đó  vff quyết_định treo giò đình_luật 3 trận  yêu_cầu cầu_thủ này nộp phạt 15 triệu đồng 
-3,ngoài_ra  vff cũng đã yêu_cầu hlv trưởng nguyễn_hữu_thắng không triệu tập đình_luật lên tuyển trong đợt tập_trung tuần tới 
-4,như_vậy  đình_luật là cầu_thủ thứ 2 bị loại khỏi danh_sách tập_trung do có hành_vi không đẹp trên sân bóng 
-5,trước đó  văn_quyết đã nhận án phạt tương_tự khi đẩy ngã trọng_tài hoàng phạm_công_khanh 
-6,để thay_thế đình_luật  hlv nguyễn_hữu_thắng quyết_định gọi bổ_sung trung_vệ hải_phòng  vũ_ngọc_thịnh 
-7,vũ_ngọc_thịnh từng có_mặt trong tuyển u23 việt_nam dự sea_games 2015 
-8,theo kế_hoạch  đtvn sẽ đá giao_hữu với syria tại sân mỹ_đình ngày 31/5  và tham_dự giải giao_hữu quốc_tế tại yangon  myanmar  từ ngày 3  6/6 
+0,hôm_qua vff công_bố án phạt nặng trung_vệ đình_luật bbình_dương
+1,tình_huống đạp bụng felix đình_luật_bị xác_định cố_tình vff xếp hành_vi cố_tình xâm_phạm thân_thể cầu_thủ đối_phương
+2,do_đó vff quyết_định treo giò đình_luật 3 trận yêu_cầu cầu_thủ nộp phạt 15 triệu đồng
+3,ngoài_ra vff yêu_cầu hlv trưởng nguyễn_hữu_thắng triệu tập đình_luật tuyển trong đợt tập_trung tuần tới
+4,như_vậy đình_luật cầu_thủ thứ 2 loại khỏi danh_sách tập_trung hành_vi đẹp sân bóng
+5,văn_quyết nhận án phạt tương_tự đẩy ngã trọng_tài hoàng phạm_công_khanh
+6,thay_thế đình_luật hlv nguyễn_hữu_thắng quyết_định gọi bổ_sung trung_vệ hải_phòng vũ_ngọc_thịnh
+7,vũ_ngọc_thịnh có_mặt trong tuyển u23 việt_nam dự sea_games 2015
+8,kế_hoạch đtvn đá giao_hữu syria sân mỹ_đình ngày 31/5 tham_dự giải giao_hữu quốc_tế yangon myanmar ngày 3 6/6

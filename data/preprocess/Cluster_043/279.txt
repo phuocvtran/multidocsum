@@ -1,12 +1,12 @@
 idx, sentence
-0,thông_tin ban_đầu từ lực_lượng cảnh_sát truy_nã tội_phạm bộ công_an cho biết  một nhóm các đối_tượng quốc_tịch hàn_quốc đã tổ_chức một trang_web đánh_bạc trực_tuyến qua mạng tại việt_nam trong thời_gian khá dài 
-1,đối_tượng bị bắt có tên là kwon_yonggil  34 tuổi  
-2,đối_tượng này chịu trách_nhiệm quản_lý tiền của mạng_lưới kín giữa các khách_hàng 
-3,hai đối_tượng còn lại oh_junghyun và kim_myụngun được giao nhiệm_vụ quản_lý trang_web  chịu trách_nhiệm thu và chuyển tiền cho khách_hàng  hai người này cũng đã bị bắt_giữ khi trở_về hàn_quốc 
-4,từ tháng 32013 đến đầu tháng 112013 tại philippin và từ tháng 11/2015 đến tháng 1/2016  với thủ_đoạn thu tiền từ những người chơi và cách phân_chia được quyết_định dựa trên kết_quả các trận đấu bóng 
-5,cũng có người chơi đoán trúng tỷ_số được các đối_tượng trả tiền  tuy_nhiên chúng lại móc_túi những người chơi khác bằng cách gian_lận tiền của những người chơi đoán không đúng tỷ_số 
-6,nhóm tội_phạm đã lừa_đảo chiếm_đoạt được số tiền hơn 16 tỷ won 
-7,cảnh_sát hàn_quốc đã xác_định được hành_vi phạm_tội của nhóm đối_tượng nêu trên đồng_thời gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil  có số hộ_chiếu m02376084  mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 1242016 của ban tổng_thư_ký interpol với tội_danh vi_phạm luật xúc_tiến thể_thao 
-8,sau khi nhận nhiệm_vụ  cục cảnh_sát truy_nã tội_phạm đã phối_hợp với cục đối_ngoại  các đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh và các đơn_vị thuộc bộ_quốc_phòng  công_an tp hà_nội  công_an tp hồ_chí_minh và các địa_bàn trọng_điểm tiến_hành rà_soát  truy bắt đối_tượng 
-9,trưa 175  phát_hiện một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã đi vào một khu chung_cư cao_cấp  tổ công_tác đã phối_hợp với công_an phường tân_phong  quận 7  tp hồ_chí_minh tổ_chức rà_soát và phát_hiện người sống tại khu chung_cư đó chính là đối_tượng truy_nã kwon_yonggi 
-10,đối_tượng kwon_yonggil đã bị bắt tại việt_nam khi chuẩn_bị thuê nhà để tiếp_tục gây_án 
+0,thông_tin ban_đầu lực_lượng cảnh_sát truy_nã tội_phạm bộ công_an biết một nhóm đối_tượng quốc_tịch hàn_quốc tổ_chức một trang_web đánh_bạc trực_tuyến mạng việt_nam trong thời_gian khá dài
+1,đối_tượng bắt tên kwon_yonggil 34 tuổi
+2,đối_tượng chịu trách_nhiệm quản_lý tiền mạng_lưới kín giữa khách_hàng
+3,hai đối_tượng còn oh_junghyun kim_myụngun giao nhiệm_vụ quản_lý trang_web chịu trách_nhiệm thu chuyển tiền khách_hàng hai người bắt_giữ trở_về hàn_quốc
+4,tháng 32013 đến đầu tháng 112013 philippin tháng 11/2015 đến tháng 1/2016 thủ_đoạn thu tiền người chơi cách phân_chia quyết_định dựa kết_quả trận đấu bóng
+5,người chơi đoán trúng tỷ_số đối_tượng trả tiền tuy_nhiên chúng móc_túi người chơi khác bằng cách gian_lận tiền người chơi đoán đúng tỷ_số
+6,nhóm tội_phạm lừa_đảo chiếm_đoạt số tiền hơn 16 tỷ won
+7,cảnh_sát hàn_quốc xác_định hành_vi phạm_tội nhóm đối_tượng nêu đồng_thời gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil số hộ_chiếu m02376084 mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 1242016 ban tổng_thư_ký interpol tội_danh vi_phạm luật xúc_tiến thể_thao
+8,nhận nhiệm_vụ cục cảnh_sát truy_nã tội_phạm phối_hợp cục đối_ngoại đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh đơn_vị thuộc bộ_quốc_phòng công_an tp hà_nội công_an tp hồ_chí_minh địa_bàn trọng_điểm tiến_hành rà_soát truy bắt đối_tượng
+9,trưa 175 phát_hiện một người hàn_quốc đặc_điểm giống đối_tượng truy_nã đi một khu chung_cư cao_cấp tổ công_tác phối_hợp công_an phường tân_phong quận 7 tp hồ_chí_minh tổ_chức rà_soát phát_hiện người sống khu chung_cư chính đối_tượng truy_nã kwon_yonggi
+10,đối_tượng kwon_yonggil bắt việt_nam chuẩn_bị thuê nhà tiếp_tục gây_án

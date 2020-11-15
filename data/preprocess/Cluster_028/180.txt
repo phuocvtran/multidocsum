@@ -1,9 +1,9 @@
 idx, sentence
-0,sputnik news ngày 205 dẫn thông_báo của công_ty cocacola_femsa cho biết công_ty này đã ngừng sản_xuất tại venezuela do thiếu đường 
-1,cocacola femsa là công_ty nhượng quyền đóng_chai của hãng nước_giải_khát cocacola  hoạt_động tại các quốc_gia như mexico  venezuela  colombia  argentina  brazil  philippines và khu_vực trung_mỹ 
-2, chúng_tôi không lường trước được việc phải đóng cửa văn_phòng trung_tâm 
-3,chúng_tôi vẫn chưa rời khỏi venezuela ”  thông_báo của công_ty cocacola_femsa nhấn_mạnh 
-4,theo thông_tin từ công_ty này  tới 90  các sản_phẩm do cocacola_femsa sản_xuất đều cần tới nguyên_liệu là đường 
-5,do_đó  tình_trạng thiếu đường buộc hoạt_động của cocacola tại venezuela phải ngưng lại 
-6,không chỉ đối_với mặt_hàng nước_giải_khát đóng_chai  nhiều doanh_nghiệp khác ở venezuela đã phải ngừng sản_xuất do thiếu nguyên_liệu 
-7,cụ_thể  hồi tháng 4  polar  nhà_sản_xuất thực_phẩm và đồ_uống lớn nhất của venezuela đã không_thể tiếp_tục sản_xuất bia do thiếu lúa_mạch 
+0,sputnik news ngày 205 dẫn thông_báo công_ty cocacola_femsa biết công_ty ngừng sản_xuất venezuela thiếu đường
+1,cocacola femsa công_ty nhượng quyền đóng_chai hãng nước_giải_khát cocacola hoạt_động quốc_gia mexico venezuela colombia argentina brazil philippines khu_vực trung_mỹ
+2,chúng_tôi lường đóng cửa văn_phòng trung_tâm
+3,chúng_tôi rời khỏi venezuela ” thông_báo công_ty cocacola_femsa nhấn_mạnh
+4,thông_tin công_ty tới 90 sản_phẩm cocacola_femsa sản_xuất tới nguyên_liệu đường
+5,do_đó tình_trạng thiếu đường buộc hoạt_động cocacola venezuela ngưng
+6,đối_với mặt_hàng nước_giải_khát đóng_chai doanh_nghiệp khác ở venezuela ngừng sản_xuất thiếu nguyên_liệu
+7,cụ_thể hồi tháng 4 polar nhà_sản_xuất thực_phẩm đồ_uống lớn nhất venezuela không_thể tiếp_tục sản_xuất bia thiếu lúa_mạch

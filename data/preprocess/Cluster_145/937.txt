@@ -1,6 +1,6 @@
 idx, sentence
-0,khoảng 14 h30 chiều 28/5  tại khu_vực đốc_sơ  phường an_hòa  thành_phố huế  xảy ra vụ tai_nạn giông sét gây thương_tích cho nhiều người đang đi làm_đồng 
-1,thời_điểm trên  nhóm nông_dân gồm ông hồ_nghĩa  sn 1968   nguyễn_văn_toán  sn 1970   hồ_lĩnh  sn 1999  cùng trú tổ 6  khu_vực 3  phường an_hòa  thành_phố huế  đi gieo sạ mạ tại vùng ruộng bàu_miêu  đốc_sơ  an_hòa  thì gặp trời mưa lớn kèm giông sét dữ_dội  nên vào trú tạm tại một chòi nhỏ ven ruộng 
-2,cùng vào chòi núp còn có 3 em nhỏ là học_sinh 
-3,sau khoảng 10 phút vào chòi trú mưa  bỗng sét mạnh đánh trúng vào vị_trí 6 người ẩn_nấp  khiến các nông_dân nghĩa  toán_lĩnh bị_thương nặng phải chuyển viện cấp_cứu 
-4,các nạn_nhân này được chẩn_đoán chấn_thương lưng  cột_sống  tê chi  tức ngực  bỏng  choáng  ba em nhỏ may_mắn chỉ bị tia sét tác_động nhẹ  tê nhức người  nên ở nhà để gia_đình tự điều_trị 
+0,khoảng 14 h30 chiều 28/5 khu_vực đốc_sơ phường an_hòa thành_phố huế xảy vụ tai_nạn giông sét gây thương_tích người đi làm_đồng
+1,thời_điểm nhóm nông_dân gồm ông hồ_nghĩa sn 1968 nguyễn_văn_toán sn 1970 hồ_lĩnh sn 1999 trú tổ 6 khu_vực 3 phường an_hòa thành_phố huế đi gieo sạ mạ vùng ruộng bàu_miêu đốc_sơ an_hòa gặp trời mưa lớn kèm giông sét dữ_dội trú tạm một chòi nhỏ ven ruộng
+2,chòi núp còn 3 em nhỏ học_sinh
+3,khoảng 10 phút chòi trú mưa bỗng sét mạnh đánh trúng vị_trí 6 người ẩn_nấp khiến nông_dân nghĩa toán_lĩnh bị_thương nặng chuyển viện cấp_cứu
+4,nạn_nhân chẩn_đoán chấn_thương lưng cột_sống tê chi tức ngực bỏng choáng ba em nhỏ may_mắn tia sét tác_động nhẹ tê nhức người ở nhà gia_đình tự điều_trị

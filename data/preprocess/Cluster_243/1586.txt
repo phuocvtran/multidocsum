@@ -1,10 +1,10 @@
 idx, sentence
-0,theo đó  trang facebook cá_nhân có tên là bnt viết  “ 15 h chiều 31/5  tại cổng bộ y_tế  138 b giảng_võ  hà_nội  3 người đàn_ông tự_xưng là nhân_viên bộ y_tế gây tai_nạn đâm vào xe của tôi nói luyên_thuyên vài câu  mồm nồng_nặc mùi rượu … bỏ chạy vào bộ 
-1,anh lái_xe đã đánh_xe bỏ chạy luôn  may_mà mình chặn đầu kịp  sau đấy vứt giữa đường rồi bỏ chạy 
-2,30 phút sau đó  anh áo kẻ trong nhóm 3 người quay ra nhảy lên xe định chạy tiếp thì mình ra nói_chuyện và anh này thái_độ kênh_kiệu  chỉ_trỏ vào mặt … mình và chị mình đứng chặn đầu xe  anh này định phóng xe chẹt vào … rất may lúc đó cán_bộ công_an phường ra ngăn_chặn chứ nếu không không biết chuyện gì sẽ xảy ra … ” gày 1/6  trả_lời báo_chí  một chiến_sĩ công_an phường kim_mã xác_nhận có sự_việc va_chạm giao_thông như facebooker trên miêu_tả xảy ra vào chiều 31/5 trước cổng bộ y_tế 
-3,theo đồng_chí công_an phường  ngay khi được người dân thông_báo  chiến_sĩ này đã trực_tiếp đến hiện_trường 
-4,“ sau khi va_chạm giao_thông  vị kia bỏ xe chạy và bị say_rượu 
-5,khi đó ông ấy còn chỉ mặt tôi và nói_tục … ” – chiến_sĩ công_an phường kể 
-6,ngoài_ra  người đàn_ông này còn xúc_phạm cả cảnh_sát giao_thông ra làm nhiệm_vụ 
-7,trong khi đó  theo một nguồn tin đáng tin_cậy  người đàn_ông trong ảnh chính là một quan_chức của bộ y_tế  phó chánh_văn_phòng 
-8,ông nguyễn_xuân_trường  chánh_văn_phòng bộ y_tế đã xác_nhận trong 3 người bị “ tố ” trên mạng có một vị cán_bộ của bộ y_tế còn lại 2 người không phải 
+0,trang facebook cá_nhân tên bnt viết “ 15 h chiều 31/5 cổng bộ y_tế 138 b giảng_võ hà_nội 3 người đàn_ông tự_xưng nhân_viên bộ y_tế gây tai_nạn đâm xe tôi nói luyên_thuyên vài câu mồm nồng_nặc mùi rượu … bỏ chạy bộ
+1,anh lái_xe đánh_xe bỏ chạy luôn may_mà mình chặn đầu kịp đấy vứt giữa đường bỏ chạy
+2,30 phút anh áo kẻ trong nhóm 3 người quay nhảy xe định chạy tiếp mình nói_chuyện anh thái_độ kênh_kiệu chỉ_trỏ mặt … mình chị mình đứng chặn đầu xe anh định phóng xe chẹt … may cán_bộ công_an phường ngăn_chặn biết xảy … ” gày 1/6 trả_lời báo_chí một chiến_sĩ công_an phường kim_mã xác_nhận sự_việc va_chạm giao_thông facebooker miêu_tả xảy chiều 31/5 cổng bộ y_tế
+3,đồng_chí công_an phường người dân thông_báo chiến_sĩ trực_tiếp đến hiện_trường
+4,“ va_chạm giao_thông vị kia bỏ xe chạy say_rượu
+5,ông ấy còn mặt tôi nói_tục … ” – chiến_sĩ công_an phường kể
+6,ngoài_ra người đàn_ông còn xúc_phạm cảnh_sát giao_thông làm nhiệm_vụ
+7,trong một nguồn tin đáng tin_cậy người đàn_ông trong ảnh chính một quan_chức bộ y_tế phó chánh_văn_phòng
+8,ông nguyễn_xuân_trường chánh_văn_phòng bộ y_tế xác_nhận trong 3 người “ tố ” mạng một vị cán_bộ bộ y_tế còn 2 người

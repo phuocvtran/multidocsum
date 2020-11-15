@@ -1,12 +1,12 @@
 idx, sentence
-0,angelina jolie là một trong bốn giảng_viên thỉnh_giảng mới của trường kinh_tế và khoa_học_chính_trị london  london_school_of_economics_and_political_science  lse   theo upi 
-1,các nhân_vật khác bao_gồm giám_đốc vận_động quốc_tế tổ_chức ân_xá quốc_tế jane_connors  cựu bộ_trưởng ngoại_giao vương_quốc anh lord_william_hague và tổng_thư_ký liên_đoàn phụ_nữ quốc_tế vì hòa bình và tự_do madeleine_rees 
-2,angelina jolie cùng các đồng_nghiệp sẽ đảm_nhận giảng_dạy chương_trình thạc_sĩ mới của trường  phụ_nữ  hòa_bình và an_ninh 
-3,bắt_đầu từ mùa thu năm 2016 tới đây  jolie sẽ tham_gia hội_thảo chuyên_gia  các sự_kiện cũng như tiến_hành nghiên_cứu của mình 
-4,được biết  trung_tâm phụ_nữ  hòa_bình và an_ninh xây_dựng “ để phát_triển các chiến_lược nhằm thúc_đẩy bình_đẳng giới và tăng_cường sự tham_gia của nữ_giới vào an_ninh  kinh_tế  xã_hội và chính_trị ” 
-5,christine_chinkin  giám_đốc trung_tâm  chia_sẻ  “ việc đưa các học_viên  các nhà hoạch_định chính_sách và các nhà hoạt_động cùng các học_giả đến với nhau là điều cần_thiết trong việc nâng cao kiến_thức và gây ảnh_hưởng đến hoạch_định chính_sách toàn_cầu và địa_phương 
-6,tôi rất vui_mừng chào_đón bốn nhà lãnh_đạo trong các lĩnh_vực tương_ứng của họ ” 
-7,angelina_jolie  đặc_phái_viên của cao_ủy liên_hiệp_quốc về người tị_nạn phát_biểu  “ tôi rất khuyến_khích việc xây_dựng chương_trình thạc_sĩ này 
-8,tôi hi_vọng các học_viện khác cũng làm theo ví_dụ này 
-9,điều quan_trọng là chúng_ta mở_rộng việc_làm thế_nào để thúc_đẩy quyền của phụ_nữ  chấm_dứt việc không trừng_phạt những tội_ác ảnh_hưởng tới phụ_nữ như bạo_lực tình_dục trong các cuộc xung_đột 
-10,tôi mong_chờ để được giảng_dạy và học_tập từ các bạn sinh_viên cũng như chia_sẻ kinh_nghiệm của bản_thân về quá_trình làm_việc với các chính_phủ và liên_hiệp_quốc ” 
+0,angelina jolie một trong bốn giảng_viên thỉnh_giảng mới trường kinh_tế khoa_học_chính_trị london london_school_of_economics_and_political_science lse upi
+1,nhân_vật khác bao_gồm giám_đốc vận_động quốc_tế tổ_chức ân_xá quốc_tế jane_connors cựu bộ_trưởng ngoại_giao vương_quốc anh lord_william_hague tổng_thư_ký liên_đoàn phụ_nữ quốc_tế hòa bình tự_do madeleine_rees
+2,angelina jolie đồng_nghiệp đảm_nhận giảng_dạy chương_trình thạc_sĩ mới trường phụ_nữ hòa_bình an_ninh
+3,bắt_đầu mùa thu năm 2016 tới jolie tham_gia hội_thảo chuyên_gia sự_kiện tiến_hành nghiên_cứu mình
+4,biết trung_tâm phụ_nữ hòa_bình an_ninh xây_dựng “ phát_triển chiến_lược nhằm thúc_đẩy bình_đẳng giới tăng_cường tham_gia nữ_giới an_ninh kinh_tế xã_hội chính_trị ”
+5,christine_chinkin giám_đốc trung_tâm chia_sẻ “ đưa học_viên nhà hoạch_định chính_sách nhà hoạt_động học_giả đến nhau cần_thiết trong nâng cao kiến_thức gây ảnh_hưởng đến hoạch_định chính_sách toàn_cầu địa_phương
+6,tôi vui_mừng chào_đón bốn nhà lãnh_đạo trong lĩnh_vực tương_ứng họ ”
+7,angelina_jolie đặc_phái_viên cao_ủy liên_hiệp_quốc về người tị_nạn phát_biểu “ tôi khuyến_khích xây_dựng chương_trình thạc_sĩ
+8,tôi hi_vọng học_viện khác làm ví_dụ
+9,quan_trọng chúng_ta mở_rộng việc_làm thế_nào thúc_đẩy quyền phụ_nữ chấm_dứt trừng_phạt tội_ác ảnh_hưởng tới phụ_nữ bạo_lực tình_dục trong cuộc xung_đột
+10,tôi mong_chờ giảng_dạy học_tập bạn sinh_viên chia_sẻ kinh_nghiệm bản_thân về quá_trình làm_việc chính_phủ liên_hiệp_quốc ”

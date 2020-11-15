@@ -1,25 +1,25 @@
 idx, sentence
-0,doanh_nghiệp việt liên_thủ để tồn_tại với mục_tiêu đồng_hành  hỗ_trợ và thúc_đẩy sản_xuất nội_địa  ngày 1/6  tập_đoàn vingroup tổ_chức lễ ký_kết_hợp_tác với gần 250 doanh_nghiệp thuộc 7 ngành hàng_tiêu_dùng cơ_bản là thực_phẩm  hóa mỹ_phẩm  văn_phòng_phẩm  đồ_chơi  hàng gia_dụng  hàng thực_phẩm tươi_sống  thời_trang  bông vải_sợi đến từ 18 tỉnh  thành_phố trên toàn_quốc 
-1,theo thỏa_thuận  tập_đoàn vingroup và các công_ty thành_viên gồm vincommerce  vincom_retail  vineco  vinds sẽ triển_khai các gói giải_pháp ưu_đãi về phân_phối  tăng_cường hiện_diện thương_hiệu  tư_vấn công_nghệ  quản_trị và kiểm_soát chất_lượng  marketing  tiêu_thụ hàng_hóa  tham_gia góp vốn nâng cao hiệu_quả sản_xuất 
-2,tại lễ ký  hơn 140 doanh_nghiệp đã ký hợp_tác về phân_phối  theo đó trong vòng một năm  từ 1/6/2016 đến 1/6/2017 các doanh_nghiệp sẽ được hỗ_trợ đưa hàng vào siêu_thị vinmart và vinmart  của vingroup với các điều_kiện ưu_đãi hợp_lý 
-3,riêng các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây …  sẽ được hưởng mức chiết_khấu bằng 0  
-4,lý_giải về việc bán hộ_sản_phẩm  không thu tiền chiết_khấu  ông lê_khắc_hiệp  phó chủ_tịch tập_đoàn vingroup cho biết  đây là hình_thức bán hộ không lãi đồng_thời cam_kết trả cho đối_tác doanh_thu theo đúng mức giá công_bố thông_thường 
-5,toàn_bộ phần chiết_khấu sẽ được vinmart và vinmart  hoàn_trả 100  về nhà cung_cấp  với mục_đích tạo thêm nguồn kinh_phí để doanh_nghiệp tái_đầu_tư vào chất_lượng sản_phẩm và có thêm điều_kiện thực_hiện nghiêm_ngặt các tiêu_chuẩn  quy_định về an_toàn  vệ_sinh thực_phẩm 
-6,bên_cạnh đó  vingroup cũng khuyến_khích các nhà_cung_cấp điều_chỉnh giảm giá bán để hỗ_trợ người tiêu_dùng 
-7,đổi lại  các doanh_nghiệp được hỗ_trợ phân_phối trên hệ_thống của tập_đoàn sẽ phải cam_kết sản_xuất và cung_cấp ra thị_trường các sản_phẩm có chất_lượng cao  phù_hợp tiêu_chuẩn chất_lượng theo đúng quy_định của pháp_luật và đáp_ứng được yêu_cầu của thị_trường 
-8,“ mục_tiêu của chương_trình là thúc_đẩy sản_xuất trong nước  góp_phần tạo nguồn thực_phẩm sạch và hàng_tiêu_dùng có chất_lượng cho thị_trường đồng_thời xây_dựng các thương_hiệu quốc_gia  tiến tới là các thương_hiệu đẳng_cấp quốc_tế 
-9,chương_trình chú_trọng ưu_tiên cho nhóm hàng thực_phẩm an_toàn 
-10,đây chính là mục_tiêu của vingroup nhằm góp_phần bảo_vệ sức_khỏe cho cộng_đồng ”  ông hiệp cho biết 
-11,phải liên_kết để tồn_tại đất_nước chỉ mạnh  kinh_tế chỉ phát_triển bền_vững khi có một cộng_đồng doanh_nghiệp nội_địa mạnh mà nòng_cốt là những doanh_nghiệp dịch_vụ và công_nghiệp có giá_trị gia_tăng  năng_suất lao_động và sức cạnh_tranh cao là ý_kiến của chuyên_gia kinh_tế phạm_chi_lan khi phân_tích về những lỗ_hổng trong liên_kết sản_xuất của các doanh_nghiệp việt 
-12,theo bà lan  nhìn tổng_thể  hoạt_động của các doanh_nghiệp việt đang cho thấy mối lo ngày_càng gia_tăng mặc_dù 
-13,những năm gần đây  đầu_tư nước_ngoài vào việt_nam ngày_càng tăng 
-14,đặc_biệt trong lĩnh_vực chế_tạo và xuất_khẩu  các doanh_nghiệp đầu_tư nước_ngoài  fdi  có thị_phần ngày_càng tăng 
-15,trong lĩnh_vực công_nghiệp  các doanh_nghiệp fdi đang chiếm khoảng 50  sản_lượng công_nghiệp của nền kinh_tế trong khi lĩnh_vực chế_tạo chiếm tới gần 70  
-16,trong lĩnh_vực xuất_khẩu  hàng việt_nam có nhiều nhưng không lắm được bao_nhiêu thị_phần khi có tới 70  thương_hiệu có lượng xuất_khẩu lớn lại thuộc về các doanh_nghiệp ngoại 
-17,điều đáng buồn nhất là hoạt_động của các dn việt dường_như đang bị chững lại 
-18,“ nghiên_cứu gần đây cho thấy  tới 70  dn việt chỉ hoạt_động trong nước  30  có tham_gia xuất_khẩu thì vẫn tìm mọi cách giữ thị_phần trong nước để đảm_bảo chỗ lùi an_toàn trong bối_cảnh thế_giới biến_động 
-19,nhưng khi về với thị_trường trong nước  dn đối_mặt với việc 97  dn nhỏ và vừa không làm được tất_cả các khâu 
-20,họ có_thể sản_xuất tốt nhưng rất cần sự tiếp_tay của các dn phân_phối để đưa hàng ra thị_trường 
-21,nếu không tạo được sự liên_kết  các dn sẽ gặp rất nhiều khó_khăn 
-22,việc vingroup bắt_tay với 250 doanh_nghiệp để tiêu_thụ các sản_phẩm sạch  chất_lượng cao là sự kết_nối đôi bên cùng có lợi để cùng phát_triển bền vũng trong việc phát_triển  cung_cấp cho người tiêu_dùng các sản_phẩm tốt ”  bà lan chia_sẻ 
-23,giám_đốc điều_hành tổng_công_ty may nhà_bè  bà lê_thị_hà_chi cho rằng  việc tập_hợp được các doanh_nghiệp trong nước cùng đồng_hành  hỗ_trợ thúc_đẩy sản_xuất nội_địa có ý_nghĩa rất lớn  đặc_biệt là với ngành dệt_may  ngành mang lại kim_ngạch tới 27 tỷ usd / năm và đang phải đối_diện với rất nhiều khó_khăn khi hội_nhập do phụ_thuộc quá nhiều vào việc gia_công xuất_khẩu 
+0,doanh_nghiệp việt liên_thủ tồn_tại mục_tiêu đồng_hành hỗ_trợ thúc_đẩy sản_xuất nội_địa ngày 1/6 tập_đoàn vingroup tổ_chức lễ ký_kết_hợp_tác gần 250 doanh_nghiệp thuộc 7 ngành hàng_tiêu_dùng cơ_bản thực_phẩm hóa mỹ_phẩm văn_phòng_phẩm đồ_chơi hàng gia_dụng hàng thực_phẩm tươi_sống thời_trang bông vải_sợi đến 18 tỉnh thành_phố toàn_quốc
+1,thỏa_thuận tập_đoàn vingroup công_ty thành_viên gồm vincommerce vincom_retail vineco vinds triển_khai gói giải_pháp ưu_đãi về phân_phối tăng_cường hiện_diện thương_hiệu tư_vấn công_nghệ quản_trị kiểm_soát chất_lượng marketing tiêu_thụ hàng_hóa tham_gia góp vốn nâng cao hiệu_quả sản_xuất
+2,lễ ký hơn 140 doanh_nghiệp ký hợp_tác về phân_phối trong vòng một năm 1/6/2016 đến 1/6/2017 doanh_nghiệp hỗ_trợ đưa hàng siêu_thị vinmart vinmart vingroup điều_kiện ưu_đãi hợp_lý
+3,riêng doanh_nghiệp cung_ứng thực_phẩm đặc_biệt thực_phẩm tươi_sống thịt cá gia_cầm rau củ quả trái_cây … hưởng mức chiết_khấu bằng 0
+4,lý_giải về bán hộ_sản_phẩm thu tiền chiết_khấu ông lê_khắc_hiệp phó chủ_tịch tập_đoàn vingroup biết hình_thức bán hộ lãi đồng_thời cam_kết trả đối_tác doanh_thu đúng mức giá công_bố thông_thường
+5,toàn_bộ phần chiết_khấu vinmart vinmart hoàn_trả 100 về nhà cung_cấp mục_đích tạo thêm nguồn kinh_phí doanh_nghiệp tái_đầu_tư chất_lượng sản_phẩm thêm điều_kiện thực_hiện nghiêm_ngặt tiêu_chuẩn quy_định về an_toàn vệ_sinh thực_phẩm
+6,bên_cạnh vingroup khuyến_khích nhà_cung_cấp điều_chỉnh giảm giá bán hỗ_trợ người tiêu_dùng
+7,đổi doanh_nghiệp hỗ_trợ phân_phối hệ_thống tập_đoàn cam_kết sản_xuất cung_cấp thị_trường sản_phẩm chất_lượng cao phù_hợp tiêu_chuẩn chất_lượng đúng quy_định pháp_luật đáp_ứng yêu_cầu thị_trường
+8,“ mục_tiêu chương_trình thúc_đẩy sản_xuất trong nước góp_phần tạo nguồn thực_phẩm sạch hàng_tiêu_dùng chất_lượng thị_trường đồng_thời xây_dựng thương_hiệu quốc_gia tiến tới thương_hiệu đẳng_cấp quốc_tế
+9,chương_trình chú_trọng ưu_tiên nhóm hàng thực_phẩm an_toàn
+10,chính mục_tiêu vingroup nhằm góp_phần bảo_vệ sức_khỏe cộng_đồng ” ông hiệp biết
+11,liên_kết tồn_tại đất_nước mạnh kinh_tế phát_triển bền_vững một cộng_đồng doanh_nghiệp nội_địa mạnh nòng_cốt doanh_nghiệp dịch_vụ công_nghiệp giá_trị gia_tăng năng_suất lao_động sức cạnh_tranh cao ý_kiến chuyên_gia kinh_tế phạm_chi_lan phân_tích về lỗ_hổng trong liên_kết sản_xuất doanh_nghiệp việt
+12,bà lan nhìn tổng_thể hoạt_động doanh_nghiệp việt thấy mối lo ngày_càng gia_tăng mặc_dù
+13,năm gần đầu_tư nước_ngoài việt_nam ngày_càng tăng
+14,đặc_biệt trong lĩnh_vực chế_tạo xuất_khẩu doanh_nghiệp đầu_tư nước_ngoài fdi thị_phần ngày_càng tăng
+15,trong lĩnh_vực công_nghiệp doanh_nghiệp fdi chiếm khoảng 50 sản_lượng công_nghiệp nền kinh_tế trong lĩnh_vực chế_tạo chiếm tới gần 70
+16,trong lĩnh_vực xuất_khẩu hàng việt_nam lắm bao_nhiêu thị_phần tới 70 thương_hiệu lượng xuất_khẩu lớn thuộc về doanh_nghiệp ngoại
+17,đáng buồn nhất hoạt_động dn việt dường_như chững
+18,“ nghiên_cứu gần thấy tới 70 dn việt hoạt_động trong nước 30 tham_gia xuất_khẩu tìm mọi cách giữ thị_phần trong nước đảm_bảo chỗ lùi an_toàn trong bối_cảnh thế_giới biến_động
+19,về thị_trường trong nước dn đối_mặt 97 dn nhỏ làm tất_cả khâu
+20,họ sản_xuất tốt tiếp_tay dn phân_phối đưa hàng thị_trường
+21,tạo liên_kết dn gặp khó_khăn
+22,vingroup bắt_tay 250 doanh_nghiệp tiêu_thụ sản_phẩm sạch chất_lượng cao kết_nối đôi bên lợi phát_triển bền vũng trong phát_triển cung_cấp người tiêu_dùng sản_phẩm tốt ” bà lan chia_sẻ
+23,giám_đốc điều_hành tổng_công_ty may nhà_bè bà lê_thị_hà_chi tập_hợp doanh_nghiệp trong nước đồng_hành hỗ_trợ thúc_đẩy sản_xuất nội_địa ý_nghĩa lớn đặc_biệt ngành dệt_may ngành mang kim_ngạch tới 27 tỷ usd / năm đối_diện khó_khăn hội_nhập phụ_thuộc quá gia_công xuất_khẩu

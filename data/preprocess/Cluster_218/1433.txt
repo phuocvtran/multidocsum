@@ -1,10 +1,10 @@
 idx, sentence
-0,phó chủ_tịch ubnd tphcm trần_vĩnh_tuyến cho biết  một doanh_nghiệp singapore đã đề_nghị trang_bị wifi miễn_phí cho thành_phố để khách du_lịch có_thể tiện tra_cứu khi đến thành_phố 
-1,dịch_vụ này cũng sẽ giúp thực_hiện nhiều vấn_đề trong việc xây_dựng chính_quyền điện_tử mà thành_phố đang tập_trung triển_khai 
-2, tôi đã làm_việc với dn này và sẽ có văn_bản chính_thức 
-3,còn làm thí_điểm hay đại_trà sẽ phải tính_toán   ông tuyến nói vị phó chủ_tịch thông_tin thêm  hệ_thống wifi có 2 cấp_độ  đối_với những nơi cần điểm nhấn thì tốc_độ nhanh hơn để tiện_lợi cho việc tra_cứu 
-4,bà văn_thị_bạch_tuyết  gđ_sở du_lịch tphcm cho hay  việc tp phủ_sóng wifi miễn_phí sẽ mang lại nhiều tiện_ích  nhất_là với du_lịch 
-5,tuy_nhiên  bà tuyết cũng băn_khoăn  đã lắp wifi miễn_phí phải đảm_bảo chất_lượng để người dân sử_dụng  yếu quá lại không hay 
-6,ở tphcm  nhiều địa_điểm công_cộng như phố đi bộ nguyễn_huệ và các bệnh_viện lớn đều được phủ_sóng wifi miễn_phí cho người dân sử_dụng 
-7,trong khi đó  tại việt_nam  vào năm 2012  hội_an  quảng_nam  trở_thành thành_phố đầu_tiên triển_khai hệ_thống wifi miễn_phí với 350 điểm phát_sóng 
-8,sau đó  hạ_long và cố_đô huế là hai địa_phương tiếp_theo phủ wifi  góp_phần nâng cao dân_trí và hoạt_động giáo_dục – đào_tạo qua mạng  quảng_bá du_lịch  giám_sát và cảnh_báo ô_nhiễm môi_trường  quản_lý giao_thông đô_thị  
+0,phó chủ_tịch ubnd tphcm trần_vĩnh_tuyến biết một doanh_nghiệp singapore đề_nghị trang_bị wifi miễn_phí thành_phố khách du_lịch tiện tra_cứu đến thành_phố
+1,dịch_vụ giúp thực_hiện vấn_đề trong xây_dựng chính_quyền điện_tử thành_phố tập_trung triển_khai
+2,tôi làm_việc dn văn_bản chính_thức
+3,còn làm thí_điểm hay đại_trà tính_toán ông tuyến nói vị phó chủ_tịch thông_tin thêm hệ_thống wifi 2 cấp_độ đối_với điểm nhấn tốc_độ nhanh hơn tiện_lợi tra_cứu
+4,bà văn_thị_bạch_tuyết gđ_sở du_lịch tphcm hay tp phủ_sóng wifi miễn_phí mang tiện_ích nhất_là du_lịch
+5,tuy_nhiên bà tuyết băn_khoăn lắp wifi miễn_phí đảm_bảo chất_lượng người dân sử_dụng yếu quá hay
+6,ở tphcm địa_điểm công_cộng phố đi bộ nguyễn_huệ bệnh_viện lớn phủ_sóng wifi miễn_phí người dân sử_dụng
+7,trong việt_nam năm 2012 hội_an quảng_nam trở_thành thành_phố đầu_tiên triển_khai hệ_thống wifi miễn_phí 350 điểm phát_sóng
+8,hạ_long cố_đô huế hai địa_phương tiếp_theo phủ wifi góp_phần nâng cao dân_trí hoạt_động giáo_dục – đào_tạo mạng quảng_bá du_lịch giám_sát cảnh_báo ô_nhiễm môi_trường quản_lý giao_thông đô_thị

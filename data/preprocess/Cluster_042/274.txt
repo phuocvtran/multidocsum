@@ -1,7 +1,7 @@
 idx, sentence
-0,chiều 20/5  nam diễn_viên nổi_tiếng của bộ phim arrow  mũi_tên xanh  paul_blackthorne đã có cuộc trò_chuyện với các bạn sinh_viên việt_nam về nạn săn_bắt và sử_dụng sừng tê_giác trên thế_giới và việt_nam 
-1,đây là sự_kiện mở_màn cho chiến_dịch  việt_nam ơi  bảo_vệ tê_giác  do chính anh phát_động vào tháng 4 vừa_qua 
-2,paul blackthorne là ngôi_sao điện_ảnh hollywood nổi_danh qua nhiều bộ phim ăn_khách như lagaan  ấn_độ ngày ấy   csi_miami  đội điều_tra miami   white_collar  cổ_cồn trắng   đặc_biệt  vai diễn thám_tử quentin_lance của anh trong serie truyền_hình giả_tưởng  mũi_tên xanh  được rất nhiều khán_giả việt_nam yêu_thích 
-3,paul blackthorne còn được biết tới với vai_trò một nhà hoạt_động xã_hội tích_cực 
-4,anh đã có nhiều hoạt_động kêu_gọi cộng_đồng cùng_chung tay bảo_vệ các loại động_vật đứng trước nguy_cơ tuyệt_chủng 
-5,anh đã chọn việt_nam cho chiến_dịch bảo_vệ tê_giác của mình 
+0,chiều 20/5 nam diễn_viên nổi_tiếng bộ phim arrow mũi_tên xanh paul_blackthorne cuộc trò_chuyện bạn sinh_viên việt_nam về nạn săn_bắt sử_dụng sừng tê_giác thế_giới việt_nam
+1,sự_kiện mở_màn chiến_dịch việt_nam ơi bảo_vệ tê_giác chính anh phát_động tháng 4 vừa_qua
+2,paul blackthorne ngôi_sao điện_ảnh hollywood nổi_danh bộ phim ăn_khách lagaan ấn_độ ngày ấy csi_miami đội điều_tra miami white_collar cổ_cồn trắng đặc_biệt vai diễn thám_tử quentin_lance anh trong serie truyền_hình giả_tưởng mũi_tên xanh khán_giả việt_nam yêu_thích
+3,paul blackthorne còn biết tới vai_trò một nhà hoạt_động xã_hội tích_cực
+4,anh hoạt_động kêu_gọi cộng_đồng cùng_chung tay bảo_vệ loại động_vật đứng nguy_cơ tuyệt_chủng
+5,anh chọn việt_nam chiến_dịch bảo_vệ tê_giác mình

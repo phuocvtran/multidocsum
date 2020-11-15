@@ -1,17 +1,17 @@
 idx, sentence
-0,chiều nay  3/6   tin từ công_an tỉnh hà_nam cho_biết  đêm 29/5  chị lê_thị_hn  17 tuổi  đang học lớp 11  trú ở huyện kim_bảng  ngồi tâm_sự với bạn trai là anh nguyễn_đình_t  25 tuổi  trú ở xã duy_minh  huyện duy_tiên  gần khu nghĩa_trang xã duy_minh 
-1,trong lúc 2 người đang tâm_sự thì có nam thanh_niên điều_khiển xe_máy đến dùng dao đe_dọa 
-2,người này nói rằng anh n nợ tiền hắn chưa trả và yêu_cầu anh trả tiền 
-3,trong lúc chưa hiểu chuyện gì xảy ra thì hắn tiếp_tục đe_dọa  ép anh t đưa ví tiền trong đó có 15 triệu đồng và chiếc điện_thoại_di_động 
-4,sau đó  anh t tiếp_tục bị tên cướp ép lên xe_máy của hắn rồi di_chuyển gần 2 km 
-5,sau đó  anh t bị tên cướp bỏ lại giữa nơi vắng_vẻ 
-6,một lát sau  anh t chạy lại chỗ 2 người đã ngồi tâm_sự nhưng không thấy chị hn đâu nên đã đến trụ_sở công_an huyện duy_tiên trình_báo 
-7,lát sau  lực_lượng chức_năng tỏa đi tìm_kiếm thì thấy chị hn đã có_mặt tại nhà 
-8,chị hn cho biết  sau khi đưa bạn trai đi ra nơi vắng_vẻ  tên cướp đã quay lại ép chị lên xe rồi chở đến khu_vực xã tiên_nội  huyện duy_tiên 
-9,tên cướp dùng dao đe_dọa  ép chị hn
-10,phải quan_hệ tình_dục 
-11,sau khi thỏa_mãn thú_tính  tên này chở chị ra đường_quốc_lộ rồi đưa cho 100 nghìn đồng để bắt xe về nhà 
-12,chỉ sau vài ngày tiếp_nhận sự_việc  ngày 2/6  công_an huyện duy_tiên  hà_nam  ra_lệnh bắt khẩn_cấp đối_tượng dương_văn_dũng  sn 1988  trú ở thị_trấn kiện_khê  huyện thanh_liêm  hà_nam  về tội cướp tài_sản và hiếp_dâm 
-13,tại cơ_quan công_an dũng khai nhận  đã dùng dao đe_dọa  cướp tài_sản của anh t và chị n 1 điện_thoại_di_động  15 triệu đồng  sau đó dùng dao khống_chế chị n để giở_trò đồi_bại 
-14,thực_hiện_hành_vi phạm tội xong  dũng đi đến địa_bàn xã tiên_ngoại  huyện duy_tiên gặp 1 đôi_nam_nữ khác đang ngồi tâm_sự  dũng tiếp_tục dùng dao đe_dọa  cướp của đôi_nam_nữ 3 chiếc điện_thoại_di_động 
-15,sau khi gây_án dũng lẩn trốn tại thị_trấn kiện_khê rồi bị bắt 
+0,chiều nay 3/6 tin công_an tỉnh hà_nam cho_biết đêm 29/5 chị lê_thị_hn 17 tuổi học lớp 11 trú ở huyện kim_bảng ngồi tâm_sự bạn trai anh nguyễn_đình_t 25 tuổi trú ở xã duy_minh huyện duy_tiên gần khu nghĩa_trang xã duy_minh
+1,trong 2 người tâm_sự nam thanh_niên điều_khiển xe_máy đến dùng dao đe_dọa
+2,người nói anh n nợ tiền hắn trả yêu_cầu anh trả tiền
+3,trong hiểu xảy hắn tiếp_tục đe_dọa ép anh t đưa ví tiền trong 15 triệu đồng điện_thoại_di_động
+4,anh t tiếp_tục tên cướp ép xe_máy hắn di_chuyển gần 2 km
+5,anh t tên cướp bỏ giữa vắng_vẻ
+6,một lát anh t chạy chỗ 2 người ngồi tâm_sự thấy chị hn đâu đến trụ_sở công_an huyện duy_tiên trình_báo
+7,lát lực_lượng chức_năng tỏa đi tìm_kiếm thấy chị hn có_mặt nhà
+8,chị hn biết đưa bạn trai đi vắng_vẻ tên cướp quay ép chị xe chở đến khu_vực xã tiên_nội huyện duy_tiên
+9,tên cướp dùng dao đe_dọa ép chị hn
+10,quan_hệ tình_dục
+11,thỏa_mãn thú_tính tên chở chị đường_quốc_lộ đưa 100 nghìn đồng bắt xe về nhà
+12,vài ngày tiếp_nhận sự_việc ngày 2/6 công_an huyện duy_tiên hà_nam ra_lệnh bắt khẩn_cấp đối_tượng dương_văn_dũng sn 1988 trú ở thị_trấn kiện_khê huyện thanh_liêm hà_nam về tội cướp tài_sản hiếp_dâm
+13,cơ_quan công_an dũng khai nhận dùng dao đe_dọa cướp tài_sản anh t chị n 1 điện_thoại_di_động 15 triệu đồng dùng dao khống_chế chị n giở_trò đồi_bại
+14,thực_hiện_hành_vi phạm tội xong dũng đi đến địa_bàn xã tiên_ngoại huyện duy_tiên gặp 1 đôi_nam_nữ khác ngồi tâm_sự dũng tiếp_tục dùng dao đe_dọa cướp đôi_nam_nữ 3 điện_thoại_di_động
+15,gây_án dũng lẩn trốn thị_trấn kiện_khê bắt

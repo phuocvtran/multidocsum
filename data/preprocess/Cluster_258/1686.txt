@@ -1,7 +1,7 @@
 idx, sentence
-0,một trong những nguyên_nhân lớn nhất giúp đt việt_nam tăng đến 12 bậc trên bxh_fifa tháng 6/2016 là nhờ chiến_thắng vang_dội 20 trước syria 
-1,nên nhớ rằng thầy_trò hlv alhakim đã lọt vào danh_sách 12 đội xuất_sắc nhất châu_á và tham_dự vòng loại cuối_cùng của world_cup 2018 
-2,vì_thế chiến_thắng vào ngày 31/5 vừa_qua giúp thầy_trò hlv hữu_thắng vươn lên mạnh_mẽ sau một thời_gian dài tụt sâu xuống bxh của lđbđ thế_giới 
-3,tuy đã tăng tới 12 bậc và đứng thứ 19 châu_á nhưng đt việt_nam vẫn chỉ đứng thứ 3 tại đông_nam_á do thái_lan đứng thứ 117 thế_giới  còn philippines đứng 120 thế_giới 
-4,trong nhóm đầu không có sự thay_đổi  iran vẫn dẫn_đầu với vị_trí 39 thế_giới 
-5,hàn_quốc  nhật_bản  australia đứng phía sau với lần_lượt các vị_trí 50  53 và 59 thế_giới 
+0,một trong nguyên_nhân lớn nhất giúp đt việt_nam tăng đến 12 bậc bxh_fifa tháng 6/2016 nhờ chiến_thắng vang_dội 20 syria
+1,nhớ thầy_trò hlv alhakim lọt danh_sách 12 đội xuất_sắc nhất châu_á tham_dự vòng loại cuối_cùng world_cup 2018
+2,vì_thế chiến_thắng ngày 31/5 vừa_qua giúp thầy_trò hlv hữu_thắng vươn mạnh_mẽ một thời_gian dài tụt sâu xuống bxh lđbđ thế_giới
+3,tuy tăng tới 12 bậc đứng thứ 19 châu_á đt việt_nam đứng thứ 3 đông_nam_á thái_lan đứng thứ 117 thế_giới còn philippines đứng 120 thế_giới
+4,trong nhóm đầu thay_đổi iran dẫn_đầu vị_trí 39 thế_giới
+5,hàn_quốc nhật_bản australia đứng phía lần_lượt vị_trí 50 53 59 thế_giới

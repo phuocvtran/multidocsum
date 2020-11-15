@@ -1,11 +1,11 @@
 idx, sentence
-0,trước đó  em nguyễn_thành_công  trú tại tphcm  cùng bố_mẹ về quê ngoại chơi 
-1,khoảng 17 g30 ngày 315  trong lúc cùng bạn đạp xe dạo_chơi ở khu công_viên biển xã tam_thanh  khi đến trước nhà_hàng ba_cơ  thôn hạ_thanh 1  xã tam_thanh  thì em bị vướng vào đường_dây_điện chiếu sáng cách mặt_đường trước quán khoảng 1 m và bị rò_rỉ điện nên em bị điện giật chết 
-2,theo điện_lực tam_kỳ  đường_dây_điện trên được chủ nhà_hàng ba_cơ mua điện và kéo về sử_dụng tại nhà_hàng 
-3,trao_đổi với tuổi_trẻ  ông nguyễn_tuấn  đại_diện chủ nhà_hàng ba_cơ  cho biết từ năm 2015  thực_hiện theo quy_hoạch của ubnd tp tam_kỳ  nhà_hàng đã di_dời cách nhà_hàng cũ  nơi em công bị nạn  150 m để nhường đất làm công_viên 
-4,còn chỗ cũ đó  nhà_hàng bắt một đường_dây_điện chiếu_sáng cho nhân_viên về ngủ qua đêm 
-5,do sơ_suất nên nhà_hàng_không để_ý đường_dây_điện này bị sà thấp dưới đất mới gây ra vụ_việc đau_lòng 
-6,“ sự_việc đau_lòng  xảy ra ngoài ý_muốn 
-7,chúng_tôi thành thật nhận trách_nhiệm  xin_lỗi gia_đình cháu công ”  ông tuấn nói 
-8,ông nguyễn_thanh_bình cho biết sau khi sự_việc xảy ra  các cơ_quan_chức_năng đã vào cuộc điều_tra để làm rõ vụ_việc 
-9,toàn_bộ hồ_sơ do công_an thành_phố xử_lý 
+0,em nguyễn_thành_công trú tphcm bố_mẹ về quê ngoại chơi
+1,khoảng 17 g30 ngày 315 trong bạn đạp xe dạo_chơi ở khu công_viên biển xã tam_thanh đến nhà_hàng ba_cơ thôn hạ_thanh 1 xã tam_thanh em vướng đường_dây_điện chiếu sáng cách mặt_đường quán khoảng 1 m rò_rỉ điện em điện giật chết
+2,điện_lực tam_kỳ đường_dây_điện chủ nhà_hàng ba_cơ mua điện kéo về sử_dụng nhà_hàng
+3,trao_đổi tuổi_trẻ ông nguyễn_tuấn đại_diện chủ nhà_hàng ba_cơ biết năm 2015 thực_hiện quy_hoạch ubnd tp tam_kỳ nhà_hàng di_dời cách nhà_hàng cũ em công nạn 150 m nhường đất làm công_viên
+4,còn chỗ cũ nhà_hàng bắt một đường_dây_điện chiếu_sáng nhân_viên về ngủ đêm
+5,sơ_suất nhà_hàng_không để_ý đường_dây_điện sà thấp đất mới gây vụ_việc đau_lòng
+6,“ sự_việc đau_lòng xảy ngoài ý_muốn
+7,chúng_tôi thành thật nhận trách_nhiệm xin_lỗi gia_đình cháu công ” ông tuấn nói
+8,ông nguyễn_thanh_bình biết sự_việc xảy cơ_quan_chức_năng cuộc điều_tra làm rõ vụ_việc
+9,toàn_bộ hồ_sơ công_an thành_phố xử_lý

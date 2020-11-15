@@ -1,21 +1,21 @@
 idx, sentence
-0,ông võ_văn_hoan  chánh_văn_phòng kiêm người phát_ngôn của ubnd tphcm khẳng_định như trên khi trả_lời báo_chí hôm_nay 305 về vụ siết nợ gây xôn_xao dư_luận xảy ra tại chung_cư the_harmona  qtân_bình  tphcm  
-1,liên_quan đến vụ_việc này  theo ông trần_văn_thạch  phó giám_đốc sở tnmt_tphcm  vụ siết nợ tại chung_cư the_harmona không phải là vụ đầu_tiên xảy ra trên địa_bàn tphcm
-2,trước đó  trên địa_bàn tp từng xảy ra một_số vụ tương_tự  đó là chủ đầu_tư bán căn_hộ cho người dân nhưng vẫn lấy tài_sản đó cầm_cố vay ngân_hàng 
-3,trong tình_thế tréo_ngoe như_thế  việc cấp giấy chứng_nhận nhà cho người dân được thực_hiện ra_sao 
-4,ông trần_văn_thạch cho biết trước tình_thế này tphcm từng có văn_bản gửi bộ_tư_pháp và các bộ ngành về trình_tự thủ_tục  cách_thức giải_quyết 
-5,theo đó  để đảm_bảo quyền_lợi chính_đáng của người dân đã mua căn_hộ  việc cấp giấy chứng_nhận vẫn được thực_hiện  trên cơ_sở giữa chủ đầu_tư và ngân_hàng nhận thế_chấp tài_sản phải ngồi lại với nhau  thỏa_thuận cho chủ đầu_tư được sử_dụng một tài_sản khác để thế_chấp thay cho tài_sản đã bán cho người dân 
-6,tuy_nhiên  theo ông trần_văn_thạch  hiện chỉ mới có người dân ở một_vài dự_án rơi vào tình_thế đó được giải_quyết cấp giấy chứng_nhận 
-7,đa_phần các trường_hợp tương_tự còn lại đều bị “ treo ” giấy chứng_nhận khiến người dân bức_xúc vì quyền_lợi chính_đáng bị thiệt_thòi 
-8,nói thêm về vấn_đề này  ông võ_văn_hoan khẳng_định  “ trong trường_hợp này  người mua căn_hộ không có lỗi gì cả 
-9,vấn_đề nằm ở giữa chủ đầu_tư và ngân_hàng 
-10,quan_điểm của ubnd tphcm là bảo_vệ quyền_lợi chính_đáng của người dân đã mua căn_hộ hợp_pháp ” 
-11,ông võ_văn_hoan cho rằng chủ đầu_tư và ngân_hàng phải làm_việc với nhau để giải_quyết dứt_điểm việc thế_chấp  vay vốn nhằm trả lại quyền_sở_hữu căn_hộ hợp_pháp của người dân đã bỏ tiền ra mua 
-12,việc ngân_hàng đòi siết căn_hộ của người dân đã mua để cấn trừ nợ của chủ đầu_tư là hoàn_toàn không phù_hợp 
-13,nếu vẫn bị siết nợ một_cách tréo_ngoe như vậy  người_dân có quyền khởi_kiện ra tòa 
-14,theo ông võ_văn_hoan  phía ngân_hàng cho vay trong trường_hợp này cũng cần xem_lại nội_bộ của mình  bởi_lẽ khi giải_ngân cho vay  ngân_hàng có trách_nhiệm kiểm_tra tài_sản thế_chấp có hợp_lệ hay không 
-15,“ người dân_tình ngay mà bị lý gian là không chấp_nhận được ”  ông võ_văn_hoan khẳng_định 
-16,như_thanh_niên đã thông_tin  ngày 245  ngân_hàng bidv chi_nhánh bắc sài_gòn đã có thông_báo gửi công_ty cp thanh_niên  công_ty cp_vật_tư xuất_nhập_khẩu tân_bình và ban quản_lý dự_án chung_cư the_harmona cho biết căn_cứ vào hợp_đồng thế_chấp quyền sử_dụng đất và tài_sản gắn liền với đất hình_thành trong tương_lai ngày 29112011 được ký giữa công_ty cp_vật_tư xuất_nhập_khẩu tân_bình với ngân_hàng bidv chi_nhánh bắc sài_gòn thì công_ty này đã sử_dụng tài_sản thế_chấp là quyền sử_dụng đất và tài_sản gắn liền với đất tại chung_cư the_harmona để đảm_bảo nghĩa_vụ trả nợ của công_ty cp thanh_niên đã quá_hạn  nhưng khách_hàng vẫn chưa thực_hiện nghĩa_vụ trả nợ cho ngân_hàng 
-17,mặc_dù ngân_hàng đã tạo điều_kiện về thời_gian để khách_hàng thu_xếp trả nợ nhưng hiện_tại công_ty cp thanh_niên vẫn chưa thanh_toán hết nợ cho ngân_hàng như cam_kết 
-18,do_đó  ngân_hàng bidv chi_nhánh bắc sài_gòn yêu_cầu công_ty cp_vật_tư xuất_nhập_khẩu tân_bình và ban quản_lý dự_án chung_cư the_harmona thu_xếp  thực_hiện nghĩa_vụ bàn_giao tài_sản đảm_bảo nêu trên cho ngân_hàng để xử_lý theo thỏa_thuận 
-19,chủ đầu_tư dự_án chung_cư the_harmona phải bàn_giao nguyên_trạng tài_sản bảo_đảm như trước khi chưa có người vào sử_dụng  cư_trú trong chung_cư cho ngân_hàng để xử_lý  thu_hồi nợ vay 
+0,ông võ_văn_hoan chánh_văn_phòng kiêm người phát_ngôn ubnd tphcm khẳng_định trả_lời báo_chí hôm_nay 305 về vụ siết nợ gây xôn_xao dư_luận xảy chung_cư the_harmona qtân_bình tphcm
+1,liên_quan đến vụ_việc ông trần_văn_thạch phó giám_đốc sở tnmt_tphcm vụ siết nợ chung_cư the_harmona vụ đầu_tiên xảy địa_bàn tphcm
+2,địa_bàn tp xảy một_số vụ tương_tự chủ đầu_tư bán căn_hộ người dân lấy tài_sản cầm_cố vay ngân_hàng
+3,trong tình_thế tréo_ngoe như_thế cấp giấy chứng_nhận nhà người dân thực_hiện ra_sao
+4,ông trần_văn_thạch biết tình_thế tphcm văn_bản gửi bộ_tư_pháp bộ ngành về trình_tự thủ_tục cách_thức giải_quyết
+5,đảm_bảo quyền_lợi chính_đáng người dân mua căn_hộ cấp giấy chứng_nhận thực_hiện cơ_sở giữa chủ đầu_tư ngân_hàng nhận thế_chấp tài_sản ngồi nhau thỏa_thuận chủ đầu_tư sử_dụng một tài_sản khác thế_chấp thay tài_sản bán người dân
+6,tuy_nhiên ông trần_văn_thạch hiện mới người dân ở một_vài dự_án rơi tình_thế giải_quyết cấp giấy chứng_nhận
+7,đa_phần trường_hợp tương_tự còn “ treo ” giấy chứng_nhận khiến người dân bức_xúc quyền_lợi chính_đáng thiệt_thòi
+8,nói thêm về vấn_đề ông võ_văn_hoan khẳng_định “ trong trường_hợp người mua căn_hộ lỗi
+9,vấn_đề nằm ở giữa chủ đầu_tư ngân_hàng
+10,quan_điểm ubnd tphcm bảo_vệ quyền_lợi chính_đáng người dân mua căn_hộ hợp_pháp ”
+11,ông võ_văn_hoan chủ đầu_tư ngân_hàng làm_việc nhau giải_quyết dứt_điểm thế_chấp vay vốn nhằm trả quyền_sở_hữu căn_hộ hợp_pháp người dân bỏ tiền mua
+12,ngân_hàng đòi siết căn_hộ người dân mua cấn trừ nợ chủ đầu_tư hoàn_toàn phù_hợp
+13,siết nợ tréo_ngoe người_dân quyền khởi_kiện tòa
+14,ông võ_văn_hoan phía ngân_hàng vay trong trường_hợp xem_lại nội_bộ mình bởi_lẽ giải_ngân vay ngân_hàng trách_nhiệm kiểm_tra tài_sản thế_chấp hợp_lệ hay
+15,“ người dân_tình lý gian chấp_nhận ” ông võ_văn_hoan khẳng_định
+16,như_thanh_niên thông_tin ngày 245 ngân_hàng bidv chi_nhánh bắc sài_gòn thông_báo gửi công_ty cp thanh_niên công_ty cp_vật_tư xuất_nhập_khẩu tân_bình ban quản_lý dự_án chung_cư the_harmona biết căn_cứ hợp_đồng thế_chấp quyền sử_dụng đất tài_sản gắn liền đất hình_thành trong tương_lai ngày 29112011 ký giữa công_ty cp_vật_tư xuất_nhập_khẩu tân_bình ngân_hàng bidv chi_nhánh bắc sài_gòn công_ty sử_dụng tài_sản thế_chấp quyền sử_dụng đất tài_sản gắn liền đất chung_cư the_harmona đảm_bảo nghĩa_vụ trả nợ công_ty cp thanh_niên quá_hạn khách_hàng thực_hiện nghĩa_vụ trả nợ ngân_hàng
+17,mặc_dù ngân_hàng tạo điều_kiện về thời_gian khách_hàng thu_xếp trả nợ hiện_tại công_ty cp thanh_niên thanh_toán hết nợ ngân_hàng cam_kết
+18,do_đó ngân_hàng bidv chi_nhánh bắc sài_gòn yêu_cầu công_ty cp_vật_tư xuất_nhập_khẩu tân_bình ban quản_lý dự_án chung_cư the_harmona thu_xếp thực_hiện nghĩa_vụ bàn_giao tài_sản đảm_bảo nêu ngân_hàng xử_lý thỏa_thuận
+19,chủ đầu_tư dự_án chung_cư the_harmona bàn_giao nguyên_trạng tài_sản bảo_đảm người sử_dụng cư_trú trong chung_cư ngân_hàng xử_lý thu_hồi nợ vay

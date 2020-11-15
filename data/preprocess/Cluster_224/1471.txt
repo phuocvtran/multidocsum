@@ -1,9 +1,9 @@
 idx, sentence
-0,tối 31/5  bộ_đội biên_phòng tỉnh thanh_hóa vẫn tích_cực tìm_kiếm cứu nạn tàu cá mang số_hiệu đna 90604 ts của ngư_dân nguyễn_sương  35 tuổi  trú phường nại_hiên_đông  quận sơn_trà  tp đà_nẵng  bị chìm 
-1,trước đó  khoảng 19 h ngày 30/4  tàu cá này đang đánh_bắt tại khu_vực biển phía nam tây_nam  cách đảo hòn_mê  thanh_hóa  khoảng 7 hải_lý thì gặp nạn 
-2,lúc này  trên tàu có 13 ngư_dân  11 người trên tàu đã thoát ra ngoài và được tàu cá đna 90603 cứu sống 
-3,còn 2 thuyền_viên vẫn đang mất_tích là anh vịnh  28 tuổi  và anh việt  18 tuổi  cùng quê quảng_ngãi  
-4,nhận tin báo  bộ_đội biên_phòng tỉnh thanh_hóa đã điều tàu bp 051201 cùng 8 cán_bộ chiến_sĩ đến hiện_trường tìm_kiếm  đồng_thời phát tín_hiệu cho các tàu cá đang hoạt_động gần khu_vực tàu bị nạn tham_gia cứu nạn 
-5,đơn_vị này cũng đã báo_cáo ban_chỉ_huy phòng_chống thiên_tai và tiềm kiếm cứu nạn tỉnh thanh_hóa nắm và chỉ_đạo 
-6,đến tối 31/5  tàu bp_051201 và nhiều tàu cá vẫn tiếp_tục tìm_kiếm trên khu_vực tàu bị nạn nhưng không có kết_quả 
-7,cũng theo bộ_đội biên_phòng thanh_hóa  nguyên_nhân ban_đầu xác_định là do dây cần_cẩu trên tàu bị mắc_kẹt dẫn đến kéo tàu lật_úp 
+0,tối 31/5 bộ_đội biên_phòng tỉnh thanh_hóa tích_cực tìm_kiếm cứu nạn tàu cá mang số_hiệu đna 90604 ts ngư_dân nguyễn_sương 35 tuổi trú phường nại_hiên_đông quận sơn_trà tp đà_nẵng chìm
+1,khoảng 19 h ngày 30/4 tàu cá đánh_bắt khu_vực biển phía nam tây_nam cách đảo hòn_mê thanh_hóa khoảng 7 hải_lý gặp nạn
+2,tàu 13 ngư_dân 11 người tàu thoát ngoài tàu cá đna 90603 cứu sống
+3,còn 2 thuyền_viên mất_tích anh vịnh 28 tuổi anh việt 18 tuổi quê quảng_ngãi
+4,nhận tin báo bộ_đội biên_phòng tỉnh thanh_hóa tàu bp 051201 8 cán_bộ chiến_sĩ đến hiện_trường tìm_kiếm đồng_thời phát tín_hiệu tàu cá hoạt_động gần khu_vực tàu nạn tham_gia cứu nạn
+5,đơn_vị báo_cáo ban_chỉ_huy phòng_chống thiên_tai tiềm kiếm cứu nạn tỉnh thanh_hóa nắm chỉ_đạo
+6,đến tối 31/5 tàu bp_051201 tàu cá tiếp_tục tìm_kiếm khu_vực tàu nạn kết_quả
+7,bộ_đội biên_phòng thanh_hóa nguyên_nhân ban_đầu xác_định dây cần_cẩu tàu mắc_kẹt dẫn đến kéo tàu lật_úp

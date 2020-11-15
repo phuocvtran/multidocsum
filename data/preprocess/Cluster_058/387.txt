@@ -1,11 +1,11 @@
 idx, sentence
-0,giới hâm_mộ bắt_gặp fabregas hưởng_thụ ánh nắng ở miami trong tuần này  được coi là kỳ nghỉ ngắn vào cuối mùa giải  trước lúc tập_trung với đội_tuyển tây ban_nha 
-1,cựu tiền_vệ của arsenal và barcelona tỏ ra rất vui_vẻ cùng bạn gái semaan  người phụ_nữ 41 tuổi nhưng vẫn sở_hữu thân_hình “ bốc_lửa ” 
-2,fabregas cùng bạn gái bay tới mỹ chỉ 4 ngày sau khi chơi trận cuối_cùng trong mùa giải với chelsea 
-3,năm nay 29 tuổi  fabregas được triệu_tập vào đội_tuyển tây ban_nha tham_dự euro 2016 ở pháp khởi_tranh vào ngày 106 tới 
-4,mặc_dù trải qua mùa giải tồi_tệ tại stamford_bridge  tiền_vệ này vẫn được hlv vicente_del_bosque tin_dùng 
-5,trong chuyến du_hí ngắn_ngủi trên đất mỹ  fabregas cho thấy anh vẫn có thân_hình rắn_chắc khi chơi bóng trên bể_bơi 
-6,ngôi_sao này cùng bạn gái semaan có 2 con  lia năm nay 2 tuổi và capri mới được 10 tháng 
-7,fabregas nổi_tiếng là người rất chiều chuộng bạn gái  dù nói về tuổi_tác semaan nhiều hơn cầu_thủ này đúng một giáp 
-8,fabregas và đội_tuyển tây ban_nha đang hướng tới chức vô_địch châu_âu thứ ba liên_tiếp sau khi bước lên bục đăng_quang vào năm 2008 và 2012 
-9,theo kế_hoạch  họ sẽ mở_màn cuộc đua trên đất pháp bằng cuộc chạm_trán với ch_czech vào ngày 136 
+0,giới hâm_mộ bắt_gặp fabregas hưởng_thụ ánh nắng ở miami trong tuần coi kỳ nghỉ ngắn cuối mùa giải tập_trung đội_tuyển tây ban_nha
+1,cựu tiền_vệ arsenal barcelona tỏ vui_vẻ bạn gái semaan người phụ_nữ 41 tuổi sở_hữu thân_hình “ bốc_lửa ”
+2,fabregas bạn gái bay tới mỹ 4 ngày chơi trận cuối_cùng trong mùa giải chelsea
+3,năm nay 29 tuổi fabregas triệu_tập đội_tuyển tây ban_nha tham_dự euro 2016 ở pháp khởi_tranh ngày 106 tới
+4,mặc_dù trải mùa giải tồi_tệ stamford_bridge tiền_vệ hlv vicente_del_bosque tin_dùng
+5,trong chuyến du_hí ngắn_ngủi đất mỹ fabregas thấy anh thân_hình rắn_chắc chơi bóng bể_bơi
+6,ngôi_sao bạn gái semaan 2 con lia năm nay 2 tuổi capri mới 10 tháng
+7,fabregas nổi_tiếng người chiều chuộng bạn gái dù nói về tuổi_tác semaan hơn cầu_thủ đúng một giáp
+8,fabregas đội_tuyển tây ban_nha hướng tới chức vô_địch châu_âu thứ ba liên_tiếp bước bục đăng_quang năm 2008 2012
+9,kế_hoạch họ mở_màn cuộc đua đất pháp bằng cuộc chạm_trán ch_czech ngày 136

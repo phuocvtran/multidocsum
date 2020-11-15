@@ -1,13 +1,13 @@
 idx, sentence
-0,kể từ khi chia_tay vleague và trở_lại mls thi_đấu  lee nguyễn đã tìm lại đẳng_cấp thật_sự của mình 
-1,mùa giải 2014  cầu_thủ này thi_đấu ấn_tượng  trở_thành đầu_tàu giúp new_england_revolution giành ngôi á_quân toàn nước mỹ 
-2,phong_độ xuất_sắc của lee_nguyễn_trong những mùa giải qua giúp anh có tên trong danh_sách sơ_bộ 40 cầu_thủ chuẩn_bị cho copa_america 2016 
-3,tuy_nhiên trải qua 2 tuần tập_luyện  cựu cầu_thủ của hagl đã không được hlv jurgen_klinsmann trao thêm cơ_hội và đành nói lời chia_tay với giải đấu quan_trọng này 
-4,trong quá_khứ  lee nguyễn_từng được trao cơ_hội ở copa_america 2007 và có 2 lần ra sân 
-5,ngoài lee nguyễn  còn có 1 số cái tên đáng chú_ý khác bị loại như jozy_altidore  nick_rimando hay matt_miazga  tài_năng trẻ mới cập bến chelsea hồi tháng 1 
-6,mỹ là chủ nhà của copa_america 2016 và tham_dự với tư_cách khách_mời ở giải đấu kỉ_niệm 100 năm thành_lập 
-7,ở giải đấu này  mỹ nằm ở bảng a cùng với colombia  costa_rica và paraguay 
-8,danh_sách 23 cầu_thủ mỹ dự_copa_america 2016 thủ_môn  1  brad_guzan  aston_villa   12  tim_howard  colorado_rapids  22  ethan_horvath  molde_ik  
-9,hậu_vệ  5  matt_besler  sporting_kansas_city   3  steve_birnbaum  dc_united   6  john_brooks  hertha_berlin   20  geoff_cameron  stoke_city   21  timmy_chandler  eintracht_frankfurt   23  fabian_johnson  m’gladbach   14  michael_orozco  club_tijuana   2  deandre_yedlin  tottenham  
-10,tiền_vệ  15  kyle_beckerman  real_salt_lake   11  alejandro_bedoya  nantes   4  michael_bradley  toronto_fc   13  jermaine_jones  colorado_rapids   16  perry_kitchen  heart_of_midlothian   10  darlington_nagbe  portland_timbers   17  christian_pulisic  borussia_dortmund   19  graham_zusi  sporting_kc  
-11,tiền_đạo  8  clint_dempsey  seattle_sounders   18  chris_wondolowski  san_jose_earthquakes   7  bobby_wood  hamburg   20  gyasi_zardes  la_galaxy  
+0,kể chia_tay vleague trở_lại mls thi_đấu lee nguyễn tìm đẳng_cấp thật_sự mình
+1,mùa giải 2014 cầu_thủ thi_đấu ấn_tượng trở_thành đầu_tàu giúp new_england_revolution giành ngôi á_quân toàn nước mỹ
+2,phong_độ xuất_sắc lee_nguyễn_trong mùa giải giúp anh tên trong danh_sách sơ_bộ 40 cầu_thủ chuẩn_bị copa_america 2016
+3,tuy_nhiên trải 2 tuần tập_luyện cựu cầu_thủ hagl hlv jurgen_klinsmann trao thêm cơ_hội đành nói lời chia_tay giải đấu quan_trọng
+4,trong quá_khứ lee nguyễn_từng trao cơ_hội ở copa_america 2007 2 lần sân
+5,ngoài lee nguyễn còn 1 số tên đáng chú_ý khác loại jozy_altidore nick_rimando hay matt_miazga tài_năng trẻ mới cập bến chelsea hồi tháng 1
+6,mỹ chủ nhà copa_america 2016 tham_dự tư_cách khách_mời ở giải đấu kỉ_niệm 100 năm thành_lập
+7,ở giải đấu mỹ nằm ở bảng a colombia costa_rica paraguay
+8,danh_sách 23 cầu_thủ mỹ dự_copa_america 2016 thủ_môn 1 brad_guzan aston_villa 12 tim_howard colorado_rapids 22 ethan_horvath molde_ik
+9,hậu_vệ 5 matt_besler sporting_kansas_city 3 steve_birnbaum dc_united 6 john_brooks hertha_berlin 20 geoff_cameron stoke_city 21 timmy_chandler eintracht_frankfurt 23 fabian_johnson m’gladbach 14 michael_orozco club_tijuana 2 deandre_yedlin tottenham
+10,tiền_vệ 15 kyle_beckerman real_salt_lake 11 alejandro_bedoya nantes 4 michael_bradley toronto_fc 13 jermaine_jones colorado_rapids 16 perry_kitchen heart_of_midlothian 10 darlington_nagbe portland_timbers 17 christian_pulisic borussia_dortmund 19 graham_zusi sporting_kc
+11,tiền_đạo 8 clint_dempsey seattle_sounders 18 chris_wondolowski san_jose_earthquakes 7 bobby_wood hamburg 20 gyasi_zardes la_galaxy

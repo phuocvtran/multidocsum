@@ -1,15 +1,15 @@
 idx, sentence
-0,như đã biết  tiền_đạo lewandowski hiện vẫn là sát_thủ hàng_đầu của bayern_munich tại bundesliga  với thành_tích rực_rỡ 42 bàn / 50 trận trong mùa giải 2015  2016 vừa_qua  tiền_đạo người ba_lan dễ_dàng giành danh_hiệu “ vua phá_lưới ” 
-1,vậy nhưng  thành_công về mặt chuyên_môn là một chuyện  đảm_bảo lewandowski hạnh_phúc với cuộc_sống ở bavaria hay không lại là chuyện khác 
-2,mới cập bến allianz_arena được gần 2 năm nhưng cựu ngôi_sao vùng ruhr đã vướng vào không ít vấn_đề với blđ  dẫn đến hàng_loạt tin_đồn sẽ sớm ra đi dù cho hợp_đồng vẫn còn hạn tới tận năm 2019 
-3,thêm vào đó một điều rất quan_trọng  hlv pep_guardiola đã chính_thức chia_tay bayern_munich và tương_lai của lewandowski hoàn_toàn có_thể bị ảnh_hưởng theo người đã chính tay đưa rước về bayern 
-4,tận_dụng tình_hình đang khá phức_tạp ở allianz_arena  real_madrid lập_tức nhảy vào hỏi_thăm lewandowski 
-5,mặc_dù giám_đốc điều_hành của bayern_munich  ông karlheinz_rummenigge luôn khẳng_định “ hùm xám ” sẽ không bán robert_lewandowski với bất_cứ mức giá nào 
-6,thậm_chí  ông còn tuyên_bố chắc_nịch rằng chân sút người ba_lan sẽ tiếp_tục khoác áo die_roten ở mùa giải tới 
-7,tuy_nhiên  theo thông_tin mới được tờ as  tây ban_nha   lewandowski đang dần vượt khỏi tầm với của bayern_munich 
-8,cụ_thể  nguồn tin này cho biết  chân sút người ba_lan và real_madrid đã đạt các thỏa_thuận sơ_bộ liên_quan tới quyền_lợi và mức đãi_ngộ 
-9,cụ_thể  lewandowski đã yêu_cầu mức lương 20 triệu euro / mùa và đã được blđ_real_madrid đồng_ý 
-10,trước đó  đại_diện của real_madrid  ông jose_angel_sanchez đã gặp_gỡ đại_diện của lewandowski  cezary_kucharski tại thủ_đô madrid 
-11,từ cuộc đàm_phán trên  lewandowski đã nảy_sinh ý_định sang real madrid chơi bóng ngay trong hè này 
-12,cũng bởi_vậy  anh đã từ_chối kí bản hđ mới với sân allianz_arena 
-13,thậm_chí  theo as  chân sút người ba_lan còn thúc_giục real_madrid sớm tìm tiếng nói_chung với bayern_munich 
+0,biết tiền_đạo lewandowski hiện sát_thủ hàng_đầu bayern_munich bundesliga thành_tích rực_rỡ 42 bàn / 50 trận trong mùa giải 2015 2016 vừa_qua tiền_đạo người ba_lan dễ_dàng giành danh_hiệu “ vua phá_lưới ”
+1,thành_công về mặt chuyên_môn một đảm_bảo lewandowski hạnh_phúc cuộc_sống ở bavaria hay khác
+2,mới cập bến allianz_arena gần 2 năm cựu ngôi_sao vùng ruhr vướng ít vấn_đề blđ dẫn đến hàng_loạt tin_đồn sớm đi dù hợp_đồng còn hạn tới tận năm 2019
+3,thêm một quan_trọng hlv pep_guardiola chính_thức chia_tay bayern_munich tương_lai lewandowski hoàn_toàn ảnh_hưởng người chính tay đưa rước về bayern
+4,tận_dụng tình_hình khá phức_tạp ở allianz_arena real_madrid lập_tức nhảy hỏi_thăm lewandowski
+5,mặc_dù giám_đốc điều_hành bayern_munich ông karlheinz_rummenigge luôn khẳng_định “ hùm xám ” bán robert_lewandowski bất_cứ mức giá nào
+6,thậm_chí ông còn tuyên_bố chắc_nịch chân sút người ba_lan tiếp_tục khoác áo die_roten ở mùa giải tới
+7,tuy_nhiên thông_tin mới tờ as tây ban_nha lewandowski dần vượt khỏi tầm bayern_munich
+8,cụ_thể nguồn tin biết chân sút người ba_lan real_madrid đạt thỏa_thuận sơ_bộ liên_quan tới quyền_lợi mức đãi_ngộ
+9,cụ_thể lewandowski yêu_cầu mức lương 20 triệu euro / mùa blđ_real_madrid đồng_ý
+10,đại_diện real_madrid ông jose_angel_sanchez gặp_gỡ đại_diện lewandowski cezary_kucharski thủ_đô madrid
+11,cuộc đàm_phán lewandowski nảy_sinh ý_định sang real madrid chơi bóng trong hè
+12,bởi_vậy anh từ_chối kí bản hđ mới sân allianz_arena
+13,thậm_chí as chân sút người ba_lan còn thúc_giục real_madrid sớm tìm tiếng nói_chung bayern_munich

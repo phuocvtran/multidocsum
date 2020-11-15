@@ -1,6 +1,6 @@
 idx, sentence
-0,tối 29/5  hoa_khôi thể_thao lại hương_thảo đã tổ_chức đám_cưới tại một khách_sạn ở tphcm với khoảng 700 khách_mời của cô_dâu  chú_rể 
-1,trước đó vào ngày 30/4  hương_thảo khiến nhiều người bất_ngờ khi chia_sẻ những hình_ảnh ăn_hỏi với vị_hôn_phu điển_trai trong bầu_không_khí ấm_cúng 
-2,được biết  hoa_khôi thể_thao 2012 và hôn phu đã có 2 năm tìm_hiểu trước khi tiến tới hôn_nhân 
-3,vị_hôn_phu của cô là nguyễn_anh_tuấn  hơn cô 10 tuổi  sở_hữu ngoại_hình điển_trai 
-4,anh từng tốt_nghiệp thạc_sĩ tại anh và có 8 năm làm_việc tại các ngân_hàng nước_ngoài trước khi về quản_lý công_ty riêng 
+0,tối 29/5 hoa_khôi thể_thao hương_thảo tổ_chức đám_cưới một khách_sạn ở tphcm khoảng 700 khách_mời cô_dâu chú_rể
+1,ngày 30/4 hương_thảo khiến người bất_ngờ chia_sẻ hình_ảnh ăn_hỏi vị_hôn_phu điển_trai trong bầu_không_khí ấm_cúng
+2,biết hoa_khôi thể_thao 2012 hôn phu 2 năm tìm_hiểu tiến tới hôn_nhân
+3,vị_hôn_phu cô nguyễn_anh_tuấn hơn cô 10 tuổi sở_hữu ngoại_hình điển_trai
+4,anh tốt_nghiệp thạc_sĩ anh 8 năm làm_việc ngân_hàng nước_ngoài về quản_lý công_ty riêng

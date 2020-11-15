@@ -1,35 +1,35 @@
 idx, sentence
-0,cụ_thể  bị_cáo trần_đình_thịnh  sn 1987  trú tại thôn mộc_đức  xã cam_hiếu  huyện cam_lộ  tỉnh quảng_trị  bị truy_tố về tội giết người 
-1,nạn_nhân của vụ_án là anh trần_văn_lai  trú tại thôn tân_xuân  xã gio_việt  huyện gio_linh  và chị quách_thị_thơm  vợ thịnh  
-2,mới hơn 7 h  rất đông người dân đã có_mặt tại phiên xử 
-3,người_thân nạn_nhân_trần_ân_lai là chị phan_thị_phượng cùng các con cũng đã đến tham_dự phiên_tòa 
-4,theo cáo_trạng  trần_đình_thịnh và chị quách_thị_thơm  sn 1985  trú mộc_đức  xã cam_hiếu  quê xã nga trường  huyện nga_sơn  thanh_hóa  có với nhau 2 con_trai 
-5,đầu năm 2015  do hoàn_cảnh khó_khăn  thịnh cùng một_số người dân trong làng sang trung_quốc làm_ăn để mong cuộc_sống khấm_khá hơn 
-6,thời_gian này  chị thơm ở nhà nảy_sinh quan_hệ tình_ái với anh trần_văn_lai  sn 1976  trú thôn tân_xuân  xã gio_việt  – người đã có vợ và 3 con  làm nghề bán cá dạo 
-7,thịnh biết chuyện nên ngày 23/7/2015 về quê làm rõ sự_tình 
-8,chị thơm tự_thú với chồng 
-9,tức_giận  thịnh đánh vợ nên chị thơm bỏ về quê ngoại 
-10,sau đó  chị thơm ân_hận về lỗi_lầm và xin tha_thứ thì được thịnh đồng_ý 
-11,thịnh đưa vợ_con vào bình_dương làm_ăn  sinh_sống mới ý_định nhằm cách_ly vợ với tình_nhân 
-12,tuy_nhiên  chị thơm phát_hiện mình có thai với anh lai nên tìm cách đến tp hồ_chí_minh phá bỏ 
-13,thịnh tra_hỏi thì chị thơm khai rõ chuyện 
-14,ngày 19/8/2015  thịnh_suy_sụp  tức_giận đi uống bia rồi trở về phòng trọ thì thấy điện_thoại vợ có tin nhắn chị thơm gửi cho một_số điện_thoại lạ với nội_dung  “ nếu anh thịnh bỏ em  anh có đi với em không  ” 
-15,thịnh liền vồ lấy con dao_gọt trái_cây đâm chị thơm tử_vong 
-16,gây_án xong  thịnh bỏ trốn về quảng_trị 
-17,chưa thỏa cơn tức_giận  thịnh chuẩn_bị một con dao và tìm đến nhà tình_địch là anh lai ở thôn tân_xuân  xã gio_việt 
-18,khoảng 20 h30 ngày 20/8/2015  thịnh đi thẳng vào nhà anh lai rồi vung dao chém nạn_nhân khi đang ngủ trên giường 
-19,vết chém quá sâu ở cổ khiến anh lai tử_vong ngay sau đó 
-20,gây_án xong  thịnh bỏ lại xe_máy bks 74f13217 ở nhà nạn_nhân rồi bỏ trốn 
-21,công_an tỉnh quảng_trị bắt được thịnh vào rạng sáng 21/8/2015 ở khu_vực nghĩa_trang thôn tân_xuân  xã gio_việt   gần hiện_trường vụ_án 
-22,tại phiên_tòa  thịnh khai nhận đã từng tha_thứ cho vợ mình nên cùng vợ vào bình_dương làm_ăn 
-23,hôm xảy ra sự_việc  bị_cáo phát_hiện vợ vẫn tiếp_tục nhắn_tin  gọi điện với anh lai 
-24,vì không kiềm_chế được xúc_động nên ra_tay giết vợ 
-25,sau đó  bị_cáo vào tp hồ_chí_minh rồi đi máy_bay ra huế  tiếp đó đi xe_khách ra quảng_trị rồi đến nhà giết anh lai 
-26,nhân_chứng được mời đến phiên_tòa là anh trần_đình_thảo cho biết  khi nắm_bắt sự_việc đã khuyên thịnh ra đầu_thú để được hưởng sự khoan_hồng của nhà_nước 
-27,tại phiên_tòa  bà trần_thị_quế  mẹ chị thơm  yêu_cầu hđxx làm rõ hành_vi và xử_lý nghiêm trần_đình_thịnh 
-28,còn chị phan_thị_phượng yêu_cầu ngoài việc xử_lý nghiêm đối_với thịnh  bị_cáo phải có trách_nhiệm đối_với các con của chị khi đã giết_hại bố chúng 
-29,đại_diện viện_kiểm_sát cho rằng hành_vi của thịnh rất nguy_hiểm  giết_hại nhiều người nên phải chịu tình_tiết tăng nặng 
-30,từ đó  đại_diện viện_kiểm_sát đề_nghị hđxx tuyên_phạt bị_cáo hình_phạt tử_hình 
-31,sau quá_trình thẩm_vấn  đối_chiếu các quy_định của pháp_luật và lắng_nghe ý_kiến các bên liên_quan  hđxx khẳng_định hành_vi của bị_cáo là đặc_biệt nghiêm_trọng  gây nguy_hiểm cho xã_hội 
-32,được hđxx cho nói lời sau_cùng  thịnh đã tỏ ra ăn_năn trước những hành_vi mình đã gây ra 
-33,bị_cáo gửi lời xin_lỗi đến gia_đình các nạn_nhân 
+0,cụ_thể bị_cáo trần_đình_thịnh sn 1987 trú thôn mộc_đức xã cam_hiếu huyện cam_lộ tỉnh quảng_trị truy_tố về tội giết người
+1,nạn_nhân vụ_án anh trần_văn_lai trú thôn tân_xuân xã gio_việt huyện gio_linh chị quách_thị_thơm vợ thịnh
+2,mới hơn 7 h đông người dân có_mặt phiên xử
+3,người_thân nạn_nhân_trần_ân_lai chị phan_thị_phượng con đến tham_dự phiên_tòa
+4,cáo_trạng trần_đình_thịnh chị quách_thị_thơm sn 1985 trú mộc_đức xã cam_hiếu quê xã nga trường huyện nga_sơn thanh_hóa nhau 2 con_trai
+5,đầu năm 2015 hoàn_cảnh khó_khăn thịnh một_số người dân trong làng sang trung_quốc làm_ăn mong cuộc_sống khấm_khá hơn
+6,thời_gian chị thơm ở nhà nảy_sinh quan_hệ tình_ái anh trần_văn_lai sn 1976 trú thôn tân_xuân xã gio_việt – người vợ 3 con làm nghề bán cá dạo
+7,thịnh biết ngày 23/7/2015 về quê làm rõ sự_tình
+8,chị thơm tự_thú chồng
+9,tức_giận thịnh đánh vợ chị thơm bỏ về quê ngoại
+10,chị thơm ân_hận về lỗi_lầm xin tha_thứ thịnh đồng_ý
+11,thịnh đưa vợ_con bình_dương làm_ăn sinh_sống mới ý_định nhằm cách_ly vợ tình_nhân
+12,tuy_nhiên chị thơm phát_hiện mình thai anh lai tìm cách đến tp hồ_chí_minh phá bỏ
+13,thịnh tra_hỏi chị thơm khai rõ
+14,ngày 19/8/2015 thịnh_suy_sụp tức_giận đi uống bia trở về phòng trọ thấy điện_thoại vợ tin nhắn chị thơm gửi một_số điện_thoại lạ nội_dung “ anh thịnh bỏ em anh đi em ”
+15,thịnh liền vồ lấy con dao_gọt trái_cây đâm chị thơm tử_vong
+16,gây_án xong thịnh bỏ trốn về quảng_trị
+17,thỏa cơn tức_giận thịnh chuẩn_bị một con dao tìm đến nhà tình_địch anh lai ở thôn tân_xuân xã gio_việt
+18,khoảng 20 h30 ngày 20/8/2015 thịnh đi thẳng nhà anh lai vung dao chém nạn_nhân ngủ giường
+19,vết chém quá sâu ở cổ khiến anh lai tử_vong
+20,gây_án xong thịnh bỏ xe_máy bks 74f13217 ở nhà nạn_nhân bỏ trốn
+21,công_an tỉnh quảng_trị bắt thịnh rạng sáng 21/8/2015 ở khu_vực nghĩa_trang thôn tân_xuân xã gio_việt gần hiện_trường vụ_án
+22,phiên_tòa thịnh khai nhận tha_thứ vợ mình vợ bình_dương làm_ăn
+23,hôm xảy sự_việc bị_cáo phát_hiện vợ tiếp_tục nhắn_tin gọi điện anh lai
+24,kiềm_chế xúc_động ra_tay giết vợ
+25,bị_cáo tp hồ_chí_minh đi máy_bay huế tiếp đi xe_khách quảng_trị đến nhà giết anh lai
+26,nhân_chứng mời đến phiên_tòa anh trần_đình_thảo biết nắm_bắt sự_việc khuyên thịnh đầu_thú hưởng khoan_hồng nhà_nước
+27,phiên_tòa bà trần_thị_quế mẹ chị thơm yêu_cầu hđxx làm rõ hành_vi xử_lý nghiêm trần_đình_thịnh
+28,còn chị phan_thị_phượng yêu_cầu ngoài xử_lý nghiêm đối_với thịnh bị_cáo trách_nhiệm đối_với con chị giết_hại bố chúng
+29,đại_diện viện_kiểm_sát hành_vi thịnh nguy_hiểm giết_hại người chịu tình_tiết tăng nặng
+30,đại_diện viện_kiểm_sát đề_nghị hđxx tuyên_phạt bị_cáo hình_phạt tử_hình
+31,quá_trình thẩm_vấn đối_chiếu quy_định pháp_luật lắng_nghe ý_kiến bên liên_quan hđxx khẳng_định hành_vi bị_cáo đặc_biệt nghiêm_trọng gây nguy_hiểm xã_hội
+32,hđxx nói lời sau_cùng thịnh tỏ ăn_năn hành_vi mình gây
+33,bị_cáo gửi lời xin_lỗi đến gia_đình nạn_nhân

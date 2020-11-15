@@ -1,13 +1,13 @@
 idx, sentence
-0,cô maria_sadaqat  19 tuổi  người pakistan đã bị tấn_công bởi một nhóm người ở làng upper_dewal gần khu nghỉ_dưỡng mùa hè murree  ngoại_ô thủ_đô islamabad 
-1,ông abdul_basit  chú của sadaqat đã nghẹn_ngào nói với phóng_viên bên ngoài trung_tâm bỏng tại viện y_học thủ_đô pakistan   cháu tôi đã bị tra_tấn dã_man và sau đó bị thiêu sống 
-2,chúng_tôi đã đưa cháu đến bệnh_viện ở islamabad nhưng hôm_nay nó đã qua_đời vì bị_thương quá nghiêm_trọng  
-3,những người_thân đau_buồn đã khóc và phản_đối khi cảnh_sát muốn di_chuyển tử_thi người_thân đi để tiến_hành khám nghiêm tử_thi 
-4,theo tin mới nhất  basit cho hay  cháu gái ông bị chính_hiệu_trưởng của ngôi trường tư_nhân nơi cô đang làm_việc  cùng một nhóm người sát_hại chỉ bởi_vì cô đã từ_chối lời cầu_hôn của con_trai ông ta 
-5, anh ta đã từng ly_dị và gấp đôi tuổi cháu tôi nên nó mới từ_chối lời cầu_hôn 
-6,khi bên kia vẫn bám riết  cháu tôi đã phải bỏ việc để trốn_tránh  vậy_mà cuối_cùng vẫn bị chúng tấn_công ” 
-7,cảnh_sát cho biết  trước khi chết vì bỏng quá nặng  sadaqat đã cung_cấp tên của hiệu_trưởng cùng bốn kẻ đồng_lõa đã tấn_công cô 
-8,cảnh_sát đã bắt được một tên trong đó và đang truy_nã số còn lại 
-9,đây là lần thứ hai  chỉ trong vòng một tháng  phụ_nữ ở pakistan bị giết bởi nguyên_nhân liên_quan đến hôn_nhân 
-10,ngày 29/4  một cô gái khoảng 1618 tuổi cũng đã bị đánh thuốc_mê  bị bóp_cổ và bị thiêu cháy ngay trên bậc_thềm của nhà_hội_đồng làng jirga  phía tây_bắc pakistan 
-11,nạn_nhân bị_cáo buộc tội đã giúp bạn mình bỏ trốn cùng người_yêu 
+0,cô maria_sadaqat 19 tuổi người pakistan tấn_công một nhóm người ở làng upper_dewal gần khu nghỉ_dưỡng mùa hè murree ngoại_ô thủ_đô islamabad
+1,ông abdul_basit chú sadaqat nghẹn_ngào nói phóng_viên bên ngoài trung_tâm bỏng viện y_học thủ_đô pakistan cháu tôi tra_tấn dã_man thiêu sống
+2,chúng_tôi đưa cháu đến bệnh_viện ở islamabad hôm_nay nó qua_đời bị_thương quá nghiêm_trọng
+3,người_thân đau_buồn khóc phản_đối cảnh_sát muốn di_chuyển tử_thi người_thân đi tiến_hành khám nghiêm tử_thi
+4,tin mới nhất basit hay cháu gái ông chính_hiệu_trưởng ngôi trường tư_nhân cô làm_việc một nhóm người sát_hại bởi_vì cô từ_chối lời cầu_hôn con_trai ông ta
+5,anh ta ly_dị gấp đôi tuổi cháu tôi nó mới từ_chối lời cầu_hôn
+6,bên kia bám riết cháu tôi bỏ trốn_tránh vậy_mà cuối_cùng chúng tấn_công ”
+7,cảnh_sát biết chết bỏng quá nặng sadaqat cung_cấp tên hiệu_trưởng bốn kẻ đồng_lõa tấn_công cô
+8,cảnh_sát bắt một tên trong truy_nã số còn
+9,lần thứ hai trong vòng một tháng phụ_nữ ở pakistan giết nguyên_nhân liên_quan đến hôn_nhân
+10,ngày 29/4 một cô gái khoảng 1618 tuổi đánh thuốc_mê bóp_cổ thiêu cháy bậc_thềm nhà_hội_đồng làng jirga phía tây_bắc pakistan
+11,nạn_nhân bị_cáo buộc tội giúp bạn mình bỏ trốn người_yêu

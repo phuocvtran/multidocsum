@@ -1,19 +1,19 @@
 idx, sentence
-0,báo_cáo tình_hình thị_trường bất_động_sản phú_quốc do savills vừa phát_hành sáng 23/5 cho biết như vậy 
-1,savills cho biết thêm  là một đại_diện mới trong thị_trường bất_động_sản nghỉ_dưỡng  thị_trường phú_quốc đã bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở được cải_thiện mạnh_mẽ 
-2,tính đến quý i / 2016  tổng nguồn cung của phú_quốc có hơn 1700 căn từ 6 dự_án biệt_thự và 1 dự_án căn_hộ 
-3,tính đến quý i / 2016  phân khúc biệt_thự đã bán được 65  và phân khúc căn_hộ đã bán được 35  
-4,các dự_án này có tình_hình hoạt_động tốt nhờ có chiến_lược tiếp_thị  uy_tín của chủ đầu_tư  tiến_độ xây_dựng tốt và những bãi biển hoang_sơ 
-5,tất_cả các dự_án đều nằm trong khu nghỉ_dưỡng với đầy_đủ các tiện_ích và tiện_nghi 
-6,“ nhờ tình_hình du_lịch phát_triển và nhiều chính_sách hỗ_trợ  thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc đã thu_hút nhiều nhà_đầu_tư 
-7,tuy_nhiên  hầu_hết các dự_án tương_lai vẫn đang trong quy_hoạch vì chính_quyền địa_phương thường_xuyên thay_đổi chính_sách và quy_hoạch chung của đảo 
-8,chỉ có ba dự_án mới và giai_đoạn kế_tiếp của ba dự_án hiện_hữu công_bố là sẽ gia_nhập thị_trường kể từ quý ii / 2016 trở đi  cung_cấp hơn 660 căn ”  savills cho hay 
-9,bên_cạnh đó  theo công_ty này  đa_số các khách_sạn phú_quốc là của người địa_phương và có quy_mô nhỏ  chỉ một_ít được xếp_hạng và quản_lý chuyên_nghiệp 
-10,đến quý i / 2016  chỉ có 33  tổng cung trên đảo  tương_đương 2500 phòng  được xếp_hạng 3 đến 5 sao 
-11,60  trong số đó chỉ vừa_mới hoạt_động trong hai năm qua sau khi sân_bay quốc_tế phú_quốc hoàn_thành 
-12,trước năm 2015  do nguồn cung hạn_chế nên các khách_sạn phú_quốc hoạt_động ổn_định với công_suất cao trên 80  trong mùa cao_điểm từ tháng 11 đến tháng 3 
-13,tuy_nhiên  việc nguồn cung phòng bùng_nổ gần đây tác_động mạnh lên thị_trường  công_suất mùa cao_điểm quý i / 2016 chỉ đạt 53  
-14,ngoài chi_phí hoạt_động cao  đa_số các dự_án trên đảo đều là khu nghỉ_dưỡng nên có giá phòng khá cao so với các thành_phố biển khác ở việt_nam  đạt 105 usd / phòng / đêm 
-15,nhờ cơ_sở_hạ_tầng cải_thiện  chính_sách ưu_đãi và bờ biển đẹp  phú_quốc là điểm du_lịch biển lý_tưởng 
-16,sau khi sân_bay hoàn_thành vào năm 2012  khách du_lịch đến đây tăng mạnh 55  / năm trong ba năm qua 
-17,qua 4 tháng đầu năm 2016  huyện_đảo đón 523000 khách quốc_tế  tăng 37  theo năm 
+0,báo_cáo tình_hình thị_trường bất_động_sản phú_quốc savills phát_hành sáng 23/5 biết
+1,savills biết thêm một đại_diện mới trong thị_trường bất_động_sản nghỉ_dưỡng thị_trường phú_quốc bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở cải_thiện mạnh_mẽ
+2,tính đến quý i / 2016 tổng nguồn cung phú_quốc hơn 1700 căn 6 dự_án biệt_thự 1 dự_án căn_hộ
+3,tính đến quý i / 2016 phân khúc biệt_thự bán 65 phân khúc căn_hộ bán 35
+4,dự_án tình_hình hoạt_động tốt nhờ chiến_lược tiếp_thị uy_tín chủ đầu_tư tiến_độ xây_dựng tốt bãi biển hoang_sơ
+5,tất_cả dự_án nằm trong khu nghỉ_dưỡng đầy_đủ tiện_ích tiện_nghi
+6,“ nhờ tình_hình du_lịch phát_triển chính_sách hỗ_trợ thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc thu_hút nhà_đầu_tư
+7,tuy_nhiên hầu_hết dự_án tương_lai trong quy_hoạch chính_quyền địa_phương thường_xuyên thay_đổi chính_sách quy_hoạch chung đảo
+8,ba dự_án mới giai_đoạn kế_tiếp ba dự_án hiện_hữu công_bố gia_nhập thị_trường kể quý ii / 2016 trở đi cung_cấp hơn 660 căn ” savills hay
+9,bên_cạnh công_ty đa_số khách_sạn phú_quốc người địa_phương quy_mô nhỏ một_ít xếp_hạng quản_lý chuyên_nghiệp
+10,đến quý i / 2016 33 tổng cung đảo tương_đương 2500 phòng xếp_hạng 3 đến 5 sao
+11,60 trong số vừa_mới hoạt_động trong hai năm sân_bay quốc_tế phú_quốc hoàn_thành
+12,năm 2015 nguồn cung hạn_chế khách_sạn phú_quốc hoạt_động ổn_định công_suất cao 80 trong mùa cao_điểm tháng 11 đến tháng 3
+13,tuy_nhiên nguồn cung phòng bùng_nổ gần tác_động mạnh thị_trường công_suất mùa cao_điểm quý i / 2016 đạt 53
+14,ngoài chi_phí hoạt_động cao đa_số dự_án đảo khu nghỉ_dưỡng giá phòng khá cao thành_phố biển khác ở việt_nam đạt 105 usd / phòng / đêm
+15,nhờ cơ_sở_hạ_tầng cải_thiện chính_sách ưu_đãi bờ biển đẹp phú_quốc điểm du_lịch biển lý_tưởng
+16,sân_bay hoàn_thành năm 2012 khách du_lịch đến tăng mạnh 55 / năm trong ba năm
+17,4 tháng đầu năm 2016 huyện_đảo đón 523000 khách quốc_tế tăng 37 năm

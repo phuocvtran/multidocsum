@@ -1,13 +1,13 @@
 idx, sentence
-0,trong một bản thông_báo trên trang_web của mình  bộ_quốc_phòng trung_quốc cho biết trong những ngày gần đây  quân_đội trung_quốc đã cho tiến_hành những cuộc tập_trận quy_mô  phối_hợp nhiều binh_chủng ở vùng bờ biển nhìn sang đài_loan 
-1,theo bộ_quốc_phòng trung_quốc  các cuộc tập_trận đó chỉ là những hoạt_động  được thực_hiện theo kế_hoạch huấn_luyện hàng năm   để nâng cao năng_lực chiến_đấu của lực_lượng_vũ_trang trung_quốc  tăng_cường khả_năng ứng_phó với  các mối đe_dọa an_ninh  chứ không nhằm một mục_tiêu cụ_thể nào 
-2,phản_ứng trên được đưa ra sau khi truyền_thông trung_quốc đã thông_tin về các cuộc tập_trận  và lồng sự_kiện vào trong bối_cảnh chỉ còn hai ngày nữa là bà thái anh_văn tuyên_thệ nhậm_chức lãnh_đạo đài_loan 
-3,theo các nhà_quan_sát  dù bắc_kinh không thừa_nhận mục_tiêu răn_đe của các cuộc tập_trận  nhưng tính_chất thị_uy của các hoạt_động quân_sự vừa thực_hiện hoàn_toàn rõ_rệt  thể_hiện qua ba yếu_tố  quy_mô  nội_dung và địa_điểm diễn ra các sự_kiện 
-4,trước_hết  đây là các cuộc tập_trận đổ_bộ  huy_động cả lục_quân lẫn không_quân và hải_quân 
-5,đã có ít_nhất ba cuộc tập_trận đổ_bộ  được tiến_hành từ đầu tháng năm đến nay 
-6,cuộc tập_trận quy_mô nhất  mới diễn ra gần đây  do quân_khu phúc_kiến nằm ngay bên bờ eo_biển đài_loan thực_hiện 
-7,đối_với giới phân_tích  từ trước đến nay  bắc_kinh thường_xuyên đe_dọa dùng vũ_lực để đánh chiếm đài_loan  và sự_kiện bà thái anh_văn  thuộc đảng dân_tiến vốn chủ_trương độc_lập đối_với trung_quốc  thắng_cử đã khiến cho quan_hệ đài_bắcbắc_kinh thêm phần căng_thẳng 
-8,lực_lượng quân_sự đài_loan đã nhiều lần lên_tiếng cảnh_báo  trung_quốc đã tiến_hành những cuộc tập_trận giả_định những cuộc tấn_công vào các mục_tiêu mô_phỏng nhiều địa_điểm của đài_loan 
-9,họ báo_động về nguy_cơ có hàng trăm tên lửa chĩa vào hòn đảo này 
-10,theo giới quan_sát  các cuộc tập_trận vừa được tiến_hành tương_đương với lời đe_dọa đài_loan về những gì có_thể xảy ra nếu đi theo xu_hướng độc_lập 
-11,trả_lời hãng tin mỹ_ap  một chuyên_gia về đài_loan tại đại_học trung_quốc hạ_môn đã không ngần_ngại cho rằng  các cuộc tập_trận là một thông_điệp gửi đến các thành_phần đòi độc_lập ở đài_loan  tương_đương với một lời cảnh_cáo  theo đó mọi ý_hướng độc_lập sẽ bị đàn_áp  
+0,trong một bản thông_báo trang_web mình bộ_quốc_phòng trung_quốc biết trong ngày gần quân_đội trung_quốc tiến_hành cuộc tập_trận quy_mô phối_hợp binh_chủng ở vùng bờ biển nhìn sang đài_loan
+1,bộ_quốc_phòng trung_quốc cuộc tập_trận hoạt_động thực_hiện kế_hoạch huấn_luyện hàng năm nâng cao năng_lực chiến_đấu lực_lượng_vũ_trang trung_quốc tăng_cường khả_năng ứng_phó mối đe_dọa an_ninh nhằm một mục_tiêu cụ_thể nào
+2,phản_ứng đưa truyền_thông trung_quốc thông_tin về cuộc tập_trận lồng sự_kiện trong bối_cảnh còn hai ngày bà thái anh_văn tuyên_thệ nhậm_chức lãnh_đạo đài_loan
+3,nhà_quan_sát dù bắc_kinh thừa_nhận mục_tiêu răn_đe cuộc tập_trận tính_chất thị_uy hoạt_động quân_sự thực_hiện hoàn_toàn rõ_rệt thể_hiện ba yếu_tố quy_mô nội_dung địa_điểm diễn sự_kiện
+4,trước_hết cuộc tập_trận đổ_bộ huy_động lục_quân lẫn không_quân hải_quân
+5,ít_nhất ba cuộc tập_trận đổ_bộ tiến_hành đầu tháng năm đến nay
+6,cuộc tập_trận quy_mô nhất mới diễn gần quân_khu phúc_kiến nằm bên bờ eo_biển đài_loan thực_hiện
+7,đối_với giới phân_tích đến nay bắc_kinh thường_xuyên đe_dọa dùng vũ_lực đánh chiếm đài_loan sự_kiện bà thái anh_văn thuộc đảng dân_tiến vốn chủ_trương độc_lập đối_với trung_quốc thắng_cử khiến quan_hệ đài_bắcbắc_kinh thêm phần căng_thẳng
+8,lực_lượng quân_sự đài_loan lần lên_tiếng cảnh_báo trung_quốc tiến_hành cuộc tập_trận giả_định cuộc tấn_công mục_tiêu mô_phỏng địa_điểm đài_loan
+9,họ báo_động về nguy_cơ hàng trăm tên lửa chĩa hòn đảo
+10,giới quan_sát cuộc tập_trận tiến_hành tương_đương lời đe_dọa đài_loan về xảy đi xu_hướng độc_lập
+11,trả_lời hãng tin mỹ_ap một chuyên_gia về đài_loan đại_học trung_quốc hạ_môn ngần_ngại cuộc tập_trận một thông_điệp gửi đến thành_phần đòi độc_lập ở đài_loan tương_đương một lời cảnh_cáo mọi ý_hướng độc_lập đàn_áp

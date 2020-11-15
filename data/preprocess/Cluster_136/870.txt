@@ -1,12 +1,12 @@
 idx, sentence
-0,vẫn giữ phong_độ như mùa_hè năm_ngoái 
-1,mới_đây  liverpool đã nhanh_chóng có được tân_binh đầu_tiên dù kỳ chuyển_nhượng mùa_hè chưa chính_thức mở_cửa 
-2,theo đó  liverpool đã hoàn_tất bản hợp_đồng chuyển_nhượng thủ_môn loris_karius từ mainz 05 với mức giá 47 triệu bảng 
-3,và thủ_môn 22 tuổi sẽ gắn_bó với the_kop trong 5 năm 
-4,được biết  sở_dĩ vị_trí đầu_tiên được hlv jurgen_klopp lựa_chọn gia_cố là người trấn_giữ khung_thành vì trong bối_cảnh simon_mignolet được trao nhiều cơ_hội thể_hiện nhưng hầu_như chỉ để lại thất_vọng 
-5,và thủ_môn loris_karius phần_nào đáp_ứng được nhu_cầu của jurgen_klopp khi anh đã thi_đấu cực_kỳ xuất_sắc trong mùa giải vừa_qua 
-6,cụ_thể  anh được bắt chính cả 34 trận của mainz 05 mùa nay và đóng_góp lớn cho vị_trí thứ 6 chung_cuộc của đội bóng này ở bundesliga 
-7,thậm_chí thủ_thành karius được các cầu_thủ thi_đấu tại giải vđqg_đức bình_chọn là người xuất_sắc thứ hai giải đấu  chỉ sau đúng manuel_neuer của bayern_munich 
-8,được biết  gia_nhập đội chủ sân anfield  thủ_thành loris_karius sẽ mặc chiếc áo số 1  đúng với số áo mà anh yêu_cầu 
-9,còn thủ_môn simon_mignolet vẫn sẽ tiếp_tục khoác chiếc áo số 22 
-10,chia_sẻ trên trang liverpoolfccom  thủ_thành 22 tuổi này tỏ ra hạnh_phúc khi được chuyển đến chơi cho the_kop 
+0,giữ phong_độ mùa_hè năm_ngoái
+1,mới_đây liverpool nhanh_chóng tân_binh đầu_tiên dù kỳ chuyển_nhượng mùa_hè chính_thức mở_cửa
+2,liverpool hoàn_tất bản hợp_đồng chuyển_nhượng thủ_môn loris_karius mainz 05 mức giá 47 triệu bảng
+3,thủ_môn 22 tuổi gắn_bó the_kop trong 5 năm
+4,biết sở_dĩ vị_trí đầu_tiên hlv jurgen_klopp lựa_chọn gia_cố người trấn_giữ khung_thành trong bối_cảnh simon_mignolet trao cơ_hội thể_hiện hầu_như thất_vọng
+5,thủ_môn loris_karius phần_nào đáp_ứng nhu_cầu jurgen_klopp anh thi_đấu cực_kỳ xuất_sắc trong mùa giải vừa_qua
+6,cụ_thể anh bắt chính 34 trận mainz 05 mùa nay đóng_góp lớn vị_trí thứ 6 chung_cuộc đội bóng ở bundesliga
+7,thậm_chí thủ_thành karius cầu_thủ thi_đấu giải vđqg_đức bình_chọn người xuất_sắc thứ hai giải đấu đúng manuel_neuer bayern_munich
+8,biết gia_nhập đội chủ sân anfield thủ_thành loris_karius mặc áo số 1 đúng số áo anh yêu_cầu
+9,còn thủ_môn simon_mignolet tiếp_tục khoác áo số 22
+10,chia_sẻ trang liverpoolfccom thủ_thành 22 tuổi tỏ hạnh_phúc chuyển đến chơi the_kop

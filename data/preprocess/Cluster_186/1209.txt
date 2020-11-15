@@ -1,10 +1,10 @@
 idx, sentence
-0,theo đề_án của công_ty mục_tiêu môi_trường và cộng_đồng  để giải_quyết cấp_bách hậu_quả về nước đang tồn_đọng do triều_cường cao bất_thường phải thực_hiện công_trình thủy lợi_thế_hệ mới và giải_pháp phi_công_trình thân_thiện với môi_trường  kè hở áp_lực cột nước thấp  ở trên một_số nhánh sông thuộc hệ_thống sông soài_rạp  lòng_tàu và đồng_tranh  giảm mức đỉnh triều trên hệ_thống sông đồng_nai  sài_gòn  vàm cỏ bằng biện_pháp xây các hồ đa_nhiệm  hồ điều_tiết tại cần_giờ có hoặc không có cửa đóng mở để thu xả nước triều nhằm giữ mức triều cao bình_thường 
-1,nhận_xét về đề_án này  trung_tâm điều_hành chống ngập nước tphcm cho biết  xây cống ngăn triều trên hệ_thống soài_rạp khó khả_thi 
-2,trước đây  thành_phố cũng đã đưa ra phương_án xây_dựng cống kiểm_soát triều sông kinh thuộc quy_hoạch thủy_lợi phục_vụ chống ngập_úng 
-3,việc xây_dựng cống đập soài_rạp có nhiều ưu_điểm như vận_hành đơn_giản  không ảnh_hưởng đến giao_thông thủy  đặc_biệt công_trình sẽ chống ngập  lũ không chỉ cho tphcm mà_còn cho các khu_vực lân_cận như đồng_nai  long_an  bình_dương và giảm xâm_nhập mặn tại các khu_vực có nhà_máy nước trên sông sài_gòn  đồng_nai 
-4,công_trình nằm khá sâu trong sông nên không ảnh_hưởng tới môi_trường khu_vực cần_giờ  cũng như đbscl 
-5,tuy_nhiên  tại nhiều hội_thảo về xây_dựng cống này  các chuyên_gia thủy_lợi cho rằng  việc thực_hiện  nghiên_cứu ý_tưởng xây_dựng cống đập soài_rạp cũng cần phải tính_toán  xem_xét cùng với các dự_án  công_trình lớn đã được phê_duyệt và đang được bộ_nnptnt thực_hiện 
-6,ngoài_ra  trong quá_trình nghiên_cứu cũng cần phải tính_toán đến các yếu_tố về địa_lý  địa_hình  địa_chất  nước_biển dâng  môi_trường khu_vực xung_quanh 
-7,sau khi nghe công_ty mục_tiêu môi_trường và cộng_đồng trình_bày  đồng_chí nguyễn_thành_phong nhận_xét  đây chỉ mới là kết_quả nghiên_cứu chứ không phải dự_án chống ngập 
-8,hiện_nay  nguyên_nhân gây ngập chủ_yếu ở thành_phố là mưa  triều_cường  công_ty mục_tiêu môi_trường và cộng_đồng cần nghiên_cứu thêm 
+0,đề_án công_ty mục_tiêu môi_trường cộng_đồng giải_quyết cấp_bách hậu_quả về nước tồn_đọng triều_cường cao bất_thường thực_hiện công_trình thủy lợi_thế_hệ mới giải_pháp phi_công_trình thân_thiện môi_trường kè hở áp_lực cột nước thấp ở một_số nhánh sông thuộc hệ_thống sông soài_rạp lòng_tàu đồng_tranh giảm mức đỉnh triều hệ_thống sông đồng_nai sài_gòn vàm cỏ bằng biện_pháp xây hồ đa_nhiệm hồ điều_tiết cần_giờ hoặc cửa đóng mở thu xả nước triều nhằm giữ mức triều cao bình_thường
+1,nhận_xét về đề_án trung_tâm điều_hành chống ngập nước tphcm biết xây cống ngăn triều hệ_thống soài_rạp khó khả_thi
+2,thành_phố đưa phương_án xây_dựng cống kiểm_soát triều sông kinh thuộc quy_hoạch thủy_lợi phục_vụ chống ngập_úng
+3,xây_dựng cống đập soài_rạp ưu_điểm vận_hành đơn_giản ảnh_hưởng đến giao_thông thủy đặc_biệt công_trình chống ngập lũ tphcm mà_còn khu_vực lân_cận đồng_nai long_an bình_dương giảm xâm_nhập mặn khu_vực nhà_máy nước sông sài_gòn đồng_nai
+4,công_trình nằm khá sâu trong sông ảnh_hưởng tới môi_trường khu_vực cần_giờ đbscl
+5,tuy_nhiên hội_thảo về xây_dựng cống chuyên_gia thủy_lợi thực_hiện nghiên_cứu ý_tưởng xây_dựng cống đập soài_rạp tính_toán xem_xét dự_án công_trình lớn phê_duyệt bộ_nnptnt thực_hiện
+6,ngoài_ra trong quá_trình nghiên_cứu tính_toán đến yếu_tố về địa_lý địa_hình địa_chất nước_biển dâng môi_trường khu_vực xung_quanh
+7,nghe công_ty mục_tiêu môi_trường cộng_đồng trình_bày đồng_chí nguyễn_thành_phong nhận_xét mới kết_quả nghiên_cứu dự_án chống ngập
+8,hiện_nay nguyên_nhân gây ngập chủ_yếu ở thành_phố mưa triều_cường công_ty mục_tiêu môi_trường cộng_đồng nghiên_cứu thêm

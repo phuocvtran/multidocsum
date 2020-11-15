@@ -1,4 +1,4 @@
 idx, sentence
-0,ngay từ sáng sớm  những chiến_sĩ làm nhiệm_vụ bảo_vệ an_ninh quốc_gia  giữ_gìn trật_tự an_toàn xã_hội ở huyện đảo tiền_tiêu này đã tự tay đi bỏ lá phiếu bầu_chọn với kỳ_vọng sẽ lựa_chọn được những người đủ đức  đủ tài 
-1,trước đó  huyện lý_sơn đã chuẩn_bị chu đảo các khâu cần_thiết để phục_vụ công_tác bầu_cử sớm được diễn ra đạt kết_quả cao nhất 
-2,các cử_tri là những cán_bộ chiến_sĩ tham_gia bầu_cử sớm trước 2 ngày để sau đó phải thực_hiện nhiệm_vụ đảm_bảo an_ninh  an_toàn cho nhân_dân tham_gia ngày bầu_cử 225 sắp tới 
+0,sáng sớm chiến_sĩ làm nhiệm_vụ bảo_vệ an_ninh quốc_gia giữ_gìn trật_tự an_toàn xã_hội ở huyện đảo tiền_tiêu tự tay đi bỏ lá phiếu bầu_chọn kỳ_vọng lựa_chọn người đủ đức đủ tài
+1,huyện lý_sơn chuẩn_bị chu đảo khâu cần_thiết phục_vụ công_tác bầu_cử sớm diễn đạt kết_quả cao nhất
+2,cử_tri cán_bộ chiến_sĩ tham_gia bầu_cử sớm 2 ngày thực_hiện nhiệm_vụ đảm_bảo an_ninh an_toàn nhân_dân tham_gia ngày bầu_cử 225 sắp tới

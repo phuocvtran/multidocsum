@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 26  công_an tpbiên_hòa  tỉnh đồng_nai  cho biết đang điều_tra  truy_xét nhóm thanh_niên mang theo dao  kiếm và bom xăng gây náo_loạn tại kp 2  ptam_hòa  tp biên_hòa  vào đêm qua 
-1,theo thông_tin ban_đầu  vào khoảng 23 giờ ngày 16  tại kp 2  ptam_hòa  nhóm thanh_niên khoảng 10 người mang theo dao và kiếm đi vào một con hẻm hò_hét quậy_phá khiến cả khu_phố náo_loạn 
-2,khi thấy nhóm thanh_niên khác đang ngồi trước một ngôi nhà trong hẻm  nhóm thanh_niên mang dao kiếm liền đi tới đe_dọa đồng_thời dùng hung_khí đập bể cửa_kính của một nhà dân 
-3,chưa dừng lại  nhóm thanh_niên này tiếp_tục ném 3 quả bom xăng vào ba vị_trí khác nhau trong hẻm 
-4,người dân tại kp 2 cho hay  nhóm thanh_niên quậy_phá  hò_hét khoảng 5 phút rồi bỏ đi 
-5,bom xăng do nhóm thanh_niên manh_động ném ra bốc cháy khiến khói_lửa bao_trùm con hẻm 
+0,ngày 26 công_an tpbiên_hòa tỉnh đồng_nai biết điều_tra truy_xét nhóm thanh_niên mang dao kiếm bom xăng gây náo_loạn kp 2 ptam_hòa tp biên_hòa đêm
+1,thông_tin ban_đầu khoảng 23 giờ ngày 16 kp 2 ptam_hòa nhóm thanh_niên khoảng 10 người mang dao kiếm đi một con hẻm hò_hét quậy_phá khiến khu_phố náo_loạn
+2,thấy nhóm thanh_niên khác ngồi một ngôi nhà trong hẻm nhóm thanh_niên mang dao kiếm liền đi tới đe_dọa đồng_thời dùng hung_khí đập bể cửa_kính một nhà dân
+3,dừng nhóm thanh_niên tiếp_tục ném 3 quả bom xăng ba vị_trí khác nhau trong hẻm
+4,người dân kp 2 hay nhóm thanh_niên quậy_phá hò_hét khoảng 5 phút bỏ đi
+5,bom xăng nhóm thanh_niên manh_động ném bốc cháy khiến khói_lửa bao_trùm con hẻm

@@ -1,23 +1,23 @@
 idx, sentence
-0,hagl đang gặp nhiều khó_khăn sau sự khởi_đầu tốt ở mùa giải năm nay 
-1,việc đội bóng phố núi mất ngoại binh osmar vì chấn_thương khiến hlv quốc_tuấn đau_đầu 
-2,chuyến làm_khách trên sân của khánh_hòa được dự_báo lành ít dữ nhiều với đội bóng phố núi  bởi đội chủ nhà đang sở_hữu trong tay đội_hình mạnh_mẽ nhất  lại có thêm điểm_tựa khán_giả nhà nên 3 điểm là mục_tiêu hàng_đầu của đại_diện thành_phố biển 
-3,trận đấu diễn ra với tốc_độ cao ngay từ đầu 
-4,hagl chủ_động tấn_công và đã tạo ra khá nhiều cơ_hội nguy_hiểm  trong khi khánh_hòa tổ_chức phòng_ngự chặt_chẽ chờ cơ_hội phản_công 
-5,phút 14  minh_vương bị hậu_vệ đối_phương phạm lỗi ở trước vòng cấm 
-6,từ cự ly đá phạt chừng 25 m  đông_triều tung ra cú sút thẳng cực_kỳ hiểm_hóc  bóng đi qua hàng_rào rồi rơi xuống góc dưới khung_thành của tuấn_mạnh  khiến thủ_môn này hoàn_toàn bó_tay  10 cho hagl 
-7,ngay sau khi hagl có bàn thắng mở tỷ_số  khánh_hòa có cơ_hội gỡ hòa 
-8,đội_bóng phố biển có pha phối_hợp trung_lộ rất tốt  bóng được chọc khe cho một cầu_thủ áo xanh thoát xuống và thủ_môn vĩnh_lợi đã phải phạm lỗi với cầu_thủ đối_phương 
-9,đáng tiếc là trên chấm đá phạt 11 m  uche sút bóng đúng vào vị_trí của thủ_môn vĩnh_lợi 
-10,phút 31  được hưởng quả đá phạt ở cự_ly 22 m chếch về cánh trái sau tình_huống phạm lỗi của hagl 
-11,trên chấm đá phạt  uche đã lấy công chuộc lỗi  khi thực_hiện một cú sút phạt đẹp_mắt hạ gục thủ_môn vĩnh_lợi  gỡ hòa_11 cho khánh_hòa 
-12,chỉ ít phút sau  lại là uche tận_dụng pha lộn_xộn trước khung_thành hagl  ghi_bàn thắng nâng tỷ_số lên 21 cho đội chủ nhà 
-13,sang hiệp 2  khánh_hòa trở_lại với lối chơi phòng_ngự phản_công 
-14,hagl nỗ_lực tấn_công để tìm_kiếm bàn gỡ hòa 
-15,phút 52  minh_vương bên phía hagl tung cú sút xa hiểm_hóc nhưng không thắng được thủ_môn của khánh_hòa 
-16,tấn_công nhiều nhưng không ghi được bàn thắng  hagl đã phải trả_giá 
-17,phút 64  đình_kha tung cú vô lê đẹp_mắt đưa bóng vào góc xa nâng tỷ_số lên 31 cho đội chủ nhà 
-18,bị dẫn với khoảng_cách 2 bàn  hagl buộc phải đẩy cao đội_hình tìm_kiếm bàn rút ngắn tỷ_số ở những phút cuối 
-19,tuy_nhiên  việc không có ngoại binh trong đội_hình khiến đội khách gặp nhiều bế_tắc trong các phương_án tấn_công 
-20,không_những thế  ở những phút bù giờ  duy_thanh đã ấn_định chiến_thắng với tỷ_số 41 cho khánh_hòa  sau một tình_huống phản_công nhanh 
-21,đội_hình xuất_phát  khánh_hòa  tuấn_mạnh  trọng_bình  văn_vũ  đình_khương  quốc_chí  zarour_chaher  tấn_tài  văn_triển  tấn_điền  uche  ti_phông 
+0,hagl gặp khó_khăn khởi_đầu tốt ở mùa giải năm nay
+1,đội bóng phố núi mất ngoại binh osmar chấn_thương khiến hlv quốc_tuấn đau_đầu
+2,chuyến làm_khách sân khánh_hòa dự_báo lành ít dữ đội bóng phố núi đội chủ nhà sở_hữu trong tay đội_hình mạnh_mẽ nhất thêm điểm_tựa khán_giả nhà 3 điểm mục_tiêu hàng_đầu đại_diện thành_phố biển
+3,trận đấu diễn tốc_độ cao đầu
+4,hagl chủ_động tấn_công tạo khá cơ_hội nguy_hiểm trong khánh_hòa tổ_chức phòng_ngự chặt_chẽ chờ cơ_hội phản_công
+5,phút 14 minh_vương hậu_vệ đối_phương phạm lỗi ở vòng cấm
+6,cự ly đá phạt chừng 25 m đông_triều tung cú sút thẳng cực_kỳ hiểm_hóc bóng đi hàng_rào rơi xuống góc khung_thành tuấn_mạnh khiến thủ_môn hoàn_toàn bó_tay 10 hagl
+7,hagl bàn thắng mở tỷ_số khánh_hòa cơ_hội gỡ hòa
+8,đội_bóng phố biển pha phối_hợp trung_lộ tốt bóng chọc khe một cầu_thủ áo xanh thoát xuống thủ_môn vĩnh_lợi phạm lỗi cầu_thủ đối_phương
+9,đáng tiếc chấm đá phạt 11 m uche sút bóng đúng vị_trí thủ_môn vĩnh_lợi
+10,phút 31 hưởng quả đá phạt ở cự_ly 22 m chếch về cánh trái tình_huống phạm lỗi hagl
+11,chấm đá phạt uche lấy công chuộc lỗi thực_hiện một cú sút phạt đẹp_mắt hạ gục thủ_môn vĩnh_lợi gỡ hòa_11 khánh_hòa
+12,ít phút uche tận_dụng pha lộn_xộn khung_thành hagl ghi_bàn thắng nâng tỷ_số 21 đội chủ nhà
+13,sang hiệp 2 khánh_hòa trở_lại lối chơi phòng_ngự phản_công
+14,hagl nỗ_lực tấn_công tìm_kiếm bàn gỡ hòa
+15,phút 52 minh_vương bên phía hagl tung cú sút xa hiểm_hóc thắng thủ_môn khánh_hòa
+16,tấn_công ghi bàn thắng hagl trả_giá
+17,phút 64 đình_kha tung cú vô lê đẹp_mắt đưa bóng góc xa nâng tỷ_số 31 đội chủ nhà
+18,dẫn khoảng_cách 2 bàn hagl buộc đẩy cao đội_hình tìm_kiếm bàn rút ngắn tỷ_số ở phút cuối
+19,tuy_nhiên ngoại binh trong đội_hình khiến đội khách gặp bế_tắc trong phương_án tấn_công
+20,không_những thế ở phút bù giờ duy_thanh ấn_định chiến_thắng tỷ_số 41 khánh_hòa một tình_huống phản_công nhanh
+21,đội_hình xuất_phát khánh_hòa tuấn_mạnh trọng_bình văn_vũ đình_khương quốc_chí zarour_chaher tấn_tài văn_triển tấn_điền uche ti_phông

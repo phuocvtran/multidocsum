@@ -1,12 +1,12 @@
 idx, sentence
-0,sáng nay 205  tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” của trung_ương đoàn cho hai em bo_tý  14 tuổi  và cao_lâm  13 tuổi  cùng quê huyện khánh_sơn  khánh_hòa  
-1,cách đây đúng một tháng  204   tý và lâm khi đang chăn bò thuê gần hồ_thủy_lợi tà_rục  xã cam_phước_tây  hcam_lâm  khánh_hòa   thì phát_hiện một nhóm nữ_sinh lớp 7 bị đuối nước 
-2,hai em đã dũng_cảm nhảy xuống hồ  lần_lượt đưa được 5 nữ_sinh vào bờ an_toàn 
-3,khi nghe các nạn_nhân vừa được cứu cho biết còn hai bạn nữa dưới hồ  mặc_dù đã kiệt_sức  tý và lâm tiếp_tục lao xuống lặn tìm  nhưng hai nữ_sinh đã tử_vong 
-4,buổi lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” cho hai em bo_tý và cao_lâm có_mặt lãnh_đạo ubnd tỉnh khánh_hòa  bí_thư tỉnh_đoàn khánh_hòa cùng nhiều đơn_vị  tổ_chức cũng như học_sinh trên địa_bàn tỉnh khánh_hòa 
-5,chia_sẻ về hành_động của mình  tý và lâm nói   tụi em thấy người bị nạn thì cứu thôi  không nghĩ gì hết 
-6,tiếc là tụi em đã cố hết_sức  nhưng vẫn không kịp cứu hai bạn kia  
-7,đến dự buổi lễ  trần_lê_phương_uyên  lớp 7 trường thcs nguyễn_du  tpcam_ranh   một trong số 5 học_sinh may_mắn được bo_tý và cao_lâm cứu sống  xúc_động  “ tụi em rất biết_ơn hai anh đã cứu tụi em trong cơn hoạn_nạn ” 
-8,theo tỉnh_đoàn khánh_hòa  bo_tý và cao_lâm có hoàn_cảnh rất khó_khăn 
-9,em tý mồ_côi cha_mẹ từ nhỏ  không biết chữ  em lâm_học đến lớp 7 cũng phải nghỉ học 
-10,hai em giúp_đỡ gia_đình bằng cách đi chăn bò thuê 
+0,sáng nay 205 tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” trung_ương đoàn hai em bo_tý 14 tuổi cao_lâm 13 tuổi quê huyện khánh_sơn khánh_hòa
+1,cách đúng một tháng 204 tý lâm chăn bò thuê gần hồ_thủy_lợi tà_rục xã cam_phước_tây hcam_lâm khánh_hòa phát_hiện một nhóm nữ_sinh lớp 7 đuối nước
+2,hai em dũng_cảm nhảy xuống hồ lần_lượt đưa 5 nữ_sinh bờ an_toàn
+3,nghe nạn_nhân cứu biết còn hai bạn hồ mặc_dù kiệt_sức tý lâm tiếp_tục lao xuống lặn tìm hai nữ_sinh tử_vong
+4,buổi lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” hai em bo_tý cao_lâm có_mặt lãnh_đạo ubnd tỉnh khánh_hòa bí_thư tỉnh_đoàn khánh_hòa đơn_vị tổ_chức học_sinh địa_bàn tỉnh khánh_hòa
+5,chia_sẻ về hành_động mình tý lâm nói tụi em thấy người nạn cứu thôi nghĩ hết
+6,tiếc tụi em cố hết_sức kịp cứu hai bạn kia
+7,đến dự buổi lễ trần_lê_phương_uyên lớp 7 trường thcs nguyễn_du tpcam_ranh một trong số 5 học_sinh may_mắn bo_tý cao_lâm cứu sống xúc_động “ tụi em biết_ơn hai anh cứu tụi em trong cơn hoạn_nạn ”
+8,tỉnh_đoàn khánh_hòa bo_tý cao_lâm hoàn_cảnh khó_khăn
+9,em tý mồ_côi cha_mẹ nhỏ biết chữ em lâm_học đến lớp 7 nghỉ học
+10,hai em giúp_đỡ gia_đình bằng cách đi chăn bò thuê

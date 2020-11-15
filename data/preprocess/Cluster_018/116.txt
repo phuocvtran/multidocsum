@@ -1,9 +1,9 @@
 idx, sentence
-0,theo sở y_tế  dựa vào các triệu_chứng lâm_sàng  qua kết_quả điều_tra thu_thập thông_tin từ phía gia_đình và bệnh_viện đa_khoa đồng_tháp  kết_luận đây là vụ ngộ_độc thực_phẩm ở hộ gia_đình  thức_ăn nguyên_nhân gây ra ngộ_độc là khổ qua xào với cóc  nhái  ếch  trong đó cóc chưa loại_bỏ hết nội_tạng mà đem chế_biến 
-1,căn_nguyên gây ra ngộ_độc thức_ăn là cóc  trong nội_tạng của cóc có độc_tố bufotoxine  
-2,trước đó  anh trần_văn_sơn em đi soi và bắt được hơn 1 kg cóc  nhái và ếch 
-3,sáng 175  chị nguyễn_thị_kim_loan  vợ anh em  đem cóc  nhái  ếch ra chế_biến món kho sả ớt cho 9 người trong gia_đình cùng ăn nhưng chỉ làm phân_nửa  bỏ hết nội_tạng bên trong   còn lại dành phần buổi cơm chiều 
-4,sau buổi ăn mọi người vẫn khỏe 
-5,đến chiều 175  chị loan lấy phần còn lại chế_biến món khổ qua xào cho 9 người trong gia_đình cùng ăn  tuy_nhiên  nội_tạng 4 con cóc không bị loại_bỏ 
-6,bé trần_nguyễn_hoài_nam  4 tuổi được cha  anh_em  thương nên cho ăn phần gan và bao_tử trước  8 người còn lại cùng ăn sau 
-7,sau khi dùng cơm xong  khoảng 18 giờ 30 cùng ngày  bé nam bị nôn nhiều  chân_tay lạnh  môi tím  tim đập chậm  gia_đình đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị nhưng khoảng 22 giờ 30 phút cùng ngày bé đã tử_vong 
+0,sở y_tế dựa triệu_chứng lâm_sàng kết_quả điều_tra thu_thập thông_tin phía gia_đình bệnh_viện đa_khoa đồng_tháp kết_luận vụ ngộ_độc thực_phẩm ở hộ gia_đình thức_ăn nguyên_nhân gây ngộ_độc khổ xào cóc nhái ếch trong cóc loại_bỏ hết nội_tạng đem chế_biến
+1,căn_nguyên gây ngộ_độc thức_ăn cóc trong nội_tạng cóc độc_tố bufotoxine
+2,anh trần_văn_sơn em đi soi bắt hơn 1 kg cóc nhái ếch
+3,sáng 175 chị nguyễn_thị_kim_loan vợ anh em đem cóc nhái ếch chế_biến món kho sả ớt 9 người trong gia_đình ăn làm phân_nửa bỏ hết nội_tạng bên trong còn dành phần buổi cơm chiều
+4,buổi ăn mọi người khỏe
+5,đến chiều 175 chị loan lấy phần còn chế_biến món khổ xào 9 người trong gia_đình ăn tuy_nhiên nội_tạng 4 con cóc loại_bỏ
+6,bé trần_nguyễn_hoài_nam 4 tuổi cha anh_em thương ăn phần gan bao_tử 8 người còn ăn
+7,dùng cơm xong khoảng 18 giờ 30 ngày bé nam nôn chân_tay lạnh môi tím tim đập chậm gia_đình đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị khoảng 22 giờ 30 phút ngày bé tử_vong

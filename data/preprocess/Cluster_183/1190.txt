@@ -1,11 +1,11 @@
 idx, sentence
-0,trong quá_khứ  mourinho và pep_guardiola được xem là kỳ_phùng địch_thủ 
-1,trong 2 năm đối_đầu khi dẫn_dắt real_madrid và barcelona  họ đã có những cuộc chạm_trán nảy_lửa cả trong lẫn ngoài sân_cỏ 
-2,ở mùa này  định_mệnh lại “ buộc ” hai chiến_lược gia đại_tài này lại với nhau khi họ cầm_quân ở hai clb thành manchester là mu và man_city 
-3,tuy_nhiên  lần này  mourinho đã khẳng_định sẽ không sa_đà vào những cuộc tranh_cãi với pep_guardiola 
-4,phát_biểu trong buổi họp_báo ở bồ_đào nha ngày hôm_qua  ông thày của mu cho biết  “ trong quá_khứ  tôi và pep_guardola là những đối_thủ trực_tiếp của nhau 
-5,một trong hai sẽ lên_ngôi vô_địch 
-6,vì_vậy  tôi không_thể xem mình là kẻ ngoài_cuộc 
-7,tôi buộc vào “ đụng_chạm ” tới pep_guardiola 
-8,dù_vậy  ở premier_league lại câu_chuyện khác 
-9,nếu tôi tập_trung vào đối_đầu với pep_guardiola thì một người khác sẽ lên_ngôi vô_địch ” 
+0,trong quá_khứ mourinho pep_guardiola xem kỳ_phùng địch_thủ
+1,trong 2 năm đối_đầu dẫn_dắt real_madrid barcelona họ cuộc chạm_trán nảy_lửa trong lẫn ngoài sân_cỏ
+2,ở mùa định_mệnh “ buộc ” hai chiến_lược gia đại_tài nhau họ cầm_quân ở hai clb thành manchester mu man_city
+3,tuy_nhiên lần mourinho khẳng_định sa_đà cuộc tranh_cãi pep_guardiola
+4,phát_biểu trong buổi họp_báo ở bồ_đào nha ngày hôm_qua ông thày mu biết “ trong quá_khứ tôi pep_guardola đối_thủ trực_tiếp nhau
+5,một trong hai lên_ngôi vô_địch
+6,vì_vậy tôi không_thể xem mình kẻ ngoài_cuộc
+7,tôi buộc “ đụng_chạm ” tới pep_guardiola
+8,dù_vậy ở premier_league câu_chuyện khác
+9,tôi tập_trung đối_đầu pep_guardiola một người khác lên_ngôi vô_địch ”

@@ -1,23 +1,23 @@
 idx, sentence
-0,chiều 31/5  lãnh_đạo tp hcm cùng các ban_ngành liên_quan  các chuyên_gia chống ngập  các nhà_khoa_học cùng nghe công_ty mục_tiêu vì môi_trường và cộng_đồng  ept  báo_cáo phương_án  giải_pháp chống ngập trên địa_bàn tp tại buổi làm_việc  ông nguyễn_công_anh  đại_diện công_ty ept đã báo_cáo đề_án  “ các giải_pháp cấp_bách nhằm giảm đỉnh triều cao bất_thường trong hệ_thống sông đồng_nai – vàm cỏ để chống ngập cho tp hcm và quy_hoạch khả_thi bền_vững nhằm giữ mức triều cao bình_thường trong hệ_thống các sông này ” 
-1,phía công_ty ept đề_xuất tp khẩn_trương thực_hiện mô_hình “ kè hở áp_lực cột nước thấp quy_mô cận thực_tế  trên các nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp  lòng_tàu và đồng_tranh 
-2,giảm mức đỉnh triều trên sông đồng_nai và vàm_cỏ bằng biện_pháp phi_công_trình là xây_dựng hồ đa_nhiệm 
-3,điều_tiết tại huyện cần_giờ có hay không có hệ_thống cửa đóng – mở để thu xả nước triều nhằm giữ mức triều cao bình_thường và 8 nhiệm_vụ về nước trong hệ_thống sông sài_gòn – đồng_nai – vàm_cỏ để bảo_đảm sự phát_triển bền_vững cho tp hcm giai_đoạn 2020  2050 
-4,theo phía công_ty ept  toàn_bộ đề_án với tổng mức kinh_phí hơn 20000 tỷ 
-5,tham_gia buổi báo_cáo đề_án có sự góp_mặt của rất nhiều chuyên_gia về thủy_lợi  giao_thông  xây_dựng và khoa_học kỹ_thuật 
-6,nhiều chuyên_gia đã phản_bác ngay đề_án của công_ty ept về tính khả_thi 
-7,tiến_sĩ phạm_sanh cho rằng đề_án này vẫn còn rất nhiều hạn_chế  công_ty ept chỉ mới nghiên_cứu một khía_cạnh rất nhỏ của vấn_đề ngập nước của tp  tức_là chỉ ra nguyên_nhân triều dâng mà chưa đề_cập đến lượng nước mưa  hệ_thống thoát nước đô_thị của thành_phố 
-8,ông trần_công_lý  phó giám_đốc sở nông_nghiệp và phát_triển nông_thôn tp hcm cho rằng  vấn_đề ngập nước của tp còn liên_quan đến các đợt lũ thường nguồn  liên_quan khả_năng xả nước của hai hồ_chứa nước dầu_tiếng và trị_an 
-9,ông lý cho rằng tp cần phải tính đến phương_án xấu nhất là hồ dầu_tiếng vỡ hoặc gặp sự_cố thì khả_năng tp ngập sâu sẽ rất lớn 
-10,chỉ cần có sự_cố thì chỉ 3 giờ  nước đã về đến củ_chi 
-11,bày_tỏ ý_kiến của mình  ông phạm_thế_vinh  viện khoa_học thủy_lợi miền nam cho rằng  việc xây đề  ngăn kè ở các cửa_sông  cửa_biển để giảm đỉnh triều_cường cũng cần tính_toán kỹ tránh trường_hợp sạt_lở vì các sông đang ở thế cân_bằng 
-12,việc giảm triều để ngăn ngập chỉ là bước_đầu  phía công_ty chưa đưa ra con_số cụ_thể về kỹ_thuật  hạ_tầng và tác_động đến kinh_tế 
-13,ông vinh đề_xuất thành_phố cần nghiên_cứu và kết_hợp với các đề_án cấp quốc_gia  cấp vùng để có giải_pháp chống ngập tổng_thể 
-14,sau khi nghe các ý_kiến phản_biện từ các chuyên_gia  nhà_khoa_học  lãnh_đạo tp hcm rất hoan_nghênh đề_án của công_ty ept và các ý_kiến phản_biện  góp_ý của các chuyên_gia 
-15,ông tất_thành_cang  phó bí_thư thường_trực thành_ủy tp hcm  cho rằng  giải_pháp chống ngập là bài_toán lớn mà lãnh_đạo tp rất quan_tâm 
-16,tuy_nhiên  để giải_quyết  các ban_ngành liên_quan cần phải rà_soát lại hệ_thống cống cũ  cống mới trong đề_án quy_hoạch đô_thị  chống ngập tp cần phải liên_kết vùng với các tỉnh xung_quanh vì hệ_thống sông_ngòi luôn liên_kết chặt_chẽ 
-17,các giải_pháp công_trình và phi_công_trình cần được kết_hợp  như giải_pháp nâng cao khả_năng quản_lý của các cấp để các phương_án được thực_hiện thông_suốt  hiệu_quả  nhanh_chóng 
-18, ubnd tp cần nghiên_cứu giải_pháp xây_dựng hệ_thống hồ_chứa_nước gia_đình  hồ điều_tiết ở các cụm dân_cư để giảm lượng nước mưa   ông cang đề_xuất 
-19,tổng_kết buổi báo_cáo  ông nguyễn_thành_phong  chủ_tịch ubnd tp hcm cho rằng  thành_phố ngập chủ_yếu do mưa  triều dâng và lũ thượng_nguồn 
-20,vấn_đề ngập nước là vấn_đề được người dân rất quan_tâm  ảnh_hưởng đến đời_sống và phát_triển kinh_tế 
-21,thành_phố cần phải có những giải_pháp đồng_bộ và chặt_chẽ để nhanh_chóng giải_quyết 
+0,chiều 31/5 lãnh_đạo tp hcm ban_ngành liên_quan chuyên_gia chống ngập nhà_khoa_học nghe công_ty mục_tiêu môi_trường cộng_đồng ept báo_cáo phương_án giải_pháp chống ngập địa_bàn tp buổi làm_việc ông nguyễn_công_anh đại_diện công_ty ept báo_cáo đề_án “ giải_pháp cấp_bách nhằm giảm đỉnh triều cao bất_thường trong hệ_thống sông đồng_nai – vàm cỏ chống ngập tp hcm quy_hoạch khả_thi bền_vững nhằm giữ mức triều cao bình_thường trong hệ_thống sông ”
+1,phía công_ty ept đề_xuất tp khẩn_trương thực_hiện mô_hình “ kè hở áp_lực cột nước thấp quy_mô cận thực_tế nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp lòng_tàu đồng_tranh
+2,giảm mức đỉnh triều sông đồng_nai vàm_cỏ bằng biện_pháp phi_công_trình xây_dựng hồ đa_nhiệm
+3,điều_tiết huyện cần_giờ hay hệ_thống cửa đóng – mở thu xả nước triều nhằm giữ mức triều cao bình_thường 8 nhiệm_vụ về nước trong hệ_thống sông sài_gòn – đồng_nai – vàm_cỏ bảo_đảm phát_triển bền_vững tp hcm giai_đoạn 2020 2050
+4,phía công_ty ept toàn_bộ đề_án tổng mức kinh_phí hơn 20000 tỷ
+5,tham_gia buổi báo_cáo đề_án góp_mặt chuyên_gia về thủy_lợi giao_thông xây_dựng khoa_học kỹ_thuật
+6,chuyên_gia phản_bác đề_án công_ty ept về tính khả_thi
+7,tiến_sĩ phạm_sanh đề_án còn hạn_chế công_ty ept mới nghiên_cứu một khía_cạnh nhỏ vấn_đề ngập nước tp tức_là nguyên_nhân triều dâng đề_cập đến lượng nước mưa hệ_thống thoát nước đô_thị thành_phố
+8,ông trần_công_lý phó giám_đốc sở nông_nghiệp phát_triển nông_thôn tp hcm vấn_đề ngập nước tp còn liên_quan đến đợt lũ thường nguồn liên_quan khả_năng xả nước hai hồ_chứa nước dầu_tiếng trị_an
+9,ông lý tp tính đến phương_án xấu nhất hồ dầu_tiếng vỡ hoặc gặp sự_cố khả_năng tp ngập sâu lớn
+10,sự_cố 3 giờ nước về đến củ_chi
+11,bày_tỏ ý_kiến mình ông phạm_thế_vinh viện khoa_học thủy_lợi miền nam xây đề ngăn kè ở cửa_sông cửa_biển giảm đỉnh triều_cường tính_toán kỹ tránh trường_hợp sạt_lở sông ở thế cân_bằng
+12,giảm triều ngăn ngập bước_đầu phía công_ty đưa con_số cụ_thể về kỹ_thuật hạ_tầng tác_động đến kinh_tế
+13,ông vinh đề_xuất thành_phố nghiên_cứu kết_hợp đề_án cấp quốc_gia cấp vùng giải_pháp chống ngập tổng_thể
+14,nghe ý_kiến phản_biện chuyên_gia nhà_khoa_học lãnh_đạo tp hcm hoan_nghênh đề_án công_ty ept ý_kiến phản_biện góp_ý chuyên_gia
+15,ông tất_thành_cang phó bí_thư thường_trực thành_ủy tp hcm giải_pháp chống ngập bài_toán lớn lãnh_đạo tp quan_tâm
+16,tuy_nhiên giải_quyết ban_ngành liên_quan rà_soát hệ_thống cống cũ cống mới trong đề_án quy_hoạch đô_thị chống ngập tp liên_kết vùng tỉnh xung_quanh hệ_thống sông_ngòi luôn liên_kết chặt_chẽ
+17,giải_pháp công_trình phi_công_trình kết_hợp giải_pháp nâng cao khả_năng quản_lý cấp phương_án thực_hiện thông_suốt hiệu_quả nhanh_chóng
+18,ubnd tp nghiên_cứu giải_pháp xây_dựng hệ_thống hồ_chứa_nước gia_đình hồ điều_tiết ở cụm dân_cư giảm lượng nước mưa ông cang đề_xuất
+19,tổng_kết buổi báo_cáo ông nguyễn_thành_phong chủ_tịch ubnd tp hcm thành_phố ngập chủ_yếu mưa triều dâng lũ thượng_nguồn
+20,vấn_đề ngập nước vấn_đề người dân quan_tâm ảnh_hưởng đến đời_sống phát_triển kinh_tế
+21,thành_phố giải_pháp đồng_bộ chặt_chẽ nhanh_chóng giải_quyết

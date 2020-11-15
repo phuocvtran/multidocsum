@@ -1,29 +1,29 @@
 idx, sentence
-0,thông_tin từ phòng cảnh_sát điều_tra tội_phạm về ma_túy  pc47   công_an tphcm cho biết kẻ cầm_đầu tổ_chức buôn_bán ma_túy liên tỉnh này là đối_tượng nguyễn_duy_hùng  46 tuổi  quê quảng_trị  ngụ tỉnh thái_nguyên  để bắt được đối_tượng lực_lượng chức_năng đã phải nằm_vùng và sử_dụng nhiều biện_pháp nghiệp_vụ 
-1,theo cơ_quan điều_tra vào đầu năm 2016  pc47  công_an tphcm  và c47  bộ công_an  bắt_giữ 2 đối_tượng nguyễn_thanh_phú  30 tuổi  ngụ quận 6  và nguyễn_văn_hữu  22 tuổi  ngụ quận 12  cùng gần 2 kg ma_túy đá được ngụy_trang cẩn_thận bọc trong các thùng trái_cây 
-2,sau quá_trình xét_hỏi 2 đối_tượng khai nhận mua  hàng  của “ ông trùm ” nguyễn_duy_hùng 
-3,xác_định đây có_thể là một tổ_chức buôn_bán ma_túy liên tỉnh với quy_mô lớn  phòng cảnh_sát điều_tra tội_phạm về ma_túy  pc47  đã phối_hợp với cục cảnh_sát điều_tra tội_phạm về ma_túy  c47  lập chuyên_án triệt_phá 
-4,trong quá_trình điều_tra các trinh_sát còn phát_hiện thêm một đối_tượng là nguyễn_tiến_khanh  36 tuổi  ngụ phường bình_giã  tp vũng_tàu  cũng là đối_tượng cầm_đầu tham_gia các hoạt_động trao_đổi buôn_bán ma_túy trong tổ_chức này 
-5,đến ngày 18/5  trinh_sát phát_hiện hùng gặp khanh gần cao_tốc long_thành – dầu_giây  sau đó lái_xe ôtô về đậu trong hẻm trên đường đinh_bộ_lĩnh  phường 24  quận bình_thạnh 
-6,khoảng 10 phút sau  kẻ lạ_mặt chạy xe vào hẻm  tổ trinh_sát lập_tức bám theo  khống_chế bắt_giữ 
-7,bị bắt nghi phạm vùng_vẫy định mở cốp xe lấy khẩu súng_ngắn hòng chống_trả nhưng bất_thành 
-8,khám_xét cốp xe_máy của y  công_an thu_giữ 2 bánh heroin  312 triệu đồng  2200 usd và một khẩu súng_ngắn 
-9,tại cơ_quan điều_tra đối_tượng khai tên khưu_thanh_thảo  tự cu_tửng  42 tuổi  ngụ quận 1  là con_nghiện ma_túy và có nhiều tiền_án tiền_sự 
-10,sau khi cai_nghiện bắt_buộc  thảo liên_tục lập 6 tiền_án về các tội trộm_cắp  cướp_giật và tàng_trữ  vận_chuyển trái_phép chất ma_túy 
-11,tiếp_tục theo_dõi đối_tượng hùng  một mũi trinh_sát đã khoanh vùng hoạt_động của đối_tượng và tiến_hành vây_bắt 
-12,khi hùng cùng người_tình bước vào xe_hơi thì bị công_an tóm gọn 
-13,tang_vật thu_giữ 6 kg ma_túy đá  1 khẩu súng k59  15 viên đạn  1 nòng giảm thanh  50000 usd  hơn 21 tỷ đồng  1 xe ô_tô cùng nhiều giấy_tờ liên_quan 
-14,hùng khai số ma_túy trên mua của một người trung_quốc tại cửa_khẩu tân_thanh với giá 200 triệu đồng / 1 kg 
-15,sau đó  y trực_tiếp vận_chuyển bằng xe ô_tô riêng vào tp hcm bán_sỉ cho khanh  thảo cùng một_số đầu_nậu  hưởng lợi 150 triệu đồng / 1 kg 
-16,bình_quân cứ mỗi chuyến hàng trót_lọt  hùng đút_túi cả tỷ đồng 
-17,hùng là con cáo_già ma_quái 
-18,năm 2003  gã từng bị công_an thái_nguyên bắt về tội tàng_trữ  sử_dụng trái_phép chất ma_túy 
-19,sau khi bóc lịch 7 năm tù  trở_về địa_phương hắn mở xưởng sửa_chữa ô_tô khá hoành_tráng 
-20,kinh_doanh được thời_gian ngắn  hùng đã xây nhà_lầu  tậu xế hộp ford_ranger màu trắng 
-21,mặc_dù đã có vợ_con nhưng khi rủng_rỉnh tiền_bạc  hắn lén_lút cặp_kè với cô bồ tên đoàn huệ_hương_gi  43 tuổi  ngụ tp thái_nguyên  
-22,điều đặc_biệt là ông chủ xưởng sửa xe lại chẳng_mấy_khi nhúng_tay vào việc hoạt_động kinh_doanh mà thường_xuyên lái_xe xuyên việt vào đất sài_thành 
-23,còn đối_tượng khanh sau khi thực_hiện giao_dịch với hùng đã di_chuyển chạy xe lên cao_tốc long_thành – dầu_giây hướng về lâm_đồng 
-24,tình_huống khẩn_cấp lãnh_đạo c47 và pc47  công_an tphcm  đã thống_nhất liên_lạc với phòng cảnh_sát điều_tra tội_phạm về ma_túy công_an tỉnh lâm_đồng cung_cấp đặc_điểm chiếc xe ford_escape màu xanh nhớt do khanh điều_khiển  yêu_cầu đón_lõng bắt_giữ nghi phạm 
-25,trước tình_huống cấp_bách  chỉ_huy phòng pc47 tỉnh lâm_đồng nhận_định việc mặc sắc_phục phá_án sẽ khiến nghi phạm manh_động nên đã chỉ_đạo lực_lượng vào vai nhân_viên thu phí ém_quân ở trạm cao_tốc  chờ thời cơ tung_lưới 
-26,nửa giờ sau  khanh chạy xe đến nơi  nhân_viên soát_vé yêu_cầu xuống xe mua vé 
-27,khi hắn vừa bước xuống  các chiến_sĩ công_an mặc thường_phục ập đến khống_chế  bắt_giữ khanh cùng hai đối_tượng khác trên xe 
+0,thông_tin phòng cảnh_sát điều_tra tội_phạm về ma_túy pc47 công_an tphcm biết kẻ cầm_đầu tổ_chức buôn_bán ma_túy liên tỉnh đối_tượng nguyễn_duy_hùng 46 tuổi quê quảng_trị ngụ tỉnh thái_nguyên bắt đối_tượng lực_lượng chức_năng nằm_vùng sử_dụng biện_pháp nghiệp_vụ
+1,cơ_quan điều_tra đầu năm 2016 pc47 công_an tphcm c47 bộ công_an bắt_giữ 2 đối_tượng nguyễn_thanh_phú 30 tuổi ngụ quận 6 nguyễn_văn_hữu 22 tuổi ngụ quận 12 gần 2 kg ma_túy đá ngụy_trang cẩn_thận bọc trong thùng trái_cây
+2,quá_trình xét_hỏi 2 đối_tượng khai nhận mua hàng “ ông trùm ” nguyễn_duy_hùng
+3,xác_định một tổ_chức buôn_bán ma_túy liên tỉnh quy_mô lớn phòng cảnh_sát điều_tra tội_phạm về ma_túy pc47 phối_hợp cục cảnh_sát điều_tra tội_phạm về ma_túy c47 lập chuyên_án triệt_phá
+4,trong quá_trình điều_tra trinh_sát còn phát_hiện thêm một đối_tượng nguyễn_tiến_khanh 36 tuổi ngụ phường bình_giã tp vũng_tàu đối_tượng cầm_đầu tham_gia hoạt_động trao_đổi buôn_bán ma_túy trong tổ_chức
+5,đến ngày 18/5 trinh_sát phát_hiện hùng gặp khanh gần cao_tốc long_thành – dầu_giây lái_xe ôtô về đậu trong hẻm đường đinh_bộ_lĩnh phường 24 quận bình_thạnh
+6,khoảng 10 phút kẻ lạ_mặt chạy xe hẻm tổ trinh_sát lập_tức bám khống_chế bắt_giữ
+7,bắt nghi phạm vùng_vẫy định mở cốp xe lấy khẩu súng_ngắn hòng chống_trả bất_thành
+8,khám_xét cốp xe_máy y công_an thu_giữ 2 bánh heroin 312 triệu đồng 2200 usd một khẩu súng_ngắn
+9,cơ_quan điều_tra đối_tượng khai tên khưu_thanh_thảo tự cu_tửng 42 tuổi ngụ quận 1 con_nghiện ma_túy tiền_án tiền_sự
+10,cai_nghiện bắt_buộc thảo liên_tục lập 6 tiền_án về tội trộm_cắp cướp_giật tàng_trữ vận_chuyển trái_phép chất ma_túy
+11,tiếp_tục theo_dõi đối_tượng hùng một mũi trinh_sát khoanh vùng hoạt_động đối_tượng tiến_hành vây_bắt
+12,hùng người_tình bước xe_hơi công_an tóm gọn
+13,tang_vật thu_giữ 6 kg ma_túy đá 1 khẩu súng k59 15 viên đạn 1 nòng giảm thanh 50000 usd hơn 21 tỷ đồng 1 xe ô_tô giấy_tờ liên_quan
+14,hùng khai số ma_túy mua một người trung_quốc cửa_khẩu tân_thanh giá 200 triệu đồng / 1 kg
+15,y trực_tiếp vận_chuyển bằng xe ô_tô riêng tp hcm bán_sỉ khanh thảo một_số đầu_nậu hưởng lợi 150 triệu đồng / 1 kg
+16,bình_quân chuyến hàng trót_lọt hùng đút_túi tỷ đồng
+17,hùng con cáo_già ma_quái
+18,năm 2003 gã công_an thái_nguyên bắt về tội tàng_trữ sử_dụng trái_phép chất ma_túy
+19,bóc lịch 7 năm tù trở_về địa_phương hắn mở xưởng sửa_chữa ô_tô khá hoành_tráng
+20,kinh_doanh thời_gian ngắn hùng xây nhà_lầu tậu xế hộp ford_ranger màu trắng
+21,mặc_dù vợ_con rủng_rỉnh tiền_bạc hắn lén_lút cặp_kè cô bồ tên đoàn huệ_hương_gi 43 tuổi ngụ tp thái_nguyên
+22,đặc_biệt ông chủ xưởng sửa xe chẳng_mấy_khi nhúng_tay hoạt_động kinh_doanh thường_xuyên lái_xe xuyên việt đất sài_thành
+23,còn đối_tượng khanh thực_hiện giao_dịch hùng di_chuyển chạy xe cao_tốc long_thành – dầu_giây hướng về lâm_đồng
+24,tình_huống khẩn_cấp lãnh_đạo c47 pc47 công_an tphcm thống_nhất liên_lạc phòng cảnh_sát điều_tra tội_phạm về ma_túy công_an tỉnh lâm_đồng cung_cấp đặc_điểm xe ford_escape màu xanh nhớt khanh điều_khiển yêu_cầu đón_lõng bắt_giữ nghi phạm
+25,tình_huống cấp_bách chỉ_huy phòng pc47 tỉnh lâm_đồng nhận_định mặc sắc_phục phá_án khiến nghi phạm manh_động chỉ_đạo lực_lượng vai nhân_viên thu phí ém_quân ở trạm cao_tốc chờ thời cơ tung_lưới
+26,nửa giờ khanh chạy xe đến nhân_viên soát_vé yêu_cầu xuống xe mua vé
+27,hắn bước xuống chiến_sĩ công_an mặc thường_phục ập đến khống_chế bắt_giữ khanh hai đối_tượng khác xe

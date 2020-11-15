@@ -1,7 +1,7 @@
 idx, sentence
-0,xe_tăng t14_armata  lần đầu_tiên nga công_bố trong cuộc diễu_binh mừng ngày chiến_thắng năm 2015 tại quảng_trường đỏ  được ứng_dụng những công_nghệ hiện_đại mang tính đột_phá mở ra một chương mới trong ngành công_nghiệp xe_tăng chiến_đấu 
-1,nhờ công_nghệ mới  xe_tăng armata thực_sự tàng_hình trước các thiết_bị dò_tìm hồng_ngoại và các tín_hiệu quang_phổ khác 
-2,chúng còn được trang_bị một radar quét điện_tử chủ_động  aesa  hoặc radar mảng pha chủ_động  apar  giống với loại được thiết_kế cho máy_bay chiến_đấu thế_hệ thứ 5 t50_pak_fa của nga 
-3,radar và các camera trên xe_tăng không chỉ có chức_năng chiến_đấu chống lại một mục_tiêu của đối_phương  mà_còn có chức_năng trinh_sát và điều_chỉnh hỏa_lực 
-4,vũ_khí trên xe_tăng armata bao_gồm một pháo nòng trơn 125 mm và một súng_máy điều_khiển từ xa 762 mm 
-5,trong tương_lai  xe_tăng này có_thể được chuyển thành một pháo tự_hành hạng nặng khi được trang_bị một pháo 152 mm 
+0,xe_tăng t14_armata lần đầu_tiên nga công_bố trong cuộc diễu_binh mừng ngày chiến_thắng năm 2015 quảng_trường đỏ ứng_dụng công_nghệ hiện_đại mang tính đột_phá mở một chương mới trong ngành công_nghiệp xe_tăng chiến_đấu
+1,nhờ công_nghệ mới xe_tăng armata thực_sự tàng_hình thiết_bị dò_tìm hồng_ngoại tín_hiệu quang_phổ khác
+2,chúng còn trang_bị một radar quét điện_tử chủ_động aesa hoặc radar mảng pha chủ_động apar giống loại thiết_kế máy_bay chiến_đấu thế_hệ thứ 5 t50_pak_fa nga
+3,radar camera xe_tăng chức_năng chiến_đấu chống một mục_tiêu đối_phương mà_còn chức_năng trinh_sát điều_chỉnh hỏa_lực
+4,vũ_khí xe_tăng armata bao_gồm một pháo nòng trơn 125 mm một súng_máy điều_khiển xa 762 mm
+5,trong tương_lai xe_tăng chuyển thành một pháo tự_hành hạng nặng trang_bị một pháo 152 mm

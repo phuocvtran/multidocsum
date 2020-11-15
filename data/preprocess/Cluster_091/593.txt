@@ -1,8 +1,8 @@
 idx, sentence
-0,giải đấu này diễn ra từ ngày 1926 / 5  được xem là màn sát_hạch quan_trọng để các xạ_thủ chuẩn_bị cho olympic_rio 2016 
-1,tại nội_dung sở_trường 10 m súng ngắn_hơi nam  hoàng_xuân_vinh đạt 585 điểm ở vòng loại  xếp_hạng 4 trong tổng_số 112 xạ_thủ tham_dự  qua đó giành quyền vào chung_kết 
-2,ở vòng đấu_tranh huy_chương này  xạ_thủ việt_nam đứng hạng 3 với 1798 điểm 
-3,giành hcv là nhà vô_địch châu_âu 2014 oleh_omelchuk  ukranie  với 2019 điểm 
-4,còn ismail_keles  thổ_nhĩ_kỳ  đoạt hcb với 2011 điểm 
-5,đây là tấm huy_chương duy_nhất của các xạ_thủ việt_nam tại munich và là tấm huy_chương quốc_tế thứ 2 của xuân_vinh trong năm 2016 
-6,trước đó  anh cũng giành hcđ 10 m súng ngắn_hơi nam ở giải issf_world_cup tại bangkok  thái_lan  từ ngày 19 / 3  với thành_tích 1801 điểm  xếp sau wu_filipe_almeida của brazil  2019 điểm  và will_brown của mỹ  2014 điểm  
+0,giải đấu diễn ngày 1926 / 5 xem màn sát_hạch quan_trọng xạ_thủ chuẩn_bị olympic_rio 2016
+1,nội_dung sở_trường 10 m súng ngắn_hơi nam hoàng_xuân_vinh đạt 585 điểm ở vòng loại xếp_hạng 4 trong tổng_số 112 xạ_thủ tham_dự giành quyền chung_kết
+2,ở vòng đấu_tranh huy_chương xạ_thủ việt_nam đứng hạng 3 1798 điểm
+3,giành hcv nhà vô_địch châu_âu 2014 oleh_omelchuk ukranie 2019 điểm
+4,còn ismail_keles thổ_nhĩ_kỳ đoạt hcb 2011 điểm
+5,tấm huy_chương duy_nhất xạ_thủ việt_nam munich tấm huy_chương quốc_tế thứ 2 xuân_vinh trong năm 2016
+6,anh giành hcđ 10 m súng ngắn_hơi nam ở giải issf_world_cup bangkok thái_lan ngày 19 / 3 thành_tích 1801 điểm xếp wu_filipe_almeida brazil 2019 điểm will_brown mỹ 2014 điểm

@@ -1,12 +1,12 @@
 idx, sentence
-0,đây là vụ bê_bối thứ hai gây chấn_động ngành công_nghiệp ô_tô nhật_bản  xảy ra chỉ một tháng sau khi mitsubishi_motors thừa_nhận làm sai_lệch kết_quả đo mức tiêu_thụ nhiên_liệu của nhiều mẫu xe trong nhiều năm 
-1,danh_mục sản_phẩm của suzuki tập_trung vào các mẫu xe mini hoặc xe sử_dụng động_cơ dung_tích nhỏ để được hưởng ưu_đãi thuế ở nhật 
-2,công_ty cho biết việc sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu không liên_quan đến các mẫu xe bán ở nước_ngoài 
-3,suzuki cho biết  công_ty đã thu_thập_dữ_liệu liên_quan đến các bộ_phận như lốp xe  phanh và hộp_số  sau đó kết_hợp với kết_quả đo mức cản gió trong hầm gió để cho ra số_liệu về mức tiêu_thụ nhiên_liệu của xe 
-4,đây là phương_pháp không đúng theo quy_định của chính_phủ nhật_bản  nhưng kết_quả thu được không lệch nhiều so với phương_pháp chuẩn 
-5,hiện suzuki đang bị điều_tra lại về việc sử_dụng sai phương_pháp thử_nghiệm trên các mẫu xe của hãng từ năm 1991 đến nay 
-6,chủ_tịch suzuki  ông osamu_suzuki hôm 18/5 đã có_mặt trong buổi họp_báo tổ_chức tại bộ giao_thông nhật_bản và cúi đầu xin_lỗi 
-7,chính_phủ đã yêu_cầu tất_cả các nhà_sản_xuất ô_tô rà_soát việc thử_nghiệm mức tiêu_thụ nhiên_liệu của xe sau khi xảy ra vụ bê_bối gian_lận của mitsubishi 
-8,hồi đầu tháng  nissan_motor_co 
-9,cho biết sẽ mua 34  cổ_phần mitsubishi với giá 22 tỷ usd 
-10,ceo carlos_ghosn của nissan gọi đó là một thoả_thuận đôi bên cùng có lợi  vì cổ_phiếu mitsubishi đã mất_giá hơn 40  sau khi nổ ra vụ bê_bối 
+0,vụ bê_bối thứ hai gây chấn_động ngành công_nghiệp ô_tô nhật_bản xảy một tháng mitsubishi_motors thừa_nhận làm sai_lệch kết_quả đo mức tiêu_thụ nhiên_liệu mẫu xe trong năm
+1,danh_mục sản_phẩm suzuki tập_trung mẫu xe mini hoặc xe sử_dụng động_cơ dung_tích nhỏ hưởng ưu_đãi thuế ở nhật
+2,công_ty biết sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu liên_quan đến mẫu xe bán ở nước_ngoài
+3,suzuki biết công_ty thu_thập_dữ_liệu liên_quan đến bộ_phận lốp xe phanh hộp_số kết_hợp kết_quả đo mức cản gió trong hầm gió số_liệu về mức tiêu_thụ nhiên_liệu xe
+4,phương_pháp đúng quy_định chính_phủ nhật_bản kết_quả thu lệch phương_pháp chuẩn
+5,hiện suzuki điều_tra về sử_dụng sai phương_pháp thử_nghiệm mẫu xe hãng năm 1991 đến nay
+6,chủ_tịch suzuki ông osamu_suzuki hôm 18/5 có_mặt trong buổi họp_báo tổ_chức bộ giao_thông nhật_bản cúi đầu xin_lỗi
+7,chính_phủ yêu_cầu tất_cả nhà_sản_xuất ô_tô rà_soát thử_nghiệm mức tiêu_thụ nhiên_liệu xe xảy vụ bê_bối gian_lận mitsubishi
+8,hồi đầu tháng nissan_motor_co
+9,biết mua 34 cổ_phần mitsubishi giá 22 tỷ usd
+10,ceo carlos_ghosn nissan gọi một thoả_thuận đôi bên lợi cổ_phiếu mitsubishi mất_giá hơn 40 nổ vụ bê_bối

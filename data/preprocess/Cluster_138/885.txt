@@ -1,5 +1,5 @@
 idx, sentence
-0,bộ nnptnt cho rằng khi xây_dựng thủy_điện đrăng_phốk phải chuyển mục_đích sử_dụng 63 ha đất có rừng  trong đó 53 ha là chuyển_đổi vĩnh_viễn và 10 ha chuyển_đổi tạm_thời phục_vụ quá_trình thi_công 
-1,khu_vực triển_khai dự_án là diện_tích rừng tự_nhiên  với 3 ha rừng giàu  11 ha rừng trung_bình và 49 ha rừng nghèo 
-2,quá_trình thi_công  xây_dựng vận_hành nhà_máy sẽ ảnh_hưởng trực_tiếp đến môi_trường sống của nhiều loài động_vật hoang_dã  đặc_biệt là voi  hổ có_thể bỏ đi nơi khác 
-3,quá_trình dựng đập  chặn dòng không chỉ làm thay_đổi dòng_chảy  ảnh_hưởng đến hệ_sinh_thái và các loài thủy_sinh mà_còn gia_tăng thêm áp_lực bảo_vệ rừng khi dâng nước lòng hồ đrăng_phốk sẽ tạo điều_kiện thuận_lợi hơn cho hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy 
+0,bộ nnptnt xây_dựng thủy_điện đrăng_phốk chuyển mục_đích sử_dụng 63 ha đất rừng trong 53 ha chuyển_đổi vĩnh_viễn 10 ha chuyển_đổi tạm_thời phục_vụ quá_trình thi_công
+1,khu_vực triển_khai dự_án diện_tích rừng tự_nhiên 3 ha rừng giàu 11 ha rừng trung_bình 49 ha rừng nghèo
+2,quá_trình thi_công xây_dựng vận_hành nhà_máy ảnh_hưởng trực_tiếp đến môi_trường sống loài động_vật hoang_dã đặc_biệt voi hổ bỏ đi khác
+3,quá_trình dựng đập chặn dòng làm thay_đổi dòng_chảy ảnh_hưởng đến hệ_sinh_thái loài thủy_sinh mà_còn gia_tăng thêm áp_lực bảo_vệ rừng dâng nước lòng hồ đrăng_phốk tạo điều_kiện thuận_lợi hơn hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy

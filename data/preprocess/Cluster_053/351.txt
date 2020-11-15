@@ -1,12 +1,12 @@
 idx, sentence
-0,bỏ việc ác  làm việc thiện buổi lễ diễn ra trọn_vẹn một ngày với nhiều nghi_lễ phật_giáo  dâng hương_hoa  lễ tam_bảo  đọc tụng_kinh sách ngợi_ca về cuộc_đời và công hạnh của đức_phật 
-1,tạm xếp lại những bộn_bề  lo_toan đời_sống  tất_cả phật_tử cùng một lòng hướng về phật_pháp  chăm_chú lắng nghe lời giảng của sư_thầy thanh_tịnh về ý_nghĩa căn_bản của lễ mừng phật_đản và nghi_lễ tắm phật 
-2,từ góc nhìn đời_sống  mùa phật_đản chính là dịp để mỗi người cùng tri_ân_nhân_đức và đạo_hạnh của đức thế_tôn  người chỉ ra con đường giải_thoát cho nhân_loại 
-3,trước lúc xuất_gia tìm thầy_học đạo  cho đến ngày đức_phật thành_tựu đạo_nghiệp và truyền dạy kinh_pháp  ngài là một con_người hiện_thực bằng xương_thịt như chúng_ta 
-4,cuộc_đời đức_phật là sự minh_chứng sáng rõ  khơi_gợi và chỉ dạy cho chúng_ta rằng  dù bạn là ai  xuất_thân ở gia_cảnh nào  nghèo_khó  giàu_sang  cũng đều có khả_năng giác_ngộ 
-5,dưới ánh_sáng phật_học  một người đau_khổ tột_cùng cũng có_thể vươn mình đi đến đời_sống hạnh_phúc  an_lạc  hoặc như một kẻ tầm_thường cũng có_thể chuyển hóa đạt đến đời_sống thánh thiện  cao_thượng  thông_qua tu học 
-6,hành_trình học đạo được bắt_đầu ngay từ chính trong suy_nghĩ và hành_vi của mỗi cá_nhân 
-7,thầy thanh_tịnh giảng  “ nền_tảng của thực_hành phật_pháp là dứt bỏ tất_cả điều ác  thực_hành hết_thảy điều thiện  mang niềm an vui hạnh_phúc cho mọi người  mọi loại xung_quanh và cho bản_thân ” 
-8,hiểu được điều này giúp chúng_ta sống thuận hơn với vũ_trụ  môi_trường  hòa_hợp an vui hơn … thiêng_liêng nghi_lễ tắm phật nghi_lễ tắm phật bao_giờ cũng là phần kéo_dài nhất trong lễ phật_đản vì hàng nghìn người có_mặt  không ai muốn bỏ_qua dịp may được tắm cho phật 
-9,sau khi đã tắm cho phật  nước thơm trở_thành nước thiêng được mọi người nâng_niu từng giọt mang về nhà 
-10,thầy thanh_tịnh giảng  “ năng_lượng của tâm trong lúc chúng_ta không tham_lam  giận_dữ … cộng_hưởng với sự gia trì của hàng ngàn lời phát_nguyện thành phật sẽ tạo thành một năng_lực to_lớn khiến nước tắm phật trở_thành nước linh_thiêng  có_thể chữa lành mọi bệnh_tật  đem sự bình_an đến cho mọi người  trẻ_con uống sẽ thông_minh học giỏi … ” từ người già đến trẻ nhỏ đều thành_kính  hân_hoan dâng nước tắm phật bởi ý_nghĩ của nghi_lễ này giống như lời nhắc_nhở  mỗi chúng_ta đều có một đức_phật trong lòng 
+0,bỏ ác làm thiện buổi lễ diễn trọn_vẹn một ngày nghi_lễ phật_giáo dâng hương_hoa lễ tam_bảo đọc tụng_kinh sách ngợi_ca về cuộc_đời công hạnh đức_phật
+1,tạm xếp bộn_bề lo_toan đời_sống tất_cả phật_tử một lòng hướng về phật_pháp chăm_chú lắng nghe lời giảng sư_thầy thanh_tịnh về ý_nghĩa căn_bản lễ mừng phật_đản nghi_lễ tắm phật
+2,góc nhìn đời_sống mùa phật_đản chính dịp người tri_ân_nhân_đức đạo_hạnh đức thế_tôn người con đường giải_thoát nhân_loại
+3,xuất_gia tìm thầy_học đạo đến ngày đức_phật thành_tựu đạo_nghiệp truyền dạy kinh_pháp ngài một con_người hiện_thực bằng xương_thịt chúng_ta
+4,cuộc_đời đức_phật minh_chứng sáng rõ khơi_gợi dạy chúng_ta dù bạn ai xuất_thân ở gia_cảnh nào nghèo_khó giàu_sang khả_năng giác_ngộ
+5,ánh_sáng phật_học một người đau_khổ tột_cùng vươn mình đi đến đời_sống hạnh_phúc an_lạc hoặc một kẻ tầm_thường chuyển hóa đạt đến đời_sống thánh thiện cao_thượng thông_qua tu học
+6,hành_trình học đạo bắt_đầu chính trong suy_nghĩ hành_vi cá_nhân
+7,thầy thanh_tịnh giảng “ nền_tảng thực_hành phật_pháp dứt bỏ tất_cả ác thực_hành hết_thảy thiện mang niềm an vui hạnh_phúc mọi người mọi loại xung_quanh bản_thân ”
+8,hiểu giúp chúng_ta sống thuận hơn vũ_trụ môi_trường hòa_hợp an vui hơn … thiêng_liêng nghi_lễ tắm phật nghi_lễ tắm phật bao_giờ phần kéo_dài nhất trong lễ phật_đản hàng nghìn người có_mặt ai muốn bỏ_qua dịp may tắm phật
+9,tắm phật nước thơm trở_thành nước thiêng mọi người nâng_niu giọt mang về nhà
+10,thầy thanh_tịnh giảng “ năng_lượng tâm trong chúng_ta tham_lam giận_dữ … cộng_hưởng gia trì hàng ngàn lời phát_nguyện thành phật tạo thành một năng_lực to_lớn khiến nước tắm phật trở_thành nước linh_thiêng chữa lành mọi bệnh_tật đem bình_an đến mọi người trẻ_con uống thông_minh học giỏi … ” người già đến trẻ nhỏ thành_kính hân_hoan dâng nước tắm phật ý_nghĩ nghi_lễ giống lời nhắc_nhở chúng_ta một đức_phật trong lòng

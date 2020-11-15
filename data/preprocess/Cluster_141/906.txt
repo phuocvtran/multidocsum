@@ -1,4 +1,4 @@
 idx, sentence
-0,chiều 285  chủ_tịch ubnd tphà nội nguyễn_đức_chung đối_thoại trực_tiếp với người dân xã nam_sơn  bắc_sơn  hồng_kỳ  hsóc_sơn  liên_quan đến những bức_xúc do ô_nhiễm rác_thải tại bãi rác nam_sơn 
-1,hiện 70  người dân tại khu_vực đang phải sử_dụng giếng_khoan chất_lượng nước không đảm_bảo 
-2,ông chung cho biết tp đang nỗ_lực giải_quyết vấn_đề ô_nhiễm môi_trường  đặc_biệt ở xã nam_sơn  trong đó có việc chuyển công_nghệ từ chôn lấp rác_thải hiện_nay sang đốt rác  hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân  quy_hoạch xây_dựng nhà_máy xử_lý rác ở nhiều điểm để giảm tải cho bãi_rác này 
+0,chiều 285 chủ_tịch ubnd tphà nội nguyễn_đức_chung đối_thoại trực_tiếp người dân xã nam_sơn bắc_sơn hồng_kỳ hsóc_sơn liên_quan đến bức_xúc ô_nhiễm rác_thải bãi rác nam_sơn
+1,hiện 70 người dân khu_vực sử_dụng giếng_khoan chất_lượng nước đảm_bảo
+2,ông chung biết tp nỗ_lực giải_quyết vấn_đề ô_nhiễm môi_trường đặc_biệt ở xã nam_sơn trong chuyển công_nghệ chôn lấp rác_thải hiện_nay sang đốt rác hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân quy_hoạch xây_dựng nhà_máy xử_lý rác ở điểm giảm tải bãi_rác

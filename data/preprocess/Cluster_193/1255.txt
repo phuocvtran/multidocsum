@@ -1,13 +1,13 @@
 idx, sentence
-0,theo reuters  vụ_việc này được dư_luận biết tới sau khi 3 phụ_nữ đức tố_cáo với cảnh_sát nước này về việc bị những người lạ_mặt quấy_rối tình_dục ở lễ_hội âm_nhạc schlossgrabenfest thuộc thành_phố darmstadt  gần frankfurt 
-1,ngay sau đó  cảnh_sát đức đã vào_cuộc và bắt_giữ 3 người đàn_ông pakistan xin tị_nạn ở nước này tuổi từ 2831 do bị tình_nghi liên_quan tới vụ_việc 
-2,ít_nhất 2 người khác đang bị cảnh_sát truy_lùng 
-3,tất_cả đều bị buộc_tội lạm_dụng tình_dục 
-4,cảnh_sát đức đang tiếp_tục điều_tra đồng_thời đưa một nhóm người làm mồi nhử và theo sát để phát_hiện những kẻ tình_nghi 
-5,theo các nhân_chứng mô_tả  thủ_phạm có ngoại_hình nam_á đã vây quanh và sờ_mó các cô gái trong lễ_hội âm_nhạc ngoài_trời diễn ra hôm 28/5 
-6,chương_trình lễ_hội âm_nhạc này được tổ_chức trong 4 ngày tại thành_phố darmstadt đã thu_hút hơn 100000 người tham_gia 
-7,cảnh_sát đức cũng khẳng_định chắc_chắn còn nhiều thủ_phạm tham_gia tấn_công các cô gái 
-8,sau vụ tố_cáo của 3 phụ_nữ đầu_tiên  đã có thêm 15 phụ_nữ báo_cáo về việc bị quấy_rối bởi một nhóm đàn_ông vây quanh 
-9,vụ_việc này xảy ra trong bối_cảnh  người đức vẫn chưa quên các cuộc tấn_công tình_dục trong đêm giao_thừa ở cologne  bị báo_chí đức gọi là  đêm giao_thừa nhục_nhã  
-10,hàng trăm phụ_nữ trình_báo đã bị tấn_công tình_dục và cướp_bóc vào đêm 31/12 tại thành_phố cologne 
-11,những người tị_nạn và nhập_cư bất_hợp_pháp từ bắc_phi  trung_đông chiếm phần_nhiều trong số các nghi_phạm 
+0,reuters vụ_việc dư_luận biết tới 3 phụ_nữ đức tố_cáo cảnh_sát nước về người lạ_mặt quấy_rối tình_dục ở lễ_hội âm_nhạc schlossgrabenfest thuộc thành_phố darmstadt gần frankfurt
+1,cảnh_sát đức vào_cuộc bắt_giữ 3 người đàn_ông pakistan xin tị_nạn ở nước tuổi 2831 tình_nghi liên_quan tới vụ_việc
+2,ít_nhất 2 người khác cảnh_sát truy_lùng
+3,tất_cả buộc_tội lạm_dụng tình_dục
+4,cảnh_sát đức tiếp_tục điều_tra đồng_thời đưa một nhóm người làm mồi nhử sát phát_hiện kẻ tình_nghi
+5,nhân_chứng mô_tả thủ_phạm ngoại_hình nam_á vây quanh sờ_mó cô gái trong lễ_hội âm_nhạc ngoài_trời diễn hôm 28/5
+6,chương_trình lễ_hội âm_nhạc tổ_chức trong 4 ngày thành_phố darmstadt thu_hút hơn 100000 người tham_gia
+7,cảnh_sát đức khẳng_định chắc_chắn còn thủ_phạm tham_gia tấn_công cô gái
+8,vụ tố_cáo 3 phụ_nữ đầu_tiên thêm 15 phụ_nữ báo_cáo về quấy_rối một nhóm đàn_ông vây quanh
+9,vụ_việc xảy trong bối_cảnh người đức quên cuộc tấn_công tình_dục trong đêm giao_thừa ở cologne báo_chí đức gọi đêm giao_thừa nhục_nhã
+10,hàng trăm phụ_nữ trình_báo tấn_công tình_dục cướp_bóc đêm 31/12 thành_phố cologne
+11,người tị_nạn nhập_cư bất_hợp_pháp bắc_phi trung_đông chiếm phần_nhiều trong số nghi_phạm

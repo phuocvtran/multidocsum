@@ -1,13 +1,13 @@
 idx, sentence
-0,vụ cháy xảy ra vào khoảng 1 h ngày 2/6  tại siêu_thị điện_máy kim_nguyên  nằm trên đường trần_hưng_đạo  tp đông_hà  tỉnh quảng_trị  
-1,theo nhiều người dân chứng_kiến vụ_việc  vào thời_điểm trên ngọn lửa bốc cháy dữ_dội ở tầng 2 tòa nhà của siêu_thị điện_máy kim_nguyên  ngọn lửa lớn kèm theo những tiếng nổ  khiến người dân vô_cùng hoang_mang 
-2,thượng_tá lê_văn_hoàng  phó_phòng cảnh_sát pccc công_an tỉnh quảng_trị  cho biết  “ ngay sau khi nhận được tin báo cháy ở siêu_thị điện_máy  lực_lượng cảnh_sát phòng cháy chữa cháy  công_an tỉnh quảng_trị đã lập_tức có_mặt tại hiện_trường để triển_khai công_tác dập lửa ” 
-3,lực_lượng chức_năng đã điều 2 xe chữa_cháy đến hiện_trường 
-4,tuy_nhiên  ngọn lửa bốc cao nên lực_lượng pccc đã huy_động thêm 4 xe chữa_cháy chuyên_dụng  1 xe thang và 1 xe chống bạo_động cùng khoảng 100 chiến_sĩ đến để cùng dập lửa 
-5,gần siêu_thị điện_máy có rất nhiều nhà dân nên việc dập lửa gặp nhiều khó_khăn 
-6,lực_lượng chức_trách đã nhanh_chóng tiếp_cận  trang_bị các thiết_bị bảo_hộ  chống độc để thâm_nhập vào bên trong siêu_thị 
-7,các cửa_kính bên ngoài được phá_bỏ để vòi_rồng có_thể phun nước từ bên ngoài vào dập lửa 
-8,bên_cạnh việc chữa_cháy  lực_lượng chức_năng đã cố_gắng đưa nhiều thiết_bị  máy_móc  hàng_hóa  tivi  máy_giặt …  chưa bị ngọn lửa làm hư_hỏng ra bên ngoài nhằm giảm_thiểu thiệt_hại 
-9,đến khoảng 3 h35 cùng ngày  ngọn lửa cơ_bản được khống_chế 
-10,tuy_nhiên  gần_như toàn_bộ siêu_thị đã bị thiêu rụi 
-11,ước_tính thiệt_hại nhiều tỷ đồng 
+0,vụ cháy xảy khoảng 1 h ngày 2/6 siêu_thị điện_máy kim_nguyên nằm đường trần_hưng_đạo tp đông_hà tỉnh quảng_trị
+1,người dân chứng_kiến vụ_việc thời_điểm ngọn lửa bốc cháy dữ_dội ở tầng 2 tòa nhà siêu_thị điện_máy kim_nguyên ngọn lửa lớn kèm tiếng nổ khiến người dân vô_cùng hoang_mang
+2,thượng_tá lê_văn_hoàng phó_phòng cảnh_sát pccc công_an tỉnh quảng_trị biết “ nhận tin báo cháy ở siêu_thị điện_máy lực_lượng cảnh_sát phòng cháy chữa cháy công_an tỉnh quảng_trị lập_tức có_mặt hiện_trường triển_khai công_tác dập lửa ”
+3,lực_lượng chức_năng 2 xe chữa_cháy đến hiện_trường
+4,tuy_nhiên ngọn lửa bốc cao lực_lượng pccc huy_động thêm 4 xe chữa_cháy chuyên_dụng 1 xe thang 1 xe chống bạo_động khoảng 100 chiến_sĩ đến dập lửa
+5,gần siêu_thị điện_máy nhà dân dập lửa gặp khó_khăn
+6,lực_lượng chức_trách nhanh_chóng tiếp_cận trang_bị thiết_bị bảo_hộ chống độc thâm_nhập bên trong siêu_thị
+7,cửa_kính bên ngoài phá_bỏ vòi_rồng phun nước bên ngoài dập lửa
+8,bên_cạnh chữa_cháy lực_lượng chức_năng cố_gắng đưa thiết_bị máy_móc hàng_hóa tivi máy_giặt … ngọn lửa làm hư_hỏng bên ngoài nhằm giảm_thiểu thiệt_hại
+9,đến khoảng 3 h35 ngày ngọn lửa cơ_bản khống_chế
+10,tuy_nhiên gần_như toàn_bộ siêu_thị thiêu rụi
+11,ước_tính thiệt_hại tỷ đồng

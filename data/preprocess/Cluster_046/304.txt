@@ -1,22 +1,22 @@
 idx, sentence
-0,chiều 20/5  tàu câu cá_ngừ đại_dương kh 90297 ts của ông huỳnh_phi_minh  trú hòn_rớ  xã phước_đồng  tpnha_trang  đã cập cảng hòn_rớ 
-1,hàng trăm người dân sau khi nghe tin tàu của ông minh “ trúng ” cá_ngừ vây xanh  loại cá rất hiếm gặp  đã tập_trung về cảng 
-2,ông minh cho biết  tàu ông ra khơi câu cá_ngừ đại_dương ở vùng_biển hoàng_sa từ đầu tháng 5 
-3,cách đây gần một tuần  anh_em trên tàu câu được một con cá_ngừ rất lớn 
-4,ai cũng bất_ngờ 
-5, cá to nên sau khi dính câu  phải mất hơn 2 tiếng đồng_hồ  6 ngư_dân mới đưa được cá lên boong tàu 
-6,tàu tôi nhỏ  công_suất 295 cv nên các thao_tác để đưa cá vào hầm bảo_quản cũng gặp nhiều khó_khăn ”  ông minh chia_sẻ 
-7, chúng_tôi nghĩ rằng mình đã câu được cá_ngừ vây xanh 
-8,đã 20 năm trong nghề câu cá_ngừ  được nghe nói và xem trên internet về loại cá_ngừ vây xanh  nhưng đến nay chúng_tôi mới tận_tay bắt được cá_ngừ loại này ”  ông minh háo_hức 
-9,khoảng 16 giờ chiều  con cá_ngừ vây xanh được đưa từ hầm bảo_quản của tàu cá lên bờ 
-10,do cá quá nặng  chủ tàu đã phải thuê một xe cẩu để cẩu con cá lên bờ 
-11,sau khi sử_dụng tới 4 chiếc cân  loại 100 kg  để cân cá  trọng_lượng cá được xác_định là 307 kg  dài khoảng hơn 2 m  con cá_ngừ vây xanh được bán cho công_ty tnhh hải_sản bền_vững 
-12,bà nguyễn_thị_thu_thanh  giám_đốc công_ty tnhh hải_sản bền_vững  cho biết  có 3 chuyến gia của nhật_bản đang có_mặt tại khánh_hòa khi nghe tin ngư_dân đánh_bắt được cá_ngừ vây xanh  loại lớn đã có_mặt tại cảng 
-13,họ xác_định đây chính là cá_ngừ vây xanh 
-14,“ nếu con cá không bị hư 2/3 thì có_thể đạt 30 usd trở lên / kg  theo giá thị_trường nhật_bản 
-15,tuy_nhiên  bản_thân con cá này “ không được khỏe ”  ngư_dân bảo_quản chưa đúng cách nên ảnh_hưởng nhiều đến chất_lượng cá 
-16,do_đó  chúng_tôi mua con cá_ngừ vây xanh nói trên với giá 180000 đồng / kg ”  bà thanh nói 
-17,về mức giá này  chủ tàu huỳnh_phi_minh cho biết  “ chúng_tôi không phàn_nàn gì  vì đúng là con cá không được bảo_quản tốt 
-18,tính ra con cá này tôi bán được khoảng 55 triệu đồng 
-19,cũng hơi tiếc  nếu bảo_quản tốt thì giá sẽ tốt hơn nhiều ” 
-20,chuyến biển này  ngoài may_mắn câu được con cá_ngừ vây xanh quý_hiếm  tàu ông minh đánh_bắt được 30 con cá_ngừ đại_dương  với khoảng 15 tấn 
+0,chiều 20/5 tàu câu cá_ngừ đại_dương kh 90297 ts ông huỳnh_phi_minh trú hòn_rớ xã phước_đồng tpnha_trang cập cảng hòn_rớ
+1,hàng trăm người dân nghe tin tàu ông minh “ trúng ” cá_ngừ vây xanh loại cá hiếm gặp tập_trung về cảng
+2,ông minh biết tàu ông khơi câu cá_ngừ đại_dương ở vùng_biển hoàng_sa đầu tháng 5
+3,cách gần một tuần anh_em tàu câu một con cá_ngừ lớn
+4,ai bất_ngờ
+5,cá to dính câu mất hơn 2 tiếng đồng_hồ 6 ngư_dân mới đưa cá boong tàu
+6,tàu tôi nhỏ công_suất 295 cv thao_tác đưa cá hầm bảo_quản gặp khó_khăn ” ông minh chia_sẻ
+7,chúng_tôi nghĩ mình câu cá_ngừ vây xanh
+8,20 năm trong nghề câu cá_ngừ nghe nói xem internet về loại cá_ngừ vây xanh đến nay chúng_tôi mới tận_tay bắt cá_ngừ loại ” ông minh háo_hức
+9,khoảng 16 giờ chiều con cá_ngừ vây xanh đưa hầm bảo_quản tàu cá bờ
+10,cá quá nặng chủ tàu thuê một xe cẩu cẩu con cá bờ
+11,sử_dụng tới 4 cân loại 100 kg cân cá trọng_lượng cá xác_định 307 kg dài khoảng hơn 2 m con cá_ngừ vây xanh bán công_ty tnhh hải_sản bền_vững
+12,bà nguyễn_thị_thu_thanh giám_đốc công_ty tnhh hải_sản bền_vững biết 3 chuyến gia nhật_bản có_mặt khánh_hòa nghe tin ngư_dân đánh_bắt cá_ngừ vây xanh loại lớn có_mặt cảng
+13,họ xác_định chính cá_ngừ vây xanh
+14,“ con cá hư 2/3 đạt 30 usd trở / kg giá thị_trường nhật_bản
+15,tuy_nhiên bản_thân con cá “ khỏe ” ngư_dân bảo_quản đúng cách ảnh_hưởng đến chất_lượng cá
+16,do_đó chúng_tôi mua con cá_ngừ vây xanh nói giá 180000 đồng / kg ” bà thanh nói
+17,về mức giá chủ tàu huỳnh_phi_minh biết “ chúng_tôi phàn_nàn đúng con cá bảo_quản tốt
+18,tính con cá tôi bán khoảng 55 triệu đồng
+19,hơi tiếc bảo_quản tốt giá tốt hơn ”
+20,chuyến biển ngoài may_mắn câu con cá_ngừ vây xanh quý_hiếm tàu ông minh đánh_bắt 30 con cá_ngừ đại_dương khoảng 15 tấn

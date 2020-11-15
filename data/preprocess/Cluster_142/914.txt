@@ -1,17 +1,17 @@
 idx, sentence
-0,tại buổi làm_việc với “ công_viên phần_mềm quang_trung ” tp hcm sáng 28/5  ủy_viên bộ chính_trị  bí_thư thành_ủy thành_phố  ông đinh_la_thăng đã yêu_cầu đơn_vị này cần triển_khai_chiến_lược phát_triển gắn với 7 chương_trình đột_phá của thành_phố 
-1,đặc_biệt là sớm cổ_phần_hóa công_ty  hút vốn đầu_tư của tư_nhân để thực_hiện chiến_lược này 
-2,ông lâm nguyễn_hải_long  giám_đốc công_ty tnhh một thành_viên phát_triển công_viên phần_mềm quang_trung cho biết  đơn_vị này hiện làm ra hơn 220 triệu usd sản_phẩm / năm  đi đầu cả nước về sản_xuất phần_mềm 
-3,báo vov đưa tin  bí_thư đinh_la_thăng yêu_cầu công_viên phần_mềm quang_trung cần triển_khai ngay việc cổ_phần_hóa công_ty để huy_động được nguồn_lực từ tư_nhân 
-4,đồng_thời quan_tâm đến nhu_cầu của xã_hội để đào_tạo nguồn nhân_lực hợp_lý  từ đó cung_ứng đủ nhân_lực cho doanh_nghiệp trong lĩnh_vực công_nghệ_thông_tin  viễn_thông phục_vụ cho chiến_lược phát_triển lâu_dài của đất_nước  nâng cao thương_hiệu  năng_lực cạnh_tranh  chủ_động sáng_tạo những ứng_dụng gắn với việc giải_quyết tình_trạng ùn_tắc giao_thông  ô_nhiễm môi_trường  chống ngập  phòng_chống tội_phạm  nâng cao chất_lượng thực_hiện chính_phủ điện_tử và chất_lượng giáo_dục … tại buổi làm_việc này  ông lâm nguyễn_hải_long nêu nghịch_lý  sinh_viên ra trường thiếu việc_làm nhiều trong khi công_viên phần_mềm lại thiếu nhân_lực trầm_trọng 
-5,ông long giải_thích  sinh_viên ra trường đáp_ứng được số_lượng nhưng lại không đáp_ứng được chất_lượng 
-6,nhà_trường cũng không mặn_mà việc cùng với các công_ty đào_tạo chuyên_sâu cho sinh_viên 
-7,bí_thư thăng chỉ ra điểm mấu_chốt là công_viên phần_mềm quang_trung đã thiếu liên_kết với nhà_trường 
-8,thu_nhập của người lao_động cũng được bí_thư thành_ủy quan_tâm 
-9,ông cho rằng  “ khó thu_hút nhân_tài vì các anh trả thấp ” 
-10,theo báo vietnamnet  người được bí_thư thành_ủy hỏi chuyện lương đầu_tiên chính là giám_đốc lâm nguyễn_hải_long 
-11,biết lương của giám_đốc này là 24 triệu đồng / tháng  ông thăng nói  “ lương giám_đốc một công_ty quản_lý công_viên phần_mềm chừng đó là quá thấp 
-12,lương cậu phải 10 lần như thế mới xứng_đáng … muốn thế phải thúc_đẩy cổ_phần_hóa nhanh lên ” 
-13,khi biết lương trung_bình của một nhân_viên tại công_viên phần_mềm quang_trung vào khoảng 8  10 triệu  ông thăng nhận_xét  “ thu_nhập chỉ nhỉnh hơn công_nhân tăng ca thì kỹ_sư phần_mềm sao đủ sống ” 
-14,khi nghe ông đinh_la_thăng đề_nghị phải cổ_phần_hóa  ông long cho biết  “ nếu được thì tốt quá 
-15,cá_nhân em rất ủng_hộ ” 
+0,buổi làm_việc “ công_viên phần_mềm quang_trung ” tp hcm sáng 28/5 ủy_viên bộ chính_trị bí_thư thành_ủy thành_phố ông đinh_la_thăng yêu_cầu đơn_vị triển_khai_chiến_lược phát_triển gắn 7 chương_trình đột_phá thành_phố
+1,đặc_biệt sớm cổ_phần_hóa công_ty hút vốn đầu_tư tư_nhân thực_hiện chiến_lược
+2,ông lâm nguyễn_hải_long giám_đốc công_ty tnhh một thành_viên phát_triển công_viên phần_mềm quang_trung biết đơn_vị hiện làm hơn 220 triệu usd sản_phẩm / năm đi đầu nước về sản_xuất phần_mềm
+3,báo vov đưa tin bí_thư đinh_la_thăng yêu_cầu công_viên phần_mềm quang_trung triển_khai cổ_phần_hóa công_ty huy_động nguồn_lực tư_nhân
+4,đồng_thời quan_tâm đến nhu_cầu xã_hội đào_tạo nguồn nhân_lực hợp_lý cung_ứng đủ nhân_lực doanh_nghiệp trong lĩnh_vực công_nghệ_thông_tin viễn_thông phục_vụ chiến_lược phát_triển lâu_dài đất_nước nâng cao thương_hiệu năng_lực cạnh_tranh chủ_động sáng_tạo ứng_dụng gắn giải_quyết tình_trạng ùn_tắc giao_thông ô_nhiễm môi_trường chống ngập phòng_chống tội_phạm nâng cao chất_lượng thực_hiện chính_phủ điện_tử chất_lượng giáo_dục … buổi làm_việc ông lâm nguyễn_hải_long nêu nghịch_lý sinh_viên trường thiếu việc_làm trong công_viên phần_mềm thiếu nhân_lực trầm_trọng
+5,ông long giải_thích sinh_viên trường đáp_ứng số_lượng đáp_ứng chất_lượng
+6,nhà_trường mặn_mà công_ty đào_tạo chuyên_sâu sinh_viên
+7,bí_thư thăng điểm mấu_chốt công_viên phần_mềm quang_trung thiếu liên_kết nhà_trường
+8,thu_nhập người lao_động bí_thư thành_ủy quan_tâm
+9,ông “ khó thu_hút nhân_tài anh trả thấp ”
+10,báo vietnamnet người bí_thư thành_ủy hỏi lương đầu_tiên chính giám_đốc lâm nguyễn_hải_long
+11,biết lương giám_đốc 24 triệu đồng / tháng ông thăng nói “ lương giám_đốc một công_ty quản_lý công_viên phần_mềm chừng quá thấp
+12,lương cậu 10 lần thế mới xứng_đáng … muốn thế thúc_đẩy cổ_phần_hóa nhanh ”
+13,biết lương trung_bình một nhân_viên công_viên phần_mềm quang_trung khoảng 8 10 triệu ông thăng nhận_xét “ thu_nhập nhỉnh hơn công_nhân tăng ca kỹ_sư phần_mềm sao đủ sống ”
+14,nghe ông đinh_la_thăng đề_nghị cổ_phần_hóa ông long biết “ tốt quá
+15,cá_nhân em ủng_hộ ”

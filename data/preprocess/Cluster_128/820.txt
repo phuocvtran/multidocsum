@@ -1,6 +1,6 @@
 idx, sentence
-0,theo mirror  ông leroy_bill_black  sống ở bang new_jersey  mỹ  qua_đời tại nhà_riêng hôm 2/8 ở tuổi 55 sau một thời_gian dài chiến_đấu với căn_bệnh ung_thư phổi 
-1,sau cái chết của ông leroy  tờ báo địa_phương press of atlantic_city đã đăng tới hai bản cáo_phó 
-2,thoạt nhìn qua  người_ta tưởng đây là một sự nhầm_lẫn  bởi chúng sử_dụng một bức ảnh giống_hệt  đặt cạnh nhau 
-3,tuy_nhiên  nếu nhìn kỹ  người_ta sẽ nhận ra rằng bản cáo_phó đầu_tiên ghi rõ ông leroy qua_đời  để lại người vợ yêu_quý bearetta_harrison_black   trong khi bản thứ hai cũng có nội_dung tương_tự nhưng tên người vợ được thay bằng  bạn gái lâu năm princess_hall  
-4,thật may là cả hai không có ý_định tổ_chức tang_lễ riêng_biệt cho người đàn_ông mà họ yêu_mến  bởi thông_tin  địa_chỉ về nơi an_táng đều là một 
+0,mirror ông leroy_bill_black sống ở bang new_jersey mỹ qua_đời nhà_riêng hôm 2/8 ở tuổi 55 một thời_gian dài chiến_đấu căn_bệnh ung_thư phổi
+1,chết ông leroy tờ báo địa_phương press of atlantic_city đăng tới hai bản cáo_phó
+2,thoạt nhìn người_ta tưởng một nhầm_lẫn chúng sử_dụng một bức ảnh giống_hệt đặt cạnh nhau
+3,tuy_nhiên nhìn kỹ người_ta nhận bản cáo_phó đầu_tiên ghi rõ ông leroy qua_đời người vợ yêu_quý bearetta_harrison_black trong bản thứ hai nội_dung tương_tự tên người vợ thay bằng bạn gái lâu năm princess_hall
+4,thật may hai ý_định tổ_chức tang_lễ riêng_biệt người đàn_ông họ yêu_mến thông_tin địa_chỉ về an_táng một

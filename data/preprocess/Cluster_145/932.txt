@@ -1,12 +1,12 @@
 idx, sentence
-0,vụ sét đánh nghiêm_trọng trên xảy ra vào_khoảng 14 giờ chiều nay  285   khi hai nhóm nông_dân của p_hương_an  tx 
-1,hương trà  và phường an_hòa  tphuế  đang làm trên đồng thì đột_ngột gặp phải trận sấm_sét kèm theo mưa_giông cực lớn 
-2,4 người bị sét đánh trúng và được người dân địa_phương cùng người_thân đưa vào bệnh_viện trung_ương  bvtư  huế cấp_cứu 
-3,nặng nhất là ông lê_văn_tưởng  42 tuổi  trú xã hương_an  txhương_trà  đang cày ruộng thì bị sét đánh trúng 
-4,ông tưởng bị hôn_mê sâu  toàn than tím_tái  trên người nhiều vết cháy_sém 
-5,dù ông được đưa vào viện nhưng các bác_sĩ xác_định đã ngưng tim  ngưng phổi và tử_vong 
-6,các nạn_nhân còn lại bị_thương gồm hồ_nghĩa  48 tuổi   hồ_lĩnh  17 tuổi  con của ông nghĩa   nguyễn_văn_toán  46 tuổi  cùng trú pan_hòa  tphuế  với các triệu_chứng xoàng đầu  tức ngực  tê các chi  một_số trường_hợp còn bị bỏng vùng lưng cấp_độ i  ii 
-7,cùng thời_điểm trên tại pan_hòa  tphuế  cũng có 2 người bị sét đánh nhưng bị_thương nhẹ không nhập_viện 
-8,tại khoa cấp_cứu bvtư_huế  nhiều người_thân của các nạn_nhân vẫn chưa hết bàng_hoàng trước trận giông sét khủng_khiếp này 
-9,ông hồ_nghĩa  sau khi được cấp_cứu  vừa tỉnh lại kể  nhóm của ông đang làm_đồng thì gặp phải trời mưa to bất_ngờ nên đã lên bờ ruộng lấy bạt trú mưa 
-10,khi cả nhóm đang chen_chúc trong tấm bạt che thì sét đánh trúng khiến nhiều người văng ra bất_tỉnh 
+0,vụ sét đánh nghiêm_trọng xảy vào_khoảng 14 giờ chiều nay 285 hai nhóm nông_dân p_hương_an tx
+1,hương trà phường an_hòa tphuế làm đồng đột_ngột gặp trận sấm_sét kèm mưa_giông cực lớn
+2,4 người sét đánh trúng người dân địa_phương người_thân đưa bệnh_viện trung_ương bvtư huế cấp_cứu
+3,nặng nhất ông lê_văn_tưởng 42 tuổi trú xã hương_an txhương_trà cày ruộng sét đánh trúng
+4,ông tưởng hôn_mê sâu toàn than tím_tái người vết cháy_sém
+5,dù ông đưa viện bác_sĩ xác_định ngưng tim ngưng phổi tử_vong
+6,nạn_nhân còn bị_thương gồm hồ_nghĩa 48 tuổi hồ_lĩnh 17 tuổi con ông nghĩa nguyễn_văn_toán 46 tuổi trú pan_hòa tphuế triệu_chứng xoàng đầu tức ngực tê chi một_số trường_hợp còn bỏng vùng lưng cấp_độ i ii
+7,thời_điểm pan_hòa tphuế 2 người sét đánh bị_thương nhẹ nhập_viện
+8,khoa cấp_cứu bvtư_huế người_thân nạn_nhân hết bàng_hoàng trận giông sét khủng_khiếp
+9,ông hồ_nghĩa cấp_cứu tỉnh kể nhóm ông làm_đồng gặp trời mưa to bất_ngờ bờ ruộng lấy bạt trú mưa
+10,nhóm chen_chúc trong tấm bạt che sét đánh trúng khiến người văng bất_tỉnh

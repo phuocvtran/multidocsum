@@ -1,11 +1,11 @@
 idx, sentence
-0,theo tin trên reuters  vừa_qua ngân_hàng banco_del_austro  ecuador  đã tiết_lộ điều này trong một vụ kiện ở new_york với ngân_hàng wells_fargo  co  mỹ  
-1,phía ngân_hàng ecuador cho rằng tin tặc đã có được mã ngân_hàng sử_dụng để chuyển tiền qua hệ_thống swift  và sử_dụng chúng để chuyển tiền tới ngân_hàng wells_fargo  co 
-2, nhiều cuộc tấn_công đã xảy ra từ 15 tháng trước đó   người phát_ngôn của swift nói với reuters  tuy_nhiên swift chỉ mới phát_hiện ra các cuộc tấn_công này 
-3,các ngân_hàng đã không chia_sẻ chi_tiết về các cuộc tấn_công với swift 
-4,trong khi đó đại_diện của wells_fargo chưa đưa ra bất_cứ bình_luận nào về vụ_việc kể trên 
-5,trước đó  ngân_hàng tpbank đã thông_báo ngăn_chặn được một vụ chuyển tiền  đáng ngờ  trị_giá 1 triệu euro  11 triệu usd  vào cuối năm_ngoái 
-6,vụ chuyển tiền này được thực_hiện thông_qua một dịch_vụ của bên thứ ba mà ngân_hàng này sử_dụng để kết_nối với hệ_thống swift 
-7,hồi tháng hai  ngân_hàng trung_ương bangladesh cũng bị đánh_cắp 81 triệu usd và suýt mất gần 1 tỉ usd  một may_mắn hãn_hữu do hacker vô_tình bị sai chính_tả trong lệnh chuyển tiền 
-8,việc mất an_toàn thông_tin trong lĩnh_vực ngân_hàng đang xảy ra với tần_suất ngày_càng nhiều  hàng_loạt sự_cố liên_quan đến bảo_mật ngân_hàng đã gây rúng_động toàn_cầu 
-9,nhưng điều đáng nói là  các ngân_hàng có xu_hướng  im_lặng  tự giải_quyết sự_cố 
+0,tin reuters vừa_qua ngân_hàng banco_del_austro ecuador tiết_lộ trong một vụ kiện ở new_york ngân_hàng wells_fargo co mỹ
+1,phía ngân_hàng ecuador tin tặc mã ngân_hàng sử_dụng chuyển tiền hệ_thống swift sử_dụng chúng chuyển tiền tới ngân_hàng wells_fargo co
+2,cuộc tấn_công xảy 15 tháng người phát_ngôn swift nói reuters tuy_nhiên swift mới phát_hiện cuộc tấn_công
+3,ngân_hàng chia_sẻ chi_tiết về cuộc tấn_công swift
+4,trong đại_diện wells_fargo đưa bất_cứ bình_luận nào về vụ_việc kể
+5,ngân_hàng tpbank thông_báo ngăn_chặn một vụ chuyển tiền đáng ngờ trị_giá 1 triệu euro 11 triệu usd cuối năm_ngoái
+6,vụ chuyển tiền thực_hiện thông_qua một dịch_vụ bên thứ ba ngân_hàng sử_dụng kết_nối hệ_thống swift
+7,hồi tháng hai ngân_hàng trung_ương bangladesh đánh_cắp 81 triệu usd suýt mất gần 1 tỉ usd một may_mắn hãn_hữu hacker vô_tình sai chính_tả trong lệnh chuyển tiền
+8,mất an_toàn thông_tin trong lĩnh_vực ngân_hàng xảy tần_suất ngày_càng hàng_loạt sự_cố liên_quan đến bảo_mật ngân_hàng gây rúng_động toàn_cầu
+9,đáng nói ngân_hàng xu_hướng im_lặng tự giải_quyết sự_cố

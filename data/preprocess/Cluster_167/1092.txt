@@ -1,8 +1,8 @@
 idx, sentence
-0,năm 2012  lại hương_thảo vượt qua nhiều người_đẹp “ nặng ký ” khác để giành ngôi_vị hoa_khôi thể_thao 
-1,sau đó  cô đại_diện cho việt_nam đi thi miss_world 2013 nhưng không đạt thành_tích gì 
-2,trở về sau các cuộc thi  thay_vì tham_gia showbiz như nhiều chân dài khác thì lại hương_thảo lại lựa_chọn cuộc_sống bình_thường của một sinh_viên 
-3,cô tiếp_tục đi học và tập_trung cho công_việc kinh_doanh  chỉ thỉnh_thoảng xuất_hiện ở một_số sự_kiện nhỏ 
-4,từ khi có yêu người yêu  lại hương_thảo đã từ_bỏ mọi hào_quang  tham_vọng để bằng_lòng với cuộc_sống hạnh_phúc hiện_tại 
-5,sau hơn 2 năm quen nhau  cô và bạn trai đã tổ_chức lễ ăn_hỏi ở quê nhà cô_dâu ngày  30/4  tại quảng_ninh 
-6,sau gần một tháng diễn ra lễ ăn_hỏi  tối  29/5   đôi uyên_ương tổ_chức tiệc cưới bí_mật tại một khách_sạn sang_trọng ở sài_gòn với khoảng 700 khách_mời  bao_gồm gia_đình  người_thân và bạn_bè thân_thiết của nhà_trai 
+0,năm 2012 hương_thảo vượt người_đẹp “ nặng ký ” khác giành ngôi_vị hoa_khôi thể_thao
+1,cô đại_diện việt_nam đi thi miss_world 2013 đạt thành_tích
+2,trở về cuộc thi thay_vì tham_gia showbiz chân dài khác hương_thảo lựa_chọn cuộc_sống bình_thường một sinh_viên
+3,cô tiếp_tục đi học tập_trung công_việc kinh_doanh thỉnh_thoảng xuất_hiện ở một_số sự_kiện nhỏ
+4,yêu người yêu hương_thảo từ_bỏ mọi hào_quang tham_vọng bằng_lòng cuộc_sống hạnh_phúc hiện_tại
+5,hơn 2 năm quen nhau cô bạn trai tổ_chức lễ ăn_hỏi ở quê nhà cô_dâu ngày 30/4 quảng_ninh
+6,gần một tháng diễn lễ ăn_hỏi tối 29/5 đôi uyên_ương tổ_chức tiệc cưới bí_mật một khách_sạn sang_trọng ở sài_gòn khoảng 700 khách_mời bao_gồm gia_đình người_thân bạn_bè thân_thiết nhà_trai

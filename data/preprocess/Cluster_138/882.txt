@@ -1,10 +1,10 @@
 idx, sentence
-0,bộ nông_nghiệp_và_phát_triển_nông_thôn vừa trình chính_phủ xem_xét dừng thực_hiện chủ_trương chuyển mục_đích sử_dụng rừng và đất lâm_nghiệp của vườn_quốc_gia yok_đôn để xây_dựng nhà_máy thủy_điện đrăng_phốk  đăk_lăk  
-1,theo bộ_nông_nghiệp  nếu thủy_điện được xây_dựng thì 63 ha đất có rừng sẽ chuyển mục_đích sử_dụng  trong đó 53 ha chuyển_đổi vĩnh_viễn  10 ha chuyển_đổi tạm_thời 
-2,đó là chưa bao_gồm nhu_cầu sử_dụng đất  rừng để xây đường_dây tải điện từ nhà_máy đến trạm biến_áp hòa với hệ_thống điện quốc_gia 
-3,việc vận_hành nhà_máy sẽ ảnh_hưởng trực_tiếp đến sinh_cảnh sống của các loài động_vật hoang_dã  đặc_biệt là voi có_thể bỏ đi nơi khác 
-4,việc xây_dựng đập  chặn dòng còn làm thay_đổi dòng_chảy  ảnh_hưởng đến hệ_sinh_thái  nhất_là các loài thủy_sinh 
-5,bộ nông_nghiệp cũng cho rằng  quá_trình thi_công và vận_hành nhà_máy sẽ tạo thêm áp_lực bảo_vệ rừng  thậm_chí việc dâng nước lòng hồ đrăng_phốk giúp thuận_lợi cho các hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy 
-6,trong khi đó  từng tây_nguyên đang bị suy_giảm nghiêm_trọng  5 năm qua độ che_phủ rừng đã giảm 6   vùng tiếp_giáp với vườn_quốc_gia yok_đôn nhiều khu_vực không còn rừng 
-7,trước đó ngày 6/8/2009  bộ_nông_nghiệp đã có văn_bản trình thủ_tướng xem_xét cho_phép tỉnh đăk_lăk tổ_chức lập hồ_sơ chuyển_đổi mục_đích sử_dụng đất rừng đặc_dụng của vườn_quốc_gia yok_đôn sang mục_đích không phải lâm_nghiệp để xây_dựng thủy_điện đrăng_phốk 
-8,đến ngày 25/8/2009  thủ_tướng đồng_ý chuyển mục_đích sử_dụng 63 ha rừng và đất lâm_nghiệp tại các tiểu_khu 430  431 và 451 của vườn_quốc_gia yok_đôn để xây_dựng nhà_máy thủy_điện đrăng_phốk  trong đó diện_tích chuyển_đổi vĩnh_viễn là 53 ha  diện_tích chuyển_đổi tạm_thời là 10 ha 
+0,bộ nông_nghiệp_và_phát_triển_nông_thôn trình chính_phủ xem_xét dừng thực_hiện chủ_trương chuyển mục_đích sử_dụng rừng đất lâm_nghiệp vườn_quốc_gia yok_đôn xây_dựng nhà_máy thủy_điện đrăng_phốk đăk_lăk
+1,bộ_nông_nghiệp thủy_điện xây_dựng 63 ha đất rừng chuyển mục_đích sử_dụng trong 53 ha chuyển_đổi vĩnh_viễn 10 ha chuyển_đổi tạm_thời
+2,bao_gồm nhu_cầu sử_dụng đất rừng xây đường_dây tải điện nhà_máy đến trạm biến_áp hòa hệ_thống điện quốc_gia
+3,vận_hành nhà_máy ảnh_hưởng trực_tiếp đến sinh_cảnh sống loài động_vật hoang_dã đặc_biệt voi bỏ đi khác
+4,xây_dựng đập chặn dòng còn làm thay_đổi dòng_chảy ảnh_hưởng đến hệ_sinh_thái nhất_là loài thủy_sinh
+5,bộ nông_nghiệp quá_trình thi_công vận_hành nhà_máy tạo thêm áp_lực bảo_vệ rừng thậm_chí dâng nước lòng hồ đrăng_phốk giúp thuận_lợi hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy
+6,trong tây_nguyên suy_giảm nghiêm_trọng 5 năm độ che_phủ rừng giảm 6 vùng tiếp_giáp vườn_quốc_gia yok_đôn khu_vực còn rừng
+7,ngày 6/8/2009 bộ_nông_nghiệp văn_bản trình thủ_tướng xem_xét cho_phép tỉnh đăk_lăk tổ_chức lập hồ_sơ chuyển_đổi mục_đích sử_dụng đất rừng đặc_dụng vườn_quốc_gia yok_đôn sang mục_đích lâm_nghiệp xây_dựng thủy_điện đrăng_phốk
+8,đến ngày 25/8/2009 thủ_tướng đồng_ý chuyển mục_đích sử_dụng 63 ha rừng đất lâm_nghiệp tiểu_khu 430 431 451 vườn_quốc_gia yok_đôn xây_dựng nhà_máy thủy_điện đrăng_phốk trong diện_tích chuyển_đổi vĩnh_viễn 53 ha diện_tích chuyển_đổi tạm_thời 10 ha

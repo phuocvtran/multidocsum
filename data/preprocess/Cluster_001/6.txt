@@ -1,10 +1,10 @@
 idx, sentence
-0,samar ezz_eldin là một trong những người có_mặt trên chuyến bay số_hiệu ms804 của egyptair  mất_tích ngày 195 ngay sau khi đang thực_hiện chuyến bay từ paris tới cairo 
-1,các quan_chức sau đó xác_nhận máy_bay đã bị rơi 
-2,ngay sau sự_cố  có người phát_hiện ra cô từng đăng ảnh bên cạnh một máy_bay bị chìm 
-3,bức ảnh hiện đang được lan_truyền trên mạng  với nhiều người bày_tỏ hoài_nghi về sự liên_quan giữa bức ảnh và sự_cố ngày 195  theo ria_novosti 
-4,theo tờ almasry_alyoum  bức ảnh được đăng vào tháng 92014  vài tháng trước khi samar_ezz_eldin được nhận vào làm ở egyptair 
-5,hiện chưa có bình_luận từ nhà_chức_trách liên_quan diễn_biến này 
-6,hiện lực_lượng tìm_kiếm và cứu_hộ vẫn đang tìm_kiếm mảnh vỡ máy_bay 
-7,trước đó  egyptair đã rút lại thông_báo nói rằng đã tìm thấy mảnh vỡ máy_bay ở phía nam_đảo crete 
-8,bộ ngoại_giao ai_cập và chính_quyền hi_lạp trước đó cũng xác_nhận đã tìm thấy mảnh vỡ máy_bay  tuy_nhiên các mảnh vỡ sau đó được khẳng_định không phải của máy_bay ms804 
+0,samar ezz_eldin một trong người có_mặt chuyến bay số_hiệu ms804 egyptair mất_tích ngày 195 thực_hiện chuyến bay paris tới cairo
+1,quan_chức xác_nhận máy_bay rơi
+2,sự_cố người phát_hiện cô đăng ảnh bên cạnh một máy_bay chìm
+3,bức ảnh hiện lan_truyền mạng người bày_tỏ hoài_nghi về liên_quan giữa bức ảnh sự_cố ngày 195 ria_novosti
+4,tờ almasry_alyoum bức ảnh đăng tháng 92014 vài tháng samar_ezz_eldin nhận làm ở egyptair
+5,hiện bình_luận nhà_chức_trách liên_quan diễn_biến
+6,hiện lực_lượng tìm_kiếm cứu_hộ tìm_kiếm mảnh vỡ máy_bay
+7,egyptair rút thông_báo nói tìm thấy mảnh vỡ máy_bay ở phía nam_đảo crete
+8,bộ ngoại_giao ai_cập chính_quyền hi_lạp xác_nhận tìm thấy mảnh vỡ máy_bay tuy_nhiên mảnh vỡ khẳng_định máy_bay ms804

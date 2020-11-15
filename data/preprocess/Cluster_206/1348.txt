@@ -1,3 +1,3 @@
 idx, sentence
-0,ngày 305  ubnd tỉnh thừa_thiênhuế tổ_chức trưng_bày các phương_án kiến_trúc công_trình cầu_vượt sông hương  thuộc dự_án đường nguyễn_hoàng và cầu_vượt sông hương  tphuế  để tiếp_thu ý_kiến của nhân_dân tại bảo_tàng văn_hóa huế  23  25 lê_lợi  tphuế  
-1,thời_gian tổ_chức trưng_bày và tiếp_nhận ý_kiến đóng_góp từ 305  2962016 
+0,ngày 305 ubnd tỉnh thừa_thiênhuế tổ_chức trưng_bày phương_án kiến_trúc công_trình cầu_vượt sông hương thuộc dự_án đường nguyễn_hoàng cầu_vượt sông hương tphuế tiếp_thu ý_kiến nhân_dân bảo_tàng văn_hóa huế 23 25 lê_lợi tphuế
+1,thời_gian tổ_chức trưng_bày tiếp_nhận ý_kiến đóng_góp 305 2962016

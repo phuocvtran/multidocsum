@@ -1,30 +1,30 @@
 idx, sentence
-0,hiệp_hội nhiên_liệu sinh_học việt_nam đã kiến_nghị chính_phủ bỏ hẳn xăng khoáng truyền_thống a92 thay_thế bằng xăng sinh_học e5 tại tp hcm  hà_nội  hải_phòng và bà_rịavũng_tàu 
-1,các tỉnh  thành còn lại phải có tối_thiểu 50  cây_xăng trên địa_bàn bán xăng sinh_học e5 
-2,vẫn bán song_song thuyết_minh cho đề_nghị trên  hiệp_hội nhiên_liệu sinh_học việt_nam khẳng_định các nhà_máy sản_xuất ethanol hiện_nay đảm_bảo cung_ứng đầy_đủ nhu_cầu và ổn_định lâu_dài để pha_chế e5 với chất_lượng và giá_cả cạnh_tranh 
-3,tuy_nhiên  hiện_nay nhiều nhà_máy sản_xuất ethanol phải đóng cửa hoặc sản_xuất cầm_chừng do tắc đầu_ra 
-4,“ lộ_trình đưa xăng e5 thay xăng a92 còn khó_khăn khi thị_trường chưa đón_nhận nguồn nhiên_liệu mới này 
-5,điều này khiến các nhà_máy sản_xuất ethanol trong nước rơi vào tình_trạng ngưng_trệ ”  ông vũ_kiên_chỉnh  phó chủ_tịch hiệp_hội nhiên_liệu sinh_học việt_nam  nói 
-6,mặt_khác  hiệp_hội này cũng cho rằng việc cho_phép bán song_song xăng sinh_học lẫn xăng a95 và a92 dẫn đến các nhà bán_lẻ phải đầu_tư mới bồn chứa  trụ bơm 
-7,hiện cả nước có 14000 cây_xăng  nếu tất_cả phải đầu_tư xây_dựng bồn bể  trụ bơm mới để bán xăng sinh_học thì rất tốn_kém 
-8,điều này khiến các cơ_sở kinh_doanh xăng_dầu  nhất_là các cửa_hàng tư_nhân  chiếm hơn 10000 cây_xăng trên toàn_quốc  khó thực_hiện chủ_trương bán xăng e5 
-9,bên cạnh đề_nghị bỏ xăng a92 của hiệp_hội nhiên_liệu sinh_học việt_nam  gần đây cũng lan_truyền_thông_tin rằng từ hôm_nay  162016  sẽ bỏ hoàn_toàn xăng a92 thay_thế bằng xăng sinh_học 
-10,tuy_nhiên  trao_đổi với báo_chí về vấn_đề này  ông nguyễn_phú_cường  vụ_trưởng vụ khoa_học_và_công_nghệ thuộc bộ công_thương  khẳng_định không có chuyện dừng bán hoàn_toàn xăng a92 tại tám tỉnh  tp để thay_thế bằng xăng sinh_học từ ngày 162016 
-11,tức vẫn cho_phép bán song_song cả a92 và xăng sinh_học để người tiêu_dùng chọn_lựa 
-12,chính_phủ chỉ khuyến_khích chuyển_đổi 100  xăng a92 sang xăng sinh_học chứ không bắt_buộc 
-13,nhiều công_ty  đại_lý xăng dầu cũng thông_tin đến thời_điểm hiện_tại họ chưa nhận được chỉ_đạo nào về việc dừng bán xăng a92 để chuyển sang bán xăng e5 
-14,hơn_nữa  theo một_số chuyên_gia  thị_trường xăng dầu cần có nhiều loại để người tiêu_dùng lựa_chọn thay_vì chỉ có một sự lựa_chọn duy_nhất 
-15,gặp nhiều trắc_trở sau bốn năm triển_khai  tính tới thời_điểm này mới chỉ có cần_thơ  quảng_ngãi và quảng_nam hoàn_toàn sử_dụng xăng sinh_học thay_thế cho xăng a92 
-16,các tỉnh  thành khác còn gặp không ít trắc_trở khi triển_khai bán xăng sinh_học 
-17,các công_ty  đại_lý bày_tỏ ủng_hộ chủ_trương bán xăng sinh_học 
-18,tuy_nhiên  họ cũng thừa_nhận rằng nếu giá xăng sinh_học thấp hơn xăng a95 và a92 từ 1000 đến 2000 đồng / lít và nhà_nước đẩy_mạnh tuyên_truyền để người dân nhận_thức được lợi_ích của e5 thì loại xăng này mới tiêu_thụ được 
-19,ông ngô_thành_nhân  phó_giám_đốc công_ty tnhh xuất_nhập_khẩu xăng dầu đại_nam  cho biết công_ty có ba cửa_hàng xăng 
-20,mỗi cửa_hàng có hai trụ bơm bán xăng sinh_học nhưng lượng bán ra chiếm tỉ_lệ rất thấp 
-21,cụ_thể  lượng xăng sinh_học bán ra mỗi ngày chỉ đạt 3000 lít  trong khi xăng a92 và a95 lên tới 100000 lít 
-22,ông nhân lý_giải  “ nguyên_nhân lượng xăng sinh_học bán ra thấp là do người tiêu_dùng vẫn có thói_quen thích dùng a92 
-23,mặt_khác  giá xăng a92 hiện_nay không cao hơn nhiều so với xăng sinh_học 
-24,đó là chưa kể nếu bán xăng sinh_học  người kinh_doanh bán_lẻ giảm lợi_nhuận đến 30  so với bán xăng a92 nên họ cũng không thích 
-25,ví_dụ  bán xăng a92 lời được 1500 đồng / lít  trong khi bán xăng sinh_học lời chỉ 1000 đồng / lít ” 
-26,bên cạnh những khó_khăn vừa đề_cập thì việc tiêu_thụ xăng sinh_học hiện_nay còn gặp thách_thức bởi giá dầu_thô trên thế_giới đang ở mức thấp 
-27,điều này khiến nhiều công_ty đầu_mối kinh_doanh đẩy_mạnh nhập_khẩu xăng a92  a95 do kinh_doanh hiệu_quả hơn so với xăng sinh_học 
-28,thêm vào đó  các công_ty xăng dầu cũng lo_ngại nguồn cung_ethanol để pha_chế xăng sinh_học không ổn_định do nhiều nhà_máy sản_xuất nguyên_liệu này đóng cửa  dẫn đến giá_thành xăng e5 có_thể sẽ tăng  không đủ sức cạnh_tranh với các loại xăng khác 
+0,hiệp_hội nhiên_liệu sinh_học việt_nam kiến_nghị chính_phủ bỏ hẳn xăng khoáng truyền_thống a92 thay_thế bằng xăng sinh_học e5 tp hcm hà_nội hải_phòng bà_rịavũng_tàu
+1,tỉnh thành còn tối_thiểu 50 cây_xăng địa_bàn bán xăng sinh_học e5
+2,bán song_song thuyết_minh đề_nghị hiệp_hội nhiên_liệu sinh_học việt_nam khẳng_định nhà_máy sản_xuất ethanol hiện_nay đảm_bảo cung_ứng đầy_đủ nhu_cầu ổn_định lâu_dài pha_chế e5 chất_lượng giá_cả cạnh_tranh
+3,tuy_nhiên hiện_nay nhà_máy sản_xuất ethanol đóng cửa hoặc sản_xuất cầm_chừng tắc đầu_ra
+4,“ lộ_trình đưa xăng e5 thay xăng a92 còn khó_khăn thị_trường đón_nhận nguồn nhiên_liệu mới
+5,khiến nhà_máy sản_xuất ethanol trong nước rơi tình_trạng ngưng_trệ ” ông vũ_kiên_chỉnh phó chủ_tịch hiệp_hội nhiên_liệu sinh_học việt_nam nói
+6,mặt_khác hiệp_hội cho_phép bán song_song xăng sinh_học lẫn xăng a95 a92 dẫn đến nhà bán_lẻ đầu_tư mới bồn chứa trụ bơm
+7,hiện nước 14000 cây_xăng tất_cả đầu_tư xây_dựng bồn bể trụ bơm mới bán xăng sinh_học tốn_kém
+8,khiến cơ_sở kinh_doanh xăng_dầu nhất_là cửa_hàng tư_nhân chiếm hơn 10000 cây_xăng toàn_quốc khó thực_hiện chủ_trương bán xăng e5
+9,bên cạnh đề_nghị bỏ xăng a92 hiệp_hội nhiên_liệu sinh_học việt_nam gần lan_truyền_thông_tin hôm_nay 162016 bỏ hoàn_toàn xăng a92 thay_thế bằng xăng sinh_học
+10,tuy_nhiên trao_đổi báo_chí về vấn_đề ông nguyễn_phú_cường vụ_trưởng vụ khoa_học_và_công_nghệ thuộc bộ công_thương khẳng_định dừng bán hoàn_toàn xăng a92 tám tỉnh tp thay_thế bằng xăng sinh_học ngày 162016
+11,tức cho_phép bán song_song a92 xăng sinh_học người tiêu_dùng chọn_lựa
+12,chính_phủ khuyến_khích chuyển_đổi 100 xăng a92 sang xăng sinh_học bắt_buộc
+13,công_ty đại_lý xăng dầu thông_tin đến thời_điểm hiện_tại họ nhận chỉ_đạo nào về dừng bán xăng a92 chuyển sang bán xăng e5
+14,hơn_nữa một_số chuyên_gia thị_trường xăng dầu loại người tiêu_dùng lựa_chọn thay_vì một lựa_chọn duy_nhất
+15,gặp trắc_trở bốn năm triển_khai tính tới thời_điểm mới cần_thơ quảng_ngãi quảng_nam hoàn_toàn sử_dụng xăng sinh_học thay_thế xăng a92
+16,tỉnh thành khác còn gặp ít trắc_trở triển_khai bán xăng sinh_học
+17,công_ty đại_lý bày_tỏ ủng_hộ chủ_trương bán xăng sinh_học
+18,tuy_nhiên họ thừa_nhận giá xăng sinh_học thấp hơn xăng a95 a92 1000 đến 2000 đồng / lít nhà_nước đẩy_mạnh tuyên_truyền người dân nhận_thức lợi_ích e5 loại xăng mới tiêu_thụ
+19,ông ngô_thành_nhân phó_giám_đốc công_ty tnhh xuất_nhập_khẩu xăng dầu đại_nam biết công_ty ba cửa_hàng xăng
+20,cửa_hàng hai trụ bơm bán xăng sinh_học lượng bán chiếm tỉ_lệ thấp
+21,cụ_thể lượng xăng sinh_học bán ngày đạt 3000 lít trong xăng a92 a95 tới 100000 lít
+22,ông nhân lý_giải “ nguyên_nhân lượng xăng sinh_học bán thấp người tiêu_dùng thói_quen thích dùng a92
+23,mặt_khác giá xăng a92 hiện_nay cao hơn xăng sinh_học
+24,kể bán xăng sinh_học người kinh_doanh bán_lẻ giảm lợi_nhuận đến 30 bán xăng a92 họ thích
+25,ví_dụ bán xăng a92 lời 1500 đồng / lít trong bán xăng sinh_học lời 1000 đồng / lít ”
+26,bên cạnh khó_khăn đề_cập tiêu_thụ xăng sinh_học hiện_nay còn gặp thách_thức giá dầu_thô thế_giới ở mức thấp
+27,khiến công_ty đầu_mối kinh_doanh đẩy_mạnh nhập_khẩu xăng a92 a95 kinh_doanh hiệu_quả hơn xăng sinh_học
+28,thêm công_ty xăng dầu lo_ngại nguồn cung_ethanol pha_chế xăng sinh_học ổn_định nhà_máy sản_xuất nguyên_liệu đóng cửa dẫn đến giá_thành xăng e5 tăng đủ sức cạnh_tranh loại xăng khác

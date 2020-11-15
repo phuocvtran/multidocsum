@@ -1,12 +1,12 @@
 idx, sentence
-0,trưa 27/5  ông lê_văn_tiến  56 tuổi  xóm 21  xã nghi_trung  huyện nghi_lộc  nghệ_an  cùng vợ_con đang ngủ thì nghe tiếng_động lớn trên trần nhà 
-1,mọi người liền hốt_hoảng chạy ra ngoài 
-2,theo ông  một chuyến máy_bay  chưa xác_định của hãng nào   trong lúc hạ_cánh xuống sân_bay quốc_tế vinh đã làm tốc mái nhà 
-3,ngay sau đó  ông tiến đã trực_tiếp đến cảng_vụ hàng_không sân_bay vinh và điện_báo ban_công_an xã nghi_trung để giải_quyết sự_việc 
-4,15 h cùng ngày  đại_diện cảng_vụ hàng_không miền bắc  an_ninh sân_bay quốc_tế vinh cùng ban_công_an xã đã có_mặt tại hiện_trường để kiểm_tra 
-5,theo ghi_nhận  gần 200 viên ngói bị tốc  rơi xuống trần nhà bể nát 
-6,ông võ_văn_pháp  phó_trưởng đại_diện cảng_vụ hàng_không miền bắc tại nghệ_an cho biết  cảng_vụ đang lập biên_bản để báo_cáo sự_việc lên cấp trên để xem phương_án giải_quyết 
-7,do chưa xác_định được chuyến bay của hãng nào nên cần thời_gian kiểm_tra lại bên bộ_phận đài không lưu và hệ_thống điều_hành đường_bay 
-8,người dân địa_phương cho hay  đây không phải lần đầu xảy ra vụ_việc 
-9,trước đó  nhiều lần họ đã phản_ánh nhưng không thấy lực_lượng chức_năng nào giải_quyết thỏa_đáng 
-10, chúng_tôi sống ở trong khu_vực đường_bay hạ_cánh luôn phải nơm_nớp lo_sợ  vì mỗi lần hạ_cánh tiếng ồn và gió mạnh làm tốc mái nhà   anh lê_văn_hậu  xóm 21  xã nghi_trung  nói 
+0,trưa 27/5 ông lê_văn_tiến 56 tuổi xóm 21 xã nghi_trung huyện nghi_lộc nghệ_an vợ_con ngủ nghe tiếng_động lớn trần nhà
+1,mọi người liền hốt_hoảng chạy ngoài
+2,ông một chuyến máy_bay xác_định hãng nào trong hạ_cánh xuống sân_bay quốc_tế vinh làm tốc mái nhà
+3,ông tiến trực_tiếp đến cảng_vụ hàng_không sân_bay vinh điện_báo ban_công_an xã nghi_trung giải_quyết sự_việc
+4,15 h ngày đại_diện cảng_vụ hàng_không miền bắc an_ninh sân_bay quốc_tế vinh ban_công_an xã có_mặt hiện_trường kiểm_tra
+5,ghi_nhận gần 200 viên ngói tốc rơi xuống trần nhà bể nát
+6,ông võ_văn_pháp phó_trưởng đại_diện cảng_vụ hàng_không miền bắc nghệ_an biết cảng_vụ lập biên_bản báo_cáo sự_việc cấp xem phương_án giải_quyết
+7,xác_định chuyến bay hãng nào thời_gian kiểm_tra bên bộ_phận đài lưu hệ_thống điều_hành đường_bay
+8,người dân địa_phương hay lần đầu xảy vụ_việc
+9,lần họ phản_ánh thấy lực_lượng chức_năng nào giải_quyết thỏa_đáng
+10,chúng_tôi sống ở trong khu_vực đường_bay hạ_cánh luôn nơm_nớp lo_sợ lần hạ_cánh tiếng ồn gió mạnh làm tốc mái nhà anh lê_văn_hậu xóm 21 xã nghi_trung nói

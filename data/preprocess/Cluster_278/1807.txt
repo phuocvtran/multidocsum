@@ -1,10 +1,10 @@
 idx, sentence
-0,ngân_hàng nhà_nước việt_nam  nhnn  vừa phát đi thông_báo về việc kết_thúc bán tiền lưu_niệm  kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam  
-1,trước đó  kể từ ngày 12/4 tại hà_nội và từ 22/4 tại tphcm  ngân_hàng nhà_nước việt_nam đã tổ_chức bán tiền lưu_niệm mệnh_giá 100 đồng  phát_hành vào dịp kỷ_niệm 65 năm thành_lập ngành ngân_hàng việt_nam 
-2,tờ tiền lưu_niệm có kích_thước to hơn so với các tờ tiền polymer thông_thường  chất_liệu bằng cotton màu_sắc đỏ 
-3,mặt trước là hình quốc_huy  chân_dung chủ_tịch hồ_chí_minh  dòng chữ ngân_hàng nhà_nước việt_nam  mệnh_giá 100 đồng in đậm với logo 65 năm kỷ_niệm thành_lập nhnn 
-4,theo đó  tiền lưu_niệm 100 đồng có giá bán 20000 đồng / tờ  loại tờ_rời  và 25000 đồng / tờ  loại tờ foder  được bọc trong phong_bao  kèm chú_thích song_ngữ việt  anh  
-5,trong thời_gian nhnn tổ_chức bán tiền lưu_niệm  tờ tiền mệnh_giá 100 đồng nhận được sự quan_tâm và đánh_giá cao của nhiều tổ_chức  cá_nhân trong và ngoài nước 
-6,ngay sau khi có thông_tin nhnn tổ_chức bán tiền lưu_niệm  rất đông người dân đã đổ_xô đến các điểm bán tại số 16 tông_đản  hà_nội   thậm_chí liên lục có đoàn người xếp_hàng từ sáng sớm để được vào mua tiền 
-7,không công_bố số_lượng tiền bán ra cụ_thể  nhưng nhnn cho biết  “ số_lượng tiền lưu_niệm phát_hành lần này chủ_yếu được bán rộng_rãi cho nhiều tổ_chức  đơn_vị trong  ngoài ngành và trên 20000 lượt khách_hàng cá_nhân đã mua 
-8,đến nay số_lượng tiền lưu_niệm dành bán cho công_chúng đã hết ” 
+0,ngân_hàng nhà_nước việt_nam nhnn phát đi thông_báo về kết_thúc bán tiền lưu_niệm kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam
+1,kể ngày 12/4 hà_nội 22/4 tphcm ngân_hàng nhà_nước việt_nam tổ_chức bán tiền lưu_niệm mệnh_giá 100 đồng phát_hành dịp kỷ_niệm 65 năm thành_lập ngành ngân_hàng việt_nam
+2,tờ tiền lưu_niệm kích_thước to hơn tờ tiền polymer thông_thường chất_liệu bằng cotton màu_sắc đỏ
+3,mặt hình quốc_huy chân_dung chủ_tịch hồ_chí_minh dòng chữ ngân_hàng nhà_nước việt_nam mệnh_giá 100 đồng in đậm logo 65 năm kỷ_niệm thành_lập nhnn
+4,tiền lưu_niệm 100 đồng giá bán 20000 đồng / tờ loại tờ_rời 25000 đồng / tờ loại tờ foder bọc trong phong_bao kèm chú_thích song_ngữ việt anh
+5,trong thời_gian nhnn tổ_chức bán tiền lưu_niệm tờ tiền mệnh_giá 100 đồng nhận quan_tâm đánh_giá cao tổ_chức cá_nhân trong ngoài nước
+6,thông_tin nhnn tổ_chức bán tiền lưu_niệm đông người dân đổ_xô đến điểm bán số 16 tông_đản hà_nội thậm_chí liên lục đoàn người xếp_hàng sáng sớm mua tiền
+7,công_bố số_lượng tiền bán cụ_thể nhnn biết “ số_lượng tiền lưu_niệm phát_hành lần chủ_yếu bán rộng_rãi tổ_chức đơn_vị trong ngoài ngành 20000 lượt khách_hàng cá_nhân mua
+8,đến nay số_lượng tiền lưu_niệm dành bán công_chúng hết ”

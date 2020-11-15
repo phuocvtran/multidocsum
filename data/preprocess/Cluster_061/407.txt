@@ -1,10 +1,10 @@
 idx, sentence
-0,ngay cả khi không còn là thày của cronaldo  hlv ancelotti vẫn dành những lời có cánh để ngợi_khen tiền_đạo người bồ_đào_nha 
-1,bởi_lẽ  cr7 là một trong số_ít học_trò khiến hlv ancelotti mến_phục bởi sự chuyên_nghiệp hiếm thấy 
-2,ngày hôm_qua  trong bài phỏng_vấn trên tờ financial_times  chiến_lược gia người italia đã kể câu_chuyện mà ông rất tâm_đắc về cronaldo
-3,theo đó  ông tiết_lộ rằng cầu_thủ này vẫn vào phòng ngâm mình trong nước lạnh vào lúc 3 giờ sáng  bỏ mặc bạn gái irina_shayk ở nhà 
-4,chiến_lược gia người italia cho biết  “ cronaldo luôn cho thấy được sự chuyên_nghiệp tới kinh_ngạc 
-5,bạn có biết không  cậu ấy vào phòng ngâm mình trong nước lạnh lúc 3 giờ sáng  ngay cả khi cô bạn gái irina_shayk đang đợi ở nhà 
-6,cronaldo chưa bao_giờ quan_tâm tới tiền 
-7,cậu ấy chỉ muốn là số 1 trong mọi lĩnh_vực 
-8,tôi không có thời_gian nói chi_tiết câu_chuyện về cronaldo nhưng tôi chỉ có_thể nói rằng cách cậu ấy đặt sự_nghiệp lên trên bạn gái và lĩnh_vực khác khiến nhiều người không_thể tin nổi ” 
+0,còn thày cronaldo hlv ancelotti dành lời cánh ngợi_khen tiền_đạo người bồ_đào_nha
+1,bởi_lẽ cr7 một trong số_ít học_trò khiến hlv ancelotti mến_phục chuyên_nghiệp hiếm thấy
+2,ngày hôm_qua trong bài phỏng_vấn tờ financial_times chiến_lược gia người italia kể câu_chuyện ông tâm_đắc về cronaldo
+3,ông tiết_lộ cầu_thủ phòng ngâm mình trong nước lạnh 3 giờ sáng bỏ mặc bạn gái irina_shayk ở nhà
+4,chiến_lược gia người italia biết “ cronaldo luôn thấy chuyên_nghiệp tới kinh_ngạc
+5,bạn biết cậu ấy phòng ngâm mình trong nước lạnh 3 giờ sáng cô bạn gái irina_shayk đợi ở nhà
+6,cronaldo bao_giờ quan_tâm tới tiền
+7,cậu ấy muốn số 1 trong mọi lĩnh_vực
+8,tôi thời_gian nói chi_tiết câu_chuyện về cronaldo tôi nói cách cậu ấy đặt sự_nghiệp bạn gái lĩnh_vực khác khiến người không_thể tin nổi ”

@@ -1,17 +1,17 @@
 idx, sentence
-0,hôm_qua  từ sáng công_tác chuẩn_bị của hội fan than quảng_ninh đã hoàn_tất khi cả ngàn chiếc ghế nhựa được xếp ngay_ngắn trước khán_đài b cùng loa đài  cờ_quạt  cảnh_tượng “ độc_nhất vô nhị ” tưởng như khó xuất_hiện ở một trận bóng_đá 
-1,cđv ban_đầu dự_kiến cổ_vũ bên ngoài sân  xem trận đấu qua màn_hình như tuyên_bố “ tẩy_chay ” vpf 
-2,và tất_cả cùng đeo khẩu_trang như là cách phản_đối  với thông_điệp về sự im_lặng 
-3,tất_cả đã sẵn_sàng cho một “ cuộc_chiến ” với btc  vpf 
-4,thật may  chỉ 30 phút trước khi bóng lăn thì sự_việc đã được tháo “ ngòi_nổ ” 
-5,2 cuộc điện_thoại từ lãnh_đạo thành_phố và người đứng đầu đội bóng là chủ_tịch phạm_thanh_hùng bước ra nói_chuyện với hội_cđv 
-6,chỉ cần một câu nói  tất_cả trật_tự và tuân theo hiệu_lệnh 
-7,họ lên khán_đài c ngồi  nhất_quyết bỏ trống khu_vực trung_tâm của khán_đài b  “ đồng_phục ” khẩu_trang màu xanh cùng biểu_tượng “ vleague im_lặng ” 
-8,90 phút im_lặng  họ đeo khẩu_trang để … cổ_vũ 
-9,phải mãi đến khi hết trận đấu  khi chủ_tịch phạm_thanh_hùng  hlv phan_thanh_hùng cùng các cầu_thủ chạy lại cảm_ơn  họ mới nhảy_múa  hát_hò 
-10,“ chúng_tôi thấy cần phải làm gì đó để gửi đi thông_điệp với vpf  với btc sau những gì đã xảy ra 
-11,hội cđv than quảng_ninh không làm điều gì sai_trái và chúng_tôi muốn thể_hiện mình là những người có hiểu_biết  có cách cư_xử văn_minh 
-12,chúng_tôi không phá  chỉ làm điều nên  cần làm … ”  chủ_tịch hội cđv_trần_lê_trung chia_sẻ về quyết_định đề_nghị các thành_viên hội thể_hiện tự tôn_trọng bằng cách vào sân 
-13,“ tôi sẽ không nói về đúng_sai  ở cương_vị của mình tôi dành sự tôn_trọng với các cđv của đội bóng 
-14,đó là những con_người nhiệt_huyết và hôm_nay  dù có đôi_chút buồn do không thấy bầu_không_khí quen_thuộc nhưng bạn thấy đấy  cuối_cùng họ vẫn vào sân 
-15,họ vẫn đứng sau chúng_tôi  đó là điều nói lên tất_cả … ”  hlv phan_thanh_hùng của than quảng_ninh phát_biểu 
+0,hôm_qua sáng công_tác chuẩn_bị hội fan than quảng_ninh hoàn_tất ngàn ghế nhựa xếp ngay_ngắn khán_đài b loa đài cờ_quạt cảnh_tượng “ độc_nhất vô nhị ” tưởng khó xuất_hiện ở một trận bóng_đá
+1,cđv ban_đầu dự_kiến cổ_vũ bên ngoài sân xem trận đấu màn_hình tuyên_bố “ tẩy_chay ” vpf
+2,tất_cả đeo khẩu_trang cách phản_đối thông_điệp về im_lặng
+3,tất_cả sẵn_sàng một “ cuộc_chiến ” btc vpf
+4,thật may 30 phút bóng lăn sự_việc tháo “ ngòi_nổ ”
+5,2 cuộc điện_thoại lãnh_đạo thành_phố người đứng đầu đội bóng chủ_tịch phạm_thanh_hùng bước nói_chuyện hội_cđv
+6,một câu nói tất_cả trật_tự tuân hiệu_lệnh
+7,họ khán_đài c ngồi nhất_quyết bỏ trống khu_vực trung_tâm khán_đài b “ đồng_phục ” khẩu_trang màu xanh biểu_tượng “ vleague im_lặng ”
+8,90 phút im_lặng họ đeo khẩu_trang … cổ_vũ
+9,mãi đến hết trận đấu chủ_tịch phạm_thanh_hùng hlv phan_thanh_hùng cầu_thủ chạy cảm_ơn họ mới nhảy_múa hát_hò
+10,“ chúng_tôi thấy làm gửi đi thông_điệp vpf btc xảy
+11,hội cđv than quảng_ninh làm sai_trái chúng_tôi muốn thể_hiện mình người hiểu_biết cách cư_xử văn_minh
+12,chúng_tôi phá làm làm … ” chủ_tịch hội cđv_trần_lê_trung chia_sẻ về quyết_định đề_nghị thành_viên hội thể_hiện tự tôn_trọng bằng cách sân
+13,“ tôi nói về đúng_sai ở cương_vị mình tôi dành tôn_trọng cđv đội bóng
+14,con_người nhiệt_huyết hôm_nay dù đôi_chút buồn thấy bầu_không_khí quen_thuộc bạn thấy đấy cuối_cùng họ sân
+15,họ đứng chúng_tôi nói tất_cả … ” hlv phan_thanh_hùng than quảng_ninh phát_biểu

@@ -1,10 +1,10 @@
 idx, sentence
-0,trên chuyến bay cùng đt việt_nam sang yangon  hlv hữu_thắng chia_sẻ với phóng_viên  ngoài trường_hợp hoàng_thịnh phải ở lại việt_nam chữa_trị chấn_thương  sau trận đấu với syria  tiền_đạo công_phương cũng đang gặp vấn_đề về thể_trạng 
-1,cụ_thể cầu_thủ gốc xứ nghệ bị bong_gân cổ_chân và phải di_chuyển rất vất_vả 
-2,tuy_nhiên theo hlv hữu_thắng  mức_độ chấn_thương của_công phượng không quá nặng _bản_thân công_phượng cũng cho biết  với chấn_thương này anh vẫn có_thể tập_luyện cùng các đồng_đội trong những ngày tại myanmar và có_thể thi_đấu tốt khi giải bắt_đầu 
-3,sau khi đặt_chân đến yangon  đt việt_nam được btc nước chủ nhà myanmar bố_trí ở tại khách_sạn yangon 
-4,đây là một trong những khách_sạn loại sang ở thành_phố yangon 
-5,theo kế_hoạch dự_kiến  chiều_mai thầy_trò hlv hữu_thắng sẽ có một buổi làm_quen svđ chính vào lúc 15 h00  giờ myanmar  
-6,một ngày sau đt việt_nam có trận đấu đầu_tiên với hong_kong  trung_quốc  vào lúc 15 h00 ngày 36 và sẽ được truyền_hình k  tường_thuật trực_tiếp 
-7,“ đây là giải đấu quan_trọng trong quá_trình chuẩn_bị cho aff_cup 2016 của đt việt_nam 
-8,sau 2 trận đấu chúng_tôi sẽ có những đánh_giá đầy_đủ hơn về lối chơi và con_người để có những điều_chỉnh trong thời_gian tới ”  hlv hữu_thắng cho biết 
+0,chuyến bay đt việt_nam sang yangon hlv hữu_thắng chia_sẻ phóng_viên ngoài trường_hợp hoàng_thịnh ở việt_nam chữa_trị chấn_thương trận đấu syria tiền_đạo công_phương gặp vấn_đề về thể_trạng
+1,cụ_thể cầu_thủ gốc xứ nghệ bong_gân cổ_chân di_chuyển vất_vả
+2,tuy_nhiên hlv hữu_thắng mức_độ chấn_thương của_công phượng quá nặng _bản_thân công_phượng biết chấn_thương anh tập_luyện đồng_đội trong ngày myanmar thi_đấu tốt giải bắt_đầu
+3,đặt_chân đến yangon đt việt_nam btc nước chủ nhà myanmar bố_trí ở khách_sạn yangon
+4,một trong khách_sạn loại sang ở thành_phố yangon
+5,kế_hoạch dự_kiến chiều_mai thầy_trò hlv hữu_thắng một buổi làm_quen svđ chính 15 h00 giờ myanmar
+6,một ngày đt việt_nam trận đấu đầu_tiên hong_kong trung_quốc 15 h00 ngày 36 truyền_hình k tường_thuật trực_tiếp
+7,“ giải đấu quan_trọng trong quá_trình chuẩn_bị aff_cup 2016 đt việt_nam
+8,2 trận đấu chúng_tôi đánh_giá đầy_đủ hơn về lối chơi con_người điều_chỉnh trong thời_gian tới ” hlv hữu_thắng biết

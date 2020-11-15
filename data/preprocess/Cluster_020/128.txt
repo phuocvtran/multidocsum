@@ -1,7 +1,7 @@
 idx, sentence
-0,ghi_nhận vào trưa cùng ngày cá chết nổi đầy mặt kênh  nhiều nhất là đoạn từ cầu_thị_nghè kéo_dài về hướng nhà thi_đấu rạch_miễu  qbình_thạnh  
-1,đoạn kênh từ cầu kiệu đến khu_vực qtân_bình cá chết ít hơn  trôi lác_đác ở dọc kênh và được các công_nhân công_ty tnhh môi_trường đô_thị túc_trực liên_tục vớt lên 
-2,ông nguyễn_toàn_thắng  giám_đốc sở tnmt_tphcm  cho biết đã huy_động 250 người  22 tàu vớt rác  12 ca_nô  8 chiếc ghe  3 sà_lan  2 tàu cẩu tham_gia vớt cá 
-3,trong đó công_ty môi_trường đô_thị  công_ty dịch_vụ công_ích q 8  khu quản_lý giao_thông đường_thủy  lực_lượng pccc tp  cùng tham_gia 
-4,ông trần_văn_sơn  chi_cục_phó chi_cục bảo_vệ nguồn lợi thủy_sản tphcm  cho biết vẫn còn cá chết nhiều là do cá còn sót lại ở tầng đáy nổi lên  cộng với việc những chất_độc còn đọng ở kênh 
-5,ngày 185  chi_cục đã nhập về 30 tấn chế_phẩm sinh_học zeolite rải xuống kênh nhiêu_lộc  thị_nghè để làm sạch nguồn nước  khử mùi và làm tăng ô xy trong nước  đồng_thời sẽ lấy mẫu nước xét_nghiệm mỗi ngày 
+0,ghi_nhận trưa ngày cá chết nổi đầy mặt kênh nhất đoạn cầu_thị_nghè kéo_dài về hướng nhà thi_đấu rạch_miễu qbình_thạnh
+1,đoạn kênh cầu kiệu đến khu_vực qtân_bình cá chết ít hơn trôi lác_đác ở dọc kênh công_nhân công_ty tnhh môi_trường đô_thị túc_trực liên_tục vớt
+2,ông nguyễn_toàn_thắng giám_đốc sở tnmt_tphcm biết huy_động 250 người 22 tàu vớt rác 12 ca_nô 8 ghe 3 sà_lan 2 tàu cẩu tham_gia vớt cá
+3,trong công_ty môi_trường đô_thị công_ty dịch_vụ công_ích q 8 khu quản_lý giao_thông đường_thủy lực_lượng pccc tp tham_gia
+4,ông trần_văn_sơn chi_cục_phó chi_cục bảo_vệ nguồn lợi thủy_sản tphcm biết còn cá chết cá còn sót ở tầng đáy nổi cộng chất_độc còn đọng ở kênh
+5,ngày 185 chi_cục nhập về 30 tấn chế_phẩm sinh_học zeolite rải xuống kênh nhiêu_lộc thị_nghè làm sạch nguồn nước khử mùi làm tăng ô xy trong nước đồng_thời lấy mẫu nước xét_nghiệm ngày

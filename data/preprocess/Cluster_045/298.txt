@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 19/5  cảng_vụ đường_thủy nội_địa quảng_ninh đã ngừng cấp phép rời cảng  bến đối_với đội tàu du_lịch đang hoạt_động trên vịnh hạ_long thuộc quyền_sở_hữu hoặc quản_lý  khai_thác của doanh_nghiệp tư_nhân huyền_việt để xác_minh làm rõ về việc  chặt  chém  ép khách du_lịch 
-1,trước đó  ngày 18/5  cảng_vụ đường_thủy nội_địa quảng_ninh cũng đã tạm dừng hoạt_động của tàu du_lịch hồng_long_qn  7038 của doanh_nghiệp tư_nhân huyền_việt để xác_minh  làm rõ theo đúng quy_định về quy_chế quản_lý tàu du_lịch của tỉnh 
-2,đồng_thời  ubnd thành_phố hạ_long đã chỉ_đạo các đơn_vị chức_năng liên_quan vào_cuộc phối_hợp kiểm_tra  xác_minh vụ_việc 
-3,qua kết_quả kiểm_tra  bước_đầu đã xác_định tàu hồng_long_qn_– 7038 đã có hành_vi vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 
-4,mặt_khác  từ ngày 1/1/2016 đến nay đội tàu hồng_long của doanh_nghiệp tư_nhân huyền_việt đã 3 lần bị xử_lý_do có các vi_phạm  đưa khách vào nhà_bè kinh_doanh hải_sản trái_phép vịnh hạ_long  để phương_tiện khác bám buộc vào phương_tiện của mình để bán hàng_hóa 
-5,riêng tàu hồng_long_qn_– 7038 đã bị công_an thành_phố hạ_long xử_phạt 3 lần về lỗi vi_phạm để khách đứng ngồi trên mui khi đang hành_trình 
+0,ngày 19/5 cảng_vụ đường_thủy nội_địa quảng_ninh ngừng cấp phép rời cảng bến đối_với đội tàu du_lịch hoạt_động vịnh hạ_long thuộc quyền_sở_hữu hoặc quản_lý khai_thác doanh_nghiệp tư_nhân huyền_việt xác_minh làm rõ về chặt chém ép khách du_lịch
+1,ngày 18/5 cảng_vụ đường_thủy nội_địa quảng_ninh tạm dừng hoạt_động tàu du_lịch hồng_long_qn 7038 doanh_nghiệp tư_nhân huyền_việt xác_minh làm rõ đúng quy_định về quy_chế quản_lý tàu du_lịch tỉnh
+2,đồng_thời ubnd thành_phố hạ_long chỉ_đạo đơn_vị chức_năng liên_quan vào_cuộc phối_hợp kiểm_tra xác_minh vụ_việc
+3,kết_quả kiểm_tra bước_đầu xác_định tàu hồng_long_qn_– 7038 hành_vi vi_phạm niêm_yết_giá hàng_hóa dịch_vụ tàu quy_định giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm
+4,mặt_khác ngày 1/1/2016 đến nay đội tàu hồng_long doanh_nghiệp tư_nhân huyền_việt 3 lần xử_lý_do vi_phạm đưa khách nhà_bè kinh_doanh hải_sản trái_phép vịnh hạ_long phương_tiện khác bám buộc phương_tiện mình bán hàng_hóa
+5,riêng tàu hồng_long_qn_– 7038 công_an thành_phố hạ_long xử_phạt 3 lần về lỗi vi_phạm khách đứng ngồi mui hành_trình

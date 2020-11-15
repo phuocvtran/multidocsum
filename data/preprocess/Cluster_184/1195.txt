@@ -1,7 +1,7 @@
 idx, sentence
-0,hai kỳ_thủ thi_đấu khá cởi_mở và liên_tục trao_đổi quân 
-1,nhưng càng đánh  những nước cờ biến hóa giúp quang_liêm dần chiếm ưu_thế trước khi đối_thủ chấp_nhận đầu_hàng sau 51 nước đấu_trí 
-2,với kết_quả này  quang_liêm trở_lại ngôi đầu_bảng nam với 5 điểm sau 6 ván 
-3,ở lượt này  kỳ_thủ trung_quốc wei_yi  elo 2694  đánh_bại được đồng_hương rui_gao  elo 2556  để có cùng 5 điểm với quang_liêm nhưng xếp sau vì kém hiệu_số phụ 
-4,trong khi đó  nguyễn_ngọc trường_sơn  elo 2636  đánh_bại kỳ_thủ indonesia_sonjaya_deni  elo 2310  để có được 4 điểm sau 6 ván 
-5,nguyễn_huỳnh_minh_huy  elo 2458  thất_bại trước adhiban_b  ấn_độ  elo 2665  nên chỉ được 35 điểm sau 6 ván 
+0,hai kỳ_thủ thi_đấu khá cởi_mở liên_tục trao_đổi quân
+1,đánh nước cờ biến hóa giúp quang_liêm dần chiếm ưu_thế đối_thủ chấp_nhận đầu_hàng 51 nước đấu_trí
+2,kết_quả quang_liêm trở_lại ngôi đầu_bảng nam 5 điểm 6 ván
+3,ở lượt kỳ_thủ trung_quốc wei_yi elo 2694 đánh_bại đồng_hương rui_gao elo 2556 5 điểm quang_liêm xếp kém hiệu_số phụ
+4,trong nguyễn_ngọc trường_sơn elo 2636 đánh_bại kỳ_thủ indonesia_sonjaya_deni elo 2310 4 điểm 6 ván
+5,nguyễn_huỳnh_minh_huy elo 2458 thất_bại adhiban_b ấn_độ elo 2665 35 điểm 6 ván

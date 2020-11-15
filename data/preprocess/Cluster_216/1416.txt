@@ -1,17 +1,17 @@
 idx, sentence
-0,ngoài_ra bị_cáo minh còn phải bồi_thường số tiền hơn 73 tỉ đồng cho sở công_thương  bồi_thường 335 tỉ đồng cho sở nông_nghiệp và phát_triển nông_thôn  nnptnt  tỉnh bà_rịavũng_tàu 
-1,theo cáo_trạng  công_ty phú an_sinh có trụ_sở tại tphcm  kinh_doanh mua_bán  giết_mổ  chế_biến thực_phẩm  chăn_nuôi gia_súc gia_cầm 
-2,công_ty có đầu_tư nhà_máy chế_biến tại xã hắc_dịch  huyện tân_thành  tỉnh bà_rịavũng_tàu 
-3,trong năm 2010  phú an_sinh đã nhận tạm_ứng vốn từ nguồn vốn của ngân_sách tỉnh bà_rịavũng_tàu để thực_hiện hai chương_trình bình_ổn giá trên địa_bàn tỉnh 
-4,cụ_thể  tháng 112010  công_ty nhận tạm_ứng số tiền 165 tỉ đồng của sở công_thương để tham_gia dự_trữ hàng_hóa 
-5,thời_gian hỗ_trợ và hoàn vốn là sáu tháng kể từ ngày nhận  không tính lãi vốn tạm_ứng 
-6,sở công_thương đã chuyển số tiền trên cho phú an_sinh 
-7,trong quá_trình thực_hiện  phú an_sinh báo_cáo bằng miệng cho sở đã bán được 26 tỉ đồng dựa trên nguồn vốn vay 
-8,tuy_nhiên  thực_tế phú an_sinh chỉ sử_dụng 560 triệu đồng để tham_gia bình_ổn giá 
-9,số còn lại phú an_sinh sử_dụng vào mục_đích khác  tính đến thời_điểm phải hoàn vốn  phú an_sinh mới trả lại cho sở công_thương số tiền hơn 91 tỉ đồng 
-10,còn đối_với chương_trình bình_ổn thị_trường để phòng  chống dịch_bệnh heo tai xanh năm 2010  phú an_sinh cũng đã tạm_ứng 35 tỉ đồng của sở nnptnt tỉnh bà_rịavũng_tàu 
-11,mục_đích là để thu_mua heo của người chăn_nuôi trên địa_bàn tỉnh  giết_mổ  cấp đông dự_trữ thịt heo bình_ổn giá trong tình_hình dịch_bệnh heo tai xanh 
-12,tuy_nhiên  phú an_sinh chỉ sử_dụng hơn 10 tỉ đúng mục_đích 
-13,còn lại sử_dụng tiền vào các mục_đích khác như mua giống  trả nợ  trả lương … đến hạn phú an_sinh không hoàn vốn như cam_kết  còn nợ sở số tiền 335 tỉ đồng 
-14,tại phiên_tòa  bị_cáo minh thừa_nhận sử_dụng vốn tạm_ứng không đúng với cam_kết  báo_cáo sai sự_thật nhưng không thừa_nhận hành_vi phạm_tội của mình 
-15,do_vậy  hđxx cho rằng cần xử_phạt một mức án nghiêm_khắc đối_với bị_cáo 
+0,ngoài_ra bị_cáo minh còn bồi_thường số tiền hơn 73 tỉ đồng sở công_thương bồi_thường 335 tỉ đồng sở nông_nghiệp phát_triển nông_thôn nnptnt tỉnh bà_rịavũng_tàu
+1,cáo_trạng công_ty phú an_sinh trụ_sở tphcm kinh_doanh mua_bán giết_mổ chế_biến thực_phẩm chăn_nuôi gia_súc gia_cầm
+2,công_ty đầu_tư nhà_máy chế_biến xã hắc_dịch huyện tân_thành tỉnh bà_rịavũng_tàu
+3,trong năm 2010 phú an_sinh nhận tạm_ứng vốn nguồn vốn ngân_sách tỉnh bà_rịavũng_tàu thực_hiện hai chương_trình bình_ổn giá địa_bàn tỉnh
+4,cụ_thể tháng 112010 công_ty nhận tạm_ứng số tiền 165 tỉ đồng sở công_thương tham_gia dự_trữ hàng_hóa
+5,thời_gian hỗ_trợ hoàn vốn sáu tháng kể ngày nhận tính lãi vốn tạm_ứng
+6,sở công_thương chuyển số tiền phú an_sinh
+7,trong quá_trình thực_hiện phú an_sinh báo_cáo bằng miệng sở bán 26 tỉ đồng dựa nguồn vốn vay
+8,tuy_nhiên thực_tế phú an_sinh sử_dụng 560 triệu đồng tham_gia bình_ổn giá
+9,số còn phú an_sinh sử_dụng mục_đích khác tính đến thời_điểm hoàn vốn phú an_sinh mới trả sở công_thương số tiền hơn 91 tỉ đồng
+10,còn đối_với chương_trình bình_ổn thị_trường phòng chống dịch_bệnh heo tai xanh năm 2010 phú an_sinh tạm_ứng 35 tỉ đồng sở nnptnt tỉnh bà_rịavũng_tàu
+11,mục_đích thu_mua heo người chăn_nuôi địa_bàn tỉnh giết_mổ cấp đông dự_trữ thịt heo bình_ổn giá trong tình_hình dịch_bệnh heo tai xanh
+12,tuy_nhiên phú an_sinh sử_dụng hơn 10 tỉ đúng mục_đích
+13,còn sử_dụng tiền mục_đích khác mua giống trả nợ trả lương … đến hạn phú an_sinh hoàn vốn cam_kết còn nợ sở số tiền 335 tỉ đồng
+14,phiên_tòa bị_cáo minh thừa_nhận sử_dụng vốn tạm_ứng đúng cam_kết báo_cáo sai sự_thật thừa_nhận hành_vi phạm_tội mình
+15,do_vậy hđxx xử_phạt một mức án nghiêm_khắc đối_với bị_cáo

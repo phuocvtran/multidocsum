@@ -1,6 +1,6 @@
 idx, sentence
-0,ít ngày trước  trang báo lớn của hoa_ngữ tung ảnh trần_quán_hy ôm hôn và có nhiều hành_động thân_thiết với một cô gái xinh_đẹp 
-1,theo tìm_hiểu  người_đẹp này chính là một chân dài từng sải bước trong victoria’s_secret show đình_đám tân thư bồi 
-2,sau đó  trần_quán_hy cũng lên_tiếng cho hay đang rất hạnh_phúc trong tình_cảm và gửi lời cảm_ơn tới sự quan_tâm của công_chúng 
-3,điều đáng chú_ý ở đây là việc tân thư bồi đã có chồng – một ceo cấp cao của công_ty giải_trí lớn hoa_nghị huynh_đệ 
-4,tuy_nhiên  không để dư_luận tò_mò  chân dài 26 tuổi này khẳng_định đã hoàn_tất thủ_tục ly_hôn với chồng cũ 
+0,ít ngày trang báo lớn hoa_ngữ tung ảnh trần_quán_hy ôm hôn hành_động thân_thiết một cô gái xinh_đẹp
+1,tìm_hiểu người_đẹp chính một chân dài sải bước trong victoria’s_secret show đình_đám tân thư bồi
+2,trần_quán_hy lên_tiếng hay hạnh_phúc trong tình_cảm gửi lời cảm_ơn tới quan_tâm công_chúng
+3,đáng chú_ý ở tân thư bồi chồng – một ceo cấp cao công_ty giải_trí lớn hoa_nghị huynh_đệ
+4,tuy_nhiên dư_luận tò_mò chân dài 26 tuổi khẳng_định hoàn_tất thủ_tục ly_hôn chồng cũ

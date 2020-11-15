@@ -1,10 +1,10 @@
 idx, sentence
-0,vào khoảng 5 giờ ngày 16  anh nguyễn_hữu_thông  37 tuổi  ở thị_trấn phố_châu  huyện hương_sơn  tỉnh hà_tĩnh  ra mở_cửa chuồng bò nhà mình thì hoảng_hồn khi phát_hiện một con trăn lớn nằm cuộn_tròn ở góc chuồng bò 
-1,theo quan_sát  con trăn này thuộc loài trăn hoa  dài hơn 4 m  nặng khoảng trên 40 kg  không gây hại cho người 
-2,trên cơ_thể con vật có một vết_thương  nằm khoanh một chỗ 
-3,con trăn tỏ ra yếu mệt dù người dân đến gần  thậm_chí cầm đuôi nhưng nó không có phản_ứng gì 
-4,một_số người dân cho biết trước tết_nguyên_đán 2016  con trăn này bị anh thông và một_số người dân khác bắt được trên đồi và mang đi bán 
-5,tuy_nhiên  sau đó người dân lại chuộc con trăn về và đem thả vào rừng 
-6,không ngờ  sáng sớm ngày 16 lại thấy nó bò vào chuồng bò nhà anh thông 
-7,nghe tin trăn xuất_hiện tại nhà anh thông  rất nhiều người dân hiếu kỳ đã tới xem  nhiều người còn quỳ_lạy khấn_vái liên_tục  gọi trăn là thần_linh 
-8,ông nguyễn_trọng_danh  trưởng công_an thị_trấn phố_châu  cho biết đến chiều ngày 16  con trăn vẫn đang nằm ở chuồng bò nhà anh thông trong khi người dân vẫn đang kéo đến xem rất đông 
+0,khoảng 5 giờ ngày 16 anh nguyễn_hữu_thông 37 tuổi ở thị_trấn phố_châu huyện hương_sơn tỉnh hà_tĩnh mở_cửa chuồng bò nhà mình hoảng_hồn phát_hiện một con trăn lớn nằm cuộn_tròn ở góc chuồng bò
+1,quan_sát con trăn thuộc loài trăn hoa dài hơn 4 m nặng khoảng 40 kg gây hại người
+2,cơ_thể con vật một vết_thương nằm khoanh một chỗ
+3,con trăn tỏ yếu mệt dù người dân đến gần thậm_chí cầm đuôi nó phản_ứng
+4,một_số người dân biết tết_nguyên_đán 2016 con trăn anh thông một_số người dân khác bắt đồi mang đi bán
+5,tuy_nhiên người dân chuộc con trăn về đem thả rừng
+6,ngờ sáng sớm ngày 16 thấy nó bò chuồng bò nhà anh thông
+7,nghe tin trăn xuất_hiện nhà anh thông người dân hiếu kỳ tới xem người còn quỳ_lạy khấn_vái liên_tục gọi trăn thần_linh
+8,ông nguyễn_trọng_danh trưởng công_an thị_trấn phố_châu biết đến chiều ngày 16 con trăn nằm ở chuồng bò nhà anh thông trong người dân kéo đến xem đông

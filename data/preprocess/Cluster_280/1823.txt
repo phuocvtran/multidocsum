@@ -1,11 +1,11 @@
 idx, sentence
-0,ubnd tphcm vừa giao ubnd quận 1 chủ_trì  phối_hợp với các sở  ngành liên_quan nghiên_cứu đề_nghị lập báo_cáo đầu_tư dự_án khu công_viên cảng bạch_đằng của một doanh_nghiệp 
-1,đề_xuất của doanh_nghiệp xuất_phát từ chủ_trương kêu_gọi tham_gia đầu_tư dự_án công_viên cảng bạch_đằng theo hình_thức xã_hội_hóa của thành_phố 
-2,theo đó  doanh_nghiệp đề_xuất sẽ tự bỏ kinh_phí để nghiên_cứu lập dự_án trên diện_tích hơn 17 ha  trong đó diện_tích mặt_nước là 10 ha  với các khu chức_năng gồm công_viên  trung_tâm thương_mại ngầm  bãi đậu xe ngầm  hệ_thống giao_thông kết_nối với các bến tàu du_lịch khu_vực sông sài_gòn  sau khi hoàn_chỉnh phần_hạ_tầng kỹ_thuật  doanh_nghiệp xin được đầu_tư kinh_doanh một phần trung_tâm thương_mại  bãi đậu xe ngầm và khai_thác một_số kiốt kinh_doanh ẩm_thực trong công_viên 
-3,trước đó  quy_hoạch khu trung_tâm rộng 930 ha của tphcm chú_trọng phát_triển nhiều không_gian ngầm 
-4,cụ_thể như bên dưới đường lê_lợi  giữa ga bến_thành và ga nhà_hát tp sẽ là đường_bộ ngầm và trung_tâm mua_sắm ngầm  không_gian ngầm bên dưới ga bến_thành làm quảng_trường ga và trung_tâm mua_sắm 
-5,không_gian bên dưới công_viên 23/9 sẽ được làm đường_bộ ngầm  bãi đậu xe  bến_xe_buýt và trung_tâm mua_sắm 
-6,không_gian bên dưới công_viên dọc bờ sông sài_gòn  dọc đường tôn_đức_thắng  và công_trường mê_linh sẽ làm bãi đậu xe và trung_tâm mua_sắm 
-7,khu công_viên bạch_đằng thuộc phân_khu 3  khu bờ tây sông sài_gòn  của quy_hoạch 
-8,ở phân_khu 3 sẽ tận_dụng ưu_thế của bờ sông  hình_thành dải công_viên văn_hóa  giải_trí và không_gian công_cộng dọc bờ sông từ cầu sài_gòn đến cầu tân_thuận 
-9,định_hướng không_gian kiến_trúc khu này là phát_triển cao_tầng với mật_độ xây_dựng thấp  theo nguyên_tắc chiều cao công_trình thấp dần từ trong ra phía bờ sông 
+0,ubnd tphcm giao ubnd quận 1 chủ_trì phối_hợp sở ngành liên_quan nghiên_cứu đề_nghị lập báo_cáo đầu_tư dự_án khu công_viên cảng bạch_đằng một doanh_nghiệp
+1,đề_xuất doanh_nghiệp xuất_phát chủ_trương kêu_gọi tham_gia đầu_tư dự_án công_viên cảng bạch_đằng hình_thức xã_hội_hóa thành_phố
+2,doanh_nghiệp đề_xuất tự bỏ kinh_phí nghiên_cứu lập dự_án diện_tích hơn 17 ha trong diện_tích mặt_nước 10 ha khu chức_năng gồm công_viên trung_tâm thương_mại ngầm bãi đậu xe ngầm hệ_thống giao_thông kết_nối bến tàu du_lịch khu_vực sông sài_gòn hoàn_chỉnh phần_hạ_tầng kỹ_thuật doanh_nghiệp xin đầu_tư kinh_doanh một phần trung_tâm thương_mại bãi đậu xe ngầm khai_thác một_số kiốt kinh_doanh ẩm_thực trong công_viên
+3,quy_hoạch khu trung_tâm rộng 930 ha tphcm chú_trọng phát_triển không_gian ngầm
+4,cụ_thể bên đường lê_lợi giữa ga bến_thành ga nhà_hát tp đường_bộ ngầm trung_tâm mua_sắm ngầm không_gian ngầm bên ga bến_thành làm quảng_trường ga trung_tâm mua_sắm
+5,không_gian bên công_viên 23/9 làm đường_bộ ngầm bãi đậu xe bến_xe_buýt trung_tâm mua_sắm
+6,không_gian bên công_viên dọc bờ sông sài_gòn dọc đường tôn_đức_thắng công_trường mê_linh làm bãi đậu xe trung_tâm mua_sắm
+7,khu công_viên bạch_đằng thuộc phân_khu 3 khu bờ tây sông sài_gòn quy_hoạch
+8,ở phân_khu 3 tận_dụng ưu_thế bờ sông hình_thành dải công_viên văn_hóa giải_trí không_gian công_cộng dọc bờ sông cầu sài_gòn đến cầu tân_thuận
+9,định_hướng không_gian kiến_trúc khu phát_triển cao_tầng mật_độ xây_dựng thấp nguyên_tắc chiều cao công_trình thấp dần trong phía bờ sông

@@ -1,17 +1,17 @@
 idx, sentence
-0,ngày 27/5  cảnh_sát brazil tổ_chức họp_báo về vụ hiếp_dâm tập_thể gây chấn_động dư_luận trong nước 
-1,nhà_chức_trách cho biết  vụ hiếp_dâm xảy ra hôm 21/5 vừa_qua 
-2,lúc xảy ra vụ_việc  cô gái là nạn_nhân duy_nhất trong vụ_việc đang đi thăm bạn trai sống tại khu ổ_chuột phía tây thủ_đô rio de janeiro 
-3,theo báo_cáo  cô gái bị khoảng 33 thanh_niên hiếp_dâm đến bất_tỉnh 
-4,cô lấy lại ý_thức vào ngày hôm sau 
-5,tuy_nhiên  cảnh_sát cho hay họ không_thể xác_nhận chính_xác có bao_nhiêu người tham_gia tội_ác 
-6,cảnh_sát đã xác_định rõ danh_tính và đang tìm_kiếm 4 trong số hơn 30 đàn_ông bị tình_nghi hiếp_dâm một cô gái 16 tuổi 
-7,bạn trai 19 tuổi của cô gái cũng nằm trong danh_sách bị truy_tìm  nhưng cảnh_sát chưa rõ liệu người này có thuộc nhóm tấn_công 
-8,được biết  những thanh_niên này có vũ_trang 
-9,tuyên_bố này được đưa ra khi tổng_thống brazil_michel_temer triệu_tập cuộc họp khẩn_cấp đến từng lãnh_đạo an_ninh các tiểu_bang của nước này 
-10,mục_đích cuộc họp nhắm vào đưa ra các biện_pháp xử_lý tội_phạm liên_quan đến giới  bạo_lực đối_với phụ_nữ  cụ_thể liên_quan đến vụ hiếp_dâm chấn_động quốc_gia lớn nhất châu_mỹ  latinh 
-11,“ thật vô_lý rằng trong thế_kỷ 21  chúng_ta phải sống với những tội_ác man_rợ như thế_này ”  ông temer bức_xúc 
-12,ông hứa sẽ tạo ra một đơn_vị lực_lượng cảnh_sát liên_bang có nhiệm_vụ giải_quyết các tội_ác chống lại phụ_nữ 
-13,vụ_việc được phơi_bày ra ánh_sáng sau khi một_số kẻ trong nhóm hiếp_dâm đưa thông_tin  hình_ảnh và video ghi lại tội_ác lên mạng xã_hội twitter 
-14,cảnh_sát yêu_cầu sự giúp_đỡ từ công_chúng để theo_dõi bốn kẻ tình_nghi và xác_định danh_tính những kẻ khác 
-15,nguồn tin địa_phương cho biết  hơn 800 người gọi đến đường_dây_nóng cung_cấp thông_tin 
+0,ngày 27/5 cảnh_sát brazil tổ_chức họp_báo về vụ hiếp_dâm tập_thể gây chấn_động dư_luận trong nước
+1,nhà_chức_trách biết vụ hiếp_dâm xảy hôm 21/5 vừa_qua
+2,xảy vụ_việc cô gái nạn_nhân duy_nhất trong vụ_việc đi thăm bạn trai sống khu ổ_chuột phía tây thủ_đô rio de janeiro
+3,báo_cáo cô gái khoảng 33 thanh_niên hiếp_dâm đến bất_tỉnh
+4,cô lấy ý_thức ngày hôm
+5,tuy_nhiên cảnh_sát hay họ không_thể xác_nhận chính_xác bao_nhiêu người tham_gia tội_ác
+6,cảnh_sát xác_định rõ danh_tính tìm_kiếm 4 trong số hơn 30 đàn_ông tình_nghi hiếp_dâm một cô gái 16 tuổi
+7,bạn trai 19 tuổi cô gái nằm trong danh_sách truy_tìm cảnh_sát rõ liệu người thuộc nhóm tấn_công
+8,biết thanh_niên vũ_trang
+9,tuyên_bố đưa tổng_thống brazil_michel_temer triệu_tập cuộc họp khẩn_cấp đến lãnh_đạo an_ninh tiểu_bang nước
+10,mục_đích cuộc họp nhắm đưa biện_pháp xử_lý tội_phạm liên_quan đến giới bạo_lực đối_với phụ_nữ cụ_thể liên_quan đến vụ hiếp_dâm chấn_động quốc_gia lớn nhất châu_mỹ latinh
+11,“ thật vô_lý trong thế_kỷ 21 chúng_ta sống tội_ác man_rợ thế_này ” ông temer bức_xúc
+12,ông hứa tạo một đơn_vị lực_lượng cảnh_sát liên_bang nhiệm_vụ giải_quyết tội_ác chống phụ_nữ
+13,vụ_việc phơi_bày ánh_sáng một_số kẻ trong nhóm hiếp_dâm đưa thông_tin hình_ảnh video ghi tội_ác mạng xã_hội twitter
+14,cảnh_sát yêu_cầu giúp_đỡ công_chúng theo_dõi bốn kẻ tình_nghi xác_định danh_tính kẻ khác
+15,nguồn tin địa_phương biết hơn 800 người gọi đến đường_dây_nóng cung_cấp thông_tin

@@ -1,9 +1,9 @@
 idx, sentence
-0,3 đối_tượng gồm  nguyễn_sỹ_đạt sinh năm 1970  lê_thái_duy_sinh năm 1988 và lê_việt_hoàn_sinh năm 1981 đều trú tại thành_phố phủ_lý  tỉnh hà_nam 
-1,được biết  đạt từng có 1 tiền_án về chiếm_đoạt tài_sản 
-2,trước khi gây_án các đối_tượng đã có thời_gian theo_dõi chi_tiết mọi hoạt_động của anh lê_hữu_trí là giám_đốc công_ty trách_nhiệm hữu_trí tại tp phủ_lý tỉnh hà_nam  sau khi thấy thời_cơ thuận_lợi  đối_tượng đạt đã chỉ_đạo cho đồng_bọn thực_hiện hành_vi gây_án 
-3,theo thông_tin ban_đầu từ cục cảnh_sát hình_sự  bộ công_an  nguyên_nhân vụ_án là do mâu_thuẫn cá_nhân 
-4,trước đó vào khoảng 15 giờ ngày 4/7  nạn_nhân lê_hữu_trí sau khi đi lễ ở miếu_thần tại thôn bảo_lộc  phường thanh_châu thì bị lê_việt_hoàn dùng súng bắn nhiều phát 
-5,gây_án xong  hoàn lên xe của duy chờ sẵn và tẩu_thoát khỏi hiện_trường 
-6,thiếu_tá đỗ_minh_phương  phó trưởng_phòng 5 cục cảnh_sát hình_sự  bộ công_an cho biết  qua hơn 1 tháng sàng_lọc  đồng_loạt thực_hiện các biện_pháp nghiệp_vụ thì tổ công_tác của cảnh_sát hình_sự thấy có một nhóm đối_tượng có hành_vi  biểu_hiện nghi_vấn trực_tiếp liên_quan đến vụ_án này 
-7,chúng mặc quần_áo chống nắng  bịt mặt  đeo khẩu_trang và đi xe_máy  tiếp_cận nạn_nhân từ phía sau  các nhân_chứng hiện_trường cũng không cung_cấp được nhiều thông_tin có giá_trị và bản_thân nạn_nhân có rất nhiều mâu_thuẫn nên cần nhiều lực_lượng trong một thời_gian ngắn tập_trung sàng_lọc 
+0,3 đối_tượng gồm nguyễn_sỹ_đạt sinh năm 1970 lê_thái_duy_sinh năm 1988 lê_việt_hoàn_sinh năm 1981 trú thành_phố phủ_lý tỉnh hà_nam
+1,biết đạt 1 tiền_án về chiếm_đoạt tài_sản
+2,gây_án đối_tượng thời_gian theo_dõi chi_tiết mọi hoạt_động anh lê_hữu_trí giám_đốc công_ty trách_nhiệm hữu_trí tp phủ_lý tỉnh hà_nam thấy thời_cơ thuận_lợi đối_tượng đạt chỉ_đạo đồng_bọn thực_hiện hành_vi gây_án
+3,thông_tin ban_đầu cục cảnh_sát hình_sự bộ công_an nguyên_nhân vụ_án mâu_thuẫn cá_nhân
+4,khoảng 15 giờ ngày 4/7 nạn_nhân lê_hữu_trí đi lễ ở miếu_thần thôn bảo_lộc phường thanh_châu lê_việt_hoàn dùng súng bắn phát
+5,gây_án xong hoàn xe duy chờ sẵn tẩu_thoát khỏi hiện_trường
+6,thiếu_tá đỗ_minh_phương phó trưởng_phòng 5 cục cảnh_sát hình_sự bộ công_an biết hơn 1 tháng sàng_lọc đồng_loạt thực_hiện biện_pháp nghiệp_vụ tổ công_tác cảnh_sát hình_sự thấy một nhóm đối_tượng hành_vi biểu_hiện nghi_vấn trực_tiếp liên_quan đến vụ_án
+7,chúng mặc quần_áo chống nắng bịt mặt đeo khẩu_trang đi xe_máy tiếp_cận nạn_nhân phía nhân_chứng hiện_trường cung_cấp thông_tin giá_trị bản_thân nạn_nhân mâu_thuẫn lực_lượng trong một thời_gian ngắn tập_trung sàng_lọc

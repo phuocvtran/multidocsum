@@ -1,16 +1,16 @@
 idx, sentence
-0,trao_đổi với báo_chí chiều 2/6  ông phạm_lạp  phó_tổng_giám_đốc công_ty cp sông_đà 11 cho biết  đơn_vị này sẽ đập bỏ hoàn_toàn móng trụ 01  02 dự_án đường_dây 220 kv trực_ninh  nam_định  vì không đạt chất_lượng kiểm_định 
-1,ước thiệt_hại của việc phá đi làm lại 2 móng bê_tông này là trên một tỷ đồng  và những người làm sai phải chi_trả 
-2,sau khi thỏa_thuận với chủ đầu_tư  sông_đà 11 sẽ thi_công lại các móng trụ này với sự giám_sát chặt_chẽ về chất_lượng 
-3,ngoài_ra  chất_lượng hơn 50 móng trụ khác của toàn_bộ dự_án cũng được kiểm_định lại 
-4,song theo đánh_giá của lãnh_đạo công_ty cp sông_đà 11  các cột này do các đội thi_công khác thực_hiện nên ít có khả_năng sai_phạm như cột móng vị_trí 01  02 
-5,lãnh_đạo công_ty cp sông_đà 11 cũng thừa_nhận  do khâu lấy mẫu bê_tông tại hai hố móng để kiểm_định cần tiến_hành nhanh_chóng nên đơn_vị tư_vấn chỉ lấy mẫu phía trên 
-6,tuy_nhiên  kết_quả cho thấy bê_tông các cột móng này nhìn_chung không đạt chất_lượng cần phải làm lại 
-7, nếu không phát_hiện sớm  các cột bê_tông chất_lượng kém sẽ ảnh_hưởng đến công_trình  không may gặp gió_bão thì cột_điện 220 kv sẽ bị đổ 
-8,chúng_tôi rất cảm_ơn hai người dân đã phản_ảnh về các sai_phạm của đơn_vị thi_công để lãnh_đạo công_ty kịp_thời xử_lý   ông phạm_lạp nói 
-9,lãnh_đạo sông_đà 11 cũng cho biết  công_ty đã cử người đến gia_đình hai người tố_giác để báo_cáo kết_quả xử_lý và cảm_ơn họ vì đã phản_ánh sự_việc 
-10,ngoài việc kỷ_luật 4 cán_bộ phụ_trách công_trường và cảnh_cáo 2 lãnh_đạo công_ty chi_nhánh  lãnh_đạo sông_đà 11 cũng cho hay công_an nam_định đã vào cuộc điều_tra  có xử_lý hình_sự hay không sẽ do phía công_an quyết_định 
-11,để tăng_cường giám_sát tại công_trình đường_dây 220 kv trực_ninh  đại_diện công_ty cp sông_đà 11 hứa sẽ tăng_cường cán_bộ giám_sát tại công_trường  lãnh_đạo cũng trực_tiếp kiểm_tra dự_án ngoài việc xem báo_cáo bằng hình_ảnh  văn_bản 
-12,cuối tháng 4  ông vũ_văn_thuận và vũ_ngọc_hồi ở xã đại_an  vụ_bản  nam_định  phát_hiện việc_làm gian_dối của đơn_vị thi_công móng vị_trí 01 và 02 công_trình xây_dựng đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định dài hơn 29 km 
-13,hai ông thuận và hồi vốn được thuê làm công_nhân trộn bê_tông đổ vào móng 
-14,tuy_nhiên theo ông hồi  cán_bộ phụ_trách thi_công đề_nghị ông nổ máy cho “ vui_tai ” bởi bê_tông đổ xuống khoang móng cao tới 80 cm được nhào trộn ào_ào bằng tay toàn là đất  cát  đá và một_chút xi_măng 
+0,trao_đổi báo_chí chiều 2/6 ông phạm_lạp phó_tổng_giám_đốc công_ty cp sông_đà 11 biết đơn_vị đập bỏ hoàn_toàn móng trụ 01 02 dự_án đường_dây 220 kv trực_ninh nam_định đạt chất_lượng kiểm_định
+1,ước thiệt_hại phá đi làm 2 móng bê_tông một tỷ đồng người làm sai chi_trả
+2,thỏa_thuận chủ đầu_tư sông_đà 11 thi_công móng trụ giám_sát chặt_chẽ về chất_lượng
+3,ngoài_ra chất_lượng hơn 50 móng trụ khác toàn_bộ dự_án kiểm_định
+4,song đánh_giá lãnh_đạo công_ty cp sông_đà 11 cột đội thi_công khác thực_hiện ít khả_năng sai_phạm cột móng vị_trí 01 02
+5,lãnh_đạo công_ty cp sông_đà 11 thừa_nhận khâu lấy mẫu bê_tông hai hố móng kiểm_định tiến_hành nhanh_chóng đơn_vị tư_vấn lấy mẫu phía
+6,tuy_nhiên kết_quả thấy bê_tông cột móng nhìn_chung đạt chất_lượng làm
+7,phát_hiện sớm cột bê_tông chất_lượng kém ảnh_hưởng đến công_trình may gặp gió_bão cột_điện 220 kv đổ
+8,chúng_tôi cảm_ơn hai người dân phản_ảnh về sai_phạm đơn_vị thi_công lãnh_đạo công_ty kịp_thời xử_lý ông phạm_lạp nói
+9,lãnh_đạo sông_đà 11 biết công_ty cử người đến gia_đình hai người tố_giác báo_cáo kết_quả xử_lý cảm_ơn họ phản_ánh sự_việc
+10,ngoài kỷ_luật 4 cán_bộ phụ_trách công_trường cảnh_cáo 2 lãnh_đạo công_ty chi_nhánh lãnh_đạo sông_đà 11 hay công_an nam_định cuộc điều_tra xử_lý hình_sự hay phía công_an quyết_định
+11,tăng_cường giám_sát công_trình đường_dây 220 kv trực_ninh đại_diện công_ty cp sông_đà 11 hứa tăng_cường cán_bộ giám_sát công_trường lãnh_đạo trực_tiếp kiểm_tra dự_án ngoài xem báo_cáo bằng hình_ảnh văn_bản
+12,cuối tháng 4 ông vũ_văn_thuận vũ_ngọc_hồi ở xã đại_an vụ_bản nam_định phát_hiện việc_làm gian_dối đơn_vị thi_công móng vị_trí 01 02 công_trình xây_dựng đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình nam_định dài hơn 29 km
+13,hai ông thuận hồi vốn thuê làm công_nhân trộn bê_tông đổ móng
+14,tuy_nhiên ông hồi cán_bộ phụ_trách thi_công đề_nghị ông nổ máy “ vui_tai ” bê_tông đổ xuống khoang móng cao tới 80 cm nhào trộn ào_ào bằng tay toàn đất cát đá một_chút xi_măng

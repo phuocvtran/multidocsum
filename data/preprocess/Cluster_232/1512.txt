@@ -1,10 +1,10 @@
 idx, sentence
-0,tờ as  tây ban_nha vừa đăng_tải tin gây sốc về bản hợp_đồng “ bom tấn ” đầu_tiên của real_madrid ở mùa giải mới 
-1,theo đó  nhà đương_kim vô_địch champions_league cơ_bản đã có được lewandowski  sau khi cầu_thủ người ba_lan đồng_ý với những điều_khoản cá_nhân 
-2,cụ_thể lewandowski sẽ nhận được mức lương hơn 300000 bảng / tuần và tổng lương cho cả mùa lên tới gần 15 triệu bảng 
-3,cũng theo tờ as  robert_lewandowski và người đại_diện của mình đã bí_mật hẹn gặp lãnh_đạo real_madrid ngay sau trận đấu giữa atl _madrid và bayern_munich tại bán_kết champions_league 
-4,sau khi biết việc “ đi_đêm ” của lewandowski  đại_diện bayern_munich tuyên_bố sẽ không bán cầu_thủ người ba_lan với bất_cứ giá nào 
-5,“ hùm xám ” cũng khẳng_định  cầu_thủ số 9 này là nhân_tố không_thể thiếu trong sơ_đồ chiến_thuật của tân hlv ancelotti 
-6,đội bóng xứ bavaria dự_kiến cũng dựng lên rào_cản về tài_chính để ngăn_lewandowski ra đi 
-7,với việc còn hợp_đồng thi_đấu cho bayern_munich tới năm 2019  lewandowski được định_giá tới hơn 80 triệu bảng 
-8,đó là số tiền lớn có_thể khiến một “ đại_gia ” như real_madrid cũng phải cân_nhắc kỹ_lưỡng 
+0,tờ as tây ban_nha đăng_tải tin gây sốc về bản hợp_đồng “ bom tấn ” đầu_tiên real_madrid ở mùa giải mới
+1,nhà đương_kim vô_địch champions_league cơ_bản lewandowski cầu_thủ người ba_lan đồng_ý điều_khoản cá_nhân
+2,cụ_thể lewandowski nhận mức lương hơn 300000 bảng / tuần tổng lương mùa tới gần 15 triệu bảng
+3,tờ as robert_lewandowski người đại_diện mình bí_mật hẹn gặp lãnh_đạo real_madrid trận đấu giữa atl _madrid bayern_munich bán_kết champions_league
+4,biết “ đi_đêm ” lewandowski đại_diện bayern_munich tuyên_bố bán cầu_thủ người ba_lan bất_cứ giá nào
+5,“ hùm xám ” khẳng_định cầu_thủ số 9 nhân_tố không_thể thiếu trong sơ_đồ chiến_thuật tân hlv ancelotti
+6,đội bóng xứ bavaria dự_kiến dựng rào_cản về tài_chính ngăn_lewandowski đi
+7,còn hợp_đồng thi_đấu bayern_munich tới năm 2019 lewandowski định_giá tới hơn 80 triệu bảng
+8,số tiền lớn khiến một “ đại_gia ” real_madrid cân_nhắc kỹ_lưỡng

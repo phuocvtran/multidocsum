@@ -1,9 +1,9 @@
 idx, sentence
-0,vũ_ngọc_thịnh là trung_vệ trẻ  sinh năm 1992  có chiều cao lý_tưởng  181 m   lối chơi mạnh_mẽ  quyết_liệt và khả_năng đọc tình_huống khá tốt 
-1,điều đó đã giúp cho hải_phòng là đội bóng có hàng phòng_ngự tốt nhất vleague 2016 sau 10 vòng đấu khi mới chỉ để thua 5 bàn 
-2,vũ_ngọc_thịnh từng được hlv miura triệu_tập lên u23 việt_nam tham_dự sea_games 28 
-3,theo thông_tin mới nhất  mặc_dù triệu_tập vũ_ngọc_thịnh song hlv nguyễn_hữu_thắng đã không loại cầu_thủ nào trong danh_sách đã công_bố trước đó 
-4,đáng chú_ý_đình_luật đã nhận án kỷ_luật từ vff vì hành_vi  trả_đũa  tiền_đạo felix của qnkquảng_nam nhưng cầu_thủ của bbình_dương vẫn được hlv hữu_thắng giữ lại 
-5,cũng liên_quan đến vụ_việc này  đình_luật cho biết rằng anh không có hành_vi bạo_lực với felix và án treo giò 3 trận là quá nặng 
-6,đình_luật_mong ban giải_quyết khiếu_nại xem_xét lại quyết_định kỷ_luật của cầu_thủ này 
-7,ngoài_ra  sáng nay 21/5  bbình_dương đã gửi đơn khiếu_nại lên vff 
+0,vũ_ngọc_thịnh trung_vệ trẻ sinh năm 1992 chiều cao lý_tưởng 181 m lối chơi mạnh_mẽ quyết_liệt khả_năng đọc tình_huống khá tốt
+1,giúp hải_phòng đội bóng hàng phòng_ngự tốt nhất vleague 2016 10 vòng đấu mới thua 5 bàn
+2,vũ_ngọc_thịnh hlv miura triệu_tập u23 việt_nam tham_dự sea_games 28
+3,thông_tin mới nhất mặc_dù triệu_tập vũ_ngọc_thịnh song hlv nguyễn_hữu_thắng loại cầu_thủ nào trong danh_sách công_bố
+4,đáng chú_ý_đình_luật nhận án kỷ_luật vff hành_vi trả_đũa tiền_đạo felix qnkquảng_nam cầu_thủ bbình_dương hlv hữu_thắng giữ
+5,liên_quan đến vụ_việc đình_luật biết anh hành_vi bạo_lực felix án treo giò 3 trận quá nặng
+6,đình_luật_mong ban giải_quyết khiếu_nại xem_xét quyết_định kỷ_luật cầu_thủ
+7,ngoài_ra sáng nay 21/5 bbình_dương gửi đơn khiếu_nại vff

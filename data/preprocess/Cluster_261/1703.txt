@@ -1,14 +1,14 @@
 idx, sentence
-0,ilkay gundogan được xem là hạt_nhân trong kế_hoạch xây_dựng lối chơi tikitaka của pep_guardiola trong mùa giải tới 
-1,tại sân etihad  anh sẽ kí hợp_đồng có thời_hạn 4 năm 
-2,mức phí chuyển_nhượng được cho là vào_khoảng 21 triệu bảng anh  một mức giá khá hợp_lí_do tiền_vệ_sinh năm 1990 này chỉ còn lại một năm hợp_đồng với borussia_dortmund 
-3,phát_biểu trong buổi lễ ra_mắt đội bóng mới  gundogan hào_hứng cho biết  “ tôi rất hạnh_phúc khi được kí hợp_đồng với man_city 
-4,khi biết city quan_tâm tới mình  tôi đã rất hồi_hộp  và rồi mọi thứ đến thật nhanh 
-5,tôi yêu những trải_nghiệm đã có cùng borussia_dortmund 
-6,tôi muốn gửi lời cảm_ơn tới clb và nhm vì những gì họ đã dành cho tôi trong những năm qua ” 
-7,không ngạc_nhiên khi động_cơ chính để gundogan gia_nhập sân etihad chính là hlv pep_guardiola  “ được làm_việc với hlv pep_guardiola là điều mà tôi mong_chờ nhất 
-8,tôi thực_sự hãnh_diện khi trở_thành chữ_kí đầu_tiên của clb trong mùa hè ” 
-9,ilkay gundogan có gốc_gác thổ nhĩ kỳ 
-10,anh sinh ra tại gelsenkirchen  gia_nhập đội trẻ của schalke  đồng_thời trải qua nhiều clb khác nhau trước khi đến với borussia_dortmund năm 2011 
-11,trong 5 mùa giải vừa_qua  gundogan đã ra sân 157 trận cho dortmund 
-12,trong màu áo đtqg_đức  tiền_vệ cao 1 m80 này đã ra sân 16 lần và ghi được 4 bàn thắng 
+0,ilkay gundogan xem hạt_nhân trong kế_hoạch xây_dựng lối chơi tikitaka pep_guardiola trong mùa giải tới
+1,sân etihad anh kí hợp_đồng thời_hạn 4 năm
+2,mức phí chuyển_nhượng vào_khoảng 21 triệu bảng anh một mức giá khá hợp_lí_do tiền_vệ_sinh năm 1990 còn một năm hợp_đồng borussia_dortmund
+3,phát_biểu trong buổi lễ ra_mắt đội bóng mới gundogan hào_hứng biết “ tôi hạnh_phúc kí hợp_đồng man_city
+4,biết city quan_tâm tới mình tôi hồi_hộp mọi thứ đến thật nhanh
+5,tôi yêu trải_nghiệm borussia_dortmund
+6,tôi muốn gửi lời cảm_ơn tới clb nhm họ dành tôi trong năm ”
+7,ngạc_nhiên động_cơ chính gundogan gia_nhập sân etihad chính hlv pep_guardiola “ làm_việc hlv pep_guardiola tôi mong_chờ nhất
+8,tôi thực_sự hãnh_diện trở_thành chữ_kí đầu_tiên clb trong mùa hè ”
+9,ilkay gundogan gốc_gác thổ nhĩ kỳ
+10,anh sinh gelsenkirchen gia_nhập đội trẻ schalke đồng_thời trải clb khác nhau đến borussia_dortmund năm 2011
+11,trong 5 mùa giải vừa_qua gundogan sân 157 trận dortmund
+12,trong màu áo đtqg_đức tiền_vệ cao 1 m80 sân 16 lần ghi 4 bàn thắng

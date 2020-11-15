@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 23/5  cơ_quan csđt công_an huyện đắk_hà  tỉnh kon_tum cho biết  đơn_vị vừa điều_tra  làm rõ và bắt một đối_tượng gây ra vụ án hiếp_dâm 
-1,theo đó  vào ngày 20/5  công_an huyện đắk_hà_nhận được đơn trình_báo của chị lê_thị_thủy  sn 1998  trú xã đắk_la  huyện đắk_hà  về việc bị một đối_tượng hiếp_dâm 
-2,trong đơn chị thủy cho biết  khoảng 16 h ngày 17/5  chị bị một thanh_niên khống_chế  thực_hiện hành_vi giao_cấu trái_ý_muốn tại một khu_vực vắng người thuộc xã đắk_hà 
-3,vào_cuộc điều_tra  đội cảnh_sát hình sựcông an huyện đắk_hà đã phát_hiện trần_hữu_anh  sn 1986  trú thôn 1  xã đắk_la  huyện đắk_hà  có những đặc_điểm giống với trình_báo của nạn_nhân 
-4,ngay sau đó  công_an đã động_viên bị hại phối_hợp điều_tra 
-5,tại cơ_quan công_an  trần_hữu_anh đã thừa_nhận thực_hiện hành_vi hiếp_dâm với chị thủy và ngày 17/5 
+0,ngày 23/5 cơ_quan csđt công_an huyện đắk_hà tỉnh kon_tum biết đơn_vị điều_tra làm rõ bắt một đối_tượng gây vụ án hiếp_dâm
+1,ngày 20/5 công_an huyện đắk_hà_nhận đơn trình_báo chị lê_thị_thủy sn 1998 trú xã đắk_la huyện đắk_hà về một đối_tượng hiếp_dâm
+2,trong đơn chị thủy biết khoảng 16 h ngày 17/5 chị một thanh_niên khống_chế thực_hiện hành_vi giao_cấu trái_ý_muốn một khu_vực vắng người thuộc xã đắk_hà
+3,vào_cuộc điều_tra đội cảnh_sát hình sựcông an huyện đắk_hà phát_hiện trần_hữu_anh sn 1986 trú thôn 1 xã đắk_la huyện đắk_hà đặc_điểm giống trình_báo nạn_nhân
+4,công_an động_viên hại phối_hợp điều_tra
+5,cơ_quan công_an trần_hữu_anh thừa_nhận thực_hiện hành_vi hiếp_dâm chị thủy ngày 17/5

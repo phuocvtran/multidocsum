@@ -1,8 +1,8 @@
 idx, sentence
-0,vào khoảng 9 giờ 30 phút sáng hôm thứ_hai  23/5   bộ_quốc_phòng hàn_quốc đã gửi điện_báo trả_lời đề_xuất tổ_chức hội_đàm quân_sự liên_triều của lực_lượng vũ_trang nhân_dân bắc_triều_tiên thông_qua đường_dây liên_lạc quân_sự liên_triều trên biển tây 
-1,theo bức_điện  seoul lấy làm tiếc về việc bình nhưỡng đề_xuất tổ_chức hội_đàm quân_sự liên_triều mà không hề đề_cập tới vấn_đề hạt_nhân của nước này  yêu_cầu miền bắc phải đưa ra lập_trường về phi hạt_nhân hóa 
-2,người phát_ngôn bộ_quốc_phòng moon_sanggyun cho biết bộ đã truyền_tải một_cách rõ_ràng lập_trường yêu_cầu miền bắc phải chứng_tỏ được quyết_tâm giải_trừ hạt_nhân bằng_hành_động cụ_thể nếu thực_sự mong_muốn hòa_bình  ổn_định trên bán_đảo hàn_quốc 
-3,chính_phủ hàn_quốc đã nhiều lần nhấn_mạnh điều_kiện ưu_tiên hàng_đầu trong đối_thoại với miền bắc chính là các biện_pháp giải_trừ hạt_nhân của nước này và seoul sẽ tiếp_tục giữ vững lập_trường này 
-4,bộ thống_nhất hàn_quốc cho rằng việc bắc_triều_tiên liên_tiếp đề_xuất đối_thoại trong những ngày qua là nhằm gây mâu_thuẫn trong nội_bộ chính_phủ miền nam về các chính_sách liên_quan tới miền bắc  tạo ra lỗ_hổng trong cấm_vận quốc_tế đối_với nước này 
-5,người phát_ngôn bộ thống_nhất jung_joonhee hôm 23/5 cho biết hội_đàm quân_sự liên_triều có_thể là một nước đi tiếp_theo sau báo_cáo tổng_kết công_tác đảng của chủ_tịch đảng lao_động kim_jongun trong đại_hội đảng lao_động lần thứ_bảy vừa_qua 
-6,bộ thống_nhất nhấn_mạnh rằng miền bắc cần phải nghiên_cứu và cân_nhắc việc chứng_minh quyết_tâm giải_trừ hạt_nhân bằng_hành_động cụ_thể 
+0,khoảng 9 giờ 30 phút sáng hôm thứ_hai 23/5 bộ_quốc_phòng hàn_quốc gửi điện_báo trả_lời đề_xuất tổ_chức hội_đàm quân_sự liên_triều lực_lượng vũ_trang nhân_dân bắc_triều_tiên thông_qua đường_dây liên_lạc quân_sự liên_triều biển tây
+1,bức_điện seoul lấy làm tiếc về bình nhưỡng đề_xuất tổ_chức hội_đàm quân_sự liên_triều hề đề_cập tới vấn_đề hạt_nhân nước yêu_cầu miền bắc đưa lập_trường về phi hạt_nhân hóa
+2,người phát_ngôn bộ_quốc_phòng moon_sanggyun biết bộ truyền_tải rõ_ràng lập_trường yêu_cầu miền bắc chứng_tỏ quyết_tâm giải_trừ hạt_nhân bằng_hành_động cụ_thể thực_sự mong_muốn hòa_bình ổn_định bán_đảo hàn_quốc
+3,chính_phủ hàn_quốc lần nhấn_mạnh điều_kiện ưu_tiên hàng_đầu trong đối_thoại miền bắc chính biện_pháp giải_trừ hạt_nhân nước seoul tiếp_tục giữ vững lập_trường
+4,bộ thống_nhất hàn_quốc bắc_triều_tiên liên_tiếp đề_xuất đối_thoại trong ngày nhằm gây mâu_thuẫn trong nội_bộ chính_phủ miền nam về chính_sách liên_quan tới miền bắc tạo lỗ_hổng trong cấm_vận quốc_tế đối_với nước
+5,người phát_ngôn bộ thống_nhất jung_joonhee hôm 23/5 biết hội_đàm quân_sự liên_triều một nước đi tiếp_theo báo_cáo tổng_kết công_tác đảng chủ_tịch đảng lao_động kim_jongun trong đại_hội đảng lao_động lần thứ_bảy vừa_qua
+6,bộ thống_nhất nhấn_mạnh miền bắc nghiên_cứu cân_nhắc chứng_minh quyết_tâm giải_trừ hạt_nhân bằng_hành_động cụ_thể

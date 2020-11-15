@@ -1,24 +1,24 @@
 idx, sentence
-0,ông temer tuyên_bố sẽ thành_lập một đơn_vị cảnh_sát liên_bang để đối_phó với nạn bạo_lực đối_với phụ_nữ 
-1,nạn_nhân  16 tuổi  tin rằng đã bị cho uống thuốc ngủ sau khi tới nhà bạn trai vào thứ_bảy tuần trước  ngày 21/5  
-2,cô cũng cho biết đã thức dậy trong một ngôi nhà khác và bị vây quanh bởi hàng chục người đàn_ông 
-3,đoạn video về vụ tấn_công đã được đăng_tải trên mạng xã_hội và gây chấn_động brazil  bbc đưa tin 
-4,cảnh_sát hiện đã phát lệnh truy_nã và đang tiến_hành truy_lùng hơn 30 nghi phạm là nam_giới  trong đó có cả bạn trai nạn_nhân 
-5,“ tôi mạnh_mẽ lên_án nạn hiếp_dâm vị_thành_niên tại rio_de_janeiro ”  ông temer lên_tiếng 
-6,“ thật vô_lý khi trong thế_kỷ 21 mà chúng_ta vẫn phải sống với những tội_ác dã_man thế này ” 
-7,ông cũng nói rằng các nhà_chức_trách đang làm_việc “ để tìm ra những kẻ chịu trách_nhiệm ” cho vụ tấn_công 
-8,vụ tấn_công đã dấy lên một chiến_dịch trực_tuyến chống lại cái mà các nhà vận_động gọi là “ văn_hóa hiếp_dâm ” tại brazil 
-9,hiện đang có nhiều phiên_bản trái chiều về câu_chuyện đang diễn ra nhưng vụ hiếp_dâm tập_thể được cho là xảy ra tại một cộng_đồng nghèo ở phía tây rio vào cuối tuần trước 
-10,nạn_nhân khai nhận với cảnh_sát rằng cô đã tỉnh dậy vào sáng chủ_nhật  22/5  trong tình_trạng khỏa_thân  thương_tích đầy mình và tự tìm đường về nhà 
-11,chỉ vài ngày sau đó  cô mới phát_hiện ra rằng một_số kẻ hãm_hiếp mình đã đăng_tải những hình_ảnh về vụ tấn_công lên twitter 
-12,đoạn clip dài 40 giây đã lan_truyền với tốc_độ chóng_mặt trước khi tài_khoản của người sử_dụng bị tạm khóa 
-13,trong một thông_điệp đăng trên facebook  nạn_nhân nói rằng cô rất cảm_ơn sự ủng_hộ của mọi người đồng_thời nói thêm rằng  “ tôi đã nghĩ rằng mình sẽ bị phán_xét một_cách thậm_tệ ” 
-14,“ tất_cả chúng_ta có_thể vượt qua điều này  bị cưỡng_bức  trong một ngày 
-15,nó không làm_đau tử_cung mà là tâm_hồn vì có những kẻ độc_ác không bị trừng_phạt 
-16,cảm_ơn vì đã ủng_hộ ” 
-17,bà của nạn_nhân cũng nói với truyền_thông brazil rằng cả gia_đình đã xem đoạn video và bật khóc 
-18,“ tôi hối_hận vì đã xem nó 
-19,khi chúng_tôi nghe chuyện  chúng_tôi không tin nó đã xảy ra 
-20,đó là một tai_họa lớn ”  bà nói với báo folha de s_paulo 
-21,“ nó không ổn  nó rất bối_rối 
-22,chuyện này thực_sự nghiêm_trọng ”  bà nói về cháu gái mình 
+0,ông temer tuyên_bố thành_lập một đơn_vị cảnh_sát liên_bang đối_phó nạn bạo_lực đối_với phụ_nữ
+1,nạn_nhân 16 tuổi tin uống thuốc ngủ tới nhà bạn trai thứ_bảy tuần ngày 21/5
+2,cô biết thức dậy trong một ngôi nhà khác vây quanh hàng chục người đàn_ông
+3,đoạn video về vụ tấn_công đăng_tải mạng xã_hội gây chấn_động brazil bbc đưa tin
+4,cảnh_sát hiện phát lệnh truy_nã tiến_hành truy_lùng hơn 30 nghi phạm nam_giới trong bạn trai nạn_nhân
+5,“ tôi mạnh_mẽ lên_án nạn hiếp_dâm vị_thành_niên rio_de_janeiro ” ông temer lên_tiếng
+6,“ thật vô_lý trong thế_kỷ 21 chúng_ta sống tội_ác dã_man thế ”
+7,ông nói nhà_chức_trách làm_việc “ tìm kẻ chịu trách_nhiệm ” vụ tấn_công
+8,vụ tấn_công dấy một chiến_dịch trực_tuyến chống nhà vận_động gọi “ văn_hóa hiếp_dâm ” brazil
+9,hiện phiên_bản trái chiều về câu_chuyện diễn vụ hiếp_dâm tập_thể xảy một cộng_đồng nghèo ở phía tây rio cuối tuần
+10,nạn_nhân khai nhận cảnh_sát cô tỉnh dậy sáng chủ_nhật 22/5 trong tình_trạng khỏa_thân thương_tích đầy mình tự tìm đường về nhà
+11,vài ngày cô mới phát_hiện một_số kẻ hãm_hiếp mình đăng_tải hình_ảnh về vụ tấn_công twitter
+12,đoạn clip dài 40 giây lan_truyền tốc_độ chóng_mặt tài_khoản người sử_dụng tạm khóa
+13,trong một thông_điệp đăng facebook nạn_nhân nói cô cảm_ơn ủng_hộ mọi người đồng_thời nói thêm “ tôi nghĩ mình phán_xét thậm_tệ ”
+14,“ tất_cả chúng_ta vượt cưỡng_bức trong một ngày
+15,nó làm_đau tử_cung tâm_hồn kẻ độc_ác trừng_phạt
+16,cảm_ơn ủng_hộ ”
+17,bà nạn_nhân nói truyền_thông brazil gia_đình xem đoạn video bật khóc
+18,“ tôi hối_hận xem nó
+19,chúng_tôi nghe chúng_tôi tin nó xảy
+20,một tai_họa lớn ” bà nói báo folha de s_paulo
+21,“ nó ổn nó bối_rối
+22,thực_sự nghiêm_trọng ” bà nói về cháu gái mình

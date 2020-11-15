@@ -1,17 +1,17 @@
 idx, sentence
-0,theo những tin_tức mới nhất báo dân_trí trích từ nguồn pravda  vụ tai_nạn hy_hữu xảy ra vào hôm_qua ngày 2/6  kkhi đường_băng ở sân_bay quốc_tế domodedovo ở moscow  nga  bất_ngờ sụt_lún thành hố lớn dưới sức_nặng của một máy_bay chở 147 hành_khách 
-1,sự_cố xảy ra chiều qua theo giờ địa_phương khi chiếc airbus 319 của hãng hàng_không s7_airlines đáp xuống sân_bay domodedov  hoàn_tất chuyến bay từ thành_phố st 
-2,petersburg đến thủ_đô moscow và chờ hướng_dẫn vào bãi đỗ 
-3,khoảng 13 h50 cùng ngày  nhân_viên bộ_phận kiểm_soát không_lưu tại sân_bay thông_báo với phi_công của máy_bay này phải chờ một máy_bay khác cũng từ st 
-4,petersburg đáp xuống 
-5,“ trong khoảng 2 phút chờ_đợi  bề_mặt của đường_băng phía dưới bánh máy_bay bắt_đầu sụt_lún và khiến máy_bay tụt xuống 
-6,phi_công không_thể làm được gì bởi gầm máy_bay đã kẹt_cứng ở miệng hố ”  pravda dẫn nguồn thạo_tin cho biết 
-7,hậu_quả của vụ tai_nạn hy_hữu này là máy_bay phải giữ nguyên vị_trí này trong khoảng nửa giờ đồng_hồ và nhân_viên sân_bay quyết_định sơ_tán toàn_bộ_hành_khách 
-8,sau đó máy_bay mới được kéo về bãi đỗ 
-9,theo giới chuyên_gia  lớp nhựa_đường của đường_băng đã bị hỏng do máy_bay đỗ quá lâu với động_cơ bị tắt 
-10,hiện đường_băng này đã được sửa_chữa 
-11,được biết  thời_gian gần đây liên_tiếp xảy ra các vụ_việc máy_bay gặp sự_cố ngay trên đường_băng khiến hành_khách hoảng_loạn 
-12,trước đó vào cuối tháng 5/2016  một vụ tai_nạn hy_hữu cũng xảy ra ngay trên đường_băng  khi cánh trái máy_bay bắt_lửa trước khi cất_cánh ở sân_bay haneda  thủ_đô tokyo của nhật_bản 
-13,toàn_bộ_hành_khách đã được sơ_tán bằng thang trượt khẩn_cấp  không ai bị_thương khi cánh máy_bay bốc cháy sáng 27/5  báo vnexpress đưa tin theo yonhap 
-14,được biết đám cháy bùng lên từ động_cơ và bốc khói mù_mịt khiến nhiều hành_khách sợ_hãi 
-15,trên máy_bay có 302 hành_khách và 17 thành_viên phi_hành_đoàn 
+0,tin_tức mới nhất báo dân_trí trích nguồn pravda vụ tai_nạn hy_hữu xảy hôm_qua ngày 2/6 kkhi đường_băng ở sân_bay quốc_tế domodedovo ở moscow nga bất_ngờ sụt_lún thành hố lớn sức_nặng một máy_bay chở 147 hành_khách
+1,sự_cố xảy chiều giờ địa_phương airbus 319 hãng hàng_không s7_airlines đáp xuống sân_bay domodedov hoàn_tất chuyến bay thành_phố st
+2,petersburg đến thủ_đô moscow chờ hướng_dẫn bãi đỗ
+3,khoảng 13 h50 ngày nhân_viên bộ_phận kiểm_soát không_lưu sân_bay thông_báo phi_công máy_bay chờ một máy_bay khác st
+4,petersburg đáp xuống
+5,“ trong khoảng 2 phút chờ_đợi bề_mặt đường_băng phía bánh máy_bay bắt_đầu sụt_lún khiến máy_bay tụt xuống
+6,phi_công không_thể làm gầm máy_bay kẹt_cứng ở miệng hố ” pravda dẫn nguồn thạo_tin biết
+7,hậu_quả vụ tai_nạn hy_hữu máy_bay giữ nguyên vị_trí trong khoảng nửa giờ đồng_hồ nhân_viên sân_bay quyết_định sơ_tán toàn_bộ_hành_khách
+8,máy_bay mới kéo về bãi đỗ
+9,giới chuyên_gia lớp nhựa_đường đường_băng hỏng máy_bay đỗ quá lâu động_cơ tắt
+10,hiện đường_băng sửa_chữa
+11,biết thời_gian gần liên_tiếp xảy vụ_việc máy_bay gặp sự_cố đường_băng khiến hành_khách hoảng_loạn
+12,cuối tháng 5/2016 một vụ tai_nạn hy_hữu xảy đường_băng cánh trái máy_bay bắt_lửa cất_cánh ở sân_bay haneda thủ_đô tokyo nhật_bản
+13,toàn_bộ_hành_khách sơ_tán bằng thang trượt khẩn_cấp ai bị_thương cánh máy_bay bốc cháy sáng 27/5 báo vnexpress đưa tin yonhap
+14,biết đám cháy bùng động_cơ bốc khói mù_mịt khiến hành_khách sợ_hãi
+15,máy_bay 302 hành_khách 17 thành_viên phi_hành_đoàn

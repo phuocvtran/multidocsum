@@ -1,15 +1,15 @@
 idx, sentence
-0,sáng nay 1/6  tand tỉnh bắc_ninh mở phiên_tòa xét_xử sơ_thẩm bị_cáo nguyễn_ngọc_minh  56 tuổi  tức trùm xã_hội_đen_minh “ sâm ”  ở thị_xã từ_sơn  cùng đồng_phạm về tội cưỡng_đoạt tài_sản  tàng_trữ trái_phép vũ_khí quân_dụng 
-1,đồng_phạm của ông ta gồm vợ_chồng con gái nguyễn_thu_hằng  24 tuổi  và những đàn_em thân_thiết 
-2,theo cáo_trạng  năm 2000  minh “ sâm ” thành_lập công_ty tnhh đại_an 
-3,đến năm 2010  công_ty này được ubnd tỉnh bắc_ninh cấp phép làm_chủ đầu_tư 2 khu chợ phù_khê_thượng và phù_khê_đông thuộc địa_bàn thị_xã từ_sơn 
-4,sau khi hoàn_thành dự_án  minh “ sâm ” giao cho vợ_chồng hằng quản_lý chợ phù_khê_đông 
-5,còn chợ phù_khê_thượng  ông ta giao cho nguyễn_thành_hưng  63 tuổi  tức hưng “ sóc ”  điều_hành 
-6,trước khi cáo_trạng được ban_hành  hưng  sóc  đã chết do mắc bệnh ung_thư 
-7,cơ_quan_chức_năng đã đình_chỉ điều_tra đối_với người này 
-8,tài_liệu điều_tra thể_hiện  để có tiền cho ban quản_lý chợ hoạt_động  ông_trùm xã_hội đen ban_hành quy_chế về phí  lệ_phí lưu bãi đối_với các loại xe vào chợ với mức từ 50000 đến 3 triệu đồng / lần lưu bãi 
-9,ngoài_ra  minh “ sâm ” còn chỉ_đạo đàn_em ép các phương_tiện chở gỗ phải vào chợ dỡ_hàng để thu phí bốc_xếp  bến_bãi 
-10,ai chống_đối sẽ bị nhóm người này đe_dọa  hành_hung 
-11,hành_vi trên của trùm xã_hội_đen và đồng_bọn chỉ bị phát_hiện khi cơ_quan_chức_năng bắt quả_tang nguyễn_hữu_hoàng  25 tuổi   nhân_viên của hằng có hành_vi cưỡng_đoạt 12 triệu đồng của một lái_buôn tại chợ gỗ phù_khê_đông trung_tuần tháng 8/2014 
-12,vào_cuộc điều_tra  bộ công_an xác_định có 12 bị hại từng bị minh “ sâm ” và đàn_em cưỡng_đoạt tài_sản  bắt nộp các loại phí khi vận_chuyển gỗ vào các khu chợ do ông trùm này quản_lý tổng_số tiền 184 triệu đồng 
-13,khám_xét nơi ở của các nghi can  cơ_quan_chức_năng còn thu_giữ 6 khẩu súng  1 quả lựu_đạn  đao_kiếm các loại 
+0,sáng nay 1/6 tand tỉnh bắc_ninh mở phiên_tòa xét_xử sơ_thẩm bị_cáo nguyễn_ngọc_minh 56 tuổi tức trùm xã_hội_đen_minh “ sâm ” ở thị_xã từ_sơn đồng_phạm về tội cưỡng_đoạt tài_sản tàng_trữ trái_phép vũ_khí quân_dụng
+1,đồng_phạm ông ta gồm vợ_chồng con gái nguyễn_thu_hằng 24 tuổi đàn_em thân_thiết
+2,cáo_trạng năm 2000 minh “ sâm ” thành_lập công_ty tnhh đại_an
+3,đến năm 2010 công_ty ubnd tỉnh bắc_ninh cấp phép làm_chủ đầu_tư 2 khu chợ phù_khê_thượng phù_khê_đông thuộc địa_bàn thị_xã từ_sơn
+4,hoàn_thành dự_án minh “ sâm ” giao vợ_chồng hằng quản_lý chợ phù_khê_đông
+5,còn chợ phù_khê_thượng ông ta giao nguyễn_thành_hưng 63 tuổi tức hưng “ sóc ” điều_hành
+6,cáo_trạng ban_hành hưng sóc chết mắc bệnh ung_thư
+7,cơ_quan_chức_năng đình_chỉ điều_tra đối_với người
+8,tài_liệu điều_tra thể_hiện tiền ban quản_lý chợ hoạt_động ông_trùm xã_hội đen ban_hành quy_chế về phí lệ_phí lưu bãi đối_với loại xe chợ mức 50000 đến 3 triệu đồng / lần lưu bãi
+9,ngoài_ra minh “ sâm ” còn chỉ_đạo đàn_em ép phương_tiện chở gỗ chợ dỡ_hàng thu phí bốc_xếp bến_bãi
+10,ai chống_đối nhóm người đe_dọa hành_hung
+11,hành_vi trùm xã_hội_đen đồng_bọn phát_hiện cơ_quan_chức_năng bắt quả_tang nguyễn_hữu_hoàng 25 tuổi nhân_viên hằng hành_vi cưỡng_đoạt 12 triệu đồng một lái_buôn chợ gỗ phù_khê_đông trung_tuần tháng 8/2014
+12,vào_cuộc điều_tra bộ công_an xác_định 12 hại minh “ sâm ” đàn_em cưỡng_đoạt tài_sản bắt nộp loại phí vận_chuyển gỗ khu chợ ông trùm quản_lý tổng_số tiền 184 triệu đồng
+13,khám_xét ở nghi can cơ_quan_chức_năng còn thu_giữ 6 khẩu súng 1 quả lựu_đạn đao_kiếm loại

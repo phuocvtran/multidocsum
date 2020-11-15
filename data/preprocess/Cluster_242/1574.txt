@@ -1,26 +1,26 @@
 idx, sentence
-0,tin_tức trên báo chất_lượng vn  đội 6  phòng cảnh_sát tội_phạm về môi_trường công_an tp hải_phòng cho biết vừa phối_hợp với ban chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng và công_an xã bắc_hưng đã tiến_hành kiểm_tra cơ_sở sơ_chế lòng lợn do ông nguyễn_trọng_dư  33 tuổi   ở xã bắc_hưng  huyện tiên_lãng  tp hải_phòng làm_chủ  phát_hiện gần 15 tấn lòng lợn đựng trong 10 thùng xốp  đang trong quá_trình phân hủy  bốc mùi hôi_thối 
-1,khu_vực chế_biến vô_cùng mất vệ_sinh  bẩn_thỉu  ruồi_nhặng bú bám khắp các vật_dụng chứa số lòng thối này 
-2,tại thời_điểm kiểm_tra  chủ cơ_sở này không xuất_trình được giấy_tờ chứng_minh nguồn_gốc thực_phẩm hợp_pháp của số hàng_hóa nói trên 
-3,đấu_tranh làm rõ  chủ cơ_sở này khai nhận  toàn_bộ số hàng_hóa trên được ông mua từ các cơ_sở giết_mổ lợn ở huyện tiên_lãng và các lò_mổ lợn trên địa_bàn thành_phố  sau đó tập_kết về xưởng của mình sơ_chế  rồi bán ra thị_trường 
-4,đối_với lô hàng trên  ông nguyễn_trọng_dư thừa_nhận đã thu_mua từ nhiều ngày trước  sơ_chế qua bằng muối  phèn_chua và để trong tủ cấp đông  chuẩn_bị giao cho các quán ăn  nhà_hàng 
-5,đoàn kiểm_tra đã tiến_hành lập biên_bản vụ_việc  xử_lý vi_phạm hành_chính và đưa toàn_bộ số lòng lợn thối kinh_khủng trên đi tiêu_hủy theo đúng quy_định pháp_luật 
-6,trước đó  như một_số tờ báo đã đưa tin  ngày 13/5  pc49 cùng chi_cục chăn_nuôi thú_y tp đà_nẵng bắt quả_tang cơ_sở lò chế_biến lòng heo thối của ông nguyễn_quốc_huy  32 tuổi  quê xã phú_xuân  hphú_vang  thừa_thiên_huế  tại tổ 1  thôn an_trạch  xã hòa_tiến  hhòa_vang  tpđà_nẵng  đang chế_biến 350 kg lòng heo tươi không có giấy_phép kinh_doanh  mất vệ_sinh 
-7,chủ cơ_sở khai nhận toàn_bộ lòng heo này đều mua từ một lò_mổ trên địa_bàn phường hòa_khánh_nam  quận liên_chiểu  đà_nẵng  với giá khoảng 3000 đồng / kg 
-8,sau khi mua về  ông huy chế_biến mỗi ngày chừng 350 kg 
-9,làm ra sản_phẩm đạt khoảng 6000 kg thì vận_chuyển ra miền bắc để tiêu_thụ với giá 7000  10000 đồng / kg 
-10,đặc_biệt  cơ_quan công_an đã phát_hiện một bao bột hóa_chất màu trắng có chữ trung_quốc  trọng_lượng 40 kg  đã sử_dụng gần hết 
-11,ông huy_khai dùng bột trắng này tẩm vào lòng tươi khi nấu chin sẽ làm tăng trọng_lượng lòng để kiếm lời 
-12,pc49 đã tịch_thu số hóa_chất này và gửi mẫu bột cho trung_tâm kỹ_thuật tiêu_chuẩn đo_lường chất_lượng 2 phân_tích làm rõ thành_phần 
-13,kết_quả  chất_bột này là phụ_gia chỉ được dùng trong tẩy_rửa công_nghiệp  có tác_dụng tẩy trắng và ngâm để giữ nước  độc_hại cho sức_khỏe con_người 
-14,khi luộc lòng và bỏ bột này vào  sau đó ngâm nước thì trọng_lượng tăng thêm 40  
-15,pc49 cho biết thêm  kết_quả xét_nghiệm mẫu nước_thải mà cơ_sở xả ra sông yên có các chỉ_số vượt nhiều lần mức cho_phép 
-16,cụ_thể  cod vượt 45 lần  chất_rắn lơ_lửng vượt 21 lần  coliform vượt 9200 lần 
-17,hiện pc49 đang đề_xuất mức phạt từ 30  50 triệu đồng đối_với cơ_sở này về hành_vi xả thải này 
-18,bác_sĩ trần_văn_ký  phụ_trách chuyên_môn hội khoa_học kỹ_thuật an_toàn thực_phẩm việt_nam cho_biết “ những thứ như chân  đầu  cổ  cánh_gà  phủ_tạng gia_súc ở những nước tiên_tiến không ăn  dùng làm phân_bón hữu_cơ hoặc đem tiêu_hủy 
-19,vậy_mà khi nhập lậu về việt_nam  được coi là thực_phẩm tại các quán nhậu vỉa_hè với cái tên rất kêu  chân gà nướng  nầm bò  nầm dê nướng … ” 
-20,do là “ rác ” của thế_giới nên việc mua lại chúng khá dễ_dàng và rẻ 
-21,thế nên đôi_khi thực_phẩm bẩn này còn được ung_dung vận_chuyển bằng đường_hàng_không  đường_thủy về việt_nam 
-22,bác_sĩ phạm_khắc_trí  cố_vấn chuyên_môn bệnh_viện việtpháp cũng cho biết trên báo lao_động  ở nhiều nước trên thế_giới  nội_tạng gia_súc  động_vật là “ rác ” chỉ dùng để làm phân_hữu_cơ hoặc tiêu_hủy 
-23,còn ở việt_nam  nó là đặc_sản không_thể thiếu trong các quán ăn  quán nhậu bán với giá cao 
-24,chính vì_thế  nhiều đối_tượng thu_mua nội_tạng từ nước_ngoài rồi vận_chuyển bằng nhiều đường cung_cấp cho thị_trường việt_nam ngày_càng nhiều 
+0,tin_tức báo chất_lượng vn đội 6 phòng cảnh_sát tội_phạm về môi_trường công_an tp hải_phòng biết phối_hợp ban chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng công_an xã bắc_hưng tiến_hành kiểm_tra cơ_sở sơ_chế lòng lợn ông nguyễn_trọng_dư 33 tuổi ở xã bắc_hưng huyện tiên_lãng tp hải_phòng làm_chủ phát_hiện gần 15 tấn lòng lợn đựng trong 10 thùng xốp trong quá_trình phân hủy bốc mùi hôi_thối
+1,khu_vực chế_biến vô_cùng mất vệ_sinh bẩn_thỉu ruồi_nhặng bú bám khắp vật_dụng chứa số lòng thối
+2,thời_điểm kiểm_tra chủ cơ_sở xuất_trình giấy_tờ chứng_minh nguồn_gốc thực_phẩm hợp_pháp số hàng_hóa nói
+3,đấu_tranh làm rõ chủ cơ_sở khai nhận toàn_bộ số hàng_hóa ông mua cơ_sở giết_mổ lợn ở huyện tiên_lãng lò_mổ lợn địa_bàn thành_phố tập_kết về xưởng mình sơ_chế bán thị_trường
+4,đối_với lô hàng ông nguyễn_trọng_dư thừa_nhận thu_mua ngày sơ_chế bằng muối phèn_chua trong tủ cấp đông chuẩn_bị giao quán ăn nhà_hàng
+5,đoàn kiểm_tra tiến_hành lập biên_bản vụ_việc xử_lý vi_phạm hành_chính đưa toàn_bộ số lòng lợn thối kinh_khủng đi tiêu_hủy đúng quy_định pháp_luật
+6,một_số tờ báo đưa tin ngày 13/5 pc49 chi_cục chăn_nuôi thú_y tp đà_nẵng bắt quả_tang cơ_sở lò chế_biến lòng heo thối ông nguyễn_quốc_huy 32 tuổi quê xã phú_xuân hphú_vang thừa_thiên_huế tổ 1 thôn an_trạch xã hòa_tiến hhòa_vang tpđà_nẵng chế_biến 350 kg lòng heo tươi giấy_phép kinh_doanh mất vệ_sinh
+7,chủ cơ_sở khai nhận toàn_bộ lòng heo mua một lò_mổ địa_bàn phường hòa_khánh_nam quận liên_chiểu đà_nẵng giá khoảng 3000 đồng / kg
+8,mua về ông huy chế_biến ngày chừng 350 kg
+9,làm sản_phẩm đạt khoảng 6000 kg vận_chuyển miền bắc tiêu_thụ giá 7000 10000 đồng / kg
+10,đặc_biệt cơ_quan công_an phát_hiện một bao bột hóa_chất màu trắng chữ trung_quốc trọng_lượng 40 kg sử_dụng gần hết
+11,ông huy_khai dùng bột trắng tẩm lòng tươi nấu chin làm tăng trọng_lượng lòng kiếm lời
+12,pc49 tịch_thu số hóa_chất gửi mẫu bột trung_tâm kỹ_thuật tiêu_chuẩn đo_lường chất_lượng 2 phân_tích làm rõ thành_phần
+13,kết_quả chất_bột phụ_gia dùng trong tẩy_rửa công_nghiệp tác_dụng tẩy trắng ngâm giữ nước độc_hại sức_khỏe con_người
+14,luộc lòng bỏ bột ngâm nước trọng_lượng tăng thêm 40
+15,pc49 biết thêm kết_quả xét_nghiệm mẫu nước_thải cơ_sở xả sông yên chỉ_số vượt lần mức cho_phép
+16,cụ_thể cod vượt 45 lần chất_rắn lơ_lửng vượt 21 lần coliform vượt 9200 lần
+17,hiện pc49 đề_xuất mức phạt 30 50 triệu đồng đối_với cơ_sở về hành_vi xả thải
+18,bác_sĩ trần_văn_ký phụ_trách chuyên_môn hội khoa_học kỹ_thuật an_toàn thực_phẩm việt_nam cho_biết “ thứ chân đầu cổ cánh_gà phủ_tạng gia_súc ở nước tiên_tiến ăn dùng làm phân_bón hữu_cơ hoặc đem tiêu_hủy
+19,vậy_mà nhập lậu về việt_nam coi thực_phẩm quán nhậu vỉa_hè tên kêu chân gà nướng nầm bò nầm dê nướng … ”
+20,“ rác ” thế_giới mua chúng khá dễ_dàng rẻ
+21,thế đôi_khi thực_phẩm bẩn còn ung_dung vận_chuyển bằng đường_hàng_không đường_thủy về việt_nam
+22,bác_sĩ phạm_khắc_trí cố_vấn chuyên_môn bệnh_viện việtpháp biết báo lao_động ở nước thế_giới nội_tạng gia_súc động_vật “ rác ” dùng làm phân_hữu_cơ hoặc tiêu_hủy
+23,còn ở việt_nam nó đặc_sản không_thể thiếu trong quán ăn quán nhậu bán giá cao
+24,chính vì_thế đối_tượng thu_mua nội_tạng nước_ngoài vận_chuyển bằng đường cung_cấp thị_trường việt_nam ngày_càng

@@ -1,9 +1,9 @@
 idx, sentence
-0,theo những tin_tức mới nhất trên báo thanh_niên  hãng thông_tấn trung_ương triều_tiên  kcna  ngày 20/5 trích_dẫn một bức thư_ngỏ của ủy_ban quốc_phòng triều_tiên  ndc  cho biết bình nhưỡng đã hối_thúc seoul ngay_lập_tức chấp_nhận đề_nghị của phía bình nhưỡng về việc tổ_chức đối_thoại quốc_phòng giữa hai miền triều_tiên  theo yonhap 
-1,trong thư_ngỏ nói trên có đoạn viết   hàn_quốc cần đáp lại đề_nghị của chúng_tôi về các cuộc đàm_phán một_cách không được chậm_trễ nhằm chấm_dứt tình_trạng thù_địch và đối_đầu cũng như khôi_phục lòng tin giữa hai miền triều_tiên  
-2,bên_cạnh đó  thư_ngỏ được kcna trích_dẫn cũng kêu_gọi hàn_quốc tham_gia các hoạt_động do triều_tiên khởi_xướng nhằm thực_hiện các biện_pháp “ mạnh_dạn và thiết_thực ” hướng tới mục_tiêu đoàn_kết dân_tộc 
-3,“ nếu hàn_quốc sẵn_lòng cải_thiện quan_hệ với triều_tiên  họ nên ngừng theo_đuổi các động_cơ không_thể nói ra  và tiến tới để có đối_thoại chân_thành  với triều_tiên  ” – ông kim_ki_nam  phó chủ_tịch đảng lao_động triều_tiên nói 
-4,ông kim cũng nhắc lại lời kêu_gọi của bình nhưỡng đối_với washington  từ_bỏ ‘ chính_sách thù_địch ’ đối_với bình nhưỡng 
-5,trước đó trong bài phát_biểu tại đại_hội lần thứ 7 của đảng lao_động triều_tiên hôm 8/5  lãnh_đạo triều_tiên kim_yongun đã đề_nghị tổ_chức “ đối_thoại  đàm_phán ” giữa quân_đội triều_tiên và hàn_quốc vì hòa_bình và thống_nhất trên bán_đảo triều_tiên 
-6,theo kcna  mục_tiêu đề_xuất của lãnh_đạo kim cũng nhằm giảm tình_trạng căng_thẳng quân_sự giữa hai bên 
-7,tuy_vậy  bộ_thống_nhất hàn_quốc đã bác_bỏ đề_nghị này  đồng_thời gọi đây là một âm_mưu tuyên_truyền thiếu tính chân_thành và không có thành_ý _seoul đồng_thời kêu_gọi bình nhưỡng phải từ_bỏ tham_vọng vũ_khí hạt_nhân trước_tiên  theo thông_tin trên báo vietnamnet 
+0,tin_tức mới nhất báo thanh_niên hãng thông_tấn trung_ương triều_tiên kcna ngày 20/5 trích_dẫn một bức thư_ngỏ ủy_ban quốc_phòng triều_tiên ndc biết bình nhưỡng hối_thúc seoul ngay_lập_tức chấp_nhận đề_nghị phía bình nhưỡng về tổ_chức đối_thoại quốc_phòng giữa hai miền triều_tiên yonhap
+1,trong thư_ngỏ nói đoạn viết hàn_quốc đáp đề_nghị chúng_tôi về cuộc đàm_phán chậm_trễ nhằm chấm_dứt tình_trạng thù_địch đối_đầu khôi_phục lòng tin giữa hai miền triều_tiên
+2,bên_cạnh thư_ngỏ kcna trích_dẫn kêu_gọi hàn_quốc tham_gia hoạt_động triều_tiên khởi_xướng nhằm thực_hiện biện_pháp “ mạnh_dạn thiết_thực ” hướng tới mục_tiêu đoàn_kết dân_tộc
+3,“ hàn_quốc sẵn_lòng cải_thiện quan_hệ triều_tiên họ ngừng theo_đuổi động_cơ không_thể nói tiến tới đối_thoại chân_thành triều_tiên ” – ông kim_ki_nam phó chủ_tịch đảng lao_động triều_tiên nói
+4,ông kim nhắc lời kêu_gọi bình nhưỡng đối_với washington từ_bỏ ‘ chính_sách thù_địch ’ đối_với bình nhưỡng
+5,trong bài phát_biểu đại_hội lần thứ 7 đảng lao_động triều_tiên hôm 8/5 lãnh_đạo triều_tiên kim_yongun đề_nghị tổ_chức “ đối_thoại đàm_phán ” giữa quân_đội triều_tiên hàn_quốc hòa_bình thống_nhất bán_đảo triều_tiên
+6,kcna mục_tiêu đề_xuất lãnh_đạo kim nhằm giảm tình_trạng căng_thẳng quân_sự giữa hai bên
+7,tuy_vậy bộ_thống_nhất hàn_quốc bác_bỏ đề_nghị đồng_thời gọi một âm_mưu tuyên_truyền thiếu tính chân_thành thành_ý _seoul đồng_thời kêu_gọi bình nhưỡng từ_bỏ tham_vọng vũ_khí hạt_nhân trước_tiên thông_tin báo vietnamnet

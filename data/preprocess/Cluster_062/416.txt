@@ -1,11 +1,11 @@
 idx, sentence
-0,ở vòng 11 giải kleague 2016 diễn ra ngày hôm_nay  incheon_united sẽ bước vào cuộc so tài với gwangju_fc 
-1,trận đấu này khá đặc_biệt  nó diễn ra vào  ngày_hội việt_nam  tại hàn_quốc 
-2,đông_đảo cộng_đồng người việt_nam ở hàn_quốc sẽ có_mặt tại svđ để tham_dự các hoạt_động của ngày_hội  dự_kiến kéo_dài từ lúc 14 h00 đến 18 h00  giờ hàn_quốc  
-3,việc xuân_trường được ra sân trong trận đấu chiều nay là một trong những kế_hoạch được incheon_united chuẩn_bị từ trước 
-4,thậm_chí lương xuân_trường của clb incheon_united sẽ đóng vai_trò là nhân_vật đặc_biệt trong ngày hội 
-5,nếu không có gì thay_đổi  hlv kim_dohoon sẽ tung xuân_trường vào sân ở hiệp 2 cuộc đối_đầu với gwangju_fc 
-6,nhưng nếu xuân_trường có màn thể_hiện tốt trên sân tập  tuyển_thủ quốc_gia việt_nam có_thể ra sân đá chính ngay từ đầu 
-7,trước đó  xuân_trường đã dính chấn_thương khi đang tập_luyện cùng đội i incheon_united 
-8,báo_chí hàn_quốc thậm_chí còn đưa tin xuân_trường sẽ phải nghỉ thi_đấu tới 22 ngày và bỏ lỡ cơ_hội lên tập_trung cùng đtvn 
-9,sau đó xuân_trường đã được đưa đi kiểm_tra tại bệnh_viện và rất may là anh chỉ phải nghỉ thi_đấu 1 tuần 
+0,ở vòng 11 giải kleague 2016 diễn ngày hôm_nay incheon_united bước cuộc tài gwangju_fc
+1,trận đấu khá đặc_biệt nó diễn ngày_hội việt_nam hàn_quốc
+2,đông_đảo cộng_đồng người việt_nam ở hàn_quốc có_mặt svđ tham_dự hoạt_động ngày_hội dự_kiến kéo_dài 14 h00 đến 18 h00 giờ hàn_quốc
+3,xuân_trường sân trong trận đấu chiều nay một trong kế_hoạch incheon_united chuẩn_bị
+4,thậm_chí lương xuân_trường clb incheon_united đóng vai_trò nhân_vật đặc_biệt trong ngày hội
+5,thay_đổi hlv kim_dohoon tung xuân_trường sân ở hiệp 2 cuộc đối_đầu gwangju_fc
+6,xuân_trường màn thể_hiện tốt sân tập tuyển_thủ quốc_gia việt_nam sân đá chính đầu
+7,xuân_trường dính chấn_thương tập_luyện đội i incheon_united
+8,báo_chí hàn_quốc thậm_chí còn đưa tin xuân_trường nghỉ thi_đấu tới 22 ngày bỏ lỡ cơ_hội tập_trung đtvn
+9,xuân_trường đưa đi kiểm_tra bệnh_viện may anh nghỉ thi_đấu 1 tuần

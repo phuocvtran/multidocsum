@@ -1,18 +1,18 @@
 idx, sentence
-0,ngày 18/5 vừa_qua  tại quận volokolamsk  tỉnh moscow  liên_bang_nga   tập_đoàn th  thmilk  phối_hợp với chính_quyền tỉnh moscow tổ_chức lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa giai_đoạn 1 của tập_đoàn th tại nga 
-1,đây là dự_án đầu_tiên của việt_nam trong lĩnh_vực sản_xuất  chế_biến sữa tại nga  quốc_gia có truyền_thống lâu_đời về sử_dụng sữa  các sản_phẩm từ sữa  và là dự_án của việt_nam có vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại 
-2,đặc_biệt  lễ khởi_công vinh_dự có sự tham_gia của thủ_tướng chính_phủ nước cộng_hòa_xã_hội_chủ_nghĩa_việt_nam nguyễn_xuân_phúc  phó_thủ_tướng  bộ_trưởng bộ ngoại_giao phạm_bình_minh  bộ_trưởng bộ nông_nghiệp liên_bang_nga_nikolay_fyodorov  thống_đốc tỉnh moscow_andrey_vorobiev_iu và lãnh_đạo các bộ ngành của 2 nước 
-3,ngoài_ra  chứng_kiến buổi lễ còn có đại_diện sứ_quán 15 nước trong đó có 10 sứ_quán của 10 nước asean 
-4,dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại tỉnh moscow  giai_đoạn 1 có tổng mức đầu_tư 500 triệu usd 
-5,dự_kiến vào giữa năm 2017  sẽ cho ra_mắt sản_phẩm sữa_tươi sạch th đầu_tiên tại đây 
-6,đây là giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tập_trung quy_mô công_nghiệp và một_số dự_án về thực_phẩm với tổng vốn đầu_tư là 27 tỷ usd 
-7,dự_án sữa sẽ triển_khai theo 3 giai_đoạn 
-8,khi hoàn_thành toàn_bộ dự_án  tổng_số đàn bò dự_kiến là 350000 con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
-9,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn nước nga 
-10,dự_án tại tỉnh moscow sẽ sản_xuất các sản_phẩm sữa_tươi sạch  chất_lượng cao  cung_cấp cho người tiêu_dùng tỉnh moscow và liên_bang nga theo chuỗi sản_phẩm từ đồng_cỏ đến bàn_ăn  chăn_nuôi bò sữa  chế_biến sữa_tươi và phân_phối đến người tiêu_dùng   đáp_ứng nhu_cầu của người dân nga  từng bước giảm dần sự phụ_thuộc vào nguồn sữa bên ngoài  cũng như tiết_kiệm được một lượng lớn ngoại_tệ từ việc nhập_khẩu sữa và các sản_phẩm từ sữa hàng năm 
-11,theo ông relevant  đại_diện đơn_vị cung_cấp công_nghệ_delava cho dự_án chia_sẻ  “ dự_án này chúng_tôi có kế_hoạch áp_dụng các tiến_bộ khoa_học tiên_tiến nhất  quy_trình tự_động liên_hoàn và hệ_thống quản_lý quản_lý đàn hiện_đại nhất ” 
-12,tại lễ khởi_công  thủ_tướng chính_phủ nguyễn_xuân_phúc nhận_định  “ nga là thị_trường tiêu thị sữa lớn  đầy tiềm_năng 
-13,việc triển_khai dự_án tại tỉnh moscow góp_phần quan_trọng vào việc phát_triển nông_nghiệp của vùng  tạo thêm công_ăn_việc_làm cho người dân sở_tại  cũng như người lao_động việt_nam tại liên_bang_nga  tạo_dựng hình_ảnh mới về hiệu_quả và sự đa_dạng của các lĩnh_vực hợp_tác giữa việt_nam và nga ” 
-14,thủ_tướng chính_phủ cũng đánh_giá cao tinh_thần dám nghĩ dám làm của bà thái_hương  chủ_tịch tập_đoàn 
-15,ông cũng bày_tỏ niềm_tin sâu_sắc tập_đoàn th sẽ thành_công dự_án sữa ở nga như đã thành_công với dự_án sữa th tại việt_nam và sẽ “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu của hai nước ” 
-16,trong diễn_đàn sữa_quốc_tế lần ii tổ_chức tại nga tháng 112015  bà thái hương cũng khẳng_định  “ chúng_tôi sẽ sản_xuất các sản_phẩm sữa_tươi chất_lượng cao nhất nhằm phục_vụ người tiêu_dùng tại nga  cạnh_tranh sòng_phẳng với các sản_phẩm của các hãng sữa khác  ngoài_ra còn phục_vụ mục_đích xuất_khẩu sang các nước thuộc khối sng  khối các quốc_gia độc_lập thuộc liên_xô cũ  … ”
+0,ngày 18/5 vừa_qua quận volokolamsk tỉnh moscow liên_bang_nga tập_đoàn th thmilk phối_hợp chính_quyền tỉnh moscow tổ_chức lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa giai_đoạn 1 tập_đoàn th nga
+1,dự_án đầu_tiên việt_nam trong lĩnh_vực sản_xuất chế_biến sữa nga quốc_gia truyền_thống lâu_đời về sử_dụng sữa sản_phẩm sữa dự_án việt_nam vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại
+2,đặc_biệt lễ khởi_công vinh_dự tham_gia thủ_tướng chính_phủ nước cộng_hòa_xã_hội_chủ_nghĩa_việt_nam nguyễn_xuân_phúc phó_thủ_tướng bộ_trưởng bộ ngoại_giao phạm_bình_minh bộ_trưởng bộ nông_nghiệp liên_bang_nga_nikolay_fyodorov thống_đốc tỉnh moscow_andrey_vorobiev_iu lãnh_đạo bộ ngành 2 nước
+3,ngoài_ra chứng_kiến buổi lễ còn đại_diện sứ_quán 15 nước trong 10 sứ_quán 10 nước asean
+4,dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tỉnh moscow giai_đoạn 1 tổng mức đầu_tư 500 triệu usd
+5,dự_kiến giữa năm 2017 ra_mắt sản_phẩm sữa_tươi sạch th đầu_tiên
+6,giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tập_trung quy_mô công_nghiệp một_số dự_án về thực_phẩm tổng vốn đầu_tư 27 tỷ usd
+7,dự_án sữa triển_khai 3 giai_đoạn
+8,hoàn_thành toàn_bộ dự_án tổng_số đàn bò dự_kiến 350000 con tổng công_suất chế_biến sữa 5900 tấn / ngày tương_đương gần 1800000 tấn / năm tổng diện_tích vùng nguyên_liệu tập_trung 140000 ha
+9,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng true_mart toàn nước nga
+10,dự_án tỉnh moscow sản_xuất sản_phẩm sữa_tươi sạch chất_lượng cao cung_cấp người tiêu_dùng tỉnh moscow liên_bang nga chuỗi sản_phẩm đồng_cỏ đến bàn_ăn chăn_nuôi bò sữa chế_biến sữa_tươi phân_phối đến người tiêu_dùng đáp_ứng nhu_cầu người dân nga bước giảm dần phụ_thuộc nguồn sữa bên ngoài tiết_kiệm một lượng lớn ngoại_tệ nhập_khẩu sữa sản_phẩm sữa hàng năm
+11,ông relevant đại_diện đơn_vị cung_cấp công_nghệ_delava dự_án chia_sẻ “ dự_án chúng_tôi kế_hoạch áp_dụng tiến_bộ khoa_học tiên_tiến nhất quy_trình tự_động liên_hoàn hệ_thống quản_lý quản_lý đàn hiện_đại nhất ”
+12,lễ khởi_công thủ_tướng chính_phủ nguyễn_xuân_phúc nhận_định “ nga thị_trường tiêu thị sữa lớn đầy tiềm_năng
+13,triển_khai dự_án tỉnh moscow góp_phần quan_trọng phát_triển nông_nghiệp vùng tạo thêm công_ăn_việc_làm người dân sở_tại người lao_động việt_nam liên_bang_nga tạo_dựng hình_ảnh mới về hiệu_quả đa_dạng lĩnh_vực hợp_tác giữa việt_nam nga ”
+14,thủ_tướng chính_phủ đánh_giá cao tinh_thần dám nghĩ dám làm bà thái_hương chủ_tịch tập_đoàn
+15,ông bày_tỏ niềm_tin sâu_sắc tập_đoàn th thành_công dự_án sữa ở nga thành_công dự_án sữa th việt_nam “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu hai nước ”
+16,trong diễn_đàn sữa_quốc_tế lần ii tổ_chức nga tháng 112015 bà thái hương khẳng_định “ chúng_tôi sản_xuất sản_phẩm sữa_tươi chất_lượng cao nhất nhằm phục_vụ người tiêu_dùng nga cạnh_tranh sòng_phẳng sản_phẩm hãng sữa khác ngoài_ra còn phục_vụ mục_đích xuất_khẩu sang nước thuộc khối sng khối quốc_gia độc_lập thuộc liên_xô cũ … ”

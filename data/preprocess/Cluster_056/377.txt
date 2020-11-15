@@ -1,9 +1,9 @@
 idx, sentence
-0,chiều ngày 21/5  ahn_jae_hyun và goo_hye_sun tổ_chức dùng bữa cùng gia_đình và họ_hàng thân_thiết thay cho đám_cưới rình_rang 
-1,cặp_đôi giữ kín mọi thông_tin với giới truyền_thông và cả người hâm_mộ 
-2,tuy_nhiên  mới_đây  một hình_ảnh hiếm_hoi trong lễ_cưới bị tiết_lộ và được chuyền_tay với tốc_độ chóng_mặt 
-3,trong ảnh  goo_hye_sun diện trang_phục đơn_giản nhưng lại toát lên vẻ dịu_dàng như một nàng công_chúa trên tay cầm hoa cưới 
-4,trong khi đó  nam diễn_viên ahn_jae_hyun khoác lên mình bộ vest lịch_lãm 
-5,dù được chụp từ khoảng_cách khá xa nhưng lễ_cưới như cổ_tích của cặp_đôi vẫn khiến nhiều người ganh_tị 
-6,trong một buổi phỏng_vấn  ahn_jae_hyun cho biết anh và goo_hye_sun vẫn chưa có kế_hoạch sinh con trong thời_gian tới và sẽ tận_hưởng cảm_giác của những cặp vợ_chồng mới cưới 
-7,đồng_thời  nữ diễn_viên hiện_tại vẫn muốn làm_việc thêm và cống_hiến tài_năng cho nghệ_thuật 
+0,chiều ngày 21/5 ahn_jae_hyun goo_hye_sun tổ_chức dùng bữa gia_đình họ_hàng thân_thiết thay đám_cưới rình_rang
+1,cặp_đôi giữ kín mọi thông_tin giới truyền_thông người hâm_mộ
+2,tuy_nhiên mới_đây một hình_ảnh hiếm_hoi trong lễ_cưới tiết_lộ chuyền_tay tốc_độ chóng_mặt
+3,trong ảnh goo_hye_sun diện trang_phục đơn_giản toát vẻ dịu_dàng một nàng công_chúa tay cầm hoa cưới
+4,trong nam diễn_viên ahn_jae_hyun khoác mình bộ vest lịch_lãm
+5,dù chụp khoảng_cách khá xa lễ_cưới cổ_tích cặp_đôi khiến người ganh_tị
+6,trong một buổi phỏng_vấn ahn_jae_hyun biết anh goo_hye_sun kế_hoạch sinh con trong thời_gian tới tận_hưởng cảm_giác cặp vợ_chồng mới cưới
+7,đồng_thời nữ diễn_viên hiện_tại muốn làm_việc thêm cống_hiến tài_năng nghệ_thuật

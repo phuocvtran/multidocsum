@@ -1,15 +1,15 @@
 idx, sentence
-0,ngày 88  công_an tp móng_cái cho biết đã mời những người liên_quan  nhân_chứng vụ cháy cây_xăng ka_long đến làm_việc  lấy lời khai 
-1,theo kết_quả khám_nghiệm hiện_trường và lời khai ban_đầu  cơ_quan điều_tra nhận_định nguyên_nhân gây cháy là do tàn lửa từ việc thắp hương  đốt vàng_mã của gia_đình anh đặng_đình_trường  34 tuổi  trú xã cẩm_phú  huyện cẩm_giàng  hải_dương  gần đó 
-2,tài_liệu điều_tra cho thấy  khoảng 18 g cùng ngày  xe bồn chở xăng do lái_xe nguyễn_văn_thành  22 tuổi  trú xã thụy_ninh  huyện thái_thụy  thái_bình  cầm lái chở gần 23000 lít xăng a92 đến cửa_hàng xăng dầu ka_long  thuộc sở_hữu của công_ty tnhh hải_tân  tiến_hành bơm xăng xuống bể chứa 
-3,trước khi bơm  anh hiếu phát_hiện gia_đình anh trường đang làm lễ cúng trong nhà và trước đầu xe_khách bks 14b  01439 nên đã hỏi anh hải  anh hải trả_lời cứ bơm bình_thường 
-4,cùng lúc  anh trường điều_khiển xe_khách lùi ra để sang bến_xe_khách ka_long đón khách 
-5,sau đó vài phút thì có người hô_hoán  anh hiếu cũng phát_hiện có lửa bén ở đầu vòi bơm nên đã đóng van lại cùng hải dùng bình chữa_cháy dập lửa 
-6,sau nỗ_lực ban_đầu không được  cả hai gọi điện_báo lực_lượng cảnh_sát pccc 
-7,ngay sau đó  tp móng cái đã huy_động hơn 100 người gồm các chiến_sĩ cảnh_sát pccc  công_an  bộ_đội biên_phòng  dân_quân tự_vệ … cách_ly  xử_lý đám cháy 
-8,đến khoảng 21 g30  đám cháy được dập_tắt 
-9,xe bồn chở xăng bị cháy hoàn_toàn  một phần cây_xăng cũng bị cháy  hư_hỏng 
-10,được biết  xe_khách của gia_đình anh trường là xe giường nằm chạy tuyến móng_cái  cao_bằng 
-11,xe do anh trường và vợ là lại_thị_hằng  39 tuổi  trú xã phương_trung  thanh_oai  hà_nội  cùng quản_lý  điều_hành 
-12,thời_điểm trên  gia_đình đang cúng xe đầu tháng 7 âm_lịch theo phong_tục 
-13,tuy_nhiên  hai người cho rằng sau khi đốt xong vàng_mã đã đổ nước vào nên không còn tàn lửa  khi xe_khách đi rồi mới xảy ra cháy 
+0,ngày 88 công_an tp móng_cái biết mời người liên_quan nhân_chứng vụ cháy cây_xăng ka_long đến làm_việc lấy lời khai
+1,kết_quả khám_nghiệm hiện_trường lời khai ban_đầu cơ_quan điều_tra nhận_định nguyên_nhân gây cháy tàn lửa thắp hương đốt vàng_mã gia_đình anh đặng_đình_trường 34 tuổi trú xã cẩm_phú huyện cẩm_giàng hải_dương gần
+2,tài_liệu điều_tra thấy khoảng 18 g ngày xe bồn chở xăng lái_xe nguyễn_văn_thành 22 tuổi trú xã thụy_ninh huyện thái_thụy thái_bình cầm lái chở gần 23000 lít xăng a92 đến cửa_hàng xăng dầu ka_long thuộc sở_hữu công_ty tnhh hải_tân tiến_hành bơm xăng xuống bể chứa
+3,bơm anh hiếu phát_hiện gia_đình anh trường làm lễ cúng trong nhà đầu xe_khách bks 14b 01439 hỏi anh hải anh hải trả_lời bơm bình_thường
+4,anh trường điều_khiển xe_khách lùi sang bến_xe_khách ka_long đón khách
+5,vài phút người hô_hoán anh hiếu phát_hiện lửa bén ở đầu vòi bơm đóng van hải dùng bình chữa_cháy dập lửa
+6,nỗ_lực ban_đầu hai gọi điện_báo lực_lượng cảnh_sát pccc
+7,tp móng huy_động hơn 100 người gồm chiến_sĩ cảnh_sát pccc công_an bộ_đội biên_phòng dân_quân tự_vệ … cách_ly xử_lý đám cháy
+8,đến khoảng 21 g30 đám cháy dập_tắt
+9,xe bồn chở xăng cháy hoàn_toàn một phần cây_xăng cháy hư_hỏng
+10,biết xe_khách gia_đình anh trường xe giường nằm chạy tuyến móng_cái cao_bằng
+11,xe anh trường vợ lại_thị_hằng 39 tuổi trú xã phương_trung thanh_oai hà_nội quản_lý điều_hành
+12,thời_điểm gia_đình cúng xe đầu tháng 7 âm_lịch phong_tục
+13,tuy_nhiên hai người đốt xong vàng_mã đổ nước còn tàn lửa xe_khách đi mới xảy cháy

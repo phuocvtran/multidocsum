@@ -1,18 +1,18 @@
 idx, sentence
-0,ông vương tỏ ra giận_dữ khi được đặt câu hỏi nói trên tại cuộc họp_báo với người đồng_cấp nước chủ nhà canada_stephane_dion ở thủ_đô ottawa 
-1,theo ông vương  câu hỏi của nữ phóng_viên trang ipolitics là “ vô_trách_nhiệm ” khi người này đề_cập đến vụ ông kevin_garratt – một công_dân canada  đang bị tống_giam ở trung_quốc vì cáo_buộc làm gián_điệp 
-2,được biết  câu hỏi từ phóng_viên trang ipolitics nhận được sự ủng_hộ từ nhiều nhà_báo khác có_mặt tại cuộc họp_báo 
-3,“ câu_hỏi của cô chứa đầy định_kiến về trung_quốc và tỏ ra ngạo_mạn 
-4,tôi không biết cô lấy thái_độ đó từ đâu 
-5,thật hoàn_toàn không chấp_nhận được ” – ông vương trả_lời nữ phóng_viên trong tâm_trạng bực_bội 
-6,“ người trung_quốc biết về tình_hình_nhân_quyền trong nước nhiều hơn ai hết 
-7,chỉ có họ mới có quyền nói về vấn_đề này 
-8,vì_vậy  tôi hy_vọng cô ngừng đặt những câu_hỏi với thái_độ vô_trách_nhiệm 
-9,chúng_tôi hoàn_toàn hoan_nghênh các ý_kiến thiện_chí nhưng sẽ bác_bỏ những cáo_buộc vô_căn_cứ ” – ông vương nói tiếp 
-10,ông vương tiếp_tục hỏi nữ nhà_báo rằng cô này có từng đến trung_quốc chưa và liệu cô có biết rằng trung_quốc từng  giúp 600 triệu người thoát nghèo  để trở_thành nền kinh_tế lớn thứ 2 thế_giới 
-11,“ cô có biết rằng trong hiến_pháp trung_quốc có viết về việc bảo_vệ và thúc_đẩy nhân_quyền không  ” – ông vương nói 
-12,trước đó  ông dion khẳng_định ông và thủ_tướng justin_trudeau đã đề_cập trường_hợp của ông garratt với ngoại_trưởng trung_quốc 
-13,“ chúng_tôi có cuộc nói_chuyện thẳng_thắn và trung_thực về vấn_đề nhân_quyền và công_tác lãnh_sự 
-14,những cuộc thảo_luận này là mấu_chốt của một mối quan_hệ lành_mạnh ” – ngoại_trưởng canada cho biết 
-15,chuyến thăm canada của ông vương nhằm mục_đích thảo_luận về an_ninh hàng_hải ở châu_á và tự_do thương_mại 
-16,ông dion tuyên_bố hai bên đã “ thảo_luận về nhiều vấn_đề trong khu_vực  trong đó có tình_hình biển đông 
+0,ông vương tỏ giận_dữ đặt câu hỏi nói cuộc họp_báo người đồng_cấp nước chủ nhà canada_stephane_dion ở thủ_đô ottawa
+1,ông vương câu hỏi nữ phóng_viên trang ipolitics “ vô_trách_nhiệm ” người đề_cập đến vụ ông kevin_garratt – một công_dân canada tống_giam ở trung_quốc cáo_buộc làm gián_điệp
+2,biết câu hỏi phóng_viên trang ipolitics nhận ủng_hộ nhà_báo khác có_mặt cuộc họp_báo
+3,“ câu_hỏi cô chứa đầy định_kiến về trung_quốc tỏ ngạo_mạn
+4,tôi biết cô lấy thái_độ đâu
+5,thật hoàn_toàn chấp_nhận ” – ông vương trả_lời nữ phóng_viên trong tâm_trạng bực_bội
+6,“ người trung_quốc biết về tình_hình_nhân_quyền trong nước hơn ai hết
+7,họ mới quyền nói về vấn_đề
+8,vì_vậy tôi hy_vọng cô ngừng đặt câu_hỏi thái_độ vô_trách_nhiệm
+9,chúng_tôi hoàn_toàn hoan_nghênh ý_kiến thiện_chí bác_bỏ cáo_buộc vô_căn_cứ ” – ông vương nói tiếp
+10,ông vương tiếp_tục hỏi nữ nhà_báo cô đến trung_quốc liệu cô biết trung_quốc giúp 600 triệu người thoát nghèo trở_thành nền kinh_tế lớn thứ 2 thế_giới
+11,“ cô biết trong hiến_pháp trung_quốc viết về bảo_vệ thúc_đẩy nhân_quyền ” – ông vương nói
+12,ông dion khẳng_định ông thủ_tướng justin_trudeau đề_cập trường_hợp ông garratt ngoại_trưởng trung_quốc
+13,“ chúng_tôi cuộc nói_chuyện thẳng_thắn trung_thực về vấn_đề nhân_quyền công_tác lãnh_sự
+14,cuộc thảo_luận mấu_chốt một mối quan_hệ lành_mạnh ” – ngoại_trưởng canada biết
+15,chuyến thăm canada ông vương nhằm mục_đích thảo_luận về an_ninh hàng_hải ở châu_á tự_do thương_mại
+16,ông dion tuyên_bố hai bên “ thảo_luận về vấn_đề trong khu_vực trong tình_hình biển đông

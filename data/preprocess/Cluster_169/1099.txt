@@ -1,12 +1,12 @@
 idx, sentence
-0,nhân_dịp này ta sẽ có một hành_trình khám_phá những nét đặc_trưng về văn_hóa  nghệ_thuật  thời_trang  âm_nhạc và ẩm_thực của đất_nước hình chiếc ủng 
-1,sự hòa_quyện của những nghệ_sĩ trẻ ý và việt_nam trong sự_kiện này chắc_chắn sẽ giới_thiệu phần_nào âm_sắc riêng của hai nền văn_hóa đông_tây như một cuộc gặp_gỡ đầy thú_vị cho việc phát_triển bản_sắc của mỗi đất_nước 
-2,đại_sứ_quán italy tại việt_nam bà cecilia_piccioni chia_sẻ   ước_mơ của tôi muốn biến góc_phố lê_phụng_hiểu thành một góc_phố italy  và điều này đã thành hiện_thực 
-3,tại đây chúng_tôi sẽ có cơ_hội giới_thiệu nhiều hơn về đất_nước  con_người ý đến các bạn ” 
-4,ngoài_ra  đến với sự_kiện  các vị khách sẽ có cơ_hội thưởng_thức những món ăn truyền_thống nổi_tiếng  những thiết_kế italy được sản_xuất tại việt_nam và các tác_phẩm nhiếp_ảnh mang tính biểu_tượng của đất_nước xinh_đẹp nằm trên bờ biển địa_trung_hải này 
-5,chặng đường 70 năm với nhiều thay_đổi và phát_triển  nước ý được coi là một trong những biểu_tượng thời_trang của thế_giới 
-6,mối quan_hệ hợp_tác  hỗ_trợ  sẻ chia trên nhiều lĩnh_vực giữa hai dân_tộc đã được bồi_đắp từ những năm chiến_tranh 
-7,đặc_biệt trong lĩnh_vực thời_trang ngày_càng được thúc_đẩy mạnh_mẽ hơn 
-8,sự ra_đời của hội_đồng_thời_trang ý  việt cách đây 3 năm tại bảo_tàng museo di_roma đã mang lại những kết_quả tốt_đẹp 
-9,nhân_dịp này trong bộ sưu_tập thời_trang của mình  những nhà thiết_kế hàng_đầu của việt_nam như  minh_hạnh  xuân_hảo  và quan_huy đã lấy ý_tưởng từ những con tem nước ý để thể_hiện nét đẹp tiêu_biểu cũng như sự phát_triển trong 7 thập_niên của đất_nước được mệnh_danh là cái nôi thời_trang thế_giới 
-10,nhà thiết_kế minh_hạnh cho biết  “ bên_cạnh những người_mẫu chuyên_nghiệp là sự hiện_diện  tham_gia trình_diễn của chính những người italy đang sinh_sống và làm_việc tại việt_nam  đặc_biệt là sự xuất_hiện của các em nhỏ italy sẽ mang lại một tinh_thần italy một_cách tự_nhiên  gần_gũi nhất ” 
+0,nhân_dịp ta một hành_trình khám_phá nét đặc_trưng về văn_hóa nghệ_thuật thời_trang âm_nhạc ẩm_thực đất_nước hình ủng
+1,hòa_quyện nghệ_sĩ trẻ ý việt_nam trong sự_kiện chắc_chắn giới_thiệu phần_nào âm_sắc riêng hai nền văn_hóa đông_tây một cuộc gặp_gỡ đầy thú_vị phát_triển bản_sắc đất_nước
+2,đại_sứ_quán italy việt_nam bà cecilia_piccioni chia_sẻ ước_mơ tôi muốn biến góc_phố lê_phụng_hiểu thành một góc_phố italy thành hiện_thực
+3,chúng_tôi cơ_hội giới_thiệu hơn về đất_nước con_người ý đến bạn ”
+4,ngoài_ra đến sự_kiện vị khách cơ_hội thưởng_thức món ăn truyền_thống nổi_tiếng thiết_kế italy sản_xuất việt_nam tác_phẩm nhiếp_ảnh mang tính biểu_tượng đất_nước xinh_đẹp nằm bờ biển địa_trung_hải
+5,chặng đường 70 năm thay_đổi phát_triển nước ý coi một trong biểu_tượng thời_trang thế_giới
+6,mối quan_hệ hợp_tác hỗ_trợ sẻ chia lĩnh_vực giữa hai dân_tộc bồi_đắp năm chiến_tranh
+7,đặc_biệt trong lĩnh_vực thời_trang ngày_càng thúc_đẩy mạnh_mẽ hơn
+8,ra_đời hội_đồng_thời_trang ý việt cách 3 năm bảo_tàng museo di_roma mang kết_quả tốt_đẹp
+9,nhân_dịp trong bộ sưu_tập thời_trang mình nhà thiết_kế hàng_đầu việt_nam minh_hạnh xuân_hảo quan_huy lấy ý_tưởng con tem nước ý thể_hiện nét đẹp tiêu_biểu phát_triển trong 7 thập_niên đất_nước mệnh_danh nôi thời_trang thế_giới
+10,nhà thiết_kế minh_hạnh biết “ bên_cạnh người_mẫu chuyên_nghiệp hiện_diện tham_gia trình_diễn chính người italy sinh_sống làm_việc việt_nam đặc_biệt xuất_hiện em nhỏ italy mang một tinh_thần italy tự_nhiên gần_gũi nhất ”

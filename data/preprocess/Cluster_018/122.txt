@@ -1,37 +1,37 @@
 idx, sentence
-0,theo báo giao_thông  trưa 19/5  sở y_tế đồng_tháp cho biết  dựa vào các triệu_chứng lâm_sàng  kết_quả thu_thập thông_tin từ gia_đình  bệnh_viện đa_khoa đồng_tháp 
-1,sở y_tế đã có kết_luận ban_đầu vụ ngộ_độc thực_phẩm ở khóm 4  phường 6  tp cao_lãnh  đồng_tháp  có liên_quan đến món khổ qua xào cóc 
-2,nguyên_nhân gây ra ngộ_độc là khổ qua xào với cóc  nhái  ếch  trong đó cóc chưa loại_bỏ hết nội_tạng mà đem chế_biến 
-3,căn_nguyên gây ra ngộ_độc cóc 
-4,theo anh trần_văn_sơn em  ngụ khóm 4  phường 6  tp cao_lãnh   tối 16/5 anh đi soi và bắt hơn 1 kg cóc  nhái và ếch 
-5,sáng hôm sau  chị nguyễn_thị_kim_loan  vợ anh em  đem ra làm_thịt phân_nửa và chế_biến món kho sả ớt cho gia_đình ăn  số còn lại dành phần cho bữa cơm chiều 
-6,sau bữa ăn  mọi người vẫn khỏe bình_thường 
-7,đến chiều 17/5  chị loan tiếp_tục làm_thịt số cóc  nhái  ếch còn lại và xào với khổ_qua cho 9 thành_viên trong gia_đình cùng ăn 
-8,tuy_nhiên  nội_tạng 4 con cóc không bị loại_bỏ  bé trần_nguyễn_hoài_nam  4 tuổi được ưu_tiên cho ăn phần gan và bao_tử 
-9,đến khoảng 18 h cùng ngày  bé nam bị nôn nhiều  chân_tay lạnh  môi tím  tim đập chậm  gia_đình đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị nhưng đã tử_vong sau đó 
-10,hai bé nguyễn_kim_hà và nguyễn_kim_yến cùng có dấu_hiệu như bé nam nên gia_đình đưa cả hai vào bệnh_viện cấp_cứu  điều_trị 
-11,hiện sức_khỏe ổn_định 
-12,vì_sao thịt cóc lại gây ngộ_độc 
-13,theo các chuyên_gia  thịt cóc chứa nhiều đạm và kẽm  tuy_nhiên nhiều bộ_phận khác lại chứa nhiều độc_tố 
-14,độc_tố chết người tetrodotoxin có trong cá_nóc cũng tồn_tại ở nọc cóc 
-15,người ăn phải sẽ khiến mạch_đập nhanh  tăng huyết_áp  … tử_vong nếu không được chữa_trị kịp_thời 
-16,ngoài_ra  gan  trứng  da  mủ  mắt và hạch thần_kinh  dọc hai sống lưng  của cóc còn có bufotenin  một chất cực độc  dễ gây chết người  chế_biến ở nhiệt_độ cao cũng khó bị phân hủy 
-17,các chuyên_gia cho biết  lượng bufotenin trong một con cóc có_thể khiến 45 người khỏe_mạnh tử_vong 
-18,dù qua cơn nguy_kịch  nạn_nhân vẫn có những di_chứng như suy thận  ảnh_hưởng thần_kinh … khi chế_biến không cẩn_thận  chất_độc có_thể dính vào thịt cóc và gây hoạ cho người dùng 
-19,triệu_chứng ngộ_độc thời_gian biểu_hiện các triệu_chứng ngộ_độc là từ khoảng 30 phút đến 2 giờ sau khi ăn thịt cóc 
-20,ngoài các triệu_chứng ngộ_độc thực_phẩm thông_thường như buồn_nôn  nôn  đau bụng  hoa_mắt chóng_mặt  thì chất bufotenin trong thịt cóc làm người_bệnh xuất_hiện các hội_chứng tim_mạch và rối_loạn thần_kinh  tâm_thần 
-21,nạn_nhân có các biểu_hiện như cảm_thấy hồi_hộp  huyết_áp cao hoặc tụt huyết_áp  chân_tay lạnh  bị ảo_giác  chảy rãi  đổ mồ_hôi  thậm_chí ngưng thở và tử_vong 
-22,ngộ_độc cóc và cách sơ_cứu sơ_cứu kịp_thời  đúng cách sẽ hạn_chế trường_hợp xấu nhất xảy ra 
-23,sau khi ăn thịt cóc hoặc trong khoảng 30 phút  nạn_nhân sẽ có các biểu_hiện buồn_nôn  đau_đầu  trướng_bụng 
-24,lúc này  cần nhanh_chóng tiến_hành gây nôn cho nạn_nhân  cho nạn_nhân nằm nghiêng rồi móc họng hoặc nạn_nhân tự làm  để loại_bỏ tối_đa độc_tố trong cơ_thể 
-25,khi gặp người bị ngộ_độc thịt cóc  cần nhanh_chóng gây nôn để loại_bỏ độc_tố  rửa dạ_dày bằng dung_dịch tanin 2   dung_dịch thuốc_tím 1/5__000 
-26,cho nạn_nhân uống nước cam_thảo  lòng trắng trứng hoặc nước luộc đỗ_xanh 
-27,có_thể cho nạn_nhân uống than hoạt_tính để hấp_thụ độc_tố còn trong cơ_thể 
-28,tuyệt_đối không được dùng adrenalin  ouabain để tránh gây nguy_hiểm 
-29,sau đó phải nhanh_chóng đưa đi cấp_cứu để các bác_sĩ tiến_hành các biện_pháp đào_thải độc_tố chuyên_nghiệp cũng như điều_trị triệt_để các triệu_chứng đi kèm 
-30,để phòng_ngừa ngộ_độc do ăn cóc  mọi người cần hạn_chế loại thực_phẩm này 
-31,với trẻ nhỏ  phụ_huynh không nên mạo_hiểm cho con ăn với mong_muốn chữa bệnh còi_xương hay chán_ăn 
-32,theo các chuyên_gia  vitamin d và canxi trong thịt cóc rất ít  không_thể chống còi_xương ở trẻ 
-33,thịt bò hoàn_toàn có lượng đạm tương_đương với thịt cóc 
-34,bên_cạnh đó  các món hải_sản còn có lượng kẽm nhiều hơn 
-35,cha_mẹ hoàn_toàn có_thể dùng các loại thực_phẩm này thay_vì thịt cóc  chúng lại còn có độ an_toàn cao hơn 
+0,báo giao_thông trưa 19/5 sở y_tế đồng_tháp biết dựa triệu_chứng lâm_sàng kết_quả thu_thập thông_tin gia_đình bệnh_viện đa_khoa đồng_tháp
+1,sở y_tế kết_luận ban_đầu vụ ngộ_độc thực_phẩm ở khóm 4 phường 6 tp cao_lãnh đồng_tháp liên_quan đến món khổ xào cóc
+2,nguyên_nhân gây ngộ_độc khổ xào cóc nhái ếch trong cóc loại_bỏ hết nội_tạng đem chế_biến
+3,căn_nguyên gây ngộ_độc cóc
+4,anh trần_văn_sơn em ngụ khóm 4 phường 6 tp cao_lãnh tối 16/5 anh đi soi bắt hơn 1 kg cóc nhái ếch
+5,sáng hôm chị nguyễn_thị_kim_loan vợ anh em đem làm_thịt phân_nửa chế_biến món kho sả ớt gia_đình ăn số còn dành phần bữa cơm chiều
+6,bữa ăn mọi người khỏe bình_thường
+7,đến chiều 17/5 chị loan tiếp_tục làm_thịt số cóc nhái ếch còn xào khổ_qua 9 thành_viên trong gia_đình ăn
+8,tuy_nhiên nội_tạng 4 con cóc loại_bỏ bé trần_nguyễn_hoài_nam 4 tuổi ưu_tiên ăn phần gan bao_tử
+9,đến khoảng 18 h ngày bé nam nôn chân_tay lạnh môi tím tim đập chậm gia_đình đưa bé đến bệnh_viện đa_khoa đồng_tháp điều_trị tử_vong
+10,hai bé nguyễn_kim_hà nguyễn_kim_yến dấu_hiệu bé nam gia_đình đưa hai bệnh_viện cấp_cứu điều_trị
+11,hiện sức_khỏe ổn_định
+12,vì_sao thịt cóc gây ngộ_độc
+13,chuyên_gia thịt cóc chứa đạm kẽm tuy_nhiên bộ_phận khác chứa độc_tố
+14,độc_tố chết người tetrodotoxin trong cá_nóc tồn_tại ở nọc cóc
+15,người ăn khiến mạch_đập nhanh tăng huyết_áp … tử_vong chữa_trị kịp_thời
+16,ngoài_ra gan trứng da mủ mắt hạch thần_kinh dọc hai sống lưng cóc còn bufotenin một chất cực độc dễ gây chết người chế_biến ở nhiệt_độ cao khó phân hủy
+17,chuyên_gia biết lượng bufotenin trong một con cóc khiến 45 người khỏe_mạnh tử_vong
+18,dù cơn nguy_kịch nạn_nhân di_chứng suy thận ảnh_hưởng thần_kinh … chế_biến cẩn_thận chất_độc dính thịt cóc gây hoạ người dùng
+19,triệu_chứng ngộ_độc thời_gian biểu_hiện triệu_chứng ngộ_độc khoảng 30 phút đến 2 giờ ăn thịt cóc
+20,ngoài triệu_chứng ngộ_độc thực_phẩm thông_thường buồn_nôn nôn đau bụng hoa_mắt chóng_mặt chất bufotenin trong thịt cóc làm người_bệnh xuất_hiện hội_chứng tim_mạch rối_loạn thần_kinh tâm_thần
+21,nạn_nhân biểu_hiện cảm_thấy hồi_hộp huyết_áp cao hoặc tụt huyết_áp chân_tay lạnh ảo_giác chảy rãi đổ mồ_hôi thậm_chí ngưng thở tử_vong
+22,ngộ_độc cóc cách sơ_cứu sơ_cứu kịp_thời đúng cách hạn_chế trường_hợp xấu nhất xảy
+23,ăn thịt cóc hoặc trong khoảng 30 phút nạn_nhân biểu_hiện buồn_nôn đau_đầu trướng_bụng
+24,nhanh_chóng tiến_hành gây nôn nạn_nhân nạn_nhân nằm nghiêng móc họng hoặc nạn_nhân tự làm loại_bỏ tối_đa độc_tố trong cơ_thể
+25,gặp người ngộ_độc thịt cóc nhanh_chóng gây nôn loại_bỏ độc_tố rửa dạ_dày bằng dung_dịch tanin 2 dung_dịch thuốc_tím 1/5__000
+26,nạn_nhân uống nước cam_thảo lòng trắng trứng hoặc nước luộc đỗ_xanh
+27,nạn_nhân uống than hoạt_tính hấp_thụ độc_tố còn trong cơ_thể
+28,tuyệt_đối dùng adrenalin ouabain tránh gây nguy_hiểm
+29,nhanh_chóng đưa đi cấp_cứu bác_sĩ tiến_hành biện_pháp đào_thải độc_tố chuyên_nghiệp điều_trị triệt_để triệu_chứng đi kèm
+30,phòng_ngừa ngộ_độc ăn cóc mọi người hạn_chế loại thực_phẩm
+31,trẻ nhỏ phụ_huynh mạo_hiểm con ăn mong_muốn chữa bệnh còi_xương hay chán_ăn
+32,chuyên_gia vitamin d canxi trong thịt cóc ít không_thể chống còi_xương ở trẻ
+33,thịt bò hoàn_toàn lượng đạm tương_đương thịt cóc
+34,bên_cạnh món hải_sản còn lượng kẽm hơn
+35,cha_mẹ hoàn_toàn dùng loại thực_phẩm thay_vì thịt cóc chúng còn độ an_toàn cao hơn

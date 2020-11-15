@@ -1,4 +1,4 @@
 idx, sentence
-0,mặc_dù hơn đối_thủ 100 bậc  tay_vợt số 1 việt_nam đã gặp nhiều vất_vả trong ván đầu và chỉ thắng với điểm_số 21/18 
-1,sang ván 2  tiến_minh mới tạo cách_biệt rõ_rệt thắng dễ với điểm_số 21/8 
-2,lọt vào vòng 2  tiến_minh sẽ gặp tay_vợt hạng 251 thế_giới jiann_shiarng_chiang  malaysia  
+0,mặc_dù hơn đối_thủ 100 bậc tay_vợt số 1 việt_nam gặp vất_vả trong ván đầu thắng điểm_số 21/18
+1,sang ván 2 tiến_minh mới tạo cách_biệt rõ_rệt thắng dễ điểm_số 21/8
+2,lọt vòng 2 tiến_minh gặp tay_vợt hạng 251 thế_giới jiann_shiarng_chiang malaysia

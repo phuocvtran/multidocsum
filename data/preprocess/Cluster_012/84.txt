@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 20/5  công_an huyện phú_giáo  bình_dương  đã bắt_giữ nguyễn_thanh_sơn  25 tuổi  và trương_thị_hồng_nhung  22 tuổi  để điều_tra về hành_vi cướp tài_sản 
-1,theo điều_tra  tối hai hôm trước  sơn chạy xe_máy chở nhung  dùng roi điện chặn người phụ_nữ đi đường cướp giỏ xách rồi tẩu_thoát 
-2,nhận tin báo  công_an huyện phú_giáo đã huy_động hàng trăm người trên các địa_bàn lân_cận tổ_chức chốt chặn  truy bắt hai tên cướp 
-3,đến sáng nay  cảnh_sát ập vào khu nhà_trọ trên địa_bàn  bắt_giữ sơn và nhung cùng tang_vật liên_quan 
-4,đôi tình_nhân khai đi cướp để có tiền sử_dụng ma_túy 
-5,bước đầu cơ_quan điều_tra xác_định  nhung và sơn đã thực_hiện trót_lọt 12 vụ cướp ở huyện bàu_bàng và phú_giáo 
+0,ngày 20/5 công_an huyện phú_giáo bình_dương bắt_giữ nguyễn_thanh_sơn 25 tuổi trương_thị_hồng_nhung 22 tuổi điều_tra về hành_vi cướp tài_sản
+1,điều_tra tối hai hôm sơn chạy xe_máy chở nhung dùng roi điện chặn người phụ_nữ đi đường cướp giỏ xách tẩu_thoát
+2,nhận tin báo công_an huyện phú_giáo huy_động hàng trăm người địa_bàn lân_cận tổ_chức chốt chặn truy bắt hai tên cướp
+3,đến sáng nay cảnh_sát ập khu nhà_trọ địa_bàn bắt_giữ sơn nhung tang_vật liên_quan
+4,đôi tình_nhân khai đi cướp tiền sử_dụng ma_túy
+5,bước đầu cơ_quan điều_tra xác_định nhung sơn thực_hiện trót_lọt 12 vụ cướp ở huyện bàu_bàng phú_giáo

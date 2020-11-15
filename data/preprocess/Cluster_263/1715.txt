@@ -1,8 +1,8 @@
 idx, sentence
-0,ông vương_nghị đã tỏ ra giận_dữ với phóng_viên của trang tin ipolitics trong buổi họp_báo tại ottawa  đồng_thời gọi câu hỏi của cô là “ đầy thành_kiến đối_với trung_quốc ” 
-1,“ tôi không biết cô lấy thái_độ đó từ đâu 
-2,thật hoàn_toàn không chấp_nhận được ”  ông vương_nghị nói thông_qua một phiên_dịch 
-3,“ tôi phải hỏi liệu cô có hiểu về trung_quốc 
-4,cô đã đến trung_quốc chưa 
-5,cô có biết trung_quốc đã đưa hơn 600 triệu người thoát nghèo và hiện là nền kinh_tế lớn thứ hai thế_giới 
-6,cô có nghĩ liệu trung_quốc có_thể phát_triển như_vậy nếu không bảo_vệ nhân_quyền  ”  ông vương_nghị nói 
+0,ông vương_nghị tỏ giận_dữ phóng_viên trang tin ipolitics trong buổi họp_báo ottawa đồng_thời gọi câu hỏi cô “ đầy thành_kiến đối_với trung_quốc ”
+1,“ tôi biết cô lấy thái_độ đâu
+2,thật hoàn_toàn chấp_nhận ” ông vương_nghị nói thông_qua một phiên_dịch
+3,“ tôi hỏi liệu cô hiểu về trung_quốc
+4,cô đến trung_quốc
+5,cô biết trung_quốc đưa hơn 600 triệu người thoát nghèo hiện nền kinh_tế lớn thứ hai thế_giới
+6,cô nghĩ liệu trung_quốc phát_triển như_vậy bảo_vệ nhân_quyền ” ông vương_nghị nói

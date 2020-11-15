@@ -1,13 +1,13 @@
 idx, sentence
-0,cách đây ít_hôm  công_ty cổ_phần bóng_đá chuyên_nghiệp việt_nam vpf đã có công_văn gửi hội_cđv_than quảng_ninh đề_nghị chấm_dứt tình_trạng sử_dụng loa điện trong hoạt_động cổ_vũ 
-1,lý_do được vpf đưa ra là công_suất quá lớn phát ra từ các loa điện đã làm ảnh_hưởng tới công_tác an_ninh  an_toàn  tổ_chức  điều_hành và thi_đấu của trận đấu 
-2,cđv than quảng_ninh tất_nhiên không đồng_ý với lệnh_cấm trên 
-3,và để phản_đối yêu_cầu từ vpf  rất đông người hâm_mộ đội bóng đất mỏ đã đeo khẩu_trang kín_mít đi cổ_vũ cho đội nhà trong trận đấu với xskt cần_thơ diễn ra vào chiều nay 
-4,ngoài việc đeo khẩu_trang  các cổ_động_viên còn mặc áo gắn thêm dòng chữ  vleague_silent   tạm dịch  vleague im_lặng  
-5,không chỉ cổ_vũ theo cách chả giống ai  những cđv than quảng_ninh còn quyết_định không vào sân cẩm_phả như thường_lệ  thay vào đó họ xếp hàng trăm ghế nhựa ngồi ngay sát lối ra vào sân 
-6,dù_vậy  khi trận đấu diễn ra đã không còn cảnh cổ_động_viên xếp ghế bên ngoài sân_vận_động  tất_cả đã di_chuyển vào trong sân 
-7,tuy_nhiên  khán_đài b  nơi vẫn thường được phủ_xanh bởi hàng trăm cđv cuồng_nhiệt đã trở_nên trống_trơn 
-8,đứng trước sự_việc  cả vpf lẫn cđv than quảng_ninh đều có cái lý của mình 
-9,hội cđv than quảng_ninh thắc_mắc vpf tại_sao không đưa ra quy_định từ đầu mùa 
-10,còn về phía vpf cũng kiên_quyết không nhượng_bộ 
-11,phó tgđ_vpf  trưởng btc giải vleague ông nguyễn_minh_ngọc mới_đây khẳng_định  vpf sẽ yêu_cầu btc các sân quán_triệt quy_định trên  và sẽ xử_phạt các trường_hợp vi_phạm 
+0,cách ít_hôm công_ty cổ_phần bóng_đá chuyên_nghiệp việt_nam vpf công_văn gửi hội_cđv_than quảng_ninh đề_nghị chấm_dứt tình_trạng sử_dụng loa điện trong hoạt_động cổ_vũ
+1,lý_do vpf đưa công_suất quá lớn phát loa điện làm ảnh_hưởng tới công_tác an_ninh an_toàn tổ_chức điều_hành thi_đấu trận đấu
+2,cđv than quảng_ninh tất_nhiên đồng_ý lệnh_cấm
+3,phản_đối yêu_cầu vpf đông người hâm_mộ đội bóng đất mỏ đeo khẩu_trang kín_mít đi cổ_vũ đội nhà trong trận đấu xskt cần_thơ diễn chiều nay
+4,ngoài đeo khẩu_trang cổ_động_viên còn mặc áo gắn thêm dòng chữ vleague_silent tạm dịch vleague im_lặng
+5,cổ_vũ cách chả giống ai cđv than quảng_ninh còn quyết_định sân cẩm_phả thường_lệ thay họ xếp hàng trăm ghế nhựa ngồi sát lối sân
+6,dù_vậy trận đấu diễn còn cảnh cổ_động_viên xếp ghế bên ngoài sân_vận_động tất_cả di_chuyển trong sân
+7,tuy_nhiên khán_đài b thường phủ_xanh hàng trăm cđv cuồng_nhiệt trở_nên trống_trơn
+8,đứng sự_việc vpf lẫn cđv than quảng_ninh lý mình
+9,hội cđv than quảng_ninh thắc_mắc vpf tại_sao đưa quy_định đầu mùa
+10,còn về phía vpf kiên_quyết nhượng_bộ
+11,phó tgđ_vpf trưởng btc giải vleague ông nguyễn_minh_ngọc mới_đây khẳng_định vpf yêu_cầu btc sân quán_triệt quy_định xử_phạt trường_hợp vi_phạm

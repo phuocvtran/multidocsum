@@ -1,9 +1,9 @@
 idx, sentence
-0,sáng 3/6  cơ_quan điều_tra công_an tp_vinh và cơ_quan cảnh_sát điều_tra công_an tỉnh nghệ_an đang khẩn_trương điều_tra  truy bắt nam thanh_niên chém chết một người và một người khác bị_thương vào ngày 2/6 
-1,thông_tin ban_đầu mà pv có được  trưa 2/6 một căn nhà trên đường đặng_văn_thuỵ  khối 15  phường cửa_nam  tp_vinh  tổ_chức đám giỗ 
-2,khoảng 13 h30 ’ khi vừa kết_thúc đám giỗ  anh võ_đình_toàn  28 tuổi  trú khối quang_trung  phường vinh_tân  tp vinh  cùng một người phụ_nữ tên h bất_ngờ xảy ra mâu_thuẫn  cãi_cọ với một nam thanh_niên có_mặt tại đây 
-3,trong lúc xô_xát  nam thanh_niên này bất_ngờ dùng dao chém trọng_thương anh toàn và chị h rồi nhanh chân bỏ trốn khỏi hiện_trường 
-4,phát_hiện sự_việc trên  người dân đã đưa 2 nạn_nhân đi cấp_cứu tại bệnh_viện trong tình_trạng khá nguy_kịch với nhiều vết chém nguy_hiểm trên người 
-5,sau nhiều giờ cấp_cứu nhưng do vết_thương quá nặng  đến khoảng 21 h35 ’ tối 2/6  anh toàn tử_vong và được người_thân đưa về nhà 
-6,nhận được tin báo từ phía gia_đình  22 h30 ’ cùng ngày  cơ_quan giám_định pháp_y công_an tỉnh nghệ_an đã có_mặt để khám_nghiệm tử_thi  điều_tra nguyên_nhân vụ_việc 
-7,sau khi hoàn_tất việc khám_nghiệm  thi_thể nạn_nhân được bàn_giao cho gia_đình để làm thủ_tục mai_táng 
+0,sáng 3/6 cơ_quan điều_tra công_an tp_vinh cơ_quan cảnh_sát điều_tra công_an tỉnh nghệ_an khẩn_trương điều_tra truy bắt nam thanh_niên chém chết một người một người khác bị_thương ngày 2/6
+1,thông_tin ban_đầu pv trưa 2/6 một căn nhà đường đặng_văn_thuỵ khối 15 phường cửa_nam tp_vinh tổ_chức đám giỗ
+2,khoảng 13 h30 ’ kết_thúc đám giỗ anh võ_đình_toàn 28 tuổi trú khối quang_trung phường vinh_tân tp vinh một người phụ_nữ tên h bất_ngờ xảy mâu_thuẫn cãi_cọ một nam thanh_niên có_mặt
+3,trong xô_xát nam thanh_niên bất_ngờ dùng dao chém trọng_thương anh toàn chị h nhanh chân bỏ trốn khỏi hiện_trường
+4,phát_hiện sự_việc người dân đưa 2 nạn_nhân đi cấp_cứu bệnh_viện trong tình_trạng khá nguy_kịch vết chém nguy_hiểm người
+5,giờ cấp_cứu vết_thương quá nặng đến khoảng 21 h35 ’ tối 2/6 anh toàn tử_vong người_thân đưa về nhà
+6,nhận tin báo phía gia_đình 22 h30 ’ ngày cơ_quan giám_định pháp_y công_an tỉnh nghệ_an có_mặt khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc
+7,hoàn_tất khám_nghiệm thi_thể nạn_nhân bàn_giao gia_đình làm thủ_tục mai_táng

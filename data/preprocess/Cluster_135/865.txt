@@ -1,13 +1,13 @@
 idx, sentence
-0,bầu_không_khí thù_địch luôn là đặc_trưng trong những cuộc chám trán giữa mu và liverpool 
-1,2 trận đấu lượt đi và về thuộc vòng 1/8 europa_league mùa này giữa 2 clb cũng không phải là ngoại_lệ 
-2,cđv 2 đội đã chế_giễu lẫn nhau  quậy_phá trên khán_đài và kết_cục là mu cùng liverpool phải nhận những án phạt nặng từ uefa 
-3,ở trận lượt đi trên sân_anfield  các cđv_mu đã hát_vang các ca_khúc gọi liverpool là “ những kẻ giết người ”  gợi nhớ tới thảm_họa đau_buồn hillsborough trong lịch_sử the_kop 
-4,các cđv_liverpool cũng không kém_cạnh và đã trả_đũa trong trận lượt_về trên sân old_trafford 
-5,họ hô vang  “ manchester là lũ rác_rưởi ”  đồng_thời hát những ca_khúc ám_chỉ thảm_họa máy_bay munich  vụ tai_nạn đã lấy đi sinh_mạng của rất nhiều thành_viên mu năm 1958 
-6,điều này đã dẫn đến một cuộc ẩu_đả trên khán_đài sân old_trafford 
-7,cảnh_sát manchester đã phải thực_hiện 5 vụ bắt_giữ để ổn_định tình_hình 
-8,với những gì đã xảy ra  uefa đã quyết_định phạt nặng mu và liverpool 
-9,mỗi clb phải nộp 30000 bảng vì để cđv hát những ca_khúc mang tính xúc_phạm đối_phương 
-10,liverpool bị phạt thêm 13000 bảng vì để cđv đốt pháo sáng  ném đồ_vật  gây rối_loạn đám đông 
-11,mu cũng phải nộp thêm 13740 bảng vì các hành_vi tương_tự của cđv 
+0,bầu_không_khí thù_địch luôn đặc_trưng trong cuộc chám trán giữa mu liverpool
+1,2 trận đấu lượt đi về thuộc vòng 1/8 europa_league mùa giữa 2 clb ngoại_lệ
+2,cđv 2 đội chế_giễu lẫn nhau quậy_phá khán_đài kết_cục mu liverpool nhận án phạt nặng uefa
+3,ở trận lượt đi sân_anfield cđv_mu hát_vang ca_khúc gọi liverpool “ kẻ giết người ” gợi nhớ tới thảm_họa đau_buồn hillsborough trong lịch_sử the_kop
+4,cđv_liverpool kém_cạnh trả_đũa trong trận lượt_về sân old_trafford
+5,họ hô vang “ manchester lũ rác_rưởi ” đồng_thời hát ca_khúc ám_chỉ thảm_họa máy_bay munich vụ tai_nạn lấy đi sinh_mạng thành_viên mu năm 1958
+6,dẫn đến một cuộc ẩu_đả khán_đài sân old_trafford
+7,cảnh_sát manchester thực_hiện 5 vụ bắt_giữ ổn_định tình_hình
+8,xảy uefa quyết_định phạt nặng mu liverpool
+9,clb nộp 30000 bảng cđv hát ca_khúc mang tính xúc_phạm đối_phương
+10,liverpool phạt thêm 13000 bảng cđv đốt pháo sáng ném đồ_vật gây rối_loạn đám đông
+11,mu nộp thêm 13740 bảng hành_vi tương_tự cđv

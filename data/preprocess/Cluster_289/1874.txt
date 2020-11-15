@@ -1,17 +1,17 @@
 idx, sentence
-0,trước đó lúc 9 giờ sáng cùng ngày  chị nguyễn_thị_ngọc  sn 1979  chủ tiệm vàng kim_hoàng  ngụ khu_phố 7  phường tương_bình_hiệp  tp thủ_dầu_một  điều_khiển xe ôtô loại 5 chỗ hiệu laser  biển kiểm_soát 93h6789 chở hai con nhỏ đến quán cà_phê “ có ” tại địa_phương 
-1,khi chị ngọc vừa xuống xe để đưa các con vào quán thì bất_ngờ đối_tượng lê_trung_hiếu  sn 1989  ngụ khu_phố 5  phường tương_bình_hiệp  lên xe bật chìa_khóa khởi_động máy lấy trộm xe rồi bỏ chạy về hướng tphcm
-2,phát_hiện bị trộm xe  chị ngọc tri_hô cho người dân đuổi theo 
-3,chạy được khoảng 700 mét  khi đến ngã 3 suối giữa  đại_lộ bình_dương  phường tương_bình_hiệp   hiếu phóng xe với tốc_độ nhanh đã tông vào xe ba_gác do một thanh_niên điều_khiển đang băng qua đường 
-4,cú tông mạnh làm tài_xế xe ba_gác  chưa rõ danh_tính  bị_thương nặng  được người dân đưa vào bệnh_viện gần đó cấp_cứu 
-5,sau khi tông vào xe ba_gác  hiếu không_thể điều_khiển được xe mà tiếp_tục nhấn ga khiến ôtô lao thêm khoảng 20 mét  tông sập trụ điện bên đường rồi lao luôn vào quán cà_phê nằm ở góc đường làm_hỏng rất nhiều đồ_đạc  sập mái_che quán cà_phê 
-6,rất may  vào thời_điểm này trong quán có nhiều khách uống cà_phê  nhưng họ kịp_thời phát_hiện khi chiếc ôtô tông xe ba_gác lúc giữa đường rồi lao về hướng quán cà_phê nên tất_cả đã bỏ chạy kịp_thời 
-7,chiếc ôtô tông hỏng các chậu kiểng  cột sắt và nhiều vật_dụng cùng với một chiếc xe_máy hiệu air_blade rồi mới dừng lại và quay đầu ngược ra ngoài 
-8,lúc này người dân chạy đến thì thấy hiếu ngồi trong xe 
-9,tên này không bị_thương nhờ xe có túi khí 
-10,tuy_nhiên  hiếu cố_thủ  ngồi trong xe nhún_nhảy  hành_động của một người bị “ ngáo đá ” 
-11,cú tông cũng làm chiếc ôtô hư_hỏng rất nặng phần đầu 
-12,nhận tin báo  công_an phường tương_bình_hiệp đã cử lực_lượng đến hiện_trường mở_cửa đưa hiếu ra ngoài rồi chở về trụ_sở công_an phường để làm_việc 
-13,tại cơ_quan công_an  hiếu không khai_báo gì mà chỉ nói_năng lung_tung  mặc_dù bị còng tay nhưng đối_tượng vẫn vui_cười  ngồi trên gh tay_chân liên_tục lắc 
-14,một cán_bộ công_an cho biết  hiếu nghiện ma_túy nặng  là đối_tượng ma_túy đang được địa_phương theo_dõi 
-15,chị ngọc cho biết  do có ý_định đưa hai còn vào quán cà_phê rồi chạy xe về nhà có việc gấp nên chị tắt máy xe mà không rút chìa_khóa  hiếu đã mở_cửa lấy trộm xe 
+0,9 giờ sáng ngày chị nguyễn_thị_ngọc sn 1979 chủ tiệm vàng kim_hoàng ngụ khu_phố 7 phường tương_bình_hiệp tp thủ_dầu_một điều_khiển xe ôtô loại 5 chỗ hiệu laser biển kiểm_soát 93h6789 chở hai con nhỏ đến quán cà_phê “ ” địa_phương
+1,chị ngọc xuống xe đưa con quán bất_ngờ đối_tượng lê_trung_hiếu sn 1989 ngụ khu_phố 5 phường tương_bình_hiệp xe bật chìa_khóa khởi_động máy lấy trộm xe bỏ chạy về hướng tphcm
+2,phát_hiện trộm xe chị ngọc tri_hô người dân đuổi
+3,chạy khoảng 700 mét đến ngã 3 suối giữa đại_lộ bình_dương phường tương_bình_hiệp hiếu phóng xe tốc_độ nhanh tông xe ba_gác một thanh_niên điều_khiển băng đường
+4,cú tông mạnh làm tài_xế xe ba_gác rõ danh_tính bị_thương nặng người dân đưa bệnh_viện gần cấp_cứu
+5,tông xe ba_gác hiếu không_thể điều_khiển xe tiếp_tục nhấn ga khiến ôtô lao thêm khoảng 20 mét tông sập trụ điện bên đường lao luôn quán cà_phê nằm ở góc đường làm_hỏng đồ_đạc sập mái_che quán cà_phê
+6,may thời_điểm trong quán khách uống cà_phê họ kịp_thời phát_hiện ôtô tông xe ba_gác giữa đường lao về hướng quán cà_phê tất_cả bỏ chạy kịp_thời
+7,ôtô tông hỏng chậu kiểng cột sắt vật_dụng một xe_máy hiệu air_blade mới dừng quay đầu ngược ngoài
+8,người dân chạy đến thấy hiếu ngồi trong xe
+9,tên bị_thương nhờ xe túi khí
+10,tuy_nhiên hiếu cố_thủ ngồi trong xe nhún_nhảy hành_động một người “ ngáo đá ”
+11,cú tông làm ôtô hư_hỏng nặng phần đầu
+12,nhận tin báo công_an phường tương_bình_hiệp cử lực_lượng đến hiện_trường mở_cửa đưa hiếu ngoài chở về trụ_sở công_an phường làm_việc
+13,cơ_quan công_an hiếu khai_báo nói_năng lung_tung mặc_dù còng tay đối_tượng vui_cười ngồi gh tay_chân liên_tục lắc
+14,một cán_bộ công_an biết hiếu nghiện ma_túy nặng đối_tượng ma_túy địa_phương theo_dõi
+15,chị ngọc biết ý_định đưa hai còn quán cà_phê chạy xe về nhà gấp chị tắt máy xe rút chìa_khóa hiếu mở_cửa lấy trộm xe

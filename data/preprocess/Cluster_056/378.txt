@@ -1,8 +1,8 @@
 idx, sentence
-0,mới_đây nhất  tạp_chí marie_claire đã đăng_tải hàng_loạt những hình_ảnh cưới tuyệt đẹp của cặp_đôi ahn_jae_hyun và goo_hye_sun 
-1,nữ diễn_viên  vườn sao_băng  cùng vị_hôn_phu của mình đã đến jeju để chụp 
-2,cả hai tình_tứ bên nhau giữa khung_cảnh lãng_mạn   đẹp như mơ  của hòn đảo thiên_đường này 
-3,có_thể nói  đây là lần đầu_tiên  goo_hye_sun và ahn_jae_hyun lên bìa tạp_chí với tư_cách là cặp đôi sắp cưới 
-4,goo hye_sun và ahn_jae_hyun đã chính_thức được pháp_luật công_nhận trở_thành vợ_chồng sau 2 tháng công_khai thừa_nhận yêu nhau 
-5,chiều 20/5 vừa_qua   nàng cỏ  đã bị bắt_gặp khi đang một_mình tới ủy_ban nhân_dân quận kangnam  seoul để thực_hiện thủ_tục đăng_kí kết_hôn 
-6,còn ahn_jae_hyun  do bận_rộn với lịch_trình quay_phim nên anh không_thể sánh_bước được cùng bạn gái 
+0,mới_đây nhất tạp_chí marie_claire đăng_tải hàng_loạt hình_ảnh cưới tuyệt đẹp cặp_đôi ahn_jae_hyun goo_hye_sun
+1,nữ diễn_viên vườn sao_băng vị_hôn_phu mình đến jeju chụp
+2,hai tình_tứ bên nhau giữa khung_cảnh lãng_mạn đẹp mơ hòn đảo thiên_đường
+3,nói lần đầu_tiên goo_hye_sun ahn_jae_hyun bìa tạp_chí tư_cách cặp đôi sắp cưới
+4,goo hye_sun ahn_jae_hyun chính_thức pháp_luật công_nhận trở_thành vợ_chồng 2 tháng công_khai thừa_nhận yêu nhau
+5,chiều 20/5 vừa_qua nàng cỏ bắt_gặp một_mình tới ủy_ban nhân_dân quận kangnam seoul thực_hiện thủ_tục đăng_kí kết_hôn
+6,còn ahn_jae_hyun bận_rộn lịch_trình quay_phim anh không_thể sánh_bước bạn gái

@@ -1,11 +1,11 @@
 idx, sentence
-0,cùng tham_dự lễ khai_trương còn có nguyên_ủy_viên bộ chính_trị  phó_thủ_tướng trương_vĩnh_trọng  đại_sứ việt_nam tại malaysia và đại_sứ malaysia tại việt_nam 
-1,phát_biểu tại buổi lễ  phó_thủ_tướng trịnh_đình_dũng cho rằng đây là thành_quả đáng khen_ngợi của vietjet  góp_phần vào sự phát_triển của ngành giao_thông vận_tải nói_chung  ngành hàng_không nói_riêng  thúc_đẩy du_lịch  giao_thương  hội_nhập của người_dân việt_nam và malaysia 
-2,theo phó_thủ_tướng  việt_nam và malaysia là hai nước trong khối asean có nhiều điểm tương_đồng về văn_hóa và đã thiết_lập quan_hệ ngoại_giao bền chặt trong nhiều năm qua 
-3,nhu_cầu du_lịch  giao_thương của người dân hai nước cũng tăng nhanh  do_đó việc phát_triển đường_bay giữa hai quốc_gia là yêu_cầu cấp_thiết 
-4,đường_bay tphcmkuala_lumpur được khai_thác hằng ngày  thời_gian bay khoảng 1 giờ 55 phút 
-5,chuyến bay sẽ khởi_hành từ tphcm lúc 9 h30 ’ và đến kuala_lumpur lúc 12 h25 ’  giờ_địa_phương  
-6,chiều ngược_lại khởi_hành lúc 13 h00 ’  giờ_địa_phương  từ kuala_lumpur và tới tphcm vào lúc 13 h55 ’ 
-7,chào_đón sự_kiện trên  vietjet công_bố 3 ngày vàng siêu khuyến_mại 31/5 và 1  2/6 với hàng trăm_nghìn vé tiết_kiệm giá từ 0 đồng vào khung giờ vàng 12 h  14 h  áp_dụng trên tất_cả đường_bay trong nước và quốc_tế đến malaysia  singapore  hàn_quốc  đài_loan  thái_lan và myanmar cho thời_gian bay từ 15/8 đến 31/12  trừ các ngày_lễ  tết  
-8,vietjet là hãng hàng_không đầu_tiên tại việt_nam vận_hành theo mô_hình hàng_không thế_hệ mới  chi_phí thấp và cung_cấp đa_dạng các dịch_vụ cho khách_hàng lựa_chọn 
-9,vietjet đã được hiệp_hội vận_tải hàng_không quốc_tế  iata  trao chứng_nhận an_toàn khai_thác iosa 
+0,tham_dự lễ khai_trương còn nguyên_ủy_viên bộ chính_trị phó_thủ_tướng trương_vĩnh_trọng đại_sứ việt_nam malaysia đại_sứ malaysia việt_nam
+1,phát_biểu buổi lễ phó_thủ_tướng trịnh_đình_dũng thành_quả đáng khen_ngợi vietjet góp_phần phát_triển ngành giao_thông vận_tải nói_chung ngành hàng_không nói_riêng thúc_đẩy du_lịch giao_thương hội_nhập người_dân việt_nam malaysia
+2,phó_thủ_tướng việt_nam malaysia hai nước trong khối asean điểm tương_đồng về văn_hóa thiết_lập quan_hệ ngoại_giao bền chặt trong năm
+3,nhu_cầu du_lịch giao_thương người dân hai nước tăng nhanh do_đó phát_triển đường_bay giữa hai quốc_gia yêu_cầu cấp_thiết
+4,đường_bay tphcmkuala_lumpur khai_thác hằng ngày thời_gian bay khoảng 1 giờ 55 phút
+5,chuyến bay khởi_hành tphcm 9 h30 ’ đến kuala_lumpur 12 h25 ’ giờ_địa_phương
+6,chiều ngược_lại khởi_hành 13 h00 ’ giờ_địa_phương kuala_lumpur tới tphcm 13 h55 ’
+7,chào_đón sự_kiện vietjet công_bố 3 ngày vàng siêu khuyến_mại 31/5 1 2/6 hàng trăm_nghìn vé tiết_kiệm giá 0 đồng khung giờ vàng 12 h 14 h áp_dụng tất_cả đường_bay trong nước quốc_tế đến malaysia singapore hàn_quốc đài_loan thái_lan myanmar thời_gian bay 15/8 đến 31/12 trừ ngày_lễ tết
+8,vietjet hãng hàng_không đầu_tiên việt_nam vận_hành mô_hình hàng_không thế_hệ mới chi_phí thấp cung_cấp đa_dạng dịch_vụ khách_hàng lựa_chọn
+9,vietjet hiệp_hội vận_tải hàng_không quốc_tế iata trao chứng_nhận an_toàn khai_thác iosa

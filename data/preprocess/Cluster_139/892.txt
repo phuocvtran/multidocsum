@@ -1,14 +1,14 @@
 idx, sentence
-0,sáng 27/5  thiếu_tá trần_văn_hùng  phó_trưởng công_an huyện thanh_chương xác_nhận  công_an huyện thanh_chương vừa nhận được đơn tố_cáo của một cụ ông gần 70 tuổi về việc bị hai đối_tượng lạ_mặt chặt đứt ngón tay 
-1,hiện  công_an huyện đã lấy lời khai của người bị hại và tích_cực điều_tra  truy_tìm hai đối_tượng lạ_mặt này 
-2,theo đó  người bị hại là ông nguyễn_quang_lộc  sn 1947   trú tại xóm 3  xã thanh_tường  huyện thanh_chương  nghệ_an  
-3,ông nguyễn_quang_lộc cho biết  khoảng 19 h ngày 24/5  ông đi ra quán tạp_hóa  cách nhà khoảng 500 m  để mở quán bán hàng 
-4,trên đường đi  ông gặp hai người đàn_ông đi xe_máy và hỏi ông có phải tên lộc  chủ cửa_hàng tạp_hóa không và hẹn ông lát nữa tới mua hàng 
-5,khoảng hơn 1 tiếng sau  như đã hẹn  hai người này ghé quán của ông để mua hàng là một gói bim bim 
-6,ông lộc đưa hàng và trả tiền thừa lại cho khách 
-7,tuy_nhiên  khi vừa ra đến xe_máy  người này bất_ngờ quay vào cửa_hàng  rút dao_thủ sẵn trong người và chém vào tay ông lộc khiến ngón cái của bàn_tay trái bị chém đứt lìa  rơi xuống đất  ngón cái bàn tay phải bị_thương 
-8,sau khi gây_án  đối_tượng chạy ra xe và được đồng_bọn chở đi 
-9,phát_hiện sự_việc  người_thân lập_tức sơ_cứu và chuyển ông lộc tới bệnh_viện chấn_thương chỉnh_hình nghệ_an cấp_cứu  điều_trị 
-10,ngón tay_trái của ông lộc bị đứt lài không_thể phẫu_thuật nối_lại được nữa 
-11,theo lời ông lộc  ông không rõ động_cơ  mục_đích của hai người_lạ_mặt ấy khi hành_động như_thế 
-12,một_số người hàng_xóm nói rằng  từ chiều hôm xảy ra sự_việc  hai đối_tượng lạ_mặt đã hỏi_thăm và tới tìm ông lộc 
+0,sáng 27/5 thiếu_tá trần_văn_hùng phó_trưởng công_an huyện thanh_chương xác_nhận công_an huyện thanh_chương nhận đơn tố_cáo một cụ ông gần 70 tuổi về hai đối_tượng lạ_mặt chặt đứt ngón tay
+1,hiện công_an huyện lấy lời khai người hại tích_cực điều_tra truy_tìm hai đối_tượng lạ_mặt
+2,người hại ông nguyễn_quang_lộc sn 1947 trú xóm 3 xã thanh_tường huyện thanh_chương nghệ_an
+3,ông nguyễn_quang_lộc biết khoảng 19 h ngày 24/5 ông đi quán tạp_hóa cách nhà khoảng 500 m mở quán bán hàng
+4,đường đi ông gặp hai người đàn_ông đi xe_máy hỏi ông tên lộc chủ cửa_hàng tạp_hóa hẹn ông lát tới mua hàng
+5,khoảng hơn 1 tiếng hẹn hai người ghé quán ông mua hàng một gói bim bim
+6,ông lộc đưa hàng trả tiền thừa khách
+7,tuy_nhiên đến xe_máy người bất_ngờ quay cửa_hàng rút dao_thủ sẵn trong người chém tay ông lộc khiến ngón bàn_tay trái chém đứt lìa rơi xuống đất ngón bàn tay bị_thương
+8,gây_án đối_tượng chạy xe đồng_bọn chở đi
+9,phát_hiện sự_việc người_thân lập_tức sơ_cứu chuyển ông lộc tới bệnh_viện chấn_thương chỉnh_hình nghệ_an cấp_cứu điều_trị
+10,ngón tay_trái ông lộc đứt lài không_thể phẫu_thuật nối_lại
+11,lời ông lộc ông rõ động_cơ mục_đích hai người_lạ_mặt ấy hành_động như_thế
+12,một_số người hàng_xóm nói chiều hôm xảy sự_việc hai đối_tượng lạ_mặt hỏi_thăm tới tìm ông lộc

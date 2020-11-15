@@ -1,10 +1,10 @@
 idx, sentence
-0,theo wall_street_journal  sự_việc xảy ra khi phóng_viên người canada đặt câu hỏi với ông vương_nghị về hồ_sơ nhân_quyền của trung_quốc trong cuộc họp_báo chung với người đồng_cấp canada  stephane_dion 
-1,theo ông vương  câu hỏi của nữ phóng_viên trang ipolitics là “ vô_trách_nhiệm ” khi người này đề_cập đến vụ ông kevin_garratt – một công_dân canada  đang bị tống_giam ở trung_quốc vì cáo_buộc làm gián_điệp 
-2,“ câu_hỏi của cô chứa đầy định_kiến về trung_quốc và tỏ ra ngạo_mạn 
-3,tôi không biết cô lấy thái_độ đó từ đâu 
-4,thật hoàn_toàn không chấp_nhận được ”  ông vương trả_lời nữ phóng_viên trong tâm_trạng bực_bội 
-5,sau đó  ngoại_trưởng vương_nghị hỏi lại phóng_viên rằng cô có hiểu về trung_quốc  đã từng đến trung_quốc chưa và có biết rằng trung_quốc đã giúp hơn 600 triệu người thoát khỏi đói_nghèo 
-6,ông vương nhấn_mạnh  trung_quốc là nền kinh_tế lớn thứ hai thế_giới với thu_nhập bình_quân 8000 usd / người / năm và cho rằng nếu không bảo_vệ nhân_quyền thì bắc_kinh không_thể có được điều đó 
-7, cô có biết trong hiến_pháp của chúng_tôi có đề_cập đến vấn_đề bảo_vệ và thúc_đẩy nhân_quyền 
-8,  ngoại_trưởng trung_quốc tiếp_tục hỏi lại phóng_viên 
+0,wall_street_journal sự_việc xảy phóng_viên người canada đặt câu hỏi ông vương_nghị về hồ_sơ nhân_quyền trung_quốc trong cuộc họp_báo chung người đồng_cấp canada stephane_dion
+1,ông vương câu hỏi nữ phóng_viên trang ipolitics “ vô_trách_nhiệm ” người đề_cập đến vụ ông kevin_garratt – một công_dân canada tống_giam ở trung_quốc cáo_buộc làm gián_điệp
+2,“ câu_hỏi cô chứa đầy định_kiến về trung_quốc tỏ ngạo_mạn
+3,tôi biết cô lấy thái_độ đâu
+4,thật hoàn_toàn chấp_nhận ” ông vương trả_lời nữ phóng_viên trong tâm_trạng bực_bội
+5,ngoại_trưởng vương_nghị hỏi phóng_viên cô hiểu về trung_quốc đến trung_quốc biết trung_quốc giúp hơn 600 triệu người thoát khỏi đói_nghèo
+6,ông vương nhấn_mạnh trung_quốc nền kinh_tế lớn thứ hai thế_giới thu_nhập bình_quân 8000 usd / người / năm bảo_vệ nhân_quyền bắc_kinh không_thể
+7,cô biết trong hiến_pháp chúng_tôi đề_cập đến vấn_đề bảo_vệ thúc_đẩy nhân_quyền
+8,ngoại_trưởng trung_quốc tiếp_tục hỏi phóng_viên

@@ -1,6 +1,6 @@
 idx, sentence
-0,như bongdaplus đã đưa tin cách đây không lâu thì hôm_nay  clb incheon_united cùng hội người việt_nam đang sinh_sống và làm_việc tại incheon đã cùng nhau tổ_chức lễ_hội việt_nam  hàn_quốc 
-1,đến dự lễ_hội này  kiều_bào việt_nam được phát vé vào sân xem miễn_phí trận đấu giữa incheon_united và gwang_ju_fc  cùng với đó là tham_gia giao_lưu với xuân_trường cùng một_số thành_viên của ban nhạc_snsd danh_tiếng 
-2,cũng trong dịp này  hlv kim_do_hoon đã quyết_định điền tên lương xuân_trường vào danh_sách đá chính trong cuộc tiếp_đón gwang_ju_fc chiều nay 
-3,với số áo 60  trường là một trong 3 tiền_vệ ở khu trung_tuyến trong sơ_đồ 423  1 của đội bóng thành_phố incheon 
-4,nhiều khả_năng  anh sẽ đá như một tiền_vệ công còn hỗ_trợ anh là 2 người đồng_đội se_jik và tae_su 
+0,bongdaplus đưa tin cách lâu hôm_nay clb incheon_united hội người việt_nam sinh_sống làm_việc incheon nhau tổ_chức lễ_hội việt_nam hàn_quốc
+1,đến dự lễ_hội kiều_bào việt_nam phát vé sân xem miễn_phí trận đấu giữa incheon_united gwang_ju_fc tham_gia giao_lưu xuân_trường một_số thành_viên ban nhạc_snsd danh_tiếng
+2,trong dịp hlv kim_do_hoon quyết_định điền tên lương xuân_trường danh_sách đá chính trong cuộc tiếp_đón gwang_ju_fc chiều nay
+3,số áo 60 trường một trong 3 tiền_vệ ở khu trung_tuyến trong sơ_đồ 423 1 đội bóng thành_phố incheon
+4,khả_năng anh đá một tiền_vệ công còn hỗ_trợ anh 2 người đồng_đội se_jik tae_su

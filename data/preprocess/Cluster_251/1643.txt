@@ -1,11 +1,11 @@
 idx, sentence
-0,trước đó  trên mạng xã_hội xuất_hiện một đoạn clip dài 1 phút 8 giây ghi lại cảnh một nhóm thanh_niên la_hét  chạy bộ trong một con hẻm nhỏ 
-1,tiếp đó nghe một tiếng xoảng rồi lửa bốc lên  một nhóm thanh_niên khác gồm cả nam lẫn nữ  một_số trong đó cầm theo mã_tấu la_hét đuổi theo 
-2,đoạn clip nhanh_chóng được chia_sẻ hơn 840 lần  thu_hút hơn 1000 lần like và hơn 500 bình_luận với nội_dung bức_xúc  hoang_mang về vụ_việc trên 
-3,theo thông_tin trên trang mạng xã_hội thì clip trên xảy ra vào_khoảng 23 g đêm 16 tại ptam_hòa 
-4,“ người dân trong khu_phố thình_lình nghe thấy nhiều tiếng ồn xe_máy  cùng tiếng la_hét của nhiều người phía ngoài  khi ra xem thì thấy toàn lửa là lửa  phía dưới con hẻm nhiều thanh_niên đang chạy tán_loạn sử_dụng mã_tấu đuổi chém nhau bên dưới 
-5,điều nguy_hiểm hơn là bọn chúng còn sử_dụng bom xăng ném ra giữa phố ngay trước cửa nhà người dân ”  trang mạng xã_hội thuật lại 
-6,theo một_số người dân tại khu_vực trên cho biết  sự_việc xảy ra rất nhanh  thời_điểm đó có khoảng 10 thanh_niên  một_số cầm theo dao  kiếm hò_hét đe_dọa một_số thanh_niên địa_phương và ném bể cửa_kính của một hộ dân 
-7,đặc_biệt  một_số thành_viên của nhóm đã ném bom xăng ra giữa con hẻm khiến lửa bốc lên ngùn_ngụt trước khi rời đi 
-8,người dân sau đó đã báo cho lực_lượng chức_năng đến làm_việc 
-9,trao_đổi về việc này  công_an ptam_hòa cho biết qua xác_minh ban_đầu đây có_thể là một vụ gây_rối chứ không phải hỗn_chiến  giải_quyết mâu_thuẫn 
+0,mạng xã_hội xuất_hiện một đoạn clip dài 1 phút 8 giây ghi cảnh một nhóm thanh_niên la_hét chạy bộ trong một con hẻm nhỏ
+1,tiếp nghe một tiếng xoảng lửa bốc một nhóm thanh_niên khác gồm nam lẫn nữ một_số trong cầm mã_tấu la_hét đuổi
+2,đoạn clip nhanh_chóng chia_sẻ hơn 840 lần thu_hút hơn 1000 lần like hơn 500 bình_luận nội_dung bức_xúc hoang_mang về vụ_việc
+3,thông_tin trang mạng xã_hội clip xảy vào_khoảng 23 g đêm 16 ptam_hòa
+4,“ người dân trong khu_phố thình_lình nghe thấy tiếng ồn xe_máy tiếng la_hét người phía ngoài xem thấy toàn lửa lửa phía con hẻm thanh_niên chạy tán_loạn sử_dụng mã_tấu đuổi chém nhau bên
+5,nguy_hiểm hơn bọn chúng còn sử_dụng bom xăng ném giữa phố cửa nhà người dân ” trang mạng xã_hội thuật
+6,một_số người dân khu_vực biết sự_việc xảy nhanh thời_điểm khoảng 10 thanh_niên một_số cầm dao kiếm hò_hét đe_dọa một_số thanh_niên địa_phương ném bể cửa_kính một hộ dân
+7,đặc_biệt một_số thành_viên nhóm ném bom xăng giữa con hẻm khiến lửa bốc ngùn_ngụt rời đi
+8,người dân báo lực_lượng chức_năng đến làm_việc
+9,trao_đổi về công_an ptam_hòa biết xác_minh ban_đầu một vụ gây_rối hỗn_chiến giải_quyết mâu_thuẫn

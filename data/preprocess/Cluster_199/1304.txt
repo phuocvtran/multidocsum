@@ -1,13 +1,13 @@
 idx, sentence
-0,đoàn_văn_chuyên_chính là tài_xế xe_tải đã kéo_lê một đồng_chí csgt của đội csgt số 5  công_an tp hà_nội  gây chấn_động dư_luận vào tháng 122015 vừa_qua 
-1,theo đó  vào_khoảng 9 giờ 50 ngày 12122015  chuyên điều_khiển ô_tô đi trên đường nguyễn_văn_linh  hà_nội  hướng từ hải_phòng đi lên 
-2,khi đến ngã tư phố sài_đồng  nguyễn_văn_linh  do vi_phạm luật giao_thông nên bị thượng_úy nguyễn_quốc_đạt  đội csgt số 5  ra hiệu_lệnh yêu_cầu dừng xe 
-3,tuy_nhiên chuyên không_những không chấp_hành mà_còn phóng xe đâm thẳng vào thượng_úy đạt 
-4,thấy nguy_hiểm  thượng_úy đạt đã nhảy lên bám vào cần gạt nước 
-5,chuyên tiếp_tục cho xe chạy và đánh lái sang trái nên va_chạm với một ô_tô khác cùng chiều 
-6,chưa dừng lại  chuyên điều_khiển xe lạng_lách  đánh_võng nhằm hất thượng_úy đạt rơi xuống đường  tuy_nhiên chiến_sĩ csgt này vẫn cố_gắng bám vào cần gạt nước để khỏi ngã 
-7,chuyên thấy thế phóng xe nhanh và đạp thắng gấp làm thượng_úy đạt ngã ra đường 
-8,quá_trình tài_xế xe_tải bỏ chạy  thượng_úy đạt đã bị kéo_lê khoảng 20 m 
-9,đặc_biệt  bánh ô_tô phía trước và phía sau bên phải đã đè lên người khiến chiến_sĩ csgt đội 5 bị đa chấn_thương 
-10,kết_quả điều_tra cho thấy việc thượng_úy nguyễn_quốc_đạt không bị tử_vong là do được cấp_cứu kịp_thời 
-11,bản giám_định kết_luận tỉ_lệ tổn_hại sức_khỏe là 59  
+0,đoàn_văn_chuyên_chính tài_xế xe_tải kéo_lê một đồng_chí csgt đội csgt số 5 công_an tp hà_nội gây chấn_động dư_luận tháng 122015 vừa_qua
+1,vào_khoảng 9 giờ 50 ngày 12122015 chuyên điều_khiển ô_tô đi đường nguyễn_văn_linh hà_nội hướng hải_phòng đi
+2,đến ngã tư phố sài_đồng nguyễn_văn_linh vi_phạm luật giao_thông thượng_úy nguyễn_quốc_đạt đội csgt số 5 hiệu_lệnh yêu_cầu dừng xe
+3,tuy_nhiên chuyên không_những chấp_hành mà_còn phóng xe đâm thẳng thượng_úy đạt
+4,thấy nguy_hiểm thượng_úy đạt nhảy bám gạt nước
+5,chuyên tiếp_tục xe chạy đánh lái sang trái va_chạm một ô_tô khác chiều
+6,dừng chuyên điều_khiển xe lạng_lách đánh_võng nhằm hất thượng_úy đạt rơi xuống đường tuy_nhiên chiến_sĩ csgt cố_gắng bám gạt nước khỏi ngã
+7,chuyên thấy thế phóng xe nhanh đạp thắng gấp làm thượng_úy đạt ngã đường
+8,quá_trình tài_xế xe_tải bỏ chạy thượng_úy đạt kéo_lê khoảng 20 m
+9,đặc_biệt bánh ô_tô phía phía bên đè người khiến chiến_sĩ csgt đội 5 đa chấn_thương
+10,kết_quả điều_tra thấy thượng_úy nguyễn_quốc_đạt tử_vong cấp_cứu kịp_thời
+11,bản giám_định kết_luận tỉ_lệ tổn_hại sức_khỏe 59

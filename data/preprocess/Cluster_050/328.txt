@@ -1,58 +1,58 @@
 idx, sentence
-0,brandon_cipes  phó chủ_tịch hệ_thống thông_tin tại oceanx  đã làm_việc khá lâu ở các vị_trí cấp cao trong lĩnh_vực thông_tin  đủ để anh cảm_thấy chán_ghét những cuộc gọi từ các nhân_viên bán hàng 
-1, nó giống như việc bạn mua một chiếc xe_hơi 
-2,đây là một quá_trình tưởng_chừng như đơn_giản  thế nhưng mỗi lần mua xe  hầu_hết thời_gian của tôi là tìm cách làm_sao để thoát khỏi sự quấy_rầy của các nhân_viên bán hàng   cipes chia_sẻ 
-3,tuy_nhiên  không phải lúc_nào anh cũng gặp phải trải_nghiệm đó 
-4,quay trở_lại năm 2013  khi cipes gửi email cho hãng sản_xuất phần_mềm atlassian yêu_cầu được gặp nhân_viên bán hàng của công_ty để xin tư_vấn  atlassian đã từ_chối 
-5,lý_do đơn_giản bởi công_ty này không có nhân_viên nào ở vị_trí này 
-6,atlassian là công_ty chuyên về các ứng_dụng quản_lý dự_án và nhắn_tin như jira và hipchat 
-7,công_ty không đặt ra bất_kỳ_hạn_mức về doanh_số cũng như không có các chương_trình giảm_giá vào thời_điểm cuối quý để thu_hút thêm khách_hàng 
-8,trên thực_tế  đội bán hàng của hãng không có bất_kỳ chiến_dịch quảng_cáo sản_phẩm nào và tới bất_kỳ ai bởi đơn_giản họ không có một đội nào như vậy 
-9,cách làm của atlassian ban_đầu được đánh_giá là  dị_thường   tuy_nhiên về sau  công_ty đến từ úc này trở_thành kẻ đi đầu và là điển_hình để các doanh_nghiệp khác học_hỏi  phát_triển thị_phần dựa trên  truyền_miệng 
-10, khách_hàng không muốn gọi điện cho nhân_viên bán hàng nếu_như họ không muốn làm điều đó 
-11,nếu có gì thắc_mắc  họ có_thể tìm câu trả_lời trên trang_web của công_ty   scott_farquhar  đồng_ceo của atlassian chia_sẻ 
-12,cách_thức các công_ty công_nghệ dùng để bán phần_mềm đã thay_đổi rất nhiều trong thập_kỷ qua 
-13,sự sẵn có của các phần_mềm nguồn mở miễn_phí đã thúc_đẩy các thương_hiệu truyền_thống cũng như mới nổi phải kéo_dài thời_gian dùng thử  cung_cấp phiên_bản miễn_phí của phần_mềm đó rồi đưa ra tùy chọn trả phí để nâng_cấp  tung các chiến_lược quảng_cáo online để thu_hút khách_hàng 
-14,các công_ty như ibm  oracle  hay hewlett_packard_enterprise  vốn thuê hàng nghìn nhân_viên bán hàng được ủy quyền  đang bỏ tiền thâu_tóm các hãng chuyên về mã nguồn mở hoặc công_ty về công_nghệ đám_mây với mô_hình bán hàng hoàn_toàn khác_biệt  theo nhận_định của laurie_wurster  một chuyên_gia_thuộc hãng phân_tích gartner 
-15,slack  dropbox và github là ba trong số các công_ty tìm cách thu_hút khách_hàng doanh_nghiệp bằng cách chia_sẻ những bài đánh_giá tốt về sản_phẩm của họ 
-16,ý_tưởng ở đây là họ có_thể phân_phối sản_phẩm tới các cá_nhân và các nhóm nhỏ khách_hàng tiềm_năng  từ đó hy_vọng  tiếng_lành đồn xa  
-17,nhưng cho tới nay atlassian hiện vẫn là ví_dụ điển_hình nhất của mô_hình bán hàng mới 
-18,atlassian có tuổi đời 14 năm  giá_trị thị_trường đạt 5 tỷ usd kể từ khi bán cổ_phiếu lần đầu ra công_chúng  ipo  hồi tháng 12/2015  hiện không có bất_kỳ nhân_viên bán hàng nào trên bảng lương 
-19,hơn 80 trong số 100 doanh_nghiệp nổi_bật được tạp_chí fortune bình_chọn sử_dụng phần_mềm của atlassian 
-20,chiến_lược bán hàng của atlassian được các nhà_đầu_tư mạo_hiểm cũng như đối_thủ đánh_giá cao  mong_muốn được học_hỏi theo  ít_nhất là một phần 
-21,tuy_nhiên  đồng_ceo_farquhar phải thừa_nhận rằng  cách làm của công_ty cần nhiều may_mắn để thành_công 
-22,ông cùng một ceo khác là mike_cannonbrookes sáng_lập ra công_ty sau khi có các bằng_cấp về công_nghệ_thông_tin tại trường đại_học new_south_wales 
-23,ban_đầu  hai ông dùng chính_sách  truyền_miệng  để mở_rộng thị_phần đơn_giản bởi họ không biết bất_kỳ kiến_thức gì về bán phần_mềm 
-24,vận may đầu_tiên đến một_vài tháng sau khi sản_phẩm của atlassian được tung ra thị_trường  hồi năm 2002 
-25,khi đó  website của atlassian cho_phép bạn tải về một phần_mềm dùng thử miễn_phí nhưng chưa cung_cấp các cách_thức mua hàng 
-26,tất_cả các đơn đặt_hàng mua phần_mềm được thực_hiện qua máy_fax 
-27,một ngày nọ  chiếc máy_fax của công_ty nhận được đơn hàng từ hãng hàng_không american_airlines 
-28,nhân_viên it của american_airlines trước đó đã tải về bản dùng thử của phần_mềm atlassian cung_cấp  cấu_hình nó mà không cần bất_kỳ sự giúp_đỡ nào của công_ty 
-29, đây là một cột mốc lớn đối_với chúng_tôi   farquhar cho biết  đồng_thời nói thêm rằng  nó đã giúp các nhà sáng_lập có thêm sự tự_tin rằng mô_hình kinh_doanh của họ sẽ thành_công mà không cần tới một đội bán hàng chuyên_dụng 
-30,american airlines đã trả 800 usd cho đơn đặt_hàng đầu_tiên 
-31,trong năm nay  các nhà phân_tích dự_đoán doanh_thu của atlassian sẽ đạt 450 triệu usd 
-32,năm_ngoái  khi doanh_số đạt 320 triệu usd  chi_tiêu dành cho marketing và bán hàng của công_ty chỉ chiếm 1/5 
-33,khoản chi này chủ_yếu dành cho quảng_cáo và các khoản thanh_toán cho đối_tác 
-34,để so_sánh  salesforce__com  một công_ty về điện_toán mây  đã phải chi khoảng 1 nửa trong số doanh_thu cho công_tác bán hàng và marketing 
-35,hãng box  công_ty về lưu_trữ đám_mây   con_số còn lớn hơn với 80  
-36,box đã phải chi ra rất nhiều tiền để xây_dựng đội_ngũ bán hàng trong vài năm qua 
-37,jay_simons  chủ_tịch của atlassian  nói rằng những khoản tiết_kiệm được từ đội bán hàng đã giúp công_ty giảm_giá được sản_phẩm  có thêm tiền đầu_tư vào nghiên_cứu và phát_triển 
-38,các phần_mềm của công_ty nhờ đó được trau_chuốt hơn  giúp người dùng sử_dụng thử cũng như mua hàng một_cách dễ_dàng 
-39,farquhar cho biết  atlassian không áp_dụng các giải_pháp nửa_vời  như thuê nhân_viên bán hàng để quản_lý việc gia_hạn thời_gian sử_dụng phần_mềm của khách_hàng 
-40,anh hài_lòng hơn với tỷ_lệ tăng_trưởng ổn_định  chắc_chắn 
-41, nhân_viên bán hàng giống như thuốc adderall  loại thuốc kích_thích hệ_thống thần_kinh trung_ương để tăng khả_năng tập_trung  trước kỳ thi 
-42,nó giống như là cách cuối_cùng khi mà bạn đã không làm tốt những giải_pháp khác   farquhar chia_sẻ 
-43,tuy_nhiên  không phải ai cũng khen_ngợi cách làm của atlassian 
-44, khi bạn có tổ_chức bán hàng  tăng_trưởng về doanh_thu sẽ cao hơn rất nhiều so với chi_phí cho đội bán hàng đó   peter_levine  một đối_tác thuộc hãng đầu_tư andreessen_horowitz  chia_sẻ 
-45,tại github  nơi andreessen_horowitz đang bỏ vốn đầu_tư  levine đã lobby rất nhiều để startup này tuyển_dụng nhân_viên bán hàng để thúc_đẩy doanh_số 
-46,atlassian sở_dĩ phải kinh_doanh theo cách_thức  dị_thường  như vậy một phần bởi môi_trường công_nghệ vốn không hề thuận_lợi tại úc 
-47,sự thành_công nhanh_chóng của công_ty không phụ_thuộc vào các hãng đầu_tư mà là từ vốn_tự có của các nhà sáng_lập 
-48,chính bởi_vậy  công_ty không chịu áp_lực về tốc_độ tăng_trưởng từ các nhà_đầu_tư của mình 
-49, tôi cho rằng thành_công của họ khó có_thể_nhân rộng   tomasz_tunguz  một đối_tác tại quỹ đầu_tư redpoint_ventures chia_sẻ 
-50,các startup như dropbox và slack đang áp_dụng cách phát_triển  lưỡng_tính  
-51,ban_đầu  họ tìm_kiếm những khách_hàng đầu_tiên ở quy_mô nhỏ  có_thể ngay từ trong nội_bộ công_ty  thay_vì tham_vọng có được lượng người dùng lớn ngay từ đầu 
-52,về sau khi thu_hút được một lượng khách_hàng nhất_định  đội bán hàng chuyên_nghiệp sẽ được lập ra để mở_rộng quy_mô 
-53, với tôi  không có cách nào là hoàn_hảo  nhưng làm thế_nào chúng_ta kết_hợp được tốt nhất 2 giải_pháp đó  giải_pháp của atlassian và của dropbox / slack   
-54, kakul_srivastava  phó chủ_tịch quản_lý sản_phẩm của github  băn_khoăn 
-55,ngay cả các công_ty lớn như hp_enterprise cũng đang thử_nghiệm những chính_sách như bán hàng online và cho dùng thử trước khi mua 
-56,caroline_tsay  người phụ_trách phát_triển cho hp  cho biết sẽ thuê lại một_số cựu nhân_viên của atlassian để thử_nghiệm những cách làm mới 
+0,brandon_cipes phó chủ_tịch hệ_thống thông_tin oceanx làm_việc khá lâu ở vị_trí cấp cao trong lĩnh_vực thông_tin đủ anh cảm_thấy chán_ghét cuộc gọi nhân_viên bán hàng
+1,nó giống bạn mua một xe_hơi
+2,một quá_trình tưởng_chừng đơn_giản thế lần mua xe hầu_hết thời_gian tôi tìm cách làm_sao thoát khỏi quấy_rầy nhân_viên bán hàng cipes chia_sẻ
+3,tuy_nhiên lúc_nào anh gặp trải_nghiệm
+4,quay trở_lại năm 2013 cipes gửi email hãng sản_xuất phần_mềm atlassian yêu_cầu gặp nhân_viên bán hàng công_ty xin tư_vấn atlassian từ_chối
+5,lý_do đơn_giản công_ty nhân_viên nào ở vị_trí
+6,atlassian công_ty chuyên về ứng_dụng quản_lý dự_án nhắn_tin jira hipchat
+7,công_ty đặt bất_kỳ_hạn_mức về doanh_số chương_trình giảm_giá thời_điểm cuối quý thu_hút thêm khách_hàng
+8,thực_tế đội bán hàng hãng bất_kỳ chiến_dịch quảng_cáo sản_phẩm nào tới bất_kỳ ai đơn_giản họ một đội nào
+9,cách làm atlassian ban_đầu đánh_giá dị_thường tuy_nhiên về công_ty đến úc trở_thành kẻ đi đầu điển_hình doanh_nghiệp khác học_hỏi phát_triển thị_phần dựa truyền_miệng
+10,khách_hàng muốn gọi điện nhân_viên bán hàng nếu_như họ muốn làm
+11,thắc_mắc họ tìm câu trả_lời trang_web công_ty scott_farquhar đồng_ceo atlassian chia_sẻ
+12,cách_thức công_ty công_nghệ dùng bán phần_mềm thay_đổi trong thập_kỷ
+13,sẵn phần_mềm nguồn mở miễn_phí thúc_đẩy thương_hiệu truyền_thống mới nổi kéo_dài thời_gian dùng thử cung_cấp phiên_bản miễn_phí phần_mềm đưa tùy chọn trả phí nâng_cấp tung chiến_lược quảng_cáo online thu_hút khách_hàng
+14,công_ty ibm oracle hay hewlett_packard_enterprise vốn thuê hàng nghìn nhân_viên bán hàng ủy quyền bỏ tiền thâu_tóm hãng chuyên về mã nguồn mở hoặc công_ty về công_nghệ đám_mây mô_hình bán hàng hoàn_toàn khác_biệt nhận_định laurie_wurster một chuyên_gia_thuộc hãng phân_tích gartner
+15,slack dropbox github ba trong số công_ty tìm cách thu_hút khách_hàng doanh_nghiệp bằng cách chia_sẻ bài đánh_giá tốt về sản_phẩm họ
+16,ý_tưởng ở họ phân_phối sản_phẩm tới cá_nhân nhóm nhỏ khách_hàng tiềm_năng hy_vọng tiếng_lành đồn xa
+17,tới nay atlassian hiện ví_dụ điển_hình nhất mô_hình bán hàng mới
+18,atlassian tuổi đời 14 năm giá_trị thị_trường đạt 5 tỷ usd kể bán cổ_phiếu lần đầu công_chúng ipo hồi tháng 12/2015 hiện bất_kỳ nhân_viên bán hàng nào bảng lương
+19,hơn 80 trong số 100 doanh_nghiệp nổi_bật tạp_chí fortune bình_chọn sử_dụng phần_mềm atlassian
+20,chiến_lược bán hàng atlassian nhà_đầu_tư mạo_hiểm đối_thủ đánh_giá cao mong_muốn học_hỏi ít_nhất một phần
+21,tuy_nhiên đồng_ceo_farquhar thừa_nhận cách làm công_ty may_mắn thành_công
+22,ông một ceo khác mike_cannonbrookes sáng_lập công_ty bằng_cấp về công_nghệ_thông_tin trường đại_học new_south_wales
+23,ban_đầu hai ông dùng chính_sách truyền_miệng mở_rộng thị_phần đơn_giản họ biết bất_kỳ kiến_thức về bán phần_mềm
+24,vận may đầu_tiên đến một_vài tháng sản_phẩm atlassian tung thị_trường hồi năm 2002
+25,website atlassian cho_phép bạn tải về một phần_mềm dùng thử miễn_phí cung_cấp cách_thức mua hàng
+26,tất_cả đơn đặt_hàng mua phần_mềm thực_hiện máy_fax
+27,một ngày nọ máy_fax công_ty nhận đơn hàng hãng hàng_không american_airlines
+28,nhân_viên it american_airlines tải về bản dùng thử phần_mềm atlassian cung_cấp cấu_hình nó bất_kỳ giúp_đỡ nào công_ty
+29,một cột mốc lớn đối_với chúng_tôi farquhar biết đồng_thời nói thêm nó giúp nhà sáng_lập thêm tự_tin mô_hình kinh_doanh họ thành_công tới một đội bán hàng chuyên_dụng
+30,american airlines trả 800 usd đơn đặt_hàng đầu_tiên
+31,trong năm nay nhà phân_tích dự_đoán doanh_thu atlassian đạt 450 triệu usd
+32,năm_ngoái doanh_số đạt 320 triệu usd chi_tiêu dành marketing bán hàng công_ty chiếm 1/5
+33,khoản chi chủ_yếu dành quảng_cáo khoản thanh_toán đối_tác
+34,so_sánh salesforce__com một công_ty về điện_toán mây chi khoảng 1 nửa trong số doanh_thu công_tác bán hàng marketing
+35,hãng box công_ty về lưu_trữ đám_mây con_số còn lớn hơn 80
+36,box chi tiền xây_dựng đội_ngũ bán hàng trong vài năm
+37,jay_simons chủ_tịch atlassian nói khoản tiết_kiệm đội bán hàng giúp công_ty giảm_giá sản_phẩm thêm tiền đầu_tư nghiên_cứu phát_triển
+38,phần_mềm công_ty nhờ trau_chuốt hơn giúp người dùng sử_dụng thử mua hàng dễ_dàng
+39,farquhar biết atlassian áp_dụng giải_pháp nửa_vời thuê nhân_viên bán hàng quản_lý gia_hạn thời_gian sử_dụng phần_mềm khách_hàng
+40,anh hài_lòng hơn tỷ_lệ tăng_trưởng ổn_định chắc_chắn
+41,nhân_viên bán hàng giống thuốc adderall loại thuốc kích_thích hệ_thống thần_kinh trung_ương tăng khả_năng tập_trung kỳ thi
+42,nó giống cách cuối_cùng bạn làm tốt giải_pháp khác farquhar chia_sẻ
+43,tuy_nhiên ai khen_ngợi cách làm atlassian
+44,bạn tổ_chức bán hàng tăng_trưởng về doanh_thu cao hơn chi_phí đội bán hàng peter_levine một đối_tác thuộc hãng đầu_tư andreessen_horowitz chia_sẻ
+45,github andreessen_horowitz bỏ vốn đầu_tư levine lobby startup tuyển_dụng nhân_viên bán hàng thúc_đẩy doanh_số
+46,atlassian sở_dĩ kinh_doanh cách_thức dị_thường một phần môi_trường công_nghệ vốn hề thuận_lợi úc
+47,thành_công nhanh_chóng công_ty phụ_thuộc hãng đầu_tư vốn_tự nhà sáng_lập
+48,chính bởi_vậy công_ty chịu áp_lực về tốc_độ tăng_trưởng nhà_đầu_tư mình
+49,tôi thành_công họ khó có_thể_nhân rộng tomasz_tunguz một đối_tác quỹ đầu_tư redpoint_ventures chia_sẻ
+50,startup dropbox slack áp_dụng cách phát_triển lưỡng_tính
+51,ban_đầu họ tìm_kiếm khách_hàng đầu_tiên ở quy_mô nhỏ trong nội_bộ công_ty thay_vì tham_vọng lượng người dùng lớn đầu
+52,về thu_hút một lượng khách_hàng nhất_định đội bán hàng chuyên_nghiệp lập mở_rộng quy_mô
+53,tôi cách nào hoàn_hảo làm thế_nào chúng_ta kết_hợp tốt nhất 2 giải_pháp giải_pháp atlassian dropbox / slack
+54,kakul_srivastava phó chủ_tịch quản_lý sản_phẩm github băn_khoăn
+55,công_ty lớn hp_enterprise thử_nghiệm chính_sách bán hàng online dùng thử mua
+56,caroline_tsay người phụ_trách phát_triển hp biết thuê một_số cựu nhân_viên atlassian thử_nghiệm cách làm mới

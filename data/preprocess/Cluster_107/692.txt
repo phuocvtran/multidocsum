@@ -1,8 +1,8 @@
 idx, sentence
-0,hãng tin syria_sana cho biết  ít_nhất 78 người chết và nhiều người bị_thương ở tartus và jableh 
-1,tuy_nhiên  theo tổ_chức giám_sát_nhân_quyền syria  sohr   ít_nhất 53 người chết tại jableh  48 người chết ở tartus và số người chết có_thể còn tăng vì nhiều người bị_thương đang trong tình_trạng nguy_kịch sau tổng_cộng 7 vụ đánh bom  gồm 4 vụ tại jableh và 3 vụ tại tartus 
-2,truyền_hình quốc_gia syria cho biết  tại jableh  các vụ đánh bom nhằm vào các bến_xe_buýt chính và một vụ đánh bom tự_sát ở phòng cấp_cứu_bệnh_viện quốc_gia ở jableh  khi kẻ đánh bom tự_sát đi theo những người bị_thương trong các vụ đánh bom trước vào bệnh_viện và kích nổ đai bom 
-3,tại tartus  các vụ đánh bom xe và đánh bom tự_sát ở trước cổng và trong các bến_xe_buýt 
-4,những vụ tấn_công đầu_tiên này nhằm vào tartus và jableh  2 tp duyên_hải khá yên_ổn trong cuộc xung_đột 5 năm qua ở syria  được xem là thông_điệp của phiến_quân về khả_năng tấn_công các thành_trì chính của chính_phủ của tổng_thống bashar alassad 
-5,tại tartus có một căn_cứ hải_quân nga 
-6,còn jableh  nằm giữa tartus và tp latakia  nơi có căn_cứ không_quân hmaimim mà nga đã sử_dụng tiến_hành các cuộc không_kích các nhóm phiến_quân 
+0,hãng tin syria_sana biết ít_nhất 78 người chết người bị_thương ở tartus jableh
+1,tuy_nhiên tổ_chức giám_sát_nhân_quyền syria sohr ít_nhất 53 người chết jableh 48 người chết ở tartus số người chết còn tăng người bị_thương trong tình_trạng nguy_kịch tổng_cộng 7 vụ đánh bom gồm 4 vụ jableh 3 vụ tartus
+2,truyền_hình quốc_gia syria biết jableh vụ đánh bom nhằm bến_xe_buýt chính một vụ đánh bom tự_sát ở phòng cấp_cứu_bệnh_viện quốc_gia ở jableh kẻ đánh bom tự_sát đi người bị_thương trong vụ đánh bom bệnh_viện kích nổ đai bom
+3,tartus vụ đánh bom xe đánh bom tự_sát ở cổng trong bến_xe_buýt
+4,vụ tấn_công đầu_tiên nhằm tartus jableh 2 tp duyên_hải khá yên_ổn trong cuộc xung_đột 5 năm ở syria xem thông_điệp phiến_quân về khả_năng tấn_công thành_trì chính chính_phủ tổng_thống bashar alassad
+5,tartus một căn_cứ hải_quân nga
+6,còn jableh nằm giữa tartus tp latakia căn_cứ không_quân hmaimim nga sử_dụng tiến_hành cuộc không_kích nhóm phiến_quân

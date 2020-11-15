@@ -1,8 +1,8 @@
 idx, sentence
-0,theo hãng thông_tấn yonhap news  vụ_việc xảy ra vào_khoảng 14 h30  giờ_địa_phương  tại căn_cứ carroll  cách thủ_đô seoul khoảng 300 km về phía đông_nam 
-1,sở cứu_hỏa_chilgok đã khẩn_trương điều 15 xe cứu_hỏa tới hiện_trường 
-2,vụ nổ khiến mảnh vụn vương_vãi khắp nơi trong căn_cứ và gây cháy dữ_dội 
-3,sau khoảng 30 phút  lực_lượng pccc đã khống_chế được ngọn lửa 
-4,hiện chưa có thông_tin gì về thương_vong 
-5,theo báo_cáo của các nhà_chức_trách  có khoảng 10 vụ nổ riêng_biệt 
-6,cơ_quan cứu_hỏa cho hay  nguyên_nhân vụ_việc có_thể do nổ khoang chứa oxy tại căn_cứ 
+0,hãng thông_tấn yonhap news vụ_việc xảy vào_khoảng 14 h30 giờ_địa_phương căn_cứ carroll cách thủ_đô seoul khoảng 300 km về phía đông_nam
+1,sở cứu_hỏa_chilgok khẩn_trương 15 xe cứu_hỏa tới hiện_trường
+2,vụ nổ khiến mảnh vụn vương_vãi khắp trong căn_cứ gây cháy dữ_dội
+3,khoảng 30 phút lực_lượng pccc khống_chế ngọn lửa
+4,hiện thông_tin về thương_vong
+5,báo_cáo nhà_chức_trách khoảng 10 vụ nổ riêng_biệt
+6,cơ_quan cứu_hỏa hay nguyên_nhân vụ_việc nổ khoang chứa oxy căn_cứ

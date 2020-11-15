@@ -1,32 +1,32 @@
 idx, sentence
-0,trước thông_tin cho rằng  từ hôm_nay 1/6/2016  tại 8 tỉnh  thành_phố trên cả nước sẽ dừng hoàn_toàn việc bán xăng ron 92  thay vào đó sẽ bán xăng sinh_học e5  đại_diện bộ công_thương cho biết  xăng e5 vẫn được bán song_song với xăng ron 92 theo lộ_trình áp_dụng tỷ_lệ phối trộn nhiên_liệu sinh_học với nhiên_liệu truyền_thống 
-1,mặc_dù triển_khai từ cuối năm 2014  người tiêu_dùng cũng đã bắt_đầu quen với việc sử_dụng xăng sinh_học  nhưng đến nay  việc đẩy_mạnh tiêu_thụ loại xăng này vẫn còn gặp nhiều khó_khăn 
-2,hà_nội là một trong 7 tỉnh_thành trong cả nước triển_khai bán xăng sinh_học e5 từ cuối năm 2014 
-3,hiện  xăng e5 có giá thấp hơn xăng thường 500 đồng / lít 
-4,nhiều người tiêu_dùng đã chủ_động sử_dụng loại xăng này 
-5,anh nguyễn_huy_khánh  tài_xế taxi ở hà_nội cho biết   từ khi có bán xăng e5 thì tôi toàn mua xăng ở đây 
-6,tôi thấy xăng sinh_học e5 giá tiền cũng rẻ hơn một_chút nên cũng tiết_kiệm được một_ít 
-7,dùng loại xăng này tôi thấy xe chạy bình_thường như trước  không vấn_đề gì cả  
-8,tại cửa_hàng xăng dầu số 1  thuộc công_ty xăng_dầu khu_vực i  tập_đoàn xăng_dầu việt_nam  lượng xăng sinh_học tiêu_thụ mới chiếm khoảng 30  tổng_lượng xăng bán ra 
-9,ông la_minh_chung  cửa_hàng_trưởng cửa_hàng xăng dầu số 1 cho biết  hiện_nay sản_lượng xăng e5 bán ra tăng gấp 3 lần so với thời_điểm mới triển_khai 
-10,mặc_dù vậy  theo ông bùi_ngọc_bảo  chủ_tịch hđqt tập_đoàn xăng_dầu việt_nam petrolimex  nhìn_chung  sản_lượng tiêu_thụ xăng e5 vẫn còn khiêm_tốn 
-11,sản_lượng mới chiếm 30  là còn nhỏ so với việc đầu_tư nguyên_liệu  sản_xuất phối trộn nhiên_liệu bán tại nhiều địa_phương trong cả nước 
-12,trong khi đó  mục_tiêu của chính_phủ đặt ra là 8 tỉnh  thành_phố gồm hà_nội  hải_phòng  đà_nẵng  quảng_nam  quảng_ngãi  cần_thơ  bà_rịa  vũng_tàu  thành_phố hồ_chí_minh đến ngày 01/6/2016  toàn_bộ cửa_hàng bán_lẻ xăng_dầu đều bán xăng e5 thay_thế cho xăng ron 92 
-13,đối_với các tỉnh  thành_phố trực_thuộc trung_ương khác  mục_tiêu đạt tối_thiểu 50  số_lượng cửa_hàng bán_lẻ xăng_dầu tại địa_phương bán xăng e5 và 50  lượng xăng ron 92 được thay_thế bằng xăng e5 
-14,tuy_nhiên  tính tới thời_điểm này  cần_thơ  quảng_ngãi  quảng_nam là ba tỉnh đầu tiền trong toàn_quốc hoàn_toàn sử_dụng xăng sinh_học e5 thay_thế cho xăng a92 
-15,năm tỉnh  thành_phố còn lại mới có 50  cây_xăng bán xăng e5 
-16,trao_đổi với báo_chí mới đây  ông nguyễn_phú_cường  vụ_trưởng vụ khoa_học công_nghệ  bộ công_thương   cho biết  chưa_thể thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 từ ngày 1/6/2016 
-17,hiện_tại xăng e5 vẫn được bán song_song với xăng ron 92 và cần có thời_gian để doanh_nghiệp và người dân dần thay_thế xăng ron_a92 thành e5 
-18,thực_tế sau nhiều năm triển_khai sử_dụng xăng sinh_học e5  cho đến nay  việc tiêu_thụ loại xăng này vẫn còn hạn_chế 
-19,nhiều doanh_nghiệp xăng dầu cũng như người tiêu_dùng chưa thực_sự mặn_mà với xăng sinh_học 
-20,chuyên_gia kinh_tế ngô_chí_long cho rằng  lý_do là bởi giá xăng e5 chỉ rẻ hơn xăng khoáng_a92 500 đồng / lít  chưa thực_sự hấp_dẫn người tiêu_dùng 
-21,trong khi đó  người dân vẫn chưa hiểu rõ chất_lượng của xăng e5 và lo_ngại trong quá_trình sử_dụng phương_tiện 
-22,còn đối_với các doanh_nghiệp xăng_dầu  kinh_doanh loại xăng e5 sẽ phải đầu_tư hạ_tầng_cơ_sở  đường bơm  cột cây_xăng làm tăng chi_phí 
-23,ngoài_ra  vấn_đề sản_xuất và tiêu_thụ xăng e5 còn gặp khó_khăn về nguồn nguyên_liệu 
-24,hiện_tại  nhiều nhà_máy nguyên_liệu sinh_học để cung_cấp đầu_vào ethanol cho pha_trộn xăng e5 đều ngưng hoạt_động do không tìm được nơi tiêu_thụ  dẫn đến thua_lỗ kéo_dài 
-25,ông ngô_chí_long khuyến_cáo   để đưa xăng e5 đi theo lộ_trình cần có giải_pháp từ sản_xuất  chế_biến và kinh_doanh 
-26,cần làm cho chi_phí_sản_xuất thấp  có lãi thì doanh_nghiệp sản_xuất mới tồn_tại 
-27,cần tạo cơ_sở_vật_chất để phối trộn nhiên_liệu 
-28,chính_sách giá phù_hợp  giá xăng e5 cần giảm hơn  thấp hơn xăng ron 92 khoảng 1000  1500 đồng / lít thì mới đủ sức cạnh_tranh 
-29,đặc_biệt là cần tuyên_truyền mạnh_mẽ để người dân hiểu đúng về xăng e5 là có lợi về kinh_tế và góp_phần bảo_vệ môi_trường  ” trước lo_ngại về việc thiếu nguyên_liệu ethanol để phối trộn xăng sinh_học e5  đại_diện bộ công_thương cho biết  nguồn cung ethanol hiện_nay vẫn đủ cung_ứng cho nhu_cầu trong nước 
-30,cụ_thể  nhà_máy của công_ty tnhh tùng_lâm_sản_xuất ethanol vẫn đáp_ứng 2/3 nhu_cầu ethanol của cả nước 
+0,thông_tin hôm_nay 1/6/2016 8 tỉnh thành_phố nước dừng hoàn_toàn bán xăng ron 92 thay bán xăng sinh_học e5 đại_diện bộ công_thương biết xăng e5 bán song_song xăng ron 92 lộ_trình áp_dụng tỷ_lệ phối trộn nhiên_liệu sinh_học nhiên_liệu truyền_thống
+1,mặc_dù triển_khai cuối năm 2014 người tiêu_dùng bắt_đầu quen sử_dụng xăng sinh_học đến nay đẩy_mạnh tiêu_thụ loại xăng còn gặp khó_khăn
+2,hà_nội một trong 7 tỉnh_thành trong nước triển_khai bán xăng sinh_học e5 cuối năm 2014
+3,hiện xăng e5 giá thấp hơn xăng thường 500 đồng / lít
+4,người tiêu_dùng chủ_động sử_dụng loại xăng
+5,anh nguyễn_huy_khánh tài_xế taxi ở hà_nội biết bán xăng e5 tôi toàn mua xăng ở
+6,tôi thấy xăng sinh_học e5 giá tiền rẻ hơn một_chút tiết_kiệm một_ít
+7,dùng loại xăng tôi thấy xe chạy bình_thường vấn_đề
+8,cửa_hàng xăng dầu số 1 thuộc công_ty xăng_dầu khu_vực i tập_đoàn xăng_dầu việt_nam lượng xăng sinh_học tiêu_thụ mới chiếm khoảng 30 tổng_lượng xăng bán
+9,ông la_minh_chung cửa_hàng_trưởng cửa_hàng xăng dầu số 1 biết hiện_nay sản_lượng xăng e5 bán tăng gấp 3 lần thời_điểm mới triển_khai
+10,mặc_dù ông bùi_ngọc_bảo chủ_tịch hđqt tập_đoàn xăng_dầu việt_nam petrolimex nhìn_chung sản_lượng tiêu_thụ xăng e5 còn khiêm_tốn
+11,sản_lượng mới chiếm 30 còn nhỏ đầu_tư nguyên_liệu sản_xuất phối trộn nhiên_liệu bán địa_phương trong nước
+12,trong mục_tiêu chính_phủ đặt 8 tỉnh thành_phố gồm hà_nội hải_phòng đà_nẵng quảng_nam quảng_ngãi cần_thơ bà_rịa vũng_tàu thành_phố hồ_chí_minh đến ngày 01/6/2016 toàn_bộ cửa_hàng bán_lẻ xăng_dầu bán xăng e5 thay_thế xăng ron 92
+13,đối_với tỉnh thành_phố trực_thuộc trung_ương khác mục_tiêu đạt tối_thiểu 50 số_lượng cửa_hàng bán_lẻ xăng_dầu địa_phương bán xăng e5 50 lượng xăng ron 92 thay_thế bằng xăng e5
+14,tuy_nhiên tính tới thời_điểm cần_thơ quảng_ngãi quảng_nam ba tỉnh đầu tiền trong toàn_quốc hoàn_toàn sử_dụng xăng sinh_học e5 thay_thế xăng a92
+15,năm tỉnh thành_phố còn mới 50 cây_xăng bán xăng e5
+16,trao_đổi báo_chí mới ông nguyễn_phú_cường vụ_trưởng vụ khoa_học công_nghệ bộ công_thương biết chưa_thể thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 ngày 1/6/2016
+17,hiện_tại xăng e5 bán song_song xăng ron 92 thời_gian doanh_nghiệp người dân dần thay_thế xăng ron_a92 thành e5
+18,thực_tế năm triển_khai sử_dụng xăng sinh_học e5 đến nay tiêu_thụ loại xăng còn hạn_chế
+19,doanh_nghiệp xăng dầu người tiêu_dùng thực_sự mặn_mà xăng sinh_học
+20,chuyên_gia kinh_tế ngô_chí_long lý_do giá xăng e5 rẻ hơn xăng khoáng_a92 500 đồng / lít thực_sự hấp_dẫn người tiêu_dùng
+21,trong người dân hiểu rõ chất_lượng xăng e5 lo_ngại trong quá_trình sử_dụng phương_tiện
+22,còn đối_với doanh_nghiệp xăng_dầu kinh_doanh loại xăng e5 đầu_tư hạ_tầng_cơ_sở đường bơm cột cây_xăng làm tăng chi_phí
+23,ngoài_ra vấn_đề sản_xuất tiêu_thụ xăng e5 còn gặp khó_khăn về nguồn nguyên_liệu
+24,hiện_tại nhà_máy nguyên_liệu sinh_học cung_cấp đầu_vào ethanol pha_trộn xăng e5 ngưng hoạt_động tìm tiêu_thụ dẫn đến thua_lỗ kéo_dài
+25,ông ngô_chí_long khuyến_cáo đưa xăng e5 đi lộ_trình giải_pháp sản_xuất chế_biến kinh_doanh
+26,làm chi_phí_sản_xuất thấp lãi doanh_nghiệp sản_xuất mới tồn_tại
+27,tạo cơ_sở_vật_chất phối trộn nhiên_liệu
+28,chính_sách giá phù_hợp giá xăng e5 giảm hơn thấp hơn xăng ron 92 khoảng 1000 1500 đồng / lít mới đủ sức cạnh_tranh
+29,đặc_biệt tuyên_truyền mạnh_mẽ người dân hiểu đúng về xăng e5 lợi về kinh_tế góp_phần bảo_vệ môi_trường ” lo_ngại về thiếu nguyên_liệu ethanol phối trộn xăng sinh_học e5 đại_diện bộ công_thương biết nguồn cung ethanol hiện_nay đủ cung_ứng nhu_cầu trong nước
+30,cụ_thể nhà_máy công_ty tnhh tùng_lâm_sản_xuất ethanol đáp_ứng 2/3 nhu_cầu ethanol nước

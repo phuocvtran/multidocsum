@@ -1,6 +1,6 @@
 idx, sentence
-0,theo đó vtvcab sẽ tường_thuật trực_tiếp toàn_bộ 32 trận đấu tại giải bóng_đá có lịch_sử lâu_đời nhất thế_giới này từ ngày 46 đến 2762016 
-1,copa america năm nay có ý_nghĩa vô_cùng quan_trọng với các đội bóng nam_mỹ bởi đây là sự_kiện đặc_biệt được tổ_chức để kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ 
-2,giải năm nay sẽ lần đầu_tiên được tổ_chức ở một quốc_gia ngoài nam_mỹ  với 16 đội bóng  10 đội nam_mỹ  6 đội thuộc khu_vực concacaf  tranh tài tại 10 thành_phố lớn nhất nước mỹ 
-3,vtvcab là đơn_vị truyền_hình đầu_tiên tại vn sở_hữu bản_quyền copa_america 2016 
-4,toàn_bộ 32 trận đấu  các chương_trình tổng_hợp về giải đấu sẽ được phát trên hệ_thống_kênh thể_thao tv  bóng_đá tv 
+0,vtvcab tường_thuật trực_tiếp toàn_bộ 32 trận đấu giải bóng_đá lịch_sử lâu_đời nhất thế_giới ngày 46 đến 2762016
+1,copa america năm nay ý_nghĩa vô_cùng quan_trọng đội bóng nam_mỹ sự_kiện đặc_biệt tổ_chức kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ
+2,giải năm nay lần đầu_tiên tổ_chức ở một quốc_gia ngoài nam_mỹ 16 đội bóng 10 đội nam_mỹ 6 đội thuộc khu_vực concacaf tranh tài 10 thành_phố lớn nhất nước mỹ
+3,vtvcab đơn_vị truyền_hình đầu_tiên vn sở_hữu bản_quyền copa_america 2016
+4,toàn_bộ 32 trận đấu chương_trình tổng_hợp về giải đấu phát hệ_thống_kênh thể_thao tv bóng_đá tv

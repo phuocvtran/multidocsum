@@ -1,17 +1,17 @@
 idx, sentence
-0,nhưng hôm_qua  tạp_chí forbes thông_báo đã hạ tài_sản ước_tính của cô xuống 0 
-1,họ cũng loại holmes ra khỏi danh_sách người giàu  ít_nhất là hiện_tại 
-2,forbes cho biết họ đã định_giá lại theranos do các vụ điều_tra và cáo_buộc gần đây với công_ty này 
-3,trước đó  giá_trị của theranos ước_tính là 9 tỷ usd 
-4,từ các cuộc trò_chuyện với giới phân_tích và chuyên_gia đầu_tư  forbes cho rằng công_ty này hiện chỉ đáng_giá 800 triệu usd 
-5,đó là đã tính cả quyền_sở_hữu_trí_tuệ 
-6,theo đó  50  cổ_phần của holmes trong này sẽ chẳng còn gì  do nhà_đầu_tư sẽ được nhận tiền trước 
-7,họ nắm cổ_phiếu ưu_đãi  chứ không phải cổ_phiếu phổ_thông như holmes 
-8,trong khi đó  theranos cũng từ_chối chia_sẻ các thông_tin tài_chính mật cho forbes 
-9,họ hiện vẫn là công_ty tư_nhân 
-10, vậy_là forbes dựa hoàn_toàn vào tin_đồn và thông_tin từ báo_chí   người phát_ngôn của theranos  brooke_buchanan cho biết trên cnn 
-11,holmes bỏ học stanford  thành_lập theranos năm 2003 khi mới 19 tuổi 
-12,cô đã huy_động thành_công hàng triệu usd với tuyên_bố công_nghệ của mình  có_thể xử_lý nhanh_chóng hàng_loạt xét_nghiệm chỉ từ vài giọt máu  
-13,tuy_nhiên  cam_kết này gần đây đã bị nghi_ngờ 
-14,tháng 10/2015  một bài viết trên wall_street_journal khẳng_định theranos chỉ thực_hiện được rất ít xét_nghiệm máu với thiết_bị của họ 
-15,từ đó  mọi thứ liên_quan đến công_ty này  từ ban lãnh_đạo đến phương_pháp xét_nghiệm  đều bị theo_dõi rất sát 
+0,hôm_qua tạp_chí forbes thông_báo hạ tài_sản ước_tính cô xuống 0
+1,họ loại holmes khỏi danh_sách người giàu ít_nhất hiện_tại
+2,forbes biết họ định_giá theranos vụ điều_tra cáo_buộc gần công_ty
+3,giá_trị theranos ước_tính 9 tỷ usd
+4,cuộc trò_chuyện giới phân_tích chuyên_gia đầu_tư forbes công_ty hiện đáng_giá 800 triệu usd
+5,tính quyền_sở_hữu_trí_tuệ
+6,50 cổ_phần holmes trong chẳng còn nhà_đầu_tư nhận tiền
+7,họ nắm cổ_phiếu ưu_đãi cổ_phiếu phổ_thông holmes
+8,trong theranos từ_chối chia_sẻ thông_tin tài_chính mật forbes
+9,họ hiện công_ty tư_nhân
+10,vậy_là forbes dựa hoàn_toàn tin_đồn thông_tin báo_chí người phát_ngôn theranos brooke_buchanan biết cnn
+11,holmes bỏ học stanford thành_lập theranos năm 2003 mới 19 tuổi
+12,cô huy_động thành_công hàng triệu usd tuyên_bố công_nghệ mình xử_lý nhanh_chóng hàng_loạt xét_nghiệm vài giọt máu
+13,tuy_nhiên cam_kết gần nghi_ngờ
+14,tháng 10/2015 một bài viết wall_street_journal khẳng_định theranos thực_hiện ít xét_nghiệm máu thiết_bị họ
+15,mọi thứ liên_quan đến công_ty ban lãnh_đạo đến phương_pháp xét_nghiệm theo_dõi sát

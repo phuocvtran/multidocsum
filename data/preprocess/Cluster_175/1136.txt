@@ -1,22 +1,22 @@
 idx, sentence
-0,các vụ này đều ở đại_lộ nguyễn_tất_thành  đoạn thuộc tổ_dân_phố nghĩa_cam  phường cam_nghĩa  thành_phố cam_ranh  khánh_hòa   chiều từ thành_phố nha_trang chạy vào  cách chkqt cam_ranh khoảng 2 km về phía bắc 
-1,anh hồ_ngọc_lê_quang  ở đường 2 tháng 4  phường vĩnh_phước  thành_phố nha_trang  khánh_hòa  kể  rạng sáng ngày 28/5 anh và một người bạn đi xe taxi asia biển số 79a036  83 nha_trang vào chkqt cam_ranh để bay đi thành_phố hồ_chí_minh 
-2,khoảng hơn 1 h30  đến đoạn đường trên thấy một người khoảng 20 tuổi  dáng cao vừa_phải  gầy  dựng xe_máy hiệu wave  không đèn  không biển số  không có bửng  chắn_ngang đường  bên lề_đường có một người nữa 
-3,mọi người trên xe nghĩ gặp kẻ say rượu  lái_xe taxi là anh võ_minh_huy dừng xe  kẻ lạ_mặt cầm cục gạch tiến tới bên lái_xe 
-4,lúc này xe mở_cửa_kính  anh huy nói đừng đập xe của anh  tội_nghiệp 
-5,“ tao không lấy tiền mày  tao chỉ lấy của khách ”  kẻ lạ_mặt nói 
-6,nghe vậy  anh huy cho xe lùi lại  đồng_thời đóng kính cửa xe 
-7,trời tối do đèn đường không sáng  nên anh huy lùi xe bị vướng lề_đường  xe dừng lại 
-8,kẻ lạ_mặt dùng bình_sơn xịt  sơn màu xanh  vào kính chắn gió phía trước  đập_vỡ kính cửa xe phía anh huy  đòi anh quang và bạn anh đưa tiền 
-9,anh huy điều_khiển xe chạy tới  lách qua xe_máy rồi chạy về phía sân_bay 
-10,kẻ lạ_mặt lên xe_máy đuổi theo  đến đầu đường rẽ vào chkqt cam_ranh mới quay lại 
-11,tại chkqt cam_ranh  anh huy và anh quang vừa báo sự_việc với an_ninh sân_bay thì anh lê_minh_quý  sn 1973  ở đường nguyễn_thị_minh_khai  phường lộc_thọ  nha_trang  điều_khiển xe taxi sun biển số 79a106  87 cũng tới báo việc bị chặn xe 
-12,anh quý chở 2 vợ_chồng và một em nhỏ từ nha_trang vào  đến đoạn đường trên bị một người dựng xe_máy  có đặc_điểm như vụ anh huy  chặn lại và dùng bình_sơn  sơn màu đỏ  xịt vào kính chắn gió phía trước 
-13,anh quý điều_khiển xe lùi lại và chạy lách qua kẻ lạ_mặt 
-14,hắn đuổi đến đầu đường rẽ vào chkqt cam_ranh mới quay lại 
-15,lúc 1 h55 ngày 28/5  đến lượt xe taxi mai_linh_biển số 79a085  45 do anh huỳnh_anh_vũ  sn 1979  ở phường vạn_thắng  nha_trang  điều_khiển  chở 2 người khách nam từ nha_trang vào bị chặn 
-16,lần này  có 2 kẻ chạy 2 xe_máy ngược chiều chặn đầu xe anh_vũ 
-17,anh_vũ chạy lách qua  chúng quay xe đuổi theo  một kẻ chặn trước đầu xe  một kẻ chặn sau xe để xe không tiến lui được nữa 
-18,chúng dùng gạch_lát lề_đường đập_vỡ kính sau của xe và cánh cửa phía sau bên phía lái_xe  đe_dọa và buộc 2 khách đi xe đưa tiền 
-19,một người đã phải đưa chiếc ví  bên trong có hơn 2 triệu đồng và một_số giấy_tờ tùy_thân 
-20,sau đó  2 kẻ lạ lên 2 xe_máy chạy về hướng thành_phố nha_trang 
+0,vụ ở đại_lộ nguyễn_tất_thành đoạn thuộc tổ_dân_phố nghĩa_cam phường cam_nghĩa thành_phố cam_ranh khánh_hòa chiều thành_phố nha_trang chạy cách chkqt cam_ranh khoảng 2 km về phía bắc
+1,anh hồ_ngọc_lê_quang ở đường 2 tháng 4 phường vĩnh_phước thành_phố nha_trang khánh_hòa kể rạng sáng ngày 28/5 anh một người bạn đi xe taxi asia biển số 79a036 83 nha_trang chkqt cam_ranh bay đi thành_phố hồ_chí_minh
+2,khoảng hơn 1 h30 đến đoạn đường thấy một người khoảng 20 tuổi dáng cao vừa_phải gầy dựng xe_máy hiệu wave đèn biển số bửng chắn_ngang đường bên lề_đường một người
+3,mọi người xe nghĩ gặp kẻ say rượu lái_xe taxi anh võ_minh_huy dừng xe kẻ lạ_mặt cầm cục gạch tiến tới bên lái_xe
+4,xe mở_cửa_kính anh huy nói đừng đập xe anh tội_nghiệp
+5,“ tao lấy tiền mày tao lấy khách ” kẻ lạ_mặt nói
+6,nghe anh huy xe lùi đồng_thời đóng kính cửa xe
+7,trời tối đèn đường sáng anh huy lùi xe vướng lề_đường xe dừng
+8,kẻ lạ_mặt dùng bình_sơn xịt sơn màu xanh kính chắn gió phía đập_vỡ kính cửa xe phía anh huy đòi anh quang bạn anh đưa tiền
+9,anh huy điều_khiển xe chạy tới lách xe_máy chạy về phía sân_bay
+10,kẻ lạ_mặt xe_máy đuổi đến đầu đường rẽ chkqt cam_ranh mới quay
+11,chkqt cam_ranh anh huy anh quang báo sự_việc an_ninh sân_bay anh lê_minh_quý sn 1973 ở đường nguyễn_thị_minh_khai phường lộc_thọ nha_trang điều_khiển xe taxi sun biển số 79a106 87 tới báo chặn xe
+12,anh quý chở 2 vợ_chồng một em nhỏ nha_trang đến đoạn đường một người dựng xe_máy đặc_điểm vụ anh huy chặn dùng bình_sơn sơn màu đỏ xịt kính chắn gió phía
+13,anh quý điều_khiển xe lùi chạy lách kẻ lạ_mặt
+14,hắn đuổi đến đầu đường rẽ chkqt cam_ranh mới quay
+15,1 h55 ngày 28/5 đến lượt xe taxi mai_linh_biển số 79a085 45 anh huỳnh_anh_vũ sn 1979 ở phường vạn_thắng nha_trang điều_khiển chở 2 người khách nam nha_trang chặn
+16,lần 2 kẻ chạy 2 xe_máy ngược chiều chặn đầu xe anh_vũ
+17,anh_vũ chạy lách chúng quay xe đuổi một kẻ chặn đầu xe một kẻ chặn xe xe tiến lui
+18,chúng dùng gạch_lát lề_đường đập_vỡ kính xe cánh cửa phía bên phía lái_xe đe_dọa buộc 2 khách đi xe đưa tiền
+19,một người đưa ví bên trong hơn 2 triệu đồng một_số giấy_tờ tùy_thân
+20,2 kẻ lạ 2 xe_máy chạy về hướng thành_phố nha_trang

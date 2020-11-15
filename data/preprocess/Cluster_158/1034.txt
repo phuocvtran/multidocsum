@@ -1,9 +1,9 @@
 idx, sentence
-0,cục quản_lý cạnh_tranh  bộ công_thương  vừa thông_báo về việc chấm_dứt hoạt_động bán hàng đa cấp và đề_nghị rút_tiền ký quỹ của công_ty tnhh aim_star_network việt_nam 
-1,công_ty này được cấp giấy chứng_nhận đầu_tư lần đầu ngày 25/11/2013 và thay_đổi lần thứ nhất vào ngày 11/12/2014 
-2,doanh_nghiệp có trụ_sở chính tại tầng 8  phòng 806  tòa nhà_văn_phòng  trung_tâm thương_mại indochina_plaza hà_nội  số 239 đường xuân_thủy  phường dịch_vọng  quận cầu_giấy  hà_nội 
-3,người đại_diện của doanh_nghiệp là panint_jhonlerkieat  quốc_tịch thái_lan  chức_vụ tổng_giám_đốc 
-4,do doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp và đang tiến_hành thủ_tục giải_thể nên hoạt_động bán hàng đa cấp cũng chấm_dứt 
-5,cơ_quan quản_lý cũng cho biết  trong thời_hạn 30 ngày kể từ ngày 30/5  người tham_gia bán hàng đa cấp của công_ty tnhh aim_star_network_việt_nam chưa được công_ty hoàn_thành các nghĩa_vụ theo quy_định có quyền thông_báo đến cục quản_lý cạnh_tranh để được hỗ_trợ giải_quyết  đảm_bảo quyền_lợi 
-6,lĩnh_vực đa cấp vốn được coi là nhạy_cảm sau khi nhiều hoạt_động biến_tướng bị phát_hiện  gây không ít thiệt_hại cho người tiêu_dùng 
-7,điển_hình gần đây nhất là trường_hợp công_ty liên_kết_việt đã lôi_kéo  lừa_đảo 45000 người bị phát_giác 
+0,cục quản_lý cạnh_tranh bộ công_thương thông_báo về chấm_dứt hoạt_động bán hàng đa cấp đề_nghị rút_tiền ký quỹ công_ty tnhh aim_star_network việt_nam
+1,công_ty cấp giấy chứng_nhận đầu_tư lần đầu ngày 25/11/2013 thay_đổi lần thứ nhất ngày 11/12/2014
+2,doanh_nghiệp trụ_sở chính tầng 8 phòng 806 tòa nhà_văn_phòng trung_tâm thương_mại indochina_plaza hà_nội số 239 đường xuân_thủy phường dịch_vọng quận cầu_giấy hà_nội
+3,người đại_diện doanh_nghiệp panint_jhonlerkieat quốc_tịch thái_lan chức_vụ tổng_giám_đốc
+4,doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp tiến_hành thủ_tục giải_thể hoạt_động bán hàng đa cấp chấm_dứt
+5,cơ_quan quản_lý biết trong thời_hạn 30 ngày kể ngày 30/5 người tham_gia bán hàng đa cấp công_ty tnhh aim_star_network_việt_nam công_ty hoàn_thành nghĩa_vụ quy_định quyền thông_báo đến cục quản_lý cạnh_tranh hỗ_trợ giải_quyết đảm_bảo quyền_lợi
+6,lĩnh_vực đa cấp vốn coi nhạy_cảm hoạt_động biến_tướng phát_hiện gây ít thiệt_hại người tiêu_dùng
+7,điển_hình gần nhất trường_hợp công_ty liên_kết_việt lôi_kéo lừa_đảo 45000 người phát_giác

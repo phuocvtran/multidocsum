@@ -1,21 +1,21 @@
 idx, sentence
-0,ngày 31/5  báo_chí trung_quốc đồng_loạt đưa tin về một chàng trai lén chui vào máy_bay để trốn sang dubai làm_ăn xin vì nghe nói làm_ăn xin ở thành_phố này có_thể kiếm bạc tỷ mỗi tháng 
-1,theo cảnh_sát dubai  ngày 28/5  chàng trai tiểu_dư  năm nay vừa tròn 16 tuổi  người tứ_xuyên  đã bị bắt_giữ tại sân_bay sau khi trốn trong khoang chứa hàng một chiếc airbus_a380 của hãng hàng không emirates suốt 9 h30  để nhập_cảnh trái_phép vào  miền đất hứa  này 
-2,được biết  tiểu_dư đã nhân lúc nhân_viên sân_bay bất_cẩn để vượt qua hàng_rào an_ninh và chui vào khoang chứa hàng vừa ngột_ngạt vừa lạnh_giá của chuyến bay mang số_hiệu ek303 khởi_hành lúc 00 h05  ngày 26/5  giờ trung_quốc  từ thành_phố thượng_hải tới dubai 
-3,hành_động của tiểu_dư được cho là cực_kỳ bồng_bột và nguy_hiểm  bởi khoang chứa hàng không hề có ghế ngồi hay dây bảo_hiểm  nhiệt_độ lại rất thấp nên có_thể khiến người_ta chết vì lạnh  vì thiếu khí  hoặc vì những tổn_thương do va_đập mạnh 
-4,thế nhưng  chàng trai_trẻ lại cho rằng  trong khoang chứa hàng rất thoải_mái  chỉ hơi bất_tiện vì không được ăn_uống gì mà thôi 
-5,trong quá_trình thẩm_vấn  chàng trai hồn_nhiên chia_sẻ  nguyên_nhân khiến cậu ta sống_chết cũng phải sang dubai là vì cách đây không lâu từng được xem tin_tức về mức thu_nhập khổng_lồ lên tới 470000 tệ  tương_đương 16 tỷ đồng  / tháng của những người nước_ngoài tới dubai làm_ăn xin 
-6,với bản_tính ham chơi lại lười lao_động  tiểu_dư lập_tức lên kế_hoạch vượt_biên đến  miền đất hứa   nơi mà cậu ta nghĩ rằng chỉ cần giả nghèo giả khổ ít_bữa là có_thể dễ_dàng tích_lũy được cả một gia_tài đồ_sộ 
-7,tuy_nhiên  đời không như là mơ  tiểu_dư nhanh_chóng bị bắt_giữ ngay khi máy_bay hạ_cánh chưa được bao_lâu 
-8,cảnh_sát dubai đã mời tới người phiên_dịch cực giỏi với 23 năm kinh_nghiệm làm phiên_dịch viên để thẩm_vấn chàng trai trẻ ham giàu 
-9,người này cho biết  ông đã từng tiếp_xúc với nhiều người lén nhập_cảnh vào dubai  tuy_nhiên ít tuổi như tiểu_dư thì đây là lần đầu_tiên 
-10,tiểu_dư tỏ ra rất bình_thản khi bị bắt_giữ  thậm_chí cậu ta còn rất tự_tin rằng mình sẽ không bị truy_cứu trách_nhiệm hình_sự vì chưa đủ tuổi thành_niên 
-11,sau một hồi ngẫm_nghĩ  cậu ta lại bổ_sung thêm  cho_dù có bị bắt giam cũng chẳng_sao  bởi nghe nói chế_độ đãi_ngộ tù_nhân ở dubai cũng  sung_sướng  hơn cuộc_sống khổ_sở không tiền_bạc ở trung_quốc rất nhiều 
-12,hiện các cơ_quan_chức_năng dubai đang tiến_hành_xác_minh hành_động của tiểu_dư thật_sự là do bột_phát hay_là do sự chỉ_đạo của một cá_nhân  tổ_chức nào đó 
-13,theo cảnh_sát dubai  thời_gian điều_tra hoàn_tất hồ_sơ nhanh nhất cũng phải mất 23 tháng 
-14,tiểu_dư có_thể sẽ không bị truy_cứu trách_nhiệm hình_sự  nhưng sẽ nhanh_chóng bị trục_xuất về nước sau khi các cơ_quan_chức_năng đưa ra kết_luận cuối_cùng 
-15,đồng_thời  tên của cậu ta đã bị liệt vào danh_sách_đen  nhiều khả_năng sau_này sẽ vĩnh_viễn không được nhập_cảnh vào dubai 
-16,qua một_số nguồn tin về  công_việc  ăn_xin ở vùng_đất giàu_có này  rất nhiều người nước_ngoài đã tìm đủ mọi cách để tới đây hành_nghề với mong_ước được đổi_đời nhờ lòng thương_hại của những con_người  ngủ trên đống tiền  
-17,cảnh_sát dubai xác_nhận  chỉ trong quý i năm 2016  họ đã bắt_giữ tổng_cộng 59 người nước_ngoài làm_ăn xin 
-18,bên_cạnh đó  các cơ_quan_chức_năng cũng đưa ra khuyến_cáo  ăn_xin ở dubai là một việc_làm phạm_pháp và sẽ bị trừng_trị theo pháp_luật 
-19,chính vì_vậy  những người nước_ngoài ao_ước được đổi_đời không nên cố_gắng tìm đến  miền đất hứa  trong tưởng_tượng để rồi nhận lại biết_bao trái đắng 
+0,ngày 31/5 báo_chí trung_quốc đồng_loạt đưa tin về một chàng trai lén chui máy_bay trốn sang dubai làm_ăn xin nghe nói làm_ăn xin ở thành_phố kiếm bạc tỷ tháng
+1,cảnh_sát dubai ngày 28/5 chàng trai tiểu_dư năm nay tròn 16 tuổi người tứ_xuyên bắt_giữ sân_bay trốn trong khoang chứa hàng một airbus_a380 hãng hàng emirates suốt 9 h30 nhập_cảnh trái_phép miền đất hứa
+2,biết tiểu_dư nhân nhân_viên sân_bay bất_cẩn vượt hàng_rào an_ninh chui khoang chứa hàng ngột_ngạt lạnh_giá chuyến bay mang số_hiệu ek303 khởi_hành 00 h05 ngày 26/5 giờ trung_quốc thành_phố thượng_hải tới dubai
+3,hành_động tiểu_dư cực_kỳ bồng_bột nguy_hiểm khoang chứa hàng hề ghế ngồi hay dây bảo_hiểm nhiệt_độ thấp khiến người_ta chết lạnh thiếu khí hoặc tổn_thương va_đập mạnh
+4,thế chàng trai_trẻ trong khoang chứa hàng thoải_mái hơi bất_tiện ăn_uống thôi
+5,trong quá_trình thẩm_vấn chàng trai hồn_nhiên chia_sẻ nguyên_nhân khiến cậu ta sống_chết sang dubai cách lâu xem tin_tức về mức thu_nhập khổng_lồ tới 470000 tệ tương_đương 16 tỷ đồng / tháng người nước_ngoài tới dubai làm_ăn xin
+6,bản_tính ham chơi lười lao_động tiểu_dư lập_tức kế_hoạch vượt_biên đến miền đất hứa cậu ta nghĩ giả nghèo giả khổ ít_bữa dễ_dàng tích_lũy một gia_tài đồ_sộ
+7,tuy_nhiên đời mơ tiểu_dư nhanh_chóng bắt_giữ máy_bay hạ_cánh bao_lâu
+8,cảnh_sát dubai mời tới người phiên_dịch cực giỏi 23 năm kinh_nghiệm làm phiên_dịch viên thẩm_vấn chàng trai trẻ ham giàu
+9,người biết ông tiếp_xúc người lén nhập_cảnh dubai tuy_nhiên ít tuổi tiểu_dư lần đầu_tiên
+10,tiểu_dư tỏ bình_thản bắt_giữ thậm_chí cậu ta còn tự_tin mình truy_cứu trách_nhiệm hình_sự đủ tuổi thành_niên
+11,một hồi ngẫm_nghĩ cậu ta bổ_sung thêm cho_dù bắt giam chẳng_sao nghe nói chế_độ đãi_ngộ tù_nhân ở dubai sung_sướng hơn cuộc_sống khổ_sở tiền_bạc ở trung_quốc
+12,hiện cơ_quan_chức_năng dubai tiến_hành_xác_minh hành_động tiểu_dư thật_sự bột_phát hay_là chỉ_đạo một cá_nhân tổ_chức nào
+13,cảnh_sát dubai thời_gian điều_tra hoàn_tất hồ_sơ nhanh nhất mất 23 tháng
+14,tiểu_dư truy_cứu trách_nhiệm hình_sự nhanh_chóng trục_xuất về nước cơ_quan_chức_năng đưa kết_luận cuối_cùng
+15,đồng_thời tên cậu ta liệt danh_sách_đen khả_năng sau_này vĩnh_viễn nhập_cảnh dubai
+16,một_số nguồn tin về công_việc ăn_xin ở vùng_đất giàu_có người nước_ngoài tìm đủ mọi cách tới hành_nghề mong_ước đổi_đời nhờ lòng thương_hại con_người ngủ đống tiền
+17,cảnh_sát dubai xác_nhận trong quý i năm 2016 họ bắt_giữ tổng_cộng 59 người nước_ngoài làm_ăn xin
+18,bên_cạnh cơ_quan_chức_năng đưa khuyến_cáo ăn_xin ở dubai một việc_làm phạm_pháp trừng_trị pháp_luật
+19,chính vì_vậy người nước_ngoài ao_ước đổi_đời cố_gắng tìm đến miền đất hứa trong tưởng_tượng nhận biết_bao trái đắng

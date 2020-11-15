@@ -1,16 +1,16 @@
 idx, sentence
-0,thông_tin tên được công_ty bất_động_sản savills việt_nam cho_biết tại báo_cáo thị_trường bất_động_sản phú_quốc quí 1  vừa được công_bố ngày 235 
-1,theo đó  những người mua bất_động_sản nghỉ_dưỡng ở phú_quốc chủ_yếu là mua để đầu_tư hoặc nghỉ_dưỡng 
-2,tính đến hết quí 1 vừa_qua  tổng nguồn cung bất_động_sản của phú_quốc có hơn 1700 căn từ sáu dự_án biệt_thự và một dự_án căn_hộ 
-3,đến nay  phân khúc biệt_thự đã bán được 65  và phân khúc căn_hộ đã bán được 35  
-4,các dự_án này bán khá tốt nhờ có chiến_lược tiếp_thị  uy_tín của chủ đầu_tư  tiến_độ xây_dựng tốt và những bãi biển hoang_sơ 
-5,theo báo_cáo của savills việt_nam  nhờ tình_hình du_lịch phát_triển và nhiều chính_sách hỗ_trợ  thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc đã thu_hút nhiều nhà_đầu_tư 
-6,chỉ có ba dự_án mới và giai_đoạn kế_tiếp của ba dự_án hiện_hữu công_bố sẽ gia_nhập thị_trường kể từ quí 22016 trở đi  cung_cấp hơn 660 căn_hộ 
-7,đa_số các khách_sạn tại phú_quốc là của người địa_phương và có quy_mô nhỏ  chỉ một_ít được xếp_hạng và quản_lý chuyên_nghiệp 
-8,đến hết quí 12016  chỉ có 33  tổng nguồn cung khách_sạn trên hòn đảo này  tương_đương 2500 phòng   được xếp_hạng 35 sao 
-9,có 60  trong số đó chỉ vừa_mới hoạt_động trong hai năm qua sau khi sân_bay quốc_tế phú_quốc hoàn_thành 
-10,trước năm 2015  do nguồn cung hạn_chế nên các khách_sạn phú_quốc hoạt_động ổn_định với công_suất trên 80  trong mùa cao_điểm từ tháng 11 đến tháng 3 
-11,tuy_nhiên  việc nguồn cung phòng bùng_nổ gần đây tác_động mạnh lên thị_trường  công_suất mùa cao_điểm vào quí 12016 chỉ đạt 53  
-12,ngoài chi_phí hoạt_động cao  đa_số các dự_án trên đảo đều là khu nghỉ_dưỡng nên có giá phòng khá cao so với các thành_phố biển khác ở việt_nam  bình_quân 105 đô_la mỹ / phòng / đêm 
-13,sau khi sân_bay phú_quốc hoàn_thành vào năm 2012  khách du_lịch đến đây tăng mạnh 
-14,bốn tháng đầu năm 2016  huyện_đảo này đón 523000 khách quốc_tế  tăng 37  so với cùng kỳ năm trước 
+0,thông_tin tên công_ty bất_động_sản savills việt_nam cho_biết báo_cáo thị_trường bất_động_sản phú_quốc quí 1 công_bố ngày 235
+1,người mua bất_động_sản nghỉ_dưỡng ở phú_quốc chủ_yếu mua đầu_tư hoặc nghỉ_dưỡng
+2,tính đến hết quí 1 vừa_qua tổng nguồn cung bất_động_sản phú_quốc hơn 1700 căn sáu dự_án biệt_thự một dự_án căn_hộ
+3,đến nay phân khúc biệt_thự bán 65 phân khúc căn_hộ bán 35
+4,dự_án bán khá tốt nhờ chiến_lược tiếp_thị uy_tín chủ đầu_tư tiến_độ xây_dựng tốt bãi biển hoang_sơ
+5,báo_cáo savills việt_nam nhờ tình_hình du_lịch phát_triển chính_sách hỗ_trợ thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc thu_hút nhà_đầu_tư
+6,ba dự_án mới giai_đoạn kế_tiếp ba dự_án hiện_hữu công_bố gia_nhập thị_trường kể quí 22016 trở đi cung_cấp hơn 660 căn_hộ
+7,đa_số khách_sạn phú_quốc người địa_phương quy_mô nhỏ một_ít xếp_hạng quản_lý chuyên_nghiệp
+8,đến hết quí 12016 33 tổng nguồn cung khách_sạn hòn đảo tương_đương 2500 phòng xếp_hạng 35 sao
+9,60 trong số vừa_mới hoạt_động trong hai năm sân_bay quốc_tế phú_quốc hoàn_thành
+10,năm 2015 nguồn cung hạn_chế khách_sạn phú_quốc hoạt_động ổn_định công_suất 80 trong mùa cao_điểm tháng 11 đến tháng 3
+11,tuy_nhiên nguồn cung phòng bùng_nổ gần tác_động mạnh thị_trường công_suất mùa cao_điểm quí 12016 đạt 53
+12,ngoài chi_phí hoạt_động cao đa_số dự_án đảo khu nghỉ_dưỡng giá phòng khá cao thành_phố biển khác ở việt_nam bình_quân 105 đô_la mỹ / phòng / đêm
+13,sân_bay phú_quốc hoàn_thành năm 2012 khách du_lịch đến tăng mạnh
+14,bốn tháng đầu năm 2016 huyện_đảo đón 523000 khách quốc_tế tăng 37 kỳ năm

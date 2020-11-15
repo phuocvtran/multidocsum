@@ -1,4 +1,4 @@
 idx, sentence
-0,số_liệu được truyền_thông áo công_bố cho biết  ứng_viên alexander van der bellen đã giành được 502  số phiếu_bầu  hơn đối_thủ xếp thức 2 là norbert_hofer thuộc đảng_tự_do  với 498  số phiếu 
-1,ông alexander_van_der_bellen  năm nay 72 tuổi có bằng_cấp là giáo_sư kinh_tế 
-2,ông cũng từng là cựu lãnh_đạo của đảng môi_trường 
+0,số_liệu truyền_thông áo công_bố biết ứng_viên alexander van der bellen giành 502 số phiếu_bầu hơn đối_thủ xếp thức 2 norbert_hofer thuộc đảng_tự_do 498 số phiếu
+1,ông alexander_van_der_bellen năm nay 72 tuổi bằng_cấp giáo_sư kinh_tế
+2,ông cựu lãnh_đạo đảng môi_trường

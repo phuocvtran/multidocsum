@@ -1,19 +1,19 @@
 idx, sentence
-0,cổ_phiếu hãng xe nhật suzuki_motor_corp 
-1,lao dốc chóng_mặt sau khi hãng này cho biết đã sử_dụng một biện_pháp thiếu chính_xác để thử_nghiệm khả_năng tiết_kiệm nhiên_liệu của xe do hãng sản_xuất 
-2,“ lời_thú_tội ” này của suzuki đánh_dấu sự loang rộng của một vụ bê_bối trong ngành ôtô nhật bắt_nguồn với mitsubishi 
-3,theo tin từ bloomberg  phát_ngôn_viên hidehiro_hirano của suzuki nói rằng chủ_tịch hãng là ông osamu_suzuki sẽ báo_cáo vấn_đề lên_bộ giao_thông nhật_bản trong ngày 18/5 
-4,giá cổ_phiếu của suzuki đã có thời_điểm sụt 15  vào buổi trưa nay theo giờ tokyo  mức giảm mạnh nhất trong một phiên giao_dịch trong vòng 16 năm qua 
-5,vào lúc 1 h30 chiều theo giờ địa_phương  giá cổ_phiếu suzuki giảm 12  so với đóng cửa phiên trước 
-6,suzuki hiện có giá_trị vốn_hóa thị_trường khoảng 115 tỷ usd 
-7,từ đầu năm đến nay  cổ_phiếu công_ty này đã giảm 31_ 
-8,“ ấn_tượng là rất xấu  đặc_biệt khi thị_trường đã trở_nên đặc_biệt lo_ngại sau vụ bê_bối ở mitsubishi ”  nhà phân_tích koji_endo thuộc công_ty advanced_research_japan  nhận_định 
-9,“ cho_dù suzuki có không thao_túng các dữ_liệu  thì đây vẫn là tin xấu ” 
-10,suzuki là nhà_sản_xuất ôtô đầu_tiên thừa_nhận có_thể đã làm sai sau khi bộ giao_thông nhật yêu_cầu các hãng xe tiến_hành điều_tra nội_bộ kể từ sau vụ bê_bối ở mitsubishi bị đưa ra ánh_sáng vào tháng trước 
-11,mitsubishi motors đã “ nói quá ” tới 10  về khả_năng tiết_kiệm nhiên_liệu của 4 mẫu xe mini do hãng sản_xuất 
-12,ngoài_ra  hãng còn thao_túng các dữ_liệu liên_quan đến các mẫu xe này 
-13,hiện mitsubishi đang điều_tra về việc sử_dụng phương_pháp kiểm_tra thiếu chính_xác đối_với các mẫu xe khác sản_xuất từ năm 1991 
-14,trong năm tài_khóa kết_thúc vào tháng 3/2016  sản_lượng toàn_cầu của suzuki giảm 3   còn 295 triệu xe 
-15,suzuki đã giảm sản_lượng xe sản_xuất tại nhật 13 tháng liên_tiếp 
-16,trong tài_khóa vừa_qua  sản_lượng xe của hãng tại thị_trường nội_địa giảm 18  
-17,hãng tin nikkei sáng 18/5 nói rằng giám_đốc điều_hành  ceo  mitsubishi là ông tetsuro_aikawa đã từ_chức 
+0,cổ_phiếu hãng xe nhật suzuki_motor_corp
+1,lao dốc chóng_mặt hãng biết sử_dụng một biện_pháp thiếu chính_xác thử_nghiệm khả_năng tiết_kiệm nhiên_liệu xe hãng sản_xuất
+2,“ lời_thú_tội ” suzuki đánh_dấu loang rộng một vụ bê_bối trong ngành ôtô nhật bắt_nguồn mitsubishi
+3,tin bloomberg phát_ngôn_viên hidehiro_hirano suzuki nói chủ_tịch hãng ông osamu_suzuki báo_cáo vấn_đề lên_bộ giao_thông nhật_bản trong ngày 18/5
+4,giá cổ_phiếu suzuki thời_điểm sụt 15 buổi trưa nay giờ tokyo mức giảm mạnh nhất trong một phiên giao_dịch trong vòng 16 năm
+5,1 h30 chiều giờ địa_phương giá cổ_phiếu suzuki giảm 12 đóng cửa phiên
+6,suzuki hiện giá_trị vốn_hóa thị_trường khoảng 115 tỷ usd
+7,đầu năm đến nay cổ_phiếu công_ty giảm 31_
+8,“ ấn_tượng xấu đặc_biệt thị_trường trở_nên đặc_biệt lo_ngại vụ bê_bối ở mitsubishi ” nhà phân_tích koji_endo thuộc công_ty advanced_research_japan nhận_định
+9,“ cho_dù suzuki thao_túng dữ_liệu tin xấu ”
+10,suzuki nhà_sản_xuất ôtô đầu_tiên thừa_nhận làm sai bộ giao_thông nhật yêu_cầu hãng xe tiến_hành điều_tra nội_bộ kể vụ bê_bối ở mitsubishi đưa ánh_sáng tháng
+11,mitsubishi motors “ nói quá ” tới 10 về khả_năng tiết_kiệm nhiên_liệu 4 mẫu xe mini hãng sản_xuất
+12,ngoài_ra hãng còn thao_túng dữ_liệu liên_quan đến mẫu xe
+13,hiện mitsubishi điều_tra về sử_dụng phương_pháp kiểm_tra thiếu chính_xác đối_với mẫu xe khác sản_xuất năm 1991
+14,trong năm tài_khóa kết_thúc tháng 3/2016 sản_lượng toàn_cầu suzuki giảm 3 còn 295 triệu xe
+15,suzuki giảm sản_lượng xe sản_xuất nhật 13 tháng liên_tiếp
+16,trong tài_khóa vừa_qua sản_lượng xe hãng thị_trường nội_địa giảm 18
+17,hãng tin nikkei sáng 18/5 nói giám_đốc điều_hành ceo mitsubishi ông tetsuro_aikawa từ_chức

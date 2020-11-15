@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 31/5  hội nghề cá thành_phố đà_nẵng cho biết  đến chiều_tối cùng ngày vẫn chưa tìm được 2 ngư_dân mất_tích do tàu đna 90604 ts chìm trên biển đêm 30/5 
-1,trước đó  tối 30/5  tàu cá đna 90604 của ông nguyễn_sương  ngụ quận sơn_trà  thành_phố đà_nẵng   do ông nguyễn_văn_phú làm thuyền_trưởng  đang hành_nghề tại 1916 độ_vĩ bắc  10553 độ_kinh đông thì bị nghiêng và chìm 
-2,lúc này  tàu đang ở vị_trí cách nghi_sơn  thanh_hóa khoảng 5 hải_lý về hướng đông_nam 
-3,tàu nhanh_chóng phát tín_hiệu cấp_cứu và được đài hệ_thống thông_tin duyên_hải hải_phòng tiếp_nhận 
-4,theo thông_tin từ thuyền_trưởng  tàu có 12 ngư_dân 
-5,đài hệ_thống thông_tin duyên_hải hải_phòng đã phát tín hiện cấp_cứu  yêu_cầu các tàu_thuyền đang hoạt_động trong khu_vực tìm cách cứu_giúp các ngư_dân gặp nạn 
-6,nhận được tín_hiệu  tàu cá đna 90603 cũng của ông sương đang ở gần đó đã đến cứu_vớt được 11 ngư_dân  2 người còn lại mất_tích 
-7,hiện tàu đna 90603 cùng lực_lượng biên_phòng đang tìm_kiếm ngư_dân mất_tích 
+0,ngày 31/5 hội nghề cá thành_phố đà_nẵng biết đến chiều_tối ngày tìm 2 ngư_dân mất_tích tàu đna 90604 ts chìm biển đêm 30/5
+1,tối 30/5 tàu cá đna 90604 ông nguyễn_sương ngụ quận sơn_trà thành_phố đà_nẵng ông nguyễn_văn_phú làm thuyền_trưởng hành_nghề 1916 độ_vĩ bắc 10553 độ_kinh đông nghiêng chìm
+2,tàu ở vị_trí cách nghi_sơn thanh_hóa khoảng 5 hải_lý về hướng đông_nam
+3,tàu nhanh_chóng phát tín_hiệu cấp_cứu đài hệ_thống thông_tin duyên_hải hải_phòng tiếp_nhận
+4,thông_tin thuyền_trưởng tàu 12 ngư_dân
+5,đài hệ_thống thông_tin duyên_hải hải_phòng phát tín hiện cấp_cứu yêu_cầu tàu_thuyền hoạt_động trong khu_vực tìm cách cứu_giúp ngư_dân gặp nạn
+6,nhận tín_hiệu tàu cá đna 90603 ông sương ở gần đến cứu_vớt 11 ngư_dân 2 người còn mất_tích
+7,hiện tàu đna 90603 lực_lượng biên_phòng tìm_kiếm ngư_dân mất_tích

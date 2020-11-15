@@ -1,8 +1,8 @@
 idx, sentence
-0,vụ_việc xảy ra vào khoảng 5 h sáng 23/5  ở khu_vực cầu cứng  phường phương_lâm  tp hòa_bình  tỉnh hòa_bình 
-1,thời_điểm này  một_số người dân đang đi tập_thể_dục thì bàng hoảng phát_hiện thi_thể một thanh_niên ở gần cầu cứng 
-2,nhận được tin báo  lực_lượng chức_năng đã tới hiện_trường  thực_hiện các biện_pháp nghiệp_vụ để điều_tra 
-3,đại_diện công_an tp hòa_bình cho biết  nạn_nhân là nam thanh_niên khoảng 25  30 tuổi  chưa rõ danh_tính 
-4,nạn_nhân mặc áo trắng  chết trong tư_thể nằm_ngửa  trên mặt có nhiều máu  tập_trung nhiều ở phần miệng và tai 
-5,qua khám_nghiệm sơ_bộ  cơ_quan_chức_năng không phát_hiện có dấu_hiệu tác_động của ngoại_lực 
-6,nhiều khả_năng nạn_nhân sốc thuốc dẫn đến vỡ động mạnh 
+0,vụ_việc xảy khoảng 5 h sáng 23/5 ở khu_vực cầu cứng phường phương_lâm tp hòa_bình tỉnh hòa_bình
+1,thời_điểm một_số người dân đi tập_thể_dục bàng hoảng phát_hiện thi_thể một thanh_niên ở gần cầu cứng
+2,nhận tin báo lực_lượng chức_năng tới hiện_trường thực_hiện biện_pháp nghiệp_vụ điều_tra
+3,đại_diện công_an tp hòa_bình biết nạn_nhân nam thanh_niên khoảng 25 30 tuổi rõ danh_tính
+4,nạn_nhân mặc áo trắng chết trong tư_thể nằm_ngửa mặt máu tập_trung ở phần miệng tai
+5,khám_nghiệm sơ_bộ cơ_quan_chức_năng phát_hiện dấu_hiệu tác_động ngoại_lực
+6,khả_năng nạn_nhân sốc thuốc dẫn đến vỡ động mạnh

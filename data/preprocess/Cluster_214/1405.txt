@@ -1,23 +1,23 @@
 idx, sentence
-0,chỉ_số nhà quản_trị mua hàng  purchasing_managers_’_indextm  pmi  tm  toàn_phần lĩnh_vực sản_xuất của việt_nam – một chỉ_số tổng_hợp về tình_trạng ngành sản_xuất  đã tăng nhẹ từ mức 523 điểm trong tháng 4 lên 527 điểm trong tháng 5  cho thấy sức_khỏe lĩnh_vực sản_xuất đã cải_thiện mạnh_mẽ 
-1,các điều_kiện kinh_doanh đã tốt lên trong suốt sáu tháng qua với mức cải_thiện gần đây nhất là lớn nhất trong một năm 
-2,cụ_thể  nikkei cho biết  sản_lượng trong lĩnh_vực sản_xuất của việt_nam đã lấy lại đà tăng trong tháng 5 và được hỗ_trợ bằng sự tăng nhanh của số_lượng đơn đặt_hàng mới 
-3,để đáp_ứng lượng đơn đặt_hàng mới  các công_ty đã tăng mạnh sản_xuất và tăng số_lượng việc_làm và hoạt_động mua hàng 
-4,theo nikkei  áp_lực lạm_phát tiếp_tục tăng  với chi_phí đầu vào tăng với tốc_độ nhanh nhất kể từ tháng 8/2014 
-5,nhân_tố chính dẫn đến sự cải_thiện các điều_kiện kinh_doanh gần đây là mức tăng đáng_kể của số_lượng đơn đặt_hàng mới 
-6,tốc_độ tăng đã nhanh hơn thành mức nhanh nhất trong 12 tháng và là một trong những mức tăng nhanh nhất trong lịch_sử khảo_sát 
-7,số_lượng đơn đặt_hàng xuất_khẩu mới cũng tăng  mặc_dù với mức_độ yếu hơn so với tháng 4 
-8,số_lượng đơn đặt_hàng mới cao hơn dẫn đến sản_lượng ngành sản_xuất tiếp_tục tăng  và đây là lần tăng thứ sáu trong sáu tháng 
-9,hơn_nữa  mức tăng gần đây nhất là mức tăng nhanh nhất kể từ tháng 7 năm_ngoái 
-10,sản_xuất tăng đã cho_phép các công_ty giảm lượng công_việc tồn_đọng trong tháng 5  mặc_dù mức_độ tăng của số_lượng đơn đặt_hàng mới làm cho lượng công_việc chưa thực_hiện chỉ giảm nhẹ 
-11,để đáp_ứng số_lượng đơn đặt_hàng mới nhiều hơn  các nhà_sản_xuất đã tuyển thêm nhân_viên và đã tăng hoạt_động mua hàng 
-12,việc_làm đã tăng tháng thứ hai liên_tiếp  mặc_dù chỉ là tăng nhẹ và với tốc_độ chậm hơn so với tháng 4 
-13,trong khi đó  tốc_độ tăng mua hàng_hóa đầu vào đã gia_tăng và là mức tăng nhanh nhất kể từ tháng 7 năm_ngoái 
-14,hoạt_động mua hàng đã tăng trong suốt sáu tháng qua 
-15,hoạt_động mua hàng_hóa đầu vào đã góp_phần làm tăng tồn_kho hàng mua lần đầu_tiên trong năm_tháng 
-16,mặt_khác  tồn_kho hàng thành_phẩm đã giảm khi sản_phẩm được chuyển_giao cho khách_hàng 
-17,tuy_nhiên  mức giảm là yếu nhất trong thời_kỳ giảm kéo_dài năm_tháng hiện_nay 
-18,tốc_độ tăng chi_phí đầu_vào trong tháng 5 đã gia_tăng tháng thứ hai liên_tiếp và là nhanh nhất kể từ tháng 8/2014 
-19,những người trả_lời khảo_sát cho biết chi_phí nguyên_vật_liệu cao hơn  và trong một_số trường_hợp nguyên_nhân được cho là do thiếu nguồn cung 
-20,vì giá_cả đầu_vào tiếp_tục tăng  các nhà_sản_xuất đã tăng_giá_cả đầu_ra tương_ứng 
-21,mặc_dù tăng nhanh hơn tháng 4  tốc_độ tăng_giá_cả đầu_ra vẫn là nhẹ 
+0,chỉ_số nhà quản_trị mua hàng purchasing_managers_’_indextm pmi tm toàn_phần lĩnh_vực sản_xuất việt_nam – một chỉ_số tổng_hợp về tình_trạng ngành sản_xuất tăng nhẹ mức 523 điểm trong tháng 4 527 điểm trong tháng 5 thấy sức_khỏe lĩnh_vực sản_xuất cải_thiện mạnh_mẽ
+1,điều_kiện kinh_doanh tốt trong suốt sáu tháng mức cải_thiện gần nhất lớn nhất trong một năm
+2,cụ_thể nikkei biết sản_lượng trong lĩnh_vực sản_xuất việt_nam lấy đà tăng trong tháng 5 hỗ_trợ bằng tăng nhanh số_lượng đơn đặt_hàng mới
+3,đáp_ứng lượng đơn đặt_hàng mới công_ty tăng mạnh sản_xuất tăng số_lượng việc_làm hoạt_động mua hàng
+4,nikkei áp_lực lạm_phát tiếp_tục tăng chi_phí đầu tăng tốc_độ nhanh nhất kể tháng 8/2014
+5,nhân_tố chính dẫn đến cải_thiện điều_kiện kinh_doanh gần mức tăng đáng_kể số_lượng đơn đặt_hàng mới
+6,tốc_độ tăng nhanh hơn thành mức nhanh nhất trong 12 tháng một trong mức tăng nhanh nhất trong lịch_sử khảo_sát
+7,số_lượng đơn đặt_hàng xuất_khẩu mới tăng mặc_dù mức_độ yếu hơn tháng 4
+8,số_lượng đơn đặt_hàng mới cao hơn dẫn đến sản_lượng ngành sản_xuất tiếp_tục tăng lần tăng thứ sáu trong sáu tháng
+9,hơn_nữa mức tăng gần nhất mức tăng nhanh nhất kể tháng 7 năm_ngoái
+10,sản_xuất tăng cho_phép công_ty giảm lượng công_việc tồn_đọng trong tháng 5 mặc_dù mức_độ tăng số_lượng đơn đặt_hàng mới làm lượng công_việc thực_hiện giảm nhẹ
+11,đáp_ứng số_lượng đơn đặt_hàng mới hơn nhà_sản_xuất tuyển thêm nhân_viên tăng hoạt_động mua hàng
+12,việc_làm tăng tháng thứ hai liên_tiếp mặc_dù tăng nhẹ tốc_độ chậm hơn tháng 4
+13,trong tốc_độ tăng mua hàng_hóa đầu gia_tăng mức tăng nhanh nhất kể tháng 7 năm_ngoái
+14,hoạt_động mua hàng tăng trong suốt sáu tháng
+15,hoạt_động mua hàng_hóa đầu góp_phần làm tăng tồn_kho hàng mua lần đầu_tiên trong năm_tháng
+16,mặt_khác tồn_kho hàng thành_phẩm giảm sản_phẩm chuyển_giao khách_hàng
+17,tuy_nhiên mức giảm yếu nhất trong thời_kỳ giảm kéo_dài năm_tháng hiện_nay
+18,tốc_độ tăng chi_phí đầu_vào trong tháng 5 gia_tăng tháng thứ hai liên_tiếp nhanh nhất kể tháng 8/2014
+19,người trả_lời khảo_sát biết chi_phí nguyên_vật_liệu cao hơn trong một_số trường_hợp nguyên_nhân thiếu nguồn cung
+20,giá_cả đầu_vào tiếp_tục tăng nhà_sản_xuất tăng_giá_cả đầu_ra tương_ứng
+21,mặc_dù tăng nhanh hơn tháng 4 tốc_độ tăng_giá_cả đầu_ra nhẹ

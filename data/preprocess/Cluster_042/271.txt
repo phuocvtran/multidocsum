@@ -1,14 +1,14 @@
 idx, sentence
-0,được biết đây là sự_kiện mở_màn chiến_dịch “ việt_nam ơi  bảo_vệ tê_giác  ” kéo_dài hai tuần  do diễn_viên paul_blackthorne  trung_tâm giáo_dục thiên_nhiên  evn  và tổ_chức bảo_vệ tê_giác thế_giới  sri  cùng phối_hợp thực_hiện  nhằm nâng cao nhận_thức cộng_đồng và giảm_thiểu nhu_cầu tiêu_thụ sừng tê_giác tại việt_nam 
-1,đồng_hành cùng paul trong chiến_dịch này còn có hai đại_sứ tê_giác của evn là nghệ_sĩ xuân_bắc và ca_sĩ hồng_nhung 
-2,paul cho biết  “ tôi chọn việt_nam là điểm dừng chân bởi_lẽ việt_nam là một điểm_nóng về tiêu_thụ sừng tê_giác 
-3,loài tê_giác đang đứng trên bờ vực tuyệt_chủng bởi lòng_tham và sự thiếu hiểu_biết của nhiều người 
-4,điều đó làm tôi rất buồn  thất_vọng và quyết_tâm phải làm điều gì đó  
-5,bà susie_offordwoolley  phó giám_đốc tổ_chức sri chia_sẻ  “ chúng_tôi rất mừng khi thấy paul và nhiều người nổi_tiếng khác cùng nỗ_lực tham_gia bảo_vệ tê_giác 
-6,nếu chúng_ta cùng chung sức  chúng_ta có_thể mang lại một tương_lai tốt_đẹp hơn cho loài tê_giác 
-7,đã quá muộn đối_với cá_thể tê_giác cuối_cùng của việt_nam nhưng nếu chúng_ta hành_động ngay  vẫn còn thời_gian để cứu lấy các loài tê_giác trên thế_giới  
-8,việt_nam là một trong những thị_trường tiêu_thụ sừng tê_giác lớn nhất thế_giới 
-9,niềm tin mù_quáng vào việc sử_dụng sừng tê_giác để chữa bệnh và thể_hiện đẳng_cấp đã khiến nhu_cầu tiêu_thụ ngày_một gia_tăng 
-10,năm 2010  cá_thể tê_giác java cuối_cùng tại việt_nam đã bị giết để lấy sừng 
-11,tổng_số tê_giác bị giết_hại ở nam_phi trong năm 2014 là 1215 cá_thể và năm 2015 là 1175 cá_thể 
-12,theo tổ_chức bảo_tồn thiên_nhiên quốc_tế  iucn   nếu tình_trạng săn_bắn tê_giác tiếp_tục diễn ra như hiện_nay thì tê_giác có_thể sẽ bị tuyệt_chủng vào năm 2026 
+0,biết sự_kiện mở_màn chiến_dịch “ việt_nam ơi bảo_vệ tê_giác ” kéo_dài hai tuần diễn_viên paul_blackthorne trung_tâm giáo_dục thiên_nhiên evn tổ_chức bảo_vệ tê_giác thế_giới sri phối_hợp thực_hiện nhằm nâng cao nhận_thức cộng_đồng giảm_thiểu nhu_cầu tiêu_thụ sừng tê_giác việt_nam
+1,đồng_hành paul trong chiến_dịch còn hai đại_sứ tê_giác evn nghệ_sĩ xuân_bắc ca_sĩ hồng_nhung
+2,paul biết “ tôi chọn việt_nam điểm dừng chân bởi_lẽ việt_nam một điểm_nóng về tiêu_thụ sừng tê_giác
+3,loài tê_giác đứng bờ vực tuyệt_chủng lòng_tham thiếu hiểu_biết người
+4,làm tôi buồn thất_vọng quyết_tâm làm
+5,bà susie_offordwoolley phó giám_đốc tổ_chức sri chia_sẻ “ chúng_tôi mừng thấy paul người nổi_tiếng khác nỗ_lực tham_gia bảo_vệ tê_giác
+6,chúng_ta chung sức chúng_ta mang một tương_lai tốt_đẹp hơn loài tê_giác
+7,quá muộn đối_với cá_thể tê_giác cuối_cùng việt_nam chúng_ta hành_động còn thời_gian cứu lấy loài tê_giác thế_giới
+8,việt_nam một trong thị_trường tiêu_thụ sừng tê_giác lớn nhất thế_giới
+9,niềm tin mù_quáng sử_dụng sừng tê_giác chữa bệnh thể_hiện đẳng_cấp khiến nhu_cầu tiêu_thụ ngày_một gia_tăng
+10,năm 2010 cá_thể tê_giác java cuối_cùng việt_nam giết lấy sừng
+11,tổng_số tê_giác giết_hại ở nam_phi trong năm 2014 1215 cá_thể năm 2015 1175 cá_thể
+12,tổ_chức bảo_tồn thiên_nhiên quốc_tế iucn tình_trạng săn_bắn tê_giác tiếp_tục diễn hiện_nay tê_giác tuyệt_chủng năm 2026

@@ -1,10 +1,10 @@
 idx, sentence
-0,ngay khi lễ trao giải bắt_đầu  ban giám_khảo cannes cho biết  họ đã trải qua một quá_trình thảo_luận dài nhất trong lịch_sử 69 năm của liên_hoan_phim cannes  và cuối_cùng  họ cũng đã có được danh_sách nhận giải xứng_đáng 
-1,theo đó  đạo_diễn ken_loach đã chiến_thắng và giành cành cọ vàng thứ 2 trong sự_nghiệp của ông  với bộ phim về đề_tài hiện_thực xã_hội  i  daniel_blake  
-2,phim theo chân một người đàn_ông anh quốc trong quá_trình đấu_tranh chống lại bộ_máy quan_liêu của hệ_thống chăm_sóc sức_khỏe và phúc_lợi xã_hội 
-3,trước đó  vào năm 2006  vị đạo_diễn 79 tuổi đáng kính này đã nhận cành cọ vàng đầu_tiên với bộ phim  the wind that shakes the barley   tạm dịch  gió lay_động cánh đồng lúa_mạch  
-4,trong lịch_sử cannes  tính đến nay  chỉ có 8 đạo_diễn có được vinh_dự 2 lần nhận giải cành cọ vàng  trong đó bao_gồm 2 đạo_diễn tài_ba là francis_ford_coppola với phim  the conversation   1974   the tin drum   1979 và đạo_diễn michael_haneke với phim  the white ribbon   2009 và bộ phim_nổi_tiếng gần đây   amour   2012 
-5,​ ​ ​ ​ ​ ​ ​ ​ còn nếu nói về bộ phim  the wind that shakes the barley  của ken_loach  với sự tham_gia diễn_xuất của nam diễn_viên cillian_murphy  là phải nói về doanh_thu đáng_kể của phim này 
-6,với tổng kinh_phí sản_xuất khoảng 73 triệu usd  sau khi phát_hành  phim đã thu về 26 triệu usd nội_địa và tổng 229 triệu usd trên toàn_cầu 
-7,theo đó   the wind that shakes the barley  là phim có doanh_thu cao nhất của loach  đồng_thời cũng là một trong top các phim có doanh_thu cao đoạt giải cành cọ vàng 
-8,có_lẽ  bộ phim về đề_tài hiện_thực xã_hội  i  daniel_blake  sẽ phá vỡ kỉ_lục cũ và tạo kỉ_lục mới cho loach  người được xem là đang ở cái tuổi  về hưu  để làm_nên một bộ phim 
+0,lễ trao giải bắt_đầu ban giám_khảo cannes biết họ trải một quá_trình thảo_luận dài nhất trong lịch_sử 69 năm liên_hoan_phim cannes cuối_cùng họ danh_sách nhận giải xứng_đáng
+1,đạo_diễn ken_loach chiến_thắng giành cành cọ vàng thứ 2 trong sự_nghiệp ông bộ phim về đề_tài hiện_thực xã_hội i daniel_blake
+2,phim chân một người đàn_ông anh quốc trong quá_trình đấu_tranh chống bộ_máy quan_liêu hệ_thống chăm_sóc sức_khỏe phúc_lợi xã_hội
+3,năm 2006 vị đạo_diễn 79 tuổi đáng kính nhận cành cọ vàng đầu_tiên bộ phim the wind that shakes the barley tạm dịch gió lay_động cánh đồng lúa_mạch
+4,trong lịch_sử cannes tính đến nay 8 đạo_diễn vinh_dự 2 lần nhận giải cành cọ vàng trong bao_gồm 2 đạo_diễn tài_ba francis_ford_coppola phim the conversation 1974 the tin drum 1979 đạo_diễn michael_haneke phim the white ribbon 2009 bộ phim_nổi_tiếng gần amour 2012
+5,​ ​ ​ ​ ​ ​ ​ ​ còn nói về bộ phim the wind that shakes the barley ken_loach tham_gia diễn_xuất nam diễn_viên cillian_murphy nói về doanh_thu đáng_kể phim
+6,tổng kinh_phí sản_xuất khoảng 73 triệu usd phát_hành phim thu về 26 triệu usd nội_địa tổng 229 triệu usd toàn_cầu
+7,the wind that shakes the barley phim doanh_thu cao nhất loach đồng_thời một trong top phim doanh_thu cao đoạt giải cành cọ vàng
+8,có_lẽ bộ phim về đề_tài hiện_thực xã_hội i daniel_blake phá vỡ kỉ_lục cũ tạo kỉ_lục mới loach người xem ở tuổi về hưu làm_nên một bộ phim

@@ -1,10 +1,10 @@
 idx, sentence
-0,chiều 28/5  khi chúng_tôi đến bệnh_viện chợ_rẫy  anh rachid  34 tuổi  quốc_tịch marốc  vẫn còn nằm điều_trị vết_thương và vẫn chưa hoàn_hồn vì vụ cướp cách đó một ngày 
-1,chị trần_thị_thu_trang  vợ anh rachid  kể  tối 27/5  khi vợ_chồng anh_chị cùng con gái 2 tuổi đi chơi về nhà ở chung_cư phúc_yên  thuộc phường 15  quận tân_bình thì bị cướp 
-2,khi anh rachid bế con còn chị trang thì cầm túi_xách bước xuống xe 
-3,lúc đó  có hai thanh_niên mặc áo_mưa  đi xe_gắn_máy tới  hai đối_tượng áp sát và giật chiếc túi bóp chị trang đang cầm trên tay 
-4,thấy vợ bị cướp_giật  anh rachid vội bỏ con xuống đuổi theo thì bị một thanh_niên dùng vật nhọn đâm xượt qua_mặt và ngực 
-5,lúc này cũng có hai người đi xe_gắn_máy lao tới cản đường 
-6,sau khi nhóm thanh_niên tẩu_thoát  chị trang phát_hiện chiếc bóp của mình còn rớt lại 
-7,trong khi đó  anh rachid bị chảy nhiều máu trên mặt và đã mất hai điện_thoại iphone cùng nhiều tờ tiền đô_la mỹ 
-8,anh rachid mau_chóng được người_thân đưa đến bệnh_viện chợ_rẫy cấp_cứu 
+0,chiều 28/5 chúng_tôi đến bệnh_viện chợ_rẫy anh rachid 34 tuổi quốc_tịch marốc còn nằm điều_trị vết_thương hoàn_hồn vụ cướp cách một ngày
+1,chị trần_thị_thu_trang vợ anh rachid kể tối 27/5 vợ_chồng anh_chị con gái 2 tuổi đi chơi về nhà ở chung_cư phúc_yên thuộc phường 15 quận tân_bình cướp
+2,anh rachid bế con còn chị trang cầm túi_xách bước xuống xe
+3,hai thanh_niên mặc áo_mưa đi xe_gắn_máy tới hai đối_tượng áp sát giật túi bóp chị trang cầm tay
+4,thấy vợ cướp_giật anh rachid vội bỏ con xuống đuổi một thanh_niên dùng vật nhọn đâm xượt qua_mặt ngực
+5,hai người đi xe_gắn_máy lao tới cản đường
+6,nhóm thanh_niên tẩu_thoát chị trang phát_hiện bóp mình còn rớt
+7,trong anh rachid chảy máu mặt mất hai điện_thoại iphone tờ tiền đô_la mỹ
+8,anh rachid mau_chóng người_thân đưa đến bệnh_viện chợ_rẫy cấp_cứu

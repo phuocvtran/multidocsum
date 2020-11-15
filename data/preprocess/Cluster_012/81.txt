@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 20/5  công_an huyện phú_giáo  tỉnh bình_dương  cho biết  đã bắt_giữ hai nghi can nguyễn_thanh_sơn  25 tuổi  ngụ huyện bàu_bàng  và trương_thị_hồng_nhung  22 tuổi  ngụ huyện phú_giáo  để điều_tra về hành_vi cướp tài_sản 
-1,theo cơ_quan công_an  vào khoảng giữa tháng 4/2015 trên địa_bàn huyện phú_giáo liên_tục xảy ra các vụ cướp táo_tợn 
-2,các đối_tượng lợi_dụng lúc trời tối  đường vắng để ra_tay 
-3,chiều 18/5  nhận được tin báo từ công_an xã tam_lập_là trên địa_bàn vừa xảy ra một vụ cướp_giật  thủ_phạm là một cặp nam_nữ đi xe mô_tô 
-4,lãnh_đạo công_an huyện lập_tức huy_động lực_lượng công_an huyện và nhiều xã tiến_hành chốt chặn  truy_xét vụ_việc 
-5,đến khoảng 24 h cùng ngày các trinh_sát đã bắt_giữ được hai nghi can sơn và nhung 
-6,qua điều_tra ban_đầu  hai đối_tượng khai nhận là đối_tượng nghiện ma_túy 
-7,để có tiền_tiêu sài  hai nghi can sử_dụng roi điện thực_hiện 12 vụ cướp_giật tài_sản trên địa_bàn huyện bàu_bàng và huyện phú_giáo 
+0,ngày 20/5 công_an huyện phú_giáo tỉnh bình_dương biết bắt_giữ hai nghi can nguyễn_thanh_sơn 25 tuổi ngụ huyện bàu_bàng trương_thị_hồng_nhung 22 tuổi ngụ huyện phú_giáo điều_tra về hành_vi cướp tài_sản
+1,cơ_quan công_an khoảng giữa tháng 4/2015 địa_bàn huyện phú_giáo liên_tục xảy vụ cướp táo_tợn
+2,đối_tượng lợi_dụng trời tối đường vắng ra_tay
+3,chiều 18/5 nhận tin báo công_an xã tam_lập_là địa_bàn xảy một vụ cướp_giật thủ_phạm một cặp nam_nữ đi xe mô_tô
+4,lãnh_đạo công_an huyện lập_tức huy_động lực_lượng công_an huyện xã tiến_hành chốt chặn truy_xét vụ_việc
+5,đến khoảng 24 h ngày trinh_sát bắt_giữ hai nghi can sơn nhung
+6,điều_tra ban_đầu hai đối_tượng khai nhận đối_tượng nghiện ma_túy
+7,tiền_tiêu sài hai nghi can sử_dụng roi điện thực_hiện 12 vụ cướp_giật tài_sản địa_bàn huyện bàu_bàng huyện phú_giáo

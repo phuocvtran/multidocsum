@@ -1,7 +1,7 @@
 idx, sentence
-0,trước đó  theo quyết_định số 53/2012 / qđttg ngày 22/11/2012 của thủ_tướng chính_phủ  để đảm_bảo lộ_trình  sản_xuất kinh_doanh xăng e5  chính_phủ yêu_cầu các tỉnh  thành_phố bao_gồm  hà_nội  hải_phòng  đà_nẵng  quảng_nam  quảng_ngãi  cần_thơ  bà_rịa  vũng_tàu  tp hcm phấn_đấu đến ngày 1/6/2016 đạt 100  số_lượng cửa_hàng bán_lẻ xăng_dầu tại địa_phương bán xăng e5 và 100  lượng xăng ron 92 được thay_thế bằng xăng e5 
-1,xăng sinh_học e5 là sản_phẩm có nhiều lợi_thế về bảo_vệ môi_trường  chất_lượng  giá_bán   mang lại lợi_ích kinh_tế cho người tiêu_dùng 
-2,nhưng thực_tế  sau một năm rưỡi triển_khai bán xăng e5  kết_quả chưa được như kỳ_vọng  lượng tiêu_thụ xăng e5 còn thấp 
-3,người tiêu_dùng vẫn còn nhiều e_dè và vẫn giữ thói_quen dùng xăng ron 92 thay_vì sử_dụng xăng e5 
-4,vì_thế thông_tin từ 1/6 tại 8 tỉnh_thành_phố nêu trên sẽ bán xăng e5 thay_thế hoàn_toàn xăng ron 92 khiến nhiều người băn_khoăn 
-5,chia_sẻ trên vov mới đây  ông nguyễn_phú_cường  vụ_trưởng vụ khoa_học và công_nghệ  bộ công_thương  khẳng_định  không có chuyện dừng bán hoàn_toàn loại xăng truyền_thống ron 92 tại 8 tỉnh  thành_phố để thay_thế bằng xăng e5 từ ngày 1/6 
+0,quyết_định số 53/2012 / qđttg ngày 22/11/2012 thủ_tướng chính_phủ đảm_bảo lộ_trình sản_xuất kinh_doanh xăng e5 chính_phủ yêu_cầu tỉnh thành_phố bao_gồm hà_nội hải_phòng đà_nẵng quảng_nam quảng_ngãi cần_thơ bà_rịa vũng_tàu tp hcm phấn_đấu đến ngày 1/6/2016 đạt 100 số_lượng cửa_hàng bán_lẻ xăng_dầu địa_phương bán xăng e5 100 lượng xăng ron 92 thay_thế bằng xăng e5
+1,xăng sinh_học e5 sản_phẩm lợi_thế về bảo_vệ môi_trường chất_lượng giá_bán mang lợi_ích kinh_tế người tiêu_dùng
+2,thực_tế một năm rưỡi triển_khai bán xăng e5 kết_quả kỳ_vọng lượng tiêu_thụ xăng e5 còn thấp
+3,người tiêu_dùng còn e_dè giữ thói_quen dùng xăng ron 92 thay_vì sử_dụng xăng e5
+4,vì_thế thông_tin 1/6 8 tỉnh_thành_phố nêu bán xăng e5 thay_thế hoàn_toàn xăng ron 92 khiến người băn_khoăn
+5,chia_sẻ vov mới ông nguyễn_phú_cường vụ_trưởng vụ khoa_học công_nghệ bộ công_thương khẳng_định dừng bán hoàn_toàn loại xăng truyền_thống ron 92 8 tỉnh thành_phố thay_thế bằng xăng e5 ngày 1/6

@@ -1,10 +1,10 @@
 idx, sentence
-0,bộ_trưởng quốc_phòng hy_lạp_panos_kammenos  máy_bay đã  quay 90 độ sang trái và 360 độ sang phải  hạ độ cao từ 37000 feet xuống 15000 feet và mất tín_hiệu ở độ cao 10000 feet   khoảng 11 km  
-1,theo lời quan_chức này  chiếc máy_bay ms804 bất_ngờ bay chậm lại ở độ cao khoảng hơn 11 km 
-2,ở tọa_độ này  máy_bay  bất_ngờ chuyển_hướng   ban_đầu xoay 90 độ sang bên phải  sau đó lại xoay ngược về bên trước khi biến mất khỏi màn_hình radar và có_thể là bắt_đầu rơi 
-3,theo nguồn tin sân_bay hy_lạp cho biết  chiếc máy_bay ms804 đã rơi ở ngoài khơi đảo karpathos của nước này 
-4,truyền_thông hy_lạp cũng đưa tin rằng  ngư_dân trên một tàu đánh_cá của hy_lạp đã nhìn thấy một vệt sáng trên bầu_trời ở địa_trung_hải 
-5,tuy_nhiên  thông_tin này hiện chưa được kiểm_chứng 
-6,một đoạn video xuất_hiện trên mạng twitter được cho là quay lại khoảnh_khắc máy_bay của hãng hàng_không egyptair bốc cháy như một quả cầu lửa trên bầu_trời phía trên địa_trung_hải song chưa được xác_thực 
-7,hiện_giờ  các chuyên_gia quốc_tế và địa_phương hầu_hết đều nghiêng về giả_thiết máy_bay bị tấn_công khủng_bố 
-8,cũng có ý_kiến cho rằng nhóm khủng_bố nhà_nước hồi_giáo  is  có liên_quan đến thảm_kịch này 
+0,bộ_trưởng quốc_phòng hy_lạp_panos_kammenos máy_bay quay 90 độ sang trái 360 độ sang hạ độ cao 37000 feet xuống 15000 feet mất tín_hiệu ở độ cao 10000 feet khoảng 11 km
+1,lời quan_chức máy_bay ms804 bất_ngờ bay chậm ở độ cao khoảng hơn 11 km
+2,ở tọa_độ máy_bay bất_ngờ chuyển_hướng ban_đầu xoay 90 độ sang bên xoay ngược về bên biến mất khỏi màn_hình radar bắt_đầu rơi
+3,nguồn tin sân_bay hy_lạp biết máy_bay ms804 rơi ở ngoài khơi đảo karpathos nước
+4,truyền_thông hy_lạp đưa tin ngư_dân một tàu đánh_cá hy_lạp nhìn thấy một vệt sáng bầu_trời ở địa_trung_hải
+5,tuy_nhiên thông_tin hiện kiểm_chứng
+6,một đoạn video xuất_hiện mạng twitter quay khoảnh_khắc máy_bay hãng hàng_không egyptair bốc cháy một quả cầu lửa bầu_trời phía địa_trung_hải song xác_thực
+7,hiện_giờ chuyên_gia quốc_tế địa_phương hầu_hết nghiêng về giả_thiết máy_bay tấn_công khủng_bố
+8,ý_kiến nhóm khủng_bố nhà_nước hồi_giáo is liên_quan đến thảm_kịch

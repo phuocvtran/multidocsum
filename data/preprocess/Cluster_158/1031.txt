@@ -1,7 +1,7 @@
 idx, sentence
-0,cục quản_lý cạnh_tranh  bộ công_thương  mới có thông_báo về việc chấm_dứt hoạt_động bán hàng đa cấp và đề_nghị rút_tiền ký quỹ của công_ty tnhh aim_star_network_việt_nam  trung_tâm thương_mại indochina_plaza  số 239 đường xuân_thủy  phường dịch_vọng  quận cầu_giấy  thành_phố hà_nội  
-1,lý_do công_ty tnhh aim_star_network việt_nam đưa ra thông_báo chấm_dứt hoạt_động bán hàng đa cấp là do doanh_nghiệp đang tiến_hành thủ_tục giải_thể 
-2,thời_gian bắt_đầu chấm_dứt hoạt_động bán hàng đa cấp từ ngày 31/12/2015 
-3,quản_lý điều_hành công_ty tnhh aim_star_network việt_nam là ông hoàng_minh_hồng đề_nghị giải_tỏa số tiền ký quỹ vì lý_do doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp và đang tiến_hành thủ_tục giải_thể 
-4,trong thời_hạn 30 ngày kể từ ngày ra thông_báo  người tham_gia bán hàng đa cấp của công_ty tnhh aim_star_network_việt_nam chưa được công_ty hoàn_thành các nghĩa_vụ quy_định tại điểm b khoản 2 điều 16 nghị_định 42/2014 / nđcp có quyền thông_báo đến cục quản_lý cạnh_tranh yêu_cầu công_ty giải_quyết 
-5,trường_hợp không có thông_báo nào của người tham_gia bán hàng đa cấp gửi tới cục quản_lý cạnh_tranh trong thời_hạn nêu trên  công_ty tnhh aim_star_network việt_nam được coi là đã hoàn_thành các nghĩa_vụ quy_định tại điểm b khoản 2 điều 16 nghị_định 42/2014 / nđcp  cục_qlct sẽ ban_hành văn_bản chấp_thuận giải_tỏa ký quỹ cho công_ty tnhh aim_star_network việt_nam 
+0,cục quản_lý cạnh_tranh bộ công_thương mới thông_báo về chấm_dứt hoạt_động bán hàng đa cấp đề_nghị rút_tiền ký quỹ công_ty tnhh aim_star_network_việt_nam trung_tâm thương_mại indochina_plaza số 239 đường xuân_thủy phường dịch_vọng quận cầu_giấy thành_phố hà_nội
+1,lý_do công_ty tnhh aim_star_network việt_nam đưa thông_báo chấm_dứt hoạt_động bán hàng đa cấp doanh_nghiệp tiến_hành thủ_tục giải_thể
+2,thời_gian bắt_đầu chấm_dứt hoạt_động bán hàng đa cấp ngày 31/12/2015
+3,quản_lý điều_hành công_ty tnhh aim_star_network việt_nam ông hoàng_minh_hồng đề_nghị giải_tỏa số tiền ký quỹ lý_do doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp tiến_hành thủ_tục giải_thể
+4,trong thời_hạn 30 ngày kể ngày thông_báo người tham_gia bán hàng đa cấp công_ty tnhh aim_star_network_việt_nam công_ty hoàn_thành nghĩa_vụ quy_định điểm b khoản 2 16 nghị_định 42/2014 / nđcp quyền thông_báo đến cục quản_lý cạnh_tranh yêu_cầu công_ty giải_quyết
+5,trường_hợp thông_báo nào người tham_gia bán hàng đa cấp gửi tới cục quản_lý cạnh_tranh trong thời_hạn nêu công_ty tnhh aim_star_network việt_nam coi hoàn_thành nghĩa_vụ quy_định điểm b khoản 2 16 nghị_định 42/2014 / nđcp cục_qlct ban_hành văn_bản chấp_thuận giải_tỏa ký quỹ công_ty tnhh aim_star_network việt_nam

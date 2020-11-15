@@ -1,14 +1,14 @@
 idx, sentence
-0,đây là giải báo_chí thường_niên được tổ_chức để trao_tặng cho các tác_phẩm báo_chí xuất_sắc về xây_dựng đảng trên các mặt  chính_trị  tư_tưởng  tổ_chức và đạo_đức  thuộc các lĩnh_vực công_tác tổ_chức  tuyên_giáo  kiểm_tra  dân_vận  đối_ngoại  phòng_chống tham_nhũng  được đăng  phát trên các phương_tiện_thông_tin_đại_chúng 
-1,giải cũng được trao cho các cơ_quan báo_chí tổ_chức tốt việc phát_động  động_viên nhiều phóng_viên  biên_tập_viên tham_gia và đạt nhiều kết_quả tuyên_truyền về xây_dựng đảng  có nhiều tác_giả  tác_phẩm đạt giải 
-2,năm 2016 là lần đầu_tiên phát_động giải báo_chí toàn_quốc về xây_dựng đảng  giải búa_liềm vàng   vào đúng dịp kỷ_niệm 126 năm ngày_sinh chủ_tịch hồ_chí_minh 
-3,đối_tượng xét trao giải là các tác_phẩm được đăng  phát từ ngày 1952016 đến 31102016 
-4,từ năm 2017  giải sẽ lựa_chọn tác_phẩm xuất_sắc trong số các tác_phẩm đăng  phát từ ngày 111 năm trước đến 3110 năm sau 
-5,lễ trao giải hàng năm sẽ được tổ_chức nhân kịp kỷ_niệm ngày thành_lập đảng  32  
-6,theo ban tổ_chức  giải búa_liềm vàng được tổ_chức nhằm động_viên  khuyến_khích  tạo động_lực thúc_đẩy ngày_càng có nhiều tác_phẩm báo_chí xuất_sắc về xây_dựng đảng  nâng cao chất_lượng tuyên_truyền công_tác xây_dựng đảng 
-7,ban tổ_chức sẽ trao 3 giải a  7 giải b  12 giải c  25 giải khuyến_khích cho các tác_giả  tác_phẩm và 10 giải đồng_hạng xuất_sắc cho các cơ_quan báo_chí tiêu_biểu 
-8,tác_giả  tác_phẩm đoạt giải được tặng tiền thưởng  giải a  50 triệu đồng  giải b  35 triệu đồng  giải c  25 triệu đồng  giải khuyến_khích  10 triệu đồng  kèm biểu_trưng búa_liềm vàng 
-9,cơ_quan báo_chí tiêu_biểu được tặng tiền thưởng  15 triệu đồng  kèm theo biểu_trưng búa_liềm vàng và bằng_khen của ban tổ_chức tư 
-10,kinh_phí hoạt_động giải báo_chí toàn_quốc về xây_dựng đảng do hoạt_động tài_trợ  hỗ_trợ  quảng_bá thương_hiệu tự_nguyện  hợp_pháp của các doanh_nghiệp  đơn_vị  không huy_động dưới mọi hình_thức đối_với cá_nhân  tổ_chức trong danh_sách tham_dự giải 
-11,phát_biểu tại buổi họp_báo  ủy_viên bộ chính_trị  bí_thư tư_đảng  trưởng_ban tổ_chức tư  trưởng_ban chỉ_đạo giải búa_liềm vàng phạm_minh chính_đề_nghị trên cơ_sở những quyết_sách của đại_hội_đảng_12  lãnh_đạo  ban biên_tập các cơ_quan báo_chí nghiên_cứu xây_dựng chương_trình tổ_chức tuyên_truyền đồng_bộ  thống_nhất  phong_phú  sinh_động về đảng và công_tác xây_dựng đảng 
-12,trong rất nhiều vấn_đề cơ_bản và quan_trọng về đảng và công_tác xây_dựng đảng hiện_nay  ông phạm_minh_chính nhấn_mạnh hệ_thống chính_trị và nhất_là các tòa_soạn cần tập_trung tâm huyết  trí_tuệ và công_sức dành cho việc nghiên_cứu  thông_tin  tuyên_truyền  vận_động  thuyết_phục những vấn_đề mới và khó  có tính quy_luật về đảng_cộng_sản việt_nam cầm_quyền 
+0,giải báo_chí thường_niên tổ_chức trao_tặng tác_phẩm báo_chí xuất_sắc về xây_dựng đảng mặt chính_trị tư_tưởng tổ_chức đạo_đức thuộc lĩnh_vực công_tác tổ_chức tuyên_giáo kiểm_tra dân_vận đối_ngoại phòng_chống tham_nhũng đăng phát phương_tiện_thông_tin_đại_chúng
+1,giải trao cơ_quan báo_chí tổ_chức tốt phát_động động_viên phóng_viên biên_tập_viên tham_gia đạt kết_quả tuyên_truyền về xây_dựng đảng tác_giả tác_phẩm đạt giải
+2,năm 2016 lần đầu_tiên phát_động giải báo_chí toàn_quốc về xây_dựng đảng giải búa_liềm vàng đúng dịp kỷ_niệm 126 năm ngày_sinh chủ_tịch hồ_chí_minh
+3,đối_tượng xét trao giải tác_phẩm đăng phát ngày 1952016 đến 31102016
+4,năm 2017 giải lựa_chọn tác_phẩm xuất_sắc trong số tác_phẩm đăng phát ngày 111 năm đến 3110 năm
+5,lễ trao giải hàng năm tổ_chức nhân kịp kỷ_niệm ngày thành_lập đảng 32
+6,ban tổ_chức giải búa_liềm vàng tổ_chức nhằm động_viên khuyến_khích tạo động_lực thúc_đẩy ngày_càng tác_phẩm báo_chí xuất_sắc về xây_dựng đảng nâng cao chất_lượng tuyên_truyền công_tác xây_dựng đảng
+7,ban tổ_chức trao 3 giải a 7 giải b 12 giải c 25 giải khuyến_khích tác_giả tác_phẩm 10 giải đồng_hạng xuất_sắc cơ_quan báo_chí tiêu_biểu
+8,tác_giả tác_phẩm đoạt giải tặng tiền thưởng giải a 50 triệu đồng giải b 35 triệu đồng giải c 25 triệu đồng giải khuyến_khích 10 triệu đồng kèm biểu_trưng búa_liềm vàng
+9,cơ_quan báo_chí tiêu_biểu tặng tiền thưởng 15 triệu đồng kèm biểu_trưng búa_liềm vàng bằng_khen ban tổ_chức tư
+10,kinh_phí hoạt_động giải báo_chí toàn_quốc về xây_dựng đảng hoạt_động tài_trợ hỗ_trợ quảng_bá thương_hiệu tự_nguyện hợp_pháp doanh_nghiệp đơn_vị huy_động mọi hình_thức đối_với cá_nhân tổ_chức trong danh_sách tham_dự giải
+11,phát_biểu buổi họp_báo ủy_viên bộ chính_trị bí_thư tư_đảng trưởng_ban tổ_chức tư trưởng_ban chỉ_đạo giải búa_liềm vàng phạm_minh chính_đề_nghị cơ_sở quyết_sách đại_hội_đảng_12 lãnh_đạo ban biên_tập cơ_quan báo_chí nghiên_cứu xây_dựng chương_trình tổ_chức tuyên_truyền đồng_bộ thống_nhất phong_phú sinh_động về đảng công_tác xây_dựng đảng
+12,trong vấn_đề cơ_bản quan_trọng về đảng công_tác xây_dựng đảng hiện_nay ông phạm_minh_chính nhấn_mạnh hệ_thống chính_trị nhất_là tòa_soạn tập_trung tâm huyết trí_tuệ công_sức dành nghiên_cứu thông_tin tuyên_truyền vận_động thuyết_phục vấn_đề mới khó tính quy_luật về đảng_cộng_sản việt_nam cầm_quyền

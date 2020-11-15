@@ -1,8 +1,8 @@
 idx, sentence
-0,“ madame_nhu  quyền_lực bà rồng ” kể về cuộc_đời bà trần_lệ_xuân  1924  2011  
-1,sách được dịch_giả mai_sơn chuyển_ngữ từ tác_phẩm đầu_tay của tác_giả mỹ  monique_brinson_demery 
-2,ngay khi sách vừa ra_mắt  độc_giả đã phát_hiện một_số sai_sót 
-3,dịch_giả cuốn sách cũng thừa_nhận có một_số lỗi sai trong cuốn sách  trong số đó thuộc khâu đối_chiếu thông_tin 
-4,đợt in đầu_tiên  phương_nam_book đã bán hết 30000 cuốn 
-5,qua công_văn này  sở tttt tp hcm yêu_cầu phòng_văn_hóa  thông_tin các quận  huyện và các cơ_sở phát_hành sách đối_chiếu thu_hồi các cuốn sách “ madam_nhu  quyền_lực bà rồng ” ấn_bản đợt đầu 
-6,sở tttt tp hcm cũng yêu_cầu các đơn_vị thực_hiện ngay và báo_cáo kết_quả về sở  hạn chót vào ngày 106 
+0,“ madame_nhu quyền_lực bà rồng ” kể về cuộc_đời bà trần_lệ_xuân 1924 2011
+1,sách dịch_giả mai_sơn chuyển_ngữ tác_phẩm đầu_tay tác_giả mỹ monique_brinson_demery
+2,sách ra_mắt độc_giả phát_hiện một_số sai_sót
+3,dịch_giả cuốn sách thừa_nhận một_số lỗi sai trong cuốn sách trong số thuộc khâu đối_chiếu thông_tin
+4,đợt in đầu_tiên phương_nam_book bán hết 30000 cuốn
+5,công_văn sở tttt tp hcm yêu_cầu phòng_văn_hóa thông_tin quận huyện cơ_sở phát_hành sách đối_chiếu thu_hồi cuốn sách “ madam_nhu quyền_lực bà rồng ” ấn_bản đợt đầu
+6,sở tttt tp hcm yêu_cầu đơn_vị thực_hiện báo_cáo kết_quả về sở hạn chót ngày 106

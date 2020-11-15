@@ -1,20 +1,20 @@
 idx, sentence
-0,một tháng dùng gấp hơn 100 lần của 3 tháng cộng lại sự_việc gia_đình ông trần_công_ứng  trú tại tân_triều  xã triều_khúc  thanh_trì  hà_nội nhận hóa_đơn tiền nước tháng 4/2016 là hơn 19 triệu đồng vẫn đang được dư_luận hết_sức quan_tâm 
-1,trong ngày 20/5  chúng_tôi đã nhiều lần liên_lạc vào số máy của ông triệu_đình_nhã  chủ_nhiệm htx và ông bùi_văn_năng  trưởng_ban kiểm_soát htx dịch_vụ sản_xuất nông_nghiệp_triều_khúc  đơn_vị cùng cấp_nước  pv   nhưng đều không được 
-2,trong một diễn_biến khác  theo phần cuống hóa_đơn được ông nguyễn_trung_dũng  kế_toán_trưởng của htx cung_cấp thì  trong tháng 1/2016 gia_đình ông ứng sử_dụng hết 29 m3 nước  thành tiền là 254000 đồng 
-3,đến tháng 2 gia_đình sử_dụng hết 42 m3 thành tiền là 472000 đồng  sang_tháng 3  gia_đình sử_dụng hết 21 m3 thành tiền là 170000 đồng tiền nước 
-4,tuy_nhiên đến tháng 4 thì lượng nước gia_đình dùng lại tăng đột_biến lên 1029 m3 thành tiền là 19125000 đồng 
-5,làm một phép_tính đơn_giản thì  lượng nước tháng 4 này tăng gấp hơn 100 lần so tổng_lượng nước 3 tháng trước đó gia_đình ông ứng sử_dụng 
-6, nếu gia_đình chúng_tôi bán hàng quán gì hay rửa xe  mà dùng nhiều như vậy thì sẵn_sàng đi vay_mượn để đóng tiền mà chẳng hề ý_kiến 
-7,nhưng sự_thật không phải như thế  chúng_tôi mong mọi việc sẽ được làm sáng_tỏ chứ thực_sự suốt từ nhiều ngày qua  vợ_chồng con_cái nhà tôi đều mệt_mỏi  lo_lắng  thậm_chí là sợ   bà_hoàng_thị_hòa  vợ ông ứng bày_tỏ 
-8,cũng theo bà hòa  trong_sáng 20/5  đồng_hồ nước của gia_đình bà đã được đại_diện hợp_tác_xã tháo và cùng con_trai bà là anh sơn đưa đến tổng_cục tiêu_chuẩn đo_lường chất_lượng để tiến_hành kiểm_định 
-9, nhưng cũng chưa biết kết_quả kiểm_định sẽ như thế_nào 
-10,tuy_nhiên  dù thế_nào thì chúng_tôi cũng sẽ cương_quyết đề_nghị làm rõ đến cùng   bà hòa nêu rõ 
-11,yêu_cầu không được dừng cấp_nước trao_đổi với chúng_tôi vào chiều 20/5  ông nguyễn_hữu_vỵ  chủ_tịch xã tân_triều  thanh_trì cho biết  ubnd xã chưa nhận được đơn thư hay phản_ánh từ phía gia_đình ông trần_công_ứng về hóa_đơn nước 19 triệu đồng 
-12,theo đó  ubnd xã mới biết được nội_dung vụ_việc thông_qua cuộc họp_báo ngày 19/5 của hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp triều_khúc 
-13, dù chưa nhận được phản_ánh của gia_đình ông ứng  nhưng đây là vụ_việc xảy ra trên địa_bàn xã nên chúng_tôi đã mời htx dịch_vụ sản_xuất nông_nghiệp triều_khúc lên để làm_việc  giải_trình về vấn_đề này   ông vỵ nói 
-14,ông vỵ cũng cho biết thêm  ubnd xã đã phải gửi giấy triệu_tập đến lần thứ 2 thì ông triệu_đình_nhã  chủ_nhiệm hợp_tác_xã và ông nguyễn_trung_dũng  kế_toán_trưởng mới lên làm_việc 
-15,trong buổi làm_việc  lãnh_đạo ubnd xã đã yêu_cầu htx không được phép dừng việc cấp nước_sạch cho gia_đình ông ứng và phải tiến_hành đưa đồng_hồ nước đi kiểm_định để tìm_hiểu nguyên_nhân vì sao giá tiền nước lại tăng cao như_thế 
-16,đồng_thời  chủ_tịch ubnd xã đã nhắc_nhở thái_độ của ông nguyễn_trung_dũng  trưởng_phòng kế_toán  tài_vụ htx trong buổi họp_báo sáng 19/5 
-17,cùng với đó  chủ_tịch ubnd xã tân_triều cũng yêu_cầu htx phải phối_hợp với các cơ_quan báo_chí để giải_quyết vụ_việc này cho tốt  tránh sự hiểu nhầm 
-18,cùng trao_đổi với chúng_tôi vào chiều_tối 20/5  đại_diện ubnd huyện thanh_trì cho biết  dù chưa nhận được báo_cáo của ubnd xã tân_triều nhưng qua báo_chí đơn_vị đã nắm được sự_việc 
+0,một tháng dùng gấp hơn 100 lần 3 tháng cộng sự_việc gia_đình ông trần_công_ứng trú tân_triều xã triều_khúc thanh_trì hà_nội nhận hóa_đơn tiền nước tháng 4/2016 hơn 19 triệu đồng dư_luận hết_sức quan_tâm
+1,trong ngày 20/5 chúng_tôi lần liên_lạc số máy ông triệu_đình_nhã chủ_nhiệm htx ông bùi_văn_năng trưởng_ban kiểm_soát htx dịch_vụ sản_xuất nông_nghiệp_triều_khúc đơn_vị cấp_nước pv
+2,trong một diễn_biến khác phần cuống hóa_đơn ông nguyễn_trung_dũng kế_toán_trưởng htx cung_cấp trong tháng 1/2016 gia_đình ông ứng sử_dụng hết 29 m3 nước thành tiền 254000 đồng
+3,đến tháng 2 gia_đình sử_dụng hết 42 m3 thành tiền 472000 đồng sang_tháng 3 gia_đình sử_dụng hết 21 m3 thành tiền 170000 đồng tiền nước
+4,tuy_nhiên đến tháng 4 lượng nước gia_đình dùng tăng đột_biến 1029 m3 thành tiền 19125000 đồng
+5,làm một phép_tính đơn_giản lượng nước tháng 4 tăng gấp hơn 100 lần tổng_lượng nước 3 tháng gia_đình ông ứng sử_dụng
+6,gia_đình chúng_tôi bán hàng quán hay rửa xe dùng sẵn_sàng đi vay_mượn đóng tiền chẳng hề ý_kiến
+7,sự_thật thế chúng_tôi mong mọi làm sáng_tỏ thực_sự suốt ngày vợ_chồng con_cái nhà tôi mệt_mỏi lo_lắng thậm_chí sợ bà_hoàng_thị_hòa vợ ông ứng bày_tỏ
+8,bà hòa trong_sáng 20/5 đồng_hồ nước gia_đình bà đại_diện hợp_tác_xã tháo con_trai bà anh sơn đưa đến tổng_cục tiêu_chuẩn đo_lường chất_lượng tiến_hành kiểm_định
+9,biết kết_quả kiểm_định thế_nào
+10,tuy_nhiên dù thế_nào chúng_tôi cương_quyết đề_nghị làm rõ đến bà hòa nêu rõ
+11,yêu_cầu dừng cấp_nước trao_đổi chúng_tôi chiều 20/5 ông nguyễn_hữu_vỵ chủ_tịch xã tân_triều thanh_trì biết ubnd xã nhận đơn thư hay phản_ánh phía gia_đình ông trần_công_ứng về hóa_đơn nước 19 triệu đồng
+12,ubnd xã mới biết nội_dung vụ_việc thông_qua cuộc họp_báo ngày 19/5 hợp_tác_xã dịch_vụ sản_xuất nông_nghiệp triều_khúc
+13,dù nhận phản_ánh gia_đình ông ứng vụ_việc xảy địa_bàn xã chúng_tôi mời htx dịch_vụ sản_xuất nông_nghiệp triều_khúc làm_việc giải_trình về vấn_đề ông vỵ nói
+14,ông vỵ biết thêm ubnd xã gửi giấy triệu_tập đến lần thứ 2 ông triệu_đình_nhã chủ_nhiệm hợp_tác_xã ông nguyễn_trung_dũng kế_toán_trưởng mới làm_việc
+15,trong buổi làm_việc lãnh_đạo ubnd xã yêu_cầu htx phép dừng cấp nước_sạch gia_đình ông ứng tiến_hành đưa đồng_hồ nước đi kiểm_định tìm_hiểu nguyên_nhân sao giá tiền nước tăng cao như_thế
+16,đồng_thời chủ_tịch ubnd xã nhắc_nhở thái_độ ông nguyễn_trung_dũng trưởng_phòng kế_toán tài_vụ htx trong buổi họp_báo sáng 19/5
+17,chủ_tịch ubnd xã tân_triều yêu_cầu htx phối_hợp cơ_quan báo_chí giải_quyết vụ_việc tốt tránh hiểu nhầm
+18,trao_đổi chúng_tôi chiều_tối 20/5 đại_diện ubnd huyện thanh_trì biết dù nhận báo_cáo ubnd xã tân_triều báo_chí đơn_vị nắm sự_việc

@@ -1,17 +1,17 @@
 idx, sentence
-0,theo thông_tin đăng trên một_số hãng tin hàng_đầu hàn_quốc như yonhap  korea_herald  ông kim đã không được chụp ảnh chung với thuốc_lá trong ít_nhất 2 tháng 
-1,nhìn nhanh vào những bức ảnh được phát_hành thời_gian gần đây để xác_nhận điều này  sự ám_chỉ đến thuốc_lá gần đây nhất là từ giữa tháng 5 khi ông ngồi cạnh một cái gạt_tàn 
-2,tuy_nhiên  có rất nhiều lý_do để nghi_ngờ về khả_năng ông kim_jongun bỏ thói_quen hút thuốc 
-3,tin_tức mà truyền_thông hàn_quốc đưa về triều tiên_thường không đáng tin_cậy 
-4,thêm vào đói  ông kim đã nghiện thuốc từ rất lâu rồi  ông ấy được cho là bắt_đầu hút thuốc khi mới 15 tuổi 
-5,qua nhiều năm  ông thường xuất_hiện trong ảnh với một điếu thuốc tại những sự_kiện chính_thức 
-6,điều này rất giống với cha_ông  cố lãnh_đạo kim_jongil 
-7,thói_quen hút thuốc không phải là điều bất_thường với người dân triều_tiên 
-8,theo hãng nk_news  vào những năm 1990  khoảng 90  nam_giới triều_tiên hút thuốc 
-9,đến năm 2014  con_số này đã giảm đáng_kể  chỉ còn 439   theo who 
-10,tuy_nhiên  so với mỹ thì nó vẫn còn khá cao 
-11,có khoảng 20  nam_giới và 15  nữ_giới tại mỹ là hút thuốc 
-12,việc bỏ thuốc có_thể là do chiến_dịch chống thuốc_lá của triều_tiên  bắt_đầu vào giữa những năm 2000 
-13,ở những nơi mà người_ta coi hút thuốc là bình_thường  các em học_sinh được giảng_dạy về những tác_hại của thuốc_lá 
-14,các báo_cáo gần đây mà truyền_thông triều_tiên đưa cho thấy nước này đã thành_lập  các trạm nghiên_cứu không hút thuốc  và những biển cảnh_báo được đặt tại nơi sản_xuất thuốc_lá ở triều_tiên 
-15,trong một bài báo ngày 4/5  hãng thông_tấn kcna viết   số_lượng những người không hút thuốc đã tăng đáng_kể trong từng ngày qua  
+0,thông_tin đăng một_số hãng tin hàng_đầu hàn_quốc yonhap korea_herald ông kim chụp ảnh chung thuốc_lá trong ít_nhất 2 tháng
+1,nhìn nhanh bức ảnh phát_hành thời_gian gần xác_nhận ám_chỉ đến thuốc_lá gần nhất giữa tháng 5 ông ngồi cạnh một gạt_tàn
+2,tuy_nhiên lý_do nghi_ngờ về khả_năng ông kim_jongun bỏ thói_quen hút thuốc
+3,tin_tức truyền_thông hàn_quốc đưa về triều tiên_thường đáng tin_cậy
+4,thêm đói ông kim nghiện thuốc lâu ông ấy bắt_đầu hút thuốc mới 15 tuổi
+5,năm ông thường xuất_hiện trong ảnh một điếu thuốc sự_kiện chính_thức
+6,giống cha_ông cố lãnh_đạo kim_jongil
+7,thói_quen hút thuốc bất_thường người dân triều_tiên
+8,hãng nk_news năm 1990 khoảng 90 nam_giới triều_tiên hút thuốc
+9,đến năm 2014 con_số giảm đáng_kể còn 439 who
+10,tuy_nhiên mỹ nó còn khá cao
+11,khoảng 20 nam_giới 15 nữ_giới mỹ hút thuốc
+12,bỏ thuốc chiến_dịch chống thuốc_lá triều_tiên bắt_đầu giữa năm 2000
+13,ở người_ta coi hút thuốc bình_thường em học_sinh giảng_dạy về tác_hại thuốc_lá
+14,báo_cáo gần truyền_thông triều_tiên đưa thấy nước thành_lập trạm nghiên_cứu hút thuốc biển cảnh_báo đặt sản_xuất thuốc_lá ở triều_tiên
+15,trong một bài báo ngày 4/5 hãng thông_tấn kcna viết số_lượng người hút thuốc tăng đáng_kể trong ngày

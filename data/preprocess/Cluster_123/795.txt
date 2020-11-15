@@ -1,5 +1,5 @@
 idx, sentence
-0,kể từ khi ra_mắt mẫu xe hybrid đầu_tiên của mình vào năm 1997  phải mất 10 năm sau toyota mới bán được 1 triệu chiếc hybrid đầu_tiên  tuy_nhiên  doanh_số của loại xe này tăng_trưởng khá tốt trong những năm gần đây  giúp toyota trở_thành  ông lớn  thực_sự ở phân khúc này 
-1,dấu mốc 1 triệu xe hybrid bán ra gần đây đã đạt được chỉ trong thời_gian là 9 tháng 
-2,trong năm 2015  toyota đã cho ra_mắt chiếc xe đa_dụng mới sienta hybrid  cùng thế_hệ thứ 4 của mẫu sedan hybrid prius 
-3,trong khi đó  ở các thị_trường ngoài nhật_bản  toyota cũng đã giới_thiệu hai mẫu xe mới hybrid là corolla và levin tại trung_quốc  với hệ_thống động_cơ hybrid được sản_xuất tại đất_nước này  …
+0,kể ra_mắt mẫu xe hybrid đầu_tiên mình năm 1997 mất 10 năm toyota mới bán 1 triệu hybrid đầu_tiên tuy_nhiên doanh_số loại xe tăng_trưởng khá tốt trong năm gần giúp toyota trở_thành ông lớn thực_sự ở phân khúc
+1,dấu mốc 1 triệu xe hybrid bán gần đạt trong thời_gian 9 tháng
+2,trong năm 2015 toyota ra_mắt xe đa_dụng mới sienta hybrid thế_hệ thứ 4 mẫu sedan hybrid prius
+3,trong ở thị_trường ngoài nhật_bản toyota giới_thiệu hai mẫu xe mới hybrid corolla levin trung_quốc hệ_thống động_cơ hybrid sản_xuất đất_nước …

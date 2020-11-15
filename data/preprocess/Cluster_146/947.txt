@@ -1,8 +1,8 @@
 idx, sentence
-0,tin_tức đăng_tải trên báo dân_trí  vụ_việc xảy ra vào_khoảng 15 h30  ngày 28/5  tại showroom của tập_đoàn cà_phê trung_nguyên trên đường lý_tự_trọng  phường tân_an  tp buôn_ma_thuột  đắk_lắk 
-1,thời_điểm trên  lê_văn_công  26 tuổi  ngụ huyện đông_anh  tp hà_nội  đến quán để uống cà_phê và liên_tục đòi các nhân_viên cho gặp ông đặng_lê_nguyên_vũ nhưng các nhân_viên trả_lời ông vũ_hiện không có_mặt ở đây 
-2,theo báo_công_an nhân_dân  lúc này  chị hoàng_thị_ngọc_t  25 tuổi  nhân_viên phục_vụ  đi ra thì công bất_ngờ rút một con dao thái_lan thủ sẵn trong người lao đến khống_chế để được đáp_ứng yêu_cầu của mình 
-3,lúc này  sợ bị ảnh_hưởng đến tính_mạng của con_tin  một_số nhân_viên tìm cách tiếp_cận công và trình_báo_vụ_việc cho cơ_quan_chức_năng 
-4,nhận được tin báo  công_an phường ea_tam  cảnh_sát hình_sự công_an tp buôn_ma_thuột và lực_lượng cảnh_sát 113 đã có_mặt tại hiện_trường 
-5,sau hơn 15 phút tiếp_cận  lợi_dụng sự sơ_hở của đối_tượng  lực_lượng chức_năng đã khống_chế tước_đoạt hung_khí  bắt_giữ công và giải_thoát an_toàn cho con_tin 
-6,theo một cán_bộ điều_tra cho biết  vào thời_điểm công bị bắt_giữ và khống_chế  đối_tượng này có biểu_hiện bị ngáo đá  nói_nhảm rất nhiều 
+0,tin_tức đăng_tải báo dân_trí vụ_việc xảy vào_khoảng 15 h30 ngày 28/5 showroom tập_đoàn cà_phê trung_nguyên đường lý_tự_trọng phường tân_an tp buôn_ma_thuột đắk_lắk
+1,thời_điểm lê_văn_công 26 tuổi ngụ huyện đông_anh tp hà_nội đến quán uống cà_phê liên_tục đòi nhân_viên gặp ông đặng_lê_nguyên_vũ nhân_viên trả_lời ông vũ_hiện có_mặt ở
+2,báo_công_an nhân_dân chị hoàng_thị_ngọc_t 25 tuổi nhân_viên phục_vụ đi công bất_ngờ rút một con dao thái_lan thủ sẵn trong người lao đến khống_chế đáp_ứng yêu_cầu mình
+3,sợ ảnh_hưởng đến tính_mạng con_tin một_số nhân_viên tìm cách tiếp_cận công trình_báo_vụ_việc cơ_quan_chức_năng
+4,nhận tin báo công_an phường ea_tam cảnh_sát hình_sự công_an tp buôn_ma_thuột lực_lượng cảnh_sát 113 có_mặt hiện_trường
+5,hơn 15 phút tiếp_cận lợi_dụng sơ_hở đối_tượng lực_lượng chức_năng khống_chế tước_đoạt hung_khí bắt_giữ công giải_thoát an_toàn con_tin
+6,một cán_bộ điều_tra biết thời_điểm công bắt_giữ khống_chế đối_tượng biểu_hiện ngáo đá nói_nhảm

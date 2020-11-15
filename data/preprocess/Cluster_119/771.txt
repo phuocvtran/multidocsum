@@ -1,12 +1,12 @@
 idx, sentence
-0,90 triệu bảng anh là giá_trị của bản hợp_đồng_âm_nhạc mà nàng  họa mi nước anh  vừa đặt bút ký với công_ty âm_nhạc khổng_lồ nhật_bản 
-1,với hợp_đồng  khủng  này  adele đã chính_thức trở_thành giọng ca có giá_trị thương_mại lớn nhất thị_trường âm_nhạc anh quốc từ trước đến nay 
-2,trước đó  kỷ_lục thuộc về nam ca_sĩ robbie_williams  là cựu thành_viên của ban nhạc take_that với bản hợp_đồng trị_giá 80 triệu bảng anh với hãng fmi vào năm 2002 
-3,còn bản hợp_đồng đắt_giá nhất của ca_sĩ nữ trước đây thuộc về huyền_thoại whitney_houston trị_giá 70 triệu bảng anh với hãng arise 
-4,chính_thức xô ngã 2 kỷ_lục lịch_sử  adele đã đạt được thành_tích đáng tự_hào khi năm nay cô mới vừa tròn 28 tuổi 
-5,bản hợp_đồng thu âm kỷ_lục này không chỉ giúp nàng  họa mi nước anh  khẳng_định vị_trí hàng_đầu của mình mà_còn giúp nâng giá_trị tài_sản cá_nhân của cô lên con_số 175 triệu bảng anh  tương_đương gần 6 nghìn tỷ đồng 
-6,về phía sony  một nguồn tin cho biết  hãng khẳng_định  “ chúng_tôi vừa có được chữ_ký của ngôi_sao nổi_tiếng nhất nền âm_nhạc đương_đại 
-7,điều này thật tuyệt_vời ” 
-8,theo đó  sony sẽ nắm giữ toàn_quyền phát_hành các sản_phẩm âm_nhạc của nữ ca_sĩ trên phạm_vi toàn thế_giới 
-9,hiện_tại  album  25  của  giọng_hát hello  đã có 174 triệu bản được bán ra trong năm 2015 và đang nắm giữ vị_trí album bán_chạy nhất thế_giới 
-10,nhiều chuyên_gia âm_nhạc dự_đoán  có được  gà cưng  adele về đầu_quân  sony chắc_chắn sẽ tạo nên sự khác_biệt của một ông  trùm  âm_nhạc trong thời_gian dài sắp tới 
+0,90 triệu bảng anh giá_trị bản hợp_đồng_âm_nhạc nàng họa mi nước anh đặt bút ký công_ty âm_nhạc khổng_lồ nhật_bản
+1,hợp_đồng khủng adele chính_thức trở_thành giọng ca giá_trị thương_mại lớn nhất thị_trường âm_nhạc anh quốc đến nay
+2,kỷ_lục thuộc về nam ca_sĩ robbie_williams cựu thành_viên ban nhạc take_that bản hợp_đồng trị_giá 80 triệu bảng anh hãng fmi năm 2002
+3,còn bản hợp_đồng đắt_giá nhất ca_sĩ nữ thuộc về huyền_thoại whitney_houston trị_giá 70 triệu bảng anh hãng arise
+4,chính_thức xô ngã 2 kỷ_lục lịch_sử adele đạt thành_tích đáng tự_hào năm nay cô mới tròn 28 tuổi
+5,bản hợp_đồng thu âm kỷ_lục giúp nàng họa mi nước anh khẳng_định vị_trí hàng_đầu mình mà_còn giúp nâng giá_trị tài_sản cá_nhân cô con_số 175 triệu bảng anh tương_đương gần 6 nghìn tỷ đồng
+6,về phía sony một nguồn tin biết hãng khẳng_định “ chúng_tôi chữ_ký ngôi_sao nổi_tiếng nhất nền âm_nhạc đương_đại
+7,thật tuyệt_vời ”
+8,sony nắm giữ toàn_quyền phát_hành sản_phẩm âm_nhạc nữ ca_sĩ phạm_vi toàn thế_giới
+9,hiện_tại album 25 giọng_hát hello 174 triệu bản bán trong năm 2015 nắm giữ vị_trí album bán_chạy nhất thế_giới
+10,chuyên_gia âm_nhạc dự_đoán gà cưng adele về đầu_quân sony chắc_chắn tạo khác_biệt một ông trùm âm_nhạc trong thời_gian dài sắp tới

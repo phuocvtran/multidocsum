@@ -1,12 +1,12 @@
 idx, sentence
-0,sau thời_gian theo_dõi  ngày 1/6  lực_lượng công_an hải_phòng đã bắt gọn đối_tượng tráng láo_tú  sinh năm 1968  trú tại bản a_lá  xã lóng_sập  huyện mộc_châu  tỉnh sơn_la  là người dân_tộc mông khi đang trên đường đưa 2 bánh hêrôin  tương_đương 698 gam  xuống các tỉnh miền xuôi tiêu_thụ 
-1,thông_qua công_tác_nghiệp_vụ cơ_bản  phòng cảnh_sát điều_tra tội_phạm về ma_túy  pc47  công_an hải_phòng phát_hiện một đường_dây tàng_trữ  vận_chuyển  mua_bán ma_túy  hêrôin  số_lượng lớn từ tuyến biên_giới tây_bắc  tỉnh sơn_la về hải_phòng sau đó chuyển_tiếp đi các tỉnh khác tiêu_thụ 
-2,tập_trung xác_minh làm rõ  phòng pc47 xác_định tráng_láo_tú là đối_tượng cầm_đầu 
-3,tráng láo_tú sinh_sống ở xã lóng_sập  huyện mộc_châu  tỉnh sơn_la  địa_bàn trọng_điểm về ma_túy của khu_vực tây_bắc cũng như cả nước 
-4,tú có quan_hệ phức_tạp và cấu_kết với với nhiều đối_tượng có tiền_án  tiền_sự về ma_túy ở các tỉnh_thành_phố trong đó có một_số đối_tượng sinh_sống tại hải_phòng  tạo thành đường_dây phạm_tội khép_kín với thủ_đoạn hoạt_động tinh_vi 
-5,tú đã hoạt_động phạm_tội trong thời_gian dài  bị công_an nhiều đơn_vị  địa_phương xác_lập hồ_sơ nghiệp_vụ để tập_trung đấu_tranh bắt_giữ 
-6,bản_thân tú đã có 1 tiền_án  tháng 9/2008 bị tòa_án nhân_dân huyện mộc_châu_– sơn_la tuyên_phạt 9 tháng tù giam về tội trộm_cắp   từ tháng 36 / 2008 bị đưa đi cai_nghiện bắt_buộc tại trung_tâm giáo_dục lao_động xã_hội tỉnh sơn_la 
-7,trên cơ_sở kết_quả công_tác_nghiệp_vụ cơ_bản và công_tác trinh_sát  ban chuyên_án nắm được thông_tin ngày 1/6/2016 tráng láo_tú mang theo 2 bánh hêrôin đi xe_khách từ sơn_la đến hải_phòng tìm gặp đồng_bọn trong đường_dây nhằm giao ma_túy để bán 
-8,sau khi đến hải_phòng  tú liên_tục di_chuyển bằng nhiều phương_tiện khác nhau  xe_khách  xe taxi  xe_ôm   nói tiếng_kinh_thành_thạo để trốn_tránh sự phát_hiện của cơ_quan công_an 
-9,nắm được thủ_đoạn của đối_tượng  ngày 1/6  tại đường đà_nẵng  phường cầu_tre  quận ngô_quyền  hải_phòng   phòng pc47 kết_hợp với đội kiểm_soát hải_quan  cục hải_quan hải_phòng  ban phòng_chống tội_phạm ma_túy  bộ_tư_lệnh vùng cảnh_sát biển 1 bắt quả_tang đối_tượng tráng láo_tú về hành_vi tàng_trữ  vận_chuyển trái_phép chất ma_túy khi y vừa đi từ xe taxi xuống 
-10,lực_lượng chức_năng thu_giữ trên người đối_tượng 2 bánh hêrôin  1 điện_thoại và một_số tang_vật liên_quan khác 
+0,thời_gian theo_dõi ngày 1/6 lực_lượng công_an hải_phòng bắt gọn đối_tượng tráng láo_tú sinh năm 1968 trú bản a_lá xã lóng_sập huyện mộc_châu tỉnh sơn_la người dân_tộc mông đường đưa 2 bánh hêrôin tương_đương 698 gam xuống tỉnh miền xuôi tiêu_thụ
+1,thông_qua công_tác_nghiệp_vụ cơ_bản phòng cảnh_sát điều_tra tội_phạm về ma_túy pc47 công_an hải_phòng phát_hiện một đường_dây tàng_trữ vận_chuyển mua_bán ma_túy hêrôin số_lượng lớn tuyến biên_giới tây_bắc tỉnh sơn_la về hải_phòng chuyển_tiếp đi tỉnh khác tiêu_thụ
+2,tập_trung xác_minh làm rõ phòng pc47 xác_định tráng_láo_tú đối_tượng cầm_đầu
+3,tráng láo_tú sinh_sống ở xã lóng_sập huyện mộc_châu tỉnh sơn_la địa_bàn trọng_điểm về ma_túy khu_vực tây_bắc nước
+4,tú quan_hệ phức_tạp cấu_kết đối_tượng tiền_án tiền_sự về ma_túy ở tỉnh_thành_phố trong một_số đối_tượng sinh_sống hải_phòng tạo thành đường_dây phạm_tội khép_kín thủ_đoạn hoạt_động tinh_vi
+5,tú hoạt_động phạm_tội trong thời_gian dài công_an đơn_vị địa_phương xác_lập hồ_sơ nghiệp_vụ tập_trung đấu_tranh bắt_giữ
+6,bản_thân tú 1 tiền_án tháng 9/2008 tòa_án nhân_dân huyện mộc_châu_– sơn_la tuyên_phạt 9 tháng tù giam về tội trộm_cắp tháng 36 / 2008 đưa đi cai_nghiện bắt_buộc trung_tâm giáo_dục lao_động xã_hội tỉnh sơn_la
+7,cơ_sở kết_quả công_tác_nghiệp_vụ cơ_bản công_tác trinh_sát ban chuyên_án nắm thông_tin ngày 1/6/2016 tráng láo_tú mang 2 bánh hêrôin đi xe_khách sơn_la đến hải_phòng tìm gặp đồng_bọn trong đường_dây nhằm giao ma_túy bán
+8,đến hải_phòng tú liên_tục di_chuyển bằng phương_tiện khác nhau xe_khách xe taxi xe_ôm nói tiếng_kinh_thành_thạo trốn_tránh phát_hiện cơ_quan công_an
+9,nắm thủ_đoạn đối_tượng ngày 1/6 đường đà_nẵng phường cầu_tre quận ngô_quyền hải_phòng phòng pc47 kết_hợp đội kiểm_soát hải_quan cục hải_quan hải_phòng ban phòng_chống tội_phạm ma_túy bộ_tư_lệnh vùng cảnh_sát biển 1 bắt quả_tang đối_tượng tráng láo_tú về hành_vi tàng_trữ vận_chuyển trái_phép chất ma_túy y đi xe taxi xuống
+10,lực_lượng chức_năng thu_giữ người đối_tượng 2 bánh hêrôin 1 điện_thoại một_số tang_vật liên_quan khác

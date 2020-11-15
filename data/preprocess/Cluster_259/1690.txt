@@ -1,13 +1,13 @@
 idx, sentence
-0,sáng 4/6  copa_america 2016 sẽ chính_thức khởi_tranh và 1 ngày sau  tức 5/6  brazil sẽ có trận đấu đầu_tiên tại giải bằng cuộc đối_đầu với ecuador 
-1,thế nhưng  ngay trong buổi sáng nay  họ đã nhận tin chẳng lành về nhân_sự 
-2,cụ_thể  chấn_thương bắp_đùi của ricardo_kaka diễn_tiến phức_tạp và anh sẽ không_thể kịp bình_phục cho giải đấu 
-3,bất_đắc_dĩ  hlv carlos_dunga đành phải gạch tên tiền_vệ thuộc biên_chế orlando_city_sc 
-4,lđbđ brazil đã xác_nhận thông_tin kể trên  đồng_thời cho biết hlv dunga đã gọi paulo_henrique_ganso – ngôi_sao sao paulo tới thay_thế kaka cho đủ 23 người 
-5,điều trớ_trêu là mới tuần trước  tiền_vệ 34 tuổi từng thi_đấu cho ac_milan và real_madrid chỉ vừa được triệu_tập để trám chỗ của douglas_costa – cầu_thủ chạy cánh của bayern_munich dính chấn_thương 
-6,nào_ngờ chỉ 5 ngày sau  bản_thân kaka cũng rơi vào tình_huống tương_tự 
-7,“ kaka cảm_thấy không thoải_mái khi đang tập 
-8,vậy_là chúng_tôi buộc phải kiểm_tra 
-9,kết_quả cho biết cậu ấy phải nghỉ_ngơi hoàn_toàn trong 20 ngày  nên chúng_tôi phải gạt cậu ấy khỏi danh_sách ”  giám_đốc kỹ_thuật gilmar_rinaldi của đt_brazil giải_thích 
-10,“ chúng_tôi đã bàn đến người thay_thế và đó là ganso 
-11,chúng_tôi chỉ còn chờ xem kết_quả kiểm_tra y_tế cậu ấy ” 
+0,sáng 4/6 copa_america 2016 chính_thức khởi_tranh 1 ngày tức 5/6 brazil trận đấu đầu_tiên giải bằng cuộc đối_đầu ecuador
+1,thế trong buổi sáng nay họ nhận tin chẳng lành về nhân_sự
+2,cụ_thể chấn_thương bắp_đùi ricardo_kaka diễn_tiến phức_tạp anh không_thể kịp bình_phục giải đấu
+3,bất_đắc_dĩ hlv carlos_dunga đành gạch tên tiền_vệ thuộc biên_chế orlando_city_sc
+4,lđbđ brazil xác_nhận thông_tin kể đồng_thời biết hlv dunga gọi paulo_henrique_ganso – ngôi_sao sao paulo tới thay_thế kaka đủ 23 người
+5,trớ_trêu mới tuần tiền_vệ 34 tuổi thi_đấu ac_milan real_madrid triệu_tập trám chỗ douglas_costa – cầu_thủ chạy cánh bayern_munich dính chấn_thương
+6,nào_ngờ 5 ngày bản_thân kaka rơi tình_huống tương_tự
+7,“ kaka cảm_thấy thoải_mái tập
+8,vậy_là chúng_tôi buộc kiểm_tra
+9,kết_quả biết cậu ấy nghỉ_ngơi hoàn_toàn trong 20 ngày chúng_tôi gạt cậu ấy khỏi danh_sách ” giám_đốc kỹ_thuật gilmar_rinaldi đt_brazil giải_thích
+10,“ chúng_tôi bàn đến người thay_thế ganso
+11,chúng_tôi còn chờ xem kết_quả kiểm_tra y_tế cậu ấy ”

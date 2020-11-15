@@ -1,11 +1,11 @@
 idx, sentence
-0,chiếc máy_bay dự_kiến có lịch_trình bay từ thành_phố lớn nhất của thổ nhĩ_kỳ  istanbul  đến thành_phố kayseri  miền trung nước này 
-1,thời_điểm xảy ra vụ_việc trên máy_bay có 134 người  bao_gồm cả phi_hành_đoàn  theo reuters 
-2,tất_cả trong những người này đã được sơ_tán khỏi máy_bay 
-3,khi máy_bay chuẩn_bị cất_cánh  mẩu giấy ghi_chú đã được phát_hiện  ngay sau sau đó chiếc máy_bay đã được chuyển_hướng đến một khu_vực đỗ tại sân_bay  cnn_turk cho hay 
-4,xe_cứu_thương và lực_lượng cảnh_sát  cùng các chuyên_gia về bom  đã nhanh_chóng đến hiện_trường 
-5,may_mắn thay  không có chất_nổ nào được tìm thấy trên máy_bay 
-6,nhiều vụ nổ đã diễn ra tại các thành_phố của thổ nhĩ_kỳ trong những tháng gần đây  bao_gồm cả những khu đô_thị lớn 
-7,chính_quyền đổ_lỗi cho các chiến_binh người kurd_đứng đằng sau các cuộc tấn_công này 
-8,hồi đầu tháng 5  một chiếc xe chất đầy thuốc_nổ đã phát nổ gần doanh_trại quân_đội tại thành_phố istanbul 
-9,hồi tháng 3 năm nay  37 người đã thiệt_mạng trong một vụ đánh bom gần xe_buýt công_cộng ở thủ_đô ankara của thổ ​ ​ nhĩ kỳ 
+0,máy_bay dự_kiến lịch_trình bay thành_phố lớn nhất thổ nhĩ_kỳ istanbul đến thành_phố kayseri miền trung nước
+1,thời_điểm xảy vụ_việc máy_bay 134 người bao_gồm phi_hành_đoàn reuters
+2,tất_cả trong người sơ_tán khỏi máy_bay
+3,máy_bay chuẩn_bị cất_cánh mẩu giấy ghi_chú phát_hiện máy_bay chuyển_hướng đến một khu_vực đỗ sân_bay cnn_turk hay
+4,xe_cứu_thương lực_lượng cảnh_sát chuyên_gia về bom nhanh_chóng đến hiện_trường
+5,may_mắn thay chất_nổ nào tìm thấy máy_bay
+6,vụ nổ diễn thành_phố thổ nhĩ_kỳ trong tháng gần bao_gồm khu đô_thị lớn
+7,chính_quyền đổ_lỗi chiến_binh người kurd_đứng đằng cuộc tấn_công
+8,hồi đầu tháng 5 một xe chất đầy thuốc_nổ phát nổ gần doanh_trại quân_đội thành_phố istanbul
+9,hồi tháng 3 năm nay 37 người thiệt_mạng trong một vụ đánh bom gần xe_buýt công_cộng ở thủ_đô ankara thổ ​ ​ nhĩ kỳ

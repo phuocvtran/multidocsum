@@ -1,19 +1,19 @@
 idx, sentence
-0,kẻ đánh bom liều chết đã tấn_công vào một đám đông gồm hầu_hết là các luật_sư và nhà_báo đang tập_trung tại khoa cấp_cứu của bệnh_viện dân_sự quetta sau khi ông bilal_anwar_kasi  một luật_sư nổi_tiếng và là chủ_tịch hội luật_gia balochistan  bị hai tay súng sát_hại trong một vụ tấn_công trước đó 
-1,abdul rehman_miankhel  một quan_chức cấp cao tại các bệnh_viện xảy ra vụ_việc cho biết ít_nhất 70 người thiệt_mạng  và hơn 112 người bị_thương 
-2, có rất nhiều người bị_thương  vì_vậy số người chết có_thể tăng lên   rehmat_saleh_baloch  các bộ_trưởng y_tế tỉnh cho biết 
-3,hãng tin amaq ủng_hộ is cho biết  tổ_chức khủng_bố này đứng sau vụ_việc đẫm máu này 
-4,theo reuters  nếu thông_tin này là chính_xác  vụ_việc này sẽ là cuộc tấn_công đáng báo_động tới pakistan 
-5, một kẻ tử_vì_đạo của is đã kích nổ đai bom của mình tại một nơi tập_trung các nhân_viên bộ_tư_pháp và cảnh_sát pakistan ở thành_phố quetta   theo amaq 
-6,trước đó  jamaaturahrar  một phe_phái của phiến_quân taliban cũng tuyên_bố chúng đã thực_hiện vụ tấn_công 
-7,tuy_nhiên nhóm này được cho là đã nhận trách_nhiệm về vụ đánh bom khác  
-8,jamaaturahrar thừa_nhận tiến_hành vụ tấn_công đó  và thề sẽ tiếp_tục thực_hiện nhiều vụ tấn_công tương_tự   phát_ngôn_viên ehsanullah_ehsan nói trong một tuyên_bố 
-9,tuần trước nhóm  jamaat đã được đưa thêm vào danh_sách của những nhóm khủng_bố toàn_cầu của mỹ  và phải chịu các biện_pháp trừng_phạt 
-10,nhà trắng cũng đã lên_án cuộc tấn_công 
-11, chúng_tôi vẫn kiên_quyết trong việc tham_gia với người dân pakistan nhằm chống lại chủ_nghĩa khủng_bố ở nước này và trong khu_vực   nhà_trắng cho biết trong một tuyên_bố 
-12,ảnh trên truyền_hình cho thấy cảnh hỗn_loạn tại bệnh_viện ở quetta  với người hoảng_hốt bỏ chạy qua các mảnh vỡ như đầy khói hành_lang 
-13, có_vẻ như đó là một cuộc tấn_công đã được lên kế_hoạch trước   anwar ul haq_kakar  một phát_ngôn_viên của chính_phủ baluchistan tiết_lộ 
-14,cảnh_sát đã phong_tỏa khu_vực bệnh_viện sau vụ nổ 
-15,thủ_tướng nawaz_sharif và lãnh_đạo quân_đội pakistan  tướng raheel_sharif đã đến thăm_hỏi những người bị_thương vào tối hôm 8/8 
-16,cuộc tấn_công hôm 8/8 là vụ đánh bom đẫm máu nhất ở pakistan kể từ sau vụ đánh bom tại công_viên lahore  khiến ít_nhất 72 người thiệt_mạng 
-17,nhóm jamaaturahrar cũng đã nhận trách_nhiệm về vụ đánh bom này 
+0,kẻ đánh bom liều chết tấn_công một đám đông gồm hầu_hết luật_sư nhà_báo tập_trung khoa cấp_cứu bệnh_viện dân_sự quetta ông bilal_anwar_kasi một luật_sư nổi_tiếng chủ_tịch hội luật_gia balochistan hai tay súng sát_hại trong một vụ tấn_công
+1,abdul rehman_miankhel một quan_chức cấp cao bệnh_viện xảy vụ_việc biết ít_nhất 70 người thiệt_mạng hơn 112 người bị_thương
+2,người bị_thương vì_vậy số người chết tăng rehmat_saleh_baloch bộ_trưởng y_tế tỉnh biết
+3,hãng tin amaq ủng_hộ is biết tổ_chức khủng_bố đứng vụ_việc đẫm máu
+4,reuters thông_tin chính_xác vụ_việc cuộc tấn_công đáng báo_động tới pakistan
+5,một kẻ tử_vì_đạo is kích nổ đai bom mình một tập_trung nhân_viên bộ_tư_pháp cảnh_sát pakistan ở thành_phố quetta amaq
+6,jamaaturahrar một phe_phái phiến_quân taliban tuyên_bố chúng thực_hiện vụ tấn_công
+7,tuy_nhiên nhóm nhận trách_nhiệm về vụ đánh bom khác
+8,jamaaturahrar thừa_nhận tiến_hành vụ tấn_công thề tiếp_tục thực_hiện vụ tấn_công tương_tự phát_ngôn_viên ehsanullah_ehsan nói trong một tuyên_bố
+9,tuần nhóm jamaat đưa thêm danh_sách nhóm khủng_bố toàn_cầu mỹ chịu biện_pháp trừng_phạt
+10,nhà trắng lên_án cuộc tấn_công
+11,chúng_tôi kiên_quyết trong tham_gia người dân pakistan nhằm chống chủ_nghĩa khủng_bố ở nước trong khu_vực nhà_trắng biết trong một tuyên_bố
+12,ảnh truyền_hình thấy cảnh hỗn_loạn bệnh_viện ở quetta người hoảng_hốt bỏ chạy mảnh vỡ đầy khói hành_lang
+13,có_vẻ một cuộc tấn_công kế_hoạch anwar ul haq_kakar một phát_ngôn_viên chính_phủ baluchistan tiết_lộ
+14,cảnh_sát phong_tỏa khu_vực bệnh_viện vụ nổ
+15,thủ_tướng nawaz_sharif lãnh_đạo quân_đội pakistan tướng raheel_sharif đến thăm_hỏi người bị_thương tối hôm 8/8
+16,cuộc tấn_công hôm 8/8 vụ đánh bom đẫm máu nhất ở pakistan kể vụ đánh bom công_viên lahore khiến ít_nhất 72 người thiệt_mạng
+17,nhóm jamaaturahrar nhận trách_nhiệm về vụ đánh bom

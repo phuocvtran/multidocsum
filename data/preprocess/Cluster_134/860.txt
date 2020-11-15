@@ -1,8 +1,8 @@
 idx, sentence
-0,rafael_nadal đưa ra tuyên_bố của mình một ngày trước khi bước vào trận gặp đồng_hương marcel_granollers ở vòng 3 
-1,phát_biểu trước giới truyền_thông  nadal cho biết  “ trong trận đấu với facundo_bagnis hôm 265  tôi đã phải tiêm thuốc giảm đau 
-2,tối hôm_qua  275   tôi bắt_đầu cảm_thấy đau nhiều hơn và hiện tay tôi không còn cử_động được 
-3,đây là thời_điểm khó_khăn  và tôi rất buồn khi phải nói lời chia_tay paris  nơi tôi đã chín lần giành ngôi vô_địch 
-4,nhưng đây không phải là sự kết_thúc ” 
-5, trong ngày thi_đấu thứ sáu đã không có bất_ngờ nào xảy ra khi những tay_vợt mạnh như  andy_murray  anh   kei_nishikori  nhật_bản   stan_wawrinka  thụy_sĩ  … đều giành chiến_thắng để có_mặt ở vòng 4 
-6,hạt_giống số 2 andy_murray đánh_bại lão_tướng ivo_karlovic  croatia  61  64  76 và sẽ gặp hạt_giống số 16  john_isner  mỹ  ở vòng 4 
+0,rafael_nadal đưa tuyên_bố mình một ngày bước trận gặp đồng_hương marcel_granollers ở vòng 3
+1,phát_biểu giới truyền_thông nadal biết “ trong trận đấu facundo_bagnis hôm 265 tôi tiêm thuốc giảm đau
+2,tối hôm_qua 275 tôi bắt_đầu cảm_thấy đau hơn hiện tay tôi còn cử_động
+3,thời_điểm khó_khăn tôi buồn nói lời chia_tay paris tôi chín lần giành ngôi vô_địch
+4,kết_thúc ”
+5,trong ngày thi_đấu thứ sáu bất_ngờ nào xảy tay_vợt mạnh andy_murray anh kei_nishikori nhật_bản stan_wawrinka thụy_sĩ … giành chiến_thắng có_mặt ở vòng 4
+6,hạt_giống số 2 andy_murray đánh_bại lão_tướng ivo_karlovic croatia 61 64 76 gặp hạt_giống số 16 john_isner mỹ ở vòng 4

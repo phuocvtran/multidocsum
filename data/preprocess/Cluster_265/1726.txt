@@ -1,14 +1,14 @@
 idx, sentence
-0,trong cuộc phỏng_vấn đầu_tiên với báo_chí quốc_tế từ sau khi được tổng_thống đắc_cử của philippines_rodrigo_duterte bổ_nhiệm chức_vụ ngoại_trưởng trong nội_các mới  ông perfecto_yasay khẳng_định sự độc_lập của manila trong việc giải_quyết những tranh_chấp về lãnh_thổ với trung_quốc trên biển_đông 
-1,“ chúng_tôi sẽ không hạ mình trước bất_kỳ quốc_gia nào ”  ông yasay nói 
-2,ông yasay cũng cho rằng quan_hệ giữa philippines và trung_quốc nên sớm được cải_thiện 
-3,“ miễn_là trung_quốc tuân_thủ những quy_tắc của luật_pháp  tôn_trọng chủ_quyền và toàn_vẹn lãnh_thổ của philippines  thì chúng_ta nên tiếp_tục thúc_đẩy mối quan_hệ và tình hữu_nghị giữa hai nước phát_triển mạnh_mẽ hơn ”  ông yasay nói 
-4,cũng theo ông yasay  philippines sẵn_sàng đàm_phán song_phương với trung_quốc để giải_quyết tranh_chấp ở bãi cạn scarborough nhưng vẫn theo_đuổi các cuộc đối_thoại đa_phương về các vấn_đề trên biển_đông vì tranh_chấp tại khu_vực này có liên_quan tới nhiều nước 
-5,về vụ kiện của philippines tại tòa trọng_tài quốc_tế  pca  ở la_hay  hà_lan đối_với các yêu_sách trắng_trợn của trung_quốc trên biển_đông  ông yasay nói philippines sẽ tôn_trọng mọi phán_quyết cuối_cùng của tòa 
-6,pca dự_kiến sẽ ra phán_quyết trong một_vài tuần tới 
-7,về phía trung_quốc  ngoại_trưởng vương_nghị khẳng_định cánh cửa đối_thoại giữa trung_quốc và philippines luôn rộng_mở 
-8,“ nếu philippines chân_thành muốn quay lại quỹ_đạo đàm_phán và đối_thoại  chúng_tôi hoan_nghênh điều đó 
-9,việc trung_quốc và philipppines có_thể giải_quyết tốt_đẹp các tranh_chấp thông_qua đối_thoại và hội_đàm sẽ giúp hai nước khai_thông những bế_tắc trong quan_hệ song_phương suốt những năm vừa_qua ”  ông vương nói 
-10,trong nhiệm_kỳ của tổng_thống benigno_aquino sắp mãn_nhiệm  philippines kiên_trì theo_đuổi đường_lối tăng_cường quan_hệ với mỹ với tư_cách đồng_minh an_ninh_thân_cận lâu năm 
-11,trong khi đó  với trung_quốc  chính_quyền của ông aquino thường thể_hiện thái_độ cứng_rắn  do_vậy quan_hệ giữa bắc_kinh và manila luôn trong trạng_thái căng_thẳng 
-12,tuy_nhiên  tổng_thống đắc_cử duterte  người sẽ thay_thế ông aquino lãnh_đạo philippines từ 30/6 tới  hôm 31/5 tuyên_bố rằng manila sẽ không phụ_thuộc nhiều vào mối quan_hệ đồng_minh truyền_thống với washington  đồng_thời khẳng_định nước này sẽ trở_nên độc_lập hơn trong việc giải_quyết các vấn_đề với trung_quốc 
+0,trong cuộc phỏng_vấn đầu_tiên báo_chí quốc_tế tổng_thống đắc_cử philippines_rodrigo_duterte bổ_nhiệm chức_vụ ngoại_trưởng trong nội_các mới ông perfecto_yasay khẳng_định độc_lập manila trong giải_quyết tranh_chấp về lãnh_thổ trung_quốc biển_đông
+1,“ chúng_tôi hạ mình bất_kỳ quốc_gia nào ” ông yasay nói
+2,ông yasay quan_hệ giữa philippines trung_quốc sớm cải_thiện
+3,“ miễn_là trung_quốc tuân_thủ quy_tắc luật_pháp tôn_trọng chủ_quyền toàn_vẹn lãnh_thổ philippines chúng_ta tiếp_tục thúc_đẩy mối quan_hệ tình hữu_nghị giữa hai nước phát_triển mạnh_mẽ hơn ” ông yasay nói
+4,ông yasay philippines sẵn_sàng đàm_phán song_phương trung_quốc giải_quyết tranh_chấp ở bãi cạn scarborough theo_đuổi cuộc đối_thoại đa_phương về vấn_đề biển_đông tranh_chấp khu_vực liên_quan tới nước
+5,về vụ kiện philippines tòa trọng_tài quốc_tế pca ở la_hay hà_lan đối_với yêu_sách trắng_trợn trung_quốc biển_đông ông yasay nói philippines tôn_trọng mọi phán_quyết cuối_cùng tòa
+6,pca dự_kiến phán_quyết trong một_vài tuần tới
+7,về phía trung_quốc ngoại_trưởng vương_nghị khẳng_định cánh cửa đối_thoại giữa trung_quốc philippines luôn rộng_mở
+8,“ philippines chân_thành muốn quay quỹ_đạo đàm_phán đối_thoại chúng_tôi hoan_nghênh
+9,trung_quốc philipppines giải_quyết tốt_đẹp tranh_chấp thông_qua đối_thoại hội_đàm giúp hai nước khai_thông bế_tắc trong quan_hệ song_phương suốt năm vừa_qua ” ông vương nói
+10,trong nhiệm_kỳ tổng_thống benigno_aquino sắp mãn_nhiệm philippines kiên_trì theo_đuổi đường_lối tăng_cường quan_hệ mỹ tư_cách đồng_minh an_ninh_thân_cận lâu năm
+11,trong trung_quốc chính_quyền ông aquino thường thể_hiện thái_độ cứng_rắn do_vậy quan_hệ giữa bắc_kinh manila luôn trong trạng_thái căng_thẳng
+12,tuy_nhiên tổng_thống đắc_cử duterte người thay_thế ông aquino lãnh_đạo philippines 30/6 tới hôm 31/5 tuyên_bố manila phụ_thuộc mối quan_hệ đồng_minh truyền_thống washington đồng_thời khẳng_định nước trở_nên độc_lập hơn trong giải_quyết vấn_đề trung_quốc

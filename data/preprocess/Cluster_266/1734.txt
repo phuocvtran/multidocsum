@@ -1,15 +1,15 @@
 idx, sentence
-0,rạng sáng 3/6  người dân ngụ trong con hẻm số 80 đường dương_quảng_hàm  quận gò_vấp  tp hcm đang say giấc bỗng nghe tiếng kêu vì hoả_hoạn xảy ra từ căn nhà cấp 4 trong hẻm 
-1,ngay khi xảy ra cháy trong đêm  nhiều người dân đã ngắt hệ_thống điện tổng để xông vào cứu_hoả khiến cửa_cuốn căn nhà nói trên không_thể mở 
-2,lúc này  hai vợ_chồng cụ_già 70 tuổi mắc_kẹt bên trong la_hét  kêu cứu 
-3,người dân và lực_lượng công_an  bảo_vệ dân_phố đã dùng xà_beng  búa phá tung cửa hông  lao vào đám cháy cứu hai người ra ngoài an_toàn 
-4,vài phút sau  lực_lượng cảnh_sát pccc quận gò_vấp đã có_mặt tham_gia chữa cháy 
-5,tuy_nhiên  con hẻm nhỏ khiến xe chữa_cháy phải đậu cách xa hiện_trường hơn 500 m 
-6,các chiến_sĩ vác dây ống  máy_bơm chạy đến họng cứu_hỏa cách căn nhà đang cháy hơn 100 m để lấy nước chữa_cháy 
-7,xe_chữa_cháy mini cũng được huy_động  phá cửa_cuốn xịt nước xối_xả 
-8,hơn 2 giờ sau  đám cháy được dập_tắt 
-9,căn nhà nói trên thường_ngày có hơn 10 người sinh_sống nhưng thời_điểm_hỏa hoạn chỉ có ông_bà già ngủ bên trong 
-10,vụ cháy không gây thiệt_hại về người song đã thiêu rụi nhiều tài_sản  mái nhà đổ sập 
-11,cùng thời_điểm này  căn nhà trên ql13  cũ   phường hiệp bình_phước  quận thủ_đức  tp hcm cũng bất_ngờ bốc cháy dữ_dội 
-12,ngay khi xảy ra cháy lớn  người dân đã cùng chạy đến hiện_trường  phá cửa đưa một cụ bà cùng nhiều người_thân đang say ngủ ra ngoài an_toàn và điện_báo cảnh_sát pccc chuyên_nghiệp 
-13,lực_lượng cảnh_sát pccc quận 9 đã nhanh_chóng điều nhiều xe cứu_hoả cùng hàng chục cán_bộ  chiến_sĩ đến hiện_trường phun nước từ nhiều hướng và khống_chế đám cháy 
+0,rạng sáng 3/6 người dân ngụ trong con hẻm số 80 đường dương_quảng_hàm quận gò_vấp tp hcm say giấc bỗng nghe tiếng kêu hoả_hoạn xảy căn nhà cấp 4 trong hẻm
+1,xảy cháy trong đêm người dân ngắt hệ_thống điện tổng xông cứu_hoả khiến cửa_cuốn căn nhà nói không_thể mở
+2,hai vợ_chồng cụ_già 70 tuổi mắc_kẹt bên trong la_hét kêu cứu
+3,người dân lực_lượng công_an bảo_vệ dân_phố dùng xà_beng búa phá tung cửa hông lao đám cháy cứu hai người ngoài an_toàn
+4,vài phút lực_lượng cảnh_sát pccc quận gò_vấp có_mặt tham_gia chữa cháy
+5,tuy_nhiên con hẻm nhỏ khiến xe chữa_cháy đậu cách xa hiện_trường hơn 500 m
+6,chiến_sĩ vác dây ống máy_bơm chạy đến họng cứu_hỏa cách căn nhà cháy hơn 100 m lấy nước chữa_cháy
+7,xe_chữa_cháy mini huy_động phá cửa_cuốn xịt nước xối_xả
+8,hơn 2 giờ đám cháy dập_tắt
+9,căn nhà nói thường_ngày hơn 10 người sinh_sống thời_điểm_hỏa hoạn ông_bà già ngủ bên trong
+10,vụ cháy gây thiệt_hại về người song thiêu rụi tài_sản mái nhà đổ sập
+11,thời_điểm căn nhà ql13 cũ phường hiệp bình_phước quận thủ_đức tp hcm bất_ngờ bốc cháy dữ_dội
+12,xảy cháy lớn người dân chạy đến hiện_trường phá cửa đưa một cụ bà người_thân say ngủ ngoài an_toàn điện_báo cảnh_sát pccc chuyên_nghiệp
+13,lực_lượng cảnh_sát pccc quận 9 nhanh_chóng xe cứu_hoả hàng chục cán_bộ chiến_sĩ đến hiện_trường phun nước hướng khống_chế đám cháy

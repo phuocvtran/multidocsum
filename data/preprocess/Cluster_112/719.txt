@@ -1,26 +1,26 @@
 idx, sentence
-0,điều này cũng không có gì là khó_hiểu  bởi đầu_tư xây tầng hầm đồng_nghĩa với việc đội chi_phí của chủ đầu_tư 
-1,hệ_quả của khan_hiếm chỗ để xe hiện_nay  chỗ để xe ôtô đang là vấn_đề nhức_nhối của hàng trăm chung_cư tại hà_nội  nhất_là khu_vực nội_thành 
-2,vì_thế  hình_ảnh ôtô đậu tràn_lan ở vỉa_hè  thậm_chí đỗ chiếm một phần lòng_đường  vừa mất mỹ_quan đô_thị  vừa gây ách_tắc giao_thông không còn xa_lạ gì với người dân hà_nội 
-3,đặc_biệt  nơi nào xuất_hiện trung_tâm thương_mại  siêu_thị  dịch_vụ  … lập_tức xảy ra ùn_tắc giao_thông 
-4,ví_như nhà d2_giảng_võ cao 21 tầng nổi với gần trên 250 căn_hộ  nhưng chỉ có 2 tầng_hầm  tình_trạng thiếu chỗ để xe vẫn xảy ra và vì_thế  ngay dưới chân tòa nhà này  phần vỉa_hè  đã trở_thành điểm trông giữ xe trông rất nhếch_nhác và mất mỹ_quan đô_thị 
-5,khu trung_hòa  nhân_chính  linh_đàm  văn_quán   cũng xảy ra tình_trạng tương_tự 
-6,thực_tế vì khan_hiếm chỗ để xe mà đã từng xảy ra trường_hợp cư_dân và chủ đầu_tư phải kéo nhau ra tòa để tranh_tụng  kiện_cáo chuyện đỗ xe sao cho hợp_lý  xảy ra tình_trạng tiêu_cực  tăng_giá vé trông giữ xe vô_tội_vạ của đơn_vị quản_lý hoặc chủ đầu_tư 
-7,anh quang  sinh_sống tại khu đô_thị mới linh_đàm  bức_xúc  “ tôi mới chuyển đến tòa chung_cư  nhưng đã kín chỗ để xe 
-8,tòa nhà với 21 tầng  300 hộ dân  song chỉ có 1 tầng_hầm  khu đỗ ôtô trên sảnh tòa nhà với giá 12 triệu đồng / tháng 
-9,nhiều trường_hợp dọn tới sau phải xếp_hàng chờ_đợi  hoặc tự tìm chỗ bên ngoài do diện_tích hạn_hẹp hoặc hết chỗ 
-10,còn bà nguyễn_thu_nga  thành_viên ban quản_trị tòa nhà 34t  khu đô_thị trung_hòa  nhân_chính  cho biết  hầu_hết các tòa nhà ở trong khu_vực này đều có tầng_hầm  nhưng không đáp_ứng được nhu_cầu chỗ gửi ôtô cho người dân 
-11,do_vậy  ai về đây sống trước được sắp_xếp trước  nếu hết chỗ đều phải chờ lần_lượt và được ban quản_trị vào_sổ để khi có chỗ sẽ bố_trí 
-12,còn việc thu phí trông giữ xe đều được thực_hiện đúng theo quy_định  thu_chi tài_chính hằng năm đều được công_khai minh_bạch 
-13,giải “ bài_toán ” cần linh_hoạt trước thực_trạng trên  mới_đây  thường_trực thành_ủy hà_nội đã yêu_cầu các sở liên_quan khi phê_duyệt cho chủ đầu_tư xây_dựng công_trình  khu đô_thị  trung_tâm thương_mại  phải bố_trí thêm diện_tích tầng_hầm tối thiếu là 3 hầm 
-14,điều này có nghĩa  kể từ nay  các dự_án xây_dựng công_trình  khu đô_thị  trung_tâm thương_mại khi xây_dựng nhà cao_tầng trên địa_bàn tp hà_nội  bắt_buộc phải có tối_thiểu là 3 tầng_hầm với mục_đích để tăng_cường chỗ để xe cho người dân  và hạn_chế áp_lực về chỗ để xe cho toàn thành_phố 
-15,đây được xem là một quyết_định đúng  giải_quyết vấn_đề bức_xúc dân_sinh đã tồn_tại bấy_lâu 
-16,thế nhưng  không ít chủ đầu_tư bđs lại thấy bị “ làm_khó ” 
-17,đơn_giản  đối_với dự_án đang xin giấy_phép sẽ bị ách  phải điều_chỉnh thiết_kế nếu chưa đáp_ứng được yêu_cầu này  hoặc là lo_lắng giá căn_hộ sẽ bị đẩy lên bởi chi_phí đầu_tư xây_dựng tầng_hầm  … thực_ra  lo_lắng của chủ đầu_tư là có  nhưng thực_tế cho thấy  thời_gian qua  tốc_độ hóa đô_thị phát_triển quá nhanh  các chủ đầu_tư lại chỉ giải_quyết vấn_đề trước_mắt là nhà ở mà không chú_trọng đến vấn_đề chỗ đỗ xe cho người dân  khiến họ phải tìm cách đỗ tràn_lan ngoài đường  công_viên  vỉa_hè  gây mất an_toàn giao_thông 
-18,trao_đổi với lđtđ  ông nguyễn_ngọc_thành  phó chủ_tịch hiệp_hội bđs việt_nam  thẳng thắng thừa_nhận  quy_định phải xây tối_thiểu 3 tầng_hầm đối_với nhà cao_tầng là một chủ_trương đúng 
-19,theo ông thành  tại các nước như singapore  malaysia  thái_lan  thậm_chí cả trung_quốc  bao_giờ ở những cụm dân_cư hay những khu đô_thị  họ cũng bố_trí bãi đỗ xe tĩnh để đảm_bảo nhu_cầu lưu_thông đô_thị 
-20,nhà cao_tầng bất_kể sử_dụng vào mục_đích gì như văn_phòng  khách_sạn hay chung_cư … họ buộc phải thiết_kế xây_dựng khu đỗ xe tĩnh không chỉ đảm_bảo cho người dân ở tòa nhà mà_còn gánh thêm trách_nhiệm đối_với nhu_cầu của xã_hội 
-21,tuy_nhiên  họ có chính_sách hỗ_trợ doanh_nghiệp với qui_định cụ_thể trong từng trường_hợp cụ_thể  ông thành cho rằng  quyết_sách đúng  nhưng phải vận_dụng linh_hoạt  quy_định phải cụ_thể rõ_ràng 
-22,ví_như tòa nhà bao_nhiêu tầng thì phải xây 3 tầng_hầm  4 tầng hầm hoặc thậm_chí nhiều hơn 
-23,hoặc là tòa nhà phải đảm_bảo cho chỗ đỗ xe cho bao_nhiêu phần_trăm dân_cư của tòa nhà 
-24,“ với việc yêu_cầu tòa nhà thêm chỗ để xe cho cả cư_dân bên ngoài tòa nhà thì thành_phố cần có chính_sách hỗ_trợ doanh_nghiệp  ví_như cho_phép mở_rộng tầng_hầm sang cả phần đất không phải của tòa nhà như singapore đang làm  hoặc là một chính_sách hỗ_trợ nào đó 
+0,khó_hiểu đầu_tư xây tầng hầm đồng_nghĩa đội chi_phí chủ đầu_tư
+1,hệ_quả khan_hiếm chỗ xe hiện_nay chỗ xe ôtô vấn_đề nhức_nhối hàng trăm chung_cư hà_nội nhất_là khu_vực nội_thành
+2,vì_thế hình_ảnh ôtô đậu tràn_lan ở vỉa_hè thậm_chí đỗ chiếm một phần lòng_đường mất mỹ_quan đô_thị gây ách_tắc giao_thông còn xa_lạ người dân hà_nội
+3,đặc_biệt nào xuất_hiện trung_tâm thương_mại siêu_thị dịch_vụ … lập_tức xảy ùn_tắc giao_thông
+4,ví_như nhà d2_giảng_võ cao 21 tầng nổi gần 250 căn_hộ 2 tầng_hầm tình_trạng thiếu chỗ xe xảy vì_thế chân tòa nhà phần vỉa_hè trở_thành điểm trông giữ xe trông nhếch_nhác mất mỹ_quan đô_thị
+5,khu trung_hòa nhân_chính linh_đàm văn_quán xảy tình_trạng tương_tự
+6,thực_tế khan_hiếm chỗ xe xảy trường_hợp cư_dân chủ đầu_tư kéo nhau tòa tranh_tụng kiện_cáo đỗ xe sao hợp_lý xảy tình_trạng tiêu_cực tăng_giá vé trông giữ xe vô_tội_vạ đơn_vị quản_lý hoặc chủ đầu_tư
+7,anh quang sinh_sống khu đô_thị mới linh_đàm bức_xúc “ tôi mới chuyển đến tòa chung_cư kín chỗ xe
+8,tòa nhà 21 tầng 300 hộ dân song 1 tầng_hầm khu đỗ ôtô sảnh tòa nhà giá 12 triệu đồng / tháng
+9,trường_hợp dọn tới xếp_hàng chờ_đợi hoặc tự tìm chỗ bên ngoài diện_tích hạn_hẹp hoặc hết chỗ
+10,còn bà nguyễn_thu_nga thành_viên ban quản_trị tòa nhà 34t khu đô_thị trung_hòa nhân_chính biết hầu_hết tòa nhà ở trong khu_vực tầng_hầm đáp_ứng nhu_cầu chỗ gửi ôtô người dân
+11,do_vậy ai về sống sắp_xếp hết chỗ chờ lần_lượt ban quản_trị vào_sổ chỗ bố_trí
+12,còn thu phí trông giữ xe thực_hiện đúng quy_định thu_chi tài_chính hằng năm công_khai minh_bạch
+13,giải “ bài_toán ” linh_hoạt thực_trạng mới_đây thường_trực thành_ủy hà_nội yêu_cầu sở liên_quan phê_duyệt chủ đầu_tư xây_dựng công_trình khu đô_thị trung_tâm thương_mại bố_trí thêm diện_tích tầng_hầm tối thiếu 3 hầm
+14,nghĩa kể nay dự_án xây_dựng công_trình khu đô_thị trung_tâm thương_mại xây_dựng nhà cao_tầng địa_bàn tp hà_nội bắt_buộc tối_thiểu 3 tầng_hầm mục_đích tăng_cường chỗ xe người dân hạn_chế áp_lực về chỗ xe toàn thành_phố
+15,xem một quyết_định đúng giải_quyết vấn_đề bức_xúc dân_sinh tồn_tại bấy_lâu
+16,thế ít chủ đầu_tư bđs thấy “ làm_khó ”
+17,đơn_giản đối_với dự_án xin giấy_phép ách điều_chỉnh thiết_kế đáp_ứng yêu_cầu hoặc lo_lắng giá căn_hộ đẩy chi_phí đầu_tư xây_dựng tầng_hầm … thực_ra lo_lắng chủ đầu_tư thực_tế thấy thời_gian tốc_độ hóa đô_thị phát_triển quá nhanh chủ đầu_tư giải_quyết vấn_đề trước_mắt nhà ở chú_trọng đến vấn_đề chỗ đỗ xe người dân khiến họ tìm cách đỗ tràn_lan ngoài đường công_viên vỉa_hè gây mất an_toàn giao_thông
+18,trao_đổi lđtđ ông nguyễn_ngọc_thành phó chủ_tịch hiệp_hội bđs việt_nam thẳng thắng thừa_nhận quy_định xây tối_thiểu 3 tầng_hầm đối_với nhà cao_tầng một chủ_trương đúng
+19,ông thành nước singapore malaysia thái_lan thậm_chí trung_quốc bao_giờ ở cụm dân_cư hay khu đô_thị họ bố_trí bãi đỗ xe tĩnh đảm_bảo nhu_cầu lưu_thông đô_thị
+20,nhà cao_tầng bất_kể sử_dụng mục_đích văn_phòng khách_sạn hay chung_cư … họ buộc thiết_kế xây_dựng khu đỗ xe tĩnh đảm_bảo người dân ở tòa nhà mà_còn gánh thêm trách_nhiệm đối_với nhu_cầu xã_hội
+21,tuy_nhiên họ chính_sách hỗ_trợ doanh_nghiệp qui_định cụ_thể trong trường_hợp cụ_thể ông thành quyết_sách đúng vận_dụng linh_hoạt quy_định cụ_thể rõ_ràng
+22,ví_như tòa nhà bao_nhiêu tầng xây 3 tầng_hầm 4 tầng hầm hoặc thậm_chí hơn
+23,hoặc tòa nhà đảm_bảo chỗ đỗ xe bao_nhiêu phần_trăm dân_cư tòa nhà
+24,“ yêu_cầu tòa nhà thêm chỗ xe cư_dân bên ngoài tòa nhà thành_phố chính_sách hỗ_trợ doanh_nghiệp ví_như cho_phép mở_rộng tầng_hầm sang phần đất tòa nhà singapore làm hoặc một chính_sách hỗ_trợ nào

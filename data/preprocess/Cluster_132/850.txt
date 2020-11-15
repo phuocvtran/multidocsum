@@ -1,10 +1,10 @@
 idx, sentence
-0,trong tập 4 vòng hội_ngộ xfactor vừa lên sóng tối_qua  rất nhiều khán_giả đã bất_ngờ khi nhìn thấy yanbi đi thi với vai_trò là một thành_viên của nhóm nhạc mang tên foe 
-1,dù đã có tên_tuổi và được đông_đảo khán_giả biết đến  nhưng yanbi vẫn chấp_nhận làm  em_út   là giọng ca chính của nhóm  bên cạnh 2 thành_viên có khả_năng sáng_tác  đọc rap 
-2,tuy_nhiên  thay_vì đi_lại  nhảy_múa tưng_bừng như trước đây  yanbi chỉ có_thể ngồi xe_lăn biểu_diễn vì không may mới gặp tai_nạn giao_thông và bị gãy xương đùi 
-3,chấn_thương không làm anh giảm nhiệt_huyết khi lên sân_khấu  ngược_lại  nam ca sỹ đã  phiêu  hết_mình và cùng nhóm foe làm_chủ sân_khấu tối_qua 
-4,chia_sẻ về lý_do tham_gia xfactor trong khi đã là một ca sỹ nổi_tiếng  yanbi cho biết  tuy em đã đi hát vài năm và được khán_giả biết đến  nhưng em vẫn xem cuộc thi này là cách để bản_thân được trải_nghiệm  học_hỏi từ những đàn_anh  đàn chị đi trước 
-5,em biết mình vẫn còn rất nhiều sai xót  nên kết_quả dù thắng hay thua  nhóm chúng_em vẫn sẽ nở nụ cười mãn_nguyện khi ra về  
-6,dù bị gãy xương đùi và ngồi xe_lăn gần 2 tháng  nam ca sỹ vẫn hát hết_mình trên sân_khấu 
-7,dù rất ấn_tượng với phong_cách của foe  nhưng giám_khảo dương_khắc_linh cho rằng  phần rap của nhóm chưa đủ máu_lửa để khán_giả nhớ tới 
-8,thế nhưng  bộ tứ quyền_lực vẫn đồng_ý để ban nhạc của yanbi được vào tiếp vòng trong 
+0,trong tập 4 vòng hội_ngộ xfactor sóng tối_qua khán_giả bất_ngờ nhìn thấy yanbi đi thi vai_trò một thành_viên nhóm nhạc mang tên foe
+1,dù tên_tuổi đông_đảo khán_giả biết đến yanbi chấp_nhận làm em_út giọng ca chính nhóm bên cạnh 2 thành_viên khả_năng sáng_tác đọc rap
+2,tuy_nhiên thay_vì đi_lại nhảy_múa tưng_bừng yanbi ngồi xe_lăn biểu_diễn may mới gặp tai_nạn giao_thông gãy xương đùi
+3,chấn_thương làm anh giảm nhiệt_huyết sân_khấu ngược_lại nam ca sỹ phiêu hết_mình nhóm foe làm_chủ sân_khấu tối_qua
+4,chia_sẻ về lý_do tham_gia xfactor trong một ca sỹ nổi_tiếng yanbi biết tuy em đi hát vài năm khán_giả biết đến em xem cuộc thi cách bản_thân trải_nghiệm học_hỏi đàn_anh đàn chị đi
+5,em biết mình còn sai xót kết_quả dù thắng hay thua nhóm chúng_em nở nụ cười mãn_nguyện về
+6,dù gãy xương đùi ngồi xe_lăn gần 2 tháng nam ca sỹ hát hết_mình sân_khấu
+7,dù ấn_tượng phong_cách foe giám_khảo dương_khắc_linh phần rap nhóm đủ máu_lửa khán_giả nhớ tới
+8,thế bộ tứ quyền_lực đồng_ý ban nhạc yanbi tiếp vòng trong

@@ -1,4 +1,4 @@
 idx, sentence
-0,theo reuters  134 hành_khách và phi_hành_đoàn trên chuyến bay đã được sơ_tán  sau khi một lời nhắn đe_dọa đánh bom đã được tìm thấy trên máy_bay ngay trước khi máy_bay cất_cánh 
-1,ngay sau đó  máy_bay đã được lệnh chuyển_hướng tới khu_vực bãi đậu 
-2,nhiều xe cứu_thương  cảnh_sát và đội phá bom đã ngay_lập_tức có_mặt tại hiện_trường 
+0,reuters 134 hành_khách phi_hành_đoàn chuyến bay sơ_tán một lời nhắn đe_dọa đánh bom tìm thấy máy_bay máy_bay cất_cánh
+1,máy_bay lệnh chuyển_hướng tới khu_vực bãi đậu
+2,xe cứu_thương cảnh_sát đội phá bom ngay_lập_tức có_mặt hiện_trường

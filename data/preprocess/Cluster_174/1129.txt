@@ -1,9 +1,9 @@
 idx, sentence
-0,sự_việc gây tranh_cãi khi mỹ_linh hát quốc_ca chào_đón tổng_thống obama đã trôi qua hơn 1 tuần nhưng dư_âm của nó vẫn còn âm ỷ trong lòng không_chỉ dư_luận mà_còn các nghệ_sĩ trong làng giải_trí 
-1,mới_đây  diva hồng_nhung đã chia_sẻ về ồn_ào khi cô được hỏi về ý_kiến cá_nhân 
-2,theo đó  hồng_nhung cho biết vụ lùm xùm này đã bị thổi_phồng đi quá xa so với giá_trị thật mà vốn_dĩ mọi người nên hướng đến 
-3,đầu_tiên  hồng_nhung cho rằng  việc ban tổ_chức ngỏ_ý mời mỹ_linh hát quốc_ca việt_nam trong hoàn_cảnh nghênh_đón ngài tổng_thống là một sự lựa_chọn tối_ưu của họ 
-4,dù mỹ_linh đã khiêm_tốn gọi sự_cố hát tông hơi thấp là  tai_nạn nghề_nghiệp  nhưng phần trình_diễn của cô hoàn_toàn không quá dở như nhiều người nhận_xét 
-5,nhất_là với khung_cảnh trang_nghiêm bậc nhất dành cho các nguyên_thủ  chính_trị_gia uy_nghiêm như thế thì nếu không phải là mỹ_linh  có_thể sẽ không nói được nên lời   mỹ linh đã hát với một trách_nhiệm nghiêm_túc  thể_hiện sự trân_trọng  tình_cảm yêu nước của mình trong từng câu_hát  không sai một từ  không chênh một nốt   
-6, cô bống  còn thẳng_thắn bày_tỏ quan_điểm  việc không nên ở đây chính là dư_luận đang lên_án  chỉ trích quá khắt_khe  vượt qua  khung văn_hóa ứng_xử cho_phép của đám đông  để vùi_dập mỹ_linh 
-7,điều này khiến cô cảm_thấy rất buồn 
+0,sự_việc gây tranh_cãi mỹ_linh hát quốc_ca chào_đón tổng_thống obama trôi hơn 1 tuần dư_âm nó còn âm ỷ trong lòng không_chỉ dư_luận mà_còn nghệ_sĩ trong làng giải_trí
+1,mới_đây diva hồng_nhung chia_sẻ về ồn_ào cô hỏi về ý_kiến cá_nhân
+2,hồng_nhung biết vụ lùm xùm thổi_phồng đi quá xa giá_trị thật vốn_dĩ mọi người hướng đến
+3,đầu_tiên hồng_nhung ban tổ_chức ngỏ_ý mời mỹ_linh hát quốc_ca việt_nam trong hoàn_cảnh nghênh_đón ngài tổng_thống một lựa_chọn tối_ưu họ
+4,dù mỹ_linh khiêm_tốn gọi sự_cố hát tông hơi thấp tai_nạn nghề_nghiệp phần trình_diễn cô hoàn_toàn quá dở người nhận_xét
+5,nhất_là khung_cảnh trang_nghiêm bậc nhất dành nguyên_thủ chính_trị_gia uy_nghiêm thế mỹ_linh nói lời mỹ linh hát một trách_nhiệm nghiêm_túc thể_hiện trân_trọng tình_cảm yêu nước mình trong câu_hát sai một chênh một nốt
+6,cô bống còn thẳng_thắn bày_tỏ quan_điểm ở chính dư_luận lên_án trích quá khắt_khe vượt khung văn_hóa ứng_xử cho_phép đám đông vùi_dập mỹ_linh
+7,khiến cô cảm_thấy buồn

@@ -1,6 +1,6 @@
 idx, sentence
-0,vụ tai_nạn xảy ra trên đường huỳnh_tấn_phát  quận 7  tp hcm  vào_khoảng 11 giờ trưa 36 
-1,thời_điểm trên  chiếc xe container chở thép cuộn lưu_thông trên đường huỳnh_tấn_phát  hướng từ quận 7 đi huyện nhà_bè  tp hcm 
-2,lúc qua địa_bàn phường tân_phú  quận 7   xe đột_ngột thắng gấp khiến cuộn thép nặng hàng chục tấn ở rơmoóc phía sau theo quán_tính bị dồn lên  đè nát cabin xe trước khi rớt xuống_đường 
-3,một phần cabin xe container bị xé_toạc  nghiêng hẳn về một phía sau vụ va_chạm nhưng may_mắn tài_xế không bị_thương 
-4,“ cuộn thép rơi xuống đường nhưng rất may là có dải_phân_cách bằng bêtông chặn lại  nếu không hậu_quả sẽ khôn_lường khi nó lăn qua làn đường_ngược_lại ” – một nhân_chứng kể 
+0,vụ tai_nạn xảy đường huỳnh_tấn_phát quận 7 tp hcm vào_khoảng 11 giờ trưa 36
+1,thời_điểm xe container chở thép cuộn lưu_thông đường huỳnh_tấn_phát hướng quận 7 đi huyện nhà_bè tp hcm
+2,địa_bàn phường tân_phú quận 7 xe đột_ngột thắng gấp khiến cuộn thép nặng hàng chục tấn ở rơmoóc phía quán_tính dồn đè nát cabin xe rớt xuống_đường
+3,một phần cabin xe container xé_toạc nghiêng hẳn về một phía vụ va_chạm may_mắn tài_xế bị_thương
+4,“ cuộn thép rơi xuống đường may dải_phân_cách bằng bêtông chặn hậu_quả khôn_lường nó lăn làn đường_ngược_lại ” – một nhân_chứng kể

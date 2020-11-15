@@ -1,11 +1,11 @@
 idx, sentence
-0,phumy complex tọa_lạc tại lô_n01_– t4  khu đô_thị đoàn_ngoại_giao  phường_xuân_tảo  quận bắc từ_liêm  hà_nội  liền kề siêu đô_thị starlake 
-1,nơi đây đang được quy_hoạch trở_thành trung_tâm kinh_tế  hành_chính và văn_hóa mới của cả nước 
-2,dự_án có tổng diện_tích xây_dựng 40260 m2 với 35 tầng chức_năng hiện_đại và 287 căn_hộ hạng sang 
-3,trong đó  tầng 1 dành cho khu_vực lễ_tân  phòng sinh_hoạt cộng_đồng và các shop thời_trang 
-4,tầng 2  5 là khu văn_phòng hạng a đáp_ứng nhu_cầu thuê chất_lượng cao của các cơ_quan  tổ_chức nước_ngoài cũng như các doanh_nghiệp việt_nam 
-5,tầng 6  35 là khu căn_hộ cao_cấp với diện_tích linh_hoạt từ 87 – 211 m2 
-6,ngoài_ra  cư_dân cũng có_thể tận_hưởng các dịch_vụ đẳng_cấp năm sao tại tầng dịch_vụ quy_hoạch riêng_biệt trong tòa nhà với độ cao 72 m và các tiện_ích tiêu_chuẩn quốc_tế với phòng tập_gym  bể_bơi  bar  coffe 
-7,phumy complex có 03 tầng_hầm với tổng diện_tích 9240 m2 bố_trí cho khu_vực để ô_tô  xe_máy 
-8,toàn_bộ tòa nhà được bố_trí 5 thang_máy chở khách và 1 thang hàng đảm_bảo di_chuyển thoải_mái cho cư_dân 
-9,khách_hàng khi mua căn_hộ phumy_complex cũng đồng_nghĩa sẽ được trải_nghiệm những tiện_ích gộp của quần_thể ngoại_giao_đoàn như đại trung_tâm thương_mại  giải_trí  chăm_sóc sức_khỏe  trường_học  công_viên …
+0,phumy complex tọa_lạc lô_n01_– t4 khu đô_thị đoàn_ngoại_giao phường_xuân_tảo quận bắc từ_liêm hà_nội liền kề siêu đô_thị starlake
+1,quy_hoạch trở_thành trung_tâm kinh_tế hành_chính văn_hóa mới nước
+2,dự_án tổng diện_tích xây_dựng 40260 m2 35 tầng chức_năng hiện_đại 287 căn_hộ hạng sang
+3,trong tầng 1 dành khu_vực lễ_tân phòng sinh_hoạt cộng_đồng shop thời_trang
+4,tầng 2 5 khu văn_phòng hạng a đáp_ứng nhu_cầu thuê chất_lượng cao cơ_quan tổ_chức nước_ngoài doanh_nghiệp việt_nam
+5,tầng 6 35 khu căn_hộ cao_cấp diện_tích linh_hoạt 87 – 211 m2
+6,ngoài_ra cư_dân tận_hưởng dịch_vụ đẳng_cấp năm sao tầng dịch_vụ quy_hoạch riêng_biệt trong tòa nhà độ cao 72 m tiện_ích tiêu_chuẩn quốc_tế phòng tập_gym bể_bơi bar coffe
+7,phumy complex 03 tầng_hầm tổng diện_tích 9240 m2 bố_trí khu_vực ô_tô xe_máy
+8,toàn_bộ tòa nhà bố_trí 5 thang_máy chở khách 1 thang hàng đảm_bảo di_chuyển thoải_mái cư_dân
+9,khách_hàng mua căn_hộ phumy_complex đồng_nghĩa trải_nghiệm tiện_ích gộp quần_thể ngoại_giao_đoàn đại trung_tâm thương_mại giải_trí chăm_sóc sức_khỏe trường_học công_viên …

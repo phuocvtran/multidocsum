@@ -1,12 +1,12 @@
 idx, sentence
-0,nổi_tiếng nhờ vai diễn daenerys_targaryen trong bom tấn truyền_hình “ trò_chơi vương_quyền ”  nữ diễn_viên emilia_clarke vừa có những chia_sẻ vô_cùng thú_vị về các cảnh nóng trên phim mà cô nàng từng phải thực_hiện 
-1,“ tất_cả những gì tôi cần là rượu vodka và một_chút ánh_sáng thật “ ảo ”  và thế_là tôi sẵn_sàng thôi ”  emilia thành thật tâm_sự với tờ the_sun 
-2,trước đây  người_đẹp 29 tuổi từng nói “ không ” với những cảnh nóng trên màn_ảnh vì lo_sợ sự_nghiệp của mình sẽ bị đóng_khung vào các vai diễn khoe da khoe thịt 
-3,tuy_nhiên  phân_đoạn nude trong phần phim mới nhất của “ trò_chơi vương_quyền ” đã khiến emilia phải suy_nghĩ lại 
-4,“ tôi đã phải rùng_mình với nó 
-5,nó không phải là một cảnh quay gợi dục  cô ấy không khỏa_thân một_cách vô_nghĩa 
-6,cô ấy khỏa_thân vì cô ấy vừa tiêu_diệt kẻ_thù và hiên_ngang bước ra khỏi ngọn lửa toàn_năng sau khi bị đánh_giá thấp 
-7,cô ấy đã tung ra con át chủ_bài  vậy_thì tôi làm_sao có_thể từ_chối nổi  ”  nữ diễn_viên vui_vẻ cho biết 
-8,ngoài_ra  emilia cũng có những chia_sẻ hết_sức thú_vị về vai diễn mới louisa_clark trong tác_phẩm điện_ảnh “ me before you ” sẽ chính_thức ra_mắt khán_giả trong tuần tới 
-9,vào vai một cô nhân_viên chăm_sóc nhút_nhát  vụng_về và thậm_chí có phần quê_mùa  “ mẹ rồng ” emilia đã phải hóa_thân trọn_vẹn vào một hình_tượng hoàn_toàn khác với trước đây  “ nhân_vật của tôi có một sự ngây_thơ mà tôi không hề có 
-10,tôi thì lại có quá nhiều sự trải đời phản_chiếu trong đôi mắt ” 
+0,nổi_tiếng nhờ vai diễn daenerys_targaryen trong bom tấn truyền_hình “ trò_chơi vương_quyền ” nữ diễn_viên emilia_clarke chia_sẻ vô_cùng thú_vị về cảnh nóng phim cô nàng thực_hiện
+1,“ tất_cả tôi rượu vodka một_chút ánh_sáng thật “ ảo ” thế_là tôi sẵn_sàng thôi ” emilia thành thật tâm_sự tờ the_sun
+2,người_đẹp 29 tuổi nói “ ” cảnh nóng màn_ảnh lo_sợ sự_nghiệp mình đóng_khung vai diễn khoe da khoe thịt
+3,tuy_nhiên phân_đoạn nude trong phần phim mới nhất “ trò_chơi vương_quyền ” khiến emilia suy_nghĩ
+4,“ tôi rùng_mình nó
+5,nó một cảnh quay gợi dục cô ấy khỏa_thân vô_nghĩa
+6,cô ấy khỏa_thân cô ấy tiêu_diệt kẻ_thù hiên_ngang bước khỏi ngọn lửa toàn_năng đánh_giá thấp
+7,cô ấy tung con át chủ_bài vậy_thì tôi làm_sao từ_chối nổi ” nữ diễn_viên vui_vẻ biết
+8,ngoài_ra emilia chia_sẻ hết_sức thú_vị về vai diễn mới louisa_clark trong tác_phẩm điện_ảnh “ me before you ” chính_thức ra_mắt khán_giả trong tuần tới
+9,vai một cô nhân_viên chăm_sóc nhút_nhát vụng_về thậm_chí phần quê_mùa “ mẹ rồng ” emilia hóa_thân trọn_vẹn một hình_tượng hoàn_toàn khác “ nhân_vật tôi một ngây_thơ tôi hề
+10,tôi quá trải đời phản_chiếu trong đôi mắt ”

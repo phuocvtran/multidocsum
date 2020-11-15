@@ -1,10 +1,10 @@
 idx, sentence
-0,một quan_chức cấp cao của triều_tiên ngày 235 cho biết đề_xuất gặp_mặt lãnh_đạo kim_jong_un của ứng_cử_viên tổng_thống đảng_cộng_hòa mỹ donald_trump là  một loại tuyên_truyền hoặc quảng_bá  cho chiến_dịch tranh_cử của ông ta 
-1,trước đó  trong một cuộc phỏng_vấn với reuters hồi tuần trước tại new_york  tỉ_phú trump tuyên_bố ông sẵn_sàng nói_chuyện với lãnh_đạo triều_tiên trong một nỗ_lực nhằm ngăn_chặn chương_trình hạt_nhân của nước này cũng như đề_xuất một sự thay_đổi lớn trong chính_sách của mỹ đối_với quốc_gia này 
-2, điều đó tùy thuộc vào quyết_định của lãnh_đạo tối_cao của tôi về việc có gặp_mặt hay không nhưng tôi nghĩ ý_kiến của ông trump hay cuộc nói_chuyện vừa_qua là điều vô_nghĩa   đại_sứ triều_tiên tại lhq so se_pyong nói với hãng reuters 
-3, mục_đích là cuộc bầu_cử  tất_cả chỉ có vậy 
-4,một loại tuyên_truyền hay quảng_bá 
-5,vô_nghĩa và không có sự chân_thành   ông pyong bổ_sung 
-6,ông so tuyên_bố triều_tiên sẽ không chia_sẻ công_nghệ hạt_nhân với các quốc_gia khác 
-7, là một quốc_gia hạt_nhân có trách_nhiệm  chúng_tôi sẽ tiếp_tục tuân_thủ nghĩa_vụ không phổ_biến công_nghệ hạt_nhân   ông so nói 
-8,tại một hội_nghị của lhq  triều_tiên cũng nhắc lại rằng nước này sẵn_sàng quay trở_lại cuộc đàm_phán hạt_nhân sáu bên đang bị bế_tắc 
+0,một quan_chức cấp cao triều_tiên ngày 235 biết đề_xuất gặp_mặt lãnh_đạo kim_jong_un ứng_cử_viên tổng_thống đảng_cộng_hòa mỹ donald_trump một loại tuyên_truyền hoặc quảng_bá chiến_dịch tranh_cử ông ta
+1,trong một cuộc phỏng_vấn reuters hồi tuần new_york tỉ_phú trump tuyên_bố ông sẵn_sàng nói_chuyện lãnh_đạo triều_tiên trong một nỗ_lực nhằm ngăn_chặn chương_trình hạt_nhân nước đề_xuất một thay_đổi lớn trong chính_sách mỹ đối_với quốc_gia
+2,tùy thuộc quyết_định lãnh_đạo tối_cao tôi về gặp_mặt hay tôi nghĩ ý_kiến ông trump hay cuộc nói_chuyện vừa_qua vô_nghĩa đại_sứ triều_tiên lhq se_pyong nói hãng reuters
+3,mục_đích cuộc bầu_cử tất_cả
+4,một loại tuyên_truyền hay quảng_bá
+5,vô_nghĩa chân_thành ông pyong bổ_sung
+6,ông tuyên_bố triều_tiên chia_sẻ công_nghệ hạt_nhân quốc_gia khác
+7,một quốc_gia hạt_nhân trách_nhiệm chúng_tôi tiếp_tục tuân_thủ nghĩa_vụ phổ_biến công_nghệ hạt_nhân ông nói
+8,một hội_nghị lhq triều_tiên nhắc nước sẵn_sàng quay trở_lại cuộc đàm_phán hạt_nhân sáu bên bế_tắc

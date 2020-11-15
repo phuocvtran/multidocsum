@@ -1,22 +1,22 @@
 idx, sentence
-0,tổng_thống mỹ barack_obama sẽ ghi tên trong lịch_sử với tư_cách là nhà lãnh_đạo mỹ đương_nhiệm đầu_tiên tới thăm hiroshima  thành_phố đầu_tiên phải hứng_chịu bom_nguyên_tử của mỹ cách đây hơn bảy thập_kỷ 
-1,qua chuyến thăm  tổng_thống obama muốn gửi đi một thông_điệp mạnh_mẽ về một thế_giới không có vũ_khí hạt_nhân 
-2,bước đi mang tính lịch_sử của người đứng đầu nhà_trắng được dư_luận nhật_bản hoan_nghênh và đánh_giá cao 
-3,trong chuyến thăm  tổng_thống obama không đưa ra lời xin_lỗi về việc mỹ ném bom_nguyên_tử xuống hai thành_phố hiroshima và nagasaki hồi cuối chiến_tranh thế_giới thứ hai  mà ông nhấn_mạnh sự mất_mát của chiến_tranh và đưa ra “ tầm nhìn ” cho các thế_hệ tương_lai của hai nước 
-4,thủ_tướng nhật_bản_shinzo_abe cho rằng việc tổng_thống obama tới thăm hiroshima  chứng_kiến những hệ_quả của vụ ném bom_nguyên_tử và thể_hiện cảm_xúc trước toàn thế_giới là một động_lực lớn góp_phần thúc_đẩy mục_tiêu vì một thế_giới không có vũ_khí hạt_nhân 
-5,thủ_tướng abe cho biết ông không mong_chờ lời xin_lỗi từ tổng_thống obama về vụ ném bom mà điều quan_trọng là cách ông obama chia_sẻ với các nạn_nhân của vụ ném bom_nguyên_tử  những người sống_sót vẫn đang phải chịu các di_chứng của chiến_tranh 
-6,người dân nhật_bản nói_chung và người dân hiroshima nói_riêng cũng chào_đón tổng_thống obama 
-7,theo cuộc thăm_dò do đài_nhk thực_hiện  70  số người được hỏi muốn ông obama tới thăm hiroshima 
-8,dù không có lời xin_lỗi như nhiều người hy_vọng nhưng với người dân hiroshima  quyết_định của người đứng đầu nước mỹ đến thăm thành_phố này đã là một bước đi tích_cực 
-9,“ chúng_tôi không yêu_cầu ông ấy xin_lỗi 
-10,tất_cả những gì chúng_tôi muốn là thấy ông ấy đặt vòng_hoa và tưởng_niệm tại công_viên hòa bình 
-11,đó sẽ là bước đi đầu_tiên hướng đến mục_tiêu loại_trừ vũ_khí hạt_nhân  ” một cụ ông 91 tuổi  người sống_sót trong vụ ném bom  chia_sẻ 
-12,trong khi đó  ông terumi_tanaka  người sống_sót sau vụ ném bom_nguyên_tử ở nagasaki  cho rằng  “ điều quan_trọng nhất trong chuyến thăm của tổng_thống obama là ông ấy thể_hiện sự đồng_cảm  thấu_hiểu 
-13,ông ấy không cần phải xin_lỗi nếu thật_sự xúc_động  cảm_thấy hối_tiếc và hiểu phải làm gì để loại_bỏ vũ_khí hạt_nhân  ” hiroshima và nagasaki là những cái tên vẫn gây nhức_nhối trong quan_hệ giữa mỹ và nhật_bản 
-14,cách đây 71 năm  ngày 6/8/1945  quân_đội mỹ đã thả quả bom_nguyên_tử đầu_tiên xuống thành_phố hiroshima  khiến 140000 người thiệt_mạng 
-15,ba ngày sau đó  mỹ tiếp_tục thả quả bom thứ hai xuống nagasaki  cướp đi sinh_mạng của khoảng 70000 người 
-16,việc ném hai quả bom_nguyên_tử đã để lại những vết sẹo cho nhiều thế_hệ người nhật_bản cả về tinh_thần và thể_xác 
-17,cho_đến nay  hai sự_kiện đó vẫn là đề_tài tranh_luận chưa có hồi kết tại mỹ 
-18,71 năm trôi qua và 11 tổng_thống mỹ đã được bầu lên  nhưng không có tổng_thống đương_nhiệm nào đặt_chân đến thành_phố này 
-19,vì_thế  điều mà tổng_thống obama muốn nhấn_mạnh qua chuyến thăm này là  vết đen  lịch_sử đó đã không ngăn được nhật_bản và mỹ xây_dựng mối quan_hệ đồng_minh vững_chắc  và chuyến thăm khu tưởng_niệm công_viên hòa bình  gần nơi quả bom được thả xuống ở hiroshima  là một minh_chứng cho cam_kết của washington theo_đuổi hòa_bình và an_ninh trong một thế_giới không có vũ_khí hạt_nhân 
-20,theo đánh_giá của một quan_chức bộ ngoại_giao nhật_bản  tầm quan_trọng của chuyến thăm hiroshima của tổng_thống obama là  mỹ  quốc_gia duy_nhất từng sử_dụng vũ_khí hạt_nhân  và nhật_bản  quốc_gia duy_nhất bị tấn_công bằng vũ_khí hạt_nhân  cùng thể_hiện quyết_tâm mạnh_mẽ tiến tới giải_trừ hoàn_toàn vũ_khí hạt_nhân 
+0,tổng_thống mỹ barack_obama ghi tên trong lịch_sử tư_cách nhà lãnh_đạo mỹ đương_nhiệm đầu_tiên tới thăm hiroshima thành_phố đầu_tiên hứng_chịu bom_nguyên_tử mỹ cách hơn bảy thập_kỷ
+1,chuyến thăm tổng_thống obama muốn gửi đi một thông_điệp mạnh_mẽ về một thế_giới vũ_khí hạt_nhân
+2,bước đi mang tính lịch_sử người đứng đầu nhà_trắng dư_luận nhật_bản hoan_nghênh đánh_giá cao
+3,trong chuyến thăm tổng_thống obama đưa lời xin_lỗi về mỹ ném bom_nguyên_tử xuống hai thành_phố hiroshima nagasaki hồi cuối chiến_tranh thế_giới thứ hai ông nhấn_mạnh mất_mát chiến_tranh đưa “ tầm nhìn ” thế_hệ tương_lai hai nước
+4,thủ_tướng nhật_bản_shinzo_abe tổng_thống obama tới thăm hiroshima chứng_kiến hệ_quả vụ ném bom_nguyên_tử thể_hiện cảm_xúc toàn thế_giới một động_lực lớn góp_phần thúc_đẩy mục_tiêu một thế_giới vũ_khí hạt_nhân
+5,thủ_tướng abe biết ông mong_chờ lời xin_lỗi tổng_thống obama về vụ ném bom quan_trọng cách ông obama chia_sẻ nạn_nhân vụ ném bom_nguyên_tử người sống_sót chịu di_chứng chiến_tranh
+6,người dân nhật_bản nói_chung người dân hiroshima nói_riêng chào_đón tổng_thống obama
+7,cuộc thăm_dò đài_nhk thực_hiện 70 số người hỏi muốn ông obama tới thăm hiroshima
+8,dù lời xin_lỗi người hy_vọng người dân hiroshima quyết_định người đứng đầu nước mỹ đến thăm thành_phố một bước đi tích_cực
+9,“ chúng_tôi yêu_cầu ông ấy xin_lỗi
+10,tất_cả chúng_tôi muốn thấy ông ấy đặt vòng_hoa tưởng_niệm công_viên hòa bình
+11,bước đi đầu_tiên hướng đến mục_tiêu loại_trừ vũ_khí hạt_nhân ” một cụ ông 91 tuổi người sống_sót trong vụ ném bom chia_sẻ
+12,trong ông terumi_tanaka người sống_sót vụ ném bom_nguyên_tử ở nagasaki “ quan_trọng nhất trong chuyến thăm tổng_thống obama ông ấy thể_hiện đồng_cảm thấu_hiểu
+13,ông ấy xin_lỗi thật_sự xúc_động cảm_thấy hối_tiếc hiểu làm loại_bỏ vũ_khí hạt_nhân ” hiroshima nagasaki tên gây nhức_nhối trong quan_hệ giữa mỹ nhật_bản
+14,cách 71 năm ngày 6/8/1945 quân_đội mỹ thả quả bom_nguyên_tử đầu_tiên xuống thành_phố hiroshima khiến 140000 người thiệt_mạng
+15,ba ngày mỹ tiếp_tục thả quả bom thứ hai xuống nagasaki cướp đi sinh_mạng khoảng 70000 người
+16,ném hai quả bom_nguyên_tử vết sẹo thế_hệ người nhật_bản về tinh_thần thể_xác
+17,cho_đến nay hai sự_kiện đề_tài tranh_luận hồi kết mỹ
+18,71 năm trôi 11 tổng_thống mỹ bầu tổng_thống đương_nhiệm nào đặt_chân đến thành_phố
+19,vì_thế tổng_thống obama muốn nhấn_mạnh chuyến thăm vết đen lịch_sử ngăn nhật_bản mỹ xây_dựng mối quan_hệ đồng_minh vững_chắc chuyến thăm khu tưởng_niệm công_viên hòa bình gần quả bom thả xuống ở hiroshima một minh_chứng cam_kết washington theo_đuổi hòa_bình an_ninh trong một thế_giới vũ_khí hạt_nhân
+20,đánh_giá một quan_chức bộ ngoại_giao nhật_bản tầm quan_trọng chuyến thăm hiroshima tổng_thống obama mỹ quốc_gia duy_nhất sử_dụng vũ_khí hạt_nhân nhật_bản quốc_gia duy_nhất tấn_công bằng vũ_khí hạt_nhân thể_hiện quyết_tâm mạnh_mẽ tiến tới giải_trừ hoàn_toàn vũ_khí hạt_nhân

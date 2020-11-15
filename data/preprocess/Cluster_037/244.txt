@@ -1,27 +1,27 @@
 idx, sentence
-0,chỉ trong năm nay  người dân tại quốc_gia mỹ_latin đã phải đối_mặt với tỷ_lệ thất_nghiệp 17   lạm_phát xấp_xỉ 500   các nhu_yếu_phẩm như nước  điện  thực_phẩm  y_tế đều bị cắt_giảm 
-1,giá_cả cuộc_sống tăng cao  cắt_giảm lao_động  phúc_lợi xã_hội bị suy_giảm nặng_nề  nạn trộm_cắp diễn ra trên khắp các con phố  kết_hợp với các cuộc biểu_tình quy_mô lớn  khiến cho đất_nước luôn ở trong trạng_thái báo_động cao 
-2,dưới đây là 3 vấn_đề có_thể khiến venezuela đứng trên bờ vực sụp_đổ bất_cứ lúc_nào  nếu_như không tìm thấy một giải_pháp hoặc nhận được sự cứu_trợ từ một tổ_chức nào trên thế_giới 
-3,1 
-4,chạm tới giới_hạn của sự thiếu_thốn nước và thực_phẩm đang là hai vấn_đề gây đau_đầu ở venezuela từ nhiều tháng nay 
-5,lượng nước sinh_hoạt đang bị chính_phủ kiểm_soát chặt_chẽ  thậm_chí tại nhiều khu_vực người dân chỉ được cấp một_cách nhỏ_giọt  21 lần mỗi ngày với lý_do các hồ dự_trữ sắp cạn_kiệt 
-6,thực_phẩm thì ngày_một khan_hiếm và đắt_đỏ do các biện_pháp kiểm_soát tiền_tệ mà chính_phủ nước này áp_dụng dẫn tới tình_trạng thiếu usd để nhập_khẩu hàng_hóa 
-7,người dân phải xếp_hàng dài cả ngày lẫn đêm trước các siêu_thị để  được mua  thực_phẩm  đồ tiêu_dùng 
-8,cuộc_sống đói_nghèo và thiếu_thốn khiến người dân buộc phải đột_nhập vào cửa_hàng  siêu_thị  thậm_chí là hồ bơi và xe chở nước để trộm_cắp từng gói bánh  chai nước để sống qua_ngày 
-9,điện cũng không khá khẩm hơn  khi chính_phủ dùng mọi biện_pháp để tiết_kiệm năng_lượng cho quốc_gia 
-10,họ thậm_chí đề_nghị các văn_phòng chỉ được mở_cửa làm_việc 2 ngày mỗi tuần  đồng_thời điều_chỉnh giờ toàn_quốc nhanh hơn 30 phút so với trước đây để tiết_kiệm điện 
-11,bộ_trưởng khoa_học và công_nghệ_venezuela cho biết việc điều_chỉnh múi_giờ như vậy sẽ giảm thời_gian sử_dụng đèn thắp sáng cũng như điều_hòa_nhiệt_độ vào ban_đêm của mọi người 
-12,2 
-13,đối_mặt nguy_cơ sụp_đổ vì giá dầu từ nhiều năm qua  đất_nước venezuela đã quá phụ_thuộc vào nguồn dự_trữ dầu_mỏ khổng_lồ  chiếm khoảng 96  doanh_thu xuất_khẩu và gần một_nửa ngân_sách quốc_gia 
-14,tuy_nhiên kể từ khi giá dầu giảm từ 100 usd / thùng xuống đến chỉ hơn 40 usd / thùng như hiện_nay  nền kinh_tế cả nước bị suy_sụp nhanh_chóng bởi không tìm thấy nguồn thu_nhập nào khác ngoài dầu_mỏ 
-15,đại_diện từ venezuela cho biết họ cần giá dầu đạt ngưỡng 121 usd / thùng để cân_bằng lại tình_hình kinh_tế 
-16,thế nhưng điều này được dự_đoán là sẽ khó xảy ra trong tương_lai  khiến tương_lai phía trước của quốc_gia thêm phần ảm_đạm 
-17,trong lĩnh_vực năng_lượng  bên cạnh dầu_mỏ còn có nguồn điện cũng đang bị ảnh_hưởng nghiêm_trọng  khi có tới 65  mạng_lưới điện của quốc_gia phụ_thuộc vào một đập thủy_điện duy_nhất  nhưng hiện lại đang trong tình_trạng thiếu_hụt nghiêm_trọng 
-18,3 
-19,chính_trị và các vấn_đề dài_hạn khi một quốc_gia đối_mặt với các vấn_đề về kinh_tế  thì sự ổn_định về chính_trị cũng khó_lòng giữ vững 
-20,các cuộc bầu_cử từ cuối năm_ngoái tưởng như đã đưa venezuela ổn_định trở_lại khi thành_lập bàn_tròn thống_nhất dân_chủ  được cho là bước chuyển_giao quyền_lực đầu_tiên kể từ khi tổng_thống hugo_chavez lên nắm quyền năm 1999 
-21,tuy_nhiên  hiện_nay có đến 60  người dân venezuela đổ_lỗi tình_trạng khan_hiếm thực_phẩm  nền kinh_tế suy_thoái là do sai_lầm của chính_phủ nước này  dựa theo tổ_chức thăm_dò datanalisis 
-22,tại thời_điểm hiện_nay  tỷ_lệ người còn đồng thuận với ông maduro chỉ dao_động từ 1015   trong khi có 70  người dân sẵn_sàng muốn ông từ chức 
-23,thế nhưng việc sa_thải ông maduro cũng khó_lòng cứu được một quốc_gia đang trên bờ sụp_đổ cùng hàng_loạt vấn_đề đã tồn_tại trong hàng thập_kỷ qua  điển_hình là nạn tham_nhũng và tỷ_lệ tội_phạm 
-24,được biết  venezuela đang là quốc_gia có tỷ_lệ tham_nhũng lớn nhất nam_mỹ  và đứng thứ 9 trên thế_giới 
-25,tỷ_lệ tội_phạm giết người tại đây cũng nằm ở mức cao nhất nhì thế_giới 
+0,trong năm nay người dân quốc_gia mỹ_latin đối_mặt tỷ_lệ thất_nghiệp 17 lạm_phát xấp_xỉ 500 nhu_yếu_phẩm nước điện thực_phẩm y_tế cắt_giảm
+1,giá_cả cuộc_sống tăng cao cắt_giảm lao_động phúc_lợi xã_hội suy_giảm nặng_nề nạn trộm_cắp diễn khắp con phố kết_hợp cuộc biểu_tình quy_mô lớn khiến đất_nước luôn ở trong trạng_thái báo_động cao
+2,3 vấn_đề khiến venezuela đứng bờ vực sụp_đổ bất_cứ lúc_nào nếu_như tìm thấy một giải_pháp hoặc nhận cứu_trợ một tổ_chức nào thế_giới
+3,1
+4,chạm tới giới_hạn thiếu_thốn nước thực_phẩm hai vấn_đề gây đau_đầu ở venezuela tháng nay
+5,lượng nước sinh_hoạt chính_phủ kiểm_soát chặt_chẽ thậm_chí khu_vực người dân cấp nhỏ_giọt 21 lần ngày lý_do hồ dự_trữ sắp cạn_kiệt
+6,thực_phẩm ngày_một khan_hiếm đắt_đỏ biện_pháp kiểm_soát tiền_tệ chính_phủ nước áp_dụng dẫn tới tình_trạng thiếu usd nhập_khẩu hàng_hóa
+7,người dân xếp_hàng dài ngày lẫn đêm siêu_thị mua thực_phẩm đồ tiêu_dùng
+8,cuộc_sống đói_nghèo thiếu_thốn khiến người dân buộc đột_nhập cửa_hàng siêu_thị thậm_chí hồ bơi xe chở nước trộm_cắp gói bánh chai nước sống qua_ngày
+9,điện khá khẩm hơn chính_phủ dùng mọi biện_pháp tiết_kiệm năng_lượng quốc_gia
+10,họ thậm_chí đề_nghị văn_phòng mở_cửa làm_việc 2 ngày tuần đồng_thời điều_chỉnh giờ toàn_quốc nhanh hơn 30 phút tiết_kiệm điện
+11,bộ_trưởng khoa_học công_nghệ_venezuela biết điều_chỉnh múi_giờ giảm thời_gian sử_dụng đèn thắp sáng điều_hòa_nhiệt_độ ban_đêm mọi người
+12,2
+13,đối_mặt nguy_cơ sụp_đổ giá dầu năm đất_nước venezuela quá phụ_thuộc nguồn dự_trữ dầu_mỏ khổng_lồ chiếm khoảng 96 doanh_thu xuất_khẩu gần một_nửa ngân_sách quốc_gia
+14,tuy_nhiên kể giá dầu giảm 100 usd / thùng xuống đến hơn 40 usd / thùng hiện_nay nền kinh_tế nước suy_sụp nhanh_chóng tìm thấy nguồn thu_nhập nào khác ngoài dầu_mỏ
+15,đại_diện venezuela biết họ giá dầu đạt ngưỡng 121 usd / thùng cân_bằng tình_hình kinh_tế
+16,thế dự_đoán khó xảy trong tương_lai khiến tương_lai phía quốc_gia thêm phần ảm_đạm
+17,trong lĩnh_vực năng_lượng bên cạnh dầu_mỏ còn nguồn điện ảnh_hưởng nghiêm_trọng tới 65 mạng_lưới điện quốc_gia phụ_thuộc một đập thủy_điện duy_nhất hiện trong tình_trạng thiếu_hụt nghiêm_trọng
+18,3
+19,chính_trị vấn_đề dài_hạn một quốc_gia đối_mặt vấn_đề về kinh_tế ổn_định về chính_trị khó_lòng giữ vững
+20,cuộc bầu_cử cuối năm_ngoái tưởng đưa venezuela ổn_định trở_lại thành_lập bàn_tròn thống_nhất dân_chủ bước chuyển_giao quyền_lực đầu_tiên kể tổng_thống hugo_chavez nắm quyền năm 1999
+21,tuy_nhiên hiện_nay đến 60 người dân venezuela đổ_lỗi tình_trạng khan_hiếm thực_phẩm nền kinh_tế suy_thoái sai_lầm chính_phủ nước dựa tổ_chức thăm_dò datanalisis
+22,thời_điểm hiện_nay tỷ_lệ người còn đồng thuận ông maduro dao_động 1015 trong 70 người dân sẵn_sàng muốn ông chức
+23,thế sa_thải ông maduro khó_lòng cứu một quốc_gia bờ sụp_đổ hàng_loạt vấn_đề tồn_tại trong hàng thập_kỷ điển_hình nạn tham_nhũng tỷ_lệ tội_phạm
+24,biết venezuela quốc_gia tỷ_lệ tham_nhũng lớn nhất nam_mỹ đứng thứ 9 thế_giới
+25,tỷ_lệ tội_phạm giết người nằm ở mức cao nhất nhì thế_giới

@@ -1,10 +1,10 @@
 idx, sentence
-0,trong lúc đang ngủ trưa  gia_đình ông tiến  xã nghi_trung  huyện nghi_lộc  nghệ_an hốt_hoảng tỉnh dậy vì mái nhà bị tốc  làm rơi ngói nghi do máy_bay hạ_cánh 
-1,theo phản_ảnh của ông lê_văn_tiến  56 tuổi  ngụ xóm 21  xã nghi_trung  huyện nghi_lộc  nghệ_an  khoảng 13 g ngày 275  gia_đình ông tiến đang ngủ trưa thì nghe tiếng_động lớn trên mái nhà 
-2,ông tiến hốt_hoảng gọi mọi người lao ra khỏi nhà cùng lúc nhiều viên ngói rơi xuống 
-3,kiểm_tra mái nhà  ông tiến phát_hiện khoảng 200 viên ngói bị tốc  mái nhà hư_hỏng 
-4,“ lúc đó tôi nghe tiếng động cơ máy_bay hạ_cánh xuống sân_bay vinh rất gần  chỉ một lát sau thì thấy gạch ngói trên mái rơi xuống  thời_điểm đó không có gió_lốc bất_thường ”  ông tiến nói 
-5,sau khi xảy ra sự_việc  gia_đình ông tiến đã liên_hệ cảng_vụ hàng_không sân_bay vinh và công_an xã nghi_trung để giải_quyết 
-6,chiều 275  cảng_vụ hàng_không miền bắc  an_ninh sân_bay quốc_tế vinh cùng công_an xã nghi_trung có_mặt tại hiện_trường để kiểm_tra  lập biên_bản ghi_nhận sự_việc 
-7,một_số người dân xã nghi_trung cũng phản_ảnh vì sống gần khu_vực đường_bay hạ_cánh nên luôn phải nơm_nớp lo_sợ mỗi lần máy_bay cất / hạ_cánh  tiếng_ồn và gió mạnh làm tốc mái nhà 
-8,trao_đổi với tuổi_trẻ sáng 285  ông hồ_sỹ_nam  trưởng đại_diện cảng_vụ hàng_không miền bắc tại cảng_hàng_không vinh  đơn_vị đã có báo_cáo gửi cảng_hàng_không miền bắc và cục hàng_không  bộ_gtvt  về sự_việc ngói ở gia_đình ông tiến bị tốc nghi do máy_bay hạ_cánh 
+0,trong ngủ trưa gia_đình ông tiến xã nghi_trung huyện nghi_lộc nghệ_an hốt_hoảng tỉnh dậy mái nhà tốc làm rơi ngói nghi máy_bay hạ_cánh
+1,phản_ảnh ông lê_văn_tiến 56 tuổi ngụ xóm 21 xã nghi_trung huyện nghi_lộc nghệ_an khoảng 13 g ngày 275 gia_đình ông tiến ngủ trưa nghe tiếng_động lớn mái nhà
+2,ông tiến hốt_hoảng gọi mọi người lao khỏi nhà viên ngói rơi xuống
+3,kiểm_tra mái nhà ông tiến phát_hiện khoảng 200 viên ngói tốc mái nhà hư_hỏng
+4,“ tôi nghe tiếng động cơ máy_bay hạ_cánh xuống sân_bay vinh gần một lát thấy gạch ngói mái rơi xuống thời_điểm gió_lốc bất_thường ” ông tiến nói
+5,xảy sự_việc gia_đình ông tiến liên_hệ cảng_vụ hàng_không sân_bay vinh công_an xã nghi_trung giải_quyết
+6,chiều 275 cảng_vụ hàng_không miền bắc an_ninh sân_bay quốc_tế vinh công_an xã nghi_trung có_mặt hiện_trường kiểm_tra lập biên_bản ghi_nhận sự_việc
+7,một_số người dân xã nghi_trung phản_ảnh sống gần khu_vực đường_bay hạ_cánh luôn nơm_nớp lo_sợ lần máy_bay cất / hạ_cánh tiếng_ồn gió mạnh làm tốc mái nhà
+8,trao_đổi tuổi_trẻ sáng 285 ông hồ_sỹ_nam trưởng đại_diện cảng_vụ hàng_không miền bắc cảng_hàng_không vinh đơn_vị báo_cáo gửi cảng_hàng_không miền bắc cục hàng_không bộ_gtvt về sự_việc ngói ở gia_đình ông tiến tốc nghi máy_bay hạ_cánh

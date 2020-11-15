@@ -1,15 +1,15 @@
 idx, sentence
-0,pep guardiola đã không giấu được những giọt nước_mắt sau khi bayern_munich đánh_bại dortmund để lần thứ 18 giành chức vô_địch cúp_quốc_gia đức 
-1,đây là trận đấu cuối_cùng và cũng là danh_hiệu cuối_cùng mà ông giành được trong nhiệm_kỳ 3 năm dẫn_dắt bayern_munich  2013  16  
-2,sau mùa giải này  vị chiến_lược gia người tây ban_nha sẽ đến anh để cùng manchester_city chinh_phục những đỉnh_cao mới trong sự_nghiệp cầm_quân của mình 
-3, tôi đã có quãng thời_gian làm_việc quá tuyệt_vời ở đây  tôi mong rằng bayern sẽ trở_thành đội bóng xuất_sắc nhất trong tương_lai 
-4,tôi cảm_thấy vô_cùng hạnh_phúc khi mọi chuyện lại kết_thúc đẹp_đẽ tới vậy   pep nói sau trận đấu 
-5, tôi sẽ rất nhớ những cậu học_trò của mình  đó là những trải_nghiệm không_thể_nào quên 
-6, dortmund có động_lực để thi_đấu nhưng động_lực của chúng_tôi còn lớn hơn họ nhiều 
-7,dortmund có nhiều cơ_hội  nhưng chúng_tôi mới là người biết chớp lấy thời_cơ 
-8,về cuối trận đấu  tất_cả các cầu_thủ đều đã rất mệt nên ở loạt penalty  điều gì cũng có_thể xảy ra  
-9,cùng_với pep  thủ_thành manuel_neuer cho hay   chúng_tôi đã có một mùa giải tuyệt_vời 
-10,chúng_tôi xứng_đáng có được điều này  
-11,thomas mueller thì nói   trận đấu đã khiến chúng_tôi mất nhiều sức_lực 
-12,dortmund đã có_thể ghi_bàn nhưng chúng_tôi đã kiểm_soát được trận đấu và giành chiến_thắng  
-13,trong khi đó  bên kia chiến_tuyến  mats_hummel  người sẽ đầu_quân cho bayern vào mùa tới chia_sẻ   chúng_tôi đã có trận đấu tuyệt_vời và việc phải phân_định thắng thua trên chấm luân_lưu chẳng khác nào quay xổ_số  
+0,pep guardiola giấu giọt nước_mắt bayern_munich đánh_bại dortmund lần thứ 18 giành chức vô_địch cúp_quốc_gia đức
+1,trận đấu cuối_cùng danh_hiệu cuối_cùng ông giành trong nhiệm_kỳ 3 năm dẫn_dắt bayern_munich 2013 16
+2,mùa giải vị chiến_lược gia người tây ban_nha đến anh manchester_city chinh_phục đỉnh_cao mới trong sự_nghiệp cầm_quân mình
+3,tôi quãng thời_gian làm_việc quá tuyệt_vời ở tôi mong bayern trở_thành đội bóng xuất_sắc nhất trong tương_lai
+4,tôi cảm_thấy vô_cùng hạnh_phúc mọi kết_thúc đẹp_đẽ tới pep nói trận đấu
+5,tôi nhớ cậu học_trò mình trải_nghiệm không_thể_nào quên
+6,dortmund động_lực thi_đấu động_lực chúng_tôi còn lớn hơn họ
+7,dortmund cơ_hội chúng_tôi mới người biết chớp lấy thời_cơ
+8,về cuối trận đấu tất_cả cầu_thủ mệt ở loạt penalty xảy
+9,cùng_với pep thủ_thành manuel_neuer hay chúng_tôi một mùa giải tuyệt_vời
+10,chúng_tôi xứng_đáng
+11,thomas mueller nói trận đấu khiến chúng_tôi mất sức_lực
+12,dortmund ghi_bàn chúng_tôi kiểm_soát trận đấu giành chiến_thắng
+13,trong bên kia chiến_tuyến mats_hummel người đầu_quân bayern mùa tới chia_sẻ chúng_tôi trận đấu tuyệt_vời phân_định thắng thua chấm luân_lưu chẳng khác nào quay xổ_số

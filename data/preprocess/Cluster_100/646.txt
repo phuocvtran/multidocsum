@@ -1,10 +1,10 @@
 idx, sentence
-0,những cán_bộ tham_gia khảo_sát ghi_nhận   tuyến đường dài 13400 m  qui_mô cấp vi đồng_bằng  tráng nhựa 8600 m  còn lại đang hoàn_thiện tại các đường_dẫn lên cầu 
-1,toàn tuyến dự_án đường ô  tô về trung_tâm xã đất_mũi có 6 cầu 
-2,trong đó  cầu_ô_rô được thiết_kế h8  gồm 5 nhịp chính  dài 845 m  được khởi_công xây_dựng vào tháng 5/2013 
-3,theo báo_cáo nhà_thầu thi_công là cty tnhh sử thành_phú và người dân xung_quanh  sự_cố sụp_đổ cầu_ô_rô xảy ra lúc 1 giờ 25 phút ngày 5/8 
-4,tại mố_cầu a  trụ t1 và 2 nhịp cầu sụp xuống sông hoàn_toàn 
-5,tại đường_dẫn bị sụp_lở 15 m và xuất_hiện vết nứt mặt_đường hơn 10 m nữa  có nguy_cơ sụp_lở tiếp 
-6,cán_bộ khảo_sát đưa ra nhận_định ban_đầu là cầu_ô_rô xây trên nền địa_chất yếu  cách cầu cái_dày 50 m thuộc chung dự_án đường ô  tô về đất_mũi 
-7,mặt_khác  cầu_ô_rô xây cách ngã ba_đình khoản 150 m  sông sâu  nước chảy siết đã gây mất ổn_định  kéo gãy trụ cầu  dịch_chuyển lớn khối_lượng đất_đá sạt_lở 
-8,ông dương_hoài_nam cho_biết  đã đề_xuất với chủ_tịch ubnd tỉnh cà_mau thành_lập tổ công_tác gồm sở gtvt  xây_dựng  khoa_học _công_nghệ  nn  ptnt và các chuyên_viên có chức_năng thẩm_định để xác_định nguyên_nhân  đề ra giải_pháp khắc_phục 
+0,cán_bộ tham_gia khảo_sát ghi_nhận tuyến đường dài 13400 m qui_mô cấp vi đồng_bằng tráng nhựa 8600 m còn hoàn_thiện đường_dẫn cầu
+1,toàn tuyến dự_án đường ô tô về trung_tâm xã đất_mũi 6 cầu
+2,trong cầu_ô_rô thiết_kế h8 gồm 5 nhịp chính dài 845 m khởi_công xây_dựng tháng 5/2013
+3,báo_cáo nhà_thầu thi_công cty tnhh sử thành_phú người dân xung_quanh sự_cố sụp_đổ cầu_ô_rô xảy 1 giờ 25 phút ngày 5/8
+4,mố_cầu a trụ t1 2 nhịp cầu sụp xuống sông hoàn_toàn
+5,đường_dẫn sụp_lở 15 m xuất_hiện vết nứt mặt_đường hơn 10 m nguy_cơ sụp_lở tiếp
+6,cán_bộ khảo_sát đưa nhận_định ban_đầu cầu_ô_rô xây nền địa_chất yếu cách cầu cái_dày 50 m thuộc chung dự_án đường ô tô về đất_mũi
+7,mặt_khác cầu_ô_rô xây cách ngã ba_đình khoản 150 m sông sâu nước chảy siết gây mất ổn_định kéo gãy trụ cầu dịch_chuyển lớn khối_lượng đất_đá sạt_lở
+8,ông dương_hoài_nam cho_biết đề_xuất chủ_tịch ubnd tỉnh cà_mau thành_lập tổ công_tác gồm sở gtvt xây_dựng khoa_học _công_nghệ nn ptnt chuyên_viên chức_năng thẩm_định xác_định nguyên_nhân đề giải_pháp khắc_phục

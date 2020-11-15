@@ -1,12 +1,12 @@
 idx, sentence
-0,theo cáo_trạng của vksnd tp hồ_chí_minh  lúc 13 h ngày 31/03/2014  công_an phường trường_thọ bắt quả_tang nguyễn_thanh_hải  sinh năm 1993  ngụ tại 60/2/2 đường số 4  phường trường_thọ  quận thủ_đức tp hồ_chí_minh  về hành_vi mua_bán trái_phép chất ma_túy  thu_giữ 1035 gram chế_phẩm heroin 
-1,theo đó  năm 2013 thông_qua người bạn tên lâm giới_thiệu  nguyễn_thanh_hải quen_biết với một đối_tượng tên phi 
-2,thông_qua phi  hải quen với lê_quốc_bảo  sinh năm 1979  ngụ tại 1/3 a  khu_phố 1  phường đông_hưng_thuận  quận 12  tp hồ_chí_minh  
-3,qua tiếp_xúc  hải biết phi và bảo cùng nhau mua_bán ma_túy 
-4,ngày 30/03/2014  hải gặp phi tại khu_vực cầu_vượt tân_thới_hiệp  quận 12 
-5,tại đây  phi nhờ hải cất_giữ giúp phi một_số ma_túy loại heroin  phi sẽ cho hải 500000 đồng và hải_đồng_ý 
-6,ngay sau đó  hải và phi đi đến nhà bảo  bảo đưa cho phi_heroin  phi lại đưa cho hải  hẹn đến ngày hôm sau sẽ phân_số heroin này ra bán_lẻ cho khách quen của phi 
-7,hải đồng_ý và lấy heroin đem về nhà cất_giấu tại bụi chuối trước nhà 
-8,đến trưa  hải lo_sợ bị phát_hiện nên đem số heroin trên về xưởng gỗ  nơi hải làm_việc  tại quận 9 
-9,khi vận_chuyển số ma_túy trên  hải bị công_an phường trường_thọ bắt quả_tang 
-10,các đối_tượng tên phi  lâm do hải khai_báo với cơ_quan điều_tra  không rõ lai_lịch nên không có cơ_sở xử_lý  riêng lê_quốc_bảo các cơ_quan  đơn_vị nghiệp_vụ đang truy bắt  khi nào bắt được sẽ xử_lý sau 
+0,cáo_trạng vksnd tp hồ_chí_minh 13 h ngày 31/03/2014 công_an phường trường_thọ bắt quả_tang nguyễn_thanh_hải sinh năm 1993 ngụ 60/2/2 đường số 4 phường trường_thọ quận thủ_đức tp hồ_chí_minh về hành_vi mua_bán trái_phép chất ma_túy thu_giữ 1035 gram chế_phẩm heroin
+1,năm 2013 thông_qua người bạn tên lâm giới_thiệu nguyễn_thanh_hải quen_biết một đối_tượng tên phi
+2,thông_qua phi hải quen lê_quốc_bảo sinh năm 1979 ngụ 1/3 a khu_phố 1 phường đông_hưng_thuận quận 12 tp hồ_chí_minh
+3,tiếp_xúc hải biết phi bảo nhau mua_bán ma_túy
+4,ngày 30/03/2014 hải gặp phi khu_vực cầu_vượt tân_thới_hiệp quận 12
+5,phi nhờ hải cất_giữ giúp phi một_số ma_túy loại heroin phi hải 500000 đồng hải_đồng_ý
+6,hải phi đi đến nhà bảo bảo đưa phi_heroin phi đưa hải hẹn đến ngày hôm phân_số heroin bán_lẻ khách quen phi
+7,hải đồng_ý lấy heroin đem về nhà cất_giấu bụi chuối nhà
+8,đến trưa hải lo_sợ phát_hiện đem số heroin về xưởng gỗ hải làm_việc quận 9
+9,vận_chuyển số ma_túy hải công_an phường trường_thọ bắt quả_tang
+10,đối_tượng tên phi lâm hải khai_báo cơ_quan điều_tra rõ lai_lịch cơ_sở xử_lý riêng lê_quốc_bảo cơ_quan đơn_vị nghiệp_vụ truy bắt nào bắt xử_lý

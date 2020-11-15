@@ -1,18 +1,18 @@
 idx, sentence
-0,“ đòn_bẩy ” du_lịch cho yên_bái nằm ở cửa_ngõ vùng tây_bắc  yên_bái được đánh_giá là tỉnh giàu tiềm_năng du_lịch và có nhiều thuận_lợi để phát_triển các loại_hình du_lịch hấp_dẫn 
-1,chính vì_vậy  tập_đoàn hoa_sen đã lựa_chọn tỉnh này làm điểm đầu_tư xây_dựng dự_án khu trung_tâm thương_mại  dịch_vụ  khách_sạn  nhà_hàng và tổ_chức sự_kiện hoa_sen yên_bái  gọi tắt là dự_án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái  
-2,theo đó  dự_án được xây_dựng trên khu đất có diện_tích 15 ha với tổng vốn đầu_tư dự_kiến 1200 tỉ đồng 
-3,chủ đầu_tư  công_ty cổ_phần hoa_sen yên_bái kỳ_vọng dự_án sẽ là “ đòn_bẩy ” giúp du_lịch yên_bái phát_triển mạnh_mẽ trong những năm tới 
-4,đồng_thời  đây cũng là khu trung_tâm thương_mại  khách_sạn theo tiêu_chuẩn quốc_tế có quy_mô lớn và cao nhất yên_bái tính đến thời_điểm hiện_tại 
-5,vào ngày 195 vừa_qua  dự_án đã chính_thức được khởi_công với sự phối_hợp giữa tập_đoàn hoa_sen và ubnd tỉnh yên_bái 
-6,nằm tại trung_tâm kinh_tế  chính_trị  văn_hóa của tỉnh yên_bái  khu trung_tâm thương_mại  khách_sạn 4 sao này hứa_hẹn sẽ là một điểm nhấn quan_trọng cho tpyên_bái và mang đến những dịch_vụ tiện_ích nhất cho du_khách khi đặt_chân đến mảnh đất vùng tây_bắc này 
-7,ông lê_phước_vũ  chủ_tịch hđqt tập_đoàn hoa_sen cho biết  đơn_vị xác_định những giá_trị văn_hóa phong_phú  những di_tích lịch_sử cách_mạng  hệ_thống các đình  đền  chùa gắn liền với lịch_sử dựng nước và giữ nước của dân_tộc sẽ là nền_tảng để khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái thu_hút khách du_lịch 
-8,“ yên_bái còn sở_hữu các danh_thắng cấp quốc_gia như ruộng bậc_thang mù_cang_chải  thác_bà  khu du_lịch suối_giàng … đặc_biệt  đầm vân_hội được xem là vùng_đất tâm_linh  là cội_nguồn của dân_tộc  nơi ghi dấu huyền tích mẫu âu_cơ đặt bước chân đầu_tiên trong cuộc thiên_di đưa 50 người con lên non sinh_cơ lập_nghiệp  mở_mang giang_sơn  bờ_cõi sẽ là một trong những yếu_tố tiên_quyết giúp du_lịch tỉnh này phát_triển mạnh trong những năm tới ”  ông vũ khẳng_định 
-9,vị_trí đắc_địa  thiết_kế đẳng_cấp tọa_lạc tại khu_vực sầm_uất nhất của tpyên_bái  gần_kề trục quốc_lộ 37  dự_án khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái sẽ tạo sự liên_kết dễ_dàng với các khu_vực dân_cư lân_cận  thuận_tiện trong việc giao_thương  thu_hút khách du_lịch 
-10,hơn_nữa  tuyến cao_tốc nội_bài  lào_cai được đưa vào khai_thác từ cuối tháng 92014 sẽ góp_phần kết_nối yên_bái với hà_nội và các địa_phương khác  thúc_đẩy các hoạt_động du_lịch  tham_quan phát_triển mạnh_mẽ hơn 
-11,theo chủ đầu_tư  dự_án bao_gồm 1 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m²  được xây_dựng thành khu phức_hợp như trung_tâm thương_mại  trung_tâm hội_nghị  khách_sạn 4 sao  nhà_hàng tiệc cưới  quán cà_phê  căn_hộ cao_cấp 
-12,tập_đoàn hoa_sen đã lựa_chọn vẻ đẹp đặc_trưng của núi_rừng tây_bắc và biểu_tượng của thương_hiệu hoa_sen làm điểm nhấn chủ_đạo cho thiết_kế của dự_án 
-13,đặc_biệt  phần kết_cấu chung của tòa nhà được xây_dựng theo lối kiến_trúc “ bậc_thang ”  lấy cảm_hứng từ hình_ảnh cánh đồng_ruộng bậc_thang mù cang_chải 
-14,sau khi theo_dõi bản phối_cảnh dự_án  nhiều người dân ở tpyên_bái nói  “ nhìn toàn_cảnh  dự_án vừa có sự vững_chắc  kiên_cố của kiến_trúc bậc_thang  vừa có sự mềm_mại  thanh_thoát và duyên_dáng của biểu_tượng hoa_sen tạo nên một tổng_thể kiến_trúc hiện_đại  tinh_tế và đẳng_cấp ” 
-15,giai_đoạn 1 của dự_án với các hạng_mục công_trình như khách_sạn 4 sao thấp tầng  trung_tâm thương_mại  trung_tâm tổ_chức hội_nghị  nhà_hàng tiệc cưới  quán cà_phê  bãi đỗ xe đa chức_năng sẽ chính_thức hoạt_động vào cuối tháng 62017 
-16,giai_đoạn 2 kéo_dài từ tháng 62019  62020 sẽ hoàn_thiện các hạng_mục còn lại của dự_án gồm khách_sạn 4 sao cao_tầng  mở_rộng khách_sạn 4 sao thấp tầng  căn_hộ 
+0,“ đòn_bẩy ” du_lịch yên_bái nằm ở cửa_ngõ vùng tây_bắc yên_bái đánh_giá tỉnh giàu tiềm_năng du_lịch thuận_lợi phát_triển loại_hình du_lịch hấp_dẫn
+1,chính vì_vậy tập_đoàn hoa_sen lựa_chọn tỉnh làm điểm đầu_tư xây_dựng dự_án khu trung_tâm thương_mại dịch_vụ khách_sạn nhà_hàng tổ_chức sự_kiện hoa_sen yên_bái gọi tắt dự_án khu trung_tâm thương_mại khách_sạn hoa_sen yên_bái
+2,dự_án xây_dựng khu đất diện_tích 15 ha tổng vốn đầu_tư dự_kiến 1200 tỉ đồng
+3,chủ đầu_tư công_ty cổ_phần hoa_sen yên_bái kỳ_vọng dự_án “ đòn_bẩy ” giúp du_lịch yên_bái phát_triển mạnh_mẽ trong năm tới
+4,đồng_thời khu trung_tâm thương_mại khách_sạn tiêu_chuẩn quốc_tế quy_mô lớn cao nhất yên_bái tính đến thời_điểm hiện_tại
+5,ngày 195 vừa_qua dự_án chính_thức khởi_công phối_hợp giữa tập_đoàn hoa_sen ubnd tỉnh yên_bái
+6,nằm trung_tâm kinh_tế chính_trị văn_hóa tỉnh yên_bái khu trung_tâm thương_mại khách_sạn 4 sao hứa_hẹn một điểm nhấn quan_trọng tpyên_bái mang đến dịch_vụ tiện_ích nhất du_khách đặt_chân đến mảnh đất vùng tây_bắc
+7,ông lê_phước_vũ chủ_tịch hđqt tập_đoàn hoa_sen biết đơn_vị xác_định giá_trị văn_hóa phong_phú di_tích lịch_sử cách_mạng hệ_thống đình đền chùa gắn liền lịch_sử dựng nước giữ nước dân_tộc nền_tảng khu trung_tâm thương_mại khách_sạn hoa_sen yên_bái thu_hút khách du_lịch
+8,“ yên_bái còn sở_hữu danh_thắng cấp quốc_gia ruộng bậc_thang mù_cang_chải thác_bà khu du_lịch suối_giàng … đặc_biệt đầm vân_hội xem vùng_đất tâm_linh cội_nguồn dân_tộc ghi dấu huyền tích mẫu âu_cơ đặt bước chân đầu_tiên trong cuộc thiên_di đưa 50 người con non sinh_cơ lập_nghiệp mở_mang giang_sơn bờ_cõi một trong yếu_tố tiên_quyết giúp du_lịch tỉnh phát_triển mạnh trong năm tới ” ông vũ khẳng_định
+9,vị_trí đắc_địa thiết_kế đẳng_cấp tọa_lạc khu_vực sầm_uất nhất tpyên_bái gần_kề trục quốc_lộ 37 dự_án khu trung_tâm thương_mại khách_sạn hoa_sen yên_bái tạo liên_kết dễ_dàng khu_vực dân_cư lân_cận thuận_tiện trong giao_thương thu_hút khách du_lịch
+10,hơn_nữa tuyến cao_tốc nội_bài lào_cai đưa khai_thác cuối tháng 92014 góp_phần kết_nối yên_bái hà_nội địa_phương khác thúc_đẩy hoạt_động du_lịch tham_quan phát_triển mạnh_mẽ hơn
+11,chủ đầu_tư dự_án bao_gồm 1 tòa nhà 15 tầng tổng diện_tích sàn 74410 m² xây_dựng thành khu phức_hợp trung_tâm thương_mại trung_tâm hội_nghị khách_sạn 4 sao nhà_hàng tiệc cưới quán cà_phê căn_hộ cao_cấp
+12,tập_đoàn hoa_sen lựa_chọn vẻ đẹp đặc_trưng núi_rừng tây_bắc biểu_tượng thương_hiệu hoa_sen làm điểm nhấn chủ_đạo thiết_kế dự_án
+13,đặc_biệt phần kết_cấu chung tòa nhà xây_dựng lối kiến_trúc “ bậc_thang ” lấy cảm_hứng hình_ảnh cánh đồng_ruộng bậc_thang mù cang_chải
+14,theo_dõi bản phối_cảnh dự_án người dân ở tpyên_bái nói “ nhìn toàn_cảnh dự_án vững_chắc kiên_cố kiến_trúc bậc_thang mềm_mại thanh_thoát duyên_dáng biểu_tượng hoa_sen tạo một tổng_thể kiến_trúc hiện_đại tinh_tế đẳng_cấp ”
+15,giai_đoạn 1 dự_án hạng_mục công_trình khách_sạn 4 sao thấp tầng trung_tâm thương_mại trung_tâm tổ_chức hội_nghị nhà_hàng tiệc cưới quán cà_phê bãi đỗ xe đa chức_năng chính_thức hoạt_động cuối tháng 62017
+16,giai_đoạn 2 kéo_dài tháng 62019 62020 hoàn_thiện hạng_mục còn dự_án gồm khách_sạn 4 sao cao_tầng mở_rộng khách_sạn 4 sao thấp tầng căn_hộ

@@ -1,4 +1,4 @@
 idx, sentence
-0,sáng 2/6  công_an tp biên_hòa  tỉnh đồng_nai  đang xác_minh  điều_tra làm rõ vụ nhóm thanh_niên vác mã_tấu  ném bom xăng tại khu_phố 2  phường tam_hòa  tp biên_hòa  
-1,theo những người chứng_kiến vụ_việc  vào khoảng 23 h đêm 1/6 khi mọi người đang ngồi chơi trước nhà thì bất_ngờ một nhóm hàng chục thanh_thiếu_niên chạy xe_máy náo_loạn  hò_hét quậy_phá tới 
-2,nhóm thanh_niên dùng hung_khí đập_vỡ kính_cửa chính của một nhà dân rồi vung mã_tấu  dao và ném 3 quả bom xăng vào 3 đầu hẻm rồi kéo nhau hò_hét lao đi 
+0,sáng 2/6 công_an tp biên_hòa tỉnh đồng_nai xác_minh điều_tra làm rõ vụ nhóm thanh_niên vác mã_tấu ném bom xăng khu_phố 2 phường tam_hòa tp biên_hòa
+1,người chứng_kiến vụ_việc khoảng 23 h đêm 1/6 mọi người ngồi chơi nhà bất_ngờ một nhóm hàng chục thanh_thiếu_niên chạy xe_máy náo_loạn hò_hét quậy_phá tới
+2,nhóm thanh_niên dùng hung_khí đập_vỡ kính_cửa chính một nhà dân vung mã_tấu dao ném 3 quả bom xăng 3 đầu hẻm kéo nhau hò_hét lao đi

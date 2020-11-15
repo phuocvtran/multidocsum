@@ -1,12 +1,12 @@
 idx, sentence
-0,trước đó  ngày 20/5  công_an huyện đắk_hà_nhận được đơn trình_báo của chị lê_thị_th  sn 1998  về việc bị cưỡng_hiếp ngay giữ ban_ngày 
-1,theo đó  chiều 17/5  chị bị một thanh_niên khống_chế  thực_hiện hành_vi đồi_bại với mình tại khu_vực vắng người 
-2,nhận_định đây là vụ_án nghiêm_trọng  công_an huyện đắk_hà và đưa anh vào tầm ngắm bởi có nhiều nhận_dạng giống với những gì chị th đã thông_tin 
-3,anh đưa mời về trụ_sở công_an làm_việc 
-4,lúc đầu đối_tượng không thừa_nhận  liên_tục khẳng_định mình bị oan 
-5,tuy_nhiên  trước những câu hỏi đánh trúng vào “ tim_đen ”  gã đành cúi đầu thừa_nhận mình là kẻ đã xâm_hại nạn_nhân 
-6,một điều_tra_viên cho biết thêm  anh là con_gái của một giáo_viên tại trường thcs_mdc
-7,còn bố cũng là bảo_vệ tại ngôi trường này 
-8,gia_đình của anh sinh_sống tại một khu_tập_thể cũ của trường  cách khá xa khu dân_cư 
-9,riêng nạn_nhân th  có hoàn_cảnh khá khó_khăn 
-10,từ ngày xảy ra vụ_việc đến nay  em tỏ ra rất hoang_mang  lo_lắng 
+0,ngày 20/5 công_an huyện đắk_hà_nhận đơn trình_báo chị lê_thị_th sn 1998 về cưỡng_hiếp giữ ban_ngày
+1,chiều 17/5 chị một thanh_niên khống_chế thực_hiện hành_vi đồi_bại mình khu_vực vắng người
+2,nhận_định vụ_án nghiêm_trọng công_an huyện đắk_hà đưa anh tầm ngắm nhận_dạng giống chị th thông_tin
+3,anh đưa mời về trụ_sở công_an làm_việc
+4,đầu đối_tượng thừa_nhận liên_tục khẳng_định mình oan
+5,tuy_nhiên câu hỏi đánh trúng “ tim_đen ” gã đành cúi đầu thừa_nhận mình kẻ xâm_hại nạn_nhân
+6,một điều_tra_viên biết thêm anh con_gái một giáo_viên trường thcs_mdc
+7,còn bố bảo_vệ ngôi trường
+8,gia_đình anh sinh_sống một khu_tập_thể cũ trường cách khá xa khu dân_cư
+9,riêng nạn_nhân th hoàn_cảnh khá khó_khăn
+10,ngày xảy vụ_việc đến nay em tỏ hoang_mang lo_lắng

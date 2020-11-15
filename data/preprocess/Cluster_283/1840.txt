@@ -1,5 +1,5 @@
 idx, sentence
-0,xác_định đây là đường_dây có tổ_chức  thủ_đoạn tinh_vi  phức_tạp do đối_tượng nữ cầm_đầu  ban chuyên_án đã triển_khai liên_hoàn nhiều biện_pháp nghiệp_vụ  tính_toán kỹ_lưỡng 
-1,vào lúc 16 h00 ngày 30/5  ban chuyên_án đã tổ_chức bắt quả_tang đối_tượng hoàng_thị_phượng  trú tại xã hồng_phong  huyện cao_lộc  về hành_vi mua_bán  vận_chuyển 2 kg ma_túy đá 
-2,với các chứng_cứ thu được  ngay trong ngày  ban chuyên_án đã thi_hành lệnh bắt  khám_xét khẩn_cấp nơi ở đối_với hai đối_tượng hoàng_thị_kim_cúc  trú huyện cao_lộc  và hoàng_thị_khuyên  trú huyện văn_lãng  
-3,tang_vật thu_giữ gồm 700 triệu đồng  5 cuốn sổ tiết_kiệm tổng_số tiền gần 3 tỷ đồng và nhiều tài_liệu liên_quan 
+0,xác_định đường_dây tổ_chức thủ_đoạn tinh_vi phức_tạp đối_tượng nữ cầm_đầu ban chuyên_án triển_khai liên_hoàn biện_pháp nghiệp_vụ tính_toán kỹ_lưỡng
+1,16 h00 ngày 30/5 ban chuyên_án tổ_chức bắt quả_tang đối_tượng hoàng_thị_phượng trú xã hồng_phong huyện cao_lộc về hành_vi mua_bán vận_chuyển 2 kg ma_túy đá
+2,chứng_cứ thu trong ngày ban chuyên_án thi_hành lệnh bắt khám_xét khẩn_cấp ở đối_với hai đối_tượng hoàng_thị_kim_cúc trú huyện cao_lộc hoàng_thị_khuyên trú huyện văn_lãng
+3,tang_vật thu_giữ gồm 700 triệu đồng 5 cuốn sổ tiết_kiệm tổng_số tiền gần 3 tỷ đồng tài_liệu liên_quan

@@ -1,6 +1,6 @@
 idx, sentence
-0,theo thông_tin ban_đầu  vào khoảng 10 giờ 30 ngày 36  tài_xế  chưa rõ danh_tính  điều_khiển xe container bs 51c  25965  chở theo cuộn sắt nặng hàng chục tấn  lưu_thông trên đường huỳnh_tấn_phát  hướng từ q 7 về hnhà_bè  tphcm  
-1,khi đến giao_lộ huỳnh_tấn_phát  gò_ô_môi  q 7  tphcm   tài_xế xe container thắng gấp để tránh một người điều_khiển xe_máy băng ngang qua đường khiến cuộn sắt dồn tới trước làm đứt dây_chằng  đè nát cabin rồi rớt xuống_đường 
-2,vụ_việc khiến nhiều người đi đường một_phen hoảng_hốt 
-3,tài_xế may_mắn không bị_thương 
-4,nhận tin báo  lực_lượng chức_năng có_mặt khám_nghiệm hiện_trường  điều_tiết giao_thông 
+0,thông_tin ban_đầu khoảng 10 giờ 30 ngày 36 tài_xế rõ danh_tính điều_khiển xe container bs 51c 25965 chở cuộn sắt nặng hàng chục tấn lưu_thông đường huỳnh_tấn_phát hướng q 7 về hnhà_bè tphcm
+1,đến giao_lộ huỳnh_tấn_phát gò_ô_môi q 7 tphcm tài_xế xe container thắng gấp tránh một người điều_khiển xe_máy băng ngang đường khiến cuộn sắt dồn tới làm đứt dây_chằng đè nát cabin rớt xuống_đường
+2,vụ_việc khiến người đi đường một_phen hoảng_hốt
+3,tài_xế may_mắn bị_thương
+4,nhận tin báo lực_lượng chức_năng có_mặt khám_nghiệm hiện_trường điều_tiết giao_thông

@@ -1,6 +1,6 @@
 idx, sentence
-0,khoảng 17 giờ ngày 31/5  tại ngã 3_xã_đàn – phạm_ngọc_thạch  đống_đa  hà_nội  đã xảy ra một vụ tai_nạn giao_thông nghiêm_trọng  chiếc ô_tô_hiệu toyota_fortuner mang bks 30p – 2153 đang lưu_thông theo hướng đại_cồ việt – xã_đàn  đoạn ngang qua số nhà 176 xã_đàn  bất_ngờ mất lái đâm vào đuôi một xe_máy đang chạy giữa đường 
-1,sau đó  chiếc fortuner còn đâm liên_tiếp vào 8 xe_máy khác đang lưu_thông cùng chiều trước khi dừng lại dưới chân cầu_vượt bộ_hành 
-2,nhớ lại giây_phút kinh_hoàng khi chiếc xe ô_tô gây ra vụ tai_nạn  anh phùng_minh_đức  24 tuổi  xa_la  hà_đông  cho biết  “ lúc xảy ra vụ tai_nạn tôi đang trên đường đi làm về  đến đoạn ngang qua số nhà 176 xã_đàn thì bất_ngờ bị chiếc xe ô_tô húc từ phía sau khiến tôi ngã lăn ra đường  ” “ tôi may_mắn chỉ xây_xát nhẹ ở hai tay  nhưng còn rất nhiều người khác bị_thương nằm la_liệt khắp đường  có vài người bị_thương nặng đã phải chuyển đi bệnh_viện cấp_cứu  ” anh đức cho biết thêm 
-3,tại hiện_trường  chiếc xe ôtô fortuner bị nổ lốp sau  phần cản trước và đèn_pha bị vỡ  9 chiếc xe_máy bị hư_hỏng  biến_dạng nằm la_liệt dọc tuyến đường xã_đàn 
-4,trong đó có một xe_máy nằm trọn trong gầm xe ôtô 
+0,khoảng 17 giờ ngày 31/5 ngã 3_xã_đàn – phạm_ngọc_thạch đống_đa hà_nội xảy một vụ tai_nạn giao_thông nghiêm_trọng ô_tô_hiệu toyota_fortuner mang bks 30p – 2153 lưu_thông hướng đại_cồ việt – xã_đàn đoạn ngang số nhà 176 xã_đàn bất_ngờ mất lái đâm đuôi một xe_máy chạy giữa đường
+1,fortuner còn đâm liên_tiếp 8 xe_máy khác lưu_thông chiều dừng chân cầu_vượt bộ_hành
+2,nhớ giây_phút kinh_hoàng xe ô_tô gây vụ tai_nạn anh phùng_minh_đức 24 tuổi xa_la hà_đông biết “ xảy vụ tai_nạn tôi đường đi làm về đến đoạn ngang số nhà 176 xã_đàn bất_ngờ xe ô_tô húc phía khiến tôi ngã lăn đường ” “ tôi may_mắn xây_xát nhẹ ở hai tay còn người khác bị_thương nằm la_liệt khắp đường vài người bị_thương nặng chuyển đi bệnh_viện cấp_cứu ” anh đức biết thêm
+3,hiện_trường xe ôtô fortuner nổ lốp phần cản đèn_pha vỡ 9 xe_máy hư_hỏng biến_dạng nằm la_liệt dọc tuyến đường xã_đàn
+4,trong một xe_máy nằm trọn trong gầm xe ôtô

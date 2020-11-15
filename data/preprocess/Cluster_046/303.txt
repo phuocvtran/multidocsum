@@ -1,15 +1,15 @@
 idx, sentence
-0,đây là lần đầu_tiên ngư_dân khánh_hòa câu được cá_ngừ vây xanh  cũng là con cá_ngừ đại_dương lớn nhất mà ngư_dân khánh_hòa từng bắt được 
-1,ông huỳnh_phi_minh cho biết  tàu kh 90297 ts công_suất 295 cv  ra khơi câu cá_ngừ đại_dương từ ngày 19/3 âm_lịch  25/4   trên tàu có 6 thuyền_viên 
-2,rạng sáng ngày 15/5  tàu đã câu được con cá này ở vùng_biển phía đông quần_đảo hoàng_sa 
-3,lúc đó  tàu đã câu được 26 con cá_ngừ đại_dương  tổng trọng_lượng khoảng trên 1 tấn 
-4,ông minh và thuyền_viên đều chưa từng thấy cá_ngừ vây xanh nhưng đã nghe nói đến loài cá này  nên khi bắt được con cá khủng đã báo về bờ và lập_tức cho tàu quay về bờ 
-5,theo anh huỳnh_văn_ty  anh và 3 thuyền_viên tàu kh 90297 ts phải mất gần 5 giờ  từ 2 giờ sáng đến 7 giờ sáng mới đưa được con cá lên tàu 
-6,trọng_lượng con cá là 307 kg 
-7,theo ngư_dân  nếu tính cả ruột và mang cá đã bị móc bỏ  vây đuôi đã bị chặt  con cá nặng gần 350 kg 
-8,bà nguyễn_thị_thu_thanh  gđ_cty_tnhh_hải_sản bền_vững cho biết  các chuyên_gia thu_mua cá_ngừ đại_dương của nhật đã xác_nhận  đây đúng là một con cá_ngừ vây xanh 
-9,tuy_nhiên  có_lẽ do ngư_dân thao_tác bảo_quản chưa đúng và năng_lực bảo_quản của tàu chưa tốt  nên chỉ có chất_lượng phần đuôi cá còn tương_đối tốt  khoảng 2/3 còn lại đã bị giảm chất_lượng 
-10,nếu chất_lượng cá tốt  giá_mua tại cảng có_thể tới 670000 đ / kg  30 usd / kg   nhưng do nguyên_nhân đã nêu trên  cty_hải_sản bền_vững mua lại con cá với giá 180000 đ / kg  gấp 2 lần giá_mua cá_ngừ đại_dương loại 1 hiện_nay và ông minh chấp_thuận giá này 
-11,cá_ngừ vây xanh được tìm thấy chủ_yếu ở thái_bình_dương và ấn_độ_dương  cân nặng trung_bình khoảng 150 kg  có_thể sống đến 40 năm và lặn ở độ sâu hơn 1200 m  cá_ngừ vây xanh thái_bình_dương to nhất có_thể nặng 450 kg 
-12,đây là loài cá quý để chế_biến món sushi và sashimi ở nhật_bản  80  lượng cá này được người nhật tiêu_thụ 
-13,đầu năm 2016  tại chợ cá tsukiji  tokyo  nhật   một con cá_ngừ vây xanh nặng gần 200 kg đã được mua với giá 117000 usd  khoảng 27 tỉ đồng  
+0,lần đầu_tiên ngư_dân khánh_hòa câu cá_ngừ vây xanh con cá_ngừ đại_dương lớn nhất ngư_dân khánh_hòa bắt
+1,ông huỳnh_phi_minh biết tàu kh 90297 ts công_suất 295 cv khơi câu cá_ngừ đại_dương ngày 19/3 âm_lịch 25/4 tàu 6 thuyền_viên
+2,rạng sáng ngày 15/5 tàu câu con cá ở vùng_biển phía đông quần_đảo hoàng_sa
+3,tàu câu 26 con cá_ngừ đại_dương tổng trọng_lượng khoảng 1 tấn
+4,ông minh thuyền_viên thấy cá_ngừ vây xanh nghe nói đến loài cá bắt con cá khủng báo về bờ lập_tức tàu quay về bờ
+5,anh huỳnh_văn_ty anh 3 thuyền_viên tàu kh 90297 ts mất gần 5 giờ 2 giờ sáng đến 7 giờ sáng mới đưa con cá tàu
+6,trọng_lượng con cá 307 kg
+7,ngư_dân tính ruột mang cá móc bỏ vây đuôi chặt con cá nặng gần 350 kg
+8,bà nguyễn_thị_thu_thanh gđ_cty_tnhh_hải_sản bền_vững biết chuyên_gia thu_mua cá_ngừ đại_dương nhật xác_nhận đúng một con cá_ngừ vây xanh
+9,tuy_nhiên có_lẽ ngư_dân thao_tác bảo_quản đúng năng_lực bảo_quản tàu tốt chất_lượng phần đuôi cá còn tương_đối tốt khoảng 2/3 còn giảm chất_lượng
+10,chất_lượng cá tốt giá_mua cảng tới 670000 đ / kg 30 usd / kg nguyên_nhân nêu cty_hải_sản bền_vững mua con cá giá 180000 đ / kg gấp 2 lần giá_mua cá_ngừ đại_dương loại 1 hiện_nay ông minh chấp_thuận giá
+11,cá_ngừ vây xanh tìm thấy chủ_yếu ở thái_bình_dương ấn_độ_dương cân nặng trung_bình khoảng 150 kg sống đến 40 năm lặn ở độ sâu hơn 1200 m cá_ngừ vây xanh thái_bình_dương to nhất nặng 450 kg
+12,loài cá quý chế_biến món sushi sashimi ở nhật_bản 80 lượng cá người nhật tiêu_thụ
+13,đầu năm 2016 chợ cá tsukiji tokyo nhật một con cá_ngừ vây xanh nặng gần 200 kg mua giá 117000 usd khoảng 27 tỉ đồng

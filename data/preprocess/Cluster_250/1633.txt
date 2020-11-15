@@ -1,8 +1,8 @@
 idx, sentence
-0,2015 là năm thứ 3 liên_tiếp đầu_tư trực_tiếp từ nhật_bản vào 10 nước asean vượt qua đầu từ vào trung_quốc và hong_kong  theo số_liệu của tổ_chức xúc_tiến thương_mại nhật_bản  jetro  
-1,tốc_độ đầu_tư của nhật vào asean đang tăng  đầu_tư của xứ_sở mặt_trời mọc vào các nước asean tăng gấp 3 lần từ 5 năm trước lên 201 nghìn tỷ yên  1089 tỷ usd  tính đến cuối năm 2015  theo số_liệu của ngân_hàng trung_ương nhật_bản  boj  
-2,tăng_trưởng đầu_tư của nhật_bản vào trung_quốc đang chậm lại sau khi các cuộc phản_đối tại trung_quốc bùng lên trong năm 2012 sau tranh_chấp lãnh_thổ tại biển hoa_đông  buộc các công_ty nhật_bản phải đa_dạng_hóa rủi_ro đầu_tư 
-3,trong bối_cảnh kinh_tế nhật_bản tiếp_tục đình_trệ và dân_số ngày_một già_hóa và giảm_sút  các công_ty nước này đang tìm_kiếm cơ_hội tăng_trưởng tại các nước khác tại châu_á 
-4,ma_tieying  nhà kinh_tế học tại dbs_group_holdings ở singapore  cho rằng  các thị_trường asean đang rất hấp_dẫn xét từ quan_điểm của nhật_bản 
-5,nhiều nền kinh_tế asean có tiềm_năng tăng_trưởng khi thu_nhập đầu người còn thấp và dân_số trẻ 
-6,kết_quả khảo_sát về ý_định đầu_tư năm 2015 cho thấy  trong số các doanh_nghiệp nhật_bản trả_lời  48  cho biết họ có ý_định tăng_cường hoặc mở_rộng hoạt_động tại trung_quốc so với 73  năm 2011 
+0,2015 năm thứ 3 liên_tiếp đầu_tư trực_tiếp nhật_bản 10 nước asean vượt đầu trung_quốc hong_kong số_liệu tổ_chức xúc_tiến thương_mại nhật_bản jetro
+1,tốc_độ đầu_tư nhật asean tăng đầu_tư xứ_sở mặt_trời mọc nước asean tăng gấp 3 lần 5 năm 201 nghìn tỷ yên 1089 tỷ usd tính đến cuối năm 2015 số_liệu ngân_hàng trung_ương nhật_bản boj
+2,tăng_trưởng đầu_tư nhật_bản trung_quốc chậm cuộc phản_đối trung_quốc bùng trong năm 2012 tranh_chấp lãnh_thổ biển hoa_đông buộc công_ty nhật_bản đa_dạng_hóa rủi_ro đầu_tư
+3,trong bối_cảnh kinh_tế nhật_bản tiếp_tục đình_trệ dân_số ngày_một già_hóa giảm_sút công_ty nước tìm_kiếm cơ_hội tăng_trưởng nước khác châu_á
+4,ma_tieying nhà kinh_tế học dbs_group_holdings ở singapore thị_trường asean hấp_dẫn xét quan_điểm nhật_bản
+5,nền kinh_tế asean tiềm_năng tăng_trưởng thu_nhập đầu người còn thấp dân_số trẻ
+6,kết_quả khảo_sát về ý_định đầu_tư năm 2015 thấy trong số doanh_nghiệp nhật_bản trả_lời 48 biết họ ý_định tăng_cường hoặc mở_rộng hoạt_động trung_quốc 73 năm 2011

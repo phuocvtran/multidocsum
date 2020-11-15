@@ -1,16 +1,16 @@
 idx, sentence
-0,sáng ngày 20/5  tại trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người  được đặt tại bv việt_đức  đã tổ_chức cuộc gặp_gỡ anh trần_nguyễn_an_khương  28 tuổi  người vừa kết_thúc hành_trình xuyên việt từ cà_mau quê mình ra đến hà_nội chiều_qua  ngày 19/5 
-1,anh khương cho biết  mục_đích cuộc hành_trình dài gần 2000 km bằng xe_đạp của mình nhằm mục_đích giúp cộng cồng thay_đổi nhận_thức và hiểu được ý_nghĩa cũng như tâm quan_trọng của việc tham_gia hiến tạng để cứu người khác 
-2,anh khương cho biết  câu_chuyện khiến anh nảy ra ý_tưởng này bắt_đầu từ năm 2013 khi anh khương có một người bạn bị suy thận rất nặng rồi mất lúc 24 tuổi 
-3,khi đó  với căn_bệnh suy thận của bạn anh  các bác_sĩ chỉ_định phải được thay ghép thận  mới có cơ_hội sống 
-4,tuy_nhiên  vì hoàn_cảnh gia_đình khó_khăn  không đủ tiềm_lực về tài_chính 
-5,hơn_thế nữa là không có nguồn tạng để ghép nên bạn anh khương đã phải ra đi mãi_mãi 
-6,từ đó  anh khương đã nảy ra ý_định  “ mình phải làm gì đó ” để tuyên_truyền cho người dân hiểu về mục_đích và ý_nghĩa nhân_văn của việc hiến mô tạng  để nhiều người không phải chết vì thiếu nguồn tạng như bạn mình 
-7,nghĩ là làm ngay  anh khương đã nói về ý_nguyện của mình với gia_đình và những người_thân  được sự đồng_ý của mọi người  anh khương đã đến trường đại_học y_dược tp hồ_chí_minh đăng_ký hiến xác  đến bệnh_viện chợ_rẫy đăng_ký hiến toàn_bộ tạng các loại 
-8,và quyết_định sẽ thực_hiện một hành_trình đạp xe xuyên việt để tranh_thủ tuyên_truyền mọi người hiến tạng 
-9,được biết  hành_trang lên_đường của chàng thanh_niên 28 tuổi  ngoài “ bạn đường ” là chiếc xe_đạp có giá_trị 23 triệu đồng  trên ba_lô và túi đựng đồ của anh còn ghi rất rõ những dòng chữ tuyên_truyền hiến tạng rất mộc_mạc  đơn_giản mà thiết_thực  dễ hiểu như  “ cho đi là còn mãi ”  “ bạn có biết bạn có_thể cứu người khác khi bạn ra đi ”  … không_chỉ có vậy  khi quyết_định hành_trình này số tiền anh mang theo bên mình chỉ có 5 triệu đồng  nhưng trong cả quá_trình đó anh chỉ_tiêu hết 37 triệu đồng với bình_quân 100000 đồng / ngày 
-10,kể về hành_trình tuyên_truyền người dân hiến mô  tạng cứu người  anh khương cho biết  không ít người hiểu ra vấn_đề và hứa sẽ hiến mô tạng vào thời_gian thích_hợp nhất  nhưng cũng không ít người cho rằng  hành_động của anh là “ điên_khùng ” 
-11,với những người như vậy  anh vẫn nở một nụ cười hiền và hy_vọng một ngày nào đó họ sẽ nhận ra ý_nghĩa việc_làm cao_cả này 
-12,được biết  mới_đây nhất ngoài việc đã hiến xác và đăng_ký hiến toàn_bộ tạng của mình  thì anh khương cũng quyết_định hiến tạng ngay khi mình còn sống 
-13,trước hành_động đầy ý_nghĩa và nhân_văn của anh khương  gsts_trịnh_hồng_sơn  giám_đốc trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người cho hay ông rất cảm_động trước việc_làm đầy ý_nghĩa của khương 
-14,đồng_thời  gs sơn cũng đề_xuất  nếu anh khương đồng_ý  trung_tâm sẽ ký ngay với anh một hợp_đồng hợp_tác làm_việc lâu_dài để có_thể tạo điều_kiện  phát_huy_hiệu_quả hơn cho khương trong sự_nghiệp tuyên_truyền hiến tạng  hiến mô sắp tới 
+0,sáng ngày 20/5 trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người đặt bv việt_đức tổ_chức cuộc gặp_gỡ anh trần_nguyễn_an_khương 28 tuổi người kết_thúc hành_trình xuyên việt cà_mau quê mình đến hà_nội chiều_qua ngày 19/5
+1,anh khương biết mục_đích cuộc hành_trình dài gần 2000 km bằng xe_đạp mình nhằm mục_đích giúp cộng cồng thay_đổi nhận_thức hiểu ý_nghĩa tâm quan_trọng tham_gia hiến tạng cứu người khác
+2,anh khương biết câu_chuyện khiến anh nảy ý_tưởng bắt_đầu năm 2013 anh khương một người bạn suy thận nặng mất 24 tuổi
+3,căn_bệnh suy thận bạn anh bác_sĩ chỉ_định thay ghép thận mới cơ_hội sống
+4,tuy_nhiên hoàn_cảnh gia_đình khó_khăn đủ tiềm_lực về tài_chính
+5,hơn_thế nguồn tạng ghép bạn anh khương đi mãi_mãi
+6,anh khương nảy ý_định “ mình làm ” tuyên_truyền người dân hiểu về mục_đích ý_nghĩa nhân_văn hiến mô tạng người chết thiếu nguồn tạng bạn mình
+7,nghĩ làm anh khương nói về ý_nguyện mình gia_đình người_thân đồng_ý mọi người anh khương đến trường đại_học y_dược tp hồ_chí_minh đăng_ký hiến xác đến bệnh_viện chợ_rẫy đăng_ký hiến toàn_bộ tạng loại
+8,quyết_định thực_hiện một hành_trình đạp xe xuyên việt tranh_thủ tuyên_truyền mọi người hiến tạng
+9,biết hành_trang lên_đường chàng thanh_niên 28 tuổi ngoài “ bạn đường ” xe_đạp giá_trị 23 triệu đồng ba_lô túi đựng đồ anh còn ghi rõ dòng chữ tuyên_truyền hiến tạng mộc_mạc đơn_giản thiết_thực dễ hiểu “ đi còn mãi ” “ bạn biết bạn cứu người khác bạn đi ” … không_chỉ quyết_định hành_trình số tiền anh mang bên mình 5 triệu đồng trong quá_trình anh chỉ_tiêu hết 37 triệu đồng bình_quân 100000 đồng / ngày
+10,kể về hành_trình tuyên_truyền người dân hiến mô tạng cứu người anh khương biết ít người hiểu vấn_đề hứa hiến mô tạng thời_gian thích_hợp nhất ít người hành_động anh “ điên_khùng ”
+11,người anh nở một nụ cười hiền hy_vọng một ngày nào họ nhận ý_nghĩa việc_làm cao_cả
+12,biết mới_đây nhất ngoài hiến xác đăng_ký hiến toàn_bộ tạng mình anh khương quyết_định hiến tạng mình còn sống
+13,hành_động đầy ý_nghĩa nhân_văn anh khương gsts_trịnh_hồng_sơn giám_đốc trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người hay ông cảm_động việc_làm đầy ý_nghĩa khương
+14,đồng_thời gs sơn đề_xuất anh khương đồng_ý trung_tâm ký anh một hợp_đồng hợp_tác làm_việc lâu_dài tạo điều_kiện phát_huy_hiệu_quả hơn khương trong sự_nghiệp tuyên_truyền hiến tạng hiến mô sắp tới

@@ -1,9 +1,9 @@
 idx, sentence
-0,vụ_việc này xảy ra vào chiều qua 18/5  theo giờ_địa_phương  tại một công_viên ở thị_trấn blyth  hạt northumberland  anh  
-1,những đứa trẻ đang chơi_đùa thì bị con chó dữ bất_ngờ tấn_công 
-2,một người chứng_kiến toàn_bộ vụ_việc miêu_tả những gì diễn ra giống như như  một vụ khủng_bố   những đứa trẻ nằm la_liệt trên bãi cỏ để chờ đội y_tế 
-3,có tộng cộng 14 đứa trẻ bị_thương  9 bé phải nhập_viện nhưng may_mắn tất_cả đều bị_thương không quá nghiêm_trọng 
-4,cô sheryl_allison  có con gái demi_basnett 12 tuổi đang chơi tại hiện_trường thời_điểm đó cho hay   chú chó tấn_công khoảng 14 trẻ  nó giống như một cuộc tấn_công khủng_bố 
-5,các em nhỏ nằm la_liệt trên bãi cỏ 
-6,ơn chúa là con tôi không bị cắn  
-7,phải đến khi một ông bố phát_hiện vụ_việc và xông vào ghìm chú chó xuống cho đến khi cảnh_sát đến 
+0,vụ_việc xảy chiều 18/5 giờ_địa_phương một công_viên ở thị_trấn blyth hạt northumberland anh
+1,đứa trẻ chơi_đùa con chó dữ bất_ngờ tấn_công
+2,một người chứng_kiến toàn_bộ vụ_việc miêu_tả diễn giống một vụ khủng_bố đứa trẻ nằm la_liệt bãi cỏ chờ đội y_tế
+3,tộng cộng 14 đứa trẻ bị_thương 9 bé nhập_viện may_mắn tất_cả bị_thương quá nghiêm_trọng
+4,cô sheryl_allison con gái demi_basnett 12 tuổi chơi hiện_trường thời_điểm hay chú chó tấn_công khoảng 14 trẻ nó giống một cuộc tấn_công khủng_bố
+5,em nhỏ nằm la_liệt bãi cỏ
+6,ơn chúa con tôi cắn
+7,đến một ông bố phát_hiện vụ_việc xông ghìm chú chó xuống đến cảnh_sát đến

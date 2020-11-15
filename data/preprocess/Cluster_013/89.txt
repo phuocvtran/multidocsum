@@ -1,12 +1,12 @@
 idx, sentence
-0,đồng_chí phạm_minh_chính  ủy_viên bộ chính_trị  bí_thư trung_ương đảng  trưởng_ban tổ_chức trung_ương  trưởng_ban chỉ_đạo giải chủ_trì họp_báo 
-1,đây là năm đầu_tiên giải báo_chí toàn_quốc về xây_dựng đảng mang tên giải búa_liềm vàng chính_thức được phát_động đúng kỷ_niệm 126 năm ngày_sinh chủ_tịch hồ_chí_minh 
-2,giải được tổ_chức nhằm động_viên khuyến_khích có nhiều tác_phẩm báo_chí xuất_sắc về xây_dựng đảng  nâng cao chất_lượng tuyên tuyền công_tác xây_dựng đảng  góp_phần xây_dựng đảng trong_sạch vững_mạnh  ngăn_chặn đẩy_lùi sự suy_thoái về tư_tưởng chính_trị  đạo_đức  lối sống 
-3,đồng_thời nâng cao nhận_thức  bản_lĩnh  phẩm_chất của cán_bộ  đảng_viên  góp_phần tiếp_tục đổi_mới phương_thức lãnh_đạo  năng_lực cầm_quyền của đảng  tiếp_tục đổi_mới phương và chất_lượng hoạt_động của hệ_thống chính_trị 
-4,các tác_phẩm tham_dự giải được đăng_tải trên tất_cả các loại_hình báo in  phát_thanh  truyền_hình  báo_điện_tử và ảnh báo_chí 
-5,btc sẽ trao 3 giải a  7 giải b  12 giải c  25 giải khuyến_khích cho các tác_phẩm báo_chí xuất_sắc và 10 giải xuất_sắc cho các cơ_quan báo_chí tiêu_biểu 
-6,giải búa_liềm vàng được phát_động từ ngày 195 đến 31102016 và lễ trao giải sẽ được tổ_chức vào ngày 322017 
-7,lễ ký_kết phối_hợp hỗ_trợ nhân_dân do ảnh_hưởng của biến_đổi khí_hậu ngày 19/5  tại hà_nội đã diễn ra lễ ký_kết chương_trình phối_hợp hành_động hỗ_trợ nhân_dân khắc_phục thiệt_hại do ảnh_hưởng xâm_nhập mặn  hạn_hán  thủy_hải_sản chết hàng_loạt 
-8,đồng_chí nguyễn_thiện_nhân  ủy_viên bộ chính_trị  chủ_tịch ủy_ban trung_ương mặt_trận tổ_quốc_việt_nam chủ_trì buổi lễ 
-9,chương_trình hành_động hướng tới mục_tiêu  vận_động hỗ_trợ nước_ngọt sinh_hoạt cho khoảng 45000 hộ gia_đình khó_khăn nhất ảnh_hưởng do xâm_nhập mặn vùng đồng_bằng sông_cửu_long  hạn_hán ở tây_nguyên và nam_trung_bộ  mua thẻ bảo_hiểm y_tế cho khoảng 6000 hộ gia_đình khó_khăn nhất bị ảnh_hưởng do thủy_hải_sản chết ở các tỉnh miền_trung chưa có thẻ bảo_hiểm y_tế  hỗ_trợ bằng tiền  hiện_vật  giấy  bút   cho khoảng 10  gia_đình khó_khăn nhất có con đang học phổ_thông trong nước 
-10,phát_biểu chỉ_đạo tại lễ ký_kết chủ_tịch ubmttq việt_nam nguyễn_thiện_nhân nhấn_mạnh  mong_muốn của đảng  chính_phủ  nhân_dân là sự hỗ_trợ đến nhanh nhất với những người dân đang gặp khó_khăn 
+0,đồng_chí phạm_minh_chính ủy_viên bộ chính_trị bí_thư trung_ương đảng trưởng_ban tổ_chức trung_ương trưởng_ban chỉ_đạo giải chủ_trì họp_báo
+1,năm đầu_tiên giải báo_chí toàn_quốc về xây_dựng đảng mang tên giải búa_liềm vàng chính_thức phát_động đúng kỷ_niệm 126 năm ngày_sinh chủ_tịch hồ_chí_minh
+2,giải tổ_chức nhằm động_viên khuyến_khích tác_phẩm báo_chí xuất_sắc về xây_dựng đảng nâng cao chất_lượng tuyên tuyền công_tác xây_dựng đảng góp_phần xây_dựng đảng trong_sạch vững_mạnh ngăn_chặn đẩy_lùi suy_thoái về tư_tưởng chính_trị đạo_đức lối sống
+3,đồng_thời nâng cao nhận_thức bản_lĩnh phẩm_chất cán_bộ đảng_viên góp_phần tiếp_tục đổi_mới phương_thức lãnh_đạo năng_lực cầm_quyền đảng tiếp_tục đổi_mới phương chất_lượng hoạt_động hệ_thống chính_trị
+4,tác_phẩm tham_dự giải đăng_tải tất_cả loại_hình báo in phát_thanh truyền_hình báo_điện_tử ảnh báo_chí
+5,btc trao 3 giải a 7 giải b 12 giải c 25 giải khuyến_khích tác_phẩm báo_chí xuất_sắc 10 giải xuất_sắc cơ_quan báo_chí tiêu_biểu
+6,giải búa_liềm vàng phát_động ngày 195 đến 31102016 lễ trao giải tổ_chức ngày 322017
+7,lễ ký_kết phối_hợp hỗ_trợ nhân_dân ảnh_hưởng biến_đổi khí_hậu ngày 19/5 hà_nội diễn lễ ký_kết chương_trình phối_hợp hành_động hỗ_trợ nhân_dân khắc_phục thiệt_hại ảnh_hưởng xâm_nhập mặn hạn_hán thủy_hải_sản chết hàng_loạt
+8,đồng_chí nguyễn_thiện_nhân ủy_viên bộ chính_trị chủ_tịch ủy_ban trung_ương mặt_trận tổ_quốc_việt_nam chủ_trì buổi lễ
+9,chương_trình hành_động hướng tới mục_tiêu vận_động hỗ_trợ nước_ngọt sinh_hoạt khoảng 45000 hộ gia_đình khó_khăn nhất ảnh_hưởng xâm_nhập mặn vùng đồng_bằng sông_cửu_long hạn_hán ở tây_nguyên nam_trung_bộ mua thẻ bảo_hiểm y_tế khoảng 6000 hộ gia_đình khó_khăn nhất ảnh_hưởng thủy_hải_sản chết ở tỉnh miền_trung thẻ bảo_hiểm y_tế hỗ_trợ bằng tiền hiện_vật giấy bút khoảng 10 gia_đình khó_khăn nhất con học phổ_thông trong nước
+10,phát_biểu chỉ_đạo lễ ký_kết chủ_tịch ubmttq việt_nam nguyễn_thiện_nhân nhấn_mạnh mong_muốn đảng chính_phủ nhân_dân hỗ_trợ đến nhanh nhất người dân gặp khó_khăn

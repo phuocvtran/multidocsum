@@ -1,18 +1,18 @@
 idx, sentence
-0,sáng 1/6  một tài_khoản facebook nhận là người_nhà cháu nguyễn_thành_công  12 tuổi  quê thị_xã điện_bàn  tỉnh quảng_nam  sống ở tp hcm   nạn_nhân bị điện giật chết tối 31/5  đã bày_tỏ bức_xúc khi nhà_hàng ba_cơ_chối_bỏ trách_nhiệm 
-1,theo chủ_tài_khoản này  sau khi xảy ra sự_việc  chủ nhà_hàng ba_cơ  thôn hạ_thanh 1  xã tam_thanh  tp tam_kỳ  tỉnh quảng_nam  cố_tình đùn_đẩy trách_nhiệm 
-2,quá bức_xúc  gia_đình đã đưa thi_thể em công đến đặt trước nhà_hàng chờ cơ_quan_chức_năng giải_quyết 
-3,dòng trạng_thái trên thu_hút sự chú_ý của rất nhiều người  có hàng trăm lượt người chia_sẻ  bình_luận 
-4,đa_phần chỉ_trích chủ nhà_hàng 
-5,hiện_tại  dòng trạng_thái trên đã gỡ bỏ nhưng nhiều trang fanpage khác đã copy hình_ảnh và dòng trạng_thái này đăng lại 
-6,ông nguyễn_thanh_bình  chủ_tịch ubnd xã tam_thanh  xác_nhận thông_tin người_nhà nạn_nhân đã đưa thi_thể nạn_nhân đến trước nhà_hàng ba_cơ 
-7,theo ông bình  tối 31/5  do quá lo_sợ nên lúc đầu đại_diện nhà_hàng ba_cơ nói đường_dây_điện này họ không còn sử_dụng nữa 
-8,mãi đến khoảng khoảng 0 h ngày 1/6  khi phía điện_lực đưa ra hóa_đơn tiền điện vừa_mới nộp để chứng_minh nhà_hàng này vẫn dùng điện  chủ nhà_hàng mới thừa_nhận trách_nhiệm 
-9,theo người_nhà nạn_nhân  phải đến 1 giờ  gia_đình mới đưa bé công về nhà lo hậu_sự 
-10,“ gia_đình không đòi_hỏi tiền_bạc nhưng yêu_cầu người liên_quan phải có trách_nhiệm ” – ông huỳnh_tấn_vỹ  đại_diện gia_đình  cho hay 
-11,trao_đổi với báo_chí ngày 1/6  ông nguyễn_tuấn  đại_diện nhà_hàng ba_cơ  cho hay sự_việc đau_lòng này xảy ra ngoài ý_muốn 
-12,đại_diện nhà_hàng ba_cơ gửi lời xin_lỗi gia_đình cháu công và hứa sẽ bù_đắp những mất_mát của gia_đình 
-13,trong ngày 1/6  đại_diện nhà_hàng ba_cơ cũng có_mặt tại gia_đình nạn_nhân để thăm_viếng và gửi_lời xin_lỗi 
-14,ông nguyễn_thanh_bình cũng cho biết ông và nhiều cán_bộ xã trong ngày 1/6 đã đến động_viên  chia_sẻ nỗi đau cùng gia_đình 
-15,ban_đầu  ubnd xã hỗ_trợ 1 triệu đồng để gia_đình lo hậu_sự 
-16,trước đó  khoảng 17 h 30 phút ngày 31/5  em công đạp xe ra khu công_viên biển tam_thanh chơi thì vướng dây_điện của nhà_hàng ba_cơ và bị điện giật tử_vong 
+0,sáng 1/6 một tài_khoản facebook nhận người_nhà cháu nguyễn_thành_công 12 tuổi quê thị_xã điện_bàn tỉnh quảng_nam sống ở tp hcm nạn_nhân điện giật chết tối 31/5 bày_tỏ bức_xúc nhà_hàng ba_cơ_chối_bỏ trách_nhiệm
+1,chủ_tài_khoản xảy sự_việc chủ nhà_hàng ba_cơ thôn hạ_thanh 1 xã tam_thanh tp tam_kỳ tỉnh quảng_nam cố_tình đùn_đẩy trách_nhiệm
+2,quá bức_xúc gia_đình đưa thi_thể em công đến đặt nhà_hàng chờ cơ_quan_chức_năng giải_quyết
+3,dòng trạng_thái thu_hút chú_ý người hàng trăm lượt người chia_sẻ bình_luận
+4,đa_phần chỉ_trích chủ nhà_hàng
+5,hiện_tại dòng trạng_thái gỡ bỏ trang fanpage khác copy hình_ảnh dòng trạng_thái đăng
+6,ông nguyễn_thanh_bình chủ_tịch ubnd xã tam_thanh xác_nhận thông_tin người_nhà nạn_nhân đưa thi_thể nạn_nhân đến nhà_hàng ba_cơ
+7,ông bình tối 31/5 quá lo_sợ đầu đại_diện nhà_hàng ba_cơ nói đường_dây_điện họ còn sử_dụng
+8,mãi đến khoảng khoảng 0 h ngày 1/6 phía điện_lực đưa hóa_đơn tiền điện vừa_mới nộp chứng_minh nhà_hàng dùng điện chủ nhà_hàng mới thừa_nhận trách_nhiệm
+9,người_nhà nạn_nhân đến 1 giờ gia_đình mới đưa bé công về nhà lo hậu_sự
+10,“ gia_đình đòi_hỏi tiền_bạc yêu_cầu người liên_quan trách_nhiệm ” – ông huỳnh_tấn_vỹ đại_diện gia_đình hay
+11,trao_đổi báo_chí ngày 1/6 ông nguyễn_tuấn đại_diện nhà_hàng ba_cơ hay sự_việc đau_lòng xảy ngoài ý_muốn
+12,đại_diện nhà_hàng ba_cơ gửi lời xin_lỗi gia_đình cháu công hứa bù_đắp mất_mát gia_đình
+13,trong ngày 1/6 đại_diện nhà_hàng ba_cơ có_mặt gia_đình nạn_nhân thăm_viếng gửi_lời xin_lỗi
+14,ông nguyễn_thanh_bình biết ông cán_bộ xã trong ngày 1/6 đến động_viên chia_sẻ nỗi đau gia_đình
+15,ban_đầu ubnd xã hỗ_trợ 1 triệu đồng gia_đình lo hậu_sự
+16,khoảng 17 h 30 phút ngày 31/5 em công đạp xe khu công_viên biển tam_thanh chơi vướng dây_điện nhà_hàng ba_cơ điện giật tử_vong

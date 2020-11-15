@@ -1,8 +1,8 @@
 idx, sentence
-0,“ phi_hành_đoàn đã thông_báo với cơ_quan an_ninh sân_bay rằng một mảnh giấy có ghi chữ “ bom ” đã được phát_hiện trong phòng vệ_sinh trên máy_bay 
-1,máy_bay dự_kiến khởi_hành vào lúc 15 h50  theo giờ_địa_phương  từ istanbul tới kayseri  miền trung thổ nhĩ_kỳ  ”  thông_cáo của hãng hàng_không turkish_airlines cho biết 
-2,vào thời_điểm phát_hiện ra mảnh giấy có nội_dung đe_dọa đánh bom  máy_bay đang đỗ tại sân_bay quốc_tế ataturk  sân_bay chính của thành_phố istanbul  thổ nhĩ kỳ để chuẩn_bị cất_cánh 
-3,134 người bao_gồm cả hành_khách và phi_hành_đoàn đang có_mặt trên máy_bay lúc đó 
-4,tất_cả đã được các nhà_chức_trách yêu_cầu sơ_tán ngay_lập_tức 
-5,xe cứu_thương cùng lực_lượng cảnh_sát và các chuyên_gia về bom mìn đã được điều_động tới hiện_trường để điều_tra 
-6,tuy_nhiên  các nhà_chức_trách không phát_hiện thấy thiết_bị nổ nào sau đó 
+0,“ phi_hành_đoàn thông_báo cơ_quan an_ninh sân_bay một mảnh giấy ghi chữ “ bom ” phát_hiện trong phòng vệ_sinh máy_bay
+1,máy_bay dự_kiến khởi_hành 15 h50 giờ_địa_phương istanbul tới kayseri miền trung thổ nhĩ_kỳ ” thông_cáo hãng hàng_không turkish_airlines biết
+2,thời_điểm phát_hiện mảnh giấy nội_dung đe_dọa đánh bom máy_bay đỗ sân_bay quốc_tế ataturk sân_bay chính thành_phố istanbul thổ nhĩ kỳ chuẩn_bị cất_cánh
+3,134 người bao_gồm hành_khách phi_hành_đoàn có_mặt máy_bay
+4,tất_cả nhà_chức_trách yêu_cầu sơ_tán ngay_lập_tức
+5,xe cứu_thương lực_lượng cảnh_sát chuyên_gia về bom mìn điều_động tới hiện_trường điều_tra
+6,tuy_nhiên nhà_chức_trách phát_hiện thấy thiết_bị nổ nào

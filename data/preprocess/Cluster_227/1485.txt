@@ -1,7 +1,7 @@
 idx, sentence
-0,murray ra sân với áp_lực cực lớn khi tiếp niềm hy_vọng cuối_cùng của chủ nhà là richard_gasquet 
-1,dù_vậy bất_chấp sức_ép trên khắp các khán_đài  tay_vợt scotland vẫn chơi một trận tuyệt hay để hạ đối_thủ với tỷ_số chung_cuộc 31  57  76  60  62  
-2,những cú giao_bóng vẫn là điểm mạnh của murray trong trận đấu này khi anh tung ra đến 11 cú ace 
-3,hiệu_suất giao_bóng một ăn điểm của murray lên đến 74   anh mắc 40 lỗi đánh bóng hỏng nhưng bù lại là 62 cú winner mãn nhãn 
-4,ở trận đấu diễn ra ngay sau đó ít phút  nhà đkvđ_stan_wawrinka dễ_dàng khuất_phục albert_ramos_vinolas với tỷ_số 62  61  76 
-5,như_vậy trận bán_kết đầu_tiên sẽ là cuộc đụng_độ đáng chờ_đợi giữa murray và wawrinka 
+0,murray sân áp_lực cực lớn tiếp niềm hy_vọng cuối_cùng chủ nhà richard_gasquet
+1,dù_vậy bất_chấp sức_ép khắp khán_đài tay_vợt scotland chơi một trận tuyệt hay hạ đối_thủ tỷ_số chung_cuộc 31 57 76 60 62
+2,cú giao_bóng điểm mạnh murray trong trận đấu anh tung đến 11 cú ace
+3,hiệu_suất giao_bóng một ăn điểm murray đến 74 anh mắc 40 lỗi đánh bóng hỏng bù 62 cú winner mãn nhãn
+4,ở trận đấu diễn ít phút nhà đkvđ_stan_wawrinka dễ_dàng khuất_phục albert_ramos_vinolas tỷ_số 62 61 76
+5,như_vậy trận bán_kết đầu_tiên cuộc đụng_độ đáng chờ_đợi giữa murray wawrinka

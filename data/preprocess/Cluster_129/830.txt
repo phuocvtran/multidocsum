@@ -1,7 +1,7 @@
 idx, sentence
-0,khoảng 15 h ngày 23/5  xe_khách giường nằm của hãng phương_trang đã tự gây tai_nạn trên quốc_lộ 1  thuộc địa_phận xã an_hiệp  huyện châu_thành  sóc_trăng  
-1,vài hành_khách bị xây_xát  chấn_thương phần_mềm và mảnh kính vỡ cứa vào tay gây chảy máu 
-2,các nhân_chứng cho biết  trước khi tai_nạn xảy ra họ thấy xe phương_trang biển số 51b135  03 chạy từ hướng cần_thơ về sóc_trăng 
-3,đến gần cổng khu_công_nghiệp an_nghiệp  ôtô khách này bất_ngờ leo lên lề phải  tông gãy nhiều cây_trồng ven quốc_lộ 1 
-4,trước khi dừng lại  xe_khách đã húc gãy trụ điện trung thế cao khoảng 10 m  sau cú tông mạnh của ôtô  trụ bêtông gãy bị đẩy xa khoảng 3 m  hiện_trường cho thấy đầu xe_khách hư_hỏng nặng  kính vỡ nát 
-5,chốt canh của trạm cân trọng_tải xe trên quốc_lộ cũng bị ôtô tông và đẩy ra khỏi vị_trí hiện_hữu 
+0,khoảng 15 h ngày 23/5 xe_khách giường nằm hãng phương_trang tự gây tai_nạn quốc_lộ 1 thuộc địa_phận xã an_hiệp huyện châu_thành sóc_trăng
+1,vài hành_khách xây_xát chấn_thương phần_mềm mảnh kính vỡ cứa tay gây chảy máu
+2,nhân_chứng biết tai_nạn xảy họ thấy xe phương_trang biển số 51b135 03 chạy hướng cần_thơ về sóc_trăng
+3,đến gần cổng khu_công_nghiệp an_nghiệp ôtô khách bất_ngờ leo lề tông gãy cây_trồng ven quốc_lộ 1
+4,dừng xe_khách húc gãy trụ điện trung thế cao khoảng 10 m cú tông mạnh ôtô trụ bêtông gãy đẩy xa khoảng 3 m hiện_trường thấy đầu xe_khách hư_hỏng nặng kính vỡ nát
+5,chốt canh trạm cân trọng_tải xe quốc_lộ ôtô tông đẩy khỏi vị_trí hiện_hữu

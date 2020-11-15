@@ -1,19 +1,19 @@
 idx, sentence
-0,cách đây gần 1 tuần  hlv dunga đã triệu_tập kaka vào đội_tuyển brazil sau khi tiền_vệ của bayern_munich_douglas_costa đã lỡ_hẹn với copa_america 2016 vì dính chấn_thương bắp_đùi 
-1,tuy_nhiên tin xấu tiếp_tục ập đến với đội_tuyển xứ samba  sau khi kaka gặp vấn_đề về gân khoeo 
-2,do_vậy  ông dunga quyết_định thay_thế kaka bằng ganso  ngôi_sao của clb sao paulo 
-3,kaka đã ra sân từ ghế dự_bị trong trận giao_hữu mà brazil thắng panama 20 vào cuối tháng trước 
-4,cựu tiền_vệ của ac_milan đã thi_đấu 92 trận cho đội_tuyển quốc_gia và ghi 29 bàn thắng 
-5,“ kaka cảm_thấy khó_chịu khi tập_luyện 
-6,chúng_tôi đã kiểm_tra cho cậu ấy 
-7,theo kết_quả  kaka cần ngồi ngoài 20 ngày 
-8,cậu ấy sẽ rời đội_tuyển ”  gilmar_rinaldi  giám_đốc kĩ_thuật của đội_tuyển quốc_gia brazil cho biết 
-9,ông cũng xác_nhận cầu_thủ 26 tuổi ganso đã được lựa_chọn để thay_thế kaka  34 tuổi  
-10,kaka là cầu_thủ thứ 5 bị gạch tên khỏi danh_sách tham_dự copa_america 2016 của đội_tuyển brazil vì chấn_thương 
-11,với chấn_thương này  có_lẽ kaka hết cơ_hội dự một giải đấu lớn 
-12,ganso từng là một tài_năng đầy triển_vọng của bóng_đá brazil 
-13,anh đã cùng với neymar giúp santos giành nhiều danh_hiệu từ năm 2009 đến 2012 
-14,sau đó  ganso rời santos để chuyển tới sao paulo do bất_mãn về tiền_lương 
-15,tại_sao paulo  sự_nghiệp của ganso bị ảnh_hưởng do anh thường_xuyên dính chấn_thương 
-16,ganso đã không thi_đấu cho đội_tuyển brazil kể từ sau trận giao_hữu với bosniaherzegovina vào năm 2012 
-17,anh mới đá 8 trận cho đội_tuyển xứ samba 
+0,cách gần 1 tuần hlv dunga triệu_tập kaka đội_tuyển brazil tiền_vệ bayern_munich_douglas_costa lỡ_hẹn copa_america 2016 dính chấn_thương bắp_đùi
+1,tuy_nhiên tin xấu tiếp_tục ập đến đội_tuyển xứ samba kaka gặp vấn_đề về gân khoeo
+2,do_vậy ông dunga quyết_định thay_thế kaka bằng ganso ngôi_sao clb sao paulo
+3,kaka sân ghế dự_bị trong trận giao_hữu brazil thắng panama 20 cuối tháng
+4,cựu tiền_vệ ac_milan thi_đấu 92 trận đội_tuyển quốc_gia ghi 29 bàn thắng
+5,“ kaka cảm_thấy khó_chịu tập_luyện
+6,chúng_tôi kiểm_tra cậu ấy
+7,kết_quả kaka ngồi ngoài 20 ngày
+8,cậu ấy rời đội_tuyển ” gilmar_rinaldi giám_đốc kĩ_thuật đội_tuyển quốc_gia brazil biết
+9,ông xác_nhận cầu_thủ 26 tuổi ganso lựa_chọn thay_thế kaka 34 tuổi
+10,kaka cầu_thủ thứ 5 gạch tên khỏi danh_sách tham_dự copa_america 2016 đội_tuyển brazil chấn_thương
+11,chấn_thương có_lẽ kaka hết cơ_hội dự một giải đấu lớn
+12,ganso một tài_năng đầy triển_vọng bóng_đá brazil
+13,anh neymar giúp santos giành danh_hiệu năm 2009 đến 2012
+14,ganso rời santos chuyển tới sao paulo bất_mãn về tiền_lương
+15,tại_sao paulo sự_nghiệp ganso ảnh_hưởng anh thường_xuyên dính chấn_thương
+16,ganso thi_đấu đội_tuyển brazil kể trận giao_hữu bosniaherzegovina năm 2012
+17,anh mới đá 8 trận đội_tuyển xứ samba

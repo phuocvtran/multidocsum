@@ -1,17 +1,17 @@
 idx, sentence
-0,vụ hỏa_hoạn xảy ra vào_khoảng 21 h ngày 2/6 tại căn nhà trong hẻm 80 đường dương_quảng_hàm  phường 5  quận gò_vấp  tphcm  khiến nhiều tài_sản trong căn nhà rộng 100 m2 bị thiêu rụi 
-1,thông_tin ban_đầu  vào thời_điểm trên  người dân phát_hiện khói_lửa bốc ra từ căn nhà 80/12/155 dương_quảng_hàm nên hô_hoán dập lửa  đồng_thời cắt hệ_thống cầu_dao tổng 
-2,do điện bị ngắt nên cánh cửa_cuốn của căn nhà không hoạt_động  hai vợ_chồng cụ_già 70 tuổi bị mắc_kẹt bên trong cầu_cứu 
-3,nhiều thanh_niên đã dùng búa  xà_beng phá cánh cửa_cuốn trong biển khói để đưa hai người bị kẹt bên trong ra ngoài an_toàn trước khi cả căn nhà bị lửa bao_trùm 
-4,“ lúc đó  ai cũng hoảng 
-5,khói_lửa cháy dữ lắm 
-6,phía bên trong căn nhà  người bị kẹt kêu cứu 
-7,tôi cùng nhiều người đập_cửa_cuốn đưa hai vợ_chồng cụ_già 70 tuổi ra ngoài 
-8,chỉ vài phút sau đó  cả căn nhà đã rực_lửa ”  nam thanh_niên tham_gia giải_cứu nói 
-9,nhận được tin báo  lực_lượng pccc quận gò_vấp điều nhiều xe_nước cùng hàng chục chiến_sĩ đến hiện_trường 
-10,do đám cháy nằm trong hẻm sâu  hẹp nên việc tiếp_cận dập lửa gặp nhiều khó_khăn  xe chữa_cháy phải đậu cách xa đám cháy gần 500 m 
-11,các chiến_sĩ phải vác dây  máy_bơm đến họng nước cứu_hỏa cách căn nhà cháy hơn 100 m để lấy nước 
-12,lính cứu_hỏa phải phá tường xịt nước vào  ngăn ngọn lửa cháy lan sang nhà bên cạnh 
-13,sau hơn 2 giờ  ngọn lửa được dập_tắt hoàn_toàn nhưng toàn_bộ tài_sản  vật_dụng bên trong căn nhà cấp 4 rộng khoảng 100 m2 bị thiêu rụi 
-14,may_mắn không có thiệt_hại về người 
-15,theo người dân địa_phương  căn nhà xảy ra hỏa_hoạn có hơn 10 người sinh_sống  thời_điểm cháy chỉ có vợ_chồng cụ_già 70 tuổi ở bên trong 
+0,vụ hỏa_hoạn xảy vào_khoảng 21 h ngày 2/6 căn nhà trong hẻm 80 đường dương_quảng_hàm phường 5 quận gò_vấp tphcm khiến tài_sản trong căn nhà rộng 100 m2 thiêu rụi
+1,thông_tin ban_đầu thời_điểm người dân phát_hiện khói_lửa bốc căn nhà 80/12/155 dương_quảng_hàm hô_hoán dập lửa đồng_thời cắt hệ_thống cầu_dao tổng
+2,điện ngắt cánh cửa_cuốn căn nhà hoạt_động hai vợ_chồng cụ_già 70 tuổi mắc_kẹt bên trong cầu_cứu
+3,thanh_niên dùng búa xà_beng phá cánh cửa_cuốn trong biển khói đưa hai người kẹt bên trong ngoài an_toàn căn nhà lửa bao_trùm
+4,“ ai hoảng
+5,khói_lửa cháy dữ lắm
+6,phía bên trong căn nhà người kẹt kêu cứu
+7,tôi người đập_cửa_cuốn đưa hai vợ_chồng cụ_già 70 tuổi ngoài
+8,vài phút căn nhà rực_lửa ” nam thanh_niên tham_gia giải_cứu nói
+9,nhận tin báo lực_lượng pccc quận gò_vấp xe_nước hàng chục chiến_sĩ đến hiện_trường
+10,đám cháy nằm trong hẻm sâu hẹp tiếp_cận dập lửa gặp khó_khăn xe chữa_cháy đậu cách xa đám cháy gần 500 m
+11,chiến_sĩ vác dây máy_bơm đến họng nước cứu_hỏa cách căn nhà cháy hơn 100 m lấy nước
+12,lính cứu_hỏa phá tường xịt nước ngăn ngọn lửa cháy lan sang nhà bên cạnh
+13,hơn 2 giờ ngọn lửa dập_tắt hoàn_toàn toàn_bộ tài_sản vật_dụng bên trong căn nhà cấp 4 rộng khoảng 100 m2 thiêu rụi
+14,may_mắn thiệt_hại về người
+15,người dân địa_phương căn nhà xảy hỏa_hoạn hơn 10 người sinh_sống thời_điểm cháy vợ_chồng cụ_già 70 tuổi ở bên trong

@@ -1,6 +1,6 @@
 idx, sentence
-0,đa_phần nạn_nhân là các cô gái trẻ cho biết họ đã bị những người đàn_ông vây quanh  sờ_mó trong lễ_hội âm_nhạc ngoài_trời hôm 28/5 
-1,ba người đàn_ông pakistan tuổi từ 2831 đang xin tị_nạn ở đức bị cảnh_sát bắt hôm 31/5  theo afp 
-2,cảnh_sát đức đang tiếp_tục truy_lùng hai hoặc ba người đàn_ông khác  cũng bị_cáo_buộc tấn_công tình_dục 
-3,các nạn_nhân khai rằng nhóm đàn_ông tấn_công họ là người nam_á 
-4,cảnh_sát cũng đang điều_tra liệu các nghi_phạm này có hanh vi cướp tài_sản của một phụ_nữ trong lễ_hội âm_nhạc kéo_dài 4 ngày ở darmstadt hay không 
+0,đa_phần nạn_nhân cô gái trẻ biết họ người đàn_ông vây quanh sờ_mó trong lễ_hội âm_nhạc ngoài_trời hôm 28/5
+1,ba người đàn_ông pakistan tuổi 2831 xin tị_nạn ở đức cảnh_sát bắt hôm 31/5 afp
+2,cảnh_sát đức tiếp_tục truy_lùng hai hoặc ba người đàn_ông khác bị_cáo_buộc tấn_công tình_dục
+3,nạn_nhân khai nhóm đàn_ông tấn_công họ người nam_á
+4,cảnh_sát điều_tra liệu nghi_phạm hanh vi cướp tài_sản một phụ_nữ trong lễ_hội âm_nhạc kéo_dài 4 ngày ở darmstadt hay

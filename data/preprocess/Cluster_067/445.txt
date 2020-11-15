@@ -1,9 +1,9 @@
 idx, sentence
-0,trước đó  đình_luật với pha phạm lỗi thô_bạo ở vòng 10 vleague  đã phải nhận án treo giò 3 trận của ban kỷ_luật vff 
-1,dù ban kỷ_luật cho biết án phạt chỉ có hiệu_lực ở vleague nhưng cũng giống như trường_hợp của văn_quyết  có khả_năng đình_luật sẽ bị loại khỏi đtqg 
-2,để có thêm sự sự lựa_chọn và có phương_án dự_phòng  hlv hữu_thắng đã quyết_định gọi bổ_sung trung_vệ ngọc_thịnh của hải_phòng vào danh_sách đtvn 
-3,trước khi được gọi lên tuyển việt_nam  ngọc_thịnh từng là trụ_cột của u23 việt_nam tại sea_games 28 ở singapore 
-4,tại vleague 2016  ngọc_thịnh thi_đấu 450 phút trong 5 trận đấu của hải_phòng  3 thắng  1 hòa  1 thua  
-5,trung_vệ_sinh năm 1992 đang có phong_độ tốt và thăng_hoa cùng hải_phòng ở vị_trí dẫn đầu_bảng xếp_hạng mùa giải 2016 
-6,theo kế_hoạch  đtvn sẽ đá giao_hữu với syria tại sân mỹ_đình ngày 31/5  và sau đó tham_dự giải giao_hữu quốc_tế tại yangon  myanmar  từ ngày 3  6/6 
-7,danh_sách tập_trung đtvn  thủ_môn  nguyên_mạnh  slna   văn_lâm  hải_phòng   minh_long  hn_tt  hậu_vệ  tiến_dũng  viettel   ngọc_hải  đình_hoàng  slna   đình_luật  văn_hoàn  bình_dương   tiến_thành  cần_thơ   đình_đồng  thanh_hoá   ngọc_thịnh  hải_phòng   tiền_vệ  văn_thanh  hagl   văn_toàn  hagl   hoàng_thịnh  thanh_hoá   tuấn_anh  yokohama   thành_lương  hn_tt   xuân_trường  incheon_utd   phi_sơn  slna   thanh_trung  quảng_nam  
+0,đình_luật pha phạm lỗi thô_bạo ở vòng 10 vleague nhận án treo giò 3 trận ban kỷ_luật vff
+1,dù ban kỷ_luật biết án phạt hiệu_lực ở vleague giống trường_hợp văn_quyết khả_năng đình_luật loại khỏi đtqg
+2,thêm lựa_chọn phương_án dự_phòng hlv hữu_thắng quyết_định gọi bổ_sung trung_vệ ngọc_thịnh hải_phòng danh_sách đtvn
+3,gọi tuyển việt_nam ngọc_thịnh trụ_cột u23 việt_nam sea_games 28 ở singapore
+4,vleague 2016 ngọc_thịnh thi_đấu 450 phút trong 5 trận đấu hải_phòng 3 thắng 1 hòa 1 thua
+5,trung_vệ_sinh năm 1992 phong_độ tốt thăng_hoa hải_phòng ở vị_trí dẫn đầu_bảng xếp_hạng mùa giải 2016
+6,kế_hoạch đtvn đá giao_hữu syria sân mỹ_đình ngày 31/5 tham_dự giải giao_hữu quốc_tế yangon myanmar ngày 3 6/6
+7,danh_sách tập_trung đtvn thủ_môn nguyên_mạnh slna văn_lâm hải_phòng minh_long hn_tt hậu_vệ tiến_dũng viettel ngọc_hải đình_hoàng slna đình_luật văn_hoàn bình_dương tiến_thành cần_thơ đình_đồng thanh_hoá ngọc_thịnh hải_phòng tiền_vệ văn_thanh hagl văn_toàn hagl hoàng_thịnh thanh_hoá tuấn_anh yokohama thành_lương hn_tt xuân_trường incheon_utd phi_sơn slna thanh_trung quảng_nam

@@ -1,13 +1,13 @@
 idx, sentence
-0,cụ_thể  khoảng 4 h30 sáng 2/6  xe_khách của nhà_xe khánh_đơn mang biển số lào chạy từ thà_khẹc  lào  về nghệ_an 
-1,khi đến địa_phận huyện bualapha  tỉnh khăm_muộn  lào   cách cửa_khẩu cha_lo  quảng_bình  khoảng 15 km thì bất_ngờ nổ tung 
-2,vụ nổ làm ít_nhất 8 người tử_vong tại_chỗ  3 người bị_thương nặng được đưa đi cấp_cứu trong tình_trạng nguy_kịch 
-3,các nạn_nhân đều là người nghệ_an 
-4,chiếc xe chở ít_nhất 12 hành_khách bị sập hoàn_toàn  các cửa_kính vỡ văng khắp nơi 
-5,rất nhiều gỗ ở trong xe cũng rơi văng ra ngoài và xác_pháo_nổ 
-6,một nhân_chứng cho hay  hiện_trường nồng_nặc mùi thuốc_pháo 
-7,nhận tin báo  công_an huyện bualapha có_mặt để bảo_vệ hiện_trường  điều_tra nguyên_nhân 
-8,theo nguồn tin của zing  vn  sáng cùng ngày  chủ_tịch huyện và trưởng công_an huyện bualapha  tỉnh khăm_muộn  cũng đã có_mặt tại hiện_trường  chỉ_đạo điều_tra vụ_việc và ứng_cứu người bị nạn 
-9,đại_diện bộ_đội biên_phòng quảng_bình xác_nhận và cho biết thêm  vụ nổ cách đồn biên_phòng cửa_khẩu quốc_tế cha_lo hơn chục km 
-10,một_số nạn_nhân đã được đưa về nghệ_an 
-11,trao_đổi với zing  vn  thiếu_tá nguyễn_trọng_tuệ  trưởng công_an huyện nghi_lộc cho hay  vụ tai_nạn nói trên xảy ra ở lào và nhà_xe ở xã nghi_diên  huyện nghi_lộc 
+0,cụ_thể khoảng 4 h30 sáng 2/6 xe_khách nhà_xe khánh_đơn mang biển số lào chạy thà_khẹc lào về nghệ_an
+1,đến địa_phận huyện bualapha tỉnh khăm_muộn lào cách cửa_khẩu cha_lo quảng_bình khoảng 15 km bất_ngờ nổ tung
+2,vụ nổ làm ít_nhất 8 người tử_vong tại_chỗ 3 người bị_thương nặng đưa đi cấp_cứu trong tình_trạng nguy_kịch
+3,nạn_nhân người nghệ_an
+4,xe chở ít_nhất 12 hành_khách sập hoàn_toàn cửa_kính vỡ văng khắp
+5,gỗ ở trong xe rơi văng ngoài xác_pháo_nổ
+6,một nhân_chứng hay hiện_trường nồng_nặc mùi thuốc_pháo
+7,nhận tin báo công_an huyện bualapha có_mặt bảo_vệ hiện_trường điều_tra nguyên_nhân
+8,nguồn tin zing vn sáng ngày chủ_tịch huyện trưởng công_an huyện bualapha tỉnh khăm_muộn có_mặt hiện_trường chỉ_đạo điều_tra vụ_việc ứng_cứu người nạn
+9,đại_diện bộ_đội biên_phòng quảng_bình xác_nhận biết thêm vụ nổ cách đồn biên_phòng cửa_khẩu quốc_tế cha_lo hơn chục km
+10,một_số nạn_nhân đưa về nghệ_an
+11,trao_đổi zing vn thiếu_tá nguyễn_trọng_tuệ trưởng công_an huyện nghi_lộc hay vụ tai_nạn nói xảy ở lào nhà_xe ở xã nghi_diên huyện nghi_lộc

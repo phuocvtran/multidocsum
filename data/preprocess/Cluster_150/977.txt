@@ -1,10 +1,10 @@
 idx, sentence
-0,reuters đưa tin  ông kilrain khẳng_định  lực_lượng đặc_nhiệm mỹ đã sẵn_sàng bắt_đầu hợp_tác với đặc_công việt_nam nếu chính_phủ hai nước quyết_định làm như_vậy 
-1,đây sẽ là một bước đi quan_trọng trong quan_hệ giữa quân_đội hai nước sau chuyến thăm việt_nam của tổng_thống barack_obama 
-2,trong cuộc gặp kéo_dài nửa tiếng với chỉ_huy lực_lượng đặc_công việt_nam ở florida hôm 26/5  vài ngày sau khi washington dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương với việt_nam  ông kilrain cho biết hai bên đều rất quan_tâm đến chương_trình hợp_tác sắp tới  song cũng thận trong với những bước_đi mà chính_phủ hai nước đặt ra 
-3, chúng_tôi cảm_thấy được khích_lệ bởi chuyến thăm đầy tích_cực của tổng_thống obama tới việt_nam 
-4,chúng_tôi muốn trở_về và thông_báo với các sĩ_quan của mình rằng chúng_tôi sẵn_sàng thực_hiện những bước_đi tiếp_theo  
-5,lực_lượng đặc_nhiệm mỹ bao_gồm nhiều đội quân tinh_nhuệ như seal  đặc_nhiệm hài quân   delta  đặc_nhiệm lục_quân  và green_berets  mũ_nồi xanh  
-6,đây là những lực_lượng tinh_nhuệ  từng tham_gia nhiều nhiệm_vụ đặc_biệt  chiến_sự bất_thường tại nhiều nơi trên thế_giới 
-7,chuẩn đô_đốc mỹ nhấn_mạnh rằng khi bắt_đầu mối quan_hệ quân_sự với nước khác  thường thì seal hoặc delta_force sẽ là những lựa_chọn tốt nhất 
-8,tuy_nhiên  ông lưu_ý hành_động gì và như thế_nào còn phụ_thuộc vào quyết_định của chính_phủ mỹ và việt_nam 
+0,reuters đưa tin ông kilrain khẳng_định lực_lượng đặc_nhiệm mỹ sẵn_sàng bắt_đầu hợp_tác đặc_công việt_nam chính_phủ hai nước quyết_định làm như_vậy
+1,một bước đi quan_trọng trong quan_hệ giữa quân_đội hai nước chuyến thăm việt_nam tổng_thống barack_obama
+2,trong cuộc gặp kéo_dài nửa tiếng chỉ_huy lực_lượng đặc_công việt_nam ở florida hôm 26/5 vài ngày washington dỡ bỏ lệnh_cấm_vận vũ_khí sát_thương việt_nam ông kilrain biết hai bên quan_tâm đến chương_trình hợp_tác sắp tới song thận trong bước_đi chính_phủ hai nước đặt
+3,chúng_tôi cảm_thấy khích_lệ chuyến thăm đầy tích_cực tổng_thống obama tới việt_nam
+4,chúng_tôi muốn trở_về thông_báo sĩ_quan mình chúng_tôi sẵn_sàng thực_hiện bước_đi tiếp_theo
+5,lực_lượng đặc_nhiệm mỹ bao_gồm đội quân tinh_nhuệ seal đặc_nhiệm hài quân delta đặc_nhiệm lục_quân green_berets mũ_nồi xanh
+6,lực_lượng tinh_nhuệ tham_gia nhiệm_vụ đặc_biệt chiến_sự bất_thường thế_giới
+7,chuẩn đô_đốc mỹ nhấn_mạnh bắt_đầu mối quan_hệ quân_sự nước khác thường seal hoặc delta_force lựa_chọn tốt nhất
+8,tuy_nhiên ông lưu_ý hành_động thế_nào còn phụ_thuộc quyết_định chính_phủ mỹ việt_nam

@@ -1,6 +1,6 @@
 idx, sentence
-0,vụ tự_tử xảy ra lúc 17 giờ 30 hôm_nay  235   trên cầu thanh_trì  quốc_lộ 1a thuộc địa_bàn phường thanh_trì quận hoàng_mai  tp hà_nội 
-1,theo người dân chứng_kiến vụ_việc thì vào thời_gian trên  hai vợ_chồng đi xe taxi từ bắc_ninh về hà_nội 
-2,đến giữa cầu thanh_trì  người chồng bảo lái_xe taxi dừng xe để vứt rác 
-3,khi cửa vừa mở thì anh ta lao qua giải phân_cách rồi nhảy từ trên cầu xuống sông ở độ cao gần 50 mét  mất_tăm giữa dòng nước sâu hun_hút 
-4,người vợ chạy theo níu_kéo không thành và cùng lúc đó người dân chạy đến phát_hiện lá thư tuyệt_mệnh của người chồng  tên biểu  dành cho vợ  tên vân  với nội_dung “ đừng cứng_đầu ” và cách_thức thờ_cúng sau khi không tìm thấy thi_thể của anh ta và một món tóc của nạn_nhân 
+0,vụ tự_tử xảy 17 giờ 30 hôm_nay 235 cầu thanh_trì quốc_lộ 1a thuộc địa_bàn phường thanh_trì quận hoàng_mai tp hà_nội
+1,người dân chứng_kiến vụ_việc thời_gian hai vợ_chồng đi xe taxi bắc_ninh về hà_nội
+2,đến giữa cầu thanh_trì người chồng bảo lái_xe taxi dừng xe vứt rác
+3,cửa mở anh ta lao giải phân_cách nhảy cầu xuống sông ở độ cao gần 50 mét mất_tăm giữa dòng nước sâu hun_hút
+4,người vợ chạy níu_kéo thành người dân chạy đến phát_hiện lá thư tuyệt_mệnh người chồng tên biểu dành vợ tên vân nội_dung “ đừng cứng_đầu ” cách_thức thờ_cúng tìm thấy thi_thể anh ta một món tóc nạn_nhân

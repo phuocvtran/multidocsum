@@ -1,22 +1,22 @@
 idx, sentence
-0,ông obama bay từ căn_cứ quân_sự iwakuni của hoa_kỳ ở gần đó sau khi rời hội_nghị thượng_đỉnh g7 
-1,ông nói chuyến đi của ông là  lời chứng_thực về việc ngay cả những chia_rẽ đau_đớn nhất cũng có_thể được hàn_gắn  
-2,nhưng ông cũng nói ông sẽ không xin_lỗi về vụ ném bom 
-3,ít_nhất 140 ngàn người thiệt_mạng tại hiroshima hôm 6/8/1945 trong vụ ném bom hạt_nhân đầu_tiên trên thế_giới 
-4,hai hôm sau  trái bom_hạt_nhân thứ hai rơi xuống nagasaki  giết chết 74 ngàn người nữa 
-5, những người bạn tốt nhất  ông obama nói với các quân_nhân có_mặt tại căn_cứ iwakuni  nằm cách hiroshima_chừng 40 km   đây là lúc để tưởng_nhớ những người ngã xuống trong đại_chiến thế_giới thứ hai  
-6, đây là cơ_hội để xác_nhận cam_kết của chúng_ta trong việc theo_đuổi hòa_bình và an_ninh thế_giới  nơi mà vũ_khí hạt_nhân không còn cần_thiết nữa  
-7,ông obama ca_ngợi liên_minh mỹnhật là  một trong những liên_minh mạnh_mẽ nhất thế_giới   và chuyến đi của ông cho thấy  hai quốc_gia  cựu thù  không_chỉ trở_thành đối_tác mà còn trở_thành những người bạn tốt nhất  
-8,ông obama đặt vòng_hoa tại đài kỷ_niệm  nơi có ngọn lửa vĩnh_cửu tưởng_nhớ những người thiệt_mạng tại hiroshima 
-9,cùng tham_dự với ông có các nạn_nhân sống_sót sau vụ ném bom hiện vẫn sống tại thành_phố nay đã trở_nên thịnh_vượng 
-10,nhiều người mỹ tin rằng việc sử_dụng bom_hạt_nhân tuy gây ra_sức tàn_phá khủng_khiếp nhưng là điều đúng_đắn  bởi nó đã buộc nhật phải đầu_hàng  dẫn tới chấm_dứt chiến_tranh thế_giới thứ hai 
-11,con gái của một người sống_sót  người tới thăm đài tưởng_niệm hôm thứ_sáu  nói rằng những nỗi đau đã  truyền qua các thế_hệ  
-12, đó là điều mà tôi muốn tổng_thống obama biết   han_jeongsoon  58 tuổi  nói với hãng tin ap 
-13, tôi muốn ông ấy hiểu về những gì chúng_tôi phải chịu_đựng  
-14,seiki sato  có cha là người trở_thành mồ_côi do vụ ném bom  nói với new_york_times   người nhật chúng_tôi đã làm những điều_kinh_khủng trên khắp á_châu 
-15,và người nhật chúng_tôi phải nói rằng chúng_tôi rất lấy làm tiếc  rất hổ_thẹn  và chúng_tôi đã chưa xin_lỗi một_cách chân_thành với tất_cả các quốc_gia á_châu đó 
-16,nhưng việc thả bom hạt_nhân xuống là điều vô_cùng độc_ác  
-17,phóng_viên bbc_john_sudworth có_mặt tại hiroshima nói chuyến thăm dường_như có mục_tiêu chiến_lược  là biểu_tượng cho mối liên_minh sâu_sắc hơn giữa washington và tokyo trong khu_vực vốn đang cảnh_giác với tham_vọng quân_sự ngày_càng tăng của trung_quốc 
-18,ông obama nhắc tới vấn_đề này trong bài phát_biểu tại căn_cứ quân_sự 
-19,ông nói   là tổng_thống  tôi đảm_bảo rằng hoa_kỳ đang lại dẫn_đầu tại vùng châu_áthái bình_dương  bởi đây là khu_vực vô_cùng quan_trọng  
-20,tổng_thống jimmy_carter từng tới thăm hiroshima  nhưng là sau khi ông đã rời nhiệm_sở 
+0,ông obama bay căn_cứ quân_sự iwakuni hoa_kỳ ở gần rời hội_nghị thượng_đỉnh g7
+1,ông nói chuyến đi ông lời chứng_thực về chia_rẽ đau_đớn nhất hàn_gắn
+2,ông nói ông xin_lỗi về vụ ném bom
+3,ít_nhất 140 ngàn người thiệt_mạng hiroshima hôm 6/8/1945 trong vụ ném bom hạt_nhân đầu_tiên thế_giới
+4,hai hôm trái bom_hạt_nhân thứ hai rơi xuống nagasaki giết chết 74 ngàn người
+5,người bạn tốt nhất ông obama nói quân_nhân có_mặt căn_cứ iwakuni nằm cách hiroshima_chừng 40 km tưởng_nhớ người ngã xuống trong đại_chiến thế_giới thứ hai
+6,cơ_hội xác_nhận cam_kết chúng_ta trong theo_đuổi hòa_bình an_ninh thế_giới vũ_khí hạt_nhân còn cần_thiết
+7,ông obama ca_ngợi liên_minh mỹnhật một trong liên_minh mạnh_mẽ nhất thế_giới chuyến đi ông thấy hai quốc_gia cựu thù không_chỉ trở_thành đối_tác còn trở_thành người bạn tốt nhất
+8,ông obama đặt vòng_hoa đài kỷ_niệm ngọn lửa vĩnh_cửu tưởng_nhớ người thiệt_mạng hiroshima
+9,tham_dự ông nạn_nhân sống_sót vụ ném bom hiện sống thành_phố nay trở_nên thịnh_vượng
+10,người mỹ tin sử_dụng bom_hạt_nhân tuy gây ra_sức tàn_phá khủng_khiếp đúng_đắn nó buộc nhật đầu_hàng dẫn tới chấm_dứt chiến_tranh thế_giới thứ hai
+11,con gái một người sống_sót người tới thăm đài tưởng_niệm hôm thứ_sáu nói nỗi đau truyền thế_hệ
+12,tôi muốn tổng_thống obama biết han_jeongsoon 58 tuổi nói hãng tin ap
+13,tôi muốn ông ấy hiểu về chúng_tôi chịu_đựng
+14,seiki sato cha người trở_thành mồ_côi vụ ném bom nói new_york_times người nhật chúng_tôi làm điều_kinh_khủng khắp á_châu
+15,người nhật chúng_tôi nói chúng_tôi lấy làm tiếc hổ_thẹn chúng_tôi xin_lỗi chân_thành tất_cả quốc_gia á_châu
+16,thả bom hạt_nhân xuống vô_cùng độc_ác
+17,phóng_viên bbc_john_sudworth có_mặt hiroshima nói chuyến thăm dường_như mục_tiêu chiến_lược biểu_tượng mối liên_minh sâu_sắc hơn giữa washington tokyo trong khu_vực vốn cảnh_giác tham_vọng quân_sự ngày_càng tăng trung_quốc
+18,ông obama nhắc tới vấn_đề trong bài phát_biểu căn_cứ quân_sự
+19,ông nói tổng_thống tôi đảm_bảo hoa_kỳ dẫn_đầu vùng châu_áthái bình_dương khu_vực vô_cùng quan_trọng
+20,tổng_thống jimmy_carter tới thăm hiroshima ông rời nhiệm_sở

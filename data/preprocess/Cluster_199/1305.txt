@@ -1,15 +1,15 @@
 idx, sentence
-0,theo cáo_buộc của viện ksnd tp hà_nội  khoảng 9 h ngày 12122015  đoàn_văn_chuyên điều khiểu xe ô_tô bks 89l – 0211 đi trên đường nguyễn_văn_linh hướng từ hải_phòng đi hà_nội 
-1,khi đến ngã tư phố sài_đồng – nguyễn_văn_linh  thuộc địa_bàn phường phúc_đồng  quận long_biên  tp hà_nội   do vi_phạm luật giao_thông đường_bộ  nên bị thượng_úy nguyễn_quốc_đạt  là csgt thuộc đội csgt số 5  phòng csgt catp hà_nội  đang làm nhiệm_vụ ra tín_hiệu yêu_cầu dừng xe để kiểm_tra 
-2,tuy_nhiên  chuyên không chấp_hành yêu_cầu mà điều_khiển xe đâm thẳng vào thượng_úy nguyễn_quốc_đạt 
-3,trước hành_động bất_ngờ trên  thượng_úy đạt vội nhảy lên bám vào cần gạt nước ở kính chắn gió đầu xe ô_tô và tiếp_tục ra yêu_cầu chuyên dừng xe 
-4,bỏ_qua những yêu_cầu trên của người thực_thi pháp_luật  chuyên điều_khiển xe với tốc_độ cao  lạng_lách nhằm hất đồng_chí đạt xuống_đường 
-5,trong lúc điều_khiển xe bỏ chạy  chuyên va_chạm với chiếc xe ô_tô vios  bks 20a – 00055 đi cùng chiều 
-6,quyết hất bằng được thượng_úy đạt xuống khỏi xe  chuyên vừa lạng_lách bỏ chạy với tốc_độ cao và đạp phanh cho xe dừng đột_ngột  thượng_úy đạt ngã xuống đường  bị xe rê vào gầm kéo đi khoảng 20 m rồi sau đó bị bánh sau của xe đè lên người  khiến nạn_nhân bị đa chấn_thương 
-7,do được đưa đi cấp_cứu kịp_thời  thượng_úy nguyễn_quốc_đạt đã qua cơn nguy_kịch và bị tổn_hại sức_khỏe với tỷ_lệ thương_tích 59  
-8,việc thượng_úy nguyễn_quốc_đạt may_mắn  không chết là nằm ngoài ý_muốn của chuyên 
-9,hành_vi trên của đoàn_văn_chuyên bị viện ksnd tp hà_nội truy_tố phạm vào tội giết người 
-10,sáng nay  162016   tand tp hà_nội đã mở phiên_tòa xét_xử đoàn_văn_chuyên về tội_danh trên 
-11,tại phiên xét_xử  chuyên thành_khẩn khai lại toàn_bộ_hành_vi phạm_tội của mình và mong hđxx cân_nhắc cho bị_cáo hưởng mức án thấp nhất 
-12,nhận_định về hành_vi phạm_tội của bị_cáo  đại_diện viện ksnd tp hà_nội cho rằng  hành_vi của bị_cáo là hành_vi nguy_hiểm cho xã_hội và xâm_hại trực_tiếp đến tính_mạng của người khác  đặc_biệt là người thi_hành công_vụ 
-13,bản_thân bị_cáo đã từng bị có 2 tiền_án  về tội cướp_giật tài_sản và trộm_cắp tài_sản  và đã phải thi_hành hình phạt_tù  đã được giáo_dục cải_tạo  nhưng bản_chất côn_đồ  hung_hãn vẫn không thay_đổi nên cần phải xử_lý bị_cáo với mức án cao nhất 
+0,cáo_buộc viện ksnd tp hà_nội khoảng 9 h ngày 12122015 đoàn_văn_chuyên khiểu xe ô_tô bks 89l – 0211 đi đường nguyễn_văn_linh hướng hải_phòng đi hà_nội
+1,đến ngã tư phố sài_đồng – nguyễn_văn_linh thuộc địa_bàn phường phúc_đồng quận long_biên tp hà_nội vi_phạm luật giao_thông đường_bộ thượng_úy nguyễn_quốc_đạt csgt thuộc đội csgt số 5 phòng csgt catp hà_nội làm nhiệm_vụ tín_hiệu yêu_cầu dừng xe kiểm_tra
+2,tuy_nhiên chuyên chấp_hành yêu_cầu điều_khiển xe đâm thẳng thượng_úy nguyễn_quốc_đạt
+3,hành_động bất_ngờ thượng_úy đạt vội nhảy bám gạt nước ở kính chắn gió đầu xe ô_tô tiếp_tục yêu_cầu chuyên dừng xe
+4,bỏ_qua yêu_cầu người thực_thi pháp_luật chuyên điều_khiển xe tốc_độ cao lạng_lách nhằm hất đồng_chí đạt xuống_đường
+5,trong điều_khiển xe bỏ chạy chuyên va_chạm xe ô_tô vios bks 20a – 00055 đi chiều
+6,quyết hất bằng thượng_úy đạt xuống khỏi xe chuyên lạng_lách bỏ chạy tốc_độ cao đạp phanh xe dừng đột_ngột thượng_úy đạt ngã xuống đường xe rê gầm kéo đi khoảng 20 m bánh xe đè người khiến nạn_nhân đa chấn_thương
+7,đưa đi cấp_cứu kịp_thời thượng_úy nguyễn_quốc_đạt cơn nguy_kịch tổn_hại sức_khỏe tỷ_lệ thương_tích 59
+8,thượng_úy nguyễn_quốc_đạt may_mắn chết nằm ngoài ý_muốn chuyên
+9,hành_vi đoàn_văn_chuyên viện ksnd tp hà_nội truy_tố phạm tội giết người
+10,sáng nay 162016 tand tp hà_nội mở phiên_tòa xét_xử đoàn_văn_chuyên về tội_danh
+11,phiên xét_xử chuyên thành_khẩn khai toàn_bộ_hành_vi phạm_tội mình mong hđxx cân_nhắc bị_cáo hưởng mức án thấp nhất
+12,nhận_định về hành_vi phạm_tội bị_cáo đại_diện viện ksnd tp hà_nội hành_vi bị_cáo hành_vi nguy_hiểm xã_hội xâm_hại trực_tiếp đến tính_mạng người khác đặc_biệt người thi_hành công_vụ
+13,bản_thân bị_cáo 2 tiền_án về tội cướp_giật tài_sản trộm_cắp tài_sản thi_hành hình phạt_tù giáo_dục cải_tạo bản_chất côn_đồ hung_hãn thay_đổi xử_lý bị_cáo mức án cao nhất

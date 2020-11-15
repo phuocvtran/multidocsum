@@ -1,3 +1,3 @@
 idx, sentence
-0,cuộc bầu_cử đã hoàn_thành vào lúc 10 giờ 30 cùng ngày 
-1,đây là điểm bầu_cử sớm nhất ở quảng_ngãi đã diễn ra trên tinh_thần dân_chủ  đúng luật quy_định 
+0,cuộc bầu_cử hoàn_thành 10 giờ 30 ngày
+1,điểm bầu_cử sớm nhất ở quảng_ngãi diễn tinh_thần dân_chủ đúng luật quy_định

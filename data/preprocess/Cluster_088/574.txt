@@ -1,14 +1,14 @@
 idx, sentence
-0,nguồn_tin cho biết  đoạn clip ghi lại cảnh xe_tăng t14_armata thực_hiện các bài thử_nghiệm cơ_động trên chiến_trường  bắn đạn thật tại bãi thử_nghiệm ở vùng sverdolovsky 
-1,cùng tham_gia các bài thử_nghiệm còn có xe chiến_đấu bộ_binh t15_armata và xe cứu kéosửa chữa mới 
-2,theo đánh_giá của giới chuyên_gia quân_sự phương tây  xe_tăng t14 đã mở ra một chương mới trong lịch_sử phát_triển xe_tăng không_chỉ của nga  mà_còn ở cả tầm thế_giới 
-3,t14 armata cũng được đặt biệt_danh là “ viên ngọc của lực_lượng thiết_giáp nga ” 
-4,ngoài_ra  sputnik dẫn lời phó_tổng_giám_đốc tập_đoàn uralvagonzavod  ông vyacheslav_khalitov cho biết  xe_tăng armata sẽ được nga trang_bị hệ_thống phòng_vệ gồm 4 cấp giúp dòng tăng này không bị kẻ_thù theo_dõi trên chiến_trường 
-5,chiến_xa sẽ được phủ lớp phủ đặc_biệt làm cho bề_mặt phản_quang khiến hệ_thống tần sóng radar  tia_hồng_ngoại và cảm_quang không_thể xác_định nó 
-6,đặc_biệt  nga đã tìm ra vật_liệu mới có_thể khiến tăng nga trở_nên tàng_hình 
-7,loại vật_liệu mang tên the_mantle này được viện sắt_thép thuộc nhà_máy chế_tạo_máy cơ_khí phát_triển có dạng một tấm màn lớn được làm từ các thành_phần có khả_năng bảo_vệ chủ_động và được đặt phía trước xe_thiết_giáp cần được bảo_vệ khoảng 501__500 mm 
-8,khi tác_chiến bị lựu_đạn chống tăng bắn vào  các thành_phần bảo_vệ bí_mật trong tấm màn này sẽ có nhiệm_vụ phá_hủy mạch kích nổ điện_tử trong quả lựu_đạn cũng như làm phân_tán các chất_nổ trong quả lựu_đạn 
-9,điều này sẽ khiến cho quả lựu_đạn chống_tăng khi chạm vào phần giáp chính của xe_thiết_giáp sẽ không_thể phát nổ hoặc nếu có nổ thì khả_năng xuyên giáp cũng bị suy_giảm đáng_kể 
-10,trong khi đó  khả_năng tàng_hình của the_mantle sẽ giúp giảm tới 6 lần khả_năng xe_tăng và xe chiến_đấu bộ_binh bị radar của địch phát_hiện và giảm tới 3 lần khả_năng các xe_thiết_giáp này bị các thiết_bị hồng_ngoại của địch phát_hiện 
-11,đặc_biệt  việc tháo và lắp loại vật_liệu này chỉ mất vài phút và binh_sĩ không cần phải được huấn_luyện để làm điều này 
-12,theo phân_tích của daily_mail  công_nghệ tàng_hình đã trở_nên rất cần_thiết đối_với lực_lượng tăng thiết_giáp hiện_đại bởi xe_tăng không chỉ chiến_đấu đối_kháng trên mặt_đất  khả_năng tàng_hình có_thể chống lại các cuộc tấn_công từ trên không bằng chiến_đấu cơ và trực_thăng 
+0,nguồn_tin biết đoạn clip ghi cảnh xe_tăng t14_armata thực_hiện bài thử_nghiệm cơ_động chiến_trường bắn đạn thật bãi thử_nghiệm ở vùng sverdolovsky
+1,tham_gia bài thử_nghiệm còn xe chiến_đấu bộ_binh t15_armata xe cứu kéosửa chữa mới
+2,đánh_giá giới chuyên_gia quân_sự phương tây xe_tăng t14 mở một chương mới trong lịch_sử phát_triển xe_tăng không_chỉ nga mà_còn ở tầm thế_giới
+3,t14 armata đặt biệt_danh “ viên ngọc lực_lượng thiết_giáp nga ”
+4,ngoài_ra sputnik dẫn lời phó_tổng_giám_đốc tập_đoàn uralvagonzavod ông vyacheslav_khalitov biết xe_tăng armata nga trang_bị hệ_thống phòng_vệ gồm 4 cấp giúp dòng tăng kẻ_thù theo_dõi chiến_trường
+5,chiến_xa phủ lớp phủ đặc_biệt làm bề_mặt phản_quang khiến hệ_thống tần sóng radar tia_hồng_ngoại cảm_quang không_thể xác_định nó
+6,đặc_biệt nga tìm vật_liệu mới khiến tăng nga trở_nên tàng_hình
+7,loại vật_liệu mang tên the_mantle viện sắt_thép thuộc nhà_máy chế_tạo_máy cơ_khí phát_triển dạng một tấm màn lớn làm thành_phần khả_năng bảo_vệ chủ_động đặt phía xe_thiết_giáp bảo_vệ khoảng 501__500 mm
+8,tác_chiến lựu_đạn chống tăng bắn thành_phần bảo_vệ bí_mật trong tấm màn nhiệm_vụ phá_hủy mạch kích nổ điện_tử trong quả lựu_đạn làm phân_tán chất_nổ trong quả lựu_đạn
+9,khiến quả lựu_đạn chống_tăng chạm phần giáp chính xe_thiết_giáp không_thể phát nổ hoặc nổ khả_năng xuyên giáp suy_giảm đáng_kể
+10,trong khả_năng tàng_hình the_mantle giúp giảm tới 6 lần khả_năng xe_tăng xe chiến_đấu bộ_binh radar địch phát_hiện giảm tới 3 lần khả_năng xe_thiết_giáp thiết_bị hồng_ngoại địch phát_hiện
+11,đặc_biệt tháo lắp loại vật_liệu mất vài phút binh_sĩ huấn_luyện làm
+12,phân_tích daily_mail công_nghệ tàng_hình trở_nên cần_thiết đối_với lực_lượng tăng thiết_giáp hiện_đại xe_tăng chiến_đấu đối_kháng mặt_đất khả_năng tàng_hình chống cuộc tấn_công bằng chiến_đấu cơ trực_thăng

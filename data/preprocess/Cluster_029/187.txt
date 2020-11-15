@@ -1,6 +1,6 @@
 idx, sentence
-0,trên thị_trường  người tiêu_dùng thường lựa_chọn sử_dụng dầu gội đầu từ các nhãn_hiệu lớn  được biết tới từ lâu  có uy_tín như pantene  enchanteur  clear  … họ gần như không có thông_tin gì về các sản_phẩm dầu gội đầu bị thu_hồi do có chất cấm 
-1,dù_vậy trên thực_tế  rất nhiều nhãn_hiệu dầu gội đầu được bày bán_công_khai trên thị_trường đang nằm trong danh_mục các sản_phẩm có chất cấm bị thu_hồi 
-2,công_văn số 6577 / qldmp của cục quản_lý dược  trực_thuộc bộ y_tế  ban_hành ngày 13/4/2015 đã quy_định_danh_mục các chất cấm sử_dụng trong mỹ_phẩm 
-3,công_văn này có ghi rõ  “ các chất bảo_quản methylisothiazolinone  mit  và hỗn_hợp methylchlorothiazolinone với methylisothiazolinone  mct  mit   tham_chiếu 39  57 annex_v   hỗn_hợp mct  mit theo tỷ_lệ 3  1 chỉ được sử_dụng trong các sản_phẩm rửa_sạch  rinseoff products  với nồng_độ không quá 00015   hỗn_hợp mct  mit theo tỷ_lệ 3  1 và có thêm mit thì không được sử_dụng trong sản_phẩm mỹ_phẩm ” 
-4,dù_vậy  đến thời_điểm hiện_tại trên thị_trường  rất nhiều sản_phẩm dầu gội như pantene  sunsilk  clear  rejoice  … có chất cấm nằm trong danh_mục vẫn đang được bày bán_công_khai  ghi rõ thành_phần có các chất như mct  mit theo tỷ_lệ 3  1 
+0,thị_trường người tiêu_dùng thường lựa_chọn sử_dụng dầu gội đầu nhãn_hiệu lớn biết tới lâu uy_tín pantene enchanteur clear … họ gần thông_tin về sản_phẩm dầu gội đầu thu_hồi chất cấm
+1,dù_vậy thực_tế nhãn_hiệu dầu gội đầu bày bán_công_khai thị_trường nằm trong danh_mục sản_phẩm chất cấm thu_hồi
+2,công_văn số 6577 / qldmp cục quản_lý dược trực_thuộc bộ y_tế ban_hành ngày 13/4/2015 quy_định_danh_mục chất cấm sử_dụng trong mỹ_phẩm
+3,công_văn ghi rõ “ chất bảo_quản methylisothiazolinone mit hỗn_hợp methylchlorothiazolinone methylisothiazolinone mct mit tham_chiếu 39 57 annex_v hỗn_hợp mct mit tỷ_lệ 3 1 sử_dụng trong sản_phẩm rửa_sạch rinseoff products nồng_độ quá 00015 hỗn_hợp mct mit tỷ_lệ 3 1 thêm mit sử_dụng trong sản_phẩm mỹ_phẩm ”
+4,dù_vậy đến thời_điểm hiện_tại thị_trường sản_phẩm dầu gội pantene sunsilk clear rejoice … chất cấm nằm trong danh_mục bày bán_công_khai ghi rõ thành_phần chất mct mit tỷ_lệ 3 1

@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 31/5  tổng_cục đường_bộ việt_nam khai_trương dịch_vụ công cấp giấy_phép lái_xe cấp_độ 4 nhằm mang lại sự thuận_lợi cho người dân trong nước  lưu_học_sinh và cán_bộ đang làm_việc  công_tác tại các nước tham_gia công_ước vienna 1968 
-1,theo đó  người có nhu_cầu cấp idp chỉ cần ngồi ở nhà dùng máy_tính kết_nối internet để đăng_ký  khai_báo thông_tin  nộp lệ_phí rồi đợi nhận idp tại nhà 
-2,đây là loại_hình cao nhất trong cải_cách thủ_tục hành_chính được ngành đường_bộ áp_dụng 
-3,bà phan_thị_thu_hiền  phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam cho_biết  “ việc triển_khai cấp đổi giấy_phép lái_xe qua mạng tạo điều_kiện để công_dân việt_nam hội_nhập  giao_thương với bạn_bè  đối_tác trên thế_giới 
-4,dịch_vụ công cấp_độ 4 là loại_hình cao nhất trong các hình_thức cải_cách thủ_tục hành_chính 
-5,điều này mang lại nhiều thuận_lợi cho người dân khi lái_xe cả trong và ngoài nước  
-6,theo thứ_trưởng giao_thông vận_tải nguyễn_hồng_trường  việc cấp đổi giấy_phép lái_xe từ cấp_độ 3 sang cấp 4 nhằm đẩy_mạnh công_tác cải_cách hành_chính mà bộ đã thực_hiện thời_gian qua để “ vì sự hài_lòng hơn của người_dân và doanh_nghiệp ” 
-7,người có nhu_cầu cấp gplx quốc_tế có_thể đăng_ký và khai_báo trên trang thông_tin điện_tử  wwwdrvngovvn vàwww  dichvuconggplxgovvn  8000 và làm theo hướng_dẫn 
+0,ngày 31/5 tổng_cục đường_bộ việt_nam khai_trương dịch_vụ công cấp giấy_phép lái_xe cấp_độ 4 nhằm mang thuận_lợi người dân trong nước lưu_học_sinh cán_bộ làm_việc công_tác nước tham_gia công_ước vienna 1968
+1,người nhu_cầu cấp idp ngồi ở nhà dùng máy_tính kết_nối internet đăng_ký khai_báo thông_tin nộp lệ_phí đợi nhận idp nhà
+2,loại_hình cao nhất trong cải_cách thủ_tục hành_chính ngành đường_bộ áp_dụng
+3,bà phan_thị_thu_hiền phó_tổng_cục_trưởng tổng_cục đường_bộ việt_nam cho_biết “ triển_khai cấp đổi giấy_phép lái_xe mạng tạo điều_kiện công_dân việt_nam hội_nhập giao_thương bạn_bè đối_tác thế_giới
+4,dịch_vụ công cấp_độ 4 loại_hình cao nhất trong hình_thức cải_cách thủ_tục hành_chính
+5,mang thuận_lợi người dân lái_xe trong ngoài nước
+6,thứ_trưởng giao_thông vận_tải nguyễn_hồng_trường cấp đổi giấy_phép lái_xe cấp_độ 3 sang cấp 4 nhằm đẩy_mạnh công_tác cải_cách hành_chính bộ thực_hiện thời_gian “ hài_lòng hơn người_dân doanh_nghiệp ”
+7,người nhu_cầu cấp gplx quốc_tế đăng_ký khai_báo trang thông_tin điện_tử wwwdrvngovvn vàwww dichvuconggplxgovvn 8000 làm hướng_dẫn

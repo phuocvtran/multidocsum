@@ -1,22 +1,22 @@
 idx, sentence
-0,trận đấu giữa than quảng_ninh và cần_thơ được chú_ý hơn cả với sự phản_ứng của hội_cđv đất mỏ 
-1,cuộc_chiến_công_văn giữa hội cđv than quảng_ninh và vpf đã lên đến đỉnh_điểm khi vpf nhất_quyết không bỏ lệnh_cấm mang loa điện vào sân trong khi hội cđv than quảng_ninh dọa tẩy_chay  không đến sân cổ_vũ  hoặc đeo khẩu_trang để phản_đối vpf 
-2,vpf khẳng_định không có ý đối_đầu với các cđv nhưng sẵn_sàng chấp_nhận tình_huống xấu nhất xảy ra 
-3,đúng với tuyên_bố của mình  hội_cđv_than quảng_ninh đã quyết_định tẩy_chay trận đấu  cụ_thể là cổ_vũ đội bóng ở phía ngoài sân_vận_động  với những khẩu_hiệu  băng rôn và khẩu_trang phản_đối btc giải  vpf 
-4,cđv than quảng_ninh đã có những hành_động hài_hước nhằm phản_đối quy_định cấm sử_dụng loa điện  dàn âm_thanh cổ_vũ các trận đấu của vpf 
-5,trở_lại trận đấu  không có sự cồ vũ đông đảo từ các cđv cuồng_nhiệt như mọi khi  nhưng than quảng_ninh vẫn nhập_cuộc đầy hưng_phấn 
-6,ngay ở phút thứ 9  dyachenko đánh đầu chuẩn_xác ở cự ly gần mang về bàn mở tỷ_số cho đội chủ nhà 
-7,than quảng_ninh vẫn là đội chơi rất chủ_động trên sân 
-8,phút 21  đội chủ nhà có sự thay người bất_đắc_dĩ 
-9,cầu_thủ trẻ bùi_tiến_dụng vào sân thay cho bùi_văn_hiếu phải rời sân trên băng cáng vì chấn_thương 
-10,chỉ ít phút sau  nghiêm_xuân_tú từ cánh phải tạt bóng vào vòng cấm cho dyachenko trong tư_thế đánh_đầu đưa bóng trúng xà_ngang cần_thơ 
-11,sau đó  hải_huy_băng vào đá bồi nhưng vẫn không đánh_bại được thủ_môn thanh_diệp 
-12,ở tình_huống cuối_cùng  bisan_george sút bóng cận thành tung_lưới cần_thơ 
-13,sớm bị dẫn trước 2 bàn cầu_thủ cần_thơ đã không giữ được bình_tĩnh 
-14,phút 28  đội_trưởng trần_chí_công_nhận thẻ_vàng sau pha đánh cùi_chỏ với tiền_đạo dyachenko 
-15,phút 29  thanh_hiền sút phạt đưa bóng vượt qua hàng_rào trước khi trúng xà_ngang khung_thành cần_thơ 
-16,nỗ_lực của cần_thơ cuối_cùng cũng được đền_đáp 
-17,phút 36  patiyo tận_dụng sai_lầm đáng trách của hàng thủ than quảng_ninh để dễ_dàng dứt_điểm từ cự ly gần rút ngắn tỷ_số 
-18,hiệp 1 khép lại với tỷ_số 21 nghiêng về đội chủ nhà 
-19,sang hiệp 2 cả hai đội đều chơi rất cố_gắng nhưng không có nhiều cơ_hội nguy_hiểm được tạo ra  chung_cuộc than quảng_ninh giành chiến_thắng 
-20,đội_hình xuất_phát  than quảng_ninh  tuấn_linh  văn_khoa  minh_tùng  văn_hiếu  dyachenko  bisan  hoa_hùng  hải_huy  hồng_quân  tuấn_tú  xuân_tú 
+0,trận đấu giữa than quảng_ninh cần_thơ chú_ý hơn phản_ứng hội_cđv đất mỏ
+1,cuộc_chiến_công_văn giữa hội cđv than quảng_ninh vpf đến đỉnh_điểm vpf nhất_quyết bỏ lệnh_cấm mang loa điện sân trong hội cđv than quảng_ninh dọa tẩy_chay đến sân cổ_vũ hoặc đeo khẩu_trang phản_đối vpf
+2,vpf khẳng_định ý đối_đầu cđv sẵn_sàng chấp_nhận tình_huống xấu nhất xảy
+3,đúng tuyên_bố mình hội_cđv_than quảng_ninh quyết_định tẩy_chay trận đấu cụ_thể cổ_vũ đội bóng ở phía ngoài sân_vận_động khẩu_hiệu băng rôn khẩu_trang phản_đối btc giải vpf
+4,cđv than quảng_ninh hành_động hài_hước nhằm phản_đối quy_định cấm sử_dụng loa điện dàn âm_thanh cổ_vũ trận đấu vpf
+5,trở_lại trận đấu cồ vũ đông đảo cđv cuồng_nhiệt mọi than quảng_ninh nhập_cuộc đầy hưng_phấn
+6,ở phút thứ 9 dyachenko đánh đầu chuẩn_xác ở cự ly gần mang về bàn mở tỷ_số đội chủ nhà
+7,than quảng_ninh đội chơi chủ_động sân
+8,phút 21 đội chủ nhà thay người bất_đắc_dĩ
+9,cầu_thủ trẻ bùi_tiến_dụng sân thay bùi_văn_hiếu rời sân băng cáng chấn_thương
+10,ít phút nghiêm_xuân_tú cánh tạt bóng vòng cấm dyachenko trong tư_thế đánh_đầu đưa bóng trúng xà_ngang cần_thơ
+11,hải_huy_băng đá bồi đánh_bại thủ_môn thanh_diệp
+12,ở tình_huống cuối_cùng bisan_george sút bóng cận thành tung_lưới cần_thơ
+13,sớm dẫn 2 bàn cầu_thủ cần_thơ giữ bình_tĩnh
+14,phút 28 đội_trưởng trần_chí_công_nhận thẻ_vàng pha đánh cùi_chỏ tiền_đạo dyachenko
+15,phút 29 thanh_hiền sút phạt đưa bóng vượt hàng_rào trúng xà_ngang khung_thành cần_thơ
+16,nỗ_lực cần_thơ cuối_cùng đền_đáp
+17,phút 36 patiyo tận_dụng sai_lầm đáng trách hàng thủ than quảng_ninh dễ_dàng dứt_điểm cự ly gần rút ngắn tỷ_số
+18,hiệp 1 khép tỷ_số 21 nghiêng về đội chủ nhà
+19,sang hiệp 2 hai đội chơi cố_gắng cơ_hội nguy_hiểm tạo chung_cuộc than quảng_ninh giành chiến_thắng
+20,đội_hình xuất_phát than quảng_ninh tuấn_linh văn_khoa minh_tùng văn_hiếu dyachenko bisan hoa_hùng hải_huy hồng_quân tuấn_tú xuân_tú

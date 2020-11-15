@@ -1,7 +1,7 @@
 idx, sentence
-0,sáng nay  23/5   cơ_quan_chức_năng quận 2  tphcm  đang tiến_hành phong_toả khám_nghiệm hiện_trường nơi phát_hiện thi_thể người trong bao_tải trắng 
-1,thông_tin ban_đầu  rạng sáng cùng một phụ_nữ trong lúc nhặt ve_chai tại khu đất trống cạnh chung_cư thạnh_mỹ_lợi  phường thạnh_mỹ_lợi  quận 2  tphcm  thì nhìn thấy bao_tải trắng nằm dưới bụi cây 
-2,đến gần quan_sát và mở bao_tải ra  thì người này tá_hỏa khi phát_hiện thi_thể người nằm bên trong 
-3,quá kinh_hãi người này đã bỏ chạy và truy_hô 
-4,ngay sau đó lực_lượng công_an  bảo_vệ dân_phố_phường thạnh_mỹ_lợi nhanh_chóng có_mặt phong_toả hiện_trường  giữ_gìn an_ninh trật_tự 
-5,nhận được tin báo  công_an quận 2 có_mặt ghi_nhận hiện_trường và lời khai những nhân_chứng để xác_minh danh_tính nạn_nhân 
+0,sáng nay 23/5 cơ_quan_chức_năng quận 2 tphcm tiến_hành phong_toả khám_nghiệm hiện_trường phát_hiện thi_thể người trong bao_tải trắng
+1,thông_tin ban_đầu rạng sáng một phụ_nữ trong nhặt ve_chai khu đất trống cạnh chung_cư thạnh_mỹ_lợi phường thạnh_mỹ_lợi quận 2 tphcm nhìn thấy bao_tải trắng nằm bụi cây
+2,đến gần quan_sát mở bao_tải người tá_hỏa phát_hiện thi_thể người nằm bên trong
+3,quá kinh_hãi người bỏ chạy truy_hô
+4,lực_lượng công_an bảo_vệ dân_phố_phường thạnh_mỹ_lợi nhanh_chóng có_mặt phong_toả hiện_trường giữ_gìn an_ninh trật_tự
+5,nhận tin báo công_an quận 2 có_mặt ghi_nhận hiện_trường lời khai nhân_chứng xác_minh danh_tính nạn_nhân

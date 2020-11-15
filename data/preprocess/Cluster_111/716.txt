@@ -1,12 +1,12 @@
 idx, sentence
-0,chiều 23/5  phòng cảnh_sát hình_sự công_an tỉnh quảng_nam cho_biết  vừa bắt khẩn_cấp nhóm đối_tượng lừa_đảo hàng trăm triệu đồng_bằng thủ_đoạn bán vàng giả cho các tiệm vàng 
-1,bọn chúng gồm đặng_xuân_hoa_diễm  31 tuổi  ngụ thôn 1  xã tân_sơn  tp pleiku  tỉnh gia_lai  và phạm_ngọc_tuấn  22 tuổi  thôn mỹ_thạch 3  thị_trấn chư_sê  huyện chư_sê  tỉnh gia_lai   tin_tức đăng_tải trên báo_công_an nhân_dân 
-2,ngày 11/5  tại tiệm vàng nt  xã tam_hải  huyện núi_thành  tỉnh quảng_nam  có một cô gái đi xe_máy đến bán 01 lắc vàng 
-3,anh phan_châu_t  chủ tiệm vàng  đem vào kiểm_tra thì phát_hiện vàng giả nên đã báo cơ_quan công_an đến bắt_giữ đối_tượng này 
-4,qua đấu_tranh  đối_tượng khai tên là đặng_xuân_hoa_diễm 
-5,từ ngày 9/4 đến ngày 11/5  diễm cùng với phạm_ngọc_tuấn  phan_văn_hoàn  31 tuổi  ngụ thôn 3  xã biển_hồ  tp_pleiku  thực_hiện trót_lọt 8 vụ lừa_đảo chiếm_đoạt tài_sản bằng cách bán hoặc cầm_cố vàng giả cho các tiệm vàng 
-6,trong các phi_vụ  diễm và tuấn trực_tiếp giao_dịch với các tiệm vàng tại nhiều huyện của tỉnh quảng_nam như tiên_phước  bắc trà_my  tam_kỳ  núi_thành 
-7,bọn chúng viện lý_do bán vàng cưới để trang_trải nợ_nần khiến các chủ tiệm mất cảnh_giác 
-8,có tiệm vàng vl tại tp tam_kỳ trước đó đã nhiều lần cầm_cố vàng thật của đối_tượng diễm nên khi diễm đến cầm 5 sợi dây_chuyền và 3 lắc vàng giả nhưng chủ tiệm không hề nghi_ngờ 
-9,được biết  3 đối_tượng trên đều không có nghề_nghiệp  đi lang_thang nhiều nơi để lừa_đảo 
-10,trong đó  đối_tượng tuấn có 1 tiền_án  hoàn có 2 tiền_án 
+0,chiều 23/5 phòng cảnh_sát hình_sự công_an tỉnh quảng_nam cho_biết bắt khẩn_cấp nhóm đối_tượng lừa_đảo hàng trăm triệu đồng_bằng thủ_đoạn bán vàng giả tiệm vàng
+1,bọn chúng gồm đặng_xuân_hoa_diễm 31 tuổi ngụ thôn 1 xã tân_sơn tp pleiku tỉnh gia_lai phạm_ngọc_tuấn 22 tuổi thôn mỹ_thạch 3 thị_trấn chư_sê huyện chư_sê tỉnh gia_lai tin_tức đăng_tải báo_công_an nhân_dân
+2,ngày 11/5 tiệm vàng nt xã tam_hải huyện núi_thành tỉnh quảng_nam một cô gái đi xe_máy đến bán 01 lắc vàng
+3,anh phan_châu_t chủ tiệm vàng đem kiểm_tra phát_hiện vàng giả báo cơ_quan công_an đến bắt_giữ đối_tượng
+4,đấu_tranh đối_tượng khai tên đặng_xuân_hoa_diễm
+5,ngày 9/4 đến ngày 11/5 diễm phạm_ngọc_tuấn phan_văn_hoàn 31 tuổi ngụ thôn 3 xã biển_hồ tp_pleiku thực_hiện trót_lọt 8 vụ lừa_đảo chiếm_đoạt tài_sản bằng cách bán hoặc cầm_cố vàng giả tiệm vàng
+6,trong phi_vụ diễm tuấn trực_tiếp giao_dịch tiệm vàng huyện tỉnh quảng_nam tiên_phước bắc trà_my tam_kỳ núi_thành
+7,bọn chúng viện lý_do bán vàng cưới trang_trải nợ_nần khiến chủ tiệm mất cảnh_giác
+8,tiệm vàng vl tp tam_kỳ lần cầm_cố vàng thật đối_tượng diễm diễm đến cầm 5 sợi dây_chuyền 3 lắc vàng giả chủ tiệm hề nghi_ngờ
+9,biết 3 đối_tượng nghề_nghiệp đi lang_thang lừa_đảo
+10,trong đối_tượng tuấn 1 tiền_án hoàn 2 tiền_án

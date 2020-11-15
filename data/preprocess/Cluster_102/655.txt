@@ -1,12 +1,12 @@
 idx, sentence
-0,thông_cáo nêu rõ  hai bên đã mở_rộng hợp_tác trong lĩnh_vực hỗ_trợ nhân_đạo và cứu_trợ thảm_họa 
-1,hoa_kỳ hiện_nay đang ngày_càng củng_cố hợp_tác an nnh với vn  nhất_là việc giúp vn tăng_cường các khả_năng an_ninh hàng_hải bằng cách cung_cấp hơn 457 triệu usd kể từ năm tài_khóa 2014 
-2,nhà trắng cho biết  hiện mỹ đang xem_xét cung_cấp cho việt_nam 18 tàu tuần_tra cao_tốc metalshark cũng như các trang_thiết_bị và đào_tạo cho lực_lượng thực_thi pháp_luật hàng_hải 
-3,thông_cáo nhấn_mạnh  hải_quân hai nước đang hợp_tác chặt_chẽ hơn để đảm_bảo an_ninh và an_toàn hàng_hải 
-4,hiện_tại  metal_shark đang có 3 mẫu tàu tuần_tra lớp defiant gồm 165  140 và 100 
-5,loại tàu này được thiết_kế theo phương_án người dùng có_thể điều_chỉnh được các khoang tàu đáp_ứng yêu_cầu sử_dụng 
-6,các động_cơ tăng tốc_độ cao dễ_dàng được lắp_đặt trong khoang sau của tàu  khoang này cho_phép các động_cơ tăng_tốc được tích_hợp_lực trên một đường_trục thẳng tâm đuôi tàu 
-7,tổ_hợp đóng tàu metal_shark có rất nhiều kinh_nghiệm sản_xuất các tàu tuần biển cho lực_lượng bảo_vệ bờ biển  hải_quân  không_quân mỹ cũng như cung_cấp các tàu tuần biển cho lực_lượng_vũ_trang nhiều nước 
-8,các tàu đều sử_dụng kiểu thiết_kế mở_rộng  trong đó phần thân được kéo_dài tạo_hình_dáng thon  giúp nâng cao đáng_kể khả_năng hoạt_động trên biển 
-9,nhiều ý_kiến cho rằng  các tàu tuần_tra mỹ cung_cấp cho vn khá đáng gờm 
-10,nó không hẳn nằm ở công_nghệ đóng tàu hay vũ_khí mang theo  mà chính là khả_năng chúng có_thể được kết_nối với hệ_thống trinh_sát tình_báo  theo_dõi và cảnh_báo sớm của mỹ và các đồng_minh trong khu_vực 
+0,thông_cáo nêu rõ hai bên mở_rộng hợp_tác trong lĩnh_vực hỗ_trợ nhân_đạo cứu_trợ thảm_họa
+1,hoa_kỳ hiện_nay ngày_càng củng_cố hợp_tác an nnh vn nhất_là giúp vn tăng_cường khả_năng an_ninh hàng_hải bằng cách cung_cấp hơn 457 triệu usd kể năm tài_khóa 2014
+2,nhà trắng biết hiện mỹ xem_xét cung_cấp việt_nam 18 tàu tuần_tra cao_tốc metalshark trang_thiết_bị đào_tạo lực_lượng thực_thi pháp_luật hàng_hải
+3,thông_cáo nhấn_mạnh hải_quân hai nước hợp_tác chặt_chẽ hơn đảm_bảo an_ninh an_toàn hàng_hải
+4,hiện_tại metal_shark 3 mẫu tàu tuần_tra lớp defiant gồm 165 140 100
+5,loại tàu thiết_kế phương_án người dùng điều_chỉnh khoang tàu đáp_ứng yêu_cầu sử_dụng
+6,động_cơ tăng tốc_độ cao dễ_dàng lắp_đặt trong khoang tàu khoang cho_phép động_cơ tăng_tốc tích_hợp_lực một đường_trục thẳng tâm đuôi tàu
+7,tổ_hợp đóng tàu metal_shark kinh_nghiệm sản_xuất tàu tuần biển lực_lượng bảo_vệ bờ biển hải_quân không_quân mỹ cung_cấp tàu tuần biển lực_lượng_vũ_trang nước
+8,tàu sử_dụng kiểu thiết_kế mở_rộng trong phần thân kéo_dài tạo_hình_dáng thon giúp nâng cao đáng_kể khả_năng hoạt_động biển
+9,ý_kiến tàu tuần_tra mỹ cung_cấp vn khá đáng gờm
+10,nó hẳn nằm ở công_nghệ đóng tàu hay vũ_khí mang chính khả_năng chúng kết_nối hệ_thống trinh_sát tình_báo theo_dõi cảnh_báo sớm mỹ đồng_minh trong khu_vực

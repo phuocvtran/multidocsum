@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 20/5  đội csđt tội_phạm về ttxh công_an quận thủ_đức  tphcm cho biết  đang lập hồ_sơ bàn_giao đối_tượng nguyễn_anh_tuấn  42 tuổi  ngụ quận bình_thạnh  cho công_an quận bình_thạnh  tphcm tiếp_tục xử_lý theo thẩm_quyền về hành_vi “ trộm_cắp tài_sản ”  tin_tức đăng_tải trên báo dân_trí 
-1,theo báo thanh_niên  đầu tháng 2/2016  tuấn lái taxi chở chị nguyễn_thị_diễm_thúy  26 tuổi  từ sân_bay tân_sơn_nhất về nhà tại đường số 4  kp 3  ptam_phú  qthủ_đức 
-2,tới nhà  chị thúy đưa cho tuấn một thẻ atm  đọc mật_khẩu để thanh_toán hơn 200000 đồng tiền cước taxi 
-3,sau đó  tuấn chạy đi thì phát_hiện chị thúy để quên chiếc ví ở ghế phía sau nên nảy_sinh ý_định chiếm_đoạt 
+0,ngày 20/5 đội csđt tội_phạm về ttxh công_an quận thủ_đức tphcm biết lập hồ_sơ bàn_giao đối_tượng nguyễn_anh_tuấn 42 tuổi ngụ quận bình_thạnh công_an quận bình_thạnh tphcm tiếp_tục xử_lý thẩm_quyền về hành_vi “ trộm_cắp tài_sản ” tin_tức đăng_tải báo dân_trí
+1,báo thanh_niên đầu tháng 2/2016 tuấn lái taxi chở chị nguyễn_thị_diễm_thúy 26 tuổi sân_bay tân_sơn_nhất về nhà đường số 4 kp 3 ptam_phú qthủ_đức
+2,tới nhà chị thúy đưa tuấn một thẻ atm đọc mật_khẩu thanh_toán hơn 200000 đồng tiền cước taxi
+3,tuấn chạy đi phát_hiện chị thúy quên ví ở ghế phía nảy_sinh ý_định chiếm_đoạt

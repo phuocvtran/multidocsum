@@ -1,33 +1,33 @@
 idx, sentence
-0,brandon cipes – phó chủ_tịch hệ_thống thông_tin tại oceanx đã có khoảng thời_gian dài làm ở nhiều vị_trí cấp cao trong mảng công_nghệ_thông_tin đặc_biệt ghét các cuộc gọi bán hàng 
-1,điều đáng nói là trước đây cipes không như vậy 
-2,suy_nghĩ của anh bắt_đầu thay_đổi khi gửi bức thư_điện_tử tới cho nhà_sản_xuất phần_mềm atlassian và yêu_cầu công_ty này gửi đến một người đại_diện bán hàng 
-3,tuy_nhiên  phía atlassian nói rằng họ sẽ không làm vậy 
-4,thực_tế atlassian_– công_ty làm ra những phần_mềm quản_lý dự_án và ứng_dụng trò truyện nổi_tiếng như jira và hipchat có trụ_sở ở australia không hề có bất_kỳ nhân_viên kinh_doanh nào cả 
-5,ban_đầu  cách_thức kinh_doanh của atlassian được coi là một hiện_tượng bất_thường trong thế_giới của các công_ty phần_mềm tại australia 
-6,tuy_nhiên sau đó  atlassian lại trở_thành người tiên_phong trong việc sử_dụng phương_thức truyền_miệng  thay_vì thuê nhân_viên sales để xây_dựng thị_phần 
-7,“ khách_hàng không muốn gọi cho nhân_viên kinh_doanh nếu không cần_thiết ”  theo scott_farquhar – ceo của atlassian 
-8,“ họ thích tự tìm câu trả_lời trên website hơn ” 
-9,nhìn_chung  cách các công_ty công_nghệ bán phần_mềm đã thay_đổi đáng_kể trong khoảng 1 thập_kỷ qua 
-10,sự xuất_hiện của mã nguồn mở đã tạo ra nhiều đối_thủ cạnh_tranh mới với những hình_thức khuyến_mại như cung_cấp bản dùng thử miễn_phí  cài_đặt phần_mềm miễn_phí và chỉ phải trả tiền khi cập nhập bản mới hay những khuyến_mại trực_tuyến  cho tới nay  atlassian vẫn là ví_dụ điển_hình nhất cho mô_hình kinh_doanh dạng này 
-11,là công_ty 14 năm tuổi được định_giá 5 tỉ usd kể từ sau khi ipo vào tháng 9  họ đã không cần thuê bất_kỳ một nhân_viên kinh_doanh nào cả 
-12,hơn 80 công_ty trong danh_sách fortune 100 hiện đang sử_dụng phần_mềm của atlassian 
-13,ngoài_ra có rất nhiều công_ty hoạt_động trong cùng ngành đang tính đến việc học_hỏi chiến_lược bán hàng như của atlassian 
-14,kể về những ngày đầu thành_lập nên atlassian  farquhar nói rằng ông cùng đồng ceo_mike_cannonbrookes mở công_ty trong lúc đang làm khóa_luận kết_thúc những năm_học chuyên_ngành khoa_học máy_tính tại đại_học new_south_wales 
-15,ban_đầu  việc bán hàng của công_ty hầu_như chỉ dựa vào sự truyền_miệng bởi cả hai nhà sáng_lập đều không có chuyên_môn gì về bán phần_mềm 
-16,bước đột_phá đầu_tiên của họ tới một_vài tháng sau đó  khi website của công_ty bắt_đầu cho_phép khách_hàng tải bản dùng thử miễn_phí 
-17,ngay sao đó  các đơn đặt_hàng bắt_đầu xuất_hiện và chúng được gửi thông_qua máy_fax bởi công_ty chưa hề trang_bị chức_năng mua hàng 
-18,một ngày  chiếc máy_fax đã gửi đến đơn hàng từ america_airlines 
-19,được biết một_vài nhân_viên phòng it của hãng hàng_không này đã tải phần_mềm trên websites mà không cần tới sự trợ_giúp của atlassian 
-20,“ đó là một bước_tiến quan_trọng đối_với công_ty chúng_tôi ”  farquhar nói và chia_sẻ thêm rằng điều đó càng khiến anh tin_tưởng vào việc mình hoàn_toàn có_thể gây_dựng doanh_nghiệp mà không cần tuyển_dụng những nhân_viên bán hàng chuyên_dụng 
-21,năm nay  các chuyên_gia dự_báo rằng doanh_thu của atlassian sẽ đạt mức cao nhất lên tới 450 triệu usd 
-22,năm_ngoái  khi doanh_số bán hàng đạt 320 triệu usd  chi_phí bán hàng và marketing của công_ty  đa_phần là quảng_cáo và trả tiền cho các đối_tác  chỉ chiếm 1/5 trong số đó 
-23,trái_lại  một hãng phần_mềm khác là salesforce đã phải chi tới một_nửa doanh_thu vào việc bán hàng và tiếp_thị 
-24,còn với box con_số này lên tới 80  
-25,jay_simons  chủ_tịch của atlassian nói rằng việc tiết_kiệm được chi_phí trả cho nhân_viên bán hàng có nghĩa là mức giá sản_phẩm sẽ rẻ hơn và có_thể tập_trung đầu_tư nhiều hơn vào nghiên_cứu  phát_triển  cải_tiến phần_mềm  khiến nó dễ dùng hơn  thúc_đẩy người mua hàng 
-26,dẫu vậy  những doanh_nhân và chuyên_gia tại thung_lũng silicon tỏ ra không đồng_tình với cách_thức hoạt_động của atlassian 
-27,“ khi có đội_ngũ nhân_viên bán hàng  doanh_thu sẽ tăng_tốc nhanh gấp nhiều lần so với chi_phí ”  theo peter_levine  đối_tác tại quỹ andreessen_horowitz 
-28,còn tomasz_tunguz  một đối_tác tại redpoint_ventures thì nói rằng  “ tôi không nghĩ rằng thành_công của atlassian có_thể_nhân rộng ” 
-29,các công_ty khởi_nghiệp bao_gồm cả dropbox và slack lại đang sử_dụng  phương_pháp hỗn_hợp  tức_là cố_gắng gây_dựng nên những khách_hàng đầu_tiên tại một công_ty sau đó thiết_lập đội_ngũ bán hàng một_khi số_lượng khách_hàng đông hơn 
-30,ngay cả hp_enterprise cũng đang thử_nghiệm việc bán hàng trực_tuyến và cho_phép khách_hàng dùng thử phần_mềm trước khi mua 
-31,vấn_đề của atlassian là họ đang phải đối_mặt với một thị_trường quá đông_đúc  và họ không biết rõ liệu công_ty có_thể tiếp_tục mở_rộng hay không  ông john_difucci  một nhà phân_tích tại jefferies nói 
+0,brandon cipes – phó chủ_tịch hệ_thống thông_tin oceanx khoảng thời_gian dài làm ở vị_trí cấp cao trong mảng công_nghệ_thông_tin đặc_biệt ghét cuộc gọi bán hàng
+1,đáng nói cipes
+2,suy_nghĩ anh bắt_đầu thay_đổi gửi bức thư_điện_tử tới nhà_sản_xuất phần_mềm atlassian yêu_cầu công_ty gửi đến một người đại_diện bán hàng
+3,tuy_nhiên phía atlassian nói họ làm
+4,thực_tế atlassian_– công_ty làm phần_mềm quản_lý dự_án ứng_dụng trò truyện nổi_tiếng jira hipchat trụ_sở ở australia hề bất_kỳ nhân_viên kinh_doanh nào
+5,ban_đầu cách_thức kinh_doanh atlassian coi một hiện_tượng bất_thường trong thế_giới công_ty phần_mềm australia
+6,tuy_nhiên atlassian trở_thành người tiên_phong trong sử_dụng phương_thức truyền_miệng thay_vì thuê nhân_viên sales xây_dựng thị_phần
+7,“ khách_hàng muốn gọi nhân_viên kinh_doanh cần_thiết ” scott_farquhar – ceo atlassian
+8,“ họ thích tự tìm câu trả_lời website hơn ”
+9,nhìn_chung cách công_ty công_nghệ bán phần_mềm thay_đổi đáng_kể trong khoảng 1 thập_kỷ
+10,xuất_hiện mã nguồn mở tạo đối_thủ cạnh_tranh mới hình_thức khuyến_mại cung_cấp bản dùng thử miễn_phí cài_đặt phần_mềm miễn_phí trả tiền cập nhập bản mới hay khuyến_mại trực_tuyến tới nay atlassian ví_dụ điển_hình nhất mô_hình kinh_doanh dạng
+11,công_ty 14 năm tuổi định_giá 5 tỉ usd kể ipo tháng 9 họ thuê bất_kỳ một nhân_viên kinh_doanh nào
+12,hơn 80 công_ty trong danh_sách fortune 100 hiện sử_dụng phần_mềm atlassian
+13,ngoài_ra công_ty hoạt_động trong ngành tính đến học_hỏi chiến_lược bán hàng atlassian
+14,kể về ngày đầu thành_lập atlassian farquhar nói ông đồng ceo_mike_cannonbrookes mở công_ty trong làm khóa_luận kết_thúc năm_học chuyên_ngành khoa_học máy_tính đại_học new_south_wales
+15,ban_đầu bán hàng công_ty hầu_như dựa truyền_miệng hai nhà sáng_lập chuyên_môn về bán phần_mềm
+16,bước đột_phá đầu_tiên họ tới một_vài tháng website công_ty bắt_đầu cho_phép khách_hàng tải bản dùng thử miễn_phí
+17,sao đơn đặt_hàng bắt_đầu xuất_hiện chúng gửi thông_qua máy_fax công_ty hề trang_bị chức_năng mua hàng
+18,một ngày máy_fax gửi đến đơn hàng america_airlines
+19,biết một_vài nhân_viên phòng it hãng hàng_không tải phần_mềm websites tới trợ_giúp atlassian
+20,“ một bước_tiến quan_trọng đối_với công_ty chúng_tôi ” farquhar nói chia_sẻ thêm khiến anh tin_tưởng mình hoàn_toàn gây_dựng doanh_nghiệp tuyển_dụng nhân_viên bán hàng chuyên_dụng
+21,năm nay chuyên_gia dự_báo doanh_thu atlassian đạt mức cao nhất tới 450 triệu usd
+22,năm_ngoái doanh_số bán hàng đạt 320 triệu usd chi_phí bán hàng marketing công_ty đa_phần quảng_cáo trả tiền đối_tác chiếm 1/5 trong số
+23,trái_lại một hãng phần_mềm khác salesforce chi tới một_nửa doanh_thu bán hàng tiếp_thị
+24,còn box con_số tới 80
+25,jay_simons chủ_tịch atlassian nói tiết_kiệm chi_phí trả nhân_viên bán hàng nghĩa mức giá sản_phẩm rẻ hơn tập_trung đầu_tư hơn nghiên_cứu phát_triển cải_tiến phần_mềm khiến nó dễ dùng hơn thúc_đẩy người mua hàng
+26,dẫu doanh_nhân chuyên_gia thung_lũng silicon tỏ đồng_tình cách_thức hoạt_động atlassian
+27,“ đội_ngũ nhân_viên bán hàng doanh_thu tăng_tốc nhanh gấp lần chi_phí ” peter_levine đối_tác quỹ andreessen_horowitz
+28,còn tomasz_tunguz một đối_tác redpoint_ventures nói “ tôi nghĩ thành_công atlassian có_thể_nhân rộng ”
+29,công_ty khởi_nghiệp bao_gồm dropbox slack sử_dụng phương_pháp hỗn_hợp tức_là cố_gắng gây_dựng khách_hàng đầu_tiên một công_ty thiết_lập đội_ngũ bán hàng một_khi số_lượng khách_hàng đông hơn
+30,hp_enterprise thử_nghiệm bán hàng trực_tuyến cho_phép khách_hàng dùng thử phần_mềm mua
+31,vấn_đề atlassian họ đối_mặt một thị_trường quá đông_đúc họ biết rõ liệu công_ty tiếp_tục mở_rộng hay ông john_difucci một nhà phân_tích jefferies nói

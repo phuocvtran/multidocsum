@@ -1,11 +1,11 @@
 idx, sentence
-0,hãng tin yonhap  hàn_quốc  dẫn bản_tin của đài_voa  mỹ  ngày 195 cho biết kim_yojong  em_gái của lãnh_đạo triều_tiên kim_jongun  vẫn chưa lấy chồng 
-1,thông_tin này được một người triều_tiên đào_tẩu sang hàn_quốc hồi năm 2015 cung_cấp  người này bác_bỏ những tin_đồn về đám_cưới của cô kim_yojong 
-2,trước đó  có tin_đồn cho rằng em_gái lãnh_đạo kim đã kết_hôn với con_trai của bí_thư đảng lao_động triều_tiên choe_ryonghae 
-3,một thông_tin khác lại khẳng_định cô đã kết_hôn với một quan_chức trẻ trong đảng  cũng có người nói kim_yojong đã cưới một nhà_khoa_học xuất_thân từ một gia_đình bình_thường ở triều_tiên 
-4,thậm_chí hồi tháng 42015  cơ_quan tình_báo hàn_quốc loan tin cô kim_yojong có_thể sinh con trong tháng 52015 và chồng của cô có_thể là cựu sinh_viên đại_học kim nhật_thành  nơi cô này từng học 
-5,theo yonhap  mới_đây  đầu_bếp kenji_fujimoto  người đã làm_việc với cố lãnh_đạo kim_jongil cũng khẳng_định cô kim_yojong chưa kết_hôn 
-6,thông_tin này được ông fujimoto tiết_lộ trong cuốn hồi_ký được viết sau khi tới thăm bình nhưỡng từ ngày 1223  42016 
-7,ông kenji_fujimoto nói rằng trong chuyến thăm đó ông đã ăn tối với cả lãnh_đạo kim_jongun  cô kim_yojong và ông choe_ryonghae 
-8,ông kenji_fujimoto là một trong số_ít người nước_ngoài chứng_kiến nhà lãnh_đạo kim_jongun lớn lên  vì ông đã làm đầu_bếp cho cố lãnh_đạo kim_jongil trong suốt 13 năm  với món chủ_lực là sushi 
-9,cũng theo thông_tin từ voa  người triều_tiên đào_tẩu nói trên còn cho biết con_trai ông choe_ryonghae  người được đồn là chồng của kim_yojong  đã chết vì tai_nạn giao_thông từ năm 2013 
+0,hãng tin yonhap hàn_quốc dẫn bản_tin đài_voa mỹ ngày 195 biết kim_yojong em_gái lãnh_đạo triều_tiên kim_jongun lấy chồng
+1,thông_tin một người triều_tiên đào_tẩu sang hàn_quốc hồi năm 2015 cung_cấp người bác_bỏ tin_đồn về đám_cưới cô kim_yojong
+2,tin_đồn em_gái lãnh_đạo kim kết_hôn con_trai bí_thư đảng lao_động triều_tiên choe_ryonghae
+3,một thông_tin khác khẳng_định cô kết_hôn một quan_chức trẻ trong đảng người nói kim_yojong cưới một nhà_khoa_học xuất_thân một gia_đình bình_thường ở triều_tiên
+4,thậm_chí hồi tháng 42015 cơ_quan tình_báo hàn_quốc loan tin cô kim_yojong sinh con trong tháng 52015 chồng cô cựu sinh_viên đại_học kim nhật_thành cô học
+5,yonhap mới_đây đầu_bếp kenji_fujimoto người làm_việc cố lãnh_đạo kim_jongil khẳng_định cô kim_yojong kết_hôn
+6,thông_tin ông fujimoto tiết_lộ trong cuốn hồi_ký viết tới thăm bình nhưỡng ngày 1223 42016
+7,ông kenji_fujimoto nói trong chuyến thăm ông ăn tối lãnh_đạo kim_jongun cô kim_yojong ông choe_ryonghae
+8,ông kenji_fujimoto một trong số_ít người nước_ngoài chứng_kiến nhà lãnh_đạo kim_jongun lớn ông làm đầu_bếp cố lãnh_đạo kim_jongil trong suốt 13 năm món chủ_lực sushi
+9,thông_tin voa người triều_tiên đào_tẩu nói còn biết con_trai ông choe_ryonghae người đồn chồng kim_yojong chết tai_nạn giao_thông năm 2013

@@ -1,7 +1,7 @@
 idx, sentence
-0,bộ thương_mại mỹ đã nâng thuế nhập_khẩu thép trung_quốc lên 522  
-1,quyết_định tên được đưa ra trong bối_cảnh căng_thẳng thương_mại gia_tăng giữa washington và bắc_kinh liên_quan đến nhiều mặt_hàng bao_gồm thịt gà 
-2,bbc cho biết  mức thuế mới sẽ được áp_dụng cho các mặt_hàng thép cuộn cán nguội được sử_dụng trong ngành sản_xuất ôtô  đóng tàu và xây_dựng 
-3,thép được xem là một vấn_đề đặc_biệt nhạy_cảm trong quan_hệ thương_mại song_phương giữa trung_quốc và mỹ cũng như giữa trung_quốc và châu_âu 
-4,các công_ty thép lớn của mỹ đã cùng ký đơn_kiện gửi lên ủy_ban thương_mại_quốc_tế  itc   đề_xuất cấm nhập_khẩu tất_cả các mặt_hàng thép của trung_quốc 
-5,theo số_liệu thống_kê của ngành thép mỹ  khoảng 12000 công_nhân nước này đã bị sa_thải trong năm_ngoái do sự cạnh_tranh gay_gắt từ phía trung_quốc đã khiến sản_phẩm tiêu_thụ khó_khăn 
+0,bộ thương_mại mỹ nâng thuế nhập_khẩu thép trung_quốc 522
+1,quyết_định tên đưa trong bối_cảnh căng_thẳng thương_mại gia_tăng giữa washington bắc_kinh liên_quan đến mặt_hàng bao_gồm thịt gà
+2,bbc biết mức thuế mới áp_dụng mặt_hàng thép cuộn cán nguội sử_dụng trong ngành sản_xuất ôtô đóng tàu xây_dựng
+3,thép xem một vấn_đề đặc_biệt nhạy_cảm trong quan_hệ thương_mại song_phương giữa trung_quốc mỹ giữa trung_quốc châu_âu
+4,công_ty thép lớn mỹ ký đơn_kiện gửi ủy_ban thương_mại_quốc_tế itc đề_xuất cấm nhập_khẩu tất_cả mặt_hàng thép trung_quốc
+5,số_liệu thống_kê ngành thép mỹ khoảng 12000 công_nhân nước sa_thải trong năm_ngoái cạnh_tranh gay_gắt phía trung_quốc khiến sản_phẩm tiêu_thụ khó_khăn

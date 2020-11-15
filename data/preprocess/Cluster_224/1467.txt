@@ -1,5 +1,5 @@
 idx, sentence
-0,trước đó  tối 305  tàu cá đna 90604 của ông nguyễn_sương  ngụ qsơn_trà  tpđà_nẵng   do ông nguyễn_văn_phú làm thuyền_trưởng  đang hành_nghề tại 1916 độ_vĩ bắc  10553 độ_kinh đông thì bị nghiêng và chìm 
-1,lúc này  tàu đang ở vị_trí cách nghi_sơn  thanh_hóa khoảng 5 hải_lý về hướng đông_nam 
-2,vào thời_điểm trên  tàu cá đna 90603 cũng của ông sương đang ở gần đó đã đến cứu_vớt được 11 ngư_dân  2 người còn lại mất_tích 
-3,2 tàu cá trên của ông sương đều là tàu đánh_bắt có công_suất lớn nhất đà_nẵng hiện_nay với 1150 cv  hạ thủy từ 2452014 
+0,tối 305 tàu cá đna 90604 ông nguyễn_sương ngụ qsơn_trà tpđà_nẵng ông nguyễn_văn_phú làm thuyền_trưởng hành_nghề 1916 độ_vĩ bắc 10553 độ_kinh đông nghiêng chìm
+1,tàu ở vị_trí cách nghi_sơn thanh_hóa khoảng 5 hải_lý về hướng đông_nam
+2,thời_điểm tàu cá đna 90603 ông sương ở gần đến cứu_vớt 11 ngư_dân 2 người còn mất_tích
+3,2 tàu cá ông sương tàu đánh_bắt công_suất lớn nhất đà_nẵng hiện_nay 1150 cv hạ thủy 2452014

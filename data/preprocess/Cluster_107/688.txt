@@ -1,8 +1,8 @@
 idx, sentence
-0,tổ_chức nhà_nước hồi giao  is  tự_xưng đã lên tiếng nhận trách_nhiệm về các vụ tấn_công thông_qua hãng tin amaq  cơ_quan tuyên_truyền của nhóm khủng_bố này 
-1,theo ikhbariya_tv  ba vụ nổ xảy ra gần ga tàu thành_phố jableh  trong khi hãng thông_tấn ria novosti đưa tin về vụ nổ thứ tư xảy ra ở khoa cấp_cứu một bệnh_viện địa_phương 
-2,các vụ nổ đã khiến 45 người thiệt_mạng  các nguồn tin cảnh_sát ban_đầu nói với ria 
-3,sau đó  con_số này đã tăng lên tới hơn 100 người 
-4,đài_phát_thanh sham_fm cho biết  vụ nổ đầu_tiên xảy ra tại lối vào thành_phố jableh khi một chiếc xe_hơi được tin là mang theo 250 kg thuốc_nổ tnt_phát_nổ 
-5,ngoài những vụ nổ ở jableh  ba vụ nổ khác cũng đã xảy ra tại một khu dân_cư ở thành_phố tartus  các nhân_chứng nói với ria_novosti 
-6,ít_nhất 20 người ở đó đã thiệt_mạng  sana và ria_novosti dẫn nguồn tin cảnh_sát 
+0,tổ_chức nhà_nước hồi giao is tự_xưng tiếng nhận trách_nhiệm về vụ tấn_công thông_qua hãng tin amaq cơ_quan tuyên_truyền nhóm khủng_bố
+1,ikhbariya_tv ba vụ nổ xảy gần ga tàu thành_phố jableh trong hãng thông_tấn ria novosti đưa tin về vụ nổ thứ tư xảy ở khoa cấp_cứu một bệnh_viện địa_phương
+2,vụ nổ khiến 45 người thiệt_mạng nguồn tin cảnh_sát ban_đầu nói ria
+3,con_số tăng tới hơn 100 người
+4,đài_phát_thanh sham_fm biết vụ nổ đầu_tiên xảy lối thành_phố jableh một xe_hơi tin mang 250 kg thuốc_nổ tnt_phát_nổ
+5,ngoài vụ nổ ở jableh ba vụ nổ khác xảy một khu dân_cư ở thành_phố tartus nhân_chứng nói ria_novosti
+6,ít_nhất 20 người ở thiệt_mạng sana ria_novosti dẫn nguồn tin cảnh_sát

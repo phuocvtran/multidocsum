@@ -1,16 +1,16 @@
 idx, sentence
-0,trước khi chính_thức được tiếp_quản chiếc ghế nóng trên sân old_trafford  “ người đặc_biệt ” đã vấp phải sự phản_đối của sir_bobby_charlon 
-1,tuy_nhiên  trong ngày làm_việc đầu_tiên ở cơ_sở carrington  chính sir_bobby_charlon là người tiếp_đón nồng_hậu  nhằm xóa bỏ mọi hiểu nhầm trước_kia giữa hai người 
-2,ngay tại bãi đỗ xe của sân tập_carrington  sir_charlton đã nở nụ cười thật tươi để chào_đón tân thuyền_trưởng mới của mu
-3,thậm_chí  cả hai đã trao nhau cái ôm thân_thiện 
-4,chiến_lược gia người_người bồ_đào nha còn nói_đùa với sir_charlton rằng  “ ông đã giết chết giấc mộng của đất_nước tôi vào năm 1996 
-5,dẫu vậy  tôi vẫn luôn coi_trọng ông ” 
-6, tại_trận bán_kết kỳ world_cup 1996  đt_anh đã đánh_bại bồ_đào nha rồi sau đó đăng_quang  
-7,đáp trả câu nói đùa của mourinho  sir_charlton nói  “ thật vui khi được gặp anh 
-8,xin chúc_mừng ” 
-9,tiếp đó  tân hlv mu tới gặp phó chủ_tịch ed_woodward và các thành_viên khác trong ban lãnh_đạo và những nhân_viên làm_việc ở sân old_trafford 
-10,đi tới đâu  nét mặt của mourinho cũng tươi_cười  thoải_mái 
-11,ông còn hỏi tên và bắt_tay từng người 
-12,đích_thân ngài phó chủ_tịch woodward làm “ hướng_dẫn_viên ” đưa mourinho đi tham_quan một vòng khu tập_luyện carrington 
-13,sau khi kí hợp_đồng chính_thức có thời_hạn 3 năm với quỷ đỏ  jose_mourinho đã chia_sẻ trên mutv rằng  ông sẽ làm tất_cả có_thể để khôi_phục lại vị_thế hàng_đầu thế_giới của man_utd  đồng_thời nhấn_mạnh nhm đội bóng chủ sân old_trafford hãy quên 3 năm “ ác_mộng ” vừa_qua 
-14,thay vào đó là kỷ_nguyên mới với nhiều thành_công mới 
+0,chính_thức tiếp_quản ghế nóng sân old_trafford “ người đặc_biệt ” vấp phản_đối sir_bobby_charlon
+1,tuy_nhiên trong ngày làm_việc đầu_tiên ở cơ_sở carrington chính sir_bobby_charlon người tiếp_đón nồng_hậu nhằm xóa bỏ mọi hiểu nhầm trước_kia giữa hai người
+2,bãi đỗ xe sân tập_carrington sir_charlton nở nụ cười thật tươi chào_đón tân thuyền_trưởng mới mu
+3,thậm_chí hai trao nhau ôm thân_thiện
+4,chiến_lược gia người_người bồ_đào nha còn nói_đùa sir_charlton “ ông giết chết giấc mộng đất_nước tôi năm 1996
+5,dẫu tôi luôn coi_trọng ông ”
+6,tại_trận bán_kết kỳ world_cup 1996 đt_anh đánh_bại bồ_đào nha đăng_quang
+7,đáp trả câu nói đùa mourinho sir_charlton nói “ thật vui gặp anh
+8,xin chúc_mừng ”
+9,tiếp tân hlv mu tới gặp phó chủ_tịch ed_woodward thành_viên khác trong ban lãnh_đạo nhân_viên làm_việc ở sân old_trafford
+10,đi tới đâu nét mặt mourinho tươi_cười thoải_mái
+11,ông còn hỏi tên bắt_tay người
+12,đích_thân ngài phó chủ_tịch woodward làm “ hướng_dẫn_viên ” đưa mourinho đi tham_quan một vòng khu tập_luyện carrington
+13,kí hợp_đồng chính_thức thời_hạn 3 năm quỷ đỏ jose_mourinho chia_sẻ mutv ông làm tất_cả khôi_phục vị_thế hàng_đầu thế_giới man_utd đồng_thời nhấn_mạnh nhm đội bóng chủ sân old_trafford hãy quên 3 năm “ ác_mộng ” vừa_qua
+14,thay kỷ_nguyên mới thành_công mới

@@ -1,7 +1,7 @@
 idx, sentence
-0,bà nguyễn_thị_phương_thảo  tổng_giám_đốc vietjet và ông ray_conner  tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing đã thực_hiện ký_kết hợp_đồng quan_trọng này trước sự chứng_kiến của chủ_tịch nước_cộng_hòa_xã_hội_chủ_nghĩa_việt_nam trần_đại_quang và tổng_thống mỹ barack_obama cùng đoàn lãnh_đạo cấp cao hai nước 
-1,phát_biểu tại sự_kiện ký_kết  ông ray_conner  tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing  cho biết  “ boeing tự_hào là nhân_tố đóng vai_trò then_chốt cho sự phát_triển của ngành hàng_không việt_nam 
-2,hôm_nay  chúng_tôi rất vinh_dự được đón_tiếp các vị lãnh_đạo cao nhất của hai đất_nước việt_nam và mỹ chứng_kiến lễ ký_kết hợp_đồng mang ý_nghĩa lịch_sử này 
-3,với các thiết_kế và công_nghệ tiên_tiến nhất  dòng máy_bay hiệu_suất cao b737_max 200 sẽ giúp vietjet phát_triển mạng_lưới bay hiệu_quả kinh_tế dẫn_đầu thị_trường  mang lại những trải_nghiệm tuyệt_vời cho khách_hàng và đóng_góp vào những thành_công cho vietjet trong thời_gian tới  ” tại sự_kiện ký_kết  bà nguyễn_thị_phương_thảo  tổng_giám_đốc vietjet đã chia_sẻ  “ vietjet đang khai_thác rất hiệu_quả đội máy_bay thân hẹp 
-4,việc đầu_tư đội máy_bay b737_max 200 hôm_nay sẽ phục_vụ cho chiến_lược phát_triển mạnh_mẽ hơn nữa mạng đường_bay quốc_tế trong thời_gian tới của vietjet bao_gồm cả chiến_lược phát_triển mạng bay đường_dài 
-5,qua hợp_đồng này  vietjet sẽ góp_phần tăng kim_ngạch thương_mại giữa việt_nam và hoa_kỳ  đóng_góp vào sự phát_triển hội_nhập của ngành hàng_không việt_nam ” 
+0,bà nguyễn_thị_phương_thảo tổng_giám_đốc vietjet ông ray_conner tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing thực_hiện ký_kết hợp_đồng quan_trọng chứng_kiến chủ_tịch nước_cộng_hòa_xã_hội_chủ_nghĩa_việt_nam trần_đại_quang tổng_thống mỹ barack_obama đoàn lãnh_đạo cấp cao hai nước
+1,phát_biểu sự_kiện ký_kết ông ray_conner tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing biết “ boeing tự_hào nhân_tố đóng vai_trò then_chốt phát_triển ngành hàng_không việt_nam
+2,hôm_nay chúng_tôi vinh_dự đón_tiếp vị lãnh_đạo cao nhất hai đất_nước việt_nam mỹ chứng_kiến lễ ký_kết hợp_đồng mang ý_nghĩa lịch_sử
+3,thiết_kế công_nghệ tiên_tiến nhất dòng máy_bay hiệu_suất cao b737_max 200 giúp vietjet phát_triển mạng_lưới bay hiệu_quả kinh_tế dẫn_đầu thị_trường mang trải_nghiệm tuyệt_vời khách_hàng đóng_góp thành_công vietjet trong thời_gian tới ” sự_kiện ký_kết bà nguyễn_thị_phương_thảo tổng_giám_đốc vietjet chia_sẻ “ vietjet khai_thác hiệu_quả đội máy_bay thân hẹp
+4,đầu_tư đội máy_bay b737_max 200 hôm_nay phục_vụ chiến_lược phát_triển mạnh_mẽ hơn mạng đường_bay quốc_tế trong thời_gian tới vietjet bao_gồm chiến_lược phát_triển mạng bay đường_dài
+5,hợp_đồng vietjet góp_phần tăng kim_ngạch thương_mại giữa việt_nam hoa_kỳ đóng_góp phát_triển hội_nhập ngành hàng_không việt_nam ”

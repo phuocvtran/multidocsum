@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 1/6  ông đỗ_ngọc_vĩnh  phó công_an xã tam_thanh  tptam_kỳ  tỉnh quảng_nam cho_biết trên địa_bàn vừa xảy ra một vụ giật điện làm một bé trai tử_vong 
-1,theo đó  vụ_việc xảy ra vào_khoảng 18 h ngày 31/5 tại khu_vực quảng_trường biển tam_thanh  thuộc thôn hạ_thanh 1  xã tam_thanh 
-2,nạn_nhân là em ntc  11 tuổi ngụ phường điện_trung  thị_xã điện_bàn  tỉnh quảng_nam  
-3,được nghỉ_hè  ntc theo mẹ về quê ngoại chơi 
+0,ngày 1/6 ông đỗ_ngọc_vĩnh phó công_an xã tam_thanh tptam_kỳ tỉnh quảng_nam cho_biết địa_bàn xảy một vụ giật điện làm một bé trai tử_vong
+1,vụ_việc xảy vào_khoảng 18 h ngày 31/5 khu_vực quảng_trường biển tam_thanh thuộc thôn hạ_thanh 1 xã tam_thanh
+2,nạn_nhân em ntc 11 tuổi ngụ phường điện_trung thị_xã điện_bàn tỉnh quảng_nam
+3,nghỉ_hè ntc mẹ về quê ngoại chơi

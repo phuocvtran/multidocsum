@@ -1,22 +1,22 @@
 idx, sentence
-0,montenegro sẽ trở_thành thành_viên chính_thức thứ 29 của nato sau khi quốc_hội các nước trong liên_minh thông_qua  theo ap ngày 195 
-1,montenegro đã đàm_phán gia_nhập nato từ năm 2009 
-2,cùng năm đó  croatia cũng gia_nhập liên_minh này 
-3,cả montenegro và croatia từng là những nước thuộc liên_bang nam_tư cũ 
-4,phát_biểu tại buổi lễ ngày 195 ở brussels  bỉ   thủ_tướng montenegro  ông milo_djukanovic coi việc gia_nhập nato là điều quan_trọng vì sẽ mang đến sự ổn_định trong khu_vực và xa hơn nữa 
-5,tổng_thư_ký nato_jens_stoltenberg cho hay việc montenegro trở_thành thành_viên chính_thức của nato sớm hay muộn tuỳ_thuộc quá_trình phê_chuẩn ở các nước  ông dự_đoán quá_trình này có_thể kéo_dài cả năm 
-6,tuy_nhiên  montenegro sẽ được tham_gia vào các cuộc họp của nato với vai_trò quan_sát_viên 
-7,montenegro sẽ là một trong những thành_viên có lực_lượng vũ_trang nhỏ nhất nato với chỉ 2000 lính tại_ngũ 
-8,tuy_nhiên  việc cho_phép montenegro làm thành_viên nato cho thấy cánh cửa gia_nhập liên_minh này với các nước nhỏ như georgia  macedonia và bosniaherzegovina là hoàn_toàn rộng_mở 
-9,còn theo các chuyên_gia nhận_định  điều này thể_hiện việc nato không từ_bỏ bất_cứ cơ_hội nào mở_rộng lãnh_thổ và nga thì không có quyền phủ_quyết  theo ap 
-10,bình_luận sau sự_kiện này  người phát_ngôn bộ ngoại_giao nga_maria_zakharova nói rằng nato đang cố thay_đổi bối_cảnh chính_trị tại châu_âu và ảnh_hưởng đến lợi_ích của nga  buộc nga phải đáp trả  theo tass 
-11,bà zakharova cáo_buộc nato “ đi đêm ” với các quan_chức hàng_đầu montenegro để “ lôi_kéo ” nước này gia_nhập nato bất_chấp ý_kiến của người_dân và bỏ_qua các nguyên_tắc dân_chủ 
-12,theo bà  nga không_thể không phản_ứng trước việc kết_nạp này 
-13,ông sergei_zheleznyak  thành_viên quốc_hội nga nói rằng nga có_thể sẽ thay_đổi mối quan_hệ vốn hoà_hữu với montenegro  có_thể là cắt đứt làm_ăn kinh_tế hoặc cấm_vận  nếu nước này gia_nhập nato mà không tiến_hành trưng_cầu_ý_dân 
-14,tuy_nhiên  ap dẫn lời chuyên_gia về nato_jorge_benitez tại viện chiến_lược hội_đồng_atlantic  washington  mỹ  nhận_định việc kết_nạp montenegro khó có_thể là thách_thức to_lớn đối_với nga  đồng_thời nato và nga đang phóng_đại tầm quan_trọng của việc này 
-15,bởi_lẽ montenegro là một nước nhỏ và nằm cách xa biên_giới nga 
-16,trưởng nhóm nghiên_cứu các nước vùng_balkan tại viện nghiên_cứu chiến_lược nga  ông nikita_bondarev cũng đánh_giá không cần phải hoang_mang khi trước việc montenegro là quan_sát_viên của nato  vì thực_tế có_thể đến giữa năm 2017 nước này mới được chính_thức gia_nhập  theo tass 
-17,ông bondarev dự_đoán rằng việc montenegro có gia_nhập nato hay không chẳng ảnh_hưởng gì cả 
-18,bên_cạnh đó  nga chú_ý đến vấn_đề này không phải vì montenegro sẽ gây thiệt_hại  cản_trở hay ảnh_hưởng gì đến nga  mà là vì nato lôi_kéo montenegro gia_nhập liên_minh bất_chấp ý_kiến của người_dân 
-19,“ vấn_đề của montenegro là người dân không muốn gia_nhập liên_minh 
-20,nước này hứng những trận bom của nato vào năm 1999 nên người dân không muốn vào nato  trong khi các nhà lãnh_đạo thì có ý_định đó ” 
+0,montenegro trở_thành thành_viên chính_thức thứ 29 nato quốc_hội nước trong liên_minh thông_qua ap ngày 195
+1,montenegro đàm_phán gia_nhập nato năm 2009
+2,năm croatia gia_nhập liên_minh
+3,montenegro croatia nước thuộc liên_bang nam_tư cũ
+4,phát_biểu buổi lễ ngày 195 ở brussels bỉ thủ_tướng montenegro ông milo_djukanovic coi gia_nhập nato quan_trọng mang đến ổn_định trong khu_vực xa hơn
+5,tổng_thư_ký nato_jens_stoltenberg hay montenegro trở_thành thành_viên chính_thức nato sớm hay muộn tuỳ_thuộc quá_trình phê_chuẩn ở nước ông dự_đoán quá_trình kéo_dài năm
+6,tuy_nhiên montenegro tham_gia cuộc họp nato vai_trò quan_sát_viên
+7,montenegro một trong thành_viên lực_lượng vũ_trang nhỏ nhất nato 2000 lính tại_ngũ
+8,tuy_nhiên cho_phép montenegro làm thành_viên nato thấy cánh cửa gia_nhập liên_minh nước nhỏ georgia macedonia bosniaherzegovina hoàn_toàn rộng_mở
+9,còn chuyên_gia nhận_định thể_hiện nato từ_bỏ bất_cứ cơ_hội nào mở_rộng lãnh_thổ nga quyền phủ_quyết ap
+10,bình_luận sự_kiện người phát_ngôn bộ ngoại_giao nga_maria_zakharova nói nato cố thay_đổi bối_cảnh chính_trị châu_âu ảnh_hưởng đến lợi_ích nga buộc nga đáp trả tass
+11,bà zakharova cáo_buộc nato “ đi đêm ” quan_chức hàng_đầu montenegro “ lôi_kéo ” nước gia_nhập nato bất_chấp ý_kiến người_dân bỏ_qua nguyên_tắc dân_chủ
+12,bà nga không_thể phản_ứng kết_nạp
+13,ông sergei_zheleznyak thành_viên quốc_hội nga nói nga thay_đổi mối quan_hệ vốn hoà_hữu montenegro cắt đứt làm_ăn kinh_tế hoặc cấm_vận nước gia_nhập nato tiến_hành trưng_cầu_ý_dân
+14,tuy_nhiên ap dẫn lời chuyên_gia về nato_jorge_benitez viện chiến_lược hội_đồng_atlantic washington mỹ nhận_định kết_nạp montenegro khó thách_thức to_lớn đối_với nga đồng_thời nato nga phóng_đại tầm quan_trọng
+15,bởi_lẽ montenegro một nước nhỏ nằm cách xa biên_giới nga
+16,trưởng nhóm nghiên_cứu nước vùng_balkan viện nghiên_cứu chiến_lược nga ông nikita_bondarev đánh_giá hoang_mang montenegro quan_sát_viên nato thực_tế đến giữa năm 2017 nước mới chính_thức gia_nhập tass
+17,ông bondarev dự_đoán montenegro gia_nhập nato hay chẳng ảnh_hưởng
+18,bên_cạnh nga chú_ý đến vấn_đề montenegro gây thiệt_hại cản_trở hay ảnh_hưởng đến nga nato lôi_kéo montenegro gia_nhập liên_minh bất_chấp ý_kiến người_dân
+19,“ vấn_đề montenegro người dân muốn gia_nhập liên_minh
+20,nước hứng trận bom nato năm 1999 người dân muốn nato trong nhà lãnh_đạo ý_định ”

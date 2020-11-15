@@ -1,9 +1,9 @@
 idx, sentence
-0,cục quản_lý cạnh_tranh  bộ công_thương  vừa thông_báo về việc chấm_dứt hoạt_động bán hàng đa cấp và đề_nghị rút_tiền ký quỹ của công_ty tnhh aim_star_network việt_nam có trụ_sở chính tại cầu_giấy  hà_nội 
-1,người đại_diện của doanh_nghiệp bán hàng đa cấp là panint_jhonlerkieat  quốc_tịch thái_lan  chức_vụ tổng_giám_đốc 
-2,theo cục quản_lý cạnh_tranh  do doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp và đang tiến_hành thủ_tục giải_thể nên hoạt_động bán hàng đa cấp cũng chấm_dứt 
-3,trước đó  cục quản_lý cạnh_tranh đã có cảnh_báo về hoạt_động bán hàng đa cấp của 14 doanh_nghiệp chưa đăng_ký để người dân biết và cảnh_giác 
-4,theo cơ_quan này  vừa_qua  một_số doanh_nghiệp kinh_doanh hoạt_động bán hàng đa cấp trên địa_bàn một_số tỉnh  thành_phố trực_thuộc trung_ương nhưng chưa thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận hoạt_động bán hàng đa cấp với cơ_quan có thẩm_quyền 
-5,các doanh_nghiệp vi_phạm quy_định này đã bị các cơ_quan_chức_năng phát_hiện và xử_lý 
-6,để siết quản_lý hoạt_động bán hàng đa cấp trên địa_bàn  mới_đây  ubnd thành_phố hà_nội đã có công_văn đồng_ý nguyên_tắc đề_xuất của sở công_thương về việc thành_lập đoàn liên_ngành thành_phố kiểm_tra hoạt_động bán hàng đa cấp 
-7,theo sở công_thương hà_nội  hoạt_động của các doanh_nghiệp bán hàng đa cấp trên địa_bàn thành_phố còn diễn_biến phức_tạp  có dấu_hiệu ảnh_hưởng đến trật_tự an_ninh xã_hội  gây thiệt_hại cho người tham_gia 
+0,cục quản_lý cạnh_tranh bộ công_thương thông_báo về chấm_dứt hoạt_động bán hàng đa cấp đề_nghị rút_tiền ký quỹ công_ty tnhh aim_star_network việt_nam trụ_sở chính cầu_giấy hà_nội
+1,người đại_diện doanh_nghiệp bán hàng đa cấp panint_jhonlerkieat quốc_tịch thái_lan chức_vụ tổng_giám_đốc
+2,cục quản_lý cạnh_tranh doanh_nghiệp chấm_dứt hoạt_động bán hàng đa cấp tiến_hành thủ_tục giải_thể hoạt_động bán hàng đa cấp chấm_dứt
+3,cục quản_lý cạnh_tranh cảnh_báo về hoạt_động bán hàng đa cấp 14 doanh_nghiệp đăng_ký người dân biết cảnh_giác
+4,cơ_quan vừa_qua một_số doanh_nghiệp kinh_doanh hoạt_động bán hàng đa cấp địa_bàn một_số tỉnh thành_phố trực_thuộc trung_ương thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận hoạt_động bán hàng đa cấp cơ_quan thẩm_quyền
+5,doanh_nghiệp vi_phạm quy_định cơ_quan_chức_năng phát_hiện xử_lý
+6,siết quản_lý hoạt_động bán hàng đa cấp địa_bàn mới_đây ubnd thành_phố hà_nội công_văn đồng_ý nguyên_tắc đề_xuất sở công_thương về thành_lập đoàn liên_ngành thành_phố kiểm_tra hoạt_động bán hàng đa cấp
+7,sở công_thương hà_nội hoạt_động doanh_nghiệp bán hàng đa cấp địa_bàn thành_phố còn diễn_biến phức_tạp dấu_hiệu ảnh_hưởng đến trật_tự an_ninh xã_hội gây thiệt_hại người tham_gia

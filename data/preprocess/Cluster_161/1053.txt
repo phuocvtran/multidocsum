@@ -1,30 +1,30 @@
 idx, sentence
-0,chi_cục qltt hà_nội nói gì 
-1,mới_đây  cơ_sở kinh_doanh và chế_biến thực_phẩm việt  vietfoods  cho biết  sẽ xem_xét khởi_kiện chi_cục quản_lý thị_trường  qltt  hà_nội nếu cơ_quan này không thừa_nhận sai_phạm trong việc ra quyết_định tạm giữ hơn 1 tháng đối_với 22 tấn xúc_xích do vietfoods sản_xuất 
-2,đại_diện vietfoods cho rằng  dn đã bị thiệt_hại nặng_nề  sau khi chi_cục qltt hà_nội công_bố thông_tin sản_phẩm xúc_xích của họ có chứa_chất gây ung_thư 
-3,cụ_thể  cơ_sở này đã phải nhận lại hơn chục tấn sản_phẩm từ khách_hàng  nhà_máy phải ngừng hoạt_động  hàng trăm công_nhân nghỉ_việc  thiệt_hại lên đến hàng chục tỷ đồng  trong khi đó  cơ_sở này vẫn chưa nhận được lời xin_lỗi từ chi_cục qltt hà_nội 
-4,sáng 30/5  trao_đổi với báo giao_thông  ông hoàng đại_nghĩa  đội_trưởng đội qltt_số 14  chi_cục qltt hà_nội  đơn_vị kiểm_tra  tạm giữ hơn 22 tấn xúc_xích vietfoods với lý_do nghi_vấn chứa_chất cấm  cho biết  “ vụ_việc này mới chỉ được phản_ánh một chiều  còn nhiều nội_dung khác chưa được đề_cập tới ” 
-5,tương_tự  ông chu_xuân_kiên  phó giám_đốc sở công_thương hà_nội kiêm chi_cục_trưởng chi_cục qltt hà_nội cho hay  “ đây đã trở_thành vụ_việc lớn  chúng_tôi chưa_thể đưa ra kết_luận và thông_tin với báo_chí 
-6,hiện chúng_tôi đang xin ý_kiến của tp hà_nội  bộ_công_thương  cần có tiếng nói_chung để thống_nhất quản_lý 
-7,tuy_nhiên  tôi khẳng_định lực_lượng qltt làm vì lợi_ích của người dân  trách_nhiệm với cộng_đồng 
-8,còn nếu chỉ vì quyền_lợi của một_số người  dn thì rất khó ” 
-9,được biết  ngày 23/5  chi_cục qltt hà_nội đã ra quyết_định trả lại lô hàng xúc_xích bị tạm giữ do không vi_phạm an_toàn vệ_sinh thực_phẩm 
-10,tuy_nhiên  trước đó  ngày 26/4  cũng chính cơ_quan trên đã lập biên_bản vi_phạm hành_chính đối_với vietfoods và công_ty phân_phối bởi lý_do  “ sản_xuất  bán ra thị_trường thực_phẩm không phù_hợp an_toàn thực_phẩm  ” 
-11,quyết_định trên dựa vào kết_quả kiểm_nghiệm xúc_xích vietfoods có chứa_chất sodium nitrate với hàm_lượng từ 55100 mg / kg 
-12,theo danh_mục chất phụ_gia thực_phẩm của bộ y_tế  chất sodium nitrate là chất giữ màu  chất bảo_quản  được phép sử_dụng trong các sản_phẩm pho_mát  song lại không nói đến sản_phẩm thịt  xúc_xích 
-13,vì_vậy  chi_cục qltt hà_nội cho rằng  xúc_xích vietfoods không an_toàn cho người tiêu_dùng 
-14,tuy_nhiên  tới ngày 23/5  bộ y_tế có công_văn tham_vấn gửi chi_cục qltt hà_nội khẳng_định  vietfoods không sai  các sản_phẩm của cơ_sở này an_toàn cho người sử_dụng 
-15,không cấm cũng không cho_phép 
-16,theo nguồn tin của báo giao_thông  liên_quan tới vụ_việc trên  cục_qltt  bộ_công_thương đã gửi văn_bản bao_gồm câu hỏi về chất phụ_gia sodium nitrate  sang cục an_toàn thực_phẩm  attp   bộ y_tế  để có phương_án thống_nhất quản_lý trên cả nước 
-17,đại_diện cục attp cũng đã xác_minh thông_tin trên và cho biết  sẽ sớm gửi công_văn trả_lời 
-18,trao_đổi với pv_báo giao_thông  ts lê_văn_giang  phó cục_trưởng cục_attp cho biết  theo quy_định  chất sodium nitrate  e251  nằm trong danh_mục cho_phép  chỉ được sử_dụng trong pho_mát 
-19,tuy_nhiên  tại khoản 2  điều 8  thông_tư hướng_dẫn việc công_bố hợp quy và công_bố phù_hợp quy_định attp của bộ y_tế ban_hành năm 2012 nêu rõ  “ nếu_như các chất phụ_gia thực_phẩm không có trong danh_mục việt_nam cho_phép  nhưng được quốc_tế cho sử_dụng mà nước ta chưa kịp cập_nhật thì bộ y_tế sẽ xem_xét ” 
-20,theo ông giang  đây chính là điều_khoản “ mở ” để xử_lý mọi tình_huống cho những chất chưa nằm trong danh_mục cho_phép 
-21,“ điều_khoản “ mở ” này xây_dựng để đáp_ứng yêu_cầu hội_nhập 
-22,hiện nhiều quốc_gia trên thế_giới như  australia  nhật_bản  new_zealand  trung_quốc  singapore  malaysia  eu … cho_phép hàm_lượng sodium_nitrate trong sản_phẩm thịt  xúc_xích lên tới 500 mg / kg  như vậy hàm_lượng này trong sản_phẩm vietfoods chỉ 50100 mg / kg là an_toàn   ông giang phân_tích 
-23,qua đây  ông giang nhận_định  “ ban_đầu  chi_cục qltt hà_nội ra quyết_định tạm dừng lưu_thông là hợp_lý 
-24,song tạm dừng rồi phải tiếp_thu  cập_nhật các văn_bản nhà_nước để có hướng giải_quyết cho thật đúng  không nên bằng mệnh_lệnh hành_chính mà làm_khó dn sản_xuất kinh_doanh  
-25,theo ông giang  để xác_định trách_nhiệm trong vụ_việc này  chi_cục qltt hà_nội cần có tiếng_nói giải_thích  tuy_nhiên  trước câu hỏi tại_sao không đưa sodium nitrate vào danh_mục chất được phép sử_dụng trong thực_phẩm  vị phó cục_trưởng lý_giải  “ việc đưa một chất vào danh_mục cho_phép hay chất cấm cần có thời_gian để chứng_minh 
-26,một quy_trình ra văn_bản rất khó_khăn  phải xin ý_kiến quá nhiều đơn_vị 
-27,do_vậy  thời_gian không cho_phép nên mới xây_dựng một điều_khoản “ mở ” để đáp_ứng hội_nhập 
-28,theo đó  nếu các nước khác  cùng tham_gia wto  được phép sử_dụng hoạt_chất này thì việt_nam cũng không ngoại_lệ  
+0,chi_cục qltt hà_nội nói
+1,mới_đây cơ_sở kinh_doanh chế_biến thực_phẩm việt vietfoods biết xem_xét khởi_kiện chi_cục quản_lý thị_trường qltt hà_nội cơ_quan thừa_nhận sai_phạm trong quyết_định tạm giữ hơn 1 tháng đối_với 22 tấn xúc_xích vietfoods sản_xuất
+2,đại_diện vietfoods dn thiệt_hại nặng_nề chi_cục qltt hà_nội công_bố thông_tin sản_phẩm xúc_xích họ chứa_chất gây ung_thư
+3,cụ_thể cơ_sở nhận hơn chục tấn sản_phẩm khách_hàng nhà_máy ngừng hoạt_động hàng trăm công_nhân nghỉ_việc thiệt_hại đến hàng chục tỷ đồng trong cơ_sở nhận lời xin_lỗi chi_cục qltt hà_nội
+4,sáng 30/5 trao_đổi báo giao_thông ông hoàng đại_nghĩa đội_trưởng đội qltt_số 14 chi_cục qltt hà_nội đơn_vị kiểm_tra tạm giữ hơn 22 tấn xúc_xích vietfoods lý_do nghi_vấn chứa_chất cấm biết “ vụ_việc mới phản_ánh một chiều còn nội_dung khác đề_cập tới ”
+5,tương_tự ông chu_xuân_kiên phó giám_đốc sở công_thương hà_nội kiêm chi_cục_trưởng chi_cục qltt hà_nội hay “ trở_thành vụ_việc lớn chúng_tôi chưa_thể đưa kết_luận thông_tin báo_chí
+6,hiện chúng_tôi xin ý_kiến tp hà_nội bộ_công_thương tiếng nói_chung thống_nhất quản_lý
+7,tuy_nhiên tôi khẳng_định lực_lượng qltt làm lợi_ích người dân trách_nhiệm cộng_đồng
+8,còn quyền_lợi một_số người dn khó ”
+9,biết ngày 23/5 chi_cục qltt hà_nội quyết_định trả lô hàng xúc_xích tạm giữ vi_phạm an_toàn vệ_sinh thực_phẩm
+10,tuy_nhiên ngày 26/4 chính cơ_quan lập biên_bản vi_phạm hành_chính đối_với vietfoods công_ty phân_phối lý_do “ sản_xuất bán thị_trường thực_phẩm phù_hợp an_toàn thực_phẩm ”
+11,quyết_định dựa kết_quả kiểm_nghiệm xúc_xích vietfoods chứa_chất sodium nitrate hàm_lượng 55100 mg / kg
+12,danh_mục chất phụ_gia thực_phẩm bộ y_tế chất sodium nitrate chất giữ màu chất bảo_quản phép sử_dụng trong sản_phẩm pho_mát song nói đến sản_phẩm thịt xúc_xích
+13,vì_vậy chi_cục qltt hà_nội xúc_xích vietfoods an_toàn người tiêu_dùng
+14,tuy_nhiên tới ngày 23/5 bộ y_tế công_văn tham_vấn gửi chi_cục qltt hà_nội khẳng_định vietfoods sai sản_phẩm cơ_sở an_toàn người sử_dụng
+15,cấm cho_phép
+16,nguồn tin báo giao_thông liên_quan tới vụ_việc cục_qltt bộ_công_thương gửi văn_bản bao_gồm câu hỏi về chất phụ_gia sodium nitrate sang cục an_toàn thực_phẩm attp bộ y_tế phương_án thống_nhất quản_lý nước
+17,đại_diện cục attp xác_minh thông_tin biết sớm gửi công_văn trả_lời
+18,trao_đổi pv_báo giao_thông ts lê_văn_giang phó cục_trưởng cục_attp biết quy_định chất sodium nitrate e251 nằm trong danh_mục cho_phép sử_dụng trong pho_mát
+19,tuy_nhiên khoản 2 8 thông_tư hướng_dẫn công_bố hợp quy công_bố phù_hợp quy_định attp bộ y_tế ban_hành năm 2012 nêu rõ “ nếu_như chất phụ_gia thực_phẩm trong danh_mục việt_nam cho_phép quốc_tế sử_dụng nước ta kịp cập_nhật bộ y_tế xem_xét ”
+20,ông giang chính điều_khoản “ mở ” xử_lý mọi tình_huống chất nằm trong danh_mục cho_phép
+21,“ điều_khoản “ mở ” xây_dựng đáp_ứng yêu_cầu hội_nhập
+22,hiện quốc_gia thế_giới australia nhật_bản new_zealand trung_quốc singapore malaysia eu … cho_phép hàm_lượng sodium_nitrate trong sản_phẩm thịt xúc_xích tới 500 mg / kg hàm_lượng trong sản_phẩm vietfoods 50100 mg / kg an_toàn ông giang phân_tích
+23,ông giang nhận_định “ ban_đầu chi_cục qltt hà_nội quyết_định tạm dừng lưu_thông hợp_lý
+24,song tạm dừng tiếp_thu cập_nhật văn_bản nhà_nước hướng giải_quyết thật đúng bằng mệnh_lệnh hành_chính làm_khó dn sản_xuất kinh_doanh
+25,ông giang xác_định trách_nhiệm trong vụ_việc chi_cục qltt hà_nội tiếng_nói giải_thích tuy_nhiên câu hỏi tại_sao đưa sodium nitrate danh_mục chất phép sử_dụng trong thực_phẩm vị phó cục_trưởng lý_giải “ đưa một chất danh_mục cho_phép hay chất cấm thời_gian chứng_minh
+26,một quy_trình văn_bản khó_khăn xin ý_kiến quá đơn_vị
+27,do_vậy thời_gian cho_phép mới xây_dựng một điều_khoản “ mở ” đáp_ứng hội_nhập
+28,nước khác tham_gia wto phép sử_dụng hoạt_chất việt_nam ngoại_lệ

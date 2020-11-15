@@ -1,7 +1,7 @@
 idx, sentence
-0,đêm 30/5  tàu cá đna 90604 bị nạn tại vị_trí 19 o16  00n  105 o53  00e  cách nghi_sơn  thanh_hóa khoảng 5 hải_lý về hướng đông_nam 
-1,đài_thông_tin duyên_hải hải_phòng  hp_radio  tiếp_nhận được thông_tin báo nạn  lúc đó trên tàu có 13 thuyền_viên  trong đó có 11 người được tàu cá đna 90603 cứu_vớt  còn 2 người bị mất_tích trên biển 
-2,hp radio đã chuyển bản_tin lên hệ_thống thông_tin duyên_hải việt_nam để các đài_phối_hợp phát thông_tin trợ_giúp cho tàu bị nạn trên tần_số 82910 khz  79030 khz  kênh ch16  phương_thức navtex trên tần_số 42095 khz  phương_thức egc_safetynet 
-3,được biết  nguyên_nhân xảy ra sự_việc được xác_định là do tàu đang tiến_hành cẩu cá thì bị nghiêng và chìm 
-4,hiện tại lực_lượng biên_phòng tỉnh thanh_hóa và các tàu cá vẫn đang tiến_hành tìm người mất_tích 
-5,hệ_thống thông_tin duyên_hải vẫn liên_tục phát quảng_bá thông_tin trên các phương_thức yêu_cầu tàu_thuyền hoạt_động trong khu lân_cận tàu bị nạn tăng_cường quan_sát và trợ_giúp tàu 
+0,đêm 30/5 tàu cá đna 90604 nạn vị_trí 19 o16 00n 105 o53 00e cách nghi_sơn thanh_hóa khoảng 5 hải_lý về hướng đông_nam
+1,đài_thông_tin duyên_hải hải_phòng hp_radio tiếp_nhận thông_tin báo nạn tàu 13 thuyền_viên trong 11 người tàu cá đna 90603 cứu_vớt còn 2 người mất_tích biển
+2,hp radio chuyển bản_tin hệ_thống thông_tin duyên_hải việt_nam đài_phối_hợp phát thông_tin trợ_giúp tàu nạn tần_số 82910 khz 79030 khz kênh ch16 phương_thức navtex tần_số 42095 khz phương_thức egc_safetynet
+3,biết nguyên_nhân xảy sự_việc xác_định tàu tiến_hành cẩu cá nghiêng chìm
+4,hiện lực_lượng biên_phòng tỉnh thanh_hóa tàu cá tiến_hành tìm người mất_tích
+5,hệ_thống thông_tin duyên_hải liên_tục phát quảng_bá thông_tin phương_thức yêu_cầu tàu_thuyền hoạt_động trong khu lân_cận tàu nạn tăng_cường quan_sát trợ_giúp tàu

@@ -1,8 +1,8 @@
 idx, sentence
-0,khoảng gần 15 h chiều 23/5  một đôi nam_nữ đi xe taxi biển kiểm_soát hà_nội do anh nguyễn_văn_hanh  sn 1987  quê thuận_thành  bắc_ninh  điều_khiển chạy theo hướng từ gia_lâm về trung_tâm hà_nội 
-1,khi xe đang chạy trên cầu thanh_trì thì dừng lại ở cột_đèn số 42 
-2,lúc này nhiều người thấy một nam thanh_niên từ trên xe taxi bước xuống rồi bất_ngờ nhảy xuống sông hồng tự_tử bỏ lại bạn gái đang ngồi trên xe 
-3,do sự_việc diễn ra quá nhanh nên người dân hoàn_toàn bất_ngờ và không kịp ngăn_cản 
-4,thấy bạn trai nhảy xuống sông  cô gái trẻ đi cùng vội chạy ra nhưng không kịp  liền khuỵu xuống  kêu_gào thảm_thiết 
-5,nhận được tin báo  lực_lượng csgt đội csgt số 14  phòng csgt hà_nội  đã nhanh_chóng có_mặt tại hiện_trường phân_luồng giao_thông  kết_hợp với cơ_quan công_an tìm_kiếm nạn_nhân 
-6,danh_tính nam thanh_niên được xác_định là nguyễn_văn_b  21 tuổi  quê phú_xuyên  hà_nội   cô gái đi cùng là nguyễn_thi_v  17 tuổi  quê thuận_thành  bắc_ninh  
+0,khoảng gần 15 h chiều 23/5 một đôi nam_nữ đi xe taxi biển kiểm_soát hà_nội anh nguyễn_văn_hanh sn 1987 quê thuận_thành bắc_ninh điều_khiển chạy hướng gia_lâm về trung_tâm hà_nội
+1,xe chạy cầu thanh_trì dừng ở cột_đèn số 42
+2,người thấy một nam thanh_niên xe taxi bước xuống bất_ngờ nhảy xuống sông hồng tự_tử bỏ bạn gái ngồi xe
+3,sự_việc diễn quá nhanh người dân hoàn_toàn bất_ngờ kịp ngăn_cản
+4,thấy bạn trai nhảy xuống sông cô gái trẻ đi vội chạy kịp liền khuỵu xuống kêu_gào thảm_thiết
+5,nhận tin báo lực_lượng csgt đội csgt số 14 phòng csgt hà_nội nhanh_chóng có_mặt hiện_trường phân_luồng giao_thông kết_hợp cơ_quan công_an tìm_kiếm nạn_nhân
+6,danh_tính nam thanh_niên xác_định nguyễn_văn_b 21 tuổi quê phú_xuyên hà_nội cô gái đi nguyễn_thi_v 17 tuổi quê thuận_thành bắc_ninh

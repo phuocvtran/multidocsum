@@ -1,19 +1,19 @@
 idx, sentence
-0,sự_việc xảy ra sáng nay 26 trên chuyến bay vn 227  máy_bay airbus_a321 của vietnam_airlines  vna  từ hà_nội đi tp hcm 
-1,cụ_thể  khi máy_bay vừa dừng bánh tại bãi đậu 38 ở sân_bay tân_sơn nhất_thì hành_khách ngô_tiến_thịnh  58 tuổi   đã tự_ý mở_cửa thoát hiểm số 3l làm cho cầu_phao cứu_sinh  slide raft  bung ra hoàn_toàn xuống sân đậu máy_bay 
-2,ông ngô_tiến_thịnh đi cùng với 3 người khác trong gia_đình 
-3,trước khi tự_ý mở_cửa thoát hiểm máy_bay  ông thịnh đã tự_ý đổi ghế ngồi từ số ghế 28b sang ghế ngồi 28a sát cửa thoát hiểm rồi sau đó đã mở_cửa thoát_hiểm 
-4,hậu_quả là cầu_phao cứu_sinh  slide raft  của chiếc máy_bay a321 bung ra hoàn_toàn xuống sân đậu máy_bay ở tân_sơn_nhất 
-5,toàn_bộ lịch_trình khai_thác của chiếc máy_bay trên bị xáo_trộn  gây thiệt_hại gần 20000 usd  tương_đương với hơn 400 triệu đồng 
-6,thiệt_hại này bao_gồm những chi_phí và phiền_phức khi hãng hàng_không vietnam_airlines phải thay_đổi máy_bay khác đi hongkong  tháo thuyền phao của máy_bay vna 325 đem về sửa_chữa 
-7,tổ bay  cảng_hàng_không quốc_tế tân_sơn_nhất và cảng_vụ hàng_không miền nam đã lập biên_bản vi_phạm hành_chính về lĩnh_vực hàng_không để xử_lý theo pháp_luật đối_với hành_khách ngô_tiến_thịnh 
-8,với lỗi vi_phạm tự_ý mở_cửa thoát_hiểm khi không có yêu_cầu từ tiếp_viên  hành_khách sẽ bị phạt từ 10 triệu đồng  20 triệu đồng 
-9,mức phạt này đã được điều_chỉnh tăng so với trước đây nhưng các hãng hàng_không đánh_giá vẫn quá thấp so với hậu_quả gây ra và chưa đủ tính răn_đe  phòng_ngừa 
-10,đây không phải là lần đầu_tiên các hành_khách tự_ý mở_cửa máy_bay 
-11,trước đó  tối 27/9/2015  hành_khách tên ntt trên chuyến bay bl598 của hãng hàng_không giá rẻ jetstar_pacific từ tphcm đi đà_nẵng cũng đã tự_ý mở_cửa thoát_hiểm 
-12,sự_việc đã làm mất khoảng 1 giờ vì các chuyên_gia phải khắc_phục gấp lại xuồng phao cứu_sinh của cửa thoát_hiểm  chuyến bay bl598 mới tiếp_tục được hành_trình 
-13,tuy_nhiên  theo các tiêu_chuẩn an_toàn quy_định  máy_bay phải giảm bớt 34 hành_khách 
-14,nguyên_nhân do trên máy_bay  mỗi cửa thoát_hiểm đều được bố_trí xuồng phao cứu_sinh  tự_động bung ra khi cửa được mở 
-15,theo tiêu_chuẩn an_toàn  số_lượng xuồng phao được bố_trí tương_ứng với tổng_lượng khách trên máy_bay để bảo_đảm thoát hiểm trong thời_gian ngắn nhất khi có sự_cố 
-16,trong trường_hợp một xuồng phao cứu_sinh không sử_dụng được  chuyến bay sẽ phải giảm số_lượng khách theo tỉ_lệ tương_ứng  sau đó máy_bay sẽ được đưa vào xưởng để lắp_đặt lại xuồng phao cứu_sinh 
-17,hành_khách ntt sau đó đã bị xử_phạt 15 triệu đồng 
+0,sự_việc xảy sáng nay 26 chuyến bay vn 227 máy_bay airbus_a321 vietnam_airlines vna hà_nội đi tp hcm
+1,cụ_thể máy_bay dừng bánh bãi đậu 38 ở sân_bay tân_sơn nhất_thì hành_khách ngô_tiến_thịnh 58 tuổi tự_ý mở_cửa thoát hiểm số 3l làm cầu_phao cứu_sinh slide raft bung hoàn_toàn xuống sân đậu máy_bay
+2,ông ngô_tiến_thịnh đi 3 người khác trong gia_đình
+3,tự_ý mở_cửa thoát hiểm máy_bay ông thịnh tự_ý đổi ghế ngồi số ghế 28b sang ghế ngồi 28a sát cửa thoát hiểm mở_cửa thoát_hiểm
+4,hậu_quả cầu_phao cứu_sinh slide raft máy_bay a321 bung hoàn_toàn xuống sân đậu máy_bay ở tân_sơn_nhất
+5,toàn_bộ lịch_trình khai_thác máy_bay xáo_trộn gây thiệt_hại gần 20000 usd tương_đương hơn 400 triệu đồng
+6,thiệt_hại bao_gồm chi_phí phiền_phức hãng hàng_không vietnam_airlines thay_đổi máy_bay khác đi hongkong tháo thuyền phao máy_bay vna 325 đem về sửa_chữa
+7,tổ bay cảng_hàng_không quốc_tế tân_sơn_nhất cảng_vụ hàng_không miền nam lập biên_bản vi_phạm hành_chính về lĩnh_vực hàng_không xử_lý pháp_luật đối_với hành_khách ngô_tiến_thịnh
+8,lỗi vi_phạm tự_ý mở_cửa thoát_hiểm yêu_cầu tiếp_viên hành_khách phạt 10 triệu đồng 20 triệu đồng
+9,mức phạt điều_chỉnh tăng hãng hàng_không đánh_giá quá thấp hậu_quả gây đủ tính răn_đe phòng_ngừa
+10,lần đầu_tiên hành_khách tự_ý mở_cửa máy_bay
+11,tối 27/9/2015 hành_khách tên ntt chuyến bay bl598 hãng hàng_không giá rẻ jetstar_pacific tphcm đi đà_nẵng tự_ý mở_cửa thoát_hiểm
+12,sự_việc làm mất khoảng 1 giờ chuyên_gia khắc_phục gấp xuồng phao cứu_sinh cửa thoát_hiểm chuyến bay bl598 mới tiếp_tục hành_trình
+13,tuy_nhiên tiêu_chuẩn an_toàn quy_định máy_bay giảm bớt 34 hành_khách
+14,nguyên_nhân máy_bay cửa thoát_hiểm bố_trí xuồng phao cứu_sinh tự_động bung cửa mở
+15,tiêu_chuẩn an_toàn số_lượng xuồng phao bố_trí tương_ứng tổng_lượng khách máy_bay bảo_đảm thoát hiểm trong thời_gian ngắn nhất sự_cố
+16,trong trường_hợp một xuồng phao cứu_sinh sử_dụng chuyến bay giảm số_lượng khách tỉ_lệ tương_ứng máy_bay đưa xưởng lắp_đặt xuồng phao cứu_sinh
+17,hành_khách ntt xử_phạt 15 triệu đồng

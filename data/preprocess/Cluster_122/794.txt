@@ -1,16 +1,16 @@
 idx, sentence
-0,adele là nữ nghệ_sĩ nhận được tám đề_cử tại lễ trao giải billboard 2016 nhưng cô không_thể có_mặt vì đang thực_hiện chuyến lưu_diễn vòng_quanh thế_giới 
-1,vượt mặc các ngôi_sao như justin_bieber  drake  taylor_swift và the_weeknd  “ hoạ_mi nước anh ” chiến_thắng vang_dội ở hạng_mục “ nghệ_sĩ của năm ” 
-2,cô cũng rinh giải “ top_billboard 200 album ”  album đứng đầu top 200  với sản_phẩm “ 25 ” – đánh_bại các ứng_cử_viên cùng hạng_mục như album “ purpose ” của justin_bieber  “ x ” của ed_sheeran  “ 1989 ” của taylor_swift và “ beauty behind the madness ” của the_weeknd 
-3,trong đoạn tin nhắn video được ghi từ trước khi trao giải  adele chia_sẻ với khán_giả  “ thật không_thể tin nổi là tôi lại một lần nữa chiến_thắng 
-4,bản thu  album “ 25 ”  đối_với tôi quả là một thử_thách 
-5,tôi đã phải vượt qua những trận chiến cảm_xúc trong con_người mình 
-6,các bạn hãy cùng nâng ly chúc_mừng tôi nhé ” 
-7,justin bieber cũng ẵm cho mình giải thường “ nghệ_sĩ nam hàng_đầu ” 
-8,trong khi đó  the_weeknd giành được 8 giải_thưởng  nhiều hơn bất_kỳ nam nghệ_sĩ nào trong lịch_sử   bao_gồm cải giải_nghệ_sĩ top hot 100 
-9,the weeknd trong bài phát_biểu của mình cũng nhắc đến prince như một “ nguồn cảm_hứng ” cho những sáng_tác của mình 
-10,“ tôi muốn gửi lời tri_ân tới nghệ_sĩ quá_cố  prince 
-11,tôi rất khâm_phục ông và ông luôn là người nguồn cảm_hứng dồi_dào của tôi ” 
-12,rihanna nhận giải thành_tựu billboard sau khi chiến_thắng trong cuộc bình_chọn trước các đối_thủ drake  adele  little_big_town và the_weeknd 
-13,celine dion được vinh_danh với giải billboard biểu_tượng sau những cống_hiến không ngừng nghỉ của mình cho sự_nghiệp âm_nhạc 
-14,nữ diva đã không_thể kìm được nước_mắt khi nhận chiếc cúp từ chính con_trai mình 
+0,adele nữ nghệ_sĩ nhận tám đề_cử lễ trao giải billboard 2016 cô không_thể có_mặt thực_hiện chuyến lưu_diễn vòng_quanh thế_giới
+1,vượt mặc ngôi_sao justin_bieber drake taylor_swift the_weeknd “ hoạ_mi nước anh ” chiến_thắng vang_dội ở hạng_mục “ nghệ_sĩ năm ”
+2,cô rinh giải “ top_billboard 200 album ” album đứng đầu top 200 sản_phẩm “ 25 ” – đánh_bại ứng_cử_viên hạng_mục album “ purpose ” justin_bieber “ x ” ed_sheeran “ 1989 ” taylor_swift “ beauty behind the madness ” the_weeknd
+3,trong đoạn tin nhắn video ghi trao giải adele chia_sẻ khán_giả “ thật không_thể tin nổi tôi một lần chiến_thắng
+4,bản thu album “ 25 ” đối_với tôi quả một thử_thách
+5,tôi vượt trận chiến cảm_xúc trong con_người mình
+6,bạn hãy nâng ly chúc_mừng tôi nhé ”
+7,justin bieber ẵm mình giải thường “ nghệ_sĩ nam hàng_đầu ”
+8,trong the_weeknd giành 8 giải_thưởng hơn bất_kỳ nam nghệ_sĩ nào trong lịch_sử bao_gồm cải giải_nghệ_sĩ top hot 100
+9,the weeknd trong bài phát_biểu mình nhắc đến prince một “ nguồn cảm_hứng ” sáng_tác mình
+10,“ tôi muốn gửi lời tri_ân tới nghệ_sĩ quá_cố prince
+11,tôi khâm_phục ông ông luôn người nguồn cảm_hứng dồi_dào tôi ”
+12,rihanna nhận giải thành_tựu billboard chiến_thắng trong cuộc bình_chọn đối_thủ drake adele little_big_town the_weeknd
+13,celine dion vinh_danh giải billboard biểu_tượng cống_hiến ngừng nghỉ mình sự_nghiệp âm_nhạc
+14,nữ diva không_thể kìm nước_mắt nhận cúp chính con_trai mình

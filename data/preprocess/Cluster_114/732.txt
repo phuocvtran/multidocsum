@@ -1,15 +1,15 @@
 idx, sentence
-0,ngày 235  ông võ_thanh_hùng  trưởng ban quản_lý các khu_chế_xuất và công_nghiệp cần_thơ  tổ_trưởng tổ công_tác do ubnd tp cần_thơ lập tại công_ty tnhh_xnk thủy_sản thiên_mã  công_ty thiên_mã  cho biết số nợ đến ngày 205 của công_ty này là 891 tỉ đồng  trong đó lãi vay ngân_hàng là 383 tỉ 
-1,tổng nợ của công_ty đối_với các tổ_chức tín_dụng là 516 tỉ đồng  nợ 98 nhà cung_cấp vật_tư 95 tỉ đồng  nợ 28 hộ bán cá 166 tỉ đồng  nợ cá_nhân 54 tỉ đồng 
-2,ngoài_ra  công_ty thiên_mã do ông phan_bá_tòng  còn gọi_là tòng_thiên_mã  làm giám_đốc còn nợ thuế 11 tỉ đồng  nợ lương công_nhân 16 tỉ đồng  trả_nợ lương  giải_quyết việc_làm cho 400 công_nhân ông hùng  cho biết sau khi “ tòng_thiên_mã ” bị bắt  ubnd tp cần_thơ đã thành_lập tổ công_tác với nhiệm_vụ tránh bất_ổn xảy ra tại công_ty 
-3,bởi trước đó có trường_hợp giám_đốc công_ty thủy_sản bị bắt  chủ_nợ đến xiết tài_sản  công_nhân đòi lương   do_đó  mục_tiêu ưu_tiên của tổ công_tác là giải_quyết nợ lương cho công_nhân 
-4,rà_soát tài_khoản do “ tòng_thiên_mã ” đứng_tên tại ngân_hàng thấy còn 350 triệu đồng và 27000 usd  tuy_nhiên ngân_hàng mới cho tổ công_tác rút khoản 350 triệu để giải_quyết nợ lương công_nhân 
-5,“ còn 27000 usd do giấy ủy quyền hết hạn nên chưa rút ra được 
-6,tổ công_tác cũng đã đề_nghị bộ công_an cho ủy quyền để rút số tiền còn lại  tiếp_tục trả lương công_nhân ”  ông hùng nói 
-7,hiện còn 400 công_nhân đang làm_việc cho công_ty thiên_mã  chủ_yếu là gia_công và hưởng lương theo tuần 
-8,tuy_nhiên theo ông hùng nếu tiếp_tục làm gia_công  công_ty thiên_mã sẽ tiếp_tục lún nợ 
-9,tổ công_tác cũng đã làm_việc với các công_ty thủy_sản khác trong khu_công_nghiệp trà_nóc và họ sẵn_sàng nhận hết 400 công_nhân nếu công_ty thiên_mã phá_sản 
-10,khả_năng tuyên_bố phá_sản công_ty thiên_mã theo ông hùng  tình_trạng của công_ty thiên_mã không_thể cứu_vãn  tài_sản còn lại theo công_ty là 180 tỉ đồng tuy_nhiên các ngân_hàng định_giá vào_khoảng 110 tỉ đồng 
-11,lý_giải chuyện gần đây nhiều doanh_nghiệp thủy_sản làm_ăn thua_lỗ  nợ_nần  ông hùng cho rằng sai_lầm của doanh_nghiệp là vay vốn ngắn_hạn để đầu_tư trung_hạn 
-12,dẫn_chứng việc này  ông hùng cho biết công_ty thiên_mã không_chỉ kinh_doanh thủy_sản mà_còn đầu_tư bất_động_sản 
-13,nhà đất đóng_băng  phải tìm nhiều cách để vay nợ trong khi lãi_suất quá cao  doanh_nghiệp không chịu nổi dẫn đến nợ_nần  thua_lỗ 
+0,ngày 235 ông võ_thanh_hùng trưởng ban quản_lý khu_chế_xuất công_nghiệp cần_thơ tổ_trưởng tổ công_tác ubnd tp cần_thơ lập công_ty tnhh_xnk thủy_sản thiên_mã công_ty thiên_mã biết số nợ đến ngày 205 công_ty 891 tỉ đồng trong lãi vay ngân_hàng 383 tỉ
+1,tổng nợ công_ty đối_với tổ_chức tín_dụng 516 tỉ đồng nợ 98 nhà cung_cấp vật_tư 95 tỉ đồng nợ 28 hộ bán cá 166 tỉ đồng nợ cá_nhân 54 tỉ đồng
+2,ngoài_ra công_ty thiên_mã ông phan_bá_tòng còn gọi_là tòng_thiên_mã làm giám_đốc còn nợ thuế 11 tỉ đồng nợ lương công_nhân 16 tỉ đồng trả_nợ lương giải_quyết việc_làm 400 công_nhân ông hùng biết “ tòng_thiên_mã ” bắt ubnd tp cần_thơ thành_lập tổ công_tác nhiệm_vụ tránh bất_ổn xảy công_ty
+3,trường_hợp giám_đốc công_ty thủy_sản bắt chủ_nợ đến xiết tài_sản công_nhân đòi lương do_đó mục_tiêu ưu_tiên tổ công_tác giải_quyết nợ lương công_nhân
+4,rà_soát tài_khoản “ tòng_thiên_mã ” đứng_tên ngân_hàng thấy còn 350 triệu đồng 27000 usd tuy_nhiên ngân_hàng mới tổ công_tác rút khoản 350 triệu giải_quyết nợ lương công_nhân
+5,“ còn 27000 usd giấy ủy quyền hết hạn rút
+6,tổ công_tác đề_nghị bộ công_an ủy quyền rút số tiền còn tiếp_tục trả lương công_nhân ” ông hùng nói
+7,hiện còn 400 công_nhân làm_việc công_ty thiên_mã chủ_yếu gia_công hưởng lương tuần
+8,tuy_nhiên ông hùng tiếp_tục làm gia_công công_ty thiên_mã tiếp_tục lún nợ
+9,tổ công_tác làm_việc công_ty thủy_sản khác trong khu_công_nghiệp trà_nóc họ sẵn_sàng nhận hết 400 công_nhân công_ty thiên_mã phá_sản
+10,khả_năng tuyên_bố phá_sản công_ty thiên_mã ông hùng tình_trạng công_ty thiên_mã không_thể cứu_vãn tài_sản còn công_ty 180 tỉ đồng tuy_nhiên ngân_hàng định_giá vào_khoảng 110 tỉ đồng
+11,lý_giải gần doanh_nghiệp thủy_sản làm_ăn thua_lỗ nợ_nần ông hùng sai_lầm doanh_nghiệp vay vốn ngắn_hạn đầu_tư trung_hạn
+12,dẫn_chứng ông hùng biết công_ty thiên_mã không_chỉ kinh_doanh thủy_sản mà_còn đầu_tư bất_động_sản
+13,nhà đất đóng_băng tìm cách vay nợ trong lãi_suất quá cao doanh_nghiệp chịu nổi dẫn đến nợ_nần thua_lỗ

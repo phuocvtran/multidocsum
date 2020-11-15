@@ -1,13 +1,13 @@
 idx, sentence
-0,theo rt  nạn_nhân maria_sadaqat đã được đưa tới viện y_tế pakistan  pims  sau khi bị gia_đình chú_rể tương_lai hành_hạ 
-1,dù trước đó  các bác_sĩ cho hay  tình_trạng của thiếu_nữ này ổn_định và có tiến_triển  song hôm 1/6  cô đã qua_đời do vết_thương quá nặng 
-2,sadaqat là giáo_viên một trường tư 
-3,cô nhập_viện hôm 31/5 với độ bỏng trên người 85  
-4,thiếu_nữ này bị ít_nhất 5 người tấn_công khi đi từ trường về nhà  cảnh_sát cho hay 
-5,sadaqat đã khóc kêu cứu  song những người hàng_xóm phải mất khá nhiều thời_gian tới cứu được cô do khu nhà cô ở là nơi hẻo_lánh 
-6,khi đó  cô đã bị_thương nặng 
-7,sadaqat nhận_diện được hai kẻ tấn_công  một trong số đó là đồng_nghiệp của cô ở trường  cảnh_sát cho hay 
-8,hiện  một cuộc điều_tra đã được tiến_hành chống lại 5 nghi phạm 
-9,ba kẻ đã bị bắt ngay_lập_tức  2 kẻ còn lại đang bị truy bắt 
-10,gia_đình nạn_nhân cũng khiếu_nại ban quản_lý bệnh_viện  buộc_tội họ không có những thiết_bị y_tế cần_thiết để cứu_chữa 
-11,vụ giết_hại sadaqat diễn ra một tháng sau một vụ tấn_công tương_tự ở pakistan khiến một thiếu_nữ 16 tuổi thiệt_mạng 
+0,rt nạn_nhân maria_sadaqat đưa tới viện y_tế pakistan pims gia_đình chú_rể tương_lai hành_hạ
+1,dù bác_sĩ hay tình_trạng thiếu_nữ ổn_định tiến_triển song hôm 1/6 cô qua_đời vết_thương quá nặng
+2,sadaqat giáo_viên một trường tư
+3,cô nhập_viện hôm 31/5 độ bỏng người 85
+4,thiếu_nữ ít_nhất 5 người tấn_công đi trường về nhà cảnh_sát hay
+5,sadaqat khóc kêu cứu song người hàng_xóm mất khá thời_gian tới cứu cô khu nhà cô ở hẻo_lánh
+6,cô bị_thương nặng
+7,sadaqat nhận_diện hai kẻ tấn_công một trong số đồng_nghiệp cô ở trường cảnh_sát hay
+8,hiện một cuộc điều_tra tiến_hành chống 5 nghi phạm
+9,ba kẻ bắt ngay_lập_tức 2 kẻ còn truy bắt
+10,gia_đình nạn_nhân khiếu_nại ban quản_lý bệnh_viện buộc_tội họ thiết_bị y_tế cần_thiết cứu_chữa
+11,vụ giết_hại sadaqat diễn một tháng một vụ tấn_công tương_tự ở pakistan khiến một thiếu_nữ 16 tuổi thiệt_mạng

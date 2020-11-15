@@ -1,13 +1,13 @@
 idx, sentence
-0, số_lượng lớn khách du_lịch đến châu_âu trong những tháng hè sẽ là mục_tiêu lớn hơn cho phần_tử khủng_bố   bộ ngoại_giao hoa_kỳ cho biết 
-1,giải bóng được tổ_chức từ 10/06 tới 10/07 tại nhiều điểm khác nhau 
-2,pháp được đặt trong tình_trạng khẩn_cấp sau các cuộc tấn_công tại paris vào năm_ngoái 
-3,các cuộc tấn_công do các phần_tử theo đạo_hồi nhận trách_nhiệm gần như xảy ra đồng_thời tại sân vận_động  phòng hòa_nhạc  quán bar và nhà_hàng làm 130 người chết và nhiều người bị_thương 
-4,trong tháng ba  32 người thiệt_mạng trong vụ đánh bom liều chết khi xảy ra vụ đánh bom sân_bay brussels và một ga tàu_điện_ngầm 
-5,tổ_chức có tên nhà_nước hồi_giáo nói họ đứng đằng sau hai vụ tấn_công ở paris và brussels 
-6,có tới một triệu cổ_động_viên nước_ngoài dự_kiến tới pháp xem giải đấu bóng_đá với sự tham_gia của tuyển quốc_gia từ nhiều nước 
-7,trong cảnh_báo đi_lại cho công_dân mỹ  bộ ngoại_giao nước này cảnh_báo mức_độ nguy_hiểm của các cuộc tấn_công quân_sự tại toàn châu_âu 
-8,uefa cho biết 25 triệu người sẽ tới 10 sân_vận_động trên toàn nước pháp để theo_dõi 51 trận đấu với khoảng 1 triệu người nước_ngoài 
-9,được biết 90000 cảnh_sát và quân_đội được điều_động để đảm_bảo an_ninh 
-10,trong khi việc đưa ra cảnh_báo đi_lại về rủi_ro ngắn_hạn là khá thường_xuyên thì đây chỉ là lần thứ ba có cảnh_báo như vậy đối_với châu_âu trong 20 năm qua 
-11,các cuộc tấn_công có_thể nhắm vào những điểm du_lịch  nhà_hàng  trung_tâm thương_mại và giao_thông công_cộng  với giải đấu euro 2016 được nêu tên cụ_thể  bộ ngoại_giao hoa_kỳ cho biết 
+0,số_lượng lớn khách du_lịch đến châu_âu trong tháng hè mục_tiêu lớn hơn phần_tử khủng_bố bộ ngoại_giao hoa_kỳ biết
+1,giải bóng tổ_chức 10/06 tới 10/07 điểm khác nhau
+2,pháp đặt trong tình_trạng khẩn_cấp cuộc tấn_công paris năm_ngoái
+3,cuộc tấn_công phần_tử đạo_hồi nhận trách_nhiệm gần xảy đồng_thời sân vận_động phòng hòa_nhạc quán bar nhà_hàng làm 130 người chết người bị_thương
+4,trong tháng ba 32 người thiệt_mạng trong vụ đánh bom liều chết xảy vụ đánh bom sân_bay brussels một ga tàu_điện_ngầm
+5,tổ_chức tên nhà_nước hồi_giáo nói họ đứng đằng hai vụ tấn_công ở paris brussels
+6,tới một triệu cổ_động_viên nước_ngoài dự_kiến tới pháp xem giải đấu bóng_đá tham_gia tuyển quốc_gia nước
+7,trong cảnh_báo đi_lại công_dân mỹ bộ ngoại_giao nước cảnh_báo mức_độ nguy_hiểm cuộc tấn_công quân_sự toàn châu_âu
+8,uefa biết 25 triệu người tới 10 sân_vận_động toàn nước pháp theo_dõi 51 trận đấu khoảng 1 triệu người nước_ngoài
+9,biết 90000 cảnh_sát quân_đội điều_động đảm_bảo an_ninh
+10,trong đưa cảnh_báo đi_lại về rủi_ro ngắn_hạn khá thường_xuyên lần thứ ba cảnh_báo đối_với châu_âu trong 20 năm
+11,cuộc tấn_công nhắm điểm du_lịch nhà_hàng trung_tâm thương_mại giao_thông công_cộng giải đấu euro 2016 nêu tên cụ_thể bộ ngoại_giao hoa_kỳ biết

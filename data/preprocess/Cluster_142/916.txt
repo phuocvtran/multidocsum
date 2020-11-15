@@ -1,34 +1,34 @@
 idx, sentence
-0,báo_cáo tại buổi làm_việc  ông lâm nguyễn_hải_long  giám_đốc công_viên phần_mềm quang_trung cho biết  sau 15 năm thành_lập  qtsc thu_hút 33 nhà đầu_tư với vốn đăng_ký là 5735 tỷ đồng và 135 doanh_nghiệp phần_mềm  84 dn trong nước  51 dn nước_ngoài  với số vốn đăng_ký kinh_doanh lên đến 2451 tỷ đồng  tổng ngân_sách đầu_tư là 250 tỷ đồng  tổng_số vốn thu_hút đầu_tư hơn 8186 tỷ đồng 
-1,hoạt_động của các doanh_nghiệp phát_triển ổn_định và tăng đều qua các năm với doanh_số tích_lũy sau 15 năm đạt 20321 tỷ đồng  riêng giai_đoạn 5 năm 2011  2015 doanh_số đạt 15758 tỷ đồng 
-2,năm 2015 là năm qtsc đạt mức doanh_số 220 triệu usd  trong đó xuất_khẩu đạt 140 triệu usd 
-3,riêng trung_tâm dữ_liệu của qtsc được tp chọn làm trung_tâm dữ_liệu với 677 điểm kết_nối sở ngành  cung_cấp 75 máy_chủ cho 124 trang website  trang tin điện_tử  chính_quyền tp  133 máy_chủ dùng chung cho các đơn_vị  cung_cấp an_ninh thông_tin cho 216 máy_chủ và 5964 máy trạm  55 phần_mềm ứng_dụng và cơ_sở dữ_liệu có kết_nối mạng với mạng metronet tp  cung_cấp 16000 hộp_thư_điện_tử cho cán_bộ công_chức tp … “ hiện thương_hiệu qtsc được cộng_đồng quốc_tế thừa_nhận  đóng_góp vào xây_dựng thương_hiệu quốc_gia cho ngành cntt và phần_mềm việt_nam đứng vị_trí thứ 4 tại đông_nam_á  sau philippines về quy_mô  malaysia về chuỗi khu phần_mềm và sau singapore về lượng chất_xám ” – ông lâm nguyễn_hải_long cho biết 
-4,tuy_nhiên  ông long cũng nêu một_số khó_khăn hiện_nay của qtsc là nguồn vốn để hoàn_thiện cơ_sở_hạ_tầng  dịch_vụ tại qtsc chưa đạt tiêu_chuẩn với thông_lệ quốc_tế khiến doanh_nghiệp nước_ngoài chưa thỏa_mãn về nhu_cầu dịch_vụ  chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin không đảm_bảo trong khi các doanh_nghiệp tại qtsc luôn có nhu_cầu tuyển_dụng hàng năm khá cao 
-5,nguyên_nhân là do nhiều năm nay ngành công_nghệ_thông_tin không còn là ngành hấp_dẫn đối_với sinh_viên 
-6,đó là nguyên_nhân khiến các công_ty phần_mềm tuyển không đủ nhu_cầu 
-7,trước lý_do thiếu nguồn nhân_lực cho qtsc  bí_thư đinh_la_thăng tìm_hiểu thu_nhập của nhân_viên tại qtsc và được ông lâm nguyễn_hải_long cho biết thu_nhập của mình là 24 triệu đồng / tháng 
-8,còn của nhân_viên ra trường khoảng 3 năm là khoảng 8  10 triệu đồng / tháng 
-9,bí_thư thành_ủy tp đinh_la_thăng cho rằng lương của giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu cả nước  đứng top đầu khu_vực mà chừng đó thì không xứng_đáng  không có động_lực làm_việc 
-10,còn thu_nhập của một kỹ_sư phần_mềm có kinh_nghiệm 3 năm là 810 triệu thì càng không đủ vì đời_sống đòi_hỏi chi_phí cao hơn 
-11,đó là chưa nói nếu không có nhà phải đi thuê thì chắc_chắn là không đủ sống 
-12,đưa ra giải_pháp  bí_thư đinh_la_thăng cho rằng muốn có cơ_chế để phát_triển chỉ thúc_đẩy việc cổ_phần_hóa trong thời_gian tới 
-13,đồng_thời  để giải_quyết vấn_đề nguồn nhân_lực  khu phần_mềm cần phải đưa chính người của mình vào nhà_trường để đào_tạo  đồng_thời phải chủ_động phối_hợp đặt_hàng giữa qtsc  nhà_trường và doanh_nghiệp để có nguồn nhân_lực có năng_lực mình cần chứ không_thể chờ_đợi các trường tự đào_tạo cho mình 
-14,bí_thư thành_ủy đinh_la_thăng cũng yêu_cầu trong chiến_lược định_hướng phát_triển sắp tới  qtsc cần gắn với thị_trường  đáp_ứng được nhu_cầu của thị_trường  đồng_thời bám sát với sự phát_triển của tp về 7 chương_trình đột_phá của đảng_bộ tp như nâng cao chất_lượng nguồn nhân_lực  chất_lượng tăng_trưởng  đưa được ứng_dụng công_nghệ_thông_tin vào các giải_pháp ùn_tắc giao_thông  ô_nhiễm môi_trường  chống ngập  mô_hình chính_quyền điện_tử  phòng_chống tội_phạm  trộm_cắp  nâng cao chất_lượng giáo_dục – đào_tạo … bí_thư đinh_la_thăng cũng yêu_cầu qtsc cần có giải_pháp trong cấp chứng_nhận đầu_tư một_cách công_khai minh_bạch  chú_trọng phát_triển nguồn nhân_lực  nâng cao chất_lượng doanh_nghiệp  chất_lượng tăng_trưởng và năng_lực cạnh_tranh 
-15,qtsc phải chủ_động làm đầu_mối cùng với các doanh_nghiệp phần_mềm và các trường đại_học đào_tạo cung_ứng đủ nhân_lực cho ngành cntt giỏi về chuyên_môn và ngoại_ngữ  đồng_thời phải xây_dựng thương_hiệu qtsc gắn với xây_dựng các chuỗi phần_mềm làm tại việt_nam để từ đó thu_hút được các doanh_nghiệp nước_ngoài đầu_tư 
-16,qtsc cần kêu_gọi các doanh_nghiệp đầu_tư hạ_tầng  củng_cố lại hạ_tầng cả phần_cứng lẫn phần_mềm để khẳng_định vai_trò của qtsc đối_với sự phát_triển của tphcm và khu_vực 
-17,trước đó  sáng cùng ngày  bí_thư thành_ủy tphcm đinh_la_thăng đi kiểm_tra tiến_độ xây_dựng tuyến đường_sắt đô_thị bến_thành  suối_tiên  tuyến metro số 1  
-18,tại công_trường ga nhà_hát lớn tp  ông hoàng_như_cương  phó giám_đốc ban quản_lý đường_sắt đô_thị tphcm cho biết  thành tuyến tàu_điện metro số 1 với chiều dài 20 km  trong đó đoạn đi ngầm dài 26 km và đoạn đi trên cao dài 171 km 
-19,tổng vốn đầu_tư hơn 24 tỷ usd  tương đường 47000 tỷ đồng  đi qua các quận  129  bình_thạnh  thủ_đức và dĩ_an  tỉnh bình_dương 
-20,hiện_nay  toàn tuyến metro số 1 hoàn_thành được khoảng 50  tiến_độ 
-21,gói thầu 1b bao_gồm 2 nhà_ga ba_son và ga nhà_hát tp và một đoạn ngầm nối 2 ga này hoàn_thành hơn 30   trong đó ga nhà_hát tp đang thực_hiện đào hầm b2 trong tổng_số 4 hầm theo phương_pháp thi_công “ topdown ”  thi_công từ trên xuống  nhưng gói thầu ga bến_thành vẫn chưa triển_khai được 
-22,riêng tuyến trên cao hoàn_thành trên 80  khối_lượng công_việc  dự_kiến sẽ hoàn_thành vào năm 2019 và dự_kiến hoàn_thành toàn tuyến vào cuối năm 2020 
-23,ngoài_ra  một_số hạng mục của gói thầu tuyến ngầm sẽ bị chậm ít_nhất đến khoảng năm 2023 mới xong  bởi trước_đây chỉ có một gói thầu nhưng nay quy_hoạch của tp bổ_sung thêm tuyến số 2  số 4 và có trung_tâm thương_mại ngầm kết_nối vào  do_đó cần phải thiết_kế bổ_sung và điều_chỉnh khu_vực ga trung_tâm thành nhà_ga tích_hợp 
-24,đối_với các số tuyến metro còn lại của tp  ông hoàng_như_cương cho biết cũng đang gặp khó_khăn  đặc_biệt là vốn thực_hiện 
-25,sau khi nghe báo_cáo  bí_thư đinh_la_thăng cho rằng ban quản_lý đường_sắt đô_thị tphcm chưa nhạy_bén 
-26,thời_điểm này tiến_độ thi_công công_trình quá chậm  trong đó khu_vực nhà_ga trung_tâm khu_vực bến_thành và các hạng_mục kết_nối cần đẩy nhanh tiến_độ sớm hoàn_thành một_cách đồng_bộ để đưa vào khai_thác  bởi dự_án này đang sử_dụng vốn vay nếu không làm đồng_bộ sẽ chậm_trễ toàn_bộ dự_án 
-27,theo bí_thư đinh_la_thăng  làm dự_án cần phải tính_cách khai_thác quỹ đất để trả nợ chứ tiền vé thu về được sẽ không đủ để trả nợ 
-28,“ riêng khu_vực nhà_ga bến_thành  bây_giờ mới điều_chỉnh rồi đấu_thầu thì hạ_tầng tổng_thể không đồng_bộ 
-29,chỗ xong rồi thì chôn vốn để chờ chỗ chưa xong thì không được 
-30,ở đây chưa kết_nối được giữa người làm dự_án và người trả nợ 
-31,người làm dự_án thì vẽ ra hoành_tráng  trong khi người trả nợ thì còng lưng mà trả  dự_án chậm là phải ”  bí_thư thành_ủy đinh_la_thăng nhận_định 
-32,bí_thư thành_ủy đinh_la_thăng yêu_cầu cần phải đưa dự_án hoàn_thành càng sớm càng tốt vào khai_thác thì mới trả nợ được 
+0,báo_cáo buổi làm_việc ông lâm nguyễn_hải_long giám_đốc công_viên phần_mềm quang_trung biết 15 năm thành_lập qtsc thu_hút 33 nhà đầu_tư vốn đăng_ký 5735 tỷ đồng 135 doanh_nghiệp phần_mềm 84 dn trong nước 51 dn nước_ngoài số vốn đăng_ký kinh_doanh đến 2451 tỷ đồng tổng ngân_sách đầu_tư 250 tỷ đồng tổng_số vốn thu_hút đầu_tư hơn 8186 tỷ đồng
+1,hoạt_động doanh_nghiệp phát_triển ổn_định tăng năm doanh_số tích_lũy 15 năm đạt 20321 tỷ đồng riêng giai_đoạn 5 năm 2011 2015 doanh_số đạt 15758 tỷ đồng
+2,năm 2015 năm qtsc đạt mức doanh_số 220 triệu usd trong xuất_khẩu đạt 140 triệu usd
+3,riêng trung_tâm dữ_liệu qtsc tp chọn làm trung_tâm dữ_liệu 677 điểm kết_nối sở ngành cung_cấp 75 máy_chủ 124 trang website trang tin điện_tử chính_quyền tp 133 máy_chủ dùng chung đơn_vị cung_cấp an_ninh thông_tin 216 máy_chủ 5964 máy trạm 55 phần_mềm ứng_dụng cơ_sở dữ_liệu kết_nối mạng mạng metronet tp cung_cấp 16000 hộp_thư_điện_tử cán_bộ công_chức tp … “ hiện thương_hiệu qtsc cộng_đồng quốc_tế thừa_nhận đóng_góp xây_dựng thương_hiệu quốc_gia ngành cntt phần_mềm việt_nam đứng vị_trí thứ 4 đông_nam_á philippines về quy_mô malaysia về chuỗi khu phần_mềm singapore về lượng chất_xám ” – ông lâm nguyễn_hải_long biết
+4,tuy_nhiên ông long nêu một_số khó_khăn hiện_nay qtsc nguồn vốn hoàn_thiện cơ_sở_hạ_tầng dịch_vụ qtsc đạt tiêu_chuẩn thông_lệ quốc_tế khiến doanh_nghiệp nước_ngoài thỏa_mãn về nhu_cầu dịch_vụ chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin đảm_bảo trong doanh_nghiệp qtsc luôn nhu_cầu tuyển_dụng hàng năm khá cao
+5,nguyên_nhân năm nay ngành công_nghệ_thông_tin còn ngành hấp_dẫn đối_với sinh_viên
+6,nguyên_nhân khiến công_ty phần_mềm tuyển đủ nhu_cầu
+7,lý_do thiếu nguồn nhân_lực qtsc bí_thư đinh_la_thăng tìm_hiểu thu_nhập nhân_viên qtsc ông lâm nguyễn_hải_long biết thu_nhập mình 24 triệu đồng / tháng
+8,còn nhân_viên trường khoảng 3 năm khoảng 8 10 triệu đồng / tháng
+9,bí_thư thành_ủy tp đinh_la_thăng lương giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu nước đứng top đầu khu_vực chừng xứng_đáng động_lực làm_việc
+10,còn thu_nhập một kỹ_sư phần_mềm kinh_nghiệm 3 năm 810 triệu đủ đời_sống đòi_hỏi chi_phí cao hơn
+11,nói nhà đi thuê chắc_chắn đủ sống
+12,đưa giải_pháp bí_thư đinh_la_thăng muốn cơ_chế phát_triển thúc_đẩy cổ_phần_hóa trong thời_gian tới
+13,đồng_thời giải_quyết vấn_đề nguồn nhân_lực khu phần_mềm đưa chính người mình nhà_trường đào_tạo đồng_thời chủ_động phối_hợp đặt_hàng giữa qtsc nhà_trường doanh_nghiệp nguồn nhân_lực năng_lực mình không_thể chờ_đợi trường tự đào_tạo mình
+14,bí_thư thành_ủy đinh_la_thăng yêu_cầu trong chiến_lược định_hướng phát_triển sắp tới qtsc gắn thị_trường đáp_ứng nhu_cầu thị_trường đồng_thời bám sát phát_triển tp về 7 chương_trình đột_phá đảng_bộ tp nâng cao chất_lượng nguồn nhân_lực chất_lượng tăng_trưởng đưa ứng_dụng công_nghệ_thông_tin giải_pháp ùn_tắc giao_thông ô_nhiễm môi_trường chống ngập mô_hình chính_quyền điện_tử phòng_chống tội_phạm trộm_cắp nâng cao chất_lượng giáo_dục – đào_tạo … bí_thư đinh_la_thăng yêu_cầu qtsc giải_pháp trong cấp chứng_nhận đầu_tư công_khai minh_bạch chú_trọng phát_triển nguồn nhân_lực nâng cao chất_lượng doanh_nghiệp chất_lượng tăng_trưởng năng_lực cạnh_tranh
+15,qtsc chủ_động làm đầu_mối doanh_nghiệp phần_mềm trường đại_học đào_tạo cung_ứng đủ nhân_lực ngành cntt giỏi về chuyên_môn ngoại_ngữ đồng_thời xây_dựng thương_hiệu qtsc gắn xây_dựng chuỗi phần_mềm làm việt_nam thu_hút doanh_nghiệp nước_ngoài đầu_tư
+16,qtsc kêu_gọi doanh_nghiệp đầu_tư hạ_tầng củng_cố hạ_tầng phần_cứng lẫn phần_mềm khẳng_định vai_trò qtsc đối_với phát_triển tphcm khu_vực
+17,sáng ngày bí_thư thành_ủy tphcm đinh_la_thăng đi kiểm_tra tiến_độ xây_dựng tuyến đường_sắt đô_thị bến_thành suối_tiên tuyến metro số 1
+18,công_trường ga nhà_hát lớn tp ông hoàng_như_cương phó giám_đốc ban quản_lý đường_sắt đô_thị tphcm biết thành tuyến tàu_điện metro số 1 chiều dài 20 km trong đoạn đi ngầm dài 26 km đoạn đi cao dài 171 km
+19,tổng vốn đầu_tư hơn 24 tỷ usd tương đường 47000 tỷ đồng đi quận 129 bình_thạnh thủ_đức dĩ_an tỉnh bình_dương
+20,hiện_nay toàn tuyến metro số 1 hoàn_thành khoảng 50 tiến_độ
+21,gói thầu 1b bao_gồm 2 nhà_ga ba_son ga nhà_hát tp một đoạn ngầm nối 2 ga hoàn_thành hơn 30 trong ga nhà_hát tp thực_hiện đào hầm b2 trong tổng_số 4 hầm phương_pháp thi_công “ topdown ” thi_công xuống gói thầu ga bến_thành triển_khai
+22,riêng tuyến cao hoàn_thành 80 khối_lượng công_việc dự_kiến hoàn_thành năm 2019 dự_kiến hoàn_thành toàn tuyến cuối năm 2020
+23,ngoài_ra một_số hạng mục gói thầu tuyến ngầm chậm ít_nhất đến khoảng năm 2023 mới xong trước_đây một gói thầu nay quy_hoạch tp bổ_sung thêm tuyến số 2 số 4 trung_tâm thương_mại ngầm kết_nối do_đó thiết_kế bổ_sung điều_chỉnh khu_vực ga trung_tâm thành nhà_ga tích_hợp
+24,đối_với số tuyến metro còn tp ông hoàng_như_cương biết gặp khó_khăn đặc_biệt vốn thực_hiện
+25,nghe báo_cáo bí_thư đinh_la_thăng ban quản_lý đường_sắt đô_thị tphcm nhạy_bén
+26,thời_điểm tiến_độ thi_công công_trình quá chậm trong khu_vực nhà_ga trung_tâm khu_vực bến_thành hạng_mục kết_nối đẩy nhanh tiến_độ sớm hoàn_thành đồng_bộ đưa khai_thác dự_án sử_dụng vốn vay làm đồng_bộ chậm_trễ toàn_bộ dự_án
+27,bí_thư đinh_la_thăng làm dự_án tính_cách khai_thác quỹ đất trả nợ tiền vé thu về đủ trả nợ
+28,“ riêng khu_vực nhà_ga bến_thành bây_giờ mới điều_chỉnh đấu_thầu hạ_tầng tổng_thể đồng_bộ
+29,chỗ xong chôn vốn chờ chỗ xong
+30,ở kết_nối giữa người làm dự_án người trả nợ
+31,người làm dự_án vẽ hoành_tráng trong người trả nợ còng lưng trả dự_án chậm ” bí_thư thành_ủy đinh_la_thăng nhận_định
+32,bí_thư thành_ủy đinh_la_thăng yêu_cầu đưa dự_án hoàn_thành sớm tốt khai_thác mới trả nợ

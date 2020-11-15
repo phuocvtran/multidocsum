@@ -1,4 +1,4 @@
 idx, sentence
-0,lễ_hội sẽ diễn ra đến hết ngày 96 với các hoạt_động như  chợ_nổi trái_cây và các sản_phẩm làng_nghề  hội_thi trái ngon  an_toàn  hội_thi nghệ_thuật tạo_hình bằng trái_cây 
-1,“ bộ sưu_tập trái lạ  hiếm ” là một trong những hoạt_động độc_đáo góp_phần tạo thêm uy_tín và nét đặc_sắc cho lễ_hội 
-2,nét mới của lễ_hội năm nay là btc tổ_chức chương_trình “ tuần_lễ trái_cây việt_nam ” từ ngày 1 đến 76 nhằm kích_cầu_tiêu_dùng  quảng_bá đặc_sản trái_cây việt_nam đến du_khách trong và ngoài nước  góp_phần mở_rộng đầu_ra  tăng doanh_thu cho nhà_vườn  hỗ_trợ nhà_nông vượt qua thời_gian khó_khăn 
+0,lễ_hội diễn đến hết ngày 96 hoạt_động chợ_nổi trái_cây sản_phẩm làng_nghề hội_thi trái ngon an_toàn hội_thi nghệ_thuật tạo_hình bằng trái_cây
+1,“ bộ sưu_tập trái lạ hiếm ” một trong hoạt_động độc_đáo góp_phần tạo thêm uy_tín nét đặc_sắc lễ_hội
+2,nét mới lễ_hội năm nay btc tổ_chức chương_trình “ tuần_lễ trái_cây việt_nam ” ngày 1 đến 76 nhằm kích_cầu_tiêu_dùng quảng_bá đặc_sản trái_cây việt_nam đến du_khách trong ngoài nước góp_phần mở_rộng đầu_ra tăng doanh_thu nhà_vườn hỗ_trợ nhà_nông vượt thời_gian khó_khăn

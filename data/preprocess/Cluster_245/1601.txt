@@ -1,21 +1,21 @@
 idx, sentence
-0,kết_thúc phiên họp thường kỳ tháng 5 của chính_phủ chiều nay  văn_phòng chính_phủ đang tổ_chức họp_báo thông_tin về hoạt_động phiên họp 
-1,bộ_trưởng mai tiến_dũng thông_tin  các nhà_khoa_học đã xác_định được nguyên_nhân dẫn đến hiện_tượng cá chết nhưng việc công_bố cụ_thể chưa thực_hiện 
-2,cụ_thể  bộ_trưởng mai tiến_dũng cho biết  ngay sau khi phát_hiện hiện_tượng cá chết bất_thường như vậy  thủ_tướng nguyễn_xuân_phúc cũng như các phó_thủ_tướng cũng đã chỉ_đạo kịp_thời 
-3,có hơn 30 bộ ngành cơ_quan trung_ương  địa_phương vào cuộc để thu_thập chứng_cứ  xác_minh  tìm ra nguyên_nhân vụ_việc cá chết 
-4,các cơ_quan cũng mời hàng trăm nhà_khoa_học trong nước  quốc_tế cùng tham_gia để thu_thập_dữ_liệu chứng_cứ xác_minh nguyên_nhân hiện_tượng này 
-5,nguyên_tắc được xác_định là phải dựa vào những bằng_chứng khoa_học  khách_quan  chặt_chẽ  đảm_bảo tính pháp_lý 
-6,trong quá_trình điều_tra  quan_điểm chỉ_đạo của thủ_tướng là nếu phát_hiện tổ_chức  cá_nhân vi_phạm  dẫn đến hệ_quả này thì phải xử_lý nghiêm theo quy_định  không loại_trừ bất_cứ đối_tượng này 
-7,“ đến nay các nhà_khoa_học đã xác_định được nguyên_nhân cá chết 
-8,thủ_tướng đã giao các cơ_quan_chức_năng mời tư_vấn trong và ngoài nước phản_biện độc_lập về vấn_đề này 
-9,trước khi kết_luận chính_thức  quy_trình cần_thiết là mời các nhà_khoa_học trong và ngoài nước thực_hiện việc này vì chính_phủ xác_định đây là vấn_đề rất quan_trọng  khi công_bố  kết_luận phải đảm_bảo chứng_cứ  tính pháp_lý  tính khách_quan ” – người phát_ngôn chính_phủ nhấn_mạnh 
-10,thủ_tướng cũng đồng_thời quyết_liệt yêu_cầu triển_khai các giải_pháp để đảm_bảo môi_trường kinh_doanh  môi_trường tự_nhiên  nhất_là môi_trường biển được an_toàn  lâu_dài 
-11,trước_mắt  để kịp_thời hỗ_trợ người dân bị thiệt_hại  ngày 19/5 vừa_qua  thủ_tướng đã quyết_định hỗ_trợ gạo cho người dân bị ảnh_hưởng trực_tiếp bởi sự_cố  hỗ_trợ bằng tiền cho các tàu phải ngừng ra khơi  hỗ_trợ vốn tín_dụng với các doanh_nghiệp  các chủ tàu làm nhiệm_vụ dịch_vụ hậu_cần nghề cá để thu_mua hải_sản cho ngư_dân 
-12,hiện thủ_tướng cũng giao cho bộ_nông_nghiệp_chủ_trì khảo_sát đánh_giá khu_vực biển an_toàn để đánh_bắt  nuôi_trồng thuỷ hải_sản 
-13,thủ_tướng cũng yêu_cầu bộ_tài_nguyên – môi_trường rà_soát tất_cả những dự_án công_nghiệp liên_quan đến hoạt_động xả thải  nếu có vi_phạm thì xử_lý theo quy_định 
-14,bộ_trưởng thông_tin – truyền_thông trương_minh_tuấn cũng nhận những câu hỏi yêu_cầu công_bố thông_tin về diễn_biến liên_quan đến vụ cá chết ở ven biển các tỉnh miền trung 
-15,bộ_trưởng trương_minh_tuấn chia_sẻ  việc dư_luận sốt_ruột về thông_tin này là xác_đáng 
-16,thời_gian qua  các nhà_khoa_học đã rất nỗ_lực tìm nguyên_nhân và đã tìm ra 
-17,tuy_nhiên việc này là trách_nhiệm của tập_thể nhiều nhà_khoa_học  hiện còn nhiều ý_kiến khác nhau cần phản_biện một_cách rốt_ráo mới có_thể công_bố vì bất_cứ một sai_lệch nào trong nhận_định 
-18,“ việc xác_định thủ_phạm không chỉ là căn_cứ trên bằng_chứng khoa_học mà_còn phải trên những bằng_chứng về hành_vi vi_phạm  nhất_là vi_phạm quy_định pháp_luật về môi_trường 
-19,cần thêm thời_gian để xác_định những hành_vi vi_phạm này ” – bộ_trưởng thông_tin – truyền_thông nói 
+0,kết_thúc phiên họp thường kỳ tháng 5 chính_phủ chiều nay văn_phòng chính_phủ tổ_chức họp_báo thông_tin về hoạt_động phiên họp
+1,bộ_trưởng mai tiến_dũng thông_tin nhà_khoa_học xác_định nguyên_nhân dẫn đến hiện_tượng cá chết công_bố cụ_thể thực_hiện
+2,cụ_thể bộ_trưởng mai tiến_dũng biết phát_hiện hiện_tượng cá chết bất_thường thủ_tướng nguyễn_xuân_phúc phó_thủ_tướng chỉ_đạo kịp_thời
+3,hơn 30 bộ ngành cơ_quan trung_ương địa_phương cuộc thu_thập chứng_cứ xác_minh tìm nguyên_nhân vụ_việc cá chết
+4,cơ_quan mời hàng trăm nhà_khoa_học trong nước quốc_tế tham_gia thu_thập_dữ_liệu chứng_cứ xác_minh nguyên_nhân hiện_tượng
+5,nguyên_tắc xác_định dựa bằng_chứng khoa_học khách_quan chặt_chẽ đảm_bảo tính pháp_lý
+6,trong quá_trình điều_tra quan_điểm chỉ_đạo thủ_tướng phát_hiện tổ_chức cá_nhân vi_phạm dẫn đến hệ_quả xử_lý nghiêm quy_định loại_trừ bất_cứ đối_tượng
+7,“ đến nay nhà_khoa_học xác_định nguyên_nhân cá chết
+8,thủ_tướng giao cơ_quan_chức_năng mời tư_vấn trong ngoài nước phản_biện độc_lập về vấn_đề
+9,kết_luận chính_thức quy_trình cần_thiết mời nhà_khoa_học trong ngoài nước thực_hiện chính_phủ xác_định vấn_đề quan_trọng công_bố kết_luận đảm_bảo chứng_cứ tính pháp_lý tính khách_quan ” – người phát_ngôn chính_phủ nhấn_mạnh
+10,thủ_tướng đồng_thời quyết_liệt yêu_cầu triển_khai giải_pháp đảm_bảo môi_trường kinh_doanh môi_trường tự_nhiên nhất_là môi_trường biển an_toàn lâu_dài
+11,trước_mắt kịp_thời hỗ_trợ người dân thiệt_hại ngày 19/5 vừa_qua thủ_tướng quyết_định hỗ_trợ gạo người dân ảnh_hưởng trực_tiếp sự_cố hỗ_trợ bằng tiền tàu ngừng khơi hỗ_trợ vốn tín_dụng doanh_nghiệp chủ tàu làm nhiệm_vụ dịch_vụ hậu_cần nghề cá thu_mua hải_sản ngư_dân
+12,hiện thủ_tướng giao bộ_nông_nghiệp_chủ_trì khảo_sát đánh_giá khu_vực biển an_toàn đánh_bắt nuôi_trồng thuỷ hải_sản
+13,thủ_tướng yêu_cầu bộ_tài_nguyên – môi_trường rà_soát tất_cả dự_án công_nghiệp liên_quan đến hoạt_động xả thải vi_phạm xử_lý quy_định
+14,bộ_trưởng thông_tin – truyền_thông trương_minh_tuấn nhận câu hỏi yêu_cầu công_bố thông_tin về diễn_biến liên_quan đến vụ cá chết ở ven biển tỉnh miền trung
+15,bộ_trưởng trương_minh_tuấn chia_sẻ dư_luận sốt_ruột về thông_tin xác_đáng
+16,thời_gian nhà_khoa_học nỗ_lực tìm nguyên_nhân tìm
+17,tuy_nhiên trách_nhiệm tập_thể nhà_khoa_học hiện còn ý_kiến khác nhau phản_biện rốt_ráo mới công_bố bất_cứ một sai_lệch nào trong nhận_định
+18,“ xác_định thủ_phạm căn_cứ bằng_chứng khoa_học mà_còn bằng_chứng về hành_vi vi_phạm nhất_là vi_phạm quy_định pháp_luật về môi_trường
+19,thêm thời_gian xác_định hành_vi vi_phạm ” – bộ_trưởng thông_tin – truyền_thông nói

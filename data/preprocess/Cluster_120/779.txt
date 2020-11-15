@@ -1,21 +1,21 @@
 idx, sentence
-0,theo cáo_trạng  do có mối quan_hệ quen_biết với khà a_giàng nên ngày 2582013  thào_a_vảng  sn 1977   trú tại xã cán_cấu  si_ma_cai tỉnh lào_cai đã rủ thào_a_hoà  sn 1982  ở cùng thôn đi đến nhà khà_a_giàng để mua 5 kg thuốc_phiện với giá 14 triệu đồng 
-1,trên đường vận_chuyển thuốc_phiện về lào_cai  vảng và hoà đã bị tổ công_tác của công_an xã pà_cò  mai_châu  kiểm_tra  phát_hiện 6 gói thuốc_phiện với tổng trọng_lượng hơn 48 kg 
-2,căn_cứ tài_liệu điều_tra  ngày 13/11/2003 cơ_quan csđt  công_an tỉnh đã ra quyết_định khởi_tố bị_can và ra_lệnh bắt tạm giam đối_với khà_a_giàng về tội mua_bán trái_phép chất ma_tuý 
-3,tuy_nhiên  trước đó khà a_giàng đã bỏ trốn khỏi địa_phương nên cơ_quan csđt  công_an tỉnh đã ra quyết_định truy_nã 
-4,trong quá_trình bỏ trốn  ngày 26/5/2005  khà_a_giàng nhận thuê vận_chuyển heroin đến khu_vực thung_khe với tiền công 50 triệu đồng 
-5,đối_tượng họ khà đã gặp hờ_a_dế  hờ_a_giàng  sùng_a_giàng  khà_a_lếnh để đặt vấn_đề thuê vận_chuyển heroin về hà_nội với giá 50 triệu đồng 
-6,khoảng 1 h sáng 27/5/2005 khà a_giàng gọi hờ a_dế  hờ_a_giàng  sùng_a_giàng  khà_a_lếnh dậy  giao cho mỗi người một chiếc điện_thoại_di_động và dặn khi nào lên đến đỉnh thung_khe thì bật điện_thoại để thống_nhất địa_điểm giao_nhận heroin  nếu không có ai gọi thì mang heroin về thanh_xuân  hà_nội  giao cho một người tên là bình để nhận tiền công vận_chuyển 
-7,sau đó  các đối_tượng đã mang 2 chiếc can đi về bến_xe xăm_khoè để đón xe_khách 
-8,khi xe đi đến thị_trấn mai_châu  hờ_a_dế và hờ_a_giàng  sùng_a_giàng đã bị công_an huyện mai_châu_phát_hiện  bắt quả_tang 
-9,kiểm_tra 2 can nhựa của các đối_tượng mang theo  đã phát_hiện tổng_cộng 64 bánh heroin 
-10,ngay sau đó  khà_a_lếnh cũng bị bắt khẩn_cấp còn khà_a_giàng bỏ trốn 
-11,ngày 1462005  cơ_quan csđt công_an tỉnh hòa_bình đã ra quyết_định khởi_tố bị_can đối_với khà_a_giàng về tội mua_bán  vận_chuyển trái_phép chất ma_tuý và tiến_hành khám_xét khẩn_cấp nhà của đối_tượng 
-12,tại đây  cơ_quan csđt đã phát_hiện  thu_giữ 7 gói thuốc_nổ amonit có tổng trọng_lượng 1400 gram  3 kíp nổ điện 
-13,do_vậy  ngày 26/12/2005  cơ_quan csđt công_an tỉnh đã ra quyết_định bổ_sung quyết_định khởi_tố bị_can đối_với khà_a_giàng về tội tàng_trữ trái_phép vật_liệu nổ 
-14,do khà_a_giàng bỏ trốn khỏi địa_phương nên ngày 21/6/2005  cơ_quan csđt công_an tỉnh đã ra quyết_định truy_nã đối_với khà a_giàng 
-15,đến ngày 06/5/2011 khà_a_giàng đã đến công_an xã hang_kia  mai_châu  đầu_thú 
-16,ngày 16/5/2011 và ngày 03/6/2011 cơ_quan csđt công_an tỉnh ra các quyết_định phục_hồi điều_tra bị can đối_với khà_a_giàng trong vụ_án 64 bánh heroin và gần 5 kg thuốc_phiện  ra_lệnh_cấm đi khỏi nói cư_trú đối_với khà a_giàng 
-17,tuy_nhiên  đối_tượng đã không chấp_hành mà tiếp_tục bỏ trốn khỏi địa_phương nên ngày 15/11/2011  cơ_quan csđt đã ra quyết_định truy_nã đối_với khà a_giàng 
-18,cho đến ngày 01/7/2015 thì khà_a_giàng đã bị lực_lượng chức_năng công_an tỉnh bắt_giữ 
-19,trong quá_trình bắt_giữ đã thu trên người đối_tượng một quả lựu_đạn 
+0,cáo_trạng mối quan_hệ quen_biết khà a_giàng ngày 2582013 thào_a_vảng sn 1977 trú xã cán_cấu si_ma_cai tỉnh lào_cai rủ thào_a_hoà sn 1982 ở thôn đi đến nhà khà_a_giàng mua 5 kg thuốc_phiện giá 14 triệu đồng
+1,đường vận_chuyển thuốc_phiện về lào_cai vảng hoà tổ công_tác công_an xã pà_cò mai_châu kiểm_tra phát_hiện 6 gói thuốc_phiện tổng trọng_lượng hơn 48 kg
+2,căn_cứ tài_liệu điều_tra ngày 13/11/2003 cơ_quan csđt công_an tỉnh quyết_định khởi_tố bị_can ra_lệnh bắt tạm giam đối_với khà_a_giàng về tội mua_bán trái_phép chất ma_tuý
+3,tuy_nhiên khà a_giàng bỏ trốn khỏi địa_phương cơ_quan csđt công_an tỉnh quyết_định truy_nã
+4,trong quá_trình bỏ trốn ngày 26/5/2005 khà_a_giàng nhận thuê vận_chuyển heroin đến khu_vực thung_khe tiền công 50 triệu đồng
+5,đối_tượng họ khà gặp hờ_a_dế hờ_a_giàng sùng_a_giàng khà_a_lếnh đặt vấn_đề thuê vận_chuyển heroin về hà_nội giá 50 triệu đồng
+6,khoảng 1 h sáng 27/5/2005 khà a_giàng gọi hờ a_dế hờ_a_giàng sùng_a_giàng khà_a_lếnh dậy giao người một điện_thoại_di_động dặn nào đến đỉnh thung_khe bật điện_thoại thống_nhất địa_điểm giao_nhận heroin ai gọi mang heroin về thanh_xuân hà_nội giao một người tên bình nhận tiền công vận_chuyển
+7,đối_tượng mang 2 can đi về bến_xe xăm_khoè đón xe_khách
+8,xe đi đến thị_trấn mai_châu hờ_a_dế hờ_a_giàng sùng_a_giàng công_an huyện mai_châu_phát_hiện bắt quả_tang
+9,kiểm_tra 2 can nhựa đối_tượng mang phát_hiện tổng_cộng 64 bánh heroin
+10,khà_a_lếnh bắt khẩn_cấp còn khà_a_giàng bỏ trốn
+11,ngày 1462005 cơ_quan csđt công_an tỉnh hòa_bình quyết_định khởi_tố bị_can đối_với khà_a_giàng về tội mua_bán vận_chuyển trái_phép chất ma_tuý tiến_hành khám_xét khẩn_cấp nhà đối_tượng
+12,cơ_quan csđt phát_hiện thu_giữ 7 gói thuốc_nổ amonit tổng trọng_lượng 1400 gram 3 kíp nổ điện
+13,do_vậy ngày 26/12/2005 cơ_quan csđt công_an tỉnh quyết_định bổ_sung quyết_định khởi_tố bị_can đối_với khà_a_giàng về tội tàng_trữ trái_phép vật_liệu nổ
+14,khà_a_giàng bỏ trốn khỏi địa_phương ngày 21/6/2005 cơ_quan csđt công_an tỉnh quyết_định truy_nã đối_với khà a_giàng
+15,đến ngày 06/5/2011 khà_a_giàng đến công_an xã hang_kia mai_châu đầu_thú
+16,ngày 16/5/2011 ngày 03/6/2011 cơ_quan csđt công_an tỉnh quyết_định phục_hồi điều_tra can đối_với khà_a_giàng trong vụ_án 64 bánh heroin gần 5 kg thuốc_phiện ra_lệnh_cấm đi khỏi nói cư_trú đối_với khà a_giàng
+17,tuy_nhiên đối_tượng chấp_hành tiếp_tục bỏ trốn khỏi địa_phương ngày 15/11/2011 cơ_quan csđt quyết_định truy_nã đối_với khà a_giàng
+18,đến ngày 01/7/2015 khà_a_giàng lực_lượng chức_năng công_an tỉnh bắt_giữ
+19,trong quá_trình bắt_giữ thu người đối_tượng một quả lựu_đạn

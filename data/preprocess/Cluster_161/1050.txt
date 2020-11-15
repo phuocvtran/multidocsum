@@ -1,16 +1,16 @@
 idx, sentence
-0,xúc_xích viet_foods an_toàn như tiền_phong đã thông_tin  ngày 29/5  tại tphcm diễn ra họp_báo công_bố “ sản_phẩm viet_foods an_toàn với người tiêu_dùng ” do cơ_sở kinh_doanh và chế_biến việt  viet_foods  tổ_chức 
-1,đây chính là đơn_vị bị chi_cục qltt hà_nội bắt_giữ 22 tấn xúc_xích vì có chứa_chất sodium_nitrate 251 nghi gây ung_thư ngày 20/4 
-2,tại cuộc họp này  viet foods đã công_bố công_văn số 3289 của cục an_toàn thực_phẩm  bộ y_tế  sau khi chi_cục qltt hà_nội tham_vấn ý_kiến cục này về hướng xử_lý 
-3,theo nội_dung công_văn này  ngày 20/5  cục an_toàn thực_phẩm đã tổ_chức cuộc họp liên_ngành với sự tham_gia của đại_diện cục_qltt  cục quản_lý chất_lượng nông_lâm thủy_sản  chi_cục qltt hà_nội  đội_qltt_số 14  chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương và viet_foods 
-4,tiếp đó  ngày 23/5  cục an_toàn thực_phẩm tổ_chức họp hội_đồng_khoa_học để xem_xét việc sử_dụng và hàm_lượng natri_nitrat_ins 251 trong sản_phẩm xúc_xích viet foods 
-5,căn_cứ vào kết_quả các cuộc họp nói trên  cục an_toàn thực_phẩm cho rằng  natri_nitrat 251 không phải là chất cấm sử_dụng trong sản_xuất  chế_biến thực_phẩm 
-6,theo quy_định của bộ y_tế về hướng_dẫn quản_lý phụ_gia thực_phẩm và ủy_ban tiêu_chuẩn_hóa thực_phẩm quốc_tế  codex  thì natri_nitrat 251 là phụ_gia thực_phẩm được phép sử_dụng đối_với sản_phẩm pho_mát ủ chín hoàn_toàn  kể_cả bề_mặt  với hàm_lượng 35 mg / kg 
-7,cũng theo công_văn của cục an_toàn thực_phẩm  một_số nước hiện vẫn cho_phép sử_dụng natri_nitrat 251 như singapore 500 mg / kg  malaysia 200 mg / kg  trung_quốc 500 mg / kg  canada 200 mg / kg  mỹ 500 mg / kg 
-8,cục an_toàn thực_phẩm cũng cho rằng  nitrat là chất có_thể có sẵn trong các loại thực_phẩm như rau  củ  quả  cá  trứng  sữa … hoặc có_thể được chuyển hóa từ nitrit trong quá_trình sản_xuất  chế_biến thực_phẩm 
-9,“ như_vậy  với hàm_lượng natri_nitrat 251 phát_hiện trong sản_phẩm xúc_xích viet foods từ 50  100 mg / kg là an_toàn cho người sử_dụng ”  công_văn của cục an_toàn thực_phẩm nêu 
-10,về phương_án giải_quyết sự_việc này  cục an_toàn thực_phẩm đề_nghị chi_cục qltt hà_nội cần tham_vấn chuyên_môn cục an_toàn thực_phẩm và chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương để có quyết_định xử_lý vụ_việc kịp_thời  tránh gây tổn_hại cho doanh_nghiệp 
-11,trong cuộc họp_báo nói trên  viet foods cũng công_bố quyết_định “ trả_lại tang_vật  phương_tiện  giấy_tờ tạm giữ theo thủ_tục hành_chính ” của đội qltt_số 14  chi_cục qltt hà_nội với lý_do “ doanh_nghiệp không có hành_vi vi_phạm hành_chính như nội_dung ghi trong biên_bản vi_phạm hành_chính ” 
-12,“ câu_chuyện còn kéo_dài ” sáng 30/5  trao_đổi qua điện_thoại với phóng_viên tiền_phong  ông hoàng đại_nghĩa  đội_trưởng đội qltt_số 14  chi_cục qltt hà_nội  nơi trực_tiếp thu_giữ 22 tấn xúc_xích viet foods cho biết  hiện_tại toàn_bộ tài_liệu cũng như thẩm_quyền trả_lời báo_chí đều do lãnh_đạo chi_cục qltt hà_nội quyết_định 
-13,tuy_nhiên  ông này nhấn_mạnh  khi trao_đổi với truyền_thông tại hiện_trường  tôi đã trả_lời dựa theo nguyên_tắc khoa_học  chất sodium nitrate 251 khi ở nhiệt_độ cao sẽ bị biến_đổi chất và là tác_nhân gây ung_thư 
-14,“ tôi không hề có phát_biểu gì liên_quan đến việc xúc_xích viet_foods gây ung_thư ”  ông nghĩa khẳng_định 
+0,xúc_xích viet_foods an_toàn tiền_phong thông_tin ngày 29/5 tphcm diễn họp_báo công_bố “ sản_phẩm viet_foods an_toàn người tiêu_dùng ” cơ_sở kinh_doanh chế_biến việt viet_foods tổ_chức
+1,chính đơn_vị chi_cục qltt hà_nội bắt_giữ 22 tấn xúc_xích chứa_chất sodium_nitrate 251 nghi gây ung_thư ngày 20/4
+2,cuộc họp viet foods công_bố công_văn số 3289 cục an_toàn thực_phẩm bộ y_tế chi_cục qltt hà_nội tham_vấn ý_kiến cục về hướng xử_lý
+3,nội_dung công_văn ngày 20/5 cục an_toàn thực_phẩm tổ_chức cuộc họp liên_ngành tham_gia đại_diện cục_qltt cục quản_lý chất_lượng nông_lâm thủy_sản chi_cục qltt hà_nội đội_qltt_số 14 chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương viet_foods
+4,tiếp ngày 23/5 cục an_toàn thực_phẩm tổ_chức họp hội_đồng_khoa_học xem_xét sử_dụng hàm_lượng natri_nitrat_ins 251 trong sản_phẩm xúc_xích viet foods
+5,căn_cứ kết_quả cuộc họp nói cục an_toàn thực_phẩm natri_nitrat 251 chất cấm sử_dụng trong sản_xuất chế_biến thực_phẩm
+6,quy_định bộ y_tế về hướng_dẫn quản_lý phụ_gia thực_phẩm ủy_ban tiêu_chuẩn_hóa thực_phẩm quốc_tế codex natri_nitrat 251 phụ_gia thực_phẩm phép sử_dụng đối_với sản_phẩm pho_mát ủ chín hoàn_toàn kể_cả bề_mặt hàm_lượng 35 mg / kg
+7,công_văn cục an_toàn thực_phẩm một_số nước hiện cho_phép sử_dụng natri_nitrat 251 singapore 500 mg / kg malaysia 200 mg / kg trung_quốc 500 mg / kg canada 200 mg / kg mỹ 500 mg / kg
+8,cục an_toàn thực_phẩm nitrat chất sẵn trong loại thực_phẩm rau củ quả cá trứng sữa … hoặc chuyển hóa nitrit trong quá_trình sản_xuất chế_biến thực_phẩm
+9,“ như_vậy hàm_lượng natri_nitrat 251 phát_hiện trong sản_phẩm xúc_xích viet foods 50 100 mg / kg an_toàn người sử_dụng ” công_văn cục an_toàn thực_phẩm nêu
+10,về phương_án giải_quyết sự_việc cục an_toàn thực_phẩm đề_nghị chi_cục qltt hà_nội tham_vấn chuyên_môn cục an_toàn thực_phẩm chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương quyết_định xử_lý vụ_việc kịp_thời tránh gây tổn_hại doanh_nghiệp
+11,trong cuộc họp_báo nói viet foods công_bố quyết_định “ trả_lại tang_vật phương_tiện giấy_tờ tạm giữ thủ_tục hành_chính ” đội qltt_số 14 chi_cục qltt hà_nội lý_do “ doanh_nghiệp hành_vi vi_phạm hành_chính nội_dung ghi trong biên_bản vi_phạm hành_chính ”
+12,“ câu_chuyện còn kéo_dài ” sáng 30/5 trao_đổi điện_thoại phóng_viên tiền_phong ông hoàng đại_nghĩa đội_trưởng đội qltt_số 14 chi_cục qltt hà_nội trực_tiếp thu_giữ 22 tấn xúc_xích viet foods biết hiện_tại toàn_bộ tài_liệu thẩm_quyền trả_lời báo_chí lãnh_đạo chi_cục qltt hà_nội quyết_định
+13,tuy_nhiên ông nhấn_mạnh trao_đổi truyền_thông hiện_trường tôi trả_lời dựa nguyên_tắc khoa_học chất sodium nitrate 251 ở nhiệt_độ cao biến_đổi chất tác_nhân gây ung_thư
+14,“ tôi hề phát_biểu liên_quan đến xúc_xích viet_foods gây ung_thư ” ông nghĩa khẳng_định

@@ -1,14 +1,14 @@
 idx, sentence
-0,phát_hiện thi_thể phụ_nữ trong bao_tải liên_quan đến vụ “ phát_hiện thi_thể phụ_nữ trong bao_tải ” vào sáng 23/5 tại bãi đất trống gần chung_cư thạnh_mỹ_lợi  pthạnh mỹ_lợi  q 12  tphcm  hiện công_tác điều_tra vẫn đang được mở_rộng 
-1,bước đầu danh_tính nạn_nhân được xác_định là bà phan_thị_ánh_hương  sn 1975  ngụ q 2  
-2,gia_đình khai_báo với công_an  bà hương kiếm sống bằng nghề làm móng tay  móng chân dạo  chủ_yếu ở địa_bàn q 2 
-3,trưa 22/5  bà hương rời nhà  mang theo bộ_đồ_nghề và nói với người_thân là … đi làm cho khách 
-4,đến tối không thấy bà hương về  gia_đình liên_lạc qua điện_thoại nhưng máy tắt  tỏa đi tìm_kiếm bà hương cũng không có thông_tin 
-5,gia_đình chưa kịp trình_báo công_an thì sáng 23/5 nghe tin phát_hiện thi_thể phụ_nữ trong bao_tải nên đến tìm_hiểu và xác_nhận đó chính là bà hương 
-6,người_thân khai_báo  khi rời nhà bà hương có mang theo một_số vòng vàng nữ_trang 
-7,tuy_nhiên lúc phát_hiện thi_thể thì số nữ_trang này không còn 
-8,công_an nhận_định  đây là vụ giết người phi_tang xác  khả_năng nhằm mục_đích cướp tài_sản 
-9,hiện cơ_quan công_an đang rà_soát các mối quan_hệ của bà hương  các đối_tượng khả_nghi để mở_rộng điều_tra 
-10,trước đó như vietnamnet đã thông_tin  sáng 23/5 có 1 người phụ_nữ nhặt ve_chai tình_cờ phát_hiện 1 bao_tải dưới lùm cây trong 1 bãi đất trống ở gần chung_cư thạnh_mỹ_lợi 
-11,người này đến gần kiểm_tra thì tá_hỏa khi phát_hiện đó là thi_thể người 
-12,nghe bà này hô_hoán  người dân xung_quanh kéo đến và trình_báo cơ_quan công_an 
+0,phát_hiện thi_thể phụ_nữ trong bao_tải liên_quan đến vụ “ phát_hiện thi_thể phụ_nữ trong bao_tải ” sáng 23/5 bãi đất trống gần chung_cư thạnh_mỹ_lợi pthạnh mỹ_lợi q 12 tphcm hiện công_tác điều_tra mở_rộng
+1,bước đầu danh_tính nạn_nhân xác_định bà phan_thị_ánh_hương sn 1975 ngụ q 2
+2,gia_đình khai_báo công_an bà hương kiếm sống bằng nghề làm móng tay móng chân dạo chủ_yếu ở địa_bàn q 2
+3,trưa 22/5 bà hương rời nhà mang bộ_đồ_nghề nói người_thân … đi làm khách
+4,đến tối thấy bà hương về gia_đình liên_lạc điện_thoại máy tắt tỏa đi tìm_kiếm bà hương thông_tin
+5,gia_đình kịp trình_báo công_an sáng 23/5 nghe tin phát_hiện thi_thể phụ_nữ trong bao_tải đến tìm_hiểu xác_nhận chính bà hương
+6,người_thân khai_báo rời nhà bà hương mang một_số vòng vàng nữ_trang
+7,tuy_nhiên phát_hiện thi_thể số nữ_trang còn
+8,công_an nhận_định vụ giết người phi_tang xác khả_năng nhằm mục_đích cướp tài_sản
+9,hiện cơ_quan công_an rà_soát mối quan_hệ bà hương đối_tượng khả_nghi mở_rộng điều_tra
+10,vietnamnet thông_tin sáng 23/5 1 người phụ_nữ nhặt ve_chai tình_cờ phát_hiện 1 bao_tải lùm cây trong 1 bãi đất trống ở gần chung_cư thạnh_mỹ_lợi
+11,người đến gần kiểm_tra tá_hỏa phát_hiện thi_thể người
+12,nghe bà hô_hoán người dân xung_quanh kéo đến trình_báo cơ_quan công_an

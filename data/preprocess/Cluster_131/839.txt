@@ -1,21 +1,21 @@
 idx, sentence
-0,về thiết_kế  winner 150 được phát_triển dựa trên ý_tưởng một chiếc xe mang phong_cách thể_thao sắc_nét  thời_thượng 
-1,winner 150 mang diện_mạo của một mẫu xe phong_cách thể_thao mới nhất với thiết_kế nhiều lớp 
-2,khung xe và vỏ xe với cấu_tạo 3 chiều mang lại hình_ảnh đẳng_cấp  thích_hợp với việc kiểm_soát dòng khí có liên_quan đến tính_năng của dòng xe thể_thao 
-3,theo sát xu_hướng xe thể_thao mới nhất  phần đầu xe winner 150 có thiết_kế mạnh_mẽ vươn lên phía trước 
-4,winner 150 được trang_bị đèn_pha cao cấp dạng led  trào_lưu đang thịnh_hành trên các dòng xe cao_cấp  đồng_thời kích_thước nhỏ gọn cũng góp_phần nâng cao công_suất vận_hành  giúp tăng dáng_vẻ thể_thao của xe cùng với độ bền cao 
-5,hơn_nữa  đèn xi_nhan và đèn định_vị chống lóa mắt  mang lại khả_năng chiếu_sáng vượt_trội trong đêm_tối 
-6,những đường_nét góc_cạnh và gân nổi trên bề_mặt kết_hợp với ốp thân dưới cấu_tạo liền mạch theo chiều dài thân xe được phủ lớp_sơn đen tuyền là điểm nhấn thể_hiện thiết_kế thanh_thoát thể_thao 
-7,phần đuôi xe vuốt cao mạnh_mẽ cùng cụm đèn hậu liền khối gọn_gàng và tay nắm sau cũng tôn thêm vẻ_ngoài ngầu  chất  chắc_chắn cho winner 150 
-8,đồng_hồ dạng analog báo số vòng tua máy mang lại ấn_tượng thể_thao mạnh_mẽ kết_hợp với màn_hình lcd nhỏ gọn có khả_năng hiển_thị cao được bố_trí phía bên phải trên mặt đồng_hồ giúp người lái dễ_dàng quan_sát các thông_tin cần_thiết như tốc_độ  cấp_số  mức tiêu_hao nhiên_liệu  khung xe winner 150 được cấu_tạo bởi khung ống đôi gia_tăng độ cứng  phù_hợp với hiệu_suất hoạt_động của động_cơ  đảm_bảo tính ổn_định khi di_chuyển đường dài cũng như khi dừng  đồng_thời mang lại tư_thế ngồi thoải_mái để người lái an_tâm trải_nghiệm đầy_đủ tính_năng thể_thao của xe ngay cả khi chở hai người 
-9,winner 150 sử_dụng loại động_cơ chuyên_dụng cho xe thể_thao thế_hệ mới  động_cơ mang lại trải_nghiệm mạnh_mẽ với công_suất vượt_trội 
-10,xe sử_dụng động_cơ phun xăng điện_tử pgm – fi  150 cc  dohc hộp_số 6 cấp  4 kỳ  xi_lanh đơn  làm mát bằng dung_dịch – giúp xe có khả_năng vận_hành vượt_trội so với các xe trong dòng tay côn underbone 
-11,đặc_biệt  winner 150 sử_dụng hộp_số 6 cấp nhằm tăng_cường tính thể_thao và hiệu_quả chạy xe ở tốc_độ cao 
-12,ở bánh_răng sơ_cấp  hvn sử_dụng bánh_răng chéo ăn_khớp nhẹ_nhàng và giảm tiếng_ồn 
-13,người lái có_thể thoải_mái điều_khiển xe nhờ việc tăng_tốc từ tốc_độ thấp lên tốc_độ cao diễn ra trơn_tru êm_ái và sức_mạnh của động_cơ được truyền đến tận bánh sau 
-14,để giúp người dùng cá_tính hóa  honda cũng cung_cấp thêm 15 phụ_kiện để thỏa_mãn sở_thích 
-15,được biết  mẫu xe này sẽ được bán ra thị_trường từ ngày 8/6 
-16,giá_bán với phiên_bản cao_cấp xanh mờ  đen mờ là 4599 triệu đồng  bản thể_thao với các màu đỏ  đen  trắng giá_bán là 4549 triệu đồng 
-17,theo đại_diện honda  dự_kiến sản_xuất 1 năm là 100000 xe 
-18,sẽ cố_gắng yêu_cầu đại_lý kiểm_soát và giữ được mức giá đề_xuất của hãng 
-19,ngoài_ra  cũng xem_xét lượng hàng theo vùng để có_thể phân_phối được xe một_cách linh_hoạt nhất 
+0,về thiết_kế winner 150 phát_triển dựa ý_tưởng một xe mang phong_cách thể_thao sắc_nét thời_thượng
+1,winner 150 mang diện_mạo một mẫu xe phong_cách thể_thao mới nhất thiết_kế lớp
+2,khung xe vỏ xe cấu_tạo 3 chiều mang hình_ảnh đẳng_cấp thích_hợp kiểm_soát dòng khí liên_quan đến tính_năng dòng xe thể_thao
+3,sát xu_hướng xe thể_thao mới nhất phần đầu xe winner 150 thiết_kế mạnh_mẽ vươn phía
+4,winner 150 trang_bị đèn_pha cao cấp dạng led trào_lưu thịnh_hành dòng xe cao_cấp đồng_thời kích_thước nhỏ gọn góp_phần nâng cao công_suất vận_hành giúp tăng dáng_vẻ thể_thao xe độ bền cao
+5,hơn_nữa đèn xi_nhan đèn định_vị chống lóa mắt mang khả_năng chiếu_sáng vượt_trội trong đêm_tối
+6,đường_nét góc_cạnh gân nổi bề_mặt kết_hợp ốp thân cấu_tạo liền mạch chiều dài thân xe phủ lớp_sơn đen tuyền điểm nhấn thể_hiện thiết_kế thanh_thoát thể_thao
+7,phần đuôi xe vuốt cao mạnh_mẽ cụm đèn hậu liền khối gọn_gàng tay nắm tôn thêm vẻ_ngoài ngầu chất chắc_chắn winner 150
+8,đồng_hồ dạng analog báo số vòng tua máy mang ấn_tượng thể_thao mạnh_mẽ kết_hợp màn_hình lcd nhỏ gọn khả_năng hiển_thị cao bố_trí phía bên mặt đồng_hồ giúp người lái dễ_dàng quan_sát thông_tin cần_thiết tốc_độ cấp_số mức tiêu_hao nhiên_liệu khung xe winner 150 cấu_tạo khung ống đôi gia_tăng độ cứng phù_hợp hiệu_suất hoạt_động động_cơ đảm_bảo tính ổn_định di_chuyển đường dài dừng đồng_thời mang tư_thế ngồi thoải_mái người lái an_tâm trải_nghiệm đầy_đủ tính_năng thể_thao xe chở hai người
+9,winner 150 sử_dụng loại động_cơ chuyên_dụng xe thể_thao thế_hệ mới động_cơ mang trải_nghiệm mạnh_mẽ công_suất vượt_trội
+10,xe sử_dụng động_cơ phun xăng điện_tử pgm – fi 150 cc dohc hộp_số 6 cấp 4 kỳ xi_lanh đơn làm mát bằng dung_dịch – giúp xe khả_năng vận_hành vượt_trội xe trong dòng tay côn underbone
+11,đặc_biệt winner 150 sử_dụng hộp_số 6 cấp nhằm tăng_cường tính thể_thao hiệu_quả chạy xe ở tốc_độ cao
+12,ở bánh_răng sơ_cấp hvn sử_dụng bánh_răng chéo ăn_khớp nhẹ_nhàng giảm tiếng_ồn
+13,người lái thoải_mái điều_khiển xe nhờ tăng_tốc tốc_độ thấp tốc_độ cao diễn trơn_tru êm_ái sức_mạnh động_cơ truyền đến tận bánh
+14,giúp người dùng cá_tính hóa honda cung_cấp thêm 15 phụ_kiện thỏa_mãn sở_thích
+15,biết mẫu xe bán thị_trường ngày 8/6
+16,giá_bán phiên_bản cao_cấp xanh mờ đen mờ 4599 triệu đồng bản thể_thao màu đỏ đen trắng giá_bán 4549 triệu đồng
+17,đại_diện honda dự_kiến sản_xuất 1 năm 100000 xe
+18,cố_gắng yêu_cầu đại_lý kiểm_soát giữ mức giá đề_xuất hãng
+19,ngoài_ra xem_xét lượng hàng vùng phân_phối xe linh_hoạt nhất

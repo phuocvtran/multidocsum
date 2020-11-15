@@ -1,9 +1,9 @@
 idx, sentence
-0,như_thanh_niên đã đưa tin  khoảng 13 giờ ngày 195  người dân thị_trấn thanh_sơn  huyện sơn_động  bắc_giang  phát_hiện cặp vợ_chồng  chưa rõ danh_tính  tử_vong bất_thường tại địa_phương 
-1,vào thời_điểm trên  đồng_nghiệp phát_hiện người chồng tử_vong sau tiếng nổ lớn ở công_ty anh này làm_việc 
-2,khi người dân tìm về phòng trọ để báo tin cho vợ nạn_nhân thì hoảng_hốt phát_hiện chị này đã tử_vong trong tư_thế bị trói trong căn nhà cấp 4 
-3,sáng nay  205   cơ_quan điều_tra  công_an tỉnh bắc_giang cho biết đang thu_thập tài_liệu  lấy lời khai các nhân_chứng để làm rõ nguyên_nhân cái chết của hai vợ_chồng này 
-4,nguồn tin của phóng_viên cho hay  bước đầu cơ_quan điều_tra nhận_định người chồng tử_vong do vật_liệu nổ gây ra 
-5,cơ_quan công_an nghi_ngờ người chồng sát_hại vợ ở nhà  rồi đến nơi làm_việc tự_sát bằng vật_liệu nổ 
-6,theo tìm_hiểu của chúng_tôi từ người dân địa_phương  vợ_chồng nạn_nhân quê ở huyện triệu_sơn  thanh_hóa   ra sơn_động làm_thuê được hơn 6 năm nay 
-7,thời_gian gần đây  vợ_chồng nạn_nhân thường_xuyên xảy ra mâu_thuẫn 
+0,như_thanh_niên đưa tin khoảng 13 giờ ngày 195 người dân thị_trấn thanh_sơn huyện sơn_động bắc_giang phát_hiện cặp vợ_chồng rõ danh_tính tử_vong bất_thường địa_phương
+1,thời_điểm đồng_nghiệp phát_hiện người chồng tử_vong tiếng nổ lớn ở công_ty anh làm_việc
+2,người dân tìm về phòng trọ báo tin vợ nạn_nhân hoảng_hốt phát_hiện chị tử_vong trong tư_thế trói trong căn nhà cấp 4
+3,sáng nay 205 cơ_quan điều_tra công_an tỉnh bắc_giang biết thu_thập tài_liệu lấy lời khai nhân_chứng làm rõ nguyên_nhân chết hai vợ_chồng
+4,nguồn tin phóng_viên hay bước đầu cơ_quan điều_tra nhận_định người chồng tử_vong vật_liệu nổ gây
+5,cơ_quan công_an nghi_ngờ người chồng sát_hại vợ ở nhà đến làm_việc tự_sát bằng vật_liệu nổ
+6,tìm_hiểu chúng_tôi người dân địa_phương vợ_chồng nạn_nhân quê ở huyện triệu_sơn thanh_hóa sơn_động làm_thuê hơn 6 năm nay
+7,thời_gian gần vợ_chồng nạn_nhân thường_xuyên xảy mâu_thuẫn

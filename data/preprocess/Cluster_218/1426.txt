@@ -1,12 +1,12 @@
 idx, sentence
-0,theo thông_tin đăng_tải trên infonet  vnexpress và plo  tp hcm  thông_tin trên được ông trần_vĩnh_tuyến – phó chủ_tịch ubnd tphcm cho biết trong một cuộc họp với sở du_lịch tp vào ngày 31/5 
-1,đây được coi là một trong những kế_hoạch để phát_triển mục_tiêu chính_phủ điện_tử mà tp hcm đề ra 
-2,theo phó_chủ_tịch tp hcm trần_vĩnh_tuyến thì một công_ty của singapore sẽ chịu trách_nhiệm tư_vấn  thiết_kế và lắp_đặt hệ_thống phát wifi miễn_phí này cho tp hcm 
-3, tôi đã làm_việc với họ và sẽ có văn_bản chính_thức 
-4,làm thí_điểm hay đại_trà thì sẽ tính_toán 
-5,điều này góp_phần đẩy_mạnh truyền_thông và tạo điểm nhấn cho du_lịch thành_phố 
-6,hệ_thống wifi có 2 cấp_độ  đối_với những nơi cần điểm nhấn thì tốc_độ nhanh hơn để tiện_lợi cho việc tra_cứu   ông tuyến phát_biểu tại cuộc họp 
-7,trên cả nước đã có nhiều địa_phương tiến_hành việc phủ_sóng wifi miễn_phí 
-8,có_thể kể đến sớm nhất là hội_an  quảng_nam  đã triển_khai hệ_thống wifi miễn_phí từ năm 2012 với khoảng 350 điểm phát_sóng wifi miễn_phí 
-9,tiếp_theo đó các địa_phương như huế  hạ_long cũng tiến_hành tương_tự  điều này góp_phần tạo rất nhiều lợi_ích và thuận_tiện cho du_khách đến thăm quan cũng như người dân của các thành_phố này luôn cập_nhật được các thông_tin cần_thiết  nâng cao dân_trí 
-10,năm 2013  đà_nẵng cũng đã triển_khai 320 điểm phát_sóng wifi tốc_độ cao miễn_phí tại các địa_điểm công_cộng  hành_chính và du_lịch của thành_phố giúp người dân kết_nối thông_tin  sử_dụng các dịch_vụ trực_tuyến 
+0,thông_tin đăng_tải infonet vnexpress plo tp hcm thông_tin ông trần_vĩnh_tuyến – phó chủ_tịch ubnd tphcm biết trong một cuộc họp sở du_lịch tp ngày 31/5
+1,coi một trong kế_hoạch phát_triển mục_tiêu chính_phủ điện_tử tp hcm đề
+2,phó_chủ_tịch tp hcm trần_vĩnh_tuyến một công_ty singapore chịu trách_nhiệm tư_vấn thiết_kế lắp_đặt hệ_thống phát wifi miễn_phí tp hcm
+3,tôi làm_việc họ văn_bản chính_thức
+4,làm thí_điểm hay đại_trà tính_toán
+5,góp_phần đẩy_mạnh truyền_thông tạo điểm nhấn du_lịch thành_phố
+6,hệ_thống wifi 2 cấp_độ đối_với điểm nhấn tốc_độ nhanh hơn tiện_lợi tra_cứu ông tuyến phát_biểu cuộc họp
+7,nước địa_phương tiến_hành phủ_sóng wifi miễn_phí
+8,kể đến sớm nhất hội_an quảng_nam triển_khai hệ_thống wifi miễn_phí năm 2012 khoảng 350 điểm phát_sóng wifi miễn_phí
+9,tiếp_theo địa_phương huế hạ_long tiến_hành tương_tự góp_phần tạo lợi_ích thuận_tiện du_khách đến thăm quan người dân thành_phố luôn cập_nhật thông_tin cần_thiết nâng cao dân_trí
+10,năm 2013 đà_nẵng triển_khai 320 điểm phát_sóng wifi tốc_độ cao miễn_phí địa_điểm công_cộng hành_chính du_lịch thành_phố giúp người dân kết_nối thông_tin sử_dụng dịch_vụ trực_tuyến

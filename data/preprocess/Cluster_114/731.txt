@@ -1,14 +1,14 @@
 idx, sentence
-0,theo tin_tức trên báo dân việt  ngày 23/5  ông võ_thanh_hùng  trưởng_ban quản_lý khu_chế_xuất công_nghiệp cần_thơ  tổ_trưởng tổ công_tác đặc_biệt xử_lý vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã cho biết  sau gần 1 tháng làm_việc đã xác_định được số nợ của đại_gia tòng “ thiên_mã ” lên đến gần 900 tỷ đồng 
-1,trong số gần 900 tỷ đồng_tiền nợ  có 516 tỷ đồng vay từ ngân_hàng  số còn lại là nợ người bán cá_tra  các đơn_vị cung_cấp vật_tư và tiền lãi  trong khi đó tổng giá_trị tài_sản hiện_tại của công_ty chỉ khoảng 110 tỷ đồng  đã thế_chấp  cầm_cố 
-2,với số nợ “ khủng ” trên  để không phát_sinh nợ mới và ổn_định việc_làm  thu_nhập của 400 công_nhân tại đây  tổ công_tác đã đề_nghị ubnd tpcần_thơ phương_án cho thuê nhà_xưởng hoặc kêu_gọi các chủ_nợ lớn tham_gia tái cơ_cấu doanh_nghiệp 
-3,nếu tình_hình nghiêm_trọng hơn thì đề_nghị tuyên_bố phá_sản doanh_nghiệp này 
-4,báo tri_thức trực_tuyến đưa tin  công_ty thiên_mã được thành_lập năm 2005  tại quận ô_môn  tp cần_thơ  với vốn điều_lệ 70 tỷ đồng  do phan_bá_tòng  42 tuổi  còn gọi_là tòng  thiên_mã   làm giám_đốc 
-5,năm 2009  doanh_nghiệp này xây hai nhà_máy kim_ngư và thiên_mã 3 
-6,hoàn_thành xong các nhà_máy  thiên_mã đầu_tư thêm hệ_thống 12 trang_trại thủy_sản khép_kín từ khâu sản_xuất cá_bột rồi đưa qua ao nuôi 40000 tấn cá da trơn mỗi năm … tuy_nhiên  năm 2011  thiên_mã có dấu_hiệu ngừng hoạt_động vì nợ chồng_chất 
-7,hàng chục chủ_nợ của công_ty là người nuôi cá  chủ cơ_sở kinh_doanh mua_bán thức_ăn bị tòng bội_tín vì công_ty mất khả_năng thanh_toán với số tiền hơn 50 tỷ đồng 
-8,cuối năm 2012  tòng tuyên_bố tình_trạng thua_lỗ 
-9,năm 2014  đại_gia thủy_sản này nợ quá nhiều nên_chi_cục thi_hành án dân_sự quận ô_môn  tp cần_thơ  đã kê_biên  phát mãi chiếc xe sang hiệu hummer_h2 trị_giá khoảng 4 tỷ đồng 
-10,để vay được tiền ngân_hàng  tòng  thiên_mã  mở thêm nhiều công_ty con rồi làm nhiều hồ_sơ vay vốn các ngân_hàng 
-11,trong đó có nhiều hồ_sơ thiếu minh_bạch  nợ chuyển sang xấu 
-12,hiện  công_ty thiên_mã còn khoảng 400 công_nhân  vợ tòng là bà trần_thị_kim_yến  phó_giám_đốc  đã điều_hành công_ty sản_xuất ở dạng gia_công cho công_ty thủy_sản miền nam 
+0,tin_tức báo dân việt ngày 23/5 ông võ_thanh_hùng trưởng_ban quản_lý khu_chế_xuất công_nghiệp cần_thơ tổ_trưởng tổ công_tác đặc_biệt xử_lý vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã biết gần 1 tháng làm_việc xác_định số nợ đại_gia tòng “ thiên_mã ” đến gần 900 tỷ đồng
+1,trong số gần 900 tỷ đồng_tiền nợ 516 tỷ đồng vay ngân_hàng số còn nợ người bán cá_tra đơn_vị cung_cấp vật_tư tiền lãi trong tổng giá_trị tài_sản hiện_tại công_ty khoảng 110 tỷ đồng thế_chấp cầm_cố
+2,số nợ “ khủng ” phát_sinh nợ mới ổn_định việc_làm thu_nhập 400 công_nhân tổ công_tác đề_nghị ubnd tpcần_thơ phương_án thuê nhà_xưởng hoặc kêu_gọi chủ_nợ lớn tham_gia tái cơ_cấu doanh_nghiệp
+3,tình_hình nghiêm_trọng hơn đề_nghị tuyên_bố phá_sản doanh_nghiệp
+4,báo tri_thức trực_tuyến đưa tin công_ty thiên_mã thành_lập năm 2005 quận ô_môn tp cần_thơ vốn điều_lệ 70 tỷ đồng phan_bá_tòng 42 tuổi còn gọi_là tòng thiên_mã làm giám_đốc
+5,năm 2009 doanh_nghiệp xây hai nhà_máy kim_ngư thiên_mã 3
+6,hoàn_thành xong nhà_máy thiên_mã đầu_tư thêm hệ_thống 12 trang_trại thủy_sản khép_kín khâu sản_xuất cá_bột đưa ao nuôi 40000 tấn cá da trơn năm … tuy_nhiên năm 2011 thiên_mã dấu_hiệu ngừng hoạt_động nợ chồng_chất
+7,hàng chục chủ_nợ công_ty người nuôi cá chủ cơ_sở kinh_doanh mua_bán thức_ăn tòng bội_tín công_ty mất khả_năng thanh_toán số tiền hơn 50 tỷ đồng
+8,cuối năm 2012 tòng tuyên_bố tình_trạng thua_lỗ
+9,năm 2014 đại_gia thủy_sản nợ quá nên_chi_cục thi_hành án dân_sự quận ô_môn tp cần_thơ kê_biên phát mãi xe sang hiệu hummer_h2 trị_giá khoảng 4 tỷ đồng
+10,vay tiền ngân_hàng tòng thiên_mã mở thêm công_ty con làm hồ_sơ vay vốn ngân_hàng
+11,trong hồ_sơ thiếu minh_bạch nợ chuyển sang xấu
+12,hiện công_ty thiên_mã còn khoảng 400 công_nhân vợ tòng bà trần_thị_kim_yến phó_giám_đốc điều_hành công_ty sản_xuất ở dạng gia_công công_ty thủy_sản miền nam

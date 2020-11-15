@@ -1,15 +1,15 @@
 idx, sentence
-0,tin nhanh từ bbc cho hay  vụ_việc đau_lòng trên xảy ra khi nạn_nhân tới nhà bạn trai chơi vào ngày 21/5 rồi ngủ lịm đi 
-1,sau khi tỉnh dậy vào ngày 22/5  cô bé 16 tuổi này bị một nhóm đàn_ông vây quanh 
-2,nạn_nhân bị lột sạch quần_áo và bị cưỡng_hiếp tập_thể 
-3,khai với cảnh_sát  cô bé cho biết  mặc_dù bị_thương nhưng em đã cố_gắng tìm đường về nhà nhưng giữ bí_mật về những chuyện đã xảy ra với mình 
-4,một_vài ngày sau  nạn_nhân phát_hiện  một_số kẻ cưỡng_hiếp em đã đăng_tải ảnh và clip xâm_hại em lên twitter 
-5,video kéo_dài 40 giây nhanh_chóng lan_truyền nhanh như virus trên mạng 
-6,phóng_viên bbc tại brazil_julia_carneiro cho biết  vụ cưỡng_hiếp đã khiến người brazil bị sốc 
-7,cảnh_sát đã vào cuộc điều_tra và ban_hành lệnh bắt_giữ  trong đó bao_gồm người bạn trai của nạn_nhân 
-8,các nhóm vận_động chống cưỡng_hiếp tại brazil đã lên tiếng kêu_gọi biểu_tình trong những ngày tới để đòi công_lý cho bé gái 
-9,các nhà hoạt_động kêu_gọi giới_chức_trách brazil tích_cực điều_tra để sớm đưa các nghi phạm ra trước công_lý nhưng phải tôn_trọng sự riêng_tư và bảo_vệ danh_tính cho nạn_nhân 
-10,nói về vụ_việc  mẹ thiếu_nữ cho biết gia_đình nhà bà đã xem đoạn video và khóc vật_vã 
-11, tôi mong rằng mình không biết đến đoạn video đó  tôi hối_tiếc vì mình đã lỡ xem 
-12,chỉ vì khi nghe thông_tin trên mạng chúng_tôi đã không tin điều đó là sự_thật 
-13,và giờ thì tôi ám_ảnh thật_sự   bà nói với tờ folha de spaulo
+0,tin nhanh bbc hay vụ_việc đau_lòng xảy nạn_nhân tới nhà bạn trai chơi ngày 21/5 ngủ lịm đi
+1,tỉnh dậy ngày 22/5 cô bé 16 tuổi một nhóm đàn_ông vây quanh
+2,nạn_nhân lột sạch quần_áo cưỡng_hiếp tập_thể
+3,khai cảnh_sát cô bé biết mặc_dù bị_thương em cố_gắng tìm đường về nhà giữ bí_mật về xảy mình
+4,một_vài ngày nạn_nhân phát_hiện một_số kẻ cưỡng_hiếp em đăng_tải ảnh clip xâm_hại em twitter
+5,video kéo_dài 40 giây nhanh_chóng lan_truyền nhanh virus mạng
+6,phóng_viên bbc brazil_julia_carneiro biết vụ cưỡng_hiếp khiến người brazil sốc
+7,cảnh_sát cuộc điều_tra ban_hành lệnh bắt_giữ trong bao_gồm người bạn trai nạn_nhân
+8,nhóm vận_động chống cưỡng_hiếp brazil tiếng kêu_gọi biểu_tình trong ngày tới đòi công_lý bé gái
+9,nhà hoạt_động kêu_gọi giới_chức_trách brazil tích_cực điều_tra sớm đưa nghi phạm công_lý tôn_trọng riêng_tư bảo_vệ danh_tính nạn_nhân
+10,nói về vụ_việc mẹ thiếu_nữ biết gia_đình nhà bà xem đoạn video khóc vật_vã
+11,tôi mong mình biết đến đoạn video tôi hối_tiếc mình lỡ xem
+12,nghe thông_tin mạng chúng_tôi tin sự_thật
+13,giờ tôi ám_ảnh thật_sự bà nói tờ folha de spaulo

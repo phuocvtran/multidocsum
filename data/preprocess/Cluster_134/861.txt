@@ -1,18 +1,18 @@
 idx, sentence
-0,gác lại giấc mơ decima_chiều 27/5/2016 tại paris không có mưa  nhưng có_lẽ nhiều fan của nadal đã rơi_lệ khi chứng_kiến thần_tượng của mình buộc phải tuyên_bố rút_lui khỏi pháp mở_rộng vì chấn_thương cổ_tay 
-1,đây thực_sự là một bất_ngờ  bởi trước đó  nadal đã rất dễ_dàng giành 2 chiến_thắng để giành quyền vào vòng 3  thắng groth ở vòng 1 sau 3 set với cùng tỉ_số 61  vùi_dập facundo_bagnis  argentina  sau 3 set với tỉ_số 63  60  63 ở vòng 2  
-2,trước đó  để chuẩn_bị cho giấc mơ decima tại roland_garros  giành chức vô_địch thứ 10   rafa đã chạy_đà rất tốt 
-3,anh vô_địch monte_carlo_masters và barcelona_open 
-4,giành quyền vào bán_kết madrid_open  thua murray  và suýt thắng đương_kim số 1 thế_giới djokovic ở tứ_kết rome_masters  57  67  
-5,nhưng đó là quyết_định hợp_lý của nadal  bởi anh không_thể mạo_hiểm với chấn_thương cổ_tay quái_ác 
-6,thực_tế  rafa đã phải tiêm thuốc giảm đau để thi_đấu ở vòng 2 
-7,nhưng rồi  các bác sỹ đã quyết_định anh phải nghỉ nếu_như không muốn sớm chấm_dứt sự_nghiệp 
-8,chấn_thương là “ định_mệnh ” của rafa 14 chức vô_địch grand_slam  trong đó có tới 9 lần tại roland_garros  nadal đã sớm trở_thành một huyền_thoại của làng banh nỉ 
-9,nhưng ngoài tài_năng  rafa còn được khâm_phục bởi ý_chí sắt_đá  kiên_cường 
-10,anh không bao_giờ đầu_hàng số_phận  đặc_biệt là trước những chấn_thương khiến nhiều lần sự_nghiệp của tay_vợt người tây ban_nha bị gián_đoạn 
-11,năm 2008 đánh_dấu năm thi_đấu đỉnh_cao của nadal với 2 chức vô_địch roland_garros và wimbledon  hạ federer trong trận chung_kết sau 5 set kinh_điển   đồng_thời đoạt chiếc hcv olympic để kết_thúc năm 2008 với ngôi_vị số 1 thế_giới 
-12,nhưng lối chơi thiên về sức_mạnh với những pha phòng_ngự không_tưởng rồi cũng làm hại nadal 
-13,sau khi đăng_quang tại australian_open 2009  nadal trở_lại “ đất mẹ ” roland_garros  nơi anh có 4 chức vô_địch trước đó 
-14,tuy_nhiên  rafa đã thất_bại trước robin_soderling ở vòng 4  trận thua đầu_tiên sau 31 trận toàn_thắng tại paris  
-15,nguyên_nhân dẫn đến trận thua này là do rafa bị viêm gân ở cả 2 chân và phải nghỉ thi_đấu 9 tuần 
-16,kết_thúc năm 2009  nadal đánh mất ngôi số 1 vào ngày federer 
+0,gác giấc mơ decima_chiều 27/5/2016 paris mưa có_lẽ fan nadal rơi_lệ chứng_kiến thần_tượng mình buộc tuyên_bố rút_lui khỏi pháp mở_rộng chấn_thương cổ_tay
+1,thực_sự một bất_ngờ nadal dễ_dàng giành 2 chiến_thắng giành quyền vòng 3 thắng groth ở vòng 1 3 set tỉ_số 61 vùi_dập facundo_bagnis argentina 3 set tỉ_số 63 60 63 ở vòng 2
+2,chuẩn_bị giấc mơ decima roland_garros giành chức vô_địch thứ 10 rafa chạy_đà tốt
+3,anh vô_địch monte_carlo_masters barcelona_open
+4,giành quyền bán_kết madrid_open thua murray suýt thắng đương_kim số 1 thế_giới djokovic ở tứ_kết rome_masters 57 67
+5,quyết_định hợp_lý nadal anh không_thể mạo_hiểm chấn_thương cổ_tay quái_ác
+6,thực_tế rafa tiêm thuốc giảm đau thi_đấu ở vòng 2
+7,bác sỹ quyết_định anh nghỉ nếu_như muốn sớm chấm_dứt sự_nghiệp
+8,chấn_thương “ định_mệnh ” rafa 14 chức vô_địch grand_slam trong tới 9 lần roland_garros nadal sớm trở_thành một huyền_thoại làng banh nỉ
+9,ngoài tài_năng rafa còn khâm_phục ý_chí sắt_đá kiên_cường
+10,anh bao_giờ đầu_hàng số_phận đặc_biệt chấn_thương khiến lần sự_nghiệp tay_vợt người tây ban_nha gián_đoạn
+11,năm 2008 đánh_dấu năm thi_đấu đỉnh_cao nadal 2 chức vô_địch roland_garros wimbledon hạ federer trong trận chung_kết 5 set kinh_điển đồng_thời đoạt hcv olympic kết_thúc năm 2008 ngôi_vị số 1 thế_giới
+12,lối chơi thiên về sức_mạnh pha phòng_ngự không_tưởng làm hại nadal
+13,đăng_quang australian_open 2009 nadal trở_lại “ đất mẹ ” roland_garros anh 4 chức vô_địch
+14,tuy_nhiên rafa thất_bại robin_soderling ở vòng 4 trận thua đầu_tiên 31 trận toàn_thắng paris
+15,nguyên_nhân dẫn đến trận thua rafa viêm gân ở 2 chân nghỉ thi_đấu 9 tuần
+16,kết_thúc năm 2009 nadal đánh mất ngôi số 1 ngày federer

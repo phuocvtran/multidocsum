@@ -1,8 +1,8 @@
 idx, sentence
-0,tin nhanh  vào_khoảng 9 h sáng cùng ngày  lê_trung_hiếu lợi_dụng lúc chị nguyễn_thị_ngọc_mai  40 tuổi  điều_khiển xe ô_tô mang bks  93h – 6789 đậu bên đường nguyễn_chí_thanh  bình_dương để ăn sáng đã cạy cửa_mở xe rồi đạp ga bỏ chạy 
-1,khi đến khu_vực quốc_lộ 13 giao với đường hồ_văn_cống  tpthủ_dầu_một  bình_dương thì chiếc xe tông vào một xe ba_gác rồi tiếp_tục lao vào húc sập quán cà_phê 
-2,tại hiện_trường  chiếc xe 4 chỗ bị bể nát phần đầu  hư_hỏng nặng  cột_điện trước quán cà_phê bị tông đổ 
-3,phần mái_che của quán cà_phê bị tông sập  bàn_ghế văng khắp nơi 
-4,ngoài_ra  còn có một chiếc xe_máy dựng bên ngoài bị kéo_lê vào quán 
-5,lực_lượng chức_năng đã nhanh_chóng có_mặt tại hiện_trường điều_tra làm rõ nguyên_nhân 
-6,phía công_an cũng xác_nhận chiếc xe ô_tô trên đã bị hiếu trộm của chị mai rồi bỏ chạy gây tai_nạn 
+0,tin nhanh vào_khoảng 9 h sáng ngày lê_trung_hiếu lợi_dụng chị nguyễn_thị_ngọc_mai 40 tuổi điều_khiển xe ô_tô mang bks 93h – 6789 đậu bên đường nguyễn_chí_thanh bình_dương ăn sáng cạy cửa_mở xe đạp ga bỏ chạy
+1,đến khu_vực quốc_lộ 13 giao đường hồ_văn_cống tpthủ_dầu_một bình_dương xe tông một xe ba_gác tiếp_tục lao húc sập quán cà_phê
+2,hiện_trường xe 4 chỗ bể nát phần đầu hư_hỏng nặng cột_điện quán cà_phê tông đổ
+3,phần mái_che quán cà_phê tông sập bàn_ghế văng khắp
+4,ngoài_ra còn một xe_máy dựng bên ngoài kéo_lê quán
+5,lực_lượng chức_năng nhanh_chóng có_mặt hiện_trường điều_tra làm rõ nguyên_nhân
+6,phía công_an xác_nhận xe ô_tô hiếu trộm chị mai bỏ chạy gây tai_nạn

@@ -1,48 +1,48 @@
 idx, sentence
-0,ngày 28/5  eurowindow_holding chính_thức ra_mắt dự_án mövenpick cam_ranh resort 
-1,mövenpick cam_ranh resort có quy_mô dự_án 24 ha với nhiều loại_hình nghỉ_dưỡng gồm 250 phòng khách_sạn  132 căn_hộ movenpick_condotel  121 biệt_thự movenpick_villas cùng hệ_thống dịch_vụ tiện_ích đẳng_cấp cao  sân golf tiêu_chuẩn quốc_tế  sân tennis  bể_bơi  khu spa  chuỗi nhà_hàng 5 sao và khu vui_chơi trẻ_em … khu nghỉ_dưỡng đẳng_cấp 5 sao quốc_tế này được đầu_tư bởi chủ đầu_tư danh_tiếng eurowindow_holding 
-2,đơn_vị quản_lý dự_án là tập_đoàn mövenpick hotels  resorts  thụy_sỹ  
-3,đây là tập_đoàn nổi_tiếng hàng_đầu thế_giới có rất nhiều kinh_nghiệm trong việc quản_lý các khách_sạn và khu nghỉ_dưỡng cao_cấp 
-4,ông hannes_romauch  tổng_giám_đốc eurowindow_nha_trang cho biết  ưu_điểm nổi_trội tại các căn villas và condotel chính là được phát_triển bởi thương_hiệu quốc_tế với phương_thức quản_lý cực_kỳ linh_hoạt 
-5,bên_cạnh đó  100  movenpick_villas và movenpick_condotel đều hướng thẳng biển  tiêu_chí quan_trọng nhất của biệt_thự nghỉ_dưỡng ven biển 
-6,ngoài_ra  đây cũng là phân khúc có cơ_hội đầu_tư an_toàn  sinh lời cao  được ngân_hàng bảo_lãnh mức cam_kết lợi_nhuận tại thời_điểm này 
-7,vị này nhận_định  thị_trường hiện_nay  hầu_hết bất_động_sản nghỉ_dưỡng được các đơn_vị quản_lý quốc_tế khai_thác để cho thuê khách_sạn thông_thường nhưng không cho_phép mua_bán  sở_hữu dưới thương_hiệu nhà quản_lý 
-8,ngược_lại  một_số bất_động_sản nghỉ_dưỡng được phép mua_bán và sở_hữu lại do các chủ đầu_tư trong nước tự xây_dựng  vận_hành  quản_lý theo tiêu_chuẩn của chủ đầu_tư 
-9,“ với movenpick cam_ranh resort  người mua được quyền mua_bán  chuyển_nhượng  sử_dụng biệt_thự  căn_hộ nghỉ_dưỡng mang thương_hiệu movenpick_villas và movenpick_condotel   ông cho biết 
-10,ngoài_ra  với phương_thức quản_lý linh_hoạt nên khách_hàng vừa được quyền ở tại căn biệt_thự với thời_gian lên đến 180 ngày trong năm vừa được tham_gia chương_trình cho thuê lại để hưởng 85  lợi_nhuận cho thuê và không dưới 10  năm trong vòng 10 năm 
-11,đây là mức cam_kết lợi_nhuận cao nhất hiện_nay trên thị_trường bất_động_sản nghỉ_dưỡng 
-12,pv báo đời_sống  pháp_luật đã có cuộc trò_chuyện với ông hannes_romauch  tổng_giám_đốc công_ty eurowindow_nha_trang thuộc eurowindow_holding để hiểu rõ hơn những ưu_việt của dự_án này 
-13,pv  xin ông cho biết lí_do tập_đoàn quyết_định đầu_tư vào dự_án nghỉ_dưỡng movenpick cam_ranh resort 
-14,ông hannes_romauch  lượng khách du_lịch quốc_tế vào việt_nam ngày_càng tăng  nhu_cầu du_lịch nghỉ_dưỡng ven biển của khách nội_địa ngày_càng lớn là yếu_tố quyết_định để chúng_tôi đầu_tư vào dự_án movenpick cam_ranh resort 
-15,việt_nam có nhiều bãi biển đẹp  đặc_biệt là khu_vực khánh_hòa  phan_thiết  với khí_hậu ôn_hòa  thời_tiết ổn_định quanh_năm  có_thể khai_thác du_lịch suốt 4 mùa xuân – hạ  thu – đông 
-16,bãi dài nằm giữa hai vịnh nổi_tiếng thế_giới là vịnh nha_trang và cam_ranh  được biết đến là một trong những bãi biển đẹp nhất việt_nam với nhiệt_độ trung_bình 26 độc  có hơn 300 ngày nắng trong năm  nước_biển trong xanh  bờ cát trắng mịn thoải dài  rất thích_hợp để đầu_tư phát_triển dịch_vụ du_lịch nghỉ_dưỡng 
-17,nơi đây có vị_trí gần sân_bay quốc_tế cam_ranh nên chỉ mất 5 phút để di_chuyển đến sân_bay và 25 phút để đến thành_phố nha_trang 
-18,được thiên_nhiên ưu_đãi và có vị_trí địa_lý thuận_lợi chính là các yếu_tố tiên_quyết để eurowindow_nha_trang quyết_định đầu_tư dự_án mövenpick cam_ranh resort tại bãi dài  cam_ranh 
-19,tại_sao eurowindow quyết_định hợp_tác với tập_đoàn movenpick hotels  resorts  thụy_sỹ  
-20,movenpick hotels  resorts là tập_đoàn danh_tiếng hàng_đầu thế_giới  có rất nhiều kinh_nghiệm trong việc quản_lý các khách_sạn và khu nghỉ_dưỡng tiêu_chuẩn 5 sao 
-21,chúng_tôi rất tin_tưởng vào uy_tín và bề_dày kinh_nghiệm của movenpick trong việc quản_lý  khai_thác rất nhiều khu nghỉ_dưỡng ven biển nổi_tiếng trên thế_giới như tại thái_lan  philipine  ai_cập  li_băng và nhiều nước khác 
-22,mạng_lưới hội_viên đông_đảo trên toàn_cầu của movenpick tạo cơ_hội lấp đầy khu nghỉ_dưỡng movenpick cam_ranh resort 
-23,với sự quản_lý của tập_đoàn movenpick sẽ đảm_bảo cho chất_lượng của dự_án đạt tiêu_chuẩn 5 sao quốc_tế  đảm_bảo giá khai_thác cho thuê và giá_trị chuyển_nhượng bất_động_sản 
-24,được biết  dự_án movenpick cam_ranh resort được thiết_kế bởi những nhà thiết_kế từ mỹ  úc và hàn_quốc 
-25,lý_do nào khiến ông lựa_chọn những đơn_vị thiết_kế này 
-26,toàn_bộ dự_án mang thương_hiệu movenpick và được quản_lý bởi tập_đoàn movenpick  do_đó  chúng_tôi phải tìm_kiếm những đơn_vị thiết_kế uy_tín hàng_đầu thế_giới để đảm_bảo thiết_kế dự_án đạt tiêu_chuẩn 5 sao của movenpick 
-27,thiết_kế kiến_trúc  cảnh_quan và nội_thất của dự_án dược thực_hiện bởi các kiến_trúc_sư hàng_đầu của mỹ  úc và hàn_quốc 
-28,với sự sáng_tạo của các kiến_trúc_sư giàu kinh_nghiệm  movenpick cam_ranh resort mang phong_cách vừa hiện_đại vừa pha lẫn nét kiến_trúc địa_phương với những mái ngói cong của kiến_trúc chămpa và các sản_phẩm cửa  hệ vách kính lớn hiện_đại  đặc_biệt cao_cấp của eurowindow 
-29,điểm vô_cùng quan_trọng của dự_án là toàn_bộ khách_sạn  căn_hộ nghỉ_dưỡng và biệt_thự đều nhìn thấy biển 
-30,với sự sáng_tạo của các kiến_trúc_sư giàu kinh_nghiệm  không_chỉ 121 căn biệt_thự mà toàn_bộ các phòng khách  phòng_ngủ của biệt_thự đều nhìn thấy biển 
-31,phong_cách kiến_trúc độc_đáo giúp movenpick cam_ranh resort trở_thành khu nghỉ_dưỡng có 1 không 2 trên thị_trường 
-32,ngân_hàng vpbank được chọn làm đơn_vị hợp_tác hỗ_trợ dịch_vụ bảo_lãnh và tín_dụng cho khách_hàng 
-33,ngân_hàng vpbank và eurowindow đã có lịch_sử hợp_tác nhiều năm 
-34,chúng_tôi cũng như phía ngân_hàng vpbank rất tin_tưởng vào thành_công của dự_án 
-35,do_đó  chúng_tôi cam_kết mức lợi_nhuận tối_thiểu của mövenpick_villas là 10  / năm trong 10 năm  và mövenpick_condotel là 10  / năm trong 5 năm 
-36,và ngân_hàng vp_bank cam_kết bảo_lãnh mức lợi_nhuận tối_thiểu 9  / năm trong 10 năm đối_với movenpick_villas và 9  / năm trong 5 năm đối_với movenpick_condotel 
-37,điều này có ý_nghĩa đảm_bảo an_toàn cao hơn cho khoản đầu_tư và gia_tăng giá_trị tài_sản cho các nhà_đầu_tư thứ cấp 
-38,theo ông  dự_án này vì_sao đáng để các nhà_đầu_tư  rót tiền  
-39,thị_trường bđs nghỉ_dưỡng đang vô_cùng sôi_động đem lại lợi_nhuận cao cho các nhà_đầu_tư  chúng_tôi sẽ dành một phần dự_án với nhiều ưu_đãi có 1 không 2 cho các nhà_đầu_tư thứ cấp chính là 121 căn biệt_thự và 132 căn_hộ nghỉ_dưỡng 
-40,mövenpick_villas và mövenpick_condotel là hai sản_phẩm tiêu_biểu của dự_án mövenpick cam_ranh resort với phương_thức quản_lý linh_hoạt cho_phép được ở tại biệt_thự với thời_gian lên đến 180 ngày / năm  được miễn_phí quản_lý_dịch_vụ trong thời_gian ở tới 10 năm và được vay vốn tối_đa lên đến 70  giá_trị bất_động_sản  nhà_đầu_tư được sử_dụng  mua_bán  chuyển_nhượng dưới thương_hiệu quốc_tế movenpick và có bảo_lãnh cam_kết lợi_nhuận của ngân_hàng vp_bank 
-41,121 căn biệt_thự siêu sang movenpick_villas dẫn_đầu phân khúc bất_động_sản nghỉ_dưỡng cao_cấp trên thị_trường bởi rất nhiều đặc_điểm ưu_việt như tất_cả các biệt_thự có một tầng  không_chỉ được thiết_kế hướng biển  nhìn thấy biển mà_còn các phòng khách  phòng_ngủ cũng đều hướng biển  nhìn thấy biển 
-42,movenpick villas mang thương_hiệu quốc_tế với tiêu_chuẩn chất_lượng đẳng_cấp 5 sao 
-43,có chính_sách quản_lý linh_hoạt giúp khách_hàng chủ_động trong việc sử_dụng bất_động_sản của mình bởi khách_hàng vừa được tham_gia chương_trình cho thuê lại với lợi_nhuận cao vừa được quyền ở tại biệt_thự với thời_gian lên đến 6 tháng trong năm 
-44,đầu_tư vào movenpick_villas mang lại khả_năng sinh lời cao  được chủ đầu_tư cam_kết chia_sẻ 85  lợi_nhuận cho thuê và không dưới 10  / năm trong 10 năm 
-45,ngoài_ra  để đảm_bảo an_toàn cao hơn cho khoản đầu_tư của mình  khách_hàng có_thể lựa_chọn phương_án được bảo_lãnh của ngân_hàng vp_bank về mức cam_kết lợi_nhuận tối_thiểu 9  / năm trong vòng 10 năm 
-46,với mövenpick cam_ranh resort  chúng_tôi hướng đến phục_vụ và đáp_ứng phân khúc những khách_hàng có hiểu_biết sâu về thị_trường bất_động_sản nghỉ_dưỡng  mong_muốn tìm_kiếm cơ_hội đầu_tư sinh lời cao  ổn_định và đáp_ứng linh_hoạt các nhu_cầu khác nhau của khách_hàng 
+0,ngày 28/5 eurowindow_holding chính_thức ra_mắt dự_án mövenpick cam_ranh resort
+1,mövenpick cam_ranh resort quy_mô dự_án 24 ha loại_hình nghỉ_dưỡng gồm 250 phòng khách_sạn 132 căn_hộ movenpick_condotel 121 biệt_thự movenpick_villas hệ_thống dịch_vụ tiện_ích đẳng_cấp cao sân golf tiêu_chuẩn quốc_tế sân tennis bể_bơi khu spa chuỗi nhà_hàng 5 sao khu vui_chơi trẻ_em … khu nghỉ_dưỡng đẳng_cấp 5 sao quốc_tế đầu_tư chủ đầu_tư danh_tiếng eurowindow_holding
+2,đơn_vị quản_lý dự_án tập_đoàn mövenpick hotels resorts thụy_sỹ
+3,tập_đoàn nổi_tiếng hàng_đầu thế_giới kinh_nghiệm trong quản_lý khách_sạn khu nghỉ_dưỡng cao_cấp
+4,ông hannes_romauch tổng_giám_đốc eurowindow_nha_trang biết ưu_điểm nổi_trội căn villas condotel chính phát_triển thương_hiệu quốc_tế phương_thức quản_lý cực_kỳ linh_hoạt
+5,bên_cạnh 100 movenpick_villas movenpick_condotel hướng thẳng biển tiêu_chí quan_trọng nhất biệt_thự nghỉ_dưỡng ven biển
+6,ngoài_ra phân khúc cơ_hội đầu_tư an_toàn sinh lời cao ngân_hàng bảo_lãnh mức cam_kết lợi_nhuận thời_điểm
+7,vị nhận_định thị_trường hiện_nay hầu_hết bất_động_sản nghỉ_dưỡng đơn_vị quản_lý quốc_tế khai_thác thuê khách_sạn thông_thường cho_phép mua_bán sở_hữu thương_hiệu nhà quản_lý
+8,ngược_lại một_số bất_động_sản nghỉ_dưỡng phép mua_bán sở_hữu chủ đầu_tư trong nước tự xây_dựng vận_hành quản_lý tiêu_chuẩn chủ đầu_tư
+9,“ movenpick cam_ranh resort người mua quyền mua_bán chuyển_nhượng sử_dụng biệt_thự căn_hộ nghỉ_dưỡng mang thương_hiệu movenpick_villas movenpick_condotel ông biết
+10,ngoài_ra phương_thức quản_lý linh_hoạt khách_hàng quyền ở căn biệt_thự thời_gian đến 180 ngày trong năm tham_gia chương_trình thuê hưởng 85 lợi_nhuận thuê 10 năm trong vòng 10 năm
+11,mức cam_kết lợi_nhuận cao nhất hiện_nay thị_trường bất_động_sản nghỉ_dưỡng
+12,pv báo đời_sống pháp_luật cuộc trò_chuyện ông hannes_romauch tổng_giám_đốc công_ty eurowindow_nha_trang thuộc eurowindow_holding hiểu rõ hơn ưu_việt dự_án
+13,pv xin ông biết lí_do tập_đoàn quyết_định đầu_tư dự_án nghỉ_dưỡng movenpick cam_ranh resort
+14,ông hannes_romauch lượng khách du_lịch quốc_tế việt_nam ngày_càng tăng nhu_cầu du_lịch nghỉ_dưỡng ven biển khách nội_địa ngày_càng lớn yếu_tố quyết_định chúng_tôi đầu_tư dự_án movenpick cam_ranh resort
+15,việt_nam bãi biển đẹp đặc_biệt khu_vực khánh_hòa phan_thiết khí_hậu ôn_hòa thời_tiết ổn_định quanh_năm khai_thác du_lịch suốt 4 mùa xuân – hạ thu – đông
+16,bãi dài nằm giữa hai vịnh nổi_tiếng thế_giới vịnh nha_trang cam_ranh biết đến một trong bãi biển đẹp nhất việt_nam nhiệt_độ trung_bình 26 độc hơn 300 ngày nắng trong năm nước_biển trong xanh bờ cát trắng mịn thoải dài thích_hợp đầu_tư phát_triển dịch_vụ du_lịch nghỉ_dưỡng
+17,vị_trí gần sân_bay quốc_tế cam_ranh mất 5 phút di_chuyển đến sân_bay 25 phút đến thành_phố nha_trang
+18,thiên_nhiên ưu_đãi vị_trí địa_lý thuận_lợi chính yếu_tố tiên_quyết eurowindow_nha_trang quyết_định đầu_tư dự_án mövenpick cam_ranh resort bãi dài cam_ranh
+19,tại_sao eurowindow quyết_định hợp_tác tập_đoàn movenpick hotels resorts thụy_sỹ
+20,movenpick hotels resorts tập_đoàn danh_tiếng hàng_đầu thế_giới kinh_nghiệm trong quản_lý khách_sạn khu nghỉ_dưỡng tiêu_chuẩn 5 sao
+21,chúng_tôi tin_tưởng uy_tín bề_dày kinh_nghiệm movenpick trong quản_lý khai_thác khu nghỉ_dưỡng ven biển nổi_tiếng thế_giới thái_lan philipine ai_cập li_băng nước khác
+22,mạng_lưới hội_viên đông_đảo toàn_cầu movenpick tạo cơ_hội lấp đầy khu nghỉ_dưỡng movenpick cam_ranh resort
+23,quản_lý tập_đoàn movenpick đảm_bảo chất_lượng dự_án đạt tiêu_chuẩn 5 sao quốc_tế đảm_bảo giá khai_thác thuê giá_trị chuyển_nhượng bất_động_sản
+24,biết dự_án movenpick cam_ranh resort thiết_kế nhà thiết_kế mỹ úc hàn_quốc
+25,lý_do nào khiến ông lựa_chọn đơn_vị thiết_kế
+26,toàn_bộ dự_án mang thương_hiệu movenpick quản_lý tập_đoàn movenpick do_đó chúng_tôi tìm_kiếm đơn_vị thiết_kế uy_tín hàng_đầu thế_giới đảm_bảo thiết_kế dự_án đạt tiêu_chuẩn 5 sao movenpick
+27,thiết_kế kiến_trúc cảnh_quan nội_thất dự_án dược thực_hiện kiến_trúc_sư hàng_đầu mỹ úc hàn_quốc
+28,sáng_tạo kiến_trúc_sư giàu kinh_nghiệm movenpick cam_ranh resort mang phong_cách hiện_đại pha lẫn nét kiến_trúc địa_phương mái ngói cong kiến_trúc chămpa sản_phẩm cửa hệ vách kính lớn hiện_đại đặc_biệt cao_cấp eurowindow
+29,điểm vô_cùng quan_trọng dự_án toàn_bộ khách_sạn căn_hộ nghỉ_dưỡng biệt_thự nhìn thấy biển
+30,sáng_tạo kiến_trúc_sư giàu kinh_nghiệm không_chỉ 121 căn biệt_thự toàn_bộ phòng khách phòng_ngủ biệt_thự nhìn thấy biển
+31,phong_cách kiến_trúc độc_đáo giúp movenpick cam_ranh resort trở_thành khu nghỉ_dưỡng 1 2 thị_trường
+32,ngân_hàng vpbank chọn làm đơn_vị hợp_tác hỗ_trợ dịch_vụ bảo_lãnh tín_dụng khách_hàng
+33,ngân_hàng vpbank eurowindow lịch_sử hợp_tác năm
+34,chúng_tôi phía ngân_hàng vpbank tin_tưởng thành_công dự_án
+35,do_đó chúng_tôi cam_kết mức lợi_nhuận tối_thiểu mövenpick_villas 10 / năm trong 10 năm mövenpick_condotel 10 / năm trong 5 năm
+36,ngân_hàng vp_bank cam_kết bảo_lãnh mức lợi_nhuận tối_thiểu 9 / năm trong 10 năm đối_với movenpick_villas 9 / năm trong 5 năm đối_với movenpick_condotel
+37,ý_nghĩa đảm_bảo an_toàn cao hơn khoản đầu_tư gia_tăng giá_trị tài_sản nhà_đầu_tư thứ cấp
+38,ông dự_án vì_sao đáng nhà_đầu_tư rót tiền
+39,thị_trường bđs nghỉ_dưỡng vô_cùng sôi_động đem lợi_nhuận cao nhà_đầu_tư chúng_tôi dành một phần dự_án ưu_đãi 1 2 nhà_đầu_tư thứ cấp chính 121 căn biệt_thự 132 căn_hộ nghỉ_dưỡng
+40,mövenpick_villas mövenpick_condotel hai sản_phẩm tiêu_biểu dự_án mövenpick cam_ranh resort phương_thức quản_lý linh_hoạt cho_phép ở biệt_thự thời_gian đến 180 ngày / năm miễn_phí quản_lý_dịch_vụ trong thời_gian ở tới 10 năm vay vốn tối_đa đến 70 giá_trị bất_động_sản nhà_đầu_tư sử_dụng mua_bán chuyển_nhượng thương_hiệu quốc_tế movenpick bảo_lãnh cam_kết lợi_nhuận ngân_hàng vp_bank
+41,121 căn biệt_thự siêu sang movenpick_villas dẫn_đầu phân khúc bất_động_sản nghỉ_dưỡng cao_cấp thị_trường đặc_điểm ưu_việt tất_cả biệt_thự một tầng không_chỉ thiết_kế hướng biển nhìn thấy biển mà_còn phòng khách phòng_ngủ hướng biển nhìn thấy biển
+42,movenpick villas mang thương_hiệu quốc_tế tiêu_chuẩn chất_lượng đẳng_cấp 5 sao
+43,chính_sách quản_lý linh_hoạt giúp khách_hàng chủ_động trong sử_dụng bất_động_sản mình khách_hàng tham_gia chương_trình thuê lợi_nhuận cao quyền ở biệt_thự thời_gian đến 6 tháng trong năm
+44,đầu_tư movenpick_villas mang khả_năng sinh lời cao chủ đầu_tư cam_kết chia_sẻ 85 lợi_nhuận thuê 10 / năm trong 10 năm
+45,ngoài_ra đảm_bảo an_toàn cao hơn khoản đầu_tư mình khách_hàng lựa_chọn phương_án bảo_lãnh ngân_hàng vp_bank về mức cam_kết lợi_nhuận tối_thiểu 9 / năm trong vòng 10 năm
+46,mövenpick cam_ranh resort chúng_tôi hướng đến phục_vụ đáp_ứng phân khúc khách_hàng hiểu_biết sâu về thị_trường bất_động_sản nghỉ_dưỡng mong_muốn tìm_kiếm cơ_hội đầu_tư sinh lời cao ổn_định đáp_ứng linh_hoạt nhu_cầu khác nhau khách_hàng

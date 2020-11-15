@@ -1,9 +1,9 @@
 idx, sentence
-0,khoảng 20 h ngày 20/5 tại các xã tân_lập  động_quan  phúc_lợi  tô_mậu  huyện lục_yên  yên_bái  đã xảy ra một trận lốc xoáy kèm mưa lớn 
-1,theo người địa_phương  cơn_lốc đầu mùa diễn_biến rất nhanh  cường_độ gió mạnh  quật gãy nhiều cây lớn và tốc mái hàng trăm nhà dân 
-2,tại thời_điểm đó  5 cột_điện 35_kv_tại lục_yên bị đổ do cây đè  khiến toàn_bộ khu_vực thị_trấn_yên_thế_và các xã lân_cận bị mất điện hoàn_toàn 
-3,theo báo_cáo nhanh của ban chỉ_huy pctttkcn  phòng_chống thiên_tai – tìm_kiếm cứu nạn  huyện lục_yên  yên_bái   tính đến 16 h ngày 21/5/2016  cơn_lốc xoáy đã làm 9 người bị_thương  ở xã tân_lập  trong đó 1 trẻ_em bị gãy chân   không có người tử_vong 
-4,bên_cạnh đó  thiên_tai đã gây thiệt_hại nặng_nề tới 194 ngôi nhà  trong đó 24 nhà bị sập đổ hoàn_toàn  2 nhà bị hư_hỏng nặng  tốc mái 168 nhà 
-5,đường điện 04 bị đổ 3 cột tại bản_năn  phan_thanh   làm sập đổ 6 bếp của nhà dân tại phan_thanh và tân_lĩnh 
-6,thiệt_hại ước_tính khoảng 16 tỷ đồng 
-7,đây là con_số thống_kê chưa đầy_đủ và chưa xác_định được mức_độ thiệt_hại về cây_cối cũng như hoa_màu 
+0,khoảng 20 h ngày 20/5 xã tân_lập động_quan phúc_lợi tô_mậu huyện lục_yên yên_bái xảy một trận lốc xoáy kèm mưa lớn
+1,người địa_phương cơn_lốc đầu mùa diễn_biến nhanh cường_độ gió mạnh quật gãy cây lớn tốc mái hàng trăm nhà dân
+2,thời_điểm 5 cột_điện 35_kv_tại lục_yên đổ cây đè khiến toàn_bộ khu_vực thị_trấn_yên_thế_và xã lân_cận mất điện hoàn_toàn
+3,báo_cáo nhanh ban chỉ_huy pctttkcn phòng_chống thiên_tai – tìm_kiếm cứu nạn huyện lục_yên yên_bái tính đến 16 h ngày 21/5/2016 cơn_lốc xoáy làm 9 người bị_thương ở xã tân_lập trong 1 trẻ_em gãy chân người tử_vong
+4,bên_cạnh thiên_tai gây thiệt_hại nặng_nề tới 194 ngôi nhà trong 24 nhà sập đổ hoàn_toàn 2 nhà hư_hỏng nặng tốc mái 168 nhà
+5,đường điện 04 đổ 3 cột bản_năn phan_thanh làm sập đổ 6 bếp nhà dân phan_thanh tân_lĩnh
+6,thiệt_hại ước_tính khoảng 16 tỷ đồng
+7,con_số thống_kê đầy_đủ xác_định mức_độ thiệt_hại về cây_cối hoa_màu

@@ -1,8 +1,8 @@
 idx, sentence
-0,trong ngày đầu_tiên làm_việc ở mu  hlv mourinho đã tới sân tập_carrington và gặp_gỡ với hai nhân_vật cỡ bự ở old_trafford  đó là phó chủ_tịch ed_woodward và huyền_thoại của clb sir_bobby_charlton 
-1,mặc_dù sir_bobby_charlton là một trong những người phản_đối mourinho tới mu vì sợ phá_hỏng truyền_thống của mu nhưng ông đã có cái nhìn thiện_cảm hơn về chiến_lược gia người bồ_đào_nha 
-2,sir bobby_charlton bắt_tay mourinho và nói  “ tôi rất hạnh_phúc khi được anh 
-3,chúc anh giành được những thành_công ở mu ” 
-4,ngoài_ra  mourinho cũng tới để bắt_đầu từng nhân_viên một ở trung_tâm huấn_luyện carrington và bắt_đầu tham_quan toàn_thể sân tập của mu cũng như văn_phòng của mình ở đây 
-5,theo lịch  hlv mourinho sẽ có buổi gặp_gỡ đầu_tiên với các cầu_thủ vào ngày 7/7 
-6,sau đó  họ sẽ có vài ngày tập_luyện ở carrington trước khi lên_đường sang trung_quốc tham_dự giải giao_hữu quốc_tế 
+0,trong ngày đầu_tiên làm_việc ở mu hlv mourinho tới sân tập_carrington gặp_gỡ hai nhân_vật cỡ bự ở old_trafford phó chủ_tịch ed_woodward huyền_thoại clb sir_bobby_charlton
+1,mặc_dù sir_bobby_charlton một trong người phản_đối mourinho tới mu sợ phá_hỏng truyền_thống mu ông nhìn thiện_cảm hơn về chiến_lược gia người bồ_đào_nha
+2,sir bobby_charlton bắt_tay mourinho nói “ tôi hạnh_phúc anh
+3,chúc anh giành thành_công ở mu ”
+4,ngoài_ra mourinho tới bắt_đầu nhân_viên một ở trung_tâm huấn_luyện carrington bắt_đầu tham_quan toàn_thể sân tập mu văn_phòng mình ở
+5,lịch hlv mourinho buổi gặp_gỡ đầu_tiên cầu_thủ ngày 7/7
+6,họ vài ngày tập_luyện ở carrington lên_đường sang trung_quốc tham_dự giải giao_hữu quốc_tế

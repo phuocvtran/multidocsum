@@ -1,3 +1,3 @@
 idx, sentence
-0,khủng_hoảng kinh_tế tại venezuela đang ảnh_hưởng nghiêm_trọng tới giao_thông quốc_tế của nước này 
-1,nguyên_nhân chính là vì venezuela đang nợ các hãng hàng_không trên hàng trăm triệu usd tiền vé máy_bay  do đất_nước này đang cạn_kiệt tiền_mặt 
+0,khủng_hoảng kinh_tế venezuela ảnh_hưởng nghiêm_trọng tới giao_thông quốc_tế nước
+1,nguyên_nhân chính venezuela nợ hãng hàng_không hàng trăm triệu usd tiền vé máy_bay đất_nước cạn_kiệt tiền_mặt

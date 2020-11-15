@@ -1,8 +1,8 @@
 idx, sentence
-0,theo afp  buổi lễ tuyên_thệ nhậm_chức của bà thái anh_văn diễn ra hoành_tráng  trang_nghiêm với chủ_đề “ niềm tự_hào của đài_loan ” 
-1,bắc kinh theo_dõi rất sát sự_kiện này và đặc_biệt mong_muốn bà thái công_khai thừa_nhận thông_điệp chính_trị quan_trọng về chính_sách “ một trung_quốc ”  một điều mà trước đó giới quan_sát cho rằng rất khó xảy ra  và thực_sự đã là như_vậy 
-2,theo reuters  trong bài diễn_văn nhậm_chức  bà thái anh_văn  cho biết đài_loan sẽ đóng vai_trò trách_nhiệm trong việc duy_trì hòa_bình và ổn_định với quốc_gia láng_giềng trung_quốc và sẽ là một “ người bảo_vệ trung_thành cho hòa_bình ” 
-3,bà thái nói  “ các quan_hệ giữa hai bờ eo_biển đài_loan đã trở_thành một phần không_thể thiếu trong việc xây_dựng nền hòa_bình khu_vực và an_ninh chung 
-4,chúng_tôi sẽ nỗ_lực trong việc duy_trì hòa_bình và ổn_định trong mối quan_hệ giữa hai bờ eo_biển ” 
-5,ngay sau khi bà thái anh_văn chính_thức nhậm_chức  chính_quyền mỹ cho biết rất trông_đợi vào những hoạt_động hợp_tác với chính_phủ mới ở đài_loan 
-6,hãng reuters dẫn thông_tin đại_diện ngoại_giao của washington tại đài_loan cho biết  “ mỹ chúc_mừng nhà lãnh_đạo thái anh_văn về việc bà đã trở_thành nhà lãnh_đạo thứ tư đắc_cử tại đài_loan ” 
+0,afp buổi lễ tuyên_thệ nhậm_chức bà thái anh_văn diễn hoành_tráng trang_nghiêm chủ_đề “ niềm tự_hào đài_loan ”
+1,bắc kinh theo_dõi sát sự_kiện đặc_biệt mong_muốn bà thái công_khai thừa_nhận thông_điệp chính_trị quan_trọng về chính_sách “ một trung_quốc ” một giới quan_sát khó xảy thực_sự như_vậy
+2,reuters trong bài diễn_văn nhậm_chức bà thái anh_văn biết đài_loan đóng vai_trò trách_nhiệm trong duy_trì hòa_bình ổn_định quốc_gia láng_giềng trung_quốc một “ người bảo_vệ trung_thành hòa_bình ”
+3,bà thái nói “ quan_hệ giữa hai bờ eo_biển đài_loan trở_thành một phần không_thể thiếu trong xây_dựng nền hòa_bình khu_vực an_ninh chung
+4,chúng_tôi nỗ_lực trong duy_trì hòa_bình ổn_định trong mối quan_hệ giữa hai bờ eo_biển ”
+5,bà thái anh_văn chính_thức nhậm_chức chính_quyền mỹ biết trông_đợi hoạt_động hợp_tác chính_phủ mới ở đài_loan
+6,hãng reuters dẫn thông_tin đại_diện ngoại_giao washington đài_loan biết “ mỹ chúc_mừng nhà lãnh_đạo thái anh_văn về bà trở_thành nhà lãnh_đạo thứ tư đắc_cử đài_loan ”

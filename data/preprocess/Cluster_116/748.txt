@@ -1,7 +1,7 @@
 idx, sentence
-0,số_liệu của tổng_cục thống_kê cho thấy  trong tháng 5/2016  tất_cả 11 nhóm hàng_hóa và dịch_vụ nằm trong rổ tính cpi đều có mức giá tăng so với tháng 4/2016 
-1,trong đó  nhóm giao_thông có mức tăng cao nhất với mức 239  do chịu tác_động động từ việc tăng_giá liên_tục của các mặt_hàng xăng dầu trong thời_gian qua 
-2,cụ_thể  trong các ngày 20/4 và 5/5 giá xăng đã tăng với mức tổng là 640 đồng / lít  dầu_diesel tăng 1150 đồng / lít khiến chỉ_số giá nhóm nhiên_liệu tăng 515  so với tháng trước  góp_phần tăng cpi chung khoảng 021  
-3,đứng thứ hai là nhóm nhà_ở và vật_liệu xây_dựng với mức tăng 088  
-4,đứng ở vị_trí thứ ba là nhóm hàng_hóa và dịch_vụ khác tăng 056  
-5,trong 8 nhóm hàng còn lại có mức tăng nhẹ hơn gồm  nhóm hàng_ăn và dịch_vụ ăn_uống tăng 036   lương_thực tăng 068   thực_phẩm tăng 038   ăn_uống ngoài gia_đình tăng 016    nhóm văn_hóa  giải_trí và du_lịch tăng 034   nhóm đồ_uống và thuốc_lá tăng 011   nhóm thiết_bị và đồ_dùng gia_đình tăng 009   nhóm thuốc và dịch_vụ y_tế tăng 005   nhóm bưu_chính viễn_thông tăng 003   đáng chú_ý  nhóm may_mặc  mũ nón  giầy_dép và nhóm giáo_dục đã đứng trong danh_sách nhóm có mức tăng thấp nhất trong các nhóm tính cpi tháng 5  khi đều có mức tăng 002  
+0,số_liệu tổng_cục thống_kê thấy trong tháng 5/2016 tất_cả 11 nhóm hàng_hóa dịch_vụ nằm trong rổ tính cpi mức giá tăng tháng 4/2016
+1,trong nhóm giao_thông mức tăng cao nhất mức 239 chịu tác_động động tăng_giá liên_tục mặt_hàng xăng dầu trong thời_gian
+2,cụ_thể trong ngày 20/4 5/5 giá xăng tăng mức tổng 640 đồng / lít dầu_diesel tăng 1150 đồng / lít khiến chỉ_số giá nhóm nhiên_liệu tăng 515 tháng góp_phần tăng cpi chung khoảng 021
+3,đứng thứ hai nhóm nhà_ở vật_liệu xây_dựng mức tăng 088
+4,đứng ở vị_trí thứ ba nhóm hàng_hóa dịch_vụ khác tăng 056
+5,trong 8 nhóm hàng còn mức tăng nhẹ hơn gồm nhóm hàng_ăn dịch_vụ ăn_uống tăng 036 lương_thực tăng 068 thực_phẩm tăng 038 ăn_uống ngoài gia_đình tăng 016 nhóm văn_hóa giải_trí du_lịch tăng 034 nhóm đồ_uống thuốc_lá tăng 011 nhóm thiết_bị đồ_dùng gia_đình tăng 009 nhóm thuốc dịch_vụ y_tế tăng 005 nhóm bưu_chính viễn_thông tăng 003 đáng chú_ý nhóm may_mặc mũ nón giầy_dép nhóm giáo_dục đứng trong danh_sách nhóm mức tăng thấp nhất trong nhóm tính cpi tháng 5 mức tăng 002

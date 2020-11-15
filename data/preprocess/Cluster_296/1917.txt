@@ -1,6 +1,6 @@
 idx, sentence
-0,trước đó  ngày 12/11/2015  ông đỗ_trọng_đạt  giám_đốc sở xây_dựng tp hải_phòng đã ký quyết_định tiếp_nhận và bổ_nhiệm cho con_trai mình là đỗ_trọng_thành là công_chức của sở tài_chính về giữ chức phó trưởng_phòng quản_lý hoạt_động xây_dựng của sở xây_dựng 
-1,tuy_nhiên  sau khi có thông_tin cho rằng việc bổ_nhiệm sai quy_định  ngày 1/4  ubnd tp hải_phòng đã có văn_bản yêu_cầu sở nội_vụ xác_minh  làm rõ 
-2,theo đó  sở nội_vụ kết_luận việc ông đạt bổ_nhiệm con_trai làm phó phòng là không đúng quy_định 
-3,cụ_thể  con ông đạt không đủ điều_kiện được bổ_nhiệm vì chưa có bằng trung_cấp lý_luận chính_trị 
-4,quy_trình bổ_nhiệm cũng sai vì việc bổ_nhiệm này chỉ được lấy ý_kiến của ban thường_vụ và lãnh_đạo sở  trong khi theo quy_định phải lấy ý_kiến của đảng_ủy_sở xây_dựng 
+0,ngày 12/11/2015 ông đỗ_trọng_đạt giám_đốc sở xây_dựng tp hải_phòng ký quyết_định tiếp_nhận bổ_nhiệm con_trai mình đỗ_trọng_thành công_chức sở tài_chính về giữ chức phó trưởng_phòng quản_lý hoạt_động xây_dựng sở xây_dựng
+1,tuy_nhiên thông_tin bổ_nhiệm sai quy_định ngày 1/4 ubnd tp hải_phòng văn_bản yêu_cầu sở nội_vụ xác_minh làm rõ
+2,sở nội_vụ kết_luận ông đạt bổ_nhiệm con_trai làm phó phòng đúng quy_định
+3,cụ_thể con ông đạt đủ điều_kiện bổ_nhiệm bằng trung_cấp lý_luận chính_trị
+4,quy_trình bổ_nhiệm sai bổ_nhiệm lấy ý_kiến ban thường_vụ lãnh_đạo sở trong quy_định lấy ý_kiến đảng_ủy_sở xây_dựng

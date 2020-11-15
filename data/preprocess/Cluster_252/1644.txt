@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 2/6  bảo_thy tròn 28 tuổi 
-1,dịp này  nữ ca_sĩ thực_hiện bộ ảnh mới để làm kỷ_niệm 
-2,trong bộ ảnh  bảo_thy mặc sexy vừa đủ  trông dễ_thương  trẻ_trung như hình_ảnh khán_giả từng yêu_mến cô trước_kia 
-3,cách đây không lâu  bảo_thy từng tâm_sự  đã đến lúc cô thấy mình toát lên vẻ gợi_cảm  nhưng nữ ca_sĩ không muốn tận_dụng quá_đà hình_ảnh này 
-4,với bảo_thy  hở chưa chắc đã đẹp  quan_trọng là hình_ảnh phù_hợp với không_gian  thời_gian 
-5,nhân_dịp sinh_nhật  bảo_thy cũng tung ca_khúc mới mang tên  lonely   nói về nỗi cô_đơn của một cô gái sau khi chia_tay người_yêu 
-6,đây là bài hát do chính bảo_thy sáng_tác 
-7,trước_kia  nữ ca_sĩ từng sáng_tác hoặc viết lời việt cho một_số bài  nên đây không phải việc quá mới_mẻ  song lần này nó lại có ý_nghĩa vì đúng dịp cô tròn tuổi mới 
+0,ngày 2/6 bảo_thy tròn 28 tuổi
+1,dịp nữ ca_sĩ thực_hiện bộ ảnh mới làm kỷ_niệm
+2,trong bộ ảnh bảo_thy mặc sexy đủ trông dễ_thương trẻ_trung hình_ảnh khán_giả yêu_mến cô trước_kia
+3,cách lâu bảo_thy tâm_sự đến cô thấy mình toát vẻ gợi_cảm nữ ca_sĩ muốn tận_dụng quá_đà hình_ảnh
+4,bảo_thy hở chắc đẹp quan_trọng hình_ảnh phù_hợp không_gian thời_gian
+5,nhân_dịp sinh_nhật bảo_thy tung ca_khúc mới mang tên lonely nói về nỗi cô_đơn một cô gái chia_tay người_yêu
+6,bài hát chính bảo_thy sáng_tác
+7,trước_kia nữ ca_sĩ sáng_tác hoặc viết lời việt một_số bài quá mới_mẻ song lần nó ý_nghĩa đúng dịp cô tròn tuổi mới

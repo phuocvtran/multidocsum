@@ -1,13 +1,13 @@
 idx, sentence
-0,ngày 20/5  lãnh_đạo công_an huyện phú_giáo_– bình_dương xác_nhận công_an huyện này đã bắt được đôi_nam_nữ là nghi can thực_hiện hàng_loạt vụ cướp táo_tợn ở phú_giáo gần đây 
-1,trước đó  công_an huyện phú_giáo mở chuyên_án truy bắt đối_tượng chuyên chặn đường phụ_nữ ở địa_phương để cướp vào đêm khuya hoặc sáng sớm 
-2,các nạn_nhân kể họ bị cướp ép cho té xe  sau đó chúng trấn_lột tài_sản hoặc giật dây_chuyền 
-3,theo các bị hại kẻ thực_hiện cướp là một cặp nam_nữ 
-4,khi cặp nam_nữ này cướp không thành_công thì xuất_hiện đồng_bọn gồm 2 thanh_niên khác đến tiếp_tục chặn đường nạn_nhân cướp cho bằng_được 
-5,khoảng 17 giờ ngày 18/5  công_an huyện phú_giáo nhận được tin báo từ công_an xã tam_lập 
-6,theo đó  tại xã này vừa xảy ra một vụ cướp_giật  thủ_phạm là một cặp nam_nữ đi xe_máy 
-7,lãnh_đạo công_an huyện phú_giáo lập_tức huy_động lực_lượng công_an huyện và công_an các xã  thị_trấn chốt chặn  truy_xét 
-8,khuya 18 rạng sáng 19/5  cặp nam_nữ bị bắt cùng với tang_vật là xe_máy và roi điện 
-9,cặp nam_nữ khai tên nguyễn_thanh_sơn  sn 1991  trú xã hưng_hòa  huyện bàu_bàng  bình_dương  và trương_thị_hồng_nhung  sn 1994  trú xã phước_hòa  huyện phú_giáo  
-10,qua điều_tra ban_đầu  2 đối_tượng khai nhận là đối_tượng nghiệm ma_túy 
-11,để có tiền tiêu_xài và sử_dụng ma_túy từ đầu năm 2016 đến nay  với thủ_đoạn dùng hung_khí là roi điện  2 đối_tượng này đã thực_hiện 12 vụ cướp  giật tài_sản trên địa_bàn huyện bàu_bàng và huyện phú_giáo 
+0,ngày 20/5 lãnh_đạo công_an huyện phú_giáo_– bình_dương xác_nhận công_an huyện bắt đôi_nam_nữ nghi can thực_hiện hàng_loạt vụ cướp táo_tợn ở phú_giáo gần
+1,công_an huyện phú_giáo mở chuyên_án truy bắt đối_tượng chuyên chặn đường phụ_nữ ở địa_phương cướp đêm khuya hoặc sáng sớm
+2,nạn_nhân kể họ cướp ép té xe chúng trấn_lột tài_sản hoặc giật dây_chuyền
+3,hại kẻ thực_hiện cướp một cặp nam_nữ
+4,cặp nam_nữ cướp thành_công xuất_hiện đồng_bọn gồm 2 thanh_niên khác đến tiếp_tục chặn đường nạn_nhân cướp bằng_được
+5,khoảng 17 giờ ngày 18/5 công_an huyện phú_giáo nhận tin báo công_an xã tam_lập
+6,xã xảy một vụ cướp_giật thủ_phạm một cặp nam_nữ đi xe_máy
+7,lãnh_đạo công_an huyện phú_giáo lập_tức huy_động lực_lượng công_an huyện công_an xã thị_trấn chốt chặn truy_xét
+8,khuya 18 rạng sáng 19/5 cặp nam_nữ bắt tang_vật xe_máy roi điện
+9,cặp nam_nữ khai tên nguyễn_thanh_sơn sn 1991 trú xã hưng_hòa huyện bàu_bàng bình_dương trương_thị_hồng_nhung sn 1994 trú xã phước_hòa huyện phú_giáo
+10,điều_tra ban_đầu 2 đối_tượng khai nhận đối_tượng nghiệm ma_túy
+11,tiền tiêu_xài sử_dụng ma_túy đầu năm 2016 đến nay thủ_đoạn dùng hung_khí roi điện 2 đối_tượng thực_hiện 12 vụ cướp giật tài_sản địa_bàn huyện bàu_bàng huyện phú_giáo

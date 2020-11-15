@@ -1,11 +1,11 @@
 idx, sentence
-0,hôm_qua  1/6   cies_football_observatory đã chính_thức công_bố danh_sách 100 cầu_thủ đắt_giá nhất hành_tinh 
-1,công_ty nghiên_cứu bóng_đá này tính_toán giá_trị của cầu_thủ ở các giải đấu lớn dựa trên nhiều yếu_tố  trong đó có độ tuổi  thời_gian còn lại trong hợp_đồng cũng như các con_số thống_kê trên sân_cỏ 
-2,vị_trí dẫn_đầu trong bảng xếp_hạng của cies thuộc về lionel_messi khi anh được định_giá tới 163 triệu bảng 
-3,trong khi đó  phong_độ ấn_tượng của cristiano_ronaldo ở mùa giải vừa_qua bất_ngờ chỉ xếp thứ 3 với 106 triệu bảng 
-4,anh kém người về nhì là neymar – một ngôi_sao khác của barcelona  tới 49 triệu bảng 
-5,cầu_thủ đắt_giá thứ 4 thế_giới cũng đang thi_đấu la_liga  đó là antoine_griezmann với giá_trị ước_tính 93 triệu bảng 
-6,trong khuôn_khổ giải ngoại_hạng anh  harry_kane đã vượt qua những danh_thủ đình_đám khác như sergio_aguero  eden_hazard hay alexis_sanchez để trở_thành cầu_thủ đắt_giá nhất giải đấu này với 87 triệu bảng 
-7,xếp ngay sau đó với 1 triệu bảng ít hơn là ngôi_sao đang lên cùa man_utd  anthony_martial 
-8,các vị_trí tiếp_theo trong top 10 lần_lượt thuộc về luis_suarez  paulo_dybala  sergio_aguero và paul_pogba 
-9,cầu_thủ có giá_trị chuyển_nhượng cao nhất thế_giới là gareth_bale đành ngậm_ngùi ở vị_trí thứ 11 với 62 triệu bảng 
+0,hôm_qua 1/6 cies_football_observatory chính_thức công_bố danh_sách 100 cầu_thủ đắt_giá nhất hành_tinh
+1,công_ty nghiên_cứu bóng_đá tính_toán giá_trị cầu_thủ ở giải đấu lớn dựa yếu_tố trong độ tuổi thời_gian còn trong hợp_đồng con_số thống_kê sân_cỏ
+2,vị_trí dẫn_đầu trong bảng xếp_hạng cies thuộc về lionel_messi anh định_giá tới 163 triệu bảng
+3,trong phong_độ ấn_tượng cristiano_ronaldo ở mùa giải vừa_qua bất_ngờ xếp thứ 3 106 triệu bảng
+4,anh kém người về nhì neymar – một ngôi_sao khác barcelona tới 49 triệu bảng
+5,cầu_thủ đắt_giá thứ 4 thế_giới thi_đấu la_liga antoine_griezmann giá_trị ước_tính 93 triệu bảng
+6,trong khuôn_khổ giải ngoại_hạng anh harry_kane vượt danh_thủ đình_đám khác sergio_aguero eden_hazard hay alexis_sanchez trở_thành cầu_thủ đắt_giá nhất giải đấu 87 triệu bảng
+7,xếp 1 triệu bảng ít hơn ngôi_sao cùa man_utd anthony_martial
+8,vị_trí tiếp_theo trong top 10 lần_lượt thuộc về luis_suarez paulo_dybala sergio_aguero paul_pogba
+9,cầu_thủ giá_trị chuyển_nhượng cao nhất thế_giới gareth_bale đành ngậm_ngùi ở vị_trí thứ 11 62 triệu bảng

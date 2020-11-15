@@ -1,5 +1,5 @@
 idx, sentence
-0,theo thông_tin ban_đầu  thời_gian trên  tại một con hẻm sau chợ tam_hòa thuộc khu_phố 2  phường tam_hòa  tp biên_hòa  một nhóm thanh_thiếu_niên đang ngồi chơi trước nhà bà h thì bất_ngờ có nhóm thanh_thiếu_niên khác gồm hàng chục người chạy xe_máy náo_loạn vừa reo_hò quậy_phá chạy đến 
-1,thấy nhóm thanh_thiếu_niên đang ngồi trước nhà  tốp kia dừng lại lao lên “ quậy ” khiến những người ở khu_phố dạt cả vào bên trong để tránh 
-2,không dừng lại  nhóm thanh_niên dùng hung_khí đập_vỡ kính_cửa chính của nhà bà h sau đó nhóm này vung mã_tấu  dao kiếm đồng_thời ném ba quả bom xăng vào đầu hẻm rồi kéo nhau hò_hét lao đi 
-3,khói_lửa bao_trùm  náo_loạn cả khu_vực trong vòng năm phút 
+0,thông_tin ban_đầu thời_gian một con hẻm chợ tam_hòa thuộc khu_phố 2 phường tam_hòa tp biên_hòa một nhóm thanh_thiếu_niên ngồi chơi nhà bà h bất_ngờ nhóm thanh_thiếu_niên khác gồm hàng chục người chạy xe_máy náo_loạn reo_hò quậy_phá chạy đến
+1,thấy nhóm thanh_thiếu_niên ngồi nhà tốp kia dừng lao “ quậy ” khiến người ở khu_phố dạt bên trong tránh
+2,dừng nhóm thanh_niên dùng hung_khí đập_vỡ kính_cửa chính nhà bà h nhóm vung mã_tấu dao kiếm đồng_thời ném ba quả bom xăng đầu hẻm kéo nhau hò_hét lao đi
+3,khói_lửa bao_trùm náo_loạn khu_vực trong vòng năm phút

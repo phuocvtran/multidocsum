@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 30/5  giờ uzbekistan   lê_quang_liêm  elo 2718  đã bị cầm hòa bởi kỳ_thủ iran_ghaem_maghami_ehsan  elo 2551  ở ván 5 nhưng vẫn dẫn đầu_bảng nam giải cờ_vua vô_địch cá_nhân châu_á 2016 tại uzbekistan 
-1,đây là cuộc đấu_trí mà quang_liêm được đánh_giá cao hơn đối_thủ người iran rất nhiều 
-2,tuy_nhiên  ghaem_maghami_ehsan đã khôn_khéo bày thế_trận phòng_ngự rất chắc_chắn với hi_vọng giữ lại 05 điểm trước quang_liêm 
-3,và sau 22 nước cờ  quang_liêm không_thể giành thế chủ_động nên đã chấp_nhận hòa với ghaem_maghami_ehsan 
-4,ở ván này  3 bàn đấu của 6 kỳ_thủ đang dẫn đầu_bảng xếp_hạng  cùng có được 35 điểm sau 4 ván  đều kết_thúc bất_phân thắng_bại 
-5,nhờ vậy  quang_liêm duy_trì được ngôi đầu_bảng xếp_hạng với 4 điểm sau 5 ván 
-6,một nhóm khá đông kỳ thủ có cùng điểm với quang_liêm nhưng xếp sau vì kém kỳ_thủ số 1 vn về hiệu_số phụ 
-7,trong khi đó  nguyễn_ngọc trường_sơn  elo 2636  bất_ngờ thất_bại trước kỳ_thủ trung_quốc gao_rui  elo 2556  
-8,nguyễn_huỳnh_minh_huy  elo 2458  thì cầm hòa_lu_shanglei  elo 2614  
+0,ngày 30/5 giờ uzbekistan lê_quang_liêm elo 2718 cầm hòa kỳ_thủ iran_ghaem_maghami_ehsan elo 2551 ở ván 5 dẫn đầu_bảng nam giải cờ_vua vô_địch cá_nhân châu_á 2016 uzbekistan
+1,cuộc đấu_trí quang_liêm đánh_giá cao hơn đối_thủ người iran
+2,tuy_nhiên ghaem_maghami_ehsan khôn_khéo bày thế_trận phòng_ngự chắc_chắn hi_vọng giữ 05 điểm quang_liêm
+3,22 nước cờ quang_liêm không_thể giành thế chủ_động chấp_nhận hòa ghaem_maghami_ehsan
+4,ở ván 3 bàn đấu 6 kỳ_thủ dẫn đầu_bảng xếp_hạng 35 điểm 4 ván kết_thúc bất_phân thắng_bại
+5,nhờ quang_liêm duy_trì ngôi đầu_bảng xếp_hạng 4 điểm 5 ván
+6,một nhóm khá đông kỳ thủ điểm quang_liêm xếp kém kỳ_thủ số 1 vn về hiệu_số phụ
+7,trong nguyễn_ngọc trường_sơn elo 2636 bất_ngờ thất_bại kỳ_thủ trung_quốc gao_rui elo 2556
+8,nguyễn_huỳnh_minh_huy elo 2458 cầm hòa_lu_shanglei elo 2614

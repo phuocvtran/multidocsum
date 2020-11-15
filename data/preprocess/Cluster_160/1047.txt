@@ -1,27 +1,27 @@
 idx, sentence
-0,mặc_dù lãnh_đạo của công_ty cổ_phần vật_tư xuất_nhập_khẩu tân_bình  tamexim  lẫn đối_tác là công_ty cổ_phần thanh_niên  thanh_nien_corp  trấn_an bằng lời hứa sẽ thanh_toán khoản nợ 244 tỷ đồng còn lại cho ngân_hàng trước ngày 15/6/2016 
-1,tuy_nhiên  không ít cư_dân lo_ngại khả_năng trả nợ của “ liên_minh ” này  cũng như lo_lắng không biết bao_giờ mới nhận được sổ hồng 
-2,một vấn_đề nhức_nhối nhất hiện_nay  ngoài việc khu đất và toàn_bộ tài_sản trên đã đã bị  cắm  tại ngân_hàng bidv như chúng_tôi đã thông_tin trước đây  hơn 600 hộ dân ở đây vẫn còn  choáng  khi phát_hiện thêm 41 căn_hộ bị chủ đầu_tư 2 lần cầm_cố nhà_băng dẫn đến tình_trạng “ nợ chồng nợ ” 
-3,“ tôi không ngờ căn_hộ của mình bị nợ chồng nợ như_thế 
-4,chủ đầu_tư đem căn_hộ thế_chấp hai lần rồi còn đem đi bán mà không hề thông_báo với người mua nhà về tình_trạng căn_hộ 
-5,bidv không_thể không biết tài_sản mình đang cầm_cố đã bị chủ đầu_tư mang đi bán 
-6,thực_sự  hiện cư_dân chúng_tôi không biết thực_tế căn_hộ của mình đang có bao_nhiêu tổ_chức  cá_nhân mang đi cầm_cố ”  một cư_dân cho biết 
-7,tại hội_nghị nhà chung_cư bất_thường diễn ra mới_đây  hàng trăm cư_dân đã tỏ ra tức_giận khi chủ đầu_tư đã không có câu trả_lời thoả_đáng cho các vấn_đề chính mà họ đang trông_đợi 
-8,từ vụ_việc của chung_cư the_harmona  có_thể thấy nhiều lỗ_hổng pháp_lý liên_quan đến giám_sát quá_trình bán hàng và cho vay trong việc giao_dịch nhà ở hình_thành trong tương_lai  mặc_dù pháp_luật hiện_hành quy_định khá chặt_chẽ 
-9,chúng_ta đã có luật_nhà_ở  luật kinh_doanh bất_động_sản đã có những quy_định rất chặt_chẽ về nghĩa_vụ của chủ đầu_tư 
-10,hệ_thống ngân_hàng cũng có những quy_định chặt_chẽ ở khâu thẩm_định cho vay  kiểm_tra thông_tin khách_hàng 
-11,khi bán căn_hộ thế_chấp ở ngân_hàng thì chủ đầu_tư khi bán căn_hộ cho khách_hàng phải có sự đồng_ý của ngân_hàng thông_qua việc giải chấp 
-12,sau khi tiến_hành giải chấp  chủ căn_hộ mới có_thể mang chính tài_sản này đi thế_chấp ngân_hàng để vay tiền 
-13,nếu khách_hàng mua căn_hộ the_harmona và thế_chấp ở một ngân_hàng khác thì phải có sự đồng_ý và giải chấp của ngân_hàng bidv 
-14,việc xảy ra tình_trạng thế_chấp 2 lần ở chung_cư the_harmona nhưng không tiến_hành giải chấp là trái với quy_định 
-15,theo phân_tích của một_số chuyên_gia_tài_chính  đây có khả_năng là lỗ_hổng nghiệp_vụ của ngân_hàng do không kiểm_tra định_kỳ 
-16,hiện_nay  việc mua nhà ở hình_thành trong tương_lai diễn ra phổ_biến  và để tránh những rắc_rối có_thể xảy ra như ở chung_cư the_harmona  người mua nhà nên tìm_hiểu kỹ pháp_lý dự_án trước khi giao_dịch 
-17,có_thể tham_khảo thông_tin từ sở xây_dựng các địa_phương để biết điều_kiện dự_án có được mở bán hay không  thông_tin từ ngân_hàng để nắm được tài_sản đó đã bị thế_chấp hay chưa  theo ts_đinh_thế_hiển  đối_với câu_chuyện harmona  việc bidv để tài_sản thế_chấp của mình bị bán cho người dân và chủ đầu_tư thu gần hết số tiền bán nhà thì trước_hết là lỗi nghiệp_vụ của chính nhà_băng này 
-18, cán_bộ ngân_hàng phải có sự kiểm_tra  giám_sát thường_xuyên tình_trạng dự_án 
-19,khi đó  mọi động_thái  sự thay_đổi nào tại dự_án thì ngân_hàng đều biết 
-20,vậy_thì làm_sao xảy ra được việc chủ đầu_tư tự_ý mang căn_hộ đã thế_chấp bán cho cư_dân được   ông hiển phân_tích 
-21,hiện_nay  để bảo_vệ quyền_lợi cho người mua nhà  ông đinh_thế_hiển cho biết  bản_thân người dân phải tự tìm_hiểu dự_án thật kỹ càng trước khi quyết_định xem dự_án đó đủ điều_kiện mua_bán không  có_thể tham_khảo thông_tin ở sở xây_dựng   và xem dự_án có được ngân_hàng bảo_lãnh không 
-22,theo quy_định hiện_hành  từ 1/7/2015  luật_kinh_doanh bất_động_sản 2014 chính_thức có hiệu_lực  đồng_nghĩa với quy_định doanh_nghiệp bất_động_sản phải được ngân_hàng bảo_lãnh khi bán  cho thuê nhà hình_thành trong tương_lai 
-23,quy_định này ban_hành nhằm nâng cao trách_nhiệm của chủ đầu_tư  giao nhà cho khách_hàng theo đúng cam_kết 
-24,thứ hai  khách_hàng đã ứng tiền trước cho chủ đầu_tư thì khách_hàng có_thể yên_tâm  nếu chủ đầu_tư không hoàn_thành dự_án như cam_kết thì ngân_hàng có trách_nhiệm hoàn tiền lại cho khách mua nhà 
-25,đặc_biệt  theo ts_hiển ngoài việc ngân_hàng nhà_nước đã công_bố danh_sách 33 ngân_hàng đủ điều_kiện bảo_lãnh cho chủ đầu_tư dự_án bất_động_sản để bán  cho thuê mua nhà ở hình_thành trong tương_lai  thì các sở xây_dựng địa_phương cũng liên_tục công_bố những dự_án nhà ở đã được phép bán  người_dân có_thể tìm_hiểu kỹ những thông_tin này để đặt niềm tin mua nhà của mình đúng chỗ 
+0,mặc_dù lãnh_đạo công_ty cổ_phần vật_tư xuất_nhập_khẩu tân_bình tamexim lẫn đối_tác công_ty cổ_phần thanh_niên thanh_nien_corp trấn_an bằng lời hứa thanh_toán khoản nợ 244 tỷ đồng còn ngân_hàng ngày 15/6/2016
+1,tuy_nhiên ít cư_dân lo_ngại khả_năng trả nợ “ liên_minh ” lo_lắng biết bao_giờ mới nhận sổ hồng
+2,một vấn_đề nhức_nhối nhất hiện_nay ngoài khu đất toàn_bộ tài_sản cắm ngân_hàng bidv chúng_tôi thông_tin hơn 600 hộ dân ở còn choáng phát_hiện thêm 41 căn_hộ chủ đầu_tư 2 lần cầm_cố nhà_băng dẫn đến tình_trạng “ nợ chồng nợ ”
+3,“ tôi ngờ căn_hộ mình nợ chồng nợ như_thế
+4,chủ đầu_tư đem căn_hộ thế_chấp hai lần còn đem đi bán hề thông_báo người mua nhà về tình_trạng căn_hộ
+5,bidv không_thể biết tài_sản mình cầm_cố chủ đầu_tư mang đi bán
+6,thực_sự hiện cư_dân chúng_tôi biết thực_tế căn_hộ mình bao_nhiêu tổ_chức cá_nhân mang đi cầm_cố ” một cư_dân biết
+7,hội_nghị nhà chung_cư bất_thường diễn mới_đây hàng trăm cư_dân tỏ tức_giận chủ đầu_tư câu trả_lời thoả_đáng vấn_đề chính họ trông_đợi
+8,vụ_việc chung_cư the_harmona thấy lỗ_hổng pháp_lý liên_quan đến giám_sát quá_trình bán hàng vay trong giao_dịch nhà ở hình_thành trong tương_lai mặc_dù pháp_luật hiện_hành quy_định khá chặt_chẽ
+9,chúng_ta luật_nhà_ở luật kinh_doanh bất_động_sản quy_định chặt_chẽ về nghĩa_vụ chủ đầu_tư
+10,hệ_thống ngân_hàng quy_định chặt_chẽ ở khâu thẩm_định vay kiểm_tra thông_tin khách_hàng
+11,bán căn_hộ thế_chấp ở ngân_hàng chủ đầu_tư bán căn_hộ khách_hàng đồng_ý ngân_hàng thông_qua giải chấp
+12,tiến_hành giải chấp chủ căn_hộ mới mang chính tài_sản đi thế_chấp ngân_hàng vay tiền
+13,khách_hàng mua căn_hộ the_harmona thế_chấp ở một ngân_hàng khác đồng_ý giải chấp ngân_hàng bidv
+14,xảy tình_trạng thế_chấp 2 lần ở chung_cư the_harmona tiến_hành giải chấp trái quy_định
+15,phân_tích một_số chuyên_gia_tài_chính khả_năng lỗ_hổng nghiệp_vụ ngân_hàng kiểm_tra định_kỳ
+16,hiện_nay mua nhà ở hình_thành trong tương_lai diễn phổ_biến tránh rắc_rối xảy ở chung_cư the_harmona người mua nhà tìm_hiểu kỹ pháp_lý dự_án giao_dịch
+17,tham_khảo thông_tin sở xây_dựng địa_phương biết điều_kiện dự_án mở bán hay thông_tin ngân_hàng nắm tài_sản thế_chấp hay ts_đinh_thế_hiển đối_với câu_chuyện harmona bidv tài_sản thế_chấp mình bán người dân chủ đầu_tư thu gần hết số tiền bán nhà trước_hết lỗi nghiệp_vụ chính nhà_băng
+18,cán_bộ ngân_hàng kiểm_tra giám_sát thường_xuyên tình_trạng dự_án
+19,mọi động_thái thay_đổi nào dự_án ngân_hàng biết
+20,vậy_thì làm_sao xảy chủ đầu_tư tự_ý mang căn_hộ thế_chấp bán cư_dân ông hiển phân_tích
+21,hiện_nay bảo_vệ quyền_lợi người mua nhà ông đinh_thế_hiển biết bản_thân người dân tự tìm_hiểu dự_án thật kỹ quyết_định xem dự_án đủ điều_kiện mua_bán tham_khảo thông_tin ở sở xây_dựng xem dự_án ngân_hàng bảo_lãnh
+22,quy_định hiện_hành 1/7/2015 luật_kinh_doanh bất_động_sản 2014 chính_thức hiệu_lực đồng_nghĩa quy_định doanh_nghiệp bất_động_sản ngân_hàng bảo_lãnh bán thuê nhà hình_thành trong tương_lai
+23,quy_định ban_hành nhằm nâng cao trách_nhiệm chủ đầu_tư giao nhà khách_hàng đúng cam_kết
+24,thứ hai khách_hàng ứng tiền chủ đầu_tư khách_hàng yên_tâm chủ đầu_tư hoàn_thành dự_án cam_kết ngân_hàng trách_nhiệm hoàn tiền khách mua nhà
+25,đặc_biệt ts_hiển ngoài ngân_hàng nhà_nước công_bố danh_sách 33 ngân_hàng đủ điều_kiện bảo_lãnh chủ đầu_tư dự_án bất_động_sản bán thuê mua nhà ở hình_thành trong tương_lai sở xây_dựng địa_phương liên_tục công_bố dự_án nhà ở phép bán người_dân tìm_hiểu kỹ thông_tin đặt niềm tin mua nhà mình đúng chỗ

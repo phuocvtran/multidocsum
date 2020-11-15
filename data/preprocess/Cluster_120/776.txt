@@ -1,19 +1,19 @@
 idx, sentence
-0,tand tỉnh hòa_bình vừa đưa ra xét_xử đối_tượng khà_a_giàng  51 tuổi   trú bản thung_ẳng  xã hang_kia  huyện mai_châu  hòa_bình  với các tội_danh mua_bán  vận_chuyển trái_phép chất ma_tuý  tàng_trữ trái_phép vũ_khí quân_dụng và tàng_trữ trái_phép vật_liệu nổ 
-1,theo cáo_trạng  ngày 25/8/2003  thào_a_vảng  39 tuổi   trú xã cán_cẩu  huyện si_ma_cai  lào_cai  và thào a_hòa  34 tuổi  cùng thôn đến nhà khà_a_giàng mua 5 kg thuốc_phiện với giá 14 triệu đồng về bán 
-2,khi cả hai đang chờ xe_khách để mang thuốc_phiện về lào_cai thì bị công_an xã pà_cò  huyện mai_châu bắt_giữ 
-3,qua khai_thác hai đối_tượng trên  công_an tỉnh hòa_bình quyết_định khởi_tố và bắt tạm giam khà_a_giàng về tội_danh “ mua_bán trái_phép chất ma_túy ” 
-4,tuy_nhiên  giàng đã bỏ trốn khỏi địa_phương nên cơ_quan csđt đã quyết_định truy_nã đối_tượng 
-5,đang bị truy_nã  giàng tiếp_tục tham_gia vận_chuyển heroin 
-6,theo đó  ngày 26/5/2005  đối_tượng được một người đàn_ông thuê vận_chuyển 2 bánh heroin đến thung_khe  huyện mai_châu_giao lại sẽ nhận được 50 triệu đồng 
-7,nhận hai bánh heroin  giàng gặp hờ_a_dế  hờ_a_giàng  sùng_a_giàng  khà a_lếnh thuê vận_chuyển số heroin trên về hà_nội_giao cho người đàn_ông tên bình ở quận thanh_xuân để nhận tiền công 
-8,đang trên đường vận_chuyển  các đối_tượng đã bị bắt_giữ 
-9,số heroin thu_giữ được là 64 bánh  trọng_lượng là hơn 22 kg 
-10,giàng trốn thoát khỏi hiện_trường ngay sau đó 
-11,công_an tỉnh hòa_bình tiến_hành khám_xét khẩn_cấp nhà của y  tại đây  lực_lượng chức_năng thu_giữ 7 gói thuốc_nổ amonit  14 kg  và 3 kíp nổ điện 
-12,giàng tiếp_tục bị khởi_tố về tội “ tàng_trữ trái_phép vật_liệu nổ ” và bị truy_nã lần thứ 2 
-13,đến ngày 6/5/2011  sau 6 năm lần trốn   giàng đã đến công_an xã hang_kia  huyện mai_châu đầu_thú 
-14,công_an tỉnh hòa_bình quyết_định phục_hồi điều_tra bị_can khà a_giàng trong vụ_án 64 bánh heroin và gần 5 kg thuốc_phiện  ra_lệnh_cấm đi khỏi nói cư_trú đối_với khà a_giàng 
-15,một lần nữa  giàng không chấp_hành  tiếp_tục bỏ trốn khỏi địa_phương 
-16,ngày 15/11/2011  công_an tỉnh hòa_bình quyết_định truy_nã lần thứ 3 đối_với khà a_giàng 
-17,đến ngày 1/7/2015  y bị bắt_giữ khi trên người mang theo quả lựu_đạn 
+0,tand tỉnh hòa_bình đưa xét_xử đối_tượng khà_a_giàng 51 tuổi trú bản thung_ẳng xã hang_kia huyện mai_châu hòa_bình tội_danh mua_bán vận_chuyển trái_phép chất ma_tuý tàng_trữ trái_phép vũ_khí quân_dụng tàng_trữ trái_phép vật_liệu nổ
+1,cáo_trạng ngày 25/8/2003 thào_a_vảng 39 tuổi trú xã cán_cẩu huyện si_ma_cai lào_cai thào a_hòa 34 tuổi thôn đến nhà khà_a_giàng mua 5 kg thuốc_phiện giá 14 triệu đồng về bán
+2,hai chờ xe_khách mang thuốc_phiện về lào_cai công_an xã pà_cò huyện mai_châu bắt_giữ
+3,khai_thác hai đối_tượng công_an tỉnh hòa_bình quyết_định khởi_tố bắt tạm giam khà_a_giàng về tội_danh “ mua_bán trái_phép chất ma_túy ”
+4,tuy_nhiên giàng bỏ trốn khỏi địa_phương cơ_quan csđt quyết_định truy_nã đối_tượng
+5,truy_nã giàng tiếp_tục tham_gia vận_chuyển heroin
+6,ngày 26/5/2005 đối_tượng một người đàn_ông thuê vận_chuyển 2 bánh heroin đến thung_khe huyện mai_châu_giao nhận 50 triệu đồng
+7,nhận hai bánh heroin giàng gặp hờ_a_dế hờ_a_giàng sùng_a_giàng khà a_lếnh thuê vận_chuyển số heroin về hà_nội_giao người đàn_ông tên bình ở quận thanh_xuân nhận tiền công
+8,đường vận_chuyển đối_tượng bắt_giữ
+9,số heroin thu_giữ 64 bánh trọng_lượng hơn 22 kg
+10,giàng trốn thoát khỏi hiện_trường
+11,công_an tỉnh hòa_bình tiến_hành khám_xét khẩn_cấp nhà y lực_lượng chức_năng thu_giữ 7 gói thuốc_nổ amonit 14 kg 3 kíp nổ điện
+12,giàng tiếp_tục khởi_tố về tội “ tàng_trữ trái_phép vật_liệu nổ ” truy_nã lần thứ 2
+13,đến ngày 6/5/2011 6 năm lần trốn giàng đến công_an xã hang_kia huyện mai_châu đầu_thú
+14,công_an tỉnh hòa_bình quyết_định phục_hồi điều_tra bị_can khà a_giàng trong vụ_án 64 bánh heroin gần 5 kg thuốc_phiện ra_lệnh_cấm đi khỏi nói cư_trú đối_với khà a_giàng
+15,một lần giàng chấp_hành tiếp_tục bỏ trốn khỏi địa_phương
+16,ngày 15/11/2011 công_an tỉnh hòa_bình quyết_định truy_nã lần thứ 3 đối_với khà a_giàng
+17,đến ngày 1/7/2015 y bắt_giữ người mang quả lựu_đạn

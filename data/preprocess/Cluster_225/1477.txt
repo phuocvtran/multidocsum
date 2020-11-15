@@ -1,7 +1,7 @@
 idx, sentence
-0,ba ca_khúc của nhạc sỹ trịnh_công_sơn được ca_sĩ đức_tuấn chọn thu lần này gồm  như hòn bi xanh  em là hoa_hồng nhỏ  vì có chúng_em nên đời_sống không già 
-1,đây là 3 ca_khúc dành cho thiếu_nhi nổi_tiếng và quen_thuộc với mọi người của cố nhạc sỹ trịnh_công_sơn 
-2,liên khúc được hòa_âm bởi nhạc sỹ nguyễn_minh_quân 
-3,chia_sẻ về sự_lý_do phát_hành single của mình  ca sỹ đức_tuấn cho biết đây là món quà anh dành tặng các bé nhân_dịp ngày quốc_tế thiếu_nhi 1/6 sắp đến và cũng đồng_thời dành tặng cho những người_yêu nhạc trịnh 
-4,bên_cạnh đó anh cũng cảm_thấy rằng  các chương_trình truyền_hình dành cho trẻ_em hiện_nay đang “ vắng_bóng ” dần những ca_khúc phù_hợp với các em  mà thay vào đó là những ca_khúc người_lớn  nên một phần_nào anh cũng muốn nhắc nhớ mọi người về những bài hát hay  phù_hợp với độ tuổi và tình_cảm của các bé 
-5,mv được đức_tuấn quay đơn_giản tại phòng thu với sự hỗ_trợ bè của các em thiếu_nhi trong nhóm bè sơn_ca 
+0,ba ca_khúc nhạc sỹ trịnh_công_sơn ca_sĩ đức_tuấn chọn thu lần gồm hòn bi xanh em hoa_hồng nhỏ chúng_em đời_sống già
+1,3 ca_khúc dành thiếu_nhi nổi_tiếng quen_thuộc mọi người cố nhạc sỹ trịnh_công_sơn
+2,liên khúc hòa_âm nhạc sỹ nguyễn_minh_quân
+3,chia_sẻ về sự_lý_do phát_hành single mình ca sỹ đức_tuấn biết món quà anh dành tặng bé nhân_dịp ngày quốc_tế thiếu_nhi 1/6 sắp đến đồng_thời dành tặng người_yêu nhạc trịnh
+4,bên_cạnh anh cảm_thấy chương_trình truyền_hình dành trẻ_em hiện_nay “ vắng_bóng ” dần ca_khúc phù_hợp em thay ca_khúc người_lớn một phần_nào anh muốn nhắc nhớ mọi người về bài hát hay phù_hợp độ tuổi tình_cảm bé
+5,mv đức_tuấn quay đơn_giản phòng thu hỗ_trợ bè em thiếu_nhi trong nhóm bè sơn_ca

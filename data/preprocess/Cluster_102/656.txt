@@ -1,13 +1,13 @@
 idx, sentence
-0,ngày 23/5  nhà_trắng cho biết sẽ cung_cấp cho việt_nam 18 tàu metal_shark đồng_thời hỗ_trợ huấn_luyện và trang_thiết_bị thực_thi pháp_luật trên biển cho lực_lượng cảnh_sát biển việt_nam 
-1,phía mỹ nhấn_mạnh quan_hệ song_phương đang ở mốc cao lịch_sử sau khi hai bên xác_lập quan_hệ đối_tác toàn_diện năm 2013 và kỷ_niệm 20 năm bình_thường_hoá quan_hệ ngoại_giao vào năm 2015 
-2,chuyến thăm của tổng_thống barack_obama tới việt_nam dựa trên đà_tích_cực này để củng_cố_sự phát_triển trong những năm qua và thúc_đẩy quan_hệ song_phương lên một nấc thang mới 
-3,hôm_qua 23/5  trong chuyến thăm việt_nam  tổng_thống barack_obama tuyên_bố mỹ gỡ bỏ hoàn_toàn cấm_vận vũ_khí đối_với việt_nam 
-4,được biết  tàu metal_shark sản_xuất tại phân_xưởng mới của hãng nằm ở franklin  bang louisiana  mỹ 
-5,theo thông_tin từ trang_workboat  đầu năm 2015  metal_shark đã mở thêm phân_xưởng mới trên để hoàn_tất các hợp_đồng từ chính_phủ mỹ  bao_gồm việc đóng các tàu tuần_tra theo chương_trình buôn_bán vũ_khí cho nước_ngoài  fms  
-6,trước đó  đầu tháng 6/2015  trong chuyến thăm việt_nam  bộ_trưởng quốc_phòng mỹ ashton_carter đã công_bố viện_trợ 18 triệu usd mua tàu tuần_tra cao_tốc vỏ nhôm lớp metal_shark loại 75 feet cung_cấp cho cảnh_sát biển việt_nam 
-7,tuy_nhiên  với thông_tin mới nhất của workboat và metal_shark  thì loại tàu đang được đóng này là loại 45 feet 
-8,“ chúng_tôi có hợp_đồng đóng 30 tàu tuần_tra loại 45 feet ”  ông chris_allard  chủ_tịch metal_shark khi thăm cơ_sở ở franklin  cho hay 
-9,tàu metal_shark này có chiều dài 45 feet  137 m   chiều ngang 15 feet  46 m  
-10,tốc_độ của tàu đạt 40 knot  tức 74 km / giờ 
-11,loại tàu này có_thể dùng cho mục_đích tuần_tra bảo_vệ cảng  sông_nước  chữa_cháy  bảo_vệ bờ biển  thực_thi pháp_luật trên biển 
+0,ngày 23/5 nhà_trắng biết cung_cấp việt_nam 18 tàu metal_shark đồng_thời hỗ_trợ huấn_luyện trang_thiết_bị thực_thi pháp_luật biển lực_lượng cảnh_sát biển việt_nam
+1,phía mỹ nhấn_mạnh quan_hệ song_phương ở mốc cao lịch_sử hai bên xác_lập quan_hệ đối_tác toàn_diện năm 2013 kỷ_niệm 20 năm bình_thường_hoá quan_hệ ngoại_giao năm 2015
+2,chuyến thăm tổng_thống barack_obama tới việt_nam dựa đà_tích_cực củng_cố_sự phát_triển trong năm thúc_đẩy quan_hệ song_phương một nấc thang mới
+3,hôm_qua 23/5 trong chuyến thăm việt_nam tổng_thống barack_obama tuyên_bố mỹ gỡ bỏ hoàn_toàn cấm_vận vũ_khí đối_với việt_nam
+4,biết tàu metal_shark sản_xuất phân_xưởng mới hãng nằm ở franklin bang louisiana mỹ
+5,thông_tin trang_workboat đầu năm 2015 metal_shark mở thêm phân_xưởng mới hoàn_tất hợp_đồng chính_phủ mỹ bao_gồm đóng tàu tuần_tra chương_trình buôn_bán vũ_khí nước_ngoài fms
+6,đầu tháng 6/2015 trong chuyến thăm việt_nam bộ_trưởng quốc_phòng mỹ ashton_carter công_bố viện_trợ 18 triệu usd mua tàu tuần_tra cao_tốc vỏ nhôm lớp metal_shark loại 75 feet cung_cấp cảnh_sát biển việt_nam
+7,tuy_nhiên thông_tin mới nhất workboat metal_shark loại tàu đóng loại 45 feet
+8,“ chúng_tôi hợp_đồng đóng 30 tàu tuần_tra loại 45 feet ” ông chris_allard chủ_tịch metal_shark thăm cơ_sở ở franklin hay
+9,tàu metal_shark chiều dài 45 feet 137 m chiều ngang 15 feet 46 m
+10,tốc_độ tàu đạt 40 knot tức 74 km / giờ
+11,loại tàu dùng mục_đích tuần_tra bảo_vệ cảng sông_nước chữa_cháy bảo_vệ bờ biển thực_thi pháp_luật biển

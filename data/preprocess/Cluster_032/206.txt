@@ -1,8 +1,8 @@
 idx, sentence
-0,thông_tin từ cổng thông_tin điện_tử chính_phủ cho biết  rong khuôn_khổ chuyến thăm chính_thức liên_bang_nga  ngày 18/5  thủ_tướng chính_phủ nguyễn_xuân_phúc đã đến dự_lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến giai_đoạn 1 của tập_đoàn th_true_milk tại làng volokolamsk  tỉnh moscow 
-1,đây là dự_án đầu_tiên của việt_nam trong lĩnh_vực sản_xuất  chế_biến sữa tại nga và là dự_án của việt_nam có vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại 
-2,vốn đầu_tư giai_đoạn 1 của dự_án là 500 triệu usd và dự_kiến đến giữa năm 2017  sản_phẩm sữa th đầu_tiên sẽ ra_mắt tại xứ_sở bạch_dương 
-3,tổng vốn đầu_tư trong vòng 10 năm  qua 3 giai_đoạn  lên tới 27 tỷ usd 
-4,khi hoàn_thành giai_đoạn 3  tổng_số đàn bò dự_kiến là 350000 con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
-5,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn nước nga 
-6,đánh_giá cao nỗ_lực của tập_đoàn th_true_milk với tinh_thần “ dám nghĩ  dám làm ”  đưa sản_phẩm  thương_hiệu “ made in việt_nam ” ra nước_ngoài  thủ_tướng nguyễn_xuân_phúc khẳng_định  chính_phủ việt_nam sẽ tiếp_tục tạo mọi điều_kiện để hỗ_trợ triển_khai dự_án và tin_tưởng rằng  dự_án sẽ hoàn_thành đúng thời_gian dự_kiến  trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu  đáp_ứng nguyện_vọng của nhân_dân hai nước  phù_hợp với xu_hướng phát_triển năng_động  góp_phần nâng cao hiệu_quả hợp_tác song_phương việt_nam  lb_nga 
+0,thông_tin cổng thông_tin điện_tử chính_phủ biết rong khuôn_khổ chuyến thăm chính_thức liên_bang_nga ngày 18/5 thủ_tướng chính_phủ nguyễn_xuân_phúc đến dự_lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa chế_biến giai_đoạn 1 tập_đoàn th_true_milk làng volokolamsk tỉnh moscow
+1,dự_án đầu_tiên việt_nam trong lĩnh_vực sản_xuất chế_biến sữa nga dự_án việt_nam vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại
+2,vốn đầu_tư giai_đoạn 1 dự_án 500 triệu usd dự_kiến đến giữa năm 2017 sản_phẩm sữa th đầu_tiên ra_mắt xứ_sở bạch_dương
+3,tổng vốn đầu_tư trong vòng 10 năm 3 giai_đoạn tới 27 tỷ usd
+4,hoàn_thành giai_đoạn 3 tổng_số đàn bò dự_kiến 350000 con tổng công_suất chế_biến sữa 5900 tấn / ngày tương_đương gần 1800000 tấn / năm tổng diện_tích vùng nguyên_liệu tập_trung 140000 ha
+5,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng true_mart toàn nước nga
+6,đánh_giá cao nỗ_lực tập_đoàn th_true_milk tinh_thần “ dám nghĩ dám làm ” đưa sản_phẩm thương_hiệu “ made in việt_nam ” nước_ngoài thủ_tướng nguyễn_xuân_phúc khẳng_định chính_phủ việt_nam tiếp_tục tạo mọi điều_kiện hỗ_trợ triển_khai dự_án tin_tưởng dự_án hoàn_thành đúng thời_gian dự_kiến trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu đáp_ứng nguyện_vọng nhân_dân hai nước phù_hợp xu_hướng phát_triển năng_động góp_phần nâng cao hiệu_quả hợp_tác song_phương việt_nam lb_nga

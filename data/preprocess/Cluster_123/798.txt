@@ -1,8 +1,8 @@
 idx, sentence
-0,toyota vừa thông_báo đã vượt mốc bán ra 9 triệu chiếc xe hybrid trên toàn_cầu  cụ_thể là 9014 triệu chiếc tính tới ngày 30/4/2016 vừa_qua  
-1,đây là con_số đã vượt kế_hoạch dự_định từ trước đó của hãng xe nhật_bản 
-2,với số_lượng khổng_lồ các mẫu xe sử_dụng năng_lượng điện trên đường  ước_tính từ toyota cho thấy hãng đã giúp hạn_chế gần 67 tấn khí thải co2 xả ra môi_trường 
-3,dĩ_nhiên  để đánh_giá chính_xác những hiệu_quả mà các dòng xe lai mang lại cho đời_sống thực_tế là điều bất_khả_thi 
-4,tuy_nhiên cho tới lúc này  những thay_đổi mang tính tích_cực là điều không khó để nhận thấy  như tiết_kiệm nhiên_liệu  hạn_chế xả khí thải  ít mùi  êm_ái  sạch_sẽ  về_phần mình  kể từ khi bán ra chiếc xe hybrid đầu_tiên vào tháng 8 năm 1997  toyota đã liên_tục đầu_tư đẩy_mạnh việc phát_triển các dòng sản_phẩm nhóm này 
-5,mới_đây  hãng cũng công_bố toyota_environmental_challenge 2050  kế_hoạch nhằm giảm các tác_động tiêu_cực của xe_hơi đối_với môi_trường toàn_cầu 
-6,theo đó  mục_tiêu cuối_cùng mà thương_hiệu xe nhật nhắm tới là một thế_giới xe_hơi hoàn_toàn thân_thiện với môi_trường nhằm đóng_góp vào cộng_đồng phát_triển bền_vững 
+0,toyota thông_báo vượt mốc bán 9 triệu xe hybrid toàn_cầu cụ_thể 9014 triệu tính tới ngày 30/4/2016 vừa_qua
+1,con_số vượt kế_hoạch dự_định hãng xe nhật_bản
+2,số_lượng khổng_lồ mẫu xe sử_dụng năng_lượng điện đường ước_tính toyota thấy hãng giúp hạn_chế gần 67 tấn khí thải co2 xả môi_trường
+3,dĩ_nhiên đánh_giá chính_xác hiệu_quả dòng xe lai mang đời_sống thực_tế bất_khả_thi
+4,tuy_nhiên tới thay_đổi mang tính tích_cực khó nhận thấy tiết_kiệm nhiên_liệu hạn_chế xả khí thải ít mùi êm_ái sạch_sẽ về_phần mình kể bán xe hybrid đầu_tiên tháng 8 năm 1997 toyota liên_tục đầu_tư đẩy_mạnh phát_triển dòng sản_phẩm nhóm
+5,mới_đây hãng công_bố toyota_environmental_challenge 2050 kế_hoạch nhằm giảm tác_động tiêu_cực xe_hơi đối_với môi_trường toàn_cầu
+6,mục_tiêu cuối_cùng thương_hiệu xe nhật nhắm tới một thế_giới xe_hơi hoàn_toàn thân_thiện môi_trường nhằm đóng_góp cộng_đồng phát_triển bền_vững

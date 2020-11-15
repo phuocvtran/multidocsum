@@ -1,11 +1,11 @@
 idx, sentence
-0,đại_diện cảnh_sát ở huyện wiang_pa_pao  tỉnh chiang_rai  thái_lan cho biết  đám cháy xảy ra vào lúc 23 h ngày 22/5  theo giờ_địa_phương  
-1,ngọn lửa đã nhấn_chìm khu kí_túc_xá nữ 2 tầng của một trường_học trong khu_vực 
-2,vụ hỏa_hoạn khiến 17 nữ_sinh thiệt_mạng  5 người khác bị_thương và 2 người hiện mất_tích 
-3,các nạn_nhân ở độ tuổi từ 6 đến 13 tuổi 
-4,theo cảnh_sát  hai trong số 5 người bị_thương đang ở trong tình_trạng nguy_kịch 
-5,“ có 38 học_sinh trong ký_túc_xá khi đám cháy xảy ra 
-6,một_số em vẫn chưa ngủ nên kịp chạy ra ngoài 
-7,nhưng đa_số đang say ngủ và không kịp thoát biển lửa dẫn đến số thương_vong lớn ”  arkom_sukapan  phó_thống_đốc tỉnh  trả_lời trên afp 
-8,được biết  kí_túc_xá xảy ra hỏa_hoạn thuộc ngôi trường do địa_phương tự mở  không thuộc sự quản_lý của chính_phủ 
-9,ngôi trường này dành cho những học_sinh dân_tộc_thiểu_số với độ tuổi học_sinh từ 3 đến 13 tuổi 
+0,đại_diện cảnh_sát ở huyện wiang_pa_pao tỉnh chiang_rai thái_lan biết đám cháy xảy 23 h ngày 22/5 giờ_địa_phương
+1,ngọn lửa nhấn_chìm khu kí_túc_xá nữ 2 tầng một trường_học trong khu_vực
+2,vụ hỏa_hoạn khiến 17 nữ_sinh thiệt_mạng 5 người khác bị_thương 2 người hiện mất_tích
+3,nạn_nhân ở độ tuổi 6 đến 13 tuổi
+4,cảnh_sát hai trong số 5 người bị_thương ở trong tình_trạng nguy_kịch
+5,“ 38 học_sinh trong ký_túc_xá đám cháy xảy
+6,một_số em ngủ kịp chạy ngoài
+7,đa_số say ngủ kịp thoát biển lửa dẫn đến số thương_vong lớn ” arkom_sukapan phó_thống_đốc tỉnh trả_lời afp
+8,biết kí_túc_xá xảy hỏa_hoạn thuộc ngôi trường địa_phương tự mở thuộc quản_lý chính_phủ
+9,ngôi trường dành học_sinh dân_tộc_thiểu_số độ tuổi học_sinh 3 đến 13 tuổi

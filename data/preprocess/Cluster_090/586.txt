@@ -1,4 +1,4 @@
 idx, sentence
-0,chiều ngày 235  thông_tin từ đội csgt số 14  công_an hà_nội  cho biết đơn_vị này đang kết_hợp với cơ_quan công_an huyện gia_lâm tìm_kiếm tung_tích của 1 nam thanh_niên nhảy_cầu thanh_trì xuống sông hồng vào chiều cùng ngày 
-1,theo thông_tin ban_đầu  vào_khoảng 14 giờ 50 phút chiều 235  chiếc taxi mang bks_29a  50482 chở theo một đôi nam_nữ lưu_thông hướng từ huyện gia_lâm  hà_nội  về trung_tâm tp khi đến gần giữa cầu thanh_trì  cột_đèn số 42  thì nam thanh_niên yêu_cầu dừng xe  rồi bất_ngờ mở cửa xe taxi nhảy xuống sông tự_tử  bỏ lại người bạn gái trên xe taxi 
-2,do sự_việc diễn_biến quá nhanh và bất_ngờ nên người dân không kịp ngăn_cản  trong khi người bạn gái bàng_hoàng 
+0,chiều ngày 235 thông_tin đội csgt số 14 công_an hà_nội biết đơn_vị kết_hợp cơ_quan công_an huyện gia_lâm tìm_kiếm tung_tích 1 nam thanh_niên nhảy_cầu thanh_trì xuống sông hồng chiều ngày
+1,thông_tin ban_đầu vào_khoảng 14 giờ 50 phút chiều 235 taxi mang bks_29a 50482 chở một đôi nam_nữ lưu_thông hướng huyện gia_lâm hà_nội về trung_tâm tp đến gần giữa cầu thanh_trì cột_đèn số 42 nam thanh_niên yêu_cầu dừng xe bất_ngờ mở cửa xe taxi nhảy xuống sông tự_tử bỏ người bạn gái xe taxi
+2,sự_việc diễn_biến quá nhanh bất_ngờ người dân kịp ngăn_cản trong người bạn gái bàng_hoàng

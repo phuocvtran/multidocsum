@@ -1,6 +1,6 @@
 idx, sentence
-0,theo thông_tin được phát đi từ hãng hàng_không quốc_gia việt_nam  vietnam_airlines   một sự_cố nghiêm_trọng đã xảy ra trên chuyến bay mang số_hiệu vn227 của hãng 
-1,chuyến bay này dự_kiến xuất_phát từ cảng_hàng_không nội_bài  hà_nội  và cập bến tân_sơn_nhất  tphcm  trong sáng ngày 2/6/2016 
-2,thế nhưng  khi vừa hạ_cánh thành_công tại cảng_hàng_không tân_sơn_nhất  nam hành_khách ntt ngồi ghế 28b trên chuyến bay vn227đã tự_ý mở_cửa thoát hiểm 3l làm bung cầu_phao khi không có chỉ_định của tiếp_viên 
-3,sự_cố trên đã khiến chiếc máy_bay airbus_a321 phải đưa vào hangar  nhà_chứa máy_bay  để kiểm_tra kỹ_thuật 
-4,kéo theo đó  3 chuyến bay khác của hãng tại sân_bay tân_sơn nhất_là vn594  tphcm  hong_kong   vn116  tphcm  đà_nẵng  và vn244  tphcm  hà_nội  cũng bị ảnh_hưởng và hoãn giờ bay vì sự_cố này 
+0,thông_tin phát đi hãng hàng_không quốc_gia việt_nam vietnam_airlines một sự_cố nghiêm_trọng xảy chuyến bay mang số_hiệu vn227 hãng
+1,chuyến bay dự_kiến xuất_phát cảng_hàng_không nội_bài hà_nội cập bến tân_sơn_nhất tphcm trong sáng ngày 2/6/2016
+2,thế hạ_cánh thành_công cảng_hàng_không tân_sơn_nhất nam hành_khách ntt ngồi ghế 28b chuyến bay vn227đã tự_ý mở_cửa thoát hiểm 3l làm bung cầu_phao chỉ_định tiếp_viên
+3,sự_cố khiến máy_bay airbus_a321 đưa hangar nhà_chứa máy_bay kiểm_tra kỹ_thuật
+4,kéo 3 chuyến bay khác hãng sân_bay tân_sơn nhất_là vn594 tphcm hong_kong vn116 tphcm đà_nẵng vn244 tphcm hà_nội ảnh_hưởng hoãn giờ bay sự_cố

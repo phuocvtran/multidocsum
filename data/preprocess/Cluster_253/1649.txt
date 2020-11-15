@@ -1,8 +1,8 @@
 idx, sentence
-0,cuốn sách gây bão thời_gian qua  madam nhu trần_lệ_xuân  quyền_lực bà rồng   nxb hội nhà_văn và công_ty sách phương nam đồng ấn_hành  và tạp_chí life_plaza vừa nhận lệnh thu_hồi từ sở thông_tin  truyền_thông  tttt  tp hcm 
-1,trao_đổi với báo_chí  ông nguyễn_đức_thọ  chánh thanh_tra sở tttt tp hcm cho biết  việc thu_hồi cuốn  madam_nhu  theo đúng tinh_thần của cục xuất_bản  in và phát_hành đã đưa ra trước đó  chỉ áp_dụng với ấn_bản 1 còn mắc một_số lỗi nội_dung  không áp_dụng với ấn_bản 2 đã chỉnh sửa 
-2,“ sở đã gửi công_văn về các quận_huyện phát_hành để kiểm_tra  nếu phát_hiện còn lưu_trữ phát_hành ấn_bản 1 cuốn sách trên thì buộc phải thu_hồi ”  ông thọ nói 
-3,trước đó  cục xuất_bản  in và phát_hành đã ra công_văn yêu_cầu nxb hội nhà_văn đình_chỉ cuốn sách  madam nhu trần_lệ_xuân  quyền_lực bà rồng  ấn_bản 1 để “ rà_soát lại toàn_bộ nội_dung  chỉnh sửa một_số chi_tiết trong sách và bìa 4 ” 
-4,tuy_nhiên  theo bà phạm_thị_hóa_ phó_tổng_giám_đốc công_ty phát_hành sách fahasa  hệ_thống phát_hành sách này đã hoàn_trả ấn_bản 1 từ lâu nên việc thu_hồi lần này không ảnh_hưởng đến việc kinh_doanh cuốn sách trên với ấn_bản 2 
-5,ngoài_ra  sở tttt cũng có công_văn  “ rà_soát  kiểm_tra và thu_hồi ấn_phẩm life_plaza  nxb thanh_niên cấp phép  với lý_do  cuốn sách trên vi_phạm về thủ_tục xuất_bản  không thực_hiện đúng theo bản đã biên_tập  đã duyệt  sách in ra thể_hiện dạng tạp_chí  in bìa không theo bản duyệt  không ghi số_lượng in  phát_hành khi chưa có quyết_định phát_hành của nxb thanh_niên  
-6,cuốn sách trên đã phát_hành trái_phép trên thị_trường ” 
+0,cuốn sách gây bão thời_gian madam nhu trần_lệ_xuân quyền_lực bà rồng nxb hội nhà_văn công_ty sách phương nam đồng ấn_hành tạp_chí life_plaza nhận lệnh thu_hồi sở thông_tin truyền_thông tttt tp hcm
+1,trao_đổi báo_chí ông nguyễn_đức_thọ chánh thanh_tra sở tttt tp hcm biết thu_hồi cuốn madam_nhu đúng tinh_thần cục xuất_bản in phát_hành đưa áp_dụng ấn_bản 1 còn mắc một_số lỗi nội_dung áp_dụng ấn_bản 2 chỉnh sửa
+2,“ sở gửi công_văn về quận_huyện phát_hành kiểm_tra phát_hiện còn lưu_trữ phát_hành ấn_bản 1 cuốn sách buộc thu_hồi ” ông thọ nói
+3,cục xuất_bản in phát_hành công_văn yêu_cầu nxb hội nhà_văn đình_chỉ cuốn sách madam nhu trần_lệ_xuân quyền_lực bà rồng ấn_bản 1 “ rà_soát toàn_bộ nội_dung chỉnh sửa một_số chi_tiết trong sách bìa 4 ”
+4,tuy_nhiên bà phạm_thị_hóa_ phó_tổng_giám_đốc công_ty phát_hành sách fahasa hệ_thống phát_hành sách hoàn_trả ấn_bản 1 lâu thu_hồi lần ảnh_hưởng đến kinh_doanh cuốn sách ấn_bản 2
+5,ngoài_ra sở tttt công_văn “ rà_soát kiểm_tra thu_hồi ấn_phẩm life_plaza nxb thanh_niên cấp phép lý_do cuốn sách vi_phạm về thủ_tục xuất_bản thực_hiện đúng bản biên_tập duyệt sách in thể_hiện dạng tạp_chí in bìa bản duyệt ghi số_lượng in phát_hành quyết_định phát_hành nxb thanh_niên
+6,cuốn sách phát_hành trái_phép thị_trường ”

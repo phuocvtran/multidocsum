@@ -1,10 +1,10 @@
 idx, sentence
-0,theo thông_tin ban_đầu  vào thời_điểm trên  ông nguyễn_hoàng_quân  52 tuổi  chủ_tịch hội nông_dân tp bạc_liêu  tỉnh bạc_liêu   đang đi bộ tập_thể_dục dưới chân cầu tôn_đức_thắng  bất_ngờ bị trần_văn_trường  25 tuổi  ngụ khóm 8  phường 5  tp bạc_liêu  tỉnh bạc_liêu   xông tới đạp ông quân té ngã rồi dùng dao tự chế đâm  chém xối_xả vào đầu  tay  chân  lưng  bụng ông quân 
-1,trường đã rời khỏi hiện_trường ngay sau khi ông quân bất_tỉnh 
-2,ngay sau đó  ông quân được người dân đưa vào bệnh_viện đa_khoa tỉnh bạc_liêu cấp_cứu trong tình_trạng nguy_kịch  với nhiều vết_thương khá nặng trên cơ_thể  bị bất rất nhiều máu 
-3,chỉ sau hơn 45 phút gây_án  trường đã bị lưc lượng công_an bắt_giữ khi đang lẩn trốn trong một chòi giữ vuông tôm  cách hiện_trường khoảng hơn 300 m  theo lời khai ban_đầu tại cơ_quan điều_tra  trường khai nhận do thấy ông quân nhìn thấy ghét nên dùng dao bất_ngờ đâm  chém tới_tấp vào người nạn_nhân 
-4,năm 2011  trường bị đưa đi cai_nghiện bắt_buộc do nghiện ma_túy 
-5,giữa năm 2015  trường được cho về nhà 
-6,gần đây  trường thường_xuyên sử_dụng ma_túy đá 
-7,kiểm_tra nơi ở của trường  công_an còn thu_giữ dụng_cụ mà trường thường dùng để hút ma_túy 
-8,sau khi nhập_viện ông quân được y  bác_sĩ kịp_thời cứu_chữa  tiến_hành phẫu thuẫn vết_thương nên sức_khỏe đã tạm ổn_định 
+0,thông_tin ban_đầu thời_điểm ông nguyễn_hoàng_quân 52 tuổi chủ_tịch hội nông_dân tp bạc_liêu tỉnh bạc_liêu đi bộ tập_thể_dục chân cầu tôn_đức_thắng bất_ngờ trần_văn_trường 25 tuổi ngụ khóm 8 phường 5 tp bạc_liêu tỉnh bạc_liêu xông tới đạp ông quân té ngã dùng dao tự chế đâm chém xối_xả đầu tay chân lưng bụng ông quân
+1,trường rời khỏi hiện_trường ông quân bất_tỉnh
+2,ông quân người dân đưa bệnh_viện đa_khoa tỉnh bạc_liêu cấp_cứu trong tình_trạng nguy_kịch vết_thương khá nặng cơ_thể bất máu
+3,hơn 45 phút gây_án trường lưc lượng công_an bắt_giữ lẩn trốn trong một chòi giữ vuông tôm cách hiện_trường khoảng hơn 300 m lời khai ban_đầu cơ_quan điều_tra trường khai nhận thấy ông quân nhìn thấy ghét dùng dao bất_ngờ đâm chém tới_tấp người nạn_nhân
+4,năm 2011 trường đưa đi cai_nghiện bắt_buộc nghiện ma_túy
+5,giữa năm 2015 trường về nhà
+6,gần trường thường_xuyên sử_dụng ma_túy đá
+7,kiểm_tra ở trường công_an còn thu_giữ dụng_cụ trường thường dùng hút ma_túy
+8,nhập_viện ông quân y bác_sĩ kịp_thời cứu_chữa tiến_hành phẫu thuẫn vết_thương sức_khỏe tạm ổn_định

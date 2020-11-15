@@ -1,24 +1,24 @@
 idx, sentence
-0,đoạn video hiếm_hoi của nhật_hoàng_akihito đã được công_bố trên sóng truyền_hình nhật_bản vào 15 giờ ngày 88 
-1,nhật hoàng đã chia_sẻ những suy_nghĩ của mình về những khó_khăn trên cương_vị một biểu_tượng của nước nhật nhưng không trực_tiếp nói về ý_định thoái_vị 
-2,cơ_quan hoàng_gia nhật_bản đã đăng_tải toàn_văn phát_biểu của nhật_hoàng_akihito 
-3,trong đoạn video gửi đến toàn_thể người dân  nhật_hoàng nói   tôi nay đã hơn 80 tuổi và nhiều lúc gặp rất nhiều khó_khăn như tình_trạng sức_khỏe của mình 
-4,những năm gần đây  tôi đã bắt_đầu suy_nghĩ về những năm_tháng giữ vị_trí nhật_hoàng  ngẫm_nghĩ về vai_trò và nghĩa_vụ của mình trên cương_vị này trong những ngày tới  
-5,theo nhật_hoàng  ở vị_trí của mình  ông không được phép đưa ra bình_luận cụ_thể nào về hệ_thống hoàng_gia hiện_tại  vì_vậy nhật hoàng muốn chia_sẻ với người dân với tư_cách cá_nhân 
-6,ông nói xã_hội đang ở trong giai_đoạn già_hóa rất nhanh và nhật_hoàng cũng đang ngày_càng lớn_tuổi 
-7,theo hiến_pháp  nhật_hoàng là biểu_tượng quốc_gia  là người kế_thừa truyền_thống lâu_dài nên ông luôn ý_thức sâu_sắc trách_nhiệm phải bảo_vệ truyền_thống đó 
-8,thế nhưng  ông nói rằng   vài năm qua  sau khi trải qua hai cuộc phẫu_thuật  tôi bắt_đầu cảm_thấy mình yếu đi do tuổi cao  tôi bắt_đầu nghĩ về tương_lai đang chờ  
-9,ông khẳng_định sẽ rất khó_khăn để hoàn_thành trách_nhiệm một_cách chu_toàn như ông đã và đang làm  ông băn_khoăn về điều gì tốt cho đất_nước  cho người dân và cho thành_viên hoàng_gia theo sau mình 
-10,nhật hoàng cho biết suốt 28 năm tại_vị  ông đã cùng người dân nhật_bản chia_sẻ nhiều niềm vui cũng như nỗi buồn 
-11,ông cho rằng nhiệm_vụ đầu_tiên và quan_trọng nhất của nhật_hoàng là cầu_mong hòa_bình và hạnh_phúc cho tất_cả mọi người  bên_cạnh đó trong một_số trường_hợp  nhật_hoàng cần phải đến bên người dân  lắng_nghe tâm_tư nguyện_vọng của họ 
-12,với suy_nghĩ đó  nhật_hoàng akihito đã đi tới nhiều nơi trên đất_nước nhật_bản  kể_cả vùng đảo hay những nơi xa_xôi 
-13,ông cho rằng đó là những hành_động rất quan_trọng của nhật_hoàng với vai_trò biểu_tượng của đất_nước 
-14,thế nhưng khi tuổi đã cao  sức_khoẻ đã không còn dồi_dào như trước  điều đó sẽ rất khó_khăn đối_với nhật_hoàng 
-15,ông cũng cho biết theo quy_định khi nhật_hoàng không_thể hoàn_thành đầy_đủ những nhiệm_vụ của mình do vấn_đề sức_khỏe hay tuổi_tác thì một cơ_quan nhiếp_chính sẽ được thiết_lập để thay_mặt nhật_hoàng 
-16,mặc_dù vậy  có một thực_tế là nhật_hoàng vẫn sẽ tiếp_tục là nhật_hoàng cho tới hết đời dù không còn thực_hiện vai_trò của mình nữa 
-17,bên_cạnh đó  nhật_hoàng akihito lo_lắng rằng khi ông yếu đi  nhiều người sẽ bị ảnh_hưởng 
-18,hoàng_gia sẽ phải lo cho sự_kiện nhật_hoàng ra đi trong một khoảng thời_gian dài tới một năm và ông băn_khoăn không biết liệu có_thể ngăn tình_trạng đó lại xảy ra dưới thời của mình 
-19,ông bày_tỏ mong_muốn rằng hoàng_gia có_thể tiếp_tục sát_cánh cùng người dân trong mọi thời_điểm để xây_dựng đất_nước  và nhật_hoàng sẽ luôn đáp_ứng những nhiệm_vụ của một biểu_tượng quốc_gia một_cách không ngừng nghỉ 
-20,dù không trực_tiếp nhắc tới việc thoái_vị  nhưng rõ_ràng nhật hoàng đã cho người dân nghe về những lo_lắng  tâm_tư của mình và mong được toàn_thể người dân nhật_bản thấu_hiểu 
-21,sau khi đoạn video này được phát_sóng  thủ_tướng nhật_bản_shinzo_abe cho biết ông sẽ theo_dõi kỹ càng thông_điệp của nhật_hoàng_akihito 
-22,ông abe cho rằng với tình_hình tuổi_tác của nhật_hoàng cũng như những nhiệm_vụ chính_thức của nhật_hoàng  chính_phủ và người dân phải suy_nghĩ tới sự căng_thẳng của nhật_hoàng và phải xem_xét toàn_diện nên làm gì 
+0,đoạn video hiếm_hoi nhật_hoàng_akihito công_bố sóng truyền_hình nhật_bản 15 giờ ngày 88
+1,nhật hoàng chia_sẻ suy_nghĩ mình về khó_khăn cương_vị một biểu_tượng nước nhật trực_tiếp nói về ý_định thoái_vị
+2,cơ_quan hoàng_gia nhật_bản đăng_tải toàn_văn phát_biểu nhật_hoàng_akihito
+3,trong đoạn video gửi đến toàn_thể người dân nhật_hoàng nói tôi nay hơn 80 tuổi gặp khó_khăn tình_trạng sức_khỏe mình
+4,năm gần tôi bắt_đầu suy_nghĩ về năm_tháng giữ vị_trí nhật_hoàng ngẫm_nghĩ về vai_trò nghĩa_vụ mình cương_vị trong ngày tới
+5,nhật_hoàng ở vị_trí mình ông phép đưa bình_luận cụ_thể nào về hệ_thống hoàng_gia hiện_tại vì_vậy nhật hoàng muốn chia_sẻ người dân tư_cách cá_nhân
+6,ông nói xã_hội ở trong giai_đoạn già_hóa nhanh nhật_hoàng ngày_càng lớn_tuổi
+7,hiến_pháp nhật_hoàng biểu_tượng quốc_gia người kế_thừa truyền_thống lâu_dài ông luôn ý_thức sâu_sắc trách_nhiệm bảo_vệ truyền_thống
+8,thế ông nói vài năm trải hai cuộc phẫu_thuật tôi bắt_đầu cảm_thấy mình yếu đi tuổi cao tôi bắt_đầu nghĩ về tương_lai chờ
+9,ông khẳng_định khó_khăn hoàn_thành trách_nhiệm chu_toàn ông làm ông băn_khoăn về tốt đất_nước người dân thành_viên hoàng_gia mình
+10,nhật hoàng biết suốt 28 năm tại_vị ông người dân nhật_bản chia_sẻ niềm vui nỗi buồn
+11,ông nhiệm_vụ đầu_tiên quan_trọng nhất nhật_hoàng cầu_mong hòa_bình hạnh_phúc tất_cả mọi người bên_cạnh trong một_số trường_hợp nhật_hoàng đến bên người dân lắng_nghe tâm_tư nguyện_vọng họ
+12,suy_nghĩ nhật_hoàng akihito đi tới đất_nước nhật_bản kể_cả vùng đảo hay xa_xôi
+13,ông hành_động quan_trọng nhật_hoàng vai_trò biểu_tượng đất_nước
+14,thế tuổi cao sức_khoẻ còn dồi_dào khó_khăn đối_với nhật_hoàng
+15,ông biết quy_định nhật_hoàng không_thể hoàn_thành đầy_đủ nhiệm_vụ mình vấn_đề sức_khỏe hay tuổi_tác một cơ_quan nhiếp_chính thiết_lập thay_mặt nhật_hoàng
+16,mặc_dù một thực_tế nhật_hoàng tiếp_tục nhật_hoàng tới hết đời dù còn thực_hiện vai_trò mình
+17,bên_cạnh nhật_hoàng akihito lo_lắng ông yếu đi người ảnh_hưởng
+18,hoàng_gia lo sự_kiện nhật_hoàng đi trong một khoảng thời_gian dài tới một năm ông băn_khoăn biết liệu ngăn tình_trạng xảy thời mình
+19,ông bày_tỏ mong_muốn hoàng_gia tiếp_tục sát_cánh người dân trong mọi thời_điểm xây_dựng đất_nước nhật_hoàng luôn đáp_ứng nhiệm_vụ một biểu_tượng quốc_gia ngừng nghỉ
+20,dù trực_tiếp nhắc tới thoái_vị rõ_ràng nhật hoàng người dân nghe về lo_lắng tâm_tư mình mong toàn_thể người dân nhật_bản thấu_hiểu
+21,đoạn video phát_sóng thủ_tướng nhật_bản_shinzo_abe biết ông theo_dõi kỹ thông_điệp nhật_hoàng_akihito
+22,ông abe tình_hình tuổi_tác nhật_hoàng nhiệm_vụ chính_thức nhật_hoàng chính_phủ người dân suy_nghĩ tới căng_thẳng nhật_hoàng xem_xét toàn_diện làm

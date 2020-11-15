@@ -1,10 +1,10 @@
 idx, sentence
-0,thông_tin ban_đầu  khoảng 17 giờ 30 chiều 78  xe ben bs  51c642  38  lưu_thông trên cầu phú_mỹ theo hướng từ q 7 về vòng xoay mỹ_thủy  q 2  
-1,trong lúc đang đổ dốc cầu  mưa và đường trơn khiến xe ben mất lái húc văng dải_phân_cách bê_tông của làn xe_máy  lao vào húc đổ một đoạn lan_can sắt 
-2,cú va_chạm mạnh làm xe_ben lật ngang  xoay 180 độ 
-3,tài_xế được mọi người đưa đi bệnh_viện cấp_cứu 
-4,tại hiện_trường  nhiều phiến bê_tông của dải_phân_cách đổ sập 
-5,chiếc xe ben biến_dạng hoàn_toàn  nhiều chi_tiết của xe văng tung tóe trên làn đường dành cho xe_máy 
-6,nhận được tin báo  lực_lượng sở_tại có_mặt ghi_nhận sự_việc 
-7,đội csgt nam sài_gòn được điều_động đến phong_tỏa làn đường xe_máy lên cầu phú_mỹ 
-8,xe cứu_hộ cũng có_mặt để khắc_phục sự_cố và di_dời phương_tiện bị nạn 
+0,thông_tin ban_đầu khoảng 17 giờ 30 chiều 78 xe ben bs 51c642 38 lưu_thông cầu phú_mỹ hướng q 7 về vòng xoay mỹ_thủy q 2
+1,trong đổ dốc cầu mưa đường trơn khiến xe ben mất lái húc văng dải_phân_cách bê_tông làn xe_máy lao húc đổ một đoạn lan_can sắt
+2,cú va_chạm mạnh làm xe_ben lật ngang xoay 180 độ
+3,tài_xế mọi người đưa đi bệnh_viện cấp_cứu
+4,hiện_trường phiến bê_tông dải_phân_cách đổ sập
+5,xe ben biến_dạng hoàn_toàn chi_tiết xe văng tung tóe làn đường dành xe_máy
+6,nhận tin báo lực_lượng sở_tại có_mặt ghi_nhận sự_việc
+7,đội csgt nam sài_gòn điều_động đến phong_tỏa làn đường xe_máy cầu phú_mỹ
+8,xe cứu_hộ có_mặt khắc_phục sự_cố di_dời phương_tiện nạn

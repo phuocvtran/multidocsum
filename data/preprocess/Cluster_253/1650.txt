@@ -1,11 +1,11 @@
 idx, sentence
-0,sáng nay  2/6   pv dân_trí đã liên_hệ với phía sở thông_tin  truyền_thông tphcm  ông hữu_anh  phó trưởng_phòng xuất_bản  in  phát_hành cho biết  “ việc công_văn lần này yêu_cầu đơn_vị phát_hành ra soát và nhanh_chóng thu_hồi lại những quyển sách đã xuất_bản lần đầu vì vẫn còn có một_số nơi phiên_bản chưa chỉnh sửa vẫn còn bày bán trên thị_trường 
-1,văn_bản không đề_nghị thu_hồi quyển “ madam nhu trần_lệ_xuân  quyền_lực bà rồng ”  tái_bản lần 1 có chỉnh sửa  bởi quyển này đã hoàn_toàn được cấp phép phát_hành ” 
-2,về phía công_ty sách phương_nam  bà đỗ_hoài_nam  đại_diện phía đơn_vị phát_hành cho biết   vào ngày 31/05/2016  đơn_vị có nhận được công_văn số 670 / sttttxbiph của sở thông_tin và truyền_thông tp_hồ_chí_minh về việc kiểm_tra  rà_soát và dừng phát_hành cuốn sách “ madam nhu trần_lệ_xuân  quyền_lực bà rồng ” phiên_bản đầu_tiên 
-3,bởi sau khi phát_hành thì nhận được thông_báo của nhà_xuất_bản hội nhà_văn đề_nghị sửa_chữa một_số chi_tiết trong cuốn sách vì phần dịch và cột mốc thời_gian không chính_xác 
-4,sau khi nhận được công_văn  công_ty sách_phương_nam đã rà_soát  thu_hồi toàn_bộ tại các điểm phát_hành cuốn sách “ madam nhu trần_lệ_xuân  quyền_lực bà rồng ”  phiên_bản xuất_bản lần đầu để tiến_hành chỉnh_lý  hiệu_đính theo yêu_cầu của cục xuất_bản 
-5,phiên_bản “ madam nhu trần_lệ_xuân  quyền_lực bà rồng ”  tái_bản lần 1 có chỉnh sửa đã được công_ty sách_phương_nam phối_hợp cùng nhà_xuất_bản hội nhà_văn hiệu_đính  sửa_chữa đầy_đủ theo yêu_cầu của cục xuất_bản  in và phát_hành cũng như nộp lưu_chiểu đúng theo qui_định của luật xuất_bản 
-6,nhà_xuất_bản hội nhà_văn cũng đã ký quyết_định phát_hành xuất_bản_phẩm số 37 / qđphnxbhnv ngày 30/03/2016 cho bản in tái_bản này  
-7,hiện xuất_bản ấn_phẩm “ madam nhu trần_lệ_xuân  quyền_lực bà rồng ” lưu_hành trên thị_trường đã được sửa_chữa theo yêu_cầu của cục xuất_bản 
-8,đại_diện sở thông_tin  truyền_thông cho biết  trong lần này tạp_chí life_plaza cũng nhận được văn_bản yêu_cầu ngừng phát_hành vì đã phát_hành trái_phép trên thị_trường 
-9,cuốn sách trên vi_phạm về thủ_tục xuất_bản  không thực_hiện đúng theo bản đã biên_tập  đã duyệt  sách in ra thể_hiện dạng tạp_chí  in bìa không theo bản duyệt  không ghi số_lượng in  phát_hành khi chưa có quyết_định phát_hành của nxb thanh_niên  
+0,sáng nay 2/6 pv dân_trí liên_hệ phía sở thông_tin truyền_thông tphcm ông hữu_anh phó trưởng_phòng xuất_bản in phát_hành biết “ công_văn lần yêu_cầu đơn_vị phát_hành soát nhanh_chóng thu_hồi quyển sách xuất_bản lần đầu còn một_số phiên_bản chỉnh sửa còn bày bán thị_trường
+1,văn_bản đề_nghị thu_hồi quyển “ madam nhu trần_lệ_xuân quyền_lực bà rồng ” tái_bản lần 1 chỉnh sửa quyển hoàn_toàn cấp phép phát_hành ”
+2,về phía công_ty sách phương_nam bà đỗ_hoài_nam đại_diện phía đơn_vị phát_hành biết ngày 31/05/2016 đơn_vị nhận công_văn số 670 / sttttxbiph sở thông_tin truyền_thông tp_hồ_chí_minh về kiểm_tra rà_soát dừng phát_hành cuốn sách “ madam nhu trần_lệ_xuân quyền_lực bà rồng ” phiên_bản đầu_tiên
+3,phát_hành nhận thông_báo nhà_xuất_bản hội nhà_văn đề_nghị sửa_chữa một_số chi_tiết trong cuốn sách phần dịch cột mốc thời_gian chính_xác
+4,nhận công_văn công_ty sách_phương_nam rà_soát thu_hồi toàn_bộ điểm phát_hành cuốn sách “ madam nhu trần_lệ_xuân quyền_lực bà rồng ” phiên_bản xuất_bản lần đầu tiến_hành chỉnh_lý hiệu_đính yêu_cầu cục xuất_bản
+5,phiên_bản “ madam nhu trần_lệ_xuân quyền_lực bà rồng ” tái_bản lần 1 chỉnh sửa công_ty sách_phương_nam phối_hợp nhà_xuất_bản hội nhà_văn hiệu_đính sửa_chữa đầy_đủ yêu_cầu cục xuất_bản in phát_hành nộp lưu_chiểu đúng qui_định luật xuất_bản
+6,nhà_xuất_bản hội nhà_văn ký quyết_định phát_hành xuất_bản_phẩm số 37 / qđphnxbhnv ngày 30/03/2016 bản in tái_bản
+7,hiện xuất_bản ấn_phẩm “ madam nhu trần_lệ_xuân quyền_lực bà rồng ” lưu_hành thị_trường sửa_chữa yêu_cầu cục xuất_bản
+8,đại_diện sở thông_tin truyền_thông biết trong lần tạp_chí life_plaza nhận văn_bản yêu_cầu ngừng phát_hành phát_hành trái_phép thị_trường
+9,cuốn sách vi_phạm về thủ_tục xuất_bản thực_hiện đúng bản biên_tập duyệt sách in thể_hiện dạng tạp_chí in bìa bản duyệt ghi số_lượng in phát_hành quyết_định phát_hành nxb thanh_niên

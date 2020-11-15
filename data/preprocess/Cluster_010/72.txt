@@ -1,19 +1,19 @@
 idx, sentence
-0,bà nông_thị_tươi  trú tại tổ_dân_phố 3  thị_trấn phú_thiện  huyện phú_thiện  tỉnh gia_lai  có đơn gửi cơ_quan_chức_năng tỉnh gia_lai và báo_công_an thành_phố đà_nẵng về việc ông phạm_ngọc_hùng  trú thôn 1  xã trà_đa  thành_phố pleiku  tỉnh gia_lai  tự_xưng là cán_bộ công_an  phóng_viên báo_công_an thành_phố đà_nẵng thuộc văn_phòng đại_diện tại tây_nguyên đã nhận của bà 100 triệu đồng để “ chạy ” việc cho cháu của bà là dương hoàng_phú nhưng không thực_hiện và cũng không chịu trả lại 
-1,cụ_thể  vào ngày 30/8/2011 và ngày 20/4/2011 hai bên đã gặp nhau để giao_nhận tiền cho ông hùng 
-2,khi nhận tiền  ông hùng có viết giấy biên_nhận  việc viết giấy biên_nhận tiền chỉ thể_hiện tổng_số tiền 2 lần giao_nhận là 45 triệu đồng  số tiền còn lại không viết giấy_tờ gì 
-3,khi hai bên giao_nhận tiền có 2 người khác làm_chứng và ký vào giấy giao_nhận 
-4,trong hai giấy biên_nhận tiền mà bà tươi cung_cấp cho cơ_quan_chức_năng  một giấy ghi phạm_ngọc_hùng  nguyên cán_bộ a43  bộ công_an  hiện công_tác tại báo_công_an thành_phố đà_nẵng  thường_trú tại tây_nguyên 
-5,giấy còn lại ghi đơn_vị công_tác a35  bộ công_an 
-6,cả hai giấy đều nêu lý_do nhận tiền là “ giải_quyết công_việc cho cháu phú ” 
-7,phía báo_công_an thành_phố đà_nẵng khẳng_định  cơ_quan này cũng như văn_phòng đại_diện tại tây_nguyên không có ai là phóng_viên  cộng_tác_viên  nhân_viên có tên là phạm_ngọc_hùng 
-8,đây là hành_vi mạo_danh phóng_viên của báo  ban biên_tập cũng đã đề_nghị cơ_quan_chức_năng thành_phố pleiku  tỉnh gia_lai  điều_tra làm rõ vụ_việc 
-9,đề_nghị xử_lý nghiêm tại hà_nội  ngày 14/5  tổ công_tác y1 / 141 của công_an tp hà_nội làm nhiệm_vụ tại ngã tư hai_bà_trưng – phan_chu_trinh phát_hiện chị lê_thị_kim_lan  sn 1974  trú tại phố hàng_gà  hà_nội  điều_khiển xe_máy  không đội mũ_bảo_hiểm 
-10,khi bị lực_lượng chức_năng dừng xe kiểm_tra  chị lan xuất_trình thẻ “ biên_tập_viên ” và giới_thiệu đang công_tác tại báo vietnamnet để đề_nghị tổ công_tác “ thông_cảm ” 
-11,tuy_nhiên  lực_lượng cảnh_sát thực_thi nhiệm_vụ đã phát_hiện chiếc thẻ “ biên_tập_viên ” mà chị lan xuất_trình in chữ và logo của báo vietnamnet nhưng con_dấu lại thuộc cty cổ_phần đầu_tư và truyền_thông vietnet 
-12,trước dấu_hiệu bất_thường trên  tổ công_tác đã mời chị lan về trụ_sở công_an phường phan_chu_trinh  quận hoàn_kiếm để xác_minh  làm rõ 
-13,sau đó  một người phụ_nữ tự giới_thiệu là trần_thục_anh – tổng_giám_đốc công_ty cổ_phần đầu_tư và truyền_thông vietnet  người ký_tên  đóng_dấu trên thẻ “ biên_tập_viên ” của chị lan  có_mặt tại trụ_sở cơ_quan công_an 
-14,tại đây  bà trần_thục_anh thừa_nhận là thẻ mà chị lê_thị_kim_lan xuất_trình là do công_ty tự in 
-15,tiếp đó  ngày 18/5  tổ công_tác thuộc đội csgt số 15  phòng csgt công_an hà_nội đã phát_hiện một trường_hợp khác giả_mạo phó_tổng_biên_tập báo vietnamnet khi bị xử_lý lỗi vi_phạm luật giao_thông đường_bộ 
-16,người này là trần_văn_lịch  sn 1971  trú tại sóc_sơn  hà_nội  
-17,khi làm_việc với tổ công_tác  ông lịch xuất_trình tấm thẻ ghi “ thẻ biên_tập_viên ” của báo vietnamnet  với chức_danh phó_tổng_biên_tập 
+0,bà nông_thị_tươi trú tổ_dân_phố 3 thị_trấn phú_thiện huyện phú_thiện tỉnh gia_lai đơn gửi cơ_quan_chức_năng tỉnh gia_lai báo_công_an thành_phố đà_nẵng về ông phạm_ngọc_hùng trú thôn 1 xã trà_đa thành_phố pleiku tỉnh gia_lai tự_xưng cán_bộ công_an phóng_viên báo_công_an thành_phố đà_nẵng thuộc văn_phòng đại_diện tây_nguyên nhận bà 100 triệu đồng “ chạy ” cháu bà dương hoàng_phú thực_hiện chịu trả
+1,cụ_thể ngày 30/8/2011 ngày 20/4/2011 hai bên gặp nhau giao_nhận tiền ông hùng
+2,nhận tiền ông hùng viết giấy biên_nhận viết giấy biên_nhận tiền thể_hiện tổng_số tiền 2 lần giao_nhận 45 triệu đồng số tiền còn viết giấy_tờ
+3,hai bên giao_nhận tiền 2 người khác làm_chứng ký giấy giao_nhận
+4,trong hai giấy biên_nhận tiền bà tươi cung_cấp cơ_quan_chức_năng một giấy ghi phạm_ngọc_hùng nguyên cán_bộ a43 bộ công_an hiện công_tác báo_công_an thành_phố đà_nẵng thường_trú tây_nguyên
+5,giấy còn ghi đơn_vị công_tác a35 bộ công_an
+6,hai giấy nêu lý_do nhận tiền “ giải_quyết công_việc cháu phú ”
+7,phía báo_công_an thành_phố đà_nẵng khẳng_định cơ_quan văn_phòng đại_diện tây_nguyên ai phóng_viên cộng_tác_viên nhân_viên tên phạm_ngọc_hùng
+8,hành_vi mạo_danh phóng_viên báo ban biên_tập đề_nghị cơ_quan_chức_năng thành_phố pleiku tỉnh gia_lai điều_tra làm rõ vụ_việc
+9,đề_nghị xử_lý nghiêm hà_nội ngày 14/5 tổ công_tác y1 / 141 công_an tp hà_nội làm nhiệm_vụ ngã tư hai_bà_trưng – phan_chu_trinh phát_hiện chị lê_thị_kim_lan sn 1974 trú phố hàng_gà hà_nội điều_khiển xe_máy đội mũ_bảo_hiểm
+10,lực_lượng chức_năng dừng xe kiểm_tra chị lan xuất_trình thẻ “ biên_tập_viên ” giới_thiệu công_tác báo vietnamnet đề_nghị tổ công_tác “ thông_cảm ”
+11,tuy_nhiên lực_lượng cảnh_sát thực_thi nhiệm_vụ phát_hiện thẻ “ biên_tập_viên ” chị lan xuất_trình in chữ logo báo vietnamnet con_dấu thuộc cty cổ_phần đầu_tư truyền_thông vietnet
+12,dấu_hiệu bất_thường tổ công_tác mời chị lan về trụ_sở công_an phường phan_chu_trinh quận hoàn_kiếm xác_minh làm rõ
+13,một người phụ_nữ tự giới_thiệu trần_thục_anh – tổng_giám_đốc công_ty cổ_phần đầu_tư truyền_thông vietnet người ký_tên đóng_dấu thẻ “ biên_tập_viên ” chị lan có_mặt trụ_sở cơ_quan công_an
+14,bà trần_thục_anh thừa_nhận thẻ chị lê_thị_kim_lan xuất_trình công_ty tự in
+15,tiếp ngày 18/5 tổ công_tác thuộc đội csgt số 15 phòng csgt công_an hà_nội phát_hiện một trường_hợp khác giả_mạo phó_tổng_biên_tập báo vietnamnet xử_lý lỗi vi_phạm luật giao_thông đường_bộ
+16,người trần_văn_lịch sn 1971 trú sóc_sơn hà_nội
+17,làm_việc tổ công_tác ông lịch xuất_trình tấm thẻ ghi “ thẻ biên_tập_viên ” báo vietnamnet chức_danh phó_tổng_biên_tập

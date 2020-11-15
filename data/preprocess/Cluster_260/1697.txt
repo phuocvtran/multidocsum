@@ -1,15 +1,15 @@
 idx, sentence
-0,sau khi hlv van_gaal bị sa_thải  mong_muốn lớn nhất của ryan_giggs là tiếp_quản “ ghế nóng ” của ông thày người hà_lan 
-1,mặc_dù vậy  ban lãnh_đạo  blđ  mu đã quyết_định đặt niềm tin vào hlv mourinho 
-2,điều đó đã “ đánh vào lòng tự_trọng ” của ryan_giggs 
-3,sau khi làm trợ_lý hlv dưới thời david_moyes và van_gaal  huyền_thoại người xứ wales rất muốn nắm trọng_trách lớn hơn ở mu 
-4,trong khi đó  blđ_mu lại đưa ra hai lựa_chọn với cựu tiền_vệ mu 
-5,một là anh tiếp_tục nắm vai_trò trợ_lý 
-6,hai là anh xuống làm_việc ở đội trẻ cùng với người đồng_đội cũ nicky_butt 
-7,tất_nhiên  ryan_giggs không đồng_ý cả hai phương_án 
-8,theo tờ mirror  ryan_giggs đã trở về sau kỳ nghỉ ở dubai và trong tuần này  anh sẽ đề_cập tới khả_năng ra đi với blđ_mu 
-9,hơn ai hết  ryan_giggs muốn bắt_đầu sự_nghiệp huấn_luyện_viên ở một clb khác 
-10,nếu ra đi  ryan_giggs sẽ chấm_dứt kỷ_nguyên 29 năm cống_hiến cho mu 
-11,cầu_thủ này bắt_đầu tập_luyện ở lò đào_tạo trẻ mu từ năm 1987 
-12,sau đó  anh bắt_đầu được đôn lên đội 1 vào năm 1990 
-13,tới năm 2014  ryan_giggs giải_nghệ và bắt_đầu làm trợ_lý hlv ở old_trafford 
+0,hlv van_gaal sa_thải mong_muốn lớn nhất ryan_giggs tiếp_quản “ ghế nóng ” ông thày người hà_lan
+1,mặc_dù ban lãnh_đạo blđ mu quyết_định đặt niềm tin hlv mourinho
+2,“ đánh lòng tự_trọng ” ryan_giggs
+3,làm trợ_lý hlv thời david_moyes van_gaal huyền_thoại người xứ wales muốn nắm trọng_trách lớn hơn ở mu
+4,trong blđ_mu đưa hai lựa_chọn cựu tiền_vệ mu
+5,một anh tiếp_tục nắm vai_trò trợ_lý
+6,hai anh xuống làm_việc ở đội trẻ người đồng_đội cũ nicky_butt
+7,tất_nhiên ryan_giggs đồng_ý hai phương_án
+8,tờ mirror ryan_giggs trở về kỳ nghỉ ở dubai trong tuần anh đề_cập tới khả_năng đi blđ_mu
+9,hơn ai hết ryan_giggs muốn bắt_đầu sự_nghiệp huấn_luyện_viên ở một clb khác
+10,đi ryan_giggs chấm_dứt kỷ_nguyên 29 năm cống_hiến mu
+11,cầu_thủ bắt_đầu tập_luyện ở lò đào_tạo trẻ mu năm 1987
+12,anh bắt_đầu đôn đội 1 năm 1990
+13,tới năm 2014 ryan_giggs giải_nghệ bắt_đầu làm trợ_lý hlv ở old_trafford

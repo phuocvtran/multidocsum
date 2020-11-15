@@ -1,7 +1,7 @@
 idx, sentence
-0,trước đó  có rất nhiều thông_tin cho rằng  ibrahimovic đang trên đường gia_nhập manchester  sau khi mourinho chuẩn_bị được bổ_nhiệm thay van_gaal ngồi  ghế nóng  
-1,cụ_thể  theo tờ mirror  cầu_thủ 34 tuổi đã đồng_ý ký hợp_đồng thi_đấu 1 năm cho mu cùng với mức lương 250000 bảng / tuần 
-2,anh đã có một mùa giải khá ấn_tượng trong màu áo của psg  với cú đúp ăn ba danh_hiệu quốc_nội và bản_thân anh trở_thành vua phá lưới ligue 1 với 38 bàn thắng 
-3,ngày hôm_qua  24/5  rất nhiều người đã nhìn thấy ibrahimovic cưỡi siêu xe cực xịn đến điểm tập_trung cùng với đt thụy_điển ở stockholm để chuẩn_bị cho giải đấu euro 2016 sắp tới 
-4,chiêc_porsche 918 spyder  mà ibrahimuvic đi là một trong những chiếc xe_hơi_độc và đắt nhất tại mỹ hiện_nay 
-5,nó có giá lên tới 965000 usd 
+0,thông_tin ibrahimovic đường gia_nhập manchester mourinho chuẩn_bị bổ_nhiệm thay van_gaal ngồi ghế nóng
+1,cụ_thể tờ mirror cầu_thủ 34 tuổi đồng_ý ký hợp_đồng thi_đấu 1 năm mu mức lương 250000 bảng / tuần
+2,anh một mùa giải khá ấn_tượng trong màu áo psg cú đúp ăn ba danh_hiệu quốc_nội bản_thân anh trở_thành vua phá lưới ligue 1 38 bàn thắng
+3,ngày hôm_qua 24/5 người nhìn thấy ibrahimovic cưỡi siêu xe cực xịn đến điểm tập_trung đt thụy_điển ở stockholm chuẩn_bị giải đấu euro 2016 sắp tới
+4,chiêc_porsche 918 spyder ibrahimuvic đi một trong xe_hơi_độc đắt nhất mỹ hiện_nay
+5,nó giá tới 965000 usd

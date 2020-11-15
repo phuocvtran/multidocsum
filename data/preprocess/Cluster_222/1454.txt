@@ -1,7 +1,7 @@
 idx, sentence
-0,trưa 16  theo ghi_nhận của chúng_tôi  thời_tiết tại thị_trấn phố_châu  huyện hương_sơn  hà_tĩnh  rất khắc_nghiệt  nắng như đổ lửa 
-1,nhưng nhiều người hiếu_kỳ vẫn kéo đến nhà anh nguyễn_xuân_thông  thị_trấn phố_châu  huyện hương_sơn  để được trực_tiếp nhìn con trăn “ khủng ” đang “ cố_thủ ” trong chuồng trâu của gia_đình này 
-2,lực_lượng chức_năng địa_phương cũng đã có_mặt kịp_thời để đảm_bảo công_tác an_ninh trật_tự 
-3,anh thông cho biết  khoảng 6 giờ sáng cùng ngày  khi anh ra chuồng trâu để dắt trâu ra đồng  bất_ngờ phát_hiện con trăn trên nằm cuộn mình ở góc chuồng 
-4,tiếp đó  anh thông đã tìm cách dắt trâu ra ngoài và thông_báo cho mọi người đến để xua_đuổi con trăn ra 
-5,dù nhiều người dùng gậy xua_đuổi nhưng con trăn vẫn cuộn mình nằm im  “ cố_thủ ” nhiều giờ tại điểm cũ  không chịu bỏ đi nơi khác 
+0,trưa 16 ghi_nhận chúng_tôi thời_tiết thị_trấn phố_châu huyện hương_sơn hà_tĩnh khắc_nghiệt nắng đổ lửa
+1,người hiếu_kỳ kéo đến nhà anh nguyễn_xuân_thông thị_trấn phố_châu huyện hương_sơn trực_tiếp nhìn con trăn “ khủng ” “ cố_thủ ” trong chuồng trâu gia_đình
+2,lực_lượng chức_năng địa_phương có_mặt kịp_thời đảm_bảo công_tác an_ninh trật_tự
+3,anh thông biết khoảng 6 giờ sáng ngày anh chuồng trâu dắt trâu đồng bất_ngờ phát_hiện con trăn nằm cuộn mình ở góc chuồng
+4,tiếp anh thông tìm cách dắt trâu ngoài thông_báo mọi người đến xua_đuổi con trăn
+5,dù người dùng gậy xua_đuổi con trăn cuộn mình nằm im “ cố_thủ ” giờ điểm cũ chịu bỏ đi khác

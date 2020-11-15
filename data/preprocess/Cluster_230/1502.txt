@@ -1,8 +1,8 @@
 idx, sentence
-0,giải cầu_lông ciputra hà_nội 2016 diễn ra từ ngày 31/5 đến ngày 5/6  quy_tụ 324 tay_vợt đến từ 15 quốc_gia 
-1,vì_thế  hầu_hết những vận_động_viên mạnh nhất của cầu_lông việt_nam đều góp_mặt 
-2,trong đó  niềm hi_vọng số 1 đương_nhiên là nguyễn_tiến_minh ở nội_dung đơn_nam khi anh đứng hạng 35 thế_giới trước khi giải đấu khởi_tranh 
-3,với thứ_hạng này  tiến_minh được xếp hạt_giống số 1 của giải 
-4,ở vòng đấu đầu_tiên  tay_vợt việt_nam chạm_trán tay_vợt người ấn_độ_aditya_joshi  người đang đứng hạng 145 thế_giới 
-5,dù đây là tay_vợt có nhiều tiến_bộ trong thời_gian vừa_qua nhưng đẳng_cấp giữa anh và tiến_minh vẫn còn khá xa 
-6,điều đó đã được chứng_minh phần_nào ở diễn_biến của trận đấu khi tiến_minh chỉ gặp đôi_chút khó_khăn ở set 1 với chiến_thắng 2118 trước khi dễ_dàng hạ gục đối_thủ 218 ở set đấu thứ 2 
+0,giải cầu_lông ciputra hà_nội 2016 diễn ngày 31/5 đến ngày 5/6 quy_tụ 324 tay_vợt đến 15 quốc_gia
+1,vì_thế hầu_hết vận_động_viên mạnh nhất cầu_lông việt_nam góp_mặt
+2,trong niềm hi_vọng số 1 đương_nhiên nguyễn_tiến_minh ở nội_dung đơn_nam anh đứng hạng 35 thế_giới giải đấu khởi_tranh
+3,thứ_hạng tiến_minh xếp hạt_giống số 1 giải
+4,ở vòng đấu đầu_tiên tay_vợt việt_nam chạm_trán tay_vợt người ấn_độ_aditya_joshi người đứng hạng 145 thế_giới
+5,dù tay_vợt tiến_bộ trong thời_gian vừa_qua đẳng_cấp giữa anh tiến_minh còn khá xa
+6,chứng_minh phần_nào ở diễn_biến trận đấu tiến_minh gặp đôi_chút khó_khăn ở set 1 chiến_thắng 2118 dễ_dàng hạ gục đối_thủ 218 ở set đấu thứ 2

@@ -1,11 +1,11 @@
 idx, sentence
-0,ông phạm_việt_thắng  chủ_tịch hội_nghề cá việt_nam vừa có công_văn gửi văn_phòng chính_phủ  bộ_tnmt  bộ_nnptnt  bộ_khcn  bộ_tài_chính sáng nay  275  
-1,nội_dung công_văn đề_nghị các cơ_quan_chức_năng đẩy nhanh tiến_độ xác_định nguyên_nhân cá chết hàng_loạt ngoài biển các tỉnh miền trung 
-2,ông phạm_việt_thắng đặt vấn_đề lo_ngại  việc càng kéo_dài thời_gian công_bố truy_tìm nguyên_nhân cá chết thì chất_độc trong trầm_tích ở đáy biển sẽ bị pha loãng dần 
-3,các mẫu cá chết ở thời_điểm đầu tháng 42016 đã được lưu tại các phòng kiểm_nghiệm hết hạn lưu mẫu sẽ được tiêu_hủy  điều đó khiến cho việc truy_tìm chính_xác nguyên_nhân sẽ khó_khăn hơn rất nhiều 
-4,theo ông thắng  đến thời_điểm hiện_nay các gia_đình ngư_dân bị thiệt_hại do cá chết đã được hỗ_trợ mỗi người 15 kg gạo / tháng  trong 15 tháng  và các chính_sách giãn_nợ  giảm lãi_suất cho vay đã được áp_dụng 
-5,nhưng kết từ ngày cá chết tại miền trung đến nay đã hơn hai tháng nhưng chưa xác_định được nguyên_nhân cá chết 
-6,“ việc công_bố chậm khiến người dân ven biển từ hà_tĩnh đến thừa_thiênhuế chưa_thể đi đánh_cá ven biển  các hộ nuôi cá  nuôi tôm sử_dụng nước_biển chưa_thể nuôi 
-7,hội nghề cá việt_nam đề_nghị chính_phủ và các bộ  ngành liên_quan tiếp_tục hỗ_trợ mỗi thành_viên của gia_đình bị thiệt_hại do cá chết đến khi xác_định được nguyên_nhân và sản_xuất được phục_hồi ”  ông thắng khẳng_định 
-8,hội nghề cá việt_nam đặt vấn_đề nếu nguyên_nhân cá chết do con_người gây ra thì thủ_phạm gây ra thì phải được xử_lý theo quy_định của pháp_luật  đồng_thời phải chi_trả toàn_bộ phí hỗ_trợ cho ngư_dân mà chính_phủ ứng trước 
-9,đồng_thời phải đền_bù những thiệt_hại về tài_nguyên sinh_vật biển bị hủy_hoại và chi_phí phục_hồi môi_trường_sinh_thái của vùng_biển chịu tác_động trong suốt thời_gian qua 
+0,ông phạm_việt_thắng chủ_tịch hội_nghề cá việt_nam công_văn gửi văn_phòng chính_phủ bộ_tnmt bộ_nnptnt bộ_khcn bộ_tài_chính sáng nay 275
+1,nội_dung công_văn đề_nghị cơ_quan_chức_năng đẩy nhanh tiến_độ xác_định nguyên_nhân cá chết hàng_loạt ngoài biển tỉnh miền trung
+2,ông phạm_việt_thắng đặt vấn_đề lo_ngại kéo_dài thời_gian công_bố truy_tìm nguyên_nhân cá chết chất_độc trong trầm_tích ở đáy biển pha loãng dần
+3,mẫu cá chết ở thời_điểm đầu tháng 42016 lưu phòng kiểm_nghiệm hết hạn lưu mẫu tiêu_hủy khiến truy_tìm chính_xác nguyên_nhân khó_khăn hơn
+4,ông thắng đến thời_điểm hiện_nay gia_đình ngư_dân thiệt_hại cá chết hỗ_trợ người 15 kg gạo / tháng trong 15 tháng chính_sách giãn_nợ giảm lãi_suất vay áp_dụng
+5,kết ngày cá chết miền trung đến nay hơn hai tháng xác_định nguyên_nhân cá chết
+6,“ công_bố chậm khiến người dân ven biển hà_tĩnh đến thừa_thiênhuế chưa_thể đi đánh_cá ven biển hộ nuôi cá nuôi tôm sử_dụng nước_biển chưa_thể nuôi
+7,hội nghề cá việt_nam đề_nghị chính_phủ bộ ngành liên_quan tiếp_tục hỗ_trợ thành_viên gia_đình thiệt_hại cá chết đến xác_định nguyên_nhân sản_xuất phục_hồi ” ông thắng khẳng_định
+8,hội nghề cá việt_nam đặt vấn_đề nguyên_nhân cá chết con_người gây thủ_phạm gây xử_lý quy_định pháp_luật đồng_thời chi_trả toàn_bộ phí hỗ_trợ ngư_dân chính_phủ ứng
+9,đồng_thời đền_bù thiệt_hại về tài_nguyên sinh_vật biển hủy_hoại chi_phí phục_hồi môi_trường_sinh_thái vùng_biển chịu tác_động trong suốt thời_gian

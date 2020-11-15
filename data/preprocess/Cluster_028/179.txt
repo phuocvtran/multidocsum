@@ -1,8 +1,8 @@
 idx, sentence
-0,“ ngay bây_giờ  chúng_tôi không đoán trước được việc đóng_cửa văn_phòng trung_tâm của chúng_tôi 
-1,chúng_tôi vẫn chưa rời khỏi venezuela ”  hãng tinsputnik dẫn lại tuyên_bố của công_ty hôm 195 
-2,theo cocacola_femsa  90  sản_phẩm sản_xuất ra của công_ty đều cần đường 
-3,do_đó  tình_trạng thiếu đường và nhiều loại nguyên_liệu khác đang khiến hoạt_động của cocacola tại venezuela ngưng lại 
-4,hồi tháng 4 năm nay  công_ty sản_xuất thực_phẩm và đồ_uống lớn nhất của venezuela  polar đã thông_báo dừng sản_xuất bia với lý_do thiếu lúa_mạch 
-5,tổng_thống venezuela_nicolas_maduro tuyên_bố tình_trạng khẩn_cấp kinh_tế ở venezuela từ tháng 12016 
-6,thông_báo được đưa ra chỉ hai ngày sau khi giá dầu của venezuela giảm xuống còn 24 usd / thùng  mức thấp nhất trong 12 năm qua 
+0,“ bây_giờ chúng_tôi đoán đóng_cửa văn_phòng trung_tâm chúng_tôi
+1,chúng_tôi rời khỏi venezuela ” hãng tinsputnik dẫn tuyên_bố công_ty hôm 195
+2,cocacola_femsa 90 sản_phẩm sản_xuất công_ty đường
+3,do_đó tình_trạng thiếu đường loại nguyên_liệu khác khiến hoạt_động cocacola venezuela ngưng
+4,hồi tháng 4 năm nay công_ty sản_xuất thực_phẩm đồ_uống lớn nhất venezuela polar thông_báo dừng sản_xuất bia lý_do thiếu lúa_mạch
+5,tổng_thống venezuela_nicolas_maduro tuyên_bố tình_trạng khẩn_cấp kinh_tế ở venezuela tháng 12016
+6,thông_báo đưa hai ngày giá dầu venezuela giảm xuống còn 24 usd / thùng mức thấp nhất trong 12 năm

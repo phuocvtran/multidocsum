@@ -1,8 +1,8 @@
 idx, sentence
-0,chiều 23/5  đồng_chí đinh_thế_huynh  ủy_viên bộ chính_trị  thường_trực_ban bí đã có buổi làm_việc với thường_trực tỉnh_ủy đăk_lăk về tình_hình thực_hiện nghị_quyết đại_hội lần thứ xii của đảng và nghị_quyết đại_hội đảng_bộ tỉnh lần thứ xvi 
-1,tại buổi làm_việc  đồng_chí đinh_thế_huynh biểu_dương những kết_quả mà đảng_bộ và nhân_dân đăk_lăk đạt được trong các lĩnh_vực phát_triển kinh_tếxã hội  xây_dựng hệ_thống chính_trị  củng_cố quốc_phòng an_ninh … 
-2, đồng_thời khẳng_định đây sẽ là những tiền_đề để đăk_lăk thực_hiện thành_công_nghị_quyết đại_hội lần thứ xii của đảng cũng như nghị_quyết đại_hội đảng_bộ tỉnh trong thời_gian tới 
-3,trước tình_hình hạn_hán đang ảnh_hưởng nặng_nề đến đời_sống nhân_dân  đồng_chí đinh_thế_huynh đề_nghị tỉnh đăk_lăk cần tiếp_tục triển_khai các biện_pháp chống_hạn cho sản_xuất nông_nghiệp 
-4,bên_cạnh các giải_pháp ngắn_hạn  đăk_lăk phải có giải_pháp dài_hạn để ứng_phó với biến_đổi khí_hậu trên địa_bàn  để triển_khai và đưa nhanh các nghị_quyết đại_hội xii của đảng vào trong cuộc_sống 
-5,đồng_chí đinh_thế_huynh lưu_ý các cấp_ủy_đăk_lăk cần thúc_đẩy phong_trào thi_đua yêu nước  tiếp_tục chăm_lo tới công_tác xây_dựng đảng  xây_dựng hệ_thống chính_trị vững_mạnh 
-6,đồng_chí đinh_thế_huynh cũng đề_nghị cấp_ủy chính_quyền đăk_lăk cần đề ra được các cơ_chế phù_hợp đẩy_mạnh hút đầu_tư vào các lĩnh_vực thế mạnh của địa_phương  cũng như cần có chiến_lược đột_phá trong tạo nguồn và nâng cao chất_lượng nhân_lực phục_vụ cho các nhiệm_vụ phát_triển kinh_tế  xã_hội của địa_phương 
+0,chiều 23/5 đồng_chí đinh_thế_huynh ủy_viên bộ chính_trị thường_trực_ban bí buổi làm_việc thường_trực tỉnh_ủy đăk_lăk về tình_hình thực_hiện nghị_quyết đại_hội lần thứ xii đảng nghị_quyết đại_hội đảng_bộ tỉnh lần thứ xvi
+1,buổi làm_việc đồng_chí đinh_thế_huynh biểu_dương kết_quả đảng_bộ nhân_dân đăk_lăk đạt trong lĩnh_vực phát_triển kinh_tếxã hội xây_dựng hệ_thống chính_trị củng_cố quốc_phòng an_ninh …
+2,đồng_thời khẳng_định tiền_đề đăk_lăk thực_hiện thành_công_nghị_quyết đại_hội lần thứ xii đảng nghị_quyết đại_hội đảng_bộ tỉnh trong thời_gian tới
+3,tình_hình hạn_hán ảnh_hưởng nặng_nề đến đời_sống nhân_dân đồng_chí đinh_thế_huynh đề_nghị tỉnh đăk_lăk tiếp_tục triển_khai biện_pháp chống_hạn sản_xuất nông_nghiệp
+4,bên_cạnh giải_pháp ngắn_hạn đăk_lăk giải_pháp dài_hạn ứng_phó biến_đổi khí_hậu địa_bàn triển_khai đưa nhanh nghị_quyết đại_hội xii đảng trong cuộc_sống
+5,đồng_chí đinh_thế_huynh lưu_ý cấp_ủy_đăk_lăk thúc_đẩy phong_trào thi_đua yêu nước tiếp_tục chăm_lo tới công_tác xây_dựng đảng xây_dựng hệ_thống chính_trị vững_mạnh
+6,đồng_chí đinh_thế_huynh đề_nghị cấp_ủy chính_quyền đăk_lăk đề cơ_chế phù_hợp đẩy_mạnh hút đầu_tư lĩnh_vực thế mạnh địa_phương chiến_lược đột_phá trong tạo nguồn nâng cao chất_lượng nhân_lực phục_vụ nhiệm_vụ phát_triển kinh_tế xã_hội địa_phương

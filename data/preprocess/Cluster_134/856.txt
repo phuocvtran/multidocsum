@@ -1,16 +1,16 @@
 idx, sentence
-0,trong buổi họp_báo vội_vã trước khoảng 24 giờ diễn ra trận đấu tại vòng 3 roland_garros  gặp tay_vợt đồng_hương marcel_granollers theo lịch dự_kiến  nadal cho biết 
-1, hôm_qua  tôi đã phải tiêm thuốc giảm đau để thi_đấu 
-2,đến buổi tối thì tôi cảm_thấy cổ_tay càng bị đau_nhức hơn và cảm_giác như không_thể xoay_xở được  
-3, vua sân đất nện  vừa xác_lập cột mốc 200 trận thắng ở các giải grand_slam tại vòng đấu trước 
-4,đáng tiếc chấn_thương nghiêm_trọng này đã làm rafa lỡ_hẹn với chức vô_địch pháp mở_rộng năm nay 
-5,anh đã từng 9 lần đăng_quang ở giải đấu trên mặt sân đất nện tại đây 
-6, chín lần trong sự_nghiệp  tôi đã rất mạnh_mẽ để thi_đấu và chinh_phục danh_hiệu tại đây 
-7,nhưng lần này thật là một khoảnh_khắc khó_khăn  một cuộc họp báo công_bố thông_tin khắc_nghiệt nhất mà tôi từng tổ_chức 
-8,tuy_nhiên  đó chưa phải là dấu_chấm_hết  
-9,– nadal bổ_sung 
-10,mạo_hiểm tham_dự roland_garros lần này bởi nadal khát_khao thêm một lần nữa giành chức vô_địch  được trở_thành tay_vợt đầu_tiên xác_lập mốc 10 danh_hiệu tại giải đấu này 
-11,nhưng trước nguy_cơ chấn_thương diễn_biến có_thể nặng thêm 
-12,thậm_chí gãy cổ_tay nếu tiếp_tục ra sân thì tay_vợt số 5 thế_giới không_thể mạo_hiểm thêm nữa 
-13,thông_tin bỏ giải giữa_chừng sẽ làm bao người hâm_mộ nadal cảm_thấy hụt_hẫng 
-14,chiến_thắng giòn_giã 2 trận đấu ở vòng trước với tỷ_số cách_biệt cho thấy  nadal là ứng_viên sáng_giá lên_ngôi vô_địch pháp mở_rộng năm nay thuyết_phục nhất 
+0,trong buổi họp_báo vội_vã khoảng 24 giờ diễn trận đấu vòng 3 roland_garros gặp tay_vợt đồng_hương marcel_granollers lịch dự_kiến nadal biết
+1,hôm_qua tôi tiêm thuốc giảm đau thi_đấu
+2,đến buổi tối tôi cảm_thấy cổ_tay đau_nhức hơn cảm_giác không_thể xoay_xở
+3,vua sân đất nện xác_lập cột mốc 200 trận thắng ở giải grand_slam vòng đấu
+4,đáng tiếc chấn_thương nghiêm_trọng làm rafa lỡ_hẹn chức vô_địch pháp mở_rộng năm nay
+5,anh 9 lần đăng_quang ở giải đấu mặt sân đất nện
+6,chín lần trong sự_nghiệp tôi mạnh_mẽ thi_đấu chinh_phục danh_hiệu
+7,lần thật một khoảnh_khắc khó_khăn một cuộc họp báo công_bố thông_tin khắc_nghiệt nhất tôi tổ_chức
+8,tuy_nhiên dấu_chấm_hết
+9,– nadal bổ_sung
+10,mạo_hiểm tham_dự roland_garros lần nadal khát_khao thêm một lần giành chức vô_địch trở_thành tay_vợt đầu_tiên xác_lập mốc 10 danh_hiệu giải đấu
+11,nguy_cơ chấn_thương diễn_biến nặng thêm
+12,thậm_chí gãy cổ_tay tiếp_tục sân tay_vợt số 5 thế_giới không_thể mạo_hiểm thêm
+13,thông_tin bỏ giải giữa_chừng làm bao người hâm_mộ nadal cảm_thấy hụt_hẫng
+14,chiến_thắng giòn_giã 2 trận đấu ở vòng tỷ_số cách_biệt thấy nadal ứng_viên sáng_giá lên_ngôi vô_địch pháp mở_rộng năm nay thuyết_phục nhất

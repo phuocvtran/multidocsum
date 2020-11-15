@@ -1,16 +1,16 @@
 idx, sentence
-0,thừa_lệnh bộ_trưởng bộ tài_chính đinh_tiến_dũng  thứ_trưởng bộ tài_chính đỗ hoàng_anh_tuấn vừa có công_văn đề_nghị thống_đốc ngân_hàng nhà_nước lê_minh_hưng chỉ_đạo người đại_diện phần vốn_nhà_nước tại ngân_hàng_đầu_tư và phát_triển vn  bidv   ngân_hàng công_thương vn  vietinbank  chia cổ_tức năm 2015 bằng tiền_mặt và nộp toàn_bộ số cổ_tức được chia vào ngân_sách nhà_nước 
-1,vấn_đề này được nêu ra sau khi đại_hội cổ_đông bidv đã thông_qua việc trả cổ_tức 2015 bằng cổ_phiếu và vietinbank không chia cổ_tức  gây ảnh_hưởng tới thu ngân_sách nhà_nước 
-2,trong văn_bản gửi thống_đốc ngân_hàng nhà_nước  lãnh_đạo bộ tài_chính cũng dẫn hàng_loạt những quy_định về về quyền  trách_nhiệm của người đại_diện vốn_nhà_nước là yêu_cầu đơn_vị đó phải nộp vào ngân_sách khoản lợi_nhuận  cổ_tức được chia tương_ứng với phần vốn_nhà_nước đầu_tư 
-3,trao_đổi với tuổi_trẻ chiều 315  ông lê_đức_thọ  tổng_giám_đốc vietinbank cho biết bộ tài_chính vẫn đôn_đốc các dn có vốn cổ_phần phải nộp về ngân_sách 
-4,tuy_nhiên trường_hợp của vietinbank khá đặc_biệt và đã nêu rõ trong đại_hội cổ_đông thường_niên vừa_qua 
-5,“ hiện các tỉ_lệ về sở_hữu nhà_nước tại nh đã xuống gần đến mức thấp nhất theo quy_định 
-6,tỉ_lệ sở_hữu nhà_đầu_tư nước_ngoài cũng đã ở mức tối_đa 
-7,hàng năm nh phải tăng vốn để phù_hợp với chiến_lược  kế_hoạch kinh_doanh tăng_trưởng về tài_sản  huy_động và cho vay 
-8,song_song đó vốn_tự có vẫn phải tăng với tỉ_lệ nhất_định để đảm_bảo tỉ_lệ an_toàn vốn của nh 
-9,đó cũng là việc cấp_thiết để đảm_bảo an_toàn hoạt_động 
-10,cho_nên tới đây vietinbank sẽ tiếp_tục giải_trình với bộ tài_chính để xin giữ lại nguồn vốn này để làm một trong những kênh tăng vốn ”  ông thọ cho biết 
-11,trong khi đó lãnh_đạo bidv cho biết chưa có phản_hồi về vấn_đề này 
-12,trước đó tại đhcđ vừa_qua lãnh_đạo bidv cho biết sau khi sáp_nhập với ngân_hàng mhb  số_lượng cổ_phiếu bidv tăng lên nên sẽ khó giữ được mức cổ_tức_như ban_đầu 
-13,theo lãnh_đạo bidv  nếu thực_hiện chi_trả cổ_tức bằng tiền_mặt  việc thực_hiện tăng vốn trong năm nay sẽ rất khó 
-14,do_vậy  cổ_tức được chia bằng cổ_phiếu với tỉ_lệ 85  là phù_hợp vì không thấp hơn lãi_suất tiết_kiệm ngân_hàng 12 tháng nên vẫn đảm_bảo lợi_ích của cổ_đông 
+0,thừa_lệnh bộ_trưởng bộ tài_chính đinh_tiến_dũng thứ_trưởng bộ tài_chính đỗ hoàng_anh_tuấn công_văn đề_nghị thống_đốc ngân_hàng nhà_nước lê_minh_hưng chỉ_đạo người đại_diện phần vốn_nhà_nước ngân_hàng_đầu_tư phát_triển vn bidv ngân_hàng công_thương vn vietinbank chia cổ_tức năm 2015 bằng tiền_mặt nộp toàn_bộ số cổ_tức chia ngân_sách nhà_nước
+1,vấn_đề nêu đại_hội cổ_đông bidv thông_qua trả cổ_tức 2015 bằng cổ_phiếu vietinbank chia cổ_tức gây ảnh_hưởng tới thu ngân_sách nhà_nước
+2,trong văn_bản gửi thống_đốc ngân_hàng nhà_nước lãnh_đạo bộ tài_chính dẫn hàng_loạt quy_định về về quyền trách_nhiệm người đại_diện vốn_nhà_nước yêu_cầu đơn_vị nộp ngân_sách khoản lợi_nhuận cổ_tức chia tương_ứng phần vốn_nhà_nước đầu_tư
+3,trao_đổi tuổi_trẻ chiều 315 ông lê_đức_thọ tổng_giám_đốc vietinbank biết bộ tài_chính đôn_đốc dn vốn cổ_phần nộp về ngân_sách
+4,tuy_nhiên trường_hợp vietinbank khá đặc_biệt nêu rõ trong đại_hội cổ_đông thường_niên vừa_qua
+5,“ hiện tỉ_lệ về sở_hữu nhà_nước nh xuống gần đến mức thấp nhất quy_định
+6,tỉ_lệ sở_hữu nhà_đầu_tư nước_ngoài ở mức tối_đa
+7,hàng năm nh tăng vốn phù_hợp chiến_lược kế_hoạch kinh_doanh tăng_trưởng về tài_sản huy_động vay
+8,song_song vốn_tự tăng tỉ_lệ nhất_định đảm_bảo tỉ_lệ an_toàn vốn nh
+9,cấp_thiết đảm_bảo an_toàn hoạt_động
+10,cho_nên tới vietinbank tiếp_tục giải_trình bộ tài_chính xin giữ nguồn vốn làm một trong kênh tăng vốn ” ông thọ biết
+11,trong lãnh_đạo bidv biết phản_hồi về vấn_đề
+12,đhcđ vừa_qua lãnh_đạo bidv biết sáp_nhập ngân_hàng mhb số_lượng cổ_phiếu bidv tăng khó giữ mức cổ_tức_như ban_đầu
+13,lãnh_đạo bidv thực_hiện chi_trả cổ_tức bằng tiền_mặt thực_hiện tăng vốn trong năm nay khó
+14,do_vậy cổ_tức chia bằng cổ_phiếu tỉ_lệ 85 phù_hợp thấp hơn lãi_suất tiết_kiệm ngân_hàng 12 tháng đảm_bảo lợi_ích cổ_đông

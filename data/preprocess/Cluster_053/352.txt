@@ -1,6 +1,6 @@
 idx, sentence
-0,tối_ngày 20/5  hội_đồng_trị sựgiáo hội phật_giáo việt_nam  đãlong trọng tổ_chức nghi_lễ cung rước xá lợi phật cầu_nguyện quốc thái dân an  thế_giới hòa_bình  chúng_sinh an_lạc tại chùa quán_sứ  trụ_sở trung_ương ghpgvn 
-1,buổi lễ có sự chứng_minh của chư tôn đức  tăng_ni và sự tham_gia củahàng ngàn phật_tử  người dân  sinh_viên tình_nguyện  đoàn rước gồmxe hoa  trống sấm  80 lẵng hoa  49 ngọn đuốc  38 lọng vàng  7 bông sen to cùng gần nghìn lá_cờ tổ_quốc và phật_giáo đi qua nhiều con phố lớn của hà_nội thu_hút sự chú_ý của đông_đảo quần_chúng nhân_dân 
-2,hoạt_động ý nghĩanày nằm trong chuỗi các sự_kiện chào_mừng đức phật thích ca mâu ni đản sinh phật_lịch 2560  dương_lịch 2016 
-3,buổi lễ kết_thúc trong niềm vui và hoan_hỉ của mọi người 
-4,trong ngày phật_đản  các phật_tử thường đilễ chùa  tụng_kinh  ngồi_thiền  cố_gắng làm nhiều việc phước_lành để cúng dường chư phật 
+0,tối_ngày 20/5 hội_đồng_trị sựgiáo hội phật_giáo việt_nam đãlong trọng tổ_chức nghi_lễ cung rước xá lợi phật cầu_nguyện quốc thái dân an thế_giới hòa_bình chúng_sinh an_lạc chùa quán_sứ trụ_sở trung_ương ghpgvn
+1,buổi lễ chứng_minh chư tôn đức tăng_ni tham_gia củahàng ngàn phật_tử người dân sinh_viên tình_nguyện đoàn rước gồmxe hoa trống sấm 80 lẵng hoa 49 ngọn đuốc 38 lọng vàng 7 bông sen to gần nghìn lá_cờ tổ_quốc phật_giáo đi con phố lớn hà_nội thu_hút chú_ý đông_đảo quần_chúng nhân_dân
+2,hoạt_động ý nghĩanày nằm trong chuỗi sự_kiện chào_mừng đức phật thích ca mâu ni đản sinh phật_lịch 2560 dương_lịch 2016
+3,buổi lễ kết_thúc trong niềm vui hoan_hỉ mọi người
+4,trong ngày phật_đản phật_tử thường đilễ chùa tụng_kinh ngồi_thiền cố_gắng làm phước_lành cúng dường chư phật

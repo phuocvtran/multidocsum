@@ -1,10 +1,10 @@
 idx, sentence
-0,trong phần 6 của bộ phim game_of_thrones  cảnh quay được nhắc đến nhiều nhất chính là cảnh  mẹ rồng  khỏa_thân 
-1,để đóng cảnh này  nữ diễn_viên 29 tuổi đã không cần người đóng thế 
-2,tuy_nhiên  chia_sẻ trên tờ the_sun  emilia_clarke cho biết  mỗi lần đóng cảnh khỏa_thân cô đều phải uống rượu vodka mới có đủ can_đảm trút_bỏ xiêm_y   tôi muốn tự mình đóng tất_cả những cảnh của mình nên khỏa_thân cũng là điều nên làm 
-3,tôi tự_tin với bản_thân mình nhưng thú_thật để đúng trước máy quay tôi hơi lo_lắng 
-4,chính vì_thế  trước mỗi cảnh quay tôi đều phải uống rượu_mạnh để lấy tinh_thần  
-5,ngoài chia_sẻ thú_vị này  nữ diễn_viên người anh còn bật_mí cô luôn rủ bố_mẹ xem phim cùng dù_rằng rất nhiều diễn_viên ngại cho phụ_huynh xem những phim có cảnh quay nhạy_cảm 
-6,tuy_nhiên  emilia lại cố_gắng thuyết_phục cha_mẹ cùng thưởng_thức 
-7, khi tôi rủ ba_mẹ xem phim  ba tội thốt lên rằng  lại xem nữa à  
-8,tôi biết ông cũng không muốn xem những cảnh quay này lắm nhưng cuối_cùng thì chúng_tôi cũng có những thời_khắc xem phim tuyệt_vời   cô cho biết 
+0,trong phần 6 bộ phim game_of_thrones cảnh quay nhắc đến nhất chính cảnh mẹ rồng khỏa_thân
+1,đóng cảnh nữ diễn_viên 29 tuổi người đóng thế
+2,tuy_nhiên chia_sẻ tờ the_sun emilia_clarke biết lần đóng cảnh khỏa_thân cô uống rượu vodka mới đủ can_đảm trút_bỏ xiêm_y tôi muốn tự mình đóng tất_cả cảnh mình khỏa_thân làm
+3,tôi tự_tin bản_thân mình thú_thật đúng máy quay tôi hơi lo_lắng
+4,chính vì_thế cảnh quay tôi uống rượu_mạnh lấy tinh_thần
+5,ngoài chia_sẻ thú_vị nữ diễn_viên người anh còn bật_mí cô luôn rủ bố_mẹ xem phim dù_rằng diễn_viên ngại phụ_huynh xem phim cảnh quay nhạy_cảm
+6,tuy_nhiên emilia cố_gắng thuyết_phục cha_mẹ thưởng_thức
+7,tôi rủ ba_mẹ xem phim ba tội thốt xem à
+8,tôi biết ông muốn xem cảnh quay lắm cuối_cùng chúng_tôi thời_khắc xem phim tuyệt_vời cô biết

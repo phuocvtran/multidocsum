@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 20/5  thông_tin từ cơ_quan csđt tp buôn_ma_thuột  đắk_lắk   cho biết  đơn_vị đang tiến_hành điều_tra nguyên_nhân dẫn đến cái chết của anh phạm_đức_huy  sn 1985  ngụ phường khánh_xuân  tpbuôn_ma_thuột  
-1,theo thông_tin ban_đầu  vào khoảng 15 h45 ngày 19/5  anh huy điều_khiển xe_tải mang bks 47c11426 đến gara tại số 93  đường giải_phóng  phường tân_thành  để sửa_chữa 
-2,tại đây  anh huy đã chủ_động kéo điện ra để hàn lại thùng_xe  trong khi đang làm_việc anh bất_ngờ bị điện giật bật_ngửa ra đằng sau bất_tỉnh nhân_sự 
-3,đến 16 h cùng ngày  anh trần_hữu_trung  sn 1982  chủ xe  đi từ nhà ra gara thì phát_hiện anh huy nằm bất_động bên cạnh máy hàn_điện  nên đã nhanh_chóng nhờ người dân giúp_đỡ đưa nạn_nhân đi bệnh_viện đa_khoa tỉnh đắk_lắk cấp_cứu nhưng anh huy đã tử_vong trước đó 
+0,ngày 20/5 thông_tin cơ_quan csđt tp buôn_ma_thuột đắk_lắk biết đơn_vị tiến_hành điều_tra nguyên_nhân dẫn đến chết anh phạm_đức_huy sn 1985 ngụ phường khánh_xuân tpbuôn_ma_thuột
+1,thông_tin ban_đầu khoảng 15 h45 ngày 19/5 anh huy điều_khiển xe_tải mang bks 47c11426 đến gara số 93 đường giải_phóng phường tân_thành sửa_chữa
+2,anh huy chủ_động kéo điện hàn thùng_xe trong làm_việc anh bất_ngờ điện giật bật_ngửa đằng bất_tỉnh nhân_sự
+3,đến 16 h ngày anh trần_hữu_trung sn 1982 chủ xe đi nhà gara phát_hiện anh huy nằm bất_động bên cạnh máy hàn_điện nhanh_chóng nhờ người dân giúp_đỡ đưa nạn_nhân đi bệnh_viện đa_khoa tỉnh đắk_lắk cấp_cứu anh huy tử_vong

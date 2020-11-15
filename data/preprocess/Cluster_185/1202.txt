@@ -1,8 +1,8 @@
 idx, sentence
-0,theo bbc  các quan_chức hàng_không đã phát_hiện ra người đi lậu_vé trên chuyến bay mang số_hiệu ek303 từ thượng_hải vào cuối tuần trước và giao_nộp cho cảnh_sát dubai 
-1,hãng hàng_không emirates đã không nêu tên hành_khách này nhưng tân_hoa_xã cho biết người này là thiếu_niên tên xu  16 tuổi  
-2,cậu bé này cho biết cậu cảm_thấy  rất thoải_mái  khi ở bên trong khoang hàng_hóa 
-3,tuy_nhiên cậu bé nói rằng cậu đã không ăn gì suốt gần 9 tiếng của chuyến bay 
-4,thiếu_niên tên xu thú_nhận có người nói với cậu rằng ăn_xin tại dubai có_thể kiếm rất nhiều tiền 
-5, chúng_tôi đang hợp_tác toàn_diện với các nhà_chức_trách tại dubai và đây là vấn_đề của cánh sát nên chúng_tôi không_thể bình_luận gì thêm   emirates thông_báo 
-6,tân hoa_xã cho biết quan_chức lãnh_sự quán trung_quốc đã đến sân_bay để tìm_hiểu vụ_việc 
+0,bbc quan_chức hàng_không phát_hiện người đi lậu_vé chuyến bay mang số_hiệu ek303 thượng_hải cuối tuần giao_nộp cảnh_sát dubai
+1,hãng hàng_không emirates nêu tên hành_khách tân_hoa_xã biết người thiếu_niên tên xu 16 tuổi
+2,cậu bé biết cậu cảm_thấy thoải_mái ở bên trong khoang hàng_hóa
+3,tuy_nhiên cậu bé nói cậu ăn suốt gần 9 tiếng chuyến bay
+4,thiếu_niên tên xu thú_nhận người nói cậu ăn_xin dubai kiếm tiền
+5,chúng_tôi hợp_tác toàn_diện nhà_chức_trách dubai vấn_đề cánh sát chúng_tôi không_thể bình_luận thêm emirates thông_báo
+6,tân hoa_xã biết quan_chức lãnh_sự quán trung_quốc đến sân_bay tìm_hiểu vụ_việc

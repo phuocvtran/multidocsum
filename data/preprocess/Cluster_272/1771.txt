@@ -1,2 +1,2 @@
 idx, sentence
-0,triển_lãm gồm nhiều tư_liệu  hiện_vật và gần 100 bản_đồ  các châu bản_triều nguyễn_ban_hành liên_quan trực_tiếp đến vấn_đề xác_lập và thực_thi chủ_quyền đối_với hai quần_đảo hoàng_sa  trường_sa của việt_nam  bộ sưu_tập 65 bản_đồ chứng_minh chủ_quyền của việt_nam đối_với hai quần_đảo hoàng_sa và quần_đảo trường_sa do việt_nam  phương tây công_bố từ thế_kỷ xvii đến nay 
+0,triển_lãm gồm tư_liệu hiện_vật gần 100 bản_đồ châu bản_triều nguyễn_ban_hành liên_quan trực_tiếp đến vấn_đề xác_lập thực_thi chủ_quyền đối_với hai quần_đảo hoàng_sa trường_sa việt_nam bộ sưu_tập 65 bản_đồ chứng_minh chủ_quyền việt_nam đối_với hai quần_đảo hoàng_sa quần_đảo trường_sa việt_nam phương tây công_bố thế_kỷ xvii đến nay

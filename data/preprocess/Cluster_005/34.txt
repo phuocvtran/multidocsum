@@ -1,15 +1,15 @@
 idx, sentence
-0,tiến_sĩ phạm_việt_thắng  chủ_tịch hội nghề cá vừa công_văn số 59 gửi văn_phòng chính_phủ  bộ_tài_nguyên_và_môi_trường  bộ_nông_nghiệp_và_phát_triển_nông_thông  bộ_khoa_học_và_công_nghệ  bộ_tài_chính đề_nghị đẩy nhanh tiến_độ xác_định nguyên_nhân cá chết hàng_loạt ở 4 tỉnh miền trung 
-1,theo hội nghề cá  càng kéo_dài thời_gian thì chất_độc trong trầm_tích ở đáy biển càng bị pha loãng dần 
-2,các mẫu cá chết ở thời_điểm đầu tháng 4/2016 đã được lưu tại các phòng kiểm_nghiệm hết hạn lưu mẫu sẽ được tiêu_hủy  điều đó khiến cho việc truy_tìm chính_xác nguyên_nhân sẽ khó_khăn hơn rất nhiều 
-3,hội nghề cá nhận_định  việc xác_định chính_xác nguyên_nhân cá chết là hết_sức cần_thiết  chẳng những trấn_an dư_luận  làm cho người tiêu_dùng an_tâm hơn mà_còn là sự tuân_thủ quy_định tại điều 5  hiệp_định sps của wto 
-4,theo đó  tất_cả mối nguy gây mất an_toàn thực_phẩm phải xuất_phát từ đánh_giá nguy_cơ 
-5,các quốc_gia và tổ_chức không được võ_đoán  áp_đặt mối nguy gây mất an_toàn thực_phẩm 
-6,theo đại_diện của hội  hiện các gia_đình ngư_dân bị thiệt_hại do cá chết đã được hỗ_trợ mỗi người 15 kg gạo / tháng  trong 15 tháng  và các chính_sách giãn_nợ  giảm lãi_suất cho vay đã được áp_dụng 
-7,tuy_nhiên  đến nay dù đã 15 tháng nhưng chưa xác_định được nguyên_nhân cá chết  người dân ven biển từ hà_tĩnh đến thừa_thiên  huế chưa_thể đi đánh_cá ven biển  các hộ nuôi cá  nuôi tôm sử_dụng nước_biển chưa_thể nuôi 
-8,hội đề_nghị chính_phủ và các bộ ngành liên_quan tiếp_tục hỗ_trợ mỗi thành_viên của gia_đình bị thiệt_hại do cá chết đến khi xác_định được nguyên_nhân và sản_xuất được phục_hồi 
-9, nếu nguyên_nhân cá chết do con_người gây ra thì thủ_phạm gây ra việc này ngoài việc phải chịu những hình_phạt do phát luật quy_định  còn phải chi_trả toàn_bộ chi_phí hỗ_trợ cho ngư_dân mà chính_phủ đã ứng_trước   công_văn_hội nghệ_cá nhận_định 
-10,đồng_thời  các tổ_chức  cá_nhân gây ra việc này phải chi_trả những thiệt_hại về tài_nguyên sinh_vật biển bị hủy_hoại và chi_phí phục_hồi môi_trường_sinh_thái của vùng_biển chịu tác_động 
-11,bên_cạnh đó  hội đề_nghị bộ_tài_nguyên_và_môi_trường  cũng như các bộ ngành liên_quan xem_xét bổ_sung những chính_sách kiểm_soát môi_trường  đặc_biệt là các chất_thải của hoạt_động sản_xuất  kinh_doanh để đảm_bảo môi_trường bền_vững 
-12,hiện_tượng cá chết hàng_loạt bắt_đầu xuất_hiện ở hà_tĩnh từ 6/4  sau đó lan ra các tỉnh quảng_bình  quảng_trị  thừa_thiên_huế và chấm_dứt vào đầu tháng 5 
-13,dù nhiều đoàn kiểm_tra vào_cuộc  song nguyên_nhân cuối_cùng vẫn chưa xác_định 
+0,tiến_sĩ phạm_việt_thắng chủ_tịch hội nghề cá công_văn số 59 gửi văn_phòng chính_phủ bộ_tài_nguyên_và_môi_trường bộ_nông_nghiệp_và_phát_triển_nông_thông bộ_khoa_học_và_công_nghệ bộ_tài_chính đề_nghị đẩy nhanh tiến_độ xác_định nguyên_nhân cá chết hàng_loạt ở 4 tỉnh miền trung
+1,hội nghề cá kéo_dài thời_gian chất_độc trong trầm_tích ở đáy biển pha loãng dần
+2,mẫu cá chết ở thời_điểm đầu tháng 4/2016 lưu phòng kiểm_nghiệm hết hạn lưu mẫu tiêu_hủy khiến truy_tìm chính_xác nguyên_nhân khó_khăn hơn
+3,hội nghề cá nhận_định xác_định chính_xác nguyên_nhân cá chết hết_sức cần_thiết chẳng trấn_an dư_luận làm người tiêu_dùng an_tâm hơn mà_còn tuân_thủ quy_định 5 hiệp_định sps wto
+4,tất_cả mối nguy gây mất an_toàn thực_phẩm xuất_phát đánh_giá nguy_cơ
+5,quốc_gia tổ_chức võ_đoán áp_đặt mối nguy gây mất an_toàn thực_phẩm
+6,đại_diện hội hiện gia_đình ngư_dân thiệt_hại cá chết hỗ_trợ người 15 kg gạo / tháng trong 15 tháng chính_sách giãn_nợ giảm lãi_suất vay áp_dụng
+7,tuy_nhiên đến nay dù 15 tháng xác_định nguyên_nhân cá chết người dân ven biển hà_tĩnh đến thừa_thiên huế chưa_thể đi đánh_cá ven biển hộ nuôi cá nuôi tôm sử_dụng nước_biển chưa_thể nuôi
+8,hội đề_nghị chính_phủ bộ ngành liên_quan tiếp_tục hỗ_trợ thành_viên gia_đình thiệt_hại cá chết đến xác_định nguyên_nhân sản_xuất phục_hồi
+9,nguyên_nhân cá chết con_người gây thủ_phạm gây ngoài chịu hình_phạt phát luật quy_định còn chi_trả toàn_bộ chi_phí hỗ_trợ ngư_dân chính_phủ ứng_trước công_văn_hội nghệ_cá nhận_định
+10,đồng_thời tổ_chức cá_nhân gây chi_trả thiệt_hại về tài_nguyên sinh_vật biển hủy_hoại chi_phí phục_hồi môi_trường_sinh_thái vùng_biển chịu tác_động
+11,bên_cạnh hội đề_nghị bộ_tài_nguyên_và_môi_trường bộ ngành liên_quan xem_xét bổ_sung chính_sách kiểm_soát môi_trường đặc_biệt chất_thải hoạt_động sản_xuất kinh_doanh đảm_bảo môi_trường bền_vững
+12,hiện_tượng cá chết hàng_loạt bắt_đầu xuất_hiện ở hà_tĩnh 6/4 lan tỉnh quảng_bình quảng_trị thừa_thiên_huế chấm_dứt đầu tháng 5
+13,dù đoàn kiểm_tra vào_cuộc song nguyên_nhân cuối_cùng xác_định

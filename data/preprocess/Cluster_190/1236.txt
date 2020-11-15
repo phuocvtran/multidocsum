@@ -1,5 +1,5 @@
 idx, sentence
-0,theo các nhân_chứng cho hay vào thời_điểm trên  một chiếc xe ô_tô bảy chỗ  màu trắng khi đang lưu_thông tại nút giao_thông xã_đàn  thuộc địa_bàn quận đống_đa  hà_nội  thì bất_ngờ mất lái đã liên_tiếp đâm phải nhiều xe_máy trên đường khiến nhiều người hoảng_hốt 
-1,ngay sau đó  lực_lượng chức_năng đã có_mặt để phân_luồng giao_thông  bảo_vệ hiện_trường  điều_tra nguyên_nhân vụ tai_nạn đáng tiếc trên 
-2,theo lãnh_đạo đội csgt số 3  phòng csgt  công_an tp hà_nội  cho hay  chiếc xe ô_tô bảy chỗ đã đâm vào tám chiếc xe_máy trên đường  trong số này có tới bốn chiếc bị hư_hỏng nặng 
-3,rất may_mắn chiếc xe không gây thương_vong về người 
+0,nhân_chứng hay thời_điểm một xe ô_tô bảy chỗ màu trắng lưu_thông nút giao_thông xã_đàn thuộc địa_bàn quận đống_đa hà_nội bất_ngờ mất lái liên_tiếp đâm xe_máy đường khiến người hoảng_hốt
+1,lực_lượng chức_năng có_mặt phân_luồng giao_thông bảo_vệ hiện_trường điều_tra nguyên_nhân vụ tai_nạn đáng tiếc
+2,lãnh_đạo đội csgt số 3 phòng csgt công_an tp hà_nội hay xe ô_tô bảy chỗ đâm tám xe_máy đường trong số tới bốn hư_hỏng nặng
+3,may_mắn xe gây thương_vong về người

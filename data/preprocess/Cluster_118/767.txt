@@ -1,7 +1,7 @@
 idx, sentence
-0,thông_tin trên được lse đưa ra ngày 235  giờ_địa_phương   khóa học sẽ bắt_đầu từ năm tới và lần đầu_tiên được tổ_chức kể từ khi trung_tâm phụ_nữ  hòa bình và an_ninh được thành_lập tại lse bởi angelina_jolie và cựu ngoại_trưởng anh william_hague 
-1,đây là khóa học thuộc một phần trong giáo_trình đào_tạo thạc_sĩ kéo_dài 1 năm 
-2,“ điều quan_trọng là chúng_ta đẩy_mạnh những hội_thảo làm thế_nào để thúc_đẩy quyền phụ_nữ và kết_thúc những tội_ác đối_với phụ_nữ như bạo_lực tình_dục vùng chiến 
-3,tôi mong_đợi việc được giảng_dạy  hỗ_trợ học_tập của sinh_viên  chia_sẻ kinh_nghiệm của riêng tôi về việc làm_việc với các chính_phủ và liên_hiệp_quốc ” – angelina_jolie nói trong một thông_cáo 
-4,angelina và william_hague từng đứng ra tổ_chức các hội_thảo lớn để lên_án nạn bạo_lực tình_dục vùng chiến  bảo_vệ quyền phụ_nữ 
-5,năm 2014  cả hai tổ_chức hội_nghị toàn_cầu đầu_tiên về vấn_đề này tại london – anh 
+0,thông_tin lse đưa ngày 235 giờ_địa_phương khóa học bắt_đầu năm tới lần đầu_tiên tổ_chức kể trung_tâm phụ_nữ hòa bình an_ninh thành_lập lse angelina_jolie cựu ngoại_trưởng anh william_hague
+1,khóa học thuộc một phần trong giáo_trình đào_tạo thạc_sĩ kéo_dài 1 năm
+2,“ quan_trọng chúng_ta đẩy_mạnh hội_thảo làm thế_nào thúc_đẩy quyền phụ_nữ kết_thúc tội_ác đối_với phụ_nữ bạo_lực tình_dục vùng chiến
+3,tôi mong_đợi giảng_dạy hỗ_trợ học_tập sinh_viên chia_sẻ kinh_nghiệm riêng tôi về làm_việc chính_phủ liên_hiệp_quốc ” – angelina_jolie nói trong một thông_cáo
+4,angelina william_hague đứng tổ_chức hội_thảo lớn lên_án nạn bạo_lực tình_dục vùng chiến bảo_vệ quyền phụ_nữ
+5,năm 2014 hai tổ_chức hội_nghị toàn_cầu đầu_tiên về vấn_đề london – anh

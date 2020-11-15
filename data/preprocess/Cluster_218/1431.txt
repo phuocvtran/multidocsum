@@ -1,15 +1,15 @@
 idx, sentence
-0,ngày 31/5  phó chủ_tịch ubnd tp trần_vĩnh_tuyến cho biết  doanh_nghiệp singapore đề_nghị trang_bị wifi miễn_phí cho thành_phố để khách du_lịch có_thể tiện tra_cứu khi đến thành_phố 
-1,bên_cạnh đó  dịch_vụ này sẽ giúp thực_hiện nhiều vấn_đề trong việc xây_dựng chính_quyền điện_tử mà thành_phố đang tập_trung triển_khai 
-2,“ tôi đã làm_việc rồi và sẽ có văn_bản chính_thức 
-3,làm thí_điểm hay đại_trà thì sẽ tính_toán 
-4,điều này góp_phần đẩy_mạnh truyền_thông và tạo điểm nhấn cho du_lịch thành_phố 
-5,hệ_thống wifi có 2 cấp_độ  đối_với những nơi cần điểm nhấn thì tốc_độ nhanh hơn để tiện_lợi cho việc tra_cứu 
-6,làm được việc này thì sẽ mang lại nhiều tiện_ích cho thành_phố ”  ông tuyến nói 
-7,liên_quan đến vấn_đề trên  giám_đốc sở du_lịch tphcm_văn_thị_bạch_tuyết bày_tỏ  “ nếu thành_phố được phủ wifi miễn_phí thì rất tốt cho ngành du_lịch và mang lại nhiều tiện_ích cho du_khách 
-8,vấn_đề là đảm_bảo chất_lượng để người dân sử_dụng 
-9,nếu wifi quá yếu thì lại không hay 
-10,đã làm dịch_vụ thì phải sử_dụng được và chất_lượng tốt ” 
-11,tại việt_nam  nhiều thành_phố lớn đã phủ wifi miễn_phí cho người dân và khách du_lịch 
-12,năm 2012  hội_an  quảng_nam  trở_thành thành_phố đầu_tiên triển_khai hệ_thống wifi miễn_phí với 350 điểm phát_sóng 
-13,sau đó  hạ_long và cố_đô huế là hai địa_phương tiếp_theo phủ wifi  góp_phần nâng cao dân_trí và hoạt_động giáo_dục – đào_tạo qua mạng  quảng_bá du_lịch  giám_sát và cảnh_báo ô_nhiễm môi_trường  quản_lý giao_thông đô_thị  
+0,ngày 31/5 phó chủ_tịch ubnd tp trần_vĩnh_tuyến biết doanh_nghiệp singapore đề_nghị trang_bị wifi miễn_phí thành_phố khách du_lịch tiện tra_cứu đến thành_phố
+1,bên_cạnh dịch_vụ giúp thực_hiện vấn_đề trong xây_dựng chính_quyền điện_tử thành_phố tập_trung triển_khai
+2,“ tôi làm_việc văn_bản chính_thức
+3,làm thí_điểm hay đại_trà tính_toán
+4,góp_phần đẩy_mạnh truyền_thông tạo điểm nhấn du_lịch thành_phố
+5,hệ_thống wifi 2 cấp_độ đối_với điểm nhấn tốc_độ nhanh hơn tiện_lợi tra_cứu
+6,làm mang tiện_ích thành_phố ” ông tuyến nói
+7,liên_quan đến vấn_đề giám_đốc sở du_lịch tphcm_văn_thị_bạch_tuyết bày_tỏ “ thành_phố phủ wifi miễn_phí tốt ngành du_lịch mang tiện_ích du_khách
+8,vấn_đề đảm_bảo chất_lượng người dân sử_dụng
+9,wifi quá yếu hay
+10,làm dịch_vụ sử_dụng chất_lượng tốt ”
+11,việt_nam thành_phố lớn phủ wifi miễn_phí người dân khách du_lịch
+12,năm 2012 hội_an quảng_nam trở_thành thành_phố đầu_tiên triển_khai hệ_thống wifi miễn_phí 350 điểm phát_sóng
+13,hạ_long cố_đô huế hai địa_phương tiếp_theo phủ wifi góp_phần nâng cao dân_trí hoạt_động giáo_dục – đào_tạo mạng quảng_bá du_lịch giám_sát cảnh_báo ô_nhiễm môi_trường quản_lý giao_thông đô_thị

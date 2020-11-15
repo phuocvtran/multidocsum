@@ -1,8 +1,8 @@
 idx, sentence
-0,khoảng 5 h sáng ngày 23/5  một_số người dân đi tập_thể_dục  khi đi qua khu_vực cầu cứng  thuộc tổ 26  phường phương_lâm  tp hòa_bình  tỉnh hòa_bình  hoảng_hốt phát_hiện một thi_thể nam thanh_niên bê_bết máu  đã tử_vong từ trước đó và báo cho cơ_quan_chức_năng 
-1,ngay sau khi nhận được tin báo  cơ_quan công_an thành_phố hòa_bình đã có_mặt  phong_tỏa hiện_trường  tiến_hành công_tác khám_nghiệm tử_thi  điều_tra nguyên_nhân vụ_việc 
-2,trao_đổi với phóng_viên báo_công_lý  đội_trưởng đội điều_tra công_an tp hòa_bình  nguyễn_công_bình xác_nhận sự_việc trên và cho biết thi_thể là nam_giới   chưa rõ danh_tính  độ tuổi khoảng 25  30 tuổi 
-3,nạn_nhân chết trong tư_thể nằm_ngửa  trên mặt bê_bết máu  tập_trung nhiều ở phần mồm và tai 
-4,qua khám_nghiệm sơ_bộ ban_đầu xác_định không có dấu_hiệu của ngoại_lực 
-5,nhiều khả_năng nạn_nhân sốc thuốc dẫn đến vỡ động mạnh 
-6,hiện cơ_quan công_an đã tiến_hành giám_định pháp_y và đưa thi_thể nạn_nhân về nhà_xác bệnh_viện đa_khoa tỉnh hòa_bình để làm các thủ_tục cần_thiết 
+0,khoảng 5 h sáng ngày 23/5 một_số người dân đi tập_thể_dục đi khu_vực cầu cứng thuộc tổ 26 phường phương_lâm tp hòa_bình tỉnh hòa_bình hoảng_hốt phát_hiện một thi_thể nam thanh_niên bê_bết máu tử_vong báo cơ_quan_chức_năng
+1,nhận tin báo cơ_quan công_an thành_phố hòa_bình có_mặt phong_tỏa hiện_trường tiến_hành công_tác khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc
+2,trao_đổi phóng_viên báo_công_lý đội_trưởng đội điều_tra công_an tp hòa_bình nguyễn_công_bình xác_nhận sự_việc biết thi_thể nam_giới rõ danh_tính độ tuổi khoảng 25 30 tuổi
+3,nạn_nhân chết trong tư_thể nằm_ngửa mặt bê_bết máu tập_trung ở phần mồm tai
+4,khám_nghiệm sơ_bộ ban_đầu xác_định dấu_hiệu ngoại_lực
+5,khả_năng nạn_nhân sốc thuốc dẫn đến vỡ động mạnh
+6,hiện cơ_quan công_an tiến_hành giám_định pháp_y đưa thi_thể nạn_nhân về nhà_xác bệnh_viện đa_khoa tỉnh hòa_bình làm thủ_tục cần_thiết

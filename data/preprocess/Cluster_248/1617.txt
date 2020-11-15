@@ -1,11 +1,11 @@
 idx, sentence
-0,máy_bay thuộc quản_lý của phi_đội tấn_công_điện_tử 133  biên_chế trên tàu sân_bay stennis 
-1,theo các quan_chức hải_quân mỹ  growler bị hư_hại sau khi vướng vào cáp hãm trên tàu sân_bay khi vẫn chưa hạ_cánh hẳn 
-2,hậu_quả là mũi máy_bay bị hỏng  một_số vật_thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động_cơ 
-3,trong khi thiệt_hại đang được đánh_giá  phi_cơ này hiện chưa hoạt_động được 
-4,nữ phát_ngôn_viên lực_lượng không_quân của hải_quân mỹ  trung_tá jeannie_groeneveld  nói với trang_military__com rằng  rủi_ro diễn ra khi máy_bay tác_chiến điện_tử cố_gắng hạ_cánh trên tàu stennis vào tối_ngày 295 
-5,vào thời_điểm đó  hàng_không mẫu hạm stennis đang tuần_tra biển_đông 
-6,may_mắn không thủy_thủ nào bị_thương  sự_cố cũng không gây hư_hại cho tàu hoặc máy_bay khác 
-7,ban_đầu  trung_tâm an_toàn hải_quân xếp sự_cố vào  rủi_ro hạng a   nghĩa_là chiến cơ 68 triệu usd bị hư_hại ít_nhất 2 triệu usd 
-8,tuy_nhiên  bà groeneveld nói rằng thiệt_hại vẫn đang được đánh_giá và có_thể hạ xuống mức xếp_hạng thấp hơn 
-9,tàu sân_bay stennis và phi_đội máy_bay hoạt_động ở biển_đông kể từ giữa tháng tư  trong bối_cảnh căng_thẳng khu_vực tăng cao vì những hành_động hung_hăng của trung_quốc 
+0,máy_bay thuộc quản_lý phi_đội tấn_công_điện_tử 133 biên_chế tàu sân_bay stennis
+1,quan_chức hải_quân mỹ growler hư_hại vướng cáp hãm tàu sân_bay hạ_cánh hẳn
+2,hậu_quả mũi máy_bay hỏng một_số vật_thể bên ngoài mảnh vỡ boong hút động_cơ
+3,trong thiệt_hại đánh_giá phi_cơ hiện hoạt_động
+4,nữ phát_ngôn_viên lực_lượng không_quân hải_quân mỹ trung_tá jeannie_groeneveld nói trang_military__com rủi_ro diễn máy_bay tác_chiến điện_tử cố_gắng hạ_cánh tàu stennis tối_ngày 295
+5,thời_điểm hàng_không mẫu hạm stennis tuần_tra biển_đông
+6,may_mắn thủy_thủ nào bị_thương sự_cố gây hư_hại tàu hoặc máy_bay khác
+7,ban_đầu trung_tâm an_toàn hải_quân xếp sự_cố rủi_ro hạng a nghĩa_là chiến cơ 68 triệu usd hư_hại ít_nhất 2 triệu usd
+8,tuy_nhiên bà groeneveld nói thiệt_hại đánh_giá hạ xuống mức xếp_hạng thấp hơn
+9,tàu sân_bay stennis phi_đội máy_bay hoạt_động ở biển_đông kể giữa tháng tư trong bối_cảnh căng_thẳng khu_vực tăng cao hành_động hung_hăng trung_quốc

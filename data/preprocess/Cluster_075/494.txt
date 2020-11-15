@@ -1,9 +1,9 @@
 idx, sentence
-0,công_ty tư_vấn bđs_savills vừa có báo_cáo về thị_trường bđs phú_quốc 
-1,theo đó  savills đánh_giá là một đại_diện mới trong thị_trường bất_động_sản nghỉ_dưỡng  thị_trường phú_quốc đã bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở được cải_thiện mạnh_mẽ 
-2,tính đến q1 / 2016  tổng nguồn cung của phú_quốc có hơn 1700 căn từ sáu dự_án biệt_thự và một dư án căn_hộ 
-3,tính đến q1 / 2016  phân khúc biệt_thự đã bán được 65  và phân khúc căn_hộ đã bán được 35  
-4,các dự_án này có tình_hình hoạt_động tốt nhờ có chiến_lược tiếp_thị  uy_tín của chủ đầu_tư  tiến_độ xây_dựng tốt và những bãi biển hoang_sơ 
-5,tất_cả các dự_án đều nằm trong khu nghỉ_dưỡng với đầy_đủ các tiện_ích và tiện_nghi 
-6,theo quan_sát của savills  hầu_hết người mua là từ hà_nội  chiếm khoảng 80   tiếp_theo là người mua từ hồ_chí_minh với khoảng 15  
-7,những người mua bất_động_sản nghỉ_dưỡng ở phú_quốc chủ_yếu là mua để đầu_tư hoặc nghỉ_dưỡng 
+0,công_ty tư_vấn bđs_savills báo_cáo về thị_trường bđs phú_quốc
+1,savills đánh_giá một đại_diện mới trong thị_trường bất_động_sản nghỉ_dưỡng thị_trường phú_quốc bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở cải_thiện mạnh_mẽ
+2,tính đến q1 / 2016 tổng nguồn cung phú_quốc hơn 1700 căn sáu dự_án biệt_thự một dư án căn_hộ
+3,tính đến q1 / 2016 phân khúc biệt_thự bán 65 phân khúc căn_hộ bán 35
+4,dự_án tình_hình hoạt_động tốt nhờ chiến_lược tiếp_thị uy_tín chủ đầu_tư tiến_độ xây_dựng tốt bãi biển hoang_sơ
+5,tất_cả dự_án nằm trong khu nghỉ_dưỡng đầy_đủ tiện_ích tiện_nghi
+6,quan_sát savills hầu_hết người mua hà_nội chiếm khoảng 80 tiếp_theo người mua hồ_chí_minh khoảng 15
+7,người mua bất_động_sản nghỉ_dưỡng ở phú_quốc chủ_yếu mua đầu_tư hoặc nghỉ_dưỡng

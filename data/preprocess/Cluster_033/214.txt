@@ -1,29 +1,29 @@
 idx, sentence
-0,thứ 4  18/5   hãng suzuki_motor thừa_nhận đã sử_dụng các phương_pháp sai để kiểm_tra khả_năng tiết_kiệm nhiên_liệu ô_tô của hãng tại nhật_bản 
-1,vụ bê_bối này xảy ra ngay sau vụ bê_bối gian_lận tiêu_thụ nhiên_liệu của hãng ô_tô đối_thủ  mitsubishi_motors 
-2,bộ giao_thông vận_tải nhật_bản đã ra_lệnh kiểm_tra trên diện rộng các phương_pháp tiết_kiệm nhiên_liệu sau khi tháng trước đó  mitsubishi_motors thừa_nhận đã gian_lận dữ_liệu về khả_năng tiết_kiệm nhiên_liệu cho ít_nhất bốn mẫu ô_tô 
-3,ngày 18/5  chủ_tịch mitsubishi_motors_tetsuro_aikawa tuyên_bố từ chức sau vụ bê_bối 
-4,đây là trường_hợp đầu_tiên lãnh_đạo cấp cao của hãng rời_bỏ vị_trí sau vụ gian_lận đã đã phá_hủy uy_tín và làm mất đi giá_trị thị_trường của công_ty 
-5,suzuki motor đang phải đối_mặt với lo_lắng sẽ phải chịu những thiệt_hại nghiêm_trọng như hãng mitsubishi_motors  hậu_quả gần nhất là cổ_phiếu của hãng sản_xuất ô_tô lớn thứ tư của nhật_bản đã giảm tới 15 phần_trăm chỉ trong 1 ngày 
-6,hãng suzuki_motor cho biết họ sẽ tiếp_tục bán dòng xe nhỏ và vụ lùm xùm này sẽ không ảnh_hưởng tới nguồn thu của hãng 
-7,suzuki_motor cho rằng những thông_số của ô_tô đang bán trên thị_trường không có sự khác_biệt đáng_kể so với những thông_số đã được đưa ra 
-8,tuy_nhiên  các nhà_chức_trách nhật_bản đã yêu_cầu thông_tin chi_tiết từ phía suzuki motor trước ngày 31 tháng 5 
-9, công_ty thực xin_lỗi vì đã không tuân theo quy_định của đất_nước   ceo_osamu của hãng suzuki nói với các phóng_viên  sau khi có thêm 21 triệu xe đã bị ảnh_hưởng 
-10,công_ty này không thừa_nhận đã dùng bài kiểm_tra khiến dữ_liệu về khả_năng tiết_kiệm nhiên_liệu cao hơn thực_tế 
-11,thay vào đó  hãng suzuki đổ_lỗi cho sự khác nhau về môi_trường và điều_kiện địa_hình của bài kiểm_tra nhiên_liệu bởi ô_tô của hãng được thử_nghiệm trong nhà 
-12,suzuki chuyên dòng xe nhỏ động_cơ lên đến 660 cc và nhận được ưu_đãi thuế theo pháp_luật nhật_bản 
-13,hiện_nay  hãng chiếm khoảng một_phần_ba thị_trường xe ô_tô nhật 
-14,suzuki cũng có một công_ty con thành_công tại ấn_độ mang tên maruti_suzuki 
-15,bộ giao_thông vận_tải đã yêu_cầu tất_cả các hãng ô_tô đang hoạt_động tại nhật_bản nộp lại kết_quả kiểm_tra tiết_kiệm nhiên_liệu trên tất_cả các mẫu ô_tô trước đó và cho biết không có nhà sản_xuất ô_tô nào gian_lận dữ_liệu hoặc sử_dụng các bài kiểm_tra không đúng 
-16,tuy_nhiên  bộ vẫn đang chờ_đợi thông_tin chi_tiết từ phía hãng suzuki_motor 
-17,bên_cạnh đó  bộ cho biết vẫn chưa quyết_định_liệu có nên phạt mitsubishi_motors  và nếu có thì là bao_nhiêu 
-18,mitsubishi motors gian_lận các bài kiểm_tra tiết_kiệm nhiên_liệu là vụ bê_bối lớn thứ ba tại trong hai thập_kỷ qua và đã buộc hãng phải đồng_ý bán một_phần_ba cổ_phần kiểm_soát cho nissan_motor 
-19,tại một cuộc họp_báo hôm thứ_tư  mitsubishi_motors đổ_lỗi cho áp_lực quá nhiều  ít thời_gian dành cho nghiên_cứu  phát_triển và kỳ_vọng cao cho tiết_kiệm nhiên_liệu hiệu_quả 
-20,ceo osamu_masuko cho biết   không có yêu_cầu trực_tiếp từ các quản_lý cấp cao và các nhà lãnh_đạo của hãng đã không nắm vững về các quy_trình tại bộ_phận nghiên_cứu và phát_triển 
-21,công_ty đã có nhiều cơ_hội để dừng công_việc của nhân_công nhưng đã không làm gì cả ” 
-22,khí thải và tiết_kiệm nhiên_liệu đã chịu sức xem_xét kỹ_lưỡng từ các chuyên_gia trên toàn_cầu sau khi năm_ngoái volkswagen thừa_nhận hãng đã sử_dụng  thiết_bị thất_bại  trên 11 triệu xe để giảm_phát thải trong quá_trình thử_nghiệm 
-23,pháp  đất_nước đã ra_lệnh thử_nghiệm một mẫu ngẫu_nhiên của khoảng 100 xe ô_tô động_cơ_diesel vào năm_ngoái  cho biết một_số xe do renault  fiat  mercedes  psa_peugeot_citroen  nissan  opel và ford đã không tuân_thủ đầy_đủ các quy_định khí thải 
-24,vào thứ hai  16/5  hàn_quốc đã kiểm_tra 20 mẫu xe diesel  cho biết chính_phủ sẽ trừng_phạt nissan bằng hình_thức phạt_tiền và thu_hồi của xe thể_thao động_cơ_diesel qashqai  do cáo_buộc gian_lận khí thải 
-25,tuy_nhiên  nissan đã bác_bỏ những cáo_buộc này 
-26,tại mỹ  bộ_tư_pháp đang điều_tra daimler  hãng sản_xuất xe mercedes  về thử_nghiệm mức khí thải 
-27,tin_tức nguồn  http//wwwxaluancom/modulesphpnamenewsfilearticlesid1483094ixzz49ikxf0hd
+0,thứ 4 18/5 hãng suzuki_motor thừa_nhận sử_dụng phương_pháp sai kiểm_tra khả_năng tiết_kiệm nhiên_liệu ô_tô hãng nhật_bản
+1,vụ bê_bối xảy vụ bê_bối gian_lận tiêu_thụ nhiên_liệu hãng ô_tô đối_thủ mitsubishi_motors
+2,bộ giao_thông vận_tải nhật_bản ra_lệnh kiểm_tra diện rộng phương_pháp tiết_kiệm nhiên_liệu tháng mitsubishi_motors thừa_nhận gian_lận dữ_liệu về khả_năng tiết_kiệm nhiên_liệu ít_nhất bốn mẫu ô_tô
+3,ngày 18/5 chủ_tịch mitsubishi_motors_tetsuro_aikawa tuyên_bố chức vụ bê_bối
+4,trường_hợp đầu_tiên lãnh_đạo cấp cao hãng rời_bỏ vị_trí vụ gian_lận phá_hủy uy_tín làm mất đi giá_trị thị_trường công_ty
+5,suzuki motor đối_mặt lo_lắng chịu thiệt_hại nghiêm_trọng hãng mitsubishi_motors hậu_quả gần nhất cổ_phiếu hãng sản_xuất ô_tô lớn thứ tư nhật_bản giảm tới 15 phần_trăm trong 1 ngày
+6,hãng suzuki_motor biết họ tiếp_tục bán dòng xe nhỏ vụ lùm xùm ảnh_hưởng tới nguồn thu hãng
+7,suzuki_motor thông_số ô_tô bán thị_trường khác_biệt đáng_kể thông_số đưa
+8,tuy_nhiên nhà_chức_trách nhật_bản yêu_cầu thông_tin chi_tiết phía suzuki motor ngày 31 tháng 5
+9,công_ty thực xin_lỗi tuân quy_định đất_nước ceo_osamu hãng suzuki nói phóng_viên thêm 21 triệu xe ảnh_hưởng
+10,công_ty thừa_nhận dùng bài kiểm_tra khiến dữ_liệu về khả_năng tiết_kiệm nhiên_liệu cao hơn thực_tế
+11,thay hãng suzuki đổ_lỗi khác nhau về môi_trường điều_kiện địa_hình bài kiểm_tra nhiên_liệu ô_tô hãng thử_nghiệm trong nhà
+12,suzuki chuyên dòng xe nhỏ động_cơ đến 660 cc nhận ưu_đãi thuế pháp_luật nhật_bản
+13,hiện_nay hãng chiếm khoảng một_phần_ba thị_trường xe ô_tô nhật
+14,suzuki một công_ty con thành_công ấn_độ mang tên maruti_suzuki
+15,bộ giao_thông vận_tải yêu_cầu tất_cả hãng ô_tô hoạt_động nhật_bản nộp kết_quả kiểm_tra tiết_kiệm nhiên_liệu tất_cả mẫu ô_tô biết nhà sản_xuất ô_tô nào gian_lận dữ_liệu hoặc sử_dụng bài kiểm_tra đúng
+16,tuy_nhiên bộ chờ_đợi thông_tin chi_tiết phía hãng suzuki_motor
+17,bên_cạnh bộ biết quyết_định_liệu phạt mitsubishi_motors bao_nhiêu
+18,mitsubishi motors gian_lận bài kiểm_tra tiết_kiệm nhiên_liệu vụ bê_bối lớn thứ ba trong hai thập_kỷ buộc hãng đồng_ý bán một_phần_ba cổ_phần kiểm_soát nissan_motor
+19,một cuộc họp_báo hôm thứ_tư mitsubishi_motors đổ_lỗi áp_lực quá ít thời_gian dành nghiên_cứu phát_triển kỳ_vọng cao tiết_kiệm nhiên_liệu hiệu_quả
+20,ceo osamu_masuko biết yêu_cầu trực_tiếp quản_lý cấp cao nhà lãnh_đạo hãng nắm vững về quy_trình bộ_phận nghiên_cứu phát_triển
+21,công_ty cơ_hội dừng công_việc nhân_công làm ”
+22,khí thải tiết_kiệm nhiên_liệu chịu sức xem_xét kỹ_lưỡng chuyên_gia toàn_cầu năm_ngoái volkswagen thừa_nhận hãng sử_dụng thiết_bị thất_bại 11 triệu xe giảm_phát thải trong quá_trình thử_nghiệm
+23,pháp đất_nước ra_lệnh thử_nghiệm một mẫu ngẫu_nhiên khoảng 100 xe ô_tô động_cơ_diesel năm_ngoái biết một_số xe renault fiat mercedes psa_peugeot_citroen nissan opel ford tuân_thủ đầy_đủ quy_định khí thải
+24,thứ hai 16/5 hàn_quốc kiểm_tra 20 mẫu xe diesel biết chính_phủ trừng_phạt nissan bằng hình_thức phạt_tiền thu_hồi xe thể_thao động_cơ_diesel qashqai cáo_buộc gian_lận khí thải
+25,tuy_nhiên nissan bác_bỏ cáo_buộc
+26,mỹ bộ_tư_pháp điều_tra daimler hãng sản_xuất xe mercedes về thử_nghiệm mức khí thải
+27,tin_tức nguồn http//wwwxaluancom/modulesphpnamenewsfilearticlesid1483094ixzz49ikxf0hd

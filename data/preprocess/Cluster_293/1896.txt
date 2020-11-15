@@ -1,8 +1,8 @@
 idx, sentence
-0,tin nhanh sáng ngày 3/6  lãnh_đạo ubnd phường hòa_cường_bắc  quận hải_châu  tp đà_nẵng  xác_nhận  trên địa_bàn phường vừa xảy ra một vụ tai_nạn lao_động khiến một công_nhân_tử_vong 
-1,trước đó  sự_việc xảy ra vào khoảng 8 h sáng cùng ngày tại công_trình nhà ở đang xây_dựng trên đường lê_thanh_nghị  phường hòa_cường_bắc  quận hải_châu  do người đàn_ông tên h làm_chủ 
-2,một_số người dân sống ở khu_vực xây_dựng công_trình cho biết  trước khi vụ tai_nạn diễn ra  có 3 công_nhân lao_động đang thi_công_vận_chuyển vật_liệu đất  đá lên tầng 3 để tiến_hành xây_dựng 
-3,trong quá_trình kéo tời thì một người đàn_ông chưa rõ danh_tính  khoảng 40 tuổi  trú quảng_nam  bất_ngờ bị rơi từ tầng 3 công_trình xuống đất 
-4,ngay sau đó  người đàn_ông được đưa đi cấp_cứu nhưng do vết_thương quá nặng nên nạn_nhân đã tử_vong trên đường cấp_cứu 
-5,được biết  công_trình này thi_công khoảng gần 3 tháng nay và mỗi ngày có 3 đến 4 lao_động tham_gia xây_dựng tại đây 
-6,ngay sau khi xảy ra vụ tại nạn  lực_lượng chức_năng phường_hòa_cường bắc đã có_mặt phong_tỏa hiện_trường và tiến_hành điều_tra 
+0,tin nhanh sáng ngày 3/6 lãnh_đạo ubnd phường hòa_cường_bắc quận hải_châu tp đà_nẵng xác_nhận địa_bàn phường xảy một vụ tai_nạn lao_động khiến một công_nhân_tử_vong
+1,sự_việc xảy khoảng 8 h sáng ngày công_trình nhà ở xây_dựng đường lê_thanh_nghị phường hòa_cường_bắc quận hải_châu người đàn_ông tên h làm_chủ
+2,một_số người dân sống ở khu_vực xây_dựng công_trình biết vụ tai_nạn diễn 3 công_nhân lao_động thi_công_vận_chuyển vật_liệu đất đá tầng 3 tiến_hành xây_dựng
+3,trong quá_trình kéo tời một người đàn_ông rõ danh_tính khoảng 40 tuổi trú quảng_nam bất_ngờ rơi tầng 3 công_trình xuống đất
+4,người đàn_ông đưa đi cấp_cứu vết_thương quá nặng nạn_nhân tử_vong đường cấp_cứu
+5,biết công_trình thi_công khoảng gần 3 tháng nay ngày 3 đến 4 lao_động tham_gia xây_dựng
+6,xảy vụ nạn lực_lượng chức_năng phường_hòa_cường bắc có_mặt phong_tỏa hiện_trường tiến_hành điều_tra

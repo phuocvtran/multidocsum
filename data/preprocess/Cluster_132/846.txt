@@ -1,28 +1,28 @@
 idx, sentence
-0,tập 4 vòng tranh_đấu chương_trình “ the_xfactor_– nhân_tố bí_ẩn ” đã lên sóng kênh_vtv3  đài_thvn  vào tối 22/5 
-1,11 nhóm nhạc đã có những màn trình_diễn ấn_tượng để cạnh_tranh 6 suất vào vòng trong 
-2,một trong những tiết_mục thu_hút nhiều sự chú_ý của khán_giả là phần thi của nhóm foe mà ca_sĩ yanbi là giọng ca chính 
-3,nhóm thể_hiện sáng_tác mới nhất của mình mang tên “ bố_vợ ”  mashup cùng một ca_khúc của thập_niên 70 – “ daddy cool ” 
-4,vẫn với phong_cách trình_diễn tự_tin  đậm chất hiphop  kết_hợp_phần rap và diễn_xuất vui_nhộn  foe đã khuấy_động được không_khí trong trường_quay 
-5,do bị gãy xương đùi vì tai_nạn giao_thông cách đây 1 tháng nên yanbi vẫn phải ngồi xe_lăn lên sân_khấu 
-6,tuy_vậy  nam thí_sinh vẫn cố_gắng chống_nạng  đứng lên nhún_chân cùng các thành_viên trong nhóm 
-7,giám_khảo tùng_dương cho rằng  tiết_mục của nhóm foe hài_hước  mang đến nhiều sự bất_ngờ cho người xem  nhưng nhóm vẫn chưa tạo được bản_sắc riêng 
-8,trong khi đó  dương_khắc_linh lại cho rằng đây là tiết_mục được kết_hợp hài_hoà giữa tính giải_trí  kỹ_thuật và đủ thuyết_phục để giành cơ_hội đi tiếp 
-9,song  do tiết_mục của nhóm dolphins quá xuất_sắc nên nhóm foe bị loại để nhường vị_trí một_cách khá đáng tiếc 
-10,ở các phần thi khác  nhóm dolphins có một màn biểu_diễn thu_hút và ghi_điểm ở cảm_giác “ ma_mị ” với ca_khúc “ con_ma ” 
-11,bộ tứ quyền_lực cho rằng  tiết_mục con_ma mà dolphins thể_hiện đầy đẳng_cấp  cách trình_diễn của họ khiến sự ma_mãnh lên đến đỉnh_điểm và ra tố_chất của một nghệ sỹ chuyên_nghiệp 
-12,cả nhóm đã kết_hợp với nhau ăn_ý để tạo nên một tiết_mục tuyệt_vời 
-13,những chàng trai nhóm the_wings đến từ trường đại_học hàng_hải việt_nam thể_hiện ca_khúc “ nụ_cười việt_nam ” 
-14,sự kết_hợp ăn_ý trong phần bè đã tôn lên giọng hát của từng thành_viên trong nhóm 
-15,ca_sĩ tùng_dương chia_sẻ  sau khi nghe nhóm thể_hiện xong  anh muốn được đặc_cách mình vào chung nhóm với 3 chàng trai này 
-16,nhóm gband tiếp_tục thể_hiện sáng_tác của 1 thành_viên trong nhóm với tên gọi “ việt_nam tôi ” 
-17,5 chàng trai khoe được giọng hát tốt và phong_cách biểu_diễn tự_nhiên cùng 5 chiếc đàn guitar một_cách sâu_lắng và nhẹ_nhàng 
-18,các giám_khảo bày_tỏ sự thích_thú với ca_khúc này  thậm_chí bgk còn hát theo 1 đoạn điệp_khúc của bài hát 
-19,nhóm fire mang đến một phần biểu_diễn máu_lửa với “ radioactive ” 
-20,nhạc_sĩ dương_khắc_linh dành tặng 2 chữ “ xuất_sắc ” trong khi thanh_lam khen_ngợi nhóm có sự ăn_ý 
-21,tùng dương khuyến_khích 5 thành_viên dũng_cảm hơn nữa để đi đến tận_cùng của sự sáng_tạo trong nghệ_thuật 
-22,nhóm bbq với 3 cô gái có 3 ngoại_hình mũm_mĩm khoe giọng hát đầy nội_lực với “ wide awake ” 
-23,theo nhận_xét của ca_sĩ thanh_lam  phần bè phối có phần tiến_bộ so với vòng hội_ngộ 
-24,nhóm sgirl gồm 5 cô gái có ngoại_hình sáng sân_khấu  khả_năng nhảy tốt thể_hiện ca_khúc rất sôi_động mang tên “ up to you ” 
-25,đây là nhóm nhạc được kì_vọng sẽ “ làm_nên chuyện ” trong mùa giải năm nay 
-26,cả 4 giám_khảo đã cùng đồng_thanh hô to “ đồng_ý ” để giành cơ_hội cho các cô gái tài_năng  cá_tính này 
+0,tập 4 vòng tranh_đấu chương_trình “ the_xfactor_– nhân_tố bí_ẩn ” sóng kênh_vtv3 đài_thvn tối 22/5
+1,11 nhóm nhạc màn trình_diễn ấn_tượng cạnh_tranh 6 suất vòng trong
+2,một trong tiết_mục thu_hút chú_ý khán_giả phần thi nhóm foe ca_sĩ yanbi giọng ca chính
+3,nhóm thể_hiện sáng_tác mới nhất mình mang tên “ bố_vợ ” mashup một ca_khúc thập_niên 70 – “ daddy cool ”
+4,phong_cách trình_diễn tự_tin đậm chất hiphop kết_hợp_phần rap diễn_xuất vui_nhộn foe khuấy_động không_khí trong trường_quay
+5,gãy xương đùi tai_nạn giao_thông cách 1 tháng yanbi ngồi xe_lăn sân_khấu
+6,tuy_vậy nam thí_sinh cố_gắng chống_nạng đứng nhún_chân thành_viên trong nhóm
+7,giám_khảo tùng_dương tiết_mục nhóm foe hài_hước mang đến bất_ngờ người xem nhóm tạo bản_sắc riêng
+8,trong dương_khắc_linh tiết_mục kết_hợp hài_hoà giữa tính giải_trí kỹ_thuật đủ thuyết_phục giành cơ_hội đi tiếp
+9,song tiết_mục nhóm dolphins quá xuất_sắc nhóm foe loại nhường vị_trí khá đáng tiếc
+10,ở phần thi khác nhóm dolphins một màn biểu_diễn thu_hút ghi_điểm ở cảm_giác “ ma_mị ” ca_khúc “ con_ma ”
+11,bộ tứ quyền_lực tiết_mục con_ma dolphins thể_hiện đầy đẳng_cấp cách trình_diễn họ khiến ma_mãnh đến đỉnh_điểm tố_chất một nghệ sỹ chuyên_nghiệp
+12,nhóm kết_hợp nhau ăn_ý tạo một tiết_mục tuyệt_vời
+13,chàng trai nhóm the_wings đến trường đại_học hàng_hải việt_nam thể_hiện ca_khúc “ nụ_cười việt_nam ”
+14,kết_hợp ăn_ý trong phần bè tôn giọng hát thành_viên trong nhóm
+15,ca_sĩ tùng_dương chia_sẻ nghe nhóm thể_hiện xong anh muốn đặc_cách mình chung nhóm 3 chàng trai
+16,nhóm gband tiếp_tục thể_hiện sáng_tác 1 thành_viên trong nhóm tên gọi “ việt_nam tôi ”
+17,5 chàng trai khoe giọng hát tốt phong_cách biểu_diễn tự_nhiên 5 đàn guitar sâu_lắng nhẹ_nhàng
+18,giám_khảo bày_tỏ thích_thú ca_khúc thậm_chí bgk còn hát 1 đoạn điệp_khúc bài hát
+19,nhóm fire mang đến một phần biểu_diễn máu_lửa “ radioactive ”
+20,nhạc_sĩ dương_khắc_linh dành tặng 2 chữ “ xuất_sắc ” trong thanh_lam khen_ngợi nhóm ăn_ý
+21,tùng dương khuyến_khích 5 thành_viên dũng_cảm hơn đi đến tận_cùng sáng_tạo trong nghệ_thuật
+22,nhóm bbq 3 cô gái 3 ngoại_hình mũm_mĩm khoe giọng hát đầy nội_lực “ wide awake ”
+23,nhận_xét ca_sĩ thanh_lam phần bè phối phần tiến_bộ vòng hội_ngộ
+24,nhóm sgirl gồm 5 cô gái ngoại_hình sáng sân_khấu khả_năng nhảy tốt thể_hiện ca_khúc sôi_động mang tên “ up to you ”
+25,nhóm nhạc kì_vọng “ làm_nên ” trong mùa giải năm nay
+26,4 giám_khảo đồng_thanh hô to “ đồng_ý ” giành cơ_hội cô gái tài_năng cá_tính

@@ -1,11 +1,11 @@
 idx, sentence
-0,vụ_án_mạng xảy ra vào đêm 285 tại bản cỏ_nong  xã mường_nọc  huyện miền núi quế_phong  nghệ_an 
-1,ông lương trường_sơn  trưởng công_an xã mường_nọc cho biết  khoảng 21 giờ hôm_qua  người dân báo tin có vụ án_mạng xảy ra tại bản cỏ_nong  nạn_nhân là bà vi_thị_loan và ông sầm_văn_dần 
-2,khi công_an xã đến hiện_trường thì bà loan đã tử_vong do bị chém nhiều nhát  ông dần lết được sang nhà hàng_xóm trong tình_trạng bị_thương nặng do nhiều vết chém để báo tin bị truy sát 
-3,ông dần sau đó được chuyển đến bệnh_viện huyện trong tình_trạng bị nhiều vết chém vào cổ  sườn và bị thủng phổi  sau đó phải chuyển đến bệnh_viện đa_khoa nghệ_an để cấp_cứu 
-4,ông sơn cũng cho biết  theo lời kể của ông dần  nghi phạm gây ra vụ án_mạng này là vvth
-5, ngụ cùng bản  
-6,trước khi xảy ra án_mạng  ông dần và th  tổ_chức uống rượu tại nhà ông dần rồi sau đó cả hai bị say và lăn ra ngủ 
-7,đến khoảng hơn 20 giờ  th  dậy dùng dao sát_hại bà loan để cướp đôi bông_tai  ông dần phát_hiện dậy can_ngăn liền bị th  chém nhiều nhát vào người 
-8,khám_nghiệm hiện_trường  công_an phát_hiện đôi bông_tai của bà loan và túi đựng tiền bị mất 
-9,cũng theo ông sơn  th  bị nghiện ma_túy và thường hay trộm_cắp của người dân  sau khi án_mạng xảy ra  th  đã rời khỏi địa_phương 
+0,vụ_án_mạng xảy đêm 285 bản cỏ_nong xã mường_nọc huyện miền núi quế_phong nghệ_an
+1,ông lương trường_sơn trưởng công_an xã mường_nọc biết khoảng 21 giờ hôm_qua người dân báo tin vụ án_mạng xảy bản cỏ_nong nạn_nhân bà vi_thị_loan ông sầm_văn_dần
+2,công_an xã đến hiện_trường bà loan tử_vong chém nhát ông dần lết sang nhà hàng_xóm trong tình_trạng bị_thương nặng vết chém báo tin truy sát
+3,ông dần chuyển đến bệnh_viện huyện trong tình_trạng vết chém cổ sườn thủng phổi chuyển đến bệnh_viện đa_khoa nghệ_an cấp_cứu
+4,ông sơn biết lời kể ông dần nghi phạm gây vụ án_mạng vvth
+5,ngụ bản
+6,xảy án_mạng ông dần th tổ_chức uống rượu nhà ông dần hai say lăn ngủ
+7,đến khoảng hơn 20 giờ th dậy dùng dao sát_hại bà loan cướp đôi bông_tai ông dần phát_hiện dậy can_ngăn liền th chém nhát người
+8,khám_nghiệm hiện_trường công_an phát_hiện đôi bông_tai bà loan túi đựng tiền mất
+9,ông sơn th nghiện ma_túy thường hay trộm_cắp người dân án_mạng xảy th rời khỏi địa_phương

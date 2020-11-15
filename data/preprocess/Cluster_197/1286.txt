@@ -1,12 +1,12 @@
 idx, sentence
-0,sáng nay  31/5  tại khuôn_viên trường_trung_học_cơ_sở gio_việt  thôn xuân_ngọc  xã gio_việt  huyện gio_linh   tand tỉnh quảng_trị đã mở phiên_tòa sơ_thẩm xử lưu_động đối_với bị_cáo trần_đình_thịnh  sn 1987  ở xã cam_hiếu  huyện cam_lộ  quảng_trị  về tội  giết_người  
-1,thịnh bị_cáo_buộc là hung_thủ trong vụ_án giết người xảy ra tối 20/8/2015 ở xã gio_việt  làm rúng_động miệt biển quảng_trị 
-2,ngay từ sáng sớm  hàng ngàn người dân đã tới trường_trung_học_cơ_sở gio_việt để theo_dõi xử phiên_tòa 
-3,được biết  chủ_tọa phiên_tòa là thẩm_phán nguyễn_cường 
-4,do bị_cáo không mời luật_sư nên tand tỉnh quảng_trị đã chỉ_định ông lê_tấn_phong  đoàn luật_sư tỉnh quảng_trị  bào_chữa cho thịnh 
-5,với tội_ác gây ra  bị_cáo thịnh đang đối_diện với án tử 
-6,theo cáo_trạng  trần_đình_thịnh và vợ là chị quách_thị_t  sn 1985  quê nga_sơn  thanh_hóa  có với nhau 2 con_trai 
-7,đầu năm 2015  thịnh cùng một_số người dân trong làng sang trung_quốc làm_ăn 
-8,trong thời_gian thịnh đi làm xa  chị t nảy_sinh quan_hệ tình_ái với ông tvl  sn 1976  trú thôn tân_xuân  xã gio_việt  huyện gio_linh  
-9,hay tin ngày 23/7/2015  thịnh tức_tốc về quê và tra hỏi vợ về mối quan_hệ với ông l  sau khi chị t thú_nhận và xin tha_thứ  thịnh đã đồng_ý 
-10,hai vợ_chồng quyết_định sẽ vào bình_dương sinh_sống để cách_ly với ông l 
+0,sáng nay 31/5 khuôn_viên trường_trung_học_cơ_sở gio_việt thôn xuân_ngọc xã gio_việt huyện gio_linh tand tỉnh quảng_trị mở phiên_tòa sơ_thẩm xử lưu_động đối_với bị_cáo trần_đình_thịnh sn 1987 ở xã cam_hiếu huyện cam_lộ quảng_trị về tội giết_người
+1,thịnh bị_cáo_buộc hung_thủ trong vụ_án giết người xảy tối 20/8/2015 ở xã gio_việt làm rúng_động miệt biển quảng_trị
+2,sáng sớm hàng ngàn người dân tới trường_trung_học_cơ_sở gio_việt theo_dõi xử phiên_tòa
+3,biết chủ_tọa phiên_tòa thẩm_phán nguyễn_cường
+4,bị_cáo mời luật_sư tand tỉnh quảng_trị chỉ_định ông lê_tấn_phong đoàn luật_sư tỉnh quảng_trị bào_chữa thịnh
+5,tội_ác gây bị_cáo thịnh đối_diện án tử
+6,cáo_trạng trần_đình_thịnh vợ chị quách_thị_t sn 1985 quê nga_sơn thanh_hóa nhau 2 con_trai
+7,đầu năm 2015 thịnh một_số người dân trong làng sang trung_quốc làm_ăn
+8,trong thời_gian thịnh đi làm xa chị t nảy_sinh quan_hệ tình_ái ông tvl sn 1976 trú thôn tân_xuân xã gio_việt huyện gio_linh
+9,hay tin ngày 23/7/2015 thịnh tức_tốc về quê tra hỏi vợ về mối quan_hệ ông l chị t thú_nhận xin tha_thứ thịnh đồng_ý
+10,hai vợ_chồng quyết_định bình_dương sinh_sống cách_ly ông l

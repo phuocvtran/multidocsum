@@ -1,9 +1,9 @@
 idx, sentence
-0,ông thắng cho biết  ngay sau khi nhận được đề_nghị của ubnd tp hạ_long vào ngày 19/5 về việc tàu hồng_long_qn_– 7038 “ chặt chém ” đoàn khách du_lịch  đơn_vị này đã ra quyết_định đình_chỉ hoạt_động 6 tháng đối_với cả đội tàu du_lịch hồng_long  gồm 6 tàu  kể từ ngày 19/5 
-1,trước đó ngày 15/5  theo phản_ánh của du_khách  đoàn khách của họ gồm 5 người_lớn và 3 trẻ_em  trong đó có một gia_đình việt_kiều  thuê tàu du_lịch hồng_long_qn  7038 của doanh_nghiệp tư_nhân huyền_việt để tham_quan vịnh hạ_long với giá_cả đã được thỏa_thuận trước 
-2,tuy_nhiên  tàu này kết_thúc chuyến đi sớm 2 tiếng so với hợp_đồng  lý_do được nhà tàu giải_thích là do có mưa_giông nên bị gọi về 
-3,đoàn khách này còn “ tố ” bị nhân_viên trên tàu “ ép ” phải thanh_toán bữa ăn với giá gần 8 triệu đồng cộng thêm 600000 đồng_tiền dịch_vụ  cao hơn nhiều so với giá thỏa_thuận 
-4,ubnd tp hạ_long sau khi nhận được phản_ánh của du_khách đã chỉ_đạo các đơn_vị chức_năng vào_cuộc kiểm_tra  xác_minh vụ_việc 
-5,kết_quả ban_đầu cho thấy  tàu hồng_long_qn_– 7038 đã có hành_vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 
-6,được biết  đội tàu hồng_long từ 1/1/2016 đến nay đã 3 lần bị xử_lý vi_phạm  đưa khách vào nhà_bè kinh_doanh hải_sản trái_phép trên vịnh hạ_long  để phương_tiện khác bám buộc vào phương_tiện của mình bán hàng_hóa 
-7,riêng tàu hồng_long_qn_– 7038 đã bị công_an tp hạ_long xử_phạt 3 lần về lỗi vi_phạm để khách đứng ngồi trên mui khi đang hành_trình 
+0,ông thắng biết nhận đề_nghị ubnd tp hạ_long ngày 19/5 về tàu hồng_long_qn_– 7038 “ chặt chém ” đoàn khách du_lịch đơn_vị quyết_định đình_chỉ hoạt_động 6 tháng đối_với đội tàu du_lịch hồng_long gồm 6 tàu kể ngày 19/5
+1,ngày 15/5 phản_ánh du_khách đoàn khách họ gồm 5 người_lớn 3 trẻ_em trong một gia_đình việt_kiều thuê tàu du_lịch hồng_long_qn 7038 doanh_nghiệp tư_nhân huyền_việt tham_quan vịnh hạ_long giá_cả thỏa_thuận
+2,tuy_nhiên tàu kết_thúc chuyến đi sớm 2 tiếng hợp_đồng lý_do nhà tàu giải_thích mưa_giông gọi về
+3,đoàn khách còn “ tố ” nhân_viên tàu “ ép ” thanh_toán bữa ăn giá gần 8 triệu đồng cộng thêm 600000 đồng_tiền dịch_vụ cao hơn giá thỏa_thuận
+4,ubnd tp hạ_long nhận phản_ánh du_khách chỉ_đạo đơn_vị chức_năng vào_cuộc kiểm_tra xác_minh vụ_việc
+5,kết_quả ban_đầu thấy tàu hồng_long_qn_– 7038 hành_vi_phạm niêm_yết_giá hàng_hóa dịch_vụ tàu quy_định giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm
+6,biết đội tàu hồng_long 1/1/2016 đến nay 3 lần xử_lý vi_phạm đưa khách nhà_bè kinh_doanh hải_sản trái_phép vịnh hạ_long phương_tiện khác bám buộc phương_tiện mình bán hàng_hóa
+7,riêng tàu hồng_long_qn_– 7038 công_an tp hạ_long xử_phạt 3 lần về lỗi vi_phạm khách đứng ngồi mui hành_trình

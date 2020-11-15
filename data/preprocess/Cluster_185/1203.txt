@@ -1,8 +1,8 @@
 idx, sentence
-0,hãng hàng_không emirates hôm_qua 31/5 cho biết đã phát_hiện một chàng trai người trung_quốc trốn trong khoang hàng của chuyến bay ek303 từ thượng_hải tới dubai hôm thứ sáu tuần trước 
-1,emirates không nêu rõ danh_tính của thanh_niên này nhưng theo tân_hoa_xã chàng_trai này tên xu  16 tuổi 
-2,“ chúng_tôi đang phối_hợp với giới_chức dubai và đây là vấn_đề của cảnh_sát chúng_tôi không_thể bình_luận gì thêm ”  thông_cáo của emirates nêu rõ 
-3,hiện xu đã được bàn_giao cho cảnh_sát dubai để xử_lý  trong khi nhân_viên lãnh_sự quán trung_quốc tại dubai đã tới sân_bay để tìm_hiểu thêm về vụ_việc 
-4,được biết  xu đã nhảy qua hàng_rào ở sân_bay thượng_hải  sau đó trèo lên khoang hàng của máy_bay 
-5,xu đã trốn trong khoang hàng của máy_bay để tới dubai 
-6,cậu nói rẳng cảm_thấy rất thoải_mái khi ở trong đó mặc_dù không có ghế ngồi  không dây bảo_hiểm  áp_suất thấp và không được ăn_uống gì trong suốt gần 9 tiếng đồng_hồ 
+0,hãng hàng_không emirates hôm_qua 31/5 biết phát_hiện một chàng trai người trung_quốc trốn trong khoang hàng chuyến bay ek303 thượng_hải tới dubai hôm thứ sáu tuần
+1,emirates nêu rõ danh_tính thanh_niên tân_hoa_xã chàng_trai tên xu 16 tuổi
+2,“ chúng_tôi phối_hợp giới_chức dubai vấn_đề cảnh_sát chúng_tôi không_thể bình_luận thêm ” thông_cáo emirates nêu rõ
+3,hiện xu bàn_giao cảnh_sát dubai xử_lý trong nhân_viên lãnh_sự quán trung_quốc dubai tới sân_bay tìm_hiểu thêm về vụ_việc
+4,biết xu nhảy hàng_rào ở sân_bay thượng_hải trèo khoang hàng máy_bay
+5,xu trốn trong khoang hàng máy_bay tới dubai
+6,cậu nói rẳng cảm_thấy thoải_mái ở trong mặc_dù ghế ngồi dây bảo_hiểm áp_suất thấp ăn_uống trong suốt gần 9 tiếng đồng_hồ

@@ -1,18 +1,18 @@
 idx, sentence
-0,chiều 28/5  hàng trăm người dân 3 xã nam_sơn  bắc_sơn  hồng_kỳ đã tập_trung ở hội_trường ubnd xã nam_sơn  huyện sóc_sơn  để tham_dự buổi đối_thoại với người đứng đầu chính_quyền thành_phố 
-1,người dân phản_ánh 70  dân sử_dụng nước giếng_khoan  nhưng chất_lượng nước không đảm_bảo nên đề_xuất thành_phố cung_cấp nước_sạch miễn_phí theo quy_định và trong thời_gian 24/24 h 
-2,bày_tỏ lo_lắng về vấn_đề sức_khoẻ  người dân sống trong vùng ảnh_hưởng ô_nhiễm đề_nghị được hưởng bảo_hiểm y_tế cao nhất cũng như được khám bệnh định_kỳ và phát thuốc miễn_phí 
-3,bên_cạnh đó  người dân đề_nghị thành_phố giám_sát chặt_chẽ  đảm_bảo việc vận_chuyển rác_thải vào nam_sơn phải sử_dụng xe chở rác chuyên_dụng  tránh rơi_vãi và thành_lập lập đường_dây_nóng để bà_con trực_tiếp phản_ánh tình_trạng ô_nhiễm 
-4,những người sống trong vùng ảnh_hưởng ô_nhiễm của khu xử_lý rác_thải cũng bày_tỏ mong_muốn thành_phố nâng mức tiền hỗ_trợ ảnh_hưởng môi_trường  xây_dựng trạm quan_trắc theo_dõi ô_nhiễm không_khí  nguồn nước … phản_hồi ý_kiến người dân  ông nguyễn_đức_chung cho biết thành_phố sẽ nghiên_cứu nâng mức hỗ_trợ cho người dân sống trong vùng ảnh_hưởng để trình hđnd thành_phố quyết_định và trả_lời người dân trong thời_gian sớm nhất 
-5,với đề_nghị được hưởng hỗ_trợ vùng ảnh_hưởng môi_trường phạm_vi 500  1000 m với thời_gian từ năm 1999 đến nay  chủ_tịch hà_nội ghi_nhận và giao các sở  ngành nghiên_cứu đề_xuất phương_án để trình lãnh_đạo thành_phố xem_xét 
-6,về kiến_nghị được hưởng bảo_hiểm y_tế ở mức cao nhất và phải có thẻ sớm  lãnh_đạo thành_phố giao huyện sóc_sơn  xã nam_sơn  cấp thẻ bảo_hiểm y_tế cho tất_cả người dân trong vùng ảnh_hưởng ngay sáng thứ hai  ngày 30/5  
-7,ngoài_ra  sẽ có 9 tổ công_tác khám chữa bệnh ban_đầu cho người dân tại địa_phương  do bộ_tư_lệnh thủ_đô đảm_nhiệm cũng vào sáng 30/5 
-8,thành_phố sẽ làm_việc với bộ y_tế  bảo_hiểm_xã_hội việt_nam họp bàn để nghiên_cứu về mức chi_trả cho người dân trên tinh_thần vận_dụng mức cao nhất 
-9,ông chung chỉ_đạo sở xây_dựng hạn_chế 50  ánh_sáng của tuyến đường chở rác vào ban_đêm để không ảnh_hưởng đến đời_sống của nhân_dân  xây_dựng rãnh thoát nước  thu_gom nước  rác_thải do xe chuyên_chở làm rơi xuống đường vận_chuyển  tổ_chức bơm nước rửa đường hạn_chế ô_nhiễm 
-10,dự_kiến đến đầu năm 2017  toàn_bộ xe chở rác được thay_thế để đảm_bảo môi_trường sạch_sẽ 
-11,các đơn_vị liên_quan cũng được giao xem_xét  rà_soát lắp_đặt đường_ống đến những hộ dân chưa được cung_cấp nước_sạch 
-12,ông nguyễn_đức_chung cho hay  thành_phố đang nỗ_lực giải_quyết vấn_đề ô_nhiễm môi_trường  đặc_biệt là ở xã nam_sơn  trong đó có việc chuyển công_nghệ từ chôn rác cũ sang đốt rác hiện_đại hơn  hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân 
-13,thành_phố cũng đang quy_hoạch xây_dựng nhà_máy xử_lý rác ở nhiều điểm để giảm tải cho bãi rác nam_sơn 
-14,“ ngay ở khu liên_hợp xử_lý rác nam_sơn  hiện có nhiều nhà_đầu_tư nước_ngoài quan_tâm 
-15,tôi đảm_bảo thời_gian tới sẽ có nhà_máy xử_lý rác bằng công_nghệ đốt hiện_đại ở nam_sơn ”  ông chung nói 
-16,sau buổi đối_thoại  người dân đã dỡ bỏ lều bạt  rào_chắn  cho xe vận_chuyển tiếp_tục ra vào khu chôn lấp  xử_lý rác_thải 
+0,chiều 28/5 hàng trăm người dân 3 xã nam_sơn bắc_sơn hồng_kỳ tập_trung ở hội_trường ubnd xã nam_sơn huyện sóc_sơn tham_dự buổi đối_thoại người đứng đầu chính_quyền thành_phố
+1,người dân phản_ánh 70 dân sử_dụng nước giếng_khoan chất_lượng nước đảm_bảo đề_xuất thành_phố cung_cấp nước_sạch miễn_phí quy_định trong thời_gian 24/24 h
+2,bày_tỏ lo_lắng về vấn_đề sức_khoẻ người dân sống trong vùng ảnh_hưởng ô_nhiễm đề_nghị hưởng bảo_hiểm y_tế cao nhất khám bệnh định_kỳ phát thuốc miễn_phí
+3,bên_cạnh người dân đề_nghị thành_phố giám_sát chặt_chẽ đảm_bảo vận_chuyển rác_thải nam_sơn sử_dụng xe chở rác chuyên_dụng tránh rơi_vãi thành_lập lập đường_dây_nóng bà_con trực_tiếp phản_ánh tình_trạng ô_nhiễm
+4,người sống trong vùng ảnh_hưởng ô_nhiễm khu xử_lý rác_thải bày_tỏ mong_muốn thành_phố nâng mức tiền hỗ_trợ ảnh_hưởng môi_trường xây_dựng trạm quan_trắc theo_dõi ô_nhiễm không_khí nguồn nước … phản_hồi ý_kiến người dân ông nguyễn_đức_chung biết thành_phố nghiên_cứu nâng mức hỗ_trợ người dân sống trong vùng ảnh_hưởng trình hđnd thành_phố quyết_định trả_lời người dân trong thời_gian sớm nhất
+5,đề_nghị hưởng hỗ_trợ vùng ảnh_hưởng môi_trường phạm_vi 500 1000 m thời_gian năm 1999 đến nay chủ_tịch hà_nội ghi_nhận giao sở ngành nghiên_cứu đề_xuất phương_án trình lãnh_đạo thành_phố xem_xét
+6,về kiến_nghị hưởng bảo_hiểm y_tế ở mức cao nhất thẻ sớm lãnh_đạo thành_phố giao huyện sóc_sơn xã nam_sơn cấp thẻ bảo_hiểm y_tế tất_cả người dân trong vùng ảnh_hưởng sáng thứ hai ngày 30/5
+7,ngoài_ra 9 tổ công_tác khám chữa bệnh ban_đầu người dân địa_phương bộ_tư_lệnh thủ_đô đảm_nhiệm sáng 30/5
+8,thành_phố làm_việc bộ y_tế bảo_hiểm_xã_hội việt_nam họp bàn nghiên_cứu về mức chi_trả người dân tinh_thần vận_dụng mức cao nhất
+9,ông chung chỉ_đạo sở xây_dựng hạn_chế 50 ánh_sáng tuyến đường chở rác ban_đêm ảnh_hưởng đến đời_sống nhân_dân xây_dựng rãnh thoát nước thu_gom nước rác_thải xe chuyên_chở làm rơi xuống đường vận_chuyển tổ_chức bơm nước rửa đường hạn_chế ô_nhiễm
+10,dự_kiến đến đầu năm 2017 toàn_bộ xe chở rác thay_thế đảm_bảo môi_trường sạch_sẽ
+11,đơn_vị liên_quan giao xem_xét rà_soát lắp_đặt đường_ống đến hộ dân cung_cấp nước_sạch
+12,ông nguyễn_đức_chung hay thành_phố nỗ_lực giải_quyết vấn_đề ô_nhiễm môi_trường đặc_biệt ở xã nam_sơn trong chuyển công_nghệ chôn rác cũ sang đốt rác hiện_đại hơn hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân
+13,thành_phố quy_hoạch xây_dựng nhà_máy xử_lý rác ở điểm giảm tải bãi rác nam_sơn
+14,“ ở khu liên_hợp xử_lý rác nam_sơn hiện nhà_đầu_tư nước_ngoài quan_tâm
+15,tôi đảm_bảo thời_gian tới nhà_máy xử_lý rác bằng công_nghệ đốt hiện_đại ở nam_sơn ” ông chung nói
+16,buổi đối_thoại người dân dỡ bỏ lều bạt rào_chắn xe vận_chuyển tiếp_tục khu chôn lấp xử_lý rác_thải

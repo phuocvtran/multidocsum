@@ -1,8 +1,8 @@
 idx, sentence
-0,ngày 16  phòng cảnh_sát điều_tra tội_phạm về ma_túy  pc 47  công_an tp hải_phòng phối_hợp đội kiểm_soát hải_quan  cục hải_quan hải_phòng  ban phòng_chống tội_phạm ma_túy  bộ_tư_lệnh vùng cảnh_sát biển 1 bắt quả_tang tráng láo_tú  48 tuổi  trú bản a_lá  xã lóng_sập  huyện mộc_châu  tỉnh sơn_la khi tú đang vận_chuyển ma_túy từ taxi xuống đường đà_nẵng  qngô_quyền  tp hải_phòng 
-1,cơ_quan_chức_năng đã thu_giữ trên người của tú hai bánh heroin có tổng trọng_lượng 698 gam cùng một_số tang_vật liên_quan khác 
-2,việc bắt_giữ tú nằm trong chuyên_án mang bí_số 516t do phòng pc47 công_an tp hải_phòng lập để đấu_tranh triệt_phá đường_dây tàng_trữ  vận_chuyển  mua_bán trái_phép chất ma_túy với số_lượng lớn 
-3,trước đó  phòng pc47 đã nắm thông_tin về một đường_dây mua_bán ma_túy  heroin  số_lượng lớn từ tuyến biên_giới tây_bắc  tỉnh sơn_la về tp hải_phòng sau đó tiếp_tục phân_phối đi các tỉnh_thành khác tiêu_thụ 
-4,tập_trung xác_minh làm rõ  phòng pc47 xác_định người cầm_đầu đường_dây trên là tráng láo_tú  người dân_tộc mông  trú tại bản a_lá  xã lóng_sập  huyện mộc_châu  tỉnh sơn_la 
-5,cơ_quan công_an xác_định được tráng_láo_tú có quan_hệ phức_tạp và cấu_kết chặt_chẽ với với nhiều đối_tượng có tiền_án  tiền_sự về ma_túy ở các tỉnh_thành_phố  trong đó có một_số đối_tượng sinh_sống tại hải_phòng để tạo thành đường_dây phạm_tội khép_kín với thủ_đoạn hoạt_động tinh_vi 
-6,bằng các biện_pháp nghiệp_vụ  ban chuyên_án đã theo_dõi và bắt quả_tang ngay khi tráng láo_tú đích_thân mang hai bánh heroin đi xe_khách từ sơn_la đến hải_phòng để giao_dịch như trên 
+0,ngày 16 phòng cảnh_sát điều_tra tội_phạm về ma_túy pc 47 công_an tp hải_phòng phối_hợp đội kiểm_soát hải_quan cục hải_quan hải_phòng ban phòng_chống tội_phạm ma_túy bộ_tư_lệnh vùng cảnh_sát biển 1 bắt quả_tang tráng láo_tú 48 tuổi trú bản a_lá xã lóng_sập huyện mộc_châu tỉnh sơn_la tú vận_chuyển ma_túy taxi xuống đường đà_nẵng qngô_quyền tp hải_phòng
+1,cơ_quan_chức_năng thu_giữ người tú hai bánh heroin tổng trọng_lượng 698 gam một_số tang_vật liên_quan khác
+2,bắt_giữ tú nằm trong chuyên_án mang bí_số 516t phòng pc47 công_an tp hải_phòng lập đấu_tranh triệt_phá đường_dây tàng_trữ vận_chuyển mua_bán trái_phép chất ma_túy số_lượng lớn
+3,phòng pc47 nắm thông_tin về một đường_dây mua_bán ma_túy heroin số_lượng lớn tuyến biên_giới tây_bắc tỉnh sơn_la về tp hải_phòng tiếp_tục phân_phối đi tỉnh_thành khác tiêu_thụ
+4,tập_trung xác_minh làm rõ phòng pc47 xác_định người cầm_đầu đường_dây tráng láo_tú người dân_tộc mông trú bản a_lá xã lóng_sập huyện mộc_châu tỉnh sơn_la
+5,cơ_quan công_an xác_định tráng_láo_tú quan_hệ phức_tạp cấu_kết chặt_chẽ đối_tượng tiền_án tiền_sự về ma_túy ở tỉnh_thành_phố trong một_số đối_tượng sinh_sống hải_phòng tạo thành đường_dây phạm_tội khép_kín thủ_đoạn hoạt_động tinh_vi
+6,bằng biện_pháp nghiệp_vụ ban chuyên_án theo_dõi bắt quả_tang tráng láo_tú đích_thân mang hai bánh heroin đi xe_khách sơn_la đến hải_phòng giao_dịch

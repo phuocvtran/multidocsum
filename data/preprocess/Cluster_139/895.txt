@@ -1,16 +1,16 @@
 idx, sentence
-0,sáng 275  thông_tin từ chính_quyền xã thanh_tường  huyện thanh_chương  nghệ_an cho biết  tại địa_phương vừa_mới xảy ra vụ_việc một người đàn_ông bị chém lìa ngón tay 
-1,ông nguyễn_quang_lộc thông_tin  khoảng 19 h ngày 245  ông đi ra quán tạp_hóa của gia_đình  cách nhà khoảng 500 m  để mở quán bán hàng 
-2,khi vừa ra khỏi cổng nhà  ông gặp hai người đàn_ông đi xe_máy hỏi ông có phải là ông lộc không và bảo ông ra quán tạp_hóa  lát nữa họ sẽ ra mua hàng 
-3,theo lời ông lộc kể lại  khi đến quán ông gặp anh nguyễn_thế_định  trú cùng xóm 3  
-4, anh định nói lúc chiều có hai người_lạ_mặt đến quán tìm tôi và dặn tôi phải cẩn_thận   ông lộc nói 
-5,một lát sau có anh nguyễn_huy_nguyệt là công_an_viên xóm đến vì nhận được thông_tin có hai người_lạ_mặt tìm ông lộc 
-6,đến 20 h 15  hai người đàn_ông lạ_mặt đến dừng xe trước quán gia_đình tôi 
-7,một người vẫn ngồi trên xe  một người mặc bộ quần_áo màu đen đi vào quán hỏi mua một gói bim bim 
-8,“ tôi lấy bim bim đưa cho anh ta 
-9,tôi vào bàn ngồi  thấy anh ta đi vào  tôi nghĩ vào trả tiền 
-10,bất_ngờ anh đó rút con dao chém vào hai tay tôi đang đặt cạnh nhau trên đùi 
-11,quá bất_ngờ tôi không kịp phản_ứng  ngón cái bàn_tay trái bị chém đứt lìa  rơi xuống nền nhà  ngón cái bàn tay phải bị chém đứt sâu nửa ngón ” 
-12,ngay sau khi gây_án  hai người này lên xe_máy bỏ chạy 
-13,ông lộc được đưa đến bv đa_khoa huyện thanh_chương cấp_cứu rồi chuyển lên bv chấn_thương chỉnh_hình nghệ_an 
-14,ông lộc cho rằng thời_gian gần đây ông có viết đơn tố_cáo một_số cán_bộ vi_phạm trong công_tác quản_lý  sử_dụng tài_chính liên_quan đến kinh_phí xây_dựng trường tiểu_học 
+0,sáng 275 thông_tin chính_quyền xã thanh_tường huyện thanh_chương nghệ_an biết địa_phương vừa_mới xảy vụ_việc một người đàn_ông chém lìa ngón tay
+1,ông nguyễn_quang_lộc thông_tin khoảng 19 h ngày 245 ông đi quán tạp_hóa gia_đình cách nhà khoảng 500 m mở quán bán hàng
+2,khỏi cổng nhà ông gặp hai người đàn_ông đi xe_máy hỏi ông ông lộc bảo ông quán tạp_hóa lát họ mua hàng
+3,lời ông lộc kể đến quán ông gặp anh nguyễn_thế_định trú xóm 3
+4,anh định nói chiều hai người_lạ_mặt đến quán tìm tôi dặn tôi cẩn_thận ông lộc nói
+5,một lát anh nguyễn_huy_nguyệt công_an_viên xóm đến nhận thông_tin hai người_lạ_mặt tìm ông lộc
+6,đến 20 h 15 hai người đàn_ông lạ_mặt đến dừng xe quán gia_đình tôi
+7,một người ngồi xe một người mặc bộ quần_áo màu đen đi quán hỏi mua một gói bim bim
+8,“ tôi lấy bim bim đưa anh ta
+9,tôi bàn ngồi thấy anh ta đi tôi nghĩ trả tiền
+10,bất_ngờ anh rút con dao chém hai tay tôi đặt cạnh nhau đùi
+11,quá bất_ngờ tôi kịp phản_ứng ngón bàn_tay trái chém đứt lìa rơi xuống nền nhà ngón bàn tay chém đứt sâu nửa ngón ”
+12,gây_án hai người xe_máy bỏ chạy
+13,ông lộc đưa đến bv đa_khoa huyện thanh_chương cấp_cứu chuyển bv chấn_thương chỉnh_hình nghệ_an
+14,ông lộc thời_gian gần ông viết đơn tố_cáo một_số cán_bộ vi_phạm trong công_tác quản_lý sử_dụng tài_chính liên_quan đến kinh_phí xây_dựng trường tiểu_học

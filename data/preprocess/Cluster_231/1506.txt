@@ -1,15 +1,15 @@
 idx, sentence
-0,ngày hôm_qua  hãng cies_football_observatory công_bố danh_sách 100 cầu_thủ đắt_giá nhất thế_giới 
-1,trong đó  messi vẫn chiếm vị_trí số 1 với giá_trị 163 triệu bảng 
-2,tuy_nhiên  đứng ở vị_trí thứ 2 không còn là cronaldo
-3,thay vào đó  neymar đã nhảy lên chiếm vị_trí của “ siêu_sao ” người bồ_đào_nha 
-4,giá_trị của tiền_đạo người brazil ở thời_điểm này vào_khoảng 155 triệu bảng 
-5,trong khi đó  giá_trị của cronaldo giảm sâu  xuống còn 106 triệu bảng 
-6,mặc_dù vẫn duy_trì được phong_độ cao nhưng cronaldo đã bước sang tuổi 31 
-7,do_đó  yếu_tố này khiến mức giá của anh không_thể đẩy lên cao 
-8,ngoài 3 vị_trí dẫn_đầu được xem là hợp_lý  những vị_trí khác trong đầu gây ra rất nhiều tranh_cãi 
-9,điển_hình_như việc gareth_bale chỉ xếp thứ 11 với 62 triệu bảng  paul_pogba xếp thứ 10 với 70 triệu bảng 
-10,trong khi đó  antoine_griezmann đứng thứ 4 với 93 triệu bảng  harry_kane xếp thứ 5 với 87 triệu bảng 
-11,đứng tiếp_theo là anthony_martial với 86 triệu bảng 
-12,trong khi đó  suarez  cầu_thủ đạt phong_độ rất cao ở mùa này chỉ xếp thứ 7 với 81 triệu bảng 
-13,đứng tiếp_theo là paulo_dybala  thứ 8  80 triệu bảng  và sergio_aguero  thứ 9  75 triệu bảng  
+0,ngày hôm_qua hãng cies_football_observatory công_bố danh_sách 100 cầu_thủ đắt_giá nhất thế_giới
+1,trong messi chiếm vị_trí số 1 giá_trị 163 triệu bảng
+2,tuy_nhiên đứng ở vị_trí thứ 2 còn cronaldo
+3,thay neymar nhảy chiếm vị_trí “ siêu_sao ” người bồ_đào_nha
+4,giá_trị tiền_đạo người brazil ở thời_điểm vào_khoảng 155 triệu bảng
+5,trong giá_trị cronaldo giảm sâu xuống còn 106 triệu bảng
+6,mặc_dù duy_trì phong_độ cao cronaldo bước sang tuổi 31
+7,do_đó yếu_tố khiến mức giá anh không_thể đẩy cao
+8,ngoài 3 vị_trí dẫn_đầu xem hợp_lý vị_trí khác trong đầu gây tranh_cãi
+9,điển_hình_như gareth_bale xếp thứ 11 62 triệu bảng paul_pogba xếp thứ 10 70 triệu bảng
+10,trong antoine_griezmann đứng thứ 4 93 triệu bảng harry_kane xếp thứ 5 87 triệu bảng
+11,đứng tiếp_theo anthony_martial 86 triệu bảng
+12,trong suarez cầu_thủ đạt phong_độ cao ở mùa xếp thứ 7 81 triệu bảng
+13,đứng tiếp_theo paulo_dybala thứ 8 80 triệu bảng sergio_aguero thứ 9 75 triệu bảng

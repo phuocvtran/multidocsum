@@ -1,22 +1,22 @@
 idx, sentence
-0,đại_diện cơ_sở chế_biến thực_phẩm việt  vietfoods  bình_dương  cho biết chi_cục quản_lý thị_trường_hà_nội đã trả lô hàng 22 tấn xúc_xích bị tạm giữ nhưng không hề có một lời xin_lỗi 
-1,thông_tin nêu trên được công_bố trong buổi họp báo công_bố “ sản_phẩm vietfoods an_toàn với người tiêu_dùng ” tổ_chức tại tphcm ngày 295 
-2,theo đại_diện doanh_nghiệp  đơn_vị đã chuẩn_bị tất_cả bằng_chứng  giấy_tờ pháp_lý để thực_hiện việc khởi_kiện nếu chi_cục quản_lý thị_trường  qltt  hà_nội tiếp_tục dây_dưa  không thừa_nhận sai_phạm 
-3,không có quyết_định hủy_bỏ biên_bản vi_phạm hành_chính mở_đầu họp_báo  ông nguyễn_văn_đức  luật_sư đại_diện vietfoods  đọc quyết_định trả tang_vật tạm giữ của chi_cục qltt hà_nội  biên_bản được ký ngày 235 
-4,theo đó  toàn_bộ tang_vật gồm hơn 22 tấn xúc_xích do đội qltt 14 tạm giữ được trả lại cho công_ty tnhh thương_mại hùng_anh  qhoàng_mai  hà_nội  
-5,quyết_định này nêu rõ lý_do  “ doanh_nghiệp không có hành_vi vi_phạm hành_chính như nội_dung ghi trong biên_bản vi_phạm hành_chính ngày 264  ” 
-6,như_vậy  sau hơn một tháng bị tạm giữ  toàn_bộ số hàng_hóa được trao trả lại cho doanh_nghiệp  trong đó phần_lớn sản_phẩm đã hết và gần hết hạn sử_dụng 
-7,tuy_nhiên bà huỳnh_vũ_thị_minh_loan  đại_diện chủ cơ_sở vietfoods  cho biết sau khi kiểm_tra công_ty hùng_anh  qltt_lập hai biên_bản vi_phạm hành_chính  một với công_ty hùng_anh và một với vietfoods 
-8,đến thời_điểm này  qltt hà_nội vẫn chưa có bất_cứ quyết_định gì về việc hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods 
-9,“ khi tiến_hành kiểm_tra  qltt làm rốt_ráo  công_bố thông_tin rầm_rộ trên các phương_tiện truyền_thông 
-10,nhưng khi trả hàng họ làm âm_thầm như chưa có chuyện gì xảy ra  cũng như không một lời xin_lỗi  thậm_chí vẫn khẳng_định họ làm  đúng quy_trình ”  bà loan bức_xúc 
-11,theo bà loan  thời_điểm này cơ_sở bắt_đầu cho công_nhân sản_xuất trở_lại 
-12,tuy_nhiên  sản_lượng đưa ra thị_trường chỉ bằng 1/10 thời_điểm chưa bị qltt kiểm_tra do hệ_thống phân_phối  niềm tin của người tiêu_dùng chưa_thể phục_hồi 
-13,trước sự chậm_trễ trong xử_lý của qltt hà_nội cùng sự thiệt_hại do việc bị thu_giữ hàng  đại_diện vietfoods cho biết trong 10 ngày nữa nếu qltt hà_nội không hủy biên_bản vi_phạm hành_chính với vietfoods  không thừa_nhận sai và xin_lỗi thì doanh_nghiệp sẽ khởi_kiện 
-14,“ chúng_tôi đã lập vi bằng các bài báo đưa thông_tin từ phát_biểu của đại_diện qltt  thống_kê các thiệt_hại và chuẩn_bị hồ_sơ để tiến_hành việc khởi_kiện  theo vi bằng được lập  có gần 500 bài báo đăng thông_tin sản_phẩm vietfoods chứa_chất cấm  gây ung_thư ”  luật_sư đức bày_tỏ 
-15,vạ lây không chỉ vietfoods là nạn_nhân chịu ảnh_hưởng  tại buổi họp_báo nhiều doanh_nghiệp cung_ứng nguyên_liệu  sản_xuất xúc_xích  thịt đóng hộp cũng bị vạ lây do tâm_lý lo_ngại của người tiêu_dùng 
-16,“ hầu_hết các sản_phẩm chế_biến từ thịt của công_ty bị giảm sản_lượng 
-17,đặc_biệt  đối_với sản_phẩm xúc_xích tiệt_trùng giảm khoảng 30  sản_lượng ”  ông nguyễn_thành_chánh  trưởng_phòng kinh_doanh công_ty cp đồ_hộp hạ_long  cho hay 
-18,trong khi đó  các công_ty phân_phối nguyên_liệu thực_phẩm cho sản_xuất chế_biến thịt như behn_meyer  đức   connell_bros  mỹ  khẳng_định 50  sản_lượng thịt cung_ứng thị_trường bị sụt giảm sau sự_cố này 
-19,tại họp_báo  ông nguyễn_thành_danh  phó chi_cục_trưởng qltt bình_dương  cho biết địa_phương đã lập đoàn liên_ngành kiểm_tra cơ_sở sản_xuất của doanh_nghiệp sau thông_tin nghi_ngờ doanh_nghiệp sử_dụng chất cấm 
-20,kết_luận sau khi kiểm_tra khẳng_định cơ_sở này không có vi_phạm 
+0,đại_diện cơ_sở chế_biến thực_phẩm việt vietfoods bình_dương biết chi_cục quản_lý thị_trường_hà_nội trả lô hàng 22 tấn xúc_xích tạm giữ hề một lời xin_lỗi
+1,thông_tin nêu công_bố trong buổi họp báo công_bố “ sản_phẩm vietfoods an_toàn người tiêu_dùng ” tổ_chức tphcm ngày 295
+2,đại_diện doanh_nghiệp đơn_vị chuẩn_bị tất_cả bằng_chứng giấy_tờ pháp_lý thực_hiện khởi_kiện chi_cục quản_lý thị_trường qltt hà_nội tiếp_tục dây_dưa thừa_nhận sai_phạm
+3,quyết_định hủy_bỏ biên_bản vi_phạm hành_chính mở_đầu họp_báo ông nguyễn_văn_đức luật_sư đại_diện vietfoods đọc quyết_định trả tang_vật tạm giữ chi_cục qltt hà_nội biên_bản ký ngày 235
+4,toàn_bộ tang_vật gồm hơn 22 tấn xúc_xích đội qltt 14 tạm giữ trả công_ty tnhh thương_mại hùng_anh qhoàng_mai hà_nội
+5,quyết_định nêu rõ lý_do “ doanh_nghiệp hành_vi vi_phạm hành_chính nội_dung ghi trong biên_bản vi_phạm hành_chính ngày 264 ”
+6,như_vậy hơn một tháng tạm giữ toàn_bộ số hàng_hóa trao trả doanh_nghiệp trong phần_lớn sản_phẩm hết gần hết hạn sử_dụng
+7,tuy_nhiên bà huỳnh_vũ_thị_minh_loan đại_diện chủ cơ_sở vietfoods biết kiểm_tra công_ty hùng_anh qltt_lập hai biên_bản vi_phạm hành_chính một công_ty hùng_anh một vietfoods
+8,đến thời_điểm qltt hà_nội bất_cứ quyết_định về hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods
+9,“ tiến_hành kiểm_tra qltt làm rốt_ráo công_bố thông_tin rầm_rộ phương_tiện truyền_thông
+10,trả hàng họ làm âm_thầm xảy một lời xin_lỗi thậm_chí khẳng_định họ làm đúng quy_trình ” bà loan bức_xúc
+11,bà loan thời_điểm cơ_sở bắt_đầu công_nhân sản_xuất trở_lại
+12,tuy_nhiên sản_lượng đưa thị_trường bằng 1/10 thời_điểm qltt kiểm_tra hệ_thống phân_phối niềm tin người tiêu_dùng chưa_thể phục_hồi
+13,chậm_trễ trong xử_lý qltt hà_nội thiệt_hại thu_giữ hàng đại_diện vietfoods biết trong 10 ngày qltt hà_nội hủy biên_bản vi_phạm hành_chính vietfoods thừa_nhận sai xin_lỗi doanh_nghiệp khởi_kiện
+14,“ chúng_tôi lập vi bằng bài báo đưa thông_tin phát_biểu đại_diện qltt thống_kê thiệt_hại chuẩn_bị hồ_sơ tiến_hành khởi_kiện vi bằng lập gần 500 bài báo đăng thông_tin sản_phẩm vietfoods chứa_chất cấm gây ung_thư ” luật_sư đức bày_tỏ
+15,vạ lây vietfoods nạn_nhân chịu ảnh_hưởng buổi họp_báo doanh_nghiệp cung_ứng nguyên_liệu sản_xuất xúc_xích thịt đóng hộp vạ lây tâm_lý lo_ngại người tiêu_dùng
+16,“ hầu_hết sản_phẩm chế_biến thịt công_ty giảm sản_lượng
+17,đặc_biệt đối_với sản_phẩm xúc_xích tiệt_trùng giảm khoảng 30 sản_lượng ” ông nguyễn_thành_chánh trưởng_phòng kinh_doanh công_ty cp đồ_hộp hạ_long hay
+18,trong công_ty phân_phối nguyên_liệu thực_phẩm sản_xuất chế_biến thịt behn_meyer đức connell_bros mỹ khẳng_định 50 sản_lượng thịt cung_ứng thị_trường sụt giảm sự_cố
+19,họp_báo ông nguyễn_thành_danh phó chi_cục_trưởng qltt bình_dương biết địa_phương lập đoàn liên_ngành kiểm_tra cơ_sở sản_xuất doanh_nghiệp thông_tin nghi_ngờ doanh_nghiệp sử_dụng chất cấm
+20,kết_luận kiểm_tra khẳng_định cơ_sở vi_phạm

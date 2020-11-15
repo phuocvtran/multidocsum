@@ -1,9 +1,9 @@
 idx, sentence
-0,dài 57 km và sâu 23 km  đường_hầm gotthard_base_tunnel  gbt  sẽ kết_nối phần phía bắc với phía nam châu_âu và rút ngắn thời_gian đi_lại cho nhiều tuyến đường xe_lửa 
-1,nó vượt qua đường_hầm seikan dài 539 km của nhật_bản  trở_thành đường_hầm xe_lửa dài nhất thế_giới 
-2,thủ_tướng đức_angela_merkel  tổng_thống pháp francois_hollande và thủ_tướng italia_matteo_renzi sẽ cùng giới_chức thụy_sĩ tham_dự lễ khánh_thành đường_hầm này 
-3,họ đi trên chuyến tàu đầu_tiên xuyên qua đường_hầm vào hôm_nay 16 
-4,đường_hầm sẽ đi vào hoạt_động đầy_đủ trong tháng 122016 
-5,đường_hầm gbt nối thành_phố erstfeld thuộc bang uri ở miền trung thụy_sĩ với thành_phố bodio của vùng ticino ở miền nam 
-6,tàu_hỏa chạy với vận_tốc lên tới 200 km / h có_thể rút ngắn được thời_gian đi_lại từ thành_phố zurich của thụy_sĩ đến milan  italia từ khoảng 1 giờ cho đến hai giờ 40 phút 
-7,cơ_quan đường_sắt liên_bang thụy_sĩ ước_tính  hành_khách sử_dụng đường_hầm này sẽ tăng từ 9000 lượt người một ngày lên khoảng 15000 lượt trước năm 2020 
+0,dài 57 km sâu 23 km đường_hầm gotthard_base_tunnel gbt kết_nối phần phía bắc phía nam châu_âu rút ngắn thời_gian đi_lại tuyến đường xe_lửa
+1,nó vượt đường_hầm seikan dài 539 km nhật_bản trở_thành đường_hầm xe_lửa dài nhất thế_giới
+2,thủ_tướng đức_angela_merkel tổng_thống pháp francois_hollande thủ_tướng italia_matteo_renzi giới_chức thụy_sĩ tham_dự lễ khánh_thành đường_hầm
+3,họ đi chuyến tàu đầu_tiên xuyên đường_hầm hôm_nay 16
+4,đường_hầm đi hoạt_động đầy_đủ trong tháng 122016
+5,đường_hầm gbt nối thành_phố erstfeld thuộc bang uri ở miền trung thụy_sĩ thành_phố bodio vùng ticino ở miền nam
+6,tàu_hỏa chạy vận_tốc tới 200 km / h rút ngắn thời_gian đi_lại thành_phố zurich thụy_sĩ đến milan italia khoảng 1 giờ đến hai giờ 40 phút
+7,cơ_quan đường_sắt liên_bang thụy_sĩ ước_tính hành_khách sử_dụng đường_hầm tăng 9000 lượt người một ngày khoảng 15000 lượt năm 2020

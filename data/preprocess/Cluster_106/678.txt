@@ -1,8 +1,8 @@
 idx, sentence
-0,theo thông_tin từ cảnh_sát thái_lan  hỏa_hoạn xảy ra vào lúc 23 giờ ngày 22/5  theo giờ_địa_phương  khi 38 nữ_sinh tại trường pithakkiart_witthaya  trong độ tuổi từ 5 tới 12 tuổi  đang ngủ tại khu ký_túc_xá của trường 
-1,ngoài 17 em thiệt_mạng  còn 2 em vẫn đang mất_tích và 5 em khác bị_thương 
-2,cảnh_sát cho biết  một_số học_sinh đã tỉnh dậy vào lúc đám cháy xảy ra và nhanh_chóng thoát ra ngoài 
-3,tuy_nhiên  các em khác vẫn đang ngủ và không hay biết chuyện gì đang xảy ra 
-4,báo thái_lan cho biết thi_thể các nạn_nhân đã được đưa tới bệnh_viện địa_phương để nhận_dạng  trong khi cuộc tìm_kiếm các nạn_nhân mất_tích vẫn đang được khẩn_trương tiến_hành 
-5,trường pithakkiart_witthaya là trường tư_thục và mới đi vào hoạt_động được khoảng 5 năm 
-6,hầu_hết học_sinh là người dân_tộc_thiểu_số xuống thị_trấn để học và ở nội_trú trong ký_túc_xá của trường 
+0,thông_tin cảnh_sát thái_lan hỏa_hoạn xảy 23 giờ ngày 22/5 giờ_địa_phương 38 nữ_sinh trường pithakkiart_witthaya trong độ tuổi 5 tới 12 tuổi ngủ khu ký_túc_xá trường
+1,ngoài 17 em thiệt_mạng còn 2 em mất_tích 5 em khác bị_thương
+2,cảnh_sát biết một_số học_sinh tỉnh dậy đám cháy xảy nhanh_chóng thoát ngoài
+3,tuy_nhiên em khác ngủ hay biết xảy
+4,báo thái_lan biết thi_thể nạn_nhân đưa tới bệnh_viện địa_phương nhận_dạng trong cuộc tìm_kiếm nạn_nhân mất_tích khẩn_trương tiến_hành
+5,trường pithakkiart_witthaya trường tư_thục mới đi hoạt_động khoảng 5 năm
+6,hầu_hết học_sinh người dân_tộc_thiểu_số xuống thị_trấn học ở nội_trú trong ký_túc_xá trường

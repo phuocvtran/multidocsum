@@ -1,10 +1,10 @@
 idx, sentence
-0,theo international_business_times  tên khủng_bố béo phì không rõ danh_tính được cho là xuất_hiện trong đoạn video mới của lực_lượng_vũ_trang syria 
-1,video được một câu_lạc_bộ nhà_báo trẻ đăng_tải 
-2,trong video  tên phiến_quân béo phì cởi_trần  bị trói tay sau lưng  ném vào sau xe và bị những người bắt_giữ chế_nhạo 
-3,đao_phủ sau đó được chở đi nhưng không rõ điểm đến  có_thể là một nhà_tù ở syria 
-4,hiện chưa rõ đoạn video được quay ở đâu tại syria 
-5,đao_phủ  xe ủi  từng xuất_hiện trong các video chặt đầu lính peshmerga người kurd 
-6,tên này bắt_đầu có biệt_danh vào tháng 6/2014  sau khi bức ảnh hắn một_mình cầm khẩu súng_máy browning nặng 52 kg  dài 15 m  chứa đầy đạn được lan_truyền 
-7,hắn trở_nên khét_tiếng sau khi chặt tay  chân một thiếu_niên 14 tuổi 
-8,tên này nặng 127 kg 
+0,international_business_times tên khủng_bố béo phì rõ danh_tính xuất_hiện trong đoạn video mới lực_lượng_vũ_trang syria
+1,video một câu_lạc_bộ nhà_báo trẻ đăng_tải
+2,trong video tên phiến_quân béo phì cởi_trần trói tay lưng ném xe người bắt_giữ chế_nhạo
+3,đao_phủ chở đi rõ điểm đến một nhà_tù ở syria
+4,hiện rõ đoạn video quay ở đâu syria
+5,đao_phủ xe ủi xuất_hiện trong video chặt đầu lính peshmerga người kurd
+6,tên bắt_đầu biệt_danh tháng 6/2014 bức ảnh hắn một_mình cầm khẩu súng_máy browning nặng 52 kg dài 15 m chứa đầy đạn lan_truyền
+7,hắn trở_nên khét_tiếng chặt tay chân một thiếu_niên 14 tuổi
+8,tên nặng 127 kg

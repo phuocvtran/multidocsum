@@ -1,15 +1,15 @@
 idx, sentence
-0,marco reus đã rất mong được đến pháp cùng các đồng_đội  sau khi buộc phải vắng_mặt ở brazil  tại ngày hội world_cup cách đây 2 năm vì chấn_thương nặng 
-1,tuy_nhiên  điều ấy đã không xảy ra  anh đã nhận  quà đắng  từ hlv loew đúng trong ngày_sinh_nhật  31/5  
-2,theo giải_thích của nhà cầm_quân 56 tuổi  tác_giả 23 bàn thắng cho dortmund mùa vừa_qua gặp vấn_đề lớn về thể_lực 
-3,ông giải_thích về lựa_chọn gây sốc của mình   reus bây_giờ chỉ có_thể chạy túc_tắc 
-4,cậu ấy không_thể làm gì hơn trong tập_luyện 
-5,đội_ngũ y_tế nghi_ngờ cậu ấy không_thể đảm_bảo thể_lực 
-6,loại cậu ấy là một quyết_định cay_đắng cho reus và chúng_tôi 
-7,bởi nếu đảm_bảo được phong_độ  cậu ấy sẽ là một gia_sản lớn của tuyển đức  
-8,theo thông_tin  reus bị chấn_thương háng và chưa biết khi nào hoàn_toàn bình_phục 
-9,sami_khedira  người đeo băng đội_trưởng trong trận đức thua slovakia 13  phát_biểu   đó là một đòn đau cho cậu ấy 
-10,cũng giống như world_cup 2014  cậu ấy đã gặp trở_ngại lớn 
-11,tôi tin reus sẽ có một cơ_hội khác trên sân_khấu lớn  
-12,mario gotze cũng an_ủi đồng_đội cũ ở dortmund   chúngtôi thực_sự buồn 
-13,nó khiến tôi đau  
+0,marco reus mong đến pháp đồng_đội buộc vắng_mặt ở brazil ngày hội world_cup cách 2 năm chấn_thương nặng
+1,tuy_nhiên ấy xảy anh nhận quà đắng hlv loew đúng trong ngày_sinh_nhật 31/5
+2,giải_thích nhà cầm_quân 56 tuổi tác_giả 23 bàn thắng dortmund mùa vừa_qua gặp vấn_đề lớn về thể_lực
+3,ông giải_thích về lựa_chọn gây sốc mình reus bây_giờ chạy túc_tắc
+4,cậu ấy không_thể làm hơn trong tập_luyện
+5,đội_ngũ y_tế nghi_ngờ cậu ấy không_thể đảm_bảo thể_lực
+6,loại cậu ấy một quyết_định cay_đắng reus chúng_tôi
+7,đảm_bảo phong_độ cậu ấy một gia_sản lớn tuyển đức
+8,thông_tin reus chấn_thương háng biết nào hoàn_toàn bình_phục
+9,sami_khedira người đeo băng đội_trưởng trong trận đức thua slovakia 13 phát_biểu một đòn đau cậu ấy
+10,giống world_cup 2014 cậu ấy gặp trở_ngại lớn
+11,tôi tin reus một cơ_hội khác sân_khấu lớn
+12,mario gotze an_ủi đồng_đội cũ ở dortmund chúngtôi thực_sự buồn
+13,nó khiến tôi đau

@@ -1,6 +1,6 @@
 idx, sentence
-0,chuyến bay đầu_tiên của vietjet tới kula_lumpur mang số_hiệu vj825 đã hạ_cánh lúc 12  00  giờ_địa_phương  với sự chào_đón nhiệt_liệt của người_dân và đoàn lãnh_đạo cấp cao hai nước việt_nam và malaysia  gồm có sự hiện_diện của phó_thủ_tướng nước chxhcn việt_nam trịnh_đình_dũng  lãnh_đạo bộ giao_thông vận_tải việt_nam  lãnh_đạo bộ giao_thông vận_tải malaysia và lãnh_đạo các ban_ngành 
-1,phát_biểu tại buổi khai_trương  ủy_viên trung_ương đảng  phó_thủ_tướng chính_phủ trịnh_đình_dũng đánh_giá cao quyết_tâm của vietjet – một hãng hàng_không thế_hệ mới trong việc tạo ra cầu_nối giữa việt_nam và malaysia 
-2,phó_thủ_tướng cũng đánh_giá cao nỗ_lực của vietjet trong việc cung_cấp dịch_vụ hàng_không an_toàn  đem lại nhiều lợi_ích cho người dân hai nước 
-3,những hành_khách đi kuala_lumpur trên chuyến bay đầu_tiên được thưởng_thức vũ_điệu truyền_thống quốc hoa malaysia và được tặng những món quà xinh_xắn từ vietjet 
-4,với giờ bay thuận_tiện  dịch_vụ chất_lượng  giá vé hấp_dẫn  đường_bay đáp_ứng nhu_cầu di_chuyển  du_lịch của người dân 2 nước  góp_phần thúc_đẩy giao_thương và hội_nhập toàn_cầu 
+0,chuyến bay đầu_tiên vietjet tới kula_lumpur mang số_hiệu vj825 hạ_cánh 12 00 giờ_địa_phương chào_đón nhiệt_liệt người_dân đoàn lãnh_đạo cấp cao hai nước việt_nam malaysia gồm hiện_diện phó_thủ_tướng nước chxhcn việt_nam trịnh_đình_dũng lãnh_đạo bộ giao_thông vận_tải việt_nam lãnh_đạo bộ giao_thông vận_tải malaysia lãnh_đạo ban_ngành
+1,phát_biểu buổi khai_trương ủy_viên trung_ương đảng phó_thủ_tướng chính_phủ trịnh_đình_dũng đánh_giá cao quyết_tâm vietjet – một hãng hàng_không thế_hệ mới trong tạo cầu_nối giữa việt_nam malaysia
+2,phó_thủ_tướng đánh_giá cao nỗ_lực vietjet trong cung_cấp dịch_vụ hàng_không an_toàn đem lợi_ích người dân hai nước
+3,hành_khách đi kuala_lumpur chuyến bay đầu_tiên thưởng_thức vũ_điệu truyền_thống quốc hoa malaysia tặng món quà xinh_xắn vietjet
+4,giờ bay thuận_tiện dịch_vụ chất_lượng giá vé hấp_dẫn đường_bay đáp_ứng nhu_cầu di_chuyển du_lịch người dân 2 nước góp_phần thúc_đẩy giao_thương hội_nhập toàn_cầu

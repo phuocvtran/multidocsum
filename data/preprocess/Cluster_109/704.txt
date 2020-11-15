@@ -1,5 +1,5 @@
 idx, sentence
-0,ông ricardo_vasques  tổng_giám_đốc công_ty ab inbev việt_nam chia_sẻ  “ lễ kỷ_niệm một năm khánh_thành nhà_máy bia ab_inbev đánh_dấu một cột mốc quan_trọng đối_với quá_trình hoạt_động của công_ty tại việt_nam 
-1,chúng_tôi cam_kết đầu_tư lâu_dài tại thị_trường đầy tiềm_năng như việt_nam nói_riêng và trong khu_vực nói_chung 
-2,năm vừa_qua cũng là một năm rất khả_quan đối_với ab_inbev  khi chúng_tôi đã thành_công trong việc không ngừng mang đến cho người tiêu_dùng những loại bia với chất_lượng thượng_hạng cũng như trải_nghiệm đẳng_cấp cùng sản_phẩm ” 
-3,“ là một phần của sáng_kiến vì một thế_giới tốt_đẹp hơn  chúng_tôi sẽ tăng_cường đẩy_mạnh các hoạt_động khuyến_khích thưởng_thức bia có trách_nhiệm đến khách_hàng của mình cũng như ủng_hộ các hoạt_động bảo_vệ môi_trường  từ đó đạt được mục_tiêu trở_thành công_ty bia hàng_đầu mang mọi người đến gần nhau vì một thế_giới tốt hơn ”  ông ricardo_vasques chia_sẻ thêm 
+0,ông ricardo_vasques tổng_giám_đốc công_ty ab inbev việt_nam chia_sẻ “ lễ kỷ_niệm một năm khánh_thành nhà_máy bia ab_inbev đánh_dấu một cột mốc quan_trọng đối_với quá_trình hoạt_động công_ty việt_nam
+1,chúng_tôi cam_kết đầu_tư lâu_dài thị_trường đầy tiềm_năng việt_nam nói_riêng trong khu_vực nói_chung
+2,năm vừa_qua một năm khả_quan đối_với ab_inbev chúng_tôi thành_công trong ngừng mang đến người tiêu_dùng loại bia chất_lượng thượng_hạng trải_nghiệm đẳng_cấp sản_phẩm ”
+3,“ một phần sáng_kiến một thế_giới tốt_đẹp hơn chúng_tôi tăng_cường đẩy_mạnh hoạt_động khuyến_khích thưởng_thức bia trách_nhiệm đến khách_hàng mình ủng_hộ hoạt_động bảo_vệ môi_trường đạt mục_tiêu trở_thành công_ty bia hàng_đầu mang mọi người đến gần nhau một thế_giới tốt hơn ” ông ricardo_vasques chia_sẻ thêm

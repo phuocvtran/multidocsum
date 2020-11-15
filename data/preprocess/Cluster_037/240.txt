@@ -1,52 +1,52 @@
 idx, sentence
-0,tuần này  tổng_thống venezuela_nicolas_maduro liên_tục cảnh_báo sẽ chiếm_giữ và quốc_hữu_hóa các nhà_máy không hoạt_động  một động_thái liều_lĩnh xét đến tỷ_lệ ủng_hộ dành cho ông maduro đang giảm mạnh và phe đối_lập gây sức_ép_buộc ông phải từ_chức 
-1,tạp_chí time đã đưa ra 5 sự_thật cho thấy tình_cảnh bi_đát của venezuela  quốc_gia nam_mỹ sở_hữu trữ_lượng dầu_lửa hàng_đầu thế_giới  đồng_thời là thành_viên tổ_chức các nước xuất_khẩu dầu_lửa  opec  
-2,1 
-3,cái gì cũng thiếu tình_trạng thiếu các mặt_hàng thiết_yếu như giấy_vệ_sinh  sữa_bột trẻ_em  đã trở_thành “ chuyện thường_ngày ở huyện ” ở venezuela từ mấy năm nay 
-4,gần đây  tình_hình thậm_chí càng trở_nên tồi_tệ hơn 
-5,đến nước sinh_hoạt hiện_nay ở venezuela cũng do chính_phủ phân_phối 
-6,cư_dân tại một_số khu_vực ở nước này bị cảnh_báo rằng nước sẽ chỉ được cấp 21 ngày một lần sau khi hồ_chứa nước chính của nước này cạn dần 
-7,người dân venezuela đã phải “ câu trộm ” nước từ các bể_bơi và xe_tải chở nước để có_thể sống qua_ngày 
-8,điện ở venezuela cũng thiếu nghiêm_trọng 
-9,tổng_thống maduro đã ra_lệnh cho các cơ_quan nhà_nước làm_việc chỉ 2 ngày mỗi tuần nhằm tiết_kiệm điện 
-10,ngoài_ra  mỗi ngày  venezuela cắt điện 4 tiếng đồng_hồ trên toàn_quốc 
-11,chưa kể  cắt điện luân_phiên đã trở_thành một phần trong đời_sống hàng ngày của người dân nước này 
-12,nếu cần những loại thuốc cơ_bản như aspirin  người dân venenzuela những ngày này cũng không biết tìm ở đâu 
-13,các kệ hàng trong siêu_thị thường_xuyên trống_rỗng 
-14,hồi tháng 4 vừa_qua  venezuela chịu một “ cú đấm ” mạnh nữa  công_ty tư_nhân lớn nhất của nước này là empress_polar_sa đóng cửa 
-15,empresas sản_xuất hơn 80  lượng bia tiêu_thụ ở venzuela  bởi_vậy việc công_ty này đóng cửa ở thời_điểm hiện_nay càng khiến cuộc_sống của người dân venezuela thêm phần khốn_đốn 
-16,2 
-17,venezuela đã “ lâm_nạn ” như thế_nào 
-18,những khó_khăn của venezuela đã bắt_nguồn từ nhiều năm trước  và đột_ngột gia_tăng trong thời_gian gần đây 
-19,trong nhiều năm  nền kinh_tế nước này trở_nên phụ_thuộc ngày_càng nhiều vào nguồn tài_nguyên dầu_lửa khổng_lồ 
-20,dầu_lửa chiếm khoảng 96  kim_ngạch xuất_khẩu và gần một_nửa ngân_sách liên_bang của venezuela 
-21,mọi chuyện vẫn sẽ êm_đẹp nếu giá dầu giữ trên mức 100 usd / thùng 
-22,chính_phủ venezuela đã lên kế_hoạch ngân_sách với giá dầu 40 usd / thùng trong nhiều năm qua 
-23,tuy_nhiên  venezuela đã không tiết_kiệm phần thặng_dư ngân_sách có được khi giá dầu cao hơn mức này 
-24,thay vào đó  quỹ dầu_lửa khẩn_cấp của venezuela đã bị tiêu_xài không kiểm_soát và tham_nhũng 
-25,hạn hạn khiến những tổn_thất đối_với nền kinh_tế venezuela càng thêm nghiêm_trọng 
-26,khoảng 65  sản_lượng điện của nước này đến từ một đập thủy_điện duy_nhất  và mực nước tại con đập này đang xuống thấp tới báo_động 
-27,3 
-28,vấn_đề dài_hạn tham_nhũng đã trở_thành vấn_nạn kéo_dài nhiều thập_kỷ trong nền chính_trị venezuela 
-29,theo đánh_giá của tổ_chức minh_bạch quốc_tế  ti   venezuela là quốc_gia tham_nhũng nhất ở châu_mỹ 
-30,ngoài_ra  tỷ_lệ các vụ giết người ở nước này là 90 bị sát_hại / 100000 dân  mức cao thứ nhì thế_giới sau el_salvador 
-31,bởi_vậy  không có gì là ngạc_nhiên khi người dân venezuela cảm_thấy bất_mãn 
-32,theo tổ_chức venezuelan_observatory for social_conflict  tính trung_bình mỗi ngày có 17 cuộc biểu_tình xảy ra ở venezuela 
-33,theo quỹ tiền_tệ quốc_tế  imf   tỷ_lệ thất_nghiệp ở venezuela hiện là 17  và được dự_báo sẽ tăng lên gần 21  trong năm tới 
-34,tỷ_lệ lạm_phát được dự_báo sẽ lên tới_mức 481  vào cuối năm nay và 1642  vào năm tới 
-35,một bữa ăn happy_meal của hãng đồ_ăn nhanh_mcdonald có giá lên tới 146 usd  nếu tính theo tỷ_giá hối_đoái chính_thức là 63 bolivar đổi 1 usd 
-36,4 
-37,thay_đổi chính_trị 
-38,cuộc bầu_cử quốc_hội vào tháng 12 năm_ngoái đã trao quyền kiểm_soát quốc_hội nước này cho liên_minh đoàn_kết dân_chủ gồm các đảng trung_lập  trung tả và trung_hữu 
-39,đây là lần đầu_tiên trong 17 năm chavismo  đường_lối hoạt_động do cố tổng_thống hugo_chavez khởi_xướng và được tiếp_nối bởi tổng_thống maduro  không thắng trong bầu_cử toàn_quốc 
-40,vào tháng 12/2015  tỷ_lệ ủng_hộ của ông maduro là 22  
-41,tỷ_lệ này hiện chỉ còn 15  
-42,khoảng 70  người venezuela muốn ông maduro từ_chức 
-43,5 
-44,cuộc_đua với thời_gian nhằm lật_đổ tổng_thống_maduro  phe đối_lập venezuela đã tiến_hành thu_thập chữ_ký để tổ_chức một cuộc trưng_cầu dân_ý chống lại ông maduro 
-45,các nhà hoạt_động nước này cần thu_thập đủ 200000 chữ_ký  tức 1  cử_tri trên toàn_quốc  để có_thể tiến_hành trưng_cầu dân_ý 
-46,tuy_nhiên  họ đã thu_thập được 185 triệu chữ_ký 
-47,cách đây 2 tuần  phe đối_lập đã gửi danh_sách ký lên hội_đồng bầu_cử quốc_gia  cne  để được thông_qua  nhưng cơ_quan này lại trung_thành với chính_phủ  nên quy_trình tiến tới trưng_cầu dân_ý đang bị chặn lại 
-48,thời_điểm tổ_chức cuộc trưng_cầu dân_ý là vô_cùng quan_trọng 
-49,theo hiến_pháp venezuela  nếu tổng_thống bị cách_chức trong vòng 2 năm cuối_cùng của nhiệm_kỳ  vị_trí này sẽ được trao lại cho phó_tổng_thống 
-50,mà phó_tổng_thống hiện_nay của venezuela là ông aristobulo_isturiz  một người trung_thành với chavismo 
+0,tuần tổng_thống venezuela_nicolas_maduro liên_tục cảnh_báo chiếm_giữ quốc_hữu_hóa nhà_máy hoạt_động một động_thái liều_lĩnh xét đến tỷ_lệ ủng_hộ dành ông maduro giảm mạnh phe đối_lập gây sức_ép_buộc ông từ_chức
+1,tạp_chí time đưa 5 sự_thật thấy tình_cảnh bi_đát venezuela quốc_gia nam_mỹ sở_hữu trữ_lượng dầu_lửa hàng_đầu thế_giới đồng_thời thành_viên tổ_chức nước xuất_khẩu dầu_lửa opec
+2,1
+3,thiếu tình_trạng thiếu mặt_hàng thiết_yếu giấy_vệ_sinh sữa_bột trẻ_em trở_thành “ thường_ngày ở huyện ” ở venezuela mấy năm nay
+4,gần tình_hình thậm_chí trở_nên tồi_tệ hơn
+5,đến nước sinh_hoạt hiện_nay ở venezuela chính_phủ phân_phối
+6,cư_dân một_số khu_vực ở nước cảnh_báo nước cấp 21 ngày một lần hồ_chứa nước chính nước cạn dần
+7,người dân venezuela “ câu trộm ” nước bể_bơi xe_tải chở nước sống qua_ngày
+8,điện ở venezuela thiếu nghiêm_trọng
+9,tổng_thống maduro ra_lệnh cơ_quan nhà_nước làm_việc 2 ngày tuần nhằm tiết_kiệm điện
+10,ngoài_ra ngày venezuela cắt điện 4 tiếng đồng_hồ toàn_quốc
+11,kể cắt điện luân_phiên trở_thành một phần trong đời_sống hàng ngày người dân nước
+12,loại thuốc cơ_bản aspirin người dân venenzuela ngày biết tìm ở đâu
+13,kệ hàng trong siêu_thị thường_xuyên trống_rỗng
+14,hồi tháng 4 vừa_qua venezuela chịu một “ cú đấm ” mạnh công_ty tư_nhân lớn nhất nước empress_polar_sa đóng cửa
+15,empresas sản_xuất hơn 80 lượng bia tiêu_thụ ở venzuela bởi_vậy công_ty đóng cửa ở thời_điểm hiện_nay khiến cuộc_sống người dân venezuela thêm phần khốn_đốn
+16,2
+17,venezuela “ lâm_nạn ” thế_nào
+18,khó_khăn venezuela bắt_nguồn năm đột_ngột gia_tăng trong thời_gian gần
+19,trong năm nền kinh_tế nước trở_nên phụ_thuộc ngày_càng nguồn tài_nguyên dầu_lửa khổng_lồ
+20,dầu_lửa chiếm khoảng 96 kim_ngạch xuất_khẩu gần một_nửa ngân_sách liên_bang venezuela
+21,mọi êm_đẹp giá dầu giữ mức 100 usd / thùng
+22,chính_phủ venezuela kế_hoạch ngân_sách giá dầu 40 usd / thùng trong năm
+23,tuy_nhiên venezuela tiết_kiệm phần thặng_dư ngân_sách giá dầu cao hơn mức
+24,thay quỹ dầu_lửa khẩn_cấp venezuela tiêu_xài kiểm_soát tham_nhũng
+25,hạn hạn khiến tổn_thất đối_với nền kinh_tế venezuela thêm nghiêm_trọng
+26,khoảng 65 sản_lượng điện nước đến một đập thủy_điện duy_nhất mực nước con đập xuống thấp tới báo_động
+27,3
+28,vấn_đề dài_hạn tham_nhũng trở_thành vấn_nạn kéo_dài thập_kỷ trong nền chính_trị venezuela
+29,đánh_giá tổ_chức minh_bạch quốc_tế ti venezuela quốc_gia tham_nhũng nhất ở châu_mỹ
+30,ngoài_ra tỷ_lệ vụ giết người ở nước 90 sát_hại / 100000 dân mức cao thứ nhì thế_giới el_salvador
+31,bởi_vậy ngạc_nhiên người dân venezuela cảm_thấy bất_mãn
+32,tổ_chức venezuelan_observatory for social_conflict tính trung_bình ngày 17 cuộc biểu_tình xảy ở venezuela
+33,quỹ tiền_tệ quốc_tế imf tỷ_lệ thất_nghiệp ở venezuela hiện 17 dự_báo tăng gần 21 trong năm tới
+34,tỷ_lệ lạm_phát dự_báo tới_mức 481 cuối năm nay 1642 năm tới
+35,một bữa ăn happy_meal hãng đồ_ăn nhanh_mcdonald giá tới 146 usd tính tỷ_giá hối_đoái chính_thức 63 bolivar đổi 1 usd
+36,4
+37,thay_đổi chính_trị
+38,cuộc bầu_cử quốc_hội tháng 12 năm_ngoái trao quyền kiểm_soát quốc_hội nước liên_minh đoàn_kết dân_chủ gồm đảng trung_lập trung tả trung_hữu
+39,lần đầu_tiên trong 17 năm chavismo đường_lối hoạt_động cố tổng_thống hugo_chavez khởi_xướng tiếp_nối tổng_thống maduro thắng trong bầu_cử toàn_quốc
+40,tháng 12/2015 tỷ_lệ ủng_hộ ông maduro 22
+41,tỷ_lệ hiện còn 15
+42,khoảng 70 người venezuela muốn ông maduro từ_chức
+43,5
+44,cuộc_đua thời_gian nhằm lật_đổ tổng_thống_maduro phe đối_lập venezuela tiến_hành thu_thập chữ_ký tổ_chức một cuộc trưng_cầu dân_ý chống ông maduro
+45,nhà hoạt_động nước thu_thập đủ 200000 chữ_ký tức 1 cử_tri toàn_quốc tiến_hành trưng_cầu dân_ý
+46,tuy_nhiên họ thu_thập 185 triệu chữ_ký
+47,cách 2 tuần phe đối_lập gửi danh_sách ký hội_đồng bầu_cử quốc_gia cne thông_qua cơ_quan trung_thành chính_phủ quy_trình tiến tới trưng_cầu dân_ý chặn
+48,thời_điểm tổ_chức cuộc trưng_cầu dân_ý vô_cùng quan_trọng
+49,hiến_pháp venezuela tổng_thống cách_chức trong vòng 2 năm cuối_cùng nhiệm_kỳ vị_trí trao phó_tổng_thống
+50,phó_tổng_thống hiện_nay venezuela ông aristobulo_isturiz một người trung_thành chavismo

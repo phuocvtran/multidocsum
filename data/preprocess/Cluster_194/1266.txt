@@ -1,5 +1,5 @@
 idx, sentence
-0,theo evn  lúc 19 giờ 44 phút ngày 305  đường_dây 500 kv đoạn đà_nẵng – hà_tĩnh  đà_nẵng – vũng_áng xảy ra sự_cố  gây mất liên_kết đường_dây 500 kv bắc – nam 
-1,đến 20 giờ 10 phút  được sự cho_phép của trung_tâm điều_độ hệ_thống điện miền_nam  evn đã bắt_đầu tái_lập phụ_tải các tuyến trung thế và thực_hiện tái_lập hoàn_tất vào lúc 21 giờ 17 phút 
-2,sự_cố đã làm ảnh_hưởng đến cung_cấp điện cho một_số khách_hàng ở khu_vực miền trung và miền nam trong khoảng thời_gian từ 20 phút đến 50 phút 
-3,đến 23 giờ 38 phút cùng ngày  evn đã khôi_phục lại liên_kết hệ_thống sau khi kiểm_tra không có hư_hỏng gì đối_với đường_dây 500 kv 
+0,evn 19 giờ 44 phút ngày 305 đường_dây 500 kv đoạn đà_nẵng – hà_tĩnh đà_nẵng – vũng_áng xảy sự_cố gây mất liên_kết đường_dây 500 kv bắc – nam
+1,đến 20 giờ 10 phút cho_phép trung_tâm điều_độ hệ_thống điện miền_nam evn bắt_đầu tái_lập phụ_tải tuyến trung thế thực_hiện tái_lập hoàn_tất 21 giờ 17 phút
+2,sự_cố làm ảnh_hưởng đến cung_cấp điện một_số khách_hàng ở khu_vực miền trung miền nam trong khoảng thời_gian 20 phút đến 50 phút
+3,đến 23 giờ 38 phút ngày evn khôi_phục liên_kết hệ_thống kiểm_tra hư_hỏng đối_với đường_dây 500 kv

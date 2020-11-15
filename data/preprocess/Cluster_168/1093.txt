@@ -1,18 +1,18 @@
 idx, sentence
-0,siêu_phẩm truyền_hình “ game_of_thrones ”  trò_chơi vương_quyền  phần 6 được phát trên sóng hbo kết_thúc với cảnh nữ diễn_viên emilia_clarke_– trong vai daenarys_targaryen khỏa_thân hoàn_toàn 
-1,trong cảnh đầy tranh_cãi này  mẹ rồng dùng lửa thiêu_đốt toàn_bộ trại_lính của bộ_lạc dothariki sau khi bị bắt vào đây 
-2,với sức_mạnh của lửa  quần_áo của emilia_clarke bị cháy hết 
-3,cô bước ra với tư_thế khoe toàn_bộ da_thịt trước con mắt kinh_ngạc và tôn_sùng của dân_chúng 
-4,nhiều người cho rằng nữ diễn_viên sinh năm 1986 có sử_dụng diễn_viên đóng thế cho cảnh quay 
-5,tuy_nhiên  cô khẳng_định bản_thân tự đóng cảnh táo_bạo này 
-6,emilia clarke tự_tin tuyên_bố  “ tất_cả những thứ tôi cần để đóng cảnh này là rượu vodka và ánh_sáng tốt ” 
-7,người đẹp còn cho hay  “ đó là một khoảng khắc tuyệt_vời  mạnh_mẽ mà tôi muốn chính mình thực_hiện 
-8,một cô gái với sức_mạnh và quyền_năng thực_sự 
-9,đó hoàn_toàn là cơ_thể của tôi và tôi rất tự_hào về nó ” 
-10,mỹ_nhân 30 tuổi nói thêm  “ tôi muốn mọi người nhớ rằng tôi khỏa_thân trong game of_thrones lần cuối là mùa thứ ba và bây_giờ nó đã đến phần sáu rồi ” 
-11,được biết  với cảnh cởi hoàn_toàn này  emilia_clarke thực_hiện trong một trường_quay kín còn diễn_viên quần_chúng lúc ấy đóng riêng tại trường_quay ngoài_trời chứ không hề trong cùng thời_điểm như nhiều người vẫn tưởng 
-12,cô khẳng_định nếu cảnh khỏa_thân giúp nhân_vật trở_nên sâu_sắc hơn thì người_đẹp sẵn_sàng thực_hiện 
-13,cũng trong cuộc phỏng_vấn này  emilia_clarke cũng tiết_lộ lý_do 30 tuổi vẫn chưa chịu lên xe hoa của mình 
-14,lý_do chính là việc người_đẹp tự_tạo ra quá nhiều nguyên_tắc và hơi lạc_hậu khi tìm bạn trai 
-15,vì tìm_kiếm sự lãng_mạn trong xã_hội hiện_đại nên đến giờ vẫn chưa có chàng trai nào lọt vào mắt_xanh của nữ minh_tinh 
-16,tin_tức nguồn  http//wwwxaluancom/modulesphpnamenewsfilearticlesid1493316ixzz4ai3gqikk
+0,siêu_phẩm truyền_hình “ game_of_thrones ” trò_chơi vương_quyền phần 6 phát sóng hbo kết_thúc cảnh nữ diễn_viên emilia_clarke_– trong vai daenarys_targaryen khỏa_thân hoàn_toàn
+1,trong cảnh đầy tranh_cãi mẹ rồng dùng lửa thiêu_đốt toàn_bộ trại_lính bộ_lạc dothariki bắt
+2,sức_mạnh lửa quần_áo emilia_clarke cháy hết
+3,cô bước tư_thế khoe toàn_bộ da_thịt con mắt kinh_ngạc tôn_sùng dân_chúng
+4,người nữ diễn_viên sinh năm 1986 sử_dụng diễn_viên đóng thế cảnh quay
+5,tuy_nhiên cô khẳng_định bản_thân tự đóng cảnh táo_bạo
+6,emilia clarke tự_tin tuyên_bố “ tất_cả thứ tôi đóng cảnh rượu vodka ánh_sáng tốt ”
+7,người đẹp còn hay “ một khoảng khắc tuyệt_vời mạnh_mẽ tôi muốn chính mình thực_hiện
+8,một cô gái sức_mạnh quyền_năng thực_sự
+9,hoàn_toàn cơ_thể tôi tôi tự_hào về nó ”
+10,mỹ_nhân 30 tuổi nói thêm “ tôi muốn mọi người nhớ tôi khỏa_thân trong game of_thrones lần cuối mùa thứ ba bây_giờ nó đến phần sáu ”
+11,biết cảnh cởi hoàn_toàn emilia_clarke thực_hiện trong một trường_quay kín còn diễn_viên quần_chúng ấy đóng riêng trường_quay ngoài_trời hề trong thời_điểm người tưởng
+12,cô khẳng_định cảnh khỏa_thân giúp nhân_vật trở_nên sâu_sắc hơn người_đẹp sẵn_sàng thực_hiện
+13,trong cuộc phỏng_vấn emilia_clarke tiết_lộ lý_do 30 tuổi chịu xe hoa mình
+14,lý_do chính người_đẹp tự_tạo quá nguyên_tắc hơi lạc_hậu tìm bạn trai
+15,tìm_kiếm lãng_mạn trong xã_hội hiện_đại đến giờ chàng trai nào lọt mắt_xanh nữ minh_tinh
+16,tin_tức nguồn http//wwwxaluancom/modulesphpnamenewsfilearticlesid1493316ixzz4ai3gqikk

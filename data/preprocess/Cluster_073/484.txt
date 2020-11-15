@@ -1,8 +1,8 @@
 idx, sentence
-0,đầu tháng 4/2016  phòng cảnh_sát điều_tra tội_phạm về trật_tự quản_lý kinh_tế và tham_nhũng  pc46  công_an hà_nội  nhận được đơn tố_cáo của chị cao_thị_hằng  ở xã kim_chung  huyện hoài_đức  hà_nội  và anh nguyễn_hoàng_quang  ở phường bưởi  quận tây_hồ  hà_nội  về việc  bị huỳnh_quang_phong lừa hàng trăm triệu đồng 
-1,theo trình_báo  năm 2011  huỳnh_quang_phong quen_biết chị cao_thị_hằng  dù người đàn_ông này không có việc_làm ổn_định nhưng vẫn khoe mình là chủ_tịch hđqt công_ty xây_dựng 69 hà_nội 
-2,tháng 8/2014  huỳnh_quang_phong biết chị cao_thị_hằng có người_nhà thi vào học_viện cảnh_sát_nhân_dân nhưng không đủ điểm  nên muốn xin vào học tại trường_trung_cấp cảnh_sát_nhân_dân vi tại hưng_yên 
-3,huỳnh_quang_phong đã dàn_dựng màn_kịch  chạy trường  vào trường_trung_cấp cảnh_sát_nhân_dân vi với giá 400 triệu đồng 
-4,tin_tưởng  chị cao_thị_hằng chuyển 400 triệu đồng cho huỳnh_quang_phong 
-5,với thủ_đoạn tương_tự  cùng thời_điểm này  huỳnh_quang_phong thoả_thuận với anh nguyễn_hoàng_quang  bạn chị cao_thị_hằng  nhận chạy suất cho bạn anh nguyễn_hoàng_quang vào trường_trung_cấp cảnh_sát vũ_trang  ở xã thủy_xuân_tiên  huyện chương_mỹ  hà_nội  với giá 380 triệu đồng 
-6,tin_tưởng  anh nguyễn_hoàng_quang đã chuyển 230 triệu đồng  số tiền còn lại khi nhập_học sẽ giao nốt 
+0,đầu tháng 4/2016 phòng cảnh_sát điều_tra tội_phạm về trật_tự quản_lý kinh_tế tham_nhũng pc46 công_an hà_nội nhận đơn tố_cáo chị cao_thị_hằng ở xã kim_chung huyện hoài_đức hà_nội anh nguyễn_hoàng_quang ở phường bưởi quận tây_hồ hà_nội về huỳnh_quang_phong lừa hàng trăm triệu đồng
+1,trình_báo năm 2011 huỳnh_quang_phong quen_biết chị cao_thị_hằng dù người đàn_ông việc_làm ổn_định khoe mình chủ_tịch hđqt công_ty xây_dựng 69 hà_nội
+2,tháng 8/2014 huỳnh_quang_phong biết chị cao_thị_hằng người_nhà thi học_viện cảnh_sát_nhân_dân đủ điểm muốn xin học trường_trung_cấp cảnh_sát_nhân_dân vi hưng_yên
+3,huỳnh_quang_phong dàn_dựng màn_kịch chạy trường trường_trung_cấp cảnh_sát_nhân_dân vi giá 400 triệu đồng
+4,tin_tưởng chị cao_thị_hằng chuyển 400 triệu đồng huỳnh_quang_phong
+5,thủ_đoạn tương_tự thời_điểm huỳnh_quang_phong thoả_thuận anh nguyễn_hoàng_quang bạn chị cao_thị_hằng nhận chạy suất bạn anh nguyễn_hoàng_quang trường_trung_cấp cảnh_sát vũ_trang ở xã thủy_xuân_tiên huyện chương_mỹ hà_nội giá 380 triệu đồng
+6,tin_tưởng anh nguyễn_hoàng_quang chuyển 230 triệu đồng số tiền còn nhập_học giao nốt

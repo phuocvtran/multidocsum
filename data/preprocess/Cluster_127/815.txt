@@ -1,7 +1,7 @@
 idx, sentence
-0,ba_ngôi_sao hollywood bị dọa giết từ tin nhắn của cùng một người sử_dụng twitter 
-1,hiện cảnh_sát đang truy_tìm người đàn_ông này 
-2,tin nhắn hắn gửi cho taylor viết  “ tao sẽ giết vài người trong số chúng_mày ” 
-3,hadid thì nhận được tin  “ mọi người sẽ chết  chúng_mày sẽ chết  chết  chết ” 
-4,người_mẫu anh quốc delevingne được nhắn rằng  “ tao sẽ giết bạn của mày và tao rất phấn_khích khi làm chuyện đó ” 
-5,nhà_chức_trách cho biết  đạo_diễn kyle_newman đã báo cảnh_sát việc vợ ông  nữ diễn_viên jaime_king cũng nhận được tin nhắn dọa giết từ người đàn_ông này 
+0,ba_ngôi_sao hollywood dọa giết tin nhắn một người sử_dụng twitter
+1,hiện cảnh_sát truy_tìm người đàn_ông
+2,tin nhắn hắn gửi taylor viết “ tao giết vài người trong số chúng_mày ”
+3,hadid nhận tin “ mọi người chết chúng_mày chết chết chết ”
+4,người_mẫu anh quốc delevingne nhắn “ tao giết bạn mày tao phấn_khích làm ”
+5,nhà_chức_trách biết đạo_diễn kyle_newman báo cảnh_sát vợ ông nữ diễn_viên jaime_king nhận tin nhắn dọa giết người đàn_ông

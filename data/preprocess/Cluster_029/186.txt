@@ -1,13 +1,13 @@
 idx, sentence
-0,đã hơn 1 năm từ khi công_văn của cục quản_lý dược  bộ y_tế  quy_định về các chất sử_dụng trong mỹ_phẩm có hiệu_lực nhưng hàng_loạt nhãn_hiệu dầu gội lớn được sản_xuất và phân_phối tại việt_nam nằm trong danh_sách bị thu_hồi do chứa_chất cấm  hiện vẫn được bày bán_công_khai tại các siêu_thị và cửa_hàng mỹ_phẩm lớn 
-1,theo công_văn 6577 / qldmp của cục quản_lý dược  bộ y_tế  ban_hành ngày 13/4/2015  các chất bảo_quản methylisothiazolinone  mit  và hỗn_hợp methylchlorothiazolinone với methylisothiazolinone  mct  mit   tham_chiếu 39  57 annex_v   hỗn_hợp mct  mit theo tỷ_lệ 3  1 chỉ được sử_dụng trong các sản_phẩm rửa_sạch và hỗn_hợp mct  mit theo tỷ_lệ 3  1 và có thêm mit thì không được sử_dụng trong sản_phẩm mỹ_phẩm 
-2,theo phóng_sự của truyền_hình thông_tấn  ttxvn   sản_phẩm mỹ_phẩm có chứa_chất cấm được phóng_viên ghi_nhận có nhãn_hiệu pantene  sunsilk  clear  hazeline  rejoice  double_rich  enchanter được sản_xuất và phân_phối trong nước đều nằm trong danh_mục bị thu_hồi 
-3,đa_số người dân đều tỏ ra ngạc_nhiên trước thông_tin này vì họ tin_tưởng tuyệt_đối vào những sản_phẩm có tên_tuổi và vẫn được bán rất nhiều trên thị_trường 
-4,tìm mua dầu gội cho gia_đình với tiêu_chí là các sản_phẩm bình_dân của các hãng có uy_tín  anh nguyễn_xuân_hải  hoàng_mai  hà_nội  chia_sẻ  anh thường lựa_chọn những sản_phẩm rất quen_thuộc như pantene  enchanter  bởi theo anh  những sản_phẩm đó có chất_lượng tương_đối đảm_bảo 
-5,tuy_nhiên  khi được hỏi về thông_tin các sản_phẩm này đều có chứa_chất bảo_quản nằm trong danh_mục cấm nguy_hiểm  anh hải cho biết chưa hề nghe về thông_tin này 
-6,anh bùi_văn_chương  hoàng_mai  hà_nội  cũng cho biết   tôi nghĩ rằng đó đều là các dòng sản_phẩm nổi_tiếng  có thương_hiệu từ ngày_xưa 
-7,và tôi cũng không hề biết về thông_tin những sản_phẩm này bị thu_hồi  
-8,không chỉ người tiêu_dùng  mà đến cả các hộ kinh_doanh cũng không biết thông_tin này 
-9,chị nguyễn_thị_minh  cửa_hàng mỹ_phẩm hà_xuân  phố hàng_ngang  hà_nội  cho biết chưa hề nhận được thông_tin nào từ phía doanh_nghiệp về việc thu_hồi các sản_phẩm trên 
-10,cục quản_lý dược  bộ y_tế  đã có công_văn chính_thức gửi tới các hãng và công_ty trực_tiếp sản_xuất các sản_phẩm này 
-11,tuy_nhiên  từ chính các công_ty lại không có động_thái phản_hồi tới các doanh_nghiệp phân_phối kinh_doanh và người dân 
+0,hơn 1 năm công_văn cục quản_lý dược bộ y_tế quy_định về chất sử_dụng trong mỹ_phẩm hiệu_lực hàng_loạt nhãn_hiệu dầu gội lớn sản_xuất phân_phối việt_nam nằm trong danh_sách thu_hồi chứa_chất cấm hiện bày bán_công_khai siêu_thị cửa_hàng mỹ_phẩm lớn
+1,công_văn 6577 / qldmp cục quản_lý dược bộ y_tế ban_hành ngày 13/4/2015 chất bảo_quản methylisothiazolinone mit hỗn_hợp methylchlorothiazolinone methylisothiazolinone mct mit tham_chiếu 39 57 annex_v hỗn_hợp mct mit tỷ_lệ 3 1 sử_dụng trong sản_phẩm rửa_sạch hỗn_hợp mct mit tỷ_lệ 3 1 thêm mit sử_dụng trong sản_phẩm mỹ_phẩm
+2,phóng_sự truyền_hình thông_tấn ttxvn sản_phẩm mỹ_phẩm chứa_chất cấm phóng_viên ghi_nhận nhãn_hiệu pantene sunsilk clear hazeline rejoice double_rich enchanter sản_xuất phân_phối trong nước nằm trong danh_mục thu_hồi
+3,đa_số người dân tỏ ngạc_nhiên thông_tin họ tin_tưởng tuyệt_đối sản_phẩm tên_tuổi bán thị_trường
+4,tìm mua dầu gội gia_đình tiêu_chí sản_phẩm bình_dân hãng uy_tín anh nguyễn_xuân_hải hoàng_mai hà_nội chia_sẻ anh thường lựa_chọn sản_phẩm quen_thuộc pantene enchanter anh sản_phẩm chất_lượng tương_đối đảm_bảo
+5,tuy_nhiên hỏi về thông_tin sản_phẩm chứa_chất bảo_quản nằm trong danh_mục cấm nguy_hiểm anh hải biết hề nghe về thông_tin
+6,anh bùi_văn_chương hoàng_mai hà_nội biết tôi nghĩ dòng sản_phẩm nổi_tiếng thương_hiệu ngày_xưa
+7,tôi hề biết về thông_tin sản_phẩm thu_hồi
+8,người tiêu_dùng đến hộ kinh_doanh biết thông_tin
+9,chị nguyễn_thị_minh cửa_hàng mỹ_phẩm hà_xuân phố hàng_ngang hà_nội biết hề nhận thông_tin nào phía doanh_nghiệp về thu_hồi sản_phẩm
+10,cục quản_lý dược bộ y_tế công_văn chính_thức gửi tới hãng công_ty trực_tiếp sản_xuất sản_phẩm
+11,tuy_nhiên chính công_ty động_thái phản_hồi tới doanh_nghiệp phân_phối kinh_doanh người dân

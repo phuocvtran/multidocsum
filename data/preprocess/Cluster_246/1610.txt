@@ -1,6 +1,6 @@
 idx, sentence
-0,đại_diện hãng vietnam_airlines cho biết chiếc máy_bay airbus_a321 này sau đó đã được kéo vào hangar  nhà_chứa máy_bay  để kiểm_tra kỹ_thuật và tìm biện_pháp khắc_phục trước khi tiếp_tục sử_dụng trở_lại 
-1,theo báo_cáo của tổ lái  chuyến bay mang số_hiệu vn227 xuất_phát từ hà_nội đi tphcm trong_sáng 26 
-2,sau khi hạ_cánh an_toàn tại sân_bay quốc_tế tân_sơn_nhất  vào lúc 09 g13  nam hành_khách ntt ngồi ghế 28b đã tự_ý mở_cửa thoát hiểm 3l làm bung cầu_phao mà không có chỉ_định của tiếp_viên 
-3,theo đại_diện vna  lịch bay liên_quan đến chuyến bay này sau đó đã bị xáo_trộn  gây ảnh_hưởng chậm chuyến đến 3 chuyến bay khác của hãng tại sân_bay tân_sơn nhất_là vn594  tphcm  hong_kong   vn116  tphcm  đà_nẵng  và vn244  tphcm  hà_nội  
-4,tổ lái chuyến bay vn 227 đã lập biên_bản và bàn_giao hành_khách cho cảng_vụ hàng_không miền nam lập biên_bản xử_phạt 
+0,đại_diện hãng vietnam_airlines biết máy_bay airbus_a321 kéo hangar nhà_chứa máy_bay kiểm_tra kỹ_thuật tìm biện_pháp khắc_phục tiếp_tục sử_dụng trở_lại
+1,báo_cáo tổ lái chuyến bay mang số_hiệu vn227 xuất_phát hà_nội đi tphcm trong_sáng 26
+2,hạ_cánh an_toàn sân_bay quốc_tế tân_sơn_nhất 09 g13 nam hành_khách ntt ngồi ghế 28b tự_ý mở_cửa thoát hiểm 3l làm bung cầu_phao chỉ_định tiếp_viên
+3,đại_diện vna lịch bay liên_quan đến chuyến bay xáo_trộn gây ảnh_hưởng chậm chuyến đến 3 chuyến bay khác hãng sân_bay tân_sơn nhất_là vn594 tphcm hong_kong vn116 tphcm đà_nẵng vn244 tphcm hà_nội
+4,tổ lái chuyến bay vn 227 lập biên_bản bàn_giao hành_khách cảng_vụ hàng_không miền nam lập biên_bản xử_phạt

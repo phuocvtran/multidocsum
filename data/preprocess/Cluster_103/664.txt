@@ -1,8 +1,8 @@
 idx, sentence
-0,“ đề_xuất đó còn phụ_thuộc vào quyết_định của lãnh_đạo tối_cao 
-1,nhà lãnh_đạo kim_jong_un sẽ là người quyết_định có gặp hay không  nhưng tôi nghĩ ý_tưởng của ông ấy  donald_trump  hoàn_toàn vô_nghĩa ”  reuters dẫn lời đại_sứ triều_tiên tại liên_hợp_quốc_sepyong cho biết 
-2,“ đề_xuất đó chỉ nhằm phục_vụ cho chiến_dịch bầu_cử tổng_thống  mỹ   tất_cả chỉ có thế mà thôi 
-3,chỉ là một hình_thức tuyên_truyền hoặc quảng_cáo ”  ông sepyong nhận_định 
-4,cũng theo lời ông sepyong  “ điều đó hoàn_toàn vô_ích  nó chỉ là một chiêu dùng trong cuộc bầu_cử tổng_thống 
-5,không hề có chút ý_nghĩa hay sự chân_thành nào ” 
-6,ngày trước  khi tổng_thống mỹ barack_obama vận_động tranh_cử  ông ấy cũng hứa sẽ gặp lãnh_đạo triều_tiên  nhưng rốt_cuộc  lời hứa đó đến nay vẫn chưa thực_hiện được  ông sepyong nói thêm 
+0,“ đề_xuất còn phụ_thuộc quyết_định lãnh_đạo tối_cao
+1,nhà lãnh_đạo kim_jong_un người quyết_định gặp hay tôi nghĩ ý_tưởng ông ấy donald_trump hoàn_toàn vô_nghĩa ” reuters dẫn lời đại_sứ triều_tiên liên_hợp_quốc_sepyong biết
+2,“ đề_xuất nhằm phục_vụ chiến_dịch bầu_cử tổng_thống mỹ tất_cả thế thôi
+3,một hình_thức tuyên_truyền hoặc quảng_cáo ” ông sepyong nhận_định
+4,lời ông sepyong “ hoàn_toàn vô_ích nó một chiêu dùng trong cuộc bầu_cử tổng_thống
+5,hề chút ý_nghĩa hay chân_thành nào ”
+6,ngày tổng_thống mỹ barack_obama vận_động tranh_cử ông ấy hứa gặp lãnh_đạo triều_tiên rốt_cuộc lời hứa đến nay thực_hiện ông sepyong nói thêm

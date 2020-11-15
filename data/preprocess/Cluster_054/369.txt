@@ -1,44 +1,44 @@
 idx, sentence
-0,chiếc xe_đạp xuyên việt 23 triệu đồng chạy khỏe … hơn ngựa chiến gặp anh trần_nguyễn_an_khương sinh năm 1988  tân_lộc – thới_bình – cà_mau  sáng ngày 20/5  khi anh vừa kết_thúc cuộc hành_trình xuyên việt từ mũi cà_mau quê anh tới trung_tâm điều_phối tạng_quốc_gia  hà_nội  đã khiến nhiều người ngạc_nhiên và thú_vị 
-1,chuyến đi xuyên việt của anh khương bắt_đầu từ ngày 124 
-2,khương đi dọc theo đường bờ biển  mang theo những dòng chữ xúc_động  “ chia_sẻ yêu_thương  cho đi là còn mãi ” với mong_muốn đưa đến thông_điệp nhắn tới mọi người thay_đổi về hiến tạng  thay_đổi về quan_điểm chết toàn thây cố_hữu trước đây 
-3,nhìn anh khương với dáng_dấp của một chàng trai nhỏ_bé  gày queo  nước_da ngăm đen  ít ai nghĩ rằng  ở anh lại có một sức_lực dẻo_dai và ẩn dấu một tâm_hồn rất đẹp 
-4,điểm đặc_biệt là chiếc xe_đạp  con ngựa chiến của anh khương chỉ là một chiếc xe_đạp bình_thường anh mua ở chợ huyện với giá 23 triệu đồng từ năm 2013 
-5,chiếc xe được chằng và buộc theo nhiều túi  túi quần_áo  đồ_dùng và còn đựng cả một chiếc bếp cồn là đồ để khương đung trà dừng chân uống dọc đường 
-6,mặc_dù vừa vượt qua chặng đường đạp xe_đạp gần 2000 km xuyên việt ròng_rã trong suốt 1 tháng 7 ngày  bị sút hơn 4 kg trọng_lượng cơ_thể  nay khương chỉ còn 38 kg   anh khương vẫn nở nụ cười hồn_nhiên và trả_lời tất_cả các câu hỏi của phóng_viên báo đài 
-7,anh khương chia_sẻ  hành_trình anh mang theo trong chuyến đạp xe xuyên việt này là 5 triệu đồng 
-8,nhưng tới thời_điểm này  anh mới tiêu hết 37 triệu đồng 
-9,mỗi ngày  khương tiêu hết 100000 đ vào việc ăn  uống 
-10,đa_phần là ăn rất đơn_giản  ăn bánh mỳ  ăn mỳ tôm và uống nước mía dọc đường 
-11,còn chỗ nghỉ thì được nhiều bạn_bè dọc đường  người dân cho ngủ nhờ 
-12,mỗi ngày  khương_đạp khoảng 100 km  bắt_đầu từ khoảng hơn 5 h sáng và kết_thúc khoảng 19 h tối 
-13,khi hỏi  suốt cuộc hành_trình dài như vậy  đạp xe một_mình  anh khương có buồn không 
-14,anh cười  em không buồn 
-15,cung đường em đi dọc bờ biển đẹp lắm 
-16,cũng có những đoạn đường em gặp các bạn đạp xe chặng dài và cùng đồng_hành 
-17,đây không phải lần đầu_tiên em đạp xe chặng dài mà đây là lần thứ 3 
-18,tuy_nhiên  lần này là lần xuyên việt còn 2 lần trước chỉ đạp tới quảng_bình và huế 
-19,“ thật may_mắn  suốt cả chẳng đường_dài  chiếc xe không hề bị hỏng 
-20,khi về tới trung_tâm điều_phối tạng quốc_gia  lần đầu_tiên trong cuộc hành_trình  chiếc xe mới bị tuột xích ” – anh khương cười rất tươi 
-21,có đôi_lần bị nói là kẻ … khùng với anh khương  trước đây  hiến tạng là một điều rất xa_lạ 
-22,năm 2013  khi một người bạn làm cùng bộ_phận đứng quầy trong khách_sạn với anh khương đột_nhiên yếu đi và đi khám  các bác_sĩ kết_luận  cậu bạn đó bị suy thận nặng  có chỉ_định ghép thận 
-23,thực_sự  đó là một cú sốc với anh khương 
-24,từ khi cậu bạn đồng_nghiệp phát_hiện bệnh tới khi mất  quãng thời_gian đó quá ngắn_ngủi chỉ vỏn_vẹn 2 tháng 
-25,anh khương tiếc lắm cho bạn mình đã ra đi ở tuổi thanh_niên 24 
-26,tới bây_giờ  anh vẫn nhớ câu nói của bạn  “ ước_gì có một phép màu để cứu mình ” 
-27,tuy_nhiên  phần gia_đình không có đủ khả_năng tài_chính  phần không tìm đâu ra được nguồn tạng để ghép nên đã không còn cơ_hội để cứu bạn anh khương 
-28,thời_gian đó  anh khương chưa biết tới hiến tạng sau khi bạn mất  anh khương đã tìm_hiểu qua truyền_thông về hiến tạng  hiến xác khi chết_não 
-29,anh đến trường đại_học y_dược tp hồ_chí_minh đăng_ký hiến xác  đến bv chợ_rẫy đăng_ký hiến tạng khi chết_não 
-30,khương hiểu  hiến tạng khi chết_não là một hành_động cao_đẹp 
-31,đi tới đâu  anh khương cũng có những điểm dừng chân và tuyên_truyền cho mọi người về hành_động hiến tạng 
-32,khương còn mang theo sẵn những tờ đơn đăng_ký hiến tạng và những điều cần biết về hiến tạng để đưa cho mọi người 
-33,anh khương cho biết  đa_phần  mọi người hiểu và cảm_kích trước hành_động của khương và có người hứa sẽ suy_nghĩ về hiến tạng khi chết_não nhưng cũng có những người bảo anh khùng 
-34,anh chẳng buồn mà chỉ cười để hy_vọng sẽ thuyết_phục được họ bằng chính việc_làm nghĩa cả của mình cho sự_nghiệp trị bệnh cứu người 
-35,bán đấu_giá chiếc xe_đạp ủng_hộ giúp 600 giường bệnh_nhi tiếp_chuyện khương  gsts_trịnh_hồng_sơn  giám_đốc trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người – phó giám_đốc bv việt đức bày_tỏ sự cảm_động 
-36,việc đạp xe xuyên việt để vận_động hiến tạng như anh khương đã làm là 1 một việc_làm đáng trân_trọng 
-37,gssơn chia_sẻ  hiện_nay ngành y_tế việt nam có đủ năng_lực để thực_hiện ghép tạng  cứu những người như bạn của anh khương 
-38,các khâu về kỹ_thuật  tay_nghề bác_sĩ  thuốc_men đều sẵn_sàng  chỉ duy_nhất còn thiếu một yếu_tố quan_trọng nhất là người cho tạng 
-39,bởi quan_niệm chết phải toàn thây vẫn còn ăn chặt trong suy_nghĩ nhiều người 
-40,chúng_ta cần phải thay_đổi quan_niệm này 
-41,và những người như khương_đạp xe xuyên việt để vận_động hiến tạng đã nói lên ý_thức về sự thay_đổi này 
-42,đó là một dấu_hiệu đáng mừng 
+0,xe_đạp xuyên việt 23 triệu đồng chạy khỏe … hơn ngựa chiến gặp anh trần_nguyễn_an_khương sinh năm 1988 tân_lộc – thới_bình – cà_mau sáng ngày 20/5 anh kết_thúc cuộc hành_trình xuyên việt mũi cà_mau quê anh tới trung_tâm điều_phối tạng_quốc_gia hà_nội khiến người ngạc_nhiên thú_vị
+1,chuyến đi xuyên việt anh khương bắt_đầu ngày 124
+2,khương đi dọc đường bờ biển mang dòng chữ xúc_động “ chia_sẻ yêu_thương đi còn mãi ” mong_muốn đưa đến thông_điệp nhắn tới mọi người thay_đổi về hiến tạng thay_đổi về quan_điểm chết toàn thây cố_hữu
+3,nhìn anh khương dáng_dấp một chàng trai nhỏ_bé gày queo nước_da ngăm đen ít ai nghĩ ở anh một sức_lực dẻo_dai ẩn dấu một tâm_hồn đẹp
+4,điểm đặc_biệt xe_đạp con ngựa chiến anh khương một xe_đạp bình_thường anh mua ở chợ huyện giá 23 triệu đồng năm 2013
+5,xe chằng buộc túi túi quần_áo đồ_dùng còn đựng một bếp cồn đồ khương đung trà dừng chân uống dọc đường
+6,mặc_dù vượt chặng đường đạp xe_đạp gần 2000 km xuyên việt ròng_rã trong suốt 1 tháng 7 ngày sút hơn 4 kg trọng_lượng cơ_thể nay khương còn 38 kg anh khương nở nụ cười hồn_nhiên trả_lời tất_cả câu hỏi phóng_viên báo đài
+7,anh khương chia_sẻ hành_trình anh mang trong chuyến đạp xe xuyên việt 5 triệu đồng
+8,tới thời_điểm anh mới tiêu hết 37 triệu đồng
+9,ngày khương tiêu hết 100000 đ ăn uống
+10,đa_phần ăn đơn_giản ăn bánh mỳ ăn mỳ tôm uống nước mía dọc đường
+11,còn chỗ nghỉ bạn_bè dọc đường người dân ngủ nhờ
+12,ngày khương_đạp khoảng 100 km bắt_đầu khoảng hơn 5 h sáng kết_thúc khoảng 19 h tối
+13,hỏi suốt cuộc hành_trình dài đạp xe một_mình anh khương buồn
+14,anh cười em buồn
+15,cung đường em đi dọc bờ biển đẹp lắm
+16,đoạn đường em gặp bạn đạp xe chặng dài đồng_hành
+17,lần đầu_tiên em đạp xe chặng dài lần thứ 3
+18,tuy_nhiên lần lần xuyên việt còn 2 lần đạp tới quảng_bình huế
+19,“ thật may_mắn suốt chẳng đường_dài xe hề hỏng
+20,về tới trung_tâm điều_phối tạng quốc_gia lần đầu_tiên trong cuộc hành_trình xe mới tuột xích ” – anh khương cười tươi
+21,đôi_lần nói kẻ … khùng anh khương hiến tạng một xa_lạ
+22,năm 2013 một người bạn làm bộ_phận đứng quầy trong khách_sạn anh khương đột_nhiên yếu đi đi khám bác_sĩ kết_luận cậu bạn suy thận nặng chỉ_định ghép thận
+23,thực_sự một cú sốc anh khương
+24,cậu bạn đồng_nghiệp phát_hiện bệnh tới mất quãng thời_gian quá ngắn_ngủi vỏn_vẹn 2 tháng
+25,anh khương tiếc lắm bạn mình đi ở tuổi thanh_niên 24
+26,tới bây_giờ anh nhớ câu nói bạn “ ước_gì một phép màu cứu mình ”
+27,tuy_nhiên phần gia_đình đủ khả_năng tài_chính phần tìm đâu nguồn tạng ghép còn cơ_hội cứu bạn anh khương
+28,thời_gian anh khương biết tới hiến tạng bạn mất anh khương tìm_hiểu truyền_thông về hiến tạng hiến xác chết_não
+29,anh đến trường đại_học y_dược tp hồ_chí_minh đăng_ký hiến xác đến bv chợ_rẫy đăng_ký hiến tạng chết_não
+30,khương hiểu hiến tạng chết_não một hành_động cao_đẹp
+31,đi tới đâu anh khương điểm dừng chân tuyên_truyền mọi người về hành_động hiến tạng
+32,khương còn mang sẵn tờ đơn đăng_ký hiến tạng biết về hiến tạng đưa mọi người
+33,anh khương biết đa_phần mọi người hiểu cảm_kích hành_động khương người hứa suy_nghĩ về hiến tạng chết_não người bảo anh khùng
+34,anh chẳng buồn cười hy_vọng thuyết_phục họ bằng chính việc_làm nghĩa mình sự_nghiệp trị bệnh cứu người
+35,bán đấu_giá xe_đạp ủng_hộ giúp 600 giường bệnh_nhi tiếp_chuyện khương gsts_trịnh_hồng_sơn giám_đốc trung_tâm điều_phối quốc_gia về ghép bộ_phận cơ_thể người – phó giám_đốc bv việt đức bày_tỏ cảm_động
+36,đạp xe xuyên việt vận_động hiến tạng anh khương làm 1 một việc_làm đáng trân_trọng
+37,gssơn chia_sẻ hiện_nay ngành y_tế việt nam đủ năng_lực thực_hiện ghép tạng cứu người bạn anh khương
+38,khâu về kỹ_thuật tay_nghề bác_sĩ thuốc_men sẵn_sàng duy_nhất còn thiếu một yếu_tố quan_trọng nhất người tạng
+39,quan_niệm chết toàn thây còn ăn chặt trong suy_nghĩ người
+40,chúng_ta thay_đổi quan_niệm
+41,người khương_đạp xe xuyên việt vận_động hiến tạng nói ý_thức về thay_đổi
+42,một dấu_hiệu đáng mừng

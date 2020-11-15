@@ -1,4 +1,4 @@
 idx, sentence
-0,ngày 195  tại trung_tâm pháp_y đà_nẵng  khoa y_dược  đh đà_nẵng long_trọng tổ_chức lễ tri_ân  macchabée  những người đã hiến xác cho sự_nghiệp đào_tạo và nghiên_cứu y_khoa 
-1,tại lễ tri_ân  những cán_bộ  giảng_viên và sinh_viên khoa y_dược thành_kính dâng hoa  hương tưởng_nhớ công_lao những người thầm_lặng hiến xác vì sự phát_triển y_học 
-2,giải_phẫu học là bộ_môn xương_sống trong đào_tạo y_khoa và những tiêu bảnthi hài phục_vụ cho đào_tạo rất quý_giá và đáng trân_trọng 
+0,ngày 195 trung_tâm pháp_y đà_nẵng khoa y_dược đh đà_nẵng long_trọng tổ_chức lễ tri_ân macchabée người hiến xác sự_nghiệp đào_tạo nghiên_cứu y_khoa
+1,lễ tri_ân cán_bộ giảng_viên sinh_viên khoa y_dược thành_kính dâng hoa hương tưởng_nhớ công_lao người thầm_lặng hiến xác phát_triển y_học
+2,giải_phẫu học bộ_môn xương_sống trong đào_tạo y_khoa tiêu bảnthi hài phục_vụ đào_tạo quý_giá đáng trân_trọng

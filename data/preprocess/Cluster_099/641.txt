@@ -1,20 +1,20 @@
 idx, sentence
-0,tại họp_báo triển_khai học_tập  quán_triệt luật báo_chí 2016 và góp ý_kiến xây_dựng quy_định đạo_đức người làm báo vn chiều 23/5  báo vietnamnet đặt câu hỏi  “ hiện có một_số cơ_quan báo_chí đưa ra quy_định nội_bộ về việc phát_ngôn của nhà_báo trên mạng xã_hội 
-1,trong quy_định về đạo_đức người làm báo vn sắp tới có đề_cập đến vấn_đề này  ” 
-2,phó chủ_tịch thường_trực hội nhà_báo vn hồ_quang_lợi chỉ ra thực_tế có một_số nhà_báo khi viết bài trên báo_chí công_khai ký tên mình thì viết khác nhưng viết trên mạng xã_hội thì trái_ngược với những gì viết trên báo 
-3,“ một người mà có 2 loại ý_kiến về 1 vấn_đề nào đó là không ổn 
-4,về mặt lương_tâm không_thể hai mặt  không_thể hai con_người được 
-5,nhà_báo viết  chiến_đấu  bảo_vệ một cái gì đó phải chính_trực  không_thể lúc thế này  lúc thế kia được ”  ông lợi nhấn_mạnh 
-6,xong ông lợi cho rằng  các cơ_quan báo_chí có quy_định về việc nhà_báo tham_gia mạng xã_hội phải phù_hợp với luật  bởi các quy_định dưới_luật dù mang tính nội_bộ phải phù_hợp  không được vi_phạm quyền tự_do báo_chí  quyền tự_do ngôn_luận của công_dân 
-7,ông nguyễn_văn_hiếu  trưởng_phòng báo_chí tư  cục báo_chí  bộ_tttt cho biết  khi thảo_luận luật báo_chí có ý_kiến đề_nghị đưa việc phát_ngôn của nhà_báo trên mạng xã_hội 
-8,nhưng có ý_kiến cho rằng nếu quy_định như_vậy sẽ vi_phạm quyền tự_do báo_chí  tự_do ngôn_luận của công_dân  trong đó có nhà_báo 
-9,ông hiếu cho rằng việc nhiều cơ_quan báo_chí có quy_định riêng về phát_ngôn của nhà_báo trên mạng xã_hội là quy_định nội_bộ 
-10,nhà_báo ký hợp_đồng làm_việc tại cơ_quan báo_chí đó cùng thỏa_thuận để thực_hiện các quy_định trong nội_bộ 
-11,“ đây là đồng thuận thỏa ước lao_động của nhà_báo khi vào làm_việc ở cơ_quan báo_chí 
-12,nếu nhà_báo cảm_thấy không phù_hợp thì nhà_báo có_thể không làm_việc tại cơ_quan báo_chí đó nữa ”  ông nói 
-13,vi_phạm đạo_đức tước thẻ nhà_báo nhấn_mạnh khuôn_khổ hành_lang pháp_lý của luật báo_chí 2016 nhằm phục_vụ tốt cho xã_hội  đất_nước  ông lợi cho rằng  đây cũng chính là lẽ sống của người làm báo phải nắm để tránh những sai_sót trong quá_trình tác_nghiệp  nói về quy_định đạo_đức nghề báo đang được hội nhà_báo đưa ra lấy ý_kiến  ông lợi khẳng_định  báo_chí là hoạt_động đặc_biệt có tác_động chi_phối dư_luận xã_hội rất lớn 
-14,nếu không coi_trọng đạo_đức nghề báo thì tác_hại rất lớn 
-15,bên_cạnh việc thực_hiện đúng quy_định pháp_luật  nhà_báo phải hướng tới xây_dựng một xã_hội nhân_văn  trân_trọng_con_người 
-16,việc bảo_đảm quyền thông_tin của công_dân là cần_thiết nhưng phải đảm_bảo giá_trị nhân_văn 
-17,vấn_đề đạo_đức nghề_nghiệp đã được luật_hóa 
-18,vì_vậy  vi_phạm đạo_đức cũng có nghĩa là vi_phạm pháp_luật 
+0,họp_báo triển_khai học_tập quán_triệt luật báo_chí 2016 góp ý_kiến xây_dựng quy_định đạo_đức người làm báo vn chiều 23/5 báo vietnamnet đặt câu hỏi “ hiện một_số cơ_quan báo_chí đưa quy_định nội_bộ về phát_ngôn nhà_báo mạng xã_hội
+1,trong quy_định về đạo_đức người làm báo vn sắp tới đề_cập đến vấn_đề ”
+2,phó chủ_tịch thường_trực hội nhà_báo vn hồ_quang_lợi thực_tế một_số nhà_báo viết bài báo_chí công_khai ký tên mình viết khác viết mạng xã_hội trái_ngược viết báo
+3,“ một người 2 loại ý_kiến về 1 vấn_đề nào ổn
+4,về mặt lương_tâm không_thể hai mặt không_thể hai con_người
+5,nhà_báo viết chiến_đấu bảo_vệ một chính_trực không_thể thế thế kia ” ông lợi nhấn_mạnh
+6,xong ông lợi cơ_quan báo_chí quy_định về nhà_báo tham_gia mạng xã_hội phù_hợp luật quy_định dưới_luật dù mang tính nội_bộ phù_hợp vi_phạm quyền tự_do báo_chí quyền tự_do ngôn_luận công_dân
+7,ông nguyễn_văn_hiếu trưởng_phòng báo_chí tư cục báo_chí bộ_tttt biết thảo_luận luật báo_chí ý_kiến đề_nghị đưa phát_ngôn nhà_báo mạng xã_hội
+8,ý_kiến quy_định như_vậy vi_phạm quyền tự_do báo_chí tự_do ngôn_luận công_dân trong nhà_báo
+9,ông hiếu cơ_quan báo_chí quy_định riêng về phát_ngôn nhà_báo mạng xã_hội quy_định nội_bộ
+10,nhà_báo ký hợp_đồng làm_việc cơ_quan báo_chí thỏa_thuận thực_hiện quy_định trong nội_bộ
+11,“ đồng thuận thỏa ước lao_động nhà_báo làm_việc ở cơ_quan báo_chí
+12,nhà_báo cảm_thấy phù_hợp nhà_báo làm_việc cơ_quan báo_chí ” ông nói
+13,vi_phạm đạo_đức tước thẻ nhà_báo nhấn_mạnh khuôn_khổ hành_lang pháp_lý luật báo_chí 2016 nhằm phục_vụ tốt xã_hội đất_nước ông lợi chính lẽ sống người làm báo nắm tránh sai_sót trong quá_trình tác_nghiệp nói về quy_định đạo_đức nghề báo hội nhà_báo đưa lấy ý_kiến ông lợi khẳng_định báo_chí hoạt_động đặc_biệt tác_động chi_phối dư_luận xã_hội lớn
+14,coi_trọng đạo_đức nghề báo tác_hại lớn
+15,bên_cạnh thực_hiện đúng quy_định pháp_luật nhà_báo hướng tới xây_dựng một xã_hội nhân_văn trân_trọng_con_người
+16,bảo_đảm quyền thông_tin công_dân cần_thiết đảm_bảo giá_trị nhân_văn
+17,vấn_đề đạo_đức nghề_nghiệp luật_hóa
+18,vì_vậy vi_phạm đạo_đức nghĩa vi_phạm pháp_luật

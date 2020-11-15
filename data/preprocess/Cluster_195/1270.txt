@@ -1,13 +1,13 @@
 idx, sentence
-0,ngọn lửa bắt_đầu vào lúc 1 h30  giờ_địa_phương  tại kho đạn gần nagpur  ấn_độ 
-1,những cảnh quay trên kênh_truyền_hình cho thấy ngọn lửa đã thắp sáng cả bầu_trời ban_đêm phía trên trung_tâm đạn_dược lớn nhất ở ấn_độ và lớn thứ hai tại châu_á 
-2,đạn_dược được cất_giữ và phân_phối từ đây bao_gồm ak47s và tên lửa brahmos 
-3,các nguồn tin nói với ndtv rằng một_số sĩ_quan đã gặp thương_vong do lao vào đám cháy để ngăn_chặn đạn_dược quan_trọng đang bắt_đầu bị cháy 
-4,thủ_tướng ấn_độ_narendra_modi viết trên twitter rằng bộ_trưởng bộ quốc_phòng manohar_parrikar sẽ đến hiện_trường vụ_việc trong hôm_nay 
-5,hồi 11 h theo giờ địa_phương  chủ_tịch tỉnh maharashtra  devendra_fadnavis cho biết ông đã được thông_báo rằng đám cháy đã được không chế chế 
-6,theo các báo_cáo  trong số người bị_thương có sĩ_quan chỉ_huy của kho đạn_dược đang chịu trách_nhiệm bảo_vệ đạn_dược 
-7,tuy_nhiên  ndtv chưa xác_nhận về thông_tin này 
-8,hàng ngàn gia_đình sống ở các thị_trấn và những ngôi làng gần đó đã được yêu_cầu sơ_tán khỏi kho đạn_dược 
-9,những người bị_thương đã được đưa tới bệnh_viện gần đó và 2 trong số đó đang trong tình_trạng nguy_kịch 
-10,quân_đội nước này cho biết nguyên_nhân vụ_việc đang được điều_tra  nguồn tin cho biết hiện chưa xác_định được ngọn lửa là một tai_nạn hay do cố_ý phá_hoại 
-11,nhân_viên cứu_hỏa đã phải điều_động 10 xe chữa_cháy làm_việc suốt đêm để khống_chế ngọn lửa  ông ramesh_barde  một nhân_viên cứu_hỏa thuộc sở cứu_hỏa_nagpur cho biết 
+0,ngọn lửa bắt_đầu 1 h30 giờ_địa_phương kho đạn gần nagpur ấn_độ
+1,cảnh quay kênh_truyền_hình thấy ngọn lửa thắp sáng bầu_trời ban_đêm phía trung_tâm đạn_dược lớn nhất ở ấn_độ lớn thứ hai châu_á
+2,đạn_dược cất_giữ phân_phối bao_gồm ak47s tên lửa brahmos
+3,nguồn tin nói ndtv một_số sĩ_quan gặp thương_vong lao đám cháy ngăn_chặn đạn_dược quan_trọng bắt_đầu cháy
+4,thủ_tướng ấn_độ_narendra_modi viết twitter bộ_trưởng bộ quốc_phòng manohar_parrikar đến hiện_trường vụ_việc trong hôm_nay
+5,hồi 11 h giờ địa_phương chủ_tịch tỉnh maharashtra devendra_fadnavis biết ông thông_báo đám cháy chế chế
+6,báo_cáo trong số người bị_thương sĩ_quan chỉ_huy kho đạn_dược chịu trách_nhiệm bảo_vệ đạn_dược
+7,tuy_nhiên ndtv xác_nhận về thông_tin
+8,hàng ngàn gia_đình sống ở thị_trấn ngôi làng gần yêu_cầu sơ_tán khỏi kho đạn_dược
+9,người bị_thương đưa tới bệnh_viện gần 2 trong số trong tình_trạng nguy_kịch
+10,quân_đội nước biết nguyên_nhân vụ_việc điều_tra nguồn tin biết hiện xác_định ngọn lửa một tai_nạn hay cố_ý phá_hoại
+11,nhân_viên cứu_hỏa điều_động 10 xe chữa_cháy làm_việc suốt đêm khống_chế ngọn lửa ông ramesh_barde một nhân_viên cứu_hỏa thuộc sở cứu_hỏa_nagpur biết

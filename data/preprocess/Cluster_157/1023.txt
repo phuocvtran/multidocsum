@@ -1,17 +1,17 @@
 idx, sentence
-0,sáng 29/5  ông lương trường_sơn  trưởng công_an xã mường_noọc  huyện quế_phong  tỉnh nghệ_an  xác_nhận  trên địa_bàn xã này vừa xảy ra vụ án_mạng tại gia_đình ông sầm_văn_dần  sn 1955  và bà vi_thị_loan  sn 1953   trú bản cỏ_noong  xã mường_noọc  quế_phong  
-1,ông sơn cho biết   vào khoảng 21 h đêm 28/5  ban_công_an xã nhận được tin báo của người dân về vụ án_mạng 
-2,ngay_lập_tức  chúng_tôi có_mặt tại hiện_trường và phát_hiện bà loan đã chết từ trước đó 
-3,còn ông dần may_mắn thoát chết đã lê_lết đến hàng_xóm cách đó khoảng 200 m báo tin là vợ ông bị đối_tượng thắng  tức vi_văn_thắng  sn 1993  trú cùng bản  giết chết 
-4,chúng_tôi đang bảo_vệ hiện_trường để pháp_y công_an tỉnh và công_an huyện quế_phong khám_nghiệm hiện_trường  điều_tra nguyên_nhân ” 
-5,ông lương trường_sơn cũng dẫn lại thông_tin từ ông dần cho biết  trước đó vào khoảng 17 h  chiều 28/5   đối_tượng vi_văn_thắng có đến nhà vợ_chồng ông để uống rượu 
-6,tại đây  ông dần và thắng uống rượu khá nhiều rồi hai người đã lăn ra nằm ngủ trên sàn nhà 
-7,trong lúc ông dần đang nằm ngủ thì thắng tỉnh_giấc  thực_hiện hành_vi giết bà loan để cướp tài_sản 
-8,phát_hiện thắng giết bà loan  ông dần lao vào can_thiệp thì bị thắng dùng dao chém vào cổ  chém sườn  đâm_thủng phổi và nhiều vết_thương khác trên cơ_thể khiến ông dần bị_thương nặng 
-9,hiện ông dần đã được đưa xuống bệnh_viện đa_khoa nghệ_an để cấp_cứu 
-10,tại hiện_trường  đôi bông_tai bằng vàng của bà loan và chiếc túi đựng tiền đã bị cướp 
-11,“ hàng_ngày bà loan đi rừng hái_củi và bán kiếm tiền để qua_ngày 
-12,cách nay một tuần  bà loan có làm vía  theo phong_tục địa_phương  chắc có khoảng 1 triệu đồng gì đó 
-13,có_thể thắng biết và đã gây ra án_mạng để cướp của đối_với bà loan 
-14,thắng là một con_nghiện từ lâu và thường hay đi ăn_cắp  ăn_trộm của người_dân trên địa_bàn 
-15,hiện nghi phạm đang bỏ trốn khỏi địa_bàn ”  ông lương trường_sơn cho biết thêm 
+0,sáng 29/5 ông lương trường_sơn trưởng công_an xã mường_noọc huyện quế_phong tỉnh nghệ_an xác_nhận địa_bàn xã xảy vụ án_mạng gia_đình ông sầm_văn_dần sn 1955 bà vi_thị_loan sn 1953 trú bản cỏ_noong xã mường_noọc quế_phong
+1,ông sơn biết khoảng 21 h đêm 28/5 ban_công_an xã nhận tin báo người dân về vụ án_mạng
+2,ngay_lập_tức chúng_tôi có_mặt hiện_trường phát_hiện bà loan chết
+3,còn ông dần may_mắn thoát chết lê_lết đến hàng_xóm cách khoảng 200 m báo tin vợ ông đối_tượng thắng tức vi_văn_thắng sn 1993 trú bản giết chết
+4,chúng_tôi bảo_vệ hiện_trường pháp_y công_an tỉnh công_an huyện quế_phong khám_nghiệm hiện_trường điều_tra nguyên_nhân ”
+5,ông lương trường_sơn dẫn thông_tin ông dần biết khoảng 17 h chiều 28/5 đối_tượng vi_văn_thắng đến nhà vợ_chồng ông uống rượu
+6,ông dần thắng uống rượu khá hai người lăn nằm ngủ sàn nhà
+7,trong ông dần nằm ngủ thắng tỉnh_giấc thực_hiện hành_vi giết bà loan cướp tài_sản
+8,phát_hiện thắng giết bà loan ông dần lao can_thiệp thắng dùng dao chém cổ chém sườn đâm_thủng phổi vết_thương khác cơ_thể khiến ông dần bị_thương nặng
+9,hiện ông dần đưa xuống bệnh_viện đa_khoa nghệ_an cấp_cứu
+10,hiện_trường đôi bông_tai bằng vàng bà loan túi đựng tiền cướp
+11,“ hàng_ngày bà loan đi rừng hái_củi bán kiếm tiền qua_ngày
+12,cách nay một tuần bà loan làm vía phong_tục địa_phương chắc khoảng 1 triệu đồng
+13,thắng biết gây án_mạng cướp đối_với bà loan
+14,thắng một con_nghiện lâu thường hay đi ăn_cắp ăn_trộm người_dân địa_bàn
+15,hiện nghi phạm bỏ trốn khỏi địa_bàn ” ông lương trường_sơn biết thêm

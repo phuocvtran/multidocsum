@@ -1,8 +1,8 @@
 idx, sentence
-0,người_mẫu merve_buyuksarac  27 tuổi  người giành danh_hiệu hoa_hậu_thổ nhĩ kỳ năm 2006 đã bị một tòa_án ở istanbul kết_án 14 tháng tù_treo hôm 315 vì cô đã chia_sẻ một bài thơ trên truyền_thông xã_hội vào năm 2014 được cho là xúc_phạm ông erdoganlàm tổng_thống vào thời_điểm đó 
-1,hình_phạt sẽ trở_thành tù giam thực_tế  nếu buyuksarac tái xúc_phạm tổng_thống 
-2,buyuksarac đã chia_sẻ “ the_master’s_poem ”  bài thơ nhà lãnh_đạo  châm_biếm quốc_ca của thổ nhĩ_kỳ  nhưng sau đó  người_mẫu 27 tuổi này đã xóa link này đi vì một trong những người bạn đã cảnh_báo về hậu_quả có_thể xảy ra 
-3,tội_danh xúc_phạm tổng_thống có từ trước khi ông erdogan chính_thức lên nắm quyền vào năm 2014 
-4,tuy_nhiên  các chuyên_gia_pháp_lý cho hay  dưới sự lãnh_đạo của ông  nó được sử_dụng nhiều và quyết_liệt hơn 
-5,tháng trước  thổ nhĩ kỳ đã gửi đơn kiện người dẫn_chương_trình jan_böhmermann thuộc kênh_truyền_hình zdf của đức vì đã đọc một bài thơ về ông erdogan với nội_dung ám_chỉ hoạt_động tình_dục của tổng_thống một_cách thô_thiển 
-6,sau những phản_ứng dữ_dội từ ankara  trong một động_thái chỉ trích rộng_rãi  thủ_tướng đức angela_merkel cho biết việc đề_nghị truy_tố người dẫn_chương_trình này của tổng_thống thổ nhĩ kỳ_tayyip_erdogan là  phù_hợp  
+0,người_mẫu merve_buyuksarac 27 tuổi người giành danh_hiệu hoa_hậu_thổ nhĩ kỳ năm 2006 một tòa_án ở istanbul kết_án 14 tháng tù_treo hôm 315 cô chia_sẻ một bài thơ truyền_thông xã_hội năm 2014 xúc_phạm ông erdoganlàm tổng_thống thời_điểm
+1,hình_phạt trở_thành tù giam thực_tế buyuksarac tái xúc_phạm tổng_thống
+2,buyuksarac chia_sẻ “ the_master’s_poem ” bài thơ nhà lãnh_đạo châm_biếm quốc_ca thổ nhĩ_kỳ người_mẫu 27 tuổi xóa link đi một trong người bạn cảnh_báo về hậu_quả xảy
+3,tội_danh xúc_phạm tổng_thống ông erdogan chính_thức nắm quyền năm 2014
+4,tuy_nhiên chuyên_gia_pháp_lý hay lãnh_đạo ông nó sử_dụng quyết_liệt hơn
+5,tháng thổ nhĩ kỳ gửi đơn kiện người dẫn_chương_trình jan_böhmermann thuộc kênh_truyền_hình zdf đức đọc một bài thơ về ông erdogan nội_dung ám_chỉ hoạt_động tình_dục tổng_thống thô_thiển
+6,phản_ứng dữ_dội ankara trong một động_thái trích rộng_rãi thủ_tướng đức angela_merkel biết đề_nghị truy_tố người dẫn_chương_trình tổng_thống thổ nhĩ kỳ_tayyip_erdogan phù_hợp

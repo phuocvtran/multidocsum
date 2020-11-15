@@ -1,17 +1,17 @@
 idx, sentence
-0,hợp_đồng giữa mu và mourinho đã được công_bố từ ngày 27/5 nhưng phải đến hôm_qua  30/5  nhà cầm_quân người bồ_đào_nha mới chính_thức đến tham đại bản_doanh của quỷ đỏ 
-1,xuất_hiện_tại khu tập_luyện carrington cùng mourinho là trợ_lý rui_farria 
-2,tại đây  cựu hlv chelsea đã gặp tượng_đài sống của man_utd  sir_bobby_charlton 
-3,mourinho tới chào và trêu đùa rằng   ngài từng hủy_hoại giấc mơ vô_địch world_cup năm 1966 của đất_nước chúng_tôi 
-4,nhưng tôi luôn dành cho ngài nhiều sự tôn_trọng  
-5,đáp lại  sir_bobby_charlton dành cho mourinho những lời chúc_mừng   tôi rất vui và hạnh_phúc khi thấy anh ở đây 
-6,xin chúc_mừng  
-7,mourinho đáp lại một_cách khiêm_tốn   xin đừng chúc_mừng tôi vào lúc này 
-8,khi chúng_ta giành chiến_thắng trong các trận đấu  lúc đấy tôi sẽ đón_nhận những lời chúc từ ông  
-9,sau khi trò_chuyện ít phút với tượng_đài sống của mu   người đặc_biệt  đã được gđđh_ed_woodward dẫn đi thăm quan sân_bãi và khu đào_tạo trẻ 
-10,sau đó  hai người đã có buổi thảo_luận hơn 1 tiếng đồng_hồ tại phòng làm_việc mới được sắp sẵn cho mourinho 
-11,mục_tiêu chính của buổi làm_việc giữa nhà cầm_quân của người bồ_đào_nha và lãnh_đạo quỷ đỏ là cố_gắng đưa mu trở_lại vinh_quang thời sir alex_ferguson 
-12,bên_cạnh đó  họ cũng thảo_luận về kế_hoạch chuyển_nhượng của đội bóng 
-13, người đặc_biệt  muốn những bản hợp_đồng sớm được ký_kết trước thời_điểm toàn đội tập_trung chuẩn_bị cho mùa giải mới vào tháng 7 
-14,mục_tiêu mà mu đang nhắm đến chính là trung_vệ manolas của roma và sẵn_sàng chi 54 triệu bảng mua saul_niguez  atletico_madrid  
-15,bên_cạnh đó  mourinho còn nhắm đến matic  stones  ibrahimovic và aubameyang 
+0,hợp_đồng giữa mu mourinho công_bố ngày 27/5 đến hôm_qua 30/5 nhà cầm_quân người bồ_đào_nha mới chính_thức đến tham đại bản_doanh quỷ đỏ
+1,xuất_hiện_tại khu tập_luyện carrington mourinho trợ_lý rui_farria
+2,cựu hlv chelsea gặp tượng_đài sống man_utd sir_bobby_charlton
+3,mourinho tới chào trêu đùa ngài hủy_hoại giấc mơ vô_địch world_cup năm 1966 đất_nước chúng_tôi
+4,tôi luôn dành ngài tôn_trọng
+5,đáp sir_bobby_charlton dành mourinho lời chúc_mừng tôi vui hạnh_phúc thấy anh ở
+6,xin chúc_mừng
+7,mourinho đáp khiêm_tốn xin đừng chúc_mừng tôi
+8,chúng_ta giành chiến_thắng trong trận đấu đấy tôi đón_nhận lời chúc ông
+9,trò_chuyện ít phút tượng_đài sống mu người đặc_biệt gđđh_ed_woodward dẫn đi thăm quan sân_bãi khu đào_tạo trẻ
+10,hai người buổi thảo_luận hơn 1 tiếng đồng_hồ phòng làm_việc mới sắp sẵn mourinho
+11,mục_tiêu chính buổi làm_việc giữa nhà cầm_quân người bồ_đào_nha lãnh_đạo quỷ đỏ cố_gắng đưa mu trở_lại vinh_quang thời sir alex_ferguson
+12,bên_cạnh họ thảo_luận về kế_hoạch chuyển_nhượng đội bóng
+13,người đặc_biệt muốn bản hợp_đồng sớm ký_kết thời_điểm toàn đội tập_trung chuẩn_bị mùa giải mới tháng 7
+14,mục_tiêu mu nhắm đến chính trung_vệ manolas roma sẵn_sàng chi 54 triệu bảng mua saul_niguez atletico_madrid
+15,bên_cạnh mourinho còn nhắm đến matic stones ibrahimovic aubameyang

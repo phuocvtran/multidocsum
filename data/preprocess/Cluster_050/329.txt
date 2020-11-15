@@ -1,33 +1,33 @@
 idx, sentence
-0,“ nó giống như việc bạn đi mua một chiếc xe_hơi vậy  lẽ_ra mọi việc sẽ rất đơn_giản  nhưng rồi lần nào tới cửa_hàng  bạn cũng phải mất 5 tới 6 giờ đồng_hồ vì sự “ nhiệt_tình ” của nhân_viên bán hàng 
-1,phần_lớn chúng_ta đều phải nỗ_lực để các nhân_viên kinh_doanh để chúng_ta một_mình ” 
-2,vậy_mà  năm 2013  khi cipes gửi email tới một công_ty chuyên viết và kinh_doanh phần_mềm mang tên atlassian tại australia và yêu_cầu trò_chuyện với một nhân_viên kinh_doanh  câu trả_lời nhận được là không có nhân_viên kinh_doanh nào tại đây 
-3,scott_farquhar và mike_cannonbrookers đã sáng_lập atlassian khi vừa hoàn_thành chương_trình đào_tạo it tại university of new_south_wales 
-4,cả 2 hiện_tại đều giữ chức_vụ ceo tại công_ty 
-5,atlassian hiện đang hoạt_động theo một phương_thức đặc_biệt  không sử_dụng nhân_viên kinh_doanh 
-6,năm 2015  doanh_số bán hàng của công_ty đạt 320 triệu usd  phát đi một tín_hiệu mới về hiệu_quả thực_sự của hoạt_động chào_hàng trong thế_giới kinh_doanh hiện_đại 
-7,atlassian  công_ty đã xây_dựng nên các ứng_dụng quản_lý và trò_chuyện thông_dụng như jira hay hipchat  không cần áp_đặt chỉ_tiêu doanh_thu hay phần_thưởng cuối kỳ 
-8,thực_tế  các nhân_viên của công_ty không cần gọi điện làm_phiền bất_kỳ ai để bán sản_phẩm  bởi atlassian không hề có nhân_viên kinh_doanh nào 
-9,“ khách_hàng không muốn gọi một nhân_viên kinh_doanh nếu họ không buộc phải làm vậy 
-10,họ sẵn_sàng tìm_hiểu mọi thứ trên website công_ty thay_vì bị làm_phiền ”  scott_farquhar cho biết 
-11,cách mà các công_ty công_nghệ bán phần_mềm đã thay_đổi mạnh_mẽ trong thập_kỷ qua 
-12,sự sẵn_sàng của các mã nguồn mở đã thay_thế hoạt_động kinh_doanh truyền_thống  đồng_thời gia_tăng thêm thách_thức với các bản dùng thử  phiên_bản thông_thường đối_với các sản_phẩm phần_mềm 
-13,người dùng chỉ phải trả tiền khi nâng_cấp hoặc muốn sử_dụng mọi tiện_ích của sản_phẩm 
-14,các công_ty lâu năm như ibm  oracle và hewlett_packard_enterprise  đều phải thuê hàng nghìn nhân_viên kinh_doanh 
-15,hiện_tại  các công_ty này đang nhanh_chóng “ hội_nhập ” xu_thế mới bằng việc mua lại các công_ty mã nguồn mở hoặc đám_mây với cách_thức bán hàng khác biết  laurie_wurster  chiến_lược gia tại gartner cho biết 
-16,cho tới hiện_tại  atlassian vẫn là ví_dụ đặc_biệt và điển_hình nhất của hình_mẫu hoạt_động này 
-17,công_ty 14 năm tuổi này đạt giá_trị 5 tỷ usd khi tiến_hành ipo vào tháng 12/2015 mà không cần phải trả lương cho một nhân_viên kinh_doanh nào 
-18,hơn 80 công_ty trong danh_sách fortune 100 sử_dụng phần_mềm của atlassian và đa_phần các nhà_đầu_tư cũng như các công_ty khách đều đang cố_gắng học_tập theo chiến_lược kinh_doanh này 
-19,farquhar cho rằng  may_mắn đã mỉm cười với anh khi thực_hiện chiến_lược này 
-20,vào những ngày mới thành_lập atlassian  cả anh và simon đều không biết gì về việc kinh_doanh phần_mềm 
-21,năm 2002  trang_web của họ cho_phép khách_hàng tải về các bản dùng thử nhưng vẫn chưa hề trang_bị công_cụ cho việc thanh_toán sản_phẩm  mọi đơn đặt_hàng đều được gửi tới qua máy_fax 
-22,một hôm  họ nhận được fax từ american_airlines  theo đó  bộ_phận it của hãng hàng_không này đã sử_dụng bản dùng thử và tự gửi đơn hàng tới 
-23,“ đó chính là thời_điểm đặc_biệt quan_trọng với chúng_tôi  nó trao cho chúng_tôi sự tự_tin rằng công_ty có_thể hoạt_động theo mô_hình kinh_doanh mà không cần nhân_viên bán hàng nào ”  farquhar cho biết 
-24,với đơn hàng đầu_tiên từ american_airlines  atlassian nhận được 800 usd 
-25,năm 2015  doanh_thu của công_ty đạt 320 triệu usd  trong khi chi_phí dành cho bán hàng và marketing  chủ_yếu là để chạy quảng_cáo trên website  chỉ chiếm 1/5 con_số này 
-26,để so_sánh  salesforce_ com dành một_nửa doanh_thu cho hoạt_động quảng_cáo và marketing  trong khi box đã dành tới 80  doanh_thu cho chi_phí này  khi xây_dựng một đội_ngũ nhân_viên kinh_doanh khổng_lồ trong vài năm qua 
-27,các chuyên_gia dự_báo  doanh_thu trong năm 2016 của atlassian sẽ tăng lên mức 450 triệu usd 
-28,biểu_đồ   chi_phí bán hàng và marketing trong tổng_doanh_thu của một_số công_ty trong 12 tháng qua 
-29,tiết_kiệm chi_phí bán hàng và quảng_cáo đồng_nghĩa với việc sản_phẩm có giá rẻ hơn và công_ty có nhiều tiền hơn cho hoạt_động nghiên_cứu và phát_triển phần_mềm mới  giúp những nhà sáng_lập lạc_quan hơn với tốc_độ tăng_trưởng của công_ty trong thời_gian tới 
-30,tất_nhiên  atlanssian vẫn phải đối_diện với sự cạnh_tranh rất lớn trên thị_trường và câu hỏi liệu công_ty có đủ khả_năng để tiếp_tục mở_rộng hay không vẫn chưa_thể trả_lời 
-31,mặc_dù vậy  simon cho biết anh không lo_lắng về việc tăng_trưởng mà không có sự hỗ_trợ của đội_ngũ bán hàng 
+0,“ nó giống bạn đi mua một xe_hơi lẽ_ra mọi đơn_giản lần nào tới cửa_hàng bạn mất 5 tới 6 giờ đồng_hồ “ nhiệt_tình ” nhân_viên bán hàng
+1,phần_lớn chúng_ta nỗ_lực nhân_viên kinh_doanh chúng_ta một_mình ”
+2,vậy_mà năm 2013 cipes gửi email tới một công_ty chuyên viết kinh_doanh phần_mềm mang tên atlassian australia yêu_cầu trò_chuyện một nhân_viên kinh_doanh câu trả_lời nhận nhân_viên kinh_doanh nào
+3,scott_farquhar mike_cannonbrookers sáng_lập atlassian hoàn_thành chương_trình đào_tạo it university of new_south_wales
+4,2 hiện_tại giữ chức_vụ ceo công_ty
+5,atlassian hiện hoạt_động một phương_thức đặc_biệt sử_dụng nhân_viên kinh_doanh
+6,năm 2015 doanh_số bán hàng công_ty đạt 320 triệu usd phát đi một tín_hiệu mới về hiệu_quả thực_sự hoạt_động chào_hàng trong thế_giới kinh_doanh hiện_đại
+7,atlassian công_ty xây_dựng ứng_dụng quản_lý trò_chuyện thông_dụng jira hay hipchat áp_đặt chỉ_tiêu doanh_thu hay phần_thưởng cuối kỳ
+8,thực_tế nhân_viên công_ty gọi điện làm_phiền bất_kỳ ai bán sản_phẩm atlassian hề nhân_viên kinh_doanh nào
+9,“ khách_hàng muốn gọi một nhân_viên kinh_doanh họ buộc làm
+10,họ sẵn_sàng tìm_hiểu mọi thứ website công_ty thay_vì làm_phiền ” scott_farquhar biết
+11,cách công_ty công_nghệ bán phần_mềm thay_đổi mạnh_mẽ trong thập_kỷ
+12,sẵn_sàng mã nguồn mở thay_thế hoạt_động kinh_doanh truyền_thống đồng_thời gia_tăng thêm thách_thức bản dùng thử phiên_bản thông_thường đối_với sản_phẩm phần_mềm
+13,người dùng trả tiền nâng_cấp hoặc muốn sử_dụng mọi tiện_ích sản_phẩm
+14,công_ty lâu năm ibm oracle hewlett_packard_enterprise thuê hàng nghìn nhân_viên kinh_doanh
+15,hiện_tại công_ty nhanh_chóng “ hội_nhập ” xu_thế mới bằng mua công_ty mã nguồn mở hoặc đám_mây cách_thức bán hàng khác biết laurie_wurster chiến_lược gia gartner biết
+16,tới hiện_tại atlassian ví_dụ đặc_biệt điển_hình nhất hình_mẫu hoạt_động
+17,công_ty 14 năm tuổi đạt giá_trị 5 tỷ usd tiến_hành ipo tháng 12/2015 trả lương một nhân_viên kinh_doanh nào
+18,hơn 80 công_ty trong danh_sách fortune 100 sử_dụng phần_mềm atlassian đa_phần nhà_đầu_tư công_ty khách cố_gắng học_tập chiến_lược kinh_doanh
+19,farquhar may_mắn mỉm cười anh thực_hiện chiến_lược
+20,ngày mới thành_lập atlassian anh simon biết về kinh_doanh phần_mềm
+21,năm 2002 trang_web họ cho_phép khách_hàng tải về bản dùng thử hề trang_bị công_cụ thanh_toán sản_phẩm mọi đơn đặt_hàng gửi tới máy_fax
+22,một hôm họ nhận fax american_airlines bộ_phận it hãng hàng_không sử_dụng bản dùng thử tự gửi đơn hàng tới
+23,“ chính thời_điểm đặc_biệt quan_trọng chúng_tôi nó trao chúng_tôi tự_tin công_ty hoạt_động mô_hình kinh_doanh nhân_viên bán hàng nào ” farquhar biết
+24,đơn hàng đầu_tiên american_airlines atlassian nhận 800 usd
+25,năm 2015 doanh_thu công_ty đạt 320 triệu usd trong chi_phí dành bán hàng marketing chủ_yếu chạy quảng_cáo website chiếm 1/5 con_số
+26,so_sánh salesforce_ com dành một_nửa doanh_thu hoạt_động quảng_cáo marketing trong box dành tới 80 doanh_thu chi_phí xây_dựng một đội_ngũ nhân_viên kinh_doanh khổng_lồ trong vài năm
+27,chuyên_gia dự_báo doanh_thu trong năm 2016 atlassian tăng mức 450 triệu usd
+28,biểu_đồ chi_phí bán hàng marketing trong tổng_doanh_thu một_số công_ty trong 12 tháng
+29,tiết_kiệm chi_phí bán hàng quảng_cáo đồng_nghĩa sản_phẩm giá rẻ hơn công_ty tiền hơn hoạt_động nghiên_cứu phát_triển phần_mềm mới giúp nhà sáng_lập lạc_quan hơn tốc_độ tăng_trưởng công_ty trong thời_gian tới
+30,tất_nhiên atlanssian đối_diện cạnh_tranh lớn thị_trường câu hỏi liệu công_ty đủ khả_năng tiếp_tục mở_rộng hay chưa_thể trả_lời
+31,mặc_dù simon biết anh lo_lắng về tăng_trưởng hỗ_trợ đội_ngũ bán hàng

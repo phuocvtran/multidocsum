@@ -1,7 +1,7 @@
 idx, sentence
-0,theo sun  bé yana_kleshova  4 tuổi  òa khóc khi gia_đình em lên nhận danh_hiệu  người cha nước nga  do tổng_thống putin trao_tặng ở điện kremlin  thủ_đô moscow_nhân ngày quốc_tế thiếu_nhi hôm 1/6 
-1,cô bé lúc đầu nép vào người bố  không chịu đứng ra phía trước 
-2,khi được bố đưa ra hàng_đầu  bé vẫn khóc  còn tổng_thống nga_putin quỳ xuống  vuốt má dỗ_dành 
-3,cô bé được ông putin đưa qua bên mẹ nhưng vẫn không hết nức_nở 
-4,ông putin khom người tiếp_tục dỗ  nhưng em bé vẫn tiếp_tục khóc 
-5,cuối_cùng  ông đành lấy tay che mặt 
+0,sun bé yana_kleshova 4 tuổi òa khóc gia_đình em nhận danh_hiệu người cha nước nga tổng_thống putin trao_tặng ở điện kremlin thủ_đô moscow_nhân ngày quốc_tế thiếu_nhi hôm 1/6
+1,cô bé đầu nép người bố chịu đứng phía
+2,bố đưa hàng_đầu bé khóc còn tổng_thống nga_putin quỳ xuống vuốt má dỗ_dành
+3,cô bé ông putin đưa bên mẹ hết nức_nở
+4,ông putin khom người tiếp_tục dỗ em bé tiếp_tục khóc
+5,cuối_cùng ông đành lấy tay che mặt

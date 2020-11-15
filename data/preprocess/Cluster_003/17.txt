@@ -1,15 +1,15 @@
 idx, sentence
-0,bà thái  một nhà lãnh_đạo cương_quyết  đưa dân_tiến_đảng  dpp  đến chiến_thắng vang_dội trong cuộc bầu_cử tháng 1/2016 
-1,dpp có truyền_thống tìm sự độc_lập khỏi trung_quốc  và chiến_thắng của đảng này khiến mối quan_hệ trung  đài nguội_lạnh 
-2,trung_quốc luôn coi đài_loan là một tỉnh ly_khai 
-3,trong quá_khứ  bắc_kinh đã đe_dọa sẽ giành lại đảo bằng vũ_lực nếu cần_thiết 
-4,bà thái đã cho biết sẽ bảo_vệ nguyên_trạng với trung_quốc  nhưng bắc_kinh phải tôn_trọng nền dân_chủ của đài_loan 
-5,quan_hệ với trung_quốc cùng việc giải_quyết nền kinh_tế đài_loan đang suy_thoái là những thách_thức lớn nhất của tân tổng_thống 
-6,bà thái  59 tuổi  đã tuyên_thệ trước của lá_cờ quốc_gia 
-7,bà và tổng_thống mãn_nhiệm mã_anh cửu sau đó vẫy tay chào đám đông chứng_kiến lễ tuyên_thệ trên màn_hình bên ngoài dinh tổng_thống 
-8,bà sẽ đọc_bài phát_biểu nhậm_chức mà bắc_kinh theo_dõi chặt_chẽ 
-9,báo địa_phương dẫn lời phát_ngôn_viên của bà nói rằng bài phát_biểu tập_trung vào các vấn_đề kinh_tế cũng như mối quan_hệ trung  đài trong tương_lai 
-10,bộ ngoại_giao đài_loan cho biết gần 700 nguyên_thủ quốc_gia  nhà ngoại_giao tham_dự sự_kiện tại đài_bắc 
-11,bà thái là người thứ hai giành chiến_thắng bầu_cử trước quốc_dân_đảng  kmt  nắm quyền phần_lớn giai_đoạn trong 70 năm qua 
-12,tuy_nhiên  người tiền_nhiệm  ông mã đã đánh mất sự ủng_hộ của người dân do cách điều_hành_kinh_tế khiến khoảng_cách giàu nghèo ngày_càng lớn  cũng như những gì người_ta nói là ông quá thân_thiện khi tiếp_xúc với bắc_kinh 
-13,một ngày trước khi đài_loan có tân tổng_thống  có các ý_kiến cho rằng ông mã_anh cửu có_thể bị truy_tố  thậm_chí đi tù sau hai nhiệm_kỳ cầm_quyền 
+0,bà thái một nhà lãnh_đạo cương_quyết đưa dân_tiến_đảng dpp đến chiến_thắng vang_dội trong cuộc bầu_cử tháng 1/2016
+1,dpp truyền_thống tìm độc_lập khỏi trung_quốc chiến_thắng đảng khiến mối quan_hệ trung đài nguội_lạnh
+2,trung_quốc luôn coi đài_loan một tỉnh ly_khai
+3,trong quá_khứ bắc_kinh đe_dọa giành đảo bằng vũ_lực cần_thiết
+4,bà thái biết bảo_vệ nguyên_trạng trung_quốc bắc_kinh tôn_trọng nền dân_chủ đài_loan
+5,quan_hệ trung_quốc giải_quyết nền kinh_tế đài_loan suy_thoái thách_thức lớn nhất tân tổng_thống
+6,bà thái 59 tuổi tuyên_thệ lá_cờ quốc_gia
+7,bà tổng_thống mãn_nhiệm mã_anh cửu vẫy tay chào đám đông chứng_kiến lễ tuyên_thệ màn_hình bên ngoài dinh tổng_thống
+8,bà đọc_bài phát_biểu nhậm_chức bắc_kinh theo_dõi chặt_chẽ
+9,báo địa_phương dẫn lời phát_ngôn_viên bà nói bài phát_biểu tập_trung vấn_đề kinh_tế mối quan_hệ trung đài trong tương_lai
+10,bộ ngoại_giao đài_loan biết gần 700 nguyên_thủ quốc_gia nhà ngoại_giao tham_dự sự_kiện đài_bắc
+11,bà thái người thứ hai giành chiến_thắng bầu_cử quốc_dân_đảng kmt nắm quyền phần_lớn giai_đoạn trong 70 năm
+12,tuy_nhiên người tiền_nhiệm ông mã đánh mất ủng_hộ người dân cách điều_hành_kinh_tế khiến khoảng_cách giàu nghèo ngày_càng lớn người_ta nói ông quá thân_thiện tiếp_xúc bắc_kinh
+13,một ngày đài_loan tân tổng_thống ý_kiến ông mã_anh cửu truy_tố thậm_chí đi tù hai nhiệm_kỳ cầm_quyền

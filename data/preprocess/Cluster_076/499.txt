@@ -1,4 +1,4 @@
 idx, sentence
-0,theo đó  công_văn số 949 / qlcl  cl2 do cục_trưởng nguyễn_thư_tiệp ký chuyển gửi ngày 19/5 có nêu rõ  trong thời_gian qua đã xảy ra hiện_tượng cá chết bất_thường tại vùng_biển ven các tỉnh miền trung 
-1,để đảm_bảo an_toàn cho người tiêu_dùng  nafiqad yêu_cầu các tỉnh nghệ_an  hà_tĩnh  quảng_bình  khánh_hòa  ninh_thuận và các trung_tâm chất_lượng nông_lâm_thủy_sản vùng 123 tổ_chức lấy mẫu muối  kiểm_tra khẩn_cấp các chỉ_tiêu về an_toàn thực_phẩm 
-2,nafiqad đề_nghị các tỉnh nói trên lấy mẫu muối từ 3 cơ_sở_tại địa_phương  sản_xuất năm 2016  gửi các trung_tâm chất_lượng nông_lâm_thủy_sản để phân_tích các chỉ_tiêu kim_loại nặng_như_chì  asen  cadimi  thuỷ_ngân 
+0,công_văn số 949 / qlcl cl2 cục_trưởng nguyễn_thư_tiệp ký chuyển gửi ngày 19/5 nêu rõ trong thời_gian xảy hiện_tượng cá chết bất_thường vùng_biển ven tỉnh miền trung
+1,đảm_bảo an_toàn người tiêu_dùng nafiqad yêu_cầu tỉnh nghệ_an hà_tĩnh quảng_bình khánh_hòa ninh_thuận trung_tâm chất_lượng nông_lâm_thủy_sản vùng 123 tổ_chức lấy mẫu muối kiểm_tra khẩn_cấp chỉ_tiêu về an_toàn thực_phẩm
+2,nafiqad đề_nghị tỉnh nói lấy mẫu muối 3 cơ_sở_tại địa_phương sản_xuất năm 2016 gửi trung_tâm chất_lượng nông_lâm_thủy_sản phân_tích chỉ_tiêu kim_loại nặng_như_chì asen cadimi thuỷ_ngân

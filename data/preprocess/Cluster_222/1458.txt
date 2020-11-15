@@ -1,13 +1,13 @@
 idx, sentence
-0,theo đó  vào sáng sớm nay  1/6   ngay khi nghe tin anh nguyễn_hữu_thông phát_hiện một con trăn lạ tại khu_vực chuồng bò nhà mình  rất đông người dân địa_phương và các vùng lân_cận đã đổ_xô đến nhà anh để tận_mắt chứng_kiến con trăn này 
-1,tại thời_điểm chúng_tôi có_mặt  mặc_dù trời đã nắng gay_gắt nhưng dòng người đến xem vẫn còn nhiều 
-2,do người dân tập_trung ngày_càng đông  sợ mất an_ninh trật_tự và phòng những sự_cố xảy ra lực_lượng công_an thị_trấn phố_châu cũng đã đến túc_trực 
-3,anh thông cho biết  vào khoảng 5 h30 sáng nay  khi ra cho bò ăn  anh hoảng_hốt phát_hiện một con trăn rất to nằm trong chuồng bò 
-4,con trăn này mình vằn có màu nâu nhạt nặng gần 50 kg  dài khoảng 4 m và có vết_thương sâu ở trên đầu 
-5,theo tìm_hiểu của pv  trước đó  vào tháng 1/2016  con trăn này đã từng xuất_hiện tại một ngôi đền  cách nhà anh thông khoảng 3 km 
-6,anh thông cùng một_số người_thân đã mang con trăn này đi bán nhưng không có ai mua 
-7,nhận được thông_tin  anh điện_anh_quốc  giám_đốc công_ty cp_tân_phố đã bỏ ra 54 triệu đồng  mua lại con trăn này và mang đến thả tại núi chùa cao  nơi có ngôi chùa nhiễu_long tọa_lạc  cách nơi ở của gia_đình anh thông khoảng 2 km 
-8,“ tôi không dám chắc nhưng nhìn hình_dáng và vết_thương trên đầu tôi thấy rất giống con trăn trước đây tôi đã tìm thấy ”  anh thông nói 
-9,ông trần_quốc_hoàng  phó chủ_tịch ubnd thị_trấn phố_châu cho biết   sau khi nhận được tin báo  chúng_tôi đã cho tập_trung lực_lượng xuống hiện_trường để tránh sự đồn đoán trong dân_chúng  đồng_thời đảm_bảo an_ninh 
-10,hiện  chúng_tôi đang chỉ_đạo phương_án chữa_trị vết_thương cho con trăn xong sẽ phối_hợp với các lực_lượng chức_năng để có phương_án trả nó về tự_nhiên khi khỏe_mạnh ” 
-11,được biết  địa_điểm phát_hiện con trăn trên gần khu_vực đền cả  hà_tĩnh   đây là ngôi đền thờ thần cao các mạc_sơn  con_trai của một vị vua triều lý 
+0,sáng sớm nay 1/6 nghe tin anh nguyễn_hữu_thông phát_hiện một con trăn lạ khu_vực chuồng bò nhà mình đông người dân địa_phương vùng lân_cận đổ_xô đến nhà anh tận_mắt chứng_kiến con trăn
+1,thời_điểm chúng_tôi có_mặt mặc_dù trời nắng gay_gắt dòng người đến xem còn
+2,người dân tập_trung ngày_càng đông sợ mất an_ninh trật_tự phòng sự_cố xảy lực_lượng công_an thị_trấn phố_châu đến túc_trực
+3,anh thông biết khoảng 5 h30 sáng nay bò ăn anh hoảng_hốt phát_hiện một con trăn to nằm trong chuồng bò
+4,con trăn mình vằn màu nâu nhạt nặng gần 50 kg dài khoảng 4 m vết_thương sâu ở đầu
+5,tìm_hiểu pv tháng 1/2016 con trăn xuất_hiện một ngôi đền cách nhà anh thông khoảng 3 km
+6,anh thông một_số người_thân mang con trăn đi bán ai mua
+7,nhận thông_tin anh điện_anh_quốc giám_đốc công_ty cp_tân_phố bỏ 54 triệu đồng mua con trăn mang đến thả núi chùa cao ngôi chùa nhiễu_long tọa_lạc cách ở gia_đình anh thông khoảng 2 km
+8,“ tôi dám chắc nhìn hình_dáng vết_thương đầu tôi thấy giống con trăn tôi tìm thấy ” anh thông nói
+9,ông trần_quốc_hoàng phó chủ_tịch ubnd thị_trấn phố_châu biết nhận tin báo chúng_tôi tập_trung lực_lượng xuống hiện_trường tránh đồn đoán trong dân_chúng đồng_thời đảm_bảo an_ninh
+10,hiện chúng_tôi chỉ_đạo phương_án chữa_trị vết_thương con trăn xong phối_hợp lực_lượng chức_năng phương_án trả nó về tự_nhiên khỏe_mạnh ”
+11,biết địa_điểm phát_hiện con trăn gần khu_vực đền hà_tĩnh ngôi đền thờ thần cao mạc_sơn con_trai một vị vua triều lý

@@ -1,10 +1,10 @@
 idx, sentence
-0,theo tờ people  trường kinh_tế london đưa ra thông_báo hôm 23/5 về việc mời angelina_jolie tham_gia công_tác giảng_dạy tại trường 
-1,bắt_đầu từ mùa thu năm nay  diễn_viên hollywood sẽ giảng bài cho sinh_viên  tổ_chức các hội_thảo và dự các sự_kiện 
-2,đây là một phần trong giáo_trình đào_tạo thạc_sĩ kéo_dài một năm 
-3,trường kinh_tế london cũng tiết_lộ khóa học này được phát_triển nhờ sự hợp_tác giữa angelina_jolie và cựu bộ_trưởng ngoại_giao anh  william_hague 
-4,sinh_viên sẽ được học về phụ_nữ  hòa_bình và an_ninh 
-5,angelina jolie chia_sẻ trong một tuyên_bố với báo_giới   tôi được khuyến_khích rất nhiều khi tạo ra chương_trình thạc_sĩ này 
-6,tôi hy_vọng các học_viện khác tiếp bước bởi việc thảo_luận rộng_rãi về thúc_đẩy quyền phụ_nữ và hạn_chế bạo_lực rất quan_trọng 
-7,tôi mong được giảng_dạy và học_tập từ các sinh_viên  cũng như chia_sẻ kinh_nghiệm của bản_thân khi làm_việc với các chính_phủ và liên_hợp_quốc  
-8,angelina jolie và ông william_hague nhiều lần cùng hợp_tác trong các hoạt_động nhân_đạo 
+0,tờ people trường kinh_tế london đưa thông_báo hôm 23/5 về mời angelina_jolie tham_gia công_tác giảng_dạy trường
+1,bắt_đầu mùa thu năm nay diễn_viên hollywood giảng bài sinh_viên tổ_chức hội_thảo dự sự_kiện
+2,một phần trong giáo_trình đào_tạo thạc_sĩ kéo_dài một năm
+3,trường kinh_tế london tiết_lộ khóa học phát_triển nhờ hợp_tác giữa angelina_jolie cựu bộ_trưởng ngoại_giao anh william_hague
+4,sinh_viên học về phụ_nữ hòa_bình an_ninh
+5,angelina jolie chia_sẻ trong một tuyên_bố báo_giới tôi khuyến_khích tạo chương_trình thạc_sĩ
+6,tôi hy_vọng học_viện khác tiếp bước thảo_luận rộng_rãi về thúc_đẩy quyền phụ_nữ hạn_chế bạo_lực quan_trọng
+7,tôi mong giảng_dạy học_tập sinh_viên chia_sẻ kinh_nghiệm bản_thân làm_việc chính_phủ liên_hợp_quốc
+8,angelina jolie ông william_hague lần hợp_tác trong hoạt_động nhân_đạo

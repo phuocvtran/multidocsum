@@ -1,3 +1,3 @@
 idx, sentence
-0,theo thông_tin ban_đầu  khoảng 17 h ngày 7/8  khi đang xuống dốc cầu phú_mỹ  hướng quận 7 về quận 2  tphcm  một chiếc xe_tải chao_đảo  lao lên dải_phân_cách rồi lật xuống làn đường xe_máy 
-1,tài_xế bị_thương đã được người dân đưa đi cấp_cứu 
+0,thông_tin ban_đầu khoảng 17 h ngày 7/8 xuống dốc cầu phú_mỹ hướng quận 7 về quận 2 tphcm một xe_tải chao_đảo lao dải_phân_cách lật xuống làn đường xe_máy
+1,tài_xế bị_thương người dân đưa đi cấp_cứu

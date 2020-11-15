@@ -1,5 +1,5 @@
 idx, sentence
-0,bộ gdđt nghiêm_cấm việc tổ_chức các trường chuyên  lớp chọn ở cấp mầm_non  tiểu_học và trung_học_cơ_sở dưới bất_kì hình_thức nào 
-1,bộ gdđt yêu_cầu các sở_gdđt chỉ_đạo các phòng gdđt  các trường_học tổ_chức tuyển_sinh đảm_bảo quyền được học_tập của học_sinh  công_khai  minh_bạch và thuận_lợi cho học_sinh và cha_mẹ học_sinh  bảo_đảm mục_tiêu phổ_cập giáo_dục của địa_phương 
-2,các đơn_vị cần tuyên_truyền  giải_thích cho đội_ngũ cán_bộ quản_lí các trường  cha_mẹ học_sinh để hạn_chế chạy trường  chạy lớp 
-3,cùng với đó  các sở  phòng gdđt tiếp_tục nâng cao năng_lực quản_lý cho đội_ngũ cán_bộ  giáo_viên  tăng_cường cơ_sở_vật_chất để đảm_bảo sự đồng_đều về chất_lượng giáo_dục giữa các trường  các lớp 
+0,bộ gdđt nghiêm_cấm tổ_chức trường chuyên lớp chọn ở cấp mầm_non tiểu_học trung_học_cơ_sở bất_kì hình_thức nào
+1,bộ gdđt yêu_cầu sở_gdđt chỉ_đạo phòng gdđt trường_học tổ_chức tuyển_sinh đảm_bảo quyền học_tập học_sinh công_khai minh_bạch thuận_lợi học_sinh cha_mẹ học_sinh bảo_đảm mục_tiêu phổ_cập giáo_dục địa_phương
+2,đơn_vị tuyên_truyền giải_thích đội_ngũ cán_bộ quản_lí trường cha_mẹ học_sinh hạn_chế chạy trường chạy lớp
+3,sở phòng gdđt tiếp_tục nâng cao năng_lực quản_lý đội_ngũ cán_bộ giáo_viên tăng_cường cơ_sở_vật_chất đảm_bảo đồng_đều về chất_lượng giáo_dục giữa trường lớp

@@ -1,15 +1,15 @@
 idx, sentence
-0,trong chuyến đi của tổng_thống mỹ obama tới san_francisco trong một chiến_dịch gây quỹ có sự xuất_hiện của một cô gái rất trẻ dưới vai_trò tình_nguyện viên lái_xe trong đoàn 
-1,nhiệm_vụ của cô là vận_hành chiếc xe van chở 15 phóng_viên tham_gia đưa tin về chuyến đi 
-2,sau khi hoàn_thành tốt nhiệm_vụ và được tổng_thống mỹ obama bắt_tay chụp ảnh cùng 4 tình_nguyện viên khác với lời khen các bạn là những tài_xế xuất_sắc nhất san_francisco  tyson mới hoàn_hồn kể với giới truyền_thông về trải_nghiệm có_một_không_hai của mình và không quên khen “ tay tổng_thống rất mềm ” 
-3,tyson thừa_nhận cô chưa từng trải qua khóa đào_tạo an_ninh nào cũng như chưa từng vận_hành một chiếc xe hạng nặng nào trước đây  thậm_chí cô sẽ ngạc_nhiên nếu ai đó tin_tưởng giao cho mình chìa_khóa xe 
-4,bản_thân cô cũng hóm_hỉnh cho biết có_lẽ các phóng_viên ngồi sau tay_lái của cô sẽ có đánh_giá ngược_lại với lời khen tặng của tổng_thống mỹ_obama 
-5,và tất_nhiên cô cũng không biết phải làm gì trong một trường_hợp khẩn_cấp  điều mà các chuyên_gia luôn lo_ngại ở những người nghiệp_dư tham_gia lái_xe trong đoàn hộ_tống 
-6,vậy tại_sao một dân_thường còn rất trẻ như natalie_tyson lại được chọn làm tình_nguyện_viên mà không phải cảnh_sát  mật_vụ hay chí_ít là một lái_xe từng_trải 
-7,theo chia_sẻ của tyson  chỉ một tuần trước chuyến công_tác của tổng_thống mỹ tới san_francisco  cô đã nhận được cuộc gọi từ một người bạn thời thơ_ấu hiện đang làm_việc cho nhà_trắng rằng cô có muốn lái một chiếc xe chở các phóng_viên tác_nghiệp hay không và cô đã đồng_ý bởi hồ_sơ lái xe của cô khá … sạch_sẽ 
-8,được biết  việc cơ_quan mật_vụ mỹ không sử_dụng các đặc_vụ  cảnh_sát lái những chiếc xe chở quan_chức nhà_trắng và phóng_viên là do việc này không nằm trong nghĩa_vụ của họ 
-9,chính vì_vậy  trong mỗi chuyến đi của tổng_thống mỹ những chiếc xe này đều được lái bởi những người tình_nguyện 
-10,những người này không được trả_thù_lao nhưng được trải_nghiệm hành_trình có 102 và cơ_hội tiếp_xúc trực_tiếp với tổng_thống mỹ 
-11,việc những dân_thường không qua đào_tạo tham_gia vào đoàn xe hộ_tống tổng_thống mỹ đã gây nhiều tranh_cãi bởi những nghi_ngại về an_ninh với người đứng đầu nhà_trắng hoặc có_thể xảy ra va_chạm hay không_thể xử_lý tốt trong trường_hợp khẩn_cấp 
-12,thậm_chí  dưới con mắt dan_emmett  một cựu nhân_viên sở mật_vụ nó bị coi như một mối đe_dọa an_ninh quốc_gia 
-13,tuy_nhiên  việc sử_dụng các tình_nguyện viên lái_xe trong đoàn hộ_tống đã là quy_chuẩn từ những năm 1980 
+0,trong chuyến đi tổng_thống mỹ obama tới san_francisco trong một chiến_dịch gây quỹ xuất_hiện một cô gái trẻ vai_trò tình_nguyện viên lái_xe trong đoàn
+1,nhiệm_vụ cô vận_hành xe van chở 15 phóng_viên tham_gia đưa tin về chuyến đi
+2,hoàn_thành tốt nhiệm_vụ tổng_thống mỹ obama bắt_tay chụp ảnh 4 tình_nguyện viên khác lời khen bạn tài_xế xuất_sắc nhất san_francisco tyson mới hoàn_hồn kể giới truyền_thông về trải_nghiệm có_một_không_hai mình quên khen “ tay tổng_thống mềm ”
+3,tyson thừa_nhận cô trải khóa đào_tạo an_ninh nào vận_hành một xe hạng nặng nào thậm_chí cô ngạc_nhiên ai tin_tưởng giao mình chìa_khóa xe
+4,bản_thân cô hóm_hỉnh biết có_lẽ phóng_viên ngồi tay_lái cô đánh_giá ngược_lại lời khen tặng tổng_thống mỹ_obama
+5,tất_nhiên cô biết làm trong một trường_hợp khẩn_cấp chuyên_gia luôn lo_ngại ở người nghiệp_dư tham_gia lái_xe trong đoàn hộ_tống
+6,tại_sao một dân_thường còn trẻ natalie_tyson chọn làm tình_nguyện_viên cảnh_sát mật_vụ hay chí_ít một lái_xe từng_trải
+7,chia_sẻ tyson một tuần chuyến công_tác tổng_thống mỹ tới san_francisco cô nhận cuộc gọi một người bạn thời thơ_ấu hiện làm_việc nhà_trắng cô muốn lái một xe chở phóng_viên tác_nghiệp hay cô đồng_ý hồ_sơ lái xe cô khá … sạch_sẽ
+8,biết cơ_quan mật_vụ mỹ sử_dụng đặc_vụ cảnh_sát lái xe chở quan_chức nhà_trắng phóng_viên nằm trong nghĩa_vụ họ
+9,chính vì_vậy trong chuyến đi tổng_thống mỹ xe lái người tình_nguyện
+10,người trả_thù_lao trải_nghiệm hành_trình 102 cơ_hội tiếp_xúc trực_tiếp tổng_thống mỹ
+11,dân_thường đào_tạo tham_gia đoàn xe hộ_tống tổng_thống mỹ gây tranh_cãi nghi_ngại về an_ninh người đứng đầu nhà_trắng hoặc xảy va_chạm hay không_thể xử_lý tốt trong trường_hợp khẩn_cấp
+12,thậm_chí con mắt dan_emmett một cựu nhân_viên sở mật_vụ nó coi một mối đe_dọa an_ninh quốc_gia
+13,tuy_nhiên sử_dụng tình_nguyện viên lái_xe trong đoàn hộ_tống quy_chuẩn năm 1980

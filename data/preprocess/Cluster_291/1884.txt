@@ -1,8 +1,8 @@
 idx, sentence
-0,theo independent  các công_tố_viên cho biết  ba trong số bốn tên này đã nhận được chỉ_đạo trực_tiếp từ cấp trên của chúng thuộc nhà_nước hồi_giáo tự_xưng  is  để lên kế_hoạch tấn_công bom liều chết tại thành_phố düsseldorf 
-1,trong khi trà_trộn vào dòng người tị_nạn qua thổ_nhĩ_kỳ và hi_lạp trở về châu_âu để thực_hiện ý_đồ  chúng đã rủ_rê thêm được thành_viên thứ tư tham_gia 
-2,văn_phòng công_tố liên_bang đức cho biết  nhóm nghi phạm gồm các tên hamza_c  27 tuổi  mahood_b  25 tuổi và abd_arahman_ak  31 tuổi 
-3,kẻ thứ tư là saleh_a  25 tuổi  hiện đã bị bắt tại pháp 
-4,tên saleh_a và hamza_c cùng gia_nhập is tại syria vào mùa xuân năm 2014  sau đó được những kẻ chỉ_huy cao_cấp yêu_cầu tổ_chức cuộc tấn_công khủng_bố tại một thị_trấn cổ ở düsseldorf 
-5,theo các công_tố_viên  hai tên này đã lên kế_hoạch sử_dụng 2 kẻ đánh bom liều chết tại phố heinrichheineallee 
-6,sau đó những kẻ tấn_công khác sẽ tiếp_tục xả súng hoặc dùng vật_liệu nổ sát_hại thêm những người qua đường khác 
+0,independent công_tố_viên biết ba trong số bốn tên nhận chỉ_đạo trực_tiếp cấp chúng thuộc nhà_nước hồi_giáo tự_xưng is kế_hoạch tấn_công bom liều chết thành_phố düsseldorf
+1,trong trà_trộn dòng người tị_nạn thổ_nhĩ_kỳ hi_lạp trở về châu_âu thực_hiện ý_đồ chúng rủ_rê thêm thành_viên thứ tư tham_gia
+2,văn_phòng công_tố liên_bang đức biết nhóm nghi phạm gồm tên hamza_c 27 tuổi mahood_b 25 tuổi abd_arahman_ak 31 tuổi
+3,kẻ thứ tư saleh_a 25 tuổi hiện bắt pháp
+4,tên saleh_a hamza_c gia_nhập is syria mùa xuân năm 2014 kẻ chỉ_huy cao_cấp yêu_cầu tổ_chức cuộc tấn_công khủng_bố một thị_trấn cổ ở düsseldorf
+5,công_tố_viên hai tên kế_hoạch sử_dụng 2 kẻ đánh bom liều chết phố heinrichheineallee
+6,kẻ tấn_công khác tiếp_tục xả súng hoặc dùng vật_liệu nổ sát_hại thêm người đường khác

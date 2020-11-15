@@ -1,7 +1,7 @@
 idx, sentence
-0, một chiến_binh is đã kích nổ đai bom trên người khi nhiều nhân_viên bộ_tư_pháp và lực_lượng cảnh_sát pakistan đang có_mặt tại bệnh_viện ở tp quetta   hãng amaq đưa tin 
-1,nhóm phiến_quân ở pakistan_jamaaturahrar thân is đã nhận trách_nhiệm về vụ tấn_công 
-2,cả liên_hiệp_quốc và mỹ đều lên_án cuộc tấn_công đẫm máu này 
-3,tổng_thư_ký lhq ban_kimoon phát_biểu đây là một vụ án tấn_công  kinh_hoàng  
-4,kẻ đánh bom này nhắm vào một đám đông khoảng 200 người đang tụ_tập tại bệnh_viện ở tp quetta để tiễn_đưa một vị luật_sư đã thiệt_mạng trong vụ nổ súng vào ngày hôm trước 
-5, việc nhắm vào nhóm người đang đưa tang tại một bệnh_viện là âm_mưu tấn_công vô_cùng kinh_hoàng   đại_diện phát_ngôn của ông ban_kimoon cho biết 
+0,một chiến_binh is kích nổ đai bom người nhân_viên bộ_tư_pháp lực_lượng cảnh_sát pakistan có_mặt bệnh_viện ở tp quetta hãng amaq đưa tin
+1,nhóm phiến_quân ở pakistan_jamaaturahrar thân is nhận trách_nhiệm về vụ tấn_công
+2,liên_hiệp_quốc mỹ lên_án cuộc tấn_công đẫm máu
+3,tổng_thư_ký lhq ban_kimoon phát_biểu một vụ án tấn_công kinh_hoàng
+4,kẻ đánh bom nhắm một đám đông khoảng 200 người tụ_tập bệnh_viện ở tp quetta tiễn_đưa một vị luật_sư thiệt_mạng trong vụ nổ súng ngày hôm
+5,nhắm nhóm người đưa tang một bệnh_viện âm_mưu tấn_công vô_cùng kinh_hoàng đại_diện phát_ngôn ông ban_kimoon biết

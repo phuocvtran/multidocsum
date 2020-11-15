@@ -1,28 +1,28 @@
 idx, sentence
-0,hôm_qua  ngày 31/5   thông_tin tần thư bồi  chân dài nổi_tiếng làng mẫu  là bồ mới của trần_quán_hy khiến nhiều người giật_mình 
-1,đặc_biệt  khi bức ảnh trần_quán_hy và tần thư bồi công_khai  khóa môi  được đăng_tải trên mặt báo 
-2,tần thư bồi sinh năm 1990 tại thượng_hải 
-3,cô sở_hữu chiều cao lý_tưởng 1 m77 và thân_hình hoàn_hảo 
-4,cũng chính nhờ lợi_thế về vóc_dáng  tần thư bồi nhanh_chóng nổi_tiếng trong làng thời_trang 
-5,năm 2011  tần thư bồi gia_nhập công_ty hoa_nghị huynh_đệ 
-6,nhờ sự giúp_sức của công_ty quản_lý  người_đẹp 9x này nhanh_chóng trở_thành một trong những chân dài đắt_giá tại trung_quốc 
-7,cô được sáng ngang_hàng với  đàn chị  lưu_văn 
-8,trong khi sự_nghiệp bắt_đầu ở đỉnh_cao  tần thư bồi kết_hôn với ông chủ của mình là ceo của hoa_nghị huynh_đệ  triệu_lỗi 
-9,cuộc hôn_nhân của cô khiến nhiều người bất_ngờ bởi lúc đó cô mới 22 tuổi 
-10,hôn_lễ của tần thư bồi có sự có_mặt của nhiều ngôi_sao nổi_tiếng trong làng giải_trí trong đó không_thể không nhắc tới vera_wang 
-11,bà nhận cô làm con_nuôi và đích_thân_thiết_kế váy cưới 
-12,sau khi kết_hôn  tần thư bồi ngày_càng nổi_tiếng 
-13,nhờ sự hậu_thuẫn của chồng  tên_tuổi của cô bắt_đầu được thế_giới biết tới 
-14,tần thư bồi bỏ_túi khá nhiều hợp_đồng quảng_cáo  làm_mẫu  gương_mặt đại_diện cho các nhãn hàng thời_trang và đỉnh_cao là màn xuất_hiện ấn_tượng trong show thời_trang của victorias_secret vào tháng 11/2012 
-15,trong khi sự_nghiệp thành_công  hôn_nhân_viên_mãn  tần thư bồi dính scandal nói_xấu đàn chị lưu_văn 
-16,có thông_tin tiết_lộ tần thư bồi chê_bai lưu_văn_giống đàn_ông hơn phụ_nữ 
-17,mặc_dù lưu_văn không mấy bận_tâm chuyện bị nói_xấu  nhưng danh_tiếng của tần thư bồi bị ảnh_hưởng không nhỏ 
-18,năm 2015  tần thư bồi thử sức lĩnh_vực phim_ảnh  qua sản_phẩm hài_oh_my_god 
-19,nhiều nguồn tin cho biết  chính từ lần lấn_sân này  tần thư bồi mới có cơ_hội gặp trần_quán_hy 
-20,mối quan_hệ của họ cũng bắt_đầu 
-21,trước thông_tin vợ cặp_bồ với tài_tử tai_tiếng  ceo của tập_đoàn hoa_nghị huynh_đệ đã chính_thức lên_tiếng   tôi quá ngạc_nhiên khi đọc tin_tức này 
-22,tôi đã cố_gắng tha_thứ và buông bỏ 
-23,cuộc_đời thật là một câu_chuyện nực_cười 
-24,tôi và tất_cả mọi người xung_quanh đều kinh_ngạc về tin_tức này 
-25,nghe lời khuyên của các bậc trưởng bối  tôi học cách tha_thứ  học cách buông_tay và học cả cách tôn_trọng bản_thân 
-26,nhưng  khi giữ im_lặng  tôi bẽ_bàng vì phải chịu_đựng sự giễu_cợt  hiếu kỳ của những kẻ nhàn_rỗi  
+0,hôm_qua ngày 31/5 thông_tin tần thư bồi chân dài nổi_tiếng làng mẫu bồ mới trần_quán_hy khiến người giật_mình
+1,đặc_biệt bức ảnh trần_quán_hy tần thư bồi công_khai khóa môi đăng_tải mặt báo
+2,tần thư bồi sinh năm 1990 thượng_hải
+3,cô sở_hữu chiều cao lý_tưởng 1 m77 thân_hình hoàn_hảo
+4,chính nhờ lợi_thế về vóc_dáng tần thư bồi nhanh_chóng nổi_tiếng trong làng thời_trang
+5,năm 2011 tần thư bồi gia_nhập công_ty hoa_nghị huynh_đệ
+6,nhờ giúp_sức công_ty quản_lý người_đẹp 9x nhanh_chóng trở_thành một trong chân dài đắt_giá trung_quốc
+7,cô sáng ngang_hàng đàn chị lưu_văn
+8,trong sự_nghiệp bắt_đầu ở đỉnh_cao tần thư bồi kết_hôn ông chủ mình ceo hoa_nghị huynh_đệ triệu_lỗi
+9,cuộc hôn_nhân cô khiến người bất_ngờ cô mới 22 tuổi
+10,hôn_lễ tần thư bồi có_mặt ngôi_sao nổi_tiếng trong làng giải_trí trong không_thể nhắc tới vera_wang
+11,bà nhận cô làm con_nuôi đích_thân_thiết_kế váy cưới
+12,kết_hôn tần thư bồi ngày_càng nổi_tiếng
+13,nhờ hậu_thuẫn chồng tên_tuổi cô bắt_đầu thế_giới biết tới
+14,tần thư bồi bỏ_túi khá hợp_đồng quảng_cáo làm_mẫu gương_mặt đại_diện nhãn hàng thời_trang đỉnh_cao màn xuất_hiện ấn_tượng trong show thời_trang victorias_secret tháng 11/2012
+15,trong sự_nghiệp thành_công hôn_nhân_viên_mãn tần thư bồi dính scandal nói_xấu đàn chị lưu_văn
+16,thông_tin tiết_lộ tần thư bồi chê_bai lưu_văn_giống đàn_ông hơn phụ_nữ
+17,mặc_dù lưu_văn mấy bận_tâm nói_xấu danh_tiếng tần thư bồi ảnh_hưởng nhỏ
+18,năm 2015 tần thư bồi thử sức lĩnh_vực phim_ảnh sản_phẩm hài_oh_my_god
+19,nguồn tin biết chính lần lấn_sân tần thư bồi mới cơ_hội gặp trần_quán_hy
+20,mối quan_hệ họ bắt_đầu
+21,thông_tin vợ cặp_bồ tài_tử tai_tiếng ceo tập_đoàn hoa_nghị huynh_đệ chính_thức lên_tiếng tôi quá ngạc_nhiên đọc tin_tức
+22,tôi cố_gắng tha_thứ buông bỏ
+23,cuộc_đời thật một câu_chuyện nực_cười
+24,tôi tất_cả mọi người xung_quanh kinh_ngạc về tin_tức
+25,nghe lời khuyên bậc trưởng bối tôi học cách tha_thứ học cách buông_tay học cách tôn_trọng bản_thân
+26,giữ im_lặng tôi bẽ_bàng chịu_đựng giễu_cợt hiếu kỳ kẻ nhàn_rỗi

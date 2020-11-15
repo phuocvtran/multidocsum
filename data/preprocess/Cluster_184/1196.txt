@@ -1,8 +1,8 @@
 idx, sentence
-0,ở ván đấu thứ 6 diễn ra khuya ngày 315  quang_liêm trong thế bất_lợi cầm_quân đen  đi sau  xuất_sắc giành chiến_thắng trước sethuraman  ấn_độ  elo 2646  sau 51 nước đi 
-1,quang liêm đã chơi chủ_động  dần chiếm ưu_thế quân_số trước khi buộc kỳ_thủ ấn_độ thua tâm_phục khẩu phục 
-2,trong lúc đó diễn_biến các ván đấu của các kỳ_thủ trong tốp đầu cân_bằng  nhiều ván đấu kết_thúc với kết_quả hòa 
-3,trong tốp này chỉ yi_wei giành chiến_thắng trước đồng_hương gao_rui  nhờ đó kỳ_thủ này vươn lên có cùng 5 điểm với quang_liêm nhưng xếp sau kỳ_thủ việt_nam do thua hệ_số phụ 
-4,cuộc_chiến giành ngôi vô_địch nam hứa_hẹn còn nhiều hấp_dẫn ở 3 ván quyết_định còn lại bởi ngoài quang_liêm  yi_wei đạt 5 điểm thì có đến 7 kỳ thủ_chỉ kém 05 điểm và 13 kỳ_thủ kém 1 điểm vẫn còn nguyên cơ_hội tranh_chấp 
-5,ván đấu thứ 7 mang tính quyết_định với quang_liêm lẫn yi_wei bởi lá_thăm đưa cả 2 đối_đầu cùng nhau và kỳ_thủ nào giành thắng_lợi sẽ rộng cửa vô_địch 
-6,kỳ thủ số 2 nguyễn_ngọc trường_sơn  elo 2636  kịp có chiến_thắng ở ván 6 trước kỳ_thủ không được đánh_giá cao deni_sonjaya  indonesia  elo 2310  để kịp đeo_bám ở tốp 3 với 4 điểm 
+0,ở ván đấu thứ 6 diễn khuya ngày 315 quang_liêm trong thế bất_lợi cầm_quân đen đi xuất_sắc giành chiến_thắng sethuraman ấn_độ elo 2646 51 nước đi
+1,quang liêm chơi chủ_động dần chiếm ưu_thế quân_số buộc kỳ_thủ ấn_độ thua tâm_phục khẩu phục
+2,trong diễn_biến ván đấu kỳ_thủ trong tốp đầu cân_bằng ván đấu kết_thúc kết_quả hòa
+3,trong tốp yi_wei giành chiến_thắng đồng_hương gao_rui nhờ kỳ_thủ vươn 5 điểm quang_liêm xếp kỳ_thủ việt_nam thua hệ_số phụ
+4,cuộc_chiến giành ngôi vô_địch nam hứa_hẹn còn hấp_dẫn ở 3 ván quyết_định còn ngoài quang_liêm yi_wei đạt 5 điểm đến 7 kỳ thủ_chỉ kém 05 điểm 13 kỳ_thủ kém 1 điểm còn nguyên cơ_hội tranh_chấp
+5,ván đấu thứ 7 mang tính quyết_định quang_liêm lẫn yi_wei lá_thăm đưa 2 đối_đầu nhau kỳ_thủ nào giành thắng_lợi rộng cửa vô_địch
+6,kỳ thủ số 2 nguyễn_ngọc trường_sơn elo 2636 kịp chiến_thắng ở ván 6 kỳ_thủ đánh_giá cao deni_sonjaya indonesia elo 2310 kịp đeo_bám ở tốp 3 4 điểm

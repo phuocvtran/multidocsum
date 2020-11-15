@@ -1,8 +1,8 @@
 idx, sentence
-0,theo đó  vtvcab sẽ tường_thuật trực_tiếp toàn_bộ 32 trận đấu tại giải đấu danh_giá có lịch_sử lâu_đời nhất thế_giới này từ ngày 4/6  27/6/2016 
-1,vtvcab là đơn_vị đầu_tiên sở_hữu bản_quyền phát_sóng copa_america_centenario 2016 tại việt_nam 
-2,copa america_centenario 2016 là một cột mốc có ý_nghĩa vô_cùng quan_trọng với các đội bóng nam_mỹ bởi đây là sự_kiện đặc_biệt được tổ_chức để kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ 
-3,lần đầu_tiên giải được tổ_chức ở một quốc_gia ngoài nam_mỹ 
-4,các đội bóng hàng_đầu châu_lục sẽ tranh tài trong các trận đấu diễn ra tại 10 thành_phố lớn nhất nước mỹ 
-5,khác với các kỳ copa_america trong lịch_sử  tại copa_america_centenario 2016 lần đầu_tiên giải đấu có sự tham_dự của 16 đội bóng  10 đội nam_mỹ và 6 đội thuộc khu_vực concacaf   với 4 bảng đấu  mỗi bảng sẽ lấy 2 đội nhất nhì lọt vào vòng tứ_kết 
-6,điều này cũng khiến giải đấu hứa_hẹn tính cạnh_tranh hấp_dẫn hơn với cuộc đối_đầu nảy_lửa giữa những tên_tuổi lớn nhất trong làng bóng_đá châu_lục và thế_giới  những ngôi_sao sân_cỏ hàng_đầu 
+0,vtvcab tường_thuật trực_tiếp toàn_bộ 32 trận đấu giải đấu danh_giá lịch_sử lâu_đời nhất thế_giới ngày 4/6 27/6/2016
+1,vtvcab đơn_vị đầu_tiên sở_hữu bản_quyền phát_sóng copa_america_centenario 2016 việt_nam
+2,copa america_centenario 2016 một cột mốc ý_nghĩa vô_cùng quan_trọng đội bóng nam_mỹ sự_kiện đặc_biệt tổ_chức kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ
+3,lần đầu_tiên giải tổ_chức ở một quốc_gia ngoài nam_mỹ
+4,đội bóng hàng_đầu châu_lục tranh tài trong trận đấu diễn 10 thành_phố lớn nhất nước mỹ
+5,khác kỳ copa_america trong lịch_sử copa_america_centenario 2016 lần đầu_tiên giải đấu tham_dự 16 đội bóng 10 đội nam_mỹ 6 đội thuộc khu_vực concacaf 4 bảng đấu bảng lấy 2 đội nhất nhì lọt vòng tứ_kết
+6,khiến giải đấu hứa_hẹn tính cạnh_tranh hấp_dẫn hơn cuộc đối_đầu nảy_lửa giữa tên_tuổi lớn nhất trong làng bóng_đá châu_lục thế_giới ngôi_sao sân_cỏ hàng_đầu

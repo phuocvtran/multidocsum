@@ -1,10 +1,10 @@
 idx, sentence
-0,“ tehran không có kế_hoạch tham_gia bất_cứ thỏa_thuận cắt_giảm năng_suất nào cho tới khi phục_hồi được sản_lượng trước cấm_vận ”  rokneddin_javadi  chủ_tịch công_ty dầu_lửa quốc_gia iran  nio  khẳng_định 
-1,“ kim_ngạch xuất_khẩu của iran gần như sẽ vượt mức 22 triệu thùng / ngày trước tháng_sáu tới ”  ông javadi hôm_qua trả_lời hãng tin mehr 
-2,đây cũng là kim_ngạch xuất_khẩu của iran trước khi nước này bắt_đầu bị cấm_vận bởi mỹ và phương tây xoay quanh vấn_đề hạt_nhân 4 năm trước 
-3,đây không phải lần đầu_tiên giới_chức tehran khẳng_định sẽ không cắt_giảm sản_lượng cho tới chừng nào phục_hồi được sản_lượng cũng như kim_ngạch xuất_khẩu 
-4,“ chúng_tôi sẽ tiếp_tục mở van hết cỡ để chiếm lại thị_phần đã mất ”  ông javadi nói 
-5,iran được cho là đang tái cấu_trúc ngành công_nghiệp năng_lượng sau khi chính_sách cấm_vận đối_với nước này được dỡ bỏ kể từ tháng 1/2016 
-6,kể từ thời_điểm cuối năm_ngoái  một loạt thỏa_thuận cắt_giảm sản_lượng của các nhà_sản_xuất lớn nhất trên thị_trường dầu_lửa đều không đạt được bởi quan_điểm cứng_rắn từ iran 
-7,tháng trước  một hiệp_định đóng_băng sản_lượng tại doha  qatar tiếp_tục đổ_vỡ sau khi ảrập_xêút  nhà_sản_xuất dầu lớn nhất thế_giới  tuyên_bố không thông_qua nếu không có sự đồng_thuận của tất_cả các nước opec  bao_gồm cả iran 
-8,cuộc_họp sắp tới của opec sẽ diễn ra vào 2/6 ở vienna  áo 
+0,“ tehran kế_hoạch tham_gia bất_cứ thỏa_thuận cắt_giảm năng_suất nào tới phục_hồi sản_lượng cấm_vận ” rokneddin_javadi chủ_tịch công_ty dầu_lửa quốc_gia iran nio khẳng_định
+1,“ kim_ngạch xuất_khẩu iran gần vượt mức 22 triệu thùng / ngày tháng_sáu tới ” ông javadi hôm_qua trả_lời hãng tin mehr
+2,kim_ngạch xuất_khẩu iran nước bắt_đầu cấm_vận mỹ phương tây xoay quanh vấn_đề hạt_nhân 4 năm
+3,lần đầu_tiên giới_chức tehran khẳng_định cắt_giảm sản_lượng tới chừng nào phục_hồi sản_lượng kim_ngạch xuất_khẩu
+4,“ chúng_tôi tiếp_tục mở van hết cỡ chiếm thị_phần mất ” ông javadi nói
+5,iran tái cấu_trúc ngành công_nghiệp năng_lượng chính_sách cấm_vận đối_với nước dỡ bỏ kể tháng 1/2016
+6,kể thời_điểm cuối năm_ngoái một loạt thỏa_thuận cắt_giảm sản_lượng nhà_sản_xuất lớn nhất thị_trường dầu_lửa đạt quan_điểm cứng_rắn iran
+7,tháng một hiệp_định đóng_băng sản_lượng doha qatar tiếp_tục đổ_vỡ ảrập_xêút nhà_sản_xuất dầu lớn nhất thế_giới tuyên_bố thông_qua đồng_thuận tất_cả nước opec bao_gồm iran
+8,cuộc_họp sắp tới opec diễn 2/6 ở vienna áo

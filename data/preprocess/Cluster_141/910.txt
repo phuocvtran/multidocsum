@@ -1,23 +1,23 @@
 idx, sentence
-0,tại cuộc đối_thoại  người dân ba xã nam_sơn  bắc_sơn  hồng_kỳ đã đưa ra hàng_loạt kiến_nghị như  đề_nghị nâng mức tiền hỗ_trợ ảnh_hưởng môi_trường  xây_dựng trạm quan_trắc theo_dõi ô_nhiễm không_khí  nguồn nước  yêu_cầu cấp nước_sạch cho dân  bên_cạnh đó  người dân bày_tỏ những lo_lắng về sức_khỏe lâu_dài  đề_nghị tp xem_xét để người dân sống trong vùng ảnh_hưởng ô_nhiễm được hưởng bảo_hiểm y_tế cao nhất cũng như được khám bệnh định_kỳ và phát thuốc miễn_phí 
-1,nhân_dân địa_phương đề_nghị tp xây_dựng mương thu_gom nước_thải từ quá_trình vận_chuyển rác cũng như giám_sát chặt_chẽ  bảo_đảm việc vận_chuyển rác vào khu liên_hợp xử_lý rác_thải nam_sơn phải sử_dụng xe chở rác chuyên_dụng  tránh rơi_vãi  lập đường_dây_nóng để người dân trực_tiếp phản_ánh tình_trạng ô_nhiễm để có_thể xử_lý kịp_thời 
-2,đồng_chí nguyễn_đức_chung thay_mặt lãnh_đạo thành_phố cũng như người dân hà_nội cảm_ơn và chia_sẻ với sự hy_sinh của người dân xã nam_sơn khi phải sống chung với khu liên_hợp xử_lý rác_thải nam_sơn 
-3,chủ_tịch nhấn_mạnh  tp luôn coi việc bảo_đảm  chăm_lo đời_sống người dân là nhiệm_vụ hàng_đầu để tp phát_triển bền_vững và sẽ giải_quyết ngay những bức_xúc  kiến_nghị chính_đáng của nhân_dân trong khu_vực trong thẩm_quyền của mình 
-4,những vấn_đề thuộc thẩm_quyền của hđnd  thường_trực thành_ủy  và các bộ ngành liên_quan  chủ_tịch tp hứa sẽ báo_cáo  xin ý_kiến để giải_quyết với tinh_thần bảo_đảm quyền_lợi cao nhất cho người dân sinh_sống trong vùng ảnh_hưởng ô_nhiễm gần khu liên_hợp xử_lý rác_thải nam_sơn 
-5,đối_với kiến_nghị nâng mức tiền hỗ_trợ người dân tại khu_vực này  chủ_tịch ubnd tp cho biết  tp sẽ nghiên_cứu nâng mức hỗ_trợ cho người dân để trình hđnd tp quyết_định và trả_lời người dân trong thời_gian sớm nhất 
-6,với đề_nghị được hưởng hỗ_trợ vùng ảnh_hưởng môi_trường phạm_vi 500  1000 m với thời_gian từ năm 1999 đến nay  chủ_tịch ubnd tp ghi_nhận và giao các sở  ngành nghiên_cứu đề_xuất các phương_án để trình lãnh_đạo tp  hđnd tp xem_xét 
-7,đối_với công_tác cấp nước_sạch  chủ_tịch nguyễn_đức_chung cho biết  đã có những quy_định cụ_thể của nhà_nước và sẽ giao các đơn_vị chức_năng thực_hiện ngay nhằm đáp_ứng nhu_cầu của nhân_dân 
-8,tại buổi đối_thoại  chủ_tịch đã giao các đơn_vị đảm_nhiệm công_tác cáp nước xem_xét  rà_soát tiến_hành lắp_đặt đường_ống đến những hộ dân chưa được cung_cấp nước_sạch 
-9,về kiến_nghị được hưởng bảo_hiểm y_tế ở mức cao nhất và phải có thẻ sớm  chủ_tịch tp giao huyện sóc_sơn  xã nam_sơn triển_khai cấp thẻ bảo_hiểm y_tế cho tất_cả người dân trong vùng ảnh_hưởng ngay sáng 305 tới 
-10,đồng_thời  sẽ có chín tổ công_tác thực_hiện việc khám chữa bệnh ban_đầu cho người dân tại địa_phương  do bộ_tư_lệnh thủ_đô đảm_nhiệm cũng vào sáng 305 
-11,cùng với đó  tp hà_nội sẽ làm_việc với bộ y_tế  bảo_hiểm_xã_hội việt_nam họp bàn để nghiên_cứu về mức chi_trả cho người dân trên tinh_thần vận_dụng mức cao nhất 
-12,bên_cạnh đó  sở xây_dựng được giao giải_quyết kiến_nghị của người dân  hạn_chế 50  ánh_sáng của tuyến đường chở rác vào ban_đêm để không ảnh_hưởng đến đời_sống của nhân_dân 
-13,đồng_thời  phải tiến_hành ngay việc xây_dựng rãnh thoát nước  thu_gom nước  rác_thải do xe chuyên_chở làm rớt xuống_đường vận_chuyển để bảo_đảm tránh ô_nhiễm môi_trường đến người dân  tổ_chức bơm nước rửa đường hạn_chế ô_nhiễm 
-14,chủ_tịch tp cũng thừa_nhận có tình_trạng xe vận_chuyển rác_thải không phải xe chuyên_dụng dẫn đến tình_trạng ô_nhiễm trong quá_trình vận_chuyển nên sẽ tiến_hành thay_đổi nhanh toàn_bộ xe chuyên_chở  dự_kiến đến đầu năm 2017  để bảo_đảm môi_trường sạch_sẽ 
-15,chủ_tịch ubnd tp cam_kết  tp đang nỗ_lực cao nhất để giải_quyết vấn_đề ô_nhiễm môi_trường  đặc_biệt là ở xã nam_sơn  trong đó có việc chuyển công_nghệ từ chôn rác cũ hiện_nay sang đốt rác hiện_đại hơn  hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân 
-16,tp cũng đang quy_hoạch xây_dựng nhà_máy xử_lý rác ở nhiều điểm ở tp để giảm tải cho bãi rác nam_sơn 
-17,“ ngay ở khu liên_hợp xử_lý rác nam_sơn  hiện_nay có nhiều nhà_đầu_tư nước_ngoài quan_tâm 
-18,tôi bảo_đảm  thời_gian tới sẽ có nhà_máy xử_lý rác bằng công_nghệ đốt hiện_đại ở nam_sơn ”  chủ_tịch tp cho biết 
-19,ngoài_ra  chủ_tịch nguyễn_đức_chung cũng cho biết  tp sẽ phân_bổ ngay nguồn vốn để triển_khai các dự_án hỗ_trợ người dân như làm đường  xây_dựng trường_học  trạm bơm  với việc di_dời dân ở khu_vực ô_nhiễm phạm_vi 0500 m  chủ_tịch ubnd tp giao ubnd huyện sóc_sơn triển_khai ngay dự_án  chuẩn_bị mặt_bằng 
-20,tp sẽ bố_trí đủ ngân_sách  huyện sóc_sơn sẽ triển_khai ngay dự_án  làm hạ_tầng đến đâu  di_dời người dân tới đó 
-21,với những nội_dung thuộc thẩm_quyền của thường_trực hđnd tp  chủ_tịch ubnd cam_kết sẽ trả_lời nhân_dân chậm nhất trong thời_gian một tuần 
+0,cuộc đối_thoại người dân ba xã nam_sơn bắc_sơn hồng_kỳ đưa hàng_loạt kiến_nghị đề_nghị nâng mức tiền hỗ_trợ ảnh_hưởng môi_trường xây_dựng trạm quan_trắc theo_dõi ô_nhiễm không_khí nguồn nước yêu_cầu cấp nước_sạch dân bên_cạnh người dân bày_tỏ lo_lắng về sức_khỏe lâu_dài đề_nghị tp xem_xét người dân sống trong vùng ảnh_hưởng ô_nhiễm hưởng bảo_hiểm y_tế cao nhất khám bệnh định_kỳ phát thuốc miễn_phí
+1,nhân_dân địa_phương đề_nghị tp xây_dựng mương thu_gom nước_thải quá_trình vận_chuyển rác giám_sát chặt_chẽ bảo_đảm vận_chuyển rác khu liên_hợp xử_lý rác_thải nam_sơn sử_dụng xe chở rác chuyên_dụng tránh rơi_vãi lập đường_dây_nóng người dân trực_tiếp phản_ánh tình_trạng ô_nhiễm xử_lý kịp_thời
+2,đồng_chí nguyễn_đức_chung thay_mặt lãnh_đạo thành_phố người dân hà_nội cảm_ơn chia_sẻ hy_sinh người dân xã nam_sơn sống chung khu liên_hợp xử_lý rác_thải nam_sơn
+3,chủ_tịch nhấn_mạnh tp luôn coi bảo_đảm chăm_lo đời_sống người dân nhiệm_vụ hàng_đầu tp phát_triển bền_vững giải_quyết bức_xúc kiến_nghị chính_đáng nhân_dân trong khu_vực trong thẩm_quyền mình
+4,vấn_đề thuộc thẩm_quyền hđnd thường_trực thành_ủy bộ ngành liên_quan chủ_tịch tp hứa báo_cáo xin ý_kiến giải_quyết tinh_thần bảo_đảm quyền_lợi cao nhất người dân sinh_sống trong vùng ảnh_hưởng ô_nhiễm gần khu liên_hợp xử_lý rác_thải nam_sơn
+5,đối_với kiến_nghị nâng mức tiền hỗ_trợ người dân khu_vực chủ_tịch ubnd tp biết tp nghiên_cứu nâng mức hỗ_trợ người dân trình hđnd tp quyết_định trả_lời người dân trong thời_gian sớm nhất
+6,đề_nghị hưởng hỗ_trợ vùng ảnh_hưởng môi_trường phạm_vi 500 1000 m thời_gian năm 1999 đến nay chủ_tịch ubnd tp ghi_nhận giao sở ngành nghiên_cứu đề_xuất phương_án trình lãnh_đạo tp hđnd tp xem_xét
+7,đối_với công_tác cấp nước_sạch chủ_tịch nguyễn_đức_chung biết quy_định cụ_thể nhà_nước giao đơn_vị chức_năng thực_hiện nhằm đáp_ứng nhu_cầu nhân_dân
+8,buổi đối_thoại chủ_tịch giao đơn_vị đảm_nhiệm công_tác cáp nước xem_xét rà_soát tiến_hành lắp_đặt đường_ống đến hộ dân cung_cấp nước_sạch
+9,về kiến_nghị hưởng bảo_hiểm y_tế ở mức cao nhất thẻ sớm chủ_tịch tp giao huyện sóc_sơn xã nam_sơn triển_khai cấp thẻ bảo_hiểm y_tế tất_cả người dân trong vùng ảnh_hưởng sáng 305 tới
+10,đồng_thời chín tổ công_tác thực_hiện khám chữa bệnh ban_đầu người dân địa_phương bộ_tư_lệnh thủ_đô đảm_nhiệm sáng 305
+11,tp hà_nội làm_việc bộ y_tế bảo_hiểm_xã_hội việt_nam họp bàn nghiên_cứu về mức chi_trả người dân tinh_thần vận_dụng mức cao nhất
+12,bên_cạnh sở xây_dựng giao giải_quyết kiến_nghị người dân hạn_chế 50 ánh_sáng tuyến đường chở rác ban_đêm ảnh_hưởng đến đời_sống nhân_dân
+13,đồng_thời tiến_hành xây_dựng rãnh thoát nước thu_gom nước rác_thải xe chuyên_chở làm rớt xuống_đường vận_chuyển bảo_đảm tránh ô_nhiễm môi_trường đến người dân tổ_chức bơm nước rửa đường hạn_chế ô_nhiễm
+14,chủ_tịch tp thừa_nhận tình_trạng xe vận_chuyển rác_thải xe chuyên_dụng dẫn đến tình_trạng ô_nhiễm trong quá_trình vận_chuyển tiến_hành thay_đổi nhanh toàn_bộ xe chuyên_chở dự_kiến đến đầu năm 2017 bảo_đảm môi_trường sạch_sẽ
+15,chủ_tịch ubnd tp cam_kết tp nỗ_lực cao nhất giải_quyết vấn_đề ô_nhiễm môi_trường đặc_biệt ở xã nam_sơn trong chuyển công_nghệ chôn rác cũ hiện_nay sang đốt rác hiện_đại hơn hạn_chế ảnh_hưởng tiêu_cực đến cuộc_sống người dân
+16,tp quy_hoạch xây_dựng nhà_máy xử_lý rác ở điểm ở tp giảm tải bãi rác nam_sơn
+17,“ ở khu liên_hợp xử_lý rác nam_sơn hiện_nay nhà_đầu_tư nước_ngoài quan_tâm
+18,tôi bảo_đảm thời_gian tới nhà_máy xử_lý rác bằng công_nghệ đốt hiện_đại ở nam_sơn ” chủ_tịch tp biết
+19,ngoài_ra chủ_tịch nguyễn_đức_chung biết tp phân_bổ nguồn vốn triển_khai dự_án hỗ_trợ người dân làm đường xây_dựng trường_học trạm bơm di_dời dân ở khu_vực ô_nhiễm phạm_vi 0500 m chủ_tịch ubnd tp giao ubnd huyện sóc_sơn triển_khai dự_án chuẩn_bị mặt_bằng
+20,tp bố_trí đủ ngân_sách huyện sóc_sơn triển_khai dự_án làm hạ_tầng đến đâu di_dời người dân tới
+21,nội_dung thuộc thẩm_quyền thường_trực hđnd tp chủ_tịch ubnd cam_kết trả_lời nhân_dân chậm nhất trong thời_gian một tuần

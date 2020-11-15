@@ -1,11 +1,11 @@
 idx, sentence
-0,trong đêm thi thứ 3 của tình_bolero với chủ_đề “ nàng_thơ ”  hoa_khôi nam_em đã có màn trình_diễn khá tốt ca_khúc “ ngày_xưa hoàng_thị ” và giành về cho mình những điểm_số cao 
-1,ca_khúc “ ngày_xưa hoàng_thị ” là một sáng_tác của cố nhạc_sĩ phạm_duy được phổ từ thơ phạm_thiên_thư vào năm 1971 
-2,ca_khúc này được nhiều ca_sĩ lần_lượt thể_hiện rất thành_công như_thanh_thúy  thái_thanh … khi thể_hiện lại ca_khúc này trên sân_khấu của tình_bolero  hoa_khôi nam_em trong tà áo_dài trắng thướt_tha  duyên_dáng hóa cô nữ_sinh trung_học năm nào và cất_cao tiếng hát  “ em tan trường về  đường mưa nho_nhỏ 
-3,chim non lề_đường  nằm im giấu mỏ 
-4,anh theo ngọ về  gót giày lặng_lẽ đường quê  ” 
-5,giám_khảo thanh_hà nhận_xét rằng  đây là phần trình_diễn hoàn_hảo 
-6,bởi nam_em không chỉ có một gương_mặt đẹp  thân_hình đẹp mà tiết_mục của cô hôm_nay cũng rất tuyệt_vời 
-7,trái_ngược với ý_kiến của giám_khảo thanh_hà  danh_ca phương_dung và danh_ca họa_mi cho rằng nam_em hát hơi khô và cần hát nhẹ_nhàng  dịu_dàng hơn 
-8,dù nam_em đã hát tốt ở những nốt cao nhưng nốt thấp còn chưa ổn và cần cố_gắng nhiều hơn 
-9,kết_quả cuối_cùng  nam_em nhận được tổng_số điểm là 37  trong đó giám_khảo phương_dung cho nam_em 9 điểm  giám_khảo họa_mi  85  giám_khảo thanh_hà  975 và giám_khảo khách_mời là ca_sĩ trường vũ cũng cho nam_em số điểm 975 
+0,trong đêm thi thứ 3 tình_bolero chủ_đề “ nàng_thơ ” hoa_khôi nam_em màn trình_diễn khá tốt ca_khúc “ ngày_xưa hoàng_thị ” giành về mình điểm_số cao
+1,ca_khúc “ ngày_xưa hoàng_thị ” một sáng_tác cố nhạc_sĩ phạm_duy phổ thơ phạm_thiên_thư năm 1971
+2,ca_khúc ca_sĩ lần_lượt thể_hiện thành_công như_thanh_thúy thái_thanh … thể_hiện ca_khúc sân_khấu tình_bolero hoa_khôi nam_em trong tà áo_dài trắng thướt_tha duyên_dáng hóa cô nữ_sinh trung_học năm nào cất_cao tiếng hát “ em tan trường về đường mưa nho_nhỏ
+3,chim non lề_đường nằm im giấu mỏ
+4,anh ngọ về gót giày lặng_lẽ đường quê ”
+5,giám_khảo thanh_hà nhận_xét phần trình_diễn hoàn_hảo
+6,nam_em một gương_mặt đẹp thân_hình đẹp tiết_mục cô hôm_nay tuyệt_vời
+7,trái_ngược ý_kiến giám_khảo thanh_hà danh_ca phương_dung danh_ca họa_mi nam_em hát hơi khô hát nhẹ_nhàng dịu_dàng hơn
+8,dù nam_em hát tốt ở nốt cao nốt thấp còn ổn cố_gắng hơn
+9,kết_quả cuối_cùng nam_em nhận tổng_số điểm 37 trong giám_khảo phương_dung nam_em 9 điểm giám_khảo họa_mi 85 giám_khảo thanh_hà 975 giám_khảo khách_mời ca_sĩ trường vũ nam_em số điểm 975

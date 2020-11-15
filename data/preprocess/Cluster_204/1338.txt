@@ -1,7 +1,7 @@
 idx, sentence
-0,vào khoảng thời_gian trên  xe ô_tô 4 chỗ mang bks  51f  37398 lưu_thông trên đường bạch_đằng theo hướng từ ngã năm nguyễn_thái_sơn về sân_bay tân_sơn_nhất 
-1,khi lưu_thông_qua công_viên gia_định  thuộc phường 2  quận tân_bình  tp_hcm  do tránh xe_máy lưu_thông cùng chiều đã đâm vào bên hông xe taxi mang bks  51a  74378 
-2,cú đâm mạnh làm xe taxi mất lái quay ngang đường 
-3,theo quán_tính xe ô_tô 4 chỗ tiếp_tục lao đi và đâm vào 1 xe taxi khác mang bks  51a  03818 lưu_thông ở chiều ngược_lại 
-4,cú đâm làm cả 2 xe hư_hỏng nặng và nắm chắn_ngang giữa đường 
-5,tại hiện_trường  chiếc xe ô_tô 4 chỗ và 2 xe taxi nằm chắn_ngang giữa đường  đều bị hư_hỏng nặng 
+0,khoảng thời_gian xe ô_tô 4 chỗ mang bks 51f 37398 lưu_thông đường bạch_đằng hướng ngã năm nguyễn_thái_sơn về sân_bay tân_sơn_nhất
+1,lưu_thông_qua công_viên gia_định thuộc phường 2 quận tân_bình tp_hcm tránh xe_máy lưu_thông chiều đâm bên hông xe taxi mang bks 51a 74378
+2,cú đâm mạnh làm xe taxi mất lái quay ngang đường
+3,quán_tính xe ô_tô 4 chỗ tiếp_tục lao đi đâm 1 xe taxi khác mang bks 51a 03818 lưu_thông ở chiều ngược_lại
+4,cú đâm làm 2 xe hư_hỏng nặng nắm chắn_ngang giữa đường
+5,hiện_trường xe ô_tô 4 chỗ 2 xe taxi nằm chắn_ngang giữa đường hư_hỏng nặng

@@ -1,24 +1,24 @@
 idx, sentence
-0,sáng 31/5  tại trường thcs_gio_việt  xã gio_việt  huyện gio_linh  tòa_án nhân_dân tỉnh quảng_trị mở phiên_tòa lưu_động xét_xử sơ_thẩm vụ_án giết người đối_với bị_cáo trần_đình_thịnh  sinh năm 1987  trú tại thôn mộc_đức  xã cam_hiếu  huyện cam_lộ  tỉnh quảng_trị về tội giết người 
-1,theo cáo_trạng  trần_đình_thịnh và vợ là quách_thị_th  31 tuổi  quê ở huyện nga_sơn  tỉnh thanh_hóa  kết_hôn năm 2006 và có với nhau 2 con_trai 
-2,năm 2015  do công_việc ở quê bấp_bênh  thịnh cùng một_số thanh_niên trong làng sang trung_quốc làm_ăn 
-3,trong thời_gian thịnh đi làm_ăn xa  chị th  nảy_sinh quan_hệ tình_ái với anh trần_văn_l  40 tuổi  trú tại thôn tân_xuân  xã gio_việt  huyện gio_linh  tỉnh quảng_trị 
-4,ngày 23/7/2015  thịnh về quê để tra_hỏi mối quan_hệ giữa vợ với anh l và đánh vợ nên chị th  bỏ về quê mẹ ở thanh_hóa sinh_sống 
-5,sau đó  chị th  thú_nhận mối quan_hệ tình_cảm với anh l và xin tha_thứ  thịnh đã đồng_ý 
-6,hai vợ_chồng vào bình_dương sống để cách_ly quan_hệ tình_cảm với anh l nhưng cũng lúc này  chị th  biết mình đã có_thai với anh l nên cùng người_thân từ thanh_hóa vào tp hồ_chí_minh phá thai trước rồi mới quay ra quảng_trị gặp lại thịnh 
-7,ngày 16/8/2015  vợ_chồng thịnh và con trai út  4 tuổi vào bình_dương ở tạm nhà chị_gái th  sau đó ra thuê nhà_nghỉ 
-8,ngày 19/8/2015  thịnh nghi_ngờ tra_hỏi nên chị th  đã khai chuyện có_thai với người_tình  cũng như việc trốn vào nam phá_thai 
-9,thịnh đã bỏ xuống vỉa_hè uống 3 lon bia 
-10,đến lúc quay về phòng thấy vợ đang cầm điện_thoại_di_động  thịnh hỏi thì vợ nói gọi điện_thoại cho bà ngoại hỏi_thăm tình_hình con ở nhà 
-11,thịnh lấy điện_thoại xem thì thấy tin nhắn th  gửi cho một_số điện_thoại lạ với nội_dung “ nếu anh thịnh bỏ em  anh có đi với em không  ” 
-12,quá bức_xúc  thịnh liền lấy con dao cắt trái_cây để trên bàn đâm nhiều nhát làm chị th  chết ngay tại_chỗ vào chiều cùng ngày 
-13,sau khi giết chị th   thịnh lên tp hồ_chí_minh rồi đi máy_bay ra huế  đón xe_khách về quảng_trị 
-14,sau đó  thịnh chuẩn_bị con dao tìm đến nhà anh l ở thôn tân_xuân  xã gio_việt  huyện gio_linh chém chết người tình của vợ ngay trên giường ngủ vào khoảng 20 h30 phút ngày 20/8/2016 
-15,rạng sáng 21/8/2016  công_an quảng_trị bắt được thịnh khi đang lẩn trốn gần khu_vực gây_án 
-16,tại phiên_tòa sáng nay  thịnh cúi đầu khai nhận toàn_bộ hành_vi giết người của mình như cáo_trạng của viện_kiểm_sát nhân_dân tỉnh quảng_trị truy_tố 
-17,biện_minh cho hành_vi giết vợ của mình  thịnh khai do bị_cáo đã nhiều lần tha_thứ cho vợ  từng tính vào bình_dương để vợ cách_ly với người_tình và xây_dựng tổ_ấm  nhưng chị th  hết lần này đến lần khác lừa_dối thịnh 
-18,đối_với việc giết anh l  thịnh khai ban_đầu chỉ nghĩ đến nhà anh l để “ dạy cho anh ta một bài_học vì đã làm cho gia_đình bị_cáo tan_nát ”  nhưng khi đến nơi thì bột_phát ra_tay giết người 
-19,tuy_nhiên  đại_diện vksnd và chủ_tọa phiên_tòa bác_bỏ và cho rằng thịnh đã thực_hiện hành_vi giết người một_cách dã_man  giết 2 người  gây hoang_mang dư_luận 
-20,thân_nhân của chị th  và anh l đều xin tòa xử đúng người  đúng tội 
-21,thân_nhân chị th  không yêu_cầu bị_cáo bồi_thường thiệt_hại dân_sự 
-22,thân_nhân anh l yêu_cầu thịnh bồi_thường các khoản mai tang phí  tổn_thất_tinh_thần và cấp_dưỡng cho 3 con bị hại 
+0,sáng 31/5 trường thcs_gio_việt xã gio_việt huyện gio_linh tòa_án nhân_dân tỉnh quảng_trị mở phiên_tòa lưu_động xét_xử sơ_thẩm vụ_án giết người đối_với bị_cáo trần_đình_thịnh sinh năm 1987 trú thôn mộc_đức xã cam_hiếu huyện cam_lộ tỉnh quảng_trị về tội giết người
+1,cáo_trạng trần_đình_thịnh vợ quách_thị_th 31 tuổi quê ở huyện nga_sơn tỉnh thanh_hóa kết_hôn năm 2006 nhau 2 con_trai
+2,năm 2015 công_việc ở quê bấp_bênh thịnh một_số thanh_niên trong làng sang trung_quốc làm_ăn
+3,trong thời_gian thịnh đi làm_ăn xa chị th nảy_sinh quan_hệ tình_ái anh trần_văn_l 40 tuổi trú thôn tân_xuân xã gio_việt huyện gio_linh tỉnh quảng_trị
+4,ngày 23/7/2015 thịnh về quê tra_hỏi mối quan_hệ giữa vợ anh l đánh vợ chị th bỏ về quê mẹ ở thanh_hóa sinh_sống
+5,chị th thú_nhận mối quan_hệ tình_cảm anh l xin tha_thứ thịnh đồng_ý
+6,hai vợ_chồng bình_dương sống cách_ly quan_hệ tình_cảm anh l chị th biết mình có_thai anh l người_thân thanh_hóa tp hồ_chí_minh phá thai mới quay quảng_trị gặp thịnh
+7,ngày 16/8/2015 vợ_chồng thịnh con trai út 4 tuổi bình_dương ở tạm nhà chị_gái th thuê nhà_nghỉ
+8,ngày 19/8/2015 thịnh nghi_ngờ tra_hỏi chị th khai có_thai người_tình trốn nam phá_thai
+9,thịnh bỏ xuống vỉa_hè uống 3 lon bia
+10,đến quay về phòng thấy vợ cầm điện_thoại_di_động thịnh hỏi vợ nói gọi điện_thoại bà ngoại hỏi_thăm tình_hình con ở nhà
+11,thịnh lấy điện_thoại xem thấy tin nhắn th gửi một_số điện_thoại lạ nội_dung “ anh thịnh bỏ em anh đi em ”
+12,quá bức_xúc thịnh liền lấy con dao cắt trái_cây bàn đâm nhát làm chị th chết tại_chỗ chiều ngày
+13,giết chị th thịnh tp hồ_chí_minh đi máy_bay huế đón xe_khách về quảng_trị
+14,thịnh chuẩn_bị con dao tìm đến nhà anh l ở thôn tân_xuân xã gio_việt huyện gio_linh chém chết người tình vợ giường ngủ khoảng 20 h30 phút ngày 20/8/2016
+15,rạng sáng 21/8/2016 công_an quảng_trị bắt thịnh lẩn trốn gần khu_vực gây_án
+16,phiên_tòa sáng nay thịnh cúi đầu khai nhận toàn_bộ hành_vi giết người mình cáo_trạng viện_kiểm_sát nhân_dân tỉnh quảng_trị truy_tố
+17,biện_minh hành_vi giết vợ mình thịnh khai bị_cáo lần tha_thứ vợ tính bình_dương vợ cách_ly người_tình xây_dựng tổ_ấm chị th hết lần đến lần khác lừa_dối thịnh
+18,đối_với giết anh l thịnh khai ban_đầu nghĩ đến nhà anh l “ dạy anh ta một bài_học làm gia_đình bị_cáo tan_nát ” đến bột_phát ra_tay giết người
+19,tuy_nhiên đại_diện vksnd chủ_tọa phiên_tòa bác_bỏ thịnh thực_hiện hành_vi giết người dã_man giết 2 người gây hoang_mang dư_luận
+20,thân_nhân chị th anh l xin tòa xử đúng người đúng tội
+21,thân_nhân chị th yêu_cầu bị_cáo bồi_thường thiệt_hại dân_sự
+22,thân_nhân anh l yêu_cầu thịnh bồi_thường khoản mai tang phí tổn_thất_tinh_thần cấp_dưỡng 3 con hại

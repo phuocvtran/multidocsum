@@ -1,7 +1,7 @@
 idx, sentence
-0,sự tăng vọt về thứ_hạng của đội_tuyển việt_nam là do thầy_trò hlv nguyễn_hữu_thắng vừa đá bại đội bóng mạnh syria 20 trong trận giao_hữu tại mỹ_đình hôm 315 
-1,tuy_vậy  đội_tuyển việt_nam chỉ xếp thứ 3 khu_vực đông_nam_á sau thái_lan và philippines 
-2,trong bảng xếp_hạng tháng 6  thái_lan tăng thêm 2 bậc vươn lên hạng 117 thế_giới và chính_thức soán ngôi số 1 đông_nam_á của philippines  bị tụt đến 5 bậc 
-3,trong khi đó  sau 49 trận giao_hữu quốc_tế  tốp 10 thế_giới có sự xáo_trộn 
-4,argentina và bỉ tiếp_tục chia nhau 2 vị_trí dẫn_đầu  tuy_nhiên colombia và đức đã leo lên vị_trí thứ 3 và 4 sau khi tăng thêm một bậc 
-5,chile rơi 2 bậc xuống vị_trí thứ năm 
+0,tăng vọt về thứ_hạng đội_tuyển việt_nam thầy_trò hlv nguyễn_hữu_thắng đá bại đội bóng mạnh syria 20 trong trận giao_hữu mỹ_đình hôm 315
+1,tuy_vậy đội_tuyển việt_nam xếp thứ 3 khu_vực đông_nam_á thái_lan philippines
+2,trong bảng xếp_hạng tháng 6 thái_lan tăng thêm 2 bậc vươn hạng 117 thế_giới chính_thức soán ngôi số 1 đông_nam_á philippines tụt đến 5 bậc
+3,trong 49 trận giao_hữu quốc_tế tốp 10 thế_giới xáo_trộn
+4,argentina bỉ tiếp_tục chia nhau 2 vị_trí dẫn_đầu tuy_nhiên colombia đức leo vị_trí thứ 3 4 tăng thêm một bậc
+5,chile rơi 2 bậc xuống vị_trí thứ năm

@@ -1,13 +1,13 @@
 idx, sentence
-0,maria_abbasi  18 tuổi  bị những kẻ tấn_công tưới xăng lên khắp người rồi châm lửa thiêu sống và bỏ_mặc đến chết vì từ_chối một lời cầu_hôn  gia_đình nạn_nhân nói với cnn 
-1, lúc đó maria đang ở nhà chăm em_gái 5 tuổi vì cả nhà cô ấy đi dự một đám_tang ở thị_trấn gần đó   rafaqat_abbasi  chú ruột nạn_nhân  cho biết 
-2, khi đang dự lễ_tang  một người chạy tới thông_báo với cả gia_đình rằng maria  đang bốc cháy  
-3,ban_đầu  ai cũng nghĩ rằng đây chắc_hẳn là một vụ tai_nạn  nguyên_nhân có_thể vì cái ống nào đó bị nổ hoặc tương_tự  
-4,đến tối_ngày 30/5  cả gia_đình mới trở_về ngôi nhà ở làng davel  ngoại_ô thủ_đô islamabad của pakistan và hoảng_sợ khi chứng_kiến cảnh_tượng trước_mắt 
-5, maria nằm trên sàn nhà  85  cơ_thể con_bé là những vết bỏng   rafaqat_abbasi nói 
-6,theo điều_tra viên sở cảnh_sát  trước đó bốn người đàn_ông đã xông vào nhà maria để tấn_công cô 
-7, do không có con đường chính nào chạy xuyên qua làng nên chúng_tôi phải cho maria ngồi lên ghế rồi bê ra con đường gần nhất để lên xe cấp_cứu   rafaqat kể lại 
-8,nạn_nhân được đưa đến viện y_học pakistan ở islamabad  cách nhà 30 km  để chữa_trị 
-9,tuy_nhiên  cô gái trẻ qua_đời hôm_qua do bị bỏng quá nặng 
-10,hiện_tại ba trong số bốn kẻ tấn_công đã bị bắt vì liên_quan đến vụ giết người này 
-11,cảnh_sát cũng phát lệnh truy_nã tên còn lại 
+0,maria_abbasi 18 tuổi kẻ tấn_công tưới xăng khắp người châm lửa thiêu sống bỏ_mặc đến chết từ_chối một lời cầu_hôn gia_đình nạn_nhân nói cnn
+1,maria ở nhà chăm em_gái 5 tuổi nhà cô ấy đi dự một đám_tang ở thị_trấn gần rafaqat_abbasi chú ruột nạn_nhân biết
+2,dự lễ_tang một người chạy tới thông_báo gia_đình maria bốc cháy
+3,ban_đầu ai nghĩ chắc_hẳn một vụ tai_nạn nguyên_nhân ống nào nổ hoặc tương_tự
+4,đến tối_ngày 30/5 gia_đình mới trở_về ngôi nhà ở làng davel ngoại_ô thủ_đô islamabad pakistan hoảng_sợ chứng_kiến cảnh_tượng trước_mắt
+5,maria nằm sàn nhà 85 cơ_thể con_bé vết bỏng rafaqat_abbasi nói
+6,điều_tra viên sở cảnh_sát bốn người đàn_ông xông nhà maria tấn_công cô
+7,con đường chính nào chạy xuyên làng chúng_tôi maria ngồi ghế bê con đường gần nhất xe cấp_cứu rafaqat kể
+8,nạn_nhân đưa đến viện y_học pakistan ở islamabad cách nhà 30 km chữa_trị
+9,tuy_nhiên cô gái trẻ qua_đời hôm_qua bỏng quá nặng
+10,hiện_tại ba trong số bốn kẻ tấn_công bắt liên_quan đến vụ giết người
+11,cảnh_sát phát lệnh truy_nã tên còn

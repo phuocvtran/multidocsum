@@ -1,7 +1,7 @@
 idx, sentence
-0,bé yana_kleshova  4 tuổi  đã bật khóc trước ống_kính  khi gia_đình em được bước lên sân_khấu để nhận giải_thưởng 
-1,thấy vậy  tổng_thống putin bèn tiến tới  xoa má và an_ủi cô bé nhưng không hiệu_quả 
-2,cô bé không nín khóc  mà_còn nép vào người mẹ 
-3,bất_kể ông putin ngồi xuống và chỉ tay vào ống_kính  nhưng cô bé vẫn tiếp_tục nức_nở 
-4,cuối_cùng  ông đành phải lắc_đầu chịu_thua 
-5,theo trang_web của điện kremlin   huân_chương vẻ_vang dành cho các bậc phụ_huynh  là giải_thưởng trao cho những ông bố bà mẹ  đang nuôi bảy người con trở_lên và đảm_bảo chăm_sóc sức_khỏe  giáo_dục  tâm_lý và phát_triển đạo_đức cho những đứa trẻ  
+0,bé yana_kleshova 4 tuổi bật khóc ống_kính gia_đình em bước sân_khấu nhận giải_thưởng
+1,thấy tổng_thống putin bèn tiến tới xoa má an_ủi cô bé hiệu_quả
+2,cô bé nín khóc mà_còn nép người mẹ
+3,bất_kể ông putin ngồi xuống tay ống_kính cô bé tiếp_tục nức_nở
+4,cuối_cùng ông đành lắc_đầu chịu_thua
+5,trang_web điện kremlin huân_chương vẻ_vang dành bậc phụ_huynh giải_thưởng trao ông bố bà mẹ nuôi bảy người con trở_lên đảm_bảo chăm_sóc sức_khỏe giáo_dục tâm_lý phát_triển đạo_đức đứa trẻ

@@ -1,22 +1,22 @@
 idx, sentence
-0,cô kim_yeojong  năm nay 29 tuổi  lâu_nay là tâm_điểm của những nỗ_lực nhằm tìm_kiếm cho cô một người bạn_đời 
-1,theo báo anh the_times  thông_tin này do một người triều_tiên đào_tẩu sang hàn_quốc hồi năm_ngoái cung_cấp 
-2,những tiết_lộ của ông đã giúp soi_rọi cuộc_đời của một trong những thành_viên bí_ẩn nhất của chính_quyền triều_tiên 
-3,“ ông mai ” xấu_số theo nguồn tin trên  vào tháng 92012  dượng của nhà lãnh_đạo kim  ông jang_songthaek đã lên kế_hoạch tuyển phu_quân cho “ đệ_nhất muội muội ” triều_tiên 
-4,nguồn tin không cho biết ông jang được nhà lãnh_đạo kim hay người cha quá_cố kim_jongil giao_phó trách_nhiệm  nhưng ông đã làm_việc hết_sức nghiêm_túc và đã tập_hợp một danh_sách gồm 30 ứng_viên theo những tiêu_chuẩn khắt_khe 
-5,cụ_thể  các ứng_viên phải là người đang hoặc từng phục_vụ trong quân_đội và là thành_viên của đảng lao_động triều_tiên  wpk  
-6,bên_cạnh đó  phu_quân tương_lai của cô kim còn phải tốt_nghiệp trường đại_học kim nhật_thành  có ngoại_hình hấp_dẫn và chiều cao tối_thiểu 175 m  quy_trình tuyển chồng cho cô kim khá giống chương_trình truyền_hình ăn_khách take_me_out  hãy hẹn_hò với tôi  của đài_itv  anh   trong đó  30 cô gái thất_tình tranh nhau giành sự chú_ý của một người đàn_ông 
-7,nhưng trong “ phiên_bản ” triều_tiên  các ứng_viên là nam_giới và phần_thưởng là ái_nữ của dòng_họ kim 
-8,tuy_nhiên  nỗ_lực trên đã thất_bại sau 6 tháng 
-9,sau khi “ ông mai ” jang bất_ngờ bị xử_tử vào tháng 122013 với tội_danh phản_quốc  kế_hoạch tìm chồng cho cô kim cũng đã bị đình_chỉ 
-10,đến nay  người anh lãnh_đạo của cô kim được cho là đang xúc_tiến trở_lại hoạt_động trên nhằm giúp cô yên bề gia_thất và dành toàn_tâm toàn ý cho những vai_trò quan_trọng mà cô đang và sẽ gánh_vác 
-11,nữ_nhân quyền_lực nhất nước giống như anh_trai lãnh_đạo kim_jongun  cô kim được học_hành bài_bản ở thụy_sĩ cũng như tại bình nhưỡng 
-12,nguồn tin của the_times nói rằng các sinh_viên tại đại_học kim nhật_thành phải bước sang một bên để nhường đường cho cô kim ở hành_lang  và không ai được phép bước vào cùng thang_máy với cô kim ngoại_trừ bạn_bè cùng lớp 
-13,con đường thăng_tiến của cô kim bắt_đầu từ khi được bổ_nhiệm vào vị_trí chỉ_đạo tổ_chức các nghi_lễ trong ban tổ_chức và hướng_dẫn trung_ương của wpk hồi năm 2013 
-14,đến năm 2014  cô được thăng chức làm phó_ban tuyên_giáo của wpk  phụ_trách lịch_trình làm_việc của anh_trai cũng như hình_ảnh của nhà lãnh_đạo trẻ trước công_chúng 
-15,đầu tháng này  cô được bầu vào ban_chấp_hành trung_ương wpk  trở_thành người phụ_nữ quyền_lực nhất nước vào thời_điểm hiện_tại 
-16,hiện_nay  tần_suất xuất_hiện của cô kim trong các chuyến thị_sát của ông kim_jongun chỉ đứng sau chủ_nhiệm tổng_cục chính_trị quân_đội nhân_dân triều_tiên hwang_pyongso  vốn được xem là nhân_vật số 2 của chính_quyền bình_nhưỡng 
-17,thông_tin về tình_trạng “ phòng không ” của kim_yeojong được hé lộ sau khi truyền_thông hàn_quốc đưa ra nhiều đồn đoán về tình_trạng hôn_nhân của cô này 
-18,hãng thông_tấn yonhap đầu năm_ngoái dẫn nguồn đáng tin_cậy ở trung_quốc cho hay cô đã kết_hôn với con_trai của bí_thư wpk_choe_ryonghae 
-19,đến tháng 42015  tờ chosun_ilbo loan tin cô kim mang thai và sẽ sinh con vào tháng sau đó 
-20,những lời đồn về “ sản_phụ ” kim_lan_truyền sau khi cô được nhìn thấy với khuôn_mặt căng phồng và mang đôi dép bệt 
+0,cô kim_yeojong năm nay 29 tuổi lâu_nay tâm_điểm nỗ_lực nhằm tìm_kiếm cô một người bạn_đời
+1,báo anh the_times thông_tin một người triều_tiên đào_tẩu sang hàn_quốc hồi năm_ngoái cung_cấp
+2,tiết_lộ ông giúp soi_rọi cuộc_đời một trong thành_viên bí_ẩn nhất chính_quyền triều_tiên
+3,“ ông mai ” xấu_số nguồn tin tháng 92012 dượng nhà lãnh_đạo kim ông jang_songthaek kế_hoạch tuyển phu_quân “ đệ_nhất muội muội ” triều_tiên
+4,nguồn tin biết ông jang nhà lãnh_đạo kim hay người cha quá_cố kim_jongil giao_phó trách_nhiệm ông làm_việc hết_sức nghiêm_túc tập_hợp một danh_sách gồm 30 ứng_viên tiêu_chuẩn khắt_khe
+5,cụ_thể ứng_viên người hoặc phục_vụ trong quân_đội thành_viên đảng lao_động triều_tiên wpk
+6,bên_cạnh phu_quân tương_lai cô kim còn tốt_nghiệp trường đại_học kim nhật_thành ngoại_hình hấp_dẫn chiều cao tối_thiểu 175 m quy_trình tuyển chồng cô kim khá giống chương_trình truyền_hình ăn_khách take_me_out hãy hẹn_hò tôi đài_itv anh trong 30 cô gái thất_tình tranh nhau giành chú_ý một người đàn_ông
+7,trong “ phiên_bản ” triều_tiên ứng_viên nam_giới phần_thưởng ái_nữ dòng_họ kim
+8,tuy_nhiên nỗ_lực thất_bại 6 tháng
+9,“ ông mai ” jang bất_ngờ xử_tử tháng 122013 tội_danh phản_quốc kế_hoạch tìm chồng cô kim đình_chỉ
+10,đến nay người anh lãnh_đạo cô kim xúc_tiến trở_lại hoạt_động nhằm giúp cô yên bề gia_thất dành toàn_tâm toàn ý vai_trò quan_trọng cô gánh_vác
+11,nữ_nhân quyền_lực nhất nước giống anh_trai lãnh_đạo kim_jongun cô kim học_hành bài_bản ở thụy_sĩ bình nhưỡng
+12,nguồn tin the_times nói sinh_viên đại_học kim nhật_thành bước sang một bên nhường đường cô kim ở hành_lang ai phép bước thang_máy cô kim ngoại_trừ bạn_bè lớp
+13,con đường thăng_tiến cô kim bắt_đầu bổ_nhiệm vị_trí chỉ_đạo tổ_chức nghi_lễ trong ban tổ_chức hướng_dẫn trung_ương wpk hồi năm 2013
+14,đến năm 2014 cô thăng chức làm phó_ban tuyên_giáo wpk phụ_trách lịch_trình làm_việc anh_trai hình_ảnh nhà lãnh_đạo trẻ công_chúng
+15,đầu tháng cô bầu ban_chấp_hành trung_ương wpk trở_thành người phụ_nữ quyền_lực nhất nước thời_điểm hiện_tại
+16,hiện_nay tần_suất xuất_hiện cô kim trong chuyến thị_sát ông kim_jongun đứng chủ_nhiệm tổng_cục chính_trị quân_đội nhân_dân triều_tiên hwang_pyongso vốn xem nhân_vật số 2 chính_quyền bình_nhưỡng
+17,thông_tin về tình_trạng “ phòng ” kim_yeojong hé lộ truyền_thông hàn_quốc đưa đồn đoán về tình_trạng hôn_nhân cô
+18,hãng thông_tấn yonhap đầu năm_ngoái dẫn nguồn đáng tin_cậy ở trung_quốc hay cô kết_hôn con_trai bí_thư wpk_choe_ryonghae
+19,đến tháng 42015 tờ chosun_ilbo loan tin cô kim mang thai sinh con tháng
+20,lời đồn về “ sản_phụ ” kim_lan_truyền cô nhìn thấy khuôn_mặt căng phồng mang đôi dép bệt

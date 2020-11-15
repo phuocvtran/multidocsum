@@ -1,36 +1,36 @@
 idx, sentence
-0,tại buổi thông_tin kết_quả điều_tra vụ án_mạng xảy ra tại hà_nam chiều 8/8  thiếu_tướng hồ_sỹ_tiến  cục_trưởng cục cảnh_sát hình_sự  bộ công_an  chia_sẻ về quá_trình truy bắt nhóm nghi can có liên_quan 
-1,“ chuyên_án này kéo_dài là vì nạn_nhân có quan_hệ phức_tạp  số người trong diện tình_nghi nhiều  trong khi thông_tin từ hiện_trường lại hạn_chế ”  ông cục_trưởng nói về trở_ngại ảnh_hưởng đến việc điều_tra 
-2,chiều 4/7  6 phát súng chát_chúa nổ liên_tiếp gần khu_vực miếu thần ở phường thanh_châu  tp phủ_lý  tỉnh hà_nam 
-3,đạn từ khẩu súng của nam thanh_niên mặc áo chống nắng gây thương_tích cho ông lê_hữu_trí  41 tuổi  giám_đốc một doanh_nghiệp ở địa_bàn  
-4,kẻ gây_án nhanh_chóng lên xe_máy của đồng_bọn tẩu_thoát 
-5,còn nạn_nhân được đưa đi cấp_cứu nhưng không qua khỏi 
-6,kết_quả khám_nghiệm xác_định ông trí_tử_vong do mất_máu cấp sau khi trúng 5 vết_thương ở vùng ngực 
-7,từ dấu_vết hiện_trường  cảnh_sát nhận_định hung_thủ gấy án bằng súng k54 
-8,theo thiếu_tướng hồ_sỹ_tiến  ông trí là doanh_nhân nhưng có quan_hệ phức_tạp với nhiều thành_phần trong xã_hội 
-9,nạn_nhân có thói_quen đi lễ vào mùng một và ngày_rằm 
-10,nơi xảy ra vụ_án là địa_bàn trọng_điểm về an_ninh trật_tự  cách không xa nhà vị giám_đốc công_an tỉnh 
-11,nửa năm trước  cũng tại khu_vực này  trưởng công_an tp phủ_lý đã bị trúng đạn khi đang xem tivi trong nhà 
-12,trước diễn_biến manh_động khiến dư_luận lo_lắng  thủ_tướng nguyễn_xuân_phúc đề_nghị bộ công_an tập_trung lực_lượng điều_tra làm rõ 
-13,hàng trăm cán_bộ_chiến sỹ thuộc cục cảnh_sát hình_sự và các đơn_vị nghiệp_vụ bộ công_an phối_hợp với công_an 9 tỉnh  thành phía bắc đã vào cuộc truy_tìm hung_thủ 
-14,“ nạn_nhân có quan_hệ phức_tạp trên khắp cả nước nên để xác_định ai có mâu_thuẫn rồi sát_hại anh trí là điều cực khó 
-15,ngoài thành_phần liên_quan đến hình_sự và ma_túy  ban chuyên_án đã rà_soát cả những người có dấu_hiệu tranh_giành làm_ăn với nạn_nhân ”  thiếu_tướng tiến kể và cho biết  các lực_lượng suốt một tháng ròng_rã  tỏa đi nhiều địa_phương để lần tìm manh_mối 
-16,lực lực phá_án nhận_định  hung_thủ là người địa_phương sau khi phân_tích địa_hình khu_vực xảy ra án_mạng rất phức_tạp  người lạ không_thể ra_vào 
-17,việc nhóm gây_án chỉ nổ súng vào ông trí cho thấy nghi phạm có thời_gian theo_dõi  tính_toán kỹ_lưỡng khi ra_tay 
-18,sau một tháng  diện nghi_vấn được thu_hẹp 
-19,nguyễn_sỹ_đạt là cái tên được ban chuyên_án đặc_biệt lưu_ý  dù kẻ trực_tiếp nổ súng giết vị giám_đốc là một thanh_niên trẻ tuổi hơn 
-20,thuê sát_thủ giải_quyết mâu_thuẫn đời_tư theo xác_minh của cảnh_sát  đạt có quan_hệ họ_hàng với nạn_nhân  liên_quan đến hoạt_động cầm_đồ  cho vay nặng_lãi và một_số dự_án khai_thác khoáng_sản 
-21,3 năm trước  anh ta bị bắt khi cùng một cán_bộ tòa_án tp phủ_lý_lừa chạy án 
-22,chiều hôm ông trí bị giết  đạt xuất_hiện tại hiện_trường 
-23,sau đó  người đàn_ông có biểu_hiện nghi_vấn cũng có_mặt tại đám_tang nạn_nhân 
-24,lúc bị triệu_tập  đạt bình_thản nói mình không liên_quan 
-25,tuy_nhiên  nguồn tin trinh_sát cho thấy sau khi ra tù  người đàn_ông này hận_thù sâu_sắc với nạn_nhân lê_hữu_trí 
-26,đạt cho rằng vị giám_đốc bị sát_hại là người đã đẩy anh ta vào vòng lao_lý 
-27,ngoài_ra  nghi can còn cáo_buộc nạn_nhân có hành_vi không phải với vợ của đạt trong thời_gian người đàn_ông này thụ_án 
-28,sau nhiều giờ đấu_tranh  nghi can 46 tuổi thừa_nhận anh ta là kẻ chủ_mưu trong vụ sát_hại ông trí 
-29,ngày 6/8  cảnh_sát đã bắt khẩn_cấp 2 đồng_phạm của đạt là lê_việt_hoàn  35 tuổi  và lê_thái_duy  28 tuổi cùng ở hà_nam  
-30,theo khai nhận ban_đầu  đạt thuê hoàn_giết ông trí với giá 500 triệu đồng 
-31,từ lào_cai  hoàn về phủ_lý theo_dõi quy_luật sinh_hoạt của nạn_nhân 
-32,sau khi nhận súng từ kẻ chủ_mưu  ngày 19/6  hoàn và duy phục_kích tại miếu thần nhưng hôm đó ông trí không đi lễ 
-33,2 tuần sau  hai nghi phạm tiếp_tục phóng xe_máy che biển kiểm_soát bám theo ông trí 
-34,chờ vị giám_đốc lễ xong  hoàn cầm súng bắn liên_tiếp vào nạn_nhân rồi bỏ chạy 
+0,buổi thông_tin kết_quả điều_tra vụ án_mạng xảy hà_nam chiều 8/8 thiếu_tướng hồ_sỹ_tiến cục_trưởng cục cảnh_sát hình_sự bộ công_an chia_sẻ về quá_trình truy bắt nhóm nghi can liên_quan
+1,“ chuyên_án kéo_dài nạn_nhân quan_hệ phức_tạp số người trong diện tình_nghi trong thông_tin hiện_trường hạn_chế ” ông cục_trưởng nói về trở_ngại ảnh_hưởng đến điều_tra
+2,chiều 4/7 6 phát súng chát_chúa nổ liên_tiếp gần khu_vực miếu thần ở phường thanh_châu tp phủ_lý tỉnh hà_nam
+3,đạn khẩu súng nam thanh_niên mặc áo chống nắng gây thương_tích ông lê_hữu_trí 41 tuổi giám_đốc một doanh_nghiệp ở địa_bàn
+4,kẻ gây_án nhanh_chóng xe_máy đồng_bọn tẩu_thoát
+5,còn nạn_nhân đưa đi cấp_cứu khỏi
+6,kết_quả khám_nghiệm xác_định ông trí_tử_vong mất_máu cấp trúng 5 vết_thương ở vùng ngực
+7,dấu_vết hiện_trường cảnh_sát nhận_định hung_thủ gấy án bằng súng k54
+8,thiếu_tướng hồ_sỹ_tiến ông trí doanh_nhân quan_hệ phức_tạp thành_phần trong xã_hội
+9,nạn_nhân thói_quen đi lễ mùng một ngày_rằm
+10,xảy vụ_án địa_bàn trọng_điểm về an_ninh trật_tự cách xa nhà vị giám_đốc công_an tỉnh
+11,nửa năm khu_vực trưởng công_an tp phủ_lý trúng đạn xem tivi trong nhà
+12,diễn_biến manh_động khiến dư_luận lo_lắng thủ_tướng nguyễn_xuân_phúc đề_nghị bộ công_an tập_trung lực_lượng điều_tra làm rõ
+13,hàng trăm cán_bộ_chiến sỹ thuộc cục cảnh_sát hình_sự đơn_vị nghiệp_vụ bộ công_an phối_hợp công_an 9 tỉnh thành phía bắc cuộc truy_tìm hung_thủ
+14,“ nạn_nhân quan_hệ phức_tạp khắp nước xác_định ai mâu_thuẫn sát_hại anh trí cực khó
+15,ngoài thành_phần liên_quan đến hình_sự ma_túy ban chuyên_án rà_soát người dấu_hiệu tranh_giành làm_ăn nạn_nhân ” thiếu_tướng tiến kể biết lực_lượng suốt một tháng ròng_rã tỏa đi địa_phương lần tìm manh_mối
+16,lực lực phá_án nhận_định hung_thủ người địa_phương phân_tích địa_hình khu_vực xảy án_mạng phức_tạp người lạ không_thể ra_vào
+17,nhóm gây_án nổ súng ông trí thấy nghi phạm thời_gian theo_dõi tính_toán kỹ_lưỡng ra_tay
+18,một tháng diện nghi_vấn thu_hẹp
+19,nguyễn_sỹ_đạt tên ban chuyên_án đặc_biệt lưu_ý dù kẻ trực_tiếp nổ súng giết vị giám_đốc một thanh_niên trẻ tuổi hơn
+20,thuê sát_thủ giải_quyết mâu_thuẫn đời_tư xác_minh cảnh_sát đạt quan_hệ họ_hàng nạn_nhân liên_quan đến hoạt_động cầm_đồ vay nặng_lãi một_số dự_án khai_thác khoáng_sản
+21,3 năm anh ta bắt một cán_bộ tòa_án tp phủ_lý_lừa chạy án
+22,chiều hôm ông trí giết đạt xuất_hiện hiện_trường
+23,người đàn_ông biểu_hiện nghi_vấn có_mặt đám_tang nạn_nhân
+24,triệu_tập đạt bình_thản nói mình liên_quan
+25,tuy_nhiên nguồn tin trinh_sát thấy tù người đàn_ông hận_thù sâu_sắc nạn_nhân lê_hữu_trí
+26,đạt vị giám_đốc sát_hại người đẩy anh ta vòng lao_lý
+27,ngoài_ra nghi can còn cáo_buộc nạn_nhân hành_vi vợ đạt trong thời_gian người đàn_ông thụ_án
+28,giờ đấu_tranh nghi can 46 tuổi thừa_nhận anh ta kẻ chủ_mưu trong vụ sát_hại ông trí
+29,ngày 6/8 cảnh_sát bắt khẩn_cấp 2 đồng_phạm đạt lê_việt_hoàn 35 tuổi lê_thái_duy 28 tuổi ở hà_nam
+30,khai nhận ban_đầu đạt thuê hoàn_giết ông trí giá 500 triệu đồng
+31,lào_cai hoàn về phủ_lý theo_dõi quy_luật sinh_hoạt nạn_nhân
+32,nhận súng kẻ chủ_mưu ngày 19/6 hoàn duy phục_kích miếu thần hôm ông trí đi lễ
+33,2 tuần hai nghi phạm tiếp_tục phóng xe_máy che biển kiểm_soát bám ông trí
+34,chờ vị giám_đốc lễ xong hoàn cầm súng bắn liên_tiếp nạn_nhân bỏ chạy

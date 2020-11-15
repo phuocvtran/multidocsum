@@ -1,8 +1,8 @@
 idx, sentence
-0,tính theo giá niêm_yết boeing 737 max 200  tổng giá_trị đơn hàng là 113 tỉ usd 
-1,theo cnbc và bloomberg  đơn hàng trên biến vietjet thành một trong những hãng hàng_không giá rẻ phát_triển nhanh nhất khu_vực 
-2,quá_trình bàn_giao 100 máy_bay boeing sẽ được tiến_hành từ năm 2019 đến 2023  thời_điểm vietjet sẽ có đội bay hơn 200 máy_bay của cả hai loại airbus và boeing 
-3,số_lượng máy_bay trên nhằm đáp_ứng nhu_cầu mở_rộng phát_triển của hãng 
-4,ngoài_ra  vietjet cũng ký thỏa_thuận 304 tỉ usd mua nhiều động_cơ được chế_tạo bởi công_ty pratt  whitney  một đơn_vị của hãng united_technologies  cho 30 chiếc airbus_a321 mà vietjet đã đặt hồi tháng 112015 
-5,hãng bay giá rẻ vietjet_air bắt_đầu hoạt_động từ tháng 122011 và có thị_trường tăng_trưởng 20  mỗi năm trong ba năm qua 
-6,vietjet ký hợp_đồng trong hôm_nay 235  giữa thời_điểm chuyến thăm việt_nam của tổng_thống mỹ barack_obama đang diễn ra 
+0,tính giá niêm_yết boeing 737 max 200 tổng giá_trị đơn hàng 113 tỉ usd
+1,cnbc bloomberg đơn hàng biến vietjet thành một trong hãng hàng_không giá rẻ phát_triển nhanh nhất khu_vực
+2,quá_trình bàn_giao 100 máy_bay boeing tiến_hành năm 2019 đến 2023 thời_điểm vietjet đội bay hơn 200 máy_bay hai loại airbus boeing
+3,số_lượng máy_bay nhằm đáp_ứng nhu_cầu mở_rộng phát_triển hãng
+4,ngoài_ra vietjet ký thỏa_thuận 304 tỉ usd mua động_cơ chế_tạo công_ty pratt whitney một đơn_vị hãng united_technologies 30 airbus_a321 vietjet đặt hồi tháng 112015
+5,hãng bay giá rẻ vietjet_air bắt_đầu hoạt_động tháng 122011 thị_trường tăng_trưởng 20 năm trong ba năm
+6,vietjet ký hợp_đồng trong hôm_nay 235 giữa thời_điểm chuyến thăm việt_nam tổng_thống mỹ barack_obama diễn

@@ -1,43 +1,43 @@
 idx, sentence
-0,murray thắng và vào bán_kết  đối_thủ của anh sẽ là đương_kim vô_địch wawrinka  người đã thắng ramos_30  62 61 76  gasquet 13 murray  kết_thúc trận đấu game 8  26  0  15  15  15  15  30  15  40mp   chẳng khó_khăn gì với murray  ở thời_điểm quyết_định  tay_vợt người scotland đã thi_đấu vững_vàng để tiến thẳng tới chiến_thắng 
-1,game 7  25  15  0  15  15  30  15  40  15   gasquet đã kiểm_soát tốt game để tiếp_tục bám đuổi đối_phương 
-2,nhưng không giống set 1 hay 2  khoảng_cách giờ vẫn là ba game và cơ_hội chiến_thắng của murray vẫn rất rộng 
-3,game 6  15  0  15  0  30  0  40  15  40  30  40   sau khi bỏ lỡ hai cơ_hội kết_thúc game  murray đã chốt lại chiến_thắng và nới rộng khoảng_cách lên bốn game bằng một cú giao_bóng ăn điểm trực_tiếp 
-4,chiến_thắng đang mở_toang cho hạt_giống số 2 
-5,game 5  14  break  15  0  15  15  15  30  15  40bp   thêm một game cầm giao_bóng tồi của gasquet  anh đã hụt_hơi và để murray lấn_lướt rồi tiếp_tục bẻ game 
-6,game 4  13  0  15  0  30  0  40  15  40   rất dễ_dàng cho murray nới rộng khoảng_cách lên thành hai game game 3  12  break  0  15  15  15  15  30  15  40bp  30  40bp   lên 2 breakpoint nhờ các lỗi đánh_hỏng liên_tiếp của đối_phương  murray đã không_thể tận_dụng thành_công breakpoint đầu_tiên 
-7,nhưng ngay sau đó anh đã kết_thúc game với một cú volley thuận_tay có điểm winner 
-8,game 2  11  0  15  0  30  15  30  15  40   murray cầm giao_bóng tốt  anh thể_hiện được lợi_thế của tay_vợt cầm giao_bóng và dễ_dàng có chiến_thắng 
-9,game 1  10  0  15  15  15  30  15  30  30  40  30   không quá vượt_trội nhưng gasquet đã có được chiến_thắng để vượt lên dẫn trước set 4  gasquet cầm giao_bóng trước gasquet 12 murray_game 6  06  0  15  0  30  0  40sp   một game thắng trắng nhàn_nhã của tay vượt người scotland để giành chiến_thắng chung_cuộc 
-10,game 5  05  break  0  15  0  30  0  40bp  15  40bp  30  40bp  40  40  40  abp  40  40  40  abp   để đối_thủ đứng trước triple breakpoint song gasquet đã lên được lợi đều 
-11,tuy_nhiên  anh không có sự ổn_định để bứt_lên  murray sau khi bỏ_lỡ 4 breakpoint ở game này thì đã thành_công ở cơ_hội lần thứ 5 
-12,game 4  04  15  0  30  0  30  15  30  30  30  40   khởi_đầu không tốt nhưng murray đã có sự ổn_định để lật ngược lại kết_quả và giành chiến_thắng ở game này 
-13,khoảng_cách đã là bốn game và áp_lực đang đè nặng gasquet 
-14,game 3  03  break  0  15  15  15  30  15  30  30  30  40bp   quá nhiều lỗi tự đánh_hỏng của gasquet khiến anh phải trả_giá bằng việc bị mất game lần thứ hai trong set ba game 2  02  0  15  15  15  30  15  30  30  30  40   gasquet đã hụt_hơi trong giai_đoạn cuối game và để đối_phương thắng nhanh game 1  01  break  0  15  15  15  15  30  30  30  40  30  40  40  40  a_bp  40  40  40  a_bp   murray có nhiều pha bóng đáp trả ấn_tượng  ghi_điểm 
-15,trong khi gasquet thiếu ổn_định  khi lợi đều lần hai  tay_vợt người pháp mắc leiefn hai lỗi đánh_hỏng và bị mất game_set 3  gasquet cầm giao_bóng trước gasquet 11 murray_tie break  murray thắng 73  01  11  21  31  32  33  34  35  36  37   murray cầm giao_bóng trước  anh bị mất điểm ở giao_bóng thứ hai  31   nhưng gasquet mất điểm trong cả ba pha giao_bóng cuối và để đối_thủ bứt lên giành chiến_thắng 
-16,game 12  66  15  0  15  15  30  15  30  30  40  30  40  40  a  40   lại một game đấu giằng_co nhữa của hai tay_vợt và lại xuất_hiện lợi đều song chiến_thắng vẫn thuộc về người cầm giao_bóng game 11  56  15  0  30  0  30  15  30  30  30  40  40  40  40  a   gasquet đáp trả rất tốt và tạo nên một cuộc rượt đuổi về tỉ_số 
-17,murray cũng đã chơi hay để bảo_vệ game thành_công 
-18,game 10  55  0  15  15  15  15  30  30  30  40  30  40  40  a  40   khá khó_khăn với gasquet khi murray đeo_bám quyết_liệt nhưng rồi tay_vợt người pháp cũng đã có được chiến_thắng để san hòa tỉ_số 55 game 9  45  break  15  0  30  0  30  15  30  30  40  30bp  40  40  a  40bp   gasquet đáp trả khá tốt để liên_tục dẫn_điểm đối_phương 
-19,murray đã để tuột cơ_hội chiến_thắng sớm khi mắc liền hai lỗi tự đánh_hỏng và để đối_thủ bẻ game 
-20,một kịch_bản giống_hệt set đầu_tiên đang diễn ra game 8  35  15  0  30  0  40  0   gasquet đã có một chiến_thắng trắng để gây áp_lực cho đối_phương game 7  25  15  0  15  15  15  30  30  30  30  40   gasquet đã đáp trả không tốt  liên_tục là những pha bóng hỏng giúp cho đối_phương giành chiến_thắng nhanh_chóng 
-21,murray đang đứng trước cơ_hội chiến_thắng nhanh set này 
-22,game 6  24  break  0  15  0  30  15  30  15  40bp   lỗi kép của gasquet giúp đối_phương lên 2 breakpoint và murray đã tự quyết_định bẻ game với một cú đánh trái tay thành_công ghi_điểm winner 
-23,game 5  23  0  15  15  15  15  30  15  40   một game ấn_tượng của murray với hai ace  anh chiến_thắng khá nhanh 
-24,game 4  22  0  15  15  15  30  15  30  30  40  30   khởi_đầu với một lỗi kép nhưng gasquet đã những cú đánh tốt sau đó để san hòa tỉ_số 22 
-25,game 3  12  0  15  15  15  30  15  40  15bp  40  30bp  40  40  40  a   khởi_đầu khá chệch_choạc và cũng để cho đối_phương đứng trước 2 cơ_hội bẻ game  nhưng murray đã liên_tiếp có những cú đánh ghi_điểm winner và bảo_vệ game thành_công game 2  11  15  0  15  15  15  30  15  40bp  30  40bp  40  40  a  40  40  40  a  40   ba lỗi đánh_hỏng liên_tiếp đã khiến gasquet phải đứng trước nguy_cơ mất game 
-26,tuy_nhiên  ngay sau đó đến lượt murray liên_tục đánh_hỏng để giúp đối_thủ của anh bảo_vệ game thành_công game 1  01  0  15  15  15  15  30  30  30  30  40   một game đấu khá chủ_động của murray  anh liên_tục dẫn_điểm trước vào có chiến_thắng ở game mở_màn set hai  murray cầm giao_bóng trước gasquet 10 murray_game 12  75  0  15  15  15  30  15  40  15sp  40  30sp  40  40  40  abp  40  40  a  40sp  40  40  40  abp  40  40  40  abp  40  40  a  40sp   gasquet đã chạm tay vào hai setpoint nhưng những cú đánh_hỏng liên_tiếp của anh đã giúp murray lên lợi đều rồi giành lợi_điểm khi hạt_giống số 12 mắc_lỗi kép 
-27,lỗi đánh_hỏng của murray sau đó đã khiến anh mất đi lợi_thế giành chiến_thắng 
-28,một cuộc_chiến giằng_co quyết_liệt khi cả hai đều đã bứt lên giành lợi_điểm  cuối_cùng gasquet đã thắng game 11  65  break  15  0  30  0  30  15  40  15bp  40  30bp   murray lại tiếp_tục khiến bản_thân rơi vào thế khó khi mắc hai lỗi đánh_hỏng liên_tiếp để đối_phương dẫn trước 300 
-29,tiếp sau đó  gasquet có 2 breakpoint với một cú đánh winner thuận_tay 
-30,murray chỉ cứu được 1 breakpoint game 10  55  0  15  0  30  15  30  30  30  40  30  40  40  a  40   murray đã có những pha bóng đáp trả quyết_liệt khiến gasquet gặp nhiều khó_khăn  đặc_biệt trong giai_đoạn đầu 
-31,tuy_nhiên  tay_vợt nước chủ nhà đã khẳng_định bản_lĩnh khi bình_tĩnh kiếm điểm và bảo_vệ game thành_công 
-32,game 9  45  break  15  0  30  0  30  15  30  30  40  30bp  40  40  a  40bp   murray đã khởi_đầu game không được tốt khi đánh_hỏng trong hai pha bóng liên_tiếp khiến anh rơi vào thế rượt đuổi 
-33,murray luôn vào ở phía sau trong game này  anh cứu thành_công 1 breakpoint nhưng những lỗi đánh_hỏng liên_tiếp đã khiến anh mất game và mất đi cơ_hội giành chiến_thắng sớm 
-34,game 8  35  0  15  15  15  30  15  40  15   gasquet đã có một game đấu cầm giao_bóng tốt để tiến tới chiến_thắng và tiếp_tục bám đuổi gây áp_lực cho đối_phương 
-35,tay vợt người pháp có hai winner quyết_định tới chiến_thắng ở game này 
-36,game 7  25  0  15  15  15  15  30  30  30  30  40  40  40  40  a   những lối đánh_hỏng liên_tiếp đã khiến murray phải kéo_dài game đấu  tuy_nhiên ở giai_đoạn quyết_định  gasquet cũng liên_tục đánh_hỏng và để đối_phương giành chiến_thắng 
-37,game 6  24  15  0  30  0  40  0   gasquet có chiến_thắng để tiếp_tục níu giữ hy_vọng bám đuổi đối_phương game 5  14  0  15  0  30  15  30  15  40   murray đang quản_lý rất tốt các game cầm giao_bóng  anh đang có được thế chủ_động 
-38,game 4  13  15  0  30  0  30  15  40  15   tay_vợt nước chủ nhà đã kiểm_soát game tốt  anh hoàn_toàn chủ_động để tiến tới chiến_thắng đầu_tiên game 3  03  0  15  0  30  0  40   murray đã giành chiến_thắng trắng ở game này  một game đấu chóng_vánh và đầy dễ_dàng cho tay_vợt người scotland 
-39,game 2  02  break  0  15  0  30  15  30  30  30  30  40bp   murray đã có những cú đáp trả tốt  anh có hai điểm đầu_tiên của game với những cú đánh ghi_điểm winner 
-40,gasquet đã nỗ_lực trở_lại với hai điểm liên_tiếp nhưng anh để đối_phương lên breakpoint sa một lỗi tự đánh_hỏng và mất game sau khi phạm lỗi kép game 1  01  0  15  15  15  15  30  15  40  30  40   cũng không quá khó_khăn cho tay_vợt người scotland  anh đã ấn_định chiến_thắng ở game đấu đầu_tiên với một cú giao_bóng ăn điểm trực_tiếp set 1  murray cầm giao_bóng trước trong quá_khứ murray và gasquet từng 12 lần chạm_mặt  tay_vợt người scotland thua cả hai trận đầu_tiên  tuy_nhiên sau đó anh đã thắng nhiều hơn thua 
-41,murray đã thắng 8/12 lần gặp_mặt  điều đáng nói năm lần gặp nhau gần nhất  kể từ năm 2012   chiến_thắng luôn thuộc về murray 
+0,murray thắng bán_kết đối_thủ anh đương_kim vô_địch wawrinka người thắng ramos_30 62 61 76 gasquet 13 murray kết_thúc trận đấu game 8 26 0 15 15 15 15 30 15 40mp chẳng khó_khăn murray ở thời_điểm quyết_định tay_vợt người scotland thi_đấu vững_vàng tiến thẳng tới chiến_thắng
+1,game 7 25 15 0 15 15 30 15 40 15 gasquet kiểm_soát tốt game tiếp_tục bám đuổi đối_phương
+2,giống set 1 hay 2 khoảng_cách giờ ba game cơ_hội chiến_thắng murray rộng
+3,game 6 15 0 15 0 30 0 40 15 40 30 40 bỏ lỡ hai cơ_hội kết_thúc game murray chốt chiến_thắng nới rộng khoảng_cách bốn game bằng một cú giao_bóng ăn điểm trực_tiếp
+4,chiến_thắng mở_toang hạt_giống số 2
+5,game 5 14 break 15 0 15 15 15 30 15 40bp thêm một game cầm giao_bóng tồi gasquet anh hụt_hơi murray lấn_lướt tiếp_tục bẻ game
+6,game 4 13 0 15 0 30 0 40 15 40 dễ_dàng murray nới rộng khoảng_cách thành hai game game 3 12 break 0 15 15 15 15 30 15 40bp 30 40bp 2 breakpoint nhờ lỗi đánh_hỏng liên_tiếp đối_phương murray không_thể tận_dụng thành_công breakpoint đầu_tiên
+7,anh kết_thúc game một cú volley thuận_tay điểm winner
+8,game 2 11 0 15 0 30 15 30 15 40 murray cầm giao_bóng tốt anh thể_hiện lợi_thế tay_vợt cầm giao_bóng dễ_dàng chiến_thắng
+9,game 1 10 0 15 15 15 30 15 30 30 40 30 quá vượt_trội gasquet chiến_thắng vượt dẫn set 4 gasquet cầm giao_bóng gasquet 12 murray_game 6 06 0 15 0 30 0 40sp một game thắng trắng nhàn_nhã tay vượt người scotland giành chiến_thắng chung_cuộc
+10,game 5 05 break 0 15 0 30 0 40bp 15 40bp 30 40bp 40 40 40 abp 40 40 40 abp đối_thủ đứng triple breakpoint song gasquet lợi
+11,tuy_nhiên anh ổn_định bứt_lên murray bỏ_lỡ 4 breakpoint ở game thành_công ở cơ_hội lần thứ 5
+12,game 4 04 15 0 30 0 30 15 30 30 30 40 khởi_đầu tốt murray ổn_định lật ngược kết_quả giành chiến_thắng ở game
+13,khoảng_cách bốn game áp_lực đè nặng gasquet
+14,game 3 03 break 0 15 15 15 30 15 30 30 30 40bp quá lỗi tự đánh_hỏng gasquet khiến anh trả_giá bằng mất game lần thứ hai trong set ba game 2 02 0 15 15 15 30 15 30 30 30 40 gasquet hụt_hơi trong giai_đoạn cuối game đối_phương thắng nhanh game 1 01 break 0 15 15 15 15 30 30 30 40 30 40 40 40 a_bp 40 40 40 a_bp murray pha bóng đáp trả ấn_tượng ghi_điểm
+15,trong gasquet thiếu ổn_định lợi lần hai tay_vợt người pháp mắc leiefn hai lỗi đánh_hỏng mất game_set 3 gasquet cầm giao_bóng gasquet 11 murray_tie break murray thắng 73 01 11 21 31 32 33 34 35 36 37 murray cầm giao_bóng anh mất điểm ở giao_bóng thứ hai 31 gasquet mất điểm trong ba pha giao_bóng cuối đối_thủ bứt giành chiến_thắng
+16,game 12 66 15 0 15 15 30 15 30 30 40 30 40 40 a 40 một game đấu giằng_co nhữa hai tay_vợt xuất_hiện lợi song chiến_thắng thuộc về người cầm giao_bóng game 11 56 15 0 30 0 30 15 30 30 30 40 40 40 40 a gasquet đáp trả tốt tạo một cuộc rượt đuổi về tỉ_số
+17,murray chơi hay bảo_vệ game thành_công
+18,game 10 55 0 15 15 15 15 30 30 30 40 30 40 40 a 40 khá khó_khăn gasquet murray đeo_bám quyết_liệt tay_vợt người pháp chiến_thắng san hòa tỉ_số 55 game 9 45 break 15 0 30 0 30 15 30 30 40 30bp 40 40 a 40bp gasquet đáp trả khá tốt liên_tục dẫn_điểm đối_phương
+19,murray tuột cơ_hội chiến_thắng sớm mắc liền hai lỗi tự đánh_hỏng đối_thủ bẻ game
+20,một kịch_bản giống_hệt set đầu_tiên diễn game 8 35 15 0 30 0 40 0 gasquet một chiến_thắng trắng gây áp_lực đối_phương game 7 25 15 0 15 15 15 30 30 30 30 40 gasquet đáp trả tốt liên_tục pha bóng hỏng giúp đối_phương giành chiến_thắng nhanh_chóng
+21,murray đứng cơ_hội chiến_thắng nhanh set
+22,game 6 24 break 0 15 0 30 15 30 15 40bp lỗi kép gasquet giúp đối_phương 2 breakpoint murray tự quyết_định bẻ game một cú đánh trái tay thành_công ghi_điểm winner
+23,game 5 23 0 15 15 15 15 30 15 40 một game ấn_tượng murray hai ace anh chiến_thắng khá nhanh
+24,game 4 22 0 15 15 15 30 15 30 30 40 30 khởi_đầu một lỗi kép gasquet cú đánh tốt san hòa tỉ_số 22
+25,game 3 12 0 15 15 15 30 15 40 15bp 40 30bp 40 40 40 a khởi_đầu khá chệch_choạc đối_phương đứng 2 cơ_hội bẻ game murray liên_tiếp cú đánh ghi_điểm winner bảo_vệ game thành_công game 2 11 15 0 15 15 15 30 15 40bp 30 40bp 40 40 a 40 40 40 a 40 ba lỗi đánh_hỏng liên_tiếp khiến gasquet đứng nguy_cơ mất game
+26,tuy_nhiên đến lượt murray liên_tục đánh_hỏng giúp đối_thủ anh bảo_vệ game thành_công game 1 01 0 15 15 15 15 30 30 30 30 40 một game đấu khá chủ_động murray anh liên_tục dẫn_điểm chiến_thắng ở game mở_màn set hai murray cầm giao_bóng gasquet 10 murray_game 12 75 0 15 15 15 30 15 40 15sp 40 30sp 40 40 40 abp 40 40 a 40sp 40 40 40 abp 40 40 40 abp 40 40 a 40sp gasquet chạm tay hai setpoint cú đánh_hỏng liên_tiếp anh giúp murray lợi giành lợi_điểm hạt_giống số 12 mắc_lỗi kép
+27,lỗi đánh_hỏng murray khiến anh mất đi lợi_thế giành chiến_thắng
+28,một cuộc_chiến giằng_co quyết_liệt hai bứt giành lợi_điểm cuối_cùng gasquet thắng game 11 65 break 15 0 30 0 30 15 40 15bp 40 30bp murray tiếp_tục khiến bản_thân rơi thế khó mắc hai lỗi đánh_hỏng liên_tiếp đối_phương dẫn 300
+29,tiếp gasquet 2 breakpoint một cú đánh winner thuận_tay
+30,murray cứu 1 breakpoint game 10 55 0 15 0 30 15 30 30 30 40 30 40 40 a 40 murray pha bóng đáp trả quyết_liệt khiến gasquet gặp khó_khăn đặc_biệt trong giai_đoạn đầu
+31,tuy_nhiên tay_vợt nước chủ nhà khẳng_định bản_lĩnh bình_tĩnh kiếm điểm bảo_vệ game thành_công
+32,game 9 45 break 15 0 30 0 30 15 30 30 40 30bp 40 40 a 40bp murray khởi_đầu game tốt đánh_hỏng trong hai pha bóng liên_tiếp khiến anh rơi thế rượt đuổi
+33,murray luôn ở phía trong game anh cứu thành_công 1 breakpoint lỗi đánh_hỏng liên_tiếp khiến anh mất game mất đi cơ_hội giành chiến_thắng sớm
+34,game 8 35 0 15 15 15 30 15 40 15 gasquet một game đấu cầm giao_bóng tốt tiến tới chiến_thắng tiếp_tục bám đuổi gây áp_lực đối_phương
+35,tay vợt người pháp hai winner quyết_định tới chiến_thắng ở game
+36,game 7 25 0 15 15 15 15 30 30 30 30 40 40 40 40 a lối đánh_hỏng liên_tiếp khiến murray kéo_dài game đấu tuy_nhiên ở giai_đoạn quyết_định gasquet liên_tục đánh_hỏng đối_phương giành chiến_thắng
+37,game 6 24 15 0 30 0 40 0 gasquet chiến_thắng tiếp_tục níu giữ hy_vọng bám đuổi đối_phương game 5 14 0 15 0 30 15 30 15 40 murray quản_lý tốt game cầm giao_bóng anh thế chủ_động
+38,game 4 13 15 0 30 0 30 15 40 15 tay_vợt nước chủ nhà kiểm_soát game tốt anh hoàn_toàn chủ_động tiến tới chiến_thắng đầu_tiên game 3 03 0 15 0 30 0 40 murray giành chiến_thắng trắng ở game một game đấu chóng_vánh đầy dễ_dàng tay_vợt người scotland
+39,game 2 02 break 0 15 0 30 15 30 30 30 30 40bp murray cú đáp trả tốt anh hai điểm đầu_tiên game cú đánh ghi_điểm winner
+40,gasquet nỗ_lực trở_lại hai điểm liên_tiếp anh đối_phương breakpoint sa một lỗi tự đánh_hỏng mất game phạm lỗi kép game 1 01 0 15 15 15 15 30 15 40 30 40 quá khó_khăn tay_vợt người scotland anh ấn_định chiến_thắng ở game đấu đầu_tiên một cú giao_bóng ăn điểm trực_tiếp set 1 murray cầm giao_bóng trong quá_khứ murray gasquet 12 lần chạm_mặt tay_vợt người scotland thua hai trận đầu_tiên tuy_nhiên anh thắng hơn thua
+41,murray thắng 8/12 lần gặp_mặt đáng nói năm lần gặp nhau gần nhất kể năm 2012 chiến_thắng luôn thuộc về murray

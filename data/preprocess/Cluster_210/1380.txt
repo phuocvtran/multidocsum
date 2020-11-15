@@ -1,10 +1,10 @@
 idx, sentence
-0,sau một loạt các thông_báo chính_thức của hoa_kỳ và liên_minh_châu_âu về việc sản_phẩm thủy_hải_sản của việt_nam bị nhiễm hóa_chất  kháng_sinh cấm  bộ_nông_nghiệp và phát_triển nông_thôn vừa ban_hành chỉ_thị nhằm nâng cao công_tác thú_y thủy_sản hướng tới sản_xuất thủy_sản bền_vững và phục_vụ nhu_cầu xuất_khẩu 
-1,chỉ_thị nêu rõ  ngoài vấn_đề dịch_bệnh trên thủy_sản tiếp_tục diễn_biến phức_tạp  gây thiệt_hại lớn cho người nuôi  thì thực_trạng sản_phẩm nhiễm chất cấm là rất nghiêm_trọng 
-2,“ việc sử_dụng các loại hóa_chất  kháng_sinh không tuân_thủ theo hướng_dẫn  quy_định dẫn đến tồn_dư trong sản_phẩm gây mất an_toàn vệ_sinh thực_phẩm  dẫn đến một_số thị_trường xuất_khẩu chủ_lực của việt_nam đã tạm dừng nhập_khẩu  ” bộ_trưởng bộ nông_nghiệp và phát_triển nông_thôn cao_đức phát nhấn_mạnh 
-3,hiện_tại nhiều địa_phương  chính_quyền chưa thực_sự quan_tâm về công_tác thú_y thủy_sản  nhiều địa_phương chưa tổ_chức thực_hiện đồng_bộ các giải_pháp về nuôi_trồng thủy_sản an_toàn dịch_bệnh và quản_lý thú_y thủy_sản 
-4,trong khi đó  lực_lượng cán_bộ còn rất ít  có tỉnh chỉ có 23 người  phương_tiện và kinh_phí hoạt_động cũng rất hạn_chế 
-5,để sớm khắc_phục những tồn_tại  bất_cập nêu trên và kiểm_soát tốt các loại dịch_bệnh  hạn_chế tối_đa những vướng_mắc phát_sinh trong xuất_khẩu thủy_sản  bộ_trưởng cao_đức phát đề_nghị các địa_phương tập_trung triển_khai đồng_bộ các giải_pháp tăng_cường năng_lực công_tác thú_y thủy_sản 
-6,trong đó  bộ_trưởng yêu_cầu chú_trọng việc tổ_chức rà_soát  chỉ_đạo thực_hiện nghiêm_túc quy_hoạch_vùng nuôi_trồng thủy_sản nhằm đảm_bảo cơ_sở_hạ_tầng  hệ_thống điện  thoát nước  phục_vụ nuôi_trồng thủy_sản  giảm_thiểu lây_nhiễm chéo các loại mầm bệnh giữa các ao nuôi  vùng thâm_canh  bán thâm_canh 
-7,bộ nông_nghiệp và phát_triển nông_thông cũng yêu_cầu các địa_phương tiến_hành tổ_chức thanh kiểm_tra và xử_lý vi_phạm trong kinh_doanh  sử_dụng thức_ăn thủy_sản  thuốc thú_y  chất xử_lý cải_tạo môi_trường trong nuôi_trồng thủy_sản 
-8,xử_lý nghiêm_khắc các trường_hợp vi_phạm pháp_luật  chấn_chỉnh công_tác giám_sát dịch_bệnh đối_với cơ_sở sản_xuất giống thủy_sản 
+0,một loạt thông_báo chính_thức hoa_kỳ liên_minh_châu_âu về sản_phẩm thủy_hải_sản việt_nam nhiễm hóa_chất kháng_sinh cấm bộ_nông_nghiệp phát_triển nông_thôn ban_hành chỉ_thị nhằm nâng cao công_tác thú_y thủy_sản hướng tới sản_xuất thủy_sản bền_vững phục_vụ nhu_cầu xuất_khẩu
+1,chỉ_thị nêu rõ ngoài vấn_đề dịch_bệnh thủy_sản tiếp_tục diễn_biến phức_tạp gây thiệt_hại lớn người nuôi thực_trạng sản_phẩm nhiễm chất cấm nghiêm_trọng
+2,“ sử_dụng loại hóa_chất kháng_sinh tuân_thủ hướng_dẫn quy_định dẫn đến tồn_dư trong sản_phẩm gây mất an_toàn vệ_sinh thực_phẩm dẫn đến một_số thị_trường xuất_khẩu chủ_lực việt_nam tạm dừng nhập_khẩu ” bộ_trưởng bộ nông_nghiệp phát_triển nông_thôn cao_đức phát nhấn_mạnh
+3,hiện_tại địa_phương chính_quyền thực_sự quan_tâm về công_tác thú_y thủy_sản địa_phương tổ_chức thực_hiện đồng_bộ giải_pháp về nuôi_trồng thủy_sản an_toàn dịch_bệnh quản_lý thú_y thủy_sản
+4,trong lực_lượng cán_bộ còn ít tỉnh 23 người phương_tiện kinh_phí hoạt_động hạn_chế
+5,sớm khắc_phục tồn_tại bất_cập nêu kiểm_soát tốt loại dịch_bệnh hạn_chế tối_đa vướng_mắc phát_sinh trong xuất_khẩu thủy_sản bộ_trưởng cao_đức phát đề_nghị địa_phương tập_trung triển_khai đồng_bộ giải_pháp tăng_cường năng_lực công_tác thú_y thủy_sản
+6,trong bộ_trưởng yêu_cầu chú_trọng tổ_chức rà_soát chỉ_đạo thực_hiện nghiêm_túc quy_hoạch_vùng nuôi_trồng thủy_sản nhằm đảm_bảo cơ_sở_hạ_tầng hệ_thống điện thoát nước phục_vụ nuôi_trồng thủy_sản giảm_thiểu lây_nhiễm chéo loại mầm bệnh giữa ao nuôi vùng thâm_canh bán thâm_canh
+7,bộ nông_nghiệp phát_triển nông_thông yêu_cầu địa_phương tiến_hành tổ_chức thanh kiểm_tra xử_lý vi_phạm trong kinh_doanh sử_dụng thức_ăn thủy_sản thuốc thú_y chất xử_lý cải_tạo môi_trường trong nuôi_trồng thủy_sản
+8,xử_lý nghiêm_khắc trường_hợp vi_phạm pháp_luật chấn_chỉnh công_tác giám_sát dịch_bệnh đối_với cơ_sở sản_xuất giống thủy_sản

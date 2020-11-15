@@ -1,9 +1,9 @@
 idx, sentence
-0,8 cửa_hàng feeling_tea tại địa_chỉ  số 491 kim_ngưu  11 thanh_niên  99 xã_đàn  401 bạch_mai  162 ngọc_lâm  8 nguyễn_phong_sắc kéo_dài  trần_thái_tông   123 đội cấn  147 trần_đại_nghĩa 
-1,trong đó  cả 6 đơn_vị không có giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  1 cơ_sở không thực_hiện khám sức_khỏe cho đối_tượng thuộc diện phải khám sức_khỏe định_kỳ và 1 cửa_hàng do chủ đi vắng nên phía cơ_quan_chức_năng chưa_thể xử_lý 
-2,phần_lớn các cơ_sở được kiểm_tra đều không chứng_minh được nguồn_gốc xuất_xứ nguyên_liệu mà họ sản_xuất trà sữa  chân trâu 
-3,hiện cơ_quan tạm giữ nhiều nguyên_liệu pha_chế trà sữa là 13 gói trà xanh 250 g  9 gói trà hồng 190 g  6 gói cà_phê matte 250 g  một can đường nước 23 kg  26 kg hạt trân_châu  45 kg bột kem coffemate 
-4,trong các nguyên_liệu trên  nhiều sản_phẩm được nhập_khẩu  chui  từ nước_ngoài về 
-5,ông nguyễn_trọng_bình  đội_trưởng đội nghiệp_vụ chi_cục qltt hà_nội cho biết  cơ_quan_chức_năng đang trong quá_trình điều_tra và xem_xét 8 đơn_vị trên có thuộc cùng một công_ty hay không và sẽ đưa ra hình_thức xử_phạt đối_với những cơ_sở vi_phạm này 
-6,trước đó  chiều 12/5  đội 5 phòng cảnh_sát môi_trường  công_an hà_nội  và đội quản_lý thị_trường số 26  chi_cục quản_lý thị_trường  đã tiến_hành kiểm_tra việc chấp_hành các quy_định về an_toàn thực_phẩm tại xưởng sản_xuất trà sữa chân trâu thuộc công_ty tnhh cảm_xúc do người đài_loan  trung_quốc  làm_chủ  đường ngọc_hồi  quận hoàng_mai  
-7,trong khi kiểm_tra  lực_lượng chức_năng phát_hiện thấy chi_nhánh của feeling_tea tại số 137 ngọc_hồi đã sử_dụng nguồn nguyên_liệu nhập_ngoại không đảm_bảo an_toàn  vì không rõ nguồn_gốc xuất_xứ 
+0,8 cửa_hàng feeling_tea địa_chỉ số 491 kim_ngưu 11 thanh_niên 99 xã_đàn 401 bạch_mai 162 ngọc_lâm 8 nguyễn_phong_sắc kéo_dài trần_thái_tông 123 đội cấn 147 trần_đại_nghĩa
+1,trong 6 đơn_vị giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm 1 cơ_sở thực_hiện khám sức_khỏe đối_tượng thuộc diện khám sức_khỏe định_kỳ 1 cửa_hàng chủ đi vắng phía cơ_quan_chức_năng chưa_thể xử_lý
+2,phần_lớn cơ_sở kiểm_tra chứng_minh nguồn_gốc xuất_xứ nguyên_liệu họ sản_xuất trà sữa chân trâu
+3,hiện cơ_quan tạm giữ nguyên_liệu pha_chế trà sữa 13 gói trà xanh 250 g 9 gói trà hồng 190 g 6 gói cà_phê matte 250 g một can đường nước 23 kg 26 kg hạt trân_châu 45 kg bột kem coffemate
+4,trong nguyên_liệu sản_phẩm nhập_khẩu chui nước_ngoài về
+5,ông nguyễn_trọng_bình đội_trưởng đội nghiệp_vụ chi_cục qltt hà_nội biết cơ_quan_chức_năng trong quá_trình điều_tra xem_xét 8 đơn_vị thuộc một công_ty hay đưa hình_thức xử_phạt đối_với cơ_sở vi_phạm
+6,chiều 12/5 đội 5 phòng cảnh_sát môi_trường công_an hà_nội đội quản_lý thị_trường số 26 chi_cục quản_lý thị_trường tiến_hành kiểm_tra chấp_hành quy_định về an_toàn thực_phẩm xưởng sản_xuất trà sữa chân trâu thuộc công_ty tnhh cảm_xúc người đài_loan trung_quốc làm_chủ đường ngọc_hồi quận hoàng_mai
+7,trong kiểm_tra lực_lượng chức_năng phát_hiện thấy chi_nhánh feeling_tea số 137 ngọc_hồi sử_dụng nguồn nguyên_liệu nhập_ngoại đảm_bảo an_toàn rõ nguồn_gốc xuất_xứ

@@ -1,10 +1,10 @@
 idx, sentence
-0,theo đó  từ tháng 102014 diệu_hân thuê một phần căn nhà số 423 võ_văn_tần của bà trang để kinh_doanh thời_trang  giá thuê mỗi tháng là 45 triệu  tiền_cọc là 135 triệu đồng 
-1,sau một thời_gian thuê nhà  bà trang thường_xuyên đến gây_rối ở tiệm của diệu_hân vì cho rằng  cô có mối quan_hệ bất_chính với chồng bà 
-2,hoa_hậu cho rằng  việc_làm của bà trang đã xúc_phạm đến nhân_phẩm của cô và ảnh_hưởng đến công_việc kinh_doanh 
-3,ngày 3152015  bà trang tiếp_tục đến gây loạn khiến công_an phường phải đến phải giải_quyết 
-4,người đẹp đã khởi_kiện ra tand quận 3  đồng_thời yêu_cầu công_an quận xử_lý bà phương về hành_vi vu_khống  xúc_phạm danh_dự nhân_phẩm 
-5,đồng_thời  yêu_cầu bà trang bồi_thường các khoản  hoàn_trả lại tiền đặt_cọc thuê nhà 135 triệu đồng  bồi_thường 135 triệu đồng thiệt_hại mất thu_nhập do không kinh_doanh được trong thời_gian hai bên xảy ra mâu_thuẫn 
-6,về phía bà trang  bà phủ nhận việc hủy_hoại tài_sản  phá camera trong cửa_hàng và yêu_cầu trả đủ 360 triệu cho 8 tháng thuê nhà còn lại trong hợp_đồng  cho_dù hoa_hậu này không sử_dụng căn nhà suốt thời_gian đó 
-7,tại phiên xét_xử sơ_thẩm vào tháng 22016  tòa_án bác đơn khởi_kiện của diệu_hân 
-8,đồng_thời buộc hoa_hậu phải bồi_thường tiền thuê nhà là 360 triệu đồng cho bị_đơn do vi_phạm hợp_đồng 
+0,tháng 102014 diệu_hân thuê một phần căn nhà số 423 võ_văn_tần bà trang kinh_doanh thời_trang giá thuê tháng 45 triệu tiền_cọc 135 triệu đồng
+1,một thời_gian thuê nhà bà trang thường_xuyên đến gây_rối ở tiệm diệu_hân cô mối quan_hệ bất_chính chồng bà
+2,hoa_hậu việc_làm bà trang xúc_phạm đến nhân_phẩm cô ảnh_hưởng đến công_việc kinh_doanh
+3,ngày 3152015 bà trang tiếp_tục đến gây loạn khiến công_an phường đến giải_quyết
+4,người đẹp khởi_kiện tand quận 3 đồng_thời yêu_cầu công_an quận xử_lý bà phương về hành_vi vu_khống xúc_phạm danh_dự nhân_phẩm
+5,đồng_thời yêu_cầu bà trang bồi_thường khoản hoàn_trả tiền đặt_cọc thuê nhà 135 triệu đồng bồi_thường 135 triệu đồng thiệt_hại mất thu_nhập kinh_doanh trong thời_gian hai bên xảy mâu_thuẫn
+6,về phía bà trang bà phủ nhận hủy_hoại tài_sản phá camera trong cửa_hàng yêu_cầu trả đủ 360 triệu 8 tháng thuê nhà còn trong hợp_đồng cho_dù hoa_hậu sử_dụng căn nhà suốt thời_gian
+7,phiên xét_xử sơ_thẩm tháng 22016 tòa_án bác đơn khởi_kiện diệu_hân
+8,đồng_thời buộc hoa_hậu bồi_thường tiền thuê nhà 360 triệu đồng bị_đơn vi_phạm hợp_đồng

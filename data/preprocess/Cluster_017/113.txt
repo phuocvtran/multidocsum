@@ -1,13 +1,13 @@
 idx, sentence
-0,sự_việc xảy ra vào lúc 18 h30  ngày 18/5 
-1,một người mẹ có_mặt tại hiện_trường cho biết cảnh_tượng này giống như một cuộc tấn_công khủng_bố khi những đứa trẻ bị_thương nằm la_liệt trên bãi cỏ để chờ đội chăm_sóc y_tế đến 
-2,cô sheryl_allison  có con gái demi_basnett 12 tuổi có_mặt ở trong công_viên vào thời_điểm đó nói rằng   con chó tấn_công khoảng 14 trẻ_em  nó giống như một cuộc tấn_công khủng_bố 
-3,các em bị_thương nằm ở khắp nơi giống như chiến_tranh vậy 
-4,con chó không ngừng tấn_công điên_cuồng vào những đứa trẻ tội_nghiệp 
-5,nó hoàn_toàn mất kiểm_soát  
-6,cô allison nói thêm   cuối_cùng  một người cha đã nhìn thấy cảnh_tượng kinh_hoàng xảy ra và chạy nhanh vào trong công_viên  nhảy lên con chó 
-7,ông ấy đã ấn đầu  kìm_hãm sự nổi_điên của con chó cho đến khi cảnh_sát đến 
-8,tôi chưa bao_giờ chứng_kiến sự_việc nào như_thế trước đây  
-9,cảnh_sát northumbria khẳng_định con chó hung_dữ đã được kiểm_soát  đưa vào trong cũi và có 9 em đã nhập_viện 
-10,hiện chưa xác_định được chủ_sở_hữu_con cho này 
-11,cảnh_sát cũng cho biết không có em nào bị_thương nặng 
+0,sự_việc xảy 18 h30 ngày 18/5
+1,một người mẹ có_mặt hiện_trường biết cảnh_tượng giống một cuộc tấn_công khủng_bố đứa trẻ bị_thương nằm la_liệt bãi cỏ chờ đội chăm_sóc y_tế đến
+2,cô sheryl_allison con gái demi_basnett 12 tuổi có_mặt ở trong công_viên thời_điểm nói con chó tấn_công khoảng 14 trẻ_em nó giống một cuộc tấn_công khủng_bố
+3,em bị_thương nằm ở khắp giống chiến_tranh
+4,con chó ngừng tấn_công điên_cuồng đứa trẻ tội_nghiệp
+5,nó hoàn_toàn mất kiểm_soát
+6,cô allison nói thêm cuối_cùng một người cha nhìn thấy cảnh_tượng kinh_hoàng xảy chạy nhanh trong công_viên nhảy con chó
+7,ông ấy ấn đầu kìm_hãm nổi_điên con chó đến cảnh_sát đến
+8,tôi bao_giờ chứng_kiến sự_việc nào như_thế
+9,cảnh_sát northumbria khẳng_định con chó hung_dữ kiểm_soát đưa trong cũi 9 em nhập_viện
+10,hiện xác_định chủ_sở_hữu_con
+11,cảnh_sát biết em nào bị_thương nặng

@@ -1,4 +1,4 @@
 idx, sentence
-0,khoảng 22 h ngày 215  tại quốc_lộ 1 thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tỉnh bắc_giang  tổ tuần_tra phòng csgt công_an tỉnh bắc_giang phát_hiện  bắt_giữ chiếc xe_tải bks  12c04429 do nguyễn_quang_huy  sn 1988 ở thành_phố lạng_sơn  tỉnh lạng_sơn điều_khiển chở 5535 kg ngà_voi  không có hóa_đơn chừng từ 
-1,toàn_bộ số ngà_voi được đựng trong 17 bao_tải dứa  cất_giấu rất kín trong thùng xe_tải 
-2,tại cơ_quan công_an  đối_tượng khai nhận đang trên đường vận_chuyển số ngà_voi trên từ hà_nội lên lạng_sơn_tiêu_thụ 
+0,khoảng 22 h ngày 215 quốc_lộ 1 thuộc địa_phận xã yên_mỹ huyện lạng_giang tỉnh bắc_giang tổ tuần_tra phòng csgt công_an tỉnh bắc_giang phát_hiện bắt_giữ xe_tải bks 12c04429 nguyễn_quang_huy sn 1988 ở thành_phố lạng_sơn tỉnh lạng_sơn điều_khiển chở 5535 kg ngà_voi hóa_đơn chừng
+1,toàn_bộ số ngà_voi đựng trong 17 bao_tải dứa cất_giấu kín trong thùng xe_tải
+2,cơ_quan công_an đối_tượng khai nhận đường vận_chuyển số ngà_voi hà_nội lạng_sơn_tiêu_thụ

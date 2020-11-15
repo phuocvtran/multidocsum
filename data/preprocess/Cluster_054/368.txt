@@ -1,4 +1,4 @@
 idx, sentence
-0,hình_ảnh chàng trai niên gầy_gò  cùng với chiếc túi đựng đồ nổi_bật với logo “ chung tay vì sự sống ” là tâm_điểm chú_ý trên khắp tuyến đường mà anh đã đi qua 
-1,trải qua hơn 2000 km  chiều_qua  19/5   anh trần_nguyễn_an_khương đã đặt_chân đến hà_nội  hoàn_thành mục_tiêu đi xuyên việt để vận_động hiến tạng 
-2,chia_sẻ lý_do thực_hiện chuyến đi  anh khương cho biết nguyên_nhân xuất_phát từ việc một người bạn thân của anh đã mất vì căn_bệnh suy thận mà không nhận được nguồn thận hiến tặng 
+0,hình_ảnh chàng trai niên gầy_gò túi đựng đồ nổi_bật logo “ chung tay sống ” tâm_điểm chú_ý khắp tuyến đường anh đi
+1,trải hơn 2000 km chiều_qua 19/5 anh trần_nguyễn_an_khương đặt_chân đến hà_nội hoàn_thành mục_tiêu đi xuyên việt vận_động hiến tạng
+2,chia_sẻ lý_do thực_hiện chuyến đi anh khương biết nguyên_nhân xuất_phát một người bạn thân anh mất căn_bệnh suy thận nhận nguồn thận hiến tặng

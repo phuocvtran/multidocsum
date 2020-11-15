@@ -1,7 +1,7 @@
 idx, sentence
-0,bé trai này bò trên thành hàng_rào_chắn và rơi xuống con hào_bao quanh khu_vực nhốt con khỉ_đột vào_khoảng 16 giờ  giờ_địa_phương  ngày 285  giám_đốc sở_thú thane_maynard cho biết  theo afp 
-1,con khỉ_đột đực 17 tuổi có tên harambe  nặng hơn 180 kg  “ đi xuống hào và bắt đứa bé ”  ông maynard nói 
-2,các nhân_chứng cho biết con khỉ_đột đã lôi đứa bé đang la_hét đi khắp chuồng  truyền_thông mỹ đưa tin 
-3,nhóm phản_ứng nhanh trước những động_vật nguy_hiểm của sở_thú cincinnati kịp_thời bắn chết con khỉ_đột 10 phút sau khi đứa bé  một_số hãng tin mỹ cho rằng bé trai này 4 tuổi  rơi vào chuồng 
-4,cảnh_sát cho hay đứa bé bị_thương được đưa đến bệnh_viện cấp_cứu  nhưng vết_thương không đe_dọa tính_mạng 
-5,ông maynard nói nhóm phản_ứng nhanh buộc phải bắn chết con khỉ_đột hơn là sử_dụng thuốc_mê vì thuốc_mê không có tác_dụng ngay_lập_tức và con khỉ có_thể đe_dọa mạng sống đứa bé 
+0,bé trai bò thành hàng_rào_chắn rơi xuống con hào_bao quanh khu_vực nhốt con khỉ_đột vào_khoảng 16 giờ giờ_địa_phương ngày 285 giám_đốc sở_thú thane_maynard biết afp
+1,con khỉ_đột đực 17 tuổi tên harambe nặng hơn 180 kg “ đi xuống hào bắt đứa bé ” ông maynard nói
+2,nhân_chứng biết con khỉ_đột lôi đứa bé la_hét đi khắp chuồng truyền_thông mỹ đưa tin
+3,nhóm phản_ứng nhanh động_vật nguy_hiểm sở_thú cincinnati kịp_thời bắn chết con khỉ_đột 10 phút đứa bé một_số hãng tin mỹ bé trai 4 tuổi rơi chuồng
+4,cảnh_sát hay đứa bé bị_thương đưa đến bệnh_viện cấp_cứu vết_thương đe_dọa tính_mạng
+5,ông maynard nói nhóm phản_ứng nhanh buộc bắn chết con khỉ_đột hơn sử_dụng thuốc_mê thuốc_mê tác_dụng ngay_lập_tức con khỉ đe_dọa mạng sống đứa bé

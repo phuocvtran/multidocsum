@@ -1,13 +1,13 @@
 idx, sentence
-0,mới_đây  những bức hình_ảnh cưới của cặp_đôi ahn_jae_hyun và goo_hye_sun đã được hé lộ 
-1,cụ_thể  cặp tân_lang tân nương sẽ tổ_chức hôn_lễ vào ngày 215 tới đây 
-2,trước đó  họ đã tới đảo jeju để chụp ảnh cưới 
-3,những bức ảnh của cặp_đôi diễn_viên cho thấy vẻ đẹp thiên_nhiên lãng_mạn  bình_yên của đất_nước hàn_quốc 
-4,goo hye_sun trong trang_phục kín_đáo và giản_dị nhưng vẫn vô_cùng sang_trọng và đáng yêu 
-5,những bức ảnh khá tự_nhiên  với bối_cảnh như ở trong một khu rừng  với màn sương vẫn còn giăng_mắc tạo ra một bầu không_gian hư_hư_thực thực  ảo_mộng đầy lãng_mạn 
-6,cả hai tạo dáng thoải_mái  đơn_giản nhưng ngập_tràn hạnh_phúc 
-7,nói về đám_cưới của mình diễn ra vào ngày 21 tới đây  cả hai cũng cho biết họ sẽ tổ_chức đám_cưới vô_cùng đơn_giản với gia_đình mình 
-8,cả hai muốn có một đám_cưới đáng nhớ và ý_nghĩa  bằng cách họ sẽ không tổ_chức tiệc cưới sa hoa  mà dành số tiền ấy cho việc_làm từ_thiện 
-9,ah jea_hyun và  nàng cỏ  goo_hye_sun yêu nhau khá lâu  nhưng phải mới gần đây  chuyện tình_cảm của họ mới bị phát_hiện 
-10,nguyên_nhân là do cặp_đôi ở cùng một tòa nhà  vì_vậy các phóng_viên khó biết được họ có quan_hệ tình_cảm và qua_lại với nhau 
-11,chỉ một thời_gian ngắn sau khi bị phát_hiện  họ đã công_khai kế_hoạch đám_cưới của mình 
+0,mới_đây bức hình_ảnh cưới cặp_đôi ahn_jae_hyun goo_hye_sun hé lộ
+1,cụ_thể cặp tân_lang tân nương tổ_chức hôn_lễ ngày 215 tới
+2,họ tới đảo jeju chụp ảnh cưới
+3,bức ảnh cặp_đôi diễn_viên thấy vẻ đẹp thiên_nhiên lãng_mạn bình_yên đất_nước hàn_quốc
+4,goo hye_sun trong trang_phục kín_đáo giản_dị vô_cùng sang_trọng đáng yêu
+5,bức ảnh khá tự_nhiên bối_cảnh ở trong một khu rừng màn sương còn giăng_mắc tạo một bầu không_gian hư_hư_thực thực ảo_mộng đầy lãng_mạn
+6,hai tạo dáng thoải_mái đơn_giản ngập_tràn hạnh_phúc
+7,nói về đám_cưới mình diễn ngày 21 tới hai biết họ tổ_chức đám_cưới vô_cùng đơn_giản gia_đình mình
+8,hai muốn một đám_cưới đáng nhớ ý_nghĩa bằng cách họ tổ_chức tiệc cưới sa hoa dành số tiền ấy việc_làm từ_thiện
+9,ah jea_hyun nàng cỏ goo_hye_sun yêu nhau khá lâu mới gần tình_cảm họ mới phát_hiện
+10,nguyên_nhân cặp_đôi ở một tòa nhà vì_vậy phóng_viên khó biết họ quan_hệ tình_cảm qua_lại nhau
+11,một thời_gian ngắn phát_hiện họ công_khai kế_hoạch đám_cưới mình

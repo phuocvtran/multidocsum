@@ -1,11 +1,11 @@
 idx, sentence
-0,honda cho biết sẽ bắt_đầu tung winner ra thị_trường từ ngày 86 tới với 2 phiên_bản cùng mức giá lần_lượt 4549 triệu đồng và 4599 triệu đồng 
-1,mức giá này đúng ngang bằng đối_thủ exciter  vốn đang thống_trị phân khúc xe côn tay underbone 
-2,động_thái này cho thấy tham_vọng lấn_sân của honda_winner và đây là mức giá được nhiều người nhận_định là hấp_dẫn của mẫu xe thương_hiệu nhât 
-3,so với các đối_thủ như yamaha_exciter hay suzuki_raider  winner là một cái tên hoàn_toàn mới ít được biết đến 
-4,ngay sau khi xuất_hiện  honda_winner ngay_lập_tức thu_hút được nhiều sự chú_ý và được đặt lên bàn cân so_sánh trực_diện với đối_thủ 
-5,honda_winner 150 sở_hữu kiểu_dáng khá thể_thao và bắt_mắt nhưng vẫn có khá nhiều ý_kiến nhận_định dòng xe này nhìn hiền và kém chất hơn exciter 
-6,tuy_nhiên  so về trang_bị  đại_diện honda ít_nhiều có một_số lợi_thế như hệ_thống đèn_pha sử_dụng công_nghệ_led  đèn xinhan tích_hợp bên trong đèn định_vị 
-7,mặt đồng_hồ trên honda_winner 150 và yamaha_exciter 150 có khá nhiều điểm tương_đồng khi sử_dụng loại hiển_thị kếp hợp giữa đồng_hồ analog và công_nghệ điện_tử hiện_đại 
-8,honda winner được trang_bị động_cơ_pgmfi  dohc  xylanh đơn làm mát bằng dung_dịch và có sức_mạnh ngang_ngửa yamaha_exciter 
-9,tuy_nhiên  winner sử_dụng hộp_số 6 cấp còn exciter dùng loại 5 cấp 
+0,honda biết bắt_đầu tung winner thị_trường ngày 86 tới 2 phiên_bản mức giá lần_lượt 4549 triệu đồng 4599 triệu đồng
+1,mức giá đúng ngang bằng đối_thủ exciter vốn thống_trị phân khúc xe côn tay underbone
+2,động_thái thấy tham_vọng lấn_sân honda_winner mức giá người nhận_định hấp_dẫn mẫu xe thương_hiệu nhât
+3,đối_thủ yamaha_exciter hay suzuki_raider winner một tên hoàn_toàn mới ít biết đến
+4,xuất_hiện honda_winner ngay_lập_tức thu_hút chú_ý đặt bàn cân so_sánh trực_diện đối_thủ
+5,honda_winner 150 sở_hữu kiểu_dáng khá thể_thao bắt_mắt khá ý_kiến nhận_định dòng xe nhìn hiền kém chất hơn exciter
+6,tuy_nhiên về trang_bị đại_diện honda ít_nhiều một_số lợi_thế hệ_thống đèn_pha sử_dụng công_nghệ_led đèn xinhan tích_hợp bên trong đèn định_vị
+7,mặt đồng_hồ honda_winner 150 yamaha_exciter 150 khá điểm tương_đồng sử_dụng loại hiển_thị kếp hợp giữa đồng_hồ analog công_nghệ điện_tử hiện_đại
+8,honda winner trang_bị động_cơ_pgmfi dohc xylanh đơn làm mát bằng dung_dịch sức_mạnh ngang_ngửa yamaha_exciter
+9,tuy_nhiên winner sử_dụng hộp_số 6 cấp còn exciter dùng loại 5 cấp

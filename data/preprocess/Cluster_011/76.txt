@@ -1,4 +1,4 @@
 idx, sentence
-0,khoa y_dược đại_học đà_nẵng hiện đào_tạo gần 1000 sinh_viên ngành y  từ năm 2008 đến nay đơn_vị này đã tiếp_nhận 4 thi_hài của người hiến tặng từ tphcm phục_vụ quá_trình đào_tạo 
-1,bác_sĩ nguyễn_đăng_quốc_chấn  trưởng khoa y_dược  chia_sẻ  “ hành_động hiến tặng thi_hài cho y_học là việc_làm cao_đẹp 
-2,những thi_hài là tài_sản vô_giá  là người thầy thầm_lặng không_thể thiếu giúp đào_tạo nên người bác_sĩ ” 
+0,khoa y_dược đại_học đà_nẵng hiện đào_tạo gần 1000 sinh_viên ngành y năm 2008 đến nay đơn_vị tiếp_nhận 4 thi_hài người hiến tặng tphcm phục_vụ quá_trình đào_tạo
+1,bác_sĩ nguyễn_đăng_quốc_chấn trưởng khoa y_dược chia_sẻ “ hành_động hiến tặng thi_hài y_học việc_làm cao_đẹp
+2,thi_hài tài_sản vô_giá người thầy thầm_lặng không_thể thiếu giúp đào_tạo người bác_sĩ ”

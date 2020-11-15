@@ -1,22 +1,22 @@
 idx, sentence
-0,cụ_thể  nguyễn_ngọc_minh  tức_minh “ sâm ”  sn 1960  trú tại ngõ chợ_tre  phường đông_ngàn  thị_xã từ_sơn  bắc_ninh  bị đưa ra xét_xử về tội “ cưỡng_đoạt tài_sản ”  theo khoản 2  điều 135  blhs 
-1,thời_điểm thực_hiện tội_phạm ở vụ_án này  minh “ sâm ” là giám_đốc công_ty tnhh đại_an và từng 3 lần phải thụ_án tù về các tội “ trộm_cắp tài_sản ”  “ cướp tài_sản ” 
-2,dính_líu đến hành_vi phạm_pháp của “ ông trùm ” còn có nguyễn_thu_hằng  sn 1992   trần_thái_sơn  sn 1991   đều trú ở phố tô_hiến_thành  phường đình_bảng  thị_xã từ_sơn  tỉnh bắc_ninh  là con_gái ruột và con rể minh “ sâm ” 
-3,tiếp đến là các bị_cáo nguyễn_văn_tùng  sn 1966   trú tại phố nguyễn_trãi  phường võ_cường  tp bắc_ninh  tỉnh bắc_ninh  vũ_quốc_khánh  sn 1990   trú tại phù_lưu  phường đông_ngàn  thị_xã từ_sơn  phạm_văn_đức  sn 1991   ở khu_phố đa_hội  phường châu_khê  thị_xã từ_sơn  tỉnh bắc_ninh 
-4,các bị_cáo tiếp_theo là nguyễn_văn_hòa  sn 1975   trú tại tổ 14  phường tích_lương  tp thái_nguyên  tỉnh thái_nguyên  nguyễn_hữu_hoàng  sn 1991   ở khu_phố tỉnh_cẩu  phường đình_bảng  thị_xã từ_sơn và nguyễn_tiến_thắng  sn 1960   trú tại xóm chùa  phường đình_bảng  thị_xã từ_sơn  tỉnh bắc_ninh 
-5,cả 8 bị can nêu trên đều bị vksnd tỉnh bắc_ninh truy_tố về tội “ cưỡng_đoạt tài_sản ” với vai_trò đồng_phạm với minh “ sâm ” 
-6,riêng bị_cáo quách_văn_lộc  sn 1975  trú tại thôn_thượng  xã phù_khê  thị_xã từ_sơn  tỉnh bắc_ninh  bị truy_tố về tội “ tàng_trữ trái_phép vũ_khí quân_dụng ”  theo điều 230 
-7,năm 2010  công_ty tnhh đại_an do nguyễn_ngọc_minh làm giám_đốc được ubnd tỉnh bắc_ninh cho_phép làm_chủ đầu_tư 2 khu chợ phù_khê_thượng và phù_khê_đông  đều thuộc địa_bàn thị_xã từ_sơn 
-8,ngoài_ra  minh “ sâm ” còn tự_ý biến một phần đất ở một dự_án để hình_thành nên khu chợ tấn_bào cũng chủ_yếu phục_vụ_việc buôn_bán gỗ 
-9,sau đó  mặc_dù cả 3 khu chợ này đều chưa hoàn_thiện đầy_đủ thủ_tục và đảm_bảo điều_kiện hoạt_động  song minh “ sâm ” vẫn đưa vào khai_thác 
-10,quản_lý 2 khu chợ bất_hợp_pháp  minh “ sâm ” lập ra các bql chợ tương_ứng  đồng_thời giao cho nguyễn_thành_hưng  tức_hưng “ sóc ”  sn 1953  hiện đã chết  và nguyễn_thu_hằng trực_tiếp nắm giữ 
-11,các tiểu_thương ở chợ  hàng tháng  ngoài việc phải trả tiền thuê kiốt  điện  nước và nhiều loại phí bất hợp_lý thì những phương_tiện chở gỗ đến chợ hoặc đi qua đường nguyễn_văn_cừ đều phải nộp phí bến_bãi  tùy theo trọng_tải của xe 
-12,trường_hợp lái_xe hoặc chủ gỗ nào không nộp tiền thì lập_tức bị đàn_em của minh “ sâm ” không cho dừng  đỗ  xuống gỗ tại các khu_vực chợ 
-13,đối_với những người “ gan_lì ”  minh “ sâm ” chỉ_đạo đàn_em gây khó_khăn và “ giữ chân ” tại “ lãnh_địa ” của đối_tượng  đồng_thời điện_báo cơ_quan_chức_năng đến bắt_giữ  xử_lý về các lỗi hành_chính 
-14,thậm_chí  ổ_nhóm tội_phạm do minh “ sâm ” cầm_đầu còn không ngần_ngại đốt_phá phương_tiện hoặc hành_hung những người không chịu phục_tùng 
-15,với thủ_đoạn nêu trên  từ năm 2012 đến khi bị triệt_phá  tháng 82014   trùm giang_hồ nguyễn_ngọc_minh cùng đồng_bọn đã cưỡng_đoạt được 184 triệu đồng của 12 người bị hại 
-16,quá_trình điều_tra minh “ sâm ” thừa_nhận  việc thu tiền của các tiểu_thương kinh_doanh gỗ mà đối_tượng cùng đám đàn_em thực_hiện không dựa trên cơ_sở  nguyên_tắc nào và cũng không được sự đồng_ý của cơ_quan nhà_nước có thẩm_quyền 
-17,triệt_phá ổ_nhóm tội_phạm của minh “ sâm ”  cơ_quan công_an còn thu_giữ 1 khẩu súng k54 của quách văn_lộc 
-18,đây là một trong nhiều loại vũ_khí “ nóng ” của nguyễn_thành_hưng giao cho lộc  con_nuôi hưng  quản_lý  cất_giữ 
-19,vào thời_điểm phiên_tòa khai mở  dù được thay_đổi biện_pháp ngăn_chặn sang cấm đi khỏi nơi cư_trú nhưng minh “ sâm ” cùng đàn_em đến hầu_tòa từ khá sớm 
-20,trong khi đó 11/12 bị hại đều có đơn xin xét_xử vắng_mặt  đồng_thời không yêu_cầu bồi_thường thiệt_hại gì 
+0,cụ_thể nguyễn_ngọc_minh tức_minh “ sâm ” sn 1960 trú ngõ chợ_tre phường đông_ngàn thị_xã từ_sơn bắc_ninh đưa xét_xử về tội “ cưỡng_đoạt tài_sản ” khoản 2 135 blhs
+1,thời_điểm thực_hiện tội_phạm ở vụ_án minh “ sâm ” giám_đốc công_ty tnhh đại_an 3 lần thụ_án tù về tội “ trộm_cắp tài_sản ” “ cướp tài_sản ”
+2,dính_líu đến hành_vi phạm_pháp “ ông trùm ” còn nguyễn_thu_hằng sn 1992 trần_thái_sơn sn 1991 trú ở phố tô_hiến_thành phường đình_bảng thị_xã từ_sơn tỉnh bắc_ninh con_gái ruột con rể minh “ sâm ”
+3,tiếp đến bị_cáo nguyễn_văn_tùng sn 1966 trú phố nguyễn_trãi phường võ_cường tp bắc_ninh tỉnh bắc_ninh vũ_quốc_khánh sn 1990 trú phù_lưu phường đông_ngàn thị_xã từ_sơn phạm_văn_đức sn 1991 ở khu_phố đa_hội phường châu_khê thị_xã từ_sơn tỉnh bắc_ninh
+4,bị_cáo tiếp_theo nguyễn_văn_hòa sn 1975 trú tổ 14 phường tích_lương tp thái_nguyên tỉnh thái_nguyên nguyễn_hữu_hoàng sn 1991 ở khu_phố tỉnh_cẩu phường đình_bảng thị_xã từ_sơn nguyễn_tiến_thắng sn 1960 trú xóm chùa phường đình_bảng thị_xã từ_sơn tỉnh bắc_ninh
+5,8 can nêu vksnd tỉnh bắc_ninh truy_tố về tội “ cưỡng_đoạt tài_sản ” vai_trò đồng_phạm minh “ sâm ”
+6,riêng bị_cáo quách_văn_lộc sn 1975 trú thôn_thượng xã phù_khê thị_xã từ_sơn tỉnh bắc_ninh truy_tố về tội “ tàng_trữ trái_phép vũ_khí quân_dụng ” 230
+7,năm 2010 công_ty tnhh đại_an nguyễn_ngọc_minh làm giám_đốc ubnd tỉnh bắc_ninh cho_phép làm_chủ đầu_tư 2 khu chợ phù_khê_thượng phù_khê_đông thuộc địa_bàn thị_xã từ_sơn
+8,ngoài_ra minh “ sâm ” còn tự_ý biến một phần đất ở một dự_án hình_thành khu chợ tấn_bào chủ_yếu phục_vụ_việc buôn_bán gỗ
+9,mặc_dù 3 khu chợ hoàn_thiện đầy_đủ thủ_tục đảm_bảo điều_kiện hoạt_động song minh “ sâm ” đưa khai_thác
+10,quản_lý 2 khu chợ bất_hợp_pháp minh “ sâm ” lập bql chợ tương_ứng đồng_thời giao nguyễn_thành_hưng tức_hưng “ sóc ” sn 1953 hiện chết nguyễn_thu_hằng trực_tiếp nắm giữ
+11,tiểu_thương ở chợ hàng tháng ngoài trả tiền thuê kiốt điện nước loại phí bất hợp_lý phương_tiện chở gỗ đến chợ hoặc đi đường nguyễn_văn_cừ nộp phí bến_bãi tùy trọng_tải xe
+12,trường_hợp lái_xe hoặc chủ gỗ nào nộp tiền lập_tức đàn_em minh “ sâm ” dừng đỗ xuống gỗ khu_vực chợ
+13,đối_với người “ gan_lì ” minh “ sâm ” chỉ_đạo đàn_em gây khó_khăn “ giữ chân ” “ lãnh_địa ” đối_tượng đồng_thời điện_báo cơ_quan_chức_năng đến bắt_giữ xử_lý về lỗi hành_chính
+14,thậm_chí ổ_nhóm tội_phạm minh “ sâm ” cầm_đầu còn ngần_ngại đốt_phá phương_tiện hoặc hành_hung người chịu phục_tùng
+15,thủ_đoạn nêu năm 2012 đến triệt_phá tháng 82014 trùm giang_hồ nguyễn_ngọc_minh đồng_bọn cưỡng_đoạt 184 triệu đồng 12 người hại
+16,quá_trình điều_tra minh “ sâm ” thừa_nhận thu tiền tiểu_thương kinh_doanh gỗ đối_tượng đám đàn_em thực_hiện dựa cơ_sở nguyên_tắc nào đồng_ý cơ_quan nhà_nước thẩm_quyền
+17,triệt_phá ổ_nhóm tội_phạm minh “ sâm ” cơ_quan công_an còn thu_giữ 1 khẩu súng k54 quách văn_lộc
+18,một trong loại vũ_khí “ nóng ” nguyễn_thành_hưng giao lộc con_nuôi hưng quản_lý cất_giữ
+19,thời_điểm phiên_tòa khai mở dù thay_đổi biện_pháp ngăn_chặn sang cấm đi khỏi cư_trú minh “ sâm ” đàn_em đến hầu_tòa khá sớm
+20,trong 11/12 hại đơn xin xét_xử vắng_mặt đồng_thời yêu_cầu bồi_thường thiệt_hại

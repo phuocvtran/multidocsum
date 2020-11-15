@@ -1,20 +1,20 @@
 idx, sentence
-0,trưa 31/5  một lãnh_đạo công_an tp cam_ranh  khánh_hòa  xác_nhận  đơn_vị đang thụ lý điều_tra 3 vụ chặn taxi cướp tài_sản vừa xảy ra trên địa_bàn 
-1,khoảng 1 h30 ngày 28/5  anh võ_minh_huy  29 tuổi  trú tp nha_trang  khánh_hòa  điều_khiển taxi  thuộc hãng asia  có trụ_sở ở nha_trang   chở 2 khách nam từ nha_trang vào sân_bay cam_ranh 
-2,khi anh huy đang lưu_thông trên đại_lộ nguyễn_tất_thành  đoạn thuộc tổ_dân_phố nghĩa_cam  phường cam_nghĩa  tp cam_ranh  thì thấy một người đàn_ông dừng xe_máy hiệu wave  không biển số  vẫy tay ra_hiệu đi nhờ 
-3,khi tài_xế vừa cho xe tới gần  người này liền dùng bình_sơn xịt vào kính chắn gió phía trước  cầm đá đập bể kính cửa taxi 
-4,nghi can lớn_tiếng đe_dọa và yêu_cầu 2 khách đưa tiền  nếu không sẽ đánh 
-5,lúc này anh huy lùi xe  lách qua đối_tượng rồi tăng ga bỏ chạy 
-6,người đàn_ông liền lên xe_máy đuổi theo  khi anh huy chạy đến đường_dẫn vào cổng sân_bay thì nghi can mới quay xe bỏ đi 
-7,đến 1 h45 cùng ngày  anh lê_minh_quý  43 tuổi  trú tp nha_trang  điều_khiển taxi chở 3 khách từ nha_trang vào sân_bay cam_ranh 
-8,khi tài_xế đến đoạn đường trên thì bị một người đàn_ông chặn đầu xe  xịt bình_sơn  đập bể_kính để cướp tài_sản 
-9,lúc này anh quý điều_khiển xe lùi lại rồi tăng ga lách qua nghi can  chạy vào sân_bay 
-10,người đàn_ông cũng lên xe_máy đuổi theo đến khi taxi vào sân_bay mới dừng lại 
-11,10 phút sau  1 h55   trên địa_bàn tiếp_tục xảy ra một vụ chặn taxi đòi tiền 
-12,lúc này anh huỳnh_anh_vũ  37 tuổi  trú tp nha_trang  điều_khiển taxi  thuộc hãng mai_linh  chở 2 khách từ nha_trang vào sân_bay cam_ranh 
-13,khi đến đoạn đường trên  anh vũ thấy 2 đối_tượng đi trên 2 xe_máy chạy ngược_chiều 
-14,bất_ngờ một người chặn đầu taxi  nghi can thứ 2 chặn phía sau 
-15,anh_vũ liền giảm tốc_độ  lách qua xe người phía trước rồi tăng ga  ngay_lập_tức 2 người này đuổi theo 
-16,khi đuổi kịp xe anh_vũ  một người dùng gạch đập bể_kính_cửa sau  đe_dọa và yêu_cầu khách đưa tiền 
-17,vì quá hoảng_sợ  khách đã đưa một ví da  trong đó có hơn 2 triệu đồng và giấy_tờ tùy_thân  
-18,lấy được tiền  các nghi can lên xe tẩu_thoát về hướng nha_trang 
+0,trưa 31/5 một lãnh_đạo công_an tp cam_ranh khánh_hòa xác_nhận đơn_vị thụ lý điều_tra 3 vụ chặn taxi cướp tài_sản xảy địa_bàn
+1,khoảng 1 h30 ngày 28/5 anh võ_minh_huy 29 tuổi trú tp nha_trang khánh_hòa điều_khiển taxi thuộc hãng asia trụ_sở ở nha_trang chở 2 khách nam nha_trang sân_bay cam_ranh
+2,anh huy lưu_thông đại_lộ nguyễn_tất_thành đoạn thuộc tổ_dân_phố nghĩa_cam phường cam_nghĩa tp cam_ranh thấy một người đàn_ông dừng xe_máy hiệu wave biển số vẫy tay ra_hiệu đi nhờ
+3,tài_xế xe tới gần người liền dùng bình_sơn xịt kính chắn gió phía cầm đá đập bể kính cửa taxi
+4,nghi can lớn_tiếng đe_dọa yêu_cầu 2 khách đưa tiền đánh
+5,anh huy lùi xe lách đối_tượng tăng ga bỏ chạy
+6,người đàn_ông liền xe_máy đuổi anh huy chạy đến đường_dẫn cổng sân_bay nghi can mới quay xe bỏ đi
+7,đến 1 h45 ngày anh lê_minh_quý 43 tuổi trú tp nha_trang điều_khiển taxi chở 3 khách nha_trang sân_bay cam_ranh
+8,tài_xế đến đoạn đường một người đàn_ông chặn đầu xe xịt bình_sơn đập bể_kính cướp tài_sản
+9,anh quý điều_khiển xe lùi tăng ga lách nghi can chạy sân_bay
+10,người đàn_ông xe_máy đuổi đến taxi sân_bay mới dừng
+11,10 phút 1 h55 địa_bàn tiếp_tục xảy một vụ chặn taxi đòi tiền
+12,anh huỳnh_anh_vũ 37 tuổi trú tp nha_trang điều_khiển taxi thuộc hãng mai_linh chở 2 khách nha_trang sân_bay cam_ranh
+13,đến đoạn đường anh vũ thấy 2 đối_tượng đi 2 xe_máy chạy ngược_chiều
+14,bất_ngờ một người chặn đầu taxi nghi can thứ 2 chặn phía
+15,anh_vũ liền giảm tốc_độ lách xe người phía tăng ga ngay_lập_tức 2 người đuổi
+16,đuổi kịp xe anh_vũ một người dùng gạch đập bể_kính_cửa đe_dọa yêu_cầu khách đưa tiền
+17,quá hoảng_sợ khách đưa một ví da trong hơn 2 triệu đồng giấy_tờ tùy_thân
+18,lấy tiền nghi can xe tẩu_thoát về hướng nha_trang

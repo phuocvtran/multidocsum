@@ -1,11 +1,11 @@
 idx, sentence
-0,sau khi nghe báo_cáo của ban thường_vụ tỉnh_ủy đác_lắc  phát_biểu ý_kiến tại buổi làm_việc  đồng_chí đinh_thế_huynh biểu_dương những kết_quả đảng_bộ tỉnh đác_lắc đạt được 
-1,đồng_chí lưu_ý  đác_lắc vẫn là tỉnh gặp nhiều khó_khăn  kinh_tế phụ_thuộc vào nông_nghiệp là chính 
-2,trong khi đó  tình_hình biến_đổi khí_hậu ngày_càng diễn_biến phức_tạp  thiệt_hại do thiên_tai gây ra ngày_càng tăng  ảnh_hưởng lớn đến đời_sống nhân_dân 
-3,vì_vậy  đác_lắc cần tổ_chức đánh_giá đầy_đủ nguyên_nhân gây ra hạn_hán  từ đó đề ra các giải_pháp phòng  chống_hạn  khắc_phục thiệt_hại một_cách hiệu_quả 
-4,trước_mắt  tỉnh cần khắc_phục ngay tình_trạng thiếu nước sinh_hoạt cho nhân_dân 
-5,tổ_chức rà_soát hệ_thống hồ đập thủy_lợi  đề_xuất các giải_pháp đầu_tư sửa_chữa  nâng_cấp và xây_dựng mới các công_trình hồ  đập thủy_lợi trên địa_bàn 
-6,quy_hoạch lại sản_xuất nông_nghiệp  chuyển_dịch cơ_cấu cây_trồng theo hướng hạn_chế các loại cây_trồng cần nhiều nước  thay_đổi kỹ_thuật canh_tác  chuyển mạnh sang sản_xuất nông_nghiệp công_nghệ_cao 
-7,tăng_cường quản_lý  bảo_vệ rừng và trồng rừng  phát_triển rừng  góp_phần chống biến_đổi khí_hậu  … về công_tác xây_dựng đảng  gắn liền với triển_khai thực_hiện nghị_quyết đại_hội xii của đảng và nghị_quyết đại_hội đảng_bộ tỉnh lần thứ 16  đảng_bộ tỉnh cần tổ_chức học_tập  quán_triệt nghiêm_túc chỉ_thị số 05  ct / tw của bộ_chính_trị về đẩy_mạnh học_tập và làm theo tư_tưởng  đạo_đức  phong_cách chủ_tịch hồ_chí_minh tới toàn_thể cán_bộ  đảng_viên và nhân_dân  nhất_là cán_bộ chủ_chốt các cấp 
-8,việc tổ_chức học_tập  quán_triệt các nghị_quyết  chỉ_thị của đảng cần đổi_mới để mọi cán_bộ  đảng_viên và người dân đều được học_tập  nhận_thức đầy_đủ 
-9,các cấp_ủy đảng cần xây_dựng chương_trình hành_động thực_hiện nghị_quyết đại_hội xii của đảng và nghị_quyết đại_hội đảng_bộ tỉnh lần thứ 16 phù_hợp  gắn liền với chức_năng  nhiệm_vụ của từng đơn_vị  địa_phương 
+0,nghe báo_cáo ban thường_vụ tỉnh_ủy đác_lắc phát_biểu ý_kiến buổi làm_việc đồng_chí đinh_thế_huynh biểu_dương kết_quả đảng_bộ tỉnh đác_lắc đạt
+1,đồng_chí lưu_ý đác_lắc tỉnh gặp khó_khăn kinh_tế phụ_thuộc nông_nghiệp chính
+2,trong tình_hình biến_đổi khí_hậu ngày_càng diễn_biến phức_tạp thiệt_hại thiên_tai gây ngày_càng tăng ảnh_hưởng lớn đến đời_sống nhân_dân
+3,vì_vậy đác_lắc tổ_chức đánh_giá đầy_đủ nguyên_nhân gây hạn_hán đề giải_pháp phòng chống_hạn khắc_phục thiệt_hại hiệu_quả
+4,trước_mắt tỉnh khắc_phục tình_trạng thiếu nước sinh_hoạt nhân_dân
+5,tổ_chức rà_soát hệ_thống hồ đập thủy_lợi đề_xuất giải_pháp đầu_tư sửa_chữa nâng_cấp xây_dựng mới công_trình hồ đập thủy_lợi địa_bàn
+6,quy_hoạch sản_xuất nông_nghiệp chuyển_dịch cơ_cấu cây_trồng hướng hạn_chế loại cây_trồng nước thay_đổi kỹ_thuật canh_tác chuyển mạnh sang sản_xuất nông_nghiệp công_nghệ_cao
+7,tăng_cường quản_lý bảo_vệ rừng trồng rừng phát_triển rừng góp_phần chống biến_đổi khí_hậu … về công_tác xây_dựng đảng gắn liền triển_khai thực_hiện nghị_quyết đại_hội xii đảng nghị_quyết đại_hội đảng_bộ tỉnh lần thứ 16 đảng_bộ tỉnh tổ_chức học_tập quán_triệt nghiêm_túc chỉ_thị số 05 ct / tw bộ_chính_trị về đẩy_mạnh học_tập làm tư_tưởng đạo_đức phong_cách chủ_tịch hồ_chí_minh tới toàn_thể cán_bộ đảng_viên nhân_dân nhất_là cán_bộ chủ_chốt cấp
+8,tổ_chức học_tập quán_triệt nghị_quyết chỉ_thị đảng đổi_mới mọi cán_bộ đảng_viên người dân học_tập nhận_thức đầy_đủ
+9,cấp_ủy đảng xây_dựng chương_trình hành_động thực_hiện nghị_quyết đại_hội xii đảng nghị_quyết đại_hội đảng_bộ tỉnh lần thứ 16 phù_hợp gắn liền chức_năng nhiệm_vụ đơn_vị địa_phương

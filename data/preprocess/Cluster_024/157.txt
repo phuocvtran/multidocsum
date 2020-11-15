@@ -1,9 +1,9 @@
 idx, sentence
-0,theo đó  chỉ_số niềm tin của người tiêu_dùng việt_nam quý i / 2016 tiếp_tục đạt vị_trí cao  với 109 điểm 
-1,lạc_quan vậy nhưng đa_số người tiêu_dùng việt lại coi_trọng tiết_kiệm và cân_nhắc cẩn_thận trong các chi_tiêu của mình 
-2,xét trên toàn_cầu  người tiêu_dùng khu_vực đông_nam_á là những người có xu_hướng tiết_kiệm cao nhất trên thế_giới  với khoảng 72  số người sử_dụng tiền nhàn_rỗi của mình để tiết_kiệm 
-3,và khi nói đến tiết_kiệm  người việt vẫn đứng đầu_bảng trên toàn thế_giới với 78   giảm 1 điểm phần_trăm so với quý iv / 2015   tiếp đến là indonesia  75    philippines  69    singapore  67    malaysia  67   và thái_lan  66   
-4,tinh_thần tiết_kiệm của người việt cũng cao hơn hẳn so với châu_âu và bắc_mỹ  con_số lần_lượt là 3645  
-5,ngoài tiết_kiệm  người tiêu_dùng việt_nam thường dùng tiền nhàn_rỗi để mua_sắm và giải_trí  trong khi hành_vi phổ_biến ở nhiều nước là để trả nợ hoặc mang đi đầu_tư 
-6,những ưu_tiên hàng_đầu của người việt là vấn_đề sức_khỏe  thực_phẩm  học_tập của con_cái 
-7,những đo_lường trên được kỳ_vọng sẽ phần_nào kích_thích sự phát_triển trong các lĩnh_vực  để đáp_ứng nhu_cầu của người_dân trong thời_gian tới 
+0,chỉ_số niềm tin người tiêu_dùng việt_nam quý i / 2016 tiếp_tục đạt vị_trí cao 109 điểm
+1,lạc_quan đa_số người tiêu_dùng việt coi_trọng tiết_kiệm cân_nhắc cẩn_thận trong chi_tiêu mình
+2,xét toàn_cầu người tiêu_dùng khu_vực đông_nam_á người xu_hướng tiết_kiệm cao nhất thế_giới khoảng 72 số người sử_dụng tiền nhàn_rỗi mình tiết_kiệm
+3,nói đến tiết_kiệm người việt đứng đầu_bảng toàn thế_giới 78 giảm 1 điểm phần_trăm quý iv / 2015 tiếp đến indonesia 75 philippines 69 singapore 67 malaysia 67 thái_lan 66
+4,tinh_thần tiết_kiệm người việt cao hơn hẳn châu_âu bắc_mỹ con_số lần_lượt 3645
+5,ngoài tiết_kiệm người tiêu_dùng việt_nam thường dùng tiền nhàn_rỗi mua_sắm giải_trí trong hành_vi phổ_biến ở nước trả nợ hoặc mang đi đầu_tư
+6,ưu_tiên hàng_đầu người việt vấn_đề sức_khỏe thực_phẩm học_tập con_cái
+7,đo_lường kỳ_vọng phần_nào kích_thích phát_triển trong lĩnh_vực đáp_ứng nhu_cầu người_dân trong thời_gian tới

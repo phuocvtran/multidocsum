@@ -1,11 +1,11 @@
 idx, sentence
-0,con_số 45 triệu nô_lệ trên thế_giới được đưa ra trong nghiên_cứu chỉ_số nô_lệ toàn_cầu năm 2016 mới công_bố ngày 315 của tổ_chức walk_free_foundation  wff  do tỉ_phú người úc_andrew_forrest sáng_lập  theo afp 
-1,wff tổng_hợp thông_tin từ 167 quốc_gia và vùng lãnh_thổ trên thế_giới  tiến_hành 42000 cuộc phỏng_vấn bằng 53 thứ tiếng để đưa ra con_số trên  họ cũng tìm_hiểu xem chính_phủ các quốc_gia đã có những động_thái gì nhằm ngăn_chặn vấn_nạn nô_lệ thời hiện_đại 
-2,con_số 45 triệu nô_lệ này cao hơn 28  so với con_số ước_tính cách đây hai năm 
-3,nô_lệ hiện_đại là tình_trạng bóc_lột một cá_nhân  khiến người này không_thể thoát thân vì bị đe_dọa  hành_hạ  áp_bức  theo wff 
-4,ngoài_ra  một người cũng được xem là nô_lệ nếu họ bị bắt làm_việc trên các tàu cá để trừ nợ và không được phép về nhà  hoặc bị bắt bán làm người giúp_việc  bị ép làm gái mại_dâm trong các nhà_thổ 
-5,theo wff  ấn_độ có số người trở_thành nô_lệ cao nhất thế_giới với 1835 triệu người và đứng hàng_đầu trong năm quốc_gia châu_á có nhiều nô_lệ trên thế_giới 
-6,sau ấn_độ là trung_quốc với 339 triệu nô_lệ  pakistan  213 triệu nô_lệ   bangladesh  153 triệu nô_lệ  và uzbekistan  123 triệu nô_lệ  
-7,khoảng 124 quốc_gia trên thế_giới đã xem hành_động buôn_người là tội_phạm hình_sự  tuân_thủ nghị_định_thư liên_hiệp_quốc về chống buôn_người  và 96 nước có kế_hoạch hành_động chống buôn_người và nô_lệ hiện_đại 
-8,wff kêu_gọi chính_phủ các nước có những biện_pháp cứng_rắn hơn để chấm_dứt nạn nô_lệ hiện_đại 
-9,ông forrest cho biết  “ tôi tin rằng các lãnh_đạo chính_phủ  doanh_nghiệp và tổ_chức dân_sự trên thế_giới đóng vai_trò quan trong cuộc_chiến chống nạn nô_lệ thời hiện_đại ” 
+0,con_số 45 triệu nô_lệ thế_giới đưa trong nghiên_cứu chỉ_số nô_lệ toàn_cầu năm 2016 mới công_bố ngày 315 tổ_chức walk_free_foundation wff tỉ_phú người úc_andrew_forrest sáng_lập afp
+1,wff tổng_hợp thông_tin 167 quốc_gia vùng lãnh_thổ thế_giới tiến_hành 42000 cuộc phỏng_vấn bằng 53 thứ tiếng đưa con_số họ tìm_hiểu xem chính_phủ quốc_gia động_thái nhằm ngăn_chặn vấn_nạn nô_lệ thời hiện_đại
+2,con_số 45 triệu nô_lệ cao hơn 28 con_số ước_tính cách hai năm
+3,nô_lệ hiện_đại tình_trạng bóc_lột một cá_nhân khiến người không_thể thoát thân đe_dọa hành_hạ áp_bức wff
+4,ngoài_ra một người xem nô_lệ họ bắt làm_việc tàu cá trừ nợ phép về nhà hoặc bắt bán làm người giúp_việc ép làm gái mại_dâm trong nhà_thổ
+5,wff ấn_độ số người trở_thành nô_lệ cao nhất thế_giới 1835 triệu người đứng hàng_đầu trong năm quốc_gia châu_á nô_lệ thế_giới
+6,ấn_độ trung_quốc 339 triệu nô_lệ pakistan 213 triệu nô_lệ bangladesh 153 triệu nô_lệ uzbekistan 123 triệu nô_lệ
+7,khoảng 124 quốc_gia thế_giới xem hành_động buôn_người tội_phạm hình_sự tuân_thủ nghị_định_thư liên_hiệp_quốc về chống buôn_người 96 nước kế_hoạch hành_động chống buôn_người nô_lệ hiện_đại
+8,wff kêu_gọi chính_phủ nước biện_pháp cứng_rắn hơn chấm_dứt nạn nô_lệ hiện_đại
+9,ông forrest biết “ tôi tin lãnh_đạo chính_phủ doanh_nghiệp tổ_chức dân_sự thế_giới đóng vai_trò quan trong cuộc_chiến chống nạn nô_lệ thời hiện_đại ”

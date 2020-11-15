@@ -1,4 +1,4 @@
 idx, sentence
-0,để chuẩn_bị cho olympic 2016  xạ_thủ hoàng_xuân_vinh đã tiếp_tục tham_dự các giải bắn súng trên thế_giới 
-1,ở nội_dung 10 m súng ngắn_hơi nam sở_trường  hoàng_xuân_vinh đã xuất_sắc vượt qua vòng_loại với số điểm 585  xếp_hạng 4/112 để giành quyền vào chung_kết 
-2,tuy_nhiên  tại vòng quyết_định  xuân_vinh chỉ xếp_hạng 3 với 1798 điểm 
+0,chuẩn_bị olympic 2016 xạ_thủ hoàng_xuân_vinh tiếp_tục tham_dự giải bắn súng thế_giới
+1,ở nội_dung 10 m súng ngắn_hơi nam sở_trường hoàng_xuân_vinh xuất_sắc vượt vòng_loại số điểm 585 xếp_hạng 4/112 giành quyền chung_kết
+2,tuy_nhiên vòng quyết_định xuân_vinh xếp_hạng 3 1798 điểm

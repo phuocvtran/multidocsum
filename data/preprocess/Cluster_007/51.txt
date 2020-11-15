@@ -1,3 +1,3 @@
 idx, sentence
-0,chiều 195  anh phan_đức_huy  sn 1985  ngụ phường khánh_xuân  tp buôn_ma_thuột  tỉnh đắk_lắk  đánh xe_tải mang bks 47c11426 đến nhà anh trần_hữu_chung  đường giải_phóng  phường tân_thành  tp buôn_ma_thuột  để thu_gom lốp cũ 
-1,do thùng xe_tải của anh huy bị hư_hỏng nên anh huy đã kéo điện ra để hàn 
+0,chiều 195 anh phan_đức_huy sn 1985 ngụ phường khánh_xuân tp buôn_ma_thuột tỉnh đắk_lắk đánh xe_tải mang bks 47c11426 đến nhà anh trần_hữu_chung đường giải_phóng phường tân_thành tp buôn_ma_thuột thu_gom lốp cũ
+1,thùng xe_tải anh huy hư_hỏng anh huy kéo điện hàn

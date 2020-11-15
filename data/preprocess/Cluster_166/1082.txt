@@ -1,9 +1,9 @@
 idx, sentence
-0,sau khi đón sinh_nhật bên cạnh người_thân và bạn_bè vào ngày 20/05 vừa_qua  nhã_phương lên_đường sang hàn_quốc để thực_hiện phần 2 bộ phim tuổi thanh_xuân 
-1,cô sẽ lưu lại xứ_sở kim_chi tới giữa tháng 6 và sau đó trở_về việt_nam để tiếp_tục các phân cảnh tiếp_theo của tuổi thanh_xuân 2 tại đà_nẵng tới cuối tháng 8 
-2,nhã phương cho biết  phần 2 của tuổi thanh_xuân dự_kiến ra_mắt khán vào cuối tháng 10 trên kênh vtv3 
-3,bên_cạnh đó  cô cũng vừa tham_gia phần 2 của phim 49 ngày và chuẩn_bị cho một dự_án phim điện_ảnh mới vào cuối năm nay 
-4,trong tuổi thanh_xuân 2  ngoài tính_cách  ngoại_hình của nhã_phương cũng sẽ có sự thay_đổi đáng_kể 
-5,sau mái_tóc ngắn dễ_thương ở đầu phần 1  mái_tóc xoăn dài dịu_dàng của cuối phần 1 thì ở phần 2  nhã_phương được tạo_hình với mái_tóc đen dài 
-6,theo nhã_phương chia_sẻ  linh sẽ có nhiều sự đột_phá  dễ khiến mọi người đồng_cảm hơn so với phần 1 
-7,trong phần 2  cặp_đôi linh  junsu cũng gặp nhiều sóng_gió và linh sẽ phải mạnh_mẽ đối_diện với những khó_khăn đó 
+0,đón sinh_nhật bên cạnh người_thân bạn_bè ngày 20/05 vừa_qua nhã_phương lên_đường sang hàn_quốc thực_hiện phần 2 bộ phim tuổi thanh_xuân
+1,cô lưu xứ_sở kim_chi tới giữa tháng 6 trở_về việt_nam tiếp_tục phân cảnh tiếp_theo tuổi thanh_xuân 2 đà_nẵng tới cuối tháng 8
+2,nhã phương biết phần 2 tuổi thanh_xuân dự_kiến ra_mắt khán cuối tháng 10 kênh vtv3
+3,bên_cạnh cô tham_gia phần 2 phim 49 ngày chuẩn_bị một dự_án phim điện_ảnh mới cuối năm nay
+4,trong tuổi thanh_xuân 2 ngoài tính_cách ngoại_hình nhã_phương thay_đổi đáng_kể
+5,mái_tóc ngắn dễ_thương ở đầu phần 1 mái_tóc xoăn dài dịu_dàng cuối phần 1 ở phần 2 nhã_phương tạo_hình mái_tóc đen dài
+6,nhã_phương chia_sẻ linh đột_phá dễ khiến mọi người đồng_cảm hơn phần 1
+7,trong phần 2 cặp_đôi linh junsu gặp sóng_gió linh mạnh_mẽ đối_diện khó_khăn

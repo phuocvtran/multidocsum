@@ -1,9 +1,9 @@
 idx, sentence
-0,được biết  olof_palme  1927  1986  là thủ_tướng thuỵ_điển những năm 1969  1976 và 1982  1986 
-1,ông là người bạn chính_trực và tận_tâm của việt_nam trong giai_đoạn đấu_tranh thống_nhất đất_nước 
-2,cố_thủ_tướng olof_palme cũng là người kiên_trì chủ_trương hợp_tác và hỗ_trợ việt_nam trong công_cuộc tái_thiết đất_nước  giúp việt_nam xây_dựng nhiều công_trình quan_trọng  trong đó có bv_nhi trung_ương  bv việt_namthụy_điển  uông_bí  quảng_ninh  … ông là người đặt nền_móng cho quan_hệ ngoại_giao giữa thụy_điển và việt_nam năm 1969 
-3,với quyết_định dũng_cảm của ông  những sự trợ_giúp của quý_báu của thụy_điển đã đến việt_nam vào lúc khó_khăn nhất 
-4,tác_phẩm điêu_khắc chân_dung cố_thủ_tướng palme có kích_thước chiều rộng 20 cm  chiều_cao 40 cm 
-5,việc đúc và đặt tượng bán thân cố_thủ_tướng palme được trung_tâm quốc_tế olof_palme  quỹ tưởng_niệm olof_palme  ủy_ban thụy_điển về việt_nam  lào và campuchia cũng như đảng dân_chủ xã_hội và các nhân_vật xuất_chúng thuộc các tổ_chức này tài_trợ 
-6,đây là bản_sao của bức tượng bán thân ông palme được đặt trong tòa nhà quốc_hội thụy_điển 
-7,tác_phẩm do nhà điêu_khắc qvarsebo thực_hiện 
+0,biết olof_palme 1927 1986 thủ_tướng thuỵ_điển năm 1969 1976 1982 1986
+1,ông người bạn chính_trực tận_tâm việt_nam trong giai_đoạn đấu_tranh thống_nhất đất_nước
+2,cố_thủ_tướng olof_palme người kiên_trì chủ_trương hợp_tác hỗ_trợ việt_nam trong công_cuộc tái_thiết đất_nước giúp việt_nam xây_dựng công_trình quan_trọng trong bv_nhi trung_ương bv việt_namthụy_điển uông_bí quảng_ninh … ông người đặt nền_móng quan_hệ ngoại_giao giữa thụy_điển việt_nam năm 1969
+3,quyết_định dũng_cảm ông trợ_giúp quý_báu thụy_điển đến việt_nam khó_khăn nhất
+4,tác_phẩm điêu_khắc chân_dung cố_thủ_tướng palme kích_thước chiều rộng 20 cm chiều_cao 40 cm
+5,đúc đặt tượng bán thân cố_thủ_tướng palme trung_tâm quốc_tế olof_palme quỹ tưởng_niệm olof_palme ủy_ban thụy_điển về việt_nam lào campuchia đảng dân_chủ xã_hội nhân_vật xuất_chúng thuộc tổ_chức tài_trợ
+6,bản_sao bức tượng bán thân ông palme đặt trong tòa nhà quốc_hội thụy_điển
+7,tác_phẩm nhà điêu_khắc qvarsebo thực_hiện

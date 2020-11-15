@@ -1,17 +1,17 @@
 idx, sentence
-0,những ngày qua  trên một_số trang tin mạng lan_truyền_thông_tin và clip phóng_sự về việc hàng_loạt dầu gội có thương_hiệu phổ_biến trong các gia_đình như pantene  sunsilk  clear  hazeline  rejoice  double_rich  enchanter  chứa_chất cấm bị thu_hồi nhưng vẫn được bày bán_công_khai suốt 1 năm qua 
-1,các trang tin này dẫn ra_công_văn 6577 / qldmp ban_hành ngày 13/4/2015 của cục quản_lý dược  bộ y_tế   trong đó ghi rõ  chất bảo_quản methylisothiazolinone  mit  và hỗn_hợp methylchlorothiazolinone  mct  và methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 chỉ được sử_dụng trong các sản_phẩm rửa_sạch  rinseoff product   và hỗn_hợp mct  mit theo tỷ_lệ 3  1 nếu có thêm mit thì không được sử_dụng trong sản_phẩm mỹ_phẩm 
-2,nhưng  trên hầu_hết bao_bì các sản_phẩm dầu gội thương_hiệu pantene  sunsilk  clear  hazeline  rejoice  double_rich  enchanter  vẫn có ghi thành_phần 2 loại chất mit và mct và vẫn được lưu_hành rộng_rãi trong mọi siêu_thị 
-3,lập_tức thông_tin này nhanh_chóng được lan_truyền trên mạng khiến người tiêu_dùng hoang_mang  bởi các nhãn_hiệu dầu gội này là những thương_hiệu phổ_biến được người dân tin_dùng trong nhiều năm qua 
-4,đại_diện cục quản_lý dược cho biết vấn_đề quan_trọng nhất mà công_văn 6577 nêu ra là cập_nhật về việc cấm dùng dẫn_chất paraben trong mỹ_phẩm ở việt_nam 
-5,còn về 2 chất mct và mit  đại_diện cục quản_lý dược khẳng_định  với chức_năng là cơ_quan quản_lý  cục đã ban_hành các văn_bản cần_thiết để thông_tin rõ về việc này 
-6,còn các thông_tin cụ_thể liên_quan đến doanh_nghiệp sẽ do hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam trả_lời thêm 
-7,trước các thông_tin nhiễu_loạn  ngày 18/5  hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam đã chính_thức lên_tiếng về vấn_đề này 
-8,ông đỗ_duy_phi  chủ_tịch hiệp_hội giải_thích  năm 2014  eu có đưa ra văn_bản quy_định về việc điều_chỉnh hàm_lượng mit và mct dùng trong mỹ_phẩm để kiểm_soát nguy_cơ có_thể gây nhạy_cảm da 
-9,2 chất bảo_quản nói trên không bị cấm mà chỉ giới_hạn nồng_độ  hàm_lượng  và chưa có bằng_chứng khoa_học nào về việc mất an_toàn khi sử_dụng các thành_phần trên trong sản_phẩm mỹ_phẩm 
-10,cụ_thể  trong công_văn số 6577 / qldmp cập_nhật qui_định về sử_dụng methylchlorothiazolinone và methylisothiazolinone  mct  mit   tham_chiếu 39  57 annex_v    methylisothiazolinone  mit  được dùng với nồng_độ tối_đa 001  trong các sản_phẩm mỹ_phẩm 
-11, hỗn_hợp methylchlorothiazolinone và methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 chỉ được dùng trong các sản_phẩm rửa_sạch  rinseoff product  với nồng_độ tối_đa 00015    hỗn_hợp methylchlorothiazolinone và methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 không được dùng thêm thành_phần methylisothiazolinone  mit  trong cùng một sản_phẩm 
-12,do_vậy  thành_phần methylisothiazolinone  mit  với nồng_độ không quá 001  vẫn được sử_dụng trong sản_phẩm mỹ_phẩm như thông_thường  chứ không phải là thành_phần bị cấm sử_dụng 
-13,tương_tự như hỗn_hợp methylchlorothiazolinone và methylisothiazolinone  mct  mit  theo tỷ_lệ 3  1 với nồng_độ không quá 00015   vẫn được sử_dụng các ở sản_phẩm rửa_sạch  dầu_gội  dầu xả  sữa tắm  xà_phòng  nước rửa tay     có qui_định giới_hạn về nồng_độ hàm_lượng  chứ không phải bị cấm sử_dụng 
-14,hiệp_hội cũng nêu rõ  trong khi chưa có báo_cáo xác_thực nào thì đối_với mỗi công_thức sản_phẩm mỹ_phẩm trước khi đưa ra ngoài thị_trường  doanh_nghiệp có trách_nhiệm phải làm đánh_giá an_toàn trên hàm_lượng cụ_thể 
-15,đồng_thời  hiệp_hội khẳng_định thông_tin các chất mit và mci là chất cấm là không chính_xác về cơ_sở khoa_học lẫn quy_định hiện_hành  làm cho người tiêu_dùng hoang_mang 
+0,ngày một_số trang tin mạng lan_truyền_thông_tin clip phóng_sự về hàng_loạt dầu gội thương_hiệu phổ_biến trong gia_đình pantene sunsilk clear hazeline rejoice double_rich enchanter chứa_chất cấm thu_hồi bày bán_công_khai suốt 1 năm
+1,trang tin dẫn ra_công_văn 6577 / qldmp ban_hành ngày 13/4/2015 cục quản_lý dược bộ y_tế trong ghi rõ chất bảo_quản methylisothiazolinone mit hỗn_hợp methylchlorothiazolinone mct methylisothiazolinone mct mit tỷ_lệ 3 1 sử_dụng trong sản_phẩm rửa_sạch rinseoff product hỗn_hợp mct mit tỷ_lệ 3 1 thêm mit sử_dụng trong sản_phẩm mỹ_phẩm
+2,hầu_hết bao_bì sản_phẩm dầu gội thương_hiệu pantene sunsilk clear hazeline rejoice double_rich enchanter ghi thành_phần 2 loại chất mit mct lưu_hành rộng_rãi trong mọi siêu_thị
+3,lập_tức thông_tin nhanh_chóng lan_truyền mạng khiến người tiêu_dùng hoang_mang nhãn_hiệu dầu gội thương_hiệu phổ_biến người dân tin_dùng trong năm
+4,đại_diện cục quản_lý dược biết vấn_đề quan_trọng nhất công_văn 6577 nêu cập_nhật về cấm dùng dẫn_chất paraben trong mỹ_phẩm ở việt_nam
+5,còn về 2 chất mct mit đại_diện cục quản_lý dược khẳng_định chức_năng cơ_quan quản_lý cục ban_hành văn_bản cần_thiết thông_tin rõ về
+6,còn thông_tin cụ_thể liên_quan đến doanh_nghiệp hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam trả_lời thêm
+7,thông_tin nhiễu_loạn ngày 18/5 hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam chính_thức lên_tiếng về vấn_đề
+8,ông đỗ_duy_phi chủ_tịch hiệp_hội giải_thích năm 2014 eu đưa văn_bản quy_định về điều_chỉnh hàm_lượng mit mct dùng trong mỹ_phẩm kiểm_soát nguy_cơ gây nhạy_cảm da
+9,2 chất bảo_quản nói cấm giới_hạn nồng_độ hàm_lượng bằng_chứng khoa_học nào về mất an_toàn sử_dụng thành_phần trong sản_phẩm mỹ_phẩm
+10,cụ_thể trong công_văn số 6577 / qldmp cập_nhật qui_định về sử_dụng methylchlorothiazolinone methylisothiazolinone mct mit tham_chiếu 39 57 annex_v methylisothiazolinone mit dùng nồng_độ tối_đa 001 trong sản_phẩm mỹ_phẩm
+11,hỗn_hợp methylchlorothiazolinone methylisothiazolinone mct mit tỷ_lệ 3 1 dùng trong sản_phẩm rửa_sạch rinseoff product nồng_độ tối_đa 00015 hỗn_hợp methylchlorothiazolinone methylisothiazolinone mct mit tỷ_lệ 3 1 dùng thêm thành_phần methylisothiazolinone mit trong một sản_phẩm
+12,do_vậy thành_phần methylisothiazolinone mit nồng_độ quá 001 sử_dụng trong sản_phẩm mỹ_phẩm thông_thường thành_phần cấm sử_dụng
+13,tương_tự hỗn_hợp methylchlorothiazolinone methylisothiazolinone mct mit tỷ_lệ 3 1 nồng_độ quá 00015 sử_dụng ở sản_phẩm rửa_sạch dầu_gội dầu xả sữa tắm xà_phòng nước rửa tay qui_định giới_hạn về nồng_độ hàm_lượng cấm sử_dụng
+14,hiệp_hội nêu rõ trong báo_cáo xác_thực nào đối_với công_thức sản_phẩm mỹ_phẩm đưa ngoài thị_trường doanh_nghiệp trách_nhiệm làm đánh_giá an_toàn hàm_lượng cụ_thể
+15,đồng_thời hiệp_hội khẳng_định thông_tin chất mit mci chất cấm chính_xác về cơ_sở khoa_học lẫn quy_định hiện_hành làm người tiêu_dùng hoang_mang

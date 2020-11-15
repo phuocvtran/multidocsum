@@ -1,10 +1,10 @@
 idx, sentence
-0,cách đây ít phút  lúc 11 h40 ngày 23/5/2016  một hợp_đồng khủng trị_giá 113 tỉ đô_la mỹ  là hợp_đồng lớn nhất trong quan_hệ thương_mại việt_nam  hoa_kỳ từ trước đến nay  thậm_chí được coi là một trong các hợp_đồng lịch_sử của hãng sản_xuất máy_bay boeing  đã được kí_kết với vietjet_air  dưới sự chứng_kiến của chủ_tịch nước trần_đại_quang và tổng_thống obama 
-1,với bản hợp_đồng này  vietjet_air sẽ mua 100 chiếc máy_bay b737_max 200 của boeing 
-2,“ qua hợp_đồng này  vietjet sẽ góp_phần tăng kim_ngạch thương_mại giữa việt_nam và hoa_kỳ  đóng_góp vào sự phát_triển hội_nhập của ngành hàng_không việt_nam ”  bà nguyễn_thị_phương_thảo  tổng_giám_đốc vietjet_air cho biết 
-3,thương_vụ này cũng đánh_dấu thương_vụ mua máy_bay lớn thứ hai của vietjet_air với các nhà_sản_xuất hàng_đầu thế_giới 
-4,trước đó  vào ngày 10/11/2015  lãnh_đạo hãng hàng_không vietjet_air và tập_đoàn airbus đã ký bản hợp_đồng đặt mua thêm 30 máy_bay a321  21 chiếc a321neo và 9 chiếc a321ceo  thế_hệ mới  với tổng giá_trị công_bố 36 tỷ usd 
-5,bên cạnh hợp_đồng ký_kết với boeing  vietjet_air cũng ký hợp_đồng cùng lúc với tập_đoàn united_technologies_corp để mua động_cơ cho đội tàu_bay mà vietjet đã ký_kết và đặt_hàng với nhà cung_cấp máy_bay 
-6,hợp_đồng ký_kết cũng có giá_trị rất lớn  304 tỷ đô_la mỹ 
-7,bản hợp_đồng nói trên được ký tại triển_lãm hàng_không quốc_tế dubai_airshow 2015 
-8,theo bà nguyễn_thanh_hà  chủ_tịch hội_đồng quản_trị vietjet_air  việc liên_tiếp đặt thêm máy_bay cho thấy sự tăng_trưởng đột_phá của hãng hàng_không này cả về lượng khách vận_chuyển và sự phát_triển của đội bay và mạng đường_bay 
+0,cách ít phút 11 h40 ngày 23/5/2016 một hợp_đồng khủng trị_giá 113 tỉ đô_la mỹ hợp_đồng lớn nhất trong quan_hệ thương_mại việt_nam hoa_kỳ đến nay thậm_chí coi một trong hợp_đồng lịch_sử hãng sản_xuất máy_bay boeing kí_kết vietjet_air chứng_kiến chủ_tịch nước trần_đại_quang tổng_thống obama
+1,bản hợp_đồng vietjet_air mua 100 máy_bay b737_max 200 boeing
+2,“ hợp_đồng vietjet góp_phần tăng kim_ngạch thương_mại giữa việt_nam hoa_kỳ đóng_góp phát_triển hội_nhập ngành hàng_không việt_nam ” bà nguyễn_thị_phương_thảo tổng_giám_đốc vietjet_air biết
+3,thương_vụ đánh_dấu thương_vụ mua máy_bay lớn thứ hai vietjet_air nhà_sản_xuất hàng_đầu thế_giới
+4,ngày 10/11/2015 lãnh_đạo hãng hàng_không vietjet_air tập_đoàn airbus ký bản hợp_đồng đặt mua thêm 30 máy_bay a321 21 a321neo 9 a321ceo thế_hệ mới tổng giá_trị công_bố 36 tỷ usd
+5,bên cạnh hợp_đồng ký_kết boeing vietjet_air ký hợp_đồng tập_đoàn united_technologies_corp mua động_cơ đội tàu_bay vietjet ký_kết đặt_hàng nhà cung_cấp máy_bay
+6,hợp_đồng ký_kết giá_trị lớn 304 tỷ đô_la mỹ
+7,bản hợp_đồng nói ký triển_lãm hàng_không quốc_tế dubai_airshow 2015
+8,bà nguyễn_thanh_hà chủ_tịch hội_đồng quản_trị vietjet_air liên_tiếp đặt thêm máy_bay thấy tăng_trưởng đột_phá hãng hàng_không về lượng khách vận_chuyển phát_triển đội bay mạng đường_bay

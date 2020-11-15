@@ -1,8 +1,8 @@
 idx, sentence
-0,ngày 315  tổng_cục đường_bộ chính_thức triển_khai dịch_vụ cấp giấy_phép lái_xe quốc_tế qua mạng 
-1,theo đó  người có nhu_cầu cấp giấy_phép lái_xe quốc_tế  gplxqt  có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử của tổng_cục thông_qua 4 bước và có_thể nhận bằng lái_xe thông_qua dịch_vụ chuyển phát nhanh 
-2,dịch_vụ công cấp_độ 4 này được nghiên_cứu  triển_khai trong 5 tháng trước khi chính_thức hoạt_động 
-3,theo lãnh_đạo bộ_gtvt  dịch_vụ này giúp đơn_giản_hoá thủ_tục hành_chính cho người dân  tiết_kiệm chi_phí đi_lại 
-4,để được đăng_ký cấp gplx quốc_tế  người dân cần có gplx bằng vật_liệu pet còn giá_trị sử_dụng và có thông_tin trong cơ_sở dữ_liệu gplx toàn_quốc và chuẩn_bị file dữ_liệu gồm ảnh chụp mặt trước gplx_pet  ảnh chụp hộ_chiếu  trang có ảnh thẻ và nơi sinh  và ảnh chân_dung nền xanh hoặc trắng đồng_thời có tài_khoản ngân_hàng để thanh_toán trực_tuyến 
-5,người đăng_ký có_thể chụp hay tải ảnh chân_dung lên mạng và tạo chữ_ký số hoặc gửi ảnh scan chữ_ký 
-6,sau khi hoàn_tất các bước đăng_ký  người dùng có_thể thiết_lập địa_chỉ để nhận chuyển phát gplx quốc_tế và thanh_toán trực_tuyến các phí bao_gồm phí cấp gplx quốc_tế theo quy_định và phí dịch_vụ chuyển phát  nếu có  
+0,ngày 315 tổng_cục đường_bộ chính_thức triển_khai dịch_vụ cấp giấy_phép lái_xe quốc_tế mạng
+1,người nhu_cầu cấp giấy_phép lái_xe quốc_tế gplxqt đăng_ký khai_báo trang thông_tin điện_tử tổng_cục thông_qua 4 bước nhận bằng lái_xe thông_qua dịch_vụ chuyển phát nhanh
+2,dịch_vụ công cấp_độ 4 nghiên_cứu triển_khai trong 5 tháng chính_thức hoạt_động
+3,lãnh_đạo bộ_gtvt dịch_vụ giúp đơn_giản_hoá thủ_tục hành_chính người dân tiết_kiệm chi_phí đi_lại
+4,đăng_ký cấp gplx quốc_tế người dân gplx bằng vật_liệu pet còn giá_trị sử_dụng thông_tin trong cơ_sở dữ_liệu gplx toàn_quốc chuẩn_bị file dữ_liệu gồm ảnh chụp mặt gplx_pet ảnh chụp hộ_chiếu trang ảnh thẻ sinh ảnh chân_dung nền xanh hoặc trắng đồng_thời tài_khoản ngân_hàng thanh_toán trực_tuyến
+5,người đăng_ký chụp hay tải ảnh chân_dung mạng tạo chữ_ký số hoặc gửi ảnh scan chữ_ký
+6,hoàn_tất bước đăng_ký người dùng thiết_lập địa_chỉ nhận chuyển phát gplx quốc_tế thanh_toán trực_tuyến phí bao_gồm phí cấp gplx quốc_tế quy_định phí dịch_vụ chuyển phát

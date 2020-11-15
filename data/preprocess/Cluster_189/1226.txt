@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 1/6  giới_chức thuỵ_sĩ sẽ khánh_thành đường hầm tàu_hỏa_gothard xuyên dãy núi alpe dài nhất thế_giới  57104 km   nối hai tp erstfeld và bodio 
-1,dự_kiến  tổng_thống pháp francois_hollande  thủ_tướng đức_angela_merkel  thủ_tướng italia_matteo_renzi cùng hơn 1100 khách_mời và 300 nhà_báo quốc_tế sẽ tham_dự sự_kiện này 
-2,đường_hầm gothard gồm hai hầm đơn  mỗi hầm có một tuyến đường_ray  thi_công trong 17 năm 
-3,sau lễ khánh_thành  hầm sẽ đưa vào khai_thác thương_mại tháng 12/2016 
-4,với hạ_tầng hiện_đại  các chuyến tàu khách có_thể đạt vận_tốc lên tới 250 km / h  tương_đương tàu cao_tốc tgv của pháp   các chuyến tàu hàng có_thể đạt tới 160 km / h 
-5,cụ_thể  thời_gian đi từ tp zurich  thụy_sĩ  đến milan  italia  sẽ chỉ còn 60 phút so với 150 phút  đi từ hamburg  đức  đến rome còn 145 giờ  thay_vì 175 giờ 
-6,ước_tính  đường_hầm gothard phục_vụ trung_bình 65 triệu lượt khách / năm  với 50  80 tàu chở khách mỗi ngày qua hầm 
-7,hàng hóa_ước đạt 49 triệu tấn / năm với khoảng 220  260 chuyến tàu hàng mỗi ngày 
+0,ngày 1/6 giới_chức thuỵ_sĩ khánh_thành đường hầm tàu_hỏa_gothard xuyên dãy núi alpe dài nhất thế_giới 57104 km nối hai tp erstfeld bodio
+1,dự_kiến tổng_thống pháp francois_hollande thủ_tướng đức_angela_merkel thủ_tướng italia_matteo_renzi hơn 1100 khách_mời 300 nhà_báo quốc_tế tham_dự sự_kiện
+2,đường_hầm gothard gồm hai hầm đơn hầm một tuyến đường_ray thi_công trong 17 năm
+3,lễ khánh_thành hầm đưa khai_thác thương_mại tháng 12/2016
+4,hạ_tầng hiện_đại chuyến tàu khách đạt vận_tốc tới 250 km / h tương_đương tàu cao_tốc tgv pháp chuyến tàu hàng đạt tới 160 km / h
+5,cụ_thể thời_gian đi tp zurich thụy_sĩ đến milan italia còn 60 phút 150 phút đi hamburg đức đến rome còn 145 giờ thay_vì 175 giờ
+6,ước_tính đường_hầm gothard phục_vụ trung_bình 65 triệu lượt khách / năm 50 80 tàu chở khách ngày hầm
+7,hàng hóa_ước đạt 49 triệu tấn / năm khoảng 220 260 chuyến tàu hàng ngày

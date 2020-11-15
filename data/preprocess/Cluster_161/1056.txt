@@ -1,37 +1,37 @@
 idx, sentence
-0,“ ước_tính tới nay chúng_tôi bị thiệt_hại hàng chục tỉ đồng vì đội quản_lý thị_trường  qltt  số 14  chi_cục qltt tp hà_nội  đưa thông_tin cho báo_chí rằng sản_phẩm của chúng_tôi chứa_chất cấm  chất gây ung_thư ”  ông lưu_minh_sang  chủ cơ_sở chế_biến thực_phẩm việt  vietfoods  bình_dương  bức_xúc thốt lên khi trao_đổi với pv pháp_luật_tphcm
-1,thiệt_hại quá nặng_nề theo ông sang  vietfoods đã phải ngưng sản_xuất hơn một tháng qua 
-2,nếu_như trước  trung_bình mỗi tháng vietfoods xuất ra thị_trường gần 100 tấn sản_phẩm thì từ khi xảy ra sự_cố  trên 100 công_nhân phải nghỉ_việc  hàng trong kho không tiêu_thụ được  hàng_hóa bị các đại_lý trả về vì người tiêu_dùng quay lưng với sản_phẩm 
-3,vì không có kho lớn để chứa nên hàng chục tấn sản_phẩm trả về từ các đại_lý đều hư_hỏng  phải bán làm thức_ăn cho cá 
-4,“ thậm_chí có những khách_hàng nợ cả tỉ lấy lý_do xúc_xích có chất gây ung_thư nên không chịu thanh_toán tiền hàng ”  ông sang chua_chát và kể tiếp  “ thời_điểm này cơ_sở bắt_đầu cho công_nhân sản_xuất trở_lại nhưng sản_lượng đưa ra thị_trường chỉ bằng 1/10 do hệ_thống phân_phối  niềm tin của người tiêu_dùng chưa_thể phục_hồi ” 
-5,theo ông sang  sau khi có kết_luận của cục an_toàn thực_phẩm  bộ y_tế  khẳng_định sản_phẩm vietfoods an_toàn cho người sử_dụng  chiều 235  chi_cục qltt tp hà_nội đã ra quyết_định trả lô hàng 22 tấn xúc_xích bị tạm giữ  niêm_phong mà vietfoods bán cho công_ty tnhh hùng_anh  hà_nội  
-6,tuy_nhiên  sau hơn một tháng bị tạm giữ  phần_lớn sản_phẩm trong lô hàng này đã hết và gần hết hạn sử_dụng 
-7,cũng theo ông sang  dù quyết_định trả tang_vật tạm giữ của chi_cục qltt tp hà_nội nêu rõ lý_do “ doanh_nghiệp không có hành_vi vi_phạm hành_chính  ” nhưng đến nay cơ_quan này vẫn chưa hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods 
-8,“ lúc vừa kiểm_tra  qltt vội_vàng công_bố sản_phẩm của chúng_tôi có chất cấm  chất gây ung_thư trên báo_chí gây hoang_mang cho người tiêu_dùng  gây thiệt_hại nặng_nề cho chúng_tôi 
-9,nhưng khi có kết_luận chính_thức  họ trả hàng không một lời xin_lỗi và còn cho rằng đã làm đúng quy_trình ”  ông sang bức_xúc 
-10,ông sang cho biết đã gửi đơn yêu_cầu chi_cục qltt tp hà_nội hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods  yêu_cầu đội_trưởng đội qltt_số 14 phải có trách_nhiệm xin_lỗi  đính_chính thông_tin trên các phương_tiện truyền_thông 
-11,“ nếu qltt tp hà_nội cũng như cán_bộ làm sai không thừa_nhận sai_phạm  chúng_tôi sẽ khởi_kiện ra tòa ”  ông sang khẳng_định 
-12,báo_chí dẫn lời không chính_xác 
-13,trong khi đó  trả_lời pv pháp_luật tphcm ngày 305  ông hoàng_đại_nghĩa  đội_trưởng đội qltt_số 14  đơn_vị trực_tiếp giữ lô hàng 22 tấn hotdog  xúc_xích của vietfoods  vẫn cho rằng khi tạm giữ lô hàng  lực_lượng qltt “ đã nghiên_cứu kỹ và có đủ cơ_sở ” 
-14,theo ông nghĩa  theo kết_quả kiểm_nghiệm của viện kiểm_nghiệm vệ_sinh an_toàn thực_phẩm quốc_gia  bộ y_tế   bốn mẫu sản_phẩm trong lô hàng trên chứa_chất natri nitrat 251 
-15,đây là chất giữ màu  chất bảo_quản  nếu sử_dụng trong thực_phẩm chế_biến qua nhiệt như rán  nướng thì sẽ chuyển thành một dạng chất khác có_thể là tác_nhân gây ra ung_thư 
-16,“ tôi khẳng_định không nói vietfoods sản_xuất hàng_hóa gây ung_thư mà chỉ nói chất natri nitrat 251 có_thể là tác_nhân gây ung_thư như_là một cảnh_báo đến người tiêu_dùng 
-17,nhiều tờ báo đã dẫn lời của tôi nói lô hàng vietfoods gây ung_thư là chưa chính_xác ”  ông nghĩa phân_bua 
-18,làm thay công_việc của đoàn kiểm_tra liên_ngành 
-19,từ vụ_việc trên  một vấn_đề pháp_lý cần đặt ra  theo quy_định hiện_hành  cơ_quan qltt có quyền kiểm_tra  lấy mẫu xét_nghiệm  công_bố thông_tin về chất_lượng thực_phẩm lưu_thông trên thị_trường 
-20,trao_đổi  nhiều chuyên_gia cho biết  theo luật_an_toàn thực_phẩm và các văn_bản hướng_dẫn thì ba ngành y_tế  nnptnt  công_thương đều có quyền kiểm_tra chất_lượng thực_phẩm lưu_thông ngoài thị_trường trong phạm_vi quản_lý 
-21,như_vậy  cơ_quan qltt  ngành công_thương  cũng có quyền kiểm_tra sản_phẩm thực_phẩm lưu_thông trên thị_trường 
-22,tuy_nhiên  với việc lấy mẫu xét_nghiệm  theo thông_tư 14/2011 của bộ y_tế  yêu_cầu bắt_buộc là người lấy mẫu phải là thành_viên của đoàn thanh_tra  kiểm_tra 
-23,trên thực_tế việc lấy mẫu xét_nghiệm và công_bố tên cơ_sở sản_xuất  kinh_doanh thực_phẩm sai_phạm thường là công_việc của đoàn kiểm_tra liên_ngành  gồm ba ngành y_tế  công_thương  nnptnt  
-24,ông phan_hoàn_kiếm  chi_cục_trưởng chi_cục qltt tphcm  khẳng_định  qltt tphcm không có chức_năng lấy mẫu thực_phẩm xét_nghiệm  cũng như không có chức_năng công_bố tên cơ_sở sản_xuất  kinh_doanh thực_phẩm sai_phạm 
-25,“ qltt chỉ kiểm_tra hóa_đơn  chứng_từ hàng_hóa lưu_thông ngoài thị_trường 
-26,đối_với thực_phẩm  nếu nghi_ngờ chất_lượng không đảm_bảo an_toàn vệ_sinh thực_phẩm thì qltt báo_cáo cho ban_chỉ_đạo liên_ngành về an_toàn vệ_sinh thực_phẩm tp để nơi đây tổ_chức đoàn kiểm_tra liên_ngành 
-27,đoàn kiểm_tra này có trách_nhiệm lấy mẫu thực_phẩm xét_nghiệm và công_bố nếu có sai_phạm ”  ông kiếm nói 
-28,ông nguyễn_thành_danh  phó chi_cục_trưởng chi_cục qltt tỉnh bình_dương  cũng cho biết việc qltt đơn_phương lấy mẫu sản_phẩm xét_nghiệm chất_lượng cũng như công_bố tên cơ_sở sản_xuất  kinh_doanh thực_phẩm sai_phạm là chưa đúng chức_năng mà cần có sự phối_hợp liên_ngành cùng sự tham_vấn chuyên_môn của đơn_vị phụ_trách 
-29,ông danh cũng cho biết thêm là sau thông_tin nghi_ngờ vietfoods sử_dụng chất cấm  bình_dương đã lập đoàn liên_ngành kiểm_tra cơ_sở sản_xuất của vietfoods 
-30,kết_luận sau khi kiểm_tra khẳng_định vietfoods không có vi_phạm 
-31,như_vậy  việc đội_qltt_số 14 đơn_phương công_bố thông_tin sản_phẩm xúc_xích của vietfoods có chứa_chất cấm  chất gây ung_thư và việc qltt tp hà_hội đơn_phương lấy mẫu sản_phẩm của vietfoods đi xét_nghiệm mà không báo_cáo ban_chỉ_đạo liên_ngành về an_toàn vệ_sinh thực_phẩm lập đoàn kiểm_tra liên_ngành là “ có vấn_đề ” 
-32,vi_phạm trong công_bố thông_tin một vấn_đề khác cũng cần đặt ra  quy_định hiện_hành về việc công_bố thông_tin thực_phẩm không đảm_bảo an_toàn thực_phẩm ra_sao 
-33,luật_sư phạm_minh_tâm  đoàn luật_sư tphcm  cho biết  khoản 4 điều 68 luật_an_toàn thực_phẩm quy_định việc kiểm_tra an_toàn thực_phẩm phải bảo_đảm nguyên_tắc bí_mật khi chưa có kết_luận chính_thức 
-34,điều 72 luật xử_lý vi_phạm hành_chính quy_định nếu vi_phạm hành_chính về an_toàn thực_phẩm mà gây hậu_quả lớn hoặc gây ảnh_hưởng xấu về dư_luận xã_hội thì cơ_quan của người có thẩm_quyền xử_phạt vi_phạm hành_chính có trách_nhiệm công_bố công_khai về việc xử_phạt 
-35,nội_dung công_bố gồm hành_vi vi_phạm  hình_thức xử_phạt và biện_pháp khắc_phục hậu_quả  như_vậy  có_thể hiểu việc công_bố thông_tin chỉ được thực_hiện khi đã xác_định có hành_vi vi_phạm  quyết_định xử_phạt và hình_thức xử_phạt 
+0,“ ước_tính tới nay chúng_tôi thiệt_hại hàng chục tỉ đồng đội quản_lý thị_trường qltt số 14 chi_cục qltt tp hà_nội đưa thông_tin báo_chí sản_phẩm chúng_tôi chứa_chất cấm chất gây ung_thư ” ông lưu_minh_sang chủ cơ_sở chế_biến thực_phẩm việt vietfoods bình_dương bức_xúc thốt trao_đổi pv pháp_luật_tphcm
+1,thiệt_hại quá nặng_nề ông sang vietfoods ngưng sản_xuất hơn một tháng
+2,nếu_như trung_bình tháng vietfoods xuất thị_trường gần 100 tấn sản_phẩm xảy sự_cố 100 công_nhân nghỉ_việc hàng trong kho tiêu_thụ hàng_hóa đại_lý trả về người tiêu_dùng quay lưng sản_phẩm
+3,kho lớn chứa hàng chục tấn sản_phẩm trả về đại_lý hư_hỏng bán làm thức_ăn cá
+4,“ thậm_chí khách_hàng nợ tỉ lấy lý_do xúc_xích chất gây ung_thư chịu thanh_toán tiền hàng ” ông sang chua_chát kể tiếp “ thời_điểm cơ_sở bắt_đầu công_nhân sản_xuất trở_lại sản_lượng đưa thị_trường bằng 1/10 hệ_thống phân_phối niềm tin người tiêu_dùng chưa_thể phục_hồi ”
+5,ông sang kết_luận cục an_toàn thực_phẩm bộ y_tế khẳng_định sản_phẩm vietfoods an_toàn người sử_dụng chiều 235 chi_cục qltt tp hà_nội quyết_định trả lô hàng 22 tấn xúc_xích tạm giữ niêm_phong vietfoods bán công_ty tnhh hùng_anh hà_nội
+6,tuy_nhiên hơn một tháng tạm giữ phần_lớn sản_phẩm trong lô hàng hết gần hết hạn sử_dụng
+7,ông sang dù quyết_định trả tang_vật tạm giữ chi_cục qltt tp hà_nội nêu rõ lý_do “ doanh_nghiệp hành_vi vi_phạm hành_chính ” đến nay cơ_quan hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods
+8,“ kiểm_tra qltt vội_vàng công_bố sản_phẩm chúng_tôi chất cấm chất gây ung_thư báo_chí gây hoang_mang người tiêu_dùng gây thiệt_hại nặng_nề chúng_tôi
+9,kết_luận chính_thức họ trả hàng một lời xin_lỗi còn làm đúng quy_trình ” ông sang bức_xúc
+10,ông sang biết gửi đơn yêu_cầu chi_cục qltt tp hà_nội hủy_bỏ biên_bản vi_phạm hành_chính đối_với vietfoods yêu_cầu đội_trưởng đội qltt_số 14 trách_nhiệm xin_lỗi đính_chính thông_tin phương_tiện truyền_thông
+11,“ qltt tp hà_nội cán_bộ làm sai thừa_nhận sai_phạm chúng_tôi khởi_kiện tòa ” ông sang khẳng_định
+12,báo_chí dẫn lời chính_xác
+13,trong trả_lời pv pháp_luật tphcm ngày 305 ông hoàng_đại_nghĩa đội_trưởng đội qltt_số 14 đơn_vị trực_tiếp giữ lô hàng 22 tấn hotdog xúc_xích vietfoods tạm giữ lô hàng lực_lượng qltt “ nghiên_cứu kỹ đủ cơ_sở ”
+14,ông nghĩa kết_quả kiểm_nghiệm viện kiểm_nghiệm vệ_sinh an_toàn thực_phẩm quốc_gia bộ y_tế bốn mẫu sản_phẩm trong lô hàng chứa_chất natri nitrat 251
+15,chất giữ màu chất bảo_quản sử_dụng trong thực_phẩm chế_biến nhiệt rán nướng chuyển thành một dạng chất khác tác_nhân gây ung_thư
+16,“ tôi khẳng_định nói vietfoods sản_xuất hàng_hóa gây ung_thư nói chất natri nitrat 251 tác_nhân gây ung_thư như_là một cảnh_báo đến người tiêu_dùng
+17,tờ báo dẫn lời tôi nói lô hàng vietfoods gây ung_thư chính_xác ” ông nghĩa phân_bua
+18,làm thay công_việc đoàn kiểm_tra liên_ngành
+19,vụ_việc một vấn_đề pháp_lý đặt quy_định hiện_hành cơ_quan qltt quyền kiểm_tra lấy mẫu xét_nghiệm công_bố thông_tin về chất_lượng thực_phẩm lưu_thông thị_trường
+20,trao_đổi chuyên_gia biết luật_an_toàn thực_phẩm văn_bản hướng_dẫn ba ngành y_tế nnptnt công_thương quyền kiểm_tra chất_lượng thực_phẩm lưu_thông ngoài thị_trường trong phạm_vi quản_lý
+21,như_vậy cơ_quan qltt ngành công_thương quyền kiểm_tra sản_phẩm thực_phẩm lưu_thông thị_trường
+22,tuy_nhiên lấy mẫu xét_nghiệm thông_tư 14/2011 bộ y_tế yêu_cầu bắt_buộc người lấy mẫu thành_viên đoàn thanh_tra kiểm_tra
+23,thực_tế lấy mẫu xét_nghiệm công_bố tên cơ_sở sản_xuất kinh_doanh thực_phẩm sai_phạm thường công_việc đoàn kiểm_tra liên_ngành gồm ba ngành y_tế công_thương nnptnt
+24,ông phan_hoàn_kiếm chi_cục_trưởng chi_cục qltt tphcm khẳng_định qltt tphcm chức_năng lấy mẫu thực_phẩm xét_nghiệm chức_năng công_bố tên cơ_sở sản_xuất kinh_doanh thực_phẩm sai_phạm
+25,“ qltt kiểm_tra hóa_đơn chứng_từ hàng_hóa lưu_thông ngoài thị_trường
+26,đối_với thực_phẩm nghi_ngờ chất_lượng đảm_bảo an_toàn vệ_sinh thực_phẩm qltt báo_cáo ban_chỉ_đạo liên_ngành về an_toàn vệ_sinh thực_phẩm tp tổ_chức đoàn kiểm_tra liên_ngành
+27,đoàn kiểm_tra trách_nhiệm lấy mẫu thực_phẩm xét_nghiệm công_bố sai_phạm ” ông kiếm nói
+28,ông nguyễn_thành_danh phó chi_cục_trưởng chi_cục qltt tỉnh bình_dương biết qltt đơn_phương lấy mẫu sản_phẩm xét_nghiệm chất_lượng công_bố tên cơ_sở sản_xuất kinh_doanh thực_phẩm sai_phạm đúng chức_năng phối_hợp liên_ngành tham_vấn chuyên_môn đơn_vị phụ_trách
+29,ông danh biết thêm thông_tin nghi_ngờ vietfoods sử_dụng chất cấm bình_dương lập đoàn liên_ngành kiểm_tra cơ_sở sản_xuất vietfoods
+30,kết_luận kiểm_tra khẳng_định vietfoods vi_phạm
+31,như_vậy đội_qltt_số 14 đơn_phương công_bố thông_tin sản_phẩm xúc_xích vietfoods chứa_chất cấm chất gây ung_thư qltt tp hà_hội đơn_phương lấy mẫu sản_phẩm vietfoods đi xét_nghiệm báo_cáo ban_chỉ_đạo liên_ngành về an_toàn vệ_sinh thực_phẩm lập đoàn kiểm_tra liên_ngành “ vấn_đề ”
+32,vi_phạm trong công_bố thông_tin một vấn_đề khác đặt quy_định hiện_hành về công_bố thông_tin thực_phẩm đảm_bảo an_toàn thực_phẩm ra_sao
+33,luật_sư phạm_minh_tâm đoàn luật_sư tphcm biết khoản 4 68 luật_an_toàn thực_phẩm quy_định kiểm_tra an_toàn thực_phẩm bảo_đảm nguyên_tắc bí_mật kết_luận chính_thức
+34,72 luật xử_lý vi_phạm hành_chính quy_định vi_phạm hành_chính về an_toàn thực_phẩm gây hậu_quả lớn hoặc gây ảnh_hưởng xấu về dư_luận xã_hội cơ_quan người thẩm_quyền xử_phạt vi_phạm hành_chính trách_nhiệm công_bố công_khai về xử_phạt
+35,nội_dung công_bố gồm hành_vi vi_phạm hình_thức xử_phạt biện_pháp khắc_phục hậu_quả như_vậy hiểu công_bố thông_tin thực_hiện xác_định hành_vi vi_phạm quyết_định xử_phạt hình_thức xử_phạt

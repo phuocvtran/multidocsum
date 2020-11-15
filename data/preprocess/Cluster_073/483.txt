@@ -1,17 +1,17 @@
 idx, sentence
-0,màn_kịch  lừa_đảo chiếm_đoạt tài_sản tin_tức đăng_tải trên báo_công_an nhân_dân cho hay  ngày 21/5  cơ_quan csđt  công_an tp hà_nội cho biết đã ra_lệnh bắt khẩn_cấp và tạm giữ hình_sự đối_với huỳnh_quang_phong  55 tuổi  trú tại phường lê_đại_hành  quận_hai_bà_trưng  hà_nội  về “ hành_vi lừa_đảo chiếm_đoạt tài_sản ” 
-1,trong 2 ngày 8 và 11/4  chị cao_thị_hằng  quê_quán ở tỉnh nghệ_an  trú tại xã kim_chung  huyện hoài_đức  tp hà_nội và anh nguyễn_hoàng_quang  trú tại phường bưởi  quận tây_hồ  tp hà_nội đã đến phòng cskt  công_an tp hà_nội tố_cáo phong lừa hàng trăm triệu đồng của 2 bị hại nêu trên 
-2,năm 2011  phong quen_biết chị hằng  trong khi anh ta là lao_động tự_do  không có nghề_nghiệp nhất_định  nhưng đã tự nhận mình là chủ_tịch hđqt công_ty xây_dựng 69 hà_nội 
-3,đến tháng 8/2014  phong biết được thông_tin về chị hằng có nhu_cầu xin cho người_nhà là anh võ_duy_hân  trú ở huyện diễn_châu  tỉnh nghệ_an đăng_ký và thi vào học_viện csnd nhưng không đủ điểm  nay muốn xin vào học tại trường_trung_cấp csnd_vi  tại tỉnh hưng_yên  
-4,thấy vậy  phong đã dàn_dựng màn_kịch lo chạy cho anh dân vào trường_trung_cấp csnd với giá 400 triệu đồng 
-5,sau khi thoả_thuận  chị hằng tin_tưởng nên đã 3 lần chuyển tổng_cộng là 400 triệu đồng  mỗi lần nhận tiền_phong đều có giấy biên_nhận  
-6,ngoài_ra  cùng thời_điểm này phong cũng với thủ_đoạn tương_tự còn thoả_thuận với anh quang  là bạn chị hằng  nhận chạy một suất vào trường_trung_cấp cảnh_sát vũ_trang  tại thị_trấn xuân_mai  huyện chương_mỹ  tp hà_nội  cho anh trần_đức_thịnh người_nhà anh quang với giá 380 triệu đồng  anh quang tin là thật nên đã 2 lần chuyển với tổng_số tiền 230 triệu đồng cho phong  số tiền còn lại khi anh thịnh nhập_học sẽ giao nốt 
-7,nhưng thực_tế sau khi phong nhận tiền của 2 bị hại nêu trên  những lời hứa_hẹn vào trường công_an đều không có thật 
-8,đồng_thời các bị hại nhiều lần tìm phong để đòi lại tiền nhưng phong không trả 
-9,biết mình bị lừa nên chị hằng và anh quang đã đến cơ_quan công_an tố_cáo 
-10,trước đó  báo giao_thông cũng đưa tin về một vụ_việc tương_tự khi cán_bộ  rởm  giăng bẫy lừa chạy trường công_an 
-11,cụ_thể  do biết nhà chị hoàng_thị_hà  39 tuổi  trú tại tiểu_khu 7  thị_trấn lương_sơn  lương_sơn  có con trai sắp thi đại_học  để tạo lòng tin  nguyễn_văn_thao  31 tuổi  trú tại xóm hang đồi 1  xã cư_yên  huyện lương_sơn  thường_xuyên mặc quân_phục và đưa chứng_minh_thư cand cho gia_đình chị hà xem 
-12,với tài ăn_nói  thao hứa sẽ có hẳn 1 suất vào thẳng một trường có uy_tín của bộ công_an với giá môi_giới 400 triệu đồng 
-13,sau đó  thao yêu_cầu chị hà đưa trước 1 số tiền  số còn lại sau khi nhập_học sẽ đưa nốt 
-14,nhẹ_dạ cả tin  chị hà hẹn thao tại quán cà_phê thuộc tk6  tt lương_sơn  lương_sơn  hòa_bình để đưa cho thao số tiền trên 
-15,chiều ngày 1/4  cán_bộ công_an đã ập vào quán cà_phê và tiến_hành bắt quả_tang thao đang nhận số tiền 20 triệu đồng 
+0,màn_kịch lừa_đảo chiếm_đoạt tài_sản tin_tức đăng_tải báo_công_an nhân_dân hay ngày 21/5 cơ_quan csđt công_an tp hà_nội biết ra_lệnh bắt khẩn_cấp tạm giữ hình_sự đối_với huỳnh_quang_phong 55 tuổi trú phường lê_đại_hành quận_hai_bà_trưng hà_nội về “ hành_vi lừa_đảo chiếm_đoạt tài_sản ”
+1,trong 2 ngày 8 11/4 chị cao_thị_hằng quê_quán ở tỉnh nghệ_an trú xã kim_chung huyện hoài_đức tp hà_nội anh nguyễn_hoàng_quang trú phường bưởi quận tây_hồ tp hà_nội đến phòng cskt công_an tp hà_nội tố_cáo phong lừa hàng trăm triệu đồng 2 hại nêu
+2,năm 2011 phong quen_biết chị hằng trong anh ta lao_động tự_do nghề_nghiệp nhất_định tự nhận mình chủ_tịch hđqt công_ty xây_dựng 69 hà_nội
+3,đến tháng 8/2014 phong biết thông_tin về chị hằng nhu_cầu xin người_nhà anh võ_duy_hân trú ở huyện diễn_châu tỉnh nghệ_an đăng_ký thi học_viện csnd đủ điểm nay muốn xin học trường_trung_cấp csnd_vi tỉnh hưng_yên
+4,thấy phong dàn_dựng màn_kịch lo chạy anh dân trường_trung_cấp csnd giá 400 triệu đồng
+5,thoả_thuận chị hằng tin_tưởng 3 lần chuyển tổng_cộng 400 triệu đồng lần nhận tiền_phong giấy biên_nhận
+6,ngoài_ra thời_điểm phong thủ_đoạn tương_tự còn thoả_thuận anh quang bạn chị hằng nhận chạy một suất trường_trung_cấp cảnh_sát vũ_trang thị_trấn xuân_mai huyện chương_mỹ tp hà_nội anh trần_đức_thịnh người_nhà anh quang giá 380 triệu đồng anh quang tin thật 2 lần chuyển tổng_số tiền 230 triệu đồng phong số tiền còn anh thịnh nhập_học giao nốt
+7,thực_tế phong nhận tiền 2 hại nêu lời hứa_hẹn trường công_an thật
+8,đồng_thời hại lần tìm phong đòi tiền phong trả
+9,biết mình lừa chị hằng anh quang đến cơ_quan công_an tố_cáo
+10,báo giao_thông đưa tin về một vụ_việc tương_tự cán_bộ rởm giăng bẫy lừa chạy trường công_an
+11,cụ_thể biết nhà chị hoàng_thị_hà 39 tuổi trú tiểu_khu 7 thị_trấn lương_sơn lương_sơn con trai sắp thi đại_học tạo lòng tin nguyễn_văn_thao 31 tuổi trú xóm hang đồi 1 xã cư_yên huyện lương_sơn thường_xuyên mặc quân_phục đưa chứng_minh_thư cand gia_đình chị hà xem
+12,tài ăn_nói thao hứa hẳn 1 suất thẳng một trường uy_tín bộ công_an giá môi_giới 400 triệu đồng
+13,thao yêu_cầu chị hà đưa 1 số tiền số còn nhập_học đưa nốt
+14,nhẹ_dạ tin chị hà hẹn thao quán cà_phê thuộc tk6 tt lương_sơn lương_sơn hòa_bình đưa thao số tiền
+15,chiều ngày 1/4 cán_bộ công_an ập quán cà_phê tiến_hành bắt quả_tang thao nhận số tiền 20 triệu đồng

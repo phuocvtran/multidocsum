@@ -1,11 +1,11 @@
 idx, sentence
-0,trong bài phát_biểu 10 phút được ghi_hình từ trước  nhật_hoàng bày_tỏ lo_ngại rằng  do tuổi_tác và sức_khỏe  ông không_thể hoàn_thành trọng_trách của mình 
-1,nhật hoàng không nói_thẳng muốn thoái_vị  song ông tuyên_bố   khi tôi thấy sức_khỏe của mình ngày_càng suy_giảm  tôi lo_ngại việc hoàn_thành trọng_trách là biểu_tượng của quốc_gia của mình sẽ trở_nên khó_khăn  
-2,nhật hoàng cũng đề_xuất chỉ_định một người nhiếp_chính  có_thể thực_hiện những nghĩa_vụ mà ông không_thể hoàn_thành được 
-3,trong thời_gian gần đây  nhật_hoàng akihito đã giảm bớt việc thực_hiện các nghĩa_vụ chính_thức và người đảm_nhiệm thay ông là thái_tử naruhito  56 tuổi 
-4,tháng trước  đài_nhk của nhật đưa tin  nhật hoàng akihito muốn thoái_vị trong vài năm nữa 
-5,đây là động_thái chưa từng có trong lịch_sử hiện_đại của nhật 
-6,nhật hoàng từng phải điều_trị ung_thư tuyến_tiền_liệt và phải phẫu_thuật tim 
-7,theo hiến_pháp nhật  người đứng đầu hoàng_gia được coi là một biểu_tượng  đoàn_kết nhân_dân  và không có quyền_lực chính_trị 
-8,trước khi nhật hoàng có bài phát_biểu  nhiều người cho rằng ông sẽ tuyên_bố rõ ý_định muốn thoái_vị  ý_định có_thể được hiểu là can_thiệp vào chính_trường 
-9,trong khi đa_phần người dân nhật đều thông_cảm với mong_muốn được  về hưu  của nhật_hoàng  thì những người bảo_thủ ủng_hộ thủ_tướng abe lại phản_đối động_thái này 
+0,trong bài phát_biểu 10 phút ghi_hình nhật_hoàng bày_tỏ lo_ngại tuổi_tác sức_khỏe ông không_thể hoàn_thành trọng_trách mình
+1,nhật hoàng nói_thẳng muốn thoái_vị song ông tuyên_bố tôi thấy sức_khỏe mình ngày_càng suy_giảm tôi lo_ngại hoàn_thành trọng_trách biểu_tượng quốc_gia mình trở_nên khó_khăn
+2,nhật hoàng đề_xuất chỉ_định một người nhiếp_chính thực_hiện nghĩa_vụ ông không_thể hoàn_thành
+3,trong thời_gian gần nhật_hoàng akihito giảm bớt thực_hiện nghĩa_vụ chính_thức người đảm_nhiệm thay ông thái_tử naruhito 56 tuổi
+4,tháng đài_nhk nhật đưa tin nhật hoàng akihito muốn thoái_vị trong vài năm
+5,động_thái trong lịch_sử hiện_đại nhật
+6,nhật hoàng điều_trị ung_thư tuyến_tiền_liệt phẫu_thuật tim
+7,hiến_pháp nhật người đứng đầu hoàng_gia coi một biểu_tượng đoàn_kết nhân_dân quyền_lực chính_trị
+8,nhật hoàng bài phát_biểu người ông tuyên_bố rõ ý_định muốn thoái_vị ý_định hiểu can_thiệp chính_trường
+9,trong đa_phần người dân nhật thông_cảm mong_muốn về hưu nhật_hoàng người bảo_thủ ủng_hộ thủ_tướng abe phản_đối động_thái

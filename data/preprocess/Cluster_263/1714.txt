@@ -1,20 +1,20 @@
 idx, sentence
-0,một nữ phóng_viên canada đặt câu hỏi cho ngoại_trưởng canada_stéphane_dion trong buổi họp_báo chung với ngoại_trưởng trung_quốc_vương_nghị tại thủ_đô ottawa ngày 16  theo tờ the_new_york_times  mỹ  ngày 26 
-1,“ có nhiều mối quan_ngại về vấn_đề nhân_quyền của trung_quốc  chẳng_hạn việc bắt_giữ những người buôn sách hồng_kông  bắt_giữ vợ_chồng người canada là kevin_garratt và julia_dawn_garratt  chưa kể đến tham_vọng bành_trướng lãnh_thổ trên biển_đông 
-2,với những mối quan_ngại như vậy  tại_sao canada muốn thắt chặt quan_hệ với trung_quốc  ông có kế_hoạch gì để sử_dụng mối quan_hệ hai nước nhằm cải_thiện tình_hình_nhân_quyền và an_ninh trong khu_vực  và liệu ông sẽ đề_cập đến vụ vợ_chồng garratt trong những phiên thảo_luận với ngoại_trưởng trung_quốc hôm_nay  ”  nữ phóng_viên canada hỏi ông dion 
-3,vợ_chồng nhà garratt bị bắt_giữ ở trung_quốc vào năm 2014 
-4,bà julia sau đó được tại ngoại hầu_tra  nhưng vào tháng 12015 ông kevin bị buộc_tội gián_điệp và trộm bí_mật quốc_gia trong lúc ông sống ở trung_quốc  tại khu_vực gần biên_giới triều_tiên  nhưng gia_đình ông bác_bỏ cáo_buộc này 
-5,dù phóng_viên canada đặt câu hỏi cho ngoại_trưởng canada  nhưng ông vương lại lên_tiếng trả_lời bằng giọng_điệu hằn_học  gọi nữ phóng_viên là kiêu_ngạo và có định_kiến với trung_quốc  theo nhận_định của the new_york_times 
-6,“ tôi muốn trả_lời những câu hỏi phóng_viên vừa nêu về trung_quốc 
-7,câu_hỏi của cô mang đầy tính định_kiến về trung_quốc và sự kiêu_ngạo xuất_phát từ đâu tôi cũng không biết 
-8,điều này hoàn_toàn không_thể chấp_nhận được với tôi 
-9,cô có hiểu trung_quốc không 
-10,cô từng đến trung_quốc bao_giờ chưa  … tôi muốn nói cho cô biết đa_số người dân trung_quốc hiểu rõ vấn_đề nhân_quyền  chỉ có cô mới là người không hiểu    
-11,cô không có quyền phát_biểu về vấn_đề này 
-12,người dân trung_quốc có quyền phát_biểu 
-13,vì_thế vui_lòng đừng đặt những câu hỏi thiếu trách_nhiệm như_vậy … ”  ông vương hằn_học nói 
-14,hãng tin the_canadian_press xác_nhận một nữ phóng_viên của trang tin ipolitics đã đưa ra câu hỏi này  nhưng không công_bố danh_tính 
-15,the canadian_press  ipolitics cùng một_số hãng tin khác thỏa_thuận chia_sẻ câu hỏi này và nội_dung trả_lời 
-16,trong một loạt bình_luận trên mạng xã_hội twitter sau đó  ông tony_clement  người_phát_ngôn đảng bảo_thủ  đảng đối_lập  chỉ_trích gay_gắt cách trả_lời của ông vương_nghị  và phê_phán ông dion quá mềm_yếu 
-17,“ đây là một sự sỉ_nhục khi ngoại_trưởng trung_quốc mắng_mỏ phóng_viên canada 
-18,hành_động của ông ta là thô_lỗ và không_thể chấp_nhận được ”  ông clement viết trên twitter 
+0,một nữ phóng_viên canada đặt câu hỏi ngoại_trưởng canada_stéphane_dion trong buổi họp_báo chung ngoại_trưởng trung_quốc_vương_nghị thủ_đô ottawa ngày 16 tờ the_new_york_times mỹ ngày 26
+1,“ mối quan_ngại về vấn_đề nhân_quyền trung_quốc chẳng_hạn bắt_giữ người buôn sách hồng_kông bắt_giữ vợ_chồng người canada kevin_garratt julia_dawn_garratt kể đến tham_vọng bành_trướng lãnh_thổ biển_đông
+2,mối quan_ngại tại_sao canada muốn thắt chặt quan_hệ trung_quốc ông kế_hoạch sử_dụng mối quan_hệ hai nước nhằm cải_thiện tình_hình_nhân_quyền an_ninh trong khu_vực liệu ông đề_cập đến vụ vợ_chồng garratt trong phiên thảo_luận ngoại_trưởng trung_quốc hôm_nay ” nữ phóng_viên canada hỏi ông dion
+3,vợ_chồng nhà garratt bắt_giữ ở trung_quốc năm 2014
+4,bà julia ngoại hầu_tra tháng 12015 ông kevin buộc_tội gián_điệp trộm bí_mật quốc_gia trong ông sống ở trung_quốc khu_vực gần biên_giới triều_tiên gia_đình ông bác_bỏ cáo_buộc
+5,dù phóng_viên canada đặt câu hỏi ngoại_trưởng canada ông vương lên_tiếng trả_lời bằng giọng_điệu hằn_học gọi nữ phóng_viên kiêu_ngạo định_kiến trung_quốc nhận_định the new_york_times
+6,“ tôi muốn trả_lời câu hỏi phóng_viên nêu về trung_quốc
+7,câu_hỏi cô mang đầy tính định_kiến về trung_quốc kiêu_ngạo xuất_phát đâu tôi biết
+8,hoàn_toàn không_thể chấp_nhận tôi
+9,cô hiểu trung_quốc
+10,cô đến trung_quốc bao_giờ … tôi muốn nói cô biết đa_số người dân trung_quốc hiểu rõ vấn_đề nhân_quyền cô mới người hiểu
+11,cô quyền phát_biểu về vấn_đề
+12,người dân trung_quốc quyền phát_biểu
+13,vì_thế vui_lòng đừng đặt câu hỏi thiếu trách_nhiệm như_vậy … ” ông vương hằn_học nói
+14,hãng tin the_canadian_press xác_nhận một nữ phóng_viên trang tin ipolitics đưa câu hỏi công_bố danh_tính
+15,the canadian_press ipolitics một_số hãng tin khác thỏa_thuận chia_sẻ câu hỏi nội_dung trả_lời
+16,trong một loạt bình_luận mạng xã_hội twitter ông tony_clement người_phát_ngôn đảng bảo_thủ đảng đối_lập chỉ_trích gay_gắt cách trả_lời ông vương_nghị phê_phán ông dion quá mềm_yếu
+17,“ một sỉ_nhục ngoại_trưởng trung_quốc mắng_mỏ phóng_viên canada
+18,hành_động ông ta thô_lỗ không_thể chấp_nhận ” ông clement viết twitter

@@ -1,8 +1,8 @@
 idx, sentence
-0,vào ngày thứ_ba vừa_qua  2/8   ông leroy_b_black  đến từ quận egg_harbor  new_jersey  mỹ đã qua_đời vì căn_bệnh ung_thư phổi 
-1,ông hưởng dương 55 tuổi 
-2,ngay sau khi người đàn_ông này qua_đời  nhiều người dân trong khu_vực đã tỏ ra vô_cùng ngạc_nhiên khi thấy có tới 2 bảng cáo_phó của ông trên tờ báo địa_phương press of atlantic_city 
-3,thoạt nhìn  ai cũng nghĩ rằng đó là sự nhầm_lẫn trong việc in_ấn của ban biên_tập tờ báo  thế nhưng  quan_sát kỹ hơn  người_ta mới nhận thấy thực_ra  2 bảng cáo_phó có sự khác_biệt và được đăng bởi 2 người phụ_nữ trong cuộc_đời ông black  một là người vợ hợp_pháp và một là cô nhân_tình lâu năm 
-4,theo thông_tin từ bảng cáo_phó đầu_tiên  ông black đã qua_đời  để lại người vợ thương_yêu  bearetta_harrison_black cùng con_trai  jazz_black 
-5,trong khi đó  bảng cáo_phó thứ 2  thông_tin này có chút khác_biệt với cụm từ  người bạn gái lâu năm  princess_hall  
-6,tờ philly_voice đưa tin một nhân_viên trong nhà_tang_lễ greenidge cho biết nguyên_nhân dẫn tới việc có tới 2 bảng cáo_phó của ông black là do  người vợ muốn viết thế này  cô nhân_tình lại muốn viết thế kia  
+0,ngày thứ_ba vừa_qua 2/8 ông leroy_b_black đến quận egg_harbor new_jersey mỹ qua_đời căn_bệnh ung_thư phổi
+1,ông hưởng dương 55 tuổi
+2,người đàn_ông qua_đời người dân trong khu_vực tỏ vô_cùng ngạc_nhiên thấy tới 2 bảng cáo_phó ông tờ báo địa_phương press of atlantic_city
+3,thoạt nhìn ai nghĩ nhầm_lẫn trong in_ấn ban biên_tập tờ báo thế quan_sát kỹ hơn người_ta mới nhận thấy thực_ra 2 bảng cáo_phó khác_biệt đăng 2 người phụ_nữ trong cuộc_đời ông black một người vợ hợp_pháp một cô nhân_tình lâu năm
+4,thông_tin bảng cáo_phó đầu_tiên ông black qua_đời người vợ thương_yêu bearetta_harrison_black con_trai jazz_black
+5,trong bảng cáo_phó thứ 2 thông_tin chút khác_biệt cụm người bạn gái lâu năm princess_hall
+6,tờ philly_voice đưa tin một nhân_viên trong nhà_tang_lễ greenidge biết nguyên_nhân dẫn tới tới 2 bảng cáo_phó ông black người vợ muốn viết thế cô nhân_tình muốn viết thế kia

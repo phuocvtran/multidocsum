@@ -1,11 +1,11 @@
 idx, sentence
-0,ngôi_sao đến từ nước anh  người nhận được 8 đề_cử nhưng không_thể có_mặt tại lễ trao giải vì đang bận_rộn với chuyến lưu_diễn thế_giới  đã đánh_bại justin_bieber  drake  taylor_swift và the_weeknd để giành giải_thưởng danh_giá nhất trong đêm  nghệ_sỹ của năm  
-1,cô cũng đã mang về giải_thưởng  album top_billboard 200   khi album  25  xuất_sắc vượt qua  purpose  của justin_bieber   x  của ed_sheeran   1989  của taylor_swift và  beauty behind_the_madness  của the_weeknd 
-2,trong một tin nhắn video  adele bày_tỏ sự vui_mừng và gửi lời cảm_ơn tới khán_giả 
-3,justin bieber chiến_thắng ở hạng_mục  nam nghệ_sỹ xuất_sắc  trong khi the_weeknd giành được 8 giải_thưởng  con_số kỷ_lục của một nam nghệ_sỹ  trong đó đáng chú_ý là giải_thưởng  nghệ_sỹ top_hot 100  
-4,trong bài phát_biểu của mình  nam ca sỹ đã dành tặng giải_thưởng này đến huyền_thoại prince quá_cố  ca_ngợi prince là  nguồn cảm_hứng  lớn của mình 
-5,rihanna nhận giải  thành_tựu billboard  sau khi giành đa_số phiếu_bầu của khán_giả trước các đối_thủ drake  adele  little_big_town và the_weeknd 
-6,những cống_hiến trong sự_nghiệp của celine_dion được vinh_danh với giải  billboard biểu_tượng  
-7,nữ diva đã không_thể kiềm được nước_mắt khi nhận chiếc cúp từ chính con_trai mình 
-8,giải_thưởng âm_nhạc billboard được trao_tặng bởi billboard  một tổ_chức xuất_bản và lập bảng xếp_hạng âm_nhạc uy_tín trong ngành công_nghiệp âm_nhạc 
-9,giải được trao thưởng niên kể từ tháng 12/1989 và bị hủy_bỏ vào năm 2007 
+0,ngôi_sao đến nước anh người nhận 8 đề_cử không_thể có_mặt lễ trao giải bận_rộn chuyến lưu_diễn thế_giới đánh_bại justin_bieber drake taylor_swift the_weeknd giành giải_thưởng danh_giá nhất trong đêm nghệ_sỹ năm
+1,cô mang về giải_thưởng album top_billboard 200 album 25 xuất_sắc vượt purpose justin_bieber x ed_sheeran 1989 taylor_swift beauty behind_the_madness the_weeknd
+2,trong một tin nhắn video adele bày_tỏ vui_mừng gửi lời cảm_ơn tới khán_giả
+3,justin bieber chiến_thắng ở hạng_mục nam nghệ_sỹ xuất_sắc trong the_weeknd giành 8 giải_thưởng con_số kỷ_lục một nam nghệ_sỹ trong đáng chú_ý giải_thưởng nghệ_sỹ top_hot 100
+4,trong bài phát_biểu mình nam ca sỹ dành tặng giải_thưởng đến huyền_thoại prince quá_cố ca_ngợi prince nguồn cảm_hứng lớn mình
+5,rihanna nhận giải thành_tựu billboard giành đa_số phiếu_bầu khán_giả đối_thủ drake adele little_big_town the_weeknd
+6,cống_hiến trong sự_nghiệp celine_dion vinh_danh giải billboard biểu_tượng
+7,nữ diva không_thể kiềm nước_mắt nhận cúp chính con_trai mình
+8,giải_thưởng âm_nhạc billboard trao_tặng billboard một tổ_chức xuất_bản lập bảng xếp_hạng âm_nhạc uy_tín trong ngành công_nghiệp âm_nhạc
+9,giải trao thưởng niên kể tháng 12/1989 hủy_bỏ năm 2007

@@ -1,11 +1,11 @@
 idx, sentence
-0,ngày 1/6/2016  tập_đoàn vingroup  công_ty cổ_phần  mã_vic  đã ký_kết_hợp_tác đợt 1 với gần 240 doanh_nghiệp việt_nam tham_gia chương_trình “ đồng_hành  hỗ_trợ và thúc_đẩy sản_xuất nội_địa ” 
-1,các doanh_nghiệp ký_kết với vingroup thuộc 7 ngành hàng_tiêu_dùng cơ_bản là thực_phẩm  hóa mỹ_phẩm  vpp đồ_chơi  hàng gia_dụng  hàng thực_phẩm tươi_sống  thời_trang  bông vải_sợi đến từ 18 tỉnh  thành trên cả nước 
-2,ông lê_khắc_hiệp  phó chủ_tịch vingroup  cho biết có hơn 140 doanh_nghiệp đã ký_kết_hợp_tác về phân_phối 
-3,cụ_thể  trong vòng một năm  bắt_đầu từ 1/6/2016  các doanh_nghiệp này sẽ được vingroup hỗ_trợ đưa hàng vào hệ_thống siêu_thị vinmart và vinmart  
-4,riêng các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như thịt  cá  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu bằng 0  
-5,điều này đồng_nghĩa  vingroup sẽ hoàn_trả toàn_bộ phần chiết_khấu cho nhà cung_cấp khi bán theo đúng mức giá công_bố thông_thường  nhằm tạo thêm nguồn kinh_phí để doanh_nghiệp tái_đầu_tư vào chất_lượng sản_phẩm và có thêm điều_kiện thực_hiện nghiêm_ngặt các tiêu_chuẩn  quy_định về an_toàn  vệ_sinh thực_phẩm 
-6,tập_đoàn này cũng khuyến_khích các nhà_cung_cấp điều_chỉnh giảm giá bán để hỗ_trợ người tiêu_dùng 
-7,ngoài_ra  có gần 100 doanh_nghiệp còn lại ký_kết_hợp_tác với vingroup nhằm tăng_cường hiện_diện thương_hiệu trong hệ_thống siêu_thị của tập_đoàn này 
-8,bên_cạnh đó  thông_qua việc liên_doanh  liên_kết với các đơn_vị thuộc vingroup  các doanh_nghiệp sẽ được tập_đoàn này hỗ_trợ về công_nghệ  quản_trị  hệ_thống kiểm_soát chất_lượng 
-9,đồng_thời  vingroup sẽ tham_gia góp vốn nếu doanh_nghiệp có nhu_cầu nhằm tối_ưu_hóa sản_xuất 
+0,ngày 1/6/2016 tập_đoàn vingroup công_ty cổ_phần mã_vic ký_kết_hợp_tác đợt 1 gần 240 doanh_nghiệp việt_nam tham_gia chương_trình “ đồng_hành hỗ_trợ thúc_đẩy sản_xuất nội_địa ”
+1,doanh_nghiệp ký_kết vingroup thuộc 7 ngành hàng_tiêu_dùng cơ_bản thực_phẩm hóa mỹ_phẩm vpp đồ_chơi hàng gia_dụng hàng thực_phẩm tươi_sống thời_trang bông vải_sợi đến 18 tỉnh thành nước
+2,ông lê_khắc_hiệp phó chủ_tịch vingroup biết hơn 140 doanh_nghiệp ký_kết_hợp_tác về phân_phối
+3,cụ_thể trong vòng một năm bắt_đầu 1/6/2016 doanh_nghiệp vingroup hỗ_trợ đưa hàng hệ_thống siêu_thị vinmart vinmart
+4,riêng doanh_nghiệp cung_ứng thực_phẩm đặc_biệt thực_phẩm tươi_sống thịt cá gia_cầm rau củ quả trái_cây … hưởng mức chiết_khấu bằng 0
+5,đồng_nghĩa vingroup hoàn_trả toàn_bộ phần chiết_khấu nhà cung_cấp bán đúng mức giá công_bố thông_thường nhằm tạo thêm nguồn kinh_phí doanh_nghiệp tái_đầu_tư chất_lượng sản_phẩm thêm điều_kiện thực_hiện nghiêm_ngặt tiêu_chuẩn quy_định về an_toàn vệ_sinh thực_phẩm
+6,tập_đoàn khuyến_khích nhà_cung_cấp điều_chỉnh giảm giá bán hỗ_trợ người tiêu_dùng
+7,ngoài_ra gần 100 doanh_nghiệp còn ký_kết_hợp_tác vingroup nhằm tăng_cường hiện_diện thương_hiệu trong hệ_thống siêu_thị tập_đoàn
+8,bên_cạnh thông_qua liên_doanh liên_kết đơn_vị thuộc vingroup doanh_nghiệp tập_đoàn hỗ_trợ về công_nghệ quản_trị hệ_thống kiểm_soát chất_lượng
+9,đồng_thời vingroup tham_gia góp vốn doanh_nghiệp nhu_cầu nhằm tối_ưu_hóa sản_xuất

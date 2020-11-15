@@ -1,15 +1,15 @@
 idx, sentence
-0,đây là dự_án đầu_tiên của việt_nam trong lĩnh_vực sản_xuất  chế_biến sữa tại nga  quốc_gia có truyền_thống lâu_đời về sử_dụng sữa  các sản_phẩm từ sữa  và là dự_án của việt_nam có vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại 
-1,tham_dự lễ khởi_công dự_án có thủ_tướng chính_phủ nguyễn_xuân_phúc  phó_thủ_tướng  bộ_trưởng bộ ngoại_giao phạm_bình_minh  bộ_trưởng bộ nông_nghiệp_liên_nang_nga_nikolay_fyodorov  thống_đốc tỉnh moscow_andrey_vorobiev_iu và lãnh_đạo các bộ  ngành của 2 nước 
-2,ngoài_ra  chứng_kiến buổi lễ còn có đại_diện sứ_quán 15 nước trong đó có 10 sứ_quán của 10 nước asean 
-3,tại lễ khởi_công  bà thái_hương  chủ_tịch tập_đoàn th đã chính_thức tuyên_bố khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại tỉnh moscow với mức đầu_tư 500 triệu usd  giai_đoạn 1 của dự_án tại liên_bang_nga 
-4,dự_kiến vào giữa năm 2017  sản_phẩm sữa_tươi sạch mang thương_hiệu th_truemilk đầu_tiên sẽ ra_mắt tại xứ_sở bạch_dương 
-5,đây là giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tập_trung quy_mô công_nghiệp và một_số dự_án về thực_phẩm với tổng vốn đầu_tư là 27 tỷ usd tại liên_bang_nga 
-6,trong đó  dự_án sữa triển_khai theo 3 giai_đoạn 
-7,khi hoàn_thành dự_án ở giai_đoạn 3  tổng_số đàn bò dự_kiến là 350000 con với tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
-8,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng th_truemart trên toàn nước nga 
-9,dự_án tại tỉnh moscow sẽ sản_xuất các sản_phẩm sữa_tươi sạch  chất_lượng cao  cung_cấp cho người tiêu_dùng tỉnh moscow và liên_bang nga theo chuỗi sản_phẩm từ đồng_cỏ xanh tới ly sữa sạch  chăn_nuôi bò sữa  chế_biến sữa_tươi và phân_phối đến người tiêu_dùng   đáp_ứng nhu_cầu của người dân nga  từng bước giảm dần sự phụ_thuộc vào nguồn sữa bên ngoài  cũng như tiết_kiệm được một lượng lớn ngoại_tệ từ việc nhập_khẩu sữa và các sản_phẩm từ sữa hàng năm 
-10,tại lễ khởi_công  thủ_tướng chính_phủ nguyễn_xuân_phúc khẳng_định  “ nga là thị_trường tiêu thị sữa lớn  đầy tiềm_năng 
-11,việc triển_khai d án tại tỉnh moscow góp_phần quan_trọng vào việc phát_triển nông_nghiệp của vùng  tạo thêm công_ăn_việc_làm cho người dân sở_tại  cũng như người lao_động việt_nam tại liên_bang_nga  tạo_dựng hình_ảnh mới về hiệu_quả và sự đa_dạng của các lĩnh_vực hợp_tác giữa việt_nam và nga ” 
-12,thủ_tướng cũng nhấn mạng  dự_án này có ý_nghĩa thực_tiễn rất lớn trong bối_cảnh thực_hiện liên_minh kinh_tế á  âu hiện_nay 
-13,người đứng đầu chính_phủ cũng đánh_giá cao tinh_thần dám nghĩ dám làm của cá_nhân bà thái_hương  chủ_tịch tập_đoàn th với tinh_thần kiên_cường đưa dự_án việt_nam  sản_phẩm việt_nam vào thị_trường nga 
+0,dự_án đầu_tiên việt_nam trong lĩnh_vực sản_xuất chế_biến sữa nga quốc_gia truyền_thống lâu_đời về sử_dụng sữa sản_phẩm sữa dự_án việt_nam vốn đầu_tư lớn nhất tính tới thời_điểm hiện_tại
+1,tham_dự lễ khởi_công dự_án thủ_tướng chính_phủ nguyễn_xuân_phúc phó_thủ_tướng bộ_trưởng bộ ngoại_giao phạm_bình_minh bộ_trưởng bộ nông_nghiệp_liên_nang_nga_nikolay_fyodorov thống_đốc tỉnh moscow_andrey_vorobiev_iu lãnh_đạo bộ ngành 2 nước
+2,ngoài_ra chứng_kiến buổi lễ còn đại_diện sứ_quán 15 nước trong 10 sứ_quán 10 nước asean
+3,lễ khởi_công bà thái_hương chủ_tịch tập_đoàn th chính_thức tuyên_bố khởi_công dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tỉnh moscow mức đầu_tư 500 triệu usd giai_đoạn 1 dự_án liên_bang_nga
+4,dự_kiến giữa năm 2017 sản_phẩm sữa_tươi sạch mang thương_hiệu th_truemilk đầu_tiên ra_mắt xứ_sở bạch_dương
+5,giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tập_trung quy_mô công_nghiệp một_số dự_án về thực_phẩm tổng vốn đầu_tư 27 tỷ usd liên_bang_nga
+6,trong dự_án sữa triển_khai 3 giai_đoạn
+7,hoàn_thành dự_án ở giai_đoạn 3 tổng_số đàn bò dự_kiến 350000 con tổng công_suất chế_biến sữa 5900 tấn / ngày tương_đương gần 1800000 tấn / năm tổng diện_tích vùng nguyên_liệu tập_trung 140000 ha
+8,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng th_truemart toàn nước nga
+9,dự_án tỉnh moscow sản_xuất sản_phẩm sữa_tươi sạch chất_lượng cao cung_cấp người tiêu_dùng tỉnh moscow liên_bang nga chuỗi sản_phẩm đồng_cỏ xanh tới ly sữa sạch chăn_nuôi bò sữa chế_biến sữa_tươi phân_phối đến người tiêu_dùng đáp_ứng nhu_cầu người dân nga bước giảm dần phụ_thuộc nguồn sữa bên ngoài tiết_kiệm một lượng lớn ngoại_tệ nhập_khẩu sữa sản_phẩm sữa hàng năm
+10,lễ khởi_công thủ_tướng chính_phủ nguyễn_xuân_phúc khẳng_định “ nga thị_trường tiêu thị sữa lớn đầy tiềm_năng
+11,triển_khai d án tỉnh moscow góp_phần quan_trọng phát_triển nông_nghiệp vùng tạo thêm công_ăn_việc_làm người dân sở_tại người lao_động việt_nam liên_bang_nga tạo_dựng hình_ảnh mới về hiệu_quả đa_dạng lĩnh_vực hợp_tác giữa việt_nam nga ”
+12,thủ_tướng nhấn mạng dự_án ý_nghĩa thực_tiễn lớn trong bối_cảnh thực_hiện liên_minh kinh_tế á âu hiện_nay
+13,người đứng đầu chính_phủ đánh_giá cao tinh_thần dám nghĩ dám làm cá_nhân bà thái_hương chủ_tịch tập_đoàn th tinh_thần kiên_cường đưa dự_án việt_nam sản_phẩm việt_nam thị_trường nga

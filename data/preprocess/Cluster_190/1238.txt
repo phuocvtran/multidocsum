@@ -1,6 +1,6 @@
 idx, sentence
-0,cụ_thể  vào khoảng thời_gian trên  chiếc xe ô_tô 7 chỗ nhãn_hiệu fortuner mang bks 30p2153 đang lưu_thông theo hướng đại_cồ việt – xã_đàn  khi đến ngã 4 xã đàn – phạm_ngọc_thạch thì bất_ngờ đâm vào 9 chiếc xe_máy đang dừng đèn_đỏ phía trước 
-1,hậu_quả  nhiều xe_máy bị hư_hỏng nặng và một_số người bị_thương phải đi bệnh_viện điều_trị 
-2,nhận được tin báo  lực_lượng csgt khu_vực đã có_mặt tại hiện_trường để xử_lý vụ_việc và điều_tiết giao_thông 
-3,tại hiện_trường  1 chiếc xe_máy nhãn_hiệu wave vẫn nằm gọn dưới gầm xe ô_tô 7 chỗ và 1 chiếc xe ga nằm đổ nghiêng ngay bánh trước của xe ô_tô này 
-4,theo quan_sát  chiếc xe ô_tô 7 chỗ bị móp méo phần đầu xe phía bên ghế_phụ  bánh sau bên phải của xe bị hết_hơi  nghi do nổ lốp 
+0,cụ_thể khoảng thời_gian xe ô_tô 7 chỗ nhãn_hiệu fortuner mang bks 30p2153 lưu_thông hướng đại_cồ việt – xã_đàn đến ngã 4 xã đàn – phạm_ngọc_thạch bất_ngờ đâm 9 xe_máy dừng đèn_đỏ phía
+1,hậu_quả xe_máy hư_hỏng nặng một_số người bị_thương đi bệnh_viện điều_trị
+2,nhận tin báo lực_lượng csgt khu_vực có_mặt hiện_trường xử_lý vụ_việc điều_tiết giao_thông
+3,hiện_trường 1 xe_máy nhãn_hiệu wave nằm gọn gầm xe ô_tô 7 chỗ 1 xe ga nằm đổ nghiêng bánh xe ô_tô
+4,quan_sát xe ô_tô 7 chỗ móp méo phần đầu xe phía bên ghế_phụ bánh bên xe hết_hơi nghi nổ lốp

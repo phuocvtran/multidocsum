@@ -1,6 +1,6 @@
 idx, sentence
-0,hãng thông_tấn yonhap của hàn_quốc ngày 19/5 đưa tin  đã xảy ra các vụ nổ khí ga kèm theo cháy tại căn_cứ quân_sự của mỹ ở khu_vực đông_nam hàn_quốc 
-1,theo đó  khoảng 10 vụ nổ khí ga liên_tiếp đã xảy ra vào lúc 14 g28  giờ_địa_phương  tại căn_cứ quân_sự caroll  tỉnh gyeongsang 
-2,theo giới_chức địa_phương  15 đơn_vị chữa_cháy đã được điều tới hiện_trường chỉ 30 phút sau khi vụ_việc xảy ra 
-3,các vụ nổ khí nitơ và oxy được cho là nguyên_nhân gây cháy 
-4,tuy_nhiên hiện vẫn chưa xác_định được nguyên_nhân chính_xác 
+0,hãng thông_tấn yonhap hàn_quốc ngày 19/5 đưa tin xảy vụ nổ khí ga kèm cháy căn_cứ quân_sự mỹ ở khu_vực đông_nam hàn_quốc
+1,khoảng 10 vụ nổ khí ga liên_tiếp xảy 14 g28 giờ_địa_phương căn_cứ quân_sự caroll tỉnh gyeongsang
+2,giới_chức địa_phương 15 đơn_vị chữa_cháy tới hiện_trường 30 phút vụ_việc xảy
+3,vụ nổ khí nitơ oxy nguyên_nhân gây cháy
+4,tuy_nhiên hiện xác_định nguyên_nhân chính_xác

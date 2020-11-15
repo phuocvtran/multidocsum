@@ -1,3 +1,3 @@
 idx, sentence
-0,theo đó  vào khoảng 2 h15 ngày 285  lợi_dụng sơ sở trong việc trông_coi  quản_lý đền xã_tắc  2 thanh_niên lạ_mặt đã cạy cửa  đột_nhập vào trong đền  dùng thanh sắt và đục của thợ_mộc phá_hỏng 3 chiếc hòm công_đức  lấy đi khoảng 300 triệu đồng 
-1,hình_ảnh video clip ghi tại hiện_trường cho thấy khá chi_tiết về hai đối_tượng trên  trong đó  đối_tượng thứ nhất khoảng 2530 tuổi  cao khoảng 1 m65  đối_tượng thứ 2 cùng độ tuổi  cao khoảng 1 m70 
+0,khoảng 2 h15 ngày 285 lợi_dụng sơ sở trong trông_coi quản_lý đền xã_tắc 2 thanh_niên lạ_mặt cạy cửa đột_nhập trong đền dùng thanh sắt đục thợ_mộc phá_hỏng 3 hòm công_đức lấy đi khoảng 300 triệu đồng
+1,hình_ảnh video clip ghi hiện_trường thấy khá chi_tiết về hai đối_tượng trong đối_tượng thứ nhất khoảng 2530 tuổi cao khoảng 1 m65 đối_tượng thứ 2 độ tuổi cao khoảng 1 m70

@@ -1,4 +1,4 @@
 idx, sentence
-0,sau 58 năm chờ_đợi để được chơi ở một giải đấu lớn  wales sẽ tràn_đầy quyết_tâm 
-1,tiền_đạo gareth_bale  26 tuổi ghi tới bảy bàn cho đội_tuyển ở vòng loại euro sẽ được đội_tuyển xứ wales đặt nhiều kỳ_vọng 
-2,danh_sách 23 cầu_thủ  thủ_môn  wayne_hennessey  crystal_palace   daniel_ward  liverpool   owain_fon_williams  inverness_caledonian_this_tle  hậu_vệ  ashley_williams  swansea_city   james_chester  west_bromwich_albion   ben_davies  tottenham_hotspur   james_collins  west_ham_united   chris_gunter  reading   neil_taylor  swansea_city   jazz_richards  fulham  tiền_vệ  joe_ledley  crystal_palace   joe_allen  liverpool   david_vaughan  nottingham_forest   jonathan_williams  crystal_palace   david_edwards  wolverhampton_wanderers   george_williams  fulham   aaron_ramsey  arsenal   andy_king  leicester_city 
+0,58 năm chờ_đợi chơi ở một giải đấu lớn wales tràn_đầy quyết_tâm
+1,tiền_đạo gareth_bale 26 tuổi ghi tới bảy bàn đội_tuyển ở vòng loại euro đội_tuyển xứ wales đặt kỳ_vọng
+2,danh_sách 23 cầu_thủ thủ_môn wayne_hennessey crystal_palace daniel_ward liverpool owain_fon_williams inverness_caledonian_this_tle hậu_vệ ashley_williams swansea_city james_chester west_bromwich_albion ben_davies tottenham_hotspur james_collins west_ham_united chris_gunter reading neil_taylor swansea_city jazz_richards fulham tiền_vệ joe_ledley crystal_palace joe_allen liverpool david_vaughan nottingham_forest jonathan_williams crystal_palace david_edwards wolverhampton_wanderers george_williams fulham aaron_ramsey arsenal andy_king leicester_city

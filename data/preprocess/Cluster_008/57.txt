@@ -1,8 +1,8 @@
 idx, sentence
-0,đối_với các xe_ba bánh  hầu_hết các chủ phương_tiện đều không xuất_trình được thẻ thương_binh  thẻ bảo_hiểm y_tế cho người có công  không có xác_nhận của chính_quyền địa_phương … cũng như các giấy_tờ xe khác 
-1,bên_cạnh đó  lực_lượng chức_năng cũng xử_lý hàng trăm phương_tiện quá  đát   chở hàng cồng_kềnh 
-2,hầu_hết các phương_tiện này đều đã quá_hạn sử_dụng  hư_hỏng đèn còi xe  khung máy hoen_gỉ  chủ phương_tiện cũng không xuất_trình được đăng_ký xe  bảo_hiểm xe  đây không phải lần đầu lực_lượng chức_năng tăng_cường xử_lý  kiểm_tra đối_với các phương_tiện môtô  xe_máy quá  đát   xe giả_danh xe thương_binh  xe chở hàng_hóa cồng_kềnh  nhưng thực_tế  các phương_tiện này vẫn hàng ngày  hàng giờ chạy  nhan_nhản  trên các tuyến phố của thủ_đô  nhất_là quanh các khu chợ đầu_mối  các điểm tập_kết hàng_hóa  các khu dân_cư đông_đúc 
-3,chủ các phương_tiện này thường_xuyên phóng nhanh  vượt đèn_đỏ  chở hàng cồng_kềnh  lấn đường  gây mất an_toàn giao_thông 
-4,trong khi  chất_lượng phương_tiện lại không bảo_đảm  các bộ_phận xe hư_hỏng nhiều 
-5,hầu_hết các xe_ba bánh đều là tự chế từ các xe_máy cũ  không có giấy_tờ  biển kiểm_soát 
-6,đã có nhiều vụ ùn_tắc giao_thông  tai_nạn xảy ra do các xe_máy quá  đát   xe thương_binh phóng nhanh  vượt ẩu  lấn đường  chèn_ép các phương_tiện khác 
+0,đối_với xe_ba bánh hầu_hết chủ phương_tiện xuất_trình thẻ thương_binh thẻ bảo_hiểm y_tế người công xác_nhận chính_quyền địa_phương … giấy_tờ xe khác
+1,bên_cạnh lực_lượng chức_năng xử_lý hàng trăm phương_tiện quá đát chở hàng cồng_kềnh
+2,hầu_hết phương_tiện quá_hạn sử_dụng hư_hỏng đèn còi xe khung máy hoen_gỉ chủ phương_tiện xuất_trình đăng_ký xe bảo_hiểm xe lần đầu lực_lượng chức_năng tăng_cường xử_lý kiểm_tra đối_với phương_tiện môtô xe_máy quá đát xe giả_danh xe thương_binh xe chở hàng_hóa cồng_kềnh thực_tế phương_tiện hàng ngày hàng giờ chạy nhan_nhản tuyến phố thủ_đô nhất_là quanh khu chợ đầu_mối điểm tập_kết hàng_hóa khu dân_cư đông_đúc
+3,chủ phương_tiện thường_xuyên phóng nhanh vượt đèn_đỏ chở hàng cồng_kềnh lấn đường gây mất an_toàn giao_thông
+4,trong chất_lượng phương_tiện bảo_đảm bộ_phận xe hư_hỏng
+5,hầu_hết xe_ba bánh tự chế xe_máy cũ giấy_tờ biển kiểm_soát
+6,vụ ùn_tắc giao_thông tai_nạn xảy xe_máy quá đát xe thương_binh phóng nhanh vượt ẩu lấn đường chèn_ép phương_tiện khác

@@ -1,27 +1,27 @@
 idx, sentence
-0,trước đó  vào hồi 9 h50 ngày 12/12/2015  tổ công_tác của phòng csgt đường_bộ  đường_sắt  công_an hà_nội do trung_tá ngô_văn_thông làm tổ_trưởng được giao nhiệm_vụ tuần_tra  kiểm_soát trên tuyến đường nguyễn_văn_linh  thuộc địa_bàn phường phúc_đồng  quận long_biên  hà_nội 
-1,khi tổ công_tác đang làm nhiệm_vụ tại ngã tư phố sài_đồng  nguyễn_văn_linh thì thượng_úy nguyễn_quốc_đạt  sn 1984  ở thanh_xuân  hn  phát_hiện ô_tô huyndai màu xanh  trọng_tải 125 tấn do đoàn_văn_chuyên vi_phạm giao_thông nên đã ra tín_hiệu yêu_cầu dừng xe kiểm_tra 
-2,chuyên không_những không chấp_hành mà_còn phóng xe lao thẳng vào người_thượng_úy đạt 
-3,thấy vậy  anh đạt đã nhẩy lên bám vào cần gạt nước đầu xe ô_tô 
-4,lúc này  chuyên tiếp_tục nhấn ga  đánh_võng sang trái  sang phải với mục_đích gạt anh csgt xuống xe 
-5,vì trên đường có nhiều phương_tiện đang lưu_thông nên đầu xe_tải do chuyên điều_khiển đã va vào cửa sau bên phải chiếc vios do anh vũ_chí_dũng  sn 1964  thái_nguyên  điều_khiển 
-6,dù_vậy  chuyên vẫn nhất_quyết không dừng lại 
-7,thấy nguy_hiểm đến tính_mạng  anh đạt đã nhiều lần hô lái xe_tải   dừng lại    nhưng chuyên tiếp_tục nhấn ga bỏ chạy và điều_khiển xe đánh_võng  lạng_lách nhằm hất ngã anh đạt xuống_đường 
-8,do bám chặt vào cần gạt nước đầu xe ô_tô nên anh đạt không bị ngã 
-9,khi xe ô_tô của chuyên chạy ngang qua số nhà 465 nguyễn_văn_linh  cách chỗ va_chạm với xe ô_tô vios khoảng 100 m   anh ta tiếp_tục phóng nhanh và đạp phanh gấp làm anh đạt ngã xuống_đường 
-10,khi thượng_úy csgt vừa ngã xuống đường  chuyên điều_khiển xe_tăng ga làm bánh trước và bánh sau ô_tô chèn lên người anh đạt 
-11,sau đó chuyên điều_khiển xe ô_tô bỏ chạy về ngã tư như_quỳnh  huyện văn_lâm  tỉnh hưng_yên và gửi xe ô_tô tại công_ty secoin 
-12,ngay sau đó  anh đạt được đưa vào bệnh_viện cấp_cứu 
-13,các bác sỹ xác_định  nạn_nhân bị gẫy nhiều xương_sườn  gẫy gai đốt_sống  tổn_thương đụng dập nhu_mô phổi  tràn khí  tràn dịch hai bên  tỷ_lệ tổn_hại sức_khỏe của anh csgt được xác_định là 59  
-14,về phía gã lái_xe  sau khi cho xe chạy một_mạch đến hưng_yên  anh_ta nghĩ_lại và đã đến công_an đầu_thú 
-15,bị đưa ra xét_xử_tội giết_người  chuyên tỏ ra thành_khẩn 
-16,anh ta khai  thấy csgt ra tín_hiệu dừng xe  vì sợ quá mà anh ta đã đánh lái sang trái nhằm tẩu_thoát rồi liên_tục rồ ga  đánh lái nhằm mục_đích hất anh csgt đang bám vào cần gạt nước ở trước đầu xe rơi xuống 
-17,là kẻ sở_hữu hai tiền_án  vào tháng 1/2008  chuyên bị tand huyện gia_lâm phạt 15 tháng tù_treo vì tội cướp_giật tài_sản 
-18,thời_gian thử_thách 30 tháng 
-19,chưa hết thời_gian thử_thách  đến tháng 9/2009  chuyên lại tiếp_tục gây_án và bị tand tỉnh văn_giang phạt 1 năm 3 tháng tù về tội trộm_cắp tài_sản 
-20,vì phạm_tội trong khi chưa hết thời_gian thử_thách  bản_án treo 15 tháng tù giam mà tand huyện gia_lâm đã dành cho chuyên đã phải chuyển thành_án tù giam 
-21,như_vậy  tổng_hợp hai bản_án  bị_cáo phải chấp_hành 2 năm  5 tháng tù giam 
-22,đến ngày 30/8/2010  chuyên được đặc_xá 
-23,xin làm lái_xe được hơn 1 năm thì chuyên gây ra chuyện 
-24,con_dại cái mang  bố_mẹ chuyên đã phải chạy_vạy để có được số tiền 130 triệu đồng đền_bù cho gia_đình nạn_nhân 
-25,dường_như quá thất_vọng vì đứa con_trai của mình  giờ nghị_án  cha của chuyên đứng lên buông tiếng thở_dài   việc nó làm thì nó phải chịu  
+0,hồi 9 h50 ngày 12/12/2015 tổ công_tác phòng csgt đường_bộ đường_sắt công_an hà_nội trung_tá ngô_văn_thông làm tổ_trưởng giao nhiệm_vụ tuần_tra kiểm_soát tuyến đường nguyễn_văn_linh thuộc địa_bàn phường phúc_đồng quận long_biên hà_nội
+1,tổ công_tác làm nhiệm_vụ ngã tư phố sài_đồng nguyễn_văn_linh thượng_úy nguyễn_quốc_đạt sn 1984 ở thanh_xuân hn phát_hiện ô_tô huyndai màu xanh trọng_tải 125 tấn đoàn_văn_chuyên vi_phạm giao_thông tín_hiệu yêu_cầu dừng xe kiểm_tra
+2,chuyên không_những chấp_hành mà_còn phóng xe lao thẳng người_thượng_úy đạt
+3,thấy anh đạt nhẩy bám gạt nước đầu xe ô_tô
+4,chuyên tiếp_tục nhấn ga đánh_võng sang trái sang mục_đích gạt anh csgt xuống xe
+5,đường phương_tiện lưu_thông đầu xe_tải chuyên điều_khiển va cửa bên vios anh vũ_chí_dũng sn 1964 thái_nguyên điều_khiển
+6,dù_vậy chuyên nhất_quyết dừng
+7,thấy nguy_hiểm đến tính_mạng anh đạt lần hô lái xe_tải dừng chuyên tiếp_tục nhấn ga bỏ chạy điều_khiển xe đánh_võng lạng_lách nhằm hất ngã anh đạt xuống_đường
+8,bám chặt gạt nước đầu xe ô_tô anh đạt ngã
+9,xe ô_tô chuyên chạy ngang số nhà 465 nguyễn_văn_linh cách chỗ va_chạm xe ô_tô vios khoảng 100 m anh ta tiếp_tục phóng nhanh đạp phanh gấp làm anh đạt ngã xuống_đường
+10,thượng_úy csgt ngã xuống đường chuyên điều_khiển xe_tăng ga làm bánh bánh ô_tô chèn người anh đạt
+11,chuyên điều_khiển xe ô_tô bỏ chạy về ngã tư như_quỳnh huyện văn_lâm tỉnh hưng_yên gửi xe ô_tô công_ty secoin
+12,anh đạt đưa bệnh_viện cấp_cứu
+13,bác sỹ xác_định nạn_nhân gẫy xương_sườn gẫy gai đốt_sống tổn_thương đụng dập nhu_mô phổi tràn khí tràn dịch hai bên tỷ_lệ tổn_hại sức_khỏe anh csgt xác_định 59
+14,về phía gã lái_xe xe chạy một_mạch đến hưng_yên anh_ta nghĩ_lại đến công_an đầu_thú
+15,đưa xét_xử_tội giết_người chuyên tỏ thành_khẩn
+16,anh ta khai thấy csgt tín_hiệu dừng xe sợ quá anh ta đánh lái sang trái nhằm tẩu_thoát liên_tục rồ ga đánh lái nhằm mục_đích hất anh csgt bám gạt nước ở đầu xe rơi xuống
+17,kẻ sở_hữu hai tiền_án tháng 1/2008 chuyên tand huyện gia_lâm phạt 15 tháng tù_treo tội cướp_giật tài_sản
+18,thời_gian thử_thách 30 tháng
+19,hết thời_gian thử_thách đến tháng 9/2009 chuyên tiếp_tục gây_án tand tỉnh văn_giang phạt 1 năm 3 tháng tù về tội trộm_cắp tài_sản
+20,phạm_tội trong hết thời_gian thử_thách bản_án treo 15 tháng tù giam tand huyện gia_lâm dành chuyên chuyển thành_án tù giam
+21,như_vậy tổng_hợp hai bản_án bị_cáo chấp_hành 2 năm 5 tháng tù giam
+22,đến ngày 30/8/2010 chuyên đặc_xá
+23,xin làm lái_xe hơn 1 năm chuyên gây
+24,con_dại mang bố_mẹ chuyên chạy_vạy số tiền 130 triệu đồng đền_bù gia_đình nạn_nhân
+25,dường_như quá thất_vọng đứa con_trai mình giờ nghị_án cha chuyên đứng buông tiếng thở_dài nó làm nó chịu

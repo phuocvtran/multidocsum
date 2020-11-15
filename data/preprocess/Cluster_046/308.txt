@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 20/5  ông huỳnh_phi_minh  50 tuổi  quê khánh_hòa  đã đưa con cá_ngừ vây xanh nặng gần 310 kg  dài 15 m  bắt được trên vùng_biển hoàng_sa 5 ngày trước vào bờ 
-1, tôi cùng sáu thuyền_viên phải vật_lộn nhiều giờ mới đưa được cá_ngừ lên tàu 
-2,lần đầu_tiên chúng_tôi nhìn thấy cá_ngừ to như_thế   ông minh nói 
-3,theo ông minh  khi đánh_bắt được cá quý_hiếm ông đã thông_báo cho người_thân trên đất_liền và cho tàu quay về bờ 
-4,các chuyên_gia nhật_bản tới cảng hòn_rớ thẩm đinh  xác_nhận đây là loại cá_ngừ vây xanh quý_hiếm 
-5,chủ một doanh_nghiệp chuyên thu_mua hải_sản ở nha_trang đã đến tìm mua  nhưng do ngư_dân bảo_quản chưa đúng cách nên chất_lượng cá đã giảm  không đảm_bảo 
-6,đơn_vị này sau đó mua con cá_ngừ  khổng_lồ  với giá gần 60 triệu đồng 
-7,cá ngư vây xanh xuất_hiện chủ_yếu ở khu_vực biển thái_bình_dương và ấn_độ_dương  cân nặng trung_bình 150 kg và lớn nhất 450 kg 
-8,tuổi_thọ của chúng có_thể đến 40 năm  ở độ sâu hơn 1200 m  đây là loại cá quý dùng chế_biến món sushi và sashimi ở nhật_bản  80  lượng cá này được người nhật tiêu_thụ 
+0,ngày 20/5 ông huỳnh_phi_minh 50 tuổi quê khánh_hòa đưa con cá_ngừ vây xanh nặng gần 310 kg dài 15 m bắt vùng_biển hoàng_sa 5 ngày bờ
+1,tôi sáu thuyền_viên vật_lộn giờ mới đưa cá_ngừ tàu
+2,lần đầu_tiên chúng_tôi nhìn thấy cá_ngừ to như_thế ông minh nói
+3,ông minh đánh_bắt cá quý_hiếm ông thông_báo người_thân đất_liền tàu quay về bờ
+4,chuyên_gia nhật_bản tới cảng hòn_rớ thẩm đinh xác_nhận loại cá_ngừ vây xanh quý_hiếm
+5,chủ một doanh_nghiệp chuyên thu_mua hải_sản ở nha_trang đến tìm mua ngư_dân bảo_quản đúng cách chất_lượng cá giảm đảm_bảo
+6,đơn_vị mua con cá_ngừ khổng_lồ giá gần 60 triệu đồng
+7,cá ngư vây xanh xuất_hiện chủ_yếu ở khu_vực biển thái_bình_dương ấn_độ_dương cân nặng trung_bình 150 kg lớn nhất 450 kg
+8,tuổi_thọ chúng đến 40 năm ở độ sâu hơn 1200 m loại cá quý dùng chế_biến món sushi sashimi ở nhật_bản 80 lượng cá người nhật tiêu_thụ

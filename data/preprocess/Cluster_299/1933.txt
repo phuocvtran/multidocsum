@@ -1,30 +1,30 @@
 idx, sentence
-0,sáng 3/6  hàng chục hành_khách có chuyến bay tại cảng_hàng_không buôn_ma_thuột báo tin  họ liên_tục bị hoãn bay nhưng không được cho biết lý_do 
-1,có_mặt tại cảng_hàng_không buôn_ma_thuột  pv_vietnamnet ghi_nhận  hành_khách của các hãng hàng_không lỉnh_kỉnh hành_lý người nằm  kẻ ngồi chờ bay 
-2,khuôn_mặt nhiều người tỏ ra mệt_mỏi  có người tranh_thủ nằm ngủ vật_vờ ngay trên ghế chờ 
-3,anh trịnh_văn_toàn  35 tuổi  trú tp buôn_ma_thuột  phản_ánh  anh mua vé hãng vietjet  bay từ buôn_ma_thuột về tp vinh cùng vợ và hai con để lo việc gia_đình 
-4,theo thông_báo trong vé  máy_bay sẽ cất_cánh lúc 10 h20 
-5,9 h sáng anh lên làm thủ_tục thì được thông_báo sẽ bay trễ 30 phút 
-6,tuy_nhiên  chờ đến hơn 12 h trưa vẫn chưa_thể bay 
-7,sau đó lại được báo sẽ hoãn chuyến bay đến 16 h40 “ tôi hỏi lý_do thì hãng báo là đường_băng bị hỏng và đang sửa_chữa 
-8,giờ tôi cùng gia_đình đành ngồi chờ mà không biết khi nào có_thể bay 
-9,hãng hàng_không cũng không có thông_báo  hay hỗ_trợ gì cho khách_hàng ”  anh toàn cho biết 
-10,ông nguyễn_văn_chanh  65 tuổi  trú huyện lắk  cho biết  hai vợ_chồng mua vé hãng vietnam_airlines tuyến buôn_ma_thuột  phú_thọ chuyến 9 h30 
-11,do nhà cách sân_bay hơn 60 km nên buộc phải thuê taxi gần cả triệu đồng 
-12,tuy_nhiên  khi đến làm thủ_tục thì được thông_báo hoãn bay đến 19 h30 
-13,hai ông_bà lại phải bắt xe quay về để chờ 
-14,“ nếu hoãn bay có_thể gọi điện  nhắn_tin cho khách_hàng biết  nhưng họ không có một thông_báo nào 
-15,không hiểu hãng hàng_không làm_ăn kiểu gì nữa ”  ông chanh bức_xúc 
-16,làm_việc với ông hà_huy_tám  chánh_văn_phòng cảng_hàng_không buôn_ma_thuột  ông này từ_chối cung_cấp thông_tin về sự_cố với lý_do không được phép phát_ngôn 
-17,một nguồn tin của vietnamnet  cảng_hàng_không buôn_ma_thuột đã có báo_cáo khẩn gửi cục hàng_không  bộ_gtvt   tổng_công_ty cảng_hàng_không việt_nam và các cơ_quan_chức_năng về sự_cố 
-18,theo đó  trong quá_trình kiểm_tra đường_băng trước khi vận_hành sáng 3/6  nhân_viên sân_bay đã phát_hiện một vệt bê_tông bị bong dài khoảng 50 cm trên đường_băng 
-19,để đảm_bảo an_toàn  nhà_chức_trách sân_bay buôn_ma_thuột đã quyết_định tạm dừng hoạt_động cất hạ_cánh của máy_bay từ 6 h  14 h để sửa_chữa 
-20,việc xử_lý vệt đường bong này sẽ hoàn_tất trong sáng 3/6 
-21,đại_diện cảng_hàng_không buôn_ma_thuột cũng cho biết có các chuyến bay đi và đến sân_bay này vào buổi sáng sẽ bị chậm giờ cất  hạ_cánh khoảng 56 giờ 
-22,với các chuyến bay đi và đến vào buổi chiều như lịch_trình thì vẫn được đảm_bảo đúng giờ 
-23,hành_khách phải chủ_động liên_hệ đại_diện vietnam_airlines cho biết  hãng đã phải tạm ngừng khai_thác 6 chuyến bay đến và đi từ buôn_mê_thuột trong_sáng nay  trong đó bao_gồm 2 chuyến trên đường_bay giữa hà_nội  buôn_mê_thuột  vn1600 / vn1601   2 chuyến trên đường_bay giữa tphcm  buôn_mê_thuột  vn1414 / vn1415  và 2 chuyến trên đường_bay giữa đà_nẵng  buôn_mê_thuột  vn1912 / vn1913  
-24,vietnam_airlines đã triển_khai tăng 6 chuyến trên các đường_bay giữa hà_nội / tphcm / đà_nẵng – buôn_ma_thuột ngay trong chiều nay để phục_vụ nhu_cầu đi_lại của hành_khách 
-25,trong khi đó  jetsar_pacific cũng đã phải tạm ngừng khai_thác 3 chặng bay vinh / tphcm / hải_phòng – buôn mê_thuột trong_sáng nay 
-26,những hành_khách trên 3 chuyến bay này sẽ được hãng chuyển sang chuyến bay của ngày hôm sau 
-27,hãng cũng cho biết đây là sự_cố bất_khả_kháng nên mong nhận được sự thông_cảm của hành_khách  những hành_khách nếu có nhu_cầu sẽ được hãng hoàn_lại vé miễn_phí 
-28,việc khai_thác trở_lại các chuyến bay đi đến sân_bay buôn_mê_thuột trong ngày hôm_nay còn phụ_thuộc vào tình_hình sửa_chữa thực_tế tại cảng_hàng_không buôn_ma_thuột 
+0,sáng 3/6 hàng chục hành_khách chuyến bay cảng_hàng_không buôn_ma_thuột báo tin họ liên_tục hoãn bay biết lý_do
+1,có_mặt cảng_hàng_không buôn_ma_thuột pv_vietnamnet ghi_nhận hành_khách hãng hàng_không lỉnh_kỉnh hành_lý người nằm kẻ ngồi chờ bay
+2,khuôn_mặt người tỏ mệt_mỏi người tranh_thủ nằm ngủ vật_vờ ghế chờ
+3,anh trịnh_văn_toàn 35 tuổi trú tp buôn_ma_thuột phản_ánh anh mua vé hãng vietjet bay buôn_ma_thuột về tp vinh vợ hai con lo gia_đình
+4,thông_báo trong vé máy_bay cất_cánh 10 h20
+5,9 h sáng anh làm thủ_tục thông_báo bay trễ 30 phút
+6,tuy_nhiên chờ đến hơn 12 h trưa chưa_thể bay
+7,báo hoãn chuyến bay đến 16 h40 “ tôi hỏi lý_do hãng báo đường_băng hỏng sửa_chữa
+8,giờ tôi gia_đình đành ngồi chờ biết nào bay
+9,hãng hàng_không thông_báo hay hỗ_trợ khách_hàng ” anh toàn biết
+10,ông nguyễn_văn_chanh 65 tuổi trú huyện lắk biết hai vợ_chồng mua vé hãng vietnam_airlines tuyến buôn_ma_thuột phú_thọ chuyến 9 h30
+11,nhà cách sân_bay hơn 60 km buộc thuê taxi gần triệu đồng
+12,tuy_nhiên đến làm thủ_tục thông_báo hoãn bay đến 19 h30
+13,hai ông_bà bắt xe quay về chờ
+14,“ hoãn bay gọi điện nhắn_tin khách_hàng biết họ một thông_báo nào
+15,hiểu hãng hàng_không làm_ăn kiểu ” ông chanh bức_xúc
+16,làm_việc ông hà_huy_tám chánh_văn_phòng cảng_hàng_không buôn_ma_thuột ông từ_chối cung_cấp thông_tin về sự_cố lý_do phép phát_ngôn
+17,một nguồn tin vietnamnet cảng_hàng_không buôn_ma_thuột báo_cáo khẩn gửi cục hàng_không bộ_gtvt tổng_công_ty cảng_hàng_không việt_nam cơ_quan_chức_năng về sự_cố
+18,trong quá_trình kiểm_tra đường_băng vận_hành sáng 3/6 nhân_viên sân_bay phát_hiện một vệt bê_tông bong dài khoảng 50 cm đường_băng
+19,đảm_bảo an_toàn nhà_chức_trách sân_bay buôn_ma_thuột quyết_định tạm dừng hoạt_động cất hạ_cánh máy_bay 6 h 14 h sửa_chữa
+20,xử_lý vệt đường bong hoàn_tất trong sáng 3/6
+21,đại_diện cảng_hàng_không buôn_ma_thuột biết chuyến bay đi đến sân_bay buổi sáng chậm giờ cất hạ_cánh khoảng 56 giờ
+22,chuyến bay đi đến buổi chiều lịch_trình đảm_bảo đúng giờ
+23,hành_khách chủ_động liên_hệ đại_diện vietnam_airlines biết hãng tạm ngừng khai_thác 6 chuyến bay đến đi buôn_mê_thuột trong_sáng nay trong bao_gồm 2 chuyến đường_bay giữa hà_nội buôn_mê_thuột vn1600 / vn1601 2 chuyến đường_bay giữa tphcm buôn_mê_thuột vn1414 / vn1415 2 chuyến đường_bay giữa đà_nẵng buôn_mê_thuột vn1912 / vn1913
+24,vietnam_airlines triển_khai tăng 6 chuyến đường_bay giữa hà_nội / tphcm / đà_nẵng – buôn_ma_thuột trong chiều nay phục_vụ nhu_cầu đi_lại hành_khách
+25,trong jetsar_pacific tạm ngừng khai_thác 3 chặng bay vinh / tphcm / hải_phòng – buôn mê_thuột trong_sáng nay
+26,hành_khách 3 chuyến bay hãng chuyển sang chuyến bay ngày hôm
+27,hãng biết sự_cố bất_khả_kháng mong nhận thông_cảm hành_khách hành_khách nhu_cầu hãng hoàn_lại vé miễn_phí
+28,khai_thác trở_lại chuyến bay đi đến sân_bay buôn_mê_thuột trong ngày hôm_nay còn phụ_thuộc tình_hình sửa_chữa thực_tế cảng_hàng_không buôn_ma_thuột

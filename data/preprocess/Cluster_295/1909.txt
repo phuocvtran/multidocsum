@@ -1,6 +1,6 @@
 idx, sentence
-0,sáng 3/6  lực_lượng điều_tra quân_sự tỉnh đắk_lắk đã khám_nghiệm hiện_trường  tử_thi đối_với thiếu_tá nguyễn_duy_chuyển  công_tác tại phòng kinh_doanh của sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh  để làm rõ nguyên_nhân tử_vong 
-1,trước đó khoảng 6 h cùng ngày  người dân đi tập_thể_dục tại một con hẻm trên đường nguyễn_văn_cừ  phường tân_an  tp buôn_ma_thuột  thì phát_hiện xác một quân_nhân bên vệ đường nên trình_báo cơ_quan_chức_năng 
-2,danh_tính nạn_nhân được xác_định là thiếu_tá nguyễn_duy_chuyển  46 tuổi  quê huyện tĩnh_gia  thanh_hóa  
-3,thiếu_tá chuyển đang là trợ_lý phòng kinh_doanh của sư_đoàn 470 
-4,nhận được tin báo  lực_lượng điều_tra quân_sự tỉnh đã tiến_hành đưa xác nạn_nhân về tại bệnh_xá của sư_đoàn 470 để khám_nghiệm tử_thi 
+0,sáng 3/6 lực_lượng điều_tra quân_sự tỉnh đắk_lắk khám_nghiệm hiện_trường tử_thi đối_với thiếu_tá nguyễn_duy_chuyển công_tác phòng kinh_doanh sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh làm rõ nguyên_nhân tử_vong
+1,khoảng 6 h ngày người dân đi tập_thể_dục một con hẻm đường nguyễn_văn_cừ phường tân_an tp buôn_ma_thuột phát_hiện xác một quân_nhân bên vệ đường trình_báo cơ_quan_chức_năng
+2,danh_tính nạn_nhân xác_định thiếu_tá nguyễn_duy_chuyển 46 tuổi quê huyện tĩnh_gia thanh_hóa
+3,thiếu_tá chuyển trợ_lý phòng kinh_doanh sư_đoàn 470
+4,nhận tin báo lực_lượng điều_tra quân_sự tỉnh tiến_hành đưa xác nạn_nhân về bệnh_xá sư_đoàn 470 khám_nghiệm tử_thi

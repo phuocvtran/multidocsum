@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 205  trao_đổi với phóng_viên báo người lao_động  thượng_tá phan_văn_chung  trưởng công_an huyện phú_giáo  tỉnh bình_dương cho biết công_an huyện vừa bắt được đôi_nam_nữ là nghi can gây ra hàng_loạt vụ cướp táo_tợn trên địa_bàn huyện thời_gian gần đây 
-1,thông_tin ban_đầu  khoảng 17 giờ ngày 185  công_an huyện phú_giáo nhận được tin báo từ công_an xã tam_lập về việc tại xã vừa xảy ra một vụ cướp_giật  thủ_phạm là đôi_nam_nữ đi xe_máy 
-2,tình_nghi đây là cặp đôi gây ra nhiều vụ cướp ám_ảnh người dân  lãnh_đạo công_an huyện phú_giáo đã huy_động công_an huyện và công_an các xã  thị_trấn  tiền hành chốt chặn  truy_xét 
-3,đến khoảng 24 giờ cùng ngày  các trinh_sát đội_hình_sự công_an huyện kiểm_tra và bắt_giữ 2 nghi can là nguyễn_thanh_sơn  sn 1991  ngụ ấp 2  xã hưng_hòa  huyện bàu_bàng  và trương_thị_hồng_nhung  sn 1994  ngụ ấp 1a  xã phước_hòa  huyện phú_giáo  
-4,qua điều_tra ban_đầu  2 đối_tượng khai nhận đã nghiện ma_túy 
-5,để có tiền thỏa_mãn cơn nghiện  từ đầu năm 2016 đến nay  với thủ_đoạn dùng roi điện  cả hai đã thực_hiện 12 vụ cướp  cướp_giật tài_sản tại huyện bàu_bàng và huyện phú_giáo 
-6,trước đó  báo người lao_động có bài viết phản_ánh trong vòng khoảng 1 tháng trở_lại đây  tại các cung đường vắng của phú_giáo  phụ_nữ đi khuya hoặc sáng sớm thường bị một cặp nam_nữ đi xe_máy chặn đường  ép cho bị hại té xe rồi dùng roi điện uy_hiếp cướp tài_sản 
-7,rạng sáng 95  trong vòng 20 phút  cặp nam_nữ này tấn_công cướp tài_sản của 2 phụ_nữ 
+0,ngày 205 trao_đổi phóng_viên báo người lao_động thượng_tá phan_văn_chung trưởng công_an huyện phú_giáo tỉnh bình_dương biết công_an huyện bắt đôi_nam_nữ nghi can gây hàng_loạt vụ cướp táo_tợn địa_bàn huyện thời_gian gần
+1,thông_tin ban_đầu khoảng 17 giờ ngày 185 công_an huyện phú_giáo nhận tin báo công_an xã tam_lập về xã xảy một vụ cướp_giật thủ_phạm đôi_nam_nữ đi xe_máy
+2,tình_nghi cặp đôi gây vụ cướp ám_ảnh người dân lãnh_đạo công_an huyện phú_giáo huy_động công_an huyện công_an xã thị_trấn tiền hành chốt chặn truy_xét
+3,đến khoảng 24 giờ ngày trinh_sát đội_hình_sự công_an huyện kiểm_tra bắt_giữ 2 nghi can nguyễn_thanh_sơn sn 1991 ngụ ấp 2 xã hưng_hòa huyện bàu_bàng trương_thị_hồng_nhung sn 1994 ngụ ấp 1a xã phước_hòa huyện phú_giáo
+4,điều_tra ban_đầu 2 đối_tượng khai nhận nghiện ma_túy
+5,tiền thỏa_mãn cơn nghiện đầu năm 2016 đến nay thủ_đoạn dùng roi điện hai thực_hiện 12 vụ cướp cướp_giật tài_sản huyện bàu_bàng huyện phú_giáo
+6,báo người lao_động bài viết phản_ánh trong vòng khoảng 1 tháng trở_lại cung đường vắng phú_giáo phụ_nữ đi khuya hoặc sáng sớm thường một cặp nam_nữ đi xe_máy chặn đường ép hại té xe dùng roi điện uy_hiếp cướp tài_sản
+7,rạng sáng 95 trong vòng 20 phút cặp nam_nữ tấn_công cướp tài_sản 2 phụ_nữ

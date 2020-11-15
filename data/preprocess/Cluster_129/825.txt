@@ -1,6 +1,6 @@
 idx, sentence
-0,chiều 235  một vụ tai_nạn giao_thông xảy ra ở xã an_hiệp  huyện châu_thành  tỉnh sóc_trăng khiến nhiều người đi đường một_phen thót tim 
-1,theo đó  trong lúc đang lưu_thông trên quốc_lộ 1 từ hậu_giang hướng về bến_xe sóctrăng  tài_xế điều_khiển xe_khách phương_trang  biển kiểm_soát 51b135  03  bất_ngờ lao lên vỉa_hè  đâm gãy nhiều cây_xanh ven quốc_lộ 
-2,trước khi dừng lại  xe này đâm gãy lìa trụ điện trung thế 
-3,vụ va_chạm khiến xe phương_trang “ bứng ” trụ điện và đẩy xa nhiều mét 
-4,chốt của trạm cân tải_trọng xe ven đường cũng bị xe_khách giường nằm tông hư_hỏng 
+0,chiều 235 một vụ tai_nạn giao_thông xảy ở xã an_hiệp huyện châu_thành tỉnh sóc_trăng khiến người đi đường một_phen thót tim
+1,trong lưu_thông quốc_lộ 1 hậu_giang hướng về bến_xe sóctrăng tài_xế điều_khiển xe_khách phương_trang biển kiểm_soát 51b135 03 bất_ngờ lao vỉa_hè đâm gãy cây_xanh ven quốc_lộ
+2,dừng xe đâm gãy lìa trụ điện trung thế
+3,vụ va_chạm khiến xe phương_trang “ bứng ” trụ điện đẩy xa mét
+4,chốt trạm cân tải_trọng xe ven đường xe_khách giường nằm tông hư_hỏng

@@ -1,19 +1,19 @@
 idx, sentence
-0,cuộc họp_báo diễn ra ngày 16  giờ_địa_phương  tại ottawa  canada  cùng dự còn có ngoại_trưởng canada  ông stephane_dion 
-1,theo ctvnews  tại họp_báo  cô amanda_connolly  phóng_viên trang tin trực_tuyến ipolitics  đặt câu hỏi cho ông stephane_dion về vấn_đề nhân_quyền của trung_quốc  về việc trung_quốc tuyên_bố mở_rộng chủ_quyền lãnh_thổ  và về trường_hợp một công_dân canada đang bị bỏ_tù vì bị_cáo_buộc làm gián_điệp và đánh_cắp bí_mật của nhà_nước trung_quốc 
-2,ngay khi nghe câu hỏi  ngoại_trưởng trung_quốc  ông vương_nghị  nổi đóa   xin đừng hỏi một câu hỏi vô_trách_nhiệm như vậy 
-3,phải nói rằng câu hỏi của cô đầy định_kiến với trung_quốc và kiêu_ngạo 
-4,điều này hoàn_toàn không_thể chấp_nhận ” 
-5,ông nói tiếp  vẻ giận_dữ  “ những người khác sẽ không hiểu tốt hơn người trung_quốc về tình_hình nhân_quyền tại trung_quốc  và chỉ người dân trung_quốc mới ở trong điều_kiện  vị_trí tốt nhất để lên_tiếng về tình_trạng nhân_quyền của trung_quốc  
-6,ông tiếp_tục trách_móc nữ nhà_báo 
-7,“ tôi phải hỏi xem cô biết gì về trung_quốc 
-8,cô từng đến trung_quốc hay chưa 
-9,có biết rằng trung_quốc đã đưa hơn 600 triệu người thoát khỏi đói_nghèo 
-10,cô có biết trung_quốc hiện_nay là nền kinh_tế lớn thứ hai thế_giới dù được xây từ một nền_tảng rất thấp 
-11,cô nghĩ rằng trung_quốc có_thể phát_triển mà không bảo_vệ quyền con_người   
-12,cũng theo ctvnews  ông stephane_dion đã không xen ngang khi ông vương_nghị mắng cô connolly 
-13,về phía connolly  cô nói cô vẫn bảo_vệ lập_trường câu hỏi của mình 
-14, đây là vấn_đề quan_trọng  vấn_đề nhân_quyền  đặc_biệt khi có liên_quan đến trung_quốc   cô nói 
-15,cô cũng cho biết  có nhiều vấn_đề  xung_quanh cách ứng_xử của chính_quyền trung_quốc với các nhà_báo  những người bất_đồng và những người chỉ_trích 
-16,trong khi đó  chính_trị_gia canada_tony_clement nói ông  hoàn_toàn bị sốc và cảm_thấy bị xúc_phạm  trước lời trách_mắng nhà_báo connolly của ông vương_nghị 
-17,ông cũng cho rằng ngoại_trưởng stephane_dion và chính_phủ canada nên có phản_ứng chính_thức đối_với vụ_việc này để người dân canada còn tin_tưởng vào quyền con_người và quyền tự_do báo_chí 
+0,cuộc họp_báo diễn ngày 16 giờ_địa_phương ottawa canada dự còn ngoại_trưởng canada ông stephane_dion
+1,ctvnews họp_báo cô amanda_connolly phóng_viên trang tin trực_tuyến ipolitics đặt câu hỏi ông stephane_dion về vấn_đề nhân_quyền trung_quốc về trung_quốc tuyên_bố mở_rộng chủ_quyền lãnh_thổ về trường_hợp một công_dân canada bỏ_tù bị_cáo_buộc làm gián_điệp đánh_cắp bí_mật nhà_nước trung_quốc
+2,nghe câu hỏi ngoại_trưởng trung_quốc ông vương_nghị nổi đóa xin đừng hỏi một câu hỏi vô_trách_nhiệm
+3,nói câu hỏi cô đầy định_kiến trung_quốc kiêu_ngạo
+4,hoàn_toàn không_thể chấp_nhận ”
+5,ông nói tiếp vẻ giận_dữ “ người khác hiểu tốt hơn người trung_quốc về tình_hình nhân_quyền trung_quốc người dân trung_quốc mới ở trong điều_kiện vị_trí tốt nhất lên_tiếng về tình_trạng nhân_quyền trung_quốc
+6,ông tiếp_tục trách_móc nữ nhà_báo
+7,“ tôi hỏi xem cô biết về trung_quốc
+8,cô đến trung_quốc hay
+9,biết trung_quốc đưa hơn 600 triệu người thoát khỏi đói_nghèo
+10,cô biết trung_quốc hiện_nay nền kinh_tế lớn thứ hai thế_giới dù xây một nền_tảng thấp
+11,cô nghĩ trung_quốc phát_triển bảo_vệ quyền con_người
+12,ctvnews ông stephane_dion xen ngang ông vương_nghị mắng cô connolly
+13,về phía connolly cô nói cô bảo_vệ lập_trường câu hỏi mình
+14,vấn_đề quan_trọng vấn_đề nhân_quyền đặc_biệt liên_quan đến trung_quốc cô nói
+15,cô biết vấn_đề xung_quanh cách ứng_xử chính_quyền trung_quốc nhà_báo người bất_đồng người chỉ_trích
+16,trong chính_trị_gia canada_tony_clement nói ông hoàn_toàn sốc cảm_thấy xúc_phạm lời trách_mắng nhà_báo connolly ông vương_nghị
+17,ông ngoại_trưởng stephane_dion chính_phủ canada phản_ứng chính_thức đối_với vụ_việc người dân canada còn tin_tưởng quyền con_người quyền tự_do báo_chí

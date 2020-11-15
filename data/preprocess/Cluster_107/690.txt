@@ -1,10 +1,10 @@
 idx, sentence
-0,kênh_truyền_hình ikhbariya_tv của syria đưa tn  hơn 20 người bị nghi đã thiệt_mạng sau khi 7 vụ nổ liên_tiếp xảy ra ở 2 thành_phố duyên_hải jableh và tartus  thuộc tỉnh latakia của syria hôm_nay 
-1,khu_vực xảy ra các vụ nổ gần hai căn_cứ quân_sự của nga gồm căn_cứ không_quân hmeimim và căn_cứ hải_quân tartus 
-2,theo nguồn tin trên  có ít_nhất 3 vụ nổ xảy ra ở thành_phố jableh  và rất có_thể là các cuộc tấn_công khủng_bố 
-3,một vụ nổ khác cũng xảy ra tại khu_vực cấp_cứu của một bệnh_viện địa_phương  gần căn_cứ không_quân hmeimim của nga 
-4,các bức ảnh đăng_tải trên mạng xã_hội cho thấy các cột khói dày_đặc bốc lên ở khu_vực jableh cùng với hình_ảnh những chiếc ô_tô bị thiêu rụi 
-5,các vụ nổ khiến khoảng 45 người ở đây thiệt_mạng 
-6,cùng thời_điểm  3 vụ nổ khác cũng xảy ra ở thành_phố tartus  gần căn_cứ hải_quân của nga  khiến ít_nhất 20 người thiệt_mạng và hàng chục người bị_thương 
-7,hãng tin ria_novosti của nga dẫn nguồn tin cảnh_sát cho biết  ít_nhất 20 người đã thiệt_mạng sau các vụ nổ trên 
-8,trong khi đó  theo truyền_hình quốc_gia syria  một trong số các vụ nổ ở tartus là đánh bom xe  một vụ khác là đánh bom liều chết 
+0,kênh_truyền_hình ikhbariya_tv syria đưa tn hơn 20 người nghi thiệt_mạng 7 vụ nổ liên_tiếp xảy ở 2 thành_phố duyên_hải jableh tartus thuộc tỉnh latakia syria hôm_nay
+1,khu_vực xảy vụ nổ gần hai căn_cứ quân_sự nga gồm căn_cứ không_quân hmeimim căn_cứ hải_quân tartus
+2,nguồn tin ít_nhất 3 vụ nổ xảy ở thành_phố jableh cuộc tấn_công khủng_bố
+3,một vụ nổ khác xảy khu_vực cấp_cứu một bệnh_viện địa_phương gần căn_cứ không_quân hmeimim nga
+4,bức ảnh đăng_tải mạng xã_hội thấy cột khói dày_đặc bốc ở khu_vực jableh hình_ảnh ô_tô thiêu rụi
+5,vụ nổ khiến khoảng 45 người ở thiệt_mạng
+6,thời_điểm 3 vụ nổ khác xảy ở thành_phố tartus gần căn_cứ hải_quân nga khiến ít_nhất 20 người thiệt_mạng hàng chục người bị_thương
+7,hãng tin ria_novosti nga dẫn nguồn tin cảnh_sát biết ít_nhất 20 người thiệt_mạng vụ nổ
+8,trong truyền_hình quốc_gia syria một trong số vụ nổ ở tartus đánh bom xe một vụ khác đánh bom liều chết

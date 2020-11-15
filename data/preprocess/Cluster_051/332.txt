@@ -1,28 +1,28 @@
 idx, sentence
-0,sáng 19/5  ông quang_cường  quản_lý của ca_sĩ quang_hà  có buổi gặp_gỡ phóng_viên để tố_cáo việc bị hai người bạn lừa lấy sổ_đỏ căn nhà của quang_hà tại lô_b chung_cư hồ_văn_huê  phú_nhuận  tp hcm  
-1,quang cường kể lại ông và hai người khác là trần_thanh_hải  1979  và trần_quốc_việt  1988  cùng quê nam_định có giao_dịch mua_bán căn nhà nói trên qua điện_thoại 
-2,ban_đầu  giá phía quang_hà đưa ra là 41 tỷ đồng  sau khi thương_lượng với nam ca_sĩ  hai bên đồng_ý mức giá 39 tỷ 
-3,vào ngày 16/5  ông trần_thanh_hải vào tp hcm để làm thủ_tục giao tiền và công_chứng sang_tên căn_hộ 
-4,người này cũng xin ngủ qua đêm tại đây 
-5,khi đến nơi  ông hải cầm theo vali và mở cho quang_hà xem số tiền 200000 usd mang đến để giao_dịch nhà 
-6,do nghĩ nhà chưa công_chứng nên vẫn thuộc quyền_sở_hữu của mình  nên nam ca_sĩ đồng_ý giao chìa_khóa nhà cũ  hiện quang_hà đang ở nhà mới tại gò_vấp  cho hải ngủ lại 
-7,23 h ngày 17/5  ông hải tìm đến địa_chỉ thường_trú của quang_hà tại đường phan_huy_ích  quận gò_vấp  tp hcm  xin ở lại vài ngày 
-8,tại đây  quang_cường được ông hải mở vali cho xem và xác_nhận bên trong có đầy_đủ tiền để mua nhà 
-9,“ khi tôi yêu_cầu hải giao tiền trước và ngày_mai bàn_giao giấy_tờ  hải không chịu mà quả_quyết đợi đến hôm sau ”  quản_lý quang_hà nói 
-10,6 h ngày 18/5  ông hải hỏi quang_hà_chìa_khóa phòng để cất vali tiền trước khi cùng quang cường đi công_chứng sang tên giấy_tờ nhà_đất 
-11,ông hải cho hà biết vali đã được khóa 3 lớp bằng mã riêng nên rất yên_tâm khi gửi lại 
-12,“ sau khi công_chứng gần xong các loại giấy_tờ  hải liên_tục kéo tôi ra ngoài và cho biết phần còn lại sẽ do cháu  trần_quốc_việt  lo tiếp 
-13,khi tôi đề_nghị đưa tiền một lần nữa  hải cho biết tiền để ở nhà tôi nên không phải lo 
-14,đến khi thủ_tục sang tên hoàn_tất  hải nói muốn sang quận 7 có việc gấp và tôi đồng_ý   ông quang cường kể 
-15,trên đường đi  hải nói muốn xuống xe mua nước  ông cường nói thêm 
-16,sau đó  hải gọi điện bảo ông cường chờ 15 phút nhưng vẫn không quay lại 
-17,một tiếng sau  ông hải gọi báo thủ_tục chưa hoàn_tất vì thiếu một_vài giấy_tờ và kêu ông cường quay lại nơi công_chứng 
-18,khi ông cường đến nơi  hải và việt đã cầm sổ_đỏ cao chạy xa bay 
-19,quản_lý quang_hà tiếp_lời   là anh_em nên tôi thừa_nhận mình khá chủ_quan  không đề_phòng hành_vi của người này 
-20,tôi và quang_hà rất tin_tưởng vì biết địa_chỉ nhà hải ở hà_nội  anh_em khá thân_thiết chứ theo đúng luật phải giao tiền trước khi công_chứng  
-21,quang cường kể biết mình bị lừa  anh bủn_rủn tay_chân và chạy xe ngay về nhà để báo_công_an phường 14  quận gò_vấp đến nhà_riêng mở vali của hải 
-22,khi mở ra  bên trong chỉ toàn giấy_báo mà không có tiền 
-23,toàn_bộ quá_trình này được quang_hà quay clip và sẽ công_khai trong thời_gian sớm nhất 
-24,quản_lý quang_hà nói thêm  anh may_mắn chưa ký giấy ủy quyền nhưng về pháp_lý thì căn_hộ này đã thuộc về hải 
-25,hiện_tại  anh lo_lắng hải và việt sẽ thế_chấp sổ_đỏ hoặc nhờ đến xã_hội_đen để cưỡng_chế căn nhà trên 
-26,hiện_tại quang_cường trình_báo sự_việc lên công_an quận phú_nhuận  chi_cục thuế  để tìm ra 2 người mà anh cho là có hành_vi lừa_đảo này 
+0,sáng 19/5 ông quang_cường quản_lý ca_sĩ quang_hà buổi gặp_gỡ phóng_viên tố_cáo hai người bạn lừa lấy sổ_đỏ căn nhà quang_hà lô_b chung_cư hồ_văn_huê phú_nhuận tp hcm
+1,quang cường kể ông hai người khác trần_thanh_hải 1979 trần_quốc_việt 1988 quê nam_định giao_dịch mua_bán căn nhà nói điện_thoại
+2,ban_đầu giá phía quang_hà đưa 41 tỷ đồng thương_lượng nam ca_sĩ hai bên đồng_ý mức giá 39 tỷ
+3,ngày 16/5 ông trần_thanh_hải tp hcm làm thủ_tục giao tiền công_chứng sang_tên căn_hộ
+4,người xin ngủ đêm
+5,đến ông hải cầm vali mở quang_hà xem số tiền 200000 usd mang đến giao_dịch nhà
+6,nghĩ nhà công_chứng thuộc quyền_sở_hữu mình nam ca_sĩ đồng_ý giao chìa_khóa nhà cũ hiện quang_hà ở nhà mới gò_vấp hải ngủ
+7,23 h ngày 17/5 ông hải tìm đến địa_chỉ thường_trú quang_hà đường phan_huy_ích quận gò_vấp tp hcm xin ở vài ngày
+8,quang_cường ông hải mở vali xem xác_nhận bên trong đầy_đủ tiền mua nhà
+9,“ tôi yêu_cầu hải giao tiền ngày_mai bàn_giao giấy_tờ hải chịu quả_quyết đợi đến hôm ” quản_lý quang_hà nói
+10,6 h ngày 18/5 ông hải hỏi quang_hà_chìa_khóa phòng cất vali tiền quang cường đi công_chứng sang tên giấy_tờ nhà_đất
+11,ông hải hà biết vali khóa 3 lớp bằng mã riêng yên_tâm gửi
+12,“ công_chứng gần xong loại giấy_tờ hải liên_tục kéo tôi ngoài biết phần còn cháu trần_quốc_việt lo tiếp
+13,tôi đề_nghị đưa tiền một lần hải biết tiền ở nhà tôi lo
+14,đến thủ_tục sang tên hoàn_tất hải nói muốn sang quận 7 gấp tôi đồng_ý ông quang cường kể
+15,đường đi hải nói muốn xuống xe mua nước ông cường nói thêm
+16,hải gọi điện bảo ông cường chờ 15 phút quay
+17,một tiếng ông hải gọi báo thủ_tục hoàn_tất thiếu một_vài giấy_tờ kêu ông cường quay công_chứng
+18,ông cường đến hải việt cầm sổ_đỏ cao chạy xa bay
+19,quản_lý quang_hà tiếp_lời anh_em tôi thừa_nhận mình khá chủ_quan đề_phòng hành_vi người
+20,tôi quang_hà tin_tưởng biết địa_chỉ nhà hải ở hà_nội anh_em khá thân_thiết đúng luật giao tiền công_chứng
+21,quang cường kể biết mình lừa anh bủn_rủn tay_chân chạy xe về nhà báo_công_an phường 14 quận gò_vấp đến nhà_riêng mở vali hải
+22,mở bên trong toàn giấy_báo tiền
+23,toàn_bộ quá_trình quang_hà quay clip công_khai trong thời_gian sớm nhất
+24,quản_lý quang_hà nói thêm anh may_mắn ký giấy ủy quyền về pháp_lý căn_hộ thuộc về hải
+25,hiện_tại anh lo_lắng hải việt thế_chấp sổ_đỏ hoặc nhờ đến xã_hội_đen cưỡng_chế căn nhà
+26,hiện_tại quang_cường trình_báo sự_việc công_an quận phú_nhuận chi_cục thuế tìm 2 người anh hành_vi lừa_đảo

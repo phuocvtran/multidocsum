@@ -1,15 +1,15 @@
 idx, sentence
-0,trang_rt đưa tin  18 phụ_nữ đức đã nộp đơn khiếu_nại vì bị tấn_công tình_dục tại một lễ_hội âm_nhạc tại thành_phố darmstadt 
-1,cảnh_sát đã bắt_giữ 3 nghi phạm là người tị_nạn từ pakistan tại hiện_trường ngay sau khi 3 phụ_nữ báo_cáo với cảnh_sát về vụ tấn_công 
-2,cụ_thể  các vụ tấn_công tình_dục xảy ra tại lễ_hội âm_nhạc schlossgrabenfest tại thành_phố darmstadt  gần frankfurt  vào tối hôm 29/5 
-3,3 phụ_nữ này đã báo cảnh_sát ngay sau khi bị bao_vây và quấy_rối tình_dục bởi một nhóm những người đàn_ông được mô_tả là người nam_á 
-4,tuy_nhiên  nhờ can_thiệp nhanh_chóng  cảnh_sát đã bắt_giữ 3 tên nghi phạm là người tị_nạn đến từ pakistan có độ tuổi từ 28  31 
-5,cảnh_sát cho biết rằng chắc_chắn còn nhiều thủ_phạm tham_gia vụ tấn_công này 
-6,theo rt  ngay sau khi các nghi phạm bị bắt_giữ  hôm 31/5  có thêm 15 phụ_nữ khác cũng đã báo_cáo về việc bị quấy_rối tình_dục tại lễ_hội với cách_thức tương_tự 
-7,trước đó 2 tuần  một vụ quấy_rối tình_dục cũng xảy ra tại lễ_hội đường_phố ở thủ_đô berlin 
-8,nạn_nhân là hai thiếu_nữ 17 và 18 tuổi  bị ép_buộc và sờ_mó bởi một nhóm 10 người đàn_ông 
-9,cảnh_sát đã bắt_giữ được 3 nghi phạm thanh_thiếu_niên trong độ tuổi từ 14 đến 17 tuổi  trong đó có hai người thổ nhĩ kỳ 
-10,những vụ tấn_công này đã gợi nhớ đến vụ cả nghìn người bị quấy_rối tình_dục trong lễ_hội năm mới ở cologne 
-11,có khoảng 1049 người nói rằng họ là nạn_nhân của những người đàn_ông bắc_phi và gốc trung_đông  trong khi đó khoảng 821 đơn khiếu_nại đã được nộp cho cảnh_sát 
-12,hiện_nay  chính_phủ đức sẽ phân_bổ tới gần 105 tỷ usd cho người tị_nạn trong vòng 5 năm tới 
-13,số tiền này sẽ được sử_dụng cho việc cung_cấp nơi ở  hỗ_trợ hội_nhập  các khóa học tiếng đức và phúc_lợi xã_hội 
+0,trang_rt đưa tin 18 phụ_nữ đức nộp đơn khiếu_nại tấn_công tình_dục một lễ_hội âm_nhạc thành_phố darmstadt
+1,cảnh_sát bắt_giữ 3 nghi phạm người tị_nạn pakistan hiện_trường 3 phụ_nữ báo_cáo cảnh_sát về vụ tấn_công
+2,cụ_thể vụ tấn_công tình_dục xảy lễ_hội âm_nhạc schlossgrabenfest thành_phố darmstadt gần frankfurt tối hôm 29/5
+3,3 phụ_nữ báo cảnh_sát bao_vây quấy_rối tình_dục một nhóm người đàn_ông mô_tả người nam_á
+4,tuy_nhiên nhờ can_thiệp nhanh_chóng cảnh_sát bắt_giữ 3 tên nghi phạm người tị_nạn đến pakistan độ tuổi 28 31
+5,cảnh_sát biết chắc_chắn còn thủ_phạm tham_gia vụ tấn_công
+6,rt nghi phạm bắt_giữ hôm 31/5 thêm 15 phụ_nữ khác báo_cáo về quấy_rối tình_dục lễ_hội cách_thức tương_tự
+7,2 tuần một vụ quấy_rối tình_dục xảy lễ_hội đường_phố ở thủ_đô berlin
+8,nạn_nhân hai thiếu_nữ 17 18 tuổi ép_buộc sờ_mó một nhóm 10 người đàn_ông
+9,cảnh_sát bắt_giữ 3 nghi phạm thanh_thiếu_niên trong độ tuổi 14 đến 17 tuổi trong hai người thổ nhĩ kỳ
+10,vụ tấn_công gợi nhớ đến vụ nghìn người quấy_rối tình_dục trong lễ_hội năm mới ở cologne
+11,khoảng 1049 người nói họ nạn_nhân người đàn_ông bắc_phi gốc trung_đông trong khoảng 821 đơn khiếu_nại nộp cảnh_sát
+12,hiện_nay chính_phủ đức phân_bổ tới gần 105 tỷ usd người tị_nạn trong vòng 5 năm tới
+13,số tiền sử_dụng cung_cấp ở hỗ_trợ hội_nhập khóa học tiếng đức phúc_lợi xã_hội

@@ -1,10 +1,10 @@
 idx, sentence
-0,nikkei cho biết  chỉ_số nhà quản_trị mua hàng pmi của việt_nam đã tăng từ mức 523 điểm trong tháng 4 lên 527 điểm torng tháng 5  cho thấy sức_khỏe lĩnh_vực sản_xuất đã cải_thiện mạnh_mẽ 
-1,các điều_kiện kinh_doanh đã tốt lên trong suốt sáu tháng qua với mức cải_thiện trong tháng vừa_rồi lớn nhất trong một năm qua 
-2,nhân_tố chính dẫn đến sự cải_thiện các điều_kiện kinh_doanh gần đây là mức tăng đáng_kể của số_lượng đơn đặt_hàng mới 
-3,tốc_độ tăng của số_lượng đơn hàng mới đã nhanh hơn và trở_thành mức nhanh nhất trong 12 tháng 
-4,đây cũng là một trong những mức tăng nhanh nhất trong lịch_sử khảo_sát của nikkei 
-5,số_lượng đơn đặt_hàng xuất_khẩu mới cũng tăng  mặc_dù với mức_độ yếu hơn so với tháng 4 
-6,số_lượng đơn đặt_hàng mới cao hơn dẫn đến sản_lượng ngành sản_xuất tiếp_tục tăng và tăng trong 6 tháng liền 
-7,nhờ đó  các công_ty giảm lượng công_việc tồn_đọng trong tháng 5  mặc_dù mức_độ tăng của số_lượng đơn đặt_hàng mới làm cho lượng công_việc chưa thực_hiện chỉ giảm nhẹ 
-8,bình_luận về chỉ_số pmi việt_nam  andrew_harker  tại markit  công_ty thu_thập kết_quả khảo_sát cho rằng mức tăng số_lượng đơn đặt_hàng mới sẽ dẫn đến sự cải_thiện tiếp_theo về sản_lượng và việc_làm trong những tháng tới 
+0,nikkei biết chỉ_số nhà quản_trị mua hàng pmi việt_nam tăng mức 523 điểm trong tháng 4 527 điểm torng tháng 5 thấy sức_khỏe lĩnh_vực sản_xuất cải_thiện mạnh_mẽ
+1,điều_kiện kinh_doanh tốt trong suốt sáu tháng mức cải_thiện trong tháng vừa_rồi lớn nhất trong một năm
+2,nhân_tố chính dẫn đến cải_thiện điều_kiện kinh_doanh gần mức tăng đáng_kể số_lượng đơn đặt_hàng mới
+3,tốc_độ tăng số_lượng đơn hàng mới nhanh hơn trở_thành mức nhanh nhất trong 12 tháng
+4,một trong mức tăng nhanh nhất trong lịch_sử khảo_sát nikkei
+5,số_lượng đơn đặt_hàng xuất_khẩu mới tăng mặc_dù mức_độ yếu hơn tháng 4
+6,số_lượng đơn đặt_hàng mới cao hơn dẫn đến sản_lượng ngành sản_xuất tiếp_tục tăng tăng trong 6 tháng liền
+7,nhờ công_ty giảm lượng công_việc tồn_đọng trong tháng 5 mặc_dù mức_độ tăng số_lượng đơn đặt_hàng mới làm lượng công_việc thực_hiện giảm nhẹ
+8,bình_luận về chỉ_số pmi việt_nam andrew_harker markit công_ty thu_thập kết_quả khảo_sát mức tăng số_lượng đơn đặt_hàng mới dẫn đến cải_thiện tiếp_theo về sản_lượng việc_làm trong tháng tới

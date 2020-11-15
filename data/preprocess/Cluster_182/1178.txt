@@ -1,9 +1,9 @@
 idx, sentence
-0,báo_chí mexico cho hay alan_pulido biến mất khi đang nghỉ_hè ở quê nhà ciudad_victoria  mexico hôm chủ_nhật 
-1,truyền_thông địa_phương cho hay anh bị một nhóm người_lạ_mặt bắt_cóc 
-2,thời_điểm vụ bắt_cóc diễn ra là vào lúc 2 giờ sáng 
-3,khi đó  tiền_đạo sinh năm 1991 cùng bạn gái ileana_salas rời khỏi một bữa tiệc sinh_nhật 
-4,cảnh_sát vùng tamaulipas cũng đã xác_nhận vụ_việc 
-5,có tổng_cộng 6 người đàn_ông đi trên 2 chiếc xe_tải thực_hiện vụ bắt_cóc pulido 
-6,ban_đầu  ileana_salas cũng bị đưa đi cùng bạn trai  nhưng sau đó có được thả ở một bãi đậu xe mà không hề_hấn gì 
-7,hiện_tại  cảnh_sát vẫn đang tích_cực tìm_kiếm pulido  nhưng chưa có kết_quả 
+0,báo_chí mexico hay alan_pulido biến mất nghỉ_hè ở quê nhà ciudad_victoria mexico hôm chủ_nhật
+1,truyền_thông địa_phương hay anh một nhóm người_lạ_mặt bắt_cóc
+2,thời_điểm vụ bắt_cóc diễn 2 giờ sáng
+3,tiền_đạo sinh năm 1991 bạn gái ileana_salas rời khỏi một bữa tiệc sinh_nhật
+4,cảnh_sát vùng tamaulipas xác_nhận vụ_việc
+5,tổng_cộng 6 người đàn_ông đi 2 xe_tải thực_hiện vụ bắt_cóc pulido
+6,ban_đầu ileana_salas đưa đi bạn trai thả ở một bãi đậu xe hề_hấn
+7,hiện_tại cảnh_sát tích_cực tìm_kiếm pulido kết_quả

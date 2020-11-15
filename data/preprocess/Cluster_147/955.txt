@@ -1,11 +1,11 @@
 idx, sentence
-0,anh rachid  34 tuổi  quốc_tịch marốc  cùng vợ trần_thị_thu_trang  37 tuổi  và con_gái 2 tuổi đi ôtô về đậu trước hầm chung_cư phúc_yên  quận tân_bình  tp hcm  tối 27/5 
-1,vừa bước xuống xe  người vợ bị hai thanh_niên đeo khẩu_trang  mặc áo_mưa  đội nón bảo_hiểm chạy xe_máy áp sát giật phăng chiếc bóp 
-2,chị trang đuổi theo chụp được áo_mưa khiến chúng ngã nhào 
-3,anh rachid vội đặt con gái xuống  lao đến ôm tên cướp vật ngã 
-4,trong lúc giằng_co  người đàn_ông ngoại_quốc bị kẻ cướp đâm gục 
-5,nghe tiếng hô_hoán  người dân lao ra truy bắt nhưng hai tên cướp đã dựng xe  nổ máy bỏ chạy 
-6, tôi cùng một người chạy đến thì tên cầm dao đâm loạn_xạ buộc tôi phải né 
-7,lúc đó  có hai thanh_niên khác chạy đến cản địa nên chúng đã chạy_thoát   nhân_chứng kể 
-8,sau một ngày được cấp_cứu ở bệnh_viện chợ_rẫy với vết_thương ở ngực và trán  sức_khỏe anh rachid đã ổn 
-9, vợ_chồng tôi bị mất khoảng 10 nghìn usd   người vợ cho biết 
+0,anh rachid 34 tuổi quốc_tịch marốc vợ trần_thị_thu_trang 37 tuổi con_gái 2 tuổi đi ôtô về đậu hầm chung_cư phúc_yên quận tân_bình tp hcm tối 27/5
+1,bước xuống xe người vợ hai thanh_niên đeo khẩu_trang mặc áo_mưa đội nón bảo_hiểm chạy xe_máy áp sát giật phăng bóp
+2,chị trang đuổi chụp áo_mưa khiến chúng ngã nhào
+3,anh rachid vội đặt con gái xuống lao đến ôm tên cướp vật ngã
+4,trong giằng_co người đàn_ông ngoại_quốc kẻ cướp đâm gục
+5,nghe tiếng hô_hoán người dân lao truy bắt hai tên cướp dựng xe nổ máy bỏ chạy
+6,tôi một người chạy đến tên cầm dao đâm loạn_xạ buộc tôi né
+7,hai thanh_niên khác chạy đến cản địa chúng chạy_thoát nhân_chứng kể
+8,một ngày cấp_cứu ở bệnh_viện chợ_rẫy vết_thương ở ngực trán sức_khỏe anh rachid ổn
+9,vợ_chồng tôi mất khoảng 10 nghìn usd người vợ biết

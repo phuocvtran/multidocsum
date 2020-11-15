@@ -1,17 +1,17 @@
 idx, sentence
-0,chiều nay  26   nhà_xe khánh_đơn  huyện nghi_lộc  nghệ_an  đang đưa xe và đồ khâm_liệm sang lào để đưa thi_thể 8 nạn_nhân bị tử_vong trong vụ nổ xe_khách ở lào về quê nhà nghệ_an 
-1,trao_đổi qua điện_thoại  bà nguyễn_thị_đơn  sn 1968  trú tại xóm 1  xã nghi_diên  huyện nghi_lộc  nghệ_an   chủ nhà xe khánh_đơn  cho biết  “ hiện chúng_tôi chưa nắm được cụ_thể bao_nhiêu người chết và bao_nhiêu người bị_thương 
-2,xe_cứu_thương đã sang chở người bị_thương về nước cấp_cứu 
-3,chúng_tôi đang đưa hòm vỏ  đồ khâm_liệm sang lào để đưa nạn_nhân bị thiệt_mạng về quê nhà ” 
-4,lãnh_đạo ubnd xã nghi_kiều  huyện nghi_lộc  cho biết  đã nhận được thông_tin từ lào báo về có người quê nghi_kiều là nạn_nhân trong vụ nổ xe_khách 
-5,chiều nay  ông nguyễn_hồng_kỳ  giám_đốc sở gtvt nghệ_an cho biết  chúng_tôi đã nhận được thông_tin về vụ tai_nạn của chiếc xe_khách thuộc nhà_xe khánh_đơn 
-6,cơ_quan_chức_năng tỉnh nghệ_an đang phối_hợp với sở gtvt quảng_bình xác_minh sự_việc và danh_tính các nạn_nhân  đưa ra hướng xử_lý và hỗ_trợ gia_đình nạn_nhân 
-7,như plo đã đưa tin  khoảng 4 g sáng 26  chiếc xe_khách mang biển số lào  un3897 thuộc nhà_xe khánh_đơn  chạy từ thà_khẹc  lào  về huyện diễn_châu  nghệ_an  
-8,khi chạy đến địa_phận huyện bualapha  tỉnh khăm_muộn  lào  thì bỗng_nhiên phát_nổ lớn 
-9,vụ nổ cách cửa_khẩu cha_lo  quảng_bình  khoảng 15 km làm 8 người quê nghệ_an tử_vong tại_chỗ và 4 người khác bị_thương được đưa đến trạm_xá của nước lào cấp_cứu 
-10,theo anh anh phạm_đình_tú  28 tuổi  trú xã đô_thành  huyện yên_thành  nghệ_an  cho biết  “ sau tiếng nổ như bom dội  chiếc xe tan_tành  tôi bị hất khỏi xe  gỗ đè lên ngất_xỉu 
-11,lúc tỉnh dậy thì thấy mình nằm trên xe cứu_thương  theo anh_tú  khoảng 22 g30 ’ đêm qua 16  xe_khách khánh_đơn xuất_phát từ thị_xã thà_khẹt  tỉnh khăm_muộn  lào  
-12,trên xe có hơn chục hành_khách quê nghệ_an  hà_tĩnh và khoảng 10 tấn gỗ đinh_hương 
-13,chạy được chừng một km  hành_khách đã ngửi thấy mùi khét  thắc_mắc thì tài_xế bảo “ không sao ” 
-14,đến hơn 4 g sáng 26  khi đã chạy được khoảng 300 km  đến gần cửa_khẩu cha_lo  xe bất_ngờ nổ tung 
-15,hiện anh_tú đã được đưa về đến bv 115 nghệ_an để tiếp_tục cấp_cứu 
+0,chiều nay 26 nhà_xe khánh_đơn huyện nghi_lộc nghệ_an đưa xe đồ khâm_liệm sang lào đưa thi_thể 8 nạn_nhân tử_vong trong vụ nổ xe_khách ở lào về quê nhà nghệ_an
+1,trao_đổi điện_thoại bà nguyễn_thị_đơn sn 1968 trú xóm 1 xã nghi_diên huyện nghi_lộc nghệ_an chủ nhà xe khánh_đơn biết “ hiện chúng_tôi nắm cụ_thể bao_nhiêu người chết bao_nhiêu người bị_thương
+2,xe_cứu_thương sang chở người bị_thương về nước cấp_cứu
+3,chúng_tôi đưa hòm vỏ đồ khâm_liệm sang lào đưa nạn_nhân thiệt_mạng về quê nhà ”
+4,lãnh_đạo ubnd xã nghi_kiều huyện nghi_lộc biết nhận thông_tin lào báo về người quê nghi_kiều nạn_nhân trong vụ nổ xe_khách
+5,chiều nay ông nguyễn_hồng_kỳ giám_đốc sở gtvt nghệ_an biết chúng_tôi nhận thông_tin về vụ tai_nạn xe_khách thuộc nhà_xe khánh_đơn
+6,cơ_quan_chức_năng tỉnh nghệ_an phối_hợp sở gtvt quảng_bình xác_minh sự_việc danh_tính nạn_nhân đưa hướng xử_lý hỗ_trợ gia_đình nạn_nhân
+7,plo đưa tin khoảng 4 g sáng 26 xe_khách mang biển số lào un3897 thuộc nhà_xe khánh_đơn chạy thà_khẹc lào về huyện diễn_châu nghệ_an
+8,chạy đến địa_phận huyện bualapha tỉnh khăm_muộn lào bỗng_nhiên phát_nổ lớn
+9,vụ nổ cách cửa_khẩu cha_lo quảng_bình khoảng 15 km làm 8 người quê nghệ_an tử_vong tại_chỗ 4 người khác bị_thương đưa đến trạm_xá nước lào cấp_cứu
+10,anh anh phạm_đình_tú 28 tuổi trú xã đô_thành huyện yên_thành nghệ_an biết “ tiếng nổ bom dội xe tan_tành tôi hất khỏi xe gỗ đè ngất_xỉu
+11,tỉnh dậy thấy mình nằm xe cứu_thương anh_tú khoảng 22 g30 ’ đêm 16 xe_khách khánh_đơn xuất_phát thị_xã thà_khẹt tỉnh khăm_muộn lào
+12,xe hơn chục hành_khách quê nghệ_an hà_tĩnh khoảng 10 tấn gỗ đinh_hương
+13,chạy chừng một km hành_khách ngửi thấy mùi khét thắc_mắc tài_xế bảo “ sao ”
+14,đến hơn 4 g sáng 26 chạy khoảng 300 km đến gần cửa_khẩu cha_lo xe bất_ngờ nổ tung
+15,hiện anh_tú đưa về đến bv 115 nghệ_an tiếp_tục cấp_cứu

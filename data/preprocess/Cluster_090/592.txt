@@ -1,9 +1,9 @@
 idx, sentence
-0,theo thông_tin ban_đầu  vụ mở_cửa taxi nhảy xuống sông hồng tự_tử  bỏ lại bạn gái xảy vào_khoảng 14 h50 chiều 23/5  một đôi nam_nữ đi taxi mang bks 29a 
-1,50482 lưu_thông theo hướng từ gia_lâm về hà_nội  khi đến cột_đèn số 42 trên cầu thanh_trì thì bất_ngờ xảy ra sự_cố 
-2,vào thời_điểm đó  nam thanh_niên ngồi trên xe bất_ngờ mở cửa xe rồi nhảy xuống sông tự_tử  bỏ lại bán gái vẫn ngồi trên xe taxi 
-3,qua xác_minh ban_đầu  danh_tính nam thanh_niên được xác_định là nguyễn_văn_biểu  sn1995  quê phú_xuyên  hà_nội   cô gái đi cùng là nguyễn_thi_v  sn 1999  quê thuận_thành  bắc_ninh  
-4,những nhân_chứng có_mặt tại hiện_trường cho biết  khi thấy chiếc taxi đang đi bỗng dừng lại  họ bất_ngờ thấy nam thanh_niên mở cửa_xe bước ra ngoài và nhảy thẳng xuống dòng sông chảy siết 
-5,do sự_việc diễn ra quá nhanh nên mọi người hoàn_toàn bất_ngờ và không kịp ngăn_cản 
-6,thấy bạn trai đi cùng nhảy xuống sông  cô gái cũng ra khỏi xe và kêu cứu  một lúc sau thì ngất lịm 
-7,thi_thể của nam thanh_niên hiện vẫn chưa được tìm thấy 
+0,thông_tin ban_đầu vụ mở_cửa taxi nhảy xuống sông hồng tự_tử bỏ bạn gái xảy vào_khoảng 14 h50 chiều 23/5 một đôi nam_nữ đi taxi mang bks 29a
+1,50482 lưu_thông hướng gia_lâm về hà_nội đến cột_đèn số 42 cầu thanh_trì bất_ngờ xảy sự_cố
+2,thời_điểm nam thanh_niên ngồi xe bất_ngờ mở cửa xe nhảy xuống sông tự_tử bỏ bán gái ngồi xe taxi
+3,xác_minh ban_đầu danh_tính nam thanh_niên xác_định nguyễn_văn_biểu sn1995 quê phú_xuyên hà_nội cô gái đi nguyễn_thi_v sn 1999 quê thuận_thành bắc_ninh
+4,nhân_chứng có_mặt hiện_trường biết thấy taxi đi bỗng dừng họ bất_ngờ thấy nam thanh_niên mở cửa_xe bước ngoài nhảy thẳng xuống dòng sông chảy siết
+5,sự_việc diễn quá nhanh mọi người hoàn_toàn bất_ngờ kịp ngăn_cản
+6,thấy bạn trai đi nhảy xuống sông cô gái khỏi xe kêu cứu một ngất lịm
+7,thi_thể nam thanh_niên hiện tìm thấy

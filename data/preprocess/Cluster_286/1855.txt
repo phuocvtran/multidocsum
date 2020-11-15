@@ -1,9 +1,9 @@
 idx, sentence
-0,dani alves năm nay đã 33 tuổi  cái tuổi mà anh khó thể duy_trì phong_độ đỉnh_cao 
-1,dù_sao  alves vẫn được đánh_giá là một trong những hậu_vệ phải xuất_sắc nhất thế_giới 
-2,sau hơn 380 lần khoác áo đội chủ sân nou_camp  alves đã giành đến 21 danh_hiệu lớn_nhỏ khác nhau 
-3,hợp_đồng của alves với barca sẽ hết hạn sau mùa bóng tới 
-4,nhưng ngay từ lúc này  ngôi_sao người brazil đã quyết_định chia_tay barca 
-5,một thông_báo từ barca cho hay   dani_alves đã quyết_định ra đi 
-6,đó là quyết_định của cá_nhân anh ấy và chúng_tôi tôn_trọng  
-7,nhiều nguồn tin khẳng_định điểm đến của dani_alves chính là nhà đkvđ_serie_a_juventus 
+0,dani alves năm nay 33 tuổi tuổi anh khó thể duy_trì phong_độ đỉnh_cao
+1,dù_sao alves đánh_giá một trong hậu_vệ xuất_sắc nhất thế_giới
+2,hơn 380 lần khoác áo đội chủ sân nou_camp alves giành đến 21 danh_hiệu lớn_nhỏ khác nhau
+3,hợp_đồng alves barca hết hạn mùa bóng tới
+4,ngôi_sao người brazil quyết_định chia_tay barca
+5,một thông_báo barca hay dani_alves quyết_định đi
+6,quyết_định cá_nhân anh ấy chúng_tôi tôn_trọng
+7,nguồn tin khẳng_định điểm đến dani_alves chính nhà đkvđ_serie_a_juventus

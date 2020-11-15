@@ -1,14 +1,14 @@
 idx, sentence
-0,phiến_quân nhà_nước hồi_giáo tự_xưng  is  đã lên tiếng nhận trách_nhiệm  tuyên_bố mục điêu mà nhóm nhắm tới là các thành_viên cộng_đồng dân_tộc_thiểu_số alawite  theo reuters 
-1,tổ_chức giám_sát_nhân_quyền syria  sohr  trụ_sở ở anh cho biết chuỗi các vụ nổ_cướp đi sinh_mạng của hơn 120 người 
-2,truyền_thông nhà_nước syria lại cho hay con_số thương_vong chỉ là 78 
-3,latakia là vùng lãnh_thổ do chính_quyền syria kiểm_soát  đồng_thời là nơi đặt các căn_cứ quân_sự của nga ở nước này 
-4,những kẻ tấn_công đã kích_hoạt ít_nhất 5 khối bom tự_sát và hai thiết_bị nổ gắn trong xe_hơi tại hai thành_phố tartous và jableh 
-5,quân_đội nga hiện vẫn duy_trì hoạt_động một cơ_sở hải_quân ở tartous 
-6, đây chắc_chắn là những cuộc tấn_công đẫm máu nhất  ở hai thành_phố kể trên kể từ khi nội_chiến bùng_phát ở syria hồi năm 2011  lãnh_đạo sohr_rami_abdel_rahman khẳng_định 
-7,một trong 4 vụ đánh bom ở thành_phố jableh xảy ra tại một địa_điểm gần bệnh_viện  một vụ khác xảy ra tại một bến_xe_buýt 
-8,trong khi đó  những cuộc tấn_công ở tartous đều nhằm vào các bến_xe_buýt 
-9,đoạn băng ghi_hình phát trên kênh ikhbariya của syria cho thấy tại hiện_trường ở jableh  nhiều ôtô bị móp méo và bốc cháy đen 
-10,bộ_trưởng thông_tin syria_omran_alzoubi cho hay quân khủng_bố đã phải chuyển_hướng dùng bom để tấn_công dân_thường thay_vì đối_đầu trực_tiếp trên chiến_trường 
-11,ông thề sẽ chiến_đấu với is đến cùng 
-12,damascus coi tất_cả các phần_tử nổi dậy chống lại chính_quyền trong cuộc xung_đột kéo_dài suốt 5 năm qua đều là khủng_bố 
+0,phiến_quân nhà_nước hồi_giáo tự_xưng is tiếng nhận trách_nhiệm tuyên_bố mục điêu nhóm nhắm tới thành_viên cộng_đồng dân_tộc_thiểu_số alawite reuters
+1,tổ_chức giám_sát_nhân_quyền syria sohr trụ_sở ở anh biết chuỗi vụ nổ_cướp đi sinh_mạng hơn 120 người
+2,truyền_thông nhà_nước syria hay con_số thương_vong 78
+3,latakia vùng lãnh_thổ chính_quyền syria kiểm_soát đồng_thời đặt căn_cứ quân_sự nga ở nước
+4,kẻ tấn_công kích_hoạt ít_nhất 5 khối bom tự_sát hai thiết_bị nổ gắn trong xe_hơi hai thành_phố tartous jableh
+5,quân_đội nga hiện duy_trì hoạt_động một cơ_sở hải_quân ở tartous
+6,chắc_chắn cuộc tấn_công đẫm máu nhất ở hai thành_phố kể kể nội_chiến bùng_phát ở syria hồi năm 2011 lãnh_đạo sohr_rami_abdel_rahman khẳng_định
+7,một trong 4 vụ đánh bom ở thành_phố jableh xảy một địa_điểm gần bệnh_viện một vụ khác xảy một bến_xe_buýt
+8,trong cuộc tấn_công ở tartous nhằm bến_xe_buýt
+9,đoạn băng ghi_hình phát kênh ikhbariya syria thấy hiện_trường ở jableh ôtô móp méo bốc cháy đen
+10,bộ_trưởng thông_tin syria_omran_alzoubi hay quân khủng_bố chuyển_hướng dùng bom tấn_công dân_thường thay_vì đối_đầu trực_tiếp chiến_trường
+11,ông thề chiến_đấu is đến
+12,damascus coi tất_cả phần_tử nổi dậy chống chính_quyền trong cuộc xung_đột kéo_dài suốt 5 năm khủng_bố

@@ -1,6 +1,6 @@
 idx, sentence
-0,ngày 23/5  đội_trưởng đội cảnh_sát điều_tra tội_phạm về trật_tự xã_hội  công_an tp hòa_bình ông nguyễn_công_bình cho biết  vào khoảng 5 h sáng cùng ngày  một_số người dân đi tập_thể_dục  khi đi qua khu_vực cầu cứng  thuộc tổ 26  phường phương_lâm  tp hòa_bình  tỉnh hòa_bình  hoảng_hốt phát_hiện một thi_thể nam thanh_niên bê_bết máu  đã tử_vong từ trước đó nên đã báo cơ_quan_chức_năng 
-1,ngay sau khi nhận được tin báo  cơ_quan công_an tp hòa_bình đã có_mặt  phong_tỏa hiện_trường  tiến_hành công_tác khám_nghiệm tử_thi  điều_tra nguyên_nhân vụ_việc 
-2,thi_thể là nam_giới  chưa rõ danh_tính  độ tuổi khoảng 25  30 tuổi  không có giấy_tờ tùy_thân 
-3,theo vị công_an này  nạn_nhân chết trong tư_thể nằm_ngửa  trên mặt bê_bết máu  tập_trung nhiều ở phần mồm và tai 
-4,qua khám_nghiệm sơ_bộ ban_đầu xác_định không có dấu_hiệu tác_động của ngoại_lực 
+0,ngày 23/5 đội_trưởng đội cảnh_sát điều_tra tội_phạm về trật_tự xã_hội công_an tp hòa_bình ông nguyễn_công_bình biết khoảng 5 h sáng ngày một_số người dân đi tập_thể_dục đi khu_vực cầu cứng thuộc tổ 26 phường phương_lâm tp hòa_bình tỉnh hòa_bình hoảng_hốt phát_hiện một thi_thể nam thanh_niên bê_bết máu tử_vong báo cơ_quan_chức_năng
+1,nhận tin báo cơ_quan công_an tp hòa_bình có_mặt phong_tỏa hiện_trường tiến_hành công_tác khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc
+2,thi_thể nam_giới rõ danh_tính độ tuổi khoảng 25 30 tuổi giấy_tờ tùy_thân
+3,vị công_an nạn_nhân chết trong tư_thể nằm_ngửa mặt bê_bết máu tập_trung ở phần mồm tai
+4,khám_nghiệm sơ_bộ ban_đầu xác_định dấu_hiệu tác_động ngoại_lực

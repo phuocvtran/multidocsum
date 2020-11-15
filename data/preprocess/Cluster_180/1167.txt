@@ -1,9 +1,9 @@
 idx, sentence
-0,hôm_nay  đt_đức đã đưa ra danh_sách cầu_thủ cho euro 2016 
-1,điều đáng tiếc nhất là marco_reus không_thể góp_mặt tại giải đấu này bởi chấn_thương 
-2,mùa giải vừa_rồi  cầu_thủ này có màn trình_diễn tuyệt_vời trong màu áo dortmund  ghi được 20 bàn thắng 
-3,anh góp công lớn giúp clb đứng thứ 2 ở bundesliga và lọt đến vòng tứ_kết europa_league 
-4,thời_gian qua  anh cũng được tập_trung toàn đội ở trại huấn_luyện tại ascona  thụy_sỹ nhưng cuối_cùng  sức_khỏe không đảm_bảo  reus vẫn phải tạm_biệt euro 
-5,hồi 2014  anh cũng đã bỏ lỡ world_cup vì lí_do tương_tự   cậu ấy có vấn_đề lớn về sức_khỏe và chỉ có_thể chạy thẳng vào lúc này  – hlv joachim_low buồn_bã thông_báo với truyền_thông 
-6,như_vậy  có_thể gọi cầu_thủ điển_trai này là người xui_xẻo bởi hai giải đấu lớn nhất cấp clb cho đến thời_điểm hiện_tại  reus đều chẳng_thể tham_dự vì lí_do sức_khỏe 
-7,ngoài cầu_thủ của dortmund  low cũng loại tiền_vệ julian_brandt  karim_ballerabi và hoffenheim_sebastian 
+0,hôm_nay đt_đức đưa danh_sách cầu_thủ euro 2016
+1,đáng tiếc nhất marco_reus không_thể góp_mặt giải đấu chấn_thương
+2,mùa giải vừa_rồi cầu_thủ màn trình_diễn tuyệt_vời trong màu áo dortmund ghi 20 bàn thắng
+3,anh góp công lớn giúp clb đứng thứ 2 ở bundesliga lọt đến vòng tứ_kết europa_league
+4,thời_gian anh tập_trung toàn đội ở trại huấn_luyện ascona thụy_sỹ cuối_cùng sức_khỏe đảm_bảo reus tạm_biệt euro
+5,hồi 2014 anh bỏ lỡ world_cup lí_do tương_tự cậu ấy vấn_đề lớn về sức_khỏe chạy thẳng – hlv joachim_low buồn_bã thông_báo truyền_thông
+6,như_vậy gọi cầu_thủ điển_trai người xui_xẻo hai giải đấu lớn nhất cấp clb đến thời_điểm hiện_tại reus chẳng_thể tham_dự lí_do sức_khỏe
+7,ngoài cầu_thủ dortmund low loại tiền_vệ julian_brandt karim_ballerabi hoffenheim_sebastian

@@ -1,13 +1,13 @@
 idx, sentence
-0,đại_tá phạm_quang_chung  trưởng công_an tpbạc_liêu  bạc_liêu   cho biết khoảng 4 giờ 30 phút ngày 16  ông nguyễn_hoàng_quân  52 tuổi  chủ_tịch hội nông_dân tpbạc_liêu  đang đi bộ tập_thể_dục dưới chân cầu tôn_đức_thắng  thuộc khóm 8  p 5  tpbạc_liêu  thì thấy trần_văn_trường  25 tuổi  ngụ khóm 8  p 5  đang ngồi dưới dạ cầu  toàn_thân lấm_lem bùn đất  nên bước đến hỏi_thăm 
-1,bất_ngờ  trường xông tới đạp ông quân té ngã rồi dùng dao tự chế đâm  chém xối_xả vào đầu  tay  chân  lưng  bụng ông quân 
-2,khi ông quân nằm bất_động  trường cầm hung_khí rời khỏi hiện_trường 
-3,ông quân  ngay sau đó được người dân đưa vào bệnh_viện đa_khoa tỉnh bạc_liêu cấp_cứu trong tình_trạng nguy_kịch  với nhiều vết_thương khá nặng trên cơ_thể  bị bất rất nhiều máu 
-4,theo đại_tá chung  ngay khi nhận được tin báo  công_an đã huy_động lực_lượng xuống hiện_trường  thu_thập thông_tin  xác_minh đối_tượng 
-5,chỉ sau 45 phút gây_án  trường bị bắt_giữ khi đang lẩn trốn trong một chòi giữ vuông tôm  cách hiện_trường khoảng 300 m  công_an cũng thu_giữ được hung_khí là cây dao tự chế  dài khoảng 70 cm 
-6,tại cơ_quan công_an  trường khai nhận mình hoàn_toàn không có mâu_thuẫn gì với ông quân 
-7,khi ông quân hỏi_thăm  trường đang bực_tức trong mình và nhìn ông quân  thấy ghét  nên dùng dao bất_ngờ đâm  chém tới_tấp vào người nạn_nhân 
-8,theo hồ_sơ công_an  năm 2011  trường bị đưa đi cai_nghiện bắt_buộc do nghiện ma_túy 
-9,giữa năm 2015  trường được cho về nhà 
-10,gần đây  trường thường_xuyên sử_dụng và đang nghiện ma_túy đá 
-11,kiểm_tra nơi ở của trường  công_an còn thu_giữ dụng_cụ mà trường thường dùng để hút ma_túy 
+0,đại_tá phạm_quang_chung trưởng công_an tpbạc_liêu bạc_liêu biết khoảng 4 giờ 30 phút ngày 16 ông nguyễn_hoàng_quân 52 tuổi chủ_tịch hội nông_dân tpbạc_liêu đi bộ tập_thể_dục chân cầu tôn_đức_thắng thuộc khóm 8 p 5 tpbạc_liêu thấy trần_văn_trường 25 tuổi ngụ khóm 8 p 5 ngồi dạ cầu toàn_thân lấm_lem bùn đất bước đến hỏi_thăm
+1,bất_ngờ trường xông tới đạp ông quân té ngã dùng dao tự chế đâm chém xối_xả đầu tay chân lưng bụng ông quân
+2,ông quân nằm bất_động trường cầm hung_khí rời khỏi hiện_trường
+3,ông quân người dân đưa bệnh_viện đa_khoa tỉnh bạc_liêu cấp_cứu trong tình_trạng nguy_kịch vết_thương khá nặng cơ_thể bất máu
+4,đại_tá chung nhận tin báo công_an huy_động lực_lượng xuống hiện_trường thu_thập thông_tin xác_minh đối_tượng
+5,45 phút gây_án trường bắt_giữ lẩn trốn trong một chòi giữ vuông tôm cách hiện_trường khoảng 300 m công_an thu_giữ hung_khí cây dao tự chế dài khoảng 70 cm
+6,cơ_quan công_an trường khai nhận mình hoàn_toàn mâu_thuẫn ông quân
+7,ông quân hỏi_thăm trường bực_tức trong mình nhìn ông quân thấy ghét dùng dao bất_ngờ đâm chém tới_tấp người nạn_nhân
+8,hồ_sơ công_an năm 2011 trường đưa đi cai_nghiện bắt_buộc nghiện ma_túy
+9,giữa năm 2015 trường về nhà
+10,gần trường thường_xuyên sử_dụng nghiện ma_túy đá
+11,kiểm_tra ở trường công_an còn thu_giữ dụng_cụ trường thường dùng hút ma_túy

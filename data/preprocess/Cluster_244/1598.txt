@@ -1,12 +1,12 @@
 idx, sentence
-0,cnn dẫn lời các thành_viên gia_đình cô gái xấu_số cho biết  những kẻ thủ ác đã đánh_đập maria_abbasi rồi tưới xăng đốt và bỏ mặc cô đến chết 
-1,rafaqat abbasi  chú của maria_abbasi cho biết  “ maria ở nhà trông đứa em_gái 5 tuổi trong khi gia_đình cô đến dự một đám_tang ở thị_trấn gần đó 
-2,gia_đình maria nhận được hung tin về việc con_gái bị bỏng khi vẫn đang ở đám_tang 
-3,ban_đầu họ tưởng đó là một tai_nạn  có_thể do vỡ đường_ống gas chẳng_hạn ” 
-4,sự_thật kinh_hoàng về cái chết của maria_abbasi chỉ được làm rõ khi cha_mẹ cô gái trở_về ngôi làng davel  huyện murree  đông_bắc pakistan 
-5,người chú của maria cho biết thêm  “ maria nằm trên sàn  cơ_thể con_bé bị bỏng tới 85  
-6,không có đường lớn xuyên qua làng 
-7,chúng_tôi phải đem maria đặt vào ghế men theo con đường gần nhất đi cấp_cứu ” 
-8,maria được đưa đến viện y_khoa pakistan ở islamabad  cách nhà cô khoảng 50 km để chữa_trị nhưng không qua khỏi vì bị bỏng quá nặng 
-9,thanh_tra cảnh_sát huyện murree_sohail_abbasi cho biết  có 4 đối_tượng đã đột_nhập vào nhà cô gái trước khi vụ_việc xảy ra 
-10,cảnh_sát pakistan hôm 1/6 bắt_giữ ba đối_tượng ở islamabad bị tình_nghi có liên_quan tới vụ sát_hại maria  đồng_thời phát lệnh bắt_giữ nghi_phạm thứ tư 
+0,cnn dẫn lời thành_viên gia_đình cô gái xấu_số biết kẻ thủ ác đánh_đập maria_abbasi tưới xăng đốt bỏ mặc cô đến chết
+1,rafaqat abbasi chú maria_abbasi biết “ maria ở nhà trông đứa em_gái 5 tuổi trong gia_đình cô đến dự một đám_tang ở thị_trấn gần
+2,gia_đình maria nhận hung tin về con_gái bỏng ở đám_tang
+3,ban_đầu họ tưởng một tai_nạn vỡ đường_ống gas chẳng_hạn ”
+4,sự_thật kinh_hoàng về chết maria_abbasi làm rõ cha_mẹ cô gái trở_về ngôi làng davel huyện murree đông_bắc pakistan
+5,người chú maria biết thêm “ maria nằm sàn cơ_thể con_bé bỏng tới 85
+6,đường lớn xuyên làng
+7,chúng_tôi đem maria đặt ghế men con đường gần nhất đi cấp_cứu ”
+8,maria đưa đến viện y_khoa pakistan ở islamabad cách nhà cô khoảng 50 km chữa_trị khỏi bỏng quá nặng
+9,thanh_tra cảnh_sát huyện murree_sohail_abbasi biết 4 đối_tượng đột_nhập nhà cô gái vụ_việc xảy
+10,cảnh_sát pakistan hôm 1/6 bắt_giữ ba đối_tượng ở islamabad tình_nghi liên_quan tới vụ sát_hại maria đồng_thời phát lệnh bắt_giữ nghi_phạm thứ tư

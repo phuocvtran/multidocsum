@@ -1,10 +1,10 @@
 idx, sentence
-0,vụ_việc xảy ra vào_khoảng 15 h30  ngày 28/5  tại showroom của tập_đoàn cà_phê trung_nguyên trên đường lý_tự_trọng  phường tân_an  tp buôn_ma_thuột  đắk_lắk 
-1,thời_điểm trên  lê_văn_công  sn 1990  ngụ huyện đông_anh  tp hà_nội  đến quán để uống cà_phê và liên_tục đòi các nhân_viên cho gặp ông đặng_lê_nguyên_vũ nhưng các nhân_viên trả_lời ông vũ_hiện không có_mặt ở đây 
-2,lúc này  chị hoàng_thị_ngọc_thùy  25 tuổi  nhân_viên phục_vụ  đang đi ra thì bị công kéo lại rồi rút một con dao thái_lan thủ sẵn trong người để khống_chế nhằm đòi gặp bằng được ông vũ 
-3,trước tình_thế nguy_hiểm  một_số nhân_viên đã nhanh_chóng trình_báo sự_việc lên cơ_quan công_an  còn một_số nhân_viên khác tìm cách tiếp_cận công để không cho đối_tượng làm hại chị thùy 
-4,nhận được tin cấp_báo  công_an tp buôn_ma_thuột cùng lực_lượng cảnh_sát 113 nhanh_chóng có_mặt tại hiện_trường 
-5,khi thấy đối_tượng sơ_hở  lực_lượng công_an đã nhanh_chóng xông vào tước_đoạt hung_khí và khống_chế đối_tượng  giải_thoát con_tin an_toàn 
-6,làm_việc với cơ_quan_chức_năng  đối_tượng công_khai nhận tập_đoàn cà_phê trung_nguyên đã tự_ý sử_dụng phần_mềm quản_lý_do chính_công viết ra mà không hề xin_phép nên công muốn gặp ông đặng_lê_nguyên_vũ để làm rõ 
-7,trong quá_trình làm_việc với cơ_quan công_an  công có biểu_hiện nói_nhảm như người đang ngáo đá 
-8,theo một_số nhân_viên showrom  trước đó vào chiều ngày 27/5  công đã đến quán để yêu_cầu nhân_viên cho số điện_thoại của ông vũ nhưng bị từ_chối nên đối_tượng này tỏ ra khá hậm_hực và bỏ đi 
+0,vụ_việc xảy vào_khoảng 15 h30 ngày 28/5 showroom tập_đoàn cà_phê trung_nguyên đường lý_tự_trọng phường tân_an tp buôn_ma_thuột đắk_lắk
+1,thời_điểm lê_văn_công sn 1990 ngụ huyện đông_anh tp hà_nội đến quán uống cà_phê liên_tục đòi nhân_viên gặp ông đặng_lê_nguyên_vũ nhân_viên trả_lời ông vũ_hiện có_mặt ở
+2,chị hoàng_thị_ngọc_thùy 25 tuổi nhân_viên phục_vụ đi công kéo rút một con dao thái_lan thủ sẵn trong người khống_chế nhằm đòi gặp bằng ông vũ
+3,tình_thế nguy_hiểm một_số nhân_viên nhanh_chóng trình_báo sự_việc cơ_quan công_an còn một_số nhân_viên khác tìm cách tiếp_cận công đối_tượng làm hại chị thùy
+4,nhận tin cấp_báo công_an tp buôn_ma_thuột lực_lượng cảnh_sát 113 nhanh_chóng có_mặt hiện_trường
+5,thấy đối_tượng sơ_hở lực_lượng công_an nhanh_chóng xông tước_đoạt hung_khí khống_chế đối_tượng giải_thoát con_tin an_toàn
+6,làm_việc cơ_quan_chức_năng đối_tượng công_khai nhận tập_đoàn cà_phê trung_nguyên tự_ý sử_dụng phần_mềm quản_lý_do chính_công viết hề xin_phép công muốn gặp ông đặng_lê_nguyên_vũ làm rõ
+7,trong quá_trình làm_việc cơ_quan công_an công biểu_hiện nói_nhảm người ngáo đá
+8,một_số nhân_viên showrom chiều ngày 27/5 công đến quán yêu_cầu nhân_viên số điện_thoại ông vũ từ_chối đối_tượng tỏ khá hậm_hực bỏ đi

@@ -1,8 +1,8 @@
 idx, sentence
-0,nhã phương cho biết  phần 2 của tuổi thanh_xuân dự_kiến ra_mắt khán_giả vào cuối tháng 10 trên kênh vtv3 
-1,trong phần 2 này  tính_cách  ngoại_hình của nhân_vật linh do nhã_phương thủ vai sẽ có sự thay_đổi đáng_kể 
-2,theo đó  linh trong tuổi thanh_xuân 2 sẽ có mái_tóc đen dài và tính_cách có nhiều sự đột_phá  dễ khiến mọi người đồng_cảm hơn so với phần 1 
-3,trong phần 2  cặp_đôi linh  junsu cũng gặp nhiều sóng_gió và linh sẽ phải mạnh_mẽ đối_diện với những khó_khăn đó 
-4,tuổi thanh_xuân là bộ phim hợp_tác giữa việt_nam  hàn_quốc 
-5,bắt_đầu được phát_sóng từ tháng 122014 trên kênh vtv3  tuổi thanh_xuân ngay_lập_tức nhận được sự yêu_thích của đông_đảo khán_giả truyền_hình và trở_thành bộ phim_truyền_hình  hot  nhất trong năm 
-6,những nhân_vật như junsu  kang_tae_oh   linh  nhã_phương   khánh  hồng_đăng  … trở_thành những cái tên  gây_sốt  và vẫn thường_xuyên được nhắc đến 
+0,nhã phương biết phần 2 tuổi thanh_xuân dự_kiến ra_mắt khán_giả cuối tháng 10 kênh vtv3
+1,trong phần 2 tính_cách ngoại_hình nhân_vật linh nhã_phương thủ vai thay_đổi đáng_kể
+2,linh trong tuổi thanh_xuân 2 mái_tóc đen dài tính_cách đột_phá dễ khiến mọi người đồng_cảm hơn phần 1
+3,trong phần 2 cặp_đôi linh junsu gặp sóng_gió linh mạnh_mẽ đối_diện khó_khăn
+4,tuổi thanh_xuân bộ phim hợp_tác giữa việt_nam hàn_quốc
+5,bắt_đầu phát_sóng tháng 122014 kênh vtv3 tuổi thanh_xuân ngay_lập_tức nhận yêu_thích đông_đảo khán_giả truyền_hình trở_thành bộ phim_truyền_hình hot nhất trong năm
+6,nhân_vật junsu kang_tae_oh linh nhã_phương khánh hồng_đăng … trở_thành tên gây_sốt thường_xuyên nhắc đến

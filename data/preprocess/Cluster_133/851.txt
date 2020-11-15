@@ -1,11 +1,11 @@
 idx, sentence
-0,tối 9/8  công_an huyện kỳ_anh  hà_tĩnh  cho biết  đơn_vị này vừa ra quyết_định khởi_tố vụ_án  khởi_tố bị_can đối_với nguyễn_thành_trinh  36 tuổi  và lê_xuân_kỳ  46 tuổi  cùng trú xã kỳ_phong  tx kỳ_anh để điều_tra về hành_vi  hiếp_dâm trẻ_em  
-1,cơ_quan công_an cho biết  kỳ và trinh chung vốn mở 1 quán cơm trá_hình tại xã kỳ_phong với mục_đích để hoạt_động mại_dâm 
-2,ngày 23/6  do 2 nhân_viên cũ xin nghỉ_việc nên kỳ và trinh đã nhờ lô_thị_xuân_lý  30 tuổi  trú tại huyện thanh_chương  nghệ_an  để tìm giúp nhân_viên mới thay_thế phục_vụ cho quán 
-3,ngày 26/6  sau khi dụ_dỗ được kha_thị_nhung  15 tuổi  trú huyện thanh_chương  nhận_lời đi làm bán quán cơm  lý đưa em nhung xuống tp vinh đồng_thời gọi điện cho kỳ và trinh ra đón về 
-4,tại đây  kỳ và trinh đã trả công tìm người cho lý_5_triệu đồng 
-5,sau đó  kỳ và trinh đưa nhung về quán tại xã kỳ_phong để nhận_việc 
-6,sau khi đón nhung về quán  kỳ và trinh ngồi uống bia 
-7,sau đó  cả 2 dắt nhung vào phòng ở phía sau quán rồi đe_doạ và thay nhau hãm_hiếp mặc cho nạn_nhân khóc_lóc van_xin 
-8,được biết  kỳ và trinh đã bị công_an theo_dõi từ lâu về hoạt_động mại_dâm khi mở quán cơm của mình 
-9,sau khi điều_tra làm rõ sự_việc  cảnh_sát cũng đã bắt_giữ lô_thị_xuân_lý về hành_vi mua_bán người 
+0,tối 9/8 công_an huyện kỳ_anh hà_tĩnh biết đơn_vị quyết_định khởi_tố vụ_án khởi_tố bị_can đối_với nguyễn_thành_trinh 36 tuổi lê_xuân_kỳ 46 tuổi trú xã kỳ_phong tx kỳ_anh điều_tra về hành_vi hiếp_dâm trẻ_em
+1,cơ_quan công_an biết kỳ trinh chung vốn mở 1 quán cơm trá_hình xã kỳ_phong mục_đích hoạt_động mại_dâm
+2,ngày 23/6 2 nhân_viên cũ xin nghỉ_việc kỳ trinh nhờ lô_thị_xuân_lý 30 tuổi trú huyện thanh_chương nghệ_an tìm giúp nhân_viên mới thay_thế phục_vụ quán
+3,ngày 26/6 dụ_dỗ kha_thị_nhung 15 tuổi trú huyện thanh_chương nhận_lời đi làm bán quán cơm lý đưa em nhung xuống tp vinh đồng_thời gọi điện kỳ trinh đón về
+4,kỳ trinh trả công tìm người lý_5_triệu đồng
+5,kỳ trinh đưa nhung về quán xã kỳ_phong nhận_việc
+6,đón nhung về quán kỳ trinh ngồi uống bia
+7,2 dắt nhung phòng ở phía quán đe_doạ thay nhau hãm_hiếp mặc nạn_nhân khóc_lóc van_xin
+8,biết kỳ trinh công_an theo_dõi lâu về hoạt_động mại_dâm mở quán cơm mình
+9,điều_tra làm rõ sự_việc cảnh_sát bắt_giữ lô_thị_xuân_lý về hành_vi mua_bán người

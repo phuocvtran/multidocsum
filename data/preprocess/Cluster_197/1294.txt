@@ -1,36 +1,36 @@
 idx, sentence
-0,theo hồ_sơ vụ án  thịnh là con thứ 5 trong gia_đình 7 anh_chị_em  từ nhỏ sống với bố_mẹ 
-1,năm 2000  thịnh học xong lớp 10 thì nghỉ vì gia_đình quá khó_khăn 
-2,năm 2003  thịnh vào làm_việc tại công_ty long_vân  thị_xã thuận_an  bình_dương  
-3,năm 2006 thịnh lập gia_đình với vợ là quách_thị_thơm  sn 1985  và nay đã có hai con nhỏ tqb
-4,9 tuổi và tmt
-5,mới 3 tuổi 
-6,tưởng_chừng trong cuộc_sống nghèo mà hạnh_phúc  thịnh một lòng yêu_thương vợ_con 
-7,tháng 2/2015  thịnh đi lao_động ở đông_hưng  trung_quốc   còn thơm ở nhà nuôi 2 con nhỏ 
-8,thời_gian này  thơm nảy_sinh quan_hệ tình_ái với trần_văn_lai  sn 1976  trú thôn tân_xuân  gio việt  gio_linh  
-9,biết được tin  ngày 23/7/2015  thịnh về nhà tra_hỏi và thơm đã thừa_nhận sự_việc 
-10,tức_giận  thịnh vung tay đánh_đập thơm bầm_dập 
-11,sau đó  thơm được lai và vợ của lai là trần_thị_phượng đưa về trạm_xá xã gio_việt điều_trị vết_thương  rồi bắt xe_khách cho về quê ngoại ở nga_sơn  thanh_hóa 
-12,một thời_gian sau  thơm đã nhận ra lỗi của mình nên gọi điện_thoại xin_lỗi thịnh và được tha_thứ 
-13,sau đó  thịnh bảo thơm vào quảng_trị rồi cả hai sẽ vào bình_dương để tìm_kiếm việc_làm  đồng_thời để cách_ly thơm với người_tình 
-14,tuy_nhiên  lúc này thơm lại biết mình đã có_thai với lai nên đã vào bình_dương trước để phá_thai  sau đó trở ra lại quảng_trị 
-15,ngày 14/8/2015  thịnh  thơm cùng con_trai út của mình bắt xe vào bình_dương  ở lại nhà em_gái thơm là quách_thị_thu 
-16,đến ngày 18/8  thịnh đưa thơm vào nhà_nghỉ hỏi về mối quan_hệ tình_ái của thơm với lai 
-17,thơm đã thừa_nhận và hứa sẽ từ bỏ mối quan_hệ bất_chính ấy nên thịnh bỏ_qua 
-18,nhưng đến ngày 19/8  thịnh tiếp_tục đưa thơm vào một nhà_nghỉ khác và hỏi_đi hỏi lại thơm “ còn chuyện gì giấu anh nữa không ” 
-19,thơm trả_lời “ không còn chuyện gì dấu nữa ” 
-20,tuy_nhiên  khi nghe thịnh nói “ anh có bằng_chứng đây  em có gì thì nói thật với anh  đừng nói_dối nữa ” 
-21,nghe vậy  thơm thừa_nhận đã có_thai với lai  trước đó phượng nói với thịnh rằng thơm đã có_thai với lai  nhưng đã phá_bỏ 
-22,nghe vậy  thịnh thất_vọng và khóc vì đã tha_thứ cho vợ nhưng vẫn bị vợ nói_dối 
-23,sau đó  thịnh đi uống bia ở quán vỉa_hè 
-24,vượt ngàn km giết người sau khi uống hết 3 lon bia  thịnh trở_lại nhà_nghỉ 
-25,lúc ấy  thơm đang cầm điện_thoại_di_động bất_ngờ thấy thịnh về thì giật_mình rồi dấu điện_thoại đi 
-26,khi thịnh hỏi thì thơm nói rằng gọi điện cho bà ngoại để hỏi xem con_trai có khóc không 
-27,nghe vậy thịnh vào phòng vệ_sinh tắm xong thì lên giường nằm với thơm 
-28,cảm_thấy có gì không bình_thường  thịnh mở điện_thoại thì thấy cuộc gọi số lạ  mở thêm tin nhắn thấy có tin với nội_dung  “ nếu anh thịnh bỏ em  anh có đi với em không ” 
-29,điên_tiết vì đã tha_thứ nhưng vợ vẫn cố_tình phản_bội  thịnh lấy dao_gọt trái_cây  con dao trước đó thịnh mua để gọt trái_cây cho thơm ăn  giết người khiến nạn_nhân chết tại_chỗ 
-30,sau khi mặc quần_áo lại cho vợ  thịnh rời nhà_nghỉ  bắt xe về tphcm rồi sau đó đi máy_bay ra huế và tiếp_tục về tới quảng_trị vào ngày 208 
-31,trên đường đi  thịnh điện_báo địa_chỉ nói gia_đình đưa thơm về nhà 
-32,đến khoảng 20 h30 ngày 20/8  thịnh đi xe_máy  mang theo dao lớn  dạng mã_tấu lấy từ nhà mình  xông vào nhà_lai  sở_dĩ  thịnh biết nhà lai vì khi trở về từ trung_quốc  thịnh đã bảo thơm chỉ nhà lai cho thịnh biết  
-33,thấy lai đang ngủ cùng vợ  thịnh vung dao chém một nhát vào cổ khiến lai chết tại_chỗ  sau đó bỏ chạy vào nghĩa_địa xã gio_việt lẩn trốn 
-34,đến sáng 21/8 thịnh bị bắt 
+0,hồ_sơ vụ án thịnh con thứ 5 trong gia_đình 7 anh_chị_em nhỏ sống bố_mẹ
+1,năm 2000 thịnh học xong lớp 10 nghỉ gia_đình quá khó_khăn
+2,năm 2003 thịnh làm_việc công_ty long_vân thị_xã thuận_an bình_dương
+3,năm 2006 thịnh lập gia_đình vợ quách_thị_thơm sn 1985 nay hai con nhỏ tqb
+4,9 tuổi tmt
+5,mới 3 tuổi
+6,tưởng_chừng trong cuộc_sống nghèo hạnh_phúc thịnh một lòng yêu_thương vợ_con
+7,tháng 2/2015 thịnh đi lao_động ở đông_hưng trung_quốc còn thơm ở nhà nuôi 2 con nhỏ
+8,thời_gian thơm nảy_sinh quan_hệ tình_ái trần_văn_lai sn 1976 trú thôn tân_xuân gio việt gio_linh
+9,biết tin ngày 23/7/2015 thịnh về nhà tra_hỏi thơm thừa_nhận sự_việc
+10,tức_giận thịnh vung tay đánh_đập thơm bầm_dập
+11,thơm lai vợ lai trần_thị_phượng đưa về trạm_xá xã gio_việt điều_trị vết_thương bắt xe_khách về quê ngoại ở nga_sơn thanh_hóa
+12,một thời_gian thơm nhận lỗi mình gọi điện_thoại xin_lỗi thịnh tha_thứ
+13,thịnh bảo thơm quảng_trị hai bình_dương tìm_kiếm việc_làm đồng_thời cách_ly thơm người_tình
+14,tuy_nhiên thơm biết mình có_thai lai bình_dương phá_thai trở quảng_trị
+15,ngày 14/8/2015 thịnh thơm con_trai út mình bắt xe bình_dương ở nhà em_gái thơm quách_thị_thu
+16,đến ngày 18/8 thịnh đưa thơm nhà_nghỉ hỏi về mối quan_hệ tình_ái thơm lai
+17,thơm thừa_nhận hứa bỏ mối quan_hệ bất_chính ấy thịnh bỏ_qua
+18,đến ngày 19/8 thịnh tiếp_tục đưa thơm một nhà_nghỉ khác hỏi_đi hỏi thơm “ còn giấu anh ”
+19,thơm trả_lời “ còn dấu ”
+20,tuy_nhiên nghe thịnh nói “ anh bằng_chứng em nói thật anh đừng nói_dối ”
+21,nghe thơm thừa_nhận có_thai lai phượng nói thịnh thơm có_thai lai phá_bỏ
+22,nghe thịnh thất_vọng khóc tha_thứ vợ vợ nói_dối
+23,thịnh đi uống bia ở quán vỉa_hè
+24,vượt ngàn km giết người uống hết 3 lon bia thịnh trở_lại nhà_nghỉ
+25,ấy thơm cầm điện_thoại_di_động bất_ngờ thấy thịnh về giật_mình dấu điện_thoại đi
+26,thịnh hỏi thơm nói gọi điện bà ngoại hỏi xem con_trai khóc
+27,nghe thịnh phòng vệ_sinh tắm xong giường nằm thơm
+28,cảm_thấy bình_thường thịnh mở điện_thoại thấy cuộc gọi số lạ mở thêm tin nhắn thấy tin nội_dung “ anh thịnh bỏ em anh đi em ”
+29,điên_tiết tha_thứ vợ cố_tình phản_bội thịnh lấy dao_gọt trái_cây con dao thịnh mua gọt trái_cây thơm ăn giết người khiến nạn_nhân chết tại_chỗ
+30,mặc quần_áo vợ thịnh rời nhà_nghỉ bắt xe về tphcm đi máy_bay huế tiếp_tục về tới quảng_trị ngày 208
+31,đường đi thịnh điện_báo địa_chỉ nói gia_đình đưa thơm về nhà
+32,đến khoảng 20 h30 ngày 20/8 thịnh đi xe_máy mang dao lớn dạng mã_tấu lấy nhà mình xông nhà_lai sở_dĩ thịnh biết nhà lai trở về trung_quốc thịnh bảo thơm nhà lai thịnh biết
+33,thấy lai ngủ vợ thịnh vung dao chém một nhát cổ khiến lai chết tại_chỗ bỏ chạy nghĩa_địa xã gio_việt lẩn trốn
+34,đến sáng 21/8 thịnh bắt

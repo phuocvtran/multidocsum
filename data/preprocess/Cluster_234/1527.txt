@@ -1,14 +1,14 @@
 idx, sentence
-0,trưa 26  thông_tin từ cửa_khẩu quốc_tế cha_lo  huyện minh_hoá tỉnh quảng_bình  cho biết đến trưa cùng ngày những nạn_nhân vụ nổ xe_khách tại lào vẫn chưa được đưa về việt_nam 
-1,hiện các cơ_quan_chức_năng lào vẫn đang xử_lý vụ_việc 
-2,theo thông_tin này  vụ nổ xe xảy ra vào sáng cùng ngày 
-3,chiếc xe_khách loại 30 chỗ mang biển kiểm_soát của lào  un 3897 chở 13 người đều quê nghệ_an đang trên đường về cửa_khẩu cha_lo thì bất_ngờ bị nổ tung 
-4,vụ nổ khiến 8 người chết tại_chỗ 
-5,ba người khác bị_thương nặng hiện đang được cấp_cứu tại lào 
-6,nơi xảy ra tai_nạn là khu_vực rừng_núi  ít dân_cư nên việc cấp_cứu gặp nhiều khó_khăn 
-7,thông_tin ban_đầu nơi xảy ra tai_nạn thuộc tỉnh khăm_muộn  lào  
-8,hiện vẫn chưa xác_định được danh_tính cũng như địa_chỉ cụ_thể của các nạn_nhân 
-9,trao_đổi với tuổi_trẻ  ông nguyễn_hồng_kỳ  giám_đốc sở gtvt nghệ_an cho biết đã nhận được thông_tin về vụ tai_nạn của xe_khách trên 
-10,chiếc xe nói trên của nhà_xe khánh_đơn chạy tuyến lào  nghệ_an  đã gặp nạn gần cửa_khẩu quốc_tế cha_lo 
-11,cơ_quan_chức_năng nghệ_an đang phối_hợp với sở gtvt quảng_bình xác_minh sự_việc và danh_tính các nạn_nhân gặp nạn 
-12,trao_đổi với tuổi_trẻ lúc 12 g trưa nay  ông võ_minh_đức  chánh_văn_phòng ban_atgt tỉnh nghệ_an cũng cho biết đang cử các đơn_vị xác_minh từ phía nhà xe khánh_đơn 
+0,trưa 26 thông_tin cửa_khẩu quốc_tế cha_lo huyện minh_hoá tỉnh quảng_bình biết đến trưa ngày nạn_nhân vụ nổ xe_khách lào đưa về việt_nam
+1,hiện cơ_quan_chức_năng lào xử_lý vụ_việc
+2,thông_tin vụ nổ xe xảy sáng ngày
+3,xe_khách loại 30 chỗ mang biển kiểm_soát lào un 3897 chở 13 người quê nghệ_an đường về cửa_khẩu cha_lo bất_ngờ nổ tung
+4,vụ nổ khiến 8 người chết tại_chỗ
+5,ba người khác bị_thương nặng hiện cấp_cứu lào
+6,xảy tai_nạn khu_vực rừng_núi ít dân_cư cấp_cứu gặp khó_khăn
+7,thông_tin ban_đầu xảy tai_nạn thuộc tỉnh khăm_muộn lào
+8,hiện xác_định danh_tính địa_chỉ cụ_thể nạn_nhân
+9,trao_đổi tuổi_trẻ ông nguyễn_hồng_kỳ giám_đốc sở gtvt nghệ_an biết nhận thông_tin về vụ tai_nạn xe_khách
+10,xe nói nhà_xe khánh_đơn chạy tuyến lào nghệ_an gặp nạn gần cửa_khẩu quốc_tế cha_lo
+11,cơ_quan_chức_năng nghệ_an phối_hợp sở gtvt quảng_bình xác_minh sự_việc danh_tính nạn_nhân gặp nạn
+12,trao_đổi tuổi_trẻ 12 g trưa nay ông võ_minh_đức chánh_văn_phòng ban_atgt tỉnh nghệ_an biết cử đơn_vị xác_minh phía nhà xe khánh_đơn

@@ -1,11 +1,11 @@
 idx, sentence
-0,truyền_thông_thái_lan cho biết ngọn lửa bùng_phát vào khoảng 23 giờ ngày 225  giờ_địa_phương  tại ký_túc_xá 2 tầng của một trường tư_thục ở quận wiang_pa_pao  tỉnh chiang_rai 
-1,tại thời_điểm xảy ra vụ hỏa_hoạn  ký_túc_xá có tất_cả 38 em học_sinh ở trong độ tuổi từ 5 đến 13  theo bbc 
-2,một_số em đi ngủ muộn nên kịp_thời chạy ra ngoài và thoát chết 
-3,ngoài 17 bé gái thiệt_mạng  vụ cháy còn làm 5 em khác bị_thương và 2 em vẫn còn mất_tích 
-4,hai trong số những em bị_thương hiện trong tình_trạng nguy_kịch 
-5, đám cháy xảy ra lúc 23 h đêm ngày 225  17 bé gái đã thiệt_mạng  2 em vẫn đang mất_tích và 5 em bị_thương   đại_tá cảnh_sát prayad_singsin cho hay 
-6,ông cũng cho biết thêm rằng  hiện ngọn lửa đã được dập_tắt song nguyên_nhân vụ_việc đang được điều_tra 
-7,một cảnh_sát cho biết ký_túc_xá là nơi ở của các trẻ_em dân_tộc miền núi nghèo_khó trong khu_vực 
-8,trường_học này do một tổ_chức địa_phương điều_hành  không phải của chính_quyền 
-9,hình_ảnh trên trang mạng xã_hội facebook của trường này cho thấy các nhân_viên cứu_hỏa cố_gắng dập_tắt đám cháy đang bao_trùm tòa nhà hai tầng màu trắng 
+0,truyền_thông_thái_lan biết ngọn lửa bùng_phát khoảng 23 giờ ngày 225 giờ_địa_phương ký_túc_xá 2 tầng một trường tư_thục ở quận wiang_pa_pao tỉnh chiang_rai
+1,thời_điểm xảy vụ hỏa_hoạn ký_túc_xá tất_cả 38 em học_sinh ở trong độ tuổi 5 đến 13 bbc
+2,một_số em đi ngủ muộn kịp_thời chạy ngoài thoát chết
+3,ngoài 17 bé gái thiệt_mạng vụ cháy còn làm 5 em khác bị_thương 2 em còn mất_tích
+4,hai trong số em bị_thương hiện trong tình_trạng nguy_kịch
+5,đám cháy xảy 23 h đêm ngày 225 17 bé gái thiệt_mạng 2 em mất_tích 5 em bị_thương đại_tá cảnh_sát prayad_singsin hay
+6,ông biết thêm hiện ngọn lửa dập_tắt song nguyên_nhân vụ_việc điều_tra
+7,một cảnh_sát biết ký_túc_xá ở trẻ_em dân_tộc miền núi nghèo_khó trong khu_vực
+8,trường_học một tổ_chức địa_phương điều_hành chính_quyền
+9,hình_ảnh trang mạng xã_hội facebook trường thấy nhân_viên cứu_hỏa cố_gắng dập_tắt đám cháy bao_trùm tòa nhà hai tầng màu trắng

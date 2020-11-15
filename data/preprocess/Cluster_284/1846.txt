@@ -1,8 +1,8 @@
 idx, sentence
-0,mới_đây  trên tài_khoản instagram  hoa_hậu kỳ_duyên đã chia_sẻ hình_ảnh hẹn_hò của mình và bạn trai 
-1,tuy_nhiên  hình_ảnh chụp bạn trai của người_đẹp lại là góc chụp từ phía sau vì_vậy khán_giả chưa được tường mặt nên vẫn “ đoán_già đoán non ” 
-2,người đẹp gốc nam_định chụp bạn trai của mình từ phía sau  trên tay cầm rất nhiều đồ_đạc lỉnh_kỉnh  kèm theo bức hình là chia_sẻ  “ his back  feel safe   tạm dịch  tấm lưng của anh ấy  cảm_thấy thật bình_yên  và hashtag  pieceofmind  tạm dịch  bình_yên trong tâm_hồn  
-3,sau khi chia_sẻ  bức hình nhanh_chóng thu_hút sự chú_ý của cộng_đồng_cư_dân mạng  đã có rất nhiều lời chúc được gửi đến kỳ_duyên 
-4,đáp lại  kỳ_duyên cũng không ngại_ngần thừa_nhận tình_trạng hẹn_hò của mình 
-5,ngoài_ra  cô còn cho biết bức hình_ảnh được chụp khi bạn trai đang giúp cô xếp_hàng trước phòng thử đổ 
-6,tuy không rõ mặt nhưng nhiều người đoán rằng người đàn_ông trong bức ảnh hoa_hậu kỳ_duyên chia_sẻ chính là vị doanh_nhân đã không tiếc tay chi ra 145 triệu để sở_hữu chiếc đầm hoa_hậu mặc trong buổi đấu_giá tại show diễn thời_trang của ntk_hoàng_hải  doanh_nhân trẻ tạ công_sơn 
+0,mới_đây tài_khoản instagram hoa_hậu kỳ_duyên chia_sẻ hình_ảnh hẹn_hò mình bạn trai
+1,tuy_nhiên hình_ảnh chụp bạn trai người_đẹp góc chụp phía vì_vậy khán_giả tường mặt “ đoán_già đoán non ”
+2,người đẹp gốc nam_định chụp bạn trai mình phía tay cầm đồ_đạc lỉnh_kỉnh kèm bức hình chia_sẻ “ his back feel safe tạm dịch tấm lưng anh ấy cảm_thấy thật bình_yên hashtag pieceofmind tạm dịch bình_yên trong tâm_hồn
+3,chia_sẻ bức hình nhanh_chóng thu_hút chú_ý cộng_đồng_cư_dân mạng lời chúc gửi đến kỳ_duyên
+4,đáp kỳ_duyên ngại_ngần thừa_nhận tình_trạng hẹn_hò mình
+5,ngoài_ra cô còn biết bức hình_ảnh chụp bạn trai giúp cô xếp_hàng phòng thử đổ
+6,tuy rõ mặt người đoán người đàn_ông trong bức ảnh hoa_hậu kỳ_duyên chia_sẻ chính vị doanh_nhân tiếc tay chi 145 triệu sở_hữu đầm hoa_hậu mặc trong buổi đấu_giá show diễn thời_trang ntk_hoàng_hải doanh_nhân trẻ tạ công_sơn

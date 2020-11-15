@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 315  cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqad   bộ_nnptnt cho biết đã gửi văn_bản đến cơ_quan quản_lý chất_lượng nông_lâm_sản và thủy_sản nam_bộ và trung_bộ  các doanh_nghiệp xuất_khẩu thủy_sản đi các nước liên_minh_châu_âu  eu  yêu_cầu kiểm_soát chất_lượng đến từng lô hàng trước khi xuất_khẩu 
-1,theo nafiqad  ngày 135  tổng_vụ sức_khỏe và an_toàn thực_phẩm  ủy_ban châu_âu đã có công thư cảnh_báo vn chưa thực_sự khắc_phục được vấn_nạn sử_dụng các loại hóa_chất kháng_sinh cấm trong nuôi_trồng và chế_biến thủy_sản 
-2,theo đó  eu có thông_báo cơ_sở chế_biến thủy_sản vn sẽ bị đưa ra khỏi danh_sách các cơ_sở chế_biến xuất_khẩu thủy_sản vào eu  trong trường_hợp các lô hàng xuất_khẩu vào thị_trường này tiếp_tục bị cảnh_báo có hóa_chất kháng_sinh cấm 
-3,cũng theo nafiqad  ngày 245  eu có gửi thông_báo cho các nước thành_viên về hiện_tượng cá biển chết hàng_loạt chưa rõ nguyên_nhân ở các tỉnh ven biển miền trung và yêu_cầu kiểm_soát chặt_chẽ các lô hàng thủy_sản biển nhập_khẩu từ vn 
+0,ngày 315 cục quản_lý chất_lượng nông_lâm_sản thủy_sản nafiqad bộ_nnptnt biết gửi văn_bản đến cơ_quan quản_lý chất_lượng nông_lâm_sản thủy_sản nam_bộ trung_bộ doanh_nghiệp xuất_khẩu thủy_sản đi nước liên_minh_châu_âu eu yêu_cầu kiểm_soát chất_lượng đến lô hàng xuất_khẩu
+1,nafiqad ngày 135 tổng_vụ sức_khỏe an_toàn thực_phẩm ủy_ban châu_âu công thư cảnh_báo vn thực_sự khắc_phục vấn_nạn sử_dụng loại hóa_chất kháng_sinh cấm trong nuôi_trồng chế_biến thủy_sản
+2,eu thông_báo cơ_sở chế_biến thủy_sản vn đưa khỏi danh_sách cơ_sở chế_biến xuất_khẩu thủy_sản eu trong trường_hợp lô hàng xuất_khẩu thị_trường tiếp_tục cảnh_báo hóa_chất kháng_sinh cấm
+3,nafiqad ngày 245 eu gửi thông_báo nước thành_viên về hiện_tượng cá biển chết hàng_loạt rõ nguyên_nhân ở tỉnh ven biển miền trung yêu_cầu kiểm_soát chặt_chẽ lô hàng thủy_sản biển nhập_khẩu vn

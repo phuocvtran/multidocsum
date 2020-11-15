@@ -1,20 +1,20 @@
 idx, sentence
-0,bà mẹ zoe_eastman  33 tuổi  sinh_sống tại liverpool cho biết sở_thích kỳ_quái nhất của cô khi mang thai đó là được ngâm mình trong bồn_tắm  thậm_chí có_thể là 3 lần một ngày chỉ để làm một việc khiến nhiều người “ sốc ” đó là thưởng_thức bọt xà_phòng 
-1,bà mẹ này còn so_sánh việc được ngậm một miệng đầy xà_phòng còn thích_thú hơn cả “ làm chuyện ấy ” 
-2,giải_thích về thói_quen kỳ_lạ này  bà mẹ 33 tuổi cho biết   khi mới mang thai  tôi thích cái cảm_giác được nâng_niu  vuốt_ve mình trong bồn_tắm với loại kem dưỡng giúp da mềm_mại 
-3,tôi thử dùng nhiều sản_phẩm khác nhau  nhưng đến khi mang bầu được 20 tuần  cơn thèm ăn bọt xà_phòng của tôi bắt_đầu khi tôi tìm được sản_phẩm sữa tắm radox_muscle_therapy 
-4,nó khiến tôi lúc_nào cũng thấy thèm_thuồng  
-5,thậm_chí  bà mẹ này còn có_thể phủ đầy bọt xà_phòng lên mặt rồi từ_từ hút vào miệng và tận_hưởng 
-6,“ cảm_giác như_thể tôi được tiếp thêm sinh_lực  và tôi bắt_đầu thưởng_thức chúng từ đó 
-7,tôi cảm_thấy như đạt được khoái_cảm từ việc ăn bọt xà_phòng 
-8,  cô nói 
-9,cơn thèm ăn kỳ_lạ của zoe còn lên tới đỉnh_điểm tới mức cô có_thể tắm hết hai chai radox chỉ trong một tuần và tắm 3 lần mỗi ngày 
-10,cô cố giấu mọi người thói_quen ăn_uống kỳ_lạ này nhưng một buổi tối nọ đã bị hôn phu mark_smith bắt_gặp 
-11, lúc bị anh ấy nhìn thấy  đáng ra tôi phải thấy ngại  nhưng tôi sung_sướng đến mức chẳng cần quan_tâm trông mình ra_sao 
-12,  zoe kể lại 
-13,thậm_chí  bà mẹ này còn cho biết cô cứ nghĩ đến những cái bọt sữa tắm suốt cả ngày 
-14,sau khi chia_sẻ sở_thích kỳ_quái này  zoe_eastman được nhiều người khuyên nên đến gặp bác_sĩ vì rất có_thể cô đã mặc hội_chứng_pica_– hội_chứng rối_loạn ăn_uống có liên_quan tới tình_trạng thiếu sắt trong cơ_thể 
-15,tuy_nhiên kết_quả xét_nghiệm máu cho thấy thai kỳ của bà mẹ này hoàn_toàn bình_thường và cô cũng không hề bị thiếu_máu 
-16,bác_sĩ cũng khẳng_định_sở_thích ăn bọt xà_phòng kỳ_lạ này cũng không gây nguy_hại đến đứa con trong bụng 
-17,thời_gian sau đó  zoe vẫn tiếp_tục ăn bọt  nhưng chỉ có mùi hương của sữa tắm radox mới hấp_dẫn cô 
-18,cơn nghiện kỳ_lạ này tiếp_tục cho tới khi cô sinh con_trai indie  hiện 2 tuổi 
+0,bà mẹ zoe_eastman 33 tuổi sinh_sống liverpool biết sở_thích kỳ_quái nhất cô mang thai ngâm mình trong bồn_tắm thậm_chí 3 lần một ngày làm một khiến người “ sốc ” thưởng_thức bọt xà_phòng
+1,bà mẹ còn so_sánh ngậm một miệng đầy xà_phòng còn thích_thú hơn “ làm ấy ”
+2,giải_thích về thói_quen kỳ_lạ bà mẹ 33 tuổi biết mới mang thai tôi thích cảm_giác nâng_niu vuốt_ve mình trong bồn_tắm loại kem dưỡng giúp da mềm_mại
+3,tôi thử dùng sản_phẩm khác nhau đến mang bầu 20 tuần cơn thèm ăn bọt xà_phòng tôi bắt_đầu tôi tìm sản_phẩm sữa tắm radox_muscle_therapy
+4,nó khiến tôi lúc_nào thấy thèm_thuồng
+5,thậm_chí bà mẹ còn phủ đầy bọt xà_phòng mặt từ_từ hút miệng tận_hưởng
+6,“ cảm_giác như_thể tôi tiếp thêm sinh_lực tôi bắt_đầu thưởng_thức chúng
+7,tôi cảm_thấy đạt khoái_cảm ăn bọt xà_phòng
+8,cô nói
+9,cơn thèm ăn kỳ_lạ zoe còn tới đỉnh_điểm tới mức cô tắm hết hai chai radox trong một tuần tắm 3 lần ngày
+10,cô cố giấu mọi người thói_quen ăn_uống kỳ_lạ một buổi tối nọ hôn phu mark_smith bắt_gặp
+11,anh ấy nhìn thấy đáng tôi thấy ngại tôi sung_sướng đến mức chẳng quan_tâm trông mình ra_sao
+12,zoe kể
+13,thậm_chí bà mẹ còn biết cô nghĩ đến bọt sữa tắm suốt ngày
+14,chia_sẻ sở_thích kỳ_quái zoe_eastman người khuyên đến gặp bác_sĩ cô mặc hội_chứng_pica_– hội_chứng rối_loạn ăn_uống liên_quan tới tình_trạng thiếu sắt trong cơ_thể
+15,tuy_nhiên kết_quả xét_nghiệm máu thấy thai kỳ bà mẹ hoàn_toàn bình_thường cô hề thiếu_máu
+16,bác_sĩ khẳng_định_sở_thích ăn bọt xà_phòng kỳ_lạ gây nguy_hại đến đứa con trong bụng
+17,thời_gian zoe tiếp_tục ăn bọt mùi hương sữa tắm radox mới hấp_dẫn cô
+18,cơn nghiện kỳ_lạ tiếp_tục tới cô sinh con_trai indie hiện 2 tuổi

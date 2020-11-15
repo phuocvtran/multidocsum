@@ -1,5 +1,5 @@
 idx, sentence
-0,tuy_nhiên  madam nhu trần_lệ_xuân  quyền_lực bà rồng chỉ bị thu_hồi ấn_phẩm đầu_tiên  ấn_phẩm chưa được chỉnh sửa mà cục xuất_bản đã được yêu_cầu đình_bản từ hồi tháng 22016 
-1,khi đó  cục xuất_bản đã có công_văn số 124 / cxbiphqlxb yêu_cầu nhà_xuất_bản hội nhà_văn đình_chỉ cuốn sách madam nhu trần_lệ_xuân  quyền_lực bà rồng phiên_bản xuất_bản lần đầu  để “ rà_soát lại toàn_bộ nội_dung  chỉnh sửa một_số chi_tiết trong sách và bìa 4 ” 
-2,tuy_nhiên  sau khi quyển này đã chỉnh sửa và được phát_hành thì hiện_tại trên thị_trường vẫn đang tồn_tại hai phiên_bản madam nhu trần_lệ_xuân  quyền_lực bà rồng 
-3,chính vì_thế  sở tttt yêu_cầu các phòng_văn_hóa thông_tin ở các quận  huyện và các cơ_sở phát_hành sách nếu phát_hiện tổ_chức  cá_nhân có phát_hành quyển sách madam nhu trần_lệ_xuân  quyền_lực bà rồng phiên_bản in lần đầu chưa được sửa_chữa thì yêu_cầu tổ_chức  cá_nhân đó dừng ngay việc phát_hành và chuyển trả sách về cho nxb hội nhà_văn hoặc công_ty phương_nam_– đơn_vị hợp_tác cùng hội nhà_văn phát_hành 
+0,tuy_nhiên madam nhu trần_lệ_xuân quyền_lực bà rồng thu_hồi ấn_phẩm đầu_tiên ấn_phẩm chỉnh sửa cục xuất_bản yêu_cầu đình_bản hồi tháng 22016
+1,cục xuất_bản công_văn số 124 / cxbiphqlxb yêu_cầu nhà_xuất_bản hội nhà_văn đình_chỉ cuốn sách madam nhu trần_lệ_xuân quyền_lực bà rồng phiên_bản xuất_bản lần đầu “ rà_soát toàn_bộ nội_dung chỉnh sửa một_số chi_tiết trong sách bìa 4 ”
+2,tuy_nhiên quyển chỉnh sửa phát_hành hiện_tại thị_trường tồn_tại hai phiên_bản madam nhu trần_lệ_xuân quyền_lực bà rồng
+3,chính vì_thế sở tttt yêu_cầu phòng_văn_hóa thông_tin ở quận huyện cơ_sở phát_hành sách phát_hiện tổ_chức cá_nhân phát_hành quyển sách madam nhu trần_lệ_xuân quyền_lực bà rồng phiên_bản in lần đầu sửa_chữa yêu_cầu tổ_chức cá_nhân dừng phát_hành chuyển trả sách về nxb hội nhà_văn hoặc công_ty phương_nam_– đơn_vị hợp_tác hội nhà_văn phát_hành

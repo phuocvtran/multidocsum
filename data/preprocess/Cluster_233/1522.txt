@@ -1,12 +1,12 @@
 idx, sentence
-0,để xoa_dịu sự giân dữ từ phía công_chúng  ông masuzoen tuyên_bố sẽ không hưởng các đặc_lợi từ ghế hạng thương_gia trên máy_bay  hạn_chế tới_mức tối_đa chi_phí cho các chuyến đi nước_ngoài  đồng_thời khẳng_định sẽ làm_việc với luật_sư để kiểm_tra lại việc sử_dụng tiền công 
-1,trước đó  thị_trưởng tokyo phải hững chịu chỉ_trích dữ_dội từ phía dư_luận sau khi những lần “ vung tay quá trán ” của ông bị phát_giác 
-2,theo scmp  ông masuzoe “ chi đậm ” cho các chuyến đi nước_ngoài  mua_bán đấu_giá trực_tuyến và nơi ăn chốn ở tại các khách_sạn cao_cấp cùng các dịch_vụ spa xa_xỉ 
-3,“ từ tận đáy lòng  tôi gửi lời xin_lỗi tới người dân tokyo và hội_đồng thành_phố tokyo ”  thị_trưởng nhật_bản phát_biểu trong cuộc họp ở hội_đồng lập_pháp thành_phố hôm 1/6 
-4,điều này có_vẻ trái_ngược hoàn_toàn so với tâm_trạng thoải_mái khi ông viết trên tweeter của mình hồi tháng 1/2014   tôi đang ngâm mình trong suối_nước_nóng  nhìn xuống vịnh tokyo và cả thành_phố tokyo đang ở sau lưng  
-5,những rắc_rối bắt_đầu vào cuối tháng 4 vừa_qua  khi xuất_hiện các báo_cáo chỉ ra rằng ông masuzoe dùng xe công để về quê ở yugawara nghỉ_mát vào mỗi cuối tuần 
-6,ông masuzoe sau đó phủ_nhận cáo_buộc này 
-7,tuy_nhiên  vụ bê_bối càng thêm nghiêm_trọng khi xuất_hiện thông_tin ông “ nướng ” hết tổng_cộng 50 triệu yên nhật  hơn 450000 usd  cho hai chuyến công_du đến london  anh và paris  pháp cùng với 20 quan_chức thành_phố hồi năm 2015 
-8,riêng ông masuzoe đã chi không ít tiền cho ghế hạng thương_gia và chi_phí tại các phòng nghỉ sang_trọng trong các chuyến di này 
-9,thị_trưởng tokyo cũng bị_cáo_buộc đã sử_dụng các khoản đóng_góp của các nhà ủng_hộ tài_trợ  cũng như tiền thuế do chính_phủ cung_cấp để mua đồ đồ_dùng cá_nhân 
-10,theo đài_truyền_hình nhk và các phương_tiện truyền_thông  ông masuzoe đã bỏ ra 31000 yên nhật để mua một lá thư của cố cố họa_sĩ người mỹ keith_haring và coi đó là “ tài_liệu nghiên_cứu cá_nhân ” 
+0,xoa_dịu giân dữ phía công_chúng ông masuzoen tuyên_bố hưởng đặc_lợi ghế hạng thương_gia máy_bay hạn_chế tới_mức tối_đa chi_phí chuyến đi nước_ngoài đồng_thời khẳng_định làm_việc luật_sư kiểm_tra sử_dụng tiền công
+1,thị_trưởng tokyo hững chịu chỉ_trích dữ_dội phía dư_luận lần “ vung tay quá trán ” ông phát_giác
+2,scmp ông masuzoe “ chi đậm ” chuyến đi nước_ngoài mua_bán đấu_giá trực_tuyến ăn chốn ở khách_sạn cao_cấp dịch_vụ spa xa_xỉ
+3,“ tận đáy lòng tôi gửi lời xin_lỗi tới người dân tokyo hội_đồng thành_phố tokyo ” thị_trưởng nhật_bản phát_biểu trong cuộc họp ở hội_đồng lập_pháp thành_phố hôm 1/6
+4,có_vẻ trái_ngược hoàn_toàn tâm_trạng thoải_mái ông viết tweeter mình hồi tháng 1/2014 tôi ngâm mình trong suối_nước_nóng nhìn xuống vịnh tokyo thành_phố tokyo ở lưng
+5,rắc_rối bắt_đầu cuối tháng 4 vừa_qua xuất_hiện báo_cáo ông masuzoe dùng xe công về quê ở yugawara nghỉ_mát cuối tuần
+6,ông masuzoe phủ_nhận cáo_buộc
+7,tuy_nhiên vụ bê_bối thêm nghiêm_trọng xuất_hiện thông_tin ông “ nướng ” hết tổng_cộng 50 triệu yên nhật hơn 450000 usd hai chuyến công_du đến london anh paris pháp 20 quan_chức thành_phố hồi năm 2015
+8,riêng ông masuzoe chi ít tiền ghế hạng thương_gia chi_phí phòng nghỉ sang_trọng trong chuyến di
+9,thị_trưởng tokyo bị_cáo_buộc sử_dụng khoản đóng_góp nhà ủng_hộ tài_trợ tiền thuế chính_phủ cung_cấp mua đồ đồ_dùng cá_nhân
+10,đài_truyền_hình nhk phương_tiện truyền_thông ông masuzoe bỏ 31000 yên nhật mua một lá thư cố cố họa_sĩ người mỹ keith_haring coi “ tài_liệu nghiên_cứu cá_nhân ”

@@ -1,8 +1,8 @@
 idx, sentence
-0,nạn_nhân bị sét đánh tử_vong được xác_định là ông lê_văn_tưởng  sn 1974  trú xã hương_an  thị_xã hương_trà  thừa_thiênhuế  
-1,vào khoảng 14 giờ 30 phút  ông tưởng đi làm trên đồng thì sét đánh 
-2,mặc_dù được chuyển đến bv_trung_ương huế cấp_cứu nhưng do thương_tích quá nặng nên ông tưởng đã tử_vong 
-3,cùng thời_điểm trên  trên địa_bàn tỉnh cũng xãy ra vụ sét đánh làm sáu người bị_thương 
-4,ông nghĩa kể lại trong lúc anh hồ_nghĩa  sn 1968   hồ_lĩnh  sn 1999  con của ông nghĩa   nguyễn_văn_toán  sn 1970  cùng trú phường an_hòa  tp huế  đang gieo mạ tại vùng ruộng bàu_miêu thì gặp trời mưa lớn kèm giông sét dữ_dội nên vào trú tại một chòi nhỏ ven ruộng 
-5,vào lúc đó có ba cháu nhỏ đang là học_sinh cùng vào trú 
-6,bất_ngờ sét đánh lớn khiến mọi người trong nhóm văng ra ngoài 
+0,nạn_nhân sét đánh tử_vong xác_định ông lê_văn_tưởng sn 1974 trú xã hương_an thị_xã hương_trà thừa_thiênhuế
+1,khoảng 14 giờ 30 phút ông tưởng đi làm đồng sét đánh
+2,mặc_dù chuyển đến bv_trung_ương huế cấp_cứu thương_tích quá nặng ông tưởng tử_vong
+3,thời_điểm địa_bàn tỉnh xãy vụ sét đánh làm sáu người bị_thương
+4,ông nghĩa kể trong anh hồ_nghĩa sn 1968 hồ_lĩnh sn 1999 con ông nghĩa nguyễn_văn_toán sn 1970 trú phường an_hòa tp huế gieo mạ vùng ruộng bàu_miêu gặp trời mưa lớn kèm giông sét dữ_dội trú một chòi nhỏ ven ruộng
+5,ba cháu nhỏ học_sinh trú
+6,bất_ngờ sét đánh lớn khiến mọi người trong nhóm văng ngoài

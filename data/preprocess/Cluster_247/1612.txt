@@ -1,13 +1,13 @@
 idx, sentence
-0,ngày 26  tại ubnd phường quảng_thành  tp thanh_hóa   tand tỉnh thanh_hóa mở phiên_tòa xét_xử sơ_thẩm lưu_động đối_với bị_cáo hoàng_ngọc_hùng  sn 1988  ngụ phường quảng_thành  tp thanh_hóa  tỉnh thanh_hóa  về tội_danh “ giết_người ” 
-1,theo cáo_trạng của vksnd tỉnh thanh_hóa  ngày 21122015  do không có tiền mua ma_túy sử_dụng nên hùng và ông bùi_xuân_vinh  sn 1976  ngụ phường quảng_thành  lấy xe_máy của bạn ông vinh đi cắm được 1 triệu đồng để mua ma_túy dùng chung 
-2,ngày 2212  bạn đòi xe nên ông vinh nói với hùng mang xe đi cắm để lấy xe cho bạn 
-3,hùng đã đồng_ý mang xe đi cắm 
-4,tuy_nhiên  do nhiều lần cắm xe “ xài ” chung ma_túy nhưng ông vinh không đưa tiền lại cho hùng 
-5,cho_rằng lần này vẫn bị lừa nên hùng lấy một con dao nhọn  loại dao dùng chọc_tiết lợn  dắt vào người rồi đi xe_đạp đến nhà ông nguyễn_đăng_tứ  cùng phường  mua tiếp một con dao nhọn gọt hoa_quả rồi bỏ vào trong túi quần 
-6,sau đó biết ông vinh không có nhà nên hùng đi về nhà 
-7,đến trưa cùng ngày 2212  hùng xuống nhà anh nguyễn_văn_quế  cùng phường  uống bia  lúc này hùng mượn điện_thoại của anh quế gọi ông vinh xuống 
-8,tại nhà anh quế  hùng hỏi ông vinh trả tiền để đi chuộc xe  ông vinh nói đang đi vay tiền và sẽ trả vào chiều hoặc sáng_mai 
-9,cho_rằng lần này lại bị lừa nên hùng đi theo ông vinh rồi rút dao chọc_tiết lợn ra cắt cổ và đâm_chết anh vinh bằng nhiều nhát dao 
-10,gây_án xong  hùng chạy bộ rời khỏi hiện_trường  vứt lại dao gây_án và mũ_bảo_hiểm trên đường đi 
-11,đến sáng ngày hôm sau  2312   hùng ra cơ_quan công_an đầu_thú 
+0,ngày 26 ubnd phường quảng_thành tp thanh_hóa tand tỉnh thanh_hóa mở phiên_tòa xét_xử sơ_thẩm lưu_động đối_với bị_cáo hoàng_ngọc_hùng sn 1988 ngụ phường quảng_thành tp thanh_hóa tỉnh thanh_hóa về tội_danh “ giết_người ”
+1,cáo_trạng vksnd tỉnh thanh_hóa ngày 21122015 tiền mua ma_túy sử_dụng hùng ông bùi_xuân_vinh sn 1976 ngụ phường quảng_thành lấy xe_máy bạn ông vinh đi cắm 1 triệu đồng mua ma_túy dùng chung
+2,ngày 2212 bạn đòi xe ông vinh nói hùng mang xe đi cắm lấy xe bạn
+3,hùng đồng_ý mang xe đi cắm
+4,tuy_nhiên lần cắm xe “ xài ” chung ma_túy ông vinh đưa tiền hùng
+5,cho_rằng lần lừa hùng lấy một con dao nhọn loại dao dùng chọc_tiết lợn dắt người đi xe_đạp đến nhà ông nguyễn_đăng_tứ phường mua tiếp một con dao nhọn gọt hoa_quả bỏ trong túi quần
+6,biết ông vinh nhà hùng đi về nhà
+7,đến trưa ngày 2212 hùng xuống nhà anh nguyễn_văn_quế phường uống bia hùng mượn điện_thoại anh quế gọi ông vinh xuống
+8,nhà anh quế hùng hỏi ông vinh trả tiền đi chuộc xe ông vinh nói đi vay tiền trả chiều hoặc sáng_mai
+9,cho_rằng lần lừa hùng đi ông vinh rút dao chọc_tiết lợn cắt cổ đâm_chết anh vinh bằng nhát dao
+10,gây_án xong hùng chạy bộ rời khỏi hiện_trường vứt dao gây_án mũ_bảo_hiểm đường đi
+11,đến sáng ngày hôm 2312 hùng cơ_quan công_an đầu_thú

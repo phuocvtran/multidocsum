@@ -1,35 +1,35 @@
 idx, sentence
-0,theo cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqad   ngày 24/5/2016  cơ_quan thẩm_quyền eu đã có văn_bản cảnh_báo số 16814 tới các nước thành_viên eu về việc cá chết bất_thường tại việt_nam và đề_nghị các nước kiểm_soát chặt_chẽ các lô hàng thủy_sản biển nhập_khẩu từ việt_nam 
-1,cảnh_báo này của eu có trích_dẫn nguồn thông_tin tham_khảo từ wikipedia 
-2,theo đó  nguồn thông_tin này tổng_hợp các thông_tin về hiện_tượng cá chết hàng_loạt tại ven biển 4 tỉnh miền trung  hà_tĩnh  quảng_bình  quảng_trị và thừa_thiên_huế  và cũng khẳng_định chưa xác_định được nguyên_nhân 
-3,tuy_nhiên  những thông_tin này cũng đã gây lo_ngại cho các nhà nhập_khẩu thủy_sản tại eu về chất_lượng hải_sản xuất_khẩu 
-4,thực_tế  các ngư_trường khai_thác chính nguyên_liệu hải_sản phục_vụ cho xuất_khẩu của việt_nam bao_gồm các tỉnh từ đà_nẵng trở vào nam_trung_bộ  bình_định  khánh_hòa  phú_yên  bình_thuận …  và các tỉnh nam_bộ  kiên_giang  cà_mau …   được khai_thác bằng các tàu công_suất lớn  đánh_bắt xa bờ 
-5,nguồn nguyên_liệu của các địa_phương này cung_cấp hầu_hết nguyên_liệu cho các doanh_nghiệp chế_biến và xuất_khẩu các mặt_hàng_hải_sản chính như cá_ngừ  cua ghẹ  surimi cá khô và cá biển khác … và nhiều doanh_nghiệp cũng đang chế_biến xuất_khẩu từ nguồn nguyên_liệu nhập_khẩu từ các nước khác 
-6,hơn_nữa trong thời_gian qua bộ_nn và ptnt đã chỉ_đạo khảo_sát  lấy mẫu và khẳng_định các khu_vực khai_thác xa bờ  vùng_biển xa bờ ngoài 2030 hải_lý  thuộc 4 tỉnh có hiện_tượng cá chết đều an_toàn 
-7,bộ nn  ptnt đã có công_văn 3441 / bnntcts ngày 2/5/2016  chỉ_đạo  hướng_dẫn và triển_khai các biện_pháp để đảm_bảo vệ_sinh môi_trường và an_toàn thực_phẩm cho tiêu_thụ nội_địa và xuất_khẩu 
-8,các cơ_quan kiểm_soát an_toàn thực_phẩm tại địa_phương  chi_cục an_toàn thực_phẩm  chi_cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  tăng_cường giám_sát hoạt_động khai_thác  tổ_chức lấy mẫu sản_phẩm hải_sản cập cảng để kiểm_tra các chỉ_tiêu an_toàn thực_phẩm theo quy_định của việt_nam và tiêu_chuẩn quốc_tế 
-9,nafiqad cũng đã gửi công_văn 894 / qlclcl1 ngày 11/5/2016  yêu_cầu các cơ_sở chế_biến xuất_khẩu thủy_sản tuyệt_đối không thu_mua cá chết để chế_biến xuất_khẩu  chủ_động lấy mẫu giám_sát tăng_cường các chỉ_tiêu ô_nhiễm  thủy_ngân  chì  cadimi  arsen  trong các lô hải_sản nguyên_liệu 
-10,cho_đến nay  cùng_với sự giám_sát và kiểm_tra chặt_chẽ của nafiqad  các doanh_nghiệp chế_biến và xuất_khẩu đã và đang nghiêm_túc thực_hiện việc kiểm_soát các chỉ_tiêu trên cũng như tăng_cường các biện_pháp truy_xuất nguồn_gốc để đảm_bảo chất_lượng sản_phẩm xuất_khẩu ổn_định 
-11,do_vậy  vụ_việc cá chết bất_thường tại ven biển 4 tỉnh miền trung  hà_tĩnh  quảng_bình  quảng_trị và thừa_thiên_huế  không gây ảnh_hưởng đến nguồn cung và mức_độ an_toàn cho nguyên_liệu hải_sản xuất_khẩu  và có_thể khẳng_định chất_lượng các mặt_hàng_hải_sản xuất_khẩu không bị ảnh_hưởng bởi hiện_tượng cá chết ở ven biển 4 tỉnh miền trung trong thời_gian qua 
-12,trong nhiều năm qua xuất_khẩu thủy_sản của việt_nam đã có những bước_tiến vượt_bậc với mức tăng_trưởng bình_quân 156  / năm 
-13,quá_trình tăng_trưởng này đã đưa việt_nam trở nước xuất_khẩu thủy_sản lớn thứ 3 thế_giới  chiếm trên 5  thị_phần và giữ vai_trò chủ_đạo cung_cấp nguồn thủy_sản toàn_cầu 
-14,bắt_đầu từ năm 2000  xuất_khẩu thủy_sản của việt_nam có sự tăng_trưởng đột_phá  kim_ngạch xuất_khẩu thủy_sản tăng gấp hơn 4 lần từ mức gần 15 tỷ usd năm 2000 lên 657 tỷ usd năm 2015 
-15,năm 2015  sản_phẩm thủy_sản được xuất_khẩu sang 164 nước và vùng lãnh_thổ với sự tham_gia của trên 600 doanh_nghiệp xuất_khẩu 
-16,trong đó  top 100 dn lớn nhất chiếm 72  doanh_số xuất_khẩu 
-17,số nhà_máy đạt chuẩn được công_nhận đủ điều_kiện và công_suất cấp đông của các cơ_sở chế_biến tăng nhanh trong giai_đoạn 2001  2015 
-18,yếu_tố chất_lượng và an_toàn thực_phẩm luôn được các cơ_quan quản_lý ngành thủy_sản và các doanh_nghiệp xuất_khẩu ưu_tiên để giữ vững các thị_trường truyền_thống và phát_triển sang các thị_trường mới 
-19,việt_nam xuất_khẩu thủy_sản sang 3 thị_trường chính là eu chiếm 18   mỹ 20  và nhật_bản 16  và đang có những thị_trường tiềm_năng như trung_quốc  94   và asean  76   
-20,cùng với lợi_thế về nguồn nguyên_liệu khai_thác  nguồn nguyên_liệu nhập_khẩu  công_suất sản_xuất  năng_lực và công_nghệ chế_biến tốt  sản_xuất và xuất_khẩu các mặt_hàng_hải_sản của việt_nam đóng_góp trên 30  giá_trị xuất_khẩu thủy_sản của việt_nam trong những năm gần đây 
-21,theo thống_kê của tổng_cục hải_quan  năm 2015  xuất_khẩu các mặt_hàng_hải_sản của việt_nam  cá_ngừ  mực  bạch_tuộc  cua ghẹ  cá khô  cá biển khác …  đạt trên 2 tỷ usd  chiếm 33  tổng_kim_ngạch xuất_khẩu thủy_sản 
-22,xuất_khẩu thủy_sản của cả nước 4 tháng đầu năm 2016 đạt trên 2 tỷ usd  tăng gần 61  so với cùng kỳ năm_ngoái  thì các mặt_hàng kể trên đã đạt 646 triệu usd 
-23,hiện_nay  nguồn nguyên_liệu chế_biến và xuất_khẩu hải_sản khá thuận_lợi vì sản_lượng khai_thác tăng 
-24,thời_tiết biển thuận_lợi  nghị_định 67 của chính_phủ về hỗ_trợ vay vốn đóng mới tàu cá tiếp_tục phát_huy_hiệu_quả  số tàu công_suất lớn chuyên đánh_bắt xa bờ tăng lên  tạo động_lực cho bà_con ngư_dân tích_cực bám biển ra khơi 
-25,sản_lượng khai_thác thuỷ_sản 5 tháng đầu năm 2016 ước_tính đạt 1298 nghìn tấn  tăng 28  so với cùng kỳ năm 2015  trong đó khai_thác biển ước đạt 1235 nghìn tấn  tăng 29  so với tháng 5/2015 
-26,tại 3 tỉnh đánh_bắt cá ngừ đại_dương  5 tháng đầu năm 2016 ước đạt 9333 tấn cá ngừ 
-27,trong đó bình_định đạt 4720 tấn tăng 132  so với cùng kỳ năm trước  khánh_hòa đạt 1974 tấn tăng 15  so với cùng kỳ năm trước  phú_yên đạt 2911 tấn giảm 61  so cùng kỳ năm trước 
-28,bên_cạnh đó  nguồn nguyên_liệu nhập_khẩu cũng đóng vai_trò quan_trọng cho các doanh_nghiệp chế_biến hải_sản 
-29,năm 2015  trong tổng_kim_ngạch xuất_khẩu hải_sản trên 2 tỷ usd có sự đóng_góp của nguồn nguyên_liệu nhập_khẩu với giá_trị 634 triệu usd 
-30,trong đó  nhập_khẩu cá_ngừ đạt 215 triệu usd  các loại cá biển khác 351 triệu usd  mực bạch_tuộc 34 triệu usd  cua ghẹ 22 triệu usd  còn lại là các loại nhuyễn_thể hai mảnh vỏ 11 triệu usd 
-31,quý i / 2016  nhập_khẩu hải_sản nguyên_liệu của việt_nam đạt 139 triệu usd  chiếm 60  giá_trị nhập_khẩu thủy_sản 
-32,trong đó  cá ngừ đạt 36 triệu usd  các loại cá biển đạt 85 triệu usd  nhập_khẩu mực  bạch_tuộc đạt 87 triệu usd  cua ghẹ đạt 55 triệu usd và nhuyễn_thể hai mảnh vỏ gần 3 triệu usd 
-33,năm nay  việt_nam nhập_khẩu nguyên_liệu hải_sản từ 65 nước trên thế_giới  trong đó nhập_khẩu nhiều nhất từ đài_loan  ấn_độ  na_uy  nhật_bản  hàn_quốc  indonesia  chile …
+0,cục quản_lý chất_lượng nông_lâm_sản thủy_sản nafiqad ngày 24/5/2016 cơ_quan thẩm_quyền eu văn_bản cảnh_báo số 16814 tới nước thành_viên eu về cá chết bất_thường việt_nam đề_nghị nước kiểm_soát chặt_chẽ lô hàng thủy_sản biển nhập_khẩu việt_nam
+1,cảnh_báo eu trích_dẫn nguồn thông_tin tham_khảo wikipedia
+2,nguồn thông_tin tổng_hợp thông_tin về hiện_tượng cá chết hàng_loạt ven biển 4 tỉnh miền trung hà_tĩnh quảng_bình quảng_trị thừa_thiên_huế khẳng_định xác_định nguyên_nhân
+3,tuy_nhiên thông_tin gây lo_ngại nhà nhập_khẩu thủy_sản eu về chất_lượng hải_sản xuất_khẩu
+4,thực_tế ngư_trường khai_thác chính nguyên_liệu hải_sản phục_vụ xuất_khẩu việt_nam bao_gồm tỉnh đà_nẵng trở nam_trung_bộ bình_định khánh_hòa phú_yên bình_thuận … tỉnh nam_bộ kiên_giang cà_mau … khai_thác bằng tàu công_suất lớn đánh_bắt xa bờ
+5,nguồn nguyên_liệu địa_phương cung_cấp hầu_hết nguyên_liệu doanh_nghiệp chế_biến xuất_khẩu mặt_hàng_hải_sản chính cá_ngừ cua ghẹ surimi cá khô cá biển khác … doanh_nghiệp chế_biến xuất_khẩu nguồn nguyên_liệu nhập_khẩu nước khác
+6,hơn_nữa trong thời_gian bộ_nn ptnt chỉ_đạo khảo_sát lấy mẫu khẳng_định khu_vực khai_thác xa bờ vùng_biển xa bờ ngoài 2030 hải_lý thuộc 4 tỉnh hiện_tượng cá chết an_toàn
+7,bộ nn ptnt công_văn 3441 / bnntcts ngày 2/5/2016 chỉ_đạo hướng_dẫn triển_khai biện_pháp đảm_bảo vệ_sinh môi_trường an_toàn thực_phẩm tiêu_thụ nội_địa xuất_khẩu
+8,cơ_quan kiểm_soát an_toàn thực_phẩm địa_phương chi_cục an_toàn thực_phẩm chi_cục quản_lý chất_lượng nông_lâm_sản thủy_sản tăng_cường giám_sát hoạt_động khai_thác tổ_chức lấy mẫu sản_phẩm hải_sản cập cảng kiểm_tra chỉ_tiêu an_toàn thực_phẩm quy_định việt_nam tiêu_chuẩn quốc_tế
+9,nafiqad gửi công_văn 894 / qlclcl1 ngày 11/5/2016 yêu_cầu cơ_sở chế_biến xuất_khẩu thủy_sản tuyệt_đối thu_mua cá chết chế_biến xuất_khẩu chủ_động lấy mẫu giám_sát tăng_cường chỉ_tiêu ô_nhiễm thủy_ngân chì cadimi arsen trong lô hải_sản nguyên_liệu
+10,cho_đến nay cùng_với giám_sát kiểm_tra chặt_chẽ nafiqad doanh_nghiệp chế_biến xuất_khẩu nghiêm_túc thực_hiện kiểm_soát chỉ_tiêu tăng_cường biện_pháp truy_xuất nguồn_gốc đảm_bảo chất_lượng sản_phẩm xuất_khẩu ổn_định
+11,do_vậy vụ_việc cá chết bất_thường ven biển 4 tỉnh miền trung hà_tĩnh quảng_bình quảng_trị thừa_thiên_huế gây ảnh_hưởng đến nguồn cung mức_độ an_toàn nguyên_liệu hải_sản xuất_khẩu khẳng_định chất_lượng mặt_hàng_hải_sản xuất_khẩu ảnh_hưởng hiện_tượng cá chết ở ven biển 4 tỉnh miền trung trong thời_gian
+12,trong năm xuất_khẩu thủy_sản việt_nam bước_tiến vượt_bậc mức tăng_trưởng bình_quân 156 / năm
+13,quá_trình tăng_trưởng đưa việt_nam trở nước xuất_khẩu thủy_sản lớn thứ 3 thế_giới chiếm 5 thị_phần giữ vai_trò chủ_đạo cung_cấp nguồn thủy_sản toàn_cầu
+14,bắt_đầu năm 2000 xuất_khẩu thủy_sản việt_nam tăng_trưởng đột_phá kim_ngạch xuất_khẩu thủy_sản tăng gấp hơn 4 lần mức gần 15 tỷ usd năm 2000 657 tỷ usd năm 2015
+15,năm 2015 sản_phẩm thủy_sản xuất_khẩu sang 164 nước vùng lãnh_thổ tham_gia 600 doanh_nghiệp xuất_khẩu
+16,trong top 100 dn lớn nhất chiếm 72 doanh_số xuất_khẩu
+17,số nhà_máy đạt chuẩn công_nhận đủ điều_kiện công_suất cấp đông cơ_sở chế_biến tăng nhanh trong giai_đoạn 2001 2015
+18,yếu_tố chất_lượng an_toàn thực_phẩm luôn cơ_quan quản_lý ngành thủy_sản doanh_nghiệp xuất_khẩu ưu_tiên giữ vững thị_trường truyền_thống phát_triển sang thị_trường mới
+19,việt_nam xuất_khẩu thủy_sản sang 3 thị_trường chính eu chiếm 18 mỹ 20 nhật_bản 16 thị_trường tiềm_năng trung_quốc 94 asean 76
+20,lợi_thế về nguồn nguyên_liệu khai_thác nguồn nguyên_liệu nhập_khẩu công_suất sản_xuất năng_lực công_nghệ chế_biến tốt sản_xuất xuất_khẩu mặt_hàng_hải_sản việt_nam đóng_góp 30 giá_trị xuất_khẩu thủy_sản việt_nam trong năm gần
+21,thống_kê tổng_cục hải_quan năm 2015 xuất_khẩu mặt_hàng_hải_sản việt_nam cá_ngừ mực bạch_tuộc cua ghẹ cá khô cá biển khác … đạt 2 tỷ usd chiếm 33 tổng_kim_ngạch xuất_khẩu thủy_sản
+22,xuất_khẩu thủy_sản nước 4 tháng đầu năm 2016 đạt 2 tỷ usd tăng gần 61 kỳ năm_ngoái mặt_hàng kể đạt 646 triệu usd
+23,hiện_nay nguồn nguyên_liệu chế_biến xuất_khẩu hải_sản khá thuận_lợi sản_lượng khai_thác tăng
+24,thời_tiết biển thuận_lợi nghị_định 67 chính_phủ về hỗ_trợ vay vốn đóng mới tàu cá tiếp_tục phát_huy_hiệu_quả số tàu công_suất lớn chuyên đánh_bắt xa bờ tăng tạo động_lực bà_con ngư_dân tích_cực bám biển khơi
+25,sản_lượng khai_thác thuỷ_sản 5 tháng đầu năm 2016 ước_tính đạt 1298 nghìn tấn tăng 28 kỳ năm 2015 trong khai_thác biển ước đạt 1235 nghìn tấn tăng 29 tháng 5/2015
+26,3 tỉnh đánh_bắt cá ngừ đại_dương 5 tháng đầu năm 2016 ước đạt 9333 tấn cá ngừ
+27,trong bình_định đạt 4720 tấn tăng 132 kỳ năm khánh_hòa đạt 1974 tấn tăng 15 kỳ năm phú_yên đạt 2911 tấn giảm 61 kỳ năm
+28,bên_cạnh nguồn nguyên_liệu nhập_khẩu đóng vai_trò quan_trọng doanh_nghiệp chế_biến hải_sản
+29,năm 2015 trong tổng_kim_ngạch xuất_khẩu hải_sản 2 tỷ usd đóng_góp nguồn nguyên_liệu nhập_khẩu giá_trị 634 triệu usd
+30,trong nhập_khẩu cá_ngừ đạt 215 triệu usd loại cá biển khác 351 triệu usd mực bạch_tuộc 34 triệu usd cua ghẹ 22 triệu usd còn loại nhuyễn_thể hai mảnh vỏ 11 triệu usd
+31,quý i / 2016 nhập_khẩu hải_sản nguyên_liệu việt_nam đạt 139 triệu usd chiếm 60 giá_trị nhập_khẩu thủy_sản
+32,trong cá ngừ đạt 36 triệu usd loại cá biển đạt 85 triệu usd nhập_khẩu mực bạch_tuộc đạt 87 triệu usd cua ghẹ đạt 55 triệu usd nhuyễn_thể hai mảnh vỏ gần 3 triệu usd
+33,năm nay việt_nam nhập_khẩu nguyên_liệu hải_sản 65 nước thế_giới trong nhập_khẩu nhất đài_loan ấn_độ na_uy nhật_bản hàn_quốc indonesia chile …

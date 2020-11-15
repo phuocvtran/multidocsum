@@ -1,20 +1,20 @@
 idx, sentence
-0,xác_nhận tin_tức với pv báo người đưa_tin  lãnh_đạo công_an huyện duy_tiên  hà_nam  cho biết đã bắt được đối_tượng cướp tài_sản  hiếp_dâm nữ_sinh lớp 11 như trong bài hiếp_dâm cướp của rồi ‘ bo ’ 100 nghìn cho nữ_sinh lớp 11 bắt taxi mà báo đăng_tải 
-1,đáng chú_ý  trong đêm gây_án  đối_tượng ra_tay với hai đôi_nam_nữ ngồi tâm_sự ở hai xã giáp_ranh của huyện duy_tiên  hà_nam  
-2,đối_tượng gây_án được xác_định là dương_văn_dũng  sn 1988  trú ở thị_trấn kiện_khê  huyện thanh_liêm  hà_nam  
-3,trước đó  đêm ngày 29/5  tại địa_phận khu_công_nghiệp đồng_văn 2  huyện duy_tiên  hà_nam  lợi_dụng đường vắng  dũng đã dùng dao đe_dọa  cướp của anh n và chị h một điện_thoại_di_động nhãn_hiệu iphone 5s và 15 triệu đồng 
-4,sau đó  đối_tượng dùng dao khống_chế chị h đang ngồi tâm_sự đến khu_vực xã tiên_nội   huyện duy_tiên  hà_nam  thực_hiện hành_vi hiếp_dâm 
-5,thực_hiện_hành_vi phạm tội xong  dũng đi đến địa_bàn xã tiên_ngoại  cùng huyện duy_tiên  gặp 1 đôi_nam_nữ khác đang ngồi tâm_sự  dũng tiếp_tục dùng dao đe_dọa  cướp của đôi_nam_nữ 3 chiếc điện_thoại_di_động nhãn_hiệu oppo 
-6,sau hơn 3 ngày tích_cực điều_tra  công_an huyện duy_tiên đã bắt được dũng khi y đang lẩn trốn tại thị_trấn kiện_khê 
-7,hiện cơ_quan công_an huyện duy_tiên đang tiến_hành củng_cố hồ_sơ để khởi_tố đối_tượng dũng với hai tội_danh  cướp tài_sản  và  hiếp_dâm  
-8,như trước đó báo người đưa_tin đã phản_ánh  vào sáng ngày 30/5/2016  anh nguyễn_đình_n  25 tuổi  trú ở xã duy_minh  huyện duy_tiên  tỉnh hà_nam  đến công_an huyện duy_tiên trình_báo sự_việc 
-9,theo đó  vào tối 29/5  anh và bạn gái là chị lê_th
-10, 17 tuổi  đang học lớp 11  trú ở huyện kim_bảng  tỉnh hà_nam  ngồi tâm_sự gần khu nghĩa_trang xã duy_minh  huyện duy_tiên 
-11,bất_ngờ có một nam thanh_niên đi xe_máy đi đến  dùng dao bấm đe_dọa yêu_cầu n trả nợ tiền 
-12,khi anh n nói không vay nợ ai thì đối_tượng yêu_cầu anh n đưa ví tiền và điện_thoại_di_động cho chị h cầm  rồi bắt anh n khóa xe_máy  cầm chìa_khóa xe 
-13,đối_tượng chở anh n đi xa khoảng 15 km  rồi để anh n ở lại và bỏ đi 
-14,được thả  anh n chạy quay lại chỗ cũ tìm người_yêu nhưng không thấy đâu nên lấy xe_máy đến công_an huyện trình_báo 
-15,nhận được tin báo  công_an huyện duy_tiên đã tổ_chức truy_tìm và tìm gặp được chị h tại nhà 
-16,theo như chị h cho biết  sau khi đối_tượng chở anh n đi  một lúc sau đối_tượng quay lại yêu_cầu chị lên xe và chở đến khu_vực xã tiên_nội  huyện duy_tiên  dùng dao bấm đe_dọa cướp đi ví và điện_thoại của anh n rồi hiếp_dâm mình 
-17,do “ liễu yếu đào tơ ”  sức_lực không_thể chống_đỡ lại kẻ côn_đồ có hung_khí trong tay  h đành thúc_thủ để kẻ đốn_mạt dày vò thân_xác 
-18,theo thông_tin pv thu_thập được  sau khi hiếp_dâm nữ_sinh lớp 11  tên yêu râu xanh đã chở nạn_nhân ra đường_quốc_lộ và “ bo ” cho nạn_nhân 100 nghìn để cô này bắt taxi về nhà 
+0,xác_nhận tin_tức pv báo người đưa_tin lãnh_đạo công_an huyện duy_tiên hà_nam biết bắt đối_tượng cướp tài_sản hiếp_dâm nữ_sinh lớp 11 trong bài hiếp_dâm cướp ‘ bo ’ 100 nghìn nữ_sinh lớp 11 bắt taxi báo đăng_tải
+1,đáng chú_ý trong đêm gây_án đối_tượng ra_tay hai đôi_nam_nữ ngồi tâm_sự ở hai xã giáp_ranh huyện duy_tiên hà_nam
+2,đối_tượng gây_án xác_định dương_văn_dũng sn 1988 trú ở thị_trấn kiện_khê huyện thanh_liêm hà_nam
+3,đêm ngày 29/5 địa_phận khu_công_nghiệp đồng_văn 2 huyện duy_tiên hà_nam lợi_dụng đường vắng dũng dùng dao đe_dọa cướp anh n chị h một điện_thoại_di_động nhãn_hiệu iphone 5s 15 triệu đồng
+4,đối_tượng dùng dao khống_chế chị h ngồi tâm_sự đến khu_vực xã tiên_nội huyện duy_tiên hà_nam thực_hiện hành_vi hiếp_dâm
+5,thực_hiện_hành_vi phạm tội xong dũng đi đến địa_bàn xã tiên_ngoại huyện duy_tiên gặp 1 đôi_nam_nữ khác ngồi tâm_sự dũng tiếp_tục dùng dao đe_dọa cướp đôi_nam_nữ 3 điện_thoại_di_động nhãn_hiệu oppo
+6,hơn 3 ngày tích_cực điều_tra công_an huyện duy_tiên bắt dũng y lẩn trốn thị_trấn kiện_khê
+7,hiện cơ_quan công_an huyện duy_tiên tiến_hành củng_cố hồ_sơ khởi_tố đối_tượng dũng hai tội_danh cướp tài_sản hiếp_dâm
+8,báo người đưa_tin phản_ánh sáng ngày 30/5/2016 anh nguyễn_đình_n 25 tuổi trú ở xã duy_minh huyện duy_tiên tỉnh hà_nam đến công_an huyện duy_tiên trình_báo sự_việc
+9,tối 29/5 anh bạn gái chị lê_th
+10,17 tuổi học lớp 11 trú ở huyện kim_bảng tỉnh hà_nam ngồi tâm_sự gần khu nghĩa_trang xã duy_minh huyện duy_tiên
+11,bất_ngờ một nam thanh_niên đi xe_máy đi đến dùng dao bấm đe_dọa yêu_cầu n trả nợ tiền
+12,anh n nói vay nợ ai đối_tượng yêu_cầu anh n đưa ví tiền điện_thoại_di_động chị h cầm bắt anh n khóa xe_máy cầm chìa_khóa xe
+13,đối_tượng chở anh n đi xa khoảng 15 km anh n ở bỏ đi
+14,thả anh n chạy quay chỗ cũ tìm người_yêu thấy đâu lấy xe_máy đến công_an huyện trình_báo
+15,nhận tin báo công_an huyện duy_tiên tổ_chức truy_tìm tìm gặp chị h nhà
+16,chị h biết đối_tượng chở anh n đi một đối_tượng quay yêu_cầu chị xe chở đến khu_vực xã tiên_nội huyện duy_tiên dùng dao bấm đe_dọa cướp đi ví điện_thoại anh n hiếp_dâm mình
+17,“ liễu yếu đào tơ ” sức_lực không_thể chống_đỡ kẻ côn_đồ hung_khí trong tay h đành thúc_thủ kẻ đốn_mạt dày vò thân_xác
+18,thông_tin pv thu_thập hiếp_dâm nữ_sinh lớp 11 tên yêu râu xanh chở nạn_nhân đường_quốc_lộ “ bo ” nạn_nhân 100 nghìn cô bắt taxi về nhà

@@ -1,6 +1,6 @@
 idx, sentence
-0,sáng 16  ông nguyễn_thanh_bình  chủ_tịch ubnd xã tam_thanh  tp tam_kỳ  tỉnh quảng_nam   xác_nhận tại địa_phương vừa xảy ra vụ giật điện khiến một em nhỏ chết thương_tâm 
-1,theo đó  vụ_việc xảy ra khoảng 18 giờ ngày 315  em nguyễn_thành_công  sn 2005  ngụ tp hcm  được ba_mẹ dẫn về quê quảng_nam thăm chơi trong dịp nghỉ_hè 
-2,trong lúc em công đạp xe_đạp dạo_chơi ở khu công_viên biển tam_thanh  xã tam_thanh   khi đến đoạn trước nhà_hàng ba_cơ  em công bị vướng dây_điện vào cổ và bị điện giật chết 
-3,theo ông bình  đường_dây_điện này của nhà_hàng ba_cơ kéo từ trụ vào nhà_hàng để sử_dụng 
-4,tại hiện_trường cho thấy khoảng_cách từ trụ điện đến nhà_hàng khá xa nhưng chủ nhà_hàng chỉ dùng một cây trụ để nâng dây_điện nên đường_dây bị sà xuống sát đất 
+0,sáng 16 ông nguyễn_thanh_bình chủ_tịch ubnd xã tam_thanh tp tam_kỳ tỉnh quảng_nam xác_nhận địa_phương xảy vụ giật điện khiến một em nhỏ chết thương_tâm
+1,vụ_việc xảy khoảng 18 giờ ngày 315 em nguyễn_thành_công sn 2005 ngụ tp hcm ba_mẹ dẫn về quê quảng_nam thăm chơi trong dịp nghỉ_hè
+2,trong em công đạp xe_đạp dạo_chơi ở khu công_viên biển tam_thanh xã tam_thanh đến đoạn nhà_hàng ba_cơ em công vướng dây_điện cổ điện giật chết
+3,ông bình đường_dây_điện nhà_hàng ba_cơ kéo trụ nhà_hàng sử_dụng
+4,hiện_trường thấy khoảng_cách trụ điện đến nhà_hàng khá xa chủ nhà_hàng dùng một cây trụ nâng dây_điện đường_dây sà xuống sát đất

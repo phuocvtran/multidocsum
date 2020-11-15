@@ -1,22 +1,22 @@
 idx, sentence
-0,như tin đã đưa  một bé trai 4 tuổi ở tp cao_lãnh  lâm_đồng  đã tử_vong sau khi được bố cho ăn gan cóc và bao_tử 
-1,sự_việc thương_tâm vừa xảy ra sáng 17/5 
-2,trên zing  vn dẫn thông_tin từ gia_đình nạn_nhân cho biết  sáng 17/5  anh trần_văn_sơn  cha cháu hoài  đi soi  bắt được hơn 1 kg cóc  ếch và nhái 
-3,sau đó  vợ anh sơn mang chế_biến làm 2 phần 
-4,một phần kho sả ớt cho 9 người trong gia_đình dùng bữa cơm trưa 
-5,số thịt còn lại  đến chiều người vợ xào với khổ_qua 
-6,tới bữa  anh sơn đút gan và bao_tử cóc cho cháu hoài ăn trước 
-7,một lúc sau  cháu bị nôn  chân_tay lạnh  môi tím  tim đập chậm  gia_đình đưa cháu đến bệnh_viện cấp_cứu nhưng đến khuya cùng ngày thì tử_vong 
-8,điều đáng nói  đây không phải là vụ tử_vong do ăn thịt cóc đầu_tiên 
-9,đầu tháng 12/2015  hai bé gái tại xã cư_pui  huyện krông_bông  đắk_lắk đã tử_vong sau khi ăn thịt cóc 
-10,cụ_thể  chiều 5/12  h’chua cùng 2 em vào rừng lấy củi thì bắt được một con cóc 
-11,khi về nhà  do bố_mẹ đều đi làm_nên hchua làm_thịt cóc  để nguyên cả trứng  nấu canh cho 2 em là h’nach_byă  3 tuổi  và em_trai y’thuat_byă  1 tuổi  cùng ăn 
-12,đến 15 h cùng ngày  gia_đình đi làm về thì phát_hiện cả 3 có biểu_hiện nôn ói  mặt tím tái nên hô_hoán cho người dân xung_quanh đưa đi cấp_cứu 
-13,tuy_nhiên  cháu h’thuat đã tử_vong tại bệnh_viện huyện  còn h’nach mất trên đường chuyển lên tỉnh cấp_cứu 
-14,trước đó  vào tối_ngày 20/7/2015  bệnh_viện đa_khoa huyện trạm_tấu  yên_bái  tiếp_nhận bốn bệnh_nhân là bà lò_thị_biều  65 tuổi  cùng con dâu là mè_thị_dân và hai cháu là mè_thị_quyền  13 tuổi   mè_thị_thảo  11 tuổi  ở thôn lừu 1  xã hát_lừu  đều có các triệu_chứng đau bụng  buồn_nôn  đau_đầu  chóng_mặt  khó thở  huyết_áp không đo được  nhịp thở chậm  da niêm_mạc tím tái 
-15,ngay sau khi tiếp_nhận  các bác_sĩ đã khẩn_trương tiến_hành các biện_pháp như hút đờm  đặt nội khí_quản  ép tim  dùng các thuốc vận_mạch  để cấp_cứu các nạn_nhân 
-16,sau hơn hai giờ được cấp_cứu tích_cực  nhưng do bị ngộ_độc nặng do ăn phần nội_tạng cóc và đưa đến bệnh_viện chậm nên bệnh_nhân lò_thị_biều đã tử_vong 
-17,cuối tháng 5/2015  sau khi ăn thịt cóc khoảng một giờ  một người đàn_ông 40 tuổi ở quảng_ngãi bị nôn ói  toàn_thân tím tái  được đưa đến bệnh_viện đa_khoa quảng_ngãi cấp_cứu nhưng cũng không cứu được tính_mạng 
-18,theo trao_đổi của người_thân nạn_nhân trên vnexpress  trưa 24/5  sau khi đi làm về  ông ngô_thanh_vinh bắt một con cóc làm_thịt 
-19,nhiều người can_ngăn nhưng ông vinh vẫn ăn thịt cóc vì tin có con vật này có_thể chữa bệnh 
-20,một tiếng đồng_hồ sau khi ăn  người đàn_ông 40 tuổi này có dấu_hiệu ngộ_độc  nôn ói  tím tái người  được gia_đình đưa đến bệnh_viện cấp_cứu nhưng đã quá muộn 
+0,tin đưa một bé trai 4 tuổi ở tp cao_lãnh lâm_đồng tử_vong bố ăn gan cóc bao_tử
+1,sự_việc thương_tâm xảy sáng 17/5
+2,zing vn dẫn thông_tin gia_đình nạn_nhân biết sáng 17/5 anh trần_văn_sơn cha cháu hoài đi soi bắt hơn 1 kg cóc ếch nhái
+3,vợ anh sơn mang chế_biến làm 2 phần
+4,một phần kho sả ớt 9 người trong gia_đình dùng bữa cơm trưa
+5,số thịt còn đến chiều người vợ xào khổ_qua
+6,tới bữa anh sơn đút gan bao_tử cóc cháu hoài ăn
+7,một cháu nôn chân_tay lạnh môi tím tim đập chậm gia_đình đưa cháu đến bệnh_viện cấp_cứu đến khuya ngày tử_vong
+8,đáng nói vụ tử_vong ăn thịt cóc đầu_tiên
+9,đầu tháng 12/2015 hai bé gái xã cư_pui huyện krông_bông đắk_lắk tử_vong ăn thịt cóc
+10,cụ_thể chiều 5/12 h’chua 2 em rừng lấy củi bắt một con cóc
+11,về nhà bố_mẹ đi làm_nên hchua làm_thịt cóc nguyên trứng nấu canh 2 em h’nach_byă 3 tuổi em_trai y’thuat_byă 1 tuổi ăn
+12,đến 15 h ngày gia_đình đi làm về phát_hiện 3 biểu_hiện nôn ói mặt tím tái hô_hoán người dân xung_quanh đưa đi cấp_cứu
+13,tuy_nhiên cháu h’thuat tử_vong bệnh_viện huyện còn h’nach mất đường chuyển tỉnh cấp_cứu
+14,tối_ngày 20/7/2015 bệnh_viện đa_khoa huyện trạm_tấu yên_bái tiếp_nhận bốn bệnh_nhân bà lò_thị_biều 65 tuổi con dâu mè_thị_dân hai cháu mè_thị_quyền 13 tuổi mè_thị_thảo 11 tuổi ở thôn lừu 1 xã hát_lừu triệu_chứng đau bụng buồn_nôn đau_đầu chóng_mặt khó thở huyết_áp đo nhịp thở chậm da niêm_mạc tím tái
+15,tiếp_nhận bác_sĩ khẩn_trương tiến_hành biện_pháp hút đờm đặt nội khí_quản ép tim dùng thuốc vận_mạch cấp_cứu nạn_nhân
+16,hơn hai giờ cấp_cứu tích_cực ngộ_độc nặng ăn phần nội_tạng cóc đưa đến bệnh_viện chậm bệnh_nhân lò_thị_biều tử_vong
+17,cuối tháng 5/2015 ăn thịt cóc khoảng một giờ một người đàn_ông 40 tuổi ở quảng_ngãi nôn ói toàn_thân tím tái đưa đến bệnh_viện đa_khoa quảng_ngãi cấp_cứu cứu tính_mạng
+18,trao_đổi người_thân nạn_nhân vnexpress trưa 24/5 đi làm về ông ngô_thanh_vinh bắt một con cóc làm_thịt
+19,người can_ngăn ông vinh ăn thịt cóc tin con vật chữa bệnh
+20,một tiếng đồng_hồ ăn người đàn_ông 40 tuổi dấu_hiệu ngộ_độc nôn ói tím tái người gia_đình đưa đến bệnh_viện cấp_cứu quá muộn

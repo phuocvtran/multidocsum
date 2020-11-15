@@ -1,8 +1,8 @@
 idx, sentence
-0,cesc fabregas đã cùng bạn gái của mình daniella_semaan tới nghỉ ở miami sau khi kết_thúc mùa giải với chelsea 
-1,cầu_thủ người tây ban_nha đang tận_hưởng giây_phút thư_giãn trước khi tham_dự euro 2016 với đội_tuyển quốc_gia 
-2,sự xuất_hiện của fabregas cùng cô bồ xinh_đẹp của mình đã nhanh_chóng thu_hút sự chú_ý của giới mộ điệu 
-3,daniella_semaan  dù đã sinh 2 đứa con cho fabregas  vẫn có thân_hình hấp_dẫn 
-4,cặp_đôi này hẹn_hò với nhau vào năm 2013 
-5,một năm sau đó  daniella sinh_hạ bé lia cho fabregas 
-6,vào năm_ngoái  tiền_vệ người tây ban_nha có đứa con thứ hai với daniella là bé capri 
+0,cesc fabregas bạn gái mình daniella_semaan tới nghỉ ở miami kết_thúc mùa giải chelsea
+1,cầu_thủ người tây ban_nha tận_hưởng giây_phút thư_giãn tham_dự euro 2016 đội_tuyển quốc_gia
+2,xuất_hiện fabregas cô bồ xinh_đẹp mình nhanh_chóng thu_hút chú_ý giới mộ điệu
+3,daniella_semaan dù sinh 2 đứa con fabregas thân_hình hấp_dẫn
+4,cặp_đôi hẹn_hò nhau năm 2013
+5,một năm daniella sinh_hạ bé lia fabregas
+6,năm_ngoái tiền_vệ người tây ban_nha đứa con thứ hai daniella bé capri

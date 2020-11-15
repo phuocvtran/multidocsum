@@ -1,31 +1,31 @@
 idx, sentence
-0,theo nội_dung vụ_án  lê_thị_diệu_hân  hoa_hậu diệu hân  26 tuổi  ký hợp_đồng thuê một phần căn nhà của bà phương  52 tuổi  trên đường võ_văn_tần  quận 3  với giá 45 triệu đồng mỗi tháng để mở cửa_hàng thời_trang 
-1,thời_gian thuê là hai năm kể từ 1/10/2014 và phải đặt_cọc 135 triệu đồng 
-2,người đẹp cho rằng đã thực_hiện đầy_đủ các nghĩa_vụ của bên thuê theo hợp_đồng nhưng phía bà phương nhiều lần đến gây_rối  xúc_phạm_nhân_phẩm của cô  cho rằng cô quan_hệ bất_chính với chồng bà 
-3,đỉnh điểm là chiều cuối tháng 5/2015  bà phương đã đến chửi_bới tại cửa_hàng đang kinh_doanh của diệu_hân gây náo_loạn khiến công_an phường phải đến giải_quyết 
-4,diệu hân cũng tố bà phương hủy_hoại tài_sản của mình đặt trong cửa_hàng  cản_trở hoạt_động kinh_doanh 
-5,cô đã nhiều lần yêu_cầu chủ nhà tôn_trọng thỏa_thuận trong hợp_đồng  chấm_dứt việc gây_rối nhưng bà phương vẫn tái_diễn chuyện xúc_phạm cô 
-6,đến tháng 6/2015  diệu_hân hai lần phát thông_báo chấm_dứt hợp_đồng thuê nhà trước thời_hạn và yêu_cầu nữ chủ nhà phải trả tiền đặt_cọc  bồi_thường số tiền tương_đương 
-7,cô cũng dọn tài_sản khỏi cửa_hàng 
-8,do chủ nhà không đồng_ý  người_đẹp đã khởi_kiện ra tand quận 3  đồng_thời yêu_cầu công_an quận xử_lý bà phương về hành_vi vu_khống  xúc_phạm danh_dự nhân_phẩm 
-9,quá_trình xét_xử  phía bà phương cho rằng  trong thời_gian thuê người_đẹp có nhiều yêu_sách vượt quá nội_dung hợp_đồng 
-10,ngoài_ra  hai bên có những mâu_thuẫn cá_nhân khác nhưng chỉ là việc nhỏ_nhặt do phía nguyên_đơn tự gây ra 
-11,bà phương vẫn thực_hiện đúng các nghĩa_vụ của người cho thuê  còn phần nhà cho thuê vẫn do diệu_hân quản_lý và kinh_doanh 
-12,phía bị đơn cũng phủ_nhận việc hủy_hoại tài_sản  phá camera trong cửa_hàng 
-13,theo bà phương  từ tháng 7/2015 người thuê không thực_hiện nghĩa_vụ thanh_toán  tự_ý dọn đồ ra khỏi nhà mà không thông_báo chấm_dứt hợp_đồng cũng như trả lại hiện_trạng căn nhà 
-14,từ đó  bị_đơn phản tố yêu_cầu người_đẹp diệu_hân phải bồi_thường tiền thuê nhà và chấm_dứt hợp_đồng trước thời_hạn là 360 triệu đồng 
-15,hồi tháng 2  tand quận 3 xử sơ_thẩm tuyên bác yêu_cầu khởi_kiện của diệu_hân  chấp_nhận toàn_bộ yêu_cầu phản_tố của bị_đơn 
-16,buộc hoa_hậu phải bồi_thường tiền thuê nhà là 360 triệu đồng cho bị_đơn do vi_phạm hợp_đồng 
-17,theo hđxx  yêu_cầu của phía nguyên_đơn là không có căn_cứ 
-18,biên_bản làm_việc của công_an phường ghi_nhận hiện_trường cửa_hàng có 3 camera bị dán băng keo ở mắt quan_sát và một cái bị bẻ cáp vào tường 
-19,tuy_nhiên  không xác_định được ai là người thực_hiện 
-20,căn_cứ vào hợp_đồng thuê nhà  trường_hợp hai bên có mâu_thuẫn  một bên được đơn_phương chấm_dứt hợp_đồng nhưng phải thông_báo trước 3 tháng 
-21,trong trường_hợp  phía nguyên_đơn ra thông_báo từ tháng 6/2015 thì phải 3 tháng sau hợp_đồng mới chấm_dứt 
-22,hơn_nữa phía bà phương không thừa_nhận đã nhận được thông_báo chấm_dứt hợp_đồng từ phía nguyên_đơn 
-23,do_vậy  hợp_đồng thuê nhà vẫn có hiệu_lực 
-24,không chấp_nhận bản_án này  hoa_hậu diệu_hân kháng_cáo 
-25,chiều 20/5  tand tp hcm mở phiên phúc_thẩm 
-26,vks đề_nghị hđxx hủy bản_án sơ_thẩm xem_xét lại các chứng_cứ phía nguyên_đơn cung_cấp để làm rõ yếu_tố có hay không việc bị_đơn cản_trở hoạt_động kinh_doanh của người thuê nhà 
-27,đồng_thời  xem_xét kết_quả xác_minh của công_an quận 3 về yêu_cầu của nguyên_đơn đối_với hành_vi vu_khống  xúc_phạm_nhân_phẩm của bị_đơn 
-28,sau khi nghị_án  hđxx phúc_thẩm nhận_định  phán_quyết của tòa sơ_thẩm là có căn_cứ nên giữ nguyên 
-29,việc xác_minh kết_quả điều_tra từ công_an theo đơn tố_cáo của nguyên_đơn đối_với bị_đơn về hành_vi vu_khống  xúc_phạm danh_dự theo hđxx là không cần_thiết vì không liên_quan đến quan_hệ dân_sự đang tranh_chấp 
+0,nội_dung vụ_án lê_thị_diệu_hân hoa_hậu diệu hân 26 tuổi ký hợp_đồng thuê một phần căn nhà bà phương 52 tuổi đường võ_văn_tần quận 3 giá 45 triệu đồng tháng mở cửa_hàng thời_trang
+1,thời_gian thuê hai năm kể 1/10/2014 đặt_cọc 135 triệu đồng
+2,người đẹp thực_hiện đầy_đủ nghĩa_vụ bên thuê hợp_đồng phía bà phương lần đến gây_rối xúc_phạm_nhân_phẩm cô cô quan_hệ bất_chính chồng bà
+3,đỉnh điểm chiều cuối tháng 5/2015 bà phương đến chửi_bới cửa_hàng kinh_doanh diệu_hân gây náo_loạn khiến công_an phường đến giải_quyết
+4,diệu hân tố bà phương hủy_hoại tài_sản mình đặt trong cửa_hàng cản_trở hoạt_động kinh_doanh
+5,cô lần yêu_cầu chủ nhà tôn_trọng thỏa_thuận trong hợp_đồng chấm_dứt gây_rối bà phương tái_diễn xúc_phạm cô
+6,đến tháng 6/2015 diệu_hân hai lần phát thông_báo chấm_dứt hợp_đồng thuê nhà thời_hạn yêu_cầu nữ chủ nhà trả tiền đặt_cọc bồi_thường số tiền tương_đương
+7,cô dọn tài_sản khỏi cửa_hàng
+8,chủ nhà đồng_ý người_đẹp khởi_kiện tand quận 3 đồng_thời yêu_cầu công_an quận xử_lý bà phương về hành_vi vu_khống xúc_phạm danh_dự nhân_phẩm
+9,quá_trình xét_xử phía bà phương trong thời_gian thuê người_đẹp yêu_sách vượt quá nội_dung hợp_đồng
+10,ngoài_ra hai bên mâu_thuẫn cá_nhân khác nhỏ_nhặt phía nguyên_đơn tự gây
+11,bà phương thực_hiện đúng nghĩa_vụ người thuê còn phần nhà thuê diệu_hân quản_lý kinh_doanh
+12,phía đơn phủ_nhận hủy_hoại tài_sản phá camera trong cửa_hàng
+13,bà phương tháng 7/2015 người thuê thực_hiện nghĩa_vụ thanh_toán tự_ý dọn đồ khỏi nhà thông_báo chấm_dứt hợp_đồng trả hiện_trạng căn nhà
+14,bị_đơn phản tố yêu_cầu người_đẹp diệu_hân bồi_thường tiền thuê nhà chấm_dứt hợp_đồng thời_hạn 360 triệu đồng
+15,hồi tháng 2 tand quận 3 xử sơ_thẩm tuyên bác yêu_cầu khởi_kiện diệu_hân chấp_nhận toàn_bộ yêu_cầu phản_tố bị_đơn
+16,buộc hoa_hậu bồi_thường tiền thuê nhà 360 triệu đồng bị_đơn vi_phạm hợp_đồng
+17,hđxx yêu_cầu phía nguyên_đơn căn_cứ
+18,biên_bản làm_việc công_an phường ghi_nhận hiện_trường cửa_hàng 3 camera dán băng keo ở mắt quan_sát một bẻ cáp tường
+19,tuy_nhiên xác_định ai người thực_hiện
+20,căn_cứ hợp_đồng thuê nhà trường_hợp hai bên mâu_thuẫn một bên đơn_phương chấm_dứt hợp_đồng thông_báo 3 tháng
+21,trong trường_hợp phía nguyên_đơn thông_báo tháng 6/2015 3 tháng hợp_đồng mới chấm_dứt
+22,hơn_nữa phía bà phương thừa_nhận nhận thông_báo chấm_dứt hợp_đồng phía nguyên_đơn
+23,do_vậy hợp_đồng thuê nhà hiệu_lực
+24,chấp_nhận bản_án hoa_hậu diệu_hân kháng_cáo
+25,chiều 20/5 tand tp hcm mở phiên phúc_thẩm
+26,vks đề_nghị hđxx hủy bản_án sơ_thẩm xem_xét chứng_cứ phía nguyên_đơn cung_cấp làm rõ yếu_tố hay bị_đơn cản_trở hoạt_động kinh_doanh người thuê nhà
+27,đồng_thời xem_xét kết_quả xác_minh công_an quận 3 về yêu_cầu nguyên_đơn đối_với hành_vi vu_khống xúc_phạm_nhân_phẩm bị_đơn
+28,nghị_án hđxx phúc_thẩm nhận_định phán_quyết tòa sơ_thẩm căn_cứ giữ nguyên
+29,xác_minh kết_quả điều_tra công_an đơn tố_cáo nguyên_đơn đối_với bị_đơn về hành_vi vu_khống xúc_phạm danh_dự hđxx cần_thiết liên_quan đến quan_hệ dân_sự tranh_chấp

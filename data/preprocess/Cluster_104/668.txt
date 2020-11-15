@@ -1,15 +1,15 @@
 idx, sentence
-0,theo thông_tin ban_đầu  khoảng 17 g chiều 78  khi đang xuống dốc cầu phú_mỹ  hướng q 7 về q 2  tphcm  một chiếc xe chao_đảo  lao lên dải_phân_cách  rồi lật xuống làn đường xe_máy 
-1,tài_xế bị_thương được người dân đưa đi cấp_cứu 
-2,tại hiện_trường  xe_tải nằm chắn_ngang toàn_bộ phần đường xe_máy  nhiều đoạn dải_phân_cách bị hất văng 
-3,giao_thông bị tắc_nghẽn nghiêm_trọng 
-4,vào thời_điểm đó  rất nhiều xe_máy đang lưu_thông 
-5,nhưng rất may không có thiệt_hại về người 
-6,một đi đường cho biết  “ tôi và nhiều người đang chạy phía trong thì thấy xe_tải đổ dốc ầm_ầm rồi ném ngang trên đường 
-7,may_mà mọi người kịp thắng lại  ” nhận được thông_tin  lực_lượng chức_năng đã có_mặt để điều_tiết giao_thông  xử_lý hiện_trường 
-8,đến khoảng 20 g  hiện_trường được giải_tỏa 
-9,nguyên_nhân vụ tai_nạn đang được cơ_quan_chức_năng điều_tra làm rõ 
-10,trong khi đó  khoảng 17 g ngày 78  xe container chở theo thùng hàng loại 40 feet đang chạy trên xa_lộ hà_nội  hướng ngã tư thủ_đức về cầu sài_gòn  tphcm
-11,khi đến ngã tư bình thái thì xe chao_đảo  rồi húc vào dải_phân_cách giữa làn xe_máy và ôtô khiến container phía sau lật nghiêng  rơi xuống làn ôtô 
-12,xe nằm chắn_ngang đường 
-13,hơn 20 m dải_phân_cách bằng bê_tông bị húc văng tung tóe 
+0,thông_tin ban_đầu khoảng 17 g chiều 78 xuống dốc cầu phú_mỹ hướng q 7 về q 2 tphcm một xe chao_đảo lao dải_phân_cách lật xuống làn đường xe_máy
+1,tài_xế bị_thương người dân đưa đi cấp_cứu
+2,hiện_trường xe_tải nằm chắn_ngang toàn_bộ phần đường xe_máy đoạn dải_phân_cách hất văng
+3,giao_thông tắc_nghẽn nghiêm_trọng
+4,thời_điểm xe_máy lưu_thông
+5,may thiệt_hại về người
+6,một đi đường biết “ tôi người chạy phía trong thấy xe_tải đổ dốc ầm_ầm ném ngang đường
+7,may_mà mọi người kịp thắng ” nhận thông_tin lực_lượng chức_năng có_mặt điều_tiết giao_thông xử_lý hiện_trường
+8,đến khoảng 20 g hiện_trường giải_tỏa
+9,nguyên_nhân vụ tai_nạn cơ_quan_chức_năng điều_tra làm rõ
+10,trong khoảng 17 g ngày 78 xe container chở thùng hàng loại 40 feet chạy xa_lộ hà_nội hướng ngã tư thủ_đức về cầu sài_gòn tphcm
+11,đến ngã tư bình thái xe chao_đảo húc dải_phân_cách giữa làn xe_máy ôtô khiến container phía lật nghiêng rơi xuống làn ôtô
+12,xe nằm chắn_ngang đường
+13,hơn 20 m dải_phân_cách bằng bê_tông húc văng tung tóe

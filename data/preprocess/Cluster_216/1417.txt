@@ -1,12 +1,12 @@
 idx, sentence
-0,chiều 31/5  tòa_án nhân_dân tỉnh bà_rịavũng_tàu đã tuyên_phạt bị_cáo phạm_văn_minh  50 tuổi  giám_đốc công_ty tnhh thương_mại và chế_biến thực_phẩm phú an_sinh  quận 12  tphcm  gọi tắt là công_ty phú an_sinh  19 năm tù về tội lạm_dụng tín_nhiệm chiếm_đoạt tài_sản 
-1,tòa cũng tuyên bị_cáo minh phải bồi_thường số tiền hơn 73 tỉ đồng cho sở công_thương và 335 tỉ đồng cho sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu  tin_tức đăng_tải trên ttxvn 
-2,theo báo quảng_trị  cuối năm 2010  công_ty phú an_sinh do phạm_văn_minh  50 tuổi  làm giám_đốc được tỉnh bà_rịa  vũng_tàu cho tạm_ứng hơn 50 tỉ đồng để thực_hiện chương_trình bình_ổn giá  phòng_chống dịch heo tai xanh trên địa_bàn 
-3,theo đó  sở công_thương cho phú an_sinh tạm_ứng số tiền 166 tỉ đồng  sở nông_nghiệp và phát_triển nông_thôn tạm_ứng 35 tỉ đồng 
-4,theo hợp_đồng giữa các bên  phú an_sinh phải dùng số tiền trên để thu_mua heo khỏe của người chăn_nuôi trên địa_bàn tỉnh bà_rịa  vũng_tàu  vừa để dự_trữ cho tết 2011  vừa để tránh bớt thiệt_hại cho người nuôi trong khi dịch heo tai xanh lây_lan 
-5,phú an_sinh được hỗ_trợ vay số tiền trên trong 6 tháng không tính lãi và phải hoàn_trả tiền cho nhà_nước sau 6 tháng 
-6,tuy_nhiên  trong quá_trình thực_hiện hợp_đồng  phạm_văn_minh chỉ sử_dụng một phần nhỏ để mua heo  còn lại dùng để trả nợ ngân_hàng  trả_lãi vay ngân_hàng  chi_phí mua_sắm  chi hoạt_động của công_ty 
-7,theo kết_quả giám_định tài_chính  trong 165 tỷ đồng tạm_ứng của sở công_thương  minh chỉ dùng 560 triệu mua heo  còn lại gần 16 tỉ trả nợ  lãi vay cho ngân_hàng 
-8,còn 35 tỉ đồng tạm_ứng từ sở nông_nghiệp và phát_triển nông_thôn tỉnh bà_rịa  vũng_tàu  minh chỉ chi hơn 10 tỉ đồng mua heo  còn lại gần 25 tỉ dùng vào mục_đích khác 
-9,kết_quả  đến nay phạm_văn_minh mới chỉ trả được hơn 10 tỉ đồng  còn nợ ngân_sách tỉnh bà_rịa  vũng_tàu hơn 40 tỉ đồng 
-10,tại phiên_tòa sáng 31/5  bị_cáo phạm_văn_minh nói không đồng_ý với tội lạm_dụng tín_nhiệm mà cáo_trạng truy_tố  bị_cáo chỉ phạm_tội sử_dụng trái_phép tài_sản 
+0,chiều 31/5 tòa_án nhân_dân tỉnh bà_rịavũng_tàu tuyên_phạt bị_cáo phạm_văn_minh 50 tuổi giám_đốc công_ty tnhh thương_mại chế_biến thực_phẩm phú an_sinh quận 12 tphcm gọi tắt công_ty phú an_sinh 19 năm tù về tội lạm_dụng tín_nhiệm chiếm_đoạt tài_sản
+1,tòa tuyên bị_cáo minh bồi_thường số tiền hơn 73 tỉ đồng sở công_thương 335 tỉ đồng sở nông_nghiệp_và_phát_triển_nông_thôn tỉnh bà_rịavũng_tàu tin_tức đăng_tải ttxvn
+2,báo quảng_trị cuối năm 2010 công_ty phú an_sinh phạm_văn_minh 50 tuổi làm giám_đốc tỉnh bà_rịa vũng_tàu tạm_ứng hơn 50 tỉ đồng thực_hiện chương_trình bình_ổn giá phòng_chống dịch heo tai xanh địa_bàn
+3,sở công_thương phú an_sinh tạm_ứng số tiền 166 tỉ đồng sở nông_nghiệp phát_triển nông_thôn tạm_ứng 35 tỉ đồng
+4,hợp_đồng giữa bên phú an_sinh dùng số tiền thu_mua heo khỏe người chăn_nuôi địa_bàn tỉnh bà_rịa vũng_tàu dự_trữ tết 2011 tránh bớt thiệt_hại người nuôi trong dịch heo tai xanh lây_lan
+5,phú an_sinh hỗ_trợ vay số tiền trong 6 tháng tính lãi hoàn_trả tiền nhà_nước 6 tháng
+6,tuy_nhiên trong quá_trình thực_hiện hợp_đồng phạm_văn_minh sử_dụng một phần nhỏ mua heo còn dùng trả nợ ngân_hàng trả_lãi vay ngân_hàng chi_phí mua_sắm chi hoạt_động công_ty
+7,kết_quả giám_định tài_chính trong 165 tỷ đồng tạm_ứng sở công_thương minh dùng 560 triệu mua heo còn gần 16 tỉ trả nợ lãi vay ngân_hàng
+8,còn 35 tỉ đồng tạm_ứng sở nông_nghiệp phát_triển nông_thôn tỉnh bà_rịa vũng_tàu minh chi hơn 10 tỉ đồng mua heo còn gần 25 tỉ dùng mục_đích khác
+9,kết_quả đến nay phạm_văn_minh mới trả hơn 10 tỉ đồng còn nợ ngân_sách tỉnh bà_rịa vũng_tàu hơn 40 tỉ đồng
+10,phiên_tòa sáng 31/5 bị_cáo phạm_văn_minh nói đồng_ý tội lạm_dụng tín_nhiệm cáo_trạng truy_tố bị_cáo phạm_tội sử_dụng trái_phép tài_sản

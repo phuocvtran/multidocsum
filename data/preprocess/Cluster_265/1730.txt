@@ -1,12 +1,12 @@
 idx, sentence
-0,tổng_thống tân cử của philippines  ông rodrigo_duterte đã lựa_chọn ông perfecto_yasay giữ chức ngoại_trưởng trong nội_các mới 
-1,trả_lời phỏng_vấn reuters ngày 16  ông perfecto_yasay đã chia_sẻ về những định_hướng đối_ngoại của mình 
-2,ông perfecto_yasay nói rằng philippines sẽ theo_đuổi chính_sách độc_lập khi giải_quyết vấn_đề tranh_chấp với trung_quốc ở biển_đông 
-3,ông yasay khẳng_định philippines sẽ không xa_rời đồng_minh an_ninh quan_trọng của mình là mỹ  nhưng ông cũng nhấn_mạnh sẽ không khúm_núm trước bất_kỳ quốc_gia nào 
-4,trước đó  ông duterte ngày 305 tuyên_bố   philippines sẽ không phụ_thuộc vào mỹ 
-5,và chính_sách của chúng_tôi không hướng đến việc_làm vừa_lòng ai  chỉ cần vì lợi_ích của philippines  
-6,tuyên_bố này cho thấy sự thay_đổi rõ nét trong định_hướng đối_ngoại mới của philippines  nhất_là cách tiếp_cận vấn_đề biển_đông và các vấn_đề an_ninh khác 
-7,liên_quan đến vấn_đề biển_đông và quan_hệ với trung_quốc  ông yasay cùng quan_điểm với ông duterte rằng manila muốn cải_thiện quan_hệ với bắc_kinh 
-8,ông yasay nói   miễn_là trung_quốc tuân_thủ_pháp_quyền  tôn_trọng toàn_vẹn lãnh_thổ và chủ_quyền của philippines  thì chúng_ta nên phát_triển mối quan_hệ và tình hữu_nghị ngày_càng mạnh_mẽ hơn  
-9,mặc_dù vậy  ông yasay cho biết manila sẵn_sàng đàm_phán song_phương với bắc_kinh nhằm giải_quyết tranh_chấp về bãi cạn scarborough  nhưng sẽ vẫn duy_trì đối_thoại đa_phương đối_với vấn_đề ở quần_đảo trường_sa 
-10,trường_sa thuộc chủ_quyền của việt_nam 
+0,tổng_thống tân cử philippines ông rodrigo_duterte lựa_chọn ông perfecto_yasay giữ chức ngoại_trưởng trong nội_các mới
+1,trả_lời phỏng_vấn reuters ngày 16 ông perfecto_yasay chia_sẻ về định_hướng đối_ngoại mình
+2,ông perfecto_yasay nói philippines theo_đuổi chính_sách độc_lập giải_quyết vấn_đề tranh_chấp trung_quốc ở biển_đông
+3,ông yasay khẳng_định philippines xa_rời đồng_minh an_ninh quan_trọng mình mỹ ông nhấn_mạnh khúm_núm bất_kỳ quốc_gia nào
+4,ông duterte ngày 305 tuyên_bố philippines phụ_thuộc mỹ
+5,chính_sách chúng_tôi hướng đến việc_làm vừa_lòng ai lợi_ích philippines
+6,tuyên_bố thấy thay_đổi rõ nét trong định_hướng đối_ngoại mới philippines nhất_là cách tiếp_cận vấn_đề biển_đông vấn_đề an_ninh khác
+7,liên_quan đến vấn_đề biển_đông quan_hệ trung_quốc ông yasay quan_điểm ông duterte manila muốn cải_thiện quan_hệ bắc_kinh
+8,ông yasay nói miễn_là trung_quốc tuân_thủ_pháp_quyền tôn_trọng toàn_vẹn lãnh_thổ chủ_quyền philippines chúng_ta phát_triển mối quan_hệ tình hữu_nghị ngày_càng mạnh_mẽ hơn
+9,mặc_dù ông yasay biết manila sẵn_sàng đàm_phán song_phương bắc_kinh nhằm giải_quyết tranh_chấp về bãi cạn scarborough duy_trì đối_thoại đa_phương đối_với vấn_đề ở quần_đảo trường_sa
+10,trường_sa thuộc chủ_quyền việt_nam

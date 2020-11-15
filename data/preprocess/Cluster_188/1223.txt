@@ -1,9 +1,9 @@
 idx, sentence
-0,vòng chung_kết giải bóng_đá vô_địch châu_âu  euro 2016   kéo_dài một tháng  sẽ bắt_đầu ở paris từ ngày 10/6  với sự tham_gia của những đội bóng mạnh nhất châu_lục và thu_hút hàng trăm_nghìn người hâm_mộ 
-1, các sân_vận_động tổ_chức euro  khu_vực dành cho người hâm_mộ  địa_điểm giải_trí phát_sóng những trận đấu ở pháp và khắp châu_âu đều có nguy_cơ trở_thành mục_tiêu bị tấn_công khủng_bố   afp dẫn cảnh_báo đi_lại  kéo_dài đến ngày 31/8  của bộ ngoại_giao mỹ hôm_qua cho biết 
-2,theo đó  thông_báo cảnh_báo công_dân mỹ về nguy_cơ xảy ra tấn_công khủng_bố ở khắp châu_âu nhằm vào những sự_kiện lớn  khu_vực du_lịch  nhà_hàng  trung_tâm thương_mại và trong hoạt_động giao_thông vận_tải 
-3, số_lượng lớn du_khách đến thăm châu_âu trong những tháng mùa_hè sẽ tạo ra nhiều mục_tiêu hơn để các phần_tử khủng_bố lên kế_hoạch tấn_công   thông_báo cho biết thêm 
-4,chính_phủ pháp loại_trừ việc hủy_bỏ tổ_chức euro 2016 
-5,giải đấu dự_kiến thu_hút khoảng hai triệu người hâm_mộ đến các thành_phố ở khắp nước pháp 
-6,để tăng_cường an_ninh tại euro 2016  pháp đã kéo_dài tình_trạng khẩn_cấp áp_đặt từ sau vụ tấn_công khủng_bố liên_hoàn hồi tháng 11/2015 ở paris 
-7,patrick_calvar  đứng đầu cơ_quan tình_báo quốc_gia pháp  tháng trước nói pháp  rõ_ràng là mục_tiêu  của nhà_nước hồi_giáo  is  
+0,vòng chung_kết giải bóng_đá vô_địch châu_âu euro 2016 kéo_dài một tháng bắt_đầu ở paris ngày 10/6 tham_gia đội bóng mạnh nhất châu_lục thu_hút hàng trăm_nghìn người hâm_mộ
+1,sân_vận_động tổ_chức euro khu_vực dành người hâm_mộ địa_điểm giải_trí phát_sóng trận đấu ở pháp khắp châu_âu nguy_cơ trở_thành mục_tiêu tấn_công khủng_bố afp dẫn cảnh_báo đi_lại kéo_dài đến ngày 31/8 bộ ngoại_giao mỹ hôm_qua biết
+2,thông_báo cảnh_báo công_dân mỹ về nguy_cơ xảy tấn_công khủng_bố ở khắp châu_âu nhằm sự_kiện lớn khu_vực du_lịch nhà_hàng trung_tâm thương_mại trong hoạt_động giao_thông vận_tải
+3,số_lượng lớn du_khách đến thăm châu_âu trong tháng mùa_hè tạo mục_tiêu hơn phần_tử khủng_bố kế_hoạch tấn_công thông_báo biết thêm
+4,chính_phủ pháp loại_trừ hủy_bỏ tổ_chức euro 2016
+5,giải đấu dự_kiến thu_hút khoảng hai triệu người hâm_mộ đến thành_phố ở khắp nước pháp
+6,tăng_cường an_ninh euro 2016 pháp kéo_dài tình_trạng khẩn_cấp áp_đặt vụ tấn_công khủng_bố liên_hoàn hồi tháng 11/2015 ở paris
+7,patrick_calvar đứng đầu cơ_quan tình_báo quốc_gia pháp tháng nói pháp rõ_ràng mục_tiêu nhà_nước hồi_giáo is

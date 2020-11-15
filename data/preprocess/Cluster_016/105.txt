@@ -1,3 +1,3 @@
 idx, sentence
-0,phát_biểu với báo_giới ngày 20/5  ông peskov nhấn_mạnh theo quan_điểm của nga  việc nato tiếp_tục  bành_trướng  là  tiến_trình tiêu_cực  
-1,tiến_trình này sẽ không đem lại lợi_ích gì dưới góc_độ an_ninh châu_âu  ngược_lại sẽ càng làm gia_tăng căng_thẳng hơn nữa tại châu_lục này 
+0,phát_biểu báo_giới ngày 20/5 ông peskov nhấn_mạnh quan_điểm nga nato tiếp_tục bành_trướng tiến_trình tiêu_cực
+1,tiến_trình đem lợi_ích góc_độ an_ninh châu_âu ngược_lại làm gia_tăng căng_thẳng hơn châu_lục

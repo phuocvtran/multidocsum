@@ -1,2 +1,2 @@
 idx, sentence
-0,người dân có_thể đăng_ký  khai_báo trên trang thông_tin điện_tử  wwwdrvngovvn và wwwdichvuconggplxgovvn  8000 
+0,người dân đăng_ký khai_báo trang thông_tin điện_tử wwwdrvngovvn wwwdichvuconggplxgovvn 8000

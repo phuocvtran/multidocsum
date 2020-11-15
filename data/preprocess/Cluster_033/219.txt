@@ -1,16 +1,16 @@
 idx, sentence
-0,bê_bối gian_lận lượng nhiên_liệu tiêu_thụ của mitsubishi hiện vẫn chưa hết gây xôn_xao trên các mặt báo 
-1,thế nhưng  mới_đây  lại có thêm một nhãn_hiệu ô_tô nhật_bản khác thừa_nhận gian_lận nhiên_liệu  đó là suzuki 
-2,vào hôm_qua  ngày 18/5  ban lãnh_đạo của hãng suzuki đã thừa_nhận sử_dụng phương_pháp đo lượng nhiên_liệu tiêu_thụ không đúng tiêu_chuẩn cho xe 
-3,ông hidehiro_hirano  phát_ngôn_viên của hãng suzuki  khẳng_định chủ_tịch osamu_suzuki sẽ báo_cáo vấn_đề này với bộ đất_đai  cơ_sở_hạ_tầng  giao_thông và du_lịch  mlit  của nhật_bản 
-4,theo hãng suzuki  bê_bối gian_lận nhiên_liệu liên_quan đến 16 mẫu xe chỉ bán ở thị_trường nhật_bản  bao_gồm alto  alto_lapin  wagon_r  hustler  spacia  every  carry  jimny  solio  ignis  baleno  sx4_scross  swift  escudo 24  escudo và jimny_sierra 
-5,tất_cả những mẫu xe này đều được đo lượng nhiên_liệu tiêu_thụ bằng phương_pháp khác với loại theo quy_định tại nhật_bản 
-6,quan_trọng hơn là hãng suzuki khẳng_định không cố_tình ngụy_tạo kết_quả thử_nghiệm 
-7,sau bê_bối gian_lận nhiên_liệu của mitsubishi  mlit đã yêu_cầu các hãng xe nhật_bản điều_tra nội_bộ 
-8,chấp_hành yêu_cầu của mlit  hãng suzuki đã phân_tích phương_pháp đo lực_cản lúc chạy của toàn_bộ 16 mẫu xe và phát_hiện ra vấn_đề 
-9,thay_vì nộp dữ_liệu đo từ xe trong thử_nghiệm lao dốc  các kỹ_sư hãng suzuki lại cung_cấp dữ_liệu tổng_hợp lấy từ các bộ_phận đơn_lẻ trong thử_nghiệm lực_cản lăn và lực_cản không_khí ở hầm gió 
-10,sau đó  suzuki tiếp_tục điều_tra và so_sánh 2 loại kết_quả 
-11,tuy_nhiên   tất_cả các giá_trị đều nằm trong khoảng sai_lệch đo_lường cho_phép  
-12,hãng suzuki thừa_nhận có sự chênh_lệch giữa các giá_trị nhưng rất nhỏ và không phải là vấn_đề gì lớn 
-13,theo hãng suzuki  nguyên_nhân dẫn đến sự sai_lệch là do địa_hình của trung_tâm thử_nghiệm ở sagara thuộc tỉnh shizuoka  nhật_bản 
-14,trung_tâm thử_nghiệm của suzuki nằm trên đỉnh đổi  gần biển nên điều_kiện thời_tiết  đặc_biệt là gió to  đã ảnh_hưởng đến kết_quả 
+0,bê_bối gian_lận lượng nhiên_liệu tiêu_thụ mitsubishi hiện hết gây xôn_xao mặt báo
+1,thế mới_đây thêm một nhãn_hiệu ô_tô nhật_bản khác thừa_nhận gian_lận nhiên_liệu suzuki
+2,hôm_qua ngày 18/5 ban lãnh_đạo hãng suzuki thừa_nhận sử_dụng phương_pháp đo lượng nhiên_liệu tiêu_thụ đúng tiêu_chuẩn xe
+3,ông hidehiro_hirano phát_ngôn_viên hãng suzuki khẳng_định chủ_tịch osamu_suzuki báo_cáo vấn_đề bộ đất_đai cơ_sở_hạ_tầng giao_thông du_lịch mlit nhật_bản
+4,hãng suzuki bê_bối gian_lận nhiên_liệu liên_quan đến 16 mẫu xe bán ở thị_trường nhật_bản bao_gồm alto alto_lapin wagon_r hustler spacia every carry jimny solio ignis baleno sx4_scross swift escudo 24 escudo jimny_sierra
+5,tất_cả mẫu xe đo lượng nhiên_liệu tiêu_thụ bằng phương_pháp khác loại quy_định nhật_bản
+6,quan_trọng hơn hãng suzuki khẳng_định cố_tình ngụy_tạo kết_quả thử_nghiệm
+7,bê_bối gian_lận nhiên_liệu mitsubishi mlit yêu_cầu hãng xe nhật_bản điều_tra nội_bộ
+8,chấp_hành yêu_cầu mlit hãng suzuki phân_tích phương_pháp đo lực_cản chạy toàn_bộ 16 mẫu xe phát_hiện vấn_đề
+9,thay_vì nộp dữ_liệu đo xe trong thử_nghiệm lao dốc kỹ_sư hãng suzuki cung_cấp dữ_liệu tổng_hợp lấy bộ_phận đơn_lẻ trong thử_nghiệm lực_cản lăn lực_cản không_khí ở hầm gió
+10,suzuki tiếp_tục điều_tra so_sánh 2 loại kết_quả
+11,tuy_nhiên tất_cả giá_trị nằm trong khoảng sai_lệch đo_lường cho_phép
+12,hãng suzuki thừa_nhận chênh_lệch giữa giá_trị nhỏ vấn_đề lớn
+13,hãng suzuki nguyên_nhân dẫn đến sai_lệch địa_hình trung_tâm thử_nghiệm ở sagara thuộc tỉnh shizuoka nhật_bản
+14,trung_tâm thử_nghiệm suzuki nằm đỉnh đổi gần biển điều_kiện thời_tiết đặc_biệt gió to ảnh_hưởng đến kết_quả

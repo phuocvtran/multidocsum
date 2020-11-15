@@ -1,5 +1,5 @@
 idx, sentence
-0,sáng ngày 36  một_số người dân tại p tân_an  tp buôn_ma_thuột  đắk_lắk  trong khi đi tập_thể_dục đã phát_hiện xác một quân_nhân bên vệ đường nên đã trình_báo cơ_quan_chức_năng 
-1,danh_tính của nạn_nhân được xác_định là thiếu_tá nguyễn_duy_chuyển  sn 1976  quê tại huyện tĩnh_gia  tỉnh thanh_hóa  
-2,thiếu_tá chuyển hiện đang là trợ_lý phòng kinh_doanh của sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh đắk_lắk 
-3,sau khi nhận được tin báo của người dân  lực_lượng điều_tra quân_sự của tỉnh đắk_lắk đã tiến_hành đưa xác nạn_nhân về tại bệnh_xá của sư_đoàn 470 để tiến_hành khám_nghiệm tử_thi điều_tra  làm rõ nguyên_nhân tử_vong của thiếu_tá chuyển 
+0,sáng ngày 36 một_số người dân p tân_an tp buôn_ma_thuột đắk_lắk trong đi tập_thể_dục phát_hiện xác một quân_nhân bên vệ đường trình_báo cơ_quan_chức_năng
+1,danh_tính nạn_nhân xác_định thiếu_tá nguyễn_duy_chuyển sn 1976 quê huyện tĩnh_gia tỉnh thanh_hóa
+2,thiếu_tá chuyển hiện trợ_lý phòng kinh_doanh sư_đoàn 470 thuộc bộ_chỉ_huy quân_sự tỉnh đắk_lắk
+3,nhận tin báo người dân lực_lượng điều_tra quân_sự tỉnh đắk_lắk tiến_hành đưa xác nạn_nhân về bệnh_xá sư_đoàn 470 tiến_hành khám_nghiệm tử_thi điều_tra làm rõ nguyên_nhân tử_vong thiếu_tá chuyển

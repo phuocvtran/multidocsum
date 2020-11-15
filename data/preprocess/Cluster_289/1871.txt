@@ -1,9 +1,9 @@
 idx, sentence
-0,sáng 3/6  chị nguyễn_thị_ngọc_mai điều_khiển ôtô biển số 93h  6789 đến quán ăn trên đường nguyễn_chí_thanh  tp thủ_dầu_một  bình_dương  
-1,lúc người này xuống xe thì lê_trung_hiếu  27 tuổi  ngụ phường tương_bình_hiệp  tp thủ_dầu_một  lao đến lấy chiếc ôtô bỏ chạy 
-2,khi đến ngã giao giữa quốc_lộ 13 và hồ_văn_cống  thuộc phường tương_bình_hiệp   chiếc ôtô tông vào xe ba_gác rồi chuyển_hướng  lao vào quán cà_phê ven đường 
-3,những người trong quán chạy toán_loạn để thoát_thân 
-4,tại hiện_trường  chiếc xe 4 chỗ bị bể móp méo phần đầu 
-5,mái_che quán cà_phê bị đổ sập  bàn_ghế và các vật_dụng bị hất văng trong khi cột_điện phía trước bị tông đổ 
-6,chiếc xe_máy trong khuôn_viên quán bị xế hộp gây va_chạm  hư_hỏng 
-7,tai_nạn không gây thiệt_hại nào về người 
+0,sáng 3/6 chị nguyễn_thị_ngọc_mai điều_khiển ôtô biển số 93h 6789 đến quán ăn đường nguyễn_chí_thanh tp thủ_dầu_một bình_dương
+1,người xuống xe lê_trung_hiếu 27 tuổi ngụ phường tương_bình_hiệp tp thủ_dầu_một lao đến lấy ôtô bỏ chạy
+2,đến ngã giao giữa quốc_lộ 13 hồ_văn_cống thuộc phường tương_bình_hiệp ôtô tông xe ba_gác chuyển_hướng lao quán cà_phê ven đường
+3,người trong quán chạy toán_loạn thoát_thân
+4,hiện_trường xe 4 chỗ bể móp méo phần đầu
+5,mái_che quán cà_phê đổ sập bàn_ghế vật_dụng hất văng trong cột_điện phía tông đổ
+6,xe_máy trong khuôn_viên quán xế hộp gây va_chạm hư_hỏng
+7,tai_nạn gây thiệt_hại nào về người

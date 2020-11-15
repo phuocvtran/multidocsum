@@ -1,32 +1,32 @@
 idx, sentence
-0,đôi_khi nhân_viên của cia tìm đến thị_trấn  hỏi ko và ri về những người triều_tiên trên các tấm ảnh 
-1,cia từ_chối đưa ra bình_luận hay xác_nhận các tuyên_bố của ko và ri 
-2,thậm_chí ngày_nay  ri vẫn bày_tỏ sự ủng_hộ với chính_phủ triều_tiên và đang cố nhận được sự chấp_thuận để đến thăm bình nhưỡng 
-3,cả hai đều thận_trọng khi nói về người cháu trai quyền_lực  người mà họ liên_tục đề_cập bằng cái tên “ nguyên_soái kim_jongun ” 
-4,những tiết_lộ về quá_khứ của kim_jongun_cặp vợ_chồng tiết_lộ kim_jongun_sinh năm 1984  chứ không phải 1982 hay 1983 như đã được biết đến trước đây 
-5,bà cho biết ông kim_jongun_sinh cùng năm với con trai bà 
-6,“ cậu ấy  kim_jongun  và con trai tôi là bạn cùng chơi từ khi sinh ra 
-7,tôi đã thay tã cho cả hai đứa ” – bà ko cười nói 
-8,nhưng qua những câu_chuyện được đôi vợ_chồng này thuật lại  có_thể thấy rõ kim_jong_un đã được nuôi dạy với tâm thế rất rõ rằng  một ngày nào đó chàng trai ấy sẽ trở_thành nhà lãnh_đạo 
-9,năm 1992  ko_yongsuk đến bern  thụy_sĩ cùng kim_jongchol  con_trai đầu của chị_gái ko và kim_jongil 
-10,ông kim_jongil sau đó hai năm đã trở_thành lãnh_đạo triều_tiên 
-11,kim_jongun đã đến bern vào năm 1996 khi mới 12 tuổi 
-12,“ chúng_tôi đã sống trong một ngôi nhà bình_thường và cư_xử như bao gia_đình khác 
-13,tôi đóng vai_trò như mẹ của bọn trẻ ”  ko tâm_sự về khoảng thời_gian ở bern 
-14,“ tôi khuyến_khích cậu bé đưa bạn_bè về nhà chơi bởi chúng_tôi muốn chúng sống một cuộc_sống bình_thường 
-15,tôi làm bữa ăn nhẹ cho bọn trẻ 
-16,chúng ăn bánh và chơi lego ” 
-17,sử_dụng hộ_chiếu ngoại_giao  ri thường đi_lại giữa triều_tiên và thụy_sĩ  đôi_khi mang theo người con_gái út của họ và em_gái kim_jongun 
-18,gia_đình bà ko nói tiếng triều_tiên tại nhà  ăn các món ăn truyền_thống nhưng vẫn trải_nghiệm cuộc_sống ở người nước_ngoài 
-19,bà ko đã đưa bọn trẻ đến euro_disney  giờ là disneyland_paris 
-20,album gia_đình của ông ri lưu lại đầy_đủ hình_ảnh họ đi trượt_tuyết trên dãy núi alps của thụy_sĩ  đi bơi ở vùng riviera của pháp và ăn_uống tại nhà_hàng ý 
-21, nóng_tính và thiếu kiên_nhẫn  kim_jongun thích trò_chơi và máy_móc 
-22,cậu thuở bé thường hay mày_mò khám_phá cơ_chế hoạt_động của tàu và máy_bay 
-23,“ cậu ấy không phải là một kẻ gây_rối nhưng cậu ấy nóng_tính và thiếu kiên_nhẫn ” – bà ko nhớ lại 
-24,“ khi mẹ cậu ấy cố nhắc cậu không chơi những thứ này và phàn_nàn vì cậu chưa chăm_học  cậu ấy không trả_lời lại nhưng sẽ phản_đối bằng những cách khác  chẳng_hạn như nhịn_đói bỏ_ăn ” 
-25,kim jongun thích về nhà vào mùa hè  dành nhiều thời_gian ở wonsan  hoặc tại nhà ở bình nhưỡng 
-26,“ cậu ấy bắt_đầu chơi bóng_rổ và yêu_thích môn này ”  ri nói về đứa cháu trai  một người hâm_mộ của michael_jordan 
-27,“ cậu ấy thậm_chí từng ôm bóng_rổ đi ngủ ” 
-28,tại căn nhà ở mỹ  ông ri lấy bức ảnh chưa từng được công_bố  được đựng trong phong_bì  cho thấy hình_ảnh cậu bé kim_jongun 13 tuổi  cùng người anh_trai trong bộ đồng_phục bóng_rổ sau một giải đấu ở bình nhưỡng 
-29,ri ngồi ở hàng ghế phía trước trong khi bà ko đứng ở phía sau 
-30,kim đang giữ một chiếc cúp vàng 
+0,đôi_khi nhân_viên cia tìm đến thị_trấn hỏi ko ri về người triều_tiên tấm ảnh
+1,cia từ_chối đưa bình_luận hay xác_nhận tuyên_bố ko ri
+2,thậm_chí ngày_nay ri bày_tỏ ủng_hộ chính_phủ triều_tiên cố nhận chấp_thuận đến thăm bình nhưỡng
+3,hai thận_trọng nói về người cháu trai quyền_lực người họ liên_tục đề_cập bằng tên “ nguyên_soái kim_jongun ”
+4,tiết_lộ về quá_khứ kim_jongun_cặp vợ_chồng tiết_lộ kim_jongun_sinh năm 1984 1982 hay 1983 biết đến
+5,bà biết ông kim_jongun_sinh năm con trai bà
+6,“ cậu ấy kim_jongun con trai tôi bạn chơi sinh
+7,tôi thay tã hai đứa ” – bà ko cười nói
+8,câu_chuyện đôi vợ_chồng thuật thấy rõ kim_jong_un nuôi dạy tâm thế rõ một ngày nào chàng trai ấy trở_thành nhà lãnh_đạo
+9,năm 1992 ko_yongsuk đến bern thụy_sĩ kim_jongchol con_trai đầu chị_gái ko kim_jongil
+10,ông kim_jongil hai năm trở_thành lãnh_đạo triều_tiên
+11,kim_jongun đến bern năm 1996 mới 12 tuổi
+12,“ chúng_tôi sống trong một ngôi nhà bình_thường cư_xử bao gia_đình khác
+13,tôi đóng vai_trò mẹ bọn trẻ ” ko tâm_sự về khoảng thời_gian ở bern
+14,“ tôi khuyến_khích cậu bé đưa bạn_bè về nhà chơi chúng_tôi muốn chúng sống một cuộc_sống bình_thường
+15,tôi làm bữa ăn nhẹ bọn trẻ
+16,chúng ăn bánh chơi lego ”
+17,sử_dụng hộ_chiếu ngoại_giao ri thường đi_lại giữa triều_tiên thụy_sĩ đôi_khi mang người con_gái út họ em_gái kim_jongun
+18,gia_đình bà ko nói tiếng triều_tiên nhà ăn món ăn truyền_thống trải_nghiệm cuộc_sống ở người nước_ngoài
+19,bà ko đưa bọn trẻ đến euro_disney giờ disneyland_paris
+20,album gia_đình ông ri lưu đầy_đủ hình_ảnh họ đi trượt_tuyết dãy núi alps thụy_sĩ đi bơi ở vùng riviera pháp ăn_uống nhà_hàng ý
+21,nóng_tính thiếu kiên_nhẫn kim_jongun thích trò_chơi máy_móc
+22,cậu thuở bé thường hay mày_mò khám_phá cơ_chế hoạt_động tàu máy_bay
+23,“ cậu ấy một kẻ gây_rối cậu ấy nóng_tính thiếu kiên_nhẫn ” – bà ko nhớ
+24,“ mẹ cậu ấy cố nhắc cậu chơi thứ phàn_nàn cậu chăm_học cậu ấy trả_lời phản_đối bằng cách khác chẳng_hạn nhịn_đói bỏ_ăn ”
+25,kim jongun thích về nhà mùa hè dành thời_gian ở wonsan hoặc nhà ở bình nhưỡng
+26,“ cậu ấy bắt_đầu chơi bóng_rổ yêu_thích môn ” ri nói về đứa cháu trai một người hâm_mộ michael_jordan
+27,“ cậu ấy thậm_chí ôm bóng_rổ đi ngủ ”
+28,căn nhà ở mỹ ông ri lấy bức ảnh công_bố đựng trong phong_bì thấy hình_ảnh cậu bé kim_jongun 13 tuổi người anh_trai trong bộ đồng_phục bóng_rổ một giải đấu ở bình nhưỡng
+29,ri ngồi ở hàng ghế phía trong bà ko đứng ở phía
+30,kim giữ một cúp vàng

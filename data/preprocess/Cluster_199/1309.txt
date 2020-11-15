@@ -1,14 +1,14 @@
 idx, sentence
-0,sáng ngày 16  tòa_án nhân_dân  tand  tp hà_nội đã mở phiên_tòa xét_xử bị_cáo đoàn_văn_chuyên  sn 1991  ở huyện văn_giang  tỉnh hưng_yên   người cố_tình điều_khiển xe_tải đâm thẳng vào 1 thượng_úy csgt vào ngày 12122015  về tội “ giết_người ” 
-1,theo cáo_trạng  khoảng 9 giờ 50 phút ngày 12122015  chuyên điều_khiển ô_tô tải đi trên đường nguyễn_văn_linh  quận long_biên  tp hà_nội  hướng từ hải_phòng về hà_nội 
-2,khi đến ngã tư phố sài_đồng  nguyễn_văn_linh  do vi_phạm_luật giao_thông đường_bộ nên bị csgt ra tín_hiệu yêu_cầu dừng xe 
-3,thấy vậy  chuyên không chấp_hành mà phóng xe thông thẳng vào thượng_úy csgt trương_quốc_đạt 
-4,thấy nguy_hiểm  thượng_úy csgt đã nhảy lên bám vào cần gạt nước ở mũi xe_tải 
-5,chuyên vẫn tiếp_tục cho xe chạy và đánh lái sang trái nên va_chạm với một ô_tô khác cùng chiều 
-6,chưa dừng lại ở đó  chuyên tiếp_tục điều_khiển xe lạng_lách  đánh_võng sang trái  sang phải nhằm hất thượng_úy đạt rơi xuống đường 
-7,chiến_sĩ csgt này vẫn cố_gắng bám vào cần gạt nước để khỏi ngã 
-8,chuyên thấy thế tiếp_tục tăng ga phóng nhanh rồi bất_ngờ đạp phanh gấp để hất thượng_úy đạt ngã ra đường 
-9,mặc_dù thấy chiến_sĩ csgt đã ngã xuống đường trước mũi xe_tải nhưng chuyên vẫn tiếp_tục điều_khiển xe chạy nhanh kéo lê anh đạt dưới gầm xe khoảng 20 m  trong lúc chuyên tăng ga bỏ chạy  bánh ô_tô phía trước và phía sau bên phải chèn vào người thượng_úy csgt làm nạn_nhân bị đa chấn_thương 
-10,việc thượng_úy đạt không bị tử_vong trong vụ_việc nghiêm_trọng chống người thi_hành công_vụ của tài_xế chuyên là do được cấp_cứu kịp_thời 
-11,tuy_nhiên  tỉ_lệ thương_tích của thượng_úy csgt này được xác_định là 59  
-12,sau khi gây_án  chuyên đã ra cơ_quan công_an đầu_thú 
+0,sáng ngày 16 tòa_án nhân_dân tand tp hà_nội mở phiên_tòa xét_xử bị_cáo đoàn_văn_chuyên sn 1991 ở huyện văn_giang tỉnh hưng_yên người cố_tình điều_khiển xe_tải đâm thẳng 1 thượng_úy csgt ngày 12122015 về tội “ giết_người ”
+1,cáo_trạng khoảng 9 giờ 50 phút ngày 12122015 chuyên điều_khiển ô_tô tải đi đường nguyễn_văn_linh quận long_biên tp hà_nội hướng hải_phòng về hà_nội
+2,đến ngã tư phố sài_đồng nguyễn_văn_linh vi_phạm_luật giao_thông đường_bộ csgt tín_hiệu yêu_cầu dừng xe
+3,thấy chuyên chấp_hành phóng xe thông thẳng thượng_úy csgt trương_quốc_đạt
+4,thấy nguy_hiểm thượng_úy csgt nhảy bám gạt nước ở mũi xe_tải
+5,chuyên tiếp_tục xe chạy đánh lái sang trái va_chạm một ô_tô khác chiều
+6,dừng ở chuyên tiếp_tục điều_khiển xe lạng_lách đánh_võng sang trái sang nhằm hất thượng_úy đạt rơi xuống đường
+7,chiến_sĩ csgt cố_gắng bám gạt nước khỏi ngã
+8,chuyên thấy thế tiếp_tục tăng ga phóng nhanh bất_ngờ đạp phanh gấp hất thượng_úy đạt ngã đường
+9,mặc_dù thấy chiến_sĩ csgt ngã xuống đường mũi xe_tải chuyên tiếp_tục điều_khiển xe chạy nhanh kéo lê anh đạt gầm xe khoảng 20 m trong chuyên tăng ga bỏ chạy bánh ô_tô phía phía bên chèn người thượng_úy csgt làm nạn_nhân đa chấn_thương
+10,thượng_úy đạt tử_vong trong vụ_việc nghiêm_trọng chống người thi_hành công_vụ tài_xế chuyên cấp_cứu kịp_thời
+11,tuy_nhiên tỉ_lệ thương_tích thượng_úy csgt xác_định 59
+12,gây_án chuyên cơ_quan công_an đầu_thú

@@ -1,21 +1,21 @@
 idx, sentence
-0,tối 19/5  nhà thiết_kế phạm_đăng anh_thư lần đầu ra_mắt bộ sưu_tập áo_dài cưới trong khuôn_khổ chương_trình  thành_phố áo_dài  và được trình_làng tại sân_khấu là phố đi bộ nguyễn_huệ 
-1,bộ sưu_tập được trình_diễn trong chương thứ hai của chương_trình   thành_phố ngày hôm_nay  nhằm thể_hiện những cung_bậc đa_dạng và sự thay_đổi của tà áo_dài qua năm_tháng 
-2,những thiết_kế áo_cưới của ntk anh_thư đại_diện cho tình_yêu đôi_lứa và đề_cao sự gắn_kết giữa con_người với nhau trong thời_đại ngày_nay 
-3,sự xuất_hiện của cô khiến nhiều khán_giả bất_ngờ 
-4,không ít người hâm_mộ đi theo elly_trần_suốt đường catwalk để có cơ_hội ngắm người_đẹp 
-5,tại chương_trình lần này  nữ diễn_viên  khát_vọng thượng_lưu  catwalk trên phố đi bộ nguyễn_huệ có chiều dài 800 m 
-6,đường catwalk dài kỷ_lục này là thử_thách cho bất_cứ một người_mẫu chuyên_nghiệp nào khi phải trình_diễn trên đôi giày cao gót và diu chuyển quãng đường khác_xa 
-7,dù không có nhiều kinh_nghiệm trình_diễn  elly_trần vẫn luôn giữ nụ cười rạng_rỡ và thần_thái tỏa sáng trong quá_trình di_chuyển 
-8,ở cuối đường catwalk  elly_trần_thành_kính dâng đóa hoa_sen lên tượng_đài bác_hồ 
-9,trong chương_trình   bà mẹ hai con  diện mẫu áo_dài xuyên thấu do chính tay ntk anh_thư đo ni đóng giày cho cô 
-10,thiết_kế áo_cưới elly trần_diện nhấn_mạnh ở phần ngực áo đính kết đá quý thành một trái_tim to bản 
-11,phần chiết eo nhẹ_nhàng đặc_trưng của áo_dài nguyên_bản tôn lên vòng hai của bà mẹ hai con 
-12,đặc_biệt  phần tà áo sau được ghép_nối bởi nhiều lớp voan lưới  mang lại vẻ lãng_mạn  bồng_bềnh cho từng bước_đi 
-13,hiện_tại  elly_trần_tham_gia một bộ phim mới 
-14,tuy có lịch_trình khá bận_rộn  cô cố_gắng thu_xếp thời_gian và trình_diễn cho người bạn thân_thiết  ntk anh_thư 
-15,ngay sau khi chương_trình kết_thúc  elly_trần tiếp_tục di_chuyển ngay ra vũng_tàu để thực_hiện một_số cảnh quay cho phim mới tại đây 
-16,bộ sưu_tập của ntk phạm_đăng anh_thư bao_gồm những mẫu áo_dài truyền_thống được cách_điệu sang_trọng nhằm phù_hợp với không_khí trọng_đại của những lễ_cưới hiện_đại 
-17,các chất_liệu được sử_dụng chủ_yếu bao_gồm ren lưới  voan mỏng màu_sắc trắng ngọc_trai  vàng ánh_kim và tím phong_lan 
-18,ntk anh_thư tập_trung vào kỹ_thuật phối đắp lớp vải  dựng phom như váy dạ_hội để tạo nên phần tà áo bồng nhẹ 
-19,phần thân áo trễ vai và cổ chữ v hiện_đại  nhằm khéo_léo tôn lên phần cổ đầy_đặn và vóc_dáng mảnh_mai của cô_dâu việt 
+0,tối 19/5 nhà thiết_kế phạm_đăng anh_thư lần đầu ra_mắt bộ sưu_tập áo_dài cưới trong khuôn_khổ chương_trình thành_phố áo_dài trình_làng sân_khấu phố đi bộ nguyễn_huệ
+1,bộ sưu_tập trình_diễn trong chương thứ hai chương_trình thành_phố ngày hôm_nay nhằm thể_hiện cung_bậc đa_dạng thay_đổi tà áo_dài năm_tháng
+2,thiết_kế áo_cưới ntk anh_thư đại_diện tình_yêu đôi_lứa đề_cao gắn_kết giữa con_người nhau trong thời_đại ngày_nay
+3,xuất_hiện cô khiến khán_giả bất_ngờ
+4,ít người hâm_mộ đi elly_trần_suốt đường catwalk cơ_hội ngắm người_đẹp
+5,chương_trình lần nữ diễn_viên khát_vọng thượng_lưu catwalk phố đi bộ nguyễn_huệ chiều dài 800 m
+6,đường catwalk dài kỷ_lục thử_thách bất_cứ một người_mẫu chuyên_nghiệp nào trình_diễn đôi giày cao gót diu chuyển quãng đường khác_xa
+7,dù kinh_nghiệm trình_diễn elly_trần luôn giữ nụ cười rạng_rỡ thần_thái tỏa sáng trong quá_trình di_chuyển
+8,ở cuối đường catwalk elly_trần_thành_kính dâng đóa hoa_sen tượng_đài bác_hồ
+9,trong chương_trình bà mẹ hai con diện mẫu áo_dài xuyên thấu chính tay ntk anh_thư đo ni đóng giày cô
+10,thiết_kế áo_cưới elly trần_diện nhấn_mạnh ở phần ngực áo đính kết đá quý thành một trái_tim to bản
+11,phần chiết eo nhẹ_nhàng đặc_trưng áo_dài nguyên_bản tôn vòng hai bà mẹ hai con
+12,đặc_biệt phần tà áo ghép_nối lớp voan lưới mang vẻ lãng_mạn bồng_bềnh bước_đi
+13,hiện_tại elly_trần_tham_gia một bộ phim mới
+14,tuy lịch_trình khá bận_rộn cô cố_gắng thu_xếp thời_gian trình_diễn người bạn thân_thiết ntk anh_thư
+15,chương_trình kết_thúc elly_trần tiếp_tục di_chuyển vũng_tàu thực_hiện một_số cảnh quay phim mới
+16,bộ sưu_tập ntk phạm_đăng anh_thư bao_gồm mẫu áo_dài truyền_thống cách_điệu sang_trọng nhằm phù_hợp không_khí trọng_đại lễ_cưới hiện_đại
+17,chất_liệu sử_dụng chủ_yếu bao_gồm ren lưới voan mỏng màu_sắc trắng ngọc_trai vàng ánh_kim tím phong_lan
+18,ntk anh_thư tập_trung kỹ_thuật phối đắp lớp vải dựng phom váy dạ_hội tạo phần tà áo bồng nhẹ
+19,phần thân áo trễ vai cổ chữ v hiện_đại nhằm khéo_léo tôn phần cổ đầy_đặn vóc_dáng mảnh_mai cô_dâu việt

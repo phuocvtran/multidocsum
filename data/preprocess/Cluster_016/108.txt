@@ -1,18 +1,18 @@
 idx, sentence
-0,ngày 195  khối hiệp_ước bắc_đại_tây_dương  nato  đã chính_thức mời quốc_gia vùng balkan_montenegro tham_gia vào khối  trở_thành thành_viên thứ 29 của nato  tin từ báo new_york_times  mỹ  
-1,trong ngày 195 tại brussels  bỉ   các ngoại_trưởng nato đã cùng ký nghị_định_thư gia_nhập thành_viên với sự tham_gia chứng_kiến của thủ_tướng montenegro_milo_dukanovic 
-2,“ montenegro đã và đang đóng_góp cho các chiến_dịch của nato  liên_minh_châu_âu  và lhq  thúc_đẩy hợp_tác ở khu_vực balkan  đồng_thời thực_hiện cải_cách lớn 
-3,tư_cách thành_viên sẽ giúp montenegro đóng_góp cho chính_sách của nato 
-4,việc montenegro tham_gia nato sẽ giúp củng_cố ổn_định và an_ninh trong khu_vực 
-5,đây đồng_thời cũng là tín_hiệu rõ_ràng cho thấy nato luôn mở_cửa với các đối_tác để cùng chia_sẻ và phát_triển các giá_trị của nato ” tổng_thư_ký nato_jens_stoltenberg cho biết hy_vọng sẽ sớm có thêm cờ montenegro bay cùng cờ 28 nước thành_viên ngoài trụ_sở chính của nato ở brussels 
-6,montenegro sẽ chỉ trở_thành thành_viên nato sau khi quốc_hội các nước thông_qua nghị_định_thư này 
-7,trong thời_gian chờ các nước phê_chuẩn  montenegro vẫn được tham_gia vào các sự_kiện của nato với tư_cách quan_sát_viên 
-8,đây là lần kết_nạp thành_viên mới thứ 7 trong lịch_sử nato 
-9,lần kết_nạp thành_viên gần nhất của nato là vào năm 2009 với hai thành_viên mới là albania và croatia 
-10,montenegro tách ra từ liên_bang serbia và montenegro năm 2006 
-11,montenegro từng đóng_góp cho chiến_dịch quân_sự của nato ở afghanistan  kosovo 
-12,bộ ngoại_giao nga ngày 195 phản_đối động_thái này của nato và đe_doạ sẽ trừng_phạt montenegro nếu gia_nhập nato 
-13,người phát_ngôn bộ ngoại_giao nga maria_zakharova cho rằng việc mở_rộng thành_viên của nato là một âm_mưu thay_đổi bức tranh chính_trị quân_sự châu_âu và nhằm kiềm_chế nga 
-14,bước đi này là cố_ý cô_lập nga  ảnh_hưởng đến quyền_lợi của nga và buộc nga phải có phản_ứng thích_hợp 
-15,theo bộ ngoại_giao nga  các biện_pháp trừng_phạt có_thể là hạn_chế giao_dịch kinh_tế và một_số lĩnh_vực khác giữa nga với montenegro 
-16,một_số quan_chức nga khác dự_đoán nga có_thể sẽ hạn_chế nhập_khẩu từ montenegro cũng như áp_đặt một_số trừng_phạt thương_mại khác 
+0,ngày 195 khối hiệp_ước bắc_đại_tây_dương nato chính_thức mời quốc_gia vùng balkan_montenegro tham_gia khối trở_thành thành_viên thứ 29 nato tin báo new_york_times mỹ
+1,trong ngày 195 brussels bỉ ngoại_trưởng nato ký nghị_định_thư gia_nhập thành_viên tham_gia chứng_kiến thủ_tướng montenegro_milo_dukanovic
+2,“ montenegro đóng_góp chiến_dịch nato liên_minh_châu_âu lhq thúc_đẩy hợp_tác ở khu_vực balkan đồng_thời thực_hiện cải_cách lớn
+3,tư_cách thành_viên giúp montenegro đóng_góp chính_sách nato
+4,montenegro tham_gia nato giúp củng_cố ổn_định an_ninh trong khu_vực
+5,đồng_thời tín_hiệu rõ_ràng thấy nato luôn mở_cửa đối_tác chia_sẻ phát_triển giá_trị nato ” tổng_thư_ký nato_jens_stoltenberg biết hy_vọng sớm thêm cờ montenegro bay cờ 28 nước thành_viên ngoài trụ_sở chính nato ở brussels
+6,montenegro trở_thành thành_viên nato quốc_hội nước thông_qua nghị_định_thư
+7,trong thời_gian chờ nước phê_chuẩn montenegro tham_gia sự_kiện nato tư_cách quan_sát_viên
+8,lần kết_nạp thành_viên mới thứ 7 trong lịch_sử nato
+9,lần kết_nạp thành_viên gần nhất nato năm 2009 hai thành_viên mới albania croatia
+10,montenegro tách liên_bang serbia montenegro năm 2006
+11,montenegro đóng_góp chiến_dịch quân_sự nato ở afghanistan kosovo
+12,bộ ngoại_giao nga ngày 195 phản_đối động_thái nato đe_doạ trừng_phạt montenegro gia_nhập nato
+13,người phát_ngôn bộ ngoại_giao nga maria_zakharova mở_rộng thành_viên nato một âm_mưu thay_đổi bức tranh chính_trị quân_sự châu_âu nhằm kiềm_chế nga
+14,bước đi cố_ý cô_lập nga ảnh_hưởng đến quyền_lợi nga buộc nga phản_ứng thích_hợp
+15,bộ ngoại_giao nga biện_pháp trừng_phạt hạn_chế giao_dịch kinh_tế một_số lĩnh_vực khác giữa nga montenegro
+16,một_số quan_chức nga khác dự_đoán nga hạn_chế nhập_khẩu montenegro áp_đặt một_số trừng_phạt thương_mại khác

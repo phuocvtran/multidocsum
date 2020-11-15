@@ -1,5 +1,5 @@
 idx, sentence
-0,đội csgt số 3  phòng csgt hà_nội  ca_thành_phố hà_nội  cho biết  chiếc xe ô_tô 7 chỗ mang bks 30p – 2153 đang lưu_thông trên đường xã_đàn thì bất_ngờ mất lái  đâm liên_tiếp 8 xe_máy đang lưu_thông trên đường 
-1,vụ va_chạm khiến 2 xe_máy bị cuốn vào gầm  những chiếc xe khác đều bị hư_hỏng nặng hoặc hư_hỏng 
-2,phần đầu xe ô_tô bị biến_dạng 
-3,song rất may  vụ tai_nạn không có thương_vong về người 
+0,đội csgt số 3 phòng csgt hà_nội ca_thành_phố hà_nội biết xe ô_tô 7 chỗ mang bks 30p – 2153 lưu_thông đường xã_đàn bất_ngờ mất lái đâm liên_tiếp 8 xe_máy lưu_thông đường
+1,vụ va_chạm khiến 2 xe_máy cuốn gầm xe khác hư_hỏng nặng hoặc hư_hỏng
+2,phần đầu xe ô_tô biến_dạng
+3,song may vụ tai_nạn thương_vong về người

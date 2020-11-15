@@ -1,5 +1,5 @@
 idx, sentence
-0,sự_việc gây tranh_cãi khi mỹ_linh hát quốc_ca chào_đón tổng_thống obama đã trôi qua hơn một tuần nhưng dư_âm của nó vẫn còn âm ỷ 
-1,trên trang cá_nhân  ca_sĩ hồng_nhung cũng đã lên_tiếng bảo_vệ cho người đồng_nghiệp thân_thiết 
-2,nữ ca_sĩ cho rằng dù mỹ_linh đã khiêm_tốn gọi sự_cố hát tông hơi thấp là  tai_nạn nghề_nghiệp  nhưng phần trình_diễn của cô hoàn_toàn không quá dở như nhiều người nhận_xét 
-3,nhất_là với khung_cảnh trang_nghiêm bậc nhất dành cho các nguyên_thủ  chính_trị_gia uy_nghiêm như thế thì nếu không phải là mỹ_linh  có_thể sẽ không nói được nên lời   mỹ linh đã hát với một trách_nhiệm nghiêm_túc  thể_hiện sự trân_trọng  tình_cảm yêu nước của mình trong từng câu_hát  không sai một từ  không chênh một nốt  
+0,sự_việc gây tranh_cãi mỹ_linh hát quốc_ca chào_đón tổng_thống obama trôi hơn một tuần dư_âm nó còn âm ỷ
+1,trang cá_nhân ca_sĩ hồng_nhung lên_tiếng bảo_vệ người đồng_nghiệp thân_thiết
+2,nữ ca_sĩ dù mỹ_linh khiêm_tốn gọi sự_cố hát tông hơi thấp tai_nạn nghề_nghiệp phần trình_diễn cô hoàn_toàn quá dở người nhận_xét
+3,nhất_là khung_cảnh trang_nghiêm bậc nhất dành nguyên_thủ chính_trị_gia uy_nghiêm thế mỹ_linh nói lời mỹ linh hát một trách_nhiệm nghiêm_túc thể_hiện trân_trọng tình_cảm yêu nước mình trong câu_hát sai một chênh một nốt

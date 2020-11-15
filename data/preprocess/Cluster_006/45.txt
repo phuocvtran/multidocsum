@@ -1,10 +1,10 @@
 idx, sentence
-0,hiện công_an huyện sơn_động  bắc_giang đang phong_tỏa hiện_trường điều_tra nguyên_nhân vụ_việc 
-1,theo đó  vụ_việc xảy ra trưa ngày 195  tại thôn đồng_rì  thị_trấn thanh_sơn  huyện sơn_động  tỉnh bắc_giang 
-2,thông_tin ban_đầu cho biết  trưa cùng ngày  người dân thôn đồng_rì trong lúc đi qua ngôi nhà cùng thôn thì phát_hiện đôi vợ_chồng chết cạnh nhau 
-3,sự_việc nhanh_chóng được người dân báo cho cơ_quan_chức_năng địa_phương 
-4,nhận được thông_tin  lực_lượng công_an huyện đã nhanh_chóng có_mặt bảo_vệ hiện_trường điều_tra vụ_việc 
-5,trao_đổi với báo_công_an tphcm  một lãnh_đạo huyện sơn_động xác_nhận vụ_việc 
-6,danh_tính đôi vợ_chồng vẫn chưa được xác_định 
-7,đôi vợ_chồng trên quê gốc ở thanh đến địa_phương sinh_sống 
-8,người chồng làm công_nhân cho công_ty tại huyện  còn người vợ ở nhà 
+0,hiện công_an huyện sơn_động bắc_giang phong_tỏa hiện_trường điều_tra nguyên_nhân vụ_việc
+1,vụ_việc xảy trưa ngày 195 thôn đồng_rì thị_trấn thanh_sơn huyện sơn_động tỉnh bắc_giang
+2,thông_tin ban_đầu biết trưa ngày người dân thôn đồng_rì trong đi ngôi nhà thôn phát_hiện đôi vợ_chồng chết cạnh nhau
+3,sự_việc nhanh_chóng người dân báo cơ_quan_chức_năng địa_phương
+4,nhận thông_tin lực_lượng công_an huyện nhanh_chóng có_mặt bảo_vệ hiện_trường điều_tra vụ_việc
+5,trao_đổi báo_công_an tphcm một lãnh_đạo huyện sơn_động xác_nhận vụ_việc
+6,danh_tính đôi vợ_chồng xác_định
+7,đôi vợ_chồng quê gốc ở thanh đến địa_phương sinh_sống
+8,người chồng làm công_nhân công_ty huyện còn người vợ ở nhà

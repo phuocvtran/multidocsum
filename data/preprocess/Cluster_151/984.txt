@@ -1,9 +1,9 @@
 idx, sentence
-0,theo cáo_trạng  sáng ngày 982015  nguyễn_văn_bông  sn 1984 tại đồng_tháp  cùng một_vài người bạn  trong đó có vợ_chồng anh lưu_văn_đương cùng nhậu tại phòng trọ ở phường 7  quận 8  
-1,trong lúc nhậu  anh đương và bông phát_sinh mâu_thuẫn khi bông dùng điện_thoại chụp hình vợ anh đương mà không xin_phép 
-2,đến trưa  cả bàn nhậu giải_tán 
-3,lo_sợ bị đương đánh  bông_thủ một con dao vào người rồi đi uống cà_phê với một người bạn 
-4,đến quán cà_phê thì bông bắt_gặp đương và vài người bạn 
-5,thấy bông  đương đi đến định đánh nhưng được một người bạn can_ngăn  kéo đương ngã xuống_đường 
-6,lúc này  anh trần_minh_lợi  em họ_đương  đang đứng gần đó liền cầm cục gạch đến để bênh_vực anh họ thì bị bông rút dao đâm trúng ngực khiến anh lợi chết sau đó 
-7,sau khi giết người  bông đã về phòng trọ trên địa_bàn để lẩn trốn nhưng chỉ một ngày sau  bông đã bị công_an bắt_giữ 
+0,cáo_trạng sáng ngày 982015 nguyễn_văn_bông sn 1984 đồng_tháp một_vài người bạn trong vợ_chồng anh lưu_văn_đương nhậu phòng trọ ở phường 7 quận 8
+1,trong nhậu anh đương bông phát_sinh mâu_thuẫn bông dùng điện_thoại chụp hình vợ anh đương xin_phép
+2,đến trưa bàn nhậu giải_tán
+3,lo_sợ đương đánh bông_thủ một con dao người đi uống cà_phê một người bạn
+4,đến quán cà_phê bông bắt_gặp đương vài người bạn
+5,thấy bông đương đi đến định đánh một người bạn can_ngăn kéo đương ngã xuống_đường
+6,anh trần_minh_lợi em họ_đương đứng gần liền cầm cục gạch đến bênh_vực anh họ bông rút dao đâm trúng ngực khiến anh lợi chết
+7,giết người bông về phòng trọ địa_bàn lẩn trốn một ngày bông công_an bắt_giữ

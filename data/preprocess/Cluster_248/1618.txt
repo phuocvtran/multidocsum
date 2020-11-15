@@ -1,12 +1,12 @@
 idx, sentence
-0,trang tin military ngày 16 dẫn lời các quan_chức hải_quân cho biết  máy_bay ea18g_growler bị vướng vào cáp hãm trên tàu sân_bay khi vẫn chưa hạ_cánh hẳn  khiến mũi phi_cơ hư_hỏng  và các vật_thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động_cơ 
-1,trong khi mức_độ thiệt_hại vẫn đang được đánh_giá  phi_cơ hiện không_thể bay 
-2,theo military  phát_ngôn_viên của lực_lượng không_quân thuộc hải_quân mỹ ở thái_bình_dương  bà jeannie_groeneveld  cho biết sự_cố xảy ra khi máy_bay tác_chiến điện_tử cố_gắng hạ_cánh trên tàu sân_bay john_c_stennis vào tối_ngày 295 
-3,bà cho biết  tàu sân_bay stennis đang tuần_tra tại biển_đông vào thời_điểm đó 
-4,không có thủy_thủ bị_thương  và không có tàu hoặc máy_bay khác bị hư_hỏng 
-5,trung_tâm an_toàn hải_quân mỹ liệt_kê sự_cố vào loại a  tức_là chiếc máy_bay giá_trị 68 triệu usd gặp thiệt_hại ít_nhất hai triệu usd 
-6,nhưng groeneveld cho biết việc phân_loại vẫn đang được đánh_giá và có_thể được hạ xuống_cấp thấp hơn 
-7,giới_chức bảo_trì máy_bay cho biết họ đang đánh_giá mức_độ hư_hỏng của chiếc ea18g_growler và xác_định_liệu chiếc máy_bay này có_thể sửa_chữa hay phải dùng một chiếc growler thay_thể 
-8,tàu sân_bay stennis hoạt_động ở biển_đông kể từ giữa tháng 4 
-9,ngày 154  bộ_trưởng quốc_phòng mỹ ash_carter đến thăm tàu này để nhấn_mạnh mỹ kiên_quyết đóng_góp vào việc duy_trì ổn_định trong khu_vực 
-10,sự_cố đối_với máy_bay growler lần này là rủi_ro thứ ba xảy ra với hải_quân mỹ kể từ tháng 12016 và là sự_cố thứ hai chỉ trong ba ngày 
+0,trang tin military ngày 16 dẫn lời quan_chức hải_quân biết máy_bay ea18g_growler vướng cáp hãm tàu sân_bay hạ_cánh hẳn khiến mũi phi_cơ hư_hỏng vật_thể bên ngoài mảnh vỡ boong hút động_cơ
+1,trong mức_độ thiệt_hại đánh_giá phi_cơ hiện không_thể bay
+2,military phát_ngôn_viên lực_lượng không_quân thuộc hải_quân mỹ ở thái_bình_dương bà jeannie_groeneveld biết sự_cố xảy máy_bay tác_chiến điện_tử cố_gắng hạ_cánh tàu sân_bay john_c_stennis tối_ngày 295
+3,bà biết tàu sân_bay stennis tuần_tra biển_đông thời_điểm
+4,thủy_thủ bị_thương tàu hoặc máy_bay khác hư_hỏng
+5,trung_tâm an_toàn hải_quân mỹ liệt_kê sự_cố loại a tức_là máy_bay giá_trị 68 triệu usd gặp thiệt_hại ít_nhất hai triệu usd
+6,groeneveld biết phân_loại đánh_giá hạ xuống_cấp thấp hơn
+7,giới_chức bảo_trì máy_bay biết họ đánh_giá mức_độ hư_hỏng ea18g_growler xác_định_liệu máy_bay sửa_chữa hay dùng một growler thay_thể
+8,tàu sân_bay stennis hoạt_động ở biển_đông kể giữa tháng 4
+9,ngày 154 bộ_trưởng quốc_phòng mỹ ash_carter đến thăm tàu nhấn_mạnh mỹ kiên_quyết đóng_góp duy_trì ổn_định trong khu_vực
+10,sự_cố đối_với máy_bay growler lần rủi_ro thứ ba xảy hải_quân mỹ kể tháng 12016 sự_cố thứ hai trong ba ngày

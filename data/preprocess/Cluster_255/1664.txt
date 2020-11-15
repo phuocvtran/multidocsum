@@ -1,4 +1,4 @@
 idx, sentence
-0,vụ tai_nạn xảy ra sáng 26 
-1,ở thời_điểm xảy ra tai_nạn  xe siêu sang bentley chạy trên đường nguyễn_văn_linh hướng từ quốc_lộ 1 về khu_chế_xuất tân_thuận 
-2,khi đến giao_lộ nguyễn_văn_linh  nguyễn_đức_cảnh  tài_xế dừng đèn_đỏ thì bị xe container chạy cùng chiều  từ phía sau lao tới húc văng 
+0,vụ tai_nạn xảy sáng 26
+1,ở thời_điểm xảy tai_nạn xe siêu sang bentley chạy đường nguyễn_văn_linh hướng quốc_lộ 1 về khu_chế_xuất tân_thuận
+2,đến giao_lộ nguyễn_văn_linh nguyễn_đức_cảnh tài_xế dừng đèn_đỏ xe container chạy chiều phía lao tới húc văng

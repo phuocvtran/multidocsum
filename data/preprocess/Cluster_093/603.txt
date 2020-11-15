@@ -1,9 +1,9 @@
 idx, sentence
-0,một vụ đánh bom đẫm máu đã xảy ra tại bệnh_viện thành_phố quetta  tỉnh balochistan của pakistan vào sáng 88 
-1,một lãnh_đạo bệnh_viện cho biết vụ đánh bom đã làm ít_nhất 70 người thiệt_mạng và hơn 112 người bị_thương 
-2,trong khi đó  giới_chức chính_quyền và y_tế địa_phương nói rằng số người chết trong vụ nổ này lên đến 93 người 
-3,theo afp  vụ nổ xảy ra lúc 9 giờ 30 sáng 88  giờ_địa_phương  11 giờ 30 giờ vn  khi nhiều người  trong đó có các nhà_báo  luật_sư tập_trung tại bệnh_viện để tiễn_đưa linh_cữu một vị luật_sư địa_phương bị bắn chết  các quan_chức của pakistan cho biết 
-4,nhiều người mặc áo_tang để đưa đám người chết đã trở_thành nạn_nhân xấu_số của vụ đánh bom 
-5,chỉ ít giờ sau đó  nhánh taliban ở pakistan  jamaaturahra đã lên tiếng nhận trách_nhiệm về vụ đánh bom đẫm máu này 
-6,trong một tuyên_bố  người phát_ngôn của nhóm này cho biết   jamaaturahrar thừa_nhận tiến_hành vụ tấn_công đó  và thề sẽ tiếp_tục thực_hiện nhiều vụ tấn_công tương_tự  
-7,không lâu sau  is cũng khẳng_định chính tổ_chức này đứng sau vụ đánh bom  tuyên_bố của is được đăng_tải trên hãng tin amaq ủng_hộ tổ_chức này 
+0,một vụ đánh bom đẫm máu xảy bệnh_viện thành_phố quetta tỉnh balochistan pakistan sáng 88
+1,một lãnh_đạo bệnh_viện biết vụ đánh bom làm ít_nhất 70 người thiệt_mạng hơn 112 người bị_thương
+2,trong giới_chức chính_quyền y_tế địa_phương nói số người chết trong vụ nổ đến 93 người
+3,afp vụ nổ xảy 9 giờ 30 sáng 88 giờ_địa_phương 11 giờ 30 giờ vn người trong nhà_báo luật_sư tập_trung bệnh_viện tiễn_đưa linh_cữu một vị luật_sư địa_phương bắn chết quan_chức pakistan biết
+4,người mặc áo_tang đưa đám người chết trở_thành nạn_nhân xấu_số vụ đánh bom
+5,ít giờ nhánh taliban ở pakistan jamaaturahra tiếng nhận trách_nhiệm về vụ đánh bom đẫm máu
+6,trong một tuyên_bố người phát_ngôn nhóm biết jamaaturahrar thừa_nhận tiến_hành vụ tấn_công thề tiếp_tục thực_hiện vụ tấn_công tương_tự
+7,lâu is khẳng_định chính tổ_chức đứng vụ đánh bom tuyên_bố is đăng_tải hãng tin amaq ủng_hộ tổ_chức

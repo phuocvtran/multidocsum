@@ -1,4 +1,4 @@
 idx, sentence
-0,đến 19 h đêm 7/8  hiện_trường chiếc xe_tải nặng loại 15 tấn lật nằm chắn giữa cầu phú_mỹ  quận 2  tp hcm vẫn đang được lực_lượng csgt quận 2 giải_quyết 
-1,trước đó  khoảng 17 h cùng ngày  trong cơn mưa khá lớn  chiếc xe_ben  loại 15 tấn  mang bks  51c  64238  chưa rõ danh_tính tài_xế  đang đổ dốc cầu hướng từ quận 7 đi quận 2  với tốc_độ nhanh thì chao_đảo rồi lật_nhào 
-2,tài_xế bị_thương nặng được người dân đưa đi cấp_cứu tại bệnh_viện 
+0,đến 19 h đêm 7/8 hiện_trường xe_tải nặng loại 15 tấn lật nằm chắn giữa cầu phú_mỹ quận 2 tp hcm lực_lượng csgt quận 2 giải_quyết
+1,khoảng 17 h ngày trong cơn mưa khá lớn xe_ben loại 15 tấn mang bks 51c 64238 rõ danh_tính tài_xế đổ dốc cầu hướng quận 7 đi quận 2 tốc_độ nhanh chao_đảo lật_nhào
+2,tài_xế bị_thương nặng người dân đưa đi cấp_cứu bệnh_viện

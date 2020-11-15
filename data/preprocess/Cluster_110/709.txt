@@ -1,13 +1,13 @@
 idx, sentence
-0,chi_cục quản_lý thị_trường thành_phố hà_nội vừa thực_hiện kiểm_tra và phát_hiện hàng_loạt các cửa_hàng trà sữa thuộc chuỗi cửa_hàng feeling tea vi_phạm các quy_định về vệ_sinh an_toàn thực_phẩm 
-1,hầu_như các cửa_hàng_không xuất_trình được giấy_tờ chứng_minh nguồn_gốc  xuất_xứ hàng_hóa 
-2,trong số 8 cửa_hàng được kiểm_tra  thì có tới 7 cửa_hàng vi_phạm quy_định về vệ_sinh an_toàn thực_phẩm  1 cửa_hàng đang trong quá_trình xử_lý  mời giám_đốc lên làm_việc  
-3,8 cửa_hàng bị kiểm_tra có địa_chỉ tại  123 đội cấn  11 đường thanh_niên  99 xã_đàn  61 yên_lãng  401 bạch_mai  147 trần_đại_nghĩa  491 kim_ngưu  số 8 nguyễn_phong_sắc kéo_dài  162 ngọc_lâm 
-4,cụ_thể  6 cửa_hàng kinh_doanh mà không có giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  1 cửa_hàng_không thực_hiện khám sức_khoẻ cho đối_tượng thuộc diện phải khám sức_khoẻ định_kỳ 
-5,đáng chú_ý  chi_cục quản_lý thị_trường đã tạm giữ nguyên_liệu chế_biến tại 4 cửa_hàng do không xuất_trình được giấy_tờ chứng_minh nguồn_gốc  xuất_xứ của hàng_hoá 
-6,các sản_phẩm bị tạm giữ chủ_yếu là  hạt trân_châu  bột trà xanh  bộ cà_phê  đường nước … trước đó  chiều 12/5  đội 5  phòng cảnh_sát môi_trường  catp hà_nội và đội qltt_số 26  chi_cục qltt đã kiểm_tra xưởng sản_xuất trà sữa chân trâu thuộc công_ty tnhh cảm_xúc  đường ngọc_hồi  quận hoàng_mai  
-7,được biết  công_ty tnhh cảm_xúc có chuỗi 16 cửa_hàng kinh_doanh trà sữa chân trâu  thương_hiệu trà feeling_tea  
-8,doanh_nghiệp này đã được cấp chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm  tuy_nhiên qua kiểm_tra thực_tế tại xưởng sản_xuất  cơ_quan_chức_năng phát_hiện nhiều nguyên phụ_liệu  3 không   đó là không hạn sử_dụng  không nguồn_gốc  không kiểm_định chất_lượng  lực_lượng chức_năng đã tạm giữ hơn 200 kg nguyên_liệu bột trà để tiếp_tục làm rõ 
-9,sau vụ_việc trên  đại_diện feeling tea cũng cho hay  “ feeling_tea cũng xin nhận_lỗi về việc sử_dụng nội_bộ nguyên_vật_liệu mới khi chưa rõ nguồn_gốc xuất_xứ để nghiên_cứu làm thử sản_phẩm mới 
-10,tuy_nhiên chúng mình xin khẳng_định là sản_phẩm vẫn đang trong quá_trình thử_nghiệm và chưa được bán tại bất_kỳ cơ_sở nào trong hệ_thống của feeling_tea ” 
-11,theo phát_hiện của đội quản_lý thị_trường  trong quá_trình kiểm_tra  đoàn phát_hiện các nguyên_liệu đầu_vào là do nước_ngoài sản_xuất nhưng không đảm_bảo nguồn_gốc xuất_xứ trong chế_biến thực_phẩm 
+0,chi_cục quản_lý thị_trường thành_phố hà_nội thực_hiện kiểm_tra phát_hiện hàng_loạt cửa_hàng trà sữa thuộc chuỗi cửa_hàng feeling tea vi_phạm quy_định về vệ_sinh an_toàn thực_phẩm
+1,hầu_như cửa_hàng_không xuất_trình giấy_tờ chứng_minh nguồn_gốc xuất_xứ hàng_hóa
+2,trong số 8 cửa_hàng kiểm_tra tới 7 cửa_hàng vi_phạm quy_định về vệ_sinh an_toàn thực_phẩm 1 cửa_hàng trong quá_trình xử_lý mời giám_đốc làm_việc
+3,8 cửa_hàng kiểm_tra địa_chỉ 123 đội cấn 11 đường thanh_niên 99 xã_đàn 61 yên_lãng 401 bạch_mai 147 trần_đại_nghĩa 491 kim_ngưu số 8 nguyễn_phong_sắc kéo_dài 162 ngọc_lâm
+4,cụ_thể 6 cửa_hàng kinh_doanh giấy chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm 1 cửa_hàng_không thực_hiện khám sức_khoẻ đối_tượng thuộc diện khám sức_khoẻ định_kỳ
+5,đáng chú_ý chi_cục quản_lý thị_trường tạm giữ nguyên_liệu chế_biến 4 cửa_hàng xuất_trình giấy_tờ chứng_minh nguồn_gốc xuất_xứ hàng_hoá
+6,sản_phẩm tạm giữ chủ_yếu hạt trân_châu bột trà xanh bộ cà_phê đường nước … chiều 12/5 đội 5 phòng cảnh_sát môi_trường catp hà_nội đội qltt_số 26 chi_cục qltt kiểm_tra xưởng sản_xuất trà sữa chân trâu thuộc công_ty tnhh cảm_xúc đường ngọc_hồi quận hoàng_mai
+7,biết công_ty tnhh cảm_xúc chuỗi 16 cửa_hàng kinh_doanh trà sữa chân trâu thương_hiệu trà feeling_tea
+8,doanh_nghiệp cấp chứng_nhận cơ_sở đủ điều_kiện an_toàn thực_phẩm tuy_nhiên kiểm_tra thực_tế xưởng sản_xuất cơ_quan_chức_năng phát_hiện nguyên phụ_liệu 3 hạn sử_dụng nguồn_gốc kiểm_định chất_lượng lực_lượng chức_năng tạm giữ hơn 200 kg nguyên_liệu bột trà tiếp_tục làm rõ
+9,vụ_việc đại_diện feeling tea hay “ feeling_tea xin nhận_lỗi về sử_dụng nội_bộ nguyên_vật_liệu mới rõ nguồn_gốc xuất_xứ nghiên_cứu làm thử sản_phẩm mới
+10,tuy_nhiên chúng mình xin khẳng_định sản_phẩm trong quá_trình thử_nghiệm bán bất_kỳ cơ_sở nào trong hệ_thống feeling_tea ”
+11,phát_hiện đội quản_lý thị_trường trong quá_trình kiểm_tra đoàn phát_hiện nguyên_liệu đầu_vào nước_ngoài sản_xuất đảm_bảo nguồn_gốc xuất_xứ trong chế_biến thực_phẩm

@@ -1,25 +1,25 @@
 idx, sentence
-0,người việt tiết_kiệm nhất thế_giới trong báo_cáo công_bố ngày 19/5  nielsen đánh_giá người tiêu_dùng việt_nam là những người luôn “ khao_khát ” cho việc tiết_kiệm 
-1,xét trên toàn_cầu  người tiêu_dùng khu_vực đông_nam_á là những người có xu_hướng tiết_kiệm cao nhất trên thế_giới  với khoảng 72  số người sử_dụng tiền nhàn_rỗi của mình để tiết_kiệm 
-2,và khi nói đến tiết_kiệm  người việt vẫn đứng đầu_bảng trên toàn thế_giới với 78   giảm 1 điểm phần_trăm so với quý iv / 2015   tiếp đến là indonesia  75    philippin  69    singapore  67    malaysia  67   và thái_lan  66   
-3,trong bối_cảnh chi_phí sinh_hoạt ngày_càng tăng  xu_hướng thay_đổi thói_quen chi_tiêu để cắt_giảm chi_phí sinh_hoạt tiếp_tục là ưu_tiên hàng_đầu của người việt 
-4,khảo_sát cho thấy khoảng 8 trong số 10 người việt  82   đã điều_chỉnh thói_quen trong 12 tháng qua để tiết_kiệm chi_phí 
-5,khoảng 3 trên 5 người việt  61_  đã giảm chi_tiêu cho quần_áo mới và khoảng 58  đã cắt_giảm chi_phí giải_trí bên ngoài so với cùng kỳ năm trước 
-6,khoảng một_nửa  47   số người tiêu_dùng đã cắt_giảm chi_phí ga  điện và 44  số người giảm chi_phí điện_thoại 
-7,tuy_nhiên  người việt vẫn sẵn_sàng cho các khoản chi_tiêu lớn khác sau khi đã trang_trải đầy_đủ các chi_phí sinh_hoạt thiết_yếu 
-8,khoảng 4 trong số 10 người cho biết sẽ sử_dụng tiền nhãn rỗi cho các mục_đích như du_lịch  38    giải_trí bên ngoài  34    các sản_phẩm công_nghệ mới  32    trang_hoàng nhà_cửa  31_  
-9,bà nguyễn_hương_quỳnh_– tổng_giám_đốc công_ty nielsen việt_nam  đánh_giá các ưu_tiên chi_tiêu của người việt thay_đổi rất chậm trong thời_gian gần đây 
-10,người việt không đơn_thuần chỉ muốn “ đủ ăn  đủ mặc ” nữa  mà hầu_hết đang khao_khát một cuộc_sống ngày_càng tốt_đẹp hơn 
-11,điều này đã mang đến những mong_đợi khác nhau cũng như các ưu_tiên khác nhau 
-12,sức_khỏe là mối quan_tâm lớn nhất của người việt khảo_sát của nielsen cho thấy sức_khỏe đang trở_thành là mối quan_tâm hàng_đầu của người tiêu_dùng việt năm 
-13,khoảng 1/3 số người  34   cho rằng sức_khỏe là mối quan_tâm đứng đầu hoặc đứng thứ 2 của họ trong 6 tháng tới 
-14,khoảng 6 trong số 10 người vẫn tin rằng việt_nam vẫn đang trong tình_trạng suy_thoái  58   
-15,do_đó  vấn_đề đảm_bảo công_ăn_việc_làm và nền kinh_tế quốc_gia cũng là mối quan_tâm lớn của họ 
-16,khoảng 32  số người lo_lắng về viễn_cảnh công_việc của họ và 22  số người lo_lắng về tình_hình kinh_tế quốc_gia 
-17,tuy_nhiên  người tiêu_dùng cũng quan_tâm đến những vấn_đề khác như cân_bằng cuộc_sống / công_việc  việc tăng các chi_phí hóa_đơn thiết_yếu và giá thực_phẩm  nợ cũng như việc tăng các chi_phí sinh_hoạt thiết_yếu 
-18,người tiêu_dùng việt_nam lạc_quan hàng_đầu thế_giới nielsen cho biết niềm tin của người tiêu_dùng việt_nam tiếp_tục đạt vị_trí cao trong quý i / 2016 với số điểm 109 điểm  tăng 1 điểm so với quý iv / 2015 và đứng vị_trí thứ 5 toàn_cầu 
-19,báo_cáo cũng cho thấy đông_nam_á vẫn là khu_vực lạc_quan nhất toàn_cầu  tại đây chỉ_số niềm tin người tiêu_dùng của philippin đạt 119 điểm  indonesia đạt 117 điểm 
-20,cả hai quốc_gia đều tăng 2 điểm so với quý trước và là các quốc_gia xếp thứ hai và thứ ba toàn_cầu 
-21,chỉ_số niềm tin của người tiêu_dùng thái_lan sụt giảm mạnh nhất trong khu_vực khi giảm 9 điểm xuống 105 điểm  xếp hạng thứ 8 toàn_cầu 
-22,tương_tự  chỉ_số niềm tin của singapore cũng giảm 6 điểm xuống 88 điểm  và malaysia giảm nhẹ 2 điểm xuống 80 điểm 
-23,bà nguyễn_hương_quỳnh đánh_giá chỉ_số niềm tin của người tiêu_dùng việt_nam tiếp_tục ở vị_trí cao dù thị_trường kinh_doanh thời_điểm hiện_tại tăng_trưởng ở mức vừa_phải  cho thấy người việt đang hy_vọng về tương_lai 
+0,người việt tiết_kiệm nhất thế_giới trong báo_cáo công_bố ngày 19/5 nielsen đánh_giá người tiêu_dùng việt_nam người luôn “ khao_khát ” tiết_kiệm
+1,xét toàn_cầu người tiêu_dùng khu_vực đông_nam_á người xu_hướng tiết_kiệm cao nhất thế_giới khoảng 72 số người sử_dụng tiền nhàn_rỗi mình tiết_kiệm
+2,nói đến tiết_kiệm người việt đứng đầu_bảng toàn thế_giới 78 giảm 1 điểm phần_trăm quý iv / 2015 tiếp đến indonesia 75 philippin 69 singapore 67 malaysia 67 thái_lan 66
+3,trong bối_cảnh chi_phí sinh_hoạt ngày_càng tăng xu_hướng thay_đổi thói_quen chi_tiêu cắt_giảm chi_phí sinh_hoạt tiếp_tục ưu_tiên hàng_đầu người việt
+4,khảo_sát thấy khoảng 8 trong số 10 người việt 82 điều_chỉnh thói_quen trong 12 tháng tiết_kiệm chi_phí
+5,khoảng 3 5 người việt 61_ giảm chi_tiêu quần_áo mới khoảng 58 cắt_giảm chi_phí giải_trí bên ngoài kỳ năm
+6,khoảng một_nửa 47 số người tiêu_dùng cắt_giảm chi_phí ga điện 44 số người giảm chi_phí điện_thoại
+7,tuy_nhiên người việt sẵn_sàng khoản chi_tiêu lớn khác trang_trải đầy_đủ chi_phí sinh_hoạt thiết_yếu
+8,khoảng 4 trong số 10 người biết sử_dụng tiền nhãn rỗi mục_đích du_lịch 38 giải_trí bên ngoài 34 sản_phẩm công_nghệ mới 32 trang_hoàng nhà_cửa 31_
+9,bà nguyễn_hương_quỳnh_– tổng_giám_đốc công_ty nielsen việt_nam đánh_giá ưu_tiên chi_tiêu người việt thay_đổi chậm trong thời_gian gần
+10,người việt đơn_thuần muốn “ đủ ăn đủ mặc ” hầu_hết khao_khát một cuộc_sống ngày_càng tốt_đẹp hơn
+11,mang đến mong_đợi khác nhau ưu_tiên khác nhau
+12,sức_khỏe mối quan_tâm lớn nhất người việt khảo_sát nielsen thấy sức_khỏe trở_thành mối quan_tâm hàng_đầu người tiêu_dùng việt năm
+13,khoảng 1/3 số người 34 sức_khỏe mối quan_tâm đứng đầu hoặc đứng thứ 2 họ trong 6 tháng tới
+14,khoảng 6 trong số 10 người tin việt_nam trong tình_trạng suy_thoái 58
+15,do_đó vấn_đề đảm_bảo công_ăn_việc_làm nền kinh_tế quốc_gia mối quan_tâm lớn họ
+16,khoảng 32 số người lo_lắng về viễn_cảnh công_việc họ 22 số người lo_lắng về tình_hình kinh_tế quốc_gia
+17,tuy_nhiên người tiêu_dùng quan_tâm đến vấn_đề khác cân_bằng cuộc_sống / công_việc tăng chi_phí hóa_đơn thiết_yếu giá thực_phẩm nợ tăng chi_phí sinh_hoạt thiết_yếu
+18,người tiêu_dùng việt_nam lạc_quan hàng_đầu thế_giới nielsen biết niềm tin người tiêu_dùng việt_nam tiếp_tục đạt vị_trí cao trong quý i / 2016 số điểm 109 điểm tăng 1 điểm quý iv / 2015 đứng vị_trí thứ 5 toàn_cầu
+19,báo_cáo thấy đông_nam_á khu_vực lạc_quan nhất toàn_cầu chỉ_số niềm tin người tiêu_dùng philippin đạt 119 điểm indonesia đạt 117 điểm
+20,hai quốc_gia tăng 2 điểm quý quốc_gia xếp thứ hai thứ ba toàn_cầu
+21,chỉ_số niềm tin người tiêu_dùng thái_lan sụt giảm mạnh nhất trong khu_vực giảm 9 điểm xuống 105 điểm xếp hạng thứ 8 toàn_cầu
+22,tương_tự chỉ_số niềm tin singapore giảm 6 điểm xuống 88 điểm malaysia giảm nhẹ 2 điểm xuống 80 điểm
+23,bà nguyễn_hương_quỳnh đánh_giá chỉ_số niềm tin người tiêu_dùng việt_nam tiếp_tục ở vị_trí cao dù thị_trường kinh_doanh thời_điểm hiện_tại tăng_trưởng ở mức vừa_phải thấy người việt hy_vọng về tương_lai

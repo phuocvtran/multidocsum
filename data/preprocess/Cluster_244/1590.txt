@@ -1,20 +1,20 @@
 idx, sentence
-0,trả_lời phỏng_vấn đài_cnn  các thành_viên của gia_đình nạn_nhân cho biết kẻ thủ ác đánh_đập cô maria_abbasi sau đó rưới xăng vào người cô rồi châm lửa đốt  bỏ mặc cô chết cháy 
-1,“ vào ngày 295  maria đang ở nhà trông em_gái 5 tuổi trong khi gia_đình đến dự một đám_tang ở thị_trấn gần đó 
-2,sau đó  họ nhận được tin con_bé “ đang bốc cháy ” 
-3,ban_đầu  chúng_tôi nghĩ rằng đó là một tai_nạn  ví_dụ như đường_ống phát_nổ ” – ông rafaqat_abbasi  cậu của nạn_nhân  kể lại 
-4,trở_về nhà ở làng davel  quận murree thuộc thủ_đô islamabad  gia_đình này kinh_hoàng phát_hiện maria đang nằm trên sàn và bỏng tới 85  cơ_thể 
-5,“ không có con đường lớn nào để đi qua làng vì_vậy chúng_tôi phải khiêng con_bé trên 1 cái ghế ra con đường gần nhất để gọi xe cấp_cứu ” – cậu của cô maria nói thêm 
-6,cô gái tội_nghiệp được đưa đến một bệnh_viện ở thủ_đô islamabad  cách đó 50 km  để chữa_trị nhưng không qua khỏi 
-7,về nguyên_nhân vụ_việc  dì của nạn_nhân maria cho rằng mâu_thuẫn nảy_sinh khi hiệu_trưởng trường_học nơi cô maria làm_việc đề_nghị cô cưới con của ông ta 
-8,“ họ gửi lời cầu_hôn 6 tháng trước nhưng cậu ta đã có vợ và 1 con_gái 
-9,họ muốn con_bé điều_hành ngôi trường sau khi cưới con_trai hiệu_trưởng 
-10,bố của maria từ_chối và bây_giờ họ trả_thù ” 
-11,thanh_tra cảnh_sát quận murree_sohail_abbasi cho biết  “ trước đó  có 4 người đàn_ông đột_nhập vào nhà của bố_mẹ nạn_nhân ” 
-12,đến ngày 16  cảnh_sát bang punjab cho biết họ đã bắt được 3 nghi phạm có liên_quan đến vụ thiêu sống 
-13,trong đó  cha nạn_nhân cho rằng hiệu_trưởng trường_học nơi cô maria làm_việc cũng là 1 trong số 4 kẻ tấn_công 
-14,cảnh_sát bang punjab đang lập_tức điều_tra vụ_việc và sẽ nhanh_chóng có thông_báo chính_thức 
-15,sau khi vụ_việc xảy ra  khu_vực nơi gia_đình nạn_nhân ở chìm trong hoảng_loạn và tức_giận 
-16,những người cao_tuổi trong làng đang cố gây sức_ép để bố nạn_nhân giữ im_lặng về vụ_việc vì đây là vấn_đề liên_quan đến danh_dự 
-17,một người thì_thầm  “ con gái ông đã chết và họ sẽ phỉ_báng nó và danh_dự của gia_đình ông nếu ông làm ầm lên với truyền_thông ” 
-18,cả gia_đình cô maria đều bị dân_làng gây áp_lực để giải_quyết vụ_việc bên ngoài tòa_án 
+0,trả_lời phỏng_vấn đài_cnn thành_viên gia_đình nạn_nhân biết kẻ thủ ác đánh_đập cô maria_abbasi rưới xăng người cô châm lửa đốt bỏ mặc cô chết cháy
+1,“ ngày 295 maria ở nhà trông em_gái 5 tuổi trong gia_đình đến dự một đám_tang ở thị_trấn gần
+2,họ nhận tin con_bé “ bốc cháy ”
+3,ban_đầu chúng_tôi nghĩ một tai_nạn ví_dụ đường_ống phát_nổ ” – ông rafaqat_abbasi cậu nạn_nhân kể
+4,trở_về nhà ở làng davel quận murree thuộc thủ_đô islamabad gia_đình kinh_hoàng phát_hiện maria nằm sàn bỏng tới 85 cơ_thể
+5,“ con đường lớn nào đi làng vì_vậy chúng_tôi khiêng con_bé 1 ghế con đường gần nhất gọi xe cấp_cứu ” – cậu cô maria nói thêm
+6,cô gái tội_nghiệp đưa đến một bệnh_viện ở thủ_đô islamabad cách 50 km chữa_trị khỏi
+7,về nguyên_nhân vụ_việc dì nạn_nhân maria mâu_thuẫn nảy_sinh hiệu_trưởng trường_học cô maria làm_việc đề_nghị cô cưới con ông ta
+8,“ họ gửi lời cầu_hôn 6 tháng cậu ta vợ 1 con_gái
+9,họ muốn con_bé điều_hành ngôi trường cưới con_trai hiệu_trưởng
+10,bố maria từ_chối bây_giờ họ trả_thù ”
+11,thanh_tra cảnh_sát quận murree_sohail_abbasi biết “ 4 người đàn_ông đột_nhập nhà bố_mẹ nạn_nhân ”
+12,đến ngày 16 cảnh_sát bang punjab biết họ bắt 3 nghi phạm liên_quan đến vụ thiêu sống
+13,trong cha nạn_nhân hiệu_trưởng trường_học cô maria làm_việc 1 trong số 4 kẻ tấn_công
+14,cảnh_sát bang punjab lập_tức điều_tra vụ_việc nhanh_chóng thông_báo chính_thức
+15,vụ_việc xảy khu_vực gia_đình nạn_nhân ở chìm trong hoảng_loạn tức_giận
+16,người cao_tuổi trong làng cố gây sức_ép bố nạn_nhân giữ im_lặng về vụ_việc vấn_đề liên_quan đến danh_dự
+17,một người thì_thầm “ con gái ông chết họ phỉ_báng nó danh_dự gia_đình ông ông làm ầm truyền_thông ”
+18,gia_đình cô maria dân_làng gây áp_lực giải_quyết vụ_việc bên ngoài tòa_án

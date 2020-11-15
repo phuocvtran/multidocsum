@@ -1,6 +1,6 @@
 idx, sentence
-0,văn_phòng tổng_thống ashraf_ghani đã xác_nhận về cuộc không_kích này 
-1,hôm 215  bộ_quốc_phòng mỹ đã xác_nhận tiến_hành cuộc không_kích trên ở một khu_vực thuộc vùng biên_giới afghanistanpakistan  nhằm vào thủ_lĩnh tối_cao của taliban là mullah_akhtar_mansour 
-2,cơ_quan tình_báo của afghanistan cho biết  mansour từng bị theo_dõi sát_sao suốt một thời_gian dài cho đến khi y lọt vào tầm ngắm cùng với các tay súng khác khi đang hoạt_động ở tỉnh balochistan  tây_nam_pakistan 
-3,đây không phải là lần đầu_tiên mansour bị quân_đội mỹ tấn_công 
-4,hồi tháng 122015  các nguồn tin cũng xác_nhận mansour bị_thương và có_thể đã chết sau cuộc đọ súng gần quetta  pakistan 
+0,văn_phòng tổng_thống ashraf_ghani xác_nhận về cuộc không_kích
+1,hôm 215 bộ_quốc_phòng mỹ xác_nhận tiến_hành cuộc không_kích ở một khu_vực thuộc vùng biên_giới afghanistanpakistan nhằm thủ_lĩnh tối_cao taliban mullah_akhtar_mansour
+2,cơ_quan tình_báo afghanistan biết mansour theo_dõi sát_sao suốt một thời_gian dài đến y lọt tầm ngắm tay súng khác hoạt_động ở tỉnh balochistan tây_nam_pakistan
+3,lần đầu_tiên mansour quân_đội mỹ tấn_công
+4,hồi tháng 122015 nguồn tin xác_nhận mansour bị_thương chết cuộc đọ súng gần quetta pakistan

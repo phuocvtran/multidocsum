@@ -1,2 +1,2 @@
 idx, sentence
-0,cùng ngày  khu vui_chơi cho bệnh_nhi theo tiêu_chuẩn phòng chơi của trẻ_em thụy_điển cũng khánh_thành tại bệnh_viện này 
+0,ngày khu vui_chơi bệnh_nhi tiêu_chuẩn phòng chơi trẻ_em thụy_điển khánh_thành bệnh_viện

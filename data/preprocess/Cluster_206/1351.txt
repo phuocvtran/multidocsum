@@ -1,5 +1,5 @@
 idx, sentence
-0,thời_gian trưng_cầu lấy ý_kiến kéo_dài đến ngày 296 
-1,đây là các phương_án của 13 đơn_vị tham_gia cuộc thi kiến_trúc công_trình cầu_vượt sông hương do ubnd tỉnh thừa_thiên  huế giao cho ban_đầu_tư xây_dựng  sở gtvt tổ_chức thi_tuyển 
-2,trước đó  sở gtvt tỉnh thừa_thiên  huế đã mở hồ_sơ 20 phương_án dự_tuyển để chấm và công_bố 3 phương_án đoạt giải  gồm  “ chiếc nón ”  tổng_công_ty tư_vấn thiết_kế gtvt  đạt giải nhất  giải nhì thuộc phương_án “ trăng sông hương ”  liên_danh trung_tâm khcn và tư_vấn đầu_tư  công_ty cp xây_dựng asd  và “ núi_ngự_bình ”  công_ty cp tư_vấn thiết_kế kiến_châu  đạt giải ba 
-3,tuy_nhiên ngay sau đó  các phương_án đạt giải trên vấp phải nhiều luồng ý_kiến đánh_giá không đồng_tình của các nhà_nghiên_cứu  giới chuyên_môn và người dân do các công_trình được thiết_kế chưa đáp_ứng yêu_cầu về thẩm_mỹ  lịch_sử và văn_hóa của vùng_đất cố_đô 
+0,thời_gian trưng_cầu lấy ý_kiến kéo_dài đến ngày 296
+1,phương_án 13 đơn_vị tham_gia cuộc thi kiến_trúc công_trình cầu_vượt sông hương ubnd tỉnh thừa_thiên huế giao ban_đầu_tư xây_dựng sở gtvt tổ_chức thi_tuyển
+2,sở gtvt tỉnh thừa_thiên huế mở hồ_sơ 20 phương_án dự_tuyển chấm công_bố 3 phương_án đoạt giải gồm “ nón ” tổng_công_ty tư_vấn thiết_kế gtvt đạt giải nhất giải nhì thuộc phương_án “ trăng sông hương ” liên_danh trung_tâm khcn tư_vấn đầu_tư công_ty cp xây_dựng asd “ núi_ngự_bình ” công_ty cp tư_vấn thiết_kế kiến_châu đạt giải ba
+3,tuy_nhiên phương_án đạt giải vấp luồng ý_kiến đánh_giá đồng_tình nhà_nghiên_cứu giới chuyên_môn người dân công_trình thiết_kế đáp_ứng yêu_cầu về thẩm_mỹ lịch_sử văn_hóa vùng_đất cố_đô

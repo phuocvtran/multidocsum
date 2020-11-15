@@ -1,7 +1,7 @@
 idx, sentence
-0,phần âm_nhạc với những giai_điệu nổi_tiếng của ý do hai nghệ_sĩ violin_marica  daniele_anderle và nghệ_sĩ piano sandra_stojanovic thể_hiện 
-1,phía việt_nam có sự tham_gia của nghệ_sĩ dương_cầm phó_an_my  nghệ_sĩ đàn_nhị thùy_anh và ca_sĩ thùy_chi với những bản_nhạc  sáng_tác mang nét văn_hóa phương_đông 
-2,một điểm nhấn của phần âm_nhạc là tiết_mục chú ếch con do dàn đồng_ca của thiếu_nhi hai nước trình_bày 
-3,với thời_trang  các nhà thiết_kế minh_hạnh  quang_huy và xuân_hảo mang đến ba bộ sưu_tập thời_trang lấy ý_tưởng từ những con tem của nước ý 
-4,đây là những tác_phẩm tem quý gắn liền với nhiều biểu_tượng nghệ_thuật và sự phát_triển qua bảy thập_niên của đất_nước vốn là cái nôi của thời_trang 
-5,ngoài_ra  chương_trình ẩm_thực_tại ngôi nhà ý_casa_italia trên phố lê_phụng_hiểu giới_thiệu những món ăn truyền_thống nổi_tiếng của đất_nước nằm trên biển địa_trung_hải 
+0,phần âm_nhạc giai_điệu nổi_tiếng ý hai nghệ_sĩ violin_marica daniele_anderle nghệ_sĩ piano sandra_stojanovic thể_hiện
+1,phía việt_nam tham_gia nghệ_sĩ dương_cầm phó_an_my nghệ_sĩ đàn_nhị thùy_anh ca_sĩ thùy_chi bản_nhạc sáng_tác mang nét văn_hóa phương_đông
+2,một điểm nhấn phần âm_nhạc tiết_mục chú ếch con dàn đồng_ca thiếu_nhi hai nước trình_bày
+3,thời_trang nhà thiết_kế minh_hạnh quang_huy xuân_hảo mang đến ba bộ sưu_tập thời_trang lấy ý_tưởng con tem nước ý
+4,tác_phẩm tem quý gắn liền biểu_tượng nghệ_thuật phát_triển bảy thập_niên đất_nước vốn nôi thời_trang
+5,ngoài_ra chương_trình ẩm_thực_tại ngôi nhà ý_casa_italia phố lê_phụng_hiểu giới_thiệu món ăn truyền_thống nổi_tiếng đất_nước nằm biển địa_trung_hải

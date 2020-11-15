@@ -1,10 +1,10 @@
 idx, sentence
-0,gần 7 giờ sáng 16  trên đường bạch_đằng  đoạn gần vòng xoay nguyễn_thái_sơn  phường 2  quận tân_bình  tp hcm   chiếc ô_tô 4 chỗ bks 51f373  89 đang lưu_thông theo hướng vào sân_bay tân_sơn nhất_thì đột_ngột lao qua làn đường ngược lại tông vào chiếc taxi của hãng vinasun 
-1,vụ va_chạm khiến ô_tô bốn chỗ biến_dạng phần đầu  chiếc taxi bị gãy rời bánh sau nhưng may_mắn 4 hành_khách trên xe không bị_thương 
-2,“ khi thấy chiếc xe đột_ngột lao tới  theo phản_xạ  tôi vội đánh lái để né nên may_mắn xe chỉ bị tông ở phần hông và bánh sau 
-3,nếu không xử_lý kịp thì không biết hậu_quả thế_nào ” – tài_xế taxi kể 
-4, trước đó  vào gần 6 giờ sáng cùng ngày  trên quốc_lộ 1  đoạn qua quận 12  tp hcm cũng xảy ra một vụ tai_nạn giao_thông giữa xe_tải và xe_khách 
-5,vụ tai_nạn xảy ra khi xe_tải chở gạch do tài_xế cao_văn_hồ_vũ  36 tuổi  quê an_giang  điều_khiển  lưu_thông trên quốc_lộ 1  hướng từ quận thủ_đức qua quận bình_tân  tp hcm  bất_ngờ bị sự_cố khi vừa qua cầu_vượt bình_phước  phường an_phú_đông  quận 12  vài trăm mét 
-6,chiếc xe húc văng nhiều mét dải_phân_cách rồi tông mạnh vào đuôi xe_khách 50 chỗ do tài_xế lê_thanh_hậu  38 tuổi  quê bạc_liêu  điều_khiển đang lưu_thông cùng chiều 
-7,vụ tai_nạn khiến đuôi xe_khách biến_dạng  nhiều hành_khách trên xe hoảng_loạn kêu cứu nhưng may_mắn không có người bị thường 
-8,riêng chiếc xe_tải sau va_chạm bị hư_hỏng nặng phần đầu  thùng_xe vỡ khiến toàn_bộ số gạch phía trên bung ra ngoài 
+0,gần 7 giờ sáng 16 đường bạch_đằng đoạn gần vòng xoay nguyễn_thái_sơn phường 2 quận tân_bình tp hcm ô_tô 4 chỗ bks 51f373 89 lưu_thông hướng sân_bay tân_sơn nhất_thì đột_ngột lao làn đường ngược tông taxi hãng vinasun
+1,vụ va_chạm khiến ô_tô bốn chỗ biến_dạng phần đầu taxi gãy rời bánh may_mắn 4 hành_khách xe bị_thương
+2,“ thấy xe đột_ngột lao tới phản_xạ tôi vội đánh lái né may_mắn xe tông ở phần hông bánh
+3,xử_lý kịp biết hậu_quả thế_nào ” – tài_xế taxi kể
+4,gần 6 giờ sáng ngày quốc_lộ 1 đoạn quận 12 tp hcm xảy một vụ tai_nạn giao_thông giữa xe_tải xe_khách
+5,vụ tai_nạn xảy xe_tải chở gạch tài_xế cao_văn_hồ_vũ 36 tuổi quê an_giang điều_khiển lưu_thông quốc_lộ 1 hướng quận thủ_đức quận bình_tân tp hcm bất_ngờ sự_cố cầu_vượt bình_phước phường an_phú_đông quận 12 vài trăm mét
+6,xe húc văng mét dải_phân_cách tông mạnh đuôi xe_khách 50 chỗ tài_xế lê_thanh_hậu 38 tuổi quê bạc_liêu điều_khiển lưu_thông chiều
+7,vụ tai_nạn khiến đuôi xe_khách biến_dạng hành_khách xe hoảng_loạn kêu cứu may_mắn người thường
+8,riêng xe_tải va_chạm hư_hỏng nặng phần đầu thùng_xe vỡ khiến toàn_bộ số gạch phía bung ngoài

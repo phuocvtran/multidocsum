@@ -1,4 +1,4 @@
 idx, sentence
-0,sáng 205  tại xã an_hải  huyện đảo lý_sơn  quảng_ngãi   318 cử_tri  thuộc khu_vực bầu_cử số 8  là lực_lượng_vũ_trang đóng quân trên đảo  gồm  cơ_quan_quân_sự huyện lý_sơn  trạm 550  trạm 18  trạm hải_đăng và trạm_cảnh_sát biển vùng 2 đã đi bỏ_phiếu bầu_cử đại_biểu quốc_hội và hđnd các cấp nhiệm_kỳ 2016  2021 
-1,đây là những cử_tri ở quảng_ngãi được bỏ_phiếu đầu_tiên 
-2,thượng_úy phạm_văn_trung  chính_trị_viên tàu cảnh_sát biển 4033  vùng cảnh_sát biển 2 bày_tỏ   là người được phân_công nhiệm_vụ thực_thi bảo_vệ pháp_luật trên vùng_biển đảo của tổ_quốc  tôi mong những đại_biểu trúng_cử lần này sẽ phát_huy khả_năng và cống_hiến để xây_dựng quê_hương đất_nước  bảo_vệ bình_yên cho vùng_biển đảo của tổ_quốc ” 
+0,sáng 205 xã an_hải huyện đảo lý_sơn quảng_ngãi 318 cử_tri thuộc khu_vực bầu_cử số 8 lực_lượng_vũ_trang đóng quân đảo gồm cơ_quan_quân_sự huyện lý_sơn trạm 550 trạm 18 trạm hải_đăng trạm_cảnh_sát biển vùng 2 đi bỏ_phiếu bầu_cử đại_biểu quốc_hội hđnd cấp nhiệm_kỳ 2016 2021
+1,cử_tri ở quảng_ngãi bỏ_phiếu đầu_tiên
+2,thượng_úy phạm_văn_trung chính_trị_viên tàu cảnh_sát biển 4033 vùng cảnh_sát biển 2 bày_tỏ người phân_công nhiệm_vụ thực_thi bảo_vệ pháp_luật vùng_biển đảo tổ_quốc tôi mong đại_biểu trúng_cử lần phát_huy khả_năng cống_hiến xây_dựng quê_hương đất_nước bảo_vệ bình_yên vùng_biển đảo tổ_quốc ”

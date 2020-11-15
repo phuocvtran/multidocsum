@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 1/6  tại đà_nẵng  ban tổ_chức đã họp các trưởng_đoàn tham_dự abg5 tại đà_nẵng 
-1,tham_dự hội_nghị có ông wei_jizhong  phó chủ_tịch hội_đồng olympic châu_á  oca   ông lê_khánh_hải  thứ_trưởng bộ_văn_hóa  thể_thao  du_lịch  trưởng_ban tổ_chức abg5 cùng khoảng 60 đại_biểu là trưởng_đoàn  phó trưởn đoàn … của 41 quốc_gia  vùng lãnh_thổ_châu_á 
-2,phát_biểu khai_mạc hội_nghị  thứ_trưởng lê_khánh_hải  trưởng_ban tổ_chức abg5 cho biết  ban tổ_chức nước chủ nhà đang nỗ_lực hết_mình để hoàn_thành các công_tác chuẩn_bị cho abg5  với mong_muốn một kỳ đại_hội thể_thao sôi_động và hấp_dẫn  tôn_vinh tinh_thần thể_thao cao_thượng 
-3,đồng_thời qua đó  góp_phần thắt chặt tình hữu_nghị giữa các quốc_gia  vùng lãnh_thổ trong khu_vực 
-4,“ với thông_điệp “ tỏa sáng đại_dương  rực sáng tương_lai ”  hy_vọng đại_hội của chúng_ta sẽ góp_phần vào sự phát_triển của các thế_hệ tương_lai  vì sự thịnh_vượng chung của châu_á và toàn nhân_loại ”  trưởng_ban tổ_chức abg5 nói 
-5,tại hội_nghị  các thành_viên đã lắng_nghe báo_cáo tổng_quan của ban tổ_chức về công_tác chuẩn_bị abg5 với các vấn_đề liên_quan đến chuyên_môn  kỹ_thuật về nội_dung  thời_gian  địa_điểm môn thi_đấu  các thủ_tục và hướng_dẫn việc đăng_ký thẻ đại_hội  dịch_vụ y_tế  hậu_cần  công_tác an_ninh  tình_nguyện_viên  đại_biểu các nước có đoàn tham_dự abg5 cũng đã đặt nhiều câu hỏi  góp_ý thảo_luận xoay quanh công_tác chuẩn_bị cho một trong những đại_hội thể_thao lớn nhất châu_á được tổ_chức định_kỳ 2 năm / lần này 
+0,ngày 1/6 đà_nẵng ban tổ_chức họp trưởng_đoàn tham_dự abg5 đà_nẵng
+1,tham_dự hội_nghị ông wei_jizhong phó chủ_tịch hội_đồng olympic châu_á oca ông lê_khánh_hải thứ_trưởng bộ_văn_hóa thể_thao du_lịch trưởng_ban tổ_chức abg5 khoảng 60 đại_biểu trưởng_đoàn phó trưởn đoàn … 41 quốc_gia vùng lãnh_thổ_châu_á
+2,phát_biểu khai_mạc hội_nghị thứ_trưởng lê_khánh_hải trưởng_ban tổ_chức abg5 biết ban tổ_chức nước chủ nhà nỗ_lực hết_mình hoàn_thành công_tác chuẩn_bị abg5 mong_muốn một kỳ đại_hội thể_thao sôi_động hấp_dẫn tôn_vinh tinh_thần thể_thao cao_thượng
+3,đồng_thời góp_phần thắt chặt tình hữu_nghị giữa quốc_gia vùng lãnh_thổ trong khu_vực
+4,“ thông_điệp “ tỏa sáng đại_dương rực sáng tương_lai ” hy_vọng đại_hội chúng_ta góp_phần phát_triển thế_hệ tương_lai thịnh_vượng chung châu_á toàn nhân_loại ” trưởng_ban tổ_chức abg5 nói
+5,hội_nghị thành_viên lắng_nghe báo_cáo tổng_quan ban tổ_chức về công_tác chuẩn_bị abg5 vấn_đề liên_quan đến chuyên_môn kỹ_thuật về nội_dung thời_gian địa_điểm môn thi_đấu thủ_tục hướng_dẫn đăng_ký thẻ đại_hội dịch_vụ y_tế hậu_cần công_tác an_ninh tình_nguyện_viên đại_biểu nước đoàn tham_dự abg5 đặt câu hỏi góp_ý thảo_luận xoay quanh công_tác chuẩn_bị một trong đại_hội thể_thao lớn nhất châu_á tổ_chức định_kỳ 2 năm / lần

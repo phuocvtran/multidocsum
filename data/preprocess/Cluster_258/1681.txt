@@ -1,10 +1,10 @@
 idx, sentence
-0,trong tháng vừa_qua  đt việt_nam chỉ thi_đấu 1 trận giao_hữu duy_nhất gặp syria 
-1,tuy_nhiên  do đây là đối_thủ xếp trên đt việt_nam đến hơn 30 bậc nên chỉ cần 1 chiến_thắng trước đội bóng này cũng đủ giúp thầy_trò hlv hữu_thắng tăng hạng mạnh trên bxh_fifa 
-2,cụ_thể  chiến_thắng 20 trước syria đã đưa đt việt_nam tăng 12 bậc lên hạng 133 thế_giới với 266 điểm 
-3,dù có sự tăng hạng mạnh nhưng đt việt_nam vẫn chỉ xếp thứ ba đông_nam_á  sau thái_lan  117  và philippines  120  
-4,trên bình_diện châu_lục  đt việt_nam xếp_hạng 19 
-5,đứng đầu châu_á là iran  hạng 39   hàn_quốc  hạng 50   nhật_bản  hạng 53  
-6,ở top đầu thế_giới  dẫn_đầu vẫn là argentina với 1503 điểm  theo sau là bỉ với 1384 điểm 
-7,colombia tăng 1 bậc lên hạng 4 để đẩy chile xuống hạng 5 
-8,đứng thứ 4 là đkvđ thế_giới đức 
+0,trong tháng vừa_qua đt việt_nam thi_đấu 1 trận giao_hữu duy_nhất gặp syria
+1,tuy_nhiên đối_thủ xếp đt việt_nam đến hơn 30 bậc 1 chiến_thắng đội bóng đủ giúp thầy_trò hlv hữu_thắng tăng hạng mạnh bxh_fifa
+2,cụ_thể chiến_thắng 20 syria đưa đt việt_nam tăng 12 bậc hạng 133 thế_giới 266 điểm
+3,dù tăng hạng mạnh đt việt_nam xếp thứ ba đông_nam_á thái_lan 117 philippines 120
+4,bình_diện châu_lục đt việt_nam xếp_hạng 19
+5,đứng đầu châu_á iran hạng 39 hàn_quốc hạng 50 nhật_bản hạng 53
+6,ở top đầu thế_giới dẫn_đầu argentina 1503 điểm bỉ 1384 điểm
+7,colombia tăng 1 bậc hạng 4 đẩy chile xuống hạng 5
+8,đứng thứ 4 đkvđ thế_giới đức

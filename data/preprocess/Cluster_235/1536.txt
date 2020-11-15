@@ -1,6 +1,6 @@
 idx, sentence
-0,như_thanh_niên đã thông_tin  vào rạng sáng 26  siêu_thị điện_máy lớn bậc nhất tỉnh quảng_trị  kim_nguyên  đường trần_hưng_đạo  tpđông_hà   đã bốc cháy 
-1,ngọn lửa hung_tàn trùm cả siêu_thị buộc lực_lượng cảnh_sát phòng cháy chữa cháy và cứu nạn cứu_hộ  công_an tỉnh quảng_trị  đã phải huy_động toàn_bộ đơn_vị gồm khoảng 100 cán_bộ chiến_sĩ cùng 8 xe chuyên_dụng  trong đó có cả xe thang và xe chống bạo_loạn  để tham_gia dập lửa 
-2,do điều_kiện tác_nghiệp trong lúc rạng sáng  cấu_tạo tòa nhà_khó tiếp_cận  nên công_tác cứu_hỏa đã gặp khá nhiều khó_khăn 
-3,bằng sự nỗ_lực không ngừng nghỉ  các chiến_sĩ phòng cháy chữa cháy đã hoàn_thành nhiệm_vụ của mình  khống_chế ngọn lửa vào khoảng gần 4 giờ cùng ngày  26  
-4,ngoài việc cứu được một phần máy_móc thiết_bị trong siêu_thị điện_máy  lực_lượng chức_năng còn ngăn không cho ngọn lửa lan sang các nhà xung_quanh 
+0,như_thanh_niên thông_tin rạng sáng 26 siêu_thị điện_máy lớn bậc nhất tỉnh quảng_trị kim_nguyên đường trần_hưng_đạo tpđông_hà bốc cháy
+1,ngọn lửa hung_tàn trùm siêu_thị buộc lực_lượng cảnh_sát phòng cháy chữa cháy cứu nạn cứu_hộ công_an tỉnh quảng_trị huy_động toàn_bộ đơn_vị gồm khoảng 100 cán_bộ chiến_sĩ 8 xe chuyên_dụng trong xe thang xe chống bạo_loạn tham_gia dập lửa
+2,điều_kiện tác_nghiệp trong rạng sáng cấu_tạo tòa nhà_khó tiếp_cận công_tác cứu_hỏa gặp khá khó_khăn
+3,bằng nỗ_lực ngừng nghỉ chiến_sĩ phòng cháy chữa cháy hoàn_thành nhiệm_vụ mình khống_chế ngọn lửa khoảng gần 4 giờ ngày 26
+4,ngoài cứu một phần máy_móc thiết_bị trong siêu_thị điện_máy lực_lượng chức_năng còn ngăn ngọn lửa lan sang nhà xung_quanh

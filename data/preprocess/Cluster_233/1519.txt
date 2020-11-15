@@ -1,3 +1,3 @@
 idx, sentence
-0,“ từ đáy_lòng  tôi xin_lỗi người dân và hội_đồng đô_thị tokyo ”  thống_đốc tokyo_yoichi_masuzoe tuyên_bố sau khi bị chỉ_trích nặng_nề về các khoản chi_tiêu hoang_phí cho các chuyến công_tác nước_ngoài  mua hàng trực_tuyến  khách_sạn và spa cao_cấp 
-1,ông yoichi_masuzoe được bầu vào vị_trí thống_đốc tokyo hồi tháng 2/2014 để thay_thế cho người tiền_nhiệm naoki_inose  người đã buộc phải từ chức vì một vụ bê_bối tài_chính cá_nhân 
+0,“ đáy_lòng tôi xin_lỗi người dân hội_đồng đô_thị tokyo ” thống_đốc tokyo_yoichi_masuzoe tuyên_bố chỉ_trích nặng_nề về khoản chi_tiêu hoang_phí chuyến công_tác nước_ngoài mua hàng trực_tuyến khách_sạn spa cao_cấp
+1,ông yoichi_masuzoe bầu vị_trí thống_đốc tokyo hồi tháng 2/2014 thay_thế người tiền_nhiệm naoki_inose người buộc chức một vụ bê_bối tài_chính cá_nhân

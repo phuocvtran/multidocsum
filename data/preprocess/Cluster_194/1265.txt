@@ -1,12 +1,12 @@
 idx, sentence
-0,gần 20 h ngày 30/5  do mưa to gió lớn đi kèm với sét đã làm bật 2 đường_dây 500 kv hà_tĩnh – đà_nẵng và vũng_áng – đà_nẵng khiến mất liên_kết hệ_thống điện 
-1,sự_cố trên gây ảnh_hưởng không_chỉ 18 quận_huyện tại tphcm mà_còn ảnh_hưởng nhiều tỉnh_thành tại khu_vực miền trung và miền nam 
-2,sáng 31/5  tập_đoàn điện_lực việt_nam  evn  đã phát đi thông_tin xác_nhận sự_việc trên và cho biết nguyên_nhân là do sét đánh 
-3,tổng_công_ty truyền_tải_điện quốc_gia cũng đã phát_hiện nguyên_nhân có phóng_điện do sét tại cột_số 1903 khu_vực huế 
-4,sự_cố ngày 30/5 vừa_qua khiến cho nhiều người dân nằm trong khu_vực bị mất điện hoang_mang 
-5,ngay sau sự_cố  evn cũng đã chỉ_đạo các đơn_vị khẩn_trương kiểm_tra và khắc_phục sự_cố  khôi_phục lại việc cung_cấp điện cho khách_hàng 
-6,bên_cạnh đó  ông lớn ngành điện_lực này cũng chính_thức lên_tiếng xin_lỗi khách_hàng sử_dụng điện do sự_cố ngoài ý_muốn nói trên và mong nhận được sự cảm_thông và chia_sẻ từ phía khách_hàng 
-7,“ evn thành_thật xin_lỗi quý_khách_hàng sử_dụng điện vì sự_cố nói trên và mong nhận được sự thông_cảm và chia_sẻ của quý_khách_hàng ”  thông_cáo nêu rõ 
-8,trước đó  vào ngày 25/5  một_số phương_tiện báo_chí truyền_thông cũng đã phản_ánh tình_trạng công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định đang thi_công đào đúc móng cột có trụ móng làm bằng bê_tông trộn … đất 
-9,sau khi kiểm_tra thực_tế  tổng_công_ty truyền_tải_điện quốc_gia cho biết  đoạn đường_dây này do công_ty cổ_phần sông_đà 11 thi_công 
-10,ngày 9/3  ban quản_lý dự_án các công_trình điện miền bắc đã gửi yêu_cầu đến công_ty cổ_phần sông_đà 11 yêu_cầu công_ty này dừng thi_công_đoạn đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định với lý_do đang trong quá_trình thực_hiện các thủ_tục để điều_chỉnh đoạn tuyến nêu trên 
+0,gần 20 h ngày 30/5 mưa to gió lớn đi kèm sét làm bật 2 đường_dây 500 kv hà_tĩnh – đà_nẵng vũng_áng – đà_nẵng khiến mất liên_kết hệ_thống điện
+1,sự_cố gây ảnh_hưởng không_chỉ 18 quận_huyện tphcm mà_còn ảnh_hưởng tỉnh_thành khu_vực miền trung miền nam
+2,sáng 31/5 tập_đoàn điện_lực việt_nam evn phát đi thông_tin xác_nhận sự_việc biết nguyên_nhân sét đánh
+3,tổng_công_ty truyền_tải_điện quốc_gia phát_hiện nguyên_nhân phóng_điện sét cột_số 1903 khu_vực huế
+4,sự_cố ngày 30/5 vừa_qua khiến người dân nằm trong khu_vực mất điện hoang_mang
+5,sự_cố evn chỉ_đạo đơn_vị khẩn_trương kiểm_tra khắc_phục sự_cố khôi_phục cung_cấp điện khách_hàng
+6,bên_cạnh ông lớn ngành điện_lực chính_thức lên_tiếng xin_lỗi khách_hàng sử_dụng điện sự_cố ngoài ý_muốn nói mong nhận cảm_thông chia_sẻ phía khách_hàng
+7,“ evn thành_thật xin_lỗi quý_khách_hàng sử_dụng điện sự_cố nói mong nhận thông_cảm chia_sẻ quý_khách_hàng ” thông_cáo nêu rõ
+8,ngày 25/5 một_số phương_tiện báo_chí truyền_thông phản_ánh tình_trạng công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình nam_định thi_công đào đúc móng cột trụ móng làm bằng bê_tông trộn … đất
+9,kiểm_tra thực_tế tổng_công_ty truyền_tải_điện quốc_gia biết đoạn đường_dây công_ty cổ_phần sông_đà 11 thi_công
+10,ngày 9/3 ban quản_lý dự_án công_trình điện miền bắc gửi yêu_cầu đến công_ty cổ_phần sông_đà 11 yêu_cầu công_ty dừng thi_công_đoạn đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình nam_định lý_do trong quá_trình thực_hiện thủ_tục điều_chỉnh đoạn tuyến nêu

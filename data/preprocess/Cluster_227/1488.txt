@@ -1,8 +1,8 @@
 idx, sentence
-0,bất_ngờ xuất_sắc hạ gục hạt_giống số 8  milos_raonic ở vòng 4 chỉ sau 3 set đấu với tỷ_số cách_biệt khó tin 62 64 64  tay_vợt không mấy tên_tuổi người tây ban_nha đang xếp_hạng 55 thế_giới  albert_ramosvinolas bước tiếp vào vòng tứ_kết và chạm_trán nhà đkvđ của giải  stan_wawrinka 
-1,trong hai set đấu đầu_tiên  với đẳng_cấp vượt_trội hạt_giống số 3 người thụy_sỹ dễ_dàng áp_đặt được thế_trận để có được phần thắng lần_lượt sau các set là 32 phút và 27 phút  tương_ứng với các tỷ_số là 62 61 
-2,nhưng đến set quyết_định  ramosvinolas chơi quật_khởi và lần đầu_tiên trong trận bẻ được một game giao_bóng của wawrinka 
-3,nỗ_lực đã giúp tay_vợt người tây ban_nha kéo set đấu đến loạt tiebreak  nhưng chừng đó chưa đủ để ramosvinolas cân bằng được thế_trận  và cuối_cùng phải gác vợt sau màn đấu_súng cân_não 
-4,thắng chung_cuộc 62 61 76  97   nhà đkvđ của giải tiến vào bán_kết và đang từng bước vững_chắc trên con đường bảo_vệ chức vô_địch của mình tại roland_garros 
-5,đối_thủ ở trận bán_kết sắp tới của wawrinka sẽ là hạt_giống số 2 của giải  andy_murray 
-6,tay vợt người anh đã có màn lội ngược dòng ngoạn_mục trước tay_vợt chủ nhà pháp là hạt_giống số 9  richard_gasquet sau 3 giờ 26 phút 
+0,bất_ngờ xuất_sắc hạ gục hạt_giống số 8 milos_raonic ở vòng 4 3 set đấu tỷ_số cách_biệt khó tin 62 64 64 tay_vợt mấy tên_tuổi người tây ban_nha xếp_hạng 55 thế_giới albert_ramosvinolas bước tiếp vòng tứ_kết chạm_trán nhà đkvđ giải stan_wawrinka
+1,trong hai set đấu đầu_tiên đẳng_cấp vượt_trội hạt_giống số 3 người thụy_sỹ dễ_dàng áp_đặt thế_trận phần thắng lần_lượt set 32 phút 27 phút tương_ứng tỷ_số 62 61
+2,đến set quyết_định ramosvinolas chơi quật_khởi lần đầu_tiên trong trận bẻ một game giao_bóng wawrinka
+3,nỗ_lực giúp tay_vợt người tây ban_nha kéo set đấu đến loạt tiebreak chừng đủ ramosvinolas cân bằng thế_trận cuối_cùng gác vợt màn đấu_súng cân_não
+4,thắng chung_cuộc 62 61 76 97 nhà đkvđ giải tiến bán_kết bước vững_chắc con đường bảo_vệ chức vô_địch mình roland_garros
+5,đối_thủ ở trận bán_kết sắp tới wawrinka hạt_giống số 2 giải andy_murray
+6,tay vợt người anh màn lội ngược dòng ngoạn_mục tay_vợt chủ nhà pháp hạt_giống số 9 richard_gasquet 3 giờ 26 phút

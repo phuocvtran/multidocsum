@@ -1,4 +1,4 @@
 idx, sentence
-0,theo thông_tin ban_đầu  vào khoảng 8 giờ sáng 235  một phụ_nữ trong lúc nhặt ve_chai ở khu_vực gần chung_cư thạnh_mỹ_lợi  q 2  tphcm  phát_hiện một bao_tải màu trắng nằm gần bụi rậm 
-1,người này tò_mò mở bao_tải ra xem thì tá_hỏa khi phát_hiện thi_thể của một cô gái nằm bên trong 
-2,nhận được tin báo  lực_lượng chức_năng có_mặt phong_tỏa  khám_nghiệm hiện_trường 
+0,thông_tin ban_đầu khoảng 8 giờ sáng 235 một phụ_nữ trong nhặt ve_chai ở khu_vực gần chung_cư thạnh_mỹ_lợi q 2 tphcm phát_hiện một bao_tải màu trắng nằm gần bụi rậm
+1,người tò_mò mở bao_tải xem tá_hỏa phát_hiện thi_thể một cô gái nằm bên trong
+2,nhận tin báo lực_lượng chức_năng có_mặt phong_tỏa khám_nghiệm hiện_trường

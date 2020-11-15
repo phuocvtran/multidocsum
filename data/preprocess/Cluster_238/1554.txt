@@ -1,15 +1,15 @@
 idx, sentence
-0,hãng tin rt của nga trích_dẫn lời bộ_trưởng quốc_phòng ba_lan antoni_macierewicz trả_lời phỏng_vấn trang defense_news cho biết  chỉ cần một tiểu_đoàn luân_phiên của nato ở ba_lan cũng đủ để ngăn_chặn nga trong trường_hợp xảy ra một cuộc xâm_chiếm 
-1,ông macierewicz nói  “ mặc_dù các đơn_vị của nato ở khu_vực baltic không_thể đánh_bại nga trong trường_hợp xảy ra một cuộc xâm_chiếm  nhưng họ có_thể giúp quân_đội ba_lan trì_hoãn cuộc tấn_công trong lúc chờ các đồng_minh tăng_viện và đáp trả ” 
-2,bình_luận trên được đưa ra sau khi tổng_thư_ký nato_jens_stoltenberg xác_nhận sẽ triển_khai thêm lực_lượng đồn_trú tại ba_lan cũng như các quốc_gia vùng baltic khác sau hội_nghị thượng_đỉnh của khối diễn ra tại warsaw vào tháng 7 tới 
-3,nato dự_kiến sẽ đóng 4 tiểu_đoàn ở khu_vực này  gồm ba_lan_lithuania  estonia  và latvia 
-4,tuy_nhiên  hiện chưa rõ quân_số cụ_thể của mỗi tiểu_đoàn 
-5,thông_thường một tiểu_đoàn của mỹ gồm khoảng 800 binh sỹ 
-6,việc nato tăng cường lực_lượng ở các nước đông_âu thời_gian gần đây đang khiến nga “ nóng_mặt ” 
-7,đáp trả lại kế_hoạch của nato  giới_chức nga cũng công_bố kế_hoạch lập 3 sư_đoàn mới với khoảng 10000 quân mỗi sư_đoàn để đồn_trú dọc biên_giới châu_âu 
-8,hồi tháng 5  mỹ và các đồng_minh nato đã kích_hoạt một phần lá_chắn tên lửa ở romania và tiếp đến là ba_lan 
-9,khi hoàn_thành  hệ_thống này sẽ bao_phủ từ greenland tới quần_đảo azores  thuộc bồ_đào_nha  trên đại tây_dương 
-10,toàn_bộ lá_chắn tên lửa cũng bao_gồm các tàu và radar trên khắp châu_âu 
-11,hệ_thống này sẽ được bàn_giao cho nato trong tháng 7 tới và với trung_tâm chỉ_huy đặt tại đức 
-12,nga ngay sau đó đã lên_tiếng chỉ_trích và cho rằng hệ_thống này đe_dọa an_ninh của nga 
-13,trong chuyến công_du hy_lạp tuần trước  tổng_thống nga vladimir_putin cảnh_báo đặt ba_lan và romania trong tầm ngắm tên lửa của nga vì đã cho_phép mỹ triển_khai hệ_thống phòng_thủ tên lửa trên lãnh_thổ nước này 
+0,hãng tin rt nga trích_dẫn lời bộ_trưởng quốc_phòng ba_lan antoni_macierewicz trả_lời phỏng_vấn trang defense_news biết một tiểu_đoàn luân_phiên nato ở ba_lan đủ ngăn_chặn nga trong trường_hợp xảy một cuộc xâm_chiếm
+1,ông macierewicz nói “ mặc_dù đơn_vị nato ở khu_vực baltic không_thể đánh_bại nga trong trường_hợp xảy một cuộc xâm_chiếm họ giúp quân_đội ba_lan trì_hoãn cuộc tấn_công trong chờ đồng_minh tăng_viện đáp trả ”
+2,bình_luận đưa tổng_thư_ký nato_jens_stoltenberg xác_nhận triển_khai thêm lực_lượng đồn_trú ba_lan quốc_gia vùng baltic khác hội_nghị thượng_đỉnh khối diễn warsaw tháng 7 tới
+3,nato dự_kiến đóng 4 tiểu_đoàn ở khu_vực gồm ba_lan_lithuania estonia latvia
+4,tuy_nhiên hiện rõ quân_số cụ_thể tiểu_đoàn
+5,thông_thường một tiểu_đoàn mỹ gồm khoảng 800 binh sỹ
+6,nato tăng cường lực_lượng ở nước đông_âu thời_gian gần khiến nga “ nóng_mặt ”
+7,đáp trả kế_hoạch nato giới_chức nga công_bố kế_hoạch lập 3 sư_đoàn mới khoảng 10000 quân sư_đoàn đồn_trú dọc biên_giới châu_âu
+8,hồi tháng 5 mỹ đồng_minh nato kích_hoạt một phần lá_chắn tên lửa ở romania tiếp đến ba_lan
+9,hoàn_thành hệ_thống bao_phủ greenland tới quần_đảo azores thuộc bồ_đào_nha đại tây_dương
+10,toàn_bộ lá_chắn tên lửa bao_gồm tàu radar khắp châu_âu
+11,hệ_thống bàn_giao nato trong tháng 7 tới trung_tâm chỉ_huy đặt đức
+12,nga lên_tiếng chỉ_trích hệ_thống đe_dọa an_ninh nga
+13,trong chuyến công_du hy_lạp tuần tổng_thống nga vladimir_putin cảnh_báo đặt ba_lan romania trong tầm ngắm tên lửa nga cho_phép mỹ triển_khai hệ_thống phòng_thủ tên lửa lãnh_thổ nước

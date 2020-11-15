@@ -1,8 +1,8 @@
 idx, sentence
-0,sáng 20  5  tại cơ_quan_quân_sự huyện lý_sơn  thuộc khu_vực bầu_cử số 8  xã an_hải huyện đảo lý_sơn  trên 300 cử_tri là các đơn_vị lực_lượng_vũ_trang đóng quân trên đảo  gồm  cơ_quan_quân_sự huyện lý_sơn  trạm 550  trạm 18  trạm hải_đăng và trạm_cảnh_sát biển vùng 2 đã đi bỏ_phiếu bầu_cử đại_biểu qh và đại_biểu hđnd các cấp nhiệm_kỳ 2016  2021 
-1,đúng 7 giờ 30  lễ khai_mạc cuộc bầu_cử được bắt_đầu 
-2,sau khi thông_qua ý_nghĩa của cuộc bầu_cử đại_biểu qh khóa xiv và đại_biểu hđnd các cấp lần này cùng các qui_định và nội_qui trong bầu_cử  các cử_tri đã tiến_hành bỏ_phiếu 
-3,có mặt từ sớm tại khu_vực bầu_cử trung_úy nguyễn_văn_vinh  đại_đội bộ_binh 5  cơ_quan qs huyện lý_sơn  vui_mừng cho biết được đi bỏ_phiếu để bầu ra những đại_biểu ưu_tú có đức  có tài vào cơ_quan_quyền_lực cao nhất nên anh vô_cùng xúc_động  với anh và các cử_tri mong_muốn rằng những người trúng_cử lần này sẽ phát_huy khả_năng và cống_hiến để xây_dựng quê_hương đất_nước 
-4,“ chúng_tôi mong sao  chủ_quyền biển đảo của tổ_quốc được giữ vững  đời_sống của bộ_đội vùng_biển đảo được cải_thiện để chúng_tôi yên_tâm công_tác ”  trung_úy vinh chia_sẻ 
-5,là đơn_vị đang thực_thi pháp_luật trên biển  bảo_vệ bình_yên cho vùng_biển đảo của tổ_quốc  thượng_úy phạm_văn_trung  chính_trị_viên tàu cảnh_sát biển 4033 thuộc vùng cảnh_sát biển 2 vui_mừng vì được bỏ_phiếu tại vùng_biển đảo nơi đơn_vị đang làm nhiệm_vụ 
-6,thượng_úy phạm_văn_trung bộc_bạch  với trách_nhiệm là một công_dân và là cử_tri với lá phiếu trên tay chúng_tôi mong rằng mình sáng_suốt lựa_chọn những người đủ đức đủ tài  đủ năng_lực để lãnh_đạo đất_nước xây_dựng quê_hương ngày_càng giàu đẹp 
+0,sáng 20 5 cơ_quan_quân_sự huyện lý_sơn thuộc khu_vực bầu_cử số 8 xã an_hải huyện đảo lý_sơn 300 cử_tri đơn_vị lực_lượng_vũ_trang đóng quân đảo gồm cơ_quan_quân_sự huyện lý_sơn trạm 550 trạm 18 trạm hải_đăng trạm_cảnh_sát biển vùng 2 đi bỏ_phiếu bầu_cử đại_biểu qh đại_biểu hđnd cấp nhiệm_kỳ 2016 2021
+1,đúng 7 giờ 30 lễ khai_mạc cuộc bầu_cử bắt_đầu
+2,thông_qua ý_nghĩa cuộc bầu_cử đại_biểu qh khóa xiv đại_biểu hđnd cấp lần qui_định nội_qui trong bầu_cử cử_tri tiến_hành bỏ_phiếu
+3,mặt sớm khu_vực bầu_cử trung_úy nguyễn_văn_vinh đại_đội bộ_binh 5 cơ_quan qs huyện lý_sơn vui_mừng biết đi bỏ_phiếu bầu đại_biểu ưu_tú đức tài cơ_quan_quyền_lực cao nhất anh vô_cùng xúc_động anh cử_tri mong_muốn người trúng_cử lần phát_huy khả_năng cống_hiến xây_dựng quê_hương đất_nước
+4,“ chúng_tôi mong sao chủ_quyền biển đảo tổ_quốc giữ vững đời_sống bộ_đội vùng_biển đảo cải_thiện chúng_tôi yên_tâm công_tác ” trung_úy vinh chia_sẻ
+5,đơn_vị thực_thi pháp_luật biển bảo_vệ bình_yên vùng_biển đảo tổ_quốc thượng_úy phạm_văn_trung chính_trị_viên tàu cảnh_sát biển 4033 thuộc vùng cảnh_sát biển 2 vui_mừng bỏ_phiếu vùng_biển đảo đơn_vị làm nhiệm_vụ
+6,thượng_úy phạm_văn_trung bộc_bạch trách_nhiệm một công_dân cử_tri lá phiếu tay chúng_tôi mong mình sáng_suốt lựa_chọn người đủ đức đủ tài đủ năng_lực lãnh_đạo đất_nước xây_dựng quê_hương ngày_càng giàu đẹp

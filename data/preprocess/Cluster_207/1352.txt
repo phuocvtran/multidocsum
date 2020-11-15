@@ -1,8 +1,8 @@
 idx, sentence
-0,theo đó  vào_khoảng 14 giờ 30 phút chiều ngày hôm_nay  1/6  tại nhà_hàng trúc_lâm_trai  địa_chỉ_số 39 phố lê_ngọc_hân  quận_hai_bà_trưng đã xảy ra một vụ hỏa_hoạn nghiêm_trọng 
-1,một_số nhân_viên của nhà_hàng trúc_lâm_trai cho biết  vào khoảng khoảng 14 giờ 30 phút ngày 1/6  tại tầng 4 là khu_vực bếp của nhà_hàng cơm_chay này đột_nhiên phát_hỏa 
-2,một_số người đã dùng các bình_chữa_cháy cá_nhân để dập lửa nhưng  bà hỏa  vẫn nhanh_chóng lan xuống tầng 2 của trúc_lâm_trai 
-3,sau đó  lửa kèm mùi khét của dây_điện cháy và khói đen bốc mù_mịt khiến nhân_viên nhà_hàng hoảng_loạn  tháo_chạy 
-4,ngay sau đó  nhân_viên nhà_hàng đã thông_báo cơ_quan_chức_năng 
-5,nhận được tin báo  lực_lượng cảnh_sát phòng cháy chữa cháy số 1 đã huy_động 4 xe gồm 3 xe chữa_cháy và 1 xe chở nước đến hiện_trường triển_khai các phương_án dập lửa 
-6,sau những nỗ_lực của cảnh_sát  đến 15 giờ 5 phút cùng ngày  vụ hỏa_hoạn được dập_tắt 
+0,vào_khoảng 14 giờ 30 phút chiều ngày hôm_nay 1/6 nhà_hàng trúc_lâm_trai địa_chỉ_số 39 phố lê_ngọc_hân quận_hai_bà_trưng xảy một vụ hỏa_hoạn nghiêm_trọng
+1,một_số nhân_viên nhà_hàng trúc_lâm_trai biết khoảng khoảng 14 giờ 30 phút ngày 1/6 tầng 4 khu_vực bếp nhà_hàng cơm_chay đột_nhiên phát_hỏa
+2,một_số người dùng bình_chữa_cháy cá_nhân dập lửa bà hỏa nhanh_chóng lan xuống tầng 2 trúc_lâm_trai
+3,lửa kèm mùi khét dây_điện cháy khói đen bốc mù_mịt khiến nhân_viên nhà_hàng hoảng_loạn tháo_chạy
+4,nhân_viên nhà_hàng thông_báo cơ_quan_chức_năng
+5,nhận tin báo lực_lượng cảnh_sát phòng cháy chữa cháy số 1 huy_động 4 xe gồm 3 xe chữa_cháy 1 xe chở nước đến hiện_trường triển_khai phương_án dập lửa
+6,nỗ_lực cảnh_sát đến 15 giờ 5 phút ngày vụ hỏa_hoạn dập_tắt

@@ -1,23 +1,23 @@
 idx, sentence
-0,chị ngô_bích_lan  31 tuổi  là một giảng_viên ngoại_ngữ tại hà_nội 
-1,ngoài công_việc chính chị còn kinh_doanh trực_tuyến hàng thời_trang 
-2,chị cho biết  một tháng thu_nhập trên 30 triệu đồng  tuy_nhiên  ngoại_trừ những khoản chi_phí cần_thiết  chị đều dành_dụm để gửi tiết_kiệm 
-3,“ nhà có hai con nhỏ  tiết_kiệm một phần là để phòng lúc ốm_đau  bệnh_tật 
-4,tôi cũng muốn tương_lai cho các con vào học những trường tốt  rồi lúc có điều_kiện  hai vợ_chồng đổi sang căn chung_cư mới rộng_rãi hơn  mua thêm một chiếc xe ”  chị lan chia_sẻ 
-5,“ phải tới mấy năm rồi nhà tôi không đi du_lịch 
-6,tôi cũng hạn_chế sắm_sanh những đồ_vật  vật_dụng không cần_thiết 
-7,có những món đồ ban_đầu thoạt nhìn thấy rất hào_hứng và thích_thú  nhưng suy_nghĩ lại thấy rằng không cần_thiết phải mua nên tôi lại không mua nữa ”  người phụ_nữ trên 30 tuổi thành_thật chia_sẻ 
-8,thực_tế  phương_án chi_tiêu mà chị lan áp_dụng khá phổ_biến hiện_nay 
-9,theo báo_cáo về chỉ_số niềm tin người tiêu_dùng  ntd  vừa được công_ty nielsen  một công_ty thông_tin và đo_lường toàn_cầu  công_bố  ntd ở khu_vực đông_nam_á có xu_hướng tiết_kiệm cao nhất trên thế_giới  với khoảng 72  sử_dụng tiền nhàn_rỗi để tiết_kiệm 
-10,trong đó  người việt vẫn đứng đầu_bảng trên toàn thế_giới với 78   theo sau là indonesia  75    philippines  69    singapore  67    malaysia  67   và thái_lan  66   
-11, trong bối_cảnh chi_phí sinh_hoạt ngày_càng tăng cao thì xu_hướng thay_đổi thói_quen chi_tiêu để cắt_giảm chi_phí sinh_hoạt tiếp_tục là ưu_tiên hàng_đầu của người việt   báo_cáo cho hay 
-12,theo đó  cứ 10 người việt thì có 8 người đã điều_chỉnh thói_quen trong 12 tháng vừa_qua để tiết_kiệm chi_phí 
-13,khoảng 61  đã giảm chi_tiêu cho quần_áo mới và 58  cắt_giảm chi_phí giải_trí bên ngoài so với cùng kỳ năm_ngoái 
-14,khoảng một_nửa ntd_việt đã cắt_giảm chi_phí gas  điện và chi_phí điện_thoại 
-15,tuy_nhiên  báo_cáo cũng chỉ ra rằng  ntd_việt vẫn tiếp_tục sẵn_sàng cho các khoản chi_tiêu lớn khác sau khi đã trang_trải đầy_đủ các chi_phí sinh_hoạt thiết_yếu 
-16,khoảng 38  người việt cho biết sẽ sử_dụng tiền nhãn rỗi để đi du_lịch  34  để giải_trí bên ngoài  32  dành mua các sản_phẩm công_nghệ mới và 31  chi cho trang_hoàng nhà_cửa 
-17,“ các ưu_tiên chi_tiêu của người việt thay_đổi rất chậm trong thời_gian gần đây 
-18,những chỉ_số này cho thấy ntd_việt không đơn_thuần chỉ muốn “ đủ ăn  đủ mặc ” nữa 
-19,mà hầu_hết ntd ngày_nay khao_khát có một cuộc_sống ngày_càng tốt_đẹp hơn  chính điều này đã mang đến những mong_đợi khác nhau cũng như các ưu_tiên khác nhau 
-20,“ nhiều người mong_muốn sở_hữu nhà_riêng hoặc có_thể sử_dụng quỹ thời_gian rỗi để đi du_lịch lâu hơn  vì_vậy họ cần phải tăng tiết_kiệm 
-21,dù thị_trường vẫn chưa thực_sự có dấu_hiệu tích_cực thì những mong_muốn này ở ntd sẽ ngày_càng tăng ”  bà nguyễn_hương_quỳnh_– tổng_giám_đốc công_ty nielsen việt_nam nhận_xét 
+0,chị ngô_bích_lan 31 tuổi một giảng_viên ngoại_ngữ hà_nội
+1,ngoài công_việc chính chị còn kinh_doanh trực_tuyến hàng thời_trang
+2,chị biết một tháng thu_nhập 30 triệu đồng tuy_nhiên ngoại_trừ khoản chi_phí cần_thiết chị dành_dụm gửi tiết_kiệm
+3,“ nhà hai con nhỏ tiết_kiệm một phần phòng ốm_đau bệnh_tật
+4,tôi muốn tương_lai con học trường tốt điều_kiện hai vợ_chồng đổi sang căn chung_cư mới rộng_rãi hơn mua thêm một xe ” chị lan chia_sẻ
+5,“ tới mấy năm nhà tôi đi du_lịch
+6,tôi hạn_chế sắm_sanh đồ_vật vật_dụng cần_thiết
+7,món đồ ban_đầu thoạt nhìn thấy hào_hứng thích_thú suy_nghĩ thấy cần_thiết mua tôi mua ” người phụ_nữ 30 tuổi thành_thật chia_sẻ
+8,thực_tế phương_án chi_tiêu chị lan áp_dụng khá phổ_biến hiện_nay
+9,báo_cáo về chỉ_số niềm tin người tiêu_dùng ntd công_ty nielsen một công_ty thông_tin đo_lường toàn_cầu công_bố ntd ở khu_vực đông_nam_á xu_hướng tiết_kiệm cao nhất thế_giới khoảng 72 sử_dụng tiền nhàn_rỗi tiết_kiệm
+10,trong người việt đứng đầu_bảng toàn thế_giới 78 indonesia 75 philippines 69 singapore 67 malaysia 67 thái_lan 66
+11,trong bối_cảnh chi_phí sinh_hoạt ngày_càng tăng cao xu_hướng thay_đổi thói_quen chi_tiêu cắt_giảm chi_phí sinh_hoạt tiếp_tục ưu_tiên hàng_đầu người việt báo_cáo hay
+12,10 người việt 8 người điều_chỉnh thói_quen trong 12 tháng vừa_qua tiết_kiệm chi_phí
+13,khoảng 61 giảm chi_tiêu quần_áo mới 58 cắt_giảm chi_phí giải_trí bên ngoài kỳ năm_ngoái
+14,khoảng một_nửa ntd_việt cắt_giảm chi_phí gas điện chi_phí điện_thoại
+15,tuy_nhiên báo_cáo ntd_việt tiếp_tục sẵn_sàng khoản chi_tiêu lớn khác trang_trải đầy_đủ chi_phí sinh_hoạt thiết_yếu
+16,khoảng 38 người việt biết sử_dụng tiền nhãn rỗi đi du_lịch 34 giải_trí bên ngoài 32 dành mua sản_phẩm công_nghệ mới 31 chi trang_hoàng nhà_cửa
+17,“ ưu_tiên chi_tiêu người việt thay_đổi chậm trong thời_gian gần
+18,chỉ_số thấy ntd_việt đơn_thuần muốn “ đủ ăn đủ mặc ”
+19,hầu_hết ntd ngày_nay khao_khát một cuộc_sống ngày_càng tốt_đẹp hơn chính mang đến mong_đợi khác nhau ưu_tiên khác nhau
+20,“ người mong_muốn sở_hữu nhà_riêng hoặc sử_dụng quỹ thời_gian rỗi đi du_lịch lâu hơn vì_vậy họ tăng tiết_kiệm
+21,dù thị_trường thực_sự dấu_hiệu tích_cực mong_muốn ở ntd ngày_càng tăng ” bà nguyễn_hương_quỳnh_– tổng_giám_đốc công_ty nielsen việt_nam nhận_xét

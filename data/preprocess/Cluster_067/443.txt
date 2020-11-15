@@ -1,12 +1,12 @@
 idx, sentence
-0,theo ông đoàn anh_tuấn  phó trưởng_phòng đtqg thuộc lđbđ việt_nam  vff  thì ông đã nhận được đề_xuất bổ_sung cầu_thủ cho đội_tuyển việt_nam từ hlv nguyễn_hữu_thắng 
-1,đó là hậu_vệ vũ_ngọc_thịnh của hải_phòng 
-2,đây là phần_thưởng xứng_đáng cho hậu_vệ này sau phong_độ ấn_tượng từ đầu mùa 
-3,ngọc_thịnh là mẫu trung_vệ chơi quyết_liệt  không ngại va_chạm 
-4,anh đã thi_đấu 7/10 trận cho hải_phòng ở vleague 2016 và góp công không nhỏ vào thành_tích chỉ để lọt_lưới 5 bàn kể từ đầu mùa của đội bóng thành_phố hoa_phượng đỏ 
-5,trong màu áo các đội_tuyển quốc_gia  ngọc_thịnh từng được hlv miura triệu_tập lên tuyển u23 việt_nam dự sea_games 28 vào năm_ngoái nhưng đây mới là lần đầu_tiên anh góp_mặt trong đội_hình của hlv hữu_thắng 
-6,với sự bổ_sung của ngọc_thịnh thì hải_phòng đã có 3 cầu_thủ được triệu_tập lên đtqg_đợt này 
-7,trước đó  thủ_thành đặng_văn_lâm và tiền_vệ lê_văn_thắng đã được chiến_lược gia xứ nghệ_điền tên vào danh_sách dự_kiến được công_bố cách đây ít ngày 
-8,ngay khi nhận được thông_tin này  hlv trương_việt_hoàng và đồng_đội của ngọc_thịnh là xuân_việt đã gửi lời chúc_mừng hậu_vệ này trên facebook 
-9,danh_sách đt việt_nam thủ_môn  3   trần_nguyên_mạnh  slna   phí_minh_long  hà_nội tt   đặng_văn_lâm  hải_phòng  hậu_vệ  9   đinh_tiến_thành  xskt cần_thơ   quế_ngọc_hải  slna   bùi_tiến_dũng  viettel   trương_đình_luật  bbình_dương   vũ_văn_thanh  hagl   trần_đình_đồng  flc thanh_hóa   âu_văn_hoàn  bbình_dương   trần_đình_hoàng  slna   ngọc_thịnh  hải_phòng  
-10,tiền_vệ  9   ngô_hoàng_thịnh  flc thanh_hóa   lương_xuân_trường  incheon_united   nguyễn_tuấn_anh  yokohama_fc   trần_phi_sơn  slna   lê_hoàng_thiên  shb_đà_nẵng   đinh_thanh_trung  qnk quảng_nam   phạm_thành_lương  hà_nội tt   nguyễn_văn_toàn  hagl   lê_văn_thắng  hải_phòng  
+0,ông đoàn anh_tuấn phó trưởng_phòng đtqg thuộc lđbđ việt_nam vff ông nhận đề_xuất bổ_sung cầu_thủ đội_tuyển việt_nam hlv nguyễn_hữu_thắng
+1,hậu_vệ vũ_ngọc_thịnh hải_phòng
+2,phần_thưởng xứng_đáng hậu_vệ phong_độ ấn_tượng đầu mùa
+3,ngọc_thịnh mẫu trung_vệ chơi quyết_liệt ngại va_chạm
+4,anh thi_đấu 7/10 trận hải_phòng ở vleague 2016 góp công nhỏ thành_tích lọt_lưới 5 bàn kể đầu mùa đội bóng thành_phố hoa_phượng đỏ
+5,trong màu áo đội_tuyển quốc_gia ngọc_thịnh hlv miura triệu_tập tuyển u23 việt_nam dự sea_games 28 năm_ngoái mới lần đầu_tiên anh góp_mặt trong đội_hình hlv hữu_thắng
+6,bổ_sung ngọc_thịnh hải_phòng 3 cầu_thủ triệu_tập đtqg_đợt
+7,thủ_thành đặng_văn_lâm tiền_vệ lê_văn_thắng chiến_lược gia xứ nghệ_điền tên danh_sách dự_kiến công_bố cách ít ngày
+8,nhận thông_tin hlv trương_việt_hoàng đồng_đội ngọc_thịnh xuân_việt gửi lời chúc_mừng hậu_vệ facebook
+9,danh_sách đt việt_nam thủ_môn 3 trần_nguyên_mạnh slna phí_minh_long hà_nội tt đặng_văn_lâm hải_phòng hậu_vệ 9 đinh_tiến_thành xskt cần_thơ quế_ngọc_hải slna bùi_tiến_dũng viettel trương_đình_luật bbình_dương vũ_văn_thanh hagl trần_đình_đồng flc thanh_hóa âu_văn_hoàn bbình_dương trần_đình_hoàng slna ngọc_thịnh hải_phòng
+10,tiền_vệ 9 ngô_hoàng_thịnh flc thanh_hóa lương_xuân_trường incheon_united nguyễn_tuấn_anh yokohama_fc trần_phi_sơn slna lê_hoàng_thiên shb_đà_nẵng đinh_thanh_trung qnk quảng_nam phạm_thành_lương hà_nội tt nguyễn_văn_toàn hagl lê_văn_thắng hải_phòng

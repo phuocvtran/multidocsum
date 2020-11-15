@@ -1,11 +1,11 @@
 idx, sentence
-0,chuẩn_bị cho chiến_dịch euro 2016  hlv chris_coleman đã triệu_tập 30 cầu_thủ chất_lượng nhất của bóng_đá xứ wales 
-1,sau một thời_gian luyện_tập  mới_đây nhất ông coleman đã chính_thức rút_gọn danh_sách xuống còn 23 tuyển_thủ sẽ sang pháp 
-2,ở vị_trí trước khung gỗ  hlv chris_coleman giữ nguyên 3 cái tên gồm wayne_hennessey  danny_ward  owain_fon_williams 
-3,bên_cạnh đó  những cái tên trụ_cột không_thể thiếu cũng góp_mặt như gareth_bale  real_madrid   ben_davies  tottenham   aaron_ramsey  arsenal  hay joe_allen  liverpool   trong 7 cái tên vắng_mặt  hai trường_hợp là tom_lawrence của leicester_city và adam_henley của blackburn đã tự_động rút khỏi đt xứ wales trước khi hlv chris_coleman công_bố danh_sách rút_gọn 
-4,bên_cạnh đó  sự vắng_mặt của hậu_vệ paul_dummett và tiền_vệ emyr_huws cũng khá đáng tiếc 
-5,nói về hai trường_hợp này  hlv chris_coleman cho biết   với emyr_huws  chúng_tôi có khá nhiều cầu_thủ ở hàng tiền_vệ 
-6,cậu ấy còn trẻ và cần thêm kinh_nghiệm thi_đấu quốc_tế  
-7,danh_sách 23 tuyển_thủ xứ wales dự euro 2016 thủ_môn  3   wayne_hennessey  danny_ward  owain_fon_williams 
-8,hậu_vệ  7   chris_gunter  james_chester  ashley_williams  ben_davies  neil_taylor  james_collins  jazz_richards 
-9,tiền_vệ  8   joe_allen  joe_ledley  aaron_ramsey  andy_king  david_edwards  jonny_williams  david_vaughan  george_williams 
+0,chuẩn_bị chiến_dịch euro 2016 hlv chris_coleman triệu_tập 30 cầu_thủ chất_lượng nhất bóng_đá xứ wales
+1,một thời_gian luyện_tập mới_đây nhất ông coleman chính_thức rút_gọn danh_sách xuống còn 23 tuyển_thủ sang pháp
+2,ở vị_trí khung gỗ hlv chris_coleman giữ nguyên 3 tên gồm wayne_hennessey danny_ward owain_fon_williams
+3,bên_cạnh tên trụ_cột không_thể thiếu góp_mặt gareth_bale real_madrid ben_davies tottenham aaron_ramsey arsenal hay joe_allen liverpool trong 7 tên vắng_mặt hai trường_hợp tom_lawrence leicester_city adam_henley blackburn tự_động rút khỏi đt xứ wales hlv chris_coleman công_bố danh_sách rút_gọn
+4,bên_cạnh vắng_mặt hậu_vệ paul_dummett tiền_vệ emyr_huws khá đáng tiếc
+5,nói về hai trường_hợp hlv chris_coleman biết emyr_huws chúng_tôi khá cầu_thủ ở hàng tiền_vệ
+6,cậu ấy còn trẻ thêm kinh_nghiệm thi_đấu quốc_tế
+7,danh_sách 23 tuyển_thủ xứ wales dự euro 2016 thủ_môn 3 wayne_hennessey danny_ward owain_fon_williams
+8,hậu_vệ 7 chris_gunter james_chester ashley_williams ben_davies neil_taylor james_collins jazz_richards
+9,tiền_vệ 8 joe_allen joe_ledley aaron_ramsey andy_king david_edwards jonny_williams david_vaughan george_williams

@@ -1,5 +1,5 @@
 idx, sentence
-0,theo đó  khoảng 7 h sáng 235  người dân xóm minh_sơn  xã kỳ_sơn hoảng_hốt phát_hiện một nam thanh_niên treo_cổ gần nhà_máy sản_xuất phân_hữu_cơ vi_sinh trên địa_bàn 
-1,nạn_nhân được xác_định là anh trần_văn_minh  sn 1987  trú tại xã kỳ_sơn  huyện tân_kỳ 
-2,ngay khi nhận được thông_tin  lực_lượng chức_năng đã đến hiện_trường tiến_hành khám_nghiệm để làm rõ nguyên_nhân vụ_việc 
-3,theo người_nhà nạn_nhân  anh_minh thời_gian gần đây có nhiều biểu_hiện tâm_lý khác_thường  nhiều lần được gia_đình động_viên 
+0,khoảng 7 h sáng 235 người dân xóm minh_sơn xã kỳ_sơn hoảng_hốt phát_hiện một nam thanh_niên treo_cổ gần nhà_máy sản_xuất phân_hữu_cơ vi_sinh địa_bàn
+1,nạn_nhân xác_định anh trần_văn_minh sn 1987 trú xã kỳ_sơn huyện tân_kỳ
+2,nhận thông_tin lực_lượng chức_năng đến hiện_trường tiến_hành khám_nghiệm làm rõ nguyên_nhân vụ_việc
+3,người_nhà nạn_nhân anh_minh thời_gian gần biểu_hiện tâm_lý khác_thường lần gia_đình động_viên

@@ -1,10 +1,10 @@
 idx, sentence
-0,tháng 5  chỉ_số pmi đã tăng từ mức 523 điểm trong tháng 4 lên 527 điểm  cho thấy sức_khỏe lĩnh_vực sản_xuất đã cải_thiện rất tốt 
-1,đây là tháng tăng thứ 4 liên_tiếp của chỉ_số pmi và là tháng thứ 6 chỉ_số này vượt trên ngưỡng 50 điểm 
-2,trước đó  mức 523 của tháng 4 cũng là mức cao nhất trong 3 quý 
-3,nhân_tố chính dẫn đến sự cải_thiện các điều_kiện kinh_doanh gần đây là mức tăng đáng_kể của số_lượng đơn đặt_hàng mới 
-4,số_lượng đơn đặt_hàng mới cao hơn đã kéo sản_lượng ngành sản_xuất tiếp_tục tăng  giữ đà tăng tháng thứ 6 liên_tiếp 
-5,số_lượng đơn đặt_hàng mới đã tăng với tốc_độ nhanh nhất trong vòng 1 năm qua  kể từ tháng 7/2015  và là một trong những mức tăng nhanh nhất trong lịch_sử khảo_sát 
-6,số_lượng đơn đặt_hàng xuất_khẩu mới cũng tăng  mặc_dù với mức_độ yếu hơn so với tháng 4 
-7,để đáp_ứng lượng đơn đặt_hàng mới  các doanh_nghiệp đã tăng mạnh sản_xuất  tuyển thêm nhân_viên và mua nhiều hàng hơn 
-8,hoạt_động mua hàng tăng lên khiến tốc_độ tăng chi_phí đầu_vào trong tháng 5 tăng tháng thứ hai liên_tiếp và là nhanh nhất kể từ tháng 8/2014  áp_lực lạm_phát vì_thế càng cao hơn 
+0,tháng 5 chỉ_số pmi tăng mức 523 điểm trong tháng 4 527 điểm thấy sức_khỏe lĩnh_vực sản_xuất cải_thiện tốt
+1,tháng tăng thứ 4 liên_tiếp chỉ_số pmi tháng thứ 6 chỉ_số vượt ngưỡng 50 điểm
+2,mức 523 tháng 4 mức cao nhất trong 3 quý
+3,nhân_tố chính dẫn đến cải_thiện điều_kiện kinh_doanh gần mức tăng đáng_kể số_lượng đơn đặt_hàng mới
+4,số_lượng đơn đặt_hàng mới cao hơn kéo sản_lượng ngành sản_xuất tiếp_tục tăng giữ đà tăng tháng thứ 6 liên_tiếp
+5,số_lượng đơn đặt_hàng mới tăng tốc_độ nhanh nhất trong vòng 1 năm kể tháng 7/2015 một trong mức tăng nhanh nhất trong lịch_sử khảo_sát
+6,số_lượng đơn đặt_hàng xuất_khẩu mới tăng mặc_dù mức_độ yếu hơn tháng 4
+7,đáp_ứng lượng đơn đặt_hàng mới doanh_nghiệp tăng mạnh sản_xuất tuyển thêm nhân_viên mua hàng hơn
+8,hoạt_động mua hàng tăng khiến tốc_độ tăng chi_phí đầu_vào trong tháng 5 tăng tháng thứ hai liên_tiếp nhanh nhất kể tháng 8/2014 áp_lực lạm_phát vì_thế cao hơn

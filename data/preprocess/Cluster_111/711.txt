@@ -1,5 +1,5 @@
 idx, sentence
-0,đó là đặng_xuân_hoa_diễm và phạm_ngọc_tuấn  lần_lượt sinh năm 1985 và 1994  cùng ở gia_lai   họ không có nghề_nghiệp  đi lang_thang khắp nơi để lừa chủ tiệm vàng 
-1,lời_khai ban_đầu thể_hiện từ ngày 94 đến ngày 115  diễm  tuấn cùng ít_nhất ba người khác thực_hiện trót_lọt tám vụ lừa_đảo chiếm_đoạt tài_sản bằng cách bán vàng giả cho các tiệm vàng 
-2,trong đó  có vụ số tiền lên tới 187 triệu đồng  thấp nhất cũng là 31 triệu đồng 
-3,chỉ riêng ngày 115  nhóm đã bốn lần bán vàng giả  trong đó có một tiệm vàng ở huyện núi_thành bị lừa bán hai lần trong ngày với số tiền gần 100 triệu đồng 
+0,đặng_xuân_hoa_diễm phạm_ngọc_tuấn lần_lượt sinh năm 1985 1994 ở gia_lai họ nghề_nghiệp đi lang_thang khắp lừa chủ tiệm vàng
+1,lời_khai ban_đầu thể_hiện ngày 94 đến ngày 115 diễm tuấn ít_nhất ba người khác thực_hiện trót_lọt tám vụ lừa_đảo chiếm_đoạt tài_sản bằng cách bán vàng giả tiệm vàng
+2,trong vụ số tiền tới 187 triệu đồng thấp nhất 31 triệu đồng
+3,riêng ngày 115 nhóm bốn lần bán vàng giả trong một tiệm vàng ở huyện núi_thành lừa bán hai lần trong ngày số tiền gần 100 triệu đồng

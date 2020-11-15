@@ -1,15 +1,15 @@
 idx, sentence
-0,thời_điểm 9 h sáng 3/6  rất đông lực_lượng công_an có_mặt tại bờ sông_cầu đoạn thôn đông_xuyên  xã đông_tiến  yên_phong  bắc_ninh để khám_nghiệm hiện_trường làm rõ nguyên_nhân việc 5 người  gồm 1 người_lớn và 4 thiếu_niên  tử_vong nghi do điện giật 
-1,trước đó  trao_đổi với pv người đưa tin  lãnh_đạo xã đông_tiến cho biết vụ_việc được người dân phát_hiện vào lúc 18 h chiều_qua  2/6  
-2,theo đó khu_vực các nạn_nhân được phát_hiện là đoạn lồng bè nuôi cá của gia_đình anh nguyễn_xuân_thủy  sn 1979  ở thôn đông_xuyên  đông_tiến  yên_phong  
-3,ông nguyễn_đức_tòan  phó chủ_tịch ubnd xã đông_tiến cho biết  các cháu nhỏ đều mặc quần_áo khi phát_hiện 
-4,theo vị phó chủ_tịch xã  nguyên_nhân ban_đầu được nghi_vấn dẫn đến sự_việc là do hở nguồn điện tại đường điện_dẫn ra lồng nuôi cá 
-5,quan_sát của pv báo người đưa tin vào sáng nay  đông_đảo người dân và lực_lượng công_an có_mặt tại hiện_trường 
-6,danh_tính các nạn_nhân gồm  1 
-7,nguyễn_xuân_thủy  sn 1979  
-8,2 
-9,trần_ngọc_quang  sn 2004  cháu gọi anh thủy bằng cậu  
-10,3 
-11,nguyễn_đức_khôi  sn 2002  4 
-12,nguyễn_văn_phan  sn 2000  5 
-13,nguyễn_đắc_khả  sn 2000  cả 5 nạn_nhân đều là người thôn đông_xuyên 
+0,thời_điểm 9 h sáng 3/6 đông lực_lượng công_an có_mặt bờ sông_cầu đoạn thôn đông_xuyên xã đông_tiến yên_phong bắc_ninh khám_nghiệm hiện_trường làm rõ nguyên_nhân 5 người gồm 1 người_lớn 4 thiếu_niên tử_vong nghi điện giật
+1,trao_đổi pv người đưa tin lãnh_đạo xã đông_tiến biết vụ_việc người dân phát_hiện 18 h chiều_qua 2/6
+2,khu_vực nạn_nhân phát_hiện đoạn lồng bè nuôi cá gia_đình anh nguyễn_xuân_thủy sn 1979 ở thôn đông_xuyên đông_tiến yên_phong
+3,ông nguyễn_đức_tòan phó chủ_tịch ubnd xã đông_tiến biết cháu nhỏ mặc quần_áo phát_hiện
+4,vị phó chủ_tịch xã nguyên_nhân ban_đầu nghi_vấn dẫn đến sự_việc hở nguồn điện đường điện_dẫn lồng nuôi cá
+5,quan_sát pv báo người đưa tin sáng nay đông_đảo người dân lực_lượng công_an có_mặt hiện_trường
+6,danh_tính nạn_nhân gồm 1
+7,nguyễn_xuân_thủy sn 1979
+8,2
+9,trần_ngọc_quang sn 2004 cháu gọi anh thủy bằng cậu
+10,3
+11,nguyễn_đức_khôi sn 2002 4
+12,nguyễn_văn_phan sn 2000 5
+13,nguyễn_đắc_khả sn 2000 5 nạn_nhân người thôn đông_xuyên

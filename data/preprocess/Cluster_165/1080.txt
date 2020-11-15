@@ -1,13 +1,13 @@
 idx, sentence
-0,bà phạm_thị_nga  ở nam_trung_yên  cầu_giấy cho biết  tình_trạng điện_thoại cố_định tại nhà bà thì tiếng  rột   mạng internet thì chậm  tv thì nhiễu  tình_hình này đã xảy ra suốt 6 năm qua nhưng gia_đình bà và nhiều hộ dân tại chung_cư vẫn phải chịu tình_trạng trên 
-1,bà rất bức_xúc về vấn_đề trên  cũng muốn đổi nhà cung_cấp nhưng tại đây đã ấn_định 1 nhà cung_cấp duy_nhất 
-2,chất_lượng dịch_vụ là vậy  nhưng giá không hề rẻ 
-3,mỗi tháng gia_đình bả phải trả 400 nghìn đồng_tiền mạng  truyền_hình cáp 
-4,tuy_nhiên  từ ngày 7/6  quy_định của tp hà_nội áp_dụng đối_với các tổ_chức  cá_nhân liên_quan đến việc đầu_tư xây_dựng tòa nhà  lắp_đặt  quản_lý  sử_dụng hộp_thư tập_trung  hệ_thống cáp viễn_thông  hệ_thống phủ_sóng trong các tòa nhà nhiều tầng có nhiều chủ sử_dụng trên địa_bàn tphà nội 
-5,theo đó  quy_định về thiết_kế  lắp_đặt hệ_thống cáp viễn_thông trong tòa nhà quy_định rõ phải có đủ dung_lượng để ít_nhất 2 doanh_nghiệp viễn_thông có_thể tham_gia cung_cấp dịch_vụ  hoặc cung_cấp thêm dịch_vụ theo nhu_cầu của người sử_dụng 
-6,ông nguyễn_tiến_sỹ  trưởng_phòng bưu_chính viễn_thông  sở thông_tin và truyền_thông hà_nội trả_lời vtv cho biết  phần các tòa nhà đã xây_dựng trước thời_điểm quyết_định có hiệu_lực  thành_phố cũng khuyến_khích các chủ đầu_tư ban quản_lý tạo điều_kiện để các doanh_nghiệp đầu_tư cho mọi người ở tòa nhà được sử_dụng dịch_vụ của nhiều nhà cung_cấp mạng 
-7,đối_với các tòa nhà đã và đang xây_dựng  ngay từ đầu phải có thiết_kế hệ_thống viễn_thông và được phê_duyệt 
-8,hạ_tầng này phải đủ dung_lượng  ít_nhất 2 nhà cung_cấp 
-9,và trong quá_trình xây_dựng chịu sự giám_sát của các sở ngành đảm_bảo tuân_thủ đúng các yêu_cầu phê_duyệt 
-10,chủ_trì là thanh_tra sở thông_tin và truyền_thông phối_hợp với thanh_tra sở xây_dựng  phối_hợp với ca các quận thực_hiện theo quyết_định 19 của tp ban_hành  và xử_phạt theo quyết_định 174 
-11,đại_diện sở thông_tin và truyền_thông hà_nội cho biết suốt 2 năm qua đã nhiều lần kiến_nghị về việc đa_dạng_hóa nhiều nhà cung_cấp mạng cho các tòa nhà  xong vấp phải rào_cản lớn từ những đơn_vị giữ thế độc_quyền 
+0,bà phạm_thị_nga ở nam_trung_yên cầu_giấy biết tình_trạng điện_thoại cố_định nhà bà tiếng rột mạng internet chậm tv nhiễu tình_hình xảy suốt 6 năm gia_đình bà hộ dân chung_cư chịu tình_trạng
+1,bà bức_xúc về vấn_đề muốn đổi nhà cung_cấp ấn_định 1 nhà cung_cấp duy_nhất
+2,chất_lượng dịch_vụ giá hề rẻ
+3,tháng gia_đình bả trả 400 nghìn đồng_tiền mạng truyền_hình cáp
+4,tuy_nhiên ngày 7/6 quy_định tp hà_nội áp_dụng đối_với tổ_chức cá_nhân liên_quan đến đầu_tư xây_dựng tòa nhà lắp_đặt quản_lý sử_dụng hộp_thư tập_trung hệ_thống cáp viễn_thông hệ_thống phủ_sóng trong tòa nhà tầng chủ sử_dụng địa_bàn tphà nội
+5,quy_định về thiết_kế lắp_đặt hệ_thống cáp viễn_thông trong tòa nhà quy_định rõ đủ dung_lượng ít_nhất 2 doanh_nghiệp viễn_thông tham_gia cung_cấp dịch_vụ hoặc cung_cấp thêm dịch_vụ nhu_cầu người sử_dụng
+6,ông nguyễn_tiến_sỹ trưởng_phòng bưu_chính viễn_thông sở thông_tin truyền_thông hà_nội trả_lời vtv biết phần tòa nhà xây_dựng thời_điểm quyết_định hiệu_lực thành_phố khuyến_khích chủ đầu_tư ban quản_lý tạo điều_kiện doanh_nghiệp đầu_tư mọi người ở tòa nhà sử_dụng dịch_vụ nhà cung_cấp mạng
+7,đối_với tòa nhà xây_dựng đầu thiết_kế hệ_thống viễn_thông phê_duyệt
+8,hạ_tầng đủ dung_lượng ít_nhất 2 nhà cung_cấp
+9,trong quá_trình xây_dựng chịu giám_sát sở ngành đảm_bảo tuân_thủ đúng yêu_cầu phê_duyệt
+10,chủ_trì thanh_tra sở thông_tin truyền_thông phối_hợp thanh_tra sở xây_dựng phối_hợp ca quận thực_hiện quyết_định 19 tp ban_hành xử_phạt quyết_định 174
+11,đại_diện sở thông_tin truyền_thông hà_nội biết suốt 2 năm lần kiến_nghị về đa_dạng_hóa nhà cung_cấp mạng tòa nhà xong vấp rào_cản lớn đơn_vị giữ thế độc_quyền

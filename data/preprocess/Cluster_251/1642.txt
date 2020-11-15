@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 26  cơ_quan_chức_năng tp biên_hòa  tỉnh đồng_nai cho biết đang làm rõ vụ gây náo_loạn trong đêm khiến cả khu_phố hoảng_hốt  một nhà dân bị đập_vỡ cửa_kính 
-1,theo thông_tin ban_đầu  vụ_việc xảy ra tại khu_phố 2  phường tam_hòa  tp biên_hòa vào khoảng 23 giờ đêm 16 
-2,thời_điểm trên  tại khu_phố 2 nằm sâu trong hẻm sau chợ tam_hòa đã im vắng  tại nhà bà h  mặt_tiền hẻm  một nhóm thanh_thiếu_niên đang ngồi chơi trước hiên nhà 
-3,bất_ngờ  nhóm thanh_thiếu_niên khác gồm hàng chục người trên xe_máy reo_hò ầm_ĩ chạy vào hẻm 
-4,thấy nhóm đang ngồi trước nhà  tốp trên đừng xe_máy lao lên huơ mã_tấu khiến những người ở khu_phố dạt cả vào bên trong để tránh 
-5,nhóm thanh_thiếu_niên manh_động dùng hung_khí đập_vỡ kính_cửa chính của nhà bà h ngay sau đó nhóm này ném 3 quả bom xăng vào 3 đầu hẻm rồi kéo nhau hò_hét lao đi 
-6,theo người dân tại khu_phố  sự_việc xảy ra trong vòng hơn 5 phút 
-7,bom xăng do những kẻ manh_động đốt gây khói_lửa bao_trùm  náo_loạn cả khu_vực 
-8,trao_đổi với phóng_viên  những người dân khu_phố cho biết may_mắn sự_việc không gây thương_vong nhưng nhiều người đã hoảng_sợ bỏ chạy  cửa_kính nhà bà h bị đập_vỡ vẫn chưa được sửa_chữa 
+0,ngày 26 cơ_quan_chức_năng tp biên_hòa tỉnh đồng_nai biết làm rõ vụ gây náo_loạn trong đêm khiến khu_phố hoảng_hốt một nhà dân đập_vỡ cửa_kính
+1,thông_tin ban_đầu vụ_việc xảy khu_phố 2 phường tam_hòa tp biên_hòa khoảng 23 giờ đêm 16
+2,thời_điểm khu_phố 2 nằm sâu trong hẻm chợ tam_hòa im vắng nhà bà h mặt_tiền hẻm một nhóm thanh_thiếu_niên ngồi chơi hiên nhà
+3,bất_ngờ nhóm thanh_thiếu_niên khác gồm hàng chục người xe_máy reo_hò ầm_ĩ chạy hẻm
+4,thấy nhóm ngồi nhà tốp đừng xe_máy lao huơ mã_tấu khiến người ở khu_phố dạt bên trong tránh
+5,nhóm thanh_thiếu_niên manh_động dùng hung_khí đập_vỡ kính_cửa chính nhà bà h nhóm ném 3 quả bom xăng 3 đầu hẻm kéo nhau hò_hét lao đi
+6,người dân khu_phố sự_việc xảy trong vòng hơn 5 phút
+7,bom xăng kẻ manh_động đốt gây khói_lửa bao_trùm náo_loạn khu_vực
+8,trao_đổi phóng_viên người dân khu_phố biết may_mắn sự_việc gây thương_vong người hoảng_sợ bỏ chạy cửa_kính nhà bà h đập_vỡ sửa_chữa

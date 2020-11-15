@@ -1,9 +1,9 @@
 idx, sentence
-0,đài_truyền_hình nbc_news đưa tin câu_chuyện khó_hiểu này đã xảy ra khi báo the_press_of_atlantic_city ở bang new_jersey ngày 68 đăng hai bản_tin cáo_phó dành cho ông leroy_bill_black  55 tuổi  vừa qua_đời 
-1,cả hai bản cáo_phó được đăng sát nhau và có kèm bức ảnh của black giống y_chang nhau 
-2,sở_dĩ như vậy là vì một bản cáo_phó do người vợ của black đăng và bản cáo_phó còn lại do nhân_tình của ông đăng 
-3,bản cáo_phó đầu_tiên nói rằng leroy_bill_black ra đi để lại người vợ yêu_quý bearetta_harrison_black và con trai jazz_black 
-4,cáo_phó cho biết black chết vào ngày 28 tại nhà_riêng khi có_mặt mọi thành_viên trong gia_đình 
-5,bản cáo_phó thứ hai cũng thông_báo black qua_đời tại nhà_riêng nhưng không nhắc gì đến bất_kỳ thành_viên nào của gia_đình ông 
-6,cáo_phó nói black ra đi  để lại “ con_trai  các anh_chị_em ruột  bạn_bè và người bạn gái lâu năm princess_hall ” 
-7,cáo_phó cho biết black qua_đời vì bệnh ung_thư phổi ở độ tuổi 55 
+0,đài_truyền_hình nbc_news đưa tin câu_chuyện khó_hiểu xảy báo the_press_of_atlantic_city ở bang new_jersey ngày 68 đăng hai bản_tin cáo_phó dành ông leroy_bill_black 55 tuổi qua_đời
+1,hai bản cáo_phó đăng sát nhau kèm bức ảnh black giống y_chang nhau
+2,sở_dĩ một bản cáo_phó người vợ black đăng bản cáo_phó còn nhân_tình ông đăng
+3,bản cáo_phó đầu_tiên nói leroy_bill_black đi người vợ yêu_quý bearetta_harrison_black con trai jazz_black
+4,cáo_phó biết black chết ngày 28 nhà_riêng có_mặt mọi thành_viên trong gia_đình
+5,bản cáo_phó thứ hai thông_báo black qua_đời nhà_riêng nhắc đến bất_kỳ thành_viên nào gia_đình ông
+6,cáo_phó nói black đi “ con_trai anh_chị_em ruột bạn_bè người bạn gái lâu năm princess_hall ”
+7,cáo_phó biết black qua_đời bệnh ung_thư phổi ở độ tuổi 55

@@ -1,32 +1,32 @@
 idx, sentence
-0,hôm_nay  1/6   tất_cả các cửa_hàng bán_lẻ xăng dầu tại hà_nội và 7 tỉnh  thành_phố khác phải có cột bán xăng sinh_học  e5  theo lộ_trình của chính_phủ 
-1,8 địa_phương kể trên gồm  hà_nội  hải_phòng  đà_nẵng  quảng_nam  quảng_ngãi  cần_thơ  bà_rịa  vũng_tàu và tp hồ_chí_minh sẽ bán xăng sinh_học e5 đại_trà tại 100  các cửa_hàng xăng dầu  dần thay_thế hoàn_toàn xăng ron 92 
-2,ông võ_văn_quyền  vụ_trưởng vụ_thị_trường trong nước  bộ công_thương   đại_diện tổ liên_ngành điều_hành giá xăng_dầu của bộ công_thương khẳng_định  theo đúng theo chỉ_thị 19  8 tỉnh  thành_phố ‘ phấn_đấu ’ đạt 100  số_lượng cửa_hàng bán xăng e5 và 100  xăng ron_a92 thay_thế bằng xăng e5  có nghĩa là ngay từ 1/6 tới sẽ không_thể loại_bỏ hoàn_toàn xăng ron_a92  mà cần có thời_gian để doanh_nghiệp và người dân dần_dần thay_thế xăng ron_a92 thành e5 
-3,cho đến thời_điểm 1/6  hà_nội khá tích_cực trong việc thực_hiện lộ_trình này 
-4,tuy_nhiên  đến chiều hôm_qua  31/5   số cửa_hàng có bán xăng e5 vẫn thưa_thớt 
-5,con_số mới nhất mà sở công_thương hà_nội cung_cấp thì thủ_đô hiện mới có 116 cửa_hàng kinh_doanh xăng e5  chiếm 24  trong tổng_số 481 cửa_hàng xăng dầu 
-6,được biết  nhiều đơn_vị từ ngày 31/12/2015 đến nay không tăng thêm được cửa_hàng nào có bán xăng e5 
-7,trong khi đó  sở công_thương tphcm  cho biết đầu tháng 5/2015  chỉ có gần 50  cửa_hàng xăng dầu trong thành_phố bán xăng sinh_học e5 
-8,sản_lượng tiêu_thụ bình_quân chỉ chiếm 63  tổng_sản_lượng tiêu_thụ xăng dầu ở tphcm
-9,doanh_nghiệp xin lùi thời_gian việc lắp_đặt và tiêu_thụ xăng e5 còn gặp nhiều khó_khăn nên một_số doanh_nghiệp đã chuyển_đổi ngược  ngừng bán xăng e5  quay lại bán xăng ron 92 
-10,từng có năm cửa_hàng bán kèm xăng e5 nhưng gần đây  tổng_công_ty cp xăng dầu tự_lực i lại đang chuyển về bán xăng ron 92 
-11,chủ_tịch hđqt của công_ty  ông nguyễn_văn_tiu giải_thích  nguồn cung xăng e5 không ổn_định  lượng bán lại chỉ bằng 10  xăng khoáng  cho_nên kinh_doanh xăng e5 không hiệu_quả 
-12,theo các doanh_nghiệp kinh_doanh xăng dầu đầu_mối  cần có lộ_trình dài hơn để thực_hiện chỉ_đạo của chính_phủ về việc 100  cửa_hàng trên địa_bàn hà_nội có kinh_doanh xăng e5 
-13,đơn_cử  công_ty xăng_dầu khu_vực i xác_định đến cuối quý iii2016 mới có_thể hoàn_thành đầu_tư  nâng_cấp kho chứa xăng e5  việc thực_hiện đồng_bộ chỉ có_thể tiến_hành sau khi kho chứa nâng_cấp xong 
-14,trả_lời báo_chí  ông nguyễn_phú_cường  vụ_trưởng vụ khoa_học công_nghệ  đơn_vị trực_tiếp thực_hiện chỉ_đạo của chính_phủ về việc thay_thế xăng ron_a92 bằng xăng e5  đã dự_đoán trước đó  “ việc thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 ngay ngày 1/6 là rất khó vì còn phụ_thuộc vào thói_quen sử_dụng của người_dân ” 
-15,để thực_hiện đúng chỉ_đạo của chính_phủ  bộ_công_thương đã sát_sao trong việc triển_khai kế_hoạch giúp doanh_nghiệp đưa xăng e5 vào đời_sống 
-16,tuy_nhiên  mục_tiêu tất_cả các điểm kinh_doanh xăng_dầu tại 8 tỉnh  thành_phố bắt_buộc phải bán xăng e5 và hạn_chế dần xăng ron_a92 đã không kịp hạn_định thời_gian 
-17,thời_gian qua  bộ công_thương đôn_đốc các tỉnh  thành_phố thực_hiện việc này 
-18,được biết  sau ngày hôm_nay  bộ sẽ có đoàn kiểm_tra công_tác thực_hiện tại các điểm kinh_doanh xăng_dầu và báo_cáo thủ_tướng chính_phủ về con_số chính_xác  sau đó xin ý_kiến chỉ_đạo tiếp_theo 
-19,người tiêu_dùng chưa mặn_mà anh nguyễn_tuấn_anh chạy taxi vic khu_vực hà_nội khẳng_định không hay biết việc xăng e5 sẽ có_mặt tại các cây_xăng từ đầu tháng 6 này 
-20,“ tôi không biết việc này  đồng_nghiệp cũng không thấy bàn_tán gì 
-21,nhiều cây_xăng ở hà_nội giờ này vẫn chưa có cột bán xăng sinh_học ”  anh tuấn anh nói 
-22,anh tuấn anh cho biết thêm  nếu_như xăng e5 bán song_song với xăng khoáng truyền_thống thì bản_thân anh vẫn không chọn xăng sinh_học bởi  “ mới chỉ mấy tỉnh có loại xăng này 
-23,lái_xe chúng_tôi nhiều khi phải chạy tỉnh khác 
-24,hết xăng thì tìm đâu cây_xăng sinh_học mà đổ ” 
-25,không chỉ_giới lái taxi như anh tuấn anh đa_số người_dân không biết xăng sinh_học sẽ được phổ_biến rộng_rãi từ hôm_nay 
-26,chị phan_huyền ở đường giáp_bát cho hay  “ cây_xăng có cột e5 có nhiều đâu 
-27,mình cũng không rõ việc nhà quản_lý thay_thế dần xăng truyền_thống 
-28,mình chưa dùng e5 vì đã quen dùng xăng thường 
-29,xe chạy ổn_định 
-30,mặc_dù được biết  xăng sinh_học chạy cũng không hại xe  không có gì khác_biệt  nhưng do quen nên vào cây_xăng vẫn đẩy đến cột ron 92 ” 
+0,hôm_nay 1/6 tất_cả cửa_hàng bán_lẻ xăng dầu hà_nội 7 tỉnh thành_phố khác cột bán xăng sinh_học e5 lộ_trình chính_phủ
+1,8 địa_phương kể gồm hà_nội hải_phòng đà_nẵng quảng_nam quảng_ngãi cần_thơ bà_rịa vũng_tàu tp hồ_chí_minh bán xăng sinh_học e5 đại_trà 100 cửa_hàng xăng dầu dần thay_thế hoàn_toàn xăng ron 92
+2,ông võ_văn_quyền vụ_trưởng vụ_thị_trường trong nước bộ công_thương đại_diện tổ liên_ngành điều_hành giá xăng_dầu bộ công_thương khẳng_định đúng chỉ_thị 19 8 tỉnh thành_phố ‘ phấn_đấu ’ đạt 100 số_lượng cửa_hàng bán xăng e5 100 xăng ron_a92 thay_thế bằng xăng e5 nghĩa 1/6 tới không_thể loại_bỏ hoàn_toàn xăng ron_a92 thời_gian doanh_nghiệp người dân dần_dần thay_thế xăng ron_a92 thành e5
+3,đến thời_điểm 1/6 hà_nội khá tích_cực trong thực_hiện lộ_trình
+4,tuy_nhiên đến chiều hôm_qua 31/5 số cửa_hàng bán xăng e5 thưa_thớt
+5,con_số mới nhất sở công_thương hà_nội cung_cấp thủ_đô hiện mới 116 cửa_hàng kinh_doanh xăng e5 chiếm 24 trong tổng_số 481 cửa_hàng xăng dầu
+6,biết đơn_vị ngày 31/12/2015 đến nay tăng thêm cửa_hàng nào bán xăng e5
+7,trong sở công_thương tphcm biết đầu tháng 5/2015 gần 50 cửa_hàng xăng dầu trong thành_phố bán xăng sinh_học e5
+8,sản_lượng tiêu_thụ bình_quân chiếm 63 tổng_sản_lượng tiêu_thụ xăng dầu ở tphcm
+9,doanh_nghiệp xin lùi thời_gian lắp_đặt tiêu_thụ xăng e5 còn gặp khó_khăn một_số doanh_nghiệp chuyển_đổi ngược ngừng bán xăng e5 quay bán xăng ron 92
+10,năm cửa_hàng bán kèm xăng e5 gần tổng_công_ty cp xăng dầu tự_lực i chuyển về bán xăng ron 92
+11,chủ_tịch hđqt công_ty ông nguyễn_văn_tiu giải_thích nguồn cung xăng e5 ổn_định lượng bán bằng 10 xăng khoáng cho_nên kinh_doanh xăng e5 hiệu_quả
+12,doanh_nghiệp kinh_doanh xăng dầu đầu_mối lộ_trình dài hơn thực_hiện chỉ_đạo chính_phủ về 100 cửa_hàng địa_bàn hà_nội kinh_doanh xăng e5
+13,đơn_cử công_ty xăng_dầu khu_vực i xác_định đến cuối quý iii2016 mới hoàn_thành đầu_tư nâng_cấp kho chứa xăng e5 thực_hiện đồng_bộ tiến_hành kho chứa nâng_cấp xong
+14,trả_lời báo_chí ông nguyễn_phú_cường vụ_trưởng vụ khoa_học công_nghệ đơn_vị trực_tiếp thực_hiện chỉ_đạo chính_phủ về thay_thế xăng ron_a92 bằng xăng e5 dự_đoán “ thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 ngày 1/6 khó còn phụ_thuộc thói_quen sử_dụng người_dân ”
+15,thực_hiện đúng chỉ_đạo chính_phủ bộ_công_thương sát_sao trong triển_khai kế_hoạch giúp doanh_nghiệp đưa xăng e5 đời_sống
+16,tuy_nhiên mục_tiêu tất_cả điểm kinh_doanh xăng_dầu 8 tỉnh thành_phố bắt_buộc bán xăng e5 hạn_chế dần xăng ron_a92 kịp hạn_định thời_gian
+17,thời_gian bộ công_thương đôn_đốc tỉnh thành_phố thực_hiện
+18,biết ngày hôm_nay bộ đoàn kiểm_tra công_tác thực_hiện điểm kinh_doanh xăng_dầu báo_cáo thủ_tướng chính_phủ về con_số chính_xác xin ý_kiến chỉ_đạo tiếp_theo
+19,người tiêu_dùng mặn_mà anh nguyễn_tuấn_anh chạy taxi vic khu_vực hà_nội khẳng_định hay biết xăng e5 có_mặt cây_xăng đầu tháng 6
+20,“ tôi biết đồng_nghiệp thấy bàn_tán
+21,cây_xăng ở hà_nội giờ cột bán xăng sinh_học ” anh tuấn anh nói
+22,anh tuấn anh biết thêm nếu_như xăng e5 bán song_song xăng khoáng truyền_thống bản_thân anh chọn xăng sinh_học “ mới mấy tỉnh loại xăng
+23,lái_xe chúng_tôi chạy tỉnh khác
+24,hết xăng tìm đâu cây_xăng sinh_học đổ ”
+25,chỉ_giới lái taxi anh tuấn anh đa_số người_dân biết xăng sinh_học phổ_biến rộng_rãi hôm_nay
+26,chị phan_huyền ở đường giáp_bát hay “ cây_xăng cột e5 đâu
+27,mình rõ nhà quản_lý thay_thế dần xăng truyền_thống
+28,mình dùng e5 quen dùng xăng thường
+29,xe chạy ổn_định
+30,mặc_dù biết xăng sinh_học chạy hại xe khác_biệt quen cây_xăng đẩy đến cột ron 92 ”

@@ -1,5 +1,5 @@
 idx, sentence
-0,người dân cho biết  khoảng 11 h trưa nay 3/6  chiếc xe container mang biển kiểm_soát 51c259  65 chở theo cuộn thép đang lưu_thông trên đường huỳnh_tấn_phát theo hướng từ quận 7 đi huyện nhà_bè 
-1,khi đến địa_bàn phường tân_phú  quận 7  tphcm thì tài_xế cho xe phanh gấp để tránh một phương_tiện phía trước khiến cuộn thép nặng hàng chục tấn va vào cabin 
-2,sự_cố làm phần cabin bị hất văng  phần đầu xe hư_hỏng nặng  tài_xế bị_thương 
-3,sự_cố khiến cuộn thép rơi xuống đường  may_mắn được dải_phân_cách bằng bê_tông chặn lại nên không gây thương_vong cho người đi đường nhưng khiến giao_thông_qua khu_vực gặp nhiều khó_khăn 
+0,người dân biết khoảng 11 h trưa nay 3/6 xe container mang biển kiểm_soát 51c259 65 chở cuộn thép lưu_thông đường huỳnh_tấn_phát hướng quận 7 đi huyện nhà_bè
+1,đến địa_bàn phường tân_phú quận 7 tphcm tài_xế xe phanh gấp tránh một phương_tiện phía khiến cuộn thép nặng hàng chục tấn va cabin
+2,sự_cố làm phần cabin hất văng phần đầu xe hư_hỏng nặng tài_xế bị_thương
+3,sự_cố khiến cuộn thép rơi xuống đường may_mắn dải_phân_cách bằng bê_tông chặn gây thương_vong người đi đường khiến giao_thông_qua khu_vực gặp khó_khăn

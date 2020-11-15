@@ -1,9 +1,9 @@
 idx, sentence
-0,vụ tai_nạn lao_động xảy ra tại công_trình xây_dựng một ngôi nhà 3 tầng ở đường lê_thanh_nghị  phòa_cường_bắc  qhải_châu  đà_nẵng  
-1,ông tiến là chủ_thầu  cũng là người thi_công căn nhà này 
-2,theo thông_tin ban_đầu  sáng 36  ông tiến và 3 người khác đến thi_công ngôi nhà 
-3,lúc xảy ra tai_nạn  ông tiến đứng ở tầng 3 để nhận vật_liệu được chuyển từ hệ_thống tời 
-4,do các trụ đỡ dây tời không chắc_chắn nên khi vật_liệu lên tới_nơi đã bung chân giá đỡ bay ra ngoài 
-5,thời_điểm đó  ông tiến nắm dây tời để tiếp_nhận vật_liệu xây_dựng nên bị mất thăng_bằng và rơi xuống đất  chết tại_chỗ 
-6,một cán_bộ quy_tắc đô_thị phường hòa_cường bắc cho biết công_trình này thi_công được 3 tháng nay 
-7,công_trình này tập_kết vật_liệu đúng vị_trí cũng như thực_hiện che_chắn không để rơi_vãi vật_liệu 
+0,vụ tai_nạn lao_động xảy công_trình xây_dựng một ngôi nhà 3 tầng ở đường lê_thanh_nghị phòa_cường_bắc qhải_châu đà_nẵng
+1,ông tiến chủ_thầu người thi_công căn nhà
+2,thông_tin ban_đầu sáng 36 ông tiến 3 người khác đến thi_công ngôi nhà
+3,xảy tai_nạn ông tiến đứng ở tầng 3 nhận vật_liệu chuyển hệ_thống tời
+4,trụ đỡ dây tời chắc_chắn vật_liệu tới_nơi bung chân giá đỡ bay ngoài
+5,thời_điểm ông tiến nắm dây tời tiếp_nhận vật_liệu xây_dựng mất thăng_bằng rơi xuống đất chết tại_chỗ
+6,một cán_bộ quy_tắc đô_thị phường hòa_cường bắc biết công_trình thi_công 3 tháng nay
+7,công_trình tập_kết vật_liệu đúng vị_trí thực_hiện che_chắn rơi_vãi vật_liệu

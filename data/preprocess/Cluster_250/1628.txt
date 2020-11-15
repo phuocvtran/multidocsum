@@ -1,13 +1,13 @@
 idx, sentence
-0,dòng vốn đầu_tư mà nhật_bản đổ vào các nước đông_nam_á đang tiếp_tục tăng_trưởng mạnh 
-1,với tiềm_năng phát_triển kinh_tế dồi_dào và chi_phí nhân_công ở mức thấp  đông_nam_á trở_thành điểm đến hấp_dẫn trong bối_cảnh sức hấp_dẫn của trung_quốc giảm_sút do căng_thẳng địa_chính_trị 
-2,bloomberg trích_dẫn số_liệu từ tổ_chức xúc_tiến thương_mại nhật_bản  jetro  cho thấy trong năm 2015  lượng vốn đầu_tư trực_tiếp nước_ngoài  fdi  mà nhật_bản đổ vào khối asean đã vượt qua lượng vốn rót vào trung_quốc và hồng_kông 
-3,đây là năm thứ 3 liên_tiếp hiện_tượng này xảy ra 
-4,hơn_nữa  tốc_độ đang ngày_càng tăng lên 
-5,số vốn nhật rót vào asean đã tăng gấp 3 so với 5 năm trước  lên 201 nghìn tỷ yên  tương_đương 1809 tỷ usd  
-6,dòng vốn nhật rót vào trung_quốc tăng_trưởng chậm lại sau khi các cuộc biểu_tình chống nhật xuất_phát từ tranh_chấp lãnh_thổ trên biển dâng cao vào năm 2012 
-7,điều này đã buộc các công_ty nhật phải đa_dạng_hóa rủi_ro đầu_tư 
-8,ma_tieying – chuyên_gia kinh_tế tại tập_đoàn dbs_singapore_– cho rằng trong mắt người nhật các thị_trường asean rất hấp_dẫn 
-9,“ nhiều nền kinh_tế có tiềm_năng tăng_trưởng rất lớn với dân_số trẻ và thu_nhập bình_quân đầu người ở mức thấp ” 
-10,độ mở của các thị_trường cùng với chi_phí nhân_công rẻ hơn trung_quốc cũng là những yếu_tố giúp thu_hút dòng vốn đầu_tư từ nhật_bản 
-11,trong số các nhà_sản_xuất nhật tham_gia một khảo_sát về dự_định đầu_tư được thực_hiện năm 2015  chỉ 48  cho biết họ có ý_định củng_cố hoặc mở_rộng hoạt_động ở trung_quốc  giảm mạnh so với tỷ_lệ 73  của năm 2011 
+0,dòng vốn đầu_tư nhật_bản đổ nước đông_nam_á tiếp_tục tăng_trưởng mạnh
+1,tiềm_năng phát_triển kinh_tế dồi_dào chi_phí nhân_công ở mức thấp đông_nam_á trở_thành điểm đến hấp_dẫn trong bối_cảnh sức hấp_dẫn trung_quốc giảm_sút căng_thẳng địa_chính_trị
+2,bloomberg trích_dẫn số_liệu tổ_chức xúc_tiến thương_mại nhật_bản jetro thấy trong năm 2015 lượng vốn đầu_tư trực_tiếp nước_ngoài fdi nhật_bản đổ khối asean vượt lượng vốn rót trung_quốc hồng_kông
+3,năm thứ 3 liên_tiếp hiện_tượng xảy
+4,hơn_nữa tốc_độ ngày_càng tăng
+5,số vốn nhật rót asean tăng gấp 3 5 năm 201 nghìn tỷ yên tương_đương 1809 tỷ usd
+6,dòng vốn nhật rót trung_quốc tăng_trưởng chậm cuộc biểu_tình chống nhật xuất_phát tranh_chấp lãnh_thổ biển dâng cao năm 2012
+7,buộc công_ty nhật đa_dạng_hóa rủi_ro đầu_tư
+8,ma_tieying – chuyên_gia kinh_tế tập_đoàn dbs_singapore_– trong mắt người nhật thị_trường asean hấp_dẫn
+9,“ nền kinh_tế tiềm_năng tăng_trưởng lớn dân_số trẻ thu_nhập bình_quân đầu người ở mức thấp ”
+10,độ mở thị_trường chi_phí nhân_công rẻ hơn trung_quốc yếu_tố giúp thu_hút dòng vốn đầu_tư nhật_bản
+11,trong số nhà_sản_xuất nhật tham_gia một khảo_sát về dự_định đầu_tư thực_hiện năm 2015 48 biết họ ý_định củng_cố hoặc mở_rộng hoạt_động ở trung_quốc giảm mạnh tỷ_lệ 73 năm 2011

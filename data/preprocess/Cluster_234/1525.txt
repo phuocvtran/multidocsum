@@ -1,13 +1,13 @@
 idx, sentence
-0,như đã thông_tin  vụ tai_nạn xảy ra vào_khoảng 4 h30 sáng ngày 2/6  khi chiếc xe_khách của nhà_xe khánh_đơn mang bks lào 3897 lưu_thông từ tỉnh thà_khẹt  lào  về huyện diễn_châu  nghệ_an  
-1,khi chiếc xe đi đến địa_phận huyện bualapha  tỉnh khăm_muộn  lào   cách cửa_khẩu cha_lo  tỉnh quảng_bình  khoảng 15 km thì bất_ngờ phát_nổ 
-2,tại thời_điểm gặp nạn  trên xe_khách có 12 người 
-3,vụ nổ đã khiến 8 người trên xe tử_vong  4 người khác bị_thương rất nặng 
-4,nhận được thông_tin về vụ_việc lực_lượng chức_năng lập_tức có_mặt tại hiện_trường cứu những người gặp nạn  đồng_thời bảo_vệ hiện_trường điều_tra làm rõ nguyên_nhân sự_việc 
-5,sáng cùng ngày  lực_lượng chức_năng đã quyết_định dừng hoạt_động giao_dịch tại cửa_khẩu cha_lo để bảo_vệ hiện_trường điều_tra làm rõ nguyên_nhân vụ_việc 
-6,phóng_viên có_mặt tại gia_đình ông nguyễn_đức_thu ở xóm 1  xã nghi_diên  huyện nghi_lộc  nghệ_an   chủ nhà xe khánh_đơn  căn nhà 4 tầng đóng kín cửa 
-7,liên_lạc qua điện_thoại  ông thu xác_nhận thông_tin xe_khách gặp nạn là xe của gia_đình mình và hiện ông đang liên_lạc với các ngành chức_năng xác_định danh_tính các nạn_nhân gặp nạn nạn 
-8,danh_tính một_vài nạn_nhân đã được xác_định gồm  phạm_đình_tú  sn 1982   hoàng_thế_chiến  sn 1988   bị_thương nặng 
-9,nguyễn_bá_lợi  sn 1971   nguyễn_kế_hải  sn 1973   nguyễn_thế_hậu  sn 1970  anh ruột nạn_nhân hải   tử_vong  trú xã nghi_kiều  nghi_lộc  nghệ_an 
-10,các nạn_nhân cao_văn_hoạt  dương_ngọc_thạch  trần_thế_dũng  tử_vong  cùng trú huyện nghĩa_đàn  nghệ_an 
-11,ông nguyễn_ngọc_tú  trạm_trưởng trạm biên_phòng cửa_khẩu cha_lo cho biết  chiếc xe gặp nạn khi đang trên đường từ lào về tp vinh  nghệ_an  
+0,thông_tin vụ tai_nạn xảy vào_khoảng 4 h30 sáng ngày 2/6 xe_khách nhà_xe khánh_đơn mang bks lào 3897 lưu_thông tỉnh thà_khẹt lào về huyện diễn_châu nghệ_an
+1,xe đi đến địa_phận huyện bualapha tỉnh khăm_muộn lào cách cửa_khẩu cha_lo tỉnh quảng_bình khoảng 15 km bất_ngờ phát_nổ
+2,thời_điểm gặp nạn xe_khách 12 người
+3,vụ nổ khiến 8 người xe tử_vong 4 người khác bị_thương nặng
+4,nhận thông_tin về vụ_việc lực_lượng chức_năng lập_tức có_mặt hiện_trường cứu người gặp nạn đồng_thời bảo_vệ hiện_trường điều_tra làm rõ nguyên_nhân sự_việc
+5,sáng ngày lực_lượng chức_năng quyết_định dừng hoạt_động giao_dịch cửa_khẩu cha_lo bảo_vệ hiện_trường điều_tra làm rõ nguyên_nhân vụ_việc
+6,phóng_viên có_mặt gia_đình ông nguyễn_đức_thu ở xóm 1 xã nghi_diên huyện nghi_lộc nghệ_an chủ nhà xe khánh_đơn căn nhà 4 tầng đóng kín cửa
+7,liên_lạc điện_thoại ông thu xác_nhận thông_tin xe_khách gặp nạn xe gia_đình mình hiện ông liên_lạc ngành chức_năng xác_định danh_tính nạn_nhân gặp nạn nạn
+8,danh_tính một_vài nạn_nhân xác_định gồm phạm_đình_tú sn 1982 hoàng_thế_chiến sn 1988 bị_thương nặng
+9,nguyễn_bá_lợi sn 1971 nguyễn_kế_hải sn 1973 nguyễn_thế_hậu sn 1970 anh ruột nạn_nhân hải tử_vong trú xã nghi_kiều nghi_lộc nghệ_an
+10,nạn_nhân cao_văn_hoạt dương_ngọc_thạch trần_thế_dũng tử_vong trú huyện nghĩa_đàn nghệ_an
+11,ông nguyễn_ngọc_tú trạm_trưởng trạm biên_phòng cửa_khẩu cha_lo biết xe gặp nạn đường lào về tp vinh nghệ_an

@@ -1,6 +1,6 @@
 idx, sentence
-0,ít_nhất 17 nữ_sinh thiệt_mạng  5 nữ_sinh bị_thương  trong khi 2 nữ_sinh khác vẫn đang mất_tích trong một vụ hỏa_hoạn lớn thiêu rụi khu nhà ở của các nữ_sinh này ở tỉnh chiang_rai  miền bắc_thái_lan 
-1,ngọn lửa bùng_phát dữ_dội tại khu nhà ở của học_sinh trường pithakkiart_witthaya  huyện wiengpapao lúc 23 h đêm 22/5 
-2,các nạn_nhân thiệt_mạng trong vụ tai_nạn thương_tâm này đều trong độ tuổi từ 5  12 tuổi  vốn là người ở khu_vực miền núi ở chiang_rai và chiang_mai xuống thị_trấn trọ học 
-3,theo nguồn tin địa_phương  có ít_nhất 38 nữ_sinh đang có_mặt trong khu nhà ở này vào thời_điểm_hỏa hoạn xảy ra 
-4,các giáo_viên trong trường chỉ kịp sơ_tán một_số em  số còn lại bị mắc_kẹt bên trong 
+0,ít_nhất 17 nữ_sinh thiệt_mạng 5 nữ_sinh bị_thương trong 2 nữ_sinh khác mất_tích trong một vụ hỏa_hoạn lớn thiêu rụi khu nhà ở nữ_sinh ở tỉnh chiang_rai miền bắc_thái_lan
+1,ngọn lửa bùng_phát dữ_dội khu nhà ở học_sinh trường pithakkiart_witthaya huyện wiengpapao 23 h đêm 22/5
+2,nạn_nhân thiệt_mạng trong vụ tai_nạn thương_tâm trong độ tuổi 5 12 tuổi vốn người ở khu_vực miền núi ở chiang_rai chiang_mai xuống thị_trấn trọ học
+3,nguồn tin địa_phương ít_nhất 38 nữ_sinh có_mặt trong khu nhà ở thời_điểm_hỏa hoạn xảy
+4,giáo_viên trong trường kịp sơ_tán một_số em số còn mắc_kẹt bên trong

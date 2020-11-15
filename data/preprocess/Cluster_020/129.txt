@@ -1,32 +1,32 @@
 idx, sentence
-0,đây không phải lần đầu 
-1,xuất_phát từ thượng_nguồn con kênh  cuối đường_hoàng_sa_– trường_sa  quận tân_bình   và kết_thúc là cảng đóng tàu ba_son  quận bình_thạnh   kênh nhiêu_lộc – thị_nghè dài khoảng 10 cây_số  đi qua 5 quận trung_tâm thành_phố gồm q tân_bình  q 3  q phú_nhuận  q 1 và q bình_thạnh 
-2,con kênh này được xem như bộ_mặt cho thành_phố 
-3,tuy_nhiên  cứ đến hẹn rồi lên  mỗi ngày tình_trạng cá chết vẫn cứ diễn ra thường_xuyên 
-4,phổ_biến nhất là từ đoạn từ cầu_hoàng_hoa_thám  q 1  q phú_nhuận  lên đến thượng_nguồn con kênh  quận tân_bình  dài 34 km  tình_cảnh hàng ngàn  hàng vạn con cá_rô phi  cá diêu hồng đồng_loạt ngoi lên mặt nước phơi mình  thoi_thóp … “ thở ” và chết đã không còn lạ 
-5,đỉnh điểm là trong ngày 175 và 185 vừa_qua 
-6,tổng_kết sáng 195  lượng cá chết đã lên đến con_số kinh_hoàng là khoảng 80 tấn 
-7,cùng với đó  tại dưới bố các trụ chân cầu hay khúc cua con kênh  xác_chết trắng_xóa_tồn ứ chen “ chân ” rác_thải sinh_hoạt  bốc mùi hôi_thối nồng_nặc 
-8,chính mùi hôi_thối đã ảnh_hưởng đến cuộc_sống  sinh_hoạt và kinh_doanh của những hộ dân đang sinh_sống và nhà_hàng  quán ăn ven con sông du_lịch tiềm_năng này 
-9,nhiều người dân phản_ánh  đây không phải là lần đầu_tiên hiện_tượng cá đồng_loạt chết trắng trên dòng kênh  trước đó  hiện_tượng này đã từng diễn ra nhưng không “ kinh_khủng như hôm_nay ” 
-10,kinh_khủng hơn  có những đoạn đặt đường_ống dẫn nước từ thành_phố đưa ra nước đen_sì  có lẫn tạp_chất sinh_hoạt của con_người như bao_bì  nắm chai  uống hút 
-11,nước có màu đen_sì lần tạp_chất  sủi_bọt 
-12,kèm theo đó là mùi hôi_thối thoang_thoảng trong hơi gió nồng_nặc 
-13,quan_sát có_thể dễ_dàng thấy  nước này từ các ống_dẫn nước hoặc từ các con đường hoặc từ nhà người dân thải ra 
-14,cá chết do đâu 
-15,tình_trạng ô_nhiễm dòng kênh nhiêu_lộc – thị_nghè đã được người dân phản_ảnh từ rất lâu 
-16,ubnd tphcm đã nhận trách_nhiệm và xác_định nguyên_nhân là do ô_nhiễm cục_bộ nước_thải  rác_thải sinh_hoạt và tìm hướng xử_lí 
-17,từ đó  ubnd tphcm đã yêu_cầu các sở  ban  ngành ban_hành văn_bản xử_lý vi_phạm hành_chính đối_với những hành_vi xâm_hại đến môi_trường  cảnh_quan đô_thị  của con kênh này 
-18,đồng_thời  lãnh_đạo tphcm đã chỉ_đạo cho công_ty tnhh một thành_viên môi_trường tphcm thường_xuyên tăng_cường thanh kiểm_tra và có giải_pháp tối_ưu hạn_chế đến mức thấp nhất tình_trạng hôi_thối kéo_dài 
-19,cụ_thể là xử_lí chống tiêu  chống độc  vớt rác  thay nước thường_xuyên  giáo_dục ý_thức  đặc_biệt xử_lý nghiêm các hành_vi vi_phạm đến môi_trường  cảnh_quan đô_thị 
-20,hàng ngàn tỷ đồng nhà_nước đã được đầu_tư để xử_lí  nạo_vét  cải_tạo con kênh này trở_thành con kênh du_lịch xanh 
-21,mới_đây  ubnd tphcm đã được vào du_lịch tuyến thủy nội_bộ bằng du_thuyền trên kênh nhiêu_lộc – thị_nghè 
-22,mới_đây nhất  chiều tối ngày 175  ban tuyên_giáo thành_ủy tphcm đã có cuộc họp_báo khẩn thông_tin về nguyên_nhân cá chết trắng trên kênh nhiêu_lộc – thị_nghè gây hoang_mang dư_luận 
-23,theo đó  nguyên_nhân ban_đầu được ông nguyễn_phước_trung  giám_đốc sở nông_nghiệp  phát_triển nông_thôn tphcm cho biết là do ô_nhiễm chất_hữu_cơ và khí độc 
-24,theo đó  kết_quả cho thấy  thứ nhất về độ trong của nước_lớn hơn hoặc bằng 30  xét_nghiệm nhỏ hơn 20  điều này chứng_tỏ nước đã bị nhiễm hữu_cơ  thứ hai là độ_ph cho_phép 88 đến 85 thì đo được là 89  thứ ba là nh3 03 mg / l thì qua xét_nghiệm là 036 mg / l  thứ 4 là nh4 là 01 mg cho_phép thì nó đã vượt mức 
-25,nguyên_nhân chính dẫn đến tình_trạng cá chết là do ô_nhiễm nước cục_bộ  cơn mưa đầu mùa ngày 165 vừa_qua đã cuốn những chất bẩn từ cống thoát ra kênh  không được xử_lý làm tăng ô_nhiễm môi_trường nước ở kênh 
-26,hiện cơ_quan_chức_năng đang thử_nghiệm rải hóa_chất kết_hợp vi_sinh để thanh_lọc nước những khu_vực ô_nhiễm trên kênh làm giảm tình_trạng ô_nhiễm nước và hạn_chế cá chết ở những cơn mưa sau 
-27,chiều tối ngày 17/5  hơn 14 tấn cá chết đã được vớt lên khỏi mặt kênh để tiến_hành tiêu_độc  khử_trùng dòng kênh này 
-28,“ sở tài_nguyên  môi_trường đã huy_động trên 16 phương_tiện gồm ca_nô  các tàu thu_gom và xử_lý hết số_lượng cá chết 
-29,đến hết ngày 185 đã có hơn 70 tấn cá để xử_lý đúng quy_trình có sự giám_sát chặt_chẽ để bảo_vệ môi_trường tốt nhất 
-30,sang ngày 195  con_số này là 80 tấn 
+0,lần đầu
+1,xuất_phát thượng_nguồn con kênh cuối đường_hoàng_sa_– trường_sa quận tân_bình kết_thúc cảng đóng tàu ba_son quận bình_thạnh kênh nhiêu_lộc – thị_nghè dài khoảng 10 cây_số đi 5 quận trung_tâm thành_phố gồm q tân_bình q 3 q phú_nhuận q 1 q bình_thạnh
+2,con kênh xem bộ_mặt thành_phố
+3,tuy_nhiên đến hẹn ngày tình_trạng cá chết diễn thường_xuyên
+4,phổ_biến nhất đoạn cầu_hoàng_hoa_thám q 1 q phú_nhuận đến thượng_nguồn con kênh quận tân_bình dài 34 km tình_cảnh hàng ngàn hàng vạn con cá_rô phi cá diêu hồng đồng_loạt ngoi mặt nước phơi mình thoi_thóp … “ thở ” chết còn lạ
+5,đỉnh điểm trong ngày 175 185 vừa_qua
+6,tổng_kết sáng 195 lượng cá chết đến con_số kinh_hoàng khoảng 80 tấn
+7,bố trụ chân cầu hay khúc cua con kênh xác_chết trắng_xóa_tồn ứ chen “ chân ” rác_thải sinh_hoạt bốc mùi hôi_thối nồng_nặc
+8,chính mùi hôi_thối ảnh_hưởng đến cuộc_sống sinh_hoạt kinh_doanh hộ dân sinh_sống nhà_hàng quán ăn ven con sông du_lịch tiềm_năng
+9,người dân phản_ánh lần đầu_tiên hiện_tượng cá đồng_loạt chết trắng dòng kênh hiện_tượng diễn “ kinh_khủng hôm_nay ”
+10,kinh_khủng hơn đoạn đặt đường_ống dẫn nước thành_phố đưa nước đen_sì lẫn tạp_chất sinh_hoạt con_người bao_bì nắm chai uống hút
+11,nước màu đen_sì lần tạp_chất sủi_bọt
+12,kèm mùi hôi_thối thoang_thoảng trong hơi gió nồng_nặc
+13,quan_sát dễ_dàng thấy nước ống_dẫn nước hoặc con đường hoặc nhà người dân thải
+14,cá chết đâu
+15,tình_trạng ô_nhiễm dòng kênh nhiêu_lộc – thị_nghè người dân phản_ảnh lâu
+16,ubnd tphcm nhận trách_nhiệm xác_định nguyên_nhân ô_nhiễm cục_bộ nước_thải rác_thải sinh_hoạt tìm hướng xử_lí
+17,ubnd tphcm yêu_cầu sở ban ngành ban_hành văn_bản xử_lý vi_phạm hành_chính đối_với hành_vi xâm_hại đến môi_trường cảnh_quan đô_thị con kênh
+18,đồng_thời lãnh_đạo tphcm chỉ_đạo công_ty tnhh một thành_viên môi_trường tphcm thường_xuyên tăng_cường thanh kiểm_tra giải_pháp tối_ưu hạn_chế đến mức thấp nhất tình_trạng hôi_thối kéo_dài
+19,cụ_thể xử_lí chống tiêu chống độc vớt rác thay nước thường_xuyên giáo_dục ý_thức đặc_biệt xử_lý nghiêm hành_vi vi_phạm đến môi_trường cảnh_quan đô_thị
+20,hàng ngàn tỷ đồng nhà_nước đầu_tư xử_lí nạo_vét cải_tạo con kênh trở_thành con kênh du_lịch xanh
+21,mới_đây ubnd tphcm du_lịch tuyến thủy nội_bộ bằng du_thuyền kênh nhiêu_lộc – thị_nghè
+22,mới_đây nhất chiều tối ngày 175 ban tuyên_giáo thành_ủy tphcm cuộc họp_báo khẩn thông_tin về nguyên_nhân cá chết trắng kênh nhiêu_lộc – thị_nghè gây hoang_mang dư_luận
+23,nguyên_nhân ban_đầu ông nguyễn_phước_trung giám_đốc sở nông_nghiệp phát_triển nông_thôn tphcm biết ô_nhiễm chất_hữu_cơ khí độc
+24,kết_quả thấy thứ nhất về độ trong nước_lớn hơn hoặc bằng 30 xét_nghiệm nhỏ hơn 20 chứng_tỏ nước nhiễm hữu_cơ thứ hai độ_ph cho_phép 88 đến 85 đo 89 thứ ba nh3 03 mg / l xét_nghiệm 036 mg / l thứ 4 nh4 01 mg cho_phép nó vượt mức
+25,nguyên_nhân chính dẫn đến tình_trạng cá chết ô_nhiễm nước cục_bộ cơn mưa đầu mùa ngày 165 vừa_qua cuốn chất bẩn cống thoát kênh xử_lý làm tăng ô_nhiễm môi_trường nước ở kênh
+26,hiện cơ_quan_chức_năng thử_nghiệm rải hóa_chất kết_hợp vi_sinh thanh_lọc nước khu_vực ô_nhiễm kênh làm giảm tình_trạng ô_nhiễm nước hạn_chế cá chết ở cơn mưa
+27,chiều tối ngày 17/5 hơn 14 tấn cá chết vớt khỏi mặt kênh tiến_hành tiêu_độc khử_trùng dòng kênh
+28,“ sở tài_nguyên môi_trường huy_động 16 phương_tiện gồm ca_nô tàu thu_gom xử_lý hết số_lượng cá chết
+29,đến hết ngày 185 hơn 70 tấn cá xử_lý đúng quy_trình giám_sát chặt_chẽ bảo_vệ môi_trường tốt nhất
+30,sang ngày 195 con_số 80 tấn

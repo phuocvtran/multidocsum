@@ -1,9 +1,9 @@
 idx, sentence
-0,tin_tức trên vov  sự_việc xảy ra vào_khoảng 13 h ngày 27/5  tại nhà anh lê_văn_tiến  56 tuổi  xóm 21  xã nghi_trung  huyện nghi_lộc  nghệ_an  
-1,vào thời_điểm trên  một chuyến máy_bay  chưa xác_định của hãng nào  trong lúc hạ_cánh xuống sân_bay quốc_tế_vinh đã bất_ngờ làm tốc khoảng 200 viên ngói nhà anh tiến 
-2,anh này cho biết  lúc xảy ra sự_việc  cả nhà đang ngủ trưa thì nghe tiếng_động lớn trên trần nhà 
-3,lập_tức anh tiến vội hô_hoán mọi người trong gia_đình chạy ra khỏi nhà  tránh gặp phải nguy_hiểm 
-4,ra đến nơi thì anh phát_hiện mái nhà bị hư_hại  nhiều viên ngói bị rơi xuống vỡ vụn 
-5,sau khi xảy ra sự_việc  anh tiến đã trực_tiếp đến cảng_vụ hàng_không sân_bay vinh đồng_thời điện_báo ban_công_an xã nghi_trung giải_quyết  xử_lý 
-6,báo giao_thông đưa tin  nhận tin báo của người_dân  đại_diện cảng_vụ hàng_không sân_bay vinh  an_ninh sân_bay quốc_tế vinh cùng ban_công_an xã nghi_trung đã có_mặt tại hiện_trường để kiểm_tra sự_việc 
-7,tuy_nhiên  theo đại_diện cảng_vụ hàng_không  rất khó để xác_định chính_xác nguyên_nhân nhà bị tốc mái do máy_bay cất  hạ_cánh hay do gió_lốc 
+0,tin_tức vov sự_việc xảy vào_khoảng 13 h ngày 27/5 nhà anh lê_văn_tiến 56 tuổi xóm 21 xã nghi_trung huyện nghi_lộc nghệ_an
+1,thời_điểm một chuyến máy_bay xác_định hãng nào trong hạ_cánh xuống sân_bay quốc_tế_vinh bất_ngờ làm tốc khoảng 200 viên ngói nhà anh tiến
+2,anh biết xảy sự_việc nhà ngủ trưa nghe tiếng_động lớn trần nhà
+3,lập_tức anh tiến vội hô_hoán mọi người trong gia_đình chạy khỏi nhà tránh gặp nguy_hiểm
+4,đến anh phát_hiện mái nhà hư_hại viên ngói rơi xuống vỡ vụn
+5,xảy sự_việc anh tiến trực_tiếp đến cảng_vụ hàng_không sân_bay vinh đồng_thời điện_báo ban_công_an xã nghi_trung giải_quyết xử_lý
+6,báo giao_thông đưa tin nhận tin báo người_dân đại_diện cảng_vụ hàng_không sân_bay vinh an_ninh sân_bay quốc_tế vinh ban_công_an xã nghi_trung có_mặt hiện_trường kiểm_tra sự_việc
+7,tuy_nhiên đại_diện cảng_vụ hàng_không khó xác_định chính_xác nguyên_nhân nhà tốc mái máy_bay cất hạ_cánh hay gió_lốc

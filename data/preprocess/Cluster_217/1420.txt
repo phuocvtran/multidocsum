@@ -1,7 +1,7 @@
 idx, sentence
-0,chuyến bay đầu_tiên của vietjet tới malaysia mang số_hiệu vj825 đã hạ_cánh tại sân_bay quốc_tế kuala_lumpur vào lúc 12 h00  giờ_địa_phương  
-1,phát_biểu tại buổi khai_trương  phó_thủ_tướng chính_phủ trịnh_đình_dũng đánh_giá cao quyết_tâm của vietjet_air – một hãng hàng_không thế_hệ mới trong việc tạo ra cầu_nối giữa việt_nam và malaysia 
-2,phó_thủ_tướng cũng đánh_giá cao nỗ_lực của vietjet trong việc cung_cấp dịch_vụ hàng_không an_toàn  đem lại nhiều lợi_ích cho người dân hai nước 
-3,đường_bay tphcm – kuala_lumpur được khai_thác hàng ngày  thời_gian bay khoảng 1 giờ 55 phút 
-4,chuyến bay sẽ khởi_hành từ tphcm lúc 9 h30 và đến kuala_lumpur lúc 12 h25  giờ_địa_phương  
-5,chiều ngược_lại khởi_hành lúc 13 h00  giờ_địa_phương  từ kuala_lumpur và tới tphcm lúc 13 h55  giờ_địa_phương  
+0,chuyến bay đầu_tiên vietjet tới malaysia mang số_hiệu vj825 hạ_cánh sân_bay quốc_tế kuala_lumpur 12 h00 giờ_địa_phương
+1,phát_biểu buổi khai_trương phó_thủ_tướng chính_phủ trịnh_đình_dũng đánh_giá cao quyết_tâm vietjet_air – một hãng hàng_không thế_hệ mới trong tạo cầu_nối giữa việt_nam malaysia
+2,phó_thủ_tướng đánh_giá cao nỗ_lực vietjet trong cung_cấp dịch_vụ hàng_không an_toàn đem lợi_ích người dân hai nước
+3,đường_bay tphcm – kuala_lumpur khai_thác hàng ngày thời_gian bay khoảng 1 giờ 55 phút
+4,chuyến bay khởi_hành tphcm 9 h30 đến kuala_lumpur 12 h25 giờ_địa_phương
+5,chiều ngược_lại khởi_hành 13 h00 giờ_địa_phương kuala_lumpur tới tphcm 13 h55 giờ_địa_phương

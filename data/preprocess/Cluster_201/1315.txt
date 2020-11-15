@@ -1,13 +1,13 @@
 idx, sentence
-0,sự_việc thương_tâm xảy ra vào_khoảng 18 h tối 31/5 
-1,theo đó  vào thời_gian trên  ntc  11 tuổi  ngụ tại tphcm  đạp xe quanh quảng_trường biển tam_thanh chơi thì vướng dây_điện của một nhà_hàng gần đó và bị điện giật tử_vong 
-2,được biết  đường dây_điện làm bé trai tử_vong được nối vào nhà_hàng ba_cơ  thôn hạ_thanh 1  xã tam_thanh  tp tam_kỳ  quảng_nam  và hiện nhà_hàng này không hoạt_động 
-3,tờ quảng_nam online thông_tin  người_nhà nạn_nhân cho rằng dòng_điện gây ra cái chết của em c là do nhà_hàng này dùng  thắp sáng để nhân_viên trông giữ khu_vực nhà_hàng 
-4,còn tờ người lao_động cho hay  do gia_đình nạn_nhân bức_xúc việc nhà_hàng ba_cơ_chối_bỏ trách_nhiệm nên đã mang thi_thể bé trai này đến đặt trước cửa nhà_hàng  yêu_cầu có trách_nhiệm 
-5, tối 31/5  do quá lo_sợ nên lúc đầu đại_diện nhà_hàng ba_cơ nói đường_dây_điện này họ không còn sử_dụng nữa 
-6,mãi đến khoảng khoảng 0 giờ ngày 1/6  khi phía điện_lực đưa ra hóa_đơn tiền điện vừa_mới nộp để chứng_minh nhà_hàng này vẫn dùng điện  chủ nhà_hàng mới thừa_nhận trách_nhiệm   nguồn trên dẫn lời chủ_tịch xã tam_thanh nguyễn_thanh_bình 
-7,cũng theo tờ người lao_động  phía nhà_hàng sau đó đã thừa_nhận đây là sự_việc ngoài ý_muốn  đồng_thời gửi lời xin_lỗi và hứa bù_đắp mất_mát cho gia_đình cháu bé 
-8,báo_giới trong nước cũng thông_tin  tại hiện_trường sự_việc  theo quan_sát thì khoảng_cách giữa các trụ điện cách xa nhau  dây_điện trùng xuống 
-9,do_đó  có_thể bé c đã chạm vào phần dây bị rò_rỉ điện 
-10,nhà_hàng đã dù đã không hoạt_động và chuyển sang cách địa_điểm cũ không xa nhưng đường_dây_điện vẫn được để phụ vụ sinh_hoạt cho nhân_viên 
-11,được biết  bé c và gia_đình vừa từ tp hcm về quê ngoại_nhân_dịp hè 
+0,sự_việc thương_tâm xảy vào_khoảng 18 h tối 31/5
+1,thời_gian ntc 11 tuổi ngụ tphcm đạp xe quanh quảng_trường biển tam_thanh chơi vướng dây_điện một nhà_hàng gần điện giật tử_vong
+2,biết đường dây_điện làm bé trai tử_vong nối nhà_hàng ba_cơ thôn hạ_thanh 1 xã tam_thanh tp tam_kỳ quảng_nam hiện nhà_hàng hoạt_động
+3,tờ quảng_nam online thông_tin người_nhà nạn_nhân dòng_điện gây chết em c nhà_hàng dùng thắp sáng nhân_viên trông giữ khu_vực nhà_hàng
+4,còn tờ người lao_động hay gia_đình nạn_nhân bức_xúc nhà_hàng ba_cơ_chối_bỏ trách_nhiệm mang thi_thể bé trai đến đặt cửa nhà_hàng yêu_cầu trách_nhiệm
+5,tối 31/5 quá lo_sợ đầu đại_diện nhà_hàng ba_cơ nói đường_dây_điện họ còn sử_dụng
+6,mãi đến khoảng khoảng 0 giờ ngày 1/6 phía điện_lực đưa hóa_đơn tiền điện vừa_mới nộp chứng_minh nhà_hàng dùng điện chủ nhà_hàng mới thừa_nhận trách_nhiệm nguồn dẫn lời chủ_tịch xã tam_thanh nguyễn_thanh_bình
+7,tờ người lao_động phía nhà_hàng thừa_nhận sự_việc ngoài ý_muốn đồng_thời gửi lời xin_lỗi hứa bù_đắp mất_mát gia_đình cháu bé
+8,báo_giới trong nước thông_tin hiện_trường sự_việc quan_sát khoảng_cách giữa trụ điện cách xa nhau dây_điện trùng xuống
+9,do_đó bé c chạm phần dây rò_rỉ điện
+10,nhà_hàng dù hoạt_động chuyển sang cách địa_điểm cũ xa đường_dây_điện phụ vụ sinh_hoạt nhân_viên
+11,biết bé c gia_đình tp hcm về quê ngoại_nhân_dịp hè

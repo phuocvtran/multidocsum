@@ -1,9 +1,9 @@
 idx, sentence
-0,chiều 235  phòng cảnh_sát hình_sự công_an tỉnh quảng_nam cho_biết  vừa bắt khẩn_cấp nhóm đối_tượng lừa_đảo hàng trăm triệu đồng_bằng thủ_đoạn bán vàng giả cho các tiệm vàng 
-1,bọn chúng gồm đặng_xuân_hoa_diễm  31 tuổi  ngụ thôn 1  xã tân_sơn  tp pleiku  tỉnh gia_lai  và phạm_ngọc_tuấn  22 tuổi  thôn mỹ_thạch 3  thị_trấn chư_sê  huyện chư_sê  tỉnh gia_lai  
-2,theo kết_quả điều_tra ban_đầu  từ ngày 94 đến ngày 115  các đối_tượng trên đã cùng với phan_văn_hoàn  31 tuổi  ngụ thôn 3  xã biển_hồ  tp pleiku  thực_hiện 8 vụ lừa_đảo bằng thủ_đoạn bán vàng giả cho các tiệm vàng trên địa_bàn tỉnh quảng_nam  để chiếm_đoạt tài_sản 
-3,trong đó  vụ chúng chiếm_đoạt tài_sản lớn nhất trị_giá 187 triệu đồng  vụ ít_nhất là 31 triệu đồng 
-4,riêng trong ngày 115  các đối_tượng đã thực_hiện liên_tiếp 4 vụ lừa_đảo tại tiệm vàng vĩnh_lợi  tp tam_kỳ  quảng_nam   tiệm vàng duy_phương và tiệm vàng_ngọc_trưởng  huyện núi_thành  quảng_nam   trong đó tiệm vàng duy_phương bị lừa_đảo 2 lần với số tiền 76190 triệu đồng 
-5,khi các đối_tượng đến tiệm vàng_ngọc_trưởng để tiếp_tục bán vàng giả thì bị chủ tiệm vàng phát_hiện và báo_công_an bắt_giữ 
-6,được biết  các đối_tượng diễm  tuấn và hoàn đều không có nghề_nghiệp  đi lang_thang khắp nơi để lừa_đảo 
-7,trong đó  đối_tượng hoàn có 2 tiền_án  đối_tượng tuấn có 1 tiền_án 
+0,chiều 235 phòng cảnh_sát hình_sự công_an tỉnh quảng_nam cho_biết bắt khẩn_cấp nhóm đối_tượng lừa_đảo hàng trăm triệu đồng_bằng thủ_đoạn bán vàng giả tiệm vàng
+1,bọn chúng gồm đặng_xuân_hoa_diễm 31 tuổi ngụ thôn 1 xã tân_sơn tp pleiku tỉnh gia_lai phạm_ngọc_tuấn 22 tuổi thôn mỹ_thạch 3 thị_trấn chư_sê huyện chư_sê tỉnh gia_lai
+2,kết_quả điều_tra ban_đầu ngày 94 đến ngày 115 đối_tượng phan_văn_hoàn 31 tuổi ngụ thôn 3 xã biển_hồ tp pleiku thực_hiện 8 vụ lừa_đảo bằng thủ_đoạn bán vàng giả tiệm vàng địa_bàn tỉnh quảng_nam chiếm_đoạt tài_sản
+3,trong vụ chúng chiếm_đoạt tài_sản lớn nhất trị_giá 187 triệu đồng vụ ít_nhất 31 triệu đồng
+4,riêng trong ngày 115 đối_tượng thực_hiện liên_tiếp 4 vụ lừa_đảo tiệm vàng vĩnh_lợi tp tam_kỳ quảng_nam tiệm vàng duy_phương tiệm vàng_ngọc_trưởng huyện núi_thành quảng_nam trong tiệm vàng duy_phương lừa_đảo 2 lần số tiền 76190 triệu đồng
+5,đối_tượng đến tiệm vàng_ngọc_trưởng tiếp_tục bán vàng giả chủ tiệm vàng phát_hiện báo_công_an bắt_giữ
+6,biết đối_tượng diễm tuấn hoàn nghề_nghiệp đi lang_thang khắp lừa_đảo
+7,trong đối_tượng hoàn 2 tiền_án đối_tượng tuấn 1 tiền_án

@@ -1,6 +1,6 @@
 idx, sentence
-0,mẫu xe mang đường_nét hầm_hố của những chiếc xe thể_thao thực_thụ  góc_cạnh tạo dáng_vẻ mạnh_mẽ  chắc_chắn 
-1,xe được thiết_kế nhiều lớp tối_tân bảo_đảm cả hình_thức hiện_đại bên ngoài lẫn tính_năng khí_động_học 
-2,winner 150 sử_dụng động_cơ phun xăng điện_tử fgmfi 150 cc  dohc hộp_số 6 cấp  4 kỳ  xi_lanh đơn  làm mát bằng dung_dịch 
-3,đây là động_cơ xe được thiết_kế chuyên_dụng cho dòng xe thể_thao của honda 
-4,winner 150 là xe côn tay đầu_tiên được honda việt_nam sản_xuất 
+0,mẫu xe mang đường_nét hầm_hố xe thể_thao thực_thụ góc_cạnh tạo dáng_vẻ mạnh_mẽ chắc_chắn
+1,xe thiết_kế lớp tối_tân bảo_đảm hình_thức hiện_đại bên ngoài lẫn tính_năng khí_động_học
+2,winner 150 sử_dụng động_cơ phun xăng điện_tử fgmfi 150 cc dohc hộp_số 6 cấp 4 kỳ xi_lanh đơn làm mát bằng dung_dịch
+3,động_cơ xe thiết_kế chuyên_dụng dòng xe thể_thao honda
+4,winner 150 xe côn tay đầu_tiên honda việt_nam sản_xuất

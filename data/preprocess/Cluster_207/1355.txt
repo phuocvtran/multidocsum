@@ -1,9 +1,9 @@
 idx, sentence
-0,theo các nhân_chứng cho hay  vào thời_điểm trên tại tầng 4 số nhà 39 lê_ngọc_hân bất_ngờ phát ra cột khói kèm theo đó là lửa bùng_phát 
-1,ngay sau khi phát_hiện ra đám cháy  người dân đã dùng bình chữa_cháy nhỏ để dập lửa 
-2,tuy_nhiên  do trời nắng nóng  lửa nhanh_chóng lan rộng xuống tầng 2 ngôi nhà 
-3,theo ghi_nhận tại đây  một cột khói đen mù_mịt phủ kín bầu_trời  kèm theo đó là mùi khét khiến nhiều người hoảng_loạn  tháo_chạy 
-4,ngay sau khi nhận được tin báo của người dân  lực_lượng pccc đã huy_động bốn xe chữa_cháy  một xe bồn có_mặt tại hiện_trường để nhanh_chóng triển_khai_phương_án chữa cháy 
-5,theo phòng cảnh_sát pccc  đám cháy xảy ra tại nhà_hàng trúc_lâm_trai 
-6,cho đến khoảng 15 giờ cùng ngày đám cháy đã hoàn_toàn được khống_chế 
-7,tuy_nhiên  toàn_bộ tầng 4 của nhà_hàng này đã bị hỏa_hoạn thiêu rụi 
+0,nhân_chứng hay thời_điểm tầng 4 số nhà 39 lê_ngọc_hân bất_ngờ phát cột khói kèm lửa bùng_phát
+1,phát_hiện đám cháy người dân dùng bình chữa_cháy nhỏ dập lửa
+2,tuy_nhiên trời nắng nóng lửa nhanh_chóng lan rộng xuống tầng 2 ngôi nhà
+3,ghi_nhận một cột khói đen mù_mịt phủ kín bầu_trời kèm mùi khét khiến người hoảng_loạn tháo_chạy
+4,nhận tin báo người dân lực_lượng pccc huy_động bốn xe chữa_cháy một xe bồn có_mặt hiện_trường nhanh_chóng triển_khai_phương_án chữa cháy
+5,phòng cảnh_sát pccc đám cháy xảy nhà_hàng trúc_lâm_trai
+6,đến khoảng 15 giờ ngày đám cháy hoàn_toàn khống_chế
+7,tuy_nhiên toàn_bộ tầng 4 nhà_hàng hỏa_hoạn thiêu rụi

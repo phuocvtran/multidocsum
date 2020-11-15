@@ -1,7 +1,7 @@
 idx, sentence
-0,sáng nay  23/5   một người dân phát_hiện thi_thể_nữ khoảng 22 đến 25 tuổi  bị nhét trong bao_tải  vứt tại một bãi đất trống gần chung_cư thạnh_mỹ_lợi  phường thạnh_mỹ_lợi  quận 2  tphcm
-1,theo nhân_chứng  vào thời_gian trên  một người nhặt ve_chai đến khu_vực bãi đất trống ở sát khu chung_cư nói trên thì phát_hiện một bao_tải màu trắng  bên trong cộm lên một vật lớn 
-2,người này sau đó mở chiếc bao_tải thì kinh_hoàng phát_hiện thi_thể một cô gái nên bỏ chạy và vội_vàng báo cơ_quan_chức_năng 
-3,nhận được tin báo  lực_lượng chức_năng địa_phương có_mặt  phong_tỏa hiện_trường  thu_thập nhiều dấu_vết  vật_dụng xung_quanh và ghi lời khai các nhân_chứng 
-4,phòng cảnh_sát điều_tra tội_phạm về trật_tự xã_hội  công_an thành_phố cũng đến hiện_trường để phối_hợp điều_tra 
-5,hiện  lực_lượng chức_năng chưa cung_cấp thông_tin cụ_thể liên_quan đến vụ_việc này 
+0,sáng nay 23/5 một người dân phát_hiện thi_thể_nữ khoảng 22 đến 25 tuổi nhét trong bao_tải vứt một bãi đất trống gần chung_cư thạnh_mỹ_lợi phường thạnh_mỹ_lợi quận 2 tphcm
+1,nhân_chứng thời_gian một người nhặt ve_chai đến khu_vực bãi đất trống ở sát khu chung_cư nói phát_hiện một bao_tải màu trắng bên trong cộm một vật lớn
+2,người mở bao_tải kinh_hoàng phát_hiện thi_thể một cô gái bỏ chạy vội_vàng báo cơ_quan_chức_năng
+3,nhận tin báo lực_lượng chức_năng địa_phương có_mặt phong_tỏa hiện_trường thu_thập dấu_vết vật_dụng xung_quanh ghi lời khai nhân_chứng
+4,phòng cảnh_sát điều_tra tội_phạm về trật_tự xã_hội công_an thành_phố đến hiện_trường phối_hợp điều_tra
+5,hiện lực_lượng chức_năng cung_cấp thông_tin cụ_thể liên_quan đến vụ_việc

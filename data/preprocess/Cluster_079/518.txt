@@ -1,12 +1,12 @@
 idx, sentence
-0,ngày 23/5  cơ_quan csđt công_an q 2  tphcm  cho biết  hiện đang phối_hợp với các phòng nghiệp_vụ công_an tphcm  làm rõ xác_minh nguyên_nhân dẫn đến cái chết của bà phan_thị_ánh_hương  41  ngụ q 2  
-1,sau vài giờ người hành_nghề lượm ve_chai phát_hiện một thi_thể được cột trong bao_tải tại khu đất trống cạnh chung_cư thạnh_mỹ_lợi  pthạnh mỹ_lợi  q 2   công_an đã xác_định được danh_tính nạn_nhân là bà hương 
-2,như phununews đưa tin  sáng 23/5  một người đang lượm ve_chai bên bãi đất trống thì phát_hiện một bao_tải màu trắng đang khuất trong bụi cây 
-3,trong lúc tò_mò  người này dở ra thì té ngửa khi phát_hiện đó là thi_thể phụ_nữ 
-4,sau đó  người lượm ve_chai hốt_hoảng hô_hoán  nhiều người dân hiếu_kì đã kéo đến xem 
-5,vụ_việc nhanh_chóng báo lên cơ_quan công_an quận 2 
-6,nhận tin báo  lực_lượng công_an q 2 phối_hợp cùng phòng cảnh_sát hình_sự  pc45   công_an tphcm và viện_kiểm_sát_nhân_dân tphcm đến hiện_trường  tiến_hành phong_tỏa và triển_khai khám_nghiệm  đồng_thời thu_thập lời kể của một_số nhân_chứng 
-7,một_số nhân_chứng tại hiện_trường cho biết  lúc mở bao_tải nạn_nhân trong tình_trạng bị trói chân_tay  dán miệng và có dấu_hiệu thi_thể đang phân hủy 
-8,đến trưa cùng ngày  người_nhà bà hương đến xác_nhận người trong tải là bà hương 
-9,người nhà bà cho biết  trưa ngày 22/5  bà hương nói là đi làm móng tay cho khách  tuy_nhiên đến tối cùng ngày gia_đình vẫn không thấy bà trở về 
-10,nạn_nhân hành_nghề sơn móng tay dạo  khi đi ra khỏi nhà có đeo một_số nữ_trang trên người 
+0,ngày 23/5 cơ_quan csđt công_an q 2 tphcm biết hiện phối_hợp phòng nghiệp_vụ công_an tphcm làm rõ xác_minh nguyên_nhân dẫn đến chết bà phan_thị_ánh_hương 41 ngụ q 2
+1,vài giờ người hành_nghề lượm ve_chai phát_hiện một thi_thể cột trong bao_tải khu đất trống cạnh chung_cư thạnh_mỹ_lợi pthạnh mỹ_lợi q 2 công_an xác_định danh_tính nạn_nhân bà hương
+2,phununews đưa tin sáng 23/5 một người lượm ve_chai bên bãi đất trống phát_hiện một bao_tải màu trắng khuất trong bụi cây
+3,trong tò_mò người dở té ngửa phát_hiện thi_thể phụ_nữ
+4,người lượm ve_chai hốt_hoảng hô_hoán người dân hiếu_kì kéo đến xem
+5,vụ_việc nhanh_chóng báo cơ_quan công_an quận 2
+6,nhận tin báo lực_lượng công_an q 2 phối_hợp phòng cảnh_sát hình_sự pc45 công_an tphcm viện_kiểm_sát_nhân_dân tphcm đến hiện_trường tiến_hành phong_tỏa triển_khai khám_nghiệm đồng_thời thu_thập lời kể một_số nhân_chứng
+7,một_số nhân_chứng hiện_trường biết mở bao_tải nạn_nhân trong tình_trạng trói chân_tay dán miệng dấu_hiệu thi_thể phân hủy
+8,đến trưa ngày người_nhà bà hương đến xác_nhận người trong tải bà hương
+9,người nhà bà biết trưa ngày 22/5 bà hương nói đi làm móng tay khách tuy_nhiên đến tối ngày gia_đình thấy bà trở về
+10,nạn_nhân hành_nghề sơn móng tay dạo đi khỏi nhà đeo một_số nữ_trang người

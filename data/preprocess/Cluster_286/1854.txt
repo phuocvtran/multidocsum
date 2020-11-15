@@ -1,21 +1,21 @@
 idx, sentence
-0,không còn là chuyện đồn đoán nữa mà chuyện dani_alves rời barca hè này đã trở_thành sự_thật 
-1,mới_đây  trên trang_chủ của  gã khổng_lồ xứ catalunya   wwwfcbarcelonacom  đã ra thông_báo chính_thức về việc họ sẽ chia_tay  lão_tướng  đã 33 tuổi người brazil này 
-2,trong thông_tin có nhan_đề  fc barcelona cảm_ơn những cống_hiến của dani_alves cho clb  có nói rõ   fc_barcelona bày_tỏ lòng biết_ơn chân_thành đến dani_alves vì 8 năm anh ấy đã giúp cho clb ngày_càng lớn_mạnh và tốt_đẹp hơn 
-3,kể từ khi anh ấy gia_nhập clb này từ seville năm 2008  anh ấy đã trở_thành cầu_thủ nước_ngoài ra sân thường_xuyên nhiều thứ 2 ở barca và cùng clb chinh_phục 23 danh_hiệu với fc_barcelona 
-4,lòng trung_thành và bản_chất tốt_đẹp của anh đã chiếm được trái_tim của nhiều người hâm_mộ barca 
-5,vì lí_do_đó  anh ấy sẽ được mời tham_dự một bữa tiệc chia_tay người hâm_mộ vào đầu mùa giải tới 
-6,giờ_đây  fc_barcelona xin gửi lời chúc anh ấy mọi điều tốt_đẹp nhất trong giai_đoạn mới của sự_nghiệp của mình 
-7,ovragido  alves  
-8,trong khi đó  giám_đốc thể_thao barca  robert_fernandez thông_báo hôm_qua   dani_alves đã quyết_định rời câu_lạc_bộ 
-9,tôi không muốn phải chia_tay alves  anh ấy là một cầu_thủ tuyệt_vời và rất đáng yêu 
-10,nhưng alves đã quyết như thế và chúng_tôi phải tôn_trọng quyết_định này  
-11,alves được barca tuyển_mộ từ sevilla với giá 47 triệu đôla năm 2008 và được xem là hậu_vệ phải số_một thế_giới suốt 8 năm qua 
-12,anh là trụ_cột của barca đoạt 3 danh_hiệu champions_league  6 chức vô_địch la_liga trong giai_đoạn này 
-13,juventus được cho là điểm đến mới của alves  khi hai bên đang gần hoàn_tất hợp_đồng hai năm 
-14,hậu_vệ sắp 34 tuổi này có_thể được công_bố là cầu_thủ juventus trong tuần này  trước khi anh cùng tuyển brazil bước vào chiến_dịch copa_america 2016 trên đất mỹ 
-15,cách đây 2 ngày  giám_đốc điều_hành của juventus  ông beppe_marotta đã xác_nhận đang đàm_phán chiêu_mộ dani_alves và tỏ ra lạc_quan về thương_vụ này 
-16,theo báo_chí italia  nếu không có gì thay_đổi  alves sẽ chính_thức trở_thành cầu_thủ của juve vào ngày 5/6 tới 
-17,tại juventus  alves sẽ nhận lương 4 triệu euro / năm  thấp hơn 2 triệu euro so với thu_nhập ở barca 
-18,để thay_thế alves  barca được cho là đang liên_hệ với hecto_bellerin  ngôi_sao đang lên của arsenal và vừa được triệu_tập vào tuyển tây ban_nha dự euro 2016 
-19,tuy_nhiên  giám_đốc thể_thao fernandez cho rằng barca đã có sẵn phương_án thay_thế  với aleix_vidal  một cầu_thủ khác đến từ sevilla vào hè 2015 
+0,còn đồn đoán dani_alves rời barca hè trở_thành sự_thật
+1,mới_đây trang_chủ gã khổng_lồ xứ catalunya wwwfcbarcelonacom thông_báo chính_thức về họ chia_tay lão_tướng 33 tuổi người brazil
+2,trong thông_tin nhan_đề fc barcelona cảm_ơn cống_hiến dani_alves clb nói rõ fc_barcelona bày_tỏ lòng biết_ơn chân_thành đến dani_alves 8 năm anh ấy giúp clb ngày_càng lớn_mạnh tốt_đẹp hơn
+3,kể anh ấy gia_nhập clb seville năm 2008 anh ấy trở_thành cầu_thủ nước_ngoài sân thường_xuyên thứ 2 ở barca clb chinh_phục 23 danh_hiệu fc_barcelona
+4,lòng trung_thành bản_chất tốt_đẹp anh chiếm trái_tim người hâm_mộ barca
+5,lí_do_đó anh ấy mời tham_dự một bữa tiệc chia_tay người hâm_mộ đầu mùa giải tới
+6,giờ_đây fc_barcelona xin gửi lời chúc anh ấy mọi tốt_đẹp nhất trong giai_đoạn mới sự_nghiệp mình
+7,ovragido alves
+8,trong giám_đốc thể_thao barca robert_fernandez thông_báo hôm_qua dani_alves quyết_định rời câu_lạc_bộ
+9,tôi muốn chia_tay alves anh ấy một cầu_thủ tuyệt_vời đáng yêu
+10,alves quyết thế chúng_tôi tôn_trọng quyết_định
+11,alves barca tuyển_mộ sevilla giá 47 triệu đôla năm 2008 xem hậu_vệ số_một thế_giới suốt 8 năm
+12,anh trụ_cột barca đoạt 3 danh_hiệu champions_league 6 chức vô_địch la_liga trong giai_đoạn
+13,juventus điểm đến mới alves hai bên gần hoàn_tất hợp_đồng hai năm
+14,hậu_vệ sắp 34 tuổi công_bố cầu_thủ juventus trong tuần anh tuyển brazil bước chiến_dịch copa_america 2016 đất mỹ
+15,cách 2 ngày giám_đốc điều_hành juventus ông beppe_marotta xác_nhận đàm_phán chiêu_mộ dani_alves tỏ lạc_quan về thương_vụ
+16,báo_chí italia thay_đổi alves chính_thức trở_thành cầu_thủ juve ngày 5/6 tới
+17,juventus alves nhận lương 4 triệu euro / năm thấp hơn 2 triệu euro thu_nhập ở barca
+18,thay_thế alves barca liên_hệ hecto_bellerin ngôi_sao arsenal triệu_tập tuyển tây ban_nha dự euro 2016
+19,tuy_nhiên giám_đốc thể_thao fernandez barca sẵn phương_án thay_thế aleix_vidal một cầu_thủ khác đến sevilla hè 2015

@@ -1,17 +1,17 @@
 idx, sentence
-0,đơn_kiện của 11 người hôm_qua được gửi đến tòa dân_sự tối_cao kuala_lumpur  nói rõ bên bị kiện là hệ_thống hàng_không malaysia  mas  và malaysia_airlines_berhad  cái tên thay_thế cho mas trong lần tái cơ_cấu năm_ngoái 
-1,các thân_nhân cho rằng hãng hàng_không đã vi_phạm hợp_đồng về việc bảo_đảm an_toàn và sức_khỏe của các thành_viên 
-2, chúng_tôi kiện họ vì đã sơ_suất  không có những cảnh_báo nghiêm_túc về những mối nguy có_thể xảy ra   balan_nair  luật_sư  đại_diện cho các gia_đình nói 
-3,những người này cũng cho rằng mas đã tắc_trách trong việc đánh_giá rủi_ro và lập ra đường_bay đi qua vùng biết rõ là có xung_đột 
-4, họ đáng ra phải thận_trọng hơn trong việc chọn đường_bay  họ có_thể tránh điều này   balan nói 
-5,trong khi đó  hãng hàng_không malaysia cho rằng việc bình_luận về vụ kiện_tụng đang diễn ra là không phù_hợp và hãng chưa được mời ra tòa 
-6, chúng_tôi muốn nhắc lại báo_cáo của ủy_ban an_toàn hà_lan rằng cách mà mas chuẩn_bị và điều_hành chuyến bay tuân_thủ đúng các quy_định của tổ_chức hàng_không dân_sự quốc_tế   hãng trả_lời qua email 
-7,chong seng_see  một trong những người tham_gia vụ kiện  cho biết chị_gái của mình là chong_yee_pheng  đã làm_việc cho hãng 18 năm 
-8, gia_đình các nạn_nhân của mh17 xứng_đáng được đối_xử với lòng nhân_đạo  lòng trắc_ẩn và sự tôn_trọng 
-9,tôi hy_vọng mas sẽ làm điều đúng_đắn   chong nói 
-10,tháng trước  một công_ty australia thay_mặt 33 gia_đình hành_khách và thành_viên phi_hành_đoàn có_mặt trên mh17 đã yêu_cầu nga và tổng_thống vladimir_putin bồi_thường 330 triệu usd 
-11,các đơn_kiện được đưa ra sẽ bị coi là không có hiệu_lực sau thời_hạn hai năm kể từ ngày xảy ra tai_nạn 17/7 
-12,chuyến bay mang số_hiệu mh17 của malaysia_airlines rơi xuống miền đông ukraine vào năm 2014 khi đang trên đường từ amsterdam đến kuala_lumpur  khiến toàn_bộ 298 người trên khoang thiệt_mạng 
-13,đông_ukraine khi đó là nơi đang xảy ra chiến_sự giữa quân_đội chính_phủ và phiến_quân 
-14,báo_cáo của ủy_ban an_toàn hà_lan công_bố tháng 10 năm_ngoái kết_luận mh17 bị bắn hạ bằng loại tên lửa buk do nga sản_xuất tại khu_vực do phe ly_khai kiểm_soát ở miền đông ukraine 
-15,tuy_nhiên  báo_cáo không kết_luận lực_lượng nào đã bắn tên lửa 
+0,đơn_kiện 11 người hôm_qua gửi đến tòa dân_sự tối_cao kuala_lumpur nói rõ bên kiện hệ_thống hàng_không malaysia mas malaysia_airlines_berhad tên thay_thế mas trong lần tái cơ_cấu năm_ngoái
+1,thân_nhân hãng hàng_không vi_phạm hợp_đồng về bảo_đảm an_toàn sức_khỏe thành_viên
+2,chúng_tôi kiện họ sơ_suất cảnh_báo nghiêm_túc về mối nguy xảy balan_nair luật_sư đại_diện gia_đình nói
+3,người mas tắc_trách trong đánh_giá rủi_ro lập đường_bay đi vùng biết rõ xung_đột
+4,họ đáng thận_trọng hơn trong chọn đường_bay họ tránh balan nói
+5,trong hãng hàng_không malaysia bình_luận về vụ kiện_tụng diễn phù_hợp hãng mời tòa
+6,chúng_tôi muốn nhắc báo_cáo ủy_ban an_toàn hà_lan cách mas chuẩn_bị điều_hành chuyến bay tuân_thủ đúng quy_định tổ_chức hàng_không dân_sự quốc_tế hãng trả_lời email
+7,chong seng_see một trong người tham_gia vụ kiện biết chị_gái mình chong_yee_pheng làm_việc hãng 18 năm
+8,gia_đình nạn_nhân mh17 xứng_đáng đối_xử lòng nhân_đạo lòng trắc_ẩn tôn_trọng
+9,tôi hy_vọng mas làm đúng_đắn chong nói
+10,tháng một công_ty australia thay_mặt 33 gia_đình hành_khách thành_viên phi_hành_đoàn có_mặt mh17 yêu_cầu nga tổng_thống vladimir_putin bồi_thường 330 triệu usd
+11,đơn_kiện đưa coi hiệu_lực thời_hạn hai năm kể ngày xảy tai_nạn 17/7
+12,chuyến bay mang số_hiệu mh17 malaysia_airlines rơi xuống miền đông ukraine năm 2014 đường amsterdam đến kuala_lumpur khiến toàn_bộ 298 người khoang thiệt_mạng
+13,đông_ukraine xảy chiến_sự giữa quân_đội chính_phủ phiến_quân
+14,báo_cáo ủy_ban an_toàn hà_lan công_bố tháng 10 năm_ngoái kết_luận mh17 bắn hạ bằng loại tên lửa buk nga sản_xuất khu_vực phe ly_khai kiểm_soát ở miền đông ukraine
+15,tuy_nhiên báo_cáo kết_luận lực_lượng nào bắn tên lửa

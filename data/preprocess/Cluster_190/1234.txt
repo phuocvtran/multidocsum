@@ -1,6 +1,6 @@
 idx, sentence
-0,khoảng 17 g30 chiều 31/5 tại nút giao_thông xã_đàn  q đống_đa  hà_nội   người dân đi đường một_phen hoảng_loạn chứng_kiến chiếc ôtô 7 chỗ đang đi về hướng ngã tư ô chợ_dừa thì bất_ngờ tông vào hàng_loạt xe_máy 
-1,hai chiếc xe_máy bị cuốn vào gầm ôtô kéo_lê khoảng gần 10 m mới dừng lại 
-2,toàn_bộ phía đầu chiếc ôtô bị móp méo  vỡ đèn_pha  những chiếc xe_máy bị ôtô đâm vào cũng hư_hỏng nặng 
-3,trao_đổi với tuổi_trẻ  lãnh_đạo đội csgt số 3 công_an tp hà_nội  cho biết chiếc xe ô_tô gây tai_nạn mang bks 30p2153 
-4,có tất_cả 9 xe_máy bị chiếc ôtô này mất lái tông vào  bốn người phụ_nữ bị_thương nhẹ được đưa vào bệnh_viện sơ_cứu 
+0,khoảng 17 g30 chiều 31/5 nút giao_thông xã_đàn q đống_đa hà_nội người dân đi đường một_phen hoảng_loạn chứng_kiến ôtô 7 chỗ đi về hướng ngã tư ô chợ_dừa bất_ngờ tông hàng_loạt xe_máy
+1,hai xe_máy cuốn gầm ôtô kéo_lê khoảng gần 10 m mới dừng
+2,toàn_bộ phía đầu ôtô móp méo vỡ đèn_pha xe_máy ôtô đâm hư_hỏng nặng
+3,trao_đổi tuổi_trẻ lãnh_đạo đội csgt số 3 công_an tp hà_nội biết xe ô_tô gây tai_nạn mang bks 30p2153
+4,tất_cả 9 xe_máy ôtô mất lái tông bốn người phụ_nữ bị_thương nhẹ đưa bệnh_viện sơ_cứu

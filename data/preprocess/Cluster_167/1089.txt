@@ -1,8 +1,8 @@
 idx, sentence
-0,lại hương_thảo cho hay  đám_cưới của cô được tổ_chức ấm_áp với khoảng 700 khách_mời  gồm người quen và bạn thân của gia_đình chú_rể 
-1,ca_sĩ trang_nhung và con gái cũng có_mặt và hát tặng gia_đình hai bên tại tiệc cưới 
-2,lại hương_thảo sinh năm 1991 tại thành_phố hạ_long  quảng_ninh 
-3,cô đạt danh_hiệu hoa_khôi thể_thao năm 2012 
-4,hương_thảo đại_diện việt_nam tham_dự cuộc thi hoa_hậu siêu_quốc_gia 2012 diễn ra tại ba_lan và đạt giải hoa_hậu cộng_đồng  nữ_hoàng sắc_đẹp châu_á thái_bình_dương 
-5,hương_thảo hiện đang làm_việc tại một ngân_hàng trong tphcm
-6,chồng của lại hương_thảo tên anh_tuấn  năm nay 34 tuổi  từng làm_việc tại nước anh trong lĩnh_vực ngân_hàng  hiện_tại quản_lý công_ty riêng tại việt_nam 
+0,hương_thảo hay đám_cưới cô tổ_chức ấm_áp khoảng 700 khách_mời gồm người quen bạn thân gia_đình chú_rể
+1,ca_sĩ trang_nhung con gái có_mặt hát tặng gia_đình hai bên tiệc cưới
+2,hương_thảo sinh năm 1991 thành_phố hạ_long quảng_ninh
+3,cô đạt danh_hiệu hoa_khôi thể_thao năm 2012
+4,hương_thảo đại_diện việt_nam tham_dự cuộc thi hoa_hậu siêu_quốc_gia 2012 diễn ba_lan đạt giải hoa_hậu cộng_đồng nữ_hoàng sắc_đẹp châu_á thái_bình_dương
+5,hương_thảo hiện làm_việc một ngân_hàng trong tphcm
+6,chồng hương_thảo tên anh_tuấn năm nay 34 tuổi làm_việc nước anh trong lĩnh_vực ngân_hàng hiện_tại quản_lý công_ty riêng việt_nam

@@ -1,15 +1,15 @@
 idx, sentence
-0,tập thứ 3 của chương_trình tình_bolero vừa phát_sóng với chủ_đề “ nàng_thơ ” đã gợi lại cho khán_giả những mối tình huyền_thoại giữa các nhạc_sĩ tài_hoa của dòng nhạc bolero với những bóng_hồng  những giai_nhân_cách đây nhiều thập_niên qua những bản tình_ca bất_hủ 
-1,những ca_khúc này đã được thể_hiện lại bởi 4 “ nàng thơ ” cũng chính là 4 thí_sinh nữ xinh_đẹp của chương_trình  gồm hoa_khôi nam_em  diễn_viên kiêm người_mẫu ảnh maria đinh_phương_ánh  đạo_diễn  diễn_viên phi_nga và doanh_nhân nguyễn_việt_hòa 
-2,hoa_khôi đồng_bằng sông cửu_long nguyễn_thị_lệ_nam_em là thí_sinh nhỏ_tuổi nhất trong 8 thí_sinh của tình_bolero 
-3,cô tham_gia cuộc thi với mong_muốn khẳng_định việc theo_đuổi dòng nhạc bolero cũng như chứng_minh cô không phải là một người đẹp hát 
-4,nam em đã chọn bài hát ngày_xưa hoàng_thị_của nhạc_sĩ phạm_duy 
-5,với giọng hát ngọt_ngào  cùng phong_cách trình_diễn nhẹ_nhàng  trong_sáng trong tà áo_dài trắng  nam_em đã chinh_phục giám_khảo trường vũ và thanh_hà 
-6,trong lúc nam_em trình_diễn  nữ ca_sĩ thanh_hà đã say xưa hát theo 
-7,chị dành cho hoa_khôi nhiều lời khen  “ bài_hát hay  lời hát đẹp  dàn_dựng đẹp  ánh_sáng đẹp và nam_em rất giỏi khi bài hát nhiều lời vậy_mà nhớ hết lời ” 
-8,chị cũng trêu trường vũ là khi thấy nam_em xuất_hiện với hình_ảnh trong_sáng  mỏng_manh đi trong mưa  nam ca_sĩ đã định đi theo cô về nhưng vì nam_em gọi trường vũ là chú nên cô khuyên anh nên bỏ ý_định mà chấm công_tâm 
-9,nam ca_sĩ cũng đùa là cũng định sau khi nữ thí_sinh hát xong bài hát sẽ đi theo cô về 
-10,anh cũng thắc_mắc về cái tên khá lạ của nam_em và được cô giải_thích là vì bà nội dặn mẹ nếu sinh con_trai thì đặt tên là nguyễn_quốc_nam  là con_gái thì đặt tên nguyễn_thị_lệ_nam 
-11,do mẹ cô sinh_đôi nên đặt tên cho chị_gái là nguyễn_thị_lệ_nam và cô là nguyễn_thị_lệ_nam_em 
-12,mặc_dù chinh_phục được giám_khảo thanh_hà và trường vũ nhưng nam_em lại khiến nữ giám_khảo họa_mi khó_chịu vì cách hát của mình 
-13,nữ giám_khảo từng hát bài này nhiều lần và góp_ý cho nam_em  “ bài_hát này phải có sự dịu_dàng  hơi lơi nhạc một xíu  nốt cao nam_em hát tới  hát mạnh quá nhưng giọng thấp thì lại xuống không tới ” 
+0,tập thứ 3 chương_trình tình_bolero phát_sóng chủ_đề “ nàng_thơ ” gợi khán_giả mối tình huyền_thoại giữa nhạc_sĩ tài_hoa dòng nhạc bolero bóng_hồng giai_nhân_cách thập_niên bản tình_ca bất_hủ
+1,ca_khúc thể_hiện 4 “ nàng thơ ” chính 4 thí_sinh nữ xinh_đẹp chương_trình gồm hoa_khôi nam_em diễn_viên kiêm người_mẫu ảnh maria đinh_phương_ánh đạo_diễn diễn_viên phi_nga doanh_nhân nguyễn_việt_hòa
+2,hoa_khôi đồng_bằng sông cửu_long nguyễn_thị_lệ_nam_em thí_sinh nhỏ_tuổi nhất trong 8 thí_sinh tình_bolero
+3,cô tham_gia cuộc thi mong_muốn khẳng_định theo_đuổi dòng nhạc bolero chứng_minh cô một người đẹp hát
+4,nam em chọn bài hát ngày_xưa hoàng_thị_của nhạc_sĩ phạm_duy
+5,giọng hát ngọt_ngào phong_cách trình_diễn nhẹ_nhàng trong_sáng trong tà áo_dài trắng nam_em chinh_phục giám_khảo trường vũ thanh_hà
+6,trong nam_em trình_diễn nữ ca_sĩ thanh_hà say xưa hát
+7,chị dành hoa_khôi lời khen “ bài_hát hay lời hát đẹp dàn_dựng đẹp ánh_sáng đẹp nam_em giỏi bài hát lời vậy_mà nhớ hết lời ”
+8,chị trêu trường vũ thấy nam_em xuất_hiện hình_ảnh trong_sáng mỏng_manh đi trong mưa nam ca_sĩ định đi cô về nam_em gọi trường vũ chú cô khuyên anh bỏ ý_định chấm công_tâm
+9,nam ca_sĩ đùa định nữ thí_sinh hát xong bài hát đi cô về
+10,anh thắc_mắc về tên khá lạ nam_em cô giải_thích bà nội dặn mẹ sinh con_trai đặt tên nguyễn_quốc_nam con_gái đặt tên nguyễn_thị_lệ_nam
+11,mẹ cô sinh_đôi đặt tên chị_gái nguyễn_thị_lệ_nam cô nguyễn_thị_lệ_nam_em
+12,mặc_dù chinh_phục giám_khảo thanh_hà trường vũ nam_em khiến nữ giám_khảo họa_mi khó_chịu cách hát mình
+13,nữ giám_khảo hát bài lần góp_ý nam_em “ bài_hát dịu_dàng hơi lơi nhạc một xíu nốt cao nam_em hát tới hát mạnh quá giọng thấp xuống tới ”

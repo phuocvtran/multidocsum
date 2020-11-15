@@ -1,21 +1,21 @@
 idx, sentence
-0,tiền_vệ trẻ jesse_lingard ghi_bàn thắng quyết_định hết_sức ngoạn_mục ở phút 110 nhưng cổ_động_viên man_united phải chờ đến khi tiếng còi dứt trận vang lên mới dám tin đội nhà chiến_thắng 
-1,đối_mặt với quá nhiều bất_lợi trước và trong trận đấu như nghỉ ít ngày hơn so với crystal_palace  các chân sút thay nhau kết_thúc bóng trúng xà_ngang hoặc cột_dọc  mất 2 vị_trí trụ_cột vì chấn_thương  bị dẫn bàn và thi_đấu 15 phút cuối của hiệp phụ trong cảnh thiệt quân vì thẻ phạt  ngay cả những người lạc_quan nhất cũng không dám nghĩ vận may sau_cùng lại mỉm cười với “ quỷ đỏ ” 
-2,chính tinh_thần chiến_đấu quả_cảm như những chiến_binh đích_thực đã giúp các cầu_thủ man_united đứng vững trên sân suốt 120 phút  chịu_đựng những màn tra_tấn thể_lực  những pha không chiến vô_cùng nguy_hiểm từ phía crystal_palace trước khi tung ra những đòn quyết_định để đánh_bại đối_thủ 
-3,lần gặp nhau thứ 21 trong gần ba thập_kỷ qua  đây là trận đấu hay nhất của palace_man_united bất_kể họ tiếp_tục không thắng nổi đối_thủ như ở 19/20 dịp chạm_trán trước 
-4,được đánh_giá cao hơn nhưng man_united giờ_đây mới thực_sự hiểu rõ  những con_số thống_kê luôn chỉ mang ý_nghĩa tham_khảo 
-5,kiểm_soát bóng tốt hơn trong những phút đầu trận nhờ sự cơ_động của cặp hộ công_rooney và fellaini  man_united dần nản_lòng trước lối chơi phòng_ngự nhiều lớp  chấp_nhận đá rát để ngăn_cản đối_phương của palace 
-6,việc martial và rashford luôn bị 23 chiếc áo sọc xanhđỏ đeo_bám mỗi khi có bóng khiến thế_công của man_united gặp rất nhiều khó_khăn 
-7,chuyển sang tấn_công biên nhiều hơn nhờ sự cơ_động của valencia và rojo nhưng hiệu_quả không nhiều đối_với đội quân của hlv van_gaal 
-8,cú đệm lòng của juan_mata phút 22  hai tình_huống đánh_đầu không trúng đích của marouane_fellaini và pha đi bóng đẹp_mắt của marcus_rashford phút 33 bị delaney cản_phá là những tình_huống nguy_hiểm nhất do các cầu_thủ man_united tạo ra trong hiệp một 
-9,palace cũng có được vài cơ_hội buộc thủ_thành de_gea phải trổ_tài cứu_nguy 
-10,lối chơi rắn trên mức cần_thiết của palace đã khiến man_united mất hai vị_trí trụ_cột là marcos_rojo và marcus_rashford đầu hiệp hai  phải thay bằng matteo_darmian và ashley_young 
-11,vận rủi tiếp_tục đeo_đuổi man_united khi martial và fellaini dứt_điểm lần_lượt trúng xà_ngang và cột_dọc 
-12,mất tập_trung sau pha dàn_xếp đá phạt_góc phút 78 của palace  hàng thủ man_united bỏ lỏng jason_puncheon và tiền_vệ vừa vào sân thay người ít phút này đã không bỏ lỡ cơ_hội phá_lưới de_gea  mở tỉ_số trận đấu 
-13,bàn thua không khiến các cầu_thủ man_united nao_núng và nỗ_lực không mệt_mỏi giúp họ nhanh_chóng có được bàn gỡ hòa 
-14,wayne rooney đi bóng gần hết chiều ngang  qua hàng_loạt hậu_vệ đối_phương trước khi trả bóng vào trung_lộ bằng đường chuyền bổng 
-15,fellaini hứng bóng gọn_ghẽ bằng ngực  như một đường chuyền không_thể tốt hơn cho mata dứt_điểm cận thành phút 81 
-16,hòa 11 sau hai hiệp chính  đôi bên phải bước vào hai hiệp phụ và cuối hiệp phụ thứ nhất  chris_smalling nhận thẻ_vàng thứ nhì với pha cản_phá vô_cùng ấu_trĩ đối_với yannick_bolasie  rời sân trong cay_đắng 
-17,thiếu người  ở hiệp phụ thứ nhì  man_united chủ_động lùi sâu tìm cơ_hội phản_công 
-18,phút 110  valencia đi bóng bên cánh phải và cú treo bóng sâu vào trung_lộ của anh bị một hậu_vệ palace phá ra 
-19,chớp thời_cơ  jesse_lingard tung chân dứt_điểm ngay  bóng găm vào góc cao khung_thành thủ_môn wayne_hennessey  ấn_định chiến_thắng chung_cuộc 21 nghẹt_thở cho man_united 
+0,tiền_vệ trẻ jesse_lingard ghi_bàn thắng quyết_định hết_sức ngoạn_mục ở phút 110 cổ_động_viên man_united chờ đến tiếng còi dứt trận vang mới dám tin đội nhà chiến_thắng
+1,đối_mặt quá bất_lợi trong trận đấu nghỉ ít ngày hơn crystal_palace chân sút thay nhau kết_thúc bóng trúng xà_ngang hoặc cột_dọc mất 2 vị_trí trụ_cột chấn_thương dẫn bàn thi_đấu 15 phút cuối hiệp phụ trong cảnh thiệt quân thẻ phạt người lạc_quan nhất dám nghĩ vận may sau_cùng mỉm cười “ quỷ đỏ ”
+2,chính tinh_thần chiến_đấu quả_cảm chiến_binh đích_thực giúp cầu_thủ man_united đứng vững sân suốt 120 phút chịu_đựng màn tra_tấn thể_lực pha chiến vô_cùng nguy_hiểm phía crystal_palace tung đòn quyết_định đánh_bại đối_thủ
+3,lần gặp nhau thứ 21 trong gần ba thập_kỷ trận đấu hay nhất palace_man_united bất_kể họ tiếp_tục thắng nổi đối_thủ ở 19/20 dịp chạm_trán
+4,đánh_giá cao hơn man_united giờ_đây mới thực_sự hiểu rõ con_số thống_kê luôn mang ý_nghĩa tham_khảo
+5,kiểm_soát bóng tốt hơn trong phút đầu trận nhờ cơ_động cặp hộ công_rooney fellaini man_united dần nản_lòng lối chơi phòng_ngự lớp chấp_nhận đá rát ngăn_cản đối_phương palace
+6,martial rashford luôn 23 áo sọc xanhđỏ đeo_bám bóng khiến thế_công man_united gặp khó_khăn
+7,chuyển sang tấn_công biên hơn nhờ cơ_động valencia rojo hiệu_quả đối_với đội quân hlv van_gaal
+8,cú đệm lòng juan_mata phút 22 hai tình_huống đánh_đầu trúng đích marouane_fellaini pha đi bóng đẹp_mắt marcus_rashford phút 33 delaney cản_phá tình_huống nguy_hiểm nhất cầu_thủ man_united tạo trong hiệp một
+9,palace vài cơ_hội buộc thủ_thành de_gea trổ_tài cứu_nguy
+10,lối chơi rắn mức cần_thiết palace khiến man_united mất hai vị_trí trụ_cột marcos_rojo marcus_rashford đầu hiệp hai thay bằng matteo_darmian ashley_young
+11,vận rủi tiếp_tục đeo_đuổi man_united martial fellaini dứt_điểm lần_lượt trúng xà_ngang cột_dọc
+12,mất tập_trung pha dàn_xếp đá phạt_góc phút 78 palace hàng thủ man_united bỏ lỏng jason_puncheon tiền_vệ sân thay người ít phút bỏ lỡ cơ_hội phá_lưới de_gea mở tỉ_số trận đấu
+13,bàn thua khiến cầu_thủ man_united nao_núng nỗ_lực mệt_mỏi giúp họ nhanh_chóng bàn gỡ hòa
+14,wayne rooney đi bóng gần hết chiều ngang hàng_loạt hậu_vệ đối_phương trả bóng trung_lộ bằng đường chuyền bổng
+15,fellaini hứng bóng gọn_ghẽ bằng ngực một đường chuyền không_thể tốt hơn mata dứt_điểm cận thành phút 81
+16,hòa 11 hai hiệp chính đôi bên bước hai hiệp phụ cuối hiệp phụ thứ nhất chris_smalling nhận thẻ_vàng thứ nhì pha cản_phá vô_cùng ấu_trĩ đối_với yannick_bolasie rời sân trong cay_đắng
+17,thiếu người ở hiệp phụ thứ nhì man_united chủ_động lùi sâu tìm cơ_hội phản_công
+18,phút 110 valencia đi bóng bên cánh cú treo bóng sâu trung_lộ anh một hậu_vệ palace phá
+19,chớp thời_cơ jesse_lingard tung chân dứt_điểm bóng găm góc cao khung_thành thủ_môn wayne_hennessey ấn_định chiến_thắng chung_cuộc 21 nghẹt_thở man_united

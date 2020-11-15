@@ -1,26 +1,26 @@
 idx, sentence
-0,từ một mẩu tin vô_tình trên báo  tháng 4/2013  chàng thanh_niên 28 tuổi ở cà_mau trần_nguyễn_an_khương quyết_định đến bệnh_viện đh y_dược tphcm_hiến xác và tháng 8 cùng năm  tiếp_tục đến bệnh_viện chợ_rẫy tphcm đăng_ký hiến đa tạng sau khi chết_não với hy_vọng cơ_thể mình sau khi chết đi vẫn có_thể cứu sống được ít_nhất 7 người nữa 
-1,khương cho biết khi cầm tấm thẻ đăng_ký hiến mô tạng về nhà  bố_mẹ cậu đã rất sốc nhưng sau khi được cậu thuyết_phục  bố_mẹ cậu đã đồng_ý 
-2,sau thời_điểm này  chàng thanh_niên bắt_đầu lên kế_hoạch đạp xe xuyên việt  mang theo thông_điệp nhỏ về hiến ghép mô  tạng và quyết_định đến trung_tâm điều_phối hiến ghép tạng quốc_gia tại bệnh_viện việt_đức  hà_nội với mong_muốn hiến sống một phần lá_gan và quả_thận của mình cho những bệnh_nhân kém may_mắn 
-3,thế nhưng bản_thân khương có tiền_sử bị thấp_khớp và vẹo cột_sống 
-4,bản_thân khương cũng rất nhỏ_bé  chỉ cao 15 m và nặng 37 kg 
-5,trước đó ngày 12/4  chàng trai gốc cà_mau đã rong_ruổi đạp xuất_phát từ tại cà_mau đến hà_nội vào đúng sinh_nhật bác  ngày 19/5 
-6,khương chia_sẻ  quãng hành_trình dài chàng trai vốn có_thể_trạng gầy_yếu đã sụt mất 5 kg  giờ chỉ còn vẻn_vẹn 37 kg nhưng ra tới hà_nội còn khỏe hơn cả lúc bắt_đầu hành_trình 
-7,khương kể  động_lực lớn nhất thôi_thúc khương xách xe lên và đi chính là từ tâm nguyện của người bạn thân trước khi mất 
-8,năm 2013  cậu bạn thân quê đà_nẵng làm chung khách_sạn đột_ngột phát_hiện suy thận giai_đoạn cuối và lìa xa cuộc_sống mãi_mãi chỉ 2 tháng sau đó 
-9, trong suốt thời_gian bạn bị bệnh  em thường lui_tới thăm bạn ấy 
-10,người bạn của em được bác_sĩ chỉ_định ghép thận và chỉ ghép thận mới kéo_dài được cuộc_sống cho bạn ấy nên bạn luôn hy_vọng ai đó sẽ hiến thận hoặc có phép màu nào đó có_thể giúp bạn ấy khỏi bệnh vì nhà bạn cũng rất nghèo 
-11,nhưng cuối_cùng  phép màu đã không đến với bạn ấy   khương xúc_động kể 
-12,những ngày vào viện thăm bạn khương cũng gặp rất nhiều trường_hợp suy tạng mòn_mỏi đợi người hiến nhưng đều ra đi trong vô_vọng 
-13,cũng từ đó chàng trai_trẻ suy_nghĩ về quyết_định hiến một phần cơ_thể mình 
-14,xuất_thân từ gia_đình nghèo_khó  không có xe_máy  ít ai biết để có tiền đạp xe xuyên việt  khương đã phải bươn_chải làm công_nhân nhiều tháng ròng 
-15,số tiền tích_lũy được  khương dành mua chiếc xe_đạp 23 triệu đồng  còn lại 56 triệu đồng cầm theo làm lộ_phí đi đường 
-16,bạn đồng_hành của khương  ngoài chiếc xe_đạp là một chiếc bếp cồn nhỏ để đun nước  nấu mì  2 chiếc quần dài  vài_ba cái áo_thun  lều ngủ cùng 2 pano nhỏ 2 bên với thông_điệp “ cho đi là còn mãi  cùng_chung tay vì sự sống ” 
-17,trước khi lên_đường  khương cũng đã cẩn_thận in sẵn thông_tin về hiến ghép tạng cũng như địa_chỉ chi_tiết các cơ_sở tiếp_nhận để ai hỏi thì đưa 
-18,hàng_ngày  khương dậy từ 5 h sáng để lên_đường  tối tối xin dựng lều tại cây_xăng ngủ  khi đói dừng lại nấu mì tôm  uống nước 
-19,khương cho biết mỗi ngày cậu đạp xe 100 km  khi nào đổ đèo  lên dốc em lại xuống xe dắt bộ 
-20,sau 38 ngày  chàng trai trẻ đã vượt qua hành_trình hơn 2000 km  đi qua 27 tỉnh_thành với tổng chi_phí 37 triệu đồng 
-21,khương cho biết  chiều 21/5 em sẽ tiếp_tục đạp xe trở_lại quê bạn thân tại đà_nẵng để đấu_giá từ_thiện chiếc xe_đạp em đang đi để ủng_hộ các bệnh_nhi ung_thư 
-22,xúc_động bởi câu_chuyện và hành_trình đầy ý_nghĩa của chàng trai_trẻ  pgsts_trịnh_hồng_sơn  giám_đốc trung_tâm điều_phối hiến ghép tạng quốc_gia  cho biết ông sẽ bỏ tiền_túi để làm các xét_nghiệm cho khương 
-23, hàng nghìn bệnh_nhân đang chờ_đợi được ghép tạng  có nhiều người đã không_thể đợi nhưng danh_sách lại có thêm nhiều người mới 
-24,ghép tạng có ý_nghĩa cả thế_giới biết  ai cũng nói nhưng không phải ai cũng làm được như bạn 
+0,một mẩu tin vô_tình báo tháng 4/2013 chàng thanh_niên 28 tuổi ở cà_mau trần_nguyễn_an_khương quyết_định đến bệnh_viện đh y_dược tphcm_hiến xác tháng 8 năm tiếp_tục đến bệnh_viện chợ_rẫy tphcm đăng_ký hiến đa tạng chết_não hy_vọng cơ_thể mình chết đi cứu sống ít_nhất 7 người
+1,khương biết cầm tấm thẻ đăng_ký hiến mô tạng về nhà bố_mẹ cậu sốc cậu thuyết_phục bố_mẹ cậu đồng_ý
+2,thời_điểm chàng thanh_niên bắt_đầu kế_hoạch đạp xe xuyên việt mang thông_điệp nhỏ về hiến ghép mô tạng quyết_định đến trung_tâm điều_phối hiến ghép tạng quốc_gia bệnh_viện việt_đức hà_nội mong_muốn hiến sống một phần lá_gan quả_thận mình bệnh_nhân kém may_mắn
+3,thế bản_thân khương tiền_sử thấp_khớp vẹo cột_sống
+4,bản_thân khương nhỏ_bé cao 15 m nặng 37 kg
+5,ngày 12/4 chàng trai gốc cà_mau rong_ruổi đạp xuất_phát cà_mau đến hà_nội đúng sinh_nhật bác ngày 19/5
+6,khương chia_sẻ quãng hành_trình dài chàng trai vốn có_thể_trạng gầy_yếu sụt mất 5 kg giờ còn vẻn_vẹn 37 kg tới hà_nội còn khỏe hơn bắt_đầu hành_trình
+7,khương kể động_lực lớn nhất thôi_thúc khương xách xe đi chính tâm nguyện người bạn thân mất
+8,năm 2013 cậu bạn thân quê đà_nẵng làm chung khách_sạn đột_ngột phát_hiện suy thận giai_đoạn cuối lìa xa cuộc_sống mãi_mãi 2 tháng
+9,trong suốt thời_gian bạn bệnh em thường lui_tới thăm bạn ấy
+10,người bạn em bác_sĩ chỉ_định ghép thận ghép thận mới kéo_dài cuộc_sống bạn ấy bạn luôn hy_vọng ai hiến thận hoặc phép màu nào giúp bạn ấy khỏi bệnh nhà bạn nghèo
+11,cuối_cùng phép màu đến bạn ấy khương xúc_động kể
+12,ngày viện thăm bạn khương gặp trường_hợp suy tạng mòn_mỏi đợi người hiến đi trong vô_vọng
+13,chàng trai_trẻ suy_nghĩ về quyết_định hiến một phần cơ_thể mình
+14,xuất_thân gia_đình nghèo_khó xe_máy ít ai biết tiền đạp xe xuyên việt khương bươn_chải làm công_nhân tháng ròng
+15,số tiền tích_lũy khương dành mua xe_đạp 23 triệu đồng còn 56 triệu đồng cầm làm lộ_phí đi đường
+16,bạn đồng_hành khương ngoài xe_đạp một bếp cồn nhỏ đun nước nấu mì 2 quần dài vài_ba áo_thun lều ngủ 2 pano nhỏ 2 bên thông_điệp “ đi còn mãi cùng_chung tay sống ”
+17,lên_đường khương cẩn_thận in sẵn thông_tin về hiến ghép tạng địa_chỉ chi_tiết cơ_sở tiếp_nhận ai hỏi đưa
+18,hàng_ngày khương dậy 5 h sáng lên_đường tối tối xin dựng lều cây_xăng ngủ đói dừng nấu mì tôm uống nước
+19,khương biết ngày cậu đạp xe 100 km nào đổ đèo dốc em xuống xe dắt bộ
+20,38 ngày chàng trai trẻ vượt hành_trình hơn 2000 km đi 27 tỉnh_thành tổng chi_phí 37 triệu đồng
+21,khương biết chiều 21/5 em tiếp_tục đạp xe trở_lại quê bạn thân đà_nẵng đấu_giá từ_thiện xe_đạp em đi ủng_hộ bệnh_nhi ung_thư
+22,xúc_động câu_chuyện hành_trình đầy ý_nghĩa chàng trai_trẻ pgsts_trịnh_hồng_sơn giám_đốc trung_tâm điều_phối hiến ghép tạng quốc_gia biết ông bỏ tiền_túi làm xét_nghiệm khương
+23,hàng nghìn bệnh_nhân chờ_đợi ghép tạng người không_thể đợi danh_sách thêm người mới
+24,ghép tạng ý_nghĩa thế_giới biết ai nói ai làm bạn

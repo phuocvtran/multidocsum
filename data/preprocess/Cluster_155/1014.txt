@@ -1,12 +1,12 @@
 idx, sentence
-0,tại tòa_án manhattan  pham  33 tuổi  thừa_nhận các tội_danh gồm hỗ_trợ vật_chất cho chi_nhánh alqaeda trên bán_đảo arab  aqap   nhận huấn_luyện quân_sự từ aqap và sở_hữu  sử_dụng một súng_máy để thực_hiện_hành_vi phạm tội bạo_lực 
-1,theo các công_tố_viên  pham đã liên_hệ trực_tiếp với anwar alawlaki  giáo_sĩ cực_đoan người mỹ và là kẻ tuyển_quân hàng_đầu cho aqap 
-2,tên awlaki đã hướng_dẫn pham cách sử_dụng thiết_bị nổ và kích_hoạt bom tại sân_bay heathrow ở london  nhắm mục_tiêu vào những hành_khách đến từ mỹ hoặc anh 
-3,thẩm_phán alison_nathan gọi_là âm_mưu đánh bom liều chết này là  khủng_khiếp và tàn_bạo  
-4,thẩm_phán nathan cho biết  pham bị kết_án do phạm một trong những  tội_ác nghiêm_trọng nhất  tại mỹ 
-5,sau thời_gian 40 năm thi_hành án  pham sẽ bị trục_xuất về anh  nơi tên này sinh_sống trước khi tới yemen  theo wall_street_journal 
-6,trong suốt phiên xét_xử  pham thừa_nhận đã  phạm sai_lầm nghiêm_trọng  và rất hối_lỗi nhưng  không hề có ý_định hãm_hại ai  
-7,người đàn_ông này đã gửi một lá thư cho thẩm_phán tuyên_bố phản_đối mọi hành_vi khủng_bố và tư_tưởng cực_đoan 
-8,bản_án 40 năm tù mà tòa manhattan tuyên hôm_qua nhẹ hơn so với yêu_cầu từ chính_phủ mỹ 
-9,trong khi đó luật_sư của pham  bobbi_sternheim  tranh_cãi rằng thân_chủ của cô  chưa bao_giờ có ý_định thực_hiện vụ tấn_công  
-10,trước đó  bobbi cho rằng  pham  không_thể chịu án hơn 30 năm tù  
+0,tòa_án manhattan pham 33 tuổi thừa_nhận tội_danh gồm hỗ_trợ vật_chất chi_nhánh alqaeda bán_đảo arab aqap nhận huấn_luyện quân_sự aqap sở_hữu sử_dụng một súng_máy thực_hiện_hành_vi phạm tội bạo_lực
+1,công_tố_viên pham liên_hệ trực_tiếp anwar alawlaki giáo_sĩ cực_đoan người mỹ kẻ tuyển_quân hàng_đầu aqap
+2,tên awlaki hướng_dẫn pham cách sử_dụng thiết_bị nổ kích_hoạt bom sân_bay heathrow ở london nhắm mục_tiêu hành_khách đến mỹ hoặc anh
+3,thẩm_phán alison_nathan gọi_là âm_mưu đánh bom liều chết khủng_khiếp tàn_bạo
+4,thẩm_phán nathan biết pham kết_án phạm một trong tội_ác nghiêm_trọng nhất mỹ
+5,thời_gian 40 năm thi_hành án pham trục_xuất về anh tên sinh_sống tới yemen wall_street_journal
+6,trong suốt phiên xét_xử pham thừa_nhận phạm sai_lầm nghiêm_trọng hối_lỗi hề ý_định hãm_hại ai
+7,người đàn_ông gửi một lá thư thẩm_phán tuyên_bố phản_đối mọi hành_vi khủng_bố tư_tưởng cực_đoan
+8,bản_án 40 năm tù tòa manhattan tuyên hôm_qua nhẹ hơn yêu_cầu chính_phủ mỹ
+9,trong luật_sư pham bobbi_sternheim tranh_cãi thân_chủ cô bao_giờ ý_định thực_hiện vụ tấn_công
+10,bobbi pham không_thể chịu án hơn 30 năm tù

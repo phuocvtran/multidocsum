@@ -1,8 +1,8 @@
 idx, sentence
-0,đây là con_số được quỹ_walk_free công_bố ngày 31/5 trong báo_cáo  2016 global_slavery_index  
-1,nhiều nhà_quan_sát cho rằng số nạn_nhân thực_sự của nạn nô_lệ rất khó xác_định 
-2,nguyên_nhân của con_số tăng vọt 28   so với cách đây hai năm  có_thể là do việc cải_thiện các phương_pháp thu_thập thông_tin 
-3,theo liên_hiệp_quốc  các hình_thức nô_lệ hiện_đại như buôn_người  cưỡng_bức bán_dâm  cưỡng_bức lao_động  bắt trẻ_em cầm súng  sử_dụng trẻ_em trong các đường_dây buôn ma_túy … có xu_hướng phát_triển 
-4,tình_trạng này phần_lớn là do nạn nghèo_đói  nạn kỳ_thị và cô_lập xã_hội 
-5,hiện có tổng_cộng 124 quốc_gia đã coi việc buôn_người là tội hình_sự theo quy_định của liên_hiệp_quốc 
-6,96 nước đã có các chương_trình hành_động phối_hợp của chính_phủ để đối_phó với vấn_nạn này 
+0,con_số quỹ_walk_free công_bố ngày 31/5 trong báo_cáo 2016 global_slavery_index
+1,nhà_quan_sát số nạn_nhân thực_sự nạn nô_lệ khó xác_định
+2,nguyên_nhân con_số tăng vọt 28 cách hai năm cải_thiện phương_pháp thu_thập thông_tin
+3,liên_hiệp_quốc hình_thức nô_lệ hiện_đại buôn_người cưỡng_bức bán_dâm cưỡng_bức lao_động bắt trẻ_em cầm súng sử_dụng trẻ_em trong đường_dây buôn ma_túy … xu_hướng phát_triển
+4,tình_trạng phần_lớn nạn nghèo_đói nạn kỳ_thị cô_lập xã_hội
+5,hiện tổng_cộng 124 quốc_gia coi buôn_người tội hình_sự quy_định liên_hiệp_quốc
+6,96 nước chương_trình hành_động phối_hợp chính_phủ đối_phó vấn_nạn

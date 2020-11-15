@@ -1,20 +1,20 @@
 idx, sentence
-0,chiều 31/5  lãnh_đạo ubnd tphcm cùng một_số sở  ngành đã lắng_nghe một doanh_nghiệp trình_bày đề_án giải_pháp chống ngập cấp_bách nhằm đảm_bảo sự phát_triển bền_vững cho thành_phố giai_đoạn 2025 – 2050 
-1,theo các chuyên_gia chống ngập  các giải_pháp như xây đê  kè  bờ bao  nâng cao nền  làm nhà nổi  lâu_nay thường dùng hiện được xem “ giải_pháp cứng ” 
-2,các giải_pháp này về lâu_dài sẽ có ảnh_hưởng nhất_định đến hệ_sinh_thái  cảnh_quan  môi_trường và ảnh_hưởng ngược đến cuộc_sống của người dân  trong khi đó  hiện_nay có những “ giải_pháp mềm ” như tạo vùng ngập_mặn để giảm sóng biển  làm công_viên bờ biển để chắn sóng  thay_vì xây kè   đổ đất_bồi cho bờ biển  tạo ụ nổi ụ chìm làm tan năng_lượng sóng  theo đề_án  “ giải_pháp mềm ” cho tphcm là tìm cách hạ bớt đỉnh triều bất_thường trên hệ_thống sông sài_gòn – đồng_nai – vàm cỏ để chống ngập cho thành_phố và quy_hoạch khả_năng bền_vững nhằm giữ mức triều cao bình_thường trên hệ_thống sông này 
-3,dự_kiến  kinh_phí triển_khai thực_hiện giải_pháp này khoảng 20000 tỷ đồng 
-4,cụ_thể  giải_pháp chống ngập của đề_án là kiểm_soát triều ở khu_vực bờ tả sông nhà_bè – soài_rạp 
-5,khu_vực này sẽ được xây_dựng mô_hình “ kè hở áp_lực cột nước thấp ” trên nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp  lòng_tàu và đồng_tranh 
-6,giảm mức đỉnh triều trên sông đồng_nai và vàm_cỏ bằng biện_pháp phi_công_trình là xây_dựng hồ đa_nhiệm – điều_tiết tại huyện cần_giờ nhằm giữ mức triều_cường cao bình_thường trên các hệ_thống sông 
-7,đánh_giá về đề_án  phó giám_đốc sở tài_nguyên môi_trường nguyễn_thị_thanh_mỹ đề_nghị cần làm rõ tính khả_thi so với quy_hoạch chống ngập_úng của thành_phố vì khi làm dự_án phải di_dời nhiều công_trình 
-8,đồng_thời  xem_xét việc xây hồ vì sẽ ảnh_hưởng đến hệ_sinh_thái của rừng_phòng_hộ 
-9,còn tiến_sĩ phạm_sanh cho rằng  đề_án chỉ dừng lại ở đề_tài nghiên_cứu khoa_học chứ không phải là chương_trình chống ngập 
-10,“ từ một đề_tài khoa_học qua một ứng_dụng cụ_thể thì phải đánh_giá kỹ 
-11,dự_án chống ngập của thành_phố đã làm 20 năm nay tốn biết_bao tiền của  chất_xám nên phải hết_sức kỹ_lưỡng khi đề_cập đến ý_tưởng này ”  ông sanh nói 
-12,cũng theo ts phạm_sanh  thực_chất đây là ý_tưởng hay về giảm cao_độ triều 
-13,hiện_tại  đây chỉ mới là mô_hình thí_nghiệm nên cần phải nghiên_cứu cụ_thể và tính_toán kỹ hơn 
-14,đây có_thể là dự_án khoa_học hoặc có_thể triển_khai một dự_án nhỏ chứ không_thể “ tuyên_bố ” là giảm ngập cho thành_phố 
-15,giải_quyết chống ngập cho thành_phố là bài_toán tổng_hợp  hết_sức phức_tạp chứ không đơn_giản 
-16,kết_thúc buổi làm_việc  chủ_tịch ubnd tp nguyễn_thành_phong cho biết  người dân thành_phố đang rất quan_tâm đến vấn_đề chống ngập nước và phản_ánh rất nhiều qua các cuộc tiếp_xúc cử_tri 
-17,hiện_nay  thành_phố đang triển_khai các giải_pháp thực_hiện hiệu_quả chương_trình chống ngập  đồng_thời lắng_nghe nhiều “ hiến_kế ” từ người dân  đơn_vị  nhà_khoa_học … theo ông phong  thành_phố ngập do mưa  triều  nước_biển dâng  lũ thượng_nguồn và cũng không loại_trừ tình_trạng lún và có cả việc quản_lý yếu_kém 
-18,cho_nên khi tiến_hành các giải_pháp chống ngập thì phải đồng_bộ và có tính liên_kết 
+0,chiều 31/5 lãnh_đạo ubnd tphcm một_số sở ngành lắng_nghe một doanh_nghiệp trình_bày đề_án giải_pháp chống ngập cấp_bách nhằm đảm_bảo phát_triển bền_vững thành_phố giai_đoạn 2025 – 2050
+1,chuyên_gia chống ngập giải_pháp xây đê kè bờ bao nâng cao nền làm nhà nổi lâu_nay thường dùng hiện xem “ giải_pháp cứng ”
+2,giải_pháp về lâu_dài ảnh_hưởng nhất_định đến hệ_sinh_thái cảnh_quan môi_trường ảnh_hưởng ngược đến cuộc_sống người dân trong hiện_nay “ giải_pháp mềm ” tạo vùng ngập_mặn giảm sóng biển làm công_viên bờ biển chắn sóng thay_vì xây kè đổ đất_bồi bờ biển tạo ụ nổi ụ chìm làm tan năng_lượng sóng đề_án “ giải_pháp mềm ” tphcm tìm cách hạ bớt đỉnh triều bất_thường hệ_thống sông sài_gòn – đồng_nai – vàm cỏ chống ngập thành_phố quy_hoạch khả_năng bền_vững nhằm giữ mức triều cao bình_thường hệ_thống sông
+3,dự_kiến kinh_phí triển_khai thực_hiện giải_pháp khoảng 20000 tỷ đồng
+4,cụ_thể giải_pháp chống ngập đề_án kiểm_soát triều ở khu_vực bờ tả sông nhà_bè – soài_rạp
+5,khu_vực xây_dựng mô_hình “ kè hở áp_lực cột nước thấp ” nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp lòng_tàu đồng_tranh
+6,giảm mức đỉnh triều sông đồng_nai vàm_cỏ bằng biện_pháp phi_công_trình xây_dựng hồ đa_nhiệm – điều_tiết huyện cần_giờ nhằm giữ mức triều_cường cao bình_thường hệ_thống sông
+7,đánh_giá về đề_án phó giám_đốc sở tài_nguyên môi_trường nguyễn_thị_thanh_mỹ đề_nghị làm rõ tính khả_thi quy_hoạch chống ngập_úng thành_phố làm dự_án di_dời công_trình
+8,đồng_thời xem_xét xây hồ ảnh_hưởng đến hệ_sinh_thái rừng_phòng_hộ
+9,còn tiến_sĩ phạm_sanh đề_án dừng ở đề_tài nghiên_cứu khoa_học chương_trình chống ngập
+10,“ một đề_tài khoa_học một ứng_dụng cụ_thể đánh_giá kỹ
+11,dự_án chống ngập thành_phố làm 20 năm nay tốn biết_bao tiền chất_xám hết_sức kỹ_lưỡng đề_cập đến ý_tưởng ” ông sanh nói
+12,ts phạm_sanh thực_chất ý_tưởng hay về giảm cao_độ triều
+13,hiện_tại mới mô_hình thí_nghiệm nghiên_cứu cụ_thể tính_toán kỹ hơn
+14,dự_án khoa_học hoặc triển_khai một dự_án nhỏ không_thể “ tuyên_bố ” giảm ngập thành_phố
+15,giải_quyết chống ngập thành_phố bài_toán tổng_hợp hết_sức phức_tạp đơn_giản
+16,kết_thúc buổi làm_việc chủ_tịch ubnd tp nguyễn_thành_phong biết người dân thành_phố quan_tâm đến vấn_đề chống ngập nước phản_ánh cuộc tiếp_xúc cử_tri
+17,hiện_nay thành_phố triển_khai giải_pháp thực_hiện hiệu_quả chương_trình chống ngập đồng_thời lắng_nghe “ hiến_kế ” người dân đơn_vị nhà_khoa_học … ông phong thành_phố ngập mưa triều nước_biển dâng lũ thượng_nguồn loại_trừ tình_trạng lún quản_lý yếu_kém
+18,cho_nên tiến_hành giải_pháp chống ngập đồng_bộ tính liên_kết

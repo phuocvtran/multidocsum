@@ -1,18 +1,18 @@
 idx, sentence
-0,đây là trường_hợp thứ 2 dưới thời hlv nguyễn_hữu_thắng  một cầu_thủ bị loại khỏi đội_tuyển quốc_gia vì mắc_lỗi ở vleague 
-1,trường_hợp đầu_tiên là tiền_đạo_văn_quyết  hà_nội tt  
-2,văn_quyết từng có tên trong danh_sách tập_trung đội_tuyển việt_nam chuẩn_bị cho vòng loại world_cup 2018 hồi tháng 3 vừa_qua 
-3,tuy_nhiên  ở lượt thứ 4 vleague giữa hà_nội tt  sanna_khánh_hoà  diễn ra ngay trước thời_điểm tuyển việt_nam hội quân  văn_quyết bị xác_định có hành_vi xô ngã trọng_tài hoàng phạm_công_khanh 
-4,đánh_giá đây là lỗi nghiêm_trọng  ban kỷ_luật lđbđvn  vff  đã phạt tiền_đạo clb hà_nội tt 5 trận “ treo_giò ” 
-5,án phạt trên còn khiến tiền_đạo này bị vff loại khỏi danh_sách tập_trung cùng đội_tuyển việt_nam 
-6,dù rất muốn giữ văn_quyết  hlv nguyễn_hữu_thắng rốt_cuộc vẫn phải chấp_nhận để tiền_đạo này ngoài kế_hoạch 
-7,chuyện tương_tự xảy ra với trung_vệ đình_luật 
-8,ở trận đấu của bbình_dương với qnk quảng_nam hôm 18/5 vừa_qua  đình_luật đã có pha trả_đũa bị đánh_giá là khá thô_bạo với felix 
-9,trong một pha tranh_chấp bóng ở phút 85 trận đấu này  felix đã vào từ phía sau với đình_luật 
-10,cựu trung_vệ hải_phòng tỏ ra không vừa  khi vừa nhảy lên tránh đòn  vừa tranh_thủ khi hạ xuống đã đạp thẳng vào chân đối_phương 
-11,pha trả đòn trên của đình_luật bị ban kỷ_luật vff phạt 15 triệu đồng  cấm thi_đấu 3 trận kế_tiếp ở vleague
-12,theo tìm_hiểu  ngay sau đó vff đã làm_việc với hlv nguyễn_hữu_thắng về trường_hợp của đình_luật 
-13,một quan_chức cấp cao vff hôm_nay cho hay  đôi bên cùng nhất_trí phải xây_dựng hình_ảnh đẹp cho đội_tuyển việt_nam 
-14,về chuyên_môn  các trận đấu sắp tới của đội_tuyển việt_nam chỉ mang tính_chất giao_hữu  tạo cơ_hội cho cầu_thủ trẻ cọ_xát  đồng_thời giúp phát_hiện thêm nhân_tố mới 
-15,“ pha bóng của đình_luật không quá mức thô_bạo 
-16,về chuyên_môn  cậu ấy cũng không cần phải thẩm_định thêm vì năng_lực đã được khẳng_định  nhưng với các lý_do trên  chúng_tôi đã thống_nhất với hlv hữu_thắng  là nên tạo cơ_hội cho cầu_thủ trẻ khác ”  quan_chức vff nêu trên đã cho hay 
+0,trường_hợp thứ 2 thời hlv nguyễn_hữu_thắng một cầu_thủ loại khỏi đội_tuyển quốc_gia mắc_lỗi ở vleague
+1,trường_hợp đầu_tiên tiền_đạo_văn_quyết hà_nội tt
+2,văn_quyết tên trong danh_sách tập_trung đội_tuyển việt_nam chuẩn_bị vòng loại world_cup 2018 hồi tháng 3 vừa_qua
+3,tuy_nhiên ở lượt thứ 4 vleague giữa hà_nội tt sanna_khánh_hoà diễn thời_điểm tuyển việt_nam hội quân văn_quyết xác_định hành_vi xô ngã trọng_tài hoàng phạm_công_khanh
+4,đánh_giá lỗi nghiêm_trọng ban kỷ_luật lđbđvn vff phạt tiền_đạo clb hà_nội tt 5 trận “ treo_giò ”
+5,án phạt còn khiến tiền_đạo vff loại khỏi danh_sách tập_trung đội_tuyển việt_nam
+6,dù muốn giữ văn_quyết hlv nguyễn_hữu_thắng rốt_cuộc chấp_nhận tiền_đạo ngoài kế_hoạch
+7,tương_tự xảy trung_vệ đình_luật
+8,ở trận đấu bbình_dương qnk quảng_nam hôm 18/5 vừa_qua đình_luật pha trả_đũa đánh_giá khá thô_bạo felix
+9,trong một pha tranh_chấp bóng ở phút 85 trận đấu felix phía đình_luật
+10,cựu trung_vệ hải_phòng tỏ nhảy tránh đòn tranh_thủ hạ xuống đạp thẳng chân đối_phương
+11,pha trả đòn đình_luật ban kỷ_luật vff phạt 15 triệu đồng cấm thi_đấu 3 trận kế_tiếp ở vleague
+12,tìm_hiểu vff làm_việc hlv nguyễn_hữu_thắng về trường_hợp đình_luật
+13,một quan_chức cấp cao vff hôm_nay hay đôi bên nhất_trí xây_dựng hình_ảnh đẹp đội_tuyển việt_nam
+14,về chuyên_môn trận đấu sắp tới đội_tuyển việt_nam mang tính_chất giao_hữu tạo cơ_hội cầu_thủ trẻ cọ_xát đồng_thời giúp phát_hiện thêm nhân_tố mới
+15,“ pha bóng đình_luật quá mức thô_bạo
+16,về chuyên_môn cậu ấy thẩm_định thêm năng_lực khẳng_định lý_do chúng_tôi thống_nhất hlv hữu_thắng tạo cơ_hội cầu_thủ trẻ khác ” quan_chức vff nêu hay

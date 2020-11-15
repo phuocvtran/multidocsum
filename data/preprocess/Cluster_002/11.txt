@@ -1,9 +1,9 @@
 idx, sentence
-0,trả_lời phỏng_vấn  bà hillary tuyên_bố  “ tôi sẽ là ứng_viên tổng_thống đại_diện cho đảng tôi 
-1,điều đó đã ngã_ngũ rồi  không có gì thay_đổi được ” 
-2,khẳng_định của bà hillary được đưa ra khi bà nắm ưu_thế vượt_trội về số phiếu ủng_hộ so với đối_với đối_thủ của bà là ông bernie_sanders  thượng_nghị sỹ đang vermont 
-3,theo abc_news  bà hillary hiện có 2293 phiếu đại_biểu  vượt xa con_số 1528 phiếu của ông sanders 
-4,để trở_thành ứng_viên đại_diện cho đảng dân_chủ tranh chức tổng_thống  bà clinton cần 2383 số phiếu cần_thiết 
-5,dù_vậy  ông sanders vẫn tuyên_bố sẽ quyết_tâm theo_đuổi đến cùng trong cuộc 
-6,khi được hỏi về ứng_viên tổng_thống đảng_cộng_hoà  tỷ_phú donald_trump  bà cho rằng ông trump là người “ phát_ngôn nguy_hiểm ” 
-7,bà nhắc lại hàng_loạt phát_ngôn gây sốc của ông trump như khẩu_chiến với các chính_trị_gia anh  sẵn_sàng nói_chuyện với nhà lãnh_đạo triều_tiên kim_jong_un  kêu_gọi mỹ rút khỏi nato và cho rằng nhiều quốc_gia nên sở_hữu vũ_khí hạt_nhân 
+0,trả_lời phỏng_vấn bà hillary tuyên_bố “ tôi ứng_viên tổng_thống đại_diện đảng tôi
+1,ngã_ngũ thay_đổi ”
+2,khẳng_định bà hillary đưa bà nắm ưu_thế vượt_trội về số phiếu ủng_hộ đối_với đối_thủ bà ông bernie_sanders thượng_nghị sỹ vermont
+3,abc_news bà hillary hiện 2293 phiếu đại_biểu vượt xa con_số 1528 phiếu ông sanders
+4,trở_thành ứng_viên đại_diện đảng dân_chủ tranh chức tổng_thống bà clinton 2383 số phiếu cần_thiết
+5,dù_vậy ông sanders tuyên_bố quyết_tâm theo_đuổi đến trong cuộc
+6,hỏi về ứng_viên tổng_thống đảng_cộng_hoà tỷ_phú donald_trump bà ông trump người “ phát_ngôn nguy_hiểm ”
+7,bà nhắc hàng_loạt phát_ngôn gây sốc ông trump khẩu_chiến chính_trị_gia anh sẵn_sàng nói_chuyện nhà lãnh_đạo triều_tiên kim_jong_un kêu_gọi mỹ rút khỏi nato quốc_gia sở_hữu vũ_khí hạt_nhân

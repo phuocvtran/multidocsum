@@ -1,22 +1,22 @@
 idx, sentence
-0,afp cho biết 7 vụ nổ xảy ra gần như đồng_thời nhắm vào các mục_tiêu là trạm xe_buýt  bệnh_viện và các khu_vực có nhiều thường_dân tại các thành_phố ven biển là jableh và tartus 
-1,đây là các thành_phố tương_đối_cách_ly khỏi cuộc nội_chiến kéo_dài suốt 5 năm qua tại syria 
-2,các cuộc tấn_công bắt_đầu bằng 3 vụ nổ tại một trạm xe_buýt đông_đúc ở tartus nơi có một cơ_sở hải_quân của nga 
-3,đài quan_sát_nhân_quyền syria cho biết chiếc bom xe phát_nổ đầu_tiên 
-4,khi mọi người bắt_đầu đến hiện_trường vụ đánh bom này thì hai kẻ đánh bom tự_sát đã kích_hoạt đai bom 
-5,đài cũng cho biết có 4 vụ nổ khác  một quả bom xe và 3 kẻ đánh bom liều chết  nhằm vào một trạm xe_buýt  một bệnh_viện và một trạm phát_điện 
-6, tôi bị sốc 
-7,đây là lần đầu_tiên tôi nghe thấy âm_thanh như_thế 
-8,tôi nghĩ rằng cuộc_chiến đã qua và tôi có_thể đi bộ an_toàn 
-9,tôi sốc khi thấy rằng chúng_tôi vẫn đang ở trung_tâm của cuộc_chiến   sinh_viên mohsen_zayyoud tại jableh chia_sẻ 
-10, đây là lần đầu_tiên chúng_tôi nghe thấy tiếng nổ tại tartus và là lần đầu_tiên chúng_tôi thấy người chết hoặc các thi_thể ở đây   nhân_viên ngân_hàng shady_osman sống tại tartus kể lại 
-11,các cuộc tấn_công đẫm máu nhắm vào thành_lũy của chế_độ tổng_thống bashar alassad xảy ra trong bối_cảnh is đang đối_mặt với sức_ép ở cả iraq và syria 
-12,đài quan_sát_nhân_quyền syria cho biết có 100 người thiệt_mạng trong các vụ tấn_công tại thành_phố jableh trong khi các vụ tấn_công tại tartus khiến 48 người khác chết  bao_gồm ít nhất 8 trẻ_em 
-13,người đứng đầu đài_quan_sát_nhân_quyền syria_rami_abdel_rahman nói rằng họ  không nghi_ngờ gì rằng các cuộc tấn_công này là những vụ đẫm máu nhất  tại hai thành_phố trên kể từ khi chiến_tranh nổ ra ở syria 
-14,is đã lên tiếng nhận trách_nhiệm thông_qua hãng thông_tấn amaq của tổ_chức khủng_bố này  tuyên_bố rằng các tay súng chiến_đấu của tổ_chức đã tấn_công  những nơi tập_trung alawite  tại jableh và tartus 
-15,alawite là một giáo_phái thiểu_số gồm những con_người ca_ngợi tổng_thống assad 
-16,trước_nay is không hiện_diện nhiều tại các tỉnh ven biển syria do khu_vực này là nơi các chiến_binh thuộc chi_nhánh địa_phương alnusra_front của alqaeda hoạt_động nổi_bật hơn 
-17,tuy_nhiên is đang đề_nghị thành_lập một  wilayat alsahel  hay còn gọi_là một tỉnh hồi_giáo cho khu_vực ven biển syria mà trước giờ tổ_chức này ít đụng đến 
-18,tổng_thư_ký lhq ban ki_moon lên_án  các cuộc tấn_công khủng_bố  
-19,tổ_chức giám_sát_nhân_quyền cũng lên_án các vụ đánh bom  cáo_buộc is nhắm vào thường_dân 
-20,nga lên_án cuộc tấn_công  nói rằng các vụ khủng_bố này  một lần nữa đã chứng_minh tình_trạng mong_manh của syria và sự cần_thiết phải có một biện_pháp mạnh để tái khởi_động lại cuộc đàm_phán hòa_bình  
+0,afp biết 7 vụ nổ xảy gần đồng_thời nhắm mục_tiêu trạm xe_buýt bệnh_viện khu_vực thường_dân thành_phố ven biển jableh tartus
+1,thành_phố tương_đối_cách_ly khỏi cuộc nội_chiến kéo_dài suốt 5 năm syria
+2,cuộc tấn_công bắt_đầu bằng 3 vụ nổ một trạm xe_buýt đông_đúc ở tartus một cơ_sở hải_quân nga
+3,đài quan_sát_nhân_quyền syria biết bom xe phát_nổ đầu_tiên
+4,mọi người bắt_đầu đến hiện_trường vụ đánh bom hai kẻ đánh bom tự_sát kích_hoạt đai bom
+5,đài biết 4 vụ nổ khác một quả bom xe 3 kẻ đánh bom liều chết nhằm một trạm xe_buýt một bệnh_viện một trạm phát_điện
+6,tôi sốc
+7,lần đầu_tiên tôi nghe thấy âm_thanh như_thế
+8,tôi nghĩ cuộc_chiến tôi đi bộ an_toàn
+9,tôi sốc thấy chúng_tôi ở trung_tâm cuộc_chiến sinh_viên mohsen_zayyoud jableh chia_sẻ
+10,lần đầu_tiên chúng_tôi nghe thấy tiếng nổ tartus lần đầu_tiên chúng_tôi thấy người chết hoặc thi_thể ở nhân_viên ngân_hàng shady_osman sống tartus kể
+11,cuộc tấn_công đẫm máu nhắm thành_lũy chế_độ tổng_thống bashar alassad xảy trong bối_cảnh is đối_mặt sức_ép ở iraq syria
+12,đài quan_sát_nhân_quyền syria biết 100 người thiệt_mạng trong vụ tấn_công thành_phố jableh trong vụ tấn_công tartus khiến 48 người khác chết bao_gồm ít nhất 8 trẻ_em
+13,người đứng đầu đài_quan_sát_nhân_quyền syria_rami_abdel_rahman nói họ nghi_ngờ cuộc tấn_công vụ đẫm máu nhất hai thành_phố kể chiến_tranh nổ ở syria
+14,is tiếng nhận trách_nhiệm thông_qua hãng thông_tấn amaq tổ_chức khủng_bố tuyên_bố tay súng chiến_đấu tổ_chức tấn_công tập_trung alawite jableh tartus
+15,alawite một giáo_phái thiểu_số gồm con_người ca_ngợi tổng_thống assad
+16,trước_nay is hiện_diện tỉnh ven biển syria khu_vực chiến_binh thuộc chi_nhánh địa_phương alnusra_front alqaeda hoạt_động nổi_bật hơn
+17,tuy_nhiên is đề_nghị thành_lập một wilayat alsahel hay còn gọi_là một tỉnh hồi_giáo khu_vực ven biển syria giờ tổ_chức ít đụng đến
+18,tổng_thư_ký lhq ban ki_moon lên_án cuộc tấn_công khủng_bố
+19,tổ_chức giám_sát_nhân_quyền lên_án vụ đánh bom cáo_buộc is nhắm thường_dân
+20,nga lên_án cuộc tấn_công nói vụ khủng_bố một lần chứng_minh tình_trạng mong_manh syria cần_thiết một biện_pháp mạnh tái khởi_động cuộc đàm_phán hòa_bình

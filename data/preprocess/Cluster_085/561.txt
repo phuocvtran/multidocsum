@@ -1,7 +1,7 @@
 idx, sentence
-0,thông_tin ban_đầu  vào khoảng 2 h ngày 20/5  khi anh thái thiện_nhân  25 tuổi  đang trông_coi cơ_sở thiện_thanh_spa  địa_chỉ_số 44  đường nguyễn_trãi  thì bất_ngờ có hơn chục người đi xe_máy  tay cầm hung_khí tiến về phía anh đang ngồi 
-1,khi thấy các đối_tượng nói trên  anh nhân đã nhanh_chóng bỏ chạy nhưng sau đó đã bị các đối_tượng đuổi kịp  chém nhiều nhát vào đầu và tay_trái  khiến nạn_nhân gục tại_chỗ 
-2,ngay sau khi các đối_tượng rời khỏi hiện_trường  người_nhà đã đưa anh nhân đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch 
-3,các y  bác_sĩ cho biết  nạn_nhân bị_thương nhiều nhát vào đầu và tay_trái  phải khâu gần 30 mũi 
-4,bà thái thiện_thanh  chủ cơ_sở thiện_thanh_spa  thông_tin  trước khi xảy ra vụ_việc  bà có nhận được tin nhắn của một người trên facebook với nội_dụng “ gặp đâu chém đó  không nói nhiều ” 
-5,ngoài_ra  thời_gian gần đây  cơ_sở của bà thanh còn liên_tục bị “ khủng_bố ” bằng nước_sơn  gạch đá và trứng vịt thối … sau khi xảy ra những vụ_việc nói trên  biết có chuyện chẳng lành nên bà thanh có đến trình_báo cơ_quan công_an nhờ bảo_vệ  nhưng vẫn không tránh khỏi 
+0,thông_tin ban_đầu khoảng 2 h ngày 20/5 anh thái thiện_nhân 25 tuổi trông_coi cơ_sở thiện_thanh_spa địa_chỉ_số 44 đường nguyễn_trãi bất_ngờ hơn chục người đi xe_máy tay cầm hung_khí tiến về phía anh ngồi
+1,thấy đối_tượng nói anh nhân nhanh_chóng bỏ chạy đối_tượng đuổi kịp chém nhát đầu tay_trái khiến nạn_nhân gục tại_chỗ
+2,đối_tượng rời khỏi hiện_trường người_nhà đưa anh nhân đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch
+3,y bác_sĩ biết nạn_nhân bị_thương nhát đầu tay_trái khâu gần 30 mũi
+4,bà thái thiện_thanh chủ cơ_sở thiện_thanh_spa thông_tin xảy vụ_việc bà nhận tin nhắn một người facebook nội_dụng “ gặp đâu chém nói ”
+5,ngoài_ra thời_gian gần cơ_sở bà thanh còn liên_tục “ khủng_bố ” bằng nước_sơn gạch đá trứng vịt thối … xảy vụ_việc nói biết chẳng lành bà thanh đến trình_báo cơ_quan công_an nhờ bảo_vệ tránh khỏi

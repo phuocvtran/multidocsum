@@ -1,11 +1,11 @@
 idx, sentence
-0,chỉ vì va_chạm nhỏ trước cổng bộ  ông đỗ trường_duy  cán_bộ văn_phòng bộ y_tế đã có hành_vi thóa_mạ người dân  khiến nhiều người xung_quanh bất_bình 
-1,ngày 1/6  trước cổng bộ y_tế xảy ra vụ va_chạm trong giao_thông  một cán_bộ được cho là đang công_tác tại bộ y_tế  với vẻ mặt đỏ_gay đã có hành_vi thiếu văn_hóa khi chỉ thẳng_tay vào người phụ_nữ đối_diện 
-2,liên_quan đến vụ_việc  ông nguyễn_xuân_trường  chánh_văn_phòng bộ y_tế đã ký thông_báo kỷ_luật cán_bộ  công_chức đối_với ông đỗ trường_duy  cán_bộ văn_phòng bộ y_tế 
-3,theo thông_tin từ thông_báo  ông đỗ trường duy giữ chức phó chánh_văn_phòng bộ y_tế bị khiển_trách 
-4, sau khi nghe ông đỗ trường duy tường_trình sự_việc  hội_đồng kỷ_luật của văn_phòng bộ đã phân_tích và nhận thấy  đây là một việc xảy ra ngoài cơ_quan và là va_chạm cá_nhân nhưng do thiếu kiềm_chế đã xảy ra xử_sự không đúng_mức  không thể_hiện văn_minh lịch_sự của người cán_bộ công_chức  như thông_tin mạng đã đưa    ông trường cho hay 
-5,theo văn_phòng bộ y_tế  sau khi sự_việc xảy ra  bản_thân ông duy cũng đã nhận ra lỗi_lầm và đã xin_lỗi với gia_đình ngay tối 31/5 
-6,tuy_nhiên  để giữ kỷ_luật cơ_quan và cũng là một bài_học kinh_nghiệm nhắc_nhở đối_với cá_nhân ông duy nói_riêng và toàn_thể cán_bộ công_chức văn_phòng bộ nói_chung phải luôn tu_dưỡng rèn_luyện bản_thân mọi lúc mọi nơi  chánh_văn_phòng bộ y_tế thông_báo  hội_đồng kỷ_luật văn_phòng bộ quyết_định khiển_trách ông đỗ trường duy và thông_báo toàn cơ_quan_văn_phòng bộ về những sai_phạm đã mắc phải 
-7,trước đó  tài_khoản facebook có tên bnt chia_sẻ  “ 15 h chiều 31/5  tại cổng bộ y_tế  138b giảng_võ  3 anh tự_xưng là nhân_viên bộ y_tế gây tai_nạn đâm vào xe của mình nói luyên_thuyên vài câu  mồm nồng_nặc mùi rượu … rồi bỏ chạy vào bộ 
-8,anh lái_xe thì lái_xe bỏ đi luôn  may mình chặn đầu kịp  sau đấy vứt giữa đường rồi bỏ chạy ” 
-9,“ 30 phút sau anh áo kẻ trong nhóm 3 người quay ra nhảy lên xe định chạy tiếp thì mình ra nói_chuyện và thái_độ kênh_kiệu  chỉ_trỏ vào mặt … mình và chị mình đứng chặn đầu xe thì anh này định phóng xe chẹt vào … rất may lúc đó cán_bộ công_an phường ra ngăn_chặn chứ nếu không không biết chuyện gì sẽ xảy ra … ” 
+0,va_chạm nhỏ cổng bộ ông đỗ trường_duy cán_bộ văn_phòng bộ y_tế hành_vi thóa_mạ người dân khiến người xung_quanh bất_bình
+1,ngày 1/6 cổng bộ y_tế xảy vụ va_chạm trong giao_thông một cán_bộ công_tác bộ y_tế vẻ mặt đỏ_gay hành_vi thiếu văn_hóa thẳng_tay người phụ_nữ đối_diện
+2,liên_quan đến vụ_việc ông nguyễn_xuân_trường chánh_văn_phòng bộ y_tế ký thông_báo kỷ_luật cán_bộ công_chức đối_với ông đỗ trường_duy cán_bộ văn_phòng bộ y_tế
+3,thông_tin thông_báo ông đỗ trường duy giữ chức phó chánh_văn_phòng bộ y_tế khiển_trách
+4,nghe ông đỗ trường duy tường_trình sự_việc hội_đồng kỷ_luật văn_phòng bộ phân_tích nhận thấy một xảy ngoài cơ_quan va_chạm cá_nhân thiếu kiềm_chế xảy xử_sự đúng_mức thể_hiện văn_minh lịch_sự người cán_bộ công_chức thông_tin mạng đưa ông trường hay
+5,văn_phòng bộ y_tế sự_việc xảy bản_thân ông duy nhận lỗi_lầm xin_lỗi gia_đình tối 31/5
+6,tuy_nhiên giữ kỷ_luật cơ_quan một bài_học kinh_nghiệm nhắc_nhở đối_với cá_nhân ông duy nói_riêng toàn_thể cán_bộ công_chức văn_phòng bộ nói_chung luôn tu_dưỡng rèn_luyện bản_thân mọi mọi chánh_văn_phòng bộ y_tế thông_báo hội_đồng kỷ_luật văn_phòng bộ quyết_định khiển_trách ông đỗ trường duy thông_báo toàn cơ_quan_văn_phòng bộ về sai_phạm mắc
+7,tài_khoản facebook tên bnt chia_sẻ “ 15 h chiều 31/5 cổng bộ y_tế 138b giảng_võ 3 anh tự_xưng nhân_viên bộ y_tế gây tai_nạn đâm xe mình nói luyên_thuyên vài câu mồm nồng_nặc mùi rượu … bỏ chạy bộ
+8,anh lái_xe lái_xe bỏ đi luôn may mình chặn đầu kịp đấy vứt giữa đường bỏ chạy ”
+9,“ 30 phút anh áo kẻ trong nhóm 3 người quay nhảy xe định chạy tiếp mình nói_chuyện thái_độ kênh_kiệu chỉ_trỏ mặt … mình chị mình đứng chặn đầu xe anh định phóng xe chẹt … may cán_bộ công_an phường ngăn_chặn biết xảy … ”

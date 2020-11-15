@@ -1,3 +1,3 @@
 idx, sentence
-0,theo công_ty cổ_phần cảng đồng_nai  đơn_vị quản_lý cảng gò_dầu  đây là tàu có trọng_tải và chiều dài lớn nhất lần đầu_tiên cập cảng kể từ khi cảng gò_dầu đưa vào vận_hành bến tàu 30000_dwt  tháng 92015  
-1,bến_tàu này có chi_phí xây_dựng 190 tỉ đồng  gồm một cầu chính dài 460 m  rộng 22 m và hai cầu dẫn có năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa mỗi năm 
+0,công_ty cổ_phần cảng đồng_nai đơn_vị quản_lý cảng gò_dầu tàu trọng_tải chiều dài lớn nhất lần đầu_tiên cập cảng kể cảng gò_dầu đưa vận_hành bến tàu 30000_dwt tháng 92015
+1,bến_tàu chi_phí xây_dựng 190 tỉ đồng gồm một cầu chính dài 460 m rộng 22 m hai cầu dẫn năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa năm

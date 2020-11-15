@@ -1,9 +1,9 @@
 idx, sentence
-0,theo kết_quả điều_tra ban_đầu của công_an tpmóng_cái  quảng_ninh  nguyên_nhân khiến chiếc xe bồn mang biển kiểm_soát 29c  64337 bốc cháy dữ_dội ở cửa_hàng xăng dầu ka_long  pka_long  tpmóng_cái vào tối_ngày 78 là do tàn lửa đốt vàng_mã từ nhà một người dân gần đó bay vào 
-1,trước khi bơm xăng vào bể chứa  phụ xe bồn đỗ_quang_hiếu  31 tuổi  trú tại xã thụy_ninh  hthái_thụy  thái_bình  phát_hiện căn nhà tạm_trú của anh đặng_đình_trường  34 tuổi  quê ở xã cẩm_phú  hcẩm_giàng  hải_dương  thắp hương  đốt vàng_mã 
-2,anh hiếu hỏi anh lê_văn_hải là nhân_viên giao_nhận hàng của cửa_hàng xăng dầu ka_long có bơm xăng được không  anh hải_đồng_ý 
-3,sau đó  phụ xe bồn nhìn thấy ngọn lửa bắt vào đầu vòi bơm nên đã đóng van xăng và cùng anh hải dùng bình bọt dập lửa  nhưng bất_thành 
-4,hậu_quả  chiếc xe bồn chở hơn 22500 lít xăng a92 bốc cháy dữ_dội  phía dưới đất là hầm hai bể chứa nhiên_liệu của cây_xăng  rất may không phát nổ 
-5,do cây_xăng gần khu dân_cư  bến_xe_khách móng_cái nên lực_lượng cứu_hộ vội di_dời người dân đến nơi an_toàn 
-6,đến 20 giờ 30 cùng ngày  đám cháy được khống_chế  nhưng chiếc xe bồn bị thiêu rụi hoàn_toàn  cây_xăng cũng bị cháy một phần 
-7,hiện chưa có thống_kê cụ_thể thiệt_hại do vụ cháy gây ra 
+0,kết_quả điều_tra ban_đầu công_an tpmóng_cái quảng_ninh nguyên_nhân khiến xe bồn mang biển kiểm_soát 29c 64337 bốc cháy dữ_dội ở cửa_hàng xăng dầu ka_long pka_long tpmóng_cái tối_ngày 78 tàn lửa đốt vàng_mã nhà một người dân gần bay
+1,bơm xăng bể chứa phụ xe bồn đỗ_quang_hiếu 31 tuổi trú xã thụy_ninh hthái_thụy thái_bình phát_hiện căn nhà tạm_trú anh đặng_đình_trường 34 tuổi quê ở xã cẩm_phú hcẩm_giàng hải_dương thắp hương đốt vàng_mã
+2,anh hiếu hỏi anh lê_văn_hải nhân_viên giao_nhận hàng cửa_hàng xăng dầu ka_long bơm xăng anh hải_đồng_ý
+3,phụ xe bồn nhìn thấy ngọn lửa bắt đầu vòi bơm đóng van xăng anh hải dùng bình bọt dập lửa bất_thành
+4,hậu_quả xe bồn chở hơn 22500 lít xăng a92 bốc cháy dữ_dội phía đất hầm hai bể chứa nhiên_liệu cây_xăng may phát nổ
+5,cây_xăng gần khu dân_cư bến_xe_khách móng_cái lực_lượng cứu_hộ vội di_dời người dân đến an_toàn
+6,đến 20 giờ 30 ngày đám cháy khống_chế xe bồn thiêu rụi hoàn_toàn cây_xăng cháy một phần
+7,hiện thống_kê cụ_thể thiệt_hại vụ cháy gây

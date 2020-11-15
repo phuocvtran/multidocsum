@@ -1,10 +1,10 @@
 idx, sentence
-0,hành_khách nguyễn_duy_hưng cho biết theo lịch bay cả gia_đình ông sẽ bay lúc 10 g20 từ buôn_ma_thuột đi tpvinh  nghệ_an  
-1,tuy_nhiên đến 8 g30  nhân_viên của hãng hàng_không viejet thông_báo do trục_trặc đường_bay nên đổi lịch_trình bay vào lúc 16 g40 cùng ngày 
-2,còn hành_khách lê_quang_hài cho biết theo lịch_trình  anh đi chuyến bay đến đà_nẵng lúc 8 g25 sáng 36 
-3,tuy_nhiên lúc 7 g cùng ngày anh nhận được tin nhắn của hãng thông_báo đường_băng trục_trặc nên dời lịch bay sang 14 g25 
-4,“ đầu giờ chiều  tôi đến sân_bay chuẩn_bị làm thủ_tục thì hãng lại thông_báo đến 16 g40 mới khởi_hành nên tiếp_tục phải đợi 
-5,chờ một giờ đồng_hồ đã mệt rồi  giờ đợi thêm 34 tiếng đồng_hồ càng mệt hơn ”  anh hài nói 
-6,theo thông_tin từ bảng điện_tử tại sân_bay  lịch_trình bay của các hãng hàng_không đi tphcm  vinh  đà_nẵng và hà_nội đều dời đến hơn 16 g 
-7,trước đó  như tuổi_trẻ đã thông_tin lịch bay của các hãng hàng_không nội_địa đi và đến từ sân_bay buôn_mê_thuột trong_sáng 36 đã bị xáo_trộn vì đường_băng tạm đóng cửa 
-8,nguồn tin ban_đầu của tuổi_trẻ cho biết lý_do sân_bay tạm đóng cửa là vì một mảng bề_mặt của đường lăn sân_bay buôn_mê_thuột bị tróc bất_ngờ 
+0,hành_khách nguyễn_duy_hưng biết lịch bay gia_đình ông bay 10 g20 buôn_ma_thuột đi tpvinh nghệ_an
+1,tuy_nhiên đến 8 g30 nhân_viên hãng hàng_không viejet thông_báo trục_trặc đường_bay đổi lịch_trình bay 16 g40 ngày
+2,còn hành_khách lê_quang_hài biết lịch_trình anh đi chuyến bay đến đà_nẵng 8 g25 sáng 36
+3,tuy_nhiên 7 g ngày anh nhận tin nhắn hãng thông_báo đường_băng trục_trặc dời lịch bay sang 14 g25
+4,“ đầu giờ chiều tôi đến sân_bay chuẩn_bị làm thủ_tục hãng thông_báo đến 16 g40 mới khởi_hành tiếp_tục đợi
+5,chờ một giờ đồng_hồ mệt giờ đợi thêm 34 tiếng đồng_hồ mệt hơn ” anh hài nói
+6,thông_tin bảng điện_tử sân_bay lịch_trình bay hãng hàng_không đi tphcm vinh đà_nẵng hà_nội dời đến hơn 16 g
+7,tuổi_trẻ thông_tin lịch bay hãng hàng_không nội_địa đi đến sân_bay buôn_mê_thuột trong_sáng 36 xáo_trộn đường_băng tạm đóng cửa
+8,nguồn tin ban_đầu tuổi_trẻ biết lý_do sân_bay tạm đóng cửa một mảng bề_mặt đường lăn sân_bay buôn_mê_thuột tróc bất_ngờ

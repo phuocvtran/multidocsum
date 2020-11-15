@@ -1,16 +1,16 @@
 idx, sentence
-0,tại phiên_tòa diễn ra sáng 315  thịnh cúi đầu thừa_nhận toàn_bộ_hành_vi của mình  giống như trong cáo_trạng của viện_ksnd đã truy_tố 
-1,biện_minh cho lý_do giết vợ  thịnh khai rằng sỡ dĩ bị_cáo không làm_chủ được bản_thân là vì bị_cáo đã nhiều lần tha_thứ cho vợ là chị qtt  từng nghĩ đến việc vào bình_dương để “ xây ” lại tổ_ấm  nhưng chị t hết lần này đến lần khác lừa_dối bị_cáo 
-2,đối_với việc giết anh tvl  40 tuổi  xã gio_việt  hgio_linh  quảng_trị  một_cách man_rợ  thịnh khai ban_đầu chỉ nghĩ tìm đến nhà anh l để “ dạy cho anh ta một bài_học vì đã làm gia_đình bị_cáo tan_nát ” nhưng khi đến nơi thì bộc_phát ra_tay giết người 
-3,tuy_nhiên  lập_luận trên của thịnh đã bị đại_diện viện_ksnd và chủ_tọa bác_bỏ 
-4,khi thẩm_phán  chủ_tọa nguyễn_cường chất_vấn  “ tại_sao bị_cáo không đi xe từ tphcm về quê mà lại đi máy_bay cho nhanh 
-5,tại_sao khi về quảng_trị bị_cáo không gặp con và xin đầu_thú mà tiếp_tục hành_vi giết người 
-6,tại_sao bị_cáo đi  dằn_mặt người_ta mà mang theo mã_tấu  ” thì thịnh không trả_lời được 
-7,tại tòa  cả thân_nhân của anh l và chị t đều xin tòa xử đúng người đúng tội 
-8,thân_nhân anh l yêu_cầu thịnh bồi_thường các khoản mai_táng_phí  tổn_thất_tinh_thần và cấp_dưỡng cho con bị hại 
-9,riêng bà trần_thị_quế  mẹ của chị t  thậm_chí không yêu_cầu bồi_thường thiệt_hại dân_sự mà chủ_yếu “ kể tội ” con_rể trước tòa 
-10,các phát_biểu của bà quế bị những người dân dự tòa phản_ứng dữ_dội buộc chủ_tọa nguyễn_cường phải yêu_cầu lực_lượng cảnh_sát bảo_vệ tư_pháp vãn_hồi trật_tự 
-11,tại phần luận_tội  đại_diện viện_ksnd cho rằng thịnh có nhân_thân tốt  khai_báo thành_khẩn  bồi_thường thiệt_hại cho bị hại nhưng hành_vi của thịnh là man_rợ  nguy_hiểm cho xã_hội lại có tình_tiết tăng nặng “ giết 2 người ” nên đề_nghị hđxx tuyên_án tử_hình đối_với thịnh 
-12,bản_thân thịnh khi được nói lời sau_cùng cũng không kìm được nước_mắt 
-13,bị_cáo cảm_ơn bà_con làng_xóm đã có đơn xin giảm án cho bị_cáo  xin_lỗi gia_đình các bị hại  xin_lỗi mẹ già vì đã không làm_tròn nghĩa_vụ của một người làm con  xin_lỗi 2 đứa con_thơ vì không làm tròn bổn_phận của người làm cha 
-14,bị_cáo cũng xin được khoan_hồng để có cơ_hội về phụng_dưỡng mẹ già  chăm_sóc con 
+0,phiên_tòa diễn sáng 315 thịnh cúi đầu thừa_nhận toàn_bộ_hành_vi mình giống trong cáo_trạng viện_ksnd truy_tố
+1,biện_minh lý_do giết vợ thịnh khai sỡ dĩ bị_cáo làm_chủ bản_thân bị_cáo lần tha_thứ vợ chị qtt nghĩ đến bình_dương “ xây ” tổ_ấm chị t hết lần đến lần khác lừa_dối bị_cáo
+2,đối_với giết anh tvl 40 tuổi xã gio_việt hgio_linh quảng_trị man_rợ thịnh khai ban_đầu nghĩ tìm đến nhà anh l “ dạy anh ta một bài_học làm gia_đình bị_cáo tan_nát ” đến bộc_phát ra_tay giết người
+3,tuy_nhiên lập_luận thịnh đại_diện viện_ksnd chủ_tọa bác_bỏ
+4,thẩm_phán chủ_tọa nguyễn_cường chất_vấn “ tại_sao bị_cáo đi xe tphcm về quê đi máy_bay nhanh
+5,tại_sao về quảng_trị bị_cáo gặp con xin đầu_thú tiếp_tục hành_vi giết người
+6,tại_sao bị_cáo đi dằn_mặt người_ta mang mã_tấu ” thịnh trả_lời
+7,tòa thân_nhân anh l chị t xin tòa xử đúng người đúng tội
+8,thân_nhân anh l yêu_cầu thịnh bồi_thường khoản mai_táng_phí tổn_thất_tinh_thần cấp_dưỡng con hại
+9,riêng bà trần_thị_quế mẹ chị t thậm_chí yêu_cầu bồi_thường thiệt_hại dân_sự chủ_yếu “ kể tội ” con_rể tòa
+10,phát_biểu bà quế người dân dự tòa phản_ứng dữ_dội buộc chủ_tọa nguyễn_cường yêu_cầu lực_lượng cảnh_sát bảo_vệ tư_pháp vãn_hồi trật_tự
+11,phần luận_tội đại_diện viện_ksnd thịnh nhân_thân tốt khai_báo thành_khẩn bồi_thường thiệt_hại hại hành_vi thịnh man_rợ nguy_hiểm xã_hội tình_tiết tăng nặng “ giết 2 người ” đề_nghị hđxx tuyên_án tử_hình đối_với thịnh
+12,bản_thân thịnh nói lời sau_cùng kìm nước_mắt
+13,bị_cáo cảm_ơn bà_con làng_xóm đơn xin giảm án bị_cáo xin_lỗi gia_đình hại xin_lỗi mẹ già làm_tròn nghĩa_vụ một người làm con xin_lỗi 2 đứa con_thơ làm tròn bổn_phận người làm cha
+14,bị_cáo xin khoan_hồng cơ_hội về phụng_dưỡng mẹ già chăm_sóc con

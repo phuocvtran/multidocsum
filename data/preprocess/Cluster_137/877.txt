@@ -1,12 +1,12 @@
 idx, sentence
-0,mới_đây  người_ta thấy tiền_đạo người thụy_điển  zlatan_ibrahimovic lái chiếc siêu xe porsche 918 spyder có mức giá đắt_đỏ  661000 bảng  gần 22 tỷ  đến khách_sạn park  ở stockholm  đại_bản_doanh của đt thụy_điển 
-1,cách đây ít ngày  ibrahimovic đã hội quân cùng với các đồng_đội để chuẩn_bị cho giải đấu hấp_dẫn nhất hành_tinh sẽ diễn ra sau ít ngày nữa 
-2,ibra không chỉ nổi_tiếng là một tiền_đạo với lối chơi toàn_diện  dũng_mãnh trên sân_cỏ mà ở ngoài đời  anh cũng được gắn mác tay_chơi thứ_thiệt 
-3,hiện_tại  trong tay của ibra có cả một bộ sưu_tập xe_hơi nhiều triệu bảng  chiếc porsche 918 spyder này chỉ là một trong số đó 
-4,cách đây không lâu  chân sút 34 tuổi vừa chia_tay psg vì hết hạn hợp_đồng 
-5,giờ_đây  ibra là cầu_thủ tự_do và trở_thành mục_tiêu săn_đón hàng_đầu của manchester_united 
-6,theo các nguồn tin  khả_năng mà ibra đầu_quân cho quỷ đỏ rất cao 
-7,bởi_vì trước đó  không ít lần siêu tiền_đạo này bày_tỏ mong_muốn được thi_đấu cho đội bóng mà “ mr_special ” jose_mourinho dẫn_dắt 
-8,thậm_chí có lần  anh từng khẳng_định chắc như đinh_đóng cột rằng sẽ chỉ gia_nhập mu với điều_kiện chiến_lược gia người bồ_đào nha trở_thành hlv trưởng của đội chủ sân old_trafford 
-9,theo lịch thi_đấu  đtqg_thụy_điển sẽ có cuộc đụng_độ với ch_ireland ở saintdenis vào ngày 13/6 tới 
-10,tiếp đó  ngày 17/6  các học_trò của hlv erik_hamren sẽ thi_đấu với đt_italia tại toulouse trước khi hoàn_tất các trận đấu tại bảng e với bỉ vào 22/6 
+0,mới_đây người_ta thấy tiền_đạo người thụy_điển zlatan_ibrahimovic lái siêu xe porsche 918 spyder mức giá đắt_đỏ 661000 bảng gần 22 tỷ đến khách_sạn park ở stockholm đại_bản_doanh đt thụy_điển
+1,cách ít ngày ibrahimovic hội quân đồng_đội chuẩn_bị giải đấu hấp_dẫn nhất hành_tinh diễn ít ngày
+2,ibra nổi_tiếng một tiền_đạo lối chơi toàn_diện dũng_mãnh sân_cỏ ở ngoài đời anh gắn mác tay_chơi thứ_thiệt
+3,hiện_tại trong tay ibra một bộ sưu_tập xe_hơi triệu bảng porsche 918 spyder một trong số
+4,cách lâu chân sút 34 tuổi chia_tay psg hết hạn hợp_đồng
+5,giờ_đây ibra cầu_thủ tự_do trở_thành mục_tiêu săn_đón hàng_đầu manchester_united
+6,nguồn tin khả_năng ibra đầu_quân quỷ đỏ cao
+7,bởi_vì ít lần siêu tiền_đạo bày_tỏ mong_muốn thi_đấu đội bóng “ mr_special ” jose_mourinho dẫn_dắt
+8,thậm_chí lần anh khẳng_định chắc đinh_đóng cột gia_nhập mu điều_kiện chiến_lược gia người bồ_đào nha trở_thành hlv trưởng đội chủ sân old_trafford
+9,lịch thi_đấu đtqg_thụy_điển cuộc đụng_độ ch_ireland ở saintdenis ngày 13/6 tới
+10,tiếp ngày 17/6 học_trò hlv erik_hamren thi_đấu đt_italia toulouse hoàn_tất trận đấu bảng e bỉ 22/6

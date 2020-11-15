@@ -1,10 +1,10 @@
 idx, sentence
-0,lá_thăm may_rủi đã đưa hai đối_thủ không đội_trời chung mu và liverpool đụng_độ nhau ở vòng 16 đội europa_league 
-1,dù đã xuất_sắc đánh_bại kình_địch đến từ manchester với tổng tỉ_số 31 sau hai lượt trận  nhưng “ the_kop ” vẫn không_thể vượt qua vật cản cuối_cùng là nhà đkvđ_sevilla để lên_ngôi tại đấu_trường này 
-2,bầu_không_khí thù_địch chưa bao_giờ chấm_dứt trong những cuộc_chiến giữa mu và liverpool 
-3,ở trận lượt đi tại anfield  những cđv_mu đã chọc giận đổi thủ bằng cách hát_vang những bài hát về thảm_họa_heysel và gọi cđv_liverpool là “ những kẻ giết người ” 
-4,tuy_nhiên  việc uefa đã làm ngơ chuyện này khiến người hâm_mộ “ the_kop ” sôi_máu 
-5,và họ đã lên kế_hoạch  trả_thù  ở sân old_trafford 
-6,tờ bbc đưa tin  uefa đã chính_thức ra quyết_định phạt cả mu lẫn liverpool số tiền 40000 bảng vì để cổ_động_viên ẩu_đả 
-7,ngoài_ra  “ lữ_đoàn đỏ ” chịu hình_phạt bổ_sung 17000 bảng vì để người hâm_mộ đốt pháo sáng 
-8,trong khi đó  “ quỷ đỏ ” thành manchester cũng phải nộp thêm 18000 bảng vì cổ_động_viên của họ đã chặn cửa sân_vận_động old_trafford để gây_hấn với đối_thủ ở trận lượt_về 
+0,lá_thăm may_rủi đưa hai đối_thủ đội_trời chung mu liverpool đụng_độ nhau ở vòng 16 đội europa_league
+1,dù xuất_sắc đánh_bại kình_địch đến manchester tổng tỉ_số 31 hai lượt trận “ the_kop ” không_thể vượt vật cản cuối_cùng nhà đkvđ_sevilla lên_ngôi đấu_trường
+2,bầu_không_khí thù_địch bao_giờ chấm_dứt trong cuộc_chiến giữa mu liverpool
+3,ở trận lượt đi anfield cđv_mu chọc giận đổi thủ bằng cách hát_vang bài hát về thảm_họa_heysel gọi cđv_liverpool “ kẻ giết người ”
+4,tuy_nhiên uefa làm ngơ khiến người hâm_mộ “ the_kop ” sôi_máu
+5,họ kế_hoạch trả_thù ở sân old_trafford
+6,tờ bbc đưa tin uefa chính_thức quyết_định phạt mu lẫn liverpool số tiền 40000 bảng cổ_động_viên ẩu_đả
+7,ngoài_ra “ lữ_đoàn đỏ ” chịu hình_phạt bổ_sung 17000 bảng người hâm_mộ đốt pháo sáng
+8,trong “ quỷ đỏ ” thành manchester nộp thêm 18000 bảng cổ_động_viên họ chặn cửa sân_vận_động old_trafford gây_hấn đối_thủ ở trận lượt_về

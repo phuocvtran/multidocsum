@@ -1,23 +1,23 @@
 idx, sentence
-0,một phi_cơ không người lái đã nhắm mục_tiêu vào xe_hơi của ông này ở một vùng_xa của pakistan  gần biên_giới afghanistan  tuy_nhiên giới_chức cho biết thêm rằng các kết_quả vẫn đang được đánh_giá 
-1,ngoại_trưởng mỹ john_kerry nói mansour đã đặt ra  một mối đe_dọa liên_tục đối_với các nhân_viên mỹ  
-2,mansour đảm_nhận vai_trò lãnh_đạo taliban vào tháng 7/2015  thay_thế người sáng_lập taliban và lãnh_đạo tinh_thần của tổ_chức này  mullah_mohammad_omar 
-3,chiến_dịch diễn ra gần thị_trấn ahmad_wal ở balochistan  tây nam pakistan  vào khoảng 15 h00  10  00 gmt  hôm thứ_bảy và được phép của tổng_thống barack_obama 
-4,cả pakistan và afghanistan đã được thông_báo về các cuộc tấn_công ngay sau khi nó diễn ra  nhà_trắng cho biết 
-5,ông kerry  trong chuyến thăm tới myanmar  nói   hành_động này gửi một thông_điệp rõ_ràng với thế_giới rằng chúng_tôi sẽ tiếp_tục hợp_tác với các đối_tác afghanistan của chúng_tôi khi họ xây_dựng một đất_nước afghanistan ổn_định  đoàn_kết  an_toàn và thịnh_vượng hơn 
-6, hòa bình là những gì chúng_ta muốn 
-7,mansour là một mối đe_dọa cho nỗ_lực đó  
-8,một phát_ngôn_nhân của tổng_thống afghanistan_ashraf_ghani nói không kích của phi_cơ không người lái  tỏ ra thành_công  
-9,mang lại hòa_bình  ổn_định quan_chức này nói thêm rằng chính_phủ afghanistan hy_vọng các cuộc không_kích hỗ_trợ cho tiến_trình hòa_bình do người afghanistan lãnh_đạo nhằm “ mang lại hoà_bình lâu_dài và ổn_định  
-10,lãnh_đạo afghanistan  ông abdullah_abdullah  nói mansour có nhiều khả là đã chết và ông cũng nói thêm rằng mansour là  nhân_vật chính ngăn_chặn taliban gia_nhập tiến_trình hòa_bình  
-11,cái chết của mullah_akhtar_mansour  nếu được xác_nhận  sẽ là một đòn đánh lớn đối_với taliban  theo phân_tích của phóng_viên bbc inayatulhaq_yasini 
-12,đã có một_số tin_tức mâu_thuẫn về sự_việc từ taliban 
-13,chỉ_huy cấp cao của chính_quyền  ông mullah_abdul_rauf nói với hãng tin ap rằng mansour đã bị giết chết  nhưng đó là vào cuối ngày thứ_sáu 
-14,một_số nguồn tin khác bác_bỏ cái chết của ông ta 
-15,một chỉ_huy taliban giấu tên nói với reuters   chúng_tôi nghe được những tin_tức vô_căn_cứ  nhưng đây không phải là lần đầu_tiên 
-16,“ tôi chỉ muốn chia_sẻ thông_tin của riêng tôi là thủ_lĩnh mullah_mansour đã không bị giết …  các tin_đồn sai cũng thường liên_quan các thủ_lĩnh  lãnh_đạo của taliban 
-17,omar đã chết vào năm 2013  nhưng điều này chỉ được taliban xác_nhận hai năm sau đó  trong khi tin_tức nói mansour đã bị giết chết trong một cuộc đọ súng năm_ngoái  điều đã bị chính_phủ afghanistan bác_bỏ 
-18,bất_đồng nội_bộ được biết  việc bổ_nhiệm mansour làm thủ_lĩnh taliban đã gây tranh_cãi 
-19,một nhóm đối_thủ trong taliban đã tự chọn lãnh_đạo của mình mullah_mansour từ lâu_nay là quyền lãnh_đạo của taliban  ông này thân_cận với người sáng_lập taliban  mullah_omar_mansour_sinh vào thập_niên 1960  tại tỉnh kandahar  từng giữ chức_vụ bộ_trưởng hàng_không dân_dụng thời taliban cầm_quyền ở afghanistan_ông có vai_trò tích_cực trong việc buôn_bán ma_túy  theo liên_hiệp_quốc_mansour từng đụng_độ với abdul_qayum_zakir  một chỉ_huy quân_sự cấp_cao  trong bối_cảnh một cuộc đấu_tranh quyền_lực và bất_đồng nội_bộ taliban về đàm_phán với chính_quyền afghanistan 
-20,vào năm 2010  một người đàn_ông tự_xưng là mansour đã gặp cựu tổng_thống afghanistan_hamid_karzai về các cuộc đàm_phán hòa_bình  nhưng sau các thông_tin dường_như cho thấy nhân_vật đó là một người mạo_danh 
-21,taliban đã gia_tăng đáng_kể sức_mạnh  từ khi quân_đội quốc_tế rút khỏi vai_trò chiến_đấu tích_cực vào năm 2014 
+0,một phi_cơ người lái nhắm mục_tiêu xe_hơi ông ở một vùng_xa pakistan gần biên_giới afghanistan tuy_nhiên giới_chức biết thêm kết_quả đánh_giá
+1,ngoại_trưởng mỹ john_kerry nói mansour đặt một mối đe_dọa liên_tục đối_với nhân_viên mỹ
+2,mansour đảm_nhận vai_trò lãnh_đạo taliban tháng 7/2015 thay_thế người sáng_lập taliban lãnh_đạo tinh_thần tổ_chức mullah_mohammad_omar
+3,chiến_dịch diễn gần thị_trấn ahmad_wal ở balochistan tây nam pakistan khoảng 15 h00 10 00 gmt hôm thứ_bảy phép tổng_thống barack_obama
+4,pakistan afghanistan thông_báo về cuộc tấn_công nó diễn nhà_trắng biết
+5,ông kerry trong chuyến thăm tới myanmar nói hành_động gửi một thông_điệp rõ_ràng thế_giới chúng_tôi tiếp_tục hợp_tác đối_tác afghanistan chúng_tôi họ xây_dựng một đất_nước afghanistan ổn_định đoàn_kết an_toàn thịnh_vượng hơn
+6,hòa bình chúng_ta muốn
+7,mansour một mối đe_dọa nỗ_lực
+8,một phát_ngôn_nhân tổng_thống afghanistan_ashraf_ghani nói kích phi_cơ người lái tỏ thành_công
+9,mang hòa_bình ổn_định quan_chức nói thêm chính_phủ afghanistan hy_vọng cuộc không_kích hỗ_trợ tiến_trình hòa_bình người afghanistan lãnh_đạo nhằm “ mang hoà_bình lâu_dài ổn_định
+10,lãnh_đạo afghanistan ông abdullah_abdullah nói mansour khả chết ông nói thêm mansour nhân_vật chính ngăn_chặn taliban gia_nhập tiến_trình hòa_bình
+11,chết mullah_akhtar_mansour xác_nhận một đòn đánh lớn đối_với taliban phân_tích phóng_viên bbc inayatulhaq_yasini
+12,một_số tin_tức mâu_thuẫn về sự_việc taliban
+13,chỉ_huy cấp cao chính_quyền ông mullah_abdul_rauf nói hãng tin ap mansour giết chết cuối ngày thứ_sáu
+14,một_số nguồn tin khác bác_bỏ chết ông ta
+15,một chỉ_huy taliban giấu tên nói reuters chúng_tôi nghe tin_tức vô_căn_cứ lần đầu_tiên
+16,“ tôi muốn chia_sẻ thông_tin riêng tôi thủ_lĩnh mullah_mansour giết … tin_đồn sai thường liên_quan thủ_lĩnh lãnh_đạo taliban
+17,omar chết năm 2013 taliban xác_nhận hai năm trong tin_tức nói mansour giết chết trong một cuộc đọ súng năm_ngoái chính_phủ afghanistan bác_bỏ
+18,bất_đồng nội_bộ biết bổ_nhiệm mansour làm thủ_lĩnh taliban gây tranh_cãi
+19,một nhóm đối_thủ trong taliban tự chọn lãnh_đạo mình mullah_mansour lâu_nay quyền lãnh_đạo taliban ông thân_cận người sáng_lập taliban mullah_omar_mansour_sinh thập_niên 1960 tỉnh kandahar giữ chức_vụ bộ_trưởng hàng_không dân_dụng thời taliban cầm_quyền ở afghanistan_ông vai_trò tích_cực trong buôn_bán ma_túy liên_hiệp_quốc_mansour đụng_độ abdul_qayum_zakir một chỉ_huy quân_sự cấp_cao trong bối_cảnh một cuộc đấu_tranh quyền_lực bất_đồng nội_bộ taliban về đàm_phán chính_quyền afghanistan
+20,năm 2010 một người đàn_ông tự_xưng mansour gặp cựu tổng_thống afghanistan_hamid_karzai về cuộc đàm_phán hòa_bình thông_tin dường_như thấy nhân_vật một người mạo_danh
+21,taliban gia_tăng đáng_kể sức_mạnh quân_đội quốc_tế rút khỏi vai_trò chiến_đấu tích_cực năm 2014

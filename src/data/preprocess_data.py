@@ -4,6 +4,8 @@ from underthesea import word_tokenize
 import numpy as np
 import string
 import pandas as pd
+from pyvi import ViTokenizer
+import time
 
 # path_name: list đường dẫn tới các cụm văn bản khác nhau.
 path_name = np.sort(glob.glob('data/interim/sentence-segments/*'))
@@ -19,6 +21,7 @@ def load_file(path):
     text = []
     with open(path, 'r') as f:
          text = f.readlines()
+    text = [word.replace('\n', '') for word in text]
     return text
 
 def word_token(text):
@@ -56,16 +59,28 @@ def write_txt(path_name, cluster_name, file_name, text):
         for i in range(len(text)):
             f.write(str(i)+','+text[i] + '\n')
 
+def stop_word(text, stop_word):
+    text_ = []
+    for sent in text:
+        sent_ = [word for word in sent.split() if word not in stop_word]
+        sent_ = ' '.join(sent_)
+        text_.append(sent_)
+    return text_
+
     
 
 
 if __name__ == "__main__":    
+    stop_word_ = load_file('data/external/stop_word.txt')
+    ck = 'Cluster_001'
     for cluster_path in path_file_name:
         for file_path in cluster_path:
-            print(file_path)
+            if ck != os.path.basename(os.path.dirname(file_path)):
+                print(ck)
+                ck = os.path.basename(os.path.dirname(file_path))
             text = remove_punctuation(word_token(load_file(file_path))) # load file và tiền xử lý
+            text = stop_word(text, stop_word_)
             cluster_name = os.path.basename(os.path.dirname(file_path)) # lấy tên cluster
             file_name = os.path.basename(file_path)                     # lấy tên file
             path_name = 'data/preprocess'                               # tạo đường dẫn lưu file
             write_txt(path_name, cluster_name, file_name, text)         # lưu file dạng txt
-

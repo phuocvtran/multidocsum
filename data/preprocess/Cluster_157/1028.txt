@@ -1,10 +1,10 @@
 idx, sentence
-0,trước đó  báo người đưa tin đã thông_tin  khoảng 20 h ngày 28/5  người dân tại bản cỏ_noong  xã mường_nọoc  huyện quế_phong  nghệ_an  hoảng_hốt khi phát_hiện ông sầm_văn_dần  sn 1955  trú cùng bản người bê_bết máu lết từ nhà ra kêu cứu  trong nhà bà vị_thị_loan  sinh năm 1953  vợ ông dần  nằm chết trên vũng máu với nhiều vết đâm trên cơ_thể 
-1,sự_việc nhanh_chóng được báo lên chính_quyền địa_phương và lực_lượng chức_năng 
-2,sau khi nhận được tin báo  công_an xã mường_nọoc phối_hợp với công_an huyện quế_phong  nghệ_an  kịp_thời có_mặt đưa nạn_nhân đi cấp_cứu  bảo_vệ hiện_trường  thu_thập hồ_sơ chứng_cứ điều_tra nguyên_nhân vụ_việc 
-3,nghi can được xác_định là vi_văn_thắng  sn 1993  trú cùng bản với ông dần  bà loan 
-4,sau khi gây_án  đối_tượng thắng đã bỏ trốn khỏi hiện_trường nên lực_lượng chức_năng lập_tức tổ_chức lực_lượng  chốt chặn tại các ngã đường để truy bắt 
-5,đến khoảng 9 h sáng nay  29/5   nhận được tin của quần_chúng nhân_dân  đối_tượng thắng đang ẩn_náu tại nhà ông kính  thắng gọi bằng dượng  ở bản phương_tiến 1  xã tiền_phong  huyện quế_phong  nên lực_lượng công_an nhanh_chóng triển_khai kế_hoạch vây_bắt 
-6,khi lực_lượng công_an tổ_chức bao_vây  kêu_gọi thắng đầu_hàng để được hưởng sự khoan_hồng của pháp_luật  thì đối_tượng này vào nhà_vệ_sinh dùng dao cắt vào cổ mình để tự_sát 
-7,cơ_quan_chức_năng khẩn_trương đưa đối_tượng đi cấp_cứu tại bệnh_viên đa_khoa huyện quế_phong 
-8,tuy_nhiên  do vết_thương khá nặng nên nghi phạm được chuyển xuống bệnh_viện đa_khoa tây_bắc nghệ_an tiếp_tục điều_trị 
+0,báo người đưa tin thông_tin khoảng 20 h ngày 28/5 người dân bản cỏ_noong xã mường_nọoc huyện quế_phong nghệ_an hoảng_hốt phát_hiện ông sầm_văn_dần sn 1955 trú bản người bê_bết máu lết nhà kêu cứu trong nhà bà vị_thị_loan sinh năm 1953 vợ ông dần nằm chết vũng máu vết đâm cơ_thể
+1,sự_việc nhanh_chóng báo chính_quyền địa_phương lực_lượng chức_năng
+2,nhận tin báo công_an xã mường_nọoc phối_hợp công_an huyện quế_phong nghệ_an kịp_thời có_mặt đưa nạn_nhân đi cấp_cứu bảo_vệ hiện_trường thu_thập hồ_sơ chứng_cứ điều_tra nguyên_nhân vụ_việc
+3,nghi can xác_định vi_văn_thắng sn 1993 trú bản ông dần bà loan
+4,gây_án đối_tượng thắng bỏ trốn khỏi hiện_trường lực_lượng chức_năng lập_tức tổ_chức lực_lượng chốt chặn ngã đường truy bắt
+5,đến khoảng 9 h sáng nay 29/5 nhận tin quần_chúng nhân_dân đối_tượng thắng ẩn_náu nhà ông kính thắng gọi bằng dượng ở bản phương_tiến 1 xã tiền_phong huyện quế_phong lực_lượng công_an nhanh_chóng triển_khai kế_hoạch vây_bắt
+6,lực_lượng công_an tổ_chức bao_vây kêu_gọi thắng đầu_hàng hưởng khoan_hồng pháp_luật đối_tượng nhà_vệ_sinh dùng dao cắt cổ mình tự_sát
+7,cơ_quan_chức_năng khẩn_trương đưa đối_tượng đi cấp_cứu bệnh_viên đa_khoa huyện quế_phong
+8,tuy_nhiên vết_thương khá nặng nghi phạm chuyển xuống bệnh_viện đa_khoa tây_bắc nghệ_an tiếp_tục điều_trị

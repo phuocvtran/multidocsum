@@ -1,20 +1,20 @@
 idx, sentence
-0,liên_quan đến vụ_việc trụ_cột điện  trộn đất  tại dự_án xây_dựng móng trụ điện đường_dây 220 kv trực_ninh  nam_định  cắt đường_dây 220 kv ninh_bình – nam_định  chiều 2/6  tại cuộc họp_báo thường_kỳ chính_phủ  thứ_trưởng bộ công_thương đỗ_thắng hải đã có những ý_kiến trả_lời 
-1,thứ_trưởng bộ công_thương đỗ_thắng hải cho biết  chủ đầu_tư dự_án này là tổng_công_ty truyền_tải_điện quốc_gia  đơn_vị quản_lý dự_án là ban quản_lý dự_án các công_trình điện miền bắc 
-2,nhà_thầu xây_lắp là liên_danh công_ty cp sông_đà 11 và công_ty cp xây_lắp điện 1 
-3,đơn_vị trực_tiếp thi_công phần móng cốt được phản_ánh là chi_nhánh 7 của công_ty sông_đà 11 
-4,ông hải cho biết thêm  vị_trí cột_số 1  số 2 2 thuộc đoạn tuyến g1  g3 tại đường_dây 220 kv của trực_ninh cắt đường_dây 220 kv của ninh_bình  nam_định do công_ty cp sông_đà 11 thi_công 
-5,nhưng đang thi_công có văn_bản 168 của công_ty tnhh quản_lý bay thuộc tổng_công_ty quản_lý bay việt_nam thông_báo tuyến đường_dây đi qua đài dẫn đường nên yêu_cầu tạm dừng thi_công 
-6, tuy_nhiên  mặc_dù đã có thông_báo từ ngày 9/3 yêu_cầu tạm dừng thi_công nhưng đến khi xảy ra vụ_việc và ngày 25/5  chúng_tôi đi kiểm_tra  theo hồ_sơ pháp_lý thì công_ty cp sông_đà 11 vẫn tự_ý thi_công vị_trí móng số 1  2 nêu trên   ông hải nói 
-7,về xử_lý của bộ công_thương  ông hải nêu rõ  ngày 1/6  bộ đã có văn_bản yêu_cầu tổng_công_ty điện_lực việt_nam trước_hết  kiểm_tra  tổng_hợp  điều_tra các quy_trình về quản_lý chất_lượng công_trình đối_với công_trình nói trên 
-8,làm rõ trách_nhiệm cá_nhân  tập_thể có liên_quan đến việc thi_công công_trình  giám_sát kỹ_thuật theo quy_định của pháp_luật 
-9, thứ hai làm rõ động_cơ của đơn_vị thi_công trực_tiếp trong việc cố_ý thi_công các vị_trí móng số 1  số 2 của tuyến đường_dây 220 kv mặc_dù đã có văn_bản  biên_bản hiện_trường yêu_cầu dừng thi_công mà vẫn thi_công  dẫn đến việc như phản_ánh 
-10,chúng_tôi cũng yêu_cầu tập_đoàn điện_lực vn rà_soát toàn_bộ chất_lượng thi_công hạng_mục công_trình do công_ty cp sông_đà 11 thực_hiện 
-11,chúng_tôi mời cơ_quan an_ninh hỗ_trợ trong trường_hợp cần xác_minh rõ nội_dung  tư_liệu phản_ánh của nhân_dân  làm rõ động_cơ của đơn_vị  cá_nhân liên_quan trong quá_trình thực_hiện 
-12,ngoài_ra  chúng_tôi cũng yêu_cầu các đơn_vị  ngoài các công_trình do công_ty sông_đà 11 thực_hiện thi_công còn nhiều công_trình khác đang thi_công thì trước_hết phải có rà_soát  kiểm_tra chất_lượng công_trình cũng như việc thực_hiện quy_trình có đúng hay không   ông hải nêu 
-13,về hình_thức xử_lý sai_phạm  ông hải nhấn_mạnh   ban cán_sự đảng_bộ công_thương căn_cứ các kết_quả kiểm_định sẽ yêu_cầu evn xử_lý các tập_thể cá_nhân sai_phạm có_thể bằng các hình_thức cao nhất  kể_cả buộc thôi_việc 
-14,tùy mức_độ sai_phạm hoặc có_thể chuyển cơ_quan điều_tra xử_lý nếu có dấu_hiệu phạm_tội 
-15,đối_với đơn_vị thi_công thì theo kết_luận kiểm_tra sẽ cấm tham_gia đấu_thầu các công_trình điện trong thời_gian nhất_định theo đúng quy_định của pháp_luật  
-16,ông hải cũng nêu lại vụ_việc trong tháng 5/2016 đã xảy ra vụ_việc một cột_điện trong điều_kiện thời_tiết không quá bất_bình_thường mà đổ thì bộ đã xác_định đó là sự_việc bất_bình_thường 
-17, hiện_nay  đoàn kiểm_tra cũng đã được cử đi và thực_hiện theo đúng quy_trình 
-18,chúng_tôi khẳng_định sẽ xử_lý nghiêm các sai_phạm theo quy_định của pháp_luật 
+0,liên_quan đến vụ_việc trụ_cột điện trộn đất dự_án xây_dựng móng trụ điện đường_dây 220 kv trực_ninh nam_định cắt đường_dây 220 kv ninh_bình – nam_định chiều 2/6 cuộc họp_báo thường_kỳ chính_phủ thứ_trưởng bộ công_thương đỗ_thắng hải ý_kiến trả_lời
+1,thứ_trưởng bộ công_thương đỗ_thắng hải biết chủ đầu_tư dự_án tổng_công_ty truyền_tải_điện quốc_gia đơn_vị quản_lý dự_án ban quản_lý dự_án công_trình điện miền bắc
+2,nhà_thầu xây_lắp liên_danh công_ty cp sông_đà 11 công_ty cp xây_lắp điện 1
+3,đơn_vị trực_tiếp thi_công phần móng cốt phản_ánh chi_nhánh 7 công_ty sông_đà 11
+4,ông hải biết thêm vị_trí cột_số 1 số 2 2 thuộc đoạn tuyến g1 g3 đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình nam_định công_ty cp sông_đà 11 thi_công
+5,thi_công văn_bản 168 công_ty tnhh quản_lý bay thuộc tổng_công_ty quản_lý bay việt_nam thông_báo tuyến đường_dây đi đài dẫn đường yêu_cầu tạm dừng thi_công
+6,tuy_nhiên mặc_dù thông_báo ngày 9/3 yêu_cầu tạm dừng thi_công đến xảy vụ_việc ngày 25/5 chúng_tôi đi kiểm_tra hồ_sơ pháp_lý công_ty cp sông_đà 11 tự_ý thi_công vị_trí móng số 1 2 nêu ông hải nói
+7,về xử_lý bộ công_thương ông hải nêu rõ ngày 1/6 bộ văn_bản yêu_cầu tổng_công_ty điện_lực việt_nam trước_hết kiểm_tra tổng_hợp điều_tra quy_trình về quản_lý chất_lượng công_trình đối_với công_trình nói
+8,làm rõ trách_nhiệm cá_nhân tập_thể liên_quan đến thi_công công_trình giám_sát kỹ_thuật quy_định pháp_luật
+9,thứ hai làm rõ động_cơ đơn_vị thi_công trực_tiếp trong cố_ý thi_công vị_trí móng số 1 số 2 tuyến đường_dây 220 kv mặc_dù văn_bản biên_bản hiện_trường yêu_cầu dừng thi_công thi_công dẫn đến phản_ánh
+10,chúng_tôi yêu_cầu tập_đoàn điện_lực vn rà_soát toàn_bộ chất_lượng thi_công hạng_mục công_trình công_ty cp sông_đà 11 thực_hiện
+11,chúng_tôi mời cơ_quan an_ninh hỗ_trợ trong trường_hợp xác_minh rõ nội_dung tư_liệu phản_ánh nhân_dân làm rõ động_cơ đơn_vị cá_nhân liên_quan trong quá_trình thực_hiện
+12,ngoài_ra chúng_tôi yêu_cầu đơn_vị ngoài công_trình công_ty sông_đà 11 thực_hiện thi_công còn công_trình khác thi_công trước_hết rà_soát kiểm_tra chất_lượng công_trình thực_hiện quy_trình đúng hay ông hải nêu
+13,về hình_thức xử_lý sai_phạm ông hải nhấn_mạnh ban cán_sự đảng_bộ công_thương căn_cứ kết_quả kiểm_định yêu_cầu evn xử_lý tập_thể cá_nhân sai_phạm bằng hình_thức cao nhất kể_cả buộc thôi_việc
+14,tùy mức_độ sai_phạm hoặc chuyển cơ_quan điều_tra xử_lý dấu_hiệu phạm_tội
+15,đối_với đơn_vị thi_công kết_luận kiểm_tra cấm tham_gia đấu_thầu công_trình điện trong thời_gian nhất_định đúng quy_định pháp_luật
+16,ông hải nêu vụ_việc trong tháng 5/2016 xảy vụ_việc một cột_điện trong điều_kiện thời_tiết quá bất_bình_thường đổ bộ xác_định sự_việc bất_bình_thường
+17,hiện_nay đoàn kiểm_tra cử đi thực_hiện đúng quy_trình
+18,chúng_tôi khẳng_định xử_lý nghiêm sai_phạm quy_định pháp_luật

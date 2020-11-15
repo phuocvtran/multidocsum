@@ -1,12 +1,12 @@
 idx, sentence
-0,tại cuộc họp_báo chung giữa ngoại_trưởng trung_quốc_vương nghị với người đồng_cấp canada_stephane_dion  một nữ phóng_viên địa_phương của hãng tin ipolitics đã hỏi ông vương về việc bắc_kinh bắt_giữ kevin_garratt  một công_dân canada bị kết_tội làm gián_điệp 
-1,đáp lại  ông vương tỏ ra rất tức_giận  “ câu_hỏi của cô chứa đầy định_kiến về trung_quốc 
-2,tôi không biết cô lấy thái_độ đó từ đâu 
-3,thật không_thể chấp_nhận được 
-4,người trung_quóc biết rõ về quyền con_người ở trung_quốc hơn bất_cứ ai ” 
-5,ngoại_trưởng trung_quốc cũng nói thêm  “ tôi khuyên cô đừng nên đặt câu hỏi với thái_độ vô_trách_nhiệm như vậy 
-6,chúng_tôi hoan_nghênh những gợi_ý có thiện_chí nhưng sẽ bác_bỏ những cáo_buộc vô_căn_cứ ” 
-7,ông vương tiếp_tục hỏi liệu nữ nhà_báo này đã từng tới trung_quốc hay chưa 
-8,“ cô có biết trung_quốc đã giúp hơn 600 triệu người thoát nghèo 
-9,và cô có biết trung_quốc hiện_giờ là nền kinh_tế lớn thứ 2 thế_giới từ xuất_phát_điểm cực thấp  ”  ông vương nói 
-10,trước khi phóng_viên ipolitics đặt câu hỏi liên_quan đến garratt  công_dân canada bị trung_quốc bắt_giữ với cáo_buộc làm gián_điệp  ngoại_trưởng canada_dion cũng đã đề_cập vấn_đề này với người đồng_cấp vương_nghị 
+0,cuộc họp_báo chung giữa ngoại_trưởng trung_quốc_vương nghị người đồng_cấp canada_stephane_dion một nữ phóng_viên địa_phương hãng tin ipolitics hỏi ông vương về bắc_kinh bắt_giữ kevin_garratt một công_dân canada kết_tội làm gián_điệp
+1,đáp ông vương tỏ tức_giận “ câu_hỏi cô chứa đầy định_kiến về trung_quốc
+2,tôi biết cô lấy thái_độ đâu
+3,thật không_thể chấp_nhận
+4,người trung_quóc biết rõ về quyền con_người ở trung_quốc hơn bất_cứ ai ”
+5,ngoại_trưởng trung_quốc nói thêm “ tôi khuyên cô đừng đặt câu hỏi thái_độ vô_trách_nhiệm
+6,chúng_tôi hoan_nghênh gợi_ý thiện_chí bác_bỏ cáo_buộc vô_căn_cứ ”
+7,ông vương tiếp_tục hỏi liệu nữ nhà_báo tới trung_quốc hay
+8,“ cô biết trung_quốc giúp hơn 600 triệu người thoát nghèo
+9,cô biết trung_quốc hiện_giờ nền kinh_tế lớn thứ 2 thế_giới xuất_phát_điểm cực thấp ” ông vương nói
+10,phóng_viên ipolitics đặt câu hỏi liên_quan đến garratt công_dân canada trung_quốc bắt_giữ cáo_buộc làm gián_điệp ngoại_trưởng canada_dion đề_cập vấn_đề người đồng_cấp vương_nghị

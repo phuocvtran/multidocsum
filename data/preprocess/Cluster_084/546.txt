@@ -1,10 +1,10 @@
 idx, sentence
-0,theo các nhân_chứng cho hay vào thời_điểm khoảng 5 giờ sáng nay  một_số người dân khi đi tập_thể_dục ở khu_vực cầu cứng  thuộc tổ 26  phường phương_lâm  tp hòa_bình  đã phát_hiện ra thi_thể một nam thanh_niên trên người dính nhiều vết máu 
-1,nam thanh_niên này đã tử_vong từ trước đó 
-2,ngay sau khi phát_hiện ra vụ_việc  người dân đã báo với lực_lượng chức_năng 
-3,có_mặt tại hiện_trường  lực_lượng công_an tp hòa_bình đã tiến_hành phong_tỏa hiện_trường  tiến_hành khám_nghiệm tử_thi để điều_tra nguyên_nhân vụ_việc 
-4,theo cơ_quan_chức_năng  thi_thể trên được xác_định là nam_giới  khoảng 2530 tuổi 
-5,hiện chưa rõ danh_tính của nạn_nhân 
-6,tại hiện_trường  nạn_nhân_tử_vong trong tư_thể nằm_ngửa  trên người có nhiều vết máu  đa_phần tập_trung ở vùng miệng và tai 
-7,qua khám_nghiệm ban_đầu  cơ_quan_chức_năng đánh_giá sơ_bộ không có dấu_hiệu của ngoại_lực 
-8,rất có khả_năng nạn_nhân đã sốc thuốc  đứt động_mạch  dẫn đến tử_vong 
+0,nhân_chứng hay thời_điểm khoảng 5 giờ sáng nay một_số người dân đi tập_thể_dục ở khu_vực cầu cứng thuộc tổ 26 phường phương_lâm tp hòa_bình phát_hiện thi_thể một nam thanh_niên người dính vết máu
+1,nam thanh_niên tử_vong
+2,phát_hiện vụ_việc người dân báo lực_lượng chức_năng
+3,có_mặt hiện_trường lực_lượng công_an tp hòa_bình tiến_hành phong_tỏa hiện_trường tiến_hành khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc
+4,cơ_quan_chức_năng thi_thể xác_định nam_giới khoảng 2530 tuổi
+5,hiện rõ danh_tính nạn_nhân
+6,hiện_trường nạn_nhân_tử_vong trong tư_thể nằm_ngửa người vết máu đa_phần tập_trung ở vùng miệng tai
+7,khám_nghiệm ban_đầu cơ_quan_chức_năng đánh_giá sơ_bộ dấu_hiệu ngoại_lực
+8,khả_năng nạn_nhân sốc thuốc đứt động_mạch dẫn đến tử_vong

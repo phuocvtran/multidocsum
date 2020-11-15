@@ -1,11 +1,11 @@
 idx, sentence
-0,truyền_thông nhật_bản dẫn lời các quan_chức quân_đội cho biết bé yamato  7 tuổi  được tìm thấy trong khuôn_viên một doanh_trại quân_đội ở thị_trấn shikabe 
-1,khi đó cậu bé đang  cuộn_tròn  trên một tấm nệm và nhìn bề_ngoài không có thương_tích 
-2,cậu bé than đói và khát và đã được các binh_sĩ cho ăn_uống  sau đó được đưa tới bệnh_viện 
-3,cha_mẹ yamato tanooka báo với cảnh_sát bé bị mất_tích khi cùng họ đi kiếm rau rừng hôm 295 
-4,tuy_nhiên sau đó họ thừa_nhận đã bỏ bé lại trong rừng  được nói là có nhiều gấu  để phạt bé vì nghịch phá 
-5,khoảng 5 phút sau họ quay lại nhưng không tìm thấy bé 
-6,nhiều đội tìm_kiếm  có cả lực_lượng phòng_vệ nhật_bản  sdf   sau đó đã tỏa ra tìm_kiếm trên một khu_vực rộng_lớn nhưng không phát_hiện tung_tích cậu bé cho mãi đến hôm_nay 
-7, một sĩ_quan sdf trong lúc đi tập_thể_dục đã tìm thấy một cậu bé khoảng 7 tuổi   một phát_ngôn_viên cảnh_sát thông_tin 
-8, nhìn bề_ngoài cậu bé không bị chấn_thương  và cậu bé tự giới_thiệu mình là yamato_yamato_tanooka   ông nói 
-9,người_phát_ngôn sdf_manabu_takehara cho hay cậu bé  trông có sức_khỏe tốt  nhưng đã được đưa đến bệnh_viện bằng trực_thăng y_tế  
+0,truyền_thông nhật_bản dẫn lời quan_chức quân_đội biết bé yamato 7 tuổi tìm thấy trong khuôn_viên một doanh_trại quân_đội ở thị_trấn shikabe
+1,cậu bé cuộn_tròn một tấm nệm nhìn bề_ngoài thương_tích
+2,cậu bé than đói khát binh_sĩ ăn_uống đưa tới bệnh_viện
+3,cha_mẹ yamato tanooka báo cảnh_sát bé mất_tích họ đi kiếm rau rừng hôm 295
+4,tuy_nhiên họ thừa_nhận bỏ bé trong rừng nói gấu phạt bé nghịch phá
+5,khoảng 5 phút họ quay tìm thấy bé
+6,đội tìm_kiếm lực_lượng phòng_vệ nhật_bản sdf tỏa tìm_kiếm một khu_vực rộng_lớn phát_hiện tung_tích cậu bé mãi đến hôm_nay
+7,một sĩ_quan sdf trong đi tập_thể_dục tìm thấy một cậu bé khoảng 7 tuổi một phát_ngôn_viên cảnh_sát thông_tin
+8,nhìn bề_ngoài cậu bé chấn_thương cậu bé tự giới_thiệu mình yamato_yamato_tanooka ông nói
+9,người_phát_ngôn sdf_manabu_takehara hay cậu bé trông sức_khỏe tốt đưa đến bệnh_viện bằng trực_thăng y_tế

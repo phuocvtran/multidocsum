@@ -1,12 +1,12 @@
 idx, sentence
-0,kỳ duyên vừa đăng_tải lên instagram cá_nhân_hình_ảnh lưng người đàn_ông được cho là bạn trai tin_đồn của cô thời_gian qua 
-1,trong ảnh  chàng trai được chụp từ phía sau đang xách khá nhiều đồ_đạc trên tay và đứng xếp_hàng chờ tính tiền trong một shop thời_trang 
-2,kỳ duyên còn chú_thích   his back  feel safe   tạm dịch  tấm lưng của anh ấy  cảm_thấy an_toàn  
-3,bức ảnh về người đàn_ông bí_mật của kỳ_duyên thu_hút sự tò_mò  quan_tâm của người hâm_mộ 
-4,không ít bình_luận gửi lời chúc_mừng cho cả hai 
-5,trong số đó  có một tài_khoản là bạn_bè của kỳ_duyên đã bình_luận trêu đùa và gọi người trong ảnh là  anh rể  
-6, hoa_hậu việt_nam 2014  cũng không ngần_ngại đáp lại một_cách tự_nhiên  em cứ vào đây  chị và anh rể sẽ dẫn em đi  
-7,sau ồn_ào xoay quanh khuôn_mặt bị cho là phẫu_thuật thẩm_mỹ trước đó  kỳ_duyên tiếp_tục gây chú_ý trong show sự_kiện thời_trang của ntk_hoàng_hải ngày 25/5 khi xuất_hiện cùng một doanh_nhân 
-8,theo đó  người đàn_ông bí_ẩn được nhiều người đoán là bạn trai kỳ_duyên 
-9,anh đã chi 7000usd để đấu_giá từ_thiện chiếc váy của kỳ_duyên và khiến người đẹp ngượng_ngùng khi đứng cạnh 
-10,nhiều người còn tinh_ý phát_hiện  chàng trai này luôn ngồi cạnh và trò_chuyện thân_thiết bên mẹ hoa_hậu trong suốt khoảng thời_gian sự_kiện diễn ra 
+0,kỳ duyên đăng_tải instagram cá_nhân_hình_ảnh lưng người đàn_ông bạn trai tin_đồn cô thời_gian
+1,trong ảnh chàng trai chụp phía xách khá đồ_đạc tay đứng xếp_hàng chờ tính tiền trong một shop thời_trang
+2,kỳ duyên còn chú_thích his back feel safe tạm dịch tấm lưng anh ấy cảm_thấy an_toàn
+3,bức ảnh về người đàn_ông bí_mật kỳ_duyên thu_hút tò_mò quan_tâm người hâm_mộ
+4,ít bình_luận gửi lời chúc_mừng hai
+5,trong số một tài_khoản bạn_bè kỳ_duyên bình_luận trêu đùa gọi người trong ảnh anh rể
+6,hoa_hậu việt_nam 2014 ngần_ngại đáp tự_nhiên em chị anh rể dẫn em đi
+7,ồn_ào xoay quanh khuôn_mặt phẫu_thuật thẩm_mỹ kỳ_duyên tiếp_tục gây chú_ý trong show sự_kiện thời_trang ntk_hoàng_hải ngày 25/5 xuất_hiện một doanh_nhân
+8,người đàn_ông bí_ẩn người đoán bạn trai kỳ_duyên
+9,anh chi 7000usd đấu_giá từ_thiện váy kỳ_duyên khiến người đẹp ngượng_ngùng đứng cạnh
+10,người còn tinh_ý phát_hiện chàng trai luôn ngồi cạnh trò_chuyện thân_thiết bên mẹ hoa_hậu trong suốt khoảng thời_gian sự_kiện diễn

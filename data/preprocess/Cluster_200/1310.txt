@@ -1,12 +1,12 @@
 idx, sentence
-0,tham_dự hội_nghị  có ông wei_jizhong  phó chủ_tịch hội_đồng olympic châu_á  oca   ông haider_ahe_farman  trưởng_ban các đại_hội thể_thao châu_á  đại_diện ủy_ban y_tế  quan_hệ quốc_tế của oca và hơn 60 đại_biểu là trưởng_đoàn  phó đoàn  đại_diện đoàn thể_thao 38 quốc_gia và vùng lãnh_thổ của châu_á 
-1,về phía việt_nam  có thứ_trưởng bộ_văn_hoá  thể_thao và du_lịch lê_khánh_hải  trưởng_ban tổ_chức abg5  đại_diện các bộ ngành liên_quan và thành_phố đà_nẵng 
-2,phát_biểu tại hội_nghị  thứ_trưởng lê_khánh_hải khẳng_định  việt_nam nói_chung và thành_phố đà_nẵng nói_riêng sẽ làm hết_sức mình tổ_chức abg5 thành_công  tạo ấn_tượng tốt cho bạn_bè khu_vực và thế_giới 
-3,thứ_trưởng nhấn_mạnh  “ tôi mong ủy_ban olympic các quốc_gia  vùng lãnh_thổ sẽ cử những vận_động_viên tốt nhất tham_gia abg5  góp_phần tạo nên một kỳ đại_hội thành_công  đạt chất_lượng và góp_phần thắt chặt tình bằng_hữu giữa các quốc_gia  vùng lãnh_thổ trong khu_vực 
-4,với thông_điệp “ tỏa sáng đại_dương  tương_lai tươi_sáng ”  hy_vọng đại_hội sẽ góp thêm tiếng_nói trong việc gìn_giữ và phát_huy những giá_trị  tiềm_năng to_lớn của đại_dương vì sự phát_triển của tương_lai  vì sự thịnh_vượng chung của châu_á nói_riêng và của nhân_loại nói_chung 
-5,các đại_biểu tham_dự hội_nghị đã lắng_nghe báo_cáo tổng_quan về công_tác chuẩn_bị abg5 với các vấn_đề liên_quan đến chuyên_môn kỹ_thuật  dịch_vụ y_tế  kiểm_tra doping  công_tác an_ninh … đại_hội abg là một trong những đại_hội thể_thao lớn nhất của châu_á  do hội_đồng olympic châu_á sáng_lập 
-6,abg diễn ra lần đầu_tiên năm 2008 tại bali  indonesia theo chu_kỳ hai năm một lần 
-7,việt_nam đã chính_thức được oca trao quyền đăng_cai abg52016 trong cuộc họp ban_chấp_hành oca tại asiad quảng_châu  trung_quốc  năm 2010 và nhận cờ đăng_cai tại abg4  tháilan  năm 2014 
-8,abg5 sẽ tổ_chức 14 môn thể_thao thi_đấu với 22 phân môn và 172 bộ huy_chương  trong đó  có thể_thao dưới nước  bóng_nước  bóng_chuyền  cầu_mây  võ cổ_truyền  điền_kinh  võ_thuật … theo ban tổ_chức  các địa_điểm thi_đấu đã được khảo_sát  lựa_chọn và chuẩn_bị 
-9,bốn khu_vực thi_đấu dự_kiến gồm  công_viên biển_đông  bãi biển mỹ_khê  khu dự_án phương_trang và bãi_tắm sơn_thuỷ 
-10,abg5 sẽ diễn ra tại đà_nẵng từ ngày 249 đến 310  với sự tham_dự của khoảng 6500 người  bao_gồm  các huấn_luyện_viên  vận_động_viên  các trưởng_đoàn  tình_nguyện_viên  phóng_viên báo_chí quốc_tế và việt_nam …
+0,tham_dự hội_nghị ông wei_jizhong phó chủ_tịch hội_đồng olympic châu_á oca ông haider_ahe_farman trưởng_ban đại_hội thể_thao châu_á đại_diện ủy_ban y_tế quan_hệ quốc_tế oca hơn 60 đại_biểu trưởng_đoàn phó đoàn đại_diện đoàn thể_thao 38 quốc_gia vùng lãnh_thổ châu_á
+1,về phía việt_nam thứ_trưởng bộ_văn_hoá thể_thao du_lịch lê_khánh_hải trưởng_ban tổ_chức abg5 đại_diện bộ ngành liên_quan thành_phố đà_nẵng
+2,phát_biểu hội_nghị thứ_trưởng lê_khánh_hải khẳng_định việt_nam nói_chung thành_phố đà_nẵng nói_riêng làm hết_sức mình tổ_chức abg5 thành_công tạo ấn_tượng tốt bạn_bè khu_vực thế_giới
+3,thứ_trưởng nhấn_mạnh “ tôi mong ủy_ban olympic quốc_gia vùng lãnh_thổ cử vận_động_viên tốt nhất tham_gia abg5 góp_phần tạo một kỳ đại_hội thành_công đạt chất_lượng góp_phần thắt chặt tình bằng_hữu giữa quốc_gia vùng lãnh_thổ trong khu_vực
+4,thông_điệp “ tỏa sáng đại_dương tương_lai tươi_sáng ” hy_vọng đại_hội góp thêm tiếng_nói trong gìn_giữ phát_huy giá_trị tiềm_năng to_lớn đại_dương phát_triển tương_lai thịnh_vượng chung châu_á nói_riêng nhân_loại nói_chung
+5,đại_biểu tham_dự hội_nghị lắng_nghe báo_cáo tổng_quan về công_tác chuẩn_bị abg5 vấn_đề liên_quan đến chuyên_môn kỹ_thuật dịch_vụ y_tế kiểm_tra doping công_tác an_ninh … đại_hội abg một trong đại_hội thể_thao lớn nhất châu_á hội_đồng olympic châu_á sáng_lập
+6,abg diễn lần đầu_tiên năm 2008 bali indonesia chu_kỳ hai năm một lần
+7,việt_nam chính_thức oca trao quyền đăng_cai abg52016 trong cuộc họp ban_chấp_hành oca asiad quảng_châu trung_quốc năm 2010 nhận cờ đăng_cai abg4 tháilan năm 2014
+8,abg5 tổ_chức 14 môn thể_thao thi_đấu 22 phân môn 172 bộ huy_chương trong thể_thao nước bóng_nước bóng_chuyền cầu_mây võ cổ_truyền điền_kinh võ_thuật … ban tổ_chức địa_điểm thi_đấu khảo_sát lựa_chọn chuẩn_bị
+9,bốn khu_vực thi_đấu dự_kiến gồm công_viên biển_đông bãi biển mỹ_khê khu dự_án phương_trang bãi_tắm sơn_thuỷ
+10,abg5 diễn đà_nẵng ngày 249 đến 310 tham_dự khoảng 6500 người bao_gồm huấn_luyện_viên vận_động_viên trưởng_đoàn tình_nguyện_viên phóng_viên báo_chí quốc_tế việt_nam …

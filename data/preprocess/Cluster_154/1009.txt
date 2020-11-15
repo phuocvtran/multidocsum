@@ -1,24 +1,24 @@
 idx, sentence
-0,dưới đây là bài phát_biểu của thủ_tướng nhật_shinzo_abe để đáp lại bài phát_biểu của tổng_thống mỹ barack_obama tại hiroshima trong chuyến thăm mới_đây của ông đến thành_phố này 
-1,năm_ngoái  trong dịp kỷ_niệm 70 kết_thúc chiến_tranh thế_giới thứ_hai  tôi đến mỹ và có tham_dự một cuộc họp với quốc_hội mỹ 
-2,cuộc chiến_tranh đó đã cướp đi sinh_mạng của rất nhiều thanh_niên mỹ  bao_nhiêu ước_mơ và hoài_bão của họ tan thành mây_khói 
-3,nhìn lại những trang sử đau_thương đó  tôi xin gửi lời tiếc_thương vô_hạn đến tất_cả vong_linh người mỹ đã ra đi trong chiến_tranh thế_giới thứ_hai 
-4,tôi trân quý và biết_ơn tất_cả những người mỹ và người nhật đã nỗ_lực không ngừng để xây_dựng mối quan_hệ thân_hữu nhật  mỹ trong suốt 70 năm qua 
-5,70 năm sau cuộc chiến_tranh  những kẻ cựu thù hay đã trở_thành bạn_bè  đồng_minh  chúng_ta chia_sẻ với nhau nhiều giá_trị và ràng_buộc với nhau bởi niềm tin và tình hữu_nghị sâu_sắc giữa 2 đất_nước 
-6,liên_minh_nhật  mỹ đã trở_thành liên_minh hy_vọng cho thế_giới này 
-7,1 năm đã trôi qua 
-8,lần đầu_tiên từ khi bị đánh bom  hiroshima được đón một vị tổng_thống mỹ 
-9,quá hiểu rõ những mặt_trái xấu_xa của vũ_khí hạt_nhân  tổng_thống mỹ barack_obama muốn khẳng_định lại quyết_tâm xây_dựng một thế_giới không vũ_khí hạt_nhân 
-10,mong_muốn của ông cũng chính là mong_muốn của người dân trên khắp thế_giới này 
-11,chính_phủ  người dân nhật nói_chung và người dân hiroshima nói_riêng đã chờ_đợi một chuyến thăm như thế này từ rất lâu 
-12,vì_thế thay_mặt cho người nhật  tôi muốn gửi lời cảm_ơn chân_thành đến tổng_thống mỹ barack_obama vì sự quyết_đoán và lòng dũng_cảm của ông 
-13,nhờ có quyết_tâm của tổng_thống mỹ_obama mà người mỹ và người nhật đang cùng nhau mở ra những chương mới của lịch_sử quan_hệ nhật  mỹ  tình_thân_hữu và tin_cậy 
-14,một_vài phút trước đây  tổng_thống obama và tôi đã cùng nhau tưởng_niệm tất_cả những người đã ra đi trong chiến_tranh thế_giới thứ_hai và bởi các trận đánh bom 
-15,71 năm trước_đây tại chính thành_phố này và nagasaki  những quả bom đã cướp đi sinh_mạng của rất nhiều thường_dân vô_tội 
-16,mỗi con_người  ai cũng có gia_đình riêng và những ước_mơ hoài_bão cho tương_lai nhưng những nạn_nhân đó vĩnh_viễn không bao_giờ còn làm được điều mình muốn nữa 
-17,tôi không khỏi cảm_thấy xót_xa đau_đớn mỗi khi nghĩ đến thảm_kịch trên 
-18,còn rất nhiều người khác phải chịu những nỗi đau về thể_xác và tinh_thần suốt hơn 70 năm qua 
-19,chẳng có ngôn_từ nào đủ để diễn_tả sự đau_đớn trong con_người và tâm_hồn họ 
-20,trong tâm_trí họ  có rất nhiều cảm_xúc đan_xen nhưng chắc_chắn họ đều chung một mong_ước  một thảm_kịch như vậy sẽ không bao_giờ tái_diễn ở bất_kỳ nơi nào trên thế_giới và với bất_kỳ ai 
-21,trách_nhiệm của chúng_ta ở hiện_tại là phải thấu_hiểu mong_muốn đó và biến nó thành hiện_thực 
-22,chúng_tôi quyết_tâm loại_trừ vũ_khí hạt_nhân ra khỏi cuộc_sống của nhân_loại  dù nhiệm_vụ đó dai_dẳng  khó_khăn  và gian_nan đến đâu 
+0,bài phát_biểu thủ_tướng nhật_shinzo_abe đáp bài phát_biểu tổng_thống mỹ barack_obama hiroshima trong chuyến thăm mới_đây ông đến thành_phố
+1,năm_ngoái trong dịp kỷ_niệm 70 kết_thúc chiến_tranh thế_giới thứ_hai tôi đến mỹ tham_dự một cuộc họp quốc_hội mỹ
+2,cuộc chiến_tranh cướp đi sinh_mạng thanh_niên mỹ bao_nhiêu ước_mơ hoài_bão họ tan thành mây_khói
+3,nhìn trang sử đau_thương tôi xin gửi lời tiếc_thương vô_hạn đến tất_cả vong_linh người mỹ đi trong chiến_tranh thế_giới thứ_hai
+4,tôi trân quý biết_ơn tất_cả người mỹ người nhật nỗ_lực ngừng xây_dựng mối quan_hệ thân_hữu nhật mỹ trong suốt 70 năm
+5,70 năm cuộc chiến_tranh kẻ cựu thù hay trở_thành bạn_bè đồng_minh chúng_ta chia_sẻ nhau giá_trị ràng_buộc nhau niềm tin tình hữu_nghị sâu_sắc giữa 2 đất_nước
+6,liên_minh_nhật mỹ trở_thành liên_minh hy_vọng thế_giới
+7,1 năm trôi
+8,lần đầu_tiên đánh bom hiroshima đón một vị tổng_thống mỹ
+9,quá hiểu rõ mặt_trái xấu_xa vũ_khí hạt_nhân tổng_thống mỹ barack_obama muốn khẳng_định quyết_tâm xây_dựng một thế_giới vũ_khí hạt_nhân
+10,mong_muốn ông chính mong_muốn người dân khắp thế_giới
+11,chính_phủ người dân nhật nói_chung người dân hiroshima nói_riêng chờ_đợi một chuyến thăm thế lâu
+12,vì_thế thay_mặt người nhật tôi muốn gửi lời cảm_ơn chân_thành đến tổng_thống mỹ barack_obama quyết_đoán lòng dũng_cảm ông
+13,nhờ quyết_tâm tổng_thống mỹ_obama người mỹ người nhật nhau mở chương mới lịch_sử quan_hệ nhật mỹ tình_thân_hữu tin_cậy
+14,một_vài phút tổng_thống obama tôi nhau tưởng_niệm tất_cả người đi trong chiến_tranh thế_giới thứ_hai trận đánh bom
+15,71 năm trước_đây chính thành_phố nagasaki quả bom cướp đi sinh_mạng thường_dân vô_tội
+16,con_người ai gia_đình riêng ước_mơ hoài_bão tương_lai nạn_nhân vĩnh_viễn bao_giờ còn làm mình muốn
+17,tôi khỏi cảm_thấy xót_xa đau_đớn nghĩ đến thảm_kịch
+18,còn người khác chịu nỗi đau về thể_xác tinh_thần suốt hơn 70 năm
+19,chẳng ngôn_từ nào đủ diễn_tả đau_đớn trong con_người tâm_hồn họ
+20,trong tâm_trí họ cảm_xúc đan_xen chắc_chắn họ chung một mong_ước một thảm_kịch bao_giờ tái_diễn ở bất_kỳ nào thế_giới bất_kỳ ai
+21,trách_nhiệm chúng_ta ở hiện_tại thấu_hiểu mong_muốn biến nó thành hiện_thực
+22,chúng_tôi quyết_tâm loại_trừ vũ_khí hạt_nhân khỏi cuộc_sống nhân_loại dù nhiệm_vụ dai_dẳng khó_khăn gian_nan đến đâu

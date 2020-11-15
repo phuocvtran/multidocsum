@@ -1,9 +1,9 @@
 idx, sentence
-0,trang_web bộ_tư_pháp mỹ ngày 275 đăng_tải thông_cáo chính_thức cho biết minh_quang_pham  một người anh gốc việt  đã bị kết_án 40 năm tù tại new_york 
-1,theo phán_quyết của tòa  minh_quang_pham bị tù 40 năm vì tội khủng_bố  do đã hỗ_trợ tổ_chức khủng_bố alqaeda ở bán_đảo ả_rập  aqap  
-2,minh_quang_pham bị buộc_tội hỗ_trợ vật_chất cho aqap và âm_mưu tấn_công khủng_bố ở anh 
-3,cũng theo cáo_trạng  minh_quang_pham trong thời_gian ở yemen đã hỗ_trợ thiết_kế  làm hình_ảnh đồ_họa cho các bài báo đăng trên tạp_chí tuyên_truyền khét_tiếng inspire của aqap cũng như làm clip tuyên_truyền cho alqaeda 
-4,minh_quang pham rời anh đến yemen vào tháng 122010 và thề trung_thành với tổ_chức khủng_bố aqap 
-5,minh_quang_pham quay lại anh vào tháng 72011 và bị bắt tại sân_bay quốc_tế heathrow ở london 
-6,trong hành_lý của người này có một băng_đạn loại 762 mm có khả_năng xuyên giáp  và nhiều đồ_vật khác 
-7,minh_quang_pham bị giam tại anh  sau đó dẫn_độ sang mỹ vào tháng 22015 do bị washington truy_nã vì có tên trong danh_sách “ đen ” 
+0,trang_web bộ_tư_pháp mỹ ngày 275 đăng_tải thông_cáo chính_thức biết minh_quang_pham một người anh gốc việt kết_án 40 năm tù new_york
+1,phán_quyết tòa minh_quang_pham tù 40 năm tội khủng_bố hỗ_trợ tổ_chức khủng_bố alqaeda ở bán_đảo ả_rập aqap
+2,minh_quang_pham buộc_tội hỗ_trợ vật_chất aqap âm_mưu tấn_công khủng_bố ở anh
+3,cáo_trạng minh_quang_pham trong thời_gian ở yemen hỗ_trợ thiết_kế làm hình_ảnh đồ_họa bài báo đăng tạp_chí tuyên_truyền khét_tiếng inspire aqap làm clip tuyên_truyền alqaeda
+4,minh_quang pham rời anh đến yemen tháng 122010 thề trung_thành tổ_chức khủng_bố aqap
+5,minh_quang_pham quay anh tháng 72011 bắt sân_bay quốc_tế heathrow ở london
+6,trong hành_lý người một băng_đạn loại 762 mm khả_năng xuyên giáp đồ_vật khác
+7,minh_quang_pham giam anh dẫn_độ sang mỹ tháng 22015 washington truy_nã tên trong danh_sách “ đen ”

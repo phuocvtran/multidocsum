@@ -1,5 +1,5 @@
 idx, sentence
-0,hai tấm_gương thiếu_niên dũng_cảm là em bo_tý  14 tuổi  ngụ tại xã ba_cụm_bắc  huyện khánh_sơn  và em cao_lâm  13 tuổi ở xã sơn_bình  huyện khánh_sơn  tỉnh khánh_hòa  
-1,cả hai em đều là người dân_tộc raglai  hoàn_cảnh rất khó_khăn nên phải nghỉ học sớm đi làm_thuê phụ_giúp gia_đình 
-2,trước đó  vào chiều 20/4  trong lúc đang chăn bò thuê ở phía dưới chân đập hồ_thủy_lợi tà_rục  xã cam_phước_tây  huyện cam_lâm   bo_tý và cao_lâm phát_hiện 7 nữ_sinh trượt_chân rơi xuống lòng hồ tà_rục 
-3,ngay_lập_tức hai em đã lao nhanh xuống lòng hồ  lần_lượt cứu được 5 nữ_sinh đưa vào bờ  còn lại 2 nạn_nhân bị thiệt_mạng vì đuối nước 
+0,hai tấm_gương thiếu_niên dũng_cảm em bo_tý 14 tuổi ngụ xã ba_cụm_bắc huyện khánh_sơn em cao_lâm 13 tuổi ở xã sơn_bình huyện khánh_sơn tỉnh khánh_hòa
+1,hai em người dân_tộc raglai hoàn_cảnh khó_khăn nghỉ học sớm đi làm_thuê phụ_giúp gia_đình
+2,chiều 20/4 trong chăn bò thuê ở phía chân đập hồ_thủy_lợi tà_rục xã cam_phước_tây huyện cam_lâm bo_tý cao_lâm phát_hiện 7 nữ_sinh trượt_chân rơi xuống lòng hồ tà_rục
+3,ngay_lập_tức hai em lao nhanh xuống lòng hồ lần_lượt cứu 5 nữ_sinh đưa bờ còn 2 nạn_nhân thiệt_mạng đuối nước

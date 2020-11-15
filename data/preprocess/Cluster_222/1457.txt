@@ -1,15 +1,15 @@
 idx, sentence
-0,chiều 1/6  ông nguyễn_trọng_danh  trưởng công_an thị_trấn phố_châu  huyện hương_sơn  hà_tĩnh  cho biết  một người dân trên địa_bàn thị_trấn phát_hiện một con trăn dài gần 5 m  nặng chừng 40 kg nằm trong chuồng bò 
-1,ngay sau đó đã có rất đông người dân hiếu kỳ kéo đến xem 
-2,ông danh_thông_tin thêm  vì đông người đến xem nên hiện đơn_vị này phải cắt cử người đến hiện_trường để đảm_bảo tình_hình an_ninh trật_tự và chờ cơ_quan_chức_năng xuống giải_quyết 
-3,thông_tin ban_đầu cho biết  chừng 5 h sáng 1/6  anh nguyễn_hữu_thông  37 tuổi  ở thị_trấn phố_châu  ra chuồng bò của gia_đình để dắt bò đi ăn thì hoảng_hồn khi phát_hiện một con trăn rất lớn nằm ở góc chuồng 
-4,sau ít phút định_thần  anh thông gọi người_nhà và dân xung_quanh đến 
-5,tuy_nhiên  vì thấy con trăn này hiền_lành  không bỏ đi cũng không có biểu_hiện doạ cắn người nên anh thông không bắt 
-6,nghe tin trăn  khủng  xuất_hiện tại nhà anh thông  hàng trăm người dân xung_quanh đã kéo đến xem rất đông 
-7,nhiều người chưa bao_giờ thấy con trăn to_lớn như vậy  nghĩ là  trăn thần  nên nhiều người quỳ_lạy xuống khấn_vái liên_tục 
-8,nhận được tin báo  công_an thị_trấn phố_châu đã đến hiện_trường để đảm_bảo an_ninh trật_tự  đồng_thời trình_báo sự_việc lên cấp trên 
-9, đây là loài trăn hoa  dài gần 5 m  nặng khoảng trên 40 kg 
-10,trên cơ_thể con trăn này có một vết_thương 
-11,con trăn này rất hiền  không gây hại cho người  nằm khoanh một chỗ dù người dân đến gần  thậm_chí cầm đuôi nhưng nó không phản_ứng   trưởng công_an thị_trấn phố_châu cho biết 
-12,ông danh cũng cho biết thêm  con trăn này giống_hệt con trăn trước đây từng bị người dân trong đó có anh thông bắt được ở trên rừng gần nhà vào đầu năm 2016 
-13,sau khi bắt được  mọi người đem đi bán 
+0,chiều 1/6 ông nguyễn_trọng_danh trưởng công_an thị_trấn phố_châu huyện hương_sơn hà_tĩnh biết một người dân địa_bàn thị_trấn phát_hiện một con trăn dài gần 5 m nặng chừng 40 kg nằm trong chuồng bò
+1,đông người dân hiếu kỳ kéo đến xem
+2,ông danh_thông_tin thêm đông người đến xem hiện đơn_vị cắt cử người đến hiện_trường đảm_bảo tình_hình an_ninh trật_tự chờ cơ_quan_chức_năng xuống giải_quyết
+3,thông_tin ban_đầu biết chừng 5 h sáng 1/6 anh nguyễn_hữu_thông 37 tuổi ở thị_trấn phố_châu chuồng bò gia_đình dắt bò đi ăn hoảng_hồn phát_hiện một con trăn lớn nằm ở góc chuồng
+4,ít phút định_thần anh thông gọi người_nhà dân xung_quanh đến
+5,tuy_nhiên thấy con trăn hiền_lành bỏ đi biểu_hiện doạ cắn người anh thông bắt
+6,nghe tin trăn khủng xuất_hiện nhà anh thông hàng trăm người dân xung_quanh kéo đến xem đông
+7,người bao_giờ thấy con trăn to_lớn nghĩ trăn thần người quỳ_lạy xuống khấn_vái liên_tục
+8,nhận tin báo công_an thị_trấn phố_châu đến hiện_trường đảm_bảo an_ninh trật_tự đồng_thời trình_báo sự_việc cấp
+9,loài trăn hoa dài gần 5 m nặng khoảng 40 kg
+10,cơ_thể con trăn một vết_thương
+11,con trăn hiền gây hại người nằm khoanh một chỗ dù người dân đến gần thậm_chí cầm đuôi nó phản_ứng trưởng công_an thị_trấn phố_châu biết
+12,ông danh biết thêm con trăn giống_hệt con trăn người dân trong anh thông bắt ở rừng gần nhà đầu năm 2016
+13,bắt mọi người đem đi bán

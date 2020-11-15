@@ -1,10 +1,10 @@
 idx, sentence
-0,nhằm đảm_bảo tuyệt_đối an_ninh hàng_không dịp bầu_cử đại_biểu quốc_hội khóa xiv  bầu_cử đại_biểu hội_đồng_nhân_dân các cấp nhiệm_kỳ 2016 – 2021  cục hàng_không việt_nam yêu_cầu các đơn_vị áp_dụng các biện_pháp bảo_đảm an_ninh hàng_không từ ngày hôm_nay  20/5  25/5   cụ_thể như sau  tăng_cường công_tác tuần_tra  giám_sát khu_vực hạn_chế của cảng_hàng_không  hạn_chế cho_phép người vào khu_vực hạn_chế đón / tiễn khách 
-1,tăng_cường phỏng_vấn  đối_chiếu giấy_tờ về nhân_thân của hành_khách khi làm thủ_tục hàng_không  tăng_cường phỏng_vấn hành_khách khi làm thủ_tục kiểm_tra an_ninh hàng_không 
-2,hành_khách phải tháo giầy  áo_khoác đưa qua máy soi chiếu tia_x để kiểm_tra 
-3,tăng_cường giám_sát an_ninh đối_với hành_lý ký gửi  đảm_bảo giám_sát liên_tục bằng camera hoặc nhân_viên phục_vụ hành_lý  nhân_viên kiểm_soát an_ninh hàng_không từ khi hành_lý ký gửi được tiếp_nhận đến khi đưa lên tàu_bay 
-4,hành_lý ký gửi không có người đi cùng phải được kiểm_tra trực_quan sau khi đã được soi chiếu an_ninh hàng_không để đưa lên tàu_bay 
-5,tàu_bay đỗ ban_đêm phải bố_trí tại những khu_vực có chiếu_sáng  được giám_sát liên_tục bằng camera 
-6,tăng_cường tần_suất tuần_tra khu_vực công_cộng  phát_thanh trên hệ_thống yêu_cầu hành_khách không được rời xa hành_lý 
-7,giám_sát khu_vực công_cộng của nhà_ga bằng camera kết_hợp nhân_viên kiểm_soát an_ninh hàng_không  có phương_án chủ_động đối_phó khi xảy ra tình_huống tụ_tập gây_rối 
-8,phối_hợp chặt_chẽ với chính_quyền địa_phương  đơn_vị công_an  quân_đội  hải_quan và các đơn_vị liên_quan để trao_đổi nắm_bắt tình_hình về an_ninh chính_trị  trật_tự an_toàn xã_hội  có phương_án  biện_pháp phù_hợp để phối_hợp giữ_gìn an_ninh  an_toàn trong hoạt_động hàng_không tại địa_bàn 
+0,nhằm đảm_bảo tuyệt_đối an_ninh hàng_không dịp bầu_cử đại_biểu quốc_hội khóa xiv bầu_cử đại_biểu hội_đồng_nhân_dân cấp nhiệm_kỳ 2016 – 2021 cục hàng_không việt_nam yêu_cầu đơn_vị áp_dụng biện_pháp bảo_đảm an_ninh hàng_không ngày hôm_nay 20/5 25/5 cụ_thể tăng_cường công_tác tuần_tra giám_sát khu_vực hạn_chế cảng_hàng_không hạn_chế cho_phép người khu_vực hạn_chế đón / tiễn khách
+1,tăng_cường phỏng_vấn đối_chiếu giấy_tờ về nhân_thân hành_khách làm thủ_tục hàng_không tăng_cường phỏng_vấn hành_khách làm thủ_tục kiểm_tra an_ninh hàng_không
+2,hành_khách tháo giầy áo_khoác đưa máy soi chiếu tia_x kiểm_tra
+3,tăng_cường giám_sát an_ninh đối_với hành_lý ký gửi đảm_bảo giám_sát liên_tục bằng camera hoặc nhân_viên phục_vụ hành_lý nhân_viên kiểm_soát an_ninh hàng_không hành_lý ký gửi tiếp_nhận đến đưa tàu_bay
+4,hành_lý ký gửi người đi kiểm_tra trực_quan soi chiếu an_ninh hàng_không đưa tàu_bay
+5,tàu_bay đỗ ban_đêm bố_trí khu_vực chiếu_sáng giám_sát liên_tục bằng camera
+6,tăng_cường tần_suất tuần_tra khu_vực công_cộng phát_thanh hệ_thống yêu_cầu hành_khách rời xa hành_lý
+7,giám_sát khu_vực công_cộng nhà_ga bằng camera kết_hợp nhân_viên kiểm_soát an_ninh hàng_không phương_án chủ_động đối_phó xảy tình_huống tụ_tập gây_rối
+8,phối_hợp chặt_chẽ chính_quyền địa_phương đơn_vị công_an quân_đội hải_quan đơn_vị liên_quan trao_đổi nắm_bắt tình_hình về an_ninh chính_trị trật_tự an_toàn xã_hội phương_án biện_pháp phù_hợp phối_hợp giữ_gìn an_ninh an_toàn trong hoạt_động hàng_không địa_bàn

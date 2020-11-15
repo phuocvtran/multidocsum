@@ -1,11 +1,11 @@
 idx, sentence
-0,theo hãng thông_tấn sputnik của nga  màn phô_diễn năng_lực vận_hành và hỏa_lực là một phần trong những thử_nghiệm chiến_đấu vừa được thực_hiện với mẫu xe_tăng chiến_trường t14_armata mới nhất của nga 
-1,nhờ công_nghệ tàng_hình  cỗ máy đồ_sộ này hoàn_toàn không_thể bị phát_hiện nếu đối_phương dùng công_nghệ hồng_ngoại hay các công_nghệ khác để quét mục_tiêu 
-2,chiếc t14 được trang_bị hệ_thống radar mảng pha điện_tử chủ_động  tương_tự như hệ_thống radar trên chiến_đấu cơ thế_hệ thứ 5 t50_pak_fa của nga 
-3,hệ_thống radar này cùng các camera không chỉ nhằm phục_vụ tác_chiến mà_còn có_thể sử_dụng cho mục_đích trinh_sát và điều_chỉnh hỏa_lực 
-4,vũ_khí chính của tăng armata_t14 bao_gồm đại_bác nòng trơn 125 m và một súng_máy 762 mm điều_khiển từ xa 
-5,trong tương_lai  xe_tăng này có_thể được phát_triển trở_thành một cỗ pháo tự_hành hạng nặng  với trang_bị vũ_khí 152 mm 
-6,đặc_điểm chính của mẫu tăng chiến_trường chủ_lực này đó là tháp pháo hoàn_toàn tự_động 
-7,do_đó mỗi chiếc t14 chỉ cần 3 người vận_hành  ngồi ở phần trước  tách_biệt khỏi khoang dự_trữ phía sau 
-8,nhờ đó  trong trường_hợp khoang chứa đạn phát_nổ  tổ lái vẫn có cơ_hội cao sống_sót 
-9,nhờ lớp vỏ chống đạn  tháp pháo tự_động  hệ_thống radar hiện_đại cùng các vũ_khí phòng_thủ chủ_động  tăng t14_armata được khẳng_định có_thể đánh chặn mọi loại vũ_khí chống_tăng đang có trên chiến_trường 
+0,hãng thông_tấn sputnik nga màn phô_diễn năng_lực vận_hành hỏa_lực một phần trong thử_nghiệm chiến_đấu thực_hiện mẫu xe_tăng chiến_trường t14_armata mới nhất nga
+1,nhờ công_nghệ tàng_hình cỗ máy đồ_sộ hoàn_toàn không_thể phát_hiện đối_phương dùng công_nghệ hồng_ngoại hay công_nghệ khác quét mục_tiêu
+2,t14 trang_bị hệ_thống radar mảng pha điện_tử chủ_động tương_tự hệ_thống radar chiến_đấu cơ thế_hệ thứ 5 t50_pak_fa nga
+3,hệ_thống radar camera nhằm phục_vụ tác_chiến mà_còn sử_dụng mục_đích trinh_sát điều_chỉnh hỏa_lực
+4,vũ_khí chính tăng armata_t14 bao_gồm đại_bác nòng trơn 125 m một súng_máy 762 mm điều_khiển xa
+5,trong tương_lai xe_tăng phát_triển trở_thành một cỗ pháo tự_hành hạng nặng trang_bị vũ_khí 152 mm
+6,đặc_điểm chính mẫu tăng chiến_trường chủ_lực tháp pháo hoàn_toàn tự_động
+7,do_đó t14 3 người vận_hành ngồi ở phần tách_biệt khỏi khoang dự_trữ phía
+8,nhờ trong trường_hợp khoang chứa đạn phát_nổ tổ lái cơ_hội cao sống_sót
+9,nhờ lớp vỏ chống đạn tháp pháo tự_động hệ_thống radar hiện_đại vũ_khí phòng_thủ chủ_động tăng t14_armata khẳng_định đánh chặn mọi loại vũ_khí chống_tăng chiến_trường

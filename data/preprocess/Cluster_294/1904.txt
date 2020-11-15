@@ -1,8 +1,8 @@
 idx, sentence
-0,chiều 3/6  ông huỳnh_phấn_khởi  trưởng công_an xã đông_thạnh  huyện an_minh  tỉnh kiên_giang vừa xác_nhận thông_tin về vụ án_mạng xảy ra trên địa_bàn 
-1,theo đó  vào_khoảng 4 giờ sáng cùng ngày  trên địa_bàn ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang  xảy ra vụ án_mạng nghiêm_trọng 
-2,nạn_nhân là chị trần_thị_tuyết_mai  sinh năm 1967  chưa xác_định rõ nơi cư_trú   nghi phạm chính là lê_văn_nhỏ  sinh năm 1955  thường_trú ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang  
-3,được biết nhỏ và chị mai sống với nhau như vợ_chồng từ đầu năm 2016 cho đến nay 
-4,do ghen_tuông nên sau khi cãi nhau với chị mai  đợi lúc chị này ngủ say  nhỏ dùng dao chém gần đứt_đầu vợ rồi uống thuốc tự_tử 
-5,ngay sau đó  người_nhà đưa nhỏ đi cấp_cứu tại bệnh_viện đa_khoa tỉnh kiên_giang 
-6,nhận được thông_tin  cơ_quan_chức_năng đã có_mặt tại hiện_trường  tổ_chức khám_nghiệm hiện_trường  khám_nghiệm thi_thể rồi bàn_giao nạn_nhân cho một người em ở huyện kế_sách  tỉnh sóc_trăng lo hậu_sự 
+0,chiều 3/6 ông huỳnh_phấn_khởi trưởng công_an xã đông_thạnh huyện an_minh tỉnh kiên_giang xác_nhận thông_tin về vụ án_mạng xảy địa_bàn
+1,vào_khoảng 4 giờ sáng ngày địa_bàn ấp thạnh_phong xã đông_thạnh huyện an_minh tỉnh kiên_giang xảy vụ án_mạng nghiêm_trọng
+2,nạn_nhân chị trần_thị_tuyết_mai sinh năm 1967 xác_định rõ cư_trú nghi phạm chính lê_văn_nhỏ sinh năm 1955 thường_trú ấp thạnh_phong xã đông_thạnh huyện an_minh tỉnh kiên_giang
+3,biết nhỏ chị mai sống nhau vợ_chồng đầu năm 2016 đến nay
+4,ghen_tuông cãi nhau chị mai đợi chị ngủ say nhỏ dùng dao chém gần đứt_đầu vợ uống thuốc tự_tử
+5,người_nhà đưa nhỏ đi cấp_cứu bệnh_viện đa_khoa tỉnh kiên_giang
+6,nhận thông_tin cơ_quan_chức_năng có_mặt hiện_trường tổ_chức khám_nghiệm hiện_trường khám_nghiệm thi_thể bàn_giao nạn_nhân một người em ở huyện kế_sách tỉnh sóc_trăng lo hậu_sự

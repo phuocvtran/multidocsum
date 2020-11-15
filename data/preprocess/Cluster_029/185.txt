@@ -1,20 +1,20 @@
 idx, sentence
-0,bất_ngờ lùi ngày thu_hồi sản_phẩm ngày 18/5  trao_đổi với pv_báo giao_thông  chị thu_nguyệt  nghĩa_tân  cầu_giấy  hà_nội  bày_tỏ  “ mấy ngày gần đây  thấy báo_chí thông_tin  những loại sữa tắm  dầu gội đầu như  pantene  sunsilk  clear  hazeline  rejoice  double_rich  enchenteur  có chứa_chất cấm vẫn được bán tràn_lan tại các cửa_hàng tạp_hóa  đại_lý  thậm_chí là những siêu_thị lớn 
-1,đọc mà thấy hoang_mang bởi hầu_hết đây đều là những nhãn hàng thông_dụng mà gia_đình tôi và người_thân xung_quanh hay mua ” 
-2,theo tìm_hiểu pv  thông_tin lo_ngại chất cấm trong mỹ_phẩm xuất_phát từ công_văn của cục quản_lý dược  bộ y_tế  về việc cập_nhật các quy_định các chất dùng trong mỹ_phẩm từ tháng 4/2015 
-3,trong đó  yêu_cầu thu_hồi tất_cả các sản_phẩm  mỹ_phẩm  có chứa_chất cấm có tên  methylisothiazolinone  mit   hỗn_hợp methylechlorothiazolinone với methylisothiazolinone  mct  mit  trước ngày 30/4 
-4,tuy_nhiên  đến ngày 29/4  cục quản_lý dược lại ban_hành công_văn số 6959 / qldmp về việc quy_định các chất dùng trong mỹ_phẩm  gia_hạn thu_hồi sản_phẩm mỹ_phẩm trong thành_phần công_thức có chứa mit và hỗn_hợp mct  mit  hiện đang lưu_thông trên thị_trường đáp_ứng quy_định cũ mà chưa đáp_ứng quy_định mới  được phép tiếp_tục lưu_hành trên thị_trường đến hết 30/11 
-5,trên thực_tế theo khảo_sát của pv  trong hầu_hết các sản_phẩm mỹ_phẩm như dầu_gội  sữa tắm của các hãng có tiếng trên thị_trường việt_nam đều chứa thành_phần chất bảo_quản trên 
-6,điều đáng nói  trên bao_bì sản_phẩm chỉ ghi tên hóa_chất mà không ghi tỷ_lệ thành_phần  khiến người tiêu_dùng băn_khoăn “ làm_sao để biết sản_phẩm có chứa_chất bảo_quản này thuộc danh_mục cấm hay không ”    
-7,cơ_quan_chức_năng nói gì 
-8,trước thắc_mắc của người tiêu_dùng  trao_đổi với báo giao_thông chiều 18/5  đại_diện cục quản_lý dược cho_biết  theo công_văn số 6577 / qldmp ngày 13/4/2015 về việc cập_nhật các chất dùng trong mỹ_phẩm  thành_phần mit với nồng_độ không quá 001  vẫn được sử_dụng trong sản_phẩm mỹ_phẩm như thông_thường  chứ không phải là thành_phần bị cấm sử_dụng 
-9,tương_tự hỗn_hợp mct  mit theo tỷ_lệ 3  1 với nồng_độ không quá 00015  vẫn được sử_dụng các ở sản_phẩm rửa_sạch  rinseoff product như  dầu_gội  dầu xả  sữa tắm  xà_phòng  nước rửa tay     có qui_định giới_hạn về nồng_độ hàm_lượng  chứ không phải bị cấm sử_dụng 
-10,theo ông đỗ_duy_phi  chủ_tịch hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam  hiệp_hội   năm 2014  eu có văn_bản đưa ra các quy_định về việc điều_chỉnh hàm_lượng mit và mct dùng trong mỹ_phẩm để kiểm_soát nguy_cơ có_thể gây nhạy_cảm da 
-11,tuy_nhiên  chưa có báo_cáo chính_thức nào khẳng_định về việc các thành_phần này có_thể gây mất an_toàn ở một hàm_lượng nhất_định 
-12,nguy_cơ về việc gây nhạy_cảm da đến từ các sản_phẩm lưu lại trên da thay_vì các sản_phẩm rửa_sạch 
-13,vì_vậy  các thành_phần này đã bị cấm sử_dụng trên các sản_phẩm lưu lại trên da 
-14,” việc thay_đổi chỉ_định điều_chỉnh hàm_lượng cho_phép sử_dụng hai thành_phần nói trên chứ không cấm sử_dụng các thành_phần này 
-15,vì đây là hai chất bảo_quản đang được sử_dụng rộng_rãi trên thế_giới và chưa có bằng_chứng về sự mất an_toàn ”  ông phi khẳng_định 
-16,lý_giải về việc gia_hạn lộ_trình áp_dụng  đại_diện cục quản_lý dược cho biết  xuất_phát trên cơ_sở đánh_giá nguy_cơ  đến nay chưa có bằng_chứng khoa_học nào chỉ ra việc sử_dụng các sản_phẩm mỹ_phẩm có các hoạt_chất với tỷ_lệ quy_định cũ là không an_toàn   nên các nước có quy_định kéo_dài thêm lộ_trình áp_dụng với các quy_định cũ 
-17,cụ_thể  thái_lan  myanma  campuchia và lào kéo_dài đến hết tháng 11  của indonesia là hết tháng 12 
-18,do_vậy  việt_nam cũng quyết_định kéo_dài lộ_trình đến 30/11 
+0,bất_ngờ lùi ngày thu_hồi sản_phẩm ngày 18/5 trao_đổi pv_báo giao_thông chị thu_nguyệt nghĩa_tân cầu_giấy hà_nội bày_tỏ “ mấy ngày gần thấy báo_chí thông_tin loại sữa tắm dầu gội đầu pantene sunsilk clear hazeline rejoice double_rich enchenteur chứa_chất cấm bán tràn_lan cửa_hàng tạp_hóa đại_lý thậm_chí siêu_thị lớn
+1,đọc thấy hoang_mang hầu_hết nhãn hàng thông_dụng gia_đình tôi người_thân xung_quanh hay mua ”
+2,tìm_hiểu pv thông_tin lo_ngại chất cấm trong mỹ_phẩm xuất_phát công_văn cục quản_lý dược bộ y_tế về cập_nhật quy_định chất dùng trong mỹ_phẩm tháng 4/2015
+3,trong yêu_cầu thu_hồi tất_cả sản_phẩm mỹ_phẩm chứa_chất cấm tên methylisothiazolinone mit hỗn_hợp methylechlorothiazolinone methylisothiazolinone mct mit ngày 30/4
+4,tuy_nhiên đến ngày 29/4 cục quản_lý dược ban_hành công_văn số 6959 / qldmp về quy_định chất dùng trong mỹ_phẩm gia_hạn thu_hồi sản_phẩm mỹ_phẩm trong thành_phần công_thức chứa mit hỗn_hợp mct mit hiện lưu_thông thị_trường đáp_ứng quy_định cũ đáp_ứng quy_định mới phép tiếp_tục lưu_hành thị_trường đến hết 30/11
+5,thực_tế khảo_sát pv trong hầu_hết sản_phẩm mỹ_phẩm dầu_gội sữa tắm hãng tiếng thị_trường việt_nam chứa thành_phần chất bảo_quản
+6,đáng nói bao_bì sản_phẩm ghi tên hóa_chất ghi tỷ_lệ thành_phần khiến người tiêu_dùng băn_khoăn “ làm_sao biết sản_phẩm chứa_chất bảo_quản thuộc danh_mục cấm hay ”
+7,cơ_quan_chức_năng nói
+8,thắc_mắc người tiêu_dùng trao_đổi báo giao_thông chiều 18/5 đại_diện cục quản_lý dược cho_biết công_văn số 6577 / qldmp ngày 13/4/2015 về cập_nhật chất dùng trong mỹ_phẩm thành_phần mit nồng_độ quá 001 sử_dụng trong sản_phẩm mỹ_phẩm thông_thường thành_phần cấm sử_dụng
+9,tương_tự hỗn_hợp mct mit tỷ_lệ 3 1 nồng_độ quá 00015 sử_dụng ở sản_phẩm rửa_sạch rinseoff product dầu_gội dầu xả sữa tắm xà_phòng nước rửa tay qui_định giới_hạn về nồng_độ hàm_lượng cấm sử_dụng
+10,ông đỗ_duy_phi chủ_tịch hiệp_hội tinh_dầu_hương_liệu mỹ_phẩm việt_nam hiệp_hội năm 2014 eu văn_bản đưa quy_định về điều_chỉnh hàm_lượng mit mct dùng trong mỹ_phẩm kiểm_soát nguy_cơ gây nhạy_cảm da
+11,tuy_nhiên báo_cáo chính_thức nào khẳng_định về thành_phần gây mất an_toàn ở một hàm_lượng nhất_định
+12,nguy_cơ về gây nhạy_cảm da đến sản_phẩm lưu da thay_vì sản_phẩm rửa_sạch
+13,vì_vậy thành_phần cấm sử_dụng sản_phẩm lưu da
+14,” thay_đổi chỉ_định điều_chỉnh hàm_lượng cho_phép sử_dụng hai thành_phần nói cấm sử_dụng thành_phần
+15,hai chất bảo_quản sử_dụng rộng_rãi thế_giới bằng_chứng về mất an_toàn ” ông phi khẳng_định
+16,lý_giải về gia_hạn lộ_trình áp_dụng đại_diện cục quản_lý dược biết xuất_phát cơ_sở đánh_giá nguy_cơ đến nay bằng_chứng khoa_học nào sử_dụng sản_phẩm mỹ_phẩm hoạt_chất tỷ_lệ quy_định cũ an_toàn nước quy_định kéo_dài thêm lộ_trình áp_dụng quy_định cũ
+17,cụ_thể thái_lan myanma campuchia lào kéo_dài đến hết tháng 11 indonesia hết tháng 12
+18,do_vậy việt_nam quyết_định kéo_dài lộ_trình đến 30/11

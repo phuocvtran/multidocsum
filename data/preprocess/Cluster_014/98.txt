@@ -1,9 +1,9 @@
 idx, sentence
-0,thông_tin này được một người triều_tiên đào_tẩu sang hàn_quốc hồi năm 2015 cung_cấp 
-1,theo voa  tháng 9/2012  chú của kim_jong un  ông jang_songthaek bắt_đầu lên kế_hoạch tìm_kiếm cháu_rể mình trong nhuwxg ưu_tú nhất của triều_tiên 
-2,“ ông ấy đã chọn 30 sinh_viên tốt ngiệp đại_học và các sinh_viên theo học chương_trình thạc_sĩ từng phục_vụ trong quân_đội triều_tiên 
-3,họ đều là thành_viên của đảng lao_động  có_vẻ ngoại_hình nổi_bật và đều cao hơn 1 m75 ”  người đào_tẩu này tiết_lộ 
-4,tuy_nhiên  kế_hoạch của ông bị hoãn lại vô_thời_hạn sau khi người chú của kim_jongun bị xử_tử hồi tháng 12/2013 với cáo_buộc  âm_mưu lật_đổ chính_phủ và tham_vọng thâu_tóm quyền_lực  
-5,trước đó  truyền_thông hàn_quốc từng đưa tin về việc em_gái ông kim_jongun đã kết_hôn với con_trai của một trong những quan_chức quyền_lực nhất triều_tiên  con_trai của bí_thư đảng lao_động triều_tiên choe_ryonghae 
-6,mặc_dù vậy theo nguồn tin của voa  con_trai của ông choe đã qua_đời trong một tai_nạn xe_hơi vào tháng 5/2013 
-7,ông kenji_fujimoto  cựu đầu_bếp của chủ_tịch kim_jongil cũng khẳng_định cô kim chưa kết_hôn như báo_chí đồn đoán 
+0,thông_tin một người triều_tiên đào_tẩu sang hàn_quốc hồi năm 2015 cung_cấp
+1,voa tháng 9/2012 chú kim_jong un ông jang_songthaek bắt_đầu kế_hoạch tìm_kiếm cháu_rể mình trong nhuwxg ưu_tú nhất triều_tiên
+2,“ ông ấy chọn 30 sinh_viên tốt ngiệp đại_học sinh_viên học chương_trình thạc_sĩ phục_vụ trong quân_đội triều_tiên
+3,họ thành_viên đảng lao_động có_vẻ ngoại_hình nổi_bật cao hơn 1 m75 ” người đào_tẩu tiết_lộ
+4,tuy_nhiên kế_hoạch ông hoãn vô_thời_hạn người chú kim_jongun xử_tử hồi tháng 12/2013 cáo_buộc âm_mưu lật_đổ chính_phủ tham_vọng thâu_tóm quyền_lực
+5,truyền_thông hàn_quốc đưa tin về em_gái ông kim_jongun kết_hôn con_trai một trong quan_chức quyền_lực nhất triều_tiên con_trai bí_thư đảng lao_động triều_tiên choe_ryonghae
+6,mặc_dù nguồn tin voa con_trai ông choe qua_đời trong một tai_nạn xe_hơi tháng 5/2013
+7,ông kenji_fujimoto cựu đầu_bếp chủ_tịch kim_jongil khẳng_định cô kim kết_hôn báo_chí đồn đoán

@@ -1,20 +1,20 @@
 idx, sentence
-0,ngày 19/5  tand tỉnh kiên_giang đã mở đã phiên sơ_thẩm_xét_xử vụ án “ giết_người ” và tuyên_phạt bị_cáo nguyễn_ngọc_nguyên  31 tuổi  ngụ tprạch_giá  tỉnh kiên_giang  mức án tù_chung_thân 
-1,nạn_nhân là chị lê_thị_h  22 tuổi  ngụ ấp vĩnh_thành  xã vĩnh_hòa_hiệp  huyện châu_thành  tỉnh kiên_giang  – vợ bị_cáo 
-2,theo nội_dung vụ_án  chiều ngày 23/12/2015  sau khi nhậu cùng với nhóm bạn  nguyên đi về nhà nhà mẹ vợ ở ấp vĩnh_thành  xã vĩnh_hòa_hiệp  ngủ 
-3,đến khoảng 19 h cùng ngày  nguyên thức dậy và kêu vợ là lê_thị_h  22 tuổi  dọn cơm ăn 
-4,sau đó  2 người xảy ra mâu_thuẫn 
-5,trong cơn nóng_giận  nguyên dùng dao chém nhiều nhát vào người chị h tử_vong tại_chỗ 
-6,chưa dừng lại ở đó  khi phát_hiện bà trần_thị_duyên  48 tuổi  mẹ ruột chị h  chạy đến can_ngăn thì nguyên vung dao chém liên_tiếp nhiều nhát vào vai và lưng bà duyên rồi mới vứt con dao vào bụi rậm  sau đó rời khỏi hiện_trường 
-7,gây_án xong  nguyên rời khỏi hiện_trường  về nhà cha_mẹ ruột ở tprạch_giá  giáp_ranh xã vĩnh_hòa_hiệp  thì bị lực_lượng công_an bắt_giữ 
-8,theo anh nguyễn_hoàng_anh  20 tuổi  em_trai út của chị h  cho biết  “ sau khi cưới chị_gái tôi làm vợ thì nguyên ở rể luôn bên gia_đình vợ trong suốt gần 5 năm nay 
-9,hàng_ngày  anh rể cùng với tôi đi mò tìm phế_liệu sắt khắp các tuyến sông trên địa_bàn 
-10,trước ngày xảy ra án_mạng đau_lòng  thấy anh rể vẫn bình_thường  không có biểu_hiện lạ nào 
-11,giờ chị tôi không còn  mẹ tôi bị anh rể chém trọng_thương  2 cháu nhỏ phải bơ_vơ trước cảnh mồ_côi mẹ  cha thì vướng vào vòng lao_lý  những ngày_tháng sắp tới không biết sẽ như thế_nào … ” 
-12,“ trước khi chính_thức làm_rể gia_đình  thì nguyên từng có 2 đời vợ và 2 đứa con riêng 
-13,đứa con_trai 10 tuổi hiện sống chung cùng gia_đình  còn con_gái 11 tuổi đang được người vợ_thứ 2 của nguyên chăm_sóc  nuôi_dưỡng 
-14,còn chị h được xem là người vợ_thứ 3 của nguyên  lệch nhau đến 11 tuổi ”  bà duyên tâm_sự 
-15,bà nguyễn_thị_kim_hoa  61 tuổi  mẹ ruột của nguyên  nói thêm  “ nguyên_là con_trai thứ 6 trong gia_đình có 8 anh_chị_em 
-16,vì đói_nghèo nên nguyên chỉ được học đến cấp 2 rồi nghỉ 
-17,đến tuổi trưởng_thành  nguyên lập gia_đình và chủ_yếu là làm_thuê kiếm sống 
-18,hạnh_phúc bên người vợ đầu_tiên không lâu thì hai người chia_tay vì không hợp nhau 
+0,ngày 19/5 tand tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử vụ án “ giết_người ” tuyên_phạt bị_cáo nguyễn_ngọc_nguyên 31 tuổi ngụ tprạch_giá tỉnh kiên_giang mức án tù_chung_thân
+1,nạn_nhân chị lê_thị_h 22 tuổi ngụ ấp vĩnh_thành xã vĩnh_hòa_hiệp huyện châu_thành tỉnh kiên_giang – vợ bị_cáo
+2,nội_dung vụ_án chiều ngày 23/12/2015 nhậu nhóm bạn nguyên đi về nhà nhà mẹ vợ ở ấp vĩnh_thành xã vĩnh_hòa_hiệp ngủ
+3,đến khoảng 19 h ngày nguyên thức dậy kêu vợ lê_thị_h 22 tuổi dọn cơm ăn
+4,2 người xảy mâu_thuẫn
+5,trong cơn nóng_giận nguyên dùng dao chém nhát người chị h tử_vong tại_chỗ
+6,dừng ở phát_hiện bà trần_thị_duyên 48 tuổi mẹ ruột chị h chạy đến can_ngăn nguyên vung dao chém liên_tiếp nhát vai lưng bà duyên mới vứt con dao bụi rậm rời khỏi hiện_trường
+7,gây_án xong nguyên rời khỏi hiện_trường về nhà cha_mẹ ruột ở tprạch_giá giáp_ranh xã vĩnh_hòa_hiệp lực_lượng công_an bắt_giữ
+8,anh nguyễn_hoàng_anh 20 tuổi em_trai út chị h biết “ cưới chị_gái tôi làm vợ nguyên ở rể luôn bên gia_đình vợ trong suốt gần 5 năm nay
+9,hàng_ngày anh rể tôi đi mò tìm phế_liệu sắt khắp tuyến sông địa_bàn
+10,ngày xảy án_mạng đau_lòng thấy anh rể bình_thường biểu_hiện lạ nào
+11,giờ chị tôi còn mẹ tôi anh rể chém trọng_thương 2 cháu nhỏ bơ_vơ cảnh mồ_côi mẹ cha vướng vòng lao_lý ngày_tháng sắp tới biết thế_nào … ”
+12,“ chính_thức làm_rể gia_đình nguyên 2 đời vợ 2 đứa con riêng
+13,đứa con_trai 10 tuổi hiện sống chung gia_đình còn con_gái 11 tuổi người vợ_thứ 2 nguyên chăm_sóc nuôi_dưỡng
+14,còn chị h xem người vợ_thứ 3 nguyên lệch nhau đến 11 tuổi ” bà duyên tâm_sự
+15,bà nguyễn_thị_kim_hoa 61 tuổi mẹ ruột nguyên nói thêm “ nguyên_là con_trai thứ 6 trong gia_đình 8 anh_chị_em
+16,đói_nghèo nguyên học đến cấp 2 nghỉ
+17,đến tuổi trưởng_thành nguyên lập gia_đình chủ_yếu làm_thuê kiếm sống
+18,hạnh_phúc bên người vợ đầu_tiên lâu hai người chia_tay hợp nhau

@@ -1,16 +1,16 @@
 idx, sentence
-0,chiều 1/6  đội_tuyển việt_nam đã lên_đường sang yangon  myanmar  để chuẩn_bị cho cúp tứ_hùng quốc_tế 
-1,chiến_thắng 20 trước đội_tuyển syria trước đó đã khiến không_khí toàn đội rất vui_vẻ  thoải_mái 
-2,hlv hữu_thắng và các cầu_thủ liên_tục trò_chuyện cởi_mở  trêu đùa nhau trong suốt hành_trình bay 
-3,tại sân_bay quốc_tế nội_bài  phát_hiện thấy thầy_trò hlv hữu_thắng  rất nhiều fan trẻ đã quây lại  xin chữ_ký  chụp ảnh chung 
-4,“ đắt sô ” nhất vẫn là các cầu_thủ học_viện bóng_đá hagl như công_phượng  tuấn_anh  xuân_trường  văn_toàn 
-5,sau hành_trình bay khoảng 1 h30 phút  toàn đội đã đặt_chân tới sân_bay yangon vào hồi 19 h15  giờ việt_nam  
-6,tại đây  đội_tuyển việt_nam đã được btc nước chủ nhà myanmar bố_trí xe đưa thẳng về khách_sạn yangon 
-7,đây là một trong những khách_sạn loại sang ở thành_phố yangon 
-8,các thành_viên đội_tuyển việt_nam nhanh_chóng làm thủ_tục nhận phòng để nghỉ_ngơi 
-9,trao_đổi với tiền_phong  hlv nguyễn_hữu_thắng cho biết  sau trận đấu với syria tối 31/5  đội_tuyển việt_nam chỉ có trường_hợp của_công phượng đang đau nhẹ 
-10,trong hành_trình từ hà_nội sang yangon  tiền_đạo gốc nghệ đã phải tập_tễnh với chiếc chân đau 
-11,theo hlv hữu_thắng  công_phượng bị bong_gân cổ_chân  nhưng mức_độ nhẹ 
-12,theo kế_hoạch dự_kiến  hôm_nay đội_tuyển việt_nam sẽ được tập một buổi tại sân vận_động chính vào lúc 15 h  giờ myanmar  để làm_quen sân 
-13,hlv nguyễn_hữu_thắng cho biết  do vừa thi_đấu với syria nên buổi tập sẽ diễn ra nhẹ_nhàng  chủ_yếu giúp các cầu_thủ thư_giãn  làm_quen với thời_tiết 
-14,“ ngày 3/6 chúng_ta đã phải thi_đấu với hong_kong  trung_quốc  rồi  nên không cần_thiết phải tập nặng ”  hlv nguyễn_hữu_thắng nói 
+0,chiều 1/6 đội_tuyển việt_nam lên_đường sang yangon myanmar chuẩn_bị cúp tứ_hùng quốc_tế
+1,chiến_thắng 20 đội_tuyển syria khiến không_khí toàn đội vui_vẻ thoải_mái
+2,hlv hữu_thắng cầu_thủ liên_tục trò_chuyện cởi_mở trêu đùa nhau trong suốt hành_trình bay
+3,sân_bay quốc_tế nội_bài phát_hiện thấy thầy_trò hlv hữu_thắng fan trẻ quây xin chữ_ký chụp ảnh chung
+4,“ đắt sô ” nhất cầu_thủ học_viện bóng_đá hagl công_phượng tuấn_anh xuân_trường văn_toàn
+5,hành_trình bay khoảng 1 h30 phút toàn đội đặt_chân tới sân_bay yangon hồi 19 h15 giờ việt_nam
+6,đội_tuyển việt_nam btc nước chủ nhà myanmar bố_trí xe đưa thẳng về khách_sạn yangon
+7,một trong khách_sạn loại sang ở thành_phố yangon
+8,thành_viên đội_tuyển việt_nam nhanh_chóng làm thủ_tục nhận phòng nghỉ_ngơi
+9,trao_đổi tiền_phong hlv nguyễn_hữu_thắng biết trận đấu syria tối 31/5 đội_tuyển việt_nam trường_hợp của_công phượng đau nhẹ
+10,trong hành_trình hà_nội sang yangon tiền_đạo gốc nghệ tập_tễnh chân đau
+11,hlv hữu_thắng công_phượng bong_gân cổ_chân mức_độ nhẹ
+12,kế_hoạch dự_kiến hôm_nay đội_tuyển việt_nam tập một buổi sân vận_động chính 15 h giờ myanmar làm_quen sân
+13,hlv nguyễn_hữu_thắng biết thi_đấu syria buổi tập diễn nhẹ_nhàng chủ_yếu giúp cầu_thủ thư_giãn làm_quen thời_tiết
+14,“ ngày 3/6 chúng_ta thi_đấu hong_kong trung_quốc cần_thiết tập nặng ” hlv nguyễn_hữu_thắng nói

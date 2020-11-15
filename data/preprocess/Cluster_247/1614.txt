@@ -1,25 +1,25 @@
 idx, sentence
-0,theo cáo_trạng của vksnd tỉnh thanh_hóa  vào ngày 21/12/2015  do không có tiền mua ma_túy sử_dụng nên hoàng_ngọc_hùng  sn 1988  và anh bùi_xuân_vinh  sn 1976  đều trú ở phường quảng_thành  tp thanh_hóa  đưa xe_máy của bạn anh vinh đi cắm lấy 1 triệu đồng để mua ma_túy dùng chung 
-1,ngày 22/12  do bạn anh vinh đòi xe nên anh vinh nói với hùng đưa xe_máy của hùng đi cầm thay_đổi rồi ngày_mai anh vinh sẽ lấy ra cho hùng nên hùng đồng_ý 
-2,một ngày sau  hùng nghĩ_lại việc nhiều lần dùng xe_máy của mình để cầm lấy tiền mua ma_túy dùng chung nhưng anh vinh đều không trả tiền mà hùng đều phải tự đi chuộc nên lần này hùng nghĩ anh vinh cũng lừa mình 
-3,hùng nghĩ nếu hôm_nay anh vinh mà không đưa tiền chuộc xe ra thì hùng sẽ giết anh vinh 
-4,hùng lấy một con dao nhọn  loại dao dùng chọc_tiết lợn  dắt vào cạp_quần rồi đi xe_đạp đến nhà ông nguyễn_đăng_tứ  cùng phường  mua tiếp một con dao nhọn gọt hoa_quả rồi bỏ vào trong túi quần 
-5,biết anh vinh không có nhà nên hùng đi về nhà 
-6,trưa cùng ngày  hùng sang nhà em họ mua chiếc xe_máy hiệu wave a  mua xe xong  hùng xuống nhà anh nguyễn_văn_quế  cùng phường quảng_thành 
-7,trong người_hùng vẫn mang hai con dao theo 
-8,anh quế mời hùng uống bia  hùng ngồi xuống cùng uống 
-9,hùng mượn điện_thoại của anh quế gọi cho anh vinh 
-10,sau đó anh vinh cùng một người bạn cùng xuống nhà anh quế gặp vinh 
-11,tại đây  khi mọi người đã vào trong nhà_khách  chỉ còn lại hùng và anh vinh  hùng mới hỏi anh vinh trả tiền để đi chuộc xe 
-12,tuy_nhiên  anh vinh nói đang đi vay tiền và sẽ trả vào chiều hoặc sáng_mai 
-13,cho_rằng lần này lại bị lừa nên hùng đi theo anh vinh rồi rút dao chọc_tiết lợn ra cắt cổ anh vinh từ phía sau 
-14,anh vinh bỏ chạy và được mọi người ngăn_cản nhưng không được 
-15,hùng vẫn đuổi theo anh vinh đòi giết 
-16,mặc_dù bỏ chạy nhưng anh vinh bị hùng đuổi kịp 
-17,hùng tiếp_tục dùng con dao vừa cắt cổ nạn_nhân đâm một nhát vào sau lưng 
-18,anh vinh loạng_choạng ngã xuống 
-19,hùng bị anh quế giằng lấy con dao ném ra ruộng rau_muống  tuy_nhiên hắn vẫn cố_tình lấy tiếp con dao_gọt hoa_quả ra đâm một nhát vào hõm nách anh vinh 
-20,sau khi gây_án  hùng chạy bộ rời khỏi hiện_trường  vứt lại dao gây_án và mũ_bảo_hiểm trên đường đi 
-21,hùng trở về nhà kể lại sự_việc cho mẹ mình nghe 
-22,được mẹ động_viên  chiều cùng ngày hùng đã ra_công_an phường quảng_thành đầu_thú  khai nhận hành_vi phạm_tội của mình 
-23,về phía nạn_nhân bùi_xuân_vinh  dù đã được đưa đi cấp_cứu tuy_nhiên  sau đó  anh vinh đã chết tại bệnh_viện 
+0,cáo_trạng vksnd tỉnh thanh_hóa ngày 21/12/2015 tiền mua ma_túy sử_dụng hoàng_ngọc_hùng sn 1988 anh bùi_xuân_vinh sn 1976 trú ở phường quảng_thành tp thanh_hóa đưa xe_máy bạn anh vinh đi cắm lấy 1 triệu đồng mua ma_túy dùng chung
+1,ngày 22/12 bạn anh vinh đòi xe anh vinh nói hùng đưa xe_máy hùng đi cầm thay_đổi ngày_mai anh vinh lấy hùng hùng đồng_ý
+2,một ngày hùng nghĩ_lại lần dùng xe_máy mình cầm lấy tiền mua ma_túy dùng chung anh vinh trả tiền hùng tự đi chuộc lần hùng nghĩ anh vinh lừa mình
+3,hùng nghĩ hôm_nay anh vinh đưa tiền chuộc xe hùng giết anh vinh
+4,hùng lấy một con dao nhọn loại dao dùng chọc_tiết lợn dắt cạp_quần đi xe_đạp đến nhà ông nguyễn_đăng_tứ phường mua tiếp một con dao nhọn gọt hoa_quả bỏ trong túi quần
+5,biết anh vinh nhà hùng đi về nhà
+6,trưa ngày hùng sang nhà em họ mua xe_máy hiệu wave a mua xe xong hùng xuống nhà anh nguyễn_văn_quế phường quảng_thành
+7,trong người_hùng mang hai con dao
+8,anh quế mời hùng uống bia hùng ngồi xuống uống
+9,hùng mượn điện_thoại anh quế gọi anh vinh
+10,anh vinh một người bạn xuống nhà anh quế gặp vinh
+11,mọi người trong nhà_khách còn hùng anh vinh hùng mới hỏi anh vinh trả tiền đi chuộc xe
+12,tuy_nhiên anh vinh nói đi vay tiền trả chiều hoặc sáng_mai
+13,cho_rằng lần lừa hùng đi anh vinh rút dao chọc_tiết lợn cắt cổ anh vinh phía
+14,anh vinh bỏ chạy mọi người ngăn_cản
+15,hùng đuổi anh vinh đòi giết
+16,mặc_dù bỏ chạy anh vinh hùng đuổi kịp
+17,hùng tiếp_tục dùng con dao cắt cổ nạn_nhân đâm một nhát lưng
+18,anh vinh loạng_choạng ngã xuống
+19,hùng anh quế giằng lấy con dao ném ruộng rau_muống tuy_nhiên hắn cố_tình lấy tiếp con dao_gọt hoa_quả đâm một nhát hõm nách anh vinh
+20,gây_án hùng chạy bộ rời khỏi hiện_trường vứt dao gây_án mũ_bảo_hiểm đường đi
+21,hùng trở về nhà kể sự_việc mẹ mình nghe
+22,mẹ động_viên chiều ngày hùng ra_công_an phường quảng_thành đầu_thú khai nhận hành_vi phạm_tội mình
+23,về phía nạn_nhân bùi_xuân_vinh dù đưa đi cấp_cứu tuy_nhiên anh vinh chết bệnh_viện

@@ -1,7 +1,7 @@
 idx, sentence
-0,ở vòng 11 giải kleague 2016 diễn ra ngày hôm_nay  incheon_united sẽ bước vào cuộc so tài với gwangju_fc 
-1,trận đấu này khá đặc_biệt  nó diễn ra vào  ngày_hội việt_nam  tại hàn_quốc 
-2,đông_đảo cộng_đồng người việt_nam ở hàn_quốc sẽ có_mặt tại svđ để tham_dự các hoạt_động của ngày_hội  dự_kiến kéo_dài từ lúc 14 h00 đến 18 h00  giờ hàn_quốc  
-3,với tư_cách là gương_mặt đại_diện độc_quyền cho ngân_hàng shinhan  tiền_vệ lương_xuân_trường của clb incheon_united sẽ đóng vai_trò là nhân_vật đặc_biệt trong ngày hội  vì_thế anh đã được hlv kim_dohoon đăng_ký ngay ở đội_hình xuất_phát của incheon_utd 
-4,như_vậy  sau hơn 4 tháng đến hàn_quốc  tiền_vệ gốc tuyên_quang cũng đã có được trận ra_mắt tại đấu_trường kleague 
-5,xuân trường_xuân_trường sẽ chính_thức đi vào lịch_sử với tư_cách là cầu_thủ gốc đông_nam_á đầu_tiên sau 30 năm qua ra sân thi_đấu ở kleague_classic  giải đấu cao nhất hàn_quốc 
+0,ở vòng 11 giải kleague 2016 diễn ngày hôm_nay incheon_united bước cuộc tài gwangju_fc
+1,trận đấu khá đặc_biệt nó diễn ngày_hội việt_nam hàn_quốc
+2,đông_đảo cộng_đồng người việt_nam ở hàn_quốc có_mặt svđ tham_dự hoạt_động ngày_hội dự_kiến kéo_dài 14 h00 đến 18 h00 giờ hàn_quốc
+3,tư_cách gương_mặt đại_diện độc_quyền ngân_hàng shinhan tiền_vệ lương_xuân_trường clb incheon_united đóng vai_trò nhân_vật đặc_biệt trong ngày hội vì_thế anh hlv kim_dohoon đăng_ký ở đội_hình xuất_phát incheon_utd
+4,như_vậy hơn 4 tháng đến hàn_quốc tiền_vệ gốc tuyên_quang trận ra_mắt đấu_trường kleague
+5,xuân trường_xuân_trường chính_thức đi lịch_sử tư_cách cầu_thủ gốc đông_nam_á đầu_tiên 30 năm sân thi_đấu ở kleague_classic giải đấu cao nhất hàn_quốc

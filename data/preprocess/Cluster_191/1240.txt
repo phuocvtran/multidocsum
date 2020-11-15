@@ -1,5 +1,5 @@
 idx, sentence
-0,tờ south_china_morning_post  scmp  đưa tin tâm chấn trận động_đất nằm ở độ sâu 2713 km trên vùng_biển nằm cách thành_phố cơ_long  đông bắc đài_loan 731 km 
-1,trận động_đất xảy ra lúc 13 g 23  giờ_địa_phương  
-2,rung chấn trận này cảm_nhận rõ nhất ở những khu_vực làm_việc nằm trên các tòa nhà cao_tầng 
-3,hiện chưa có báo_cáo thiệt_hại hay thương_vong 
+0,tờ south_china_morning_post scmp đưa tin tâm chấn trận động_đất nằm ở độ sâu 2713 km vùng_biển nằm cách thành_phố cơ_long đông bắc đài_loan 731 km
+1,trận động_đất xảy 13 g 23 giờ_địa_phương
+2,rung chấn trận cảm_nhận rõ nhất ở khu_vực làm_việc nằm tòa nhà cao_tầng
+3,hiện báo_cáo thiệt_hại hay thương_vong

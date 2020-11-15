@@ -1,23 +1,23 @@
 idx, sentence
-0,ngày 23/5  tổng_cty hàng_không việt_nam –_ctcp  vietnam_airlines  tổ_chức thành_công đại_hội cổ_đông thường_niên năm 2016 sau hơn một năm chuyển_đổi hoạt_động theo mô_hình công_ty cổ_phần 
-1,bầu chủ_tịch và tổng_giám_đốc tại đại_hội  các cổ_đông của vietnam_airlines thảo_luận và biểu_quyết thông_qua nhiều nội_dung quan_trọng 
-2,về kết_quả sản_xuất kinh_doanh năm 2015  tổng_công_ty hoàn_thành vượt mức các chỉ_tiêu kế_hoạch  tổng_sản_lượng vận_chuyển hành_khách đạt khoảng 174 triệu lượt khách và hàng_hóa đạt 2216 ngàn tấn 
-3,tổng_doanh_thu hợp_nhất đạt hơn 69 ngàn tỷ đồng  trong đó doanh_thu công_ty mẹ đạt hơn 566 ngàn tỷ đồng 
-4,lợi_nhuận trước thuế hợp_nhất đạt 10488 tỷ đồng  tăng hơn 70  so với kế_hoạch 2015 
-5,tỷ_lệ lợi_nhuận ròng trên vốn chủ_sở_hữu vượt hơn 73  so với kế_hoạch năm 
-6,bên_cạnh đó  tổng_công_ty hoàn_thành thoái vốn 13 danh_mục đầu_tư ngoài ngành  đạt 98  tổng giá_trị thoái vốn theo kế_hoạch với tổng_số tiền thu được là 819 tỷ đồng  cao hơn 2 lần giá_trị đầu_tư thực_tế 
-7,tham_dự đại_hội  thứ_trưởng gtvt nguyễn_nhật nhấn_mạnh  “ bộ_gtvt đánh_giá cao nỗ_lực bứt_phá của vietnam_airlines ngay trong năm đầu_tiên hoạt_động theo mô_hình công_ty cổ_phần với kết_quả kinh_doanh ấn_tượng và những chuyển_biến vượt_bậc 
-8,tổng_công_ty đã tiến_hành cổ_phần_hóa theo quy_trình bài_bản  khoa_học và đặc_biệt đang hoàn_tất việc lựa_chọn cổ_đông chiến_lược là những thành_tựu rất đáng ghi_nhận 
-9,việc vietnam_airlines luôn ưu_tiên ứng_dụng công_nghệ mới vào điều_hành hoạt_động sản_xuất kinh_doanh  điển_hình là khai_thác thành_công các dòng máy_bay thế_hệ mới boeing 787  9 và airbus_a350 và sử_dụng công_nghệ_thông_tin hiện_đại trong hệ_thống quản_trị tổng_công_ty  đã chứng_tỏ vai_trò của doanh_nghiệp dẫn_đầu trong đổi_mới và hội_nhập quốc_tế  ” về kế_hoạch sản_xuất kinh_doanh năm 2016  vietnam_airlines phấn_đấu đạt tổng_sản_lượng vận_chuyển khách là gần 201 triệu lượt khách 
-10,doanh_thu hợp nhất là 778 ngàn tỷ đồng  trong đó công_ty mẹ đạt 629 nghìn tỷ đồng 
-11,lợi_nhuận trước thuế hợp_nhất toàn tổng_công_ty đạt 23 ngàn tỷ đồng  trong đó công_ty mẹ đạt gần 16 ngàn tỷ đồng 
-12,tổng_số vốn đầu_tư là 99 ngàn tỷ đồng  tập_trung ưu_tiên cho những dự_án cấp_thiết  phù_hợp với mục_tiêu dài_hạn  hỗ_trợ nâng cao năng_lực cạnh_tranh và hiệu_quả sxkd 
-13,các cổ_đông cũng tiến_hành đề_cử và biểu_quyết bầu_cử bổ_sung thành_viên hội_đồng_quản_trị nhiệm_kỳ 2015 – 2020 
-14,theo đó  đại_hội nhất_trí bầu bổ_sung ông dương_trí_thành vào hđqt_vietnam_airlines nhiệm_kỳ 2015 – 2020 
-15,ngay sau đại_hội cổ_đông thường_niên năm 2016  hđqt_vietnam_airlines đã họp và nhất_trí thông_qua việc ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt do thay_đổi công_tác theo phân_công của bộ_chính_trị 
-16,ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc để bổ_nhiệm làm chủ_tịch hđqt 
-17,ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc để bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc vietnam_airlines 
-18,các quyết_định sẽ chính_thức có hiệu_lực từ 1/6 tới 
-19,hàng không nhật_bản nắm 877  cổ_phần cũng vào thời_điểm diễn ra đại_hội_đồng cổ_đông thường_niên năm 2016  vietnam_airlines sắp hoàn_tất việc đàm_phán hợp_đồng mua_bán cổ_phần  ssa  với tập_đoàn hàng_không nhật_bản_ana_holdings để tiến_hành ký_kết vào cuối tháng 5/2016 
-20,kết_quả đàm_phán này đã được bộ_gtvt phê_duyệt 
-21,theo đó  vietnam_airlines phát_hành thêm cổ_phần cho nhà_đầu_tư chiến_lược nước_ngoài là tập_đoàn hàng_không nhật_bản  ana_holdings_inc để tăng vốn điều_lệ bằng hình_thức chào bán cổ_phần riêng_lẻ của công_ty cổ_phần đại_chúng theo quy_định_luật_doanh_nghiệp và luật_chứng_khoán  với số cổ_phần bán là 107668938 cổ_phần  tỷ_lệ nắm giữ của ana_holdings_inc  là 877  
+0,ngày 23/5 tổng_cty hàng_không việt_nam –_ctcp vietnam_airlines tổ_chức thành_công đại_hội cổ_đông thường_niên năm 2016 hơn một năm chuyển_đổi hoạt_động mô_hình công_ty cổ_phần
+1,bầu chủ_tịch tổng_giám_đốc đại_hội cổ_đông vietnam_airlines thảo_luận biểu_quyết thông_qua nội_dung quan_trọng
+2,về kết_quả sản_xuất kinh_doanh năm 2015 tổng_công_ty hoàn_thành vượt mức chỉ_tiêu kế_hoạch tổng_sản_lượng vận_chuyển hành_khách đạt khoảng 174 triệu lượt khách hàng_hóa đạt 2216 ngàn tấn
+3,tổng_doanh_thu hợp_nhất đạt hơn 69 ngàn tỷ đồng trong doanh_thu công_ty mẹ đạt hơn 566 ngàn tỷ đồng
+4,lợi_nhuận thuế hợp_nhất đạt 10488 tỷ đồng tăng hơn 70 kế_hoạch 2015
+5,tỷ_lệ lợi_nhuận ròng vốn chủ_sở_hữu vượt hơn 73 kế_hoạch năm
+6,bên_cạnh tổng_công_ty hoàn_thành thoái vốn 13 danh_mục đầu_tư ngoài ngành đạt 98 tổng giá_trị thoái vốn kế_hoạch tổng_số tiền thu 819 tỷ đồng cao hơn 2 lần giá_trị đầu_tư thực_tế
+7,tham_dự đại_hội thứ_trưởng gtvt nguyễn_nhật nhấn_mạnh “ bộ_gtvt đánh_giá cao nỗ_lực bứt_phá vietnam_airlines trong năm đầu_tiên hoạt_động mô_hình công_ty cổ_phần kết_quả kinh_doanh ấn_tượng chuyển_biến vượt_bậc
+8,tổng_công_ty tiến_hành cổ_phần_hóa quy_trình bài_bản khoa_học đặc_biệt hoàn_tất lựa_chọn cổ_đông chiến_lược thành_tựu đáng ghi_nhận
+9,vietnam_airlines luôn ưu_tiên ứng_dụng công_nghệ mới điều_hành hoạt_động sản_xuất kinh_doanh điển_hình khai_thác thành_công dòng máy_bay thế_hệ mới boeing 787 9 airbus_a350 sử_dụng công_nghệ_thông_tin hiện_đại trong hệ_thống quản_trị tổng_công_ty chứng_tỏ vai_trò doanh_nghiệp dẫn_đầu trong đổi_mới hội_nhập quốc_tế ” về kế_hoạch sản_xuất kinh_doanh năm 2016 vietnam_airlines phấn_đấu đạt tổng_sản_lượng vận_chuyển khách gần 201 triệu lượt khách
+10,doanh_thu hợp nhất 778 ngàn tỷ đồng trong công_ty mẹ đạt 629 nghìn tỷ đồng
+11,lợi_nhuận thuế hợp_nhất toàn tổng_công_ty đạt 23 ngàn tỷ đồng trong công_ty mẹ đạt gần 16 ngàn tỷ đồng
+12,tổng_số vốn đầu_tư 99 ngàn tỷ đồng tập_trung ưu_tiên dự_án cấp_thiết phù_hợp mục_tiêu dài_hạn hỗ_trợ nâng cao năng_lực cạnh_tranh hiệu_quả sxkd
+13,cổ_đông tiến_hành đề_cử biểu_quyết bầu_cử bổ_sung thành_viên hội_đồng_quản_trị nhiệm_kỳ 2015 – 2020
+14,đại_hội nhất_trí bầu bổ_sung ông dương_trí_thành hđqt_vietnam_airlines nhiệm_kỳ 2015 – 2020
+15,đại_hội cổ_đông thường_niên năm 2016 hđqt_vietnam_airlines họp nhất_trí thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt thay_đổi công_tác phân_công bộ_chính_trị
+16,ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc bổ_nhiệm làm chủ_tịch hđqt
+17,ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc vietnam_airlines
+18,quyết_định chính_thức hiệu_lực 1/6 tới
+19,hàng nhật_bản nắm 877 cổ_phần thời_điểm diễn đại_hội_đồng cổ_đông thường_niên năm 2016 vietnam_airlines sắp hoàn_tất đàm_phán hợp_đồng mua_bán cổ_phần ssa tập_đoàn hàng_không nhật_bản_ana_holdings tiến_hành ký_kết cuối tháng 5/2016
+20,kết_quả đàm_phán bộ_gtvt phê_duyệt
+21,vietnam_airlines phát_hành thêm cổ_phần nhà_đầu_tư chiến_lược nước_ngoài tập_đoàn hàng_không nhật_bản ana_holdings_inc tăng vốn điều_lệ bằng hình_thức chào bán cổ_phần riêng_lẻ công_ty cổ_phần đại_chúng quy_định_luật_doanh_nghiệp luật_chứng_khoán số cổ_phần bán 107668938 cổ_phần tỷ_lệ nắm giữ ana_holdings_inc 877

@@ -1,14 +1,14 @@
 idx, sentence
-0,ngày 23/5  tổng_công_ty hàng_không việt_nam –_ctcp  vietnam_airlines  đã tổ chứcđại hội cổ_đông thường_niên năm 2016 sau hơn một năm chuyển_đổi hoạt_động theo mô_hình công_ty cổ_phần  ngày 1 tháng 4 năm 2015  
-1,cổ_đông vietnam_airlines đã thông_qua kế_hoạch 2016 đạt tổng_sản_lượng vận_chuyển khách gần 201 triệu lượt  doanh_thu hợp nhất là 778 nghìn tỷ đồng  lợi_nhuận trước thuế hợp_nhất toàn tổng_công_ty đạt 2300 tỷ đồng 
-2,cổ_đông vietnam_airlines đã tiến_hành bầu hội_đồng_quản_trị nhiệm_kỳ 2015 – 2020 
-3,theo đó  ông dương_trí_thành được bầu bổ_sung vào hđqt_vietnam_airlines nhiệm_kỳ 2015 – 2020 
-4,ngay sau đại_hội cổ_đông  hđqt_vietnam_airlines đã họp và nhất_trí thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt do thay_đổi công_tác theo phân_công của bộ_chính_trị 
-5,ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc để bổ_nhiệm làm chủ_tịch hđqt 
-6,ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc để bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc 
-7,các quyết_định sẽ chính_thức có hiệu_lực ngày 1/6 
-8,cũng vào thời_điểm diễn ra đại_hội_đồng cổ_đông thường_niên năm 2016  vietnam_airlines sắp hoàn_tất việc đàm_phán hợp_đồng mua_bán cổ_phần  ssa  với tập_đoàn hàng_không nhật_bản_ana_holdings để tiến_hành ký_kết vào cuối tháng 5/2016 
-9,kết_quả đàm_phán này đã được bộ giao_thông vận_tải phê_duyệt 
-10,theo đó  vietnam_airlines thực_hiện phát_hành thêm cổ_phần cho nhà_đầu_tư chiến_lược nước_ngoài là tập_đoàn hàng_không nhật_bản  ana_holdings_inc để tăng vốn điều_lệ bằng hình_thức chào bán cổ_phần riêng_lẻ  với số cổ_phần bán là 1077 triệu đơn_vị  tỷ_lệ nắm giữ của ana_holdings_inc  là 877  vốn điều_lệ của vietnam_airlines sau khi phát_hành 
-11,sau khi hoàn_tất_giao_dịch với ana_holdings_inc  vietnam_airlines sẽ tiếp_tục phát_hành thêm cổ_phần để giảm tỷ_lệ nắm giữ của cổ_đông nhà_nước còn 75   hướng tới giảm tiếp xuống 65  vốn điều_lệ 
-12,được biết  năm 2015  vietnam_airlines đạt tổng_sản_lượng vận_chuyển hành_khách 174 triệu lượt  hàng_hóa đạt 2216 nghìn tấn  tổng_doanh_thu hợp_nhất đạt hơn 69 nghìn tỷ đồng  lợi_nhuận trước thuế hợp_nhất đạt 10488 tỷ đồng  tăng hơn 70  so với kế_hoạch 2015  tỷ_lệ lợi_nhuận ròng trên vốn chủ_sở_hữu vượt hơn 73  so với kế_hoạch năm 
+0,ngày 23/5 tổng_công_ty hàng_không việt_nam –_ctcp vietnam_airlines tổ chứcđại hội cổ_đông thường_niên năm 2016 hơn một năm chuyển_đổi hoạt_động mô_hình công_ty cổ_phần ngày 1 tháng 4 năm 2015
+1,cổ_đông vietnam_airlines thông_qua kế_hoạch 2016 đạt tổng_sản_lượng vận_chuyển khách gần 201 triệu lượt doanh_thu hợp nhất 778 nghìn tỷ đồng lợi_nhuận thuế hợp_nhất toàn tổng_công_ty đạt 2300 tỷ đồng
+2,cổ_đông vietnam_airlines tiến_hành bầu hội_đồng_quản_trị nhiệm_kỳ 2015 – 2020
+3,ông dương_trí_thành bầu bổ_sung hđqt_vietnam_airlines nhiệm_kỳ 2015 – 2020
+4,đại_hội cổ_đông hđqt_vietnam_airlines họp nhất_trí thông_qua ông phạm_viết_thanh thôi giữ chức_vụ chủ_tịch hđqt thay_đổi công_tác phân_công bộ_chính_trị
+5,ông phạm_ngọc_minh_– thành_viên hđqt thôi kiêm giữ chức tổng_giám_đốc bổ_nhiệm làm chủ_tịch hđqt
+6,ông dương_trí_thành thôi giữ chức phó_tổng_giám_đốc bổ_nhiệm chức_vụ thành_viên hđqt kiêm giữ chức tổng_giám_đốc
+7,quyết_định chính_thức hiệu_lực ngày 1/6
+8,thời_điểm diễn đại_hội_đồng cổ_đông thường_niên năm 2016 vietnam_airlines sắp hoàn_tất đàm_phán hợp_đồng mua_bán cổ_phần ssa tập_đoàn hàng_không nhật_bản_ana_holdings tiến_hành ký_kết cuối tháng 5/2016
+9,kết_quả đàm_phán bộ giao_thông vận_tải phê_duyệt
+10,vietnam_airlines thực_hiện phát_hành thêm cổ_phần nhà_đầu_tư chiến_lược nước_ngoài tập_đoàn hàng_không nhật_bản ana_holdings_inc tăng vốn điều_lệ bằng hình_thức chào bán cổ_phần riêng_lẻ số cổ_phần bán 1077 triệu đơn_vị tỷ_lệ nắm giữ ana_holdings_inc 877 vốn điều_lệ vietnam_airlines phát_hành
+11,hoàn_tất_giao_dịch ana_holdings_inc vietnam_airlines tiếp_tục phát_hành thêm cổ_phần giảm tỷ_lệ nắm giữ cổ_đông nhà_nước còn 75 hướng tới giảm tiếp xuống 65 vốn điều_lệ
+12,biết năm 2015 vietnam_airlines đạt tổng_sản_lượng vận_chuyển hành_khách 174 triệu lượt hàng_hóa đạt 2216 nghìn tấn tổng_doanh_thu hợp_nhất đạt hơn 69 nghìn tỷ đồng lợi_nhuận thuế hợp_nhất đạt 10488 tỷ đồng tăng hơn 70 kế_hoạch 2015 tỷ_lệ lợi_nhuận ròng vốn chủ_sở_hữu vượt hơn 73 kế_hoạch năm

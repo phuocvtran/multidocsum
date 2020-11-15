@@ -1,12 +1,12 @@
 idx, sentence
-0,trong cuộc phỏng_vấn gần đây với reuters  chuẩn đô_đốc colin_kilrain  tư_lệnh lực_lượng đặc_nhiệm mỹ tại châu_á  thái_bình_dương  cho biết ông đã gặp chỉ_huy lực_lượng đặc_công việt_nam bên lề một hội_nghị ở tampa  bang florida  mỹ   hôm 25/5 
-1,theo ông kilrain  lực_lượng đặc_nhiệm mỹ sẵn_sàng hợp_tác với đặc_công việt_nam nếu chính_phủ hai nước nhất_trí về vấn_đề này 
-2,cuộc tiếp_xúc kéo_dài khoảng nửa giờ diễn ra hai ngày sau khi tổng_thống mỹ barack_obama thông_báo gỡ bỏ lệnh_cấm_vận vũ_khí mỹ với việt_nam trong khuôn_khổ chuyến thăm việt_nam 3 ngày 
-3, cả hai chúng_tôi đều cảm_thấy phấn_khích bởi cuộc gặp tích_cực giữa tổng_thống obama với lãnh_đạo việt_nam 
-4,chúng_tôi muốn trở về mỹ và nói với các cấp chỉ_huy rằng chúng_tôi sẵn_sàng cho các bước_đi tiếp_theo   ông kilrain nói 
-5,chuẩn đô_đốc mỹ lưu_ý  khi bắt_đầu hợp_tác quốc_phòng với nước khác  các lực_lượng đặc_nhiệm tinh_nhuệ của mỹ như seal của hải_quân và delta_force của lục_quân sẽ là những lựa_chọn tốt nhất 
-6,ông kilrain từ_chối cung_cấp chi_tiết về các bước hợp_tác quân_sự đầu_tiên với việt_nam  nhưng nói rằng quá_trình này thường bắt_đầu một_cách từ_từ  với những cuộc hội_thảo nhằm chia_sẻ thông_tin về cách_thức tổ_chức của quân_đội hai nước cùng vấn_đề có liên_quan 
-7, đó là những hoạt_động đơn_thuần  không nhất_thiết phải là huấn_luyện quân_sự điển_hình   ông nói 
-8,tuy_nhiên  ông kilrain nhấn_mạnh  mức_độ và tốc_độ của mọi cuộc tiếp_xúc song_phương đều được quyết_định bởi chính_phủ hai nước 
-9, chúng_tôi sẽ đợi những tín_hiệu tích_cực từ chính_phủ mỹ và việt_nam để thực_hiện các bước_đi tiếp_theo   ông cho biết 
-10,theo một phát_ngôn_viên của hạm_đội thái_bình_dương của hải_quân mỹ  hải_quân nước này đã thực_hiện những bước_tiến quan_trọng  gồm 4 chuyến thăm cảng việt_nam vào năm_ngoái 
+0,trong cuộc phỏng_vấn gần reuters chuẩn đô_đốc colin_kilrain tư_lệnh lực_lượng đặc_nhiệm mỹ châu_á thái_bình_dương biết ông gặp chỉ_huy lực_lượng đặc_công việt_nam bên lề một hội_nghị ở tampa bang florida mỹ hôm 25/5
+1,ông kilrain lực_lượng đặc_nhiệm mỹ sẵn_sàng hợp_tác đặc_công việt_nam chính_phủ hai nước nhất_trí về vấn_đề
+2,cuộc tiếp_xúc kéo_dài khoảng nửa giờ diễn hai ngày tổng_thống mỹ barack_obama thông_báo gỡ bỏ lệnh_cấm_vận vũ_khí mỹ việt_nam trong khuôn_khổ chuyến thăm việt_nam 3 ngày
+3,hai chúng_tôi cảm_thấy phấn_khích cuộc gặp tích_cực giữa tổng_thống obama lãnh_đạo việt_nam
+4,chúng_tôi muốn trở về mỹ nói cấp chỉ_huy chúng_tôi sẵn_sàng bước_đi tiếp_theo ông kilrain nói
+5,chuẩn đô_đốc mỹ lưu_ý bắt_đầu hợp_tác quốc_phòng nước khác lực_lượng đặc_nhiệm tinh_nhuệ mỹ seal hải_quân delta_force lục_quân lựa_chọn tốt nhất
+6,ông kilrain từ_chối cung_cấp chi_tiết về bước hợp_tác quân_sự đầu_tiên việt_nam nói quá_trình thường bắt_đầu từ_từ cuộc hội_thảo nhằm chia_sẻ thông_tin về cách_thức tổ_chức quân_đội hai nước vấn_đề liên_quan
+7,hoạt_động đơn_thuần nhất_thiết huấn_luyện quân_sự điển_hình ông nói
+8,tuy_nhiên ông kilrain nhấn_mạnh mức_độ tốc_độ mọi cuộc tiếp_xúc song_phương quyết_định chính_phủ hai nước
+9,chúng_tôi đợi tín_hiệu tích_cực chính_phủ mỹ việt_nam thực_hiện bước_đi tiếp_theo ông biết
+10,một phát_ngôn_viên hạm_đội thái_bình_dương hải_quân mỹ hải_quân nước thực_hiện bước_tiến quan_trọng gồm 4 chuyến thăm cảng việt_nam năm_ngoái

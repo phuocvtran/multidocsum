@@ -1,11 +1,11 @@
 idx, sentence
-0,xuất_khẩu dầu_thô của quốc_gia vùng_vịnh này có_thể vượt 22 triệu thùng / ngày vào giữa mùa hè này  rokneddin_javadi  giám_đốc điều_hành national_iranian_oil_co  phát_biểu với hãng thông_tấn mehr 
-1,xuất_khẩu dầu_thô của iran đã đạt ngưỡng này trước khi các lệnh trừng_phạt được áp_đặt liên_quan đến chương_trình hạt_nhân 4 năm trước 
-2,tuy_nhiên  các lệnh trừng_phạt đã được dỡ bỏ hồi tháng 1 vừa_qua và các quan_chức iran cho biết sẽ không thảo_luận bất_kỳ thỏa_thuận đóng_băng sản_lượng nào trước khi đạt được ngưỡng xuất_khẩu thời trước khi lệnh trừng_phạt được áp_đặt 
-3,ông javadi cho biết  chính_phủ iran chưa có bất_kỳ kế_hoạch nào về thời_gian đóng_băng sản_lượng hoặc ngừng tăng sản_lượng cũng như xuất_khẩu dầu_thô 
-4,iran đang tái_thiết ngành năng_lượng và khôi_phục hoạt_động bán dầu_thô sau khi các lệnh trừng_phạt được dỡ bỏ 
-5,tháng trước  iran đã từ_chối tham_gia phiên họp thảo_luận việc đóng_băng sản_lượng tại doha  qatar 
-6,cuộc_họp này đã kết_thúc mà không có bất_kỳ thỏa_thuận nào được đưa ra sau khi arab_saudi từ_chối hạn_chế sản_lượng nếu không có sự tham_gia của các nước thành_viên opec  kể_cả iran 
-7,opec sẽ nhóm họp vào ngày 2/6 tới tại vienna 
-8,theo số_liệu của cơ_quan năng_lượng quốc_tế  iea  công_bố hôm 12/5  sản_lượng dầu_thô của iran tháng 4/2016 đã tăng lên bằng mức trước khi lệnh trừng_phạt được áp_đặt ở 356 triệu thùng / ngày 
-9,xuất_khẩu dầu_thô của nước này tăng 40  lên 2 triệu thùng / ngày trong tháng 4 
+0,xuất_khẩu dầu_thô quốc_gia vùng_vịnh vượt 22 triệu thùng / ngày giữa mùa hè rokneddin_javadi giám_đốc điều_hành national_iranian_oil_co phát_biểu hãng thông_tấn mehr
+1,xuất_khẩu dầu_thô iran đạt ngưỡng lệnh trừng_phạt áp_đặt liên_quan đến chương_trình hạt_nhân 4 năm
+2,tuy_nhiên lệnh trừng_phạt dỡ bỏ hồi tháng 1 vừa_qua quan_chức iran biết thảo_luận bất_kỳ thỏa_thuận đóng_băng sản_lượng nào đạt ngưỡng xuất_khẩu thời lệnh trừng_phạt áp_đặt
+3,ông javadi biết chính_phủ iran bất_kỳ kế_hoạch nào về thời_gian đóng_băng sản_lượng hoặc ngừng tăng sản_lượng xuất_khẩu dầu_thô
+4,iran tái_thiết ngành năng_lượng khôi_phục hoạt_động bán dầu_thô lệnh trừng_phạt dỡ bỏ
+5,tháng iran từ_chối tham_gia phiên họp thảo_luận đóng_băng sản_lượng doha qatar
+6,cuộc_họp kết_thúc bất_kỳ thỏa_thuận nào đưa arab_saudi từ_chối hạn_chế sản_lượng tham_gia nước thành_viên opec kể_cả iran
+7,opec nhóm họp ngày 2/6 tới vienna
+8,số_liệu cơ_quan năng_lượng quốc_tế iea công_bố hôm 12/5 sản_lượng dầu_thô iran tháng 4/2016 tăng bằng mức lệnh trừng_phạt áp_đặt ở 356 triệu thùng / ngày
+9,xuất_khẩu dầu_thô nước tăng 40 2 triệu thùng / ngày trong tháng 4

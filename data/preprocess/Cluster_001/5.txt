@@ -1,20 +1,20 @@
 idx, sentence
-0,pascal_hess  người pháp là một trong số 66 người  trong đó có 15 công_dân pháp  được cho là đã chết khi chuyến bay ms804 của hãng hàng không ai cập biến mất trên đường đến cairo hôm 195 
-1,bạn_bè của hess cho biết  ông ấy gần như không_thể đáp được chuyến bay ms804 của egyptair vì bị mất hộ_chiếu 
-2,“ hess  một người mê bóng_chuyền và là nhiếp_ảnh_gia đến từ evreux ở normandy đã không ngủ 3 ngày vì ông vô_cùng lo_lắng khi hộ_chiếu của mình bị mất mà chưa được tìm thấy 
-3,cho đến khi có một người nhìn thấy nó trên đường_phố  và đem trả cho hess  khi đó hess lại lưỡng_lự không muốn đi nữa 
-4,ông ấy rời paris để đi nghỉ 10 ngày trên biển_đỏ của ai cập một_cách miễn_cưỡng   một người bạn của hess nói với tờ báo pháp_ngữ địa_phương  la_depeche 
-5,ông ahmed_helal  giám_đốc công_ty procter và gamble ở thành_phố amien  pháp  và một gia_đình người pháp gồm 2 trẻ nhỏ  một người ông 74 tuổi tên là pierre_heslouin đến từ nogentsurmarne cũng được cho là thiệt_mạng trong vụ máy_bay mất_tích bí_ẩn này 
-6,theo the_telegraph  một người anh có tên là richard_osman  40 tuổi  cũng được cho là không còn sống 
-7,ông vừa_mới trở_thành người cha lần thứ hai với người vợ pháp aurelie 
-8,con gái ông là olympe mới khoảng một tháng tuổi 
-9,theo cnn  một người cha của bốn đứa con  joao_david_e_silva  là một trong những người được biết đã có_mặt trên chuyến bay đó 
-10,silva đang làm_việc cho công_ty xây_dựng motaengil ở bồ_đào_nha 
-11,ông ấy được bố_trí ở johannesburg vì công_việc của mình mặc_dù gia_đình ông vẫn sống ở lisbon  nguồn tin chính_phủ bồ_đào_nha cho biết 
-12,ap đưa tin rằng  một học_sinh đến từ chad đang học tại một trường_học ở pháp  cũng là một trong số các hành_khách được cho là đã thiệt_mạng 
-13,một người khác tên là abdulmohsen almuteiri  người kuwait  một giáo_sư kinh_tế  đang trên đường đi dự một hội_nghị 
-14,ông cũng đã từng giữ những vị_trí cấp cao trong chính_phủ kuwait 
-15,một hành_khách khác là một người ai cập đang trên đường trở_về nhà  sau khi trải qua một đợt điều_trị bệnh tại pháp  theo ap 
-16,egyptair vẫn chưa công_bố tên của những người rất có_thể đã chết trên chuyến bay đã được nhìn thấy lần cuối trên địa_trung_hải 
-17,chuyến bay của egyptair mang số_hiệu ms804 xuất_phát lúc 23 h09 đêm 185 từ paris đến hy_lạp 
-18,thời_gian hạ_cánh dự_kiến vào lúc 3 h15 sáng ngày hôm sau  tuy_nhiên nó đã biến mất khỏi màn_hình rada theo_dõi vào khoảng 30 phút trước giờ đó 
+0,pascal_hess người pháp một trong số 66 người trong 15 công_dân pháp chết chuyến bay ms804 hãng hàng ai cập biến mất đường đến cairo hôm 195
+1,bạn_bè hess biết ông ấy gần không_thể đáp chuyến bay ms804 egyptair mất hộ_chiếu
+2,“ hess một người mê bóng_chuyền nhiếp_ảnh_gia đến evreux ở normandy ngủ 3 ngày ông vô_cùng lo_lắng hộ_chiếu mình mất tìm thấy
+3,đến một người nhìn thấy nó đường_phố đem trả hess hess lưỡng_lự muốn đi
+4,ông ấy rời paris đi nghỉ 10 ngày biển_đỏ ai cập miễn_cưỡng một người bạn hess nói tờ báo pháp_ngữ địa_phương la_depeche
+5,ông ahmed_helal giám_đốc công_ty procter gamble ở thành_phố amien pháp một gia_đình người pháp gồm 2 trẻ nhỏ một người ông 74 tuổi tên pierre_heslouin đến nogentsurmarne thiệt_mạng trong vụ máy_bay mất_tích bí_ẩn
+6,the_telegraph một người anh tên richard_osman 40 tuổi còn sống
+7,ông vừa_mới trở_thành người cha lần thứ hai người vợ pháp aurelie
+8,con gái ông olympe mới khoảng một tháng tuổi
+9,cnn một người cha bốn đứa con joao_david_e_silva một trong người biết có_mặt chuyến bay
+10,silva làm_việc công_ty xây_dựng motaengil ở bồ_đào_nha
+11,ông ấy bố_trí ở johannesburg công_việc mình mặc_dù gia_đình ông sống ở lisbon nguồn tin chính_phủ bồ_đào_nha biết
+12,ap đưa tin một học_sinh đến chad học một trường_học ở pháp một trong số hành_khách thiệt_mạng
+13,một người khác tên abdulmohsen almuteiri người kuwait một giáo_sư kinh_tế đường đi dự một hội_nghị
+14,ông giữ vị_trí cấp cao trong chính_phủ kuwait
+15,một hành_khách khác một người ai cập đường trở_về nhà trải một đợt điều_trị bệnh pháp ap
+16,egyptair công_bố tên người chết chuyến bay nhìn thấy lần cuối địa_trung_hải
+17,chuyến bay egyptair mang số_hiệu ms804 xuất_phát 23 h09 đêm 185 paris đến hy_lạp
+18,thời_gian hạ_cánh dự_kiến 3 h15 sáng ngày hôm tuy_nhiên nó biến mất khỏi màn_hình rada theo_dõi khoảng 30 phút giờ

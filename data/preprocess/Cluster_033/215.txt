@@ -1,10 +1,10 @@
 idx, sentence
-0,chủ_tịch suzuki  ông osamu_suzuki vừa phải cúi đầu xin_lỗi trong buổi họp_báo hôm 185 về việc sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu đối_với khoảng 21 triệu xe 
-1,tuy_nhiên  hãng xe này phủ_nhận thông_tin hãng làm sai_lệch kết_quả đo 
-2,vụ bê_bối của suzuki xảy ra chỉ một tháng sau khi mitsubishi_motors thừa_nhận làm sai_lệch kết_quả đo mức tiêu_thụ nhiên_liệu của nhiều mẫu xe trong nhiều năm 
-3,các mẫu xe suzuki bị thổi_phồng về mức khí thải chủ_yếu là xe nhỏ hoặc xe sử_dụng động_cơ dung_tích nhỏ để được hưởng ưu_đãi thuế ở nhật và việc sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu được cho là không liên_quan đến các mẫu xe bán ở nước_ngoài 
-4,suzuki cho biết công_ty đã thu_thập_dữ_liệu liên_quan đến các bộ_phận như lốp xe  phanh và hộp_số  sau đó kết_hợp với kết_quả đo mức cản gió trong hầm gió để cho ra số_liệu về mức tiêu_thụ nhiên_liệu của xe và phương_pháp này không đúng theo quy_định của chính_phủ nhật_bản 
-5,hiện suzuki đang bị điều_tra lại về việc sử_dụng sai phương_pháp thử_nghiệm trên các mẫu xe của hãng từ năm 1991 đến nay 
-6,chính_phủ nhật đã yêu_cầu tất_cả các nhà_sản_xuất ôtô rà_soát việc thử_nghiệm mức tiêu_thụ nhiên_liệu của xe sau khi xảy ra vụ bê_bối gian_lận của mitsubishi 
-7,cùng ngày chủ_tịch testuro_aikawa của mitsubishi tuyên_bố sẽ từ_chức để nhận trách_nhiệm về vụ bê_bối gian_lận mức tiêu_thụ nhiên_liệu và phủ_nhận việc trực_tiếp dính_líu vào_vụ bê_bối này 
-8,trước đó  mitsubishi đã thừa_nhận gian_lận lượng nhiên_liệu tiêu_thụ của xe trong suốt 25 năm qua sau khi bị buộc_tội đưa ra thông_số sai về lượng nhiên_liệu tiêu_thụ của một_số mẫu xe đô_thị tại nhật_bản 
+0,chủ_tịch suzuki ông osamu_suzuki cúi đầu xin_lỗi trong buổi họp_báo hôm 185 về sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu đối_với khoảng 21 triệu xe
+1,tuy_nhiên hãng xe phủ_nhận thông_tin hãng làm sai_lệch kết_quả đo
+2,vụ bê_bối suzuki xảy một tháng mitsubishi_motors thừa_nhận làm sai_lệch kết_quả đo mức tiêu_thụ nhiên_liệu mẫu xe trong năm
+3,mẫu xe suzuki thổi_phồng về mức khí thải chủ_yếu xe nhỏ hoặc xe sử_dụng động_cơ dung_tích nhỏ hưởng ưu_đãi thuế ở nhật sử_dụng sai phương_pháp đo mức tiêu_thụ nhiên_liệu liên_quan đến mẫu xe bán ở nước_ngoài
+4,suzuki biết công_ty thu_thập_dữ_liệu liên_quan đến bộ_phận lốp xe phanh hộp_số kết_hợp kết_quả đo mức cản gió trong hầm gió số_liệu về mức tiêu_thụ nhiên_liệu xe phương_pháp đúng quy_định chính_phủ nhật_bản
+5,hiện suzuki điều_tra về sử_dụng sai phương_pháp thử_nghiệm mẫu xe hãng năm 1991 đến nay
+6,chính_phủ nhật yêu_cầu tất_cả nhà_sản_xuất ôtô rà_soát thử_nghiệm mức tiêu_thụ nhiên_liệu xe xảy vụ bê_bối gian_lận mitsubishi
+7,ngày chủ_tịch testuro_aikawa mitsubishi tuyên_bố từ_chức nhận trách_nhiệm về vụ bê_bối gian_lận mức tiêu_thụ nhiên_liệu phủ_nhận trực_tiếp dính_líu vào_vụ bê_bối
+8,mitsubishi thừa_nhận gian_lận lượng nhiên_liệu tiêu_thụ xe trong suốt 25 năm buộc_tội đưa thông_số sai về lượng nhiên_liệu tiêu_thụ một_số mẫu xe đô_thị nhật_bản

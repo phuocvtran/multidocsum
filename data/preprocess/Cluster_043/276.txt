@@ -1,20 +1,20 @@
 idx, sentence
-0,nhóm các đối_tượng tổ_chức đánh_bạc qua mạng quốc_tịch hàn_quốc sau khi gây_án tại philippines đã chọn việt_nam là nơi trú_ẩn 
-1,hai đối_tượng trong đường_dây bị bắt ngay sau khi vừa đặt_chân trở_về hàn_quốc 
-2,đối_tượng còn lại là mắt_xích quan_trọng nhất trong đường_dây vừa bị lực_lượng cảnh_sát truy_nã tội_phạm bộ công_an phối_hợp với công_an tp hcm bắt_giữ 
-3,theo tài_liệu ban_đầu của cơ_quan_chức_năng  một nhóm đối_tượng quốc_tịch hàn_quốc đã tổ_chức một trang_web đánh_bạc trực_tuyến qua mạng trong thời_gian từ tháng 32013 đến đầu tháng 112013 tại philippines và từ thời_gian tháng 11  2015 đến tháng 12016 tại việt_nam 
-4,kwon yonggil tuy còn trẻ tuổi  34 tuổi  nhưng đã sớm tỏ ra là đối_tượng sành_sỏi trong đường_dây 
-5,kwon yonggil chịu trách_nhiệm quản_lý tiền của mạng_lưới kín giữa các khách_hàng  còn oh_junghyun và kim_myụngun được giao nhiệm_vụ quản_lý trang_web  chịu trách_nhiệm thu và chuyển tiền cho khách_hàng 
-6,các đối_tượng sau khi gây_án tại philippines đã sang việt_nam núp_bóng dưới danh_nghĩa khách du_lịch và tìm_hiểu thị_trường 
-7,chúng thuê nhà tại việt_nam để tiếp_tục thực_hiện việc tổ_chức đánh_bạc qua mạng 
-8,nhóm đối_tượng đã thu tiền từ những người chơi và cách phân_chia được quyết_định dựa trên kết_quả các trận đấu bóng 
-9,cũng có người chơi đoán trúng tỷ_số được các đối_tượng trả tiền  tuy_nhiên chúng lại móc_túi những người chơi khác bằng cách gian_lận tiền của những người chơi đoán không đúng tỷ_số 
-10,bằng thủ_đoạn nêu trên  các đối_tượng đã thu lời bất_chính hơn 16 tỷ won … xác_định được hành_vi phạm_tội của nhóm đối_tượng nêu trên  cảnh_sát hàn_quốc đã gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil  có số hộ_chiếu m02376084  mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 1242016 của ban tổng_thư_ký interpol với tội_danh vi_phạm luật xúc_tiến thể_thao 
-11,được lãnh_đạo cấp trên giao nhiệm_vụ  cục cảnh_sát truy_nã tội_phạm đã phối_hợp với cục đối_ngoại  các đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh và các đơn_vị thuộc bộ_quốc_phòng  công_an tp hà_nội  công_an tp hcm và các địa_bàn trọng_điểm tiến_hành rà_soát  truy bắt đối_tượng 
-12,quá_trình rà_soát  các trinh_sát đặc_biệt chú_ý đến các khu_công_nghiệp  các địa_bàn trọng_điểm nơi có người nước_ngoài tạm_trú  làm_việc và sinh_sống  du_lịch tại việt_nam  đồng_thời phát_động nhân_dân tố_giác tội_phạm 
-13,trưa 175  phát_hiện một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã đi vào một khu chung_cư cao_cấp  tổ công_tác đã phối_hợp với công_an phường tân_phong  quận 7  tp hcm tổ_chức rà_soát 
-14,quá_trình rà_soát đã xác_định người hàn_quốc ở tại khu chung_cư đó chính là đối_tượng truy_nã kwon_yonggil 
-15,kế_hoạch bắt_giữ đối_tượng đã được tổ công_tác phối_hợp với công_an phường thực_hiện 
-16,lực_lượng công_an đã thông_báo lệnh truy_nã quốc_tế cho đối_tượng và yêu_cầu đối_tượng chấp_hành theo lệnh đã ban_hành 
-17,tổ công_tác liên_hệ với lãnh_sự quán hàn_quốc tại tp hcm về việc truy bắt đối_tượng và đề_nghị lãnh_sự quán cử người đến làm_việc với cơ_quan_chức_năng việt_nam 
-18,theo lời khai ban_đầu của đối_tượng kwon_yonggil thì các đối_tượng thuê nhà để tiếp_tục gây_án tại việt_nam  các đối_tượng oh_junghyun và kim_myụngun đã bị bắt khi vừa trở_về hàn_quốc 
+0,nhóm đối_tượng tổ_chức đánh_bạc mạng quốc_tịch hàn_quốc gây_án philippines chọn việt_nam trú_ẩn
+1,hai đối_tượng trong đường_dây bắt đặt_chân trở_về hàn_quốc
+2,đối_tượng còn mắt_xích quan_trọng nhất trong đường_dây lực_lượng cảnh_sát truy_nã tội_phạm bộ công_an phối_hợp công_an tp hcm bắt_giữ
+3,tài_liệu ban_đầu cơ_quan_chức_năng một nhóm đối_tượng quốc_tịch hàn_quốc tổ_chức một trang_web đánh_bạc trực_tuyến mạng trong thời_gian tháng 32013 đến đầu tháng 112013 philippines thời_gian tháng 11 2015 đến tháng 12016 việt_nam
+4,kwon yonggil tuy còn trẻ tuổi 34 tuổi sớm tỏ đối_tượng sành_sỏi trong đường_dây
+5,kwon yonggil chịu trách_nhiệm quản_lý tiền mạng_lưới kín giữa khách_hàng còn oh_junghyun kim_myụngun giao nhiệm_vụ quản_lý trang_web chịu trách_nhiệm thu chuyển tiền khách_hàng
+6,đối_tượng gây_án philippines sang việt_nam núp_bóng danh_nghĩa khách du_lịch tìm_hiểu thị_trường
+7,chúng thuê nhà việt_nam tiếp_tục thực_hiện tổ_chức đánh_bạc mạng
+8,nhóm đối_tượng thu tiền người chơi cách phân_chia quyết_định dựa kết_quả trận đấu bóng
+9,người chơi đoán trúng tỷ_số đối_tượng trả tiền tuy_nhiên chúng móc_túi người chơi khác bằng cách gian_lận tiền người chơi đoán đúng tỷ_số
+10,bằng thủ_đoạn nêu đối_tượng thu lời bất_chính hơn 16 tỷ won … xác_định hành_vi phạm_tội nhóm đối_tượng nêu cảnh_sát hàn_quốc gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil số hộ_chiếu m02376084 mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 1242016 ban tổng_thư_ký interpol tội_danh vi_phạm luật xúc_tiến thể_thao
+11,lãnh_đạo cấp giao nhiệm_vụ cục cảnh_sát truy_nã tội_phạm phối_hợp cục đối_ngoại đơn_vị nghiệp_vụ thuộc tổng_cục an_ninh đơn_vị thuộc bộ_quốc_phòng công_an tp hà_nội công_an tp hcm địa_bàn trọng_điểm tiến_hành rà_soát truy bắt đối_tượng
+12,quá_trình rà_soát trinh_sát đặc_biệt chú_ý đến khu_công_nghiệp địa_bàn trọng_điểm người nước_ngoài tạm_trú làm_việc sinh_sống du_lịch việt_nam đồng_thời phát_động nhân_dân tố_giác tội_phạm
+13,trưa 175 phát_hiện một người hàn_quốc đặc_điểm giống đối_tượng truy_nã đi một khu chung_cư cao_cấp tổ công_tác phối_hợp công_an phường tân_phong quận 7 tp hcm tổ_chức rà_soát
+14,quá_trình rà_soát xác_định người hàn_quốc ở khu chung_cư chính đối_tượng truy_nã kwon_yonggil
+15,kế_hoạch bắt_giữ đối_tượng tổ công_tác phối_hợp công_an phường thực_hiện
+16,lực_lượng công_an thông_báo lệnh truy_nã quốc_tế đối_tượng yêu_cầu đối_tượng chấp_hành lệnh ban_hành
+17,tổ công_tác liên_hệ lãnh_sự quán hàn_quốc tp hcm về truy bắt đối_tượng đề_nghị lãnh_sự quán cử người đến làm_việc cơ_quan_chức_năng việt_nam
+18,lời khai ban_đầu đối_tượng kwon_yonggil đối_tượng thuê nhà tiếp_tục gây_án việt_nam đối_tượng oh_junghyun kim_myụngun bắt trở_về hàn_quốc

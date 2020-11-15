@@ -1,18 +1,18 @@
 idx, sentence
-0,sau một thời_gian dài chuẩn_bị  phần 2 của bộ phim_truyền_hình nổi_tiếng tuổi thanh_xuân đã chính_thức khởi_động với những cảnh quay đầu_tiên tại hàn_quốc 
-1,nhà sản_xuất cho biết 2 diễn_viên chính là kang_tae_oh  vai junsu  và nhã_phương  vai_linh  vẫn được giữ nguyên dù dàn diễn_viên tham_gia có nhiều thay_đổi 
-2,diễn_viên nhã_phương hiện_tại đã có_mặt tại hàn_quốc để quay những cảnh quay đầu_tiên 
-3,cô cho biết sẽ lưu lại xứ_sở kim_chi đến giữa tháng 6 và sau đó trở_về việt_nam để tiếp_tục các phân cảnh tiếp_theo của tuổi thanh_xuân 2 tại đà_nẵng tới cuối tháng 8 
-4,về lịch_trình lên sóng  nhà_sản_xuất cho biết  phần 2 của tuổi thanh_xuân dự_kiến ra_mắt khán vào cuối tháng 10 trên kênh vtv3 
-5,phần 1 của tuổi thanh_xuân lựa_chọn một đoạn kết dở_dang khiến nhiều khán_giả tò_mò không biết phần 2 sẽ diến biễn như thế_nào 
-6,cái kết này cũng là cơ_sở để nhà_sản_xuất quyết_định làm tiếp phần 2 bộ phim 
-7,ở đoạn kết phần 1  nữ chính linh  nhã_phương  đứng giữa 2 chàng trai là junsu  kang_tae_oh  và khánh  hồng_đăng  mà không biết sẽ đi về phía ai 
-8,cái kết đó làm nhiều người nghĩ rằng  trong phần 2 mối tính tay_ba này sẽ được giải_quyết 
-9,tuy_nhiên nhà_sản_xuất cũng cho biết thông_tin bất_ngờ là ở phần 2 này nhân_vật khánh của hồng_đăng sẽ không xuất_hiện bởi nam diễn_viên đang bận_rộn với lịch quay hình của chương_trình bố ơi mình đi đâu thế mùa 3 
-10,về kịch_bản của phần 2  báo_chí hàn_quốc gần đây cho biết  nam chính kang_tae_oh sẽ bị  mất_trí_nhớ  từ đó tạo ra nhiều diễn_biến mới khá phức_tạp cho hướng phát_triển phim trong phần 2 
-11,bên_cạnh đó  một nhân_vật mới cũng xuất_hiện trong phần 2 và  tranh_giành  kang_tae_oh với nhã_phương  đó là vai diễn shin_si_ah do nữ diễn_viên xinh_đẹp jung_hae_na thể_hiện 
-12,shin si_ah được miêu_tả là một giám_đốc nghệ_thuật tuổi_trẻ tài cao  từng tốt_nghiệp trường đại_học học danh_tiếng ở mỹ 
-13,cô chăm_sóc junsu khi bị anh bị mất_trí_nhớ và rồi đem lòng yêu anh 
-14,việc cạnh_tranh với nhân_vật mới này  đòi_hỏi nhã_phương sẽ phải có những thay_đổi trong bản_thân và công_việc để có_thể giành lại kang_tae_oh 
-15,tuổi thanh_xuân là bộ phim hợp_tác giữa việt_nam  hàn_quốc 
-16,bắt_đầu được phát_sóng từ tháng 122014 trên kênh vtv3  tuổi thanh_xuân ngay_lập_tức nhận được sự yêu_thích của đông_đảo khán_giả truyền_hình và trở_thành bộ phim_truyền_hình  hot  nhất trong năm 
+0,một thời_gian dài chuẩn_bị phần 2 bộ phim_truyền_hình nổi_tiếng tuổi thanh_xuân chính_thức khởi_động cảnh quay đầu_tiên hàn_quốc
+1,nhà sản_xuất biết 2 diễn_viên chính kang_tae_oh vai junsu nhã_phương vai_linh giữ nguyên dù dàn diễn_viên tham_gia thay_đổi
+2,diễn_viên nhã_phương hiện_tại có_mặt hàn_quốc quay cảnh quay đầu_tiên
+3,cô biết lưu xứ_sở kim_chi đến giữa tháng 6 trở_về việt_nam tiếp_tục phân cảnh tiếp_theo tuổi thanh_xuân 2 đà_nẵng tới cuối tháng 8
+4,về lịch_trình sóng nhà_sản_xuất biết phần 2 tuổi thanh_xuân dự_kiến ra_mắt khán cuối tháng 10 kênh vtv3
+5,phần 1 tuổi thanh_xuân lựa_chọn một đoạn kết dở_dang khiến khán_giả tò_mò biết phần 2 diến biễn thế_nào
+6,kết cơ_sở nhà_sản_xuất quyết_định làm tiếp phần 2 bộ phim
+7,ở đoạn kết phần 1 nữ chính linh nhã_phương đứng giữa 2 chàng trai junsu kang_tae_oh khánh hồng_đăng biết đi về phía ai
+8,kết làm người nghĩ trong phần 2 mối tính tay_ba giải_quyết
+9,tuy_nhiên nhà_sản_xuất biết thông_tin bất_ngờ ở phần 2 nhân_vật khánh hồng_đăng xuất_hiện nam diễn_viên bận_rộn lịch quay hình chương_trình bố ơi mình đi đâu thế mùa 3
+10,về kịch_bản phần 2 báo_chí hàn_quốc gần biết nam chính kang_tae_oh mất_trí_nhớ tạo diễn_biến mới khá phức_tạp hướng phát_triển phim trong phần 2
+11,bên_cạnh một nhân_vật mới xuất_hiện trong phần 2 tranh_giành kang_tae_oh nhã_phương vai diễn shin_si_ah nữ diễn_viên xinh_đẹp jung_hae_na thể_hiện
+12,shin si_ah miêu_tả một giám_đốc nghệ_thuật tuổi_trẻ tài cao tốt_nghiệp trường đại_học học danh_tiếng ở mỹ
+13,cô chăm_sóc junsu anh mất_trí_nhớ đem lòng yêu anh
+14,cạnh_tranh nhân_vật mới đòi_hỏi nhã_phương thay_đổi trong bản_thân công_việc giành kang_tae_oh
+15,tuổi thanh_xuân bộ phim hợp_tác giữa việt_nam hàn_quốc
+16,bắt_đầu phát_sóng tháng 122014 kênh vtv3 tuổi thanh_xuân ngay_lập_tức nhận yêu_thích đông_đảo khán_giả truyền_hình trở_thành bộ phim_truyền_hình hot nhất trong năm

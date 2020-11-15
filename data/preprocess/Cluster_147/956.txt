@@ -1,9 +1,9 @@
 idx, sentence
-0,tin_tức trên báo thanh_niên  ngày 28/5  công_an quận tân_bình  tp hcm  đang truy_xét hai tên cướp gây ra vụ cướp táo_tợn ở khu_vực chung_cư phúc_yên  phường 15  quận tân_bình  khiến một người nước_ngoài bị_thương phải nhập_viện cấp_cứu 
-1,thông_tin ban_đầu cho biết  tối 27/5  khi chị trần_thị_thu_trang  37 tuổi  vừa bước xuống ô_tô để đi vào chung_cư thì bị hai tên cướp đeo khẩu_trang  mặc áo_mưa đi xe_máy áp sát giật chiếc ví 
-2,báo vnexpress đưa tin  lúc này  chị trang đuổi theo  kéo được áo_mưa khiến 2 tên này ngã nhào 
-3,anh rachid  quốc_tịch marốc  chồng chị trang  vội đặt con gái xuống  lao đến vật ngã tên cướp 
-4,trong lúc giằng_co  người đàn_ông ngoại_quốc bị một đối_tượng đâm gục 
-5,nghe tiếng hô_hoán  người dân lao ra truy bắt thì 2 tên này lên xe  rồ ga bỏ chạy 
-6,sau một ngày được cấp_cứu ở bệnh_viện chợ_rẫy với vết_thương ở ngực và trán  sức_khỏe anh rachid đã dần ổn_định 
-7,chị thu_trang cho biết  vợ_chồng chị bị mất khoảng 10 nghìn usd 
+0,tin_tức báo thanh_niên ngày 28/5 công_an quận tân_bình tp hcm truy_xét hai tên cướp gây vụ cướp táo_tợn ở khu_vực chung_cư phúc_yên phường 15 quận tân_bình khiến một người nước_ngoài bị_thương nhập_viện cấp_cứu
+1,thông_tin ban_đầu biết tối 27/5 chị trần_thị_thu_trang 37 tuổi bước xuống ô_tô đi chung_cư hai tên cướp đeo khẩu_trang mặc áo_mưa đi xe_máy áp sát giật ví
+2,báo vnexpress đưa tin chị trang đuổi kéo áo_mưa khiến 2 tên ngã nhào
+3,anh rachid quốc_tịch marốc chồng chị trang vội đặt con gái xuống lao đến vật ngã tên cướp
+4,trong giằng_co người đàn_ông ngoại_quốc một đối_tượng đâm gục
+5,nghe tiếng hô_hoán người dân lao truy bắt 2 tên xe rồ ga bỏ chạy
+6,một ngày cấp_cứu ở bệnh_viện chợ_rẫy vết_thương ở ngực trán sức_khỏe anh rachid dần ổn_định
+7,chị thu_trang biết vợ_chồng chị mất khoảng 10 nghìn usd

@@ -1,7 +1,7 @@
 idx, sentence
-0,kỳ thủ số_một việt_nam lê_quang_liêm tiếp_tục dẫn đầu_bảng nam khi có chiến_thắng thứ 3 liên_tiếp tại giải vô_địch cá_nhân châu_á 2016 đang diễn ra ở uzbekistan 
-1,trong ván đấu thứ ba  lê_quang_liêm gặp đối_thủ kazhgalayev_murtas của kazakhstan 
-2,với lợi_thế cầm_quân trắng  kỳ_thủ số_một việt_nam tấn_công liên_tục và thắng nhanh_chóng chỉ sau 35 nước đi 
-3,chiến_thắng này giúp quang_liêm có 3 điểm tuyệt_đối để giữ vững ngôi đầu trên bảng xếp_hạng 
-4,kỳ thủ khác của đội_tuyển nam là nguyễn_huỳnh_minh_huy thắng chu_wei_chao  trung_quốc  để có thêm 1 điểm 
-5,nguyễn_ngọc trường_sơn tiếp_tục để đối_thủ dưới cơ cầm hòa nên mới có 2 điểm sau 3 ván 
+0,kỳ thủ số_một việt_nam lê_quang_liêm tiếp_tục dẫn đầu_bảng nam chiến_thắng thứ 3 liên_tiếp giải vô_địch cá_nhân châu_á 2016 diễn ở uzbekistan
+1,trong ván đấu thứ ba lê_quang_liêm gặp đối_thủ kazhgalayev_murtas kazakhstan
+2,lợi_thế cầm_quân trắng kỳ_thủ số_một việt_nam tấn_công liên_tục thắng nhanh_chóng 35 nước đi
+3,chiến_thắng giúp quang_liêm 3 điểm tuyệt_đối giữ vững ngôi đầu bảng xếp_hạng
+4,kỳ thủ khác đội_tuyển nam nguyễn_huỳnh_minh_huy thắng chu_wei_chao trung_quốc thêm 1 điểm
+5,nguyễn_ngọc trường_sơn tiếp_tục đối_thủ cơ cầm hòa mới 2 điểm 3 ván

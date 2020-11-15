@@ -1,8 +1,8 @@
 idx, sentence
-0,đây là khoản đầu_tư bằng tiền_mặt lớn nhất từ một nhà_đầu_tư riêng_lẻ cho uber từ trước tới nay 
-1,tuy_nhiên  nó không làm thay_đổi giá_trị vốn hóa 625 tỷ usd của uber 
-2,uber vẫn là startup giá_trị nhất thế_giới hiện_nay 
-3,đồng_thời  uber bổ_sung thêm một thành_viên vào ban quản_trị  giám_đốc quỹ đầu_tư công ảrập_xêút_yasir_al_rumayyan 
-4,trong thông_báo gửi tới cnnmoney  ông al_rumayyan cho biết đã chứng_kiến uber thay_đổi việc đi_lại trong các đô_thị và mong_muốn trở_thành một phần của tiến_trình đó 
-5,uber bắt_đầu hoạt_động tại ảrập_xêút từ năm 2014 
-6,theo uber  80  khách_hàng của họ tại quốc_gia hồi_giáo này là phụ_nữ vì phụ_nữ không được phép tự lái_xe 
+0,khoản đầu_tư bằng tiền_mặt lớn nhất một nhà_đầu_tư riêng_lẻ uber tới nay
+1,tuy_nhiên nó làm thay_đổi giá_trị vốn hóa 625 tỷ usd uber
+2,uber startup giá_trị nhất thế_giới hiện_nay
+3,đồng_thời uber bổ_sung thêm một thành_viên ban quản_trị giám_đốc quỹ đầu_tư công ảrập_xêút_yasir_al_rumayyan
+4,trong thông_báo gửi tới cnnmoney ông al_rumayyan biết chứng_kiến uber thay_đổi đi_lại trong đô_thị mong_muốn trở_thành một phần tiến_trình
+5,uber bắt_đầu hoạt_động ảrập_xêút năm 2014
+6,uber 80 khách_hàng họ quốc_gia hồi_giáo phụ_nữ phụ_nữ phép tự lái_xe

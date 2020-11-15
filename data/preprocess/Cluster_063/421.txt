@@ -1,11 +1,11 @@
 idx, sentence
-0,về lý_thuyết  hlv jurgen_klinsmann vẫn chưa hoàn_tất danh_sách 23 người tham_dự copa_america sẽ khai_diễn vào đầu tháng tới  hlv klinsmann chỉ mới chọn 22 cầu_thủ  
-1,ông vẫn còn dành một chỗ trống cho sự bổ_sung vào giờ_chót 
-2,ngoài_ra  trong trường_hợp đội_tuyển mỹ có ca chấn_thương nào đó  vị hlv người đức sẽ tính đến các phương_án nhân_sự thay_thế 
-3,dù_vậy  khả_năng lee_nguyễn_xuất_hiện tại copa_america ngay trên sân_nhà là cực thấp 
-4,bởi  có_vẻ như hlv jurgen_klinsmann đã tìm thấy sự ổn_định về mặt đội_hình cũng như lối chơi  nên rất khó có sự xáo_trộn trong vai_trò người tổ_chức trận đấu – vai_trò của lee_nguyễn_tại các đội bóng mà anh khoác áo 
-5,với việc vắng_mặt tại copa_america 2016  lee nguyễn_sẽ mất cơ_hội đối_đầu với ngôi_sao số 1 của bóng_đá thế_giới là messi ngay trên sân_nhà 
-6,đây là điều khá thất_vọng đối_với cầu_thủ việt_kiều này  bởi phong_độ của lee_nguyễn_trong 2 – 3 năm qua  tại giải bóng_đá nhà_nghề mỹ_mls là rất tốt 
-7,danh_sách chính_thức 23 cầu_thủ mỹ tham_dự copa_america 2016  thủ_môn  1  brad_guzan  aston_villa   12  tim_howard  colorado_rapids  22  ethan_horvath  molde_ik  
-8,hậu_vệ  5  matt_besler  sporting_kansas_city   3  steve_birnbaum  dc_united   6  john_brooks  hertha_berlin   20  geoff_cameron  stoke_city   21  timmy_chandler  eintracht_frankfurt   23  fabian_johnson  m’gladbach   14  michael_orozco  club_tijuana   2  deandre_yedlin  tottenham  
-9,tiền_vệ  15  kyle_beckerman  real_salt_lake   11  alejandro_bedoya  nantes   4  michael_bradley  toronto_fc   13  jermaine_jones  colorado_rapids   16  perry_kitchen  heart_of_midlothian   10  darlington_nagbe  portland_timbers   17  christian_pulisic  borussia_dortmund   19  graham_zusi  sporting_kc  
+0,về lý_thuyết hlv jurgen_klinsmann hoàn_tất danh_sách 23 người tham_dự copa_america khai_diễn đầu tháng tới hlv klinsmann mới chọn 22 cầu_thủ
+1,ông còn dành một chỗ trống bổ_sung giờ_chót
+2,ngoài_ra trong trường_hợp đội_tuyển mỹ ca chấn_thương nào vị hlv người đức tính đến phương_án nhân_sự thay_thế
+3,dù_vậy khả_năng lee_nguyễn_xuất_hiện copa_america sân_nhà cực thấp
+4,có_vẻ hlv jurgen_klinsmann tìm thấy ổn_định về mặt đội_hình lối chơi khó xáo_trộn trong vai_trò người tổ_chức trận đấu – vai_trò lee_nguyễn_tại đội bóng anh khoác áo
+5,vắng_mặt copa_america 2016 lee nguyễn_sẽ mất cơ_hội đối_đầu ngôi_sao số 1 bóng_đá thế_giới messi sân_nhà
+6,khá thất_vọng đối_với cầu_thủ việt_kiều phong_độ lee_nguyễn_trong 2 – 3 năm giải bóng_đá nhà_nghề mỹ_mls tốt
+7,danh_sách chính_thức 23 cầu_thủ mỹ tham_dự copa_america 2016 thủ_môn 1 brad_guzan aston_villa 12 tim_howard colorado_rapids 22 ethan_horvath molde_ik
+8,hậu_vệ 5 matt_besler sporting_kansas_city 3 steve_birnbaum dc_united 6 john_brooks hertha_berlin 20 geoff_cameron stoke_city 21 timmy_chandler eintracht_frankfurt 23 fabian_johnson m’gladbach 14 michael_orozco club_tijuana 2 deandre_yedlin tottenham
+9,tiền_vệ 15 kyle_beckerman real_salt_lake 11 alejandro_bedoya nantes 4 michael_bradley toronto_fc 13 jermaine_jones colorado_rapids 16 perry_kitchen heart_of_midlothian 10 darlington_nagbe portland_timbers 17 christian_pulisic borussia_dortmund 19 graham_zusi sporting_kc

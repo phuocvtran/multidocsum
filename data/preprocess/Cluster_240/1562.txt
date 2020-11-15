@@ -1,13 +1,13 @@
 idx, sentence
-0,trên báo người đưa tin sáng nay có đưa tin  ngày 2/6  đoàn kiểm_tra liên_ngành vệ_sinh an_toàn thực_phẩm tp vĩnh_long  tỉnh vĩnh_long  cho biết  trước đó 1 ngày đã tiến_hành kiểm_tra đột_xuất 2 cơ_sở sản_xuất  kinh_doanh mắm  dưa mắm trên địa_bàn phường 4 và phường 5 và phát_hiện nhiều sai_phạm 
-1,cụ_thể  tại cơ_sở sản_xuất mắm minh_truyền  trên đường 8 tháng 3  phường 5  tp vĩnh_long  do ông nguyễn_minh_truyền làm_chủ  qua kiểm_tra  lực_lượng chức_năng phát_hiện các ụ chứa mắm có rất nhiều giòi bò lúc_nhúc  dụng_cụ chứa_đựng không có che_đậy  người chế_biến trực_tiếp không có trang_bị bảo_hộ lao_động chuyên_dụng  ở trần  chân trần đạp dưa làm_mắm … cũng đưa tin về vụ nước_mắm bẩn “ kinh_hoàng ” tại tỉnh vĩnh_long  pv của tờ thanh_niên cho biết  vào thời_điểm các cơ_quan đột_xuất kiểm_tra  khu_vực sản_xuất nước_mắm của cơ_sở này ẩm_thấp  nền xi_măng  mái tôn  còn ứ_đọng rất nhiều nước  gần nhà_vệ_sinh  trần nhà đóng nhiều mạng_nhện  thiết_bị ủ mắm bằng bồn xi_măng cũ_kỹ 
-2,cơ_sở này chưa xuất_trình giấy chứng_nhận đăng_ký kinh_doanh  4/4 lao_động chưa xuất_trình giấy khám sức_khỏe  tập_huấn kiến_thức vệ_sinh an_toàn thực_phẩm  chưa có giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm 
-3,tại thời_điểm kiểm_tra  cơ_sở có 5 tấn dưa mắm  2 tấn mắm  24 bồn làm_mắm và có nhiều mắm thành_phẩm đang chờ được tiêu_thụ 
-4,tại cơ_sở mắm mười_kiều  đường lò_rèn  phường 4   đoàn kiểm_tra cũng ụ chứa mắm có nhiều giòi  không đảm_bảo vệ_sinh an_toàn thực_phẩm 
-5,bà nguyễn_thị_kim_anh  chủ cơ_sở cho biết  cơ_sở này lấy mắm thành_phẩm ở đồng_tháp  an_giang về ủ  sau đó đem bán 
-6,bà lê_thị_tú_anh  trưởng_phòng y_tế tp vĩnh_long  trưởng_đoàn kiểm_tra cho biết  “ đoàn đã tiến_hành lập biên_bản vi_phạm đối_với 2 cơ_sở  mời chủ cơ_sở minh_truyền đến làm_việc theo quy_định của pháp_luật 
-7,đồng_thời  cho thời_gian 90 ngày để cơ_sở mười_kiều khắc_phục  bổ_túc hồ_sơ ” 
-8,ăn phải thực_phẩm có giòi rất nguy_hại cho sức_khỏe 
-9,không_những giòi sinh_sống ăn hết chất_bổ  khi con_người ăn sẽ chẳng còn giá_trị dinh_dưỡng gì 
-10,nó còn có_thể là nguồn gây bệnh tả  thương_hàn  kiết_lỵ  giun_sán 
-11,những con giòi này sau khi sinh ra sẽ truyền kí_sinh_trùng myiasis chuyên phá_hoại các mô sống sang cơ_thể người  gây ngứa và một_số bệnh_lý như nhức_đầu  đau họng  giòi kí_sinh ở mũi   suy_giảm thị_lực  giòi kí_sinh ở mắt   viêm xoang  giòi kí_sinh ở tai  
+0,báo người đưa tin sáng nay đưa tin ngày 2/6 đoàn kiểm_tra liên_ngành vệ_sinh an_toàn thực_phẩm tp vĩnh_long tỉnh vĩnh_long biết 1 ngày tiến_hành kiểm_tra đột_xuất 2 cơ_sở sản_xuất kinh_doanh mắm dưa mắm địa_bàn phường 4 phường 5 phát_hiện sai_phạm
+1,cụ_thể cơ_sở sản_xuất mắm minh_truyền đường 8 tháng 3 phường 5 tp vĩnh_long ông nguyễn_minh_truyền làm_chủ kiểm_tra lực_lượng chức_năng phát_hiện ụ chứa mắm giòi bò lúc_nhúc dụng_cụ chứa_đựng che_đậy người chế_biến trực_tiếp trang_bị bảo_hộ lao_động chuyên_dụng ở trần chân trần đạp dưa làm_mắm … đưa tin về vụ nước_mắm bẩn “ kinh_hoàng ” tỉnh vĩnh_long pv tờ thanh_niên biết thời_điểm cơ_quan đột_xuất kiểm_tra khu_vực sản_xuất nước_mắm cơ_sở ẩm_thấp nền xi_măng mái tôn còn ứ_đọng nước gần nhà_vệ_sinh trần nhà đóng mạng_nhện thiết_bị ủ mắm bằng bồn xi_măng cũ_kỹ
+2,cơ_sở xuất_trình giấy chứng_nhận đăng_ký kinh_doanh 4/4 lao_động xuất_trình giấy khám sức_khỏe tập_huấn kiến_thức vệ_sinh an_toàn thực_phẩm giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm
+3,thời_điểm kiểm_tra cơ_sở 5 tấn dưa mắm 2 tấn mắm 24 bồn làm_mắm mắm thành_phẩm chờ tiêu_thụ
+4,cơ_sở mắm mười_kiều đường lò_rèn phường 4 đoàn kiểm_tra ụ chứa mắm giòi đảm_bảo vệ_sinh an_toàn thực_phẩm
+5,bà nguyễn_thị_kim_anh chủ cơ_sở biết cơ_sở lấy mắm thành_phẩm ở đồng_tháp an_giang về ủ đem bán
+6,bà lê_thị_tú_anh trưởng_phòng y_tế tp vĩnh_long trưởng_đoàn kiểm_tra biết “ đoàn tiến_hành lập biên_bản vi_phạm đối_với 2 cơ_sở mời chủ cơ_sở minh_truyền đến làm_việc quy_định pháp_luật
+7,đồng_thời thời_gian 90 ngày cơ_sở mười_kiều khắc_phục bổ_túc hồ_sơ ”
+8,ăn thực_phẩm giòi nguy_hại sức_khỏe
+9,không_những giòi sinh_sống ăn hết chất_bổ con_người ăn chẳng còn giá_trị dinh_dưỡng
+10,nó còn nguồn gây bệnh tả thương_hàn kiết_lỵ giun_sán
+11,con giòi sinh truyền kí_sinh_trùng myiasis chuyên phá_hoại mô sống sang cơ_thể người gây ngứa một_số bệnh_lý nhức_đầu đau họng giòi kí_sinh ở mũi suy_giảm thị_lực giòi kí_sinh ở mắt viêm xoang giòi kí_sinh ở tai

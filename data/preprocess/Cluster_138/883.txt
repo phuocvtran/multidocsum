@@ -1,12 +1,12 @@
 idx, sentence
-0,theo thông_tin từ địa_phương  hiện_nay chủ đầu_tư đang thuê tư_vấn đánh_giá tác_động môi_trường của dự_án xây_dựng nhà_máy thủy_điện đrăng_phốk 
-1,theo hồ_sơ thiết_kế  công_trình thủy_điện đrăng_phốk xây_dựng theo kiểu đập dâng trên sông srêpốk thuộc xã krông_na  huyện buôn_đôn  tỉnh đắk_lắk 
-2,công_suất nhà_máy dự_kiến 26mw với tổng vốn đầu_tư khoảng 850 tỉ đồng do công_ty cp đầu_tư xây_dựng và ứng_dụng công_nghệ mới  công_ty tecco  làm_chủ đầu_tư 
-3,nhận_định sơ_bộ về tác_động của công_trình thủy_điện đrăng_phốk  bộ_nnptnt cho rằng  khi xây_dựng thủy_điện đrăng_phốk sẽ phải chuyển mục_đích sử_dụng 63 ha đất có rừng  trong đó  chuyển_đổi vĩnh_viễn 53 ha  chuyển_đổi tạm_thời để phục_vụ thi_công 10 ha  chưa bao_gồm nhu_cầu sử_dụng đất  rừng để xây_dựng đường_dây tải điện từ nhà_máy đến trạm biến_áp hòa với hệ thông_điện quốc_gia  theo dự_tính hành_lang tuyến và các trụ_cột điện khoảng 27 ha  
-4,hiện_trạng khu_vực này là rừng tự_nhiên  trong đó có 3 ha rừng giàu  11 ha rừng trung_bình và 49 ha rừng nghèo 
-5,ngoài việc chuyển_đổi mục_đích sử_dụng rừng thì quá_trình thi_công xây_dựng  vận_hành nhà_máy sẽ ảnh_hưởng trực_tiếp đến sinh_cảnh sống của các loài động_vật hoang_dã  đặc_biệt là voi  hổ có_thể bỏ đi nơi khác 
-6,việc xây_dựng đập  chặn dòng sẽ làm thay_đổi dòng_chảy  ảnh_hưởng đến hệ_sinh_thái  nhất_là các loài thủy_sinh 
-7,trong quá_trình thi_công và vận_hành nhà_máy sẽ tạo thêm áp_lực bảo_vệ rừng  bảo_tồn thiên_nhiên của vườn_quốc_gia yok_đôn  nhất_là việc dâng nước lòng hồ đrăng_phốk sẽ tạo thuận_lợi hơn cho các hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy 
-8,cũng theo bộ_nnptnt  hiện_nay  rừng tây_nguyên đang bị suy_giảm nghiêm_trọng cả về diện_tích  chất_lượng  trong 5 năm qua độ che_phủ rừng đã giảm 61   đặc_biệt khu_vực tiếp_giáp với vườn_quốc_gia yok_đôn  rừng đã bị suy_giảm rất nghiêm_trọng  nhiều khu_vực không còn rừng 
-9,cùng với tác_động ngày_càng gay_gắt của biến_đổi khí_hậu  làm cho diễn_biến thời_tiết cực_đoan  tình_trạng khô  hạn kiệt diễn ra khốc_liệt  tác_động tiêu_cực đến đời_sống của người_dân và phát_triển kinh_tế xã_hội  môi_trường bền_vững ở tây_nguyên 
-10,chính vì_thế  bộ bộ nnptnt báo_cáo thủ_tướng chính_phủ xem_xét  dừng thực_hiện văn_bản số 1479 / ttgktn ngày 25/8/2009 về việc chuyển mục_đích sử_dụng rừng và đất lâm_nghiệp của vườn_quốc_gia yok_đôn để xây_dựng nhà_máy thủy_điện đrăng_phốk 
+0,thông_tin địa_phương hiện_nay chủ đầu_tư thuê tư_vấn đánh_giá tác_động môi_trường dự_án xây_dựng nhà_máy thủy_điện đrăng_phốk
+1,hồ_sơ thiết_kế công_trình thủy_điện đrăng_phốk xây_dựng kiểu đập dâng sông srêpốk thuộc xã krông_na huyện buôn_đôn tỉnh đắk_lắk
+2,công_suất nhà_máy dự_kiến 26mw tổng vốn đầu_tư khoảng 850 tỉ đồng công_ty cp đầu_tư xây_dựng ứng_dụng công_nghệ mới công_ty tecco làm_chủ đầu_tư
+3,nhận_định sơ_bộ về tác_động công_trình thủy_điện đrăng_phốk bộ_nnptnt xây_dựng thủy_điện đrăng_phốk chuyển mục_đích sử_dụng 63 ha đất rừng trong chuyển_đổi vĩnh_viễn 53 ha chuyển_đổi tạm_thời phục_vụ thi_công 10 ha bao_gồm nhu_cầu sử_dụng đất rừng xây_dựng đường_dây tải điện nhà_máy đến trạm biến_áp hòa hệ thông_điện quốc_gia dự_tính hành_lang tuyến trụ_cột điện khoảng 27 ha
+4,hiện_trạng khu_vực rừng tự_nhiên trong 3 ha rừng giàu 11 ha rừng trung_bình 49 ha rừng nghèo
+5,ngoài chuyển_đổi mục_đích sử_dụng rừng quá_trình thi_công xây_dựng vận_hành nhà_máy ảnh_hưởng trực_tiếp đến sinh_cảnh sống loài động_vật hoang_dã đặc_biệt voi hổ bỏ đi khác
+6,xây_dựng đập chặn dòng làm thay_đổi dòng_chảy ảnh_hưởng đến hệ_sinh_thái nhất_là loài thủy_sinh
+7,trong quá_trình thi_công vận_hành nhà_máy tạo thêm áp_lực bảo_vệ rừng bảo_tồn thiên_nhiên vườn_quốc_gia yok_đôn nhất_là dâng nước lòng hồ đrăng_phốk tạo thuận_lợi hơn hoạt_động vận_chuyển gỗ trái_phép bằng đường_thủy
+8,bộ_nnptnt hiện_nay rừng tây_nguyên suy_giảm nghiêm_trọng về diện_tích chất_lượng trong 5 năm độ che_phủ rừng giảm 61 đặc_biệt khu_vực tiếp_giáp vườn_quốc_gia yok_đôn rừng suy_giảm nghiêm_trọng khu_vực còn rừng
+9,tác_động ngày_càng gay_gắt biến_đổi khí_hậu làm diễn_biến thời_tiết cực_đoan tình_trạng khô hạn kiệt diễn khốc_liệt tác_động tiêu_cực đến đời_sống người_dân phát_triển kinh_tế xã_hội môi_trường bền_vững ở tây_nguyên
+10,chính vì_thế bộ bộ nnptnt báo_cáo thủ_tướng chính_phủ xem_xét dừng thực_hiện văn_bản số 1479 / ttgktn ngày 25/8/2009 về chuyển mục_đích sử_dụng rừng đất lâm_nghiệp vườn_quốc_gia yok_đôn xây_dựng nhà_máy thủy_điện đrăng_phốk

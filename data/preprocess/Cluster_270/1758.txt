@@ -1,10 +1,10 @@
 idx, sentence
-0,nguồn tin của tuổi_trẻ cho biết vụ_việc xảy ra trên sông krông_năng  xã krông_năng  huyện krông_pa  gia_lai cuối ngày 26 
-1,thời_điểm trên  hạt kiểm_lâm huyện krông_pa nhận được tin báo một tốp 4 lâm_tặc đang dùng xuồng chở gỗ khai_thác trái_phép từ sông krông_năng_xuôi về hướng phú_yên 
-2,hạt kiểm_lâm krông_pa đã cử bốn cán_bộ kiểm_lâm xuống hiện_trường  dùng xuồng ra giữa sông yêu_cầu các đối_tượng vận_chuyển gỗ hợp_tác 
-3,tuy_nhiên các đối_tượng này đã vác mã_tấu  dao  gậy húc vào thuyền kiểm_lâm để tấn_công 
-4,trong lúc hai bên xô_xát  một kiểm_lâm đã nổ năm phát súng cảnh_cáo  nhưng các đối_tượng vẫn hung_hãn 
-5,kiểm_lâm đvh buộc phải dùng súng bắn vào mạn_thuyền để thuyền chìm nhưng đạn bay trúng nguyễn_sơn_đông  trú phú_yên   một trong bốn người có_mặt trên thuyền vận_chuyển gỗ 
-6,sau khi xảy ra sự_việc  hai bên rút_lui 
-7,có ba cán_bộ kiểm_lâm bị_thương 
-8,tối cùng ngày  công_an huyện krông_pa nhận được tin báo người bị kiểm_lâm bắn đã tử_nạn trên đường đưa về phú_yên cấp_cứu và đã yêu_cầu hạt kiểm_lâm phối_hợp giải_quyết  điều_tra sự_việc 
+0,nguồn tin tuổi_trẻ biết vụ_việc xảy sông krông_năng xã krông_năng huyện krông_pa gia_lai cuối ngày 26
+1,thời_điểm hạt kiểm_lâm huyện krông_pa nhận tin báo một tốp 4 lâm_tặc dùng xuồng chở gỗ khai_thác trái_phép sông krông_năng_xuôi về hướng phú_yên
+2,hạt kiểm_lâm krông_pa cử bốn cán_bộ kiểm_lâm xuống hiện_trường dùng xuồng giữa sông yêu_cầu đối_tượng vận_chuyển gỗ hợp_tác
+3,tuy_nhiên đối_tượng vác mã_tấu dao gậy húc thuyền kiểm_lâm tấn_công
+4,trong hai bên xô_xát một kiểm_lâm nổ năm phát súng cảnh_cáo đối_tượng hung_hãn
+5,kiểm_lâm đvh buộc dùng súng bắn mạn_thuyền thuyền chìm đạn bay trúng nguyễn_sơn_đông trú phú_yên một trong bốn người có_mặt thuyền vận_chuyển gỗ
+6,xảy sự_việc hai bên rút_lui
+7,ba cán_bộ kiểm_lâm bị_thương
+8,tối ngày công_an huyện krông_pa nhận tin báo người kiểm_lâm bắn tử_nạn đường đưa về phú_yên cấp_cứu yêu_cầu hạt kiểm_lâm phối_hợp giải_quyết điều_tra sự_việc

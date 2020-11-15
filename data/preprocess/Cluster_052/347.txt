@@ -1,9 +1,9 @@
 idx, sentence
-0,chiều ngày 20/5  hội_đồng xét_xử đã bác kháng_cáo của hoa_hậu đông_nam_á 2012  lê_thị_diệu_hân  26 tuổi  trong việc đòi chủ nhà phải bồi_thường 270 triệu đồng 
-1,bên_cạnh đó  tòa phúc_thẩm cũng chấp_nhận đơn của chủ nhà tức bà trang và yêu_cầu diệu_hân phải trả số tiền thuê nhà còn thiếu là 360 triệu đồng 
-2,theo đó  hoa_hậu diệu_hân từng gửi đơn_kiện chủ nhà là bà trang đã xúc_phạm đến danh_dự của mình và đơn_phương chấm_dứt hợp_đồng thuê nhà 
-3,diệu hân có viết trong đơn  cô thuê nhà của bà trang vơi giá 45 triệu đồng / tháng  hợp_đồng thuê nhà có hiệu_lực đến tháng 2/2016 
-4,sau đó  bà trang thường_xuyên đến gây_rối vì cho rằng cô có quan_hệ bất_chính với chồng bà 
-5,bà trang yêu_cầu diệu_hân phải sớm chấm_dứt hợp_đồng thuê nhà vì cho rằng cô đã vi_phạm một_số điều_khoản trong hợp_đồng 
-6,ngay sau khi sự_việc xảy ra  diệu_hân đã làm đơn khởi_kiện đến tand quận 3 yêu_cầu bà trang bồi_thường 135 triệu đồng tiền đặt_cọc thuê nhà và bồi_thường 135 triệu tổn thất_tinh_thần  tổng_cộng là 270 triệu đồng 
-7,về phía bà trang cũng đã có đơn bác_bỏ các yêu_cầu của diệu_hân trong đơn_kiện và yêu_cầu diệu_hân trả 360 triệu đồng tiền 8 tháng thuê nhà còn lại trong hợp_đồng 
+0,chiều ngày 20/5 hội_đồng xét_xử bác kháng_cáo hoa_hậu đông_nam_á 2012 lê_thị_diệu_hân 26 tuổi trong đòi chủ nhà bồi_thường 270 triệu đồng
+1,bên_cạnh tòa phúc_thẩm chấp_nhận đơn chủ nhà tức bà trang yêu_cầu diệu_hân trả số tiền thuê nhà còn thiếu 360 triệu đồng
+2,hoa_hậu diệu_hân gửi đơn_kiện chủ nhà bà trang xúc_phạm đến danh_dự mình đơn_phương chấm_dứt hợp_đồng thuê nhà
+3,diệu hân viết trong đơn cô thuê nhà bà trang vơi giá 45 triệu đồng / tháng hợp_đồng thuê nhà hiệu_lực đến tháng 2/2016
+4,bà trang thường_xuyên đến gây_rối cô quan_hệ bất_chính chồng bà
+5,bà trang yêu_cầu diệu_hân sớm chấm_dứt hợp_đồng thuê nhà cô vi_phạm một_số điều_khoản trong hợp_đồng
+6,sự_việc xảy diệu_hân làm đơn khởi_kiện đến tand quận 3 yêu_cầu bà trang bồi_thường 135 triệu đồng tiền đặt_cọc thuê nhà bồi_thường 135 triệu tổn thất_tinh_thần tổng_cộng 270 triệu đồng
+7,về phía bà trang đơn bác_bỏ yêu_cầu diệu_hân trong đơn_kiện yêu_cầu diệu_hân trả 360 triệu đồng tiền 8 tháng thuê nhà còn trong hợp_đồng

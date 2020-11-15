@@ -1,7 +1,7 @@
 idx, sentence
-0,khoảng 18 h30 ngày 18/5  theo giờ_địa_phương   cảnh_sát northumbria nhận được thông_báo một con chó dữ chạy lung_tung và tấn_công trẻ_em trong công_viên ở blyth  northumberland 
-1,nhân_chứng cho biết  thấy một phụ_nữ lạ_mặt tháo dây_xích và rọ_mõm cho con chó 
-2,sau khi được giải_thoát  con chó lao vào cắn những phụ_huynh và trẻ_em đang vui_chơi trong công_viên 
-3,cuộc tấn_công điên_cuồng diễn ra suốt 45 phút và chỉ kết_thúc khi cha của một trong những đứa trẻ gặp nạn phát_hiện sự_việc 
-4,người này khống_chế con chó  đè nó xuống đất chờ cảnh_sát đến giải_quyết 
-5,các nhân_viên y_tế phải thiết_lập một trạm phân_loại tình_trạng khẩn_cấp ngay tại hiện_trường để xử_lý các vết_thương trên người nạn_nhân  rồi mới chuyển đến bệnh_viện 
+0,khoảng 18 h30 ngày 18/5 giờ_địa_phương cảnh_sát northumbria nhận thông_báo một con chó dữ chạy lung_tung tấn_công trẻ_em trong công_viên ở blyth northumberland
+1,nhân_chứng biết thấy một phụ_nữ lạ_mặt tháo dây_xích rọ_mõm con chó
+2,giải_thoát con chó lao cắn phụ_huynh trẻ_em vui_chơi trong công_viên
+3,cuộc tấn_công điên_cuồng diễn suốt 45 phút kết_thúc cha một trong đứa trẻ gặp nạn phát_hiện sự_việc
+4,người khống_chế con chó đè nó xuống đất chờ cảnh_sát đến giải_quyết
+5,nhân_viên y_tế thiết_lập một trạm phân_loại tình_trạng khẩn_cấp hiện_trường xử_lý vết_thương người nạn_nhân mới chuyển đến bệnh_viện

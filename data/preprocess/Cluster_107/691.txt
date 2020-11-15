@@ -1,8 +1,8 @@
 idx, sentence
-0,hãng tin reuters cho biết tổ_chức nhà_nước khủng_bố hồi_giáo  is  đã đứng ra nhận trách_nhiệm_vụ các vụ đánh bom này 
-1,theo tổ_chức quan_sát_nhân_quyền syria  ít_nhất hai trong số này là các vụ đánh bom tự_sát 
-2,đài_truyền_hình quốc_gia ikhbariya của syria quay hiện_trường một vụ đánh bom cho thấy khói bóc lên và nhiều xe_cộ bị cháy 
-3,theo ikhbariya  bốn vụ đánh bom xảy ra tại jableh và ba tại tartus 
-4,trong số bốn vụ đánh bom tại jableh  có một vụ được thực_hiện ngay sát bệnh_viện chính của thành_phố 
-5,còn ba vụ đánh bom tại tartus đều nhắm vào khu dân_cư 
-6,ngoài_ra  đường vào một trạm xe_buýt tại jableh cũng bị pháo_kích 
+0,hãng tin reuters biết tổ_chức nhà_nước khủng_bố hồi_giáo is đứng nhận trách_nhiệm_vụ vụ đánh bom
+1,tổ_chức quan_sát_nhân_quyền syria ít_nhất hai trong số vụ đánh bom tự_sát
+2,đài_truyền_hình quốc_gia ikhbariya syria quay hiện_trường một vụ đánh bom thấy khói bóc xe_cộ cháy
+3,ikhbariya bốn vụ đánh bom xảy jableh ba tartus
+4,trong số bốn vụ đánh bom jableh một vụ thực_hiện sát bệnh_viện chính thành_phố
+5,còn ba vụ đánh bom tartus nhắm khu dân_cư
+6,ngoài_ra đường một trạm xe_buýt jableh pháo_kích

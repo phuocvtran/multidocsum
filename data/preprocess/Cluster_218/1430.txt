@@ -1,5 +1,5 @@
 idx, sentence
-0,theo đó hiện_nay một doanh_nghiệp singapore đang đề_xuất sẽ trang_bị wifi miễn_phí cho toàn thành_phố để khách du_lịch thuận_tiện khi tra_cứu thông_tin 
-1,theo ông trần_vĩnh_tuyến  phó chủ_tịch ubnd tphcm  việc này cũng góp_phần thực_hiện việc xây_dựng chính_quyền điện_tử của tp – một mục_tiêu mà tp đang dồn nhiều nguồn_lực để thực_hiện nhằm cải_cách triệt_để các thủ_tục hành_chính theo hướng đơn_giản  tiện_lợi nhằm hạn_chế tiếp_xúc giữ người dân và cán_bộ để ngăn tiêu_cực 
-2,vị phó chủ_tịch cũng cho biết vừa_qua tp đã làm_việc với đơn_vị này và sẽ có văn_bản chính_thức gửi các sở ngành liên_quan 
-3,“ việc thực_hiện đại trà hay thí_điểm tp sẽ có cân_nhắc ” – ông tuyến cho hay và nhận_định khi tp được phủ wifi sẽ “ tạo điểm nhấn cho du_lịch ” 
+0,hiện_nay một doanh_nghiệp singapore đề_xuất trang_bị wifi miễn_phí toàn thành_phố khách du_lịch thuận_tiện tra_cứu thông_tin
+1,ông trần_vĩnh_tuyến phó chủ_tịch ubnd tphcm góp_phần thực_hiện xây_dựng chính_quyền điện_tử tp – một mục_tiêu tp dồn nguồn_lực thực_hiện nhằm cải_cách triệt_để thủ_tục hành_chính hướng đơn_giản tiện_lợi nhằm hạn_chế tiếp_xúc giữ người dân cán_bộ ngăn tiêu_cực
+2,vị phó chủ_tịch biết vừa_qua tp làm_việc đơn_vị văn_bản chính_thức gửi sở ngành liên_quan
+3,“ thực_hiện đại trà hay thí_điểm tp cân_nhắc ” – ông tuyến hay nhận_định tp phủ wifi “ tạo điểm nhấn du_lịch ”

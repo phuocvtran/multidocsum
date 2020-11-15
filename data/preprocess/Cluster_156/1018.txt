@@ -1,9 +1,9 @@
 idx, sentence
-0,cậu bé  khoảng ba tuổi  bò qua rào_chắn vào chuồng khỉ_đột rồi rơi xuống con hào bảo_vệ phía dưới vào khoảng 16 g  afp dẫn lời thane_maynard  giám_đốc vườn thú cincinnati  trả_lời báo_giới 
-1,con khỉ_đột đực tên harambe  17 năm tuổi và nặng hơn 180 kg   đi ra và tóm lấy cậu bé  
-2,theo các nhân_chứng  harambe đã lôi cậu bé đi quanh nơi nó sống 
-3,đội phản_ứng_động_vật nguy_hiểm của vườn thú buộc phải bắn hạ con vật  khoảng 10 phút sau khi bé trai rơi vào chuồng thú 
-4,bé trai nhập_viện trong tình_trạng có nhiều vết_thương nhưng không nguy_hiểm đến tính_mạng  truyền_thông địa_phương dẫn lời cảnh_sát cho biết 
-5,đội phản_ứng quyết_định bắn hạ con khỉ_đột thay_vì gây_mê bởi thuốc_mê không có tác_dụng ngay_lập_tức  ông maynard lý_giải 
-6, họ coi đó là tình_huống đe_dọa đến mạng sống 
-7,họ đã cứu mạng cậu bé  
+0,cậu bé khoảng ba tuổi bò rào_chắn chuồng khỉ_đột rơi xuống con hào bảo_vệ phía khoảng 16 g afp dẫn lời thane_maynard giám_đốc vườn thú cincinnati trả_lời báo_giới
+1,con khỉ_đột đực tên harambe 17 năm tuổi nặng hơn 180 kg đi tóm lấy cậu bé
+2,nhân_chứng harambe lôi cậu bé đi quanh nó sống
+3,đội phản_ứng_động_vật nguy_hiểm vườn thú buộc bắn hạ con vật khoảng 10 phút bé trai rơi chuồng thú
+4,bé trai nhập_viện trong tình_trạng vết_thương nguy_hiểm đến tính_mạng truyền_thông địa_phương dẫn lời cảnh_sát biết
+5,đội phản_ứng quyết_định bắn hạ con khỉ_đột thay_vì gây_mê thuốc_mê tác_dụng ngay_lập_tức ông maynard lý_giải
+6,họ coi tình_huống đe_dọa đến mạng sống
+7,họ cứu mạng cậu bé

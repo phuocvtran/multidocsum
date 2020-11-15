@@ -1,13 +1,13 @@
 idx, sentence
-0,trưa ngày 295  trao_đổi với phóng_viên báo người lao_động  ông lương trường_sơn  trưởng công_an xã mường_noọc  huyện quế_phong  tỉnh nghệ_an  cho biết vi_văn_thắng  sn 1993  trú bản cỏ_noong  xã mường_noọc  huyện quế_phong   là nghi can sát_hại bà vi_thị_loan  đâm trọng_thương ông sầm_văn_dần  đã tự_sát 
-1,trước đó  như báo người lao_động đã đưa tin  vào khoảng 20 giờ đêm ngày 285  anh vi_văn_xan phát_hiện ông sầm_văn_dần  sn 1955  trú bản cỏ_noong  xã mường_noọc  người đầy máu bò sang nhà mình kêu cứu vợ_chồng ông bị truy sát 
-2,mọi người chạy sang nhà ông dần thì phát_hiện bà vi_thị_loan  sn 1953  vợ ông dần  tử_vong trong vũng máu 
-3,tại hiện_trường  một_số tài_sản của gia_đình ông dần bị mất 
-4,qua điều_tra  cơ_quan công_an xác_định vi_văn_thắng  sn 1993  trú bản cỏ_noong  xã mường_noọc  huyện quế_phong   là nghi can gây ra vụ truy sát trên đã bỏ trốn 
-5,đến khoảng 8 giờ ngày 295  nhận được tin báo của quần_chúng nhân_dân về việc đối_tượng thắng đang ẩn_nấp tại nhà một người_thân ở bản phương_tiến 1  xã tiền_phong  huyện quế_phong   lực_lượng chức_năng đã triển_khai việc vây_bắt 
-6,phát_hiện vi_văn_thắng đang trốn trong nhà_vệ_sinh  lực_lượng chức_năng đã vận_động đối_tượng ra đầu_thú để hưởng sự khoan_hồng thì bất_ngờ đối_tượng cầm con dao tự đâm cổ mình tự_sát 
-7,nghi can thắng bị_thương nặng được lực_lượng chức_năng đưa ra bệnh_viện huyện cấp_cứu  sau đó được chuyển lên bệnh_viện tuyến trên điều_trị 
-8,được biết  thắng là đối_tượng nghiện ma_túy lâu năm 
-9,theo một_số nhận chứng  chiều tối ngày 285  thắng và ông dần ngồi uống rượu tại nhà ông dần 
-10,sau khi uống rượu  thắng đã sát_hại bà loan để cướp tài_sản 
-11,ông dần phát_hiện liền lao tới can_ngăn thì bị thắng dùng dao đâm liên_tiếp nhiều nhát vào cơ_thể rồi bỏ trốn 
+0,trưa ngày 295 trao_đổi phóng_viên báo người lao_động ông lương trường_sơn trưởng công_an xã mường_noọc huyện quế_phong tỉnh nghệ_an biết vi_văn_thắng sn 1993 trú bản cỏ_noong xã mường_noọc huyện quế_phong nghi can sát_hại bà vi_thị_loan đâm trọng_thương ông sầm_văn_dần tự_sát
+1,báo người lao_động đưa tin khoảng 20 giờ đêm ngày 285 anh vi_văn_xan phát_hiện ông sầm_văn_dần sn 1955 trú bản cỏ_noong xã mường_noọc người đầy máu bò sang nhà mình kêu cứu vợ_chồng ông truy sát
+2,mọi người chạy sang nhà ông dần phát_hiện bà vi_thị_loan sn 1953 vợ ông dần tử_vong trong vũng máu
+3,hiện_trường một_số tài_sản gia_đình ông dần mất
+4,điều_tra cơ_quan công_an xác_định vi_văn_thắng sn 1993 trú bản cỏ_noong xã mường_noọc huyện quế_phong nghi can gây vụ truy sát bỏ trốn
+5,đến khoảng 8 giờ ngày 295 nhận tin báo quần_chúng nhân_dân về đối_tượng thắng ẩn_nấp nhà một người_thân ở bản phương_tiến 1 xã tiền_phong huyện quế_phong lực_lượng chức_năng triển_khai vây_bắt
+6,phát_hiện vi_văn_thắng trốn trong nhà_vệ_sinh lực_lượng chức_năng vận_động đối_tượng đầu_thú hưởng khoan_hồng bất_ngờ đối_tượng cầm con dao tự đâm cổ mình tự_sát
+7,nghi can thắng bị_thương nặng lực_lượng chức_năng đưa bệnh_viện huyện cấp_cứu chuyển bệnh_viện tuyến điều_trị
+8,biết thắng đối_tượng nghiện ma_túy lâu năm
+9,một_số nhận chứng chiều tối ngày 285 thắng ông dần ngồi uống rượu nhà ông dần
+10,uống rượu thắng sát_hại bà loan cướp tài_sản
+11,ông dần phát_hiện liền lao tới can_ngăn thắng dùng dao đâm liên_tiếp nhát cơ_thể bỏ trốn

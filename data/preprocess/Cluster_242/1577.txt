@@ -1,4 +1,4 @@
 idx, sentence
-0,sáng 16  phòng cảnh_sát phòng_chống tội_phạm về môi_trường  công_an tp hải_phòng  phối_hợp với ban_chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng và công_an xã bắc_hưng  kiểm_tra thu_giữ gần 15 tấn lòng lơn thối tại cơ_sở chế_biến của ông nguyễn_trọng_dư  sinh năm 1983  ở xã bắc_hưng  huyện tiên_lãng  
-1,tại thời_điểm kiểm_tra  lực_lượng chức_năng phát_hiện số lòng lợn trên chứa trong 10 thùng xốp đang trong quá_trình phân hủy  bốc mùi hôi_thối 
-2,bước_đầu  chủ cơ_sở đã thừa_nhận mua gom số lòng trên từ nhiều ngày trước đó tại các cơ_sở giết_mổ lợn trên địa_bàn thành_phố  đưa về xưởng sơ_chế bằng muối  phèn_chua và để trong tủ đông  chuẩn_bị giao cho các quán ăn  nhà_hàng 
+0,sáng 16 phòng cảnh_sát phòng_chống tội_phạm về môi_trường công_an tp hải_phòng phối_hợp ban_chỉ_đạo vệ_sinh an_toàn thực_phẩm huyện tiên_lãng công_an xã bắc_hưng kiểm_tra thu_giữ gần 15 tấn lòng lơn thối cơ_sở chế_biến ông nguyễn_trọng_dư sinh năm 1983 ở xã bắc_hưng huyện tiên_lãng
+1,thời_điểm kiểm_tra lực_lượng chức_năng phát_hiện số lòng lợn chứa trong 10 thùng xốp trong quá_trình phân hủy bốc mùi hôi_thối
+2,bước_đầu chủ cơ_sở thừa_nhận mua gom số lòng ngày cơ_sở giết_mổ lợn địa_bàn thành_phố đưa về xưởng sơ_chế bằng muối phèn_chua trong tủ đông chuẩn_bị giao quán ăn nhà_hàng

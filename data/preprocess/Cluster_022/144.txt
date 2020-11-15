@@ -1,3 +1,3 @@
 idx, sentence
-0,các đơn_vị bố_trí cho cán_bộ  chiến_sĩ đổi ca trực tại các vị_trí chiến_đấu  đảm_bảo 100  cử_tri đi bỏ_phiếu 
-1,đến hơn 10 giờ sáng nay  tất_cả cử_tri thuộc các lực_lượng_vũ_trang trên huyện đảo lý_sơn  tỉnh quảng_ngãi đã hoàn_thành việc bỏ_phiếu bầu_cử 
+0,đơn_vị bố_trí cán_bộ chiến_sĩ đổi ca trực vị_trí chiến_đấu đảm_bảo 100 cử_tri đi bỏ_phiếu
+1,đến hơn 10 giờ sáng nay tất_cả cử_tri thuộc lực_lượng_vũ_trang huyện đảo lý_sơn tỉnh quảng_ngãi hoàn_thành bỏ_phiếu bầu_cử

@@ -1,6 +1,6 @@
 idx, sentence
-0,dự_án tổ_hợp phumy_complex nằm trong quần_thể khu đô_thị đoàn ngoại_giao  có quy_mô 35 tầng  chưa bao_gồm 3 tầng_hầm   trong đó tầng 1 là khu_vực lễ_tân  phòng sinh_hoạt cộng_đồng và các shop thời_trang 
-1,tầng 2 đến tầng 5 là khu văn_phòng hạng a từ tầng 6 đến tầng 35 là khu căn_hộ cao_cấp  với 287 căn_hộ có diện_tích từ 87  211 m2 
-2,nằm tại trung_tâm khu đô_thị đoàn ngoại_giao  phumy_complex cách các tiện_ích và địa_điểm trung_tâm trong bán_kính chưa đầy 3 km và rất thuận_tiện trong việc di_chuyển vào trung_tâm thành_phố 
-3,theo phía đơn_vị phân_phối  tại đợt mở bán căn_hộ phumy_complex lần này  chủ đầu_tư áp_dụng chương_trình cho thuê căn_hộ chia_sẻ lợi_nhuận cho chủ_sở_hữu căn_hộ lên tới 80  
-4,ngoài_ra  khách_hàng cũng nhận được nhiều chương_trình ưu_đãi hấp_dẫn khác từ đơn_vị phân_phối 
+0,dự_án tổ_hợp phumy_complex nằm trong quần_thể khu đô_thị đoàn ngoại_giao quy_mô 35 tầng bao_gồm 3 tầng_hầm trong tầng 1 khu_vực lễ_tân phòng sinh_hoạt cộng_đồng shop thời_trang
+1,tầng 2 đến tầng 5 khu văn_phòng hạng a tầng 6 đến tầng 35 khu căn_hộ cao_cấp 287 căn_hộ diện_tích 87 211 m2
+2,nằm trung_tâm khu đô_thị đoàn ngoại_giao phumy_complex cách tiện_ích địa_điểm trung_tâm trong bán_kính đầy 3 km thuận_tiện trong di_chuyển trung_tâm thành_phố
+3,phía đơn_vị phân_phối đợt mở bán căn_hộ phumy_complex lần chủ đầu_tư áp_dụng chương_trình thuê căn_hộ chia_sẻ lợi_nhuận chủ_sở_hữu căn_hộ tới 80
+4,ngoài_ra khách_hàng nhận chương_trình ưu_đãi hấp_dẫn khác đơn_vị phân_phối

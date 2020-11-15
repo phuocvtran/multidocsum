@@ -1,9 +1,9 @@
 idx, sentence
-0,cecs fabregas có mùa giải kém thành_công cùng chelsea nhưng vẫn được hlv del_bosque triệu_tập vào đội_tuyển tây ban_nha tham_dự vck_euro 2016 diễn ra tại pháp vào tháng 6 
-1,để lấy lại tinh_thần sau một mùa giải nhiều áp_lực tiền_vệ 29 tuổi đã đi nghỉ_mát ở miami  mỹ cùng bạn gái danielle_semaan  người_lớn hơn anh đến 12 tuổi 
-2,dù bị chế_giễu là “ phi_công trẻ láy máy_bay già ” nhưng fabregas vẫn giành tình_cảm đặc_biệt cho semaan trong những năm qua 
-3,cặp_đôi này đã có hai con với nhau 
-4,fabregas đang quyết_tâm giành hattrick vô_địch euro trước giã_từ sự_nghiệp thi_đấu quốc_tế vì tuổi_tác 
-5,trước đó  anh đã cùng tây ban_nha vô_địch lần liên_tiếp vào các năm 2008 và 2012 
-6,ngoài fabregas  2 đồng_đội khác ở chelsea là pedro và cesar_azpilicueta cũng được hlv del_bosque triệu_tập 
-7,trong khi đó  tiền_đạo diego_costa và cựu tiền_vệ the_blues_juan_mata lại bị loại 
+0,cecs fabregas mùa giải kém thành_công chelsea hlv del_bosque triệu_tập đội_tuyển tây ban_nha tham_dự vck_euro 2016 diễn pháp tháng 6
+1,lấy tinh_thần một mùa giải áp_lực tiền_vệ 29 tuổi đi nghỉ_mát ở miami mỹ bạn gái danielle_semaan người_lớn hơn anh đến 12 tuổi
+2,dù chế_giễu “ phi_công trẻ láy máy_bay già ” fabregas giành tình_cảm đặc_biệt semaan trong năm
+3,cặp_đôi hai con nhau
+4,fabregas quyết_tâm giành hattrick vô_địch euro giã_từ sự_nghiệp thi_đấu quốc_tế tuổi_tác
+5,anh tây ban_nha vô_địch lần liên_tiếp năm 2008 2012
+6,ngoài fabregas 2 đồng_đội khác ở chelsea pedro cesar_azpilicueta hlv del_bosque triệu_tập
+7,trong tiền_đạo diego_costa cựu tiền_vệ the_blues_juan_mata loại

@@ -1,8 +1,8 @@
 idx, sentence
-0,trước đó  vào 26/2  cục xuất_bản đã có công_văn yêu_cầu nxb hội nhà_văn đình_chỉ phát_hành cuốn sách madam_nhu  quyền_lực bà rồng phiên_bản xuất_bản lần đầu để “ rà_soát lại toàn_bộ nội_dung  chỉnh sửa một_số chi_tiết trong sách và bìa 4 ” 
-1,thực_hiện công_văn trước đây của cục xuất_bản  sở thông_tin và truyền_thông tp hcm ra công_văn đề_nghị dừng phát_hành và thu_hồi đối_với cuốn madam_nhu – quyền_lực bà rồng 
-2,công_văn ký ngày 24/5/2016 gửi các phòng_văn_hóa thông_tin quận_huyện  cơ_sở phát_hành sách trên địa_bàn thành_phố 
-3,theo đó  trên thị_trường hiện có hai phiên_bản cuốn sách 
-4,chỉ phiên_bản xuất_bản lần đầu mới bị dừng phát_hành  thu_hồi  còn phiên_bản tái_bản có sửa_chữa không thuộc đối_tượng nhắc tới của công_văn 
-5,madam nhu trần_lệ_xuân  quyền_lực bà rồng  tên tiếng anh finding the dragon_lady  the_mystery_of vietnams_madame_nhu  được nhà_xuất_bản public_affairs phát_hành năm 2013 
-6,cuốn sách về chân_dung bà nhu do tác_giả mỹ monique_brinson_demery viết 
+0,26/2 cục xuất_bản công_văn yêu_cầu nxb hội nhà_văn đình_chỉ phát_hành cuốn sách madam_nhu quyền_lực bà rồng phiên_bản xuất_bản lần đầu “ rà_soát toàn_bộ nội_dung chỉnh sửa một_số chi_tiết trong sách bìa 4 ”
+1,thực_hiện công_văn cục xuất_bản sở thông_tin truyền_thông tp hcm công_văn đề_nghị dừng phát_hành thu_hồi đối_với cuốn madam_nhu – quyền_lực bà rồng
+2,công_văn ký ngày 24/5/2016 gửi phòng_văn_hóa thông_tin quận_huyện cơ_sở phát_hành sách địa_bàn thành_phố
+3,thị_trường hiện hai phiên_bản cuốn sách
+4,phiên_bản xuất_bản lần đầu mới dừng phát_hành thu_hồi còn phiên_bản tái_bản sửa_chữa thuộc đối_tượng nhắc tới công_văn
+5,madam nhu trần_lệ_xuân quyền_lực bà rồng tên tiếng anh finding the dragon_lady the_mystery_of vietnams_madame_nhu nhà_xuất_bản public_affairs phát_hành năm 2013
+6,cuốn sách về chân_dung bà nhu tác_giả mỹ monique_brinson_demery viết

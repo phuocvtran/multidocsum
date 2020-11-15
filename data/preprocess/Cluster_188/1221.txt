@@ -1,11 +1,11 @@
 idx, sentence
-0,trong cảnh_báo đi_lại đối_với các công_dân mỹ  bộ ngoại_giao đã cảnh_báo về mối nguy_hiểm của các vụ tấn_công khủng_bố trên khắp châu_âu 
-1,“ số_lượng lớn du_khách tới châu_âu vào những tháng mùa_hè sẽ là các mục_tiêu lớn hơn cho những kẻ khủng_bố đang lên kế_hoạch tấn_công tại các địa_điểm công_cộng  đặc_biệt là các sự_kiện lớn ”  cảnh_báo của bộ ngoại_giao mỹ cho hay 
-2,các vụ tấn_công có_thể nhằm vào các địa_điểm du_lịch  nhà_hàng  trung_tâm thương_mại  giao_thông  đặc_biệt là các sự_kiện lớn như euro 2016  cảnh_báo viết 
-3,vòng chung_kết bóng_đá euro 2016 sẽ được tổ_chức tại nhiều sân_vận_động ở pháp từ 10/6  12/7  quy_tụ các đội bóng quốc_gia hàng_đầu của châu_lục 
-4,ước_tính  có tới 1 triệu người hâm_mộ sẽ đổ tới paris vào dịp này 
-5,pháp đã kéo_dài lệnh giới_nghiêm  vốn được áp_dụng sau vụ tấn_công khủng_bố paris ngày 13/11/2015  cho tới này 26/7 
-6,ngoài_ra  bộ ngoại_giao mỹ cũng cảnh_báo các công_dân nước này đang lên kế_hoạch tới xem giải đua xe_đạp tour de france tại pháp từ 226 / 7 
-7,phía mỹ còn cảnh_báo về sự_kiện ngày thanh_niên thế_giới của thiên_chúa_giáo diễn ra từ 2631 / 7 tại krakow  ba_lan 
-8,các công_dân mỹ được khuyên nên thận_trọng ở các nơi công_cộng và trong khi sử_dụng các phương_tiện giao_thông công_cộng và tránh những nơi tụ_tập đông người 
-9,cảnh_báo đi_lại tại châu_âu dự_kiến sẽ hết hiệu_lực vào ngày 31/8 
+0,trong cảnh_báo đi_lại đối_với công_dân mỹ bộ ngoại_giao cảnh_báo về mối nguy_hiểm vụ tấn_công khủng_bố khắp châu_âu
+1,“ số_lượng lớn du_khách tới châu_âu tháng mùa_hè mục_tiêu lớn hơn kẻ khủng_bố kế_hoạch tấn_công địa_điểm công_cộng đặc_biệt sự_kiện lớn ” cảnh_báo bộ ngoại_giao mỹ hay
+2,vụ tấn_công nhằm địa_điểm du_lịch nhà_hàng trung_tâm thương_mại giao_thông đặc_biệt sự_kiện lớn euro 2016 cảnh_báo viết
+3,vòng chung_kết bóng_đá euro 2016 tổ_chức sân_vận_động ở pháp 10/6 12/7 quy_tụ đội bóng quốc_gia hàng_đầu châu_lục
+4,ước_tính tới 1 triệu người hâm_mộ đổ tới paris dịp
+5,pháp kéo_dài lệnh giới_nghiêm vốn áp_dụng vụ tấn_công khủng_bố paris ngày 13/11/2015 tới 26/7
+6,ngoài_ra bộ ngoại_giao mỹ cảnh_báo công_dân nước kế_hoạch tới xem giải đua xe_đạp tour de france pháp 226 / 7
+7,phía mỹ còn cảnh_báo về sự_kiện ngày thanh_niên thế_giới thiên_chúa_giáo diễn 2631 / 7 krakow ba_lan
+8,công_dân mỹ khuyên thận_trọng ở công_cộng trong sử_dụng phương_tiện giao_thông công_cộng tránh tụ_tập đông người
+9,cảnh_báo đi_lại châu_âu dự_kiến hết hiệu_lực ngày 31/8

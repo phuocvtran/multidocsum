@@ -1,19 +1,19 @@
 idx, sentence
-0,đội_hình hai đội  crystal_palace  hennessey  ward  dann  mariappa  90  3   delaney  souare  zaha  cabaye  puncheon  71    mcarthur  jedinak  bolasie  wickham  gayle  85   man _utd  de_gea  valencia  smalling  blind  rojo  darmian  65    carrick  fellaini  mata  lingard  89    rooney  martial  rashford  young  71   
-1,trận chung_kết diễn ra gay_cấn  hấp_dẫn và giàu cảm_xúc với chiến_thắng xứng_đáng cho các cầu_thủ man _utd 
-2,đúng như dự_đoán của giới chuyên_môn  man _utd thi_đấu lấn_lướt và có thời_gian kiểm_soát bóng khoảng 70  
-3,trong khi đó  crystal_palace chủ_động phòng_ngự và sẵn_sàng tăng_tốc trong các pha phản_công nhanh 
-4,họ tỏ ra nguy_hiểm ở các pha đánh biên nơi 2 hậu_vệ valencia và rojo trấn_giữ 
-5,ở hiệp 1  các chân sút man _utd tạo ra được 3 cơ_hội nhưng các pha dứt_điểm của tiền_vệ fellaini  martial và mata đều bị hàng phòng_ngự crystal_palace cản_phá 
-6,trong khoảng 15 phút đầu của hiệp 2  các học_trò hlv van_gaal tiếp_tục duy_trì sức_ép 
-7,phút 53  fellaini tung cú sút căng đưa bóng trúng xà_ngang khung_thành thủ_môn hennessey 
-8,đến phút 61  đến lượt martial đánh_đầu láy bóng trúng cột_dọc 
-9,bỏ_lỡ hàng_loạt cơ_hội  man  utd phải trả_giá cho bàn thua ở phút 78 
-10,từ đường chuyền cầu âu của đồng_đội từ khu giữa sân  cầu_thủ dự_bị jason_puncheon_phá bẫy việt_vị trước khi tung cú sút từ cự_ly chưa đầy 8 m đưa bóng vào góc hẹp hạ_thủ_môn david_de_gea 
-11,tuy_nhiên  đúng 3 phút sau  man  utd đáp trả bằng bàn quân_bình tỷ_số 1  1 
-12,xuất_phát từ nỗ_lực tạt bóng của rooney bên cánh phải  fellaini_đỡ ngực để mata tung cú sút căng  bóng trúng chân hậu_vệ crystal_palace đi luôn vào lưới 
-13,kết_thúc 90 phút thi_đấu  hai đội hòa nhau 1  1 và phải bước vào hai hiệp phụ 
-14,với nền_tảng thể_lực sung_mãn  các cầu_thủ crystal_palace liên_tục tăng_tốc  gây nhiều khó_khăn cho hàng phòng_ngự man _utd 
-15,đúng vào phút cuối_cùng của hiệp phụ thứ nhất  man  utd rơi vào thế bất_lợi khi trung_vệ smalling bị thẻ_vàng thứ 2 rời sân 
-16,thế nhưng đến phút thứ 5 của hiệp phụ thứ 2  phút 110   lingart tỏa sáng đúng lúc mang lại chiến_thắng cho   quỷ đỏ  thành manchester 
-17,sau đường căng ngang của valencia bên cánh phải  lingard tung cú sút quyết_đoán ngay sát vòng cấm đưa bóng cắm thẳng vào góc cao trước sự bất_lực của thủ_môn hennessey 
+0,đội_hình hai đội crystal_palace hennessey ward dann mariappa 90 3 delaney souare zaha cabaye puncheon 71 mcarthur jedinak bolasie wickham gayle 85 man _utd de_gea valencia smalling blind rojo darmian 65 carrick fellaini mata lingard 89 rooney martial rashford young 71
+1,trận chung_kết diễn gay_cấn hấp_dẫn giàu cảm_xúc chiến_thắng xứng_đáng cầu_thủ man _utd
+2,đúng dự_đoán giới chuyên_môn man _utd thi_đấu lấn_lướt thời_gian kiểm_soát bóng khoảng 70
+3,trong crystal_palace chủ_động phòng_ngự sẵn_sàng tăng_tốc trong pha phản_công nhanh
+4,họ tỏ nguy_hiểm ở pha đánh biên 2 hậu_vệ valencia rojo trấn_giữ
+5,ở hiệp 1 chân sút man _utd tạo 3 cơ_hội pha dứt_điểm tiền_vệ fellaini martial mata hàng phòng_ngự crystal_palace cản_phá
+6,trong khoảng 15 phút đầu hiệp 2 học_trò hlv van_gaal tiếp_tục duy_trì sức_ép
+7,phút 53 fellaini tung cú sút căng đưa bóng trúng xà_ngang khung_thành thủ_môn hennessey
+8,đến phút 61 đến lượt martial đánh_đầu láy bóng trúng cột_dọc
+9,bỏ_lỡ hàng_loạt cơ_hội man utd trả_giá bàn thua ở phút 78
+10,đường chuyền cầu âu đồng_đội khu giữa sân cầu_thủ dự_bị jason_puncheon_phá bẫy việt_vị tung cú sút cự_ly đầy 8 m đưa bóng góc hẹp hạ_thủ_môn david_de_gea
+11,tuy_nhiên đúng 3 phút man utd đáp trả bằng bàn quân_bình tỷ_số 1 1
+12,xuất_phát nỗ_lực tạt bóng rooney bên cánh fellaini_đỡ ngực mata tung cú sút căng bóng trúng chân hậu_vệ crystal_palace đi luôn lưới
+13,kết_thúc 90 phút thi_đấu hai đội hòa nhau 1 1 bước hai hiệp phụ
+14,nền_tảng thể_lực sung_mãn cầu_thủ crystal_palace liên_tục tăng_tốc gây khó_khăn hàng phòng_ngự man _utd
+15,đúng phút cuối_cùng hiệp phụ thứ nhất man utd rơi thế bất_lợi trung_vệ smalling thẻ_vàng thứ 2 rời sân
+16,thế đến phút thứ 5 hiệp phụ thứ 2 phút 110 lingart tỏa sáng đúng mang chiến_thắng quỷ đỏ thành manchester
+17,đường căng ngang valencia bên cánh lingard tung cú sút quyết_đoán sát vòng cấm đưa bóng cắm thẳng góc cao bất_lực thủ_môn hennessey

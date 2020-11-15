@@ -1,8 +1,8 @@
 idx, sentence
-0,công_an thành_phố móng_cái  quảng_ninh  đang truy_tìm hai nghi phạm trộm tài_sản tại đền xã_tắc ở phường ka_long 
-1,trước đó  khoảng 2 h15 ngày 28/5  hai thanh_niên đột_nhập đền  cạy cửa  phá_hỏng 3 chiếc hòm công_đức lấy đi toàn_bộ tiền bên trong 
-2,tài_sản bị mất ước_chừng 300 triệu đồng  chủ_yếu có mệnh_giá 10000  50000 đồng 
-3,hình_ảnh do camera an_ninh ghi lại cho thấy hai nghi phạm tuổi từ 25 đến 30 
-4,phân_tích các dữ_liệu  cảnh_sát nhận_định  một người cao khoảng 1 m65  miệng rộng  má hóp  dáng gầy  mặc áo_phông ngắn tay màu nâu  đội mũ lưỡi chai màu_ghi 
-5,người thứ hai cao khoảng 1 m70  dáng gầy  mặc quần vải màu đen  áo sơmi dài tay tối màu  đội mũ che_kín mặt và đầu 
-6,công_an thành_phố móng_cái đề_nghị ai biết thông_tin liên_hệ với đội cảnh_sát điều_tra về trật_tự xã_hội 
+0,công_an thành_phố móng_cái quảng_ninh truy_tìm hai nghi phạm trộm tài_sản đền xã_tắc ở phường ka_long
+1,khoảng 2 h15 ngày 28/5 hai thanh_niên đột_nhập đền cạy cửa phá_hỏng 3 hòm công_đức lấy đi toàn_bộ tiền bên trong
+2,tài_sản mất ước_chừng 300 triệu đồng chủ_yếu mệnh_giá 10000 50000 đồng
+3,hình_ảnh camera an_ninh ghi thấy hai nghi phạm tuổi 25 đến 30
+4,phân_tích dữ_liệu cảnh_sát nhận_định một người cao khoảng 1 m65 miệng rộng má hóp dáng gầy mặc áo_phông ngắn tay màu nâu đội mũ lưỡi chai màu_ghi
+5,người thứ hai cao khoảng 1 m70 dáng gầy mặc quần vải màu đen áo sơmi dài tay tối màu đội mũ che_kín mặt đầu
+6,công_an thành_phố móng_cái đề_nghị ai biết thông_tin liên_hệ đội cảnh_sát điều_tra về trật_tự xã_hội

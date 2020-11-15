@@ -1,6 +1,6 @@
 idx, sentence
-0,ngày 315  ubnd tỉnh gia_lai cho biết đã ra quyết_định thu_hồi 5089 ha đất của công_ty hagl và cho công_ty cổ_phần nông_nghiệp nuti thuê đất để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu 
-1,theo đó  năm 2006  tại quyết_định số 264 / qđubnd  ubnd tỉnh gia_lai cho công_ty hagl thuê 5089 ha đất tại xã ia_băng huyện chư_prông và xã gào  tp pleiku 
-2,năm 2011  hagl được cấp giấy chứng_nhận quyền sử_dụng đất có thời_hạn đến tháng 22042 
-3,ngày 1152015  công_ty cổ_phần nông_nghiệp nuti có đơn đề_nghị thuê lại diện_tích trên 
-4,ubnd tỉnh gia_lai yêu_cầu công_ty hagl bàn_giao lại toàn_bộ diện_tích đất trên cho công_ty cổ_phần nông_nghiệp nuti quản_lý để đầu_tư chăm_sóc cây hồ_tiêu 
+0,ngày 315 ubnd tỉnh gia_lai biết quyết_định thu_hồi 5089 ha đất công_ty hagl công_ty cổ_phần nông_nghiệp nuti thuê đất tiếp_tục đầu_tư chăm_sóc cây hồ_tiêu
+1,năm 2006 quyết_định số 264 / qđubnd ubnd tỉnh gia_lai công_ty hagl thuê 5089 ha đất xã ia_băng huyện chư_prông xã gào tp pleiku
+2,năm 2011 hagl cấp giấy chứng_nhận quyền sử_dụng đất thời_hạn đến tháng 22042
+3,ngày 1152015 công_ty cổ_phần nông_nghiệp nuti đơn đề_nghị thuê diện_tích
+4,ubnd tỉnh gia_lai yêu_cầu công_ty hagl bàn_giao toàn_bộ diện_tích đất công_ty cổ_phần nông_nghiệp nuti quản_lý đầu_tư chăm_sóc cây hồ_tiêu

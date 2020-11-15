@@ -1,17 +1,17 @@
 idx, sentence
-0,theo các nguồn tin  hải mảnh nhựa vỡ được tìm thấy có màu trắng và đỏ 
-1,những mảnh vỡ này được phát_hiện ở gần khu_vực nơi hệ_thống định_vị khẩn_cấp trên máy_bay đã phát tín_hiệu trước đó 
-2,trong khi đó  phát_biểu trong một cuộc họp_báo tại thủ_đô cairo  bộ_trưởng hàng_không dân_sự ai cập sherif_fathi cho biết khả_năng khủng_bố tấn_công khiến máy_bay của hãng egyptair gặp nạn “ lớn hơn nhiều ” so với khả_năng máy_bay bị trục_trặc kỹ_thuật 
-3,ngoài_ra  bộ_trưởng sherif_fathi cũng cho biết quá_trình hợp_tác tìm_kiếm giữa nước này với hy_lạp đã được mở_rộng về phía nam_đảo karpathos 
-4,về phía hy_lạp  bộ_quốc_phòng nước này mới_đây thông_báo athens cùng với pháp và ai_cập đang phối_hợp để truy_tìm dấu_vết của máy_bay mất_tích trên địa_trung_hải 
-5,cùng ngày  trong bài phát_biểu trên truyền_hình  tổng_thống pháp francois_hollande cho biết không_thể loại_trừ bất_cứ giả_thuyết nào liên_quan tới vụ mất_tích của máy_bay ms804 
-6,ngoài_ra  tổng_thống hollande cũng gửi lời chia_sẻ tới gia_đình những người trên máy_bay  cũng như khẳng_định sẽ điều_tra tới_cùng để tìm ra nguyên_nhân vụ_việc 
-7,tổng_thống pháp francois_hollande cho biết  “ không loại_trừ hoặc ủng_hộ bất_kỳ một giả_thuyết nào  cho_dù là một tai_nạn hay một khả_năng khác mà mọi người nghĩ tới  ví_dụ như một vụ khủng_bố   thì ở giai_đoạn này chúng_ta cần tập_trung tinh_thần đoàn_kết với gia_đình các nạn_nhân và tiến_hành điều_tra nguyên_nhân thảm_họa ” 
-8,trong khi đó với việc đặt giả_thuyết vụ mất_tích máy_bay là một hành_động khủng_bố  các chuyên_gia_pháp đã tập_trung làm rõ quy_trình tiến_hành thủ_tục lên máy_bay tại nhà_ga số 1 sân charle de gaulle  để tìm đối_tượng khả_nghi  xem lại việc kiểm_tra hành_lý và danh_sách hành_khách  xác_định xem nhân_viên ca trực_thuộc lực_lượng hiến_binh phụ_trách vận_tải hàng_không  gta  có bỏ_sót các hình_ảnh trên máy chiếu kiểm_tra an_ninh không 
-9,về khả_năng khủng_bố  cảnh_sát pháp cho rằng các đơn_vị chức_năng đã làm hết_sức  tuy_nhiên  mối nguy_hiểm luôn rình_rập và xuất_hiện từ khâu yếu nhất trong chuỗi kiểm_soát an_ninh 
-10,ngoài_ra  các chuyên_gia cũng xem_xét khả_năng đây là một hành_động tội_phạm hình_sự  mặc_dù không có cảnh_báo về trục_trặc kỹ_thuật hoặc thời_tiết nào đã được gửi đi trước khi chiếc máy_bay ms804 biến mất 
-11,quân_chính_phủ syria tiếp_tục giành lại nhiều khu_vực từ tay phiến_quân quân_đội syria tiếp_tục có những bước_tiến mới trong cuộc_chiến chống phiến_quân 
-12,ngày 19/5  tổ_chức giám_sát_nhân_quyền syria cho biết quân_chính_phủ nước này và lực_lượng đồng_minh đã giành lại thị_trấn chiến_lược deir alasafir ở phía đông_nam thủ_đô damascus từ tay các tay súng chống_đối 
-13,theo tổ_chức giám_sát_nhân_quyền  sau đợt giao_tranh dữ_dội trong cuộc tấn_công do phía chính_phủ syria phát_động  các phiến_quân đã bị đánh_bật khỏi deir al asafir thuộc vùng ngoại_ô đông_ghouta của thủ_đô 
-14,việc chiếm được thị_trấn này có_thể mở_đường để quân_đội chính_phủ giành thêm những bước_tiến lớn tại khu_vực ghouta  vốn từ lâu do rất nhiều nhóm phiến_quân kiểm_soát 
-15,các tay súng thuộc phong_trào hezbollah của liban cũng đã đóng vai_trò chủ_chốt trong chiến_dịch tấn_công nhằm giành lại thị_trấn deir_al asafir trên  vốn do các nhóm phiến_quân hồi_giáo kiểm_soát từ năm 2012 
+0,nguồn tin hải mảnh nhựa vỡ tìm thấy màu trắng đỏ
+1,mảnh vỡ phát_hiện ở gần khu_vực hệ_thống định_vị khẩn_cấp máy_bay phát tín_hiệu
+2,trong phát_biểu trong một cuộc họp_báo thủ_đô cairo bộ_trưởng hàng_không dân_sự ai cập sherif_fathi biết khả_năng khủng_bố tấn_công khiến máy_bay hãng egyptair gặp nạn “ lớn hơn ” khả_năng máy_bay trục_trặc kỹ_thuật
+3,ngoài_ra bộ_trưởng sherif_fathi biết quá_trình hợp_tác tìm_kiếm giữa nước hy_lạp mở_rộng về phía nam_đảo karpathos
+4,về phía hy_lạp bộ_quốc_phòng nước mới_đây thông_báo athens pháp ai_cập phối_hợp truy_tìm dấu_vết máy_bay mất_tích địa_trung_hải
+5,ngày trong bài phát_biểu truyền_hình tổng_thống pháp francois_hollande biết không_thể loại_trừ bất_cứ giả_thuyết nào liên_quan tới vụ mất_tích máy_bay ms804
+6,ngoài_ra tổng_thống hollande gửi lời chia_sẻ tới gia_đình người máy_bay khẳng_định điều_tra tới_cùng tìm nguyên_nhân vụ_việc
+7,tổng_thống pháp francois_hollande biết “ loại_trừ hoặc ủng_hộ bất_kỳ một giả_thuyết nào cho_dù một tai_nạn hay một khả_năng khác mọi người nghĩ tới ví_dụ một vụ khủng_bố ở giai_đoạn chúng_ta tập_trung tinh_thần đoàn_kết gia_đình nạn_nhân tiến_hành điều_tra nguyên_nhân thảm_họa ”
+8,trong đặt giả_thuyết vụ mất_tích máy_bay một hành_động khủng_bố chuyên_gia_pháp tập_trung làm rõ quy_trình tiến_hành thủ_tục máy_bay nhà_ga số 1 sân charle de gaulle tìm đối_tượng khả_nghi xem kiểm_tra hành_lý danh_sách hành_khách xác_định xem nhân_viên ca trực_thuộc lực_lượng hiến_binh phụ_trách vận_tải hàng_không gta bỏ_sót hình_ảnh máy chiếu kiểm_tra an_ninh
+9,về khả_năng khủng_bố cảnh_sát pháp đơn_vị chức_năng làm hết_sức tuy_nhiên mối nguy_hiểm luôn rình_rập xuất_hiện khâu yếu nhất trong chuỗi kiểm_soát an_ninh
+10,ngoài_ra chuyên_gia xem_xét khả_năng một hành_động tội_phạm hình_sự mặc_dù cảnh_báo về trục_trặc kỹ_thuật hoặc thời_tiết nào gửi đi máy_bay ms804 biến mất
+11,quân_chính_phủ syria tiếp_tục giành khu_vực tay phiến_quân quân_đội syria tiếp_tục bước_tiến mới trong cuộc_chiến chống phiến_quân
+12,ngày 19/5 tổ_chức giám_sát_nhân_quyền syria biết quân_chính_phủ nước lực_lượng đồng_minh giành thị_trấn chiến_lược deir alasafir ở phía đông_nam thủ_đô damascus tay tay súng chống_đối
+13,tổ_chức giám_sát_nhân_quyền đợt giao_tranh dữ_dội trong cuộc tấn_công phía chính_phủ syria phát_động phiến_quân đánh_bật khỏi deir al asafir thuộc vùng ngoại_ô đông_ghouta thủ_đô
+14,chiếm thị_trấn mở_đường quân_đội chính_phủ giành thêm bước_tiến lớn khu_vực ghouta vốn lâu nhóm phiến_quân kiểm_soát
+15,tay súng thuộc phong_trào hezbollah liban đóng vai_trò chủ_chốt trong chiến_dịch tấn_công nhằm giành thị_trấn deir_al asafir vốn nhóm phiến_quân hồi_giáo kiểm_soát năm 2012

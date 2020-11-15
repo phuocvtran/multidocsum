@@ -1,17 +1,17 @@
 idx, sentence
-0,đêm thăng_hoa của âm_nhạc  thời_trang  ẩm_thực ý nhân kỷ_niệm 70 năm ngày quốc_khánh nước cộng_hoà_italia  vào ngày 2/6 tới đây  đại_sứ_quán italia cùng hội_đồng_thời_trang ý  việt sẽ tổ_chức một sự_kiện văn_hóa  nghệ_thuật mang tên angels_of_italy  những thiên_thần nước ý tại góc_phố lê_phụng_hiểu  hà_nội  
-1,phát_biểu trong buổi họp_báo sáng nay  30/5   bà cecilia_piccioni  đại_sứ ý cho biết  “ vốn_dĩ  phố lê_phụng_hiểu đã mang hơi thở nước ý  ở đây chúng_tôi có đại_sứ_quán italia  chúng_tôi có ngôi nhà ý  nhưng để có_thể biến nơi đây thành một góc_phố ý thật_sự quả_thực là một giấc mơ mà tôi đã mong_mỏi từ lâu 
-2,ước_mơ của tôi đã trở_thành sự_thật chính là nhờ sự hợp_tác  tầm nhìn của ntk_minh_hạnh 
-3,nhân_dịp này chúng_tôi sẽ đưa các vị khách đến tham_dự lễ kỷ_niệm quốc_khánh vào một hành_trình khám_phá những nét đặc_trưng văn_hoá đất_nước hình chiếc ủng với nghệ_thuật thời_trang  âm_nhạc  ẩm_thực ” 
-4,đan_xen với những giai_điệu nổi_tiếng được thể_hiện bởi ba nghệ_sĩ trẻ của ý – hai nghệ_sĩ violon marica và daniele_anderle  nghệ_sĩ dương_cầm sandra_stojanovic  với tiếng hát của tốp_ca các em bé ý việt là những ngẫu_hứng của nghệ_sĩ dương_cầm phó_an_my  nghệ_sĩ đàn_nhị thùy_anh  ca_sĩ thùy_chi 
-5,hành_trình nước ý qua những con tem tổng_đạo_diễn quang_tú khẳng_định  “ ngoài âm_nhạc  ẩm_thực  khán_giả sẽ được thưởng_thức những bộ thiết_kế thời_trang của các nhà thiết_kế minh_hạnh  quang_huy  xuân_hảo 
-6,chúng_tôi sẽ sử_dụng ánh_sáng xanh để tạo ra sự đan_xen giữa chất lãng_mạn và huyền_bí của không_gian 
-7,các bộ sưu_tập năm nay có một chủ_đề đặc_biệt là những con tem 
-8,bản_thân những con tem đã có giá_trị lịch_sử to_lớn  không_chỉ mang ý_nghĩa kỉ_niệm 70 năm ngày quốc_khánh nước cộng_hòa_italia mà_còn là sự giao_thoa giữa văn_hóa đông – tây  giữa sự sáng_tạo của các nhà thiết_kế việt_nam và các di_sản mà nước ý đã để lại ” 
-9,70 năm là một chặng đường dài với nhiều thay_đổi và phát_triển 
-10,nước ý đã trở_thành một trong những “ thống_soái ” thời_trang của thế_giới 
-11,chính vì_thế  mối quan_hệ hợp_tác giữa ý  việt trong lãnh_vực thời_trang ngày_càng được thúc_đẩy mạnh_mẽ hơn 
-12,hội_đồng_thời_trang ý  việt được thành_lập cách đây 3 năm tại bảo_tàng museo di_roma đã tạo ra những kết_quả tốt_đẹp 
-13,“ bên_cạnh những người_mẫu chuyên_nghiệp là sự hiện_diện  tham_gia trình_diễn của chính những người ý đang sinh_sống và làm_việc tại việt_nam  các em bé ý  điều đó sẽ góp_phần giúp chương_trình toát lên hơi thở nước ý một_cách tự_nhiên  gần_gũi nhất ”  ntk_minh_hạnh chia_sẻ 
-14,hoa_hậu_ngọc_hân cũng sẽ sải bước cùng các  người_mẫu  nhí trong chương_trình đặc_biệt này 
-15,“ tất_cả chúng_tôi đang áp_lực khá lớn vì ngày hôm đó  dự_kiến chúng_tôi chỉ có 4 tiếng để bài_trí không_gian nơi đây trở_thành một nước ý với chất ý mạnh_mẽ nhất ”  đạo_diễn quang_tú bày_tỏ 
+0,đêm thăng_hoa âm_nhạc thời_trang ẩm_thực ý nhân kỷ_niệm 70 năm ngày quốc_khánh nước cộng_hoà_italia ngày 2/6 tới đại_sứ_quán italia hội_đồng_thời_trang ý việt tổ_chức một sự_kiện văn_hóa nghệ_thuật mang tên angels_of_italy thiên_thần nước ý góc_phố lê_phụng_hiểu hà_nội
+1,phát_biểu trong buổi họp_báo sáng nay 30/5 bà cecilia_piccioni đại_sứ ý biết “ vốn_dĩ phố lê_phụng_hiểu mang hơi thở nước ý ở chúng_tôi đại_sứ_quán italia chúng_tôi ngôi nhà ý biến thành một góc_phố ý thật_sự quả_thực một giấc mơ tôi mong_mỏi lâu
+2,ước_mơ tôi trở_thành sự_thật chính nhờ hợp_tác tầm nhìn ntk_minh_hạnh
+3,nhân_dịp chúng_tôi đưa vị khách đến tham_dự lễ kỷ_niệm quốc_khánh một hành_trình khám_phá nét đặc_trưng văn_hoá đất_nước hình ủng nghệ_thuật thời_trang âm_nhạc ẩm_thực ”
+4,đan_xen giai_điệu nổi_tiếng thể_hiện ba nghệ_sĩ trẻ ý – hai nghệ_sĩ violon marica daniele_anderle nghệ_sĩ dương_cầm sandra_stojanovic tiếng hát tốp_ca em bé ý việt ngẫu_hứng nghệ_sĩ dương_cầm phó_an_my nghệ_sĩ đàn_nhị thùy_anh ca_sĩ thùy_chi
+5,hành_trình nước ý con tem tổng_đạo_diễn quang_tú khẳng_định “ ngoài âm_nhạc ẩm_thực khán_giả thưởng_thức bộ thiết_kế thời_trang nhà thiết_kế minh_hạnh quang_huy xuân_hảo
+6,chúng_tôi sử_dụng ánh_sáng xanh tạo đan_xen giữa chất lãng_mạn huyền_bí không_gian
+7,bộ sưu_tập năm nay một chủ_đề đặc_biệt con tem
+8,bản_thân con tem giá_trị lịch_sử to_lớn không_chỉ mang ý_nghĩa kỉ_niệm 70 năm ngày quốc_khánh nước cộng_hòa_italia mà_còn giao_thoa giữa văn_hóa đông – tây giữa sáng_tạo nhà thiết_kế việt_nam di_sản nước ý ”
+9,70 năm một chặng đường dài thay_đổi phát_triển
+10,nước ý trở_thành một trong “ thống_soái ” thời_trang thế_giới
+11,chính vì_thế mối quan_hệ hợp_tác giữa ý việt trong lãnh_vực thời_trang ngày_càng thúc_đẩy mạnh_mẽ hơn
+12,hội_đồng_thời_trang ý việt thành_lập cách 3 năm bảo_tàng museo di_roma tạo kết_quả tốt_đẹp
+13,“ bên_cạnh người_mẫu chuyên_nghiệp hiện_diện tham_gia trình_diễn chính người ý sinh_sống làm_việc việt_nam em bé ý góp_phần giúp chương_trình toát hơi thở nước ý tự_nhiên gần_gũi nhất ” ntk_minh_hạnh chia_sẻ
+14,hoa_hậu_ngọc_hân sải bước người_mẫu nhí trong chương_trình đặc_biệt
+15,“ tất_cả chúng_tôi áp_lực khá lớn ngày hôm dự_kiến chúng_tôi 4 tiếng bài_trí không_gian trở_thành một nước ý chất ý mạnh_mẽ nhất ” đạo_diễn quang_tú bày_tỏ

@@ -1,39 +1,39 @@
 idx, sentence
-0,theo lộ_trình  kể từ ngày 1/6  tất_cả các điểm bán xăng dầu tại 8 tỉnh gồm thành_phố hà_nội  hải_phòng  quảng_nam  quảng_ngãi  đà_nẵng  thành_phố hồ_chí_minh  cần_thơ và bà_rịavũng_tàu đều phải triển_khai bán xăng e5  thay_thế hoàn_toàn xăng ron 92 
-1,các tỉnh  thành khác  có 50  số_lượng cửa_hàng trên địa_bàn bán xăng e5 
-2,tuy_nhiên  hiện có quá nhiều bất_cập trong sản_xuất  tiêu_thụ xăng e5 dẫn đến mục_tiêu này khó đạt được 
-3,lượng tiêu_thụ thấp trên thực_tế  sau gần 1 năm rưỡi triển_khai bán xăng sinh_học e5  lượng tiêu_thụ của loại xăng này vẫn còn hạn_chế 
-4,trước_hết là do tâm_lý e_dè của người_dân và về cơ_bản  số trạm xăng bán e5 còn ít 
-5,mức giá của loại xăng mới này chưa đủ sức hấp_dẫn để khiến cho người dân quyết_định thay_đổi thói_quen tiêu_dùng 
-6,qua khảo_sát tại các cây_xăng thuộc nội_thành thành_phố hà_nội  các điểm có bán xăng e5 cũng rất ít 
-7,tại các tuyến phố lớn như trường_chinh  quang_trung  tây_sơn  nguyễn_lương_bằng  đường nguyễn_trãi  láng_hạ  lê_văn_lương   trong khoảng 15 cửa_hàng bán xăng dầu thì chỉ có 23 cửa_hàng bán xăng e5 
-8,tại cây_xăng 185 nguyễn_lương_bằng  vào cuối giờ chiều  khá đông khách vào đổ xăng  nhưng hầu_hết mọi người đều cố_gắng chen vào cột_xăng ron_a92  ron_a95 
-9,số_ít khách_hàng bơm xăng e5 khi được hỏi đều cho biết vì “ đang vội đành đổ tạm để cho nhanh chứ cũng chưa có thói_quen sử_dụng e5  ” hay tại cây_xăng 194 thái_thịnh  số_lượng khách mua xăng e5 rải_rác  có những thời_điểm cột_xăng e5 không có nhân_viên trực bơm 
-10,một nhân_viên bán hàng ở cây_xăng này cho biết tỷ_lệ tiêu_thụ của xăng e5 trung_bình chiếm khoảng 25  tổng_lượng tiêu_thụ hàng tháng 
-11,mức tiêu_thụ ít  nên các đại_lý xăng dầu cũng không mặn_mà kinh_doanh loại xăng này do phải tăng thêm vốn để đầu_tư bồn bể  trụ bơm  bảng biểu  trong khi doanh_thu thấp 
-12,theo báo_cáo của pv oil hà_nội  trong quý i / 2016  sản_lượng xăng e5 bán ra chỉ đạt hơn 2600 m3  chiếm khoảng 30  so với tổng_sản_lượng xăng bán ra 
-13,mặc_dù  doanh_nghiệp này luôn sẵn_sàng để chuẩn_bị cho việc bán xăng e5  nhưng để đưa xăng e5 vào tiêu_thụ rộng_rãi trên thị_trường  nhà_nước cần có tuyên_truyền sâu_rộng về xăng e5 để người dân tiếp_cận 
-14,ngoài_ra nên có các chính_sách để hỗ_trợ các doanh_nghiệp kinh_doanh xăng e5 như thuế  đất_đai xây trạm  bồn chứa  theo đánh_giá  xăng sinh_học e5 là sản_phẩm có nhiều lợi_thế về bảo_vệ môi_trường  chất_lượng  giá_bán   mang lại lợi_ích kinh_tế cho người tiêu_dùng 
-15,nhưng  đến thời_điểm này có_thể nói lộ_trình triển_khai bán xăng e5 đã không đạt được kết_quả như kỳ_vọng ban_đầu 
-16,một nguyên_nhân quan_trọng dẫn đến điều này là giá_thành sản_xuất xăng e5 cao  dẫn đến giá bán_lẻ trên thị_trường có lúc chỉ thấp hơn xăng a92 khoảng 300 đồng / lít  hiện_nay là 500 đồng / lít 
-17,khoảng chênh_lệch này không đủ sức hấp_dẫn để đánh_bật xăng a92 ra khỏi tiềm_thức tiêu_dùng của khách_hàng 
-18,theo ông phan_thế_ruệ  chủ_tịch hiệp_hội xăng_dầu việt_nam  nhà_nước cần có chính_sách để xăng e5 có giá thấp hơn xăng khoáng  với mức khoảng 1000 đồng / lít  để khuyến_khích người tiêu_dùng chấp_nhận  đồng_thời  có sự hỗ_trợ doanh_nghiệp trong việc xây_dựng các cơ_sở pha_trộn  khuyến_khích xây_dựng các trạm bán xăng e5 
-19,các địa_phương cũng phải tạo điều_kiện để doanh_nghiệp tiếp_cận đất_đai  hạ_tầng xây_dựng 
-20,với tình_hình hiện_tại  ông ruệ cho biết  mục_tiêu thay_thế hoàn_toàn xăng a92 tại 8 địa_phương trên là không_thể thực_hiện  đồng_thời bài_toán sản_xuất ethanol là “ chưa có lời_giải ” do giá nguyên_liệu đầu_vào là sắn tăng cao  trong khi đó đầu_ra tính theo giá dầu_thô lại giảm  dẫn đến thua_lỗ cho doanh_nghiệp 
-21,nguồn cung có đảm_bảo 
-22,để thực_hiện lộ_trình phát_triển nguồn nhiên_liệu sinh_học của chính_phủ  hàng_loạt các nhà_máy sản_xuất nguyên_liệu sinh_học đã ra_đời nhằm sản_xuất  cung_ứng sản_phẩm phục_vụ thị_trường 
-23,tuy_nhiên  do biến_động của giá dầu thế_giới cùng_với thị_trường không có  vùng nguyên_liệu bị phá_bỏ  nhà_máy sản_xuất nguyên_liệu sinh_học đã và đang tạm dừng hoạt_động khiến nguồn cung xăng e5 trên thị_trường rất khó bảo_đảm 
-24,đại_diện tổng_công_ty dầu việt_nam  pv_oil  cho biết  pv_oil hiện có 2 nguồn đó là mua trực_tiếp e5 từ nhà_máy lọc dầu dung_quất để tiêu_thụ tại khu_vực miền trung và tự sản_xuất e5 để cung_cấp cho các khu_vực còn lại từ nguồn mua của các nhà_máy sản_xuất ethanol trong nước 
-25,với việc có vốn đầu_tư tại các nhà_máy này sẽ giúp cho pv_oil chủ_động được về nguồn cung_e5 và bảo_đảm cung_cấp đủ e5 cho nhu_cầu trong hệ_thống phân_phối của pv_oil trên cả nước 
-26,hà_nội hiện có 481 cửa_hàng kinh_doanh xăng dầu nhưng mới có 116 cửa_hàng bán xăng e5  chiếm khoảng 24    với tổng_sản_lượng tiêu_thụ trung_bình đạt khoảng 10610 m3 / tháng 
-27,trong khi đó  đại_diện của tập_đoàn xăng_dầu việt_nam  petrolimex  đơn_vị bán xăng e5 lớn nhất cả nước  khẳng_định  doanh_nghiệp hiện có 2 nguồn cung_cấp xăng e5 từ các điểm phối trộn do tập_đoàn tự xây_dựng cùng với nguồn từ nhà_máy lọc dầu dung_quất 
-28,thế nhưng  theo quy_định của nghị_định số 83/2014 / nđcp  có rất nhiều loại_hình phân_phối như đại_lý  tổng đại_lý  thương_nhân phân_phối  thương_nhân nhận quyền bán_lẻ  thương_nhân phân_phối lại được quyền mua của nhiều đơn_vị  do_đó  nếu chỉ phụ_thuộc vào một hoặc hai đầu_mối sẽ không_thể bảo_đảm chắc_chắn nguồn cung_cấp xăng e5 cho cả hệ_thống 
-29,chung quan_điểm  đại_diện một doanh_nghiệp kinh_doanh xăng dầu khác ở miền bắc cũng tiết_lộ  cơ_quan nhà_nước khẳng_định đáp_ứng đủ xăng e5 bán ra thị_trường thay_thế xăng ron 92 từ ngày 1/6  song có rất nhiều vấn_đề nảy_sinh 
-30,“ đủ nguyên_liệu ” nhưng nếu giá nguyên_liệu đầu_vào của xăng e5 vẫn cao vọt như hiện_nay thì doanh_nghiệp nào chịu thua_lỗ để pha_trộn xăng e5 
-31,đó còn chưa kể tới  nếu doanh_nghiệp không thực_hiện pha_chế xăng e5 hiện cũng chưa có chế_tài nào bắt_buộc  xử_lý 
-32,theo báo_cáo từ sở công_thương hà_nội  trên địa_bàn thành_phố hiện có 481 cửa_hàng kinh_doanh xăng dầu nhưng mới có 116 cửa_hàng bán xăng e5  chiếm khoảng 24    với tổng_sản_lượng tiêu_thụ trung_bình đạt khoảng 10610 m3 / tháng 
-33,hiện_tại  có ba trạm pha_chế xăng e5 cung_cấp cho thị_trường thủ_đô đạt khoảng 40000 m3 / tháng 
-34,trong thời_gian tới sẽ có thêm một trạm phối trộn đi vào hoạt_động và nâng tổng công_suất lên thành 50000 m3 / tháng  đáp_ứng được nhu_cầu tiêu_thụ hiện_tại cũng như khả_năng tiêu_thụ trong tương_lai 
-35,mặc_dù vậy  việc tổ_chức kinh_doanh xăng e5 vẫn chủ_yếu tập_trung vào các doanh_nghiệp đầu_mối  các thương_nhân phân_phối xăng dầu trên địa_bàn 
-36,các doanh_nghiệp là đại_lý bán_lẻ  thương_nhân_nhượng quyền bán_lẻ xăng dầu chưa quyết_liệt tổ_chức chuyển_đổi  kinh_doanh xăng e5 do vẫn còn gặp nhiều khó_khăn  hiện chỉ có hai nguồn cung_cấp đó là nhà_máy lọc dầu dung_quất_và công_ty tùng_lâm tại đồng_nai nên chi_phí vận_chuyển về đến hà_nội cao 
-37,có_thể thấy  khi bán xăng e5 không chỉ làm các cửa_hàng kinh_doanh xăng_dầu phải tốn thêm các khoản chi_phí như cải_tạo  súc  rửa bồn  bể  mà xăng e5 còn có tỷ_lệ tồn chứa hao_hụt cao  để lâu ngày bị hút nước  cùng với tâm_lý người tiêu_dùng chưa mặn_mà sử_dụng nhiên_liệu sinh_học nên việc thực_hiện đồng_loạt bán xăng e5 sẽ gặp rất nhiều khó_khăn 
+0,lộ_trình kể ngày 1/6 tất_cả điểm bán xăng dầu 8 tỉnh gồm thành_phố hà_nội hải_phòng quảng_nam quảng_ngãi đà_nẵng thành_phố hồ_chí_minh cần_thơ bà_rịavũng_tàu triển_khai bán xăng e5 thay_thế hoàn_toàn xăng ron 92
+1,tỉnh thành khác 50 số_lượng cửa_hàng địa_bàn bán xăng e5
+2,tuy_nhiên hiện quá bất_cập trong sản_xuất tiêu_thụ xăng e5 dẫn đến mục_tiêu khó đạt
+3,lượng tiêu_thụ thấp thực_tế gần 1 năm rưỡi triển_khai bán xăng sinh_học e5 lượng tiêu_thụ loại xăng còn hạn_chế
+4,trước_hết tâm_lý e_dè người_dân về cơ_bản số trạm xăng bán e5 còn ít
+5,mức giá loại xăng mới đủ sức hấp_dẫn khiến người dân quyết_định thay_đổi thói_quen tiêu_dùng
+6,khảo_sát cây_xăng thuộc nội_thành thành_phố hà_nội điểm bán xăng e5 ít
+7,tuyến phố lớn trường_chinh quang_trung tây_sơn nguyễn_lương_bằng đường nguyễn_trãi láng_hạ lê_văn_lương trong khoảng 15 cửa_hàng bán xăng dầu 23 cửa_hàng bán xăng e5
+8,cây_xăng 185 nguyễn_lương_bằng cuối giờ chiều khá đông khách đổ xăng hầu_hết mọi người cố_gắng chen cột_xăng ron_a92 ron_a95
+9,số_ít khách_hàng bơm xăng e5 hỏi biết “ vội đành đổ tạm nhanh thói_quen sử_dụng e5 ” hay cây_xăng 194 thái_thịnh số_lượng khách mua xăng e5 rải_rác thời_điểm cột_xăng e5 nhân_viên trực bơm
+10,một nhân_viên bán hàng ở cây_xăng biết tỷ_lệ tiêu_thụ xăng e5 trung_bình chiếm khoảng 25 tổng_lượng tiêu_thụ hàng tháng
+11,mức tiêu_thụ ít đại_lý xăng dầu mặn_mà kinh_doanh loại xăng tăng thêm vốn đầu_tư bồn bể trụ bơm bảng biểu trong doanh_thu thấp
+12,báo_cáo pv oil hà_nội trong quý i / 2016 sản_lượng xăng e5 bán đạt hơn 2600 m3 chiếm khoảng 30 tổng_sản_lượng xăng bán
+13,mặc_dù doanh_nghiệp luôn sẵn_sàng chuẩn_bị bán xăng e5 đưa xăng e5 tiêu_thụ rộng_rãi thị_trường nhà_nước tuyên_truyền sâu_rộng về xăng e5 người dân tiếp_cận
+14,ngoài_ra chính_sách hỗ_trợ doanh_nghiệp kinh_doanh xăng e5 thuế đất_đai xây trạm bồn chứa đánh_giá xăng sinh_học e5 sản_phẩm lợi_thế về bảo_vệ môi_trường chất_lượng giá_bán mang lợi_ích kinh_tế người tiêu_dùng
+15,đến thời_điểm nói lộ_trình triển_khai bán xăng e5 đạt kết_quả kỳ_vọng ban_đầu
+16,một nguyên_nhân quan_trọng dẫn đến giá_thành sản_xuất xăng e5 cao dẫn đến giá bán_lẻ thị_trường thấp hơn xăng a92 khoảng 300 đồng / lít hiện_nay 500 đồng / lít
+17,khoảng chênh_lệch đủ sức hấp_dẫn đánh_bật xăng a92 khỏi tiềm_thức tiêu_dùng khách_hàng
+18,ông phan_thế_ruệ chủ_tịch hiệp_hội xăng_dầu việt_nam nhà_nước chính_sách xăng e5 giá thấp hơn xăng khoáng mức khoảng 1000 đồng / lít khuyến_khích người tiêu_dùng chấp_nhận đồng_thời hỗ_trợ doanh_nghiệp trong xây_dựng cơ_sở pha_trộn khuyến_khích xây_dựng trạm bán xăng e5
+19,địa_phương tạo điều_kiện doanh_nghiệp tiếp_cận đất_đai hạ_tầng xây_dựng
+20,tình_hình hiện_tại ông ruệ biết mục_tiêu thay_thế hoàn_toàn xăng a92 8 địa_phương không_thể thực_hiện đồng_thời bài_toán sản_xuất ethanol “ lời_giải ” giá nguyên_liệu đầu_vào sắn tăng cao trong đầu_ra tính giá dầu_thô giảm dẫn đến thua_lỗ doanh_nghiệp
+21,nguồn cung đảm_bảo
+22,thực_hiện lộ_trình phát_triển nguồn nhiên_liệu sinh_học chính_phủ hàng_loạt nhà_máy sản_xuất nguyên_liệu sinh_học ra_đời nhằm sản_xuất cung_ứng sản_phẩm phục_vụ thị_trường
+23,tuy_nhiên biến_động giá dầu thế_giới cùng_với thị_trường vùng nguyên_liệu phá_bỏ nhà_máy sản_xuất nguyên_liệu sinh_học tạm dừng hoạt_động khiến nguồn cung xăng e5 thị_trường khó bảo_đảm
+24,đại_diện tổng_công_ty dầu việt_nam pv_oil biết pv_oil hiện 2 nguồn mua trực_tiếp e5 nhà_máy lọc dầu dung_quất tiêu_thụ khu_vực miền trung tự sản_xuất e5 cung_cấp khu_vực còn nguồn mua nhà_máy sản_xuất ethanol trong nước
+25,vốn đầu_tư nhà_máy giúp pv_oil chủ_động về nguồn cung_e5 bảo_đảm cung_cấp đủ e5 nhu_cầu trong hệ_thống phân_phối pv_oil nước
+26,hà_nội hiện 481 cửa_hàng kinh_doanh xăng dầu mới 116 cửa_hàng bán xăng e5 chiếm khoảng 24 tổng_sản_lượng tiêu_thụ trung_bình đạt khoảng 10610 m3 / tháng
+27,trong đại_diện tập_đoàn xăng_dầu việt_nam petrolimex đơn_vị bán xăng e5 lớn nhất nước khẳng_định doanh_nghiệp hiện 2 nguồn cung_cấp xăng e5 điểm phối trộn tập_đoàn tự xây_dựng nguồn nhà_máy lọc dầu dung_quất
+28,thế quy_định nghị_định số 83/2014 / nđcp loại_hình phân_phối đại_lý tổng đại_lý thương_nhân phân_phối thương_nhân nhận quyền bán_lẻ thương_nhân phân_phối quyền mua đơn_vị do_đó phụ_thuộc một hoặc hai đầu_mối không_thể bảo_đảm chắc_chắn nguồn cung_cấp xăng e5 hệ_thống
+29,chung quan_điểm đại_diện một doanh_nghiệp kinh_doanh xăng dầu khác ở miền bắc tiết_lộ cơ_quan nhà_nước khẳng_định đáp_ứng đủ xăng e5 bán thị_trường thay_thế xăng ron 92 ngày 1/6 song vấn_đề nảy_sinh
+30,“ đủ nguyên_liệu ” giá nguyên_liệu đầu_vào xăng e5 cao vọt hiện_nay doanh_nghiệp nào chịu thua_lỗ pha_trộn xăng e5
+31,còn kể tới doanh_nghiệp thực_hiện pha_chế xăng e5 hiện chế_tài nào bắt_buộc xử_lý
+32,báo_cáo sở công_thương hà_nội địa_bàn thành_phố hiện 481 cửa_hàng kinh_doanh xăng dầu mới 116 cửa_hàng bán xăng e5 chiếm khoảng 24 tổng_sản_lượng tiêu_thụ trung_bình đạt khoảng 10610 m3 / tháng
+33,hiện_tại ba trạm pha_chế xăng e5 cung_cấp thị_trường thủ_đô đạt khoảng 40000 m3 / tháng
+34,trong thời_gian tới thêm một trạm phối trộn đi hoạt_động nâng tổng công_suất thành 50000 m3 / tháng đáp_ứng nhu_cầu tiêu_thụ hiện_tại khả_năng tiêu_thụ trong tương_lai
+35,mặc_dù tổ_chức kinh_doanh xăng e5 chủ_yếu tập_trung doanh_nghiệp đầu_mối thương_nhân phân_phối xăng dầu địa_bàn
+36,doanh_nghiệp đại_lý bán_lẻ thương_nhân_nhượng quyền bán_lẻ xăng dầu quyết_liệt tổ_chức chuyển_đổi kinh_doanh xăng e5 còn gặp khó_khăn hiện hai nguồn cung_cấp nhà_máy lọc dầu dung_quất_và công_ty tùng_lâm đồng_nai chi_phí vận_chuyển về đến hà_nội cao
+37,thấy bán xăng e5 làm cửa_hàng kinh_doanh xăng_dầu tốn thêm khoản chi_phí cải_tạo súc rửa bồn bể xăng e5 còn tỷ_lệ tồn chứa hao_hụt cao lâu ngày hút nước tâm_lý người tiêu_dùng mặn_mà sử_dụng nhiên_liệu sinh_học thực_hiện đồng_loạt bán xăng e5 gặp khó_khăn

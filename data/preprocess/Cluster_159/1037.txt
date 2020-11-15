@@ -1,22 +1,22 @@
 idx, sentence
-0,ông lại xuân_thanh  cục_trưởng cục hàng_không việt_nam thông_tin  công_suất của sân_bay nội_bài hiện là 25 triệu lượt hành_khách / năm 
-1,“ năm nay  dự_kiến lượng khách qua sân_bay này ở mức 19 triệu lượt khách 
-2,trung_bình mỗi năm tăng_trưởng từ 22  5 triệu lượt khách 
-3,như_vậy  chỉ khoảng 23 năm nữa thì sân_bay này cũng sẽ rơi vào tình_trạng căng_thẳng như sân_bay tân_sơn_nhất bây_giờ ”  ông lại xuân_thanh nhìn_nhận 
-4,do_đó  ở thời_điểm này  bắt_đầu tính_toán việc mở_rộng sân_bay nội_bài cũng đã là muộn 
-5,cục hàng_không việt_nam dự_báo  chỉ với mức tăng_trưởng trung_bình 10  / năm đến năm 2020  8  đến năm 2030 thì sân_bay quốc_tế nội_bài sẽ đạt công_suất khoảng 60 triệu hành_khách / năm vào thời_điểm 2030 
-6,hiện_tại  dù sân_bay nội_bài đã có 2 đường cất hạ_cánh 1a và 1b nhưng do khoảng_cách quá gần nên không_thể hoạt_động độc_lập  2 máy_bay cất hoặc hạ_cánh cùng lúc  
-7,heo quy_hoạch cảng_hàng_không quốc_tế nội_bài giai_đoạn đến 2020 và sau 2020  sân_bay này sẽ được mở_rộng về phía nam 
-8,hiện_nay  bộ_gtvt đang xây_dựng quy_hoạch phát_triển vận_tải hàng_không giai_đoạn đến năm 2030  tầm nhìn đến năm 2050 
-9,một trong những điểm đáng chú_ý là việc đầu_tư mở_rộng sân_bay quốc_tế nội_bài đạt 50 triệu khách / năm giai_đoạn đến năm 2030 và đạt công_suất 80100 triệu khách / năm giai_đoạn đến năm 2050 
-10,theo đó  trong giai_đoạn đến 2030  sẽ xây_dựng thêm 1 đường cất hạ_cánh 2a  song_song với đường cất hạ_cánh 1b hiện có 
-11,ngoài_ra  sẽ xây_dựng hệ_thống đường lăn  sân đỗ  các công_trình quản_lý điều_hành bay  nhà_ga hành_khách  nhà_ga hàng_hóa  hệ_thống giao_thông  công_trình phụ_trợ 
-12,theo lãnh_đạo cục hàng_không  sau khi hoàn_thiện  sân_bay nội_bài cũ và phần mở_rộng sẽ hoạt_động độc_lập  chỉ chung nhau trục giao_thông võ_văn_kiệt 
-13,“ dự_án nâng công_suất sân_bay nội_bài lên 50 triệu hành_khách / năm không khác gì dự_án xây_dựng sân_bay long_thành giai_đoạn 1 
-14,tuy_nhiên  dự_án mở_rộng sân_bay nội_bài khó_khăn hơn rất nhiều ”  ông lại xuân_thanh nhìn_nhận 
-15,dự_kiến  toàn_bộ diện_tích mở_rộng nội_bài giai_đoạn đến 2030 sẽ nằm ở phía nam  đối_diện với sân_bay nội_bài hiện_tại qua trục giao_thông võ_văn_kiệt   trong khi đây hiện là khu dân_cư dày_đặc 
-16,do_đó  công_tác giải_phóng mặt_bằng sẽ rất gian_nan 
-17,cục hàng_không tính_toán  diện_tích mở_rộng khoảng 700 ha  thuộc một_số xã như mai_đình  phú_cường  phú_minh  của huyện sóc_sơn 
-18,riêng kinh_phí gpmb  tái_định_cư đã mất khoảng 2 tỷ usd  thời_giá năm 2015  
-19,ngoài_ra  tổng mức đầu_tư hạ_tầng của dự_án mở_rộng sân_bay nội_bài về phía nam sẽ “ ngốn ” khoảng gần 4 tỷ usd  chưa bao_gồm các công_trình phụ_trợ 
-20,“ với số vốn lớn như vậy thì chắc_chắn phải kêu_gọi xã_hội_hóa  ngân_sách chỉ chi_trả phần gpmb  tái_định_cư ”  ông lại xuân_thanh cho biết 
+0,ông xuân_thanh cục_trưởng cục hàng_không việt_nam thông_tin công_suất sân_bay nội_bài hiện 25 triệu lượt hành_khách / năm
+1,“ năm nay dự_kiến lượng khách sân_bay ở mức 19 triệu lượt khách
+2,trung_bình năm tăng_trưởng 22 5 triệu lượt khách
+3,như_vậy khoảng 23 năm sân_bay rơi tình_trạng căng_thẳng sân_bay tân_sơn_nhất bây_giờ ” ông xuân_thanh nhìn_nhận
+4,do_đó ở thời_điểm bắt_đầu tính_toán mở_rộng sân_bay nội_bài muộn
+5,cục hàng_không việt_nam dự_báo mức tăng_trưởng trung_bình 10 / năm đến năm 2020 8 đến năm 2030 sân_bay quốc_tế nội_bài đạt công_suất khoảng 60 triệu hành_khách / năm thời_điểm 2030
+6,hiện_tại dù sân_bay nội_bài 2 đường cất hạ_cánh 1a 1b khoảng_cách quá gần không_thể hoạt_động độc_lập 2 máy_bay cất hoặc hạ_cánh
+7,heo quy_hoạch cảng_hàng_không quốc_tế nội_bài giai_đoạn đến 2020 2020 sân_bay mở_rộng về phía nam
+8,hiện_nay bộ_gtvt xây_dựng quy_hoạch phát_triển vận_tải hàng_không giai_đoạn đến năm 2030 tầm nhìn đến năm 2050
+9,một trong điểm đáng chú_ý đầu_tư mở_rộng sân_bay quốc_tế nội_bài đạt 50 triệu khách / năm giai_đoạn đến năm 2030 đạt công_suất 80100 triệu khách / năm giai_đoạn đến năm 2050
+10,trong giai_đoạn đến 2030 xây_dựng thêm 1 đường cất hạ_cánh 2a song_song đường cất hạ_cánh 1b hiện
+11,ngoài_ra xây_dựng hệ_thống đường lăn sân đỗ công_trình quản_lý điều_hành bay nhà_ga hành_khách nhà_ga hàng_hóa hệ_thống giao_thông công_trình phụ_trợ
+12,lãnh_đạo cục hàng_không hoàn_thiện sân_bay nội_bài cũ phần mở_rộng hoạt_động độc_lập chung nhau trục giao_thông võ_văn_kiệt
+13,“ dự_án nâng công_suất sân_bay nội_bài 50 triệu hành_khách / năm khác dự_án xây_dựng sân_bay long_thành giai_đoạn 1
+14,tuy_nhiên dự_án mở_rộng sân_bay nội_bài khó_khăn hơn ” ông xuân_thanh nhìn_nhận
+15,dự_kiến toàn_bộ diện_tích mở_rộng nội_bài giai_đoạn đến 2030 nằm ở phía nam đối_diện sân_bay nội_bài hiện_tại trục giao_thông võ_văn_kiệt trong hiện khu dân_cư dày_đặc
+16,do_đó công_tác giải_phóng mặt_bằng gian_nan
+17,cục hàng_không tính_toán diện_tích mở_rộng khoảng 700 ha thuộc một_số xã mai_đình phú_cường phú_minh huyện sóc_sơn
+18,riêng kinh_phí gpmb tái_định_cư mất khoảng 2 tỷ usd thời_giá năm 2015
+19,ngoài_ra tổng mức đầu_tư hạ_tầng dự_án mở_rộng sân_bay nội_bài về phía nam “ ngốn ” khoảng gần 4 tỷ usd bao_gồm công_trình phụ_trợ
+20,“ số vốn lớn chắc_chắn kêu_gọi xã_hội_hóa ngân_sách chi_trả phần gpmb tái_định_cư ” ông xuân_thanh biết

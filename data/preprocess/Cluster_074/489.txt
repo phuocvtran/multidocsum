@@ -1,17 +1,17 @@
 idx, sentence
-0,ông fridman  52 tuổi  là nhà đồng sáng_lập kiêm chủ_tịch tập_đoàn đa_ngành alfa_group – sở_hữu ngân_hàng tư_nhân lớn nhất nước nga_alfa_bank  tập_đoàn bán_lẻ x5_retail quản_lý chuỗi siêu_thị tại nga  kênh_truyền_hình a1_tv_channel và công_ty đầu_tư letterone 
-1,năm 2015  tạp_chí forbes tại nga ước_tính tổng_tài_sản của ông khoảng 133 tỉ đô_la mỹ  là người giàu thứ hai tại nga và thứ 63 trên thế_giới 
-2,trong một sự_kiện dành riêng cho người giàu tuần này  ông fridman cho biết  “ tôi không thích tuyên_bố công_khai nhiều nhưng tôi có_thể khẳng_định sẽ chuyển toàn_bộ tài_sản của mình để làm từ_thiện 
-3,tôi không có kế_hoạch để số tiền đó cho các con thừa_kế ” 
-4,theo báo russia_today  ông fridman giải_thích rằng cho người trẻ số tiền lớn có_thể hủy_hoại cuộc_đời họ 
-5,ông còn cho hay ông không muốn con_cái tham_gia vào hoạt_động kinh_doanh của tập_đoàn alfa do ông lãnh_đạo 
-6,ông fridman nói ông muốn con_cái đi theo bước chân của ông  tự_thân tạo ra thứ gì đó của riêng mình 
-7,một lý_do khác là ông không muốn con_gái lớn laura  năm nay 22 tuổi  trở_thành mục_tiêu của những người có ý_đồ xấu 
-8,ông fridman cho biết thêm nhiều đối_tác làm_ăn của ông cũng có quyết_định tương_tự 
-9,ông fridman có 4 người con  người nhỏ nhất 10 tuổi và lớn nhất 22 tuổi 
-10, năm 2015  chủ_tịch hãng bất_động_sản foo_tak và khách_sạn shenzhen_panglin  trung_quốc   ông yu_panglin  qua_đời ở tuổi 93 và toàn_bộ tài_sản của ông  trị_giá khoảng 2 tỉ đô_la mỹ  được chuyển làm từ_thiện 
-11,ông yu là tỉ_phú đầu_tiên tại trung_quốc cho đi toàn_bộ tài_sản 
-12,khi còn sống  ông yu từng nói   nếu các con tôi tài_giỏi hơn tôi  chúng sẽ không cần đến số tiền này 
-13,còn nếu chúng không đủ năng_lực  gia_sản của tôi sẽ chỉ làm hại chúng mà thôi  
-14, ngày 1122015  trên trang cá_nhân  tỉ phủ trẻ mark_zuckerberg  ông chủ facebook  tuyên_bố sẽ hiến 45 tỉ đô_la mỹ  tương_đương 99  tổng_tài_sản 
-15,ông chủ facebook cho biết đây chỉ là sự đóng_góp rất nhỏ nhưng anh và vợ vẫn muốn làm những điều trong khả_năng để hỗ_trợ mọi người 
+0,ông fridman 52 tuổi nhà đồng sáng_lập kiêm chủ_tịch tập_đoàn đa_ngành alfa_group – sở_hữu ngân_hàng tư_nhân lớn nhất nước nga_alfa_bank tập_đoàn bán_lẻ x5_retail quản_lý chuỗi siêu_thị nga kênh_truyền_hình a1_tv_channel công_ty đầu_tư letterone
+1,năm 2015 tạp_chí forbes nga ước_tính tổng_tài_sản ông khoảng 133 tỉ đô_la mỹ người giàu thứ hai nga thứ 63 thế_giới
+2,trong một sự_kiện dành riêng người giàu tuần ông fridman biết “ tôi thích tuyên_bố công_khai tôi khẳng_định chuyển toàn_bộ tài_sản mình làm từ_thiện
+3,tôi kế_hoạch số tiền con thừa_kế ”
+4,báo russia_today ông fridman giải_thích người trẻ số tiền lớn hủy_hoại cuộc_đời họ
+5,ông còn hay ông muốn con_cái tham_gia hoạt_động kinh_doanh tập_đoàn alfa ông lãnh_đạo
+6,ông fridman nói ông muốn con_cái đi bước chân ông tự_thân tạo thứ riêng mình
+7,một lý_do khác ông muốn con_gái lớn laura năm nay 22 tuổi trở_thành mục_tiêu người ý_đồ xấu
+8,ông fridman biết thêm đối_tác làm_ăn ông quyết_định tương_tự
+9,ông fridman 4 người con người nhỏ nhất 10 tuổi lớn nhất 22 tuổi
+10,năm 2015 chủ_tịch hãng bất_động_sản foo_tak khách_sạn shenzhen_panglin trung_quốc ông yu_panglin qua_đời ở tuổi 93 toàn_bộ tài_sản ông trị_giá khoảng 2 tỉ đô_la mỹ chuyển làm từ_thiện
+11,ông yu tỉ_phú đầu_tiên trung_quốc đi toàn_bộ tài_sản
+12,còn sống ông yu nói con tôi tài_giỏi hơn tôi chúng đến số tiền
+13,còn chúng đủ năng_lực gia_sản tôi làm hại chúng thôi
+14,ngày 1122015 trang cá_nhân tỉ phủ trẻ mark_zuckerberg ông chủ facebook tuyên_bố hiến 45 tỉ đô_la mỹ tương_đương 99 tổng_tài_sản
+15,ông chủ facebook biết đóng_góp nhỏ anh vợ muốn làm trong khả_năng hỗ_trợ mọi người

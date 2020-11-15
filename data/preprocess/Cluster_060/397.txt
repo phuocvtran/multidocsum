@@ -1,15 +1,15 @@
 idx, sentence
-0,truyền_hình cáp việt_nam  vtvcab  đã chính_thức trở_thành đơn_vị sở_hữu bản_quyền phát_sóng copa_america_centenario 2016 diễn ra từ ngày 4/6  27/6/2016 trên lãnh_thổ việt_nam 
-1,copa america_centenario 2016 là một cột mốc có ý_nghĩa vô_cùng quan_trọng với các đội bóng nam_mỹ bởi đây là sự_kiện đặc_biệt được tổ_chức để kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ 
-2,các đội bóng hàng_đầu châu_lục sẽ tranh tài trong các trận đấu diễn ra tại 10 thành_phố lớn nhất nước mỹ và đây cũng là lần đầu_tiên copa_america được tổ_chức ở một quốc_gia ngoài nam_mỹ 
-3,khác với các kỳ copa_america trong lịch_sử  copa_america_centenario 2016 có sự tham_dự của 16 đội bóng  10 đội nam_mỹ và 6 đội thuộc khu_vực concacaf   với 4 bảng đấu 
-4,mỗi bảng sẽ lấy 2 đội nhất nhì lọt vào vòng tứ_kết 
-5,điều này cũng khiến giải đấu hứa_hẹn tính cạnh_tranh hấp_dẫn hơn với cuộc đối_đầu nảy_lửa giữa những tên_tuổi lớn nhất trong làng bóng_đá châu_lục và thế_giới  những ngôi_sao sân_cỏ hàng_đầu 
-6,vtvcab sẽ đưa giải đấu đặc_biệt này đến với người hâm_mộ việt_nam trọn_vẹn và đầy_đủ nhất với việc tường_thuật trực_tiếp toàn_bộ 32 trận đấu  các chương_trình tổng_hợp trên hệ_thống_kênh thể_thao tv  bóng_đá tv  thể_thao tv_hd  bóng_đá tv_hd  thể_thao tin_tức hd 
-7,sức_hút từ copa_america_centenario 2016 trên vtvcab còn hấp_dẫn hơn với các chương_trình đồng_hành được đầu_tư_sản_xuất mới là gương_mặt copa và hành_trình copa 
-8,gương_mặt copa giới_thiệu các đội_tuyển tiêu_biểu và các cầu_thủ xuất_sắc nhất của các đội_tuyển quốc_gia  những ngôi_sao tài_năng trên sàn_diễn copa_america 
-9,sự xuất_hiện và tỏa sáng của các cầu_thủ hàng_đầu thể giới cũng là một trong những điều được chờ_đợi nhất từ giải đấu lớn này 
-10,hành_trình copa là hành_trình đến với các thánh_đường bóng_đá thế_giới tại nam_mỹ  tới các sân_cỏ  các clb để mang tới khán_giả góc nhìn chân_thực nhất về nơi đã sản_sinh và nuôi_dưỡng nhiều thiên_tài bóng_đá thế_giới 
-11,hành_trình copa còn khám_phá tình_yêu bóng_đá đến bất_tận của những vũ_điệu tango  samba trong mùa lễ_hội copa_america 
-12,thông_tin về các sân_vận_động  tin_tức về các đội_tuyển cũng được cập_nhật thường_xuyên trong chương_trình 
-13,vtvcab hứa_hẹn sẽ mang tới cho khán_giả bức tranh toàn_cảnh sống_động và đầy màu_sắc của copa_america_centenario 2016  ngày hội bóng_đá có lịch_sử lâu_đời nhất thế_giới 
+0,truyền_hình cáp việt_nam vtvcab chính_thức trở_thành đơn_vị sở_hữu bản_quyền phát_sóng copa_america_centenario 2016 diễn ngày 4/6 27/6/2016 lãnh_thổ việt_nam
+1,copa america_centenario 2016 một cột mốc ý_nghĩa vô_cùng quan_trọng đội bóng nam_mỹ sự_kiện đặc_biệt tổ_chức kỷ_niệm tròn 100 năm lịch_sử giải vô_địch bóng_đá nam_mỹ
+2,đội bóng hàng_đầu châu_lục tranh tài trong trận đấu diễn 10 thành_phố lớn nhất nước mỹ lần đầu_tiên copa_america tổ_chức ở một quốc_gia ngoài nam_mỹ
+3,khác kỳ copa_america trong lịch_sử copa_america_centenario 2016 tham_dự 16 đội bóng 10 đội nam_mỹ 6 đội thuộc khu_vực concacaf 4 bảng đấu
+4,bảng lấy 2 đội nhất nhì lọt vòng tứ_kết
+5,khiến giải đấu hứa_hẹn tính cạnh_tranh hấp_dẫn hơn cuộc đối_đầu nảy_lửa giữa tên_tuổi lớn nhất trong làng bóng_đá châu_lục thế_giới ngôi_sao sân_cỏ hàng_đầu
+6,vtvcab đưa giải đấu đặc_biệt đến người hâm_mộ việt_nam trọn_vẹn đầy_đủ nhất tường_thuật trực_tiếp toàn_bộ 32 trận đấu chương_trình tổng_hợp hệ_thống_kênh thể_thao tv bóng_đá tv thể_thao tv_hd bóng_đá tv_hd thể_thao tin_tức hd
+7,sức_hút copa_america_centenario 2016 vtvcab còn hấp_dẫn hơn chương_trình đồng_hành đầu_tư_sản_xuất mới gương_mặt copa hành_trình copa
+8,gương_mặt copa giới_thiệu đội_tuyển tiêu_biểu cầu_thủ xuất_sắc nhất đội_tuyển quốc_gia ngôi_sao tài_năng sàn_diễn copa_america
+9,xuất_hiện tỏa sáng cầu_thủ hàng_đầu thể giới một trong chờ_đợi nhất giải đấu lớn
+10,hành_trình copa hành_trình đến thánh_đường bóng_đá thế_giới nam_mỹ tới sân_cỏ clb mang tới khán_giả góc nhìn chân_thực nhất về sản_sinh nuôi_dưỡng thiên_tài bóng_đá thế_giới
+11,hành_trình copa còn khám_phá tình_yêu bóng_đá đến bất_tận vũ_điệu tango samba trong mùa lễ_hội copa_america
+12,thông_tin về sân_vận_động tin_tức về đội_tuyển cập_nhật thường_xuyên trong chương_trình
+13,vtvcab hứa_hẹn mang tới khán_giả bức tranh toàn_cảnh sống_động đầy màu_sắc copa_america_centenario 2016 ngày hội bóng_đá lịch_sử lâu_đời nhất thế_giới

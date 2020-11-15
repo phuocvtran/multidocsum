@@ -1,17 +1,17 @@
 idx, sentence
-0,ông hùng cho biết  313  cục cảnh_sát điều_tra tội_phạm về kinh_tế và tham_nhũng  bộ công_an phối_hợp công_an tpcần_thơ thực_hiện lệnh bắt tạm giam đối_với phan_bá_tòng  còn gọi_là tòng “ thiên_mã ”  sn 1974  giám_đốc và trần_thị_diễm  46 tuổi  kế_toán_trưởng công_ty thiên_mã  về hành_vi “ lừa_đảo chiếm_đoạt tài_sản ” 
-1,năm 2005  công_ty thiên_mã được thành_lập với vốn điều_lệ 70 tỷ đồng 
-2,năm 2009  công_ty này xây hai nhà_máy kim_ngư và thiên_mã 3 
-3,hoàn_thành xong nhà_máy  tòng tiếp_tục xây_dựng hệ_thống 12 trang_trại thủy_sản khép_kín từ khâu sản_xuất cá_bột rồi đưa qua ao nuôi 40000 tấn cá da trơn mỗi năm 
-4,thế nhưng  mô_hình của tòng không hiệu_quả 
-5,trong khi đó  vị giám_đốc này được mệnh_danh là đại_gia chơi_ngông ở tây_đô khi trang_bị siêu xe và sở_thích “ bo ” tiền như nước 
-6,năm 2011  công_ty thiên_mã ngừng hoạt_động vì nợ chồng_chất 
-7,hàng chục chủ_nợ của công_ty là người nuôi cá  chủ cơ_sở kinh_doanh mua_bán thức_ăn đến đòi nợ  trong khi giám_đốc tòng không có khả_năng thanh_toán  với số tiền hơn 50 tỷ đồng 
-8,tháng 122012  ông tòng tuyên_bố công_ty thua_lỗ 
-9,năm 2014  tòng nợ quá nhiều nên_chi_cục thi_hành án dân_sự quận ô_môn  tpcần_thơ đã kê_biên  phát mãi chiếc siêu xe hummer_h2 trị_giá khoảng 4 tỷ đồng 
-10,để vay được tiền ngân_hàng  tòng mở thêm nhiều công_ty con rồi làm nhiều hồ_sơ vay vốn các ngân_hàng  trong đó có nhiều hồ_sơ thiếu minh_bạch  nợ chuyển sang nợ xấu 
-11,tổng_số nợ của công_ty thiên_mã là 891 tỷ đồng  trong đó nợ các ngân_hàng 516 tỷ đồng  nợ các đối_tác cung_ứng vật_tư  dịch_vụ là 95 tỷ đồng  nợ chủ nuôi cá 166 tỷ đồng  nợ thuế 11 tỷ đồng  nợ lương công_nhân 16 tỷ đồng  nợ 6 cá_nhân 54 tỷ đồng  nợ tiền điện  nước gần 1 tỷ đồng 
-12,tổng_tài_sản hiện có của công_ty thiên_mã chỉ khoảng 110 tỷ đồng 
-13,nguyên_nhân tòng để lại quả bom nợ  ông hùng giải_thích  “ do vay vốn ngắn_hạn đầu_tư trung dài_hạn và đổ vào bất_động_sản trong khi lãi_suất vay ngân_hàng quá cao  có lúc lên đến 21  / năm 
-14,khi thị_trường nhà_đất đóng_băng  ngành cá_tra rơi vào khủng_hoảng  đã làm cho danh nghiệp mất cân_đối ngày_càng nghiêm_trọng ” 
-15,ông hùng cho biết thêm  tổ công_tác có văn_bản kiến_nghị đến điện_lực thành_phố cần_thơ  công_ty cp cấp nước trà_nóc tiếp_tục cung_ứng điện  nước cho cty_thiên_mã để duy_trì gia_công  ổn_định đời_sống cho khoảng 400 công_nhân 
+0,ông hùng biết 313 cục cảnh_sát điều_tra tội_phạm về kinh_tế tham_nhũng bộ công_an phối_hợp công_an tpcần_thơ thực_hiện lệnh bắt tạm giam đối_với phan_bá_tòng còn gọi_là tòng “ thiên_mã ” sn 1974 giám_đốc trần_thị_diễm 46 tuổi kế_toán_trưởng công_ty thiên_mã về hành_vi “ lừa_đảo chiếm_đoạt tài_sản ”
+1,năm 2005 công_ty thiên_mã thành_lập vốn điều_lệ 70 tỷ đồng
+2,năm 2009 công_ty xây hai nhà_máy kim_ngư thiên_mã 3
+3,hoàn_thành xong nhà_máy tòng tiếp_tục xây_dựng hệ_thống 12 trang_trại thủy_sản khép_kín khâu sản_xuất cá_bột đưa ao nuôi 40000 tấn cá da trơn năm
+4,thế mô_hình tòng hiệu_quả
+5,trong vị giám_đốc mệnh_danh đại_gia chơi_ngông ở tây_đô trang_bị siêu xe sở_thích “ bo ” tiền nước
+6,năm 2011 công_ty thiên_mã ngừng hoạt_động nợ chồng_chất
+7,hàng chục chủ_nợ công_ty người nuôi cá chủ cơ_sở kinh_doanh mua_bán thức_ăn đến đòi nợ trong giám_đốc tòng khả_năng thanh_toán số tiền hơn 50 tỷ đồng
+8,tháng 122012 ông tòng tuyên_bố công_ty thua_lỗ
+9,năm 2014 tòng nợ quá nên_chi_cục thi_hành án dân_sự quận ô_môn tpcần_thơ kê_biên phát mãi siêu xe hummer_h2 trị_giá khoảng 4 tỷ đồng
+10,vay tiền ngân_hàng tòng mở thêm công_ty con làm hồ_sơ vay vốn ngân_hàng trong hồ_sơ thiếu minh_bạch nợ chuyển sang nợ xấu
+11,tổng_số nợ công_ty thiên_mã 891 tỷ đồng trong nợ ngân_hàng 516 tỷ đồng nợ đối_tác cung_ứng vật_tư dịch_vụ 95 tỷ đồng nợ chủ nuôi cá 166 tỷ đồng nợ thuế 11 tỷ đồng nợ lương công_nhân 16 tỷ đồng nợ 6 cá_nhân 54 tỷ đồng nợ tiền điện nước gần 1 tỷ đồng
+12,tổng_tài_sản hiện công_ty thiên_mã khoảng 110 tỷ đồng
+13,nguyên_nhân tòng quả bom nợ ông hùng giải_thích “ vay vốn ngắn_hạn đầu_tư trung dài_hạn đổ bất_động_sản trong lãi_suất vay ngân_hàng quá cao đến 21 / năm
+14,thị_trường nhà_đất đóng_băng ngành cá_tra rơi khủng_hoảng làm danh nghiệp mất cân_đối ngày_càng nghiêm_trọng ”
+15,ông hùng biết thêm tổ công_tác văn_bản kiến_nghị đến điện_lực thành_phố cần_thơ công_ty cp cấp nước trà_nóc tiếp_tục cung_ứng điện nước cty_thiên_mã duy_trì gia_công ổn_định đời_sống khoảng 400 công_nhân

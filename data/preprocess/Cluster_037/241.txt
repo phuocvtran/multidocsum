@@ -1,47 +1,47 @@
 idx, sentence
-0,tình_hình tại quốc_gia mỹ latin này đang ngày_càng tồi_tệ 
-1,biểu_tình nổ ra khắp nơi  kêu_gọi trưng_cầu dân_ý để buộc tổng_thống nicolas_maduro từ_chức 
-2,hồi đầu tuần  ông maduro còn lặp lại đe_dọa tịch_biên các nhà_máy đã đóng_cửa và quốc_hữu_hóa chúng 
-3,đây là động_thái khá rắn  trong bối_cảnh tỷ_lệ ủng_hộ ông rất thấp và phe đối_lập đang ngày_càng đe_dọa đến vị_trí của ông 
-4,1 
-5,thiếu_thốn xảy ra trên cả nước tình_trạng thiếu nhu_yếu_phẩm đã diễn ra tại venezuela từ lâu  nhưng gần đây đặc_biệt nghiêm_trọng 
-6,nước bị chính_phủ kiểm_soát 
-7,và một_số người dân đã bị cảnh_báo chỉ được cấp_nước 21 ngày một lần  do các hồ dự_trữ đang khô_cạn 
-8,vì_thế  người venezuela bắt_đầu trộm từ các hồ bơi và xe chở nước để sống qua_ngày 
-9,điện cũng bị hạn_chế 
-10,ông maduro đã đề_nghị các văn_phòng chỉ mở_cửa làm_việc 2 ngày_một tuần để tiết_kiệm năng_lượng 
-11,việc cắt điện luân_phiên hằng ngày cũng trở_nên quá quen_thuộc 
-12,các loại thuốc cơ_bản như aspirin không nơi nào còn bán 
-13,kệ trong siêu_thị cũng trống_trơn 
-14,hồi tháng 4  công_ty tư_nhân lớn nhất nước này  empresas_polar cũng đã phải đóng cửa 
-15,công_ty này sản_xuất tới 80  lượng bia tiêu_thụ tại venezuela 
-16,2 
-17,kinh_tế kiệt_quệ vì giá dầu từ nhiều năm nay  nước này đã quá phụ_thuộc vào dự_trữ dầu_mỏ khổng_lồ  đóng_góp tới 96  doanh_thu xuất_khẩu và gần nửa ngân_sách quốc_gia 
-18,nhưng mọi thứ vẫn tốt khi giá dầu hơn 100 usd một thùng 
-19,còn hiện_tại  giá chỉ gần 50 usd 
-20,thay vì tích_trữ phần dư khi giá còn cao  phần_lớn số này lại bị tiêu mất 
-21,venezuela hiện cần giá dầu lên tới 121 usd để cân_bằng ngân_sách 
-22,hạn_hán cũng càng khiến kinh_tế nước này kiệt_quệ 
-23,khoảng 65  điện của venezuela được tạo ra chỉ bằng một đập thủy_điện 
-24,và nó hiện cũng khó mà hoạt_động 
-25,3 
-26,các vấn_đề dài_hạn từ nhiều thập_kỷ nay  tham_nhũng đã là vấn_đề tại venezuela 
-27,đây hiện là quốc_gia tham_nhũng nhất châu_mỹ  và đứng thứ 9 thế_giới  theo số_liệu của tổ_chức minh_bạch quốc_tế  ti  
-28,tỷ_lệ phạm_tội giết người tại đây cũng cao nhì thế_giới 
-29,vì_thế  chẳng có gì ngạc_nhiên khi người dân nước này luôn giận_dữ 
-30,tính trung_bình  venezuela có 17 cuộc biểu_tình mỗi ngày  theo cơ_quan quan_sát xung_đột xã_hội venezuela 
-31,quỹ tiền_tệ quốc_tế  imf  cho biết tỷ_lệ thất_nghiệp hiện là 17   dự_báo lên 21  năm tới 
-32,lạm_phát cũng được dự_báo chạm 481  cuối năm và có_thể hơn 1600  năm tới 
-33,gdp nước này đã giảm 57  năm_ngoái và có khả_năng mất 8  năm nay 
-34,và trên thị_trường chợ_đen  đồng bolivar của nước này cũng có giá chẳng bằng một cent mỹ 
-35,4 
-36,thay_đổi người đứng đầu các cuộc bầu_cử quốc_hội tháng 12 năm_ngoái đã đưa venezuela về tay đảng đối_lập bàn_tròn thống_nhất dân_chủ  một nhóm gồm chính_trị_gia các ẩng trung_tâm  trung tả và trung_hữu 
-37,đây là bước xoay_chuyển quyền_lực đầu_tiên trong cơ_quan lập_pháp venezuela kể từ khi cố tổng_thống hugo_chavez lên nắm quyền năm 1999 
-38,tỷ_lệ ủng_hộ ông maduro hồi tháng 12 là 22  và giờ chỉ còn 15  
-39,khoảng 70  người venezuela hiện muốn ông từ chức 
-40,5 
-41,chạy_đua với thời_gian_đảng đối_lập đã thu_thập đủ chữ_ký để kêu_gọi một cuộc trưng_cầu dân_ý về ông maduro 
-42,các nhà hoạt_động cần có 1  chữ_ký của cử_tri cả nước  tức_là 200000 chữ_ký 
-43,nhưng họ đã thu về tới 185 triệu 
-44,2 tuần trước  họ đã nộp danh_sách này lên ủy_ban bầu_cử quốc_gia để được chấp_thuận 
-45,tuy_nhiên  những người kiểm_duyệt lại thân_cận với chính_phủ và đang kéo lùi quá_trình này lại 
+0,tình_hình quốc_gia mỹ latin ngày_càng tồi_tệ
+1,biểu_tình nổ khắp kêu_gọi trưng_cầu dân_ý buộc tổng_thống nicolas_maduro từ_chức
+2,hồi đầu tuần ông maduro còn lặp đe_dọa tịch_biên nhà_máy đóng_cửa quốc_hữu_hóa chúng
+3,động_thái khá rắn trong bối_cảnh tỷ_lệ ủng_hộ ông thấp phe đối_lập ngày_càng đe_dọa đến vị_trí ông
+4,1
+5,thiếu_thốn xảy nước tình_trạng thiếu nhu_yếu_phẩm diễn venezuela lâu gần đặc_biệt nghiêm_trọng
+6,nước chính_phủ kiểm_soát
+7,một_số người dân cảnh_báo cấp_nước 21 ngày một lần hồ dự_trữ khô_cạn
+8,vì_thế người venezuela bắt_đầu trộm hồ bơi xe chở nước sống qua_ngày
+9,điện hạn_chế
+10,ông maduro đề_nghị văn_phòng mở_cửa làm_việc 2 ngày_một tuần tiết_kiệm năng_lượng
+11,cắt điện luân_phiên hằng ngày trở_nên quá quen_thuộc
+12,loại thuốc cơ_bản aspirin nào còn bán
+13,kệ trong siêu_thị trống_trơn
+14,hồi tháng 4 công_ty tư_nhân lớn nhất nước empresas_polar đóng cửa
+15,công_ty sản_xuất tới 80 lượng bia tiêu_thụ venezuela
+16,2
+17,kinh_tế kiệt_quệ giá dầu năm nay nước quá phụ_thuộc dự_trữ dầu_mỏ khổng_lồ đóng_góp tới 96 doanh_thu xuất_khẩu gần nửa ngân_sách quốc_gia
+18,mọi thứ tốt giá dầu hơn 100 usd một thùng
+19,còn hiện_tại giá gần 50 usd
+20,thay tích_trữ phần dư giá còn cao phần_lớn số tiêu mất
+21,venezuela hiện giá dầu tới 121 usd cân_bằng ngân_sách
+22,hạn_hán khiến kinh_tế nước kiệt_quệ
+23,khoảng 65 điện venezuela tạo bằng một đập thủy_điện
+24,nó hiện khó hoạt_động
+25,3
+26,vấn_đề dài_hạn thập_kỷ nay tham_nhũng vấn_đề venezuela
+27,hiện quốc_gia tham_nhũng nhất châu_mỹ đứng thứ 9 thế_giới số_liệu tổ_chức minh_bạch quốc_tế ti
+28,tỷ_lệ phạm_tội giết người cao nhì thế_giới
+29,vì_thế chẳng ngạc_nhiên người dân nước luôn giận_dữ
+30,tính trung_bình venezuela 17 cuộc biểu_tình ngày cơ_quan quan_sát xung_đột xã_hội venezuela
+31,quỹ tiền_tệ quốc_tế imf biết tỷ_lệ thất_nghiệp hiện 17 dự_báo 21 năm tới
+32,lạm_phát dự_báo chạm 481 cuối năm hơn 1600 năm tới
+33,gdp nước giảm 57 năm_ngoái khả_năng mất 8 năm nay
+34,thị_trường chợ_đen đồng bolivar nước giá chẳng bằng một cent mỹ
+35,4
+36,thay_đổi người đứng đầu cuộc bầu_cử quốc_hội tháng 12 năm_ngoái đưa venezuela về tay đảng đối_lập bàn_tròn thống_nhất dân_chủ một nhóm gồm chính_trị_gia ẩng trung_tâm trung tả trung_hữu
+37,bước xoay_chuyển quyền_lực đầu_tiên trong cơ_quan lập_pháp venezuela kể cố tổng_thống hugo_chavez nắm quyền năm 1999
+38,tỷ_lệ ủng_hộ ông maduro hồi tháng 12 22 giờ còn 15
+39,khoảng 70 người venezuela hiện muốn ông chức
+40,5
+41,chạy_đua thời_gian_đảng đối_lập thu_thập đủ chữ_ký kêu_gọi một cuộc trưng_cầu dân_ý về ông maduro
+42,nhà hoạt_động 1 chữ_ký cử_tri nước tức_là 200000 chữ_ký
+43,họ thu về tới 185 triệu
+44,2 tuần họ nộp danh_sách ủy_ban bầu_cử quốc_gia chấp_thuận
+45,tuy_nhiên người kiểm_duyệt thân_cận chính_phủ kéo lùi quá_trình

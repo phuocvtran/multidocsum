@@ -1,22 +1,22 @@
 idx, sentence
-0,“ tôi chẳng bao_giờ nhìn vào hợp_đồng 
-1,tôi có biết tôi ký cái gì đâu  ” tờ el_periodico dẫn lời messi_– trong lời bào_chữa của cầu_thủ này ở tòa_án ở barcelona 
-2,anh và cha  ông jorge_messi bị_cáo_buộc gian_lận số tiền tổng_cộng 41 triệu euro từ năm 2007  2009 
-3,messi và cha có_thể chịu mức án lên tới 225 tháng tù  7 tháng và thêm 15 ngày cho ba tội_danh mà bên công_tố_cáo_buộc  cộng thêm tiền phạt 
-4,vài tháng trước  công_tố_viên raquel_amado chỉ buộc_tội ông jorge_messi 18 tháng  và cho rằng ông là người chịu trách_nhiệm hoàn_toàn 
-5,nhưng nay thì mọi chuyện rắc_rối hơn 
-6,“ tôi tin_tưởng cha mình  ông ấy làm mọi thứ và bảo tôi phải làm gì  ” vẫn lời messi  trước tòa vào năm 2013  tờ el_periodico trích_dẫn 
-7,khi thẩm_phán hỏi về việc liệu messi có đọc những tài_liệu trước khi ký hay không  messi đáp  không 
-8,tại_sao anh lại không đọc 
-9,bởi_vì bố_mẹ anh bảo thế 
-10,thẩm_phán hỏi tiếp 
-11,bởi_vì tôi tin_tưởng cha mình 
-12,ông ấy bảo gì thì tôi làm đấy 
-13,anh có biết gì về các công_ty  và điều_khoản với họ 
-14,tôi có nghe 1 ít về chúng  nhưng tôi chẳng hiểu bất_cứ thứ gì 
-15,anh có biết gì về các hợp_đồng 
-16,thành_thật mà nói  tôi chẳng biết gì 
-17,tôi ký vào chúng  hợp_đồng   nhưng chưa bao_giờ nhìn 
-18,tôi không biết tôi đã ký gì 
-19,anh có biết gì về tiền bản_quyền hình_ảnh 
-20,không tôi chả biết gì  tôi chỉ biết mình ký hợp_đồng  người_ta và clb trả tiền cho tôi 
+0,“ tôi chẳng bao_giờ nhìn hợp_đồng
+1,tôi biết tôi ký đâu ” tờ el_periodico dẫn lời messi_– trong lời bào_chữa cầu_thủ ở tòa_án ở barcelona
+2,anh cha ông jorge_messi bị_cáo_buộc gian_lận số tiền tổng_cộng 41 triệu euro năm 2007 2009
+3,messi cha chịu mức án tới 225 tháng tù 7 tháng thêm 15 ngày ba tội_danh bên công_tố_cáo_buộc cộng thêm tiền phạt
+4,vài tháng công_tố_viên raquel_amado buộc_tội ông jorge_messi 18 tháng ông người chịu trách_nhiệm hoàn_toàn
+5,nay mọi rắc_rối hơn
+6,“ tôi tin_tưởng cha mình ông ấy làm mọi thứ bảo tôi làm ” lời messi tòa năm 2013 tờ el_periodico trích_dẫn
+7,thẩm_phán hỏi về liệu messi đọc tài_liệu ký hay messi đáp
+8,tại_sao anh đọc
+9,bởi_vì bố_mẹ anh bảo thế
+10,thẩm_phán hỏi tiếp
+11,bởi_vì tôi tin_tưởng cha mình
+12,ông ấy bảo tôi làm đấy
+13,anh biết về công_ty điều_khoản họ
+14,tôi nghe 1 ít về chúng tôi chẳng hiểu bất_cứ thứ
+15,anh biết về hợp_đồng
+16,thành_thật nói tôi chẳng biết
+17,tôi ký chúng hợp_đồng bao_giờ nhìn
+18,tôi biết tôi ký
+19,anh biết về tiền bản_quyền hình_ảnh
+20,tôi chả biết tôi biết mình ký hợp_đồng người_ta clb trả tiền tôi

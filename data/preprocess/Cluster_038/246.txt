@@ -1,7 +1,7 @@
 idx, sentence
-0,trong hình  lâm_tâm như xuất_hiện vô_cùng trẻ_trung với quần_jean dạng yếm  áo_thun trắng ngắn tay cùng mũ_lưỡi_trai đen 
-1,dù đã ở tuổi 40 nhưng trông lâm_tâm như vẫn vô_cùng xinh_đẹp  tươi_trẻ khi cô trang_điểm nhẹ_nhàng 
-2,sự xuất_hiện của lâm_tâm như khiến sân_bay náo_loạn 
-3,không ít người nhận ra lâm_tâm_như và vây lấy cô  tuy_nhiên  nữ diễn_viên vẫn rất thân_thiện và luôn nở nụ cười tươi_tắn  rạng_rỡ 
-4,khi được phóng_viên và mọi người gửi lời chúc_mừng về chuyện tình_cảm vơi hoắc_kiến_hoa  lâm_tâm_như liên_tục nói ‘ cảm_ơn ’ 
-5,và trước câu hỏi về việc có suy_nghĩ đến chuyện kết_hôn hay không  lâm_tâm như chia_sẻ  ‘ vẫn chưa nhanh thế đâu ’ 
+0,trong hình lâm_tâm xuất_hiện vô_cùng trẻ_trung quần_jean dạng yếm áo_thun trắng ngắn tay mũ_lưỡi_trai đen
+1,dù ở tuổi 40 trông lâm_tâm vô_cùng xinh_đẹp tươi_trẻ cô trang_điểm nhẹ_nhàng
+2,xuất_hiện lâm_tâm khiến sân_bay náo_loạn
+3,ít người nhận lâm_tâm_như vây lấy cô tuy_nhiên nữ diễn_viên thân_thiện luôn nở nụ cười tươi_tắn rạng_rỡ
+4,phóng_viên mọi người gửi lời chúc_mừng về tình_cảm vơi hoắc_kiến_hoa lâm_tâm_như liên_tục nói ‘ cảm_ơn ’
+5,câu hỏi về suy_nghĩ đến kết_hôn hay lâm_tâm chia_sẻ ‘ nhanh thế đâu ’

@@ -1,18 +1,18 @@
 idx, sentence
-0,zoe_eastman  33 tuổi  sống ở liverpool  anh   so_sánh niềm vui mà cô được ngậm một miệng đầy bọt xà_phòng với việc đạt được  khoái_cảm  khi yêu 
-1,giải_thích về thói_quen kỳ_lạ này  zoe chia_sẻ   khi mới mang thai  tôi thích cái cảm_giác được nâng_niu  vuốt_ve mình trong bồn_tắm với loại kem dưỡng giúp da mềm_mại 
-2,tôi thử dùng nhiều sản_phẩm khác nhau  nhưng lúc thai được 20 tuần  cơn thèm ăn bong_bóng xà_phòng của tôi bắt_đầu khi tôi tìm được sản_phẩm sữa tắm radox_muscle_therapy 
-3,nó khiến tôi lúc_nào cũng thấy thèm_thuồng  
-4,theo the_sun  zoe có_thể phủ đầy bọt xà_phòng lên mặt rồi từ_từ hút vào miệng và tận_hưởng 
-5, cảm_giác như_thể tôi được tiếp thêm sinh_lực  và tôi bắt_đầu thưởng_thức chúng từ đó 
-6,tôi cảm_thấy như đạt được khoái_cảm từ việc ăn bọt xà_phòng   cô nói 
-7,có lúc  cơn thèm ăn kỳ_lạ của zoe nhiều tới mức cô có_thể tắm hết hai chai radox chỉ trong một tuần 
-8,cô cố giấu mọi người thói_quen ăn_uống kỳ_lạ này nhưng một buổi tối nọ đã bị hôn phu mark_smith  34 tuổi  bắt_gặp 
-9, lúc bị anh ấy nhìn thấy  đáng ra tôi phải thấy ngại  nhưng tôi sung_sướng đến mức chẳng cần quan_tâm trông mình ra_sao   zoe kể lại 
-10, tôi cứ nghĩ đến những cái bọt sữa tắm suốt cả ngày  
-11,sau khi tiết_lộ điều này với những người bạn cũng đang mang thai giống mình  zoe được họ gơi ý nên nói_chuyện này với bác_sĩ để xem có phải cô đang mắc chứng_pica hay không 
-12,đây là một chứng rối_loạn ăn_uống có liên_quan tới tình_trạng thiếu sắt trong cơ_thể 
-13,tuy_nhiên  kết_quả xét_nghiệm máu khi zoe mang thai được 5 tháng cho thấy lượng sắt trong cơ_thể cô hoàn_toàn bình_thường 
-14,bác_sĩ cũng khẳng_định_sở_thích ăn bọt xà_phòng kỳ_lạ này cũng không gây nguy_hại đến đứa con trong bụng 
-15,khi về nhà  zoe vẫn tiếp_tục ăn bọt  nhưng chỉ có mùi hương của sữa tắm radox mới hấp_dẫn cô 
-16,cơn nghiện tiếp_tục cho tới khi cô sinh con_trai indie  hiện 2 tuổi 
+0,zoe_eastman 33 tuổi sống ở liverpool anh so_sánh niềm vui cô ngậm một miệng đầy bọt xà_phòng đạt khoái_cảm yêu
+1,giải_thích về thói_quen kỳ_lạ zoe chia_sẻ mới mang thai tôi thích cảm_giác nâng_niu vuốt_ve mình trong bồn_tắm loại kem dưỡng giúp da mềm_mại
+2,tôi thử dùng sản_phẩm khác nhau thai 20 tuần cơn thèm ăn bong_bóng xà_phòng tôi bắt_đầu tôi tìm sản_phẩm sữa tắm radox_muscle_therapy
+3,nó khiến tôi lúc_nào thấy thèm_thuồng
+4,the_sun zoe phủ đầy bọt xà_phòng mặt từ_từ hút miệng tận_hưởng
+5,cảm_giác như_thể tôi tiếp thêm sinh_lực tôi bắt_đầu thưởng_thức chúng
+6,tôi cảm_thấy đạt khoái_cảm ăn bọt xà_phòng cô nói
+7,cơn thèm ăn kỳ_lạ zoe tới mức cô tắm hết hai chai radox trong một tuần
+8,cô cố giấu mọi người thói_quen ăn_uống kỳ_lạ một buổi tối nọ hôn phu mark_smith 34 tuổi bắt_gặp
+9,anh ấy nhìn thấy đáng tôi thấy ngại tôi sung_sướng đến mức chẳng quan_tâm trông mình ra_sao zoe kể
+10,tôi nghĩ đến bọt sữa tắm suốt ngày
+11,tiết_lộ người bạn mang thai giống mình zoe họ gơi ý nói_chuyện bác_sĩ xem cô mắc chứng_pica hay
+12,một chứng rối_loạn ăn_uống liên_quan tới tình_trạng thiếu sắt trong cơ_thể
+13,tuy_nhiên kết_quả xét_nghiệm máu zoe mang thai 5 tháng thấy lượng sắt trong cơ_thể cô hoàn_toàn bình_thường
+14,bác_sĩ khẳng_định_sở_thích ăn bọt xà_phòng kỳ_lạ gây nguy_hại đến đứa con trong bụng
+15,về nhà zoe tiếp_tục ăn bọt mùi hương sữa tắm radox mới hấp_dẫn cô
+16,cơn nghiện tiếp_tục tới cô sinh con_trai indie hiện 2 tuổi

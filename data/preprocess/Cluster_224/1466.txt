@@ -1,11 +1,11 @@
 idx, sentence
-0,tin nhanh chiều 31/5  ông bùi_tân_nguyên  giám_đốc trung_tâm phối_hợp tìm_kiếm cứu nạn hàng_hải khu_vực 2 đóng tại đà_nẵng   cho biết  tàu đánh_cá đna 90604 ts của ngư_dân nguyễn_sương  35 tuổi  trú phường nại_hiên_đông  quận sơn_trà  đà_nẵng  bị chìm trên biển vào đêm 30/5 
-1,thời_điểm xảy ra vụ tai_nạn  tàu cá này đang đánh_bắt tại 1916 độ_vĩ bắc  10553 độ_kinh_đông  thuộc vùng_biển vịnh bắc_bộ  
-2, trên tàu có 7 ngư_dân thì 5 ngư_dân đã được tàu đna 90603  cùng do anh nguyễn_sương làm_chủ kịp_thời ứng_cứu 
-3,tuy_nhiên 2 ngư_dân đang mất_tích   ông nguyên xác_nhận 
-4,tàu đánh_cá đna 90604 ts của ông nguyễn_sương  được hạ thủy hồi tháng 5/2014 với số vốn đầu_tư 45 tỉ đồng 
-5,tàu có công_suất 1150 cv  dài 21 m  rộng 6 m và cao 38 m  ông sương cũng đóng thêm một chiếc tàu cùng loại với số_hiệu đna 90603ts  cùng thông_số kỹ_thuật để hành_nghề lưới_rê 
-6,đây cũng là cặp tàu cá vỏ gỗ lớn nhất miền trung thời_điểm hiện_nay 
-7,hai con tàu đều được đóng theo mẫu tàu cá thái_lan  hoạt_động trong đội_hình đánh_bắt  cung_cấp dịch_vụ hậu_cần của ngư_dân đà_nẵng ở ngư_trường hoàng_sa  trường_sa 
-8,ngày 8/5 vừa_qua  ngư_dân nguyễn_sương cũng vừa hạ thủy thêm con tàu vỏ thép mới dna 90767 ts trị_giá 175 tỉ đồng 
-9,tính đến thời_điểm hiện_tại  ông nguyễn_sương có 4 tàu vỏ gỗ  trong đó có 3 tàu đánh_bắt  1 tàu làm dịch_vụ hậu_cần 
+0,tin nhanh chiều 31/5 ông bùi_tân_nguyên giám_đốc trung_tâm phối_hợp tìm_kiếm cứu nạn hàng_hải khu_vực 2 đóng đà_nẵng biết tàu đánh_cá đna 90604 ts ngư_dân nguyễn_sương 35 tuổi trú phường nại_hiên_đông quận sơn_trà đà_nẵng chìm biển đêm 30/5
+1,thời_điểm xảy vụ tai_nạn tàu cá đánh_bắt 1916 độ_vĩ bắc 10553 độ_kinh_đông thuộc vùng_biển vịnh bắc_bộ
+2,tàu 7 ngư_dân 5 ngư_dân tàu đna 90603 anh nguyễn_sương làm_chủ kịp_thời ứng_cứu
+3,tuy_nhiên 2 ngư_dân mất_tích ông nguyên xác_nhận
+4,tàu đánh_cá đna 90604 ts ông nguyễn_sương hạ thủy hồi tháng 5/2014 số vốn đầu_tư 45 tỉ đồng
+5,tàu công_suất 1150 cv dài 21 m rộng 6 m cao 38 m ông sương đóng thêm một tàu loại số_hiệu đna 90603ts thông_số kỹ_thuật hành_nghề lưới_rê
+6,cặp tàu cá vỏ gỗ lớn nhất miền trung thời_điểm hiện_nay
+7,hai con tàu đóng mẫu tàu cá thái_lan hoạt_động trong đội_hình đánh_bắt cung_cấp dịch_vụ hậu_cần ngư_dân đà_nẵng ở ngư_trường hoàng_sa trường_sa
+8,ngày 8/5 vừa_qua ngư_dân nguyễn_sương hạ thủy thêm con tàu vỏ thép mới dna 90767 ts trị_giá 175 tỉ đồng
+9,tính đến thời_điểm hiện_tại ông nguyễn_sương 4 tàu vỏ gỗ trong 3 tàu đánh_bắt 1 tàu làm dịch_vụ hậu_cần

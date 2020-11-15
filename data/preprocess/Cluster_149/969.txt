@@ -1,13 +1,13 @@
 idx, sentence
-0,từ nay  người có nhu_cầu cấp giấy_phép lái_xe quốc_tế có_thể đăng_ký và khai_báo ngay tại nhà  qua website wwwdrvngovvn hoặc wwwdichvuconggplxgovvn  8000 
-1,đây là kết_quả của việc hoàn_thành hệ_thống cung_cấp dịch_vụ công mức_độ 4  cấp gplx quốc_tế 
-2,quy_trình đăng_ký dịch_vụ công mức_độ 4 cấp gplx quốc_tế gồm 4 bước  bước 1  khai_báo thông_tin hồ_sơ trực_tuyến và đăng_ký địa_chỉ nhận chuyển phát sau khi có kết_quả gplx quốc_tế  bước 2  thực_hiện thanh_toán trực_tuyến phí và lệ_phí qua cổng thanh_toán trực_tuyến thành_công  bước 3  nhận kết_quả thông_báo kết_quả xác_nhận hồ_sơ qua địa_chỉ hòm_thư đã đăng_ký  bước 4  nếu hồ_sơ hợp_lệ sẽ được nhận kết_quả chuyển phát gplx quốc_tế tại địa_chỉ đã đăng_ký 
-3,điều_kiện và các yêu_cầu để sử_dụng dịch_vụ  người dùng cần có gplx bằng vật_liệu pet  còn giá_trị sử_dụng và có trong cơ_sở dữ_liệu gplx toàn_quốc 
-4,chuẩn_bị các tài_liệu  ảnh chụp mặt trước gplx_pet  ảnh chụp hộ_chiếu  trang có ảnh và nơi sinh   ảnh chân_dung có nền xanh hoặc trắng 
-5,tài_khoản ngân_hàng để thực_hiện giao_dịch trực_tuyến 
-6,sau khi người dùng đăng_ký  cán_bộ nghiệp_vụ sẽ kiểm_tra hồ_sơ và thông_báo kết_quả qua hòm_thư_điện_tử 
-7,các thức cụ_thể sẽ có_khi chúng_ta truy_cập 2 website trên 
-8,hiện chỉ có việc đổi gplx quốc_tế được thực_hiện qua internet  và điều_kiện cần là gplx nội_địa 
-9,còn gplx nội_địa vẫn cần thực_hiện theo cách truyền_thống để các cán_bộ phụ_trách có_thể xác_thực điều_kiện sức_khoẻ thực_tế của người tham_gia 
-10,sau khi người dùng đăng_ký  cán_bộ nghiệp_vụ sẽ kiểm_tra hồ_sơ và thông_báo kết_quả qua hòm_thư_điện_tử 
-11,các thức cụ_thể sẽ có_khi chúng_ta truy_cập 2 website trên 
+0,nay người nhu_cầu cấp giấy_phép lái_xe quốc_tế đăng_ký khai_báo nhà website wwwdrvngovvn hoặc wwwdichvuconggplxgovvn 8000
+1,kết_quả hoàn_thành hệ_thống cung_cấp dịch_vụ công mức_độ 4 cấp gplx quốc_tế
+2,quy_trình đăng_ký dịch_vụ công mức_độ 4 cấp gplx quốc_tế gồm 4 bước bước 1 khai_báo thông_tin hồ_sơ trực_tuyến đăng_ký địa_chỉ nhận chuyển phát kết_quả gplx quốc_tế bước 2 thực_hiện thanh_toán trực_tuyến phí lệ_phí cổng thanh_toán trực_tuyến thành_công bước 3 nhận kết_quả thông_báo kết_quả xác_nhận hồ_sơ địa_chỉ hòm_thư đăng_ký bước 4 hồ_sơ hợp_lệ nhận kết_quả chuyển phát gplx quốc_tế địa_chỉ đăng_ký
+3,điều_kiện yêu_cầu sử_dụng dịch_vụ người dùng gplx bằng vật_liệu pet còn giá_trị sử_dụng trong cơ_sở dữ_liệu gplx toàn_quốc
+4,chuẩn_bị tài_liệu ảnh chụp mặt gplx_pet ảnh chụp hộ_chiếu trang ảnh sinh ảnh chân_dung nền xanh hoặc trắng
+5,tài_khoản ngân_hàng thực_hiện giao_dịch trực_tuyến
+6,người dùng đăng_ký cán_bộ nghiệp_vụ kiểm_tra hồ_sơ thông_báo kết_quả hòm_thư_điện_tử
+7,thức cụ_thể có_khi chúng_ta truy_cập 2 website
+8,hiện đổi gplx quốc_tế thực_hiện internet điều_kiện gplx nội_địa
+9,còn gplx nội_địa thực_hiện cách truyền_thống cán_bộ phụ_trách xác_thực điều_kiện sức_khoẻ thực_tế người tham_gia
+10,người dùng đăng_ký cán_bộ nghiệp_vụ kiểm_tra hồ_sơ thông_báo kết_quả hòm_thư_điện_tử
+11,thức cụ_thể có_khi chúng_ta truy_cập 2 website

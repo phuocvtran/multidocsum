@@ -1,8 +1,8 @@
 idx, sentence
-0,3 năm liên_tiếp  tính tới năm 2015  lượng đầu_tư trực_tiếp nước_ngoài từ nhật_bản tới 10 quốc_gia thành_viên asean đã vượt qua số tiền đầu_tư vào trung_quốc và hong_kong  theo số_liệu từ cơ_quan ngoại_thương nhật_bản 
-1,bên_cạnh đó  tốc_độ đầu_tư vào khu_vực đông_nam_á cũng gia_tăng nhanh_chóng 
-2,so với 5 năm trước đây  lượng đầu_tư từ nhật_bản vào asean đã tăng gần gấp 3 lần  lên mức 201 nghìn tỷ yên  1089 tỷ usd  tính tới cuối năm_ngoái  theo số_liệu của ngân_hàng trung_ương nhật_bản 
-3,trong khi đó  đầu_tư từ nhật_bản vào trung_quốc tăng_trưởng chậm nhất kể từ năm 2012 
-4,trong bối_cảnh nền kinh_tế nhật giảm tốc  tình_trạng dân_số già và suy_giảm  các công_ty nhật_bản phải tích_cực tìm_kiếm cơ_hội tăng_trưởng tại các thị_trường châu_á  mà đông_nam_á là khu_vực có nhiều lợi_thế  nhờ dân_số trẻ  tiền công lao_động thấp 
-5,ma_tieying  nhà kinh_tế học tại dbs_group_holdings  singapore  nhận_định  sự mở_cửa của các nền kinh_tế đông_nam_á cùng với việc chi_phí lao_động tại khu_vực này thấp hơn so với trung_quốc đã thu_hút nhà_đầu_tư tới từ nhật_bản 
-6,một khảo_sát các nhà_sản_xuất nhật_bản được thực_hiện cuối năm 2015 về xu_hướng đầu_tư cho thấy  có 48  nhà_sản_xuất được hỏi có ý_định đầu_tư hoặc mở_rộng kinh_doanh tại trung_quốc  so với 73  năm 2011 
+0,3 năm liên_tiếp tính tới năm 2015 lượng đầu_tư trực_tiếp nước_ngoài nhật_bản tới 10 quốc_gia thành_viên asean vượt số tiền đầu_tư trung_quốc hong_kong số_liệu cơ_quan ngoại_thương nhật_bản
+1,bên_cạnh tốc_độ đầu_tư khu_vực đông_nam_á gia_tăng nhanh_chóng
+2,5 năm lượng đầu_tư nhật_bản asean tăng gần gấp 3 lần mức 201 nghìn tỷ yên 1089 tỷ usd tính tới cuối năm_ngoái số_liệu ngân_hàng trung_ương nhật_bản
+3,trong đầu_tư nhật_bản trung_quốc tăng_trưởng chậm nhất kể năm 2012
+4,trong bối_cảnh nền kinh_tế nhật giảm tốc tình_trạng dân_số già suy_giảm công_ty nhật_bản tích_cực tìm_kiếm cơ_hội tăng_trưởng thị_trường châu_á đông_nam_á khu_vực lợi_thế nhờ dân_số trẻ tiền công lao_động thấp
+5,ma_tieying nhà kinh_tế học dbs_group_holdings singapore nhận_định mở_cửa nền kinh_tế đông_nam_á chi_phí lao_động khu_vực thấp hơn trung_quốc thu_hút nhà_đầu_tư tới nhật_bản
+6,một khảo_sát nhà_sản_xuất nhật_bản thực_hiện cuối năm 2015 về xu_hướng đầu_tư thấy 48 nhà_sản_xuất hỏi ý_định đầu_tư hoặc mở_rộng kinh_doanh trung_quốc 73 năm 2011

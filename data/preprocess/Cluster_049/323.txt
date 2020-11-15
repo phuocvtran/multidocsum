@@ -1,4 +1,4 @@
 idx, sentence
-0,chiều qua 195  tại cảng gò_dầu  công_ty cp cảng ðồng_nai đã tổ_chức tiếp_nhận tàu lowlands_sky quốc_tịch panama  trọng_tải 32279_dwt  tổng trọng_tải 32279 tấn   dài 177 m chở 21000 tấn than đá nhập_khẩu từ indonesia 
-1,ðây là tàu có trọng_tải và chiều dài lớn nhất lần đầu_tiên cập cảng kể từ tháng 92015  khi cảng gò_dầu đưa vào vận_hành bến tàu 30000 dwt gồm một cầu chính dài 460 m  rộng 22 m và hai cầu dẫn có năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa mỗi năm 
-2,công_trình cầu_cảng này có tổng mức đầu_tư 190 tỷ đồng  nhằm nâng cao năng_lực xếp_dỡ hàng_hóa cho cảng ðồng_nai 
+0,chiều 195 cảng gò_dầu công_ty cp cảng ðồng_nai tổ_chức tiếp_nhận tàu lowlands_sky quốc_tịch panama trọng_tải 32279_dwt tổng trọng_tải 32279 tấn dài 177 m chở 21000 tấn than đá nhập_khẩu indonesia
+1,ðây tàu trọng_tải chiều dài lớn nhất lần đầu_tiên cập cảng kể tháng 92015 cảng gò_dầu đưa vận_hành bến tàu 30000 dwt gồm một cầu chính dài 460 m rộng 22 m hai cầu dẫn năng_lực bốc_xếp gần 44 triệu tấn hàng_hóa năm
+2,công_trình cầu_cảng tổng mức đầu_tư 190 tỷ đồng nhằm nâng cao năng_lực xếp_dỡ hàng_hóa cảng ðồng_nai

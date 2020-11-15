@@ -1,5 +1,5 @@
 idx, sentence
-0,cies football_observatory đã căn_cứ vào nhiều tiêu_chí như tuổi_tác  thời_hạn còn lại trong hợp_đồng  vị_trí thi_đấu  phong_độ  tiền_sử chấn_thương  kinh_nghiệm thi_đấu  đóng_góp cho câu_lạc_bộ cũng như đội_tuyển quốc_gia để tính_toán giá_trị của 100 cầu_thủ ở châu_âu 
-1,kết_quả cho thấy lionel_messi là cầu_thủ đắt_giá nhất  với giá_trị ước_tính là 2111 triệu euro 
-2,xếp thứ 2 trong danh_sách này là neymar với giá 2015 triệu euro trong khi giá_trị của ronaldo chỉ là 1378 triệu euro mà thôi 
-3,có_thể thấy dù đang có phong_độ cao như những mùa bóng vừa_qua nhưng tuổi_tác đã ảnh_hưởng lớn đến siêu_sao người bồ 
+0,cies football_observatory căn_cứ tiêu_chí tuổi_tác thời_hạn còn trong hợp_đồng vị_trí thi_đấu phong_độ tiền_sử chấn_thương kinh_nghiệm thi_đấu đóng_góp câu_lạc_bộ đội_tuyển quốc_gia tính_toán giá_trị 100 cầu_thủ ở châu_âu
+1,kết_quả thấy lionel_messi cầu_thủ đắt_giá nhất giá_trị ước_tính 2111 triệu euro
+2,xếp thứ 2 trong danh_sách neymar giá 2015 triệu euro trong giá_trị ronaldo 1378 triệu euro thôi
+3,thấy dù phong_độ cao mùa bóng vừa_qua tuổi_tác ảnh_hưởng lớn đến siêu_sao người bồ

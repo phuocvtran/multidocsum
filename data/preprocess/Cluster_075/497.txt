@@ -1,9 +1,9 @@
 idx, sentence
-0,thị_trường phú_quốc đã bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở được cải_thiện mạnh_mẽ 
-1,tính đến quý 12016  thị_trường này có hơn 1700 căn từ 6 dự_án biệt_thự và 1 dự_án căn_hộ  nhờ tình_hình du_lịch phát_triển và nhiều chính_sách hỗ_trợ  thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc đã thu_hút nhiều nhà_đầu_tư 
-2,tính đến quý 1  phân khúc biệt_thự đã bán được 65  và phân khúc căn_hộ đã bán được 35  
-3,tuy_nhiên  hầu_hết các dự_án tương_lai vẫn đang trong quy_hoạch vì chính_quyền địa_phương thường_xuyên thay_đổi chính_sách và quy_hoạch chung của đảo 
-4,chỉ có ba dự_án mới và giai_đoạn kế_tiếp của ba dự_án hiện_hữu công_bố là sẽ gia_nhập thị_trường kể từ quý 2/2016 trở đi  cung_cấp hơn 660 căn 
-5,bên_cạnh các dự_án biệt_thự và chung_cư  savills cho biết  về thị_trường khách_sạn  đến quý 12016 chỉ có 33  tổng cung trên đảo  tương_đương 2500 phòng  được xếp_hạng 3 đến 5 sao 
-6,60  trong số đó chỉ vừa_mới hoạt_động trong hai năm qua sau khi sân_bay quốc_tế phú_quốc hoàn_thành 
-7,đa_số các khách_sạn phú_quốc là của người địa_phương và có quy_mô nhỏ  chỉ một_ít được xếp_hạng và quản_lý chuyên_nghiệp 
+0,thị_trường phú_quốc bắt_đầu trở_nên sôi_động nhờ hạ_tầng_cơ_sở cải_thiện mạnh_mẽ
+1,tính đến quý 12016 thị_trường hơn 1700 căn 6 dự_án biệt_thự 1 dự_án căn_hộ nhờ tình_hình du_lịch phát_triển chính_sách hỗ_trợ thị_trường bất_động_sản nghỉ_dưỡng ở phú_quốc thu_hút nhà_đầu_tư
+2,tính đến quý 1 phân khúc biệt_thự bán 65 phân khúc căn_hộ bán 35
+3,tuy_nhiên hầu_hết dự_án tương_lai trong quy_hoạch chính_quyền địa_phương thường_xuyên thay_đổi chính_sách quy_hoạch chung đảo
+4,ba dự_án mới giai_đoạn kế_tiếp ba dự_án hiện_hữu công_bố gia_nhập thị_trường kể quý 2/2016 trở đi cung_cấp hơn 660 căn
+5,bên_cạnh dự_án biệt_thự chung_cư savills biết về thị_trường khách_sạn đến quý 12016 33 tổng cung đảo tương_đương 2500 phòng xếp_hạng 3 đến 5 sao
+6,60 trong số vừa_mới hoạt_động trong hai năm sân_bay quốc_tế phú_quốc hoàn_thành
+7,đa_số khách_sạn phú_quốc người địa_phương quy_mô nhỏ một_ít xếp_hạng quản_lý chuyên_nghiệp

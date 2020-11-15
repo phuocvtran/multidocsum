@@ -1,9 +1,9 @@
 idx, sentence
-0,chiều ngày 36  cơ_quan điều_tra công_an huyện an_minh  tỉnh kiên_giang cho biết vào_khoảng 4 giờ cùng ngày  trên địa_bàn ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang xảy ra một vụ án_mạng nghiêm_trọng 
-1,nạn_nhân là chị trần_thị_tuyết_mai  49 tuổi  hộ_khẩu thường_trú ấp bình_đông i  xã bình_thạnh_đông  huyện phú_tân  tỉnh an_giang 
-2,theo thông_tin ban_đầu  chị trần_thị_tuyết_mai và lê_văn_nhỏ  62 tuổi  hộ_khẩu thường_trú ấp thạnh_phong  xã đông_thạnh  huyện an_minh  tỉnh kiên_giang  sống với nhau như vợ_chồng từ đầu năm 2016 đến nay 
-3,thời_gian gần đây  cả hai thường_xuyên xảy ra mâu_thuẫn vì lê_văn_nhỏ ghen_tuông  nghi_ngờ chị mai ngoại_tình 
-4,rạng sáng nay  36   trong lúc chị mai đang ngủ  nhỏ đã dùng búa_chém chết chị mai rồi uống thuốc sâu tự_tử 
-5,sự_việc được người dân phát_hiện và đưa nhỏ đi cấp_cứu tại bệnh_viện đa_khoa an_minh 
-6,tại đây các bác_sĩ đã tiến_hành bơm rửa dạ_dày  bơm than hoạt_tính để giải_độc và chuyển lên bệnh_viện đa_khoa tỉnh kiên_giang để theo_dõi 
-7,bác_sĩ tô_minh_thắng  phó_trưởng khoa cấp_cứu tổng_hợp bệnh_viện đa_khoa tỉnh kiên_giang cho biết hiện sức_khoẻ của nghi can  cuồng ghen giết người tình  lê_văn_nhỏ đã ổn_định  đang được theo_dõi ở khoa hồi_sức chống độc 
+0,chiều ngày 36 cơ_quan điều_tra công_an huyện an_minh tỉnh kiên_giang biết vào_khoảng 4 giờ ngày địa_bàn ấp thạnh_phong xã đông_thạnh huyện an_minh tỉnh kiên_giang xảy một vụ án_mạng nghiêm_trọng
+1,nạn_nhân chị trần_thị_tuyết_mai 49 tuổi hộ_khẩu thường_trú ấp bình_đông i xã bình_thạnh_đông huyện phú_tân tỉnh an_giang
+2,thông_tin ban_đầu chị trần_thị_tuyết_mai lê_văn_nhỏ 62 tuổi hộ_khẩu thường_trú ấp thạnh_phong xã đông_thạnh huyện an_minh tỉnh kiên_giang sống nhau vợ_chồng đầu năm 2016 đến nay
+3,thời_gian gần hai thường_xuyên xảy mâu_thuẫn lê_văn_nhỏ ghen_tuông nghi_ngờ chị mai ngoại_tình
+4,rạng sáng nay 36 trong chị mai ngủ nhỏ dùng búa_chém chết chị mai uống thuốc sâu tự_tử
+5,sự_việc người dân phát_hiện đưa nhỏ đi cấp_cứu bệnh_viện đa_khoa an_minh
+6,bác_sĩ tiến_hành bơm rửa dạ_dày bơm than hoạt_tính giải_độc chuyển bệnh_viện đa_khoa tỉnh kiên_giang theo_dõi
+7,bác_sĩ tô_minh_thắng phó_trưởng khoa cấp_cứu tổng_hợp bệnh_viện đa_khoa tỉnh kiên_giang biết hiện sức_khoẻ nghi can cuồng ghen giết người tình lê_văn_nhỏ ổn_định theo_dõi ở khoa hồi_sức chống độc

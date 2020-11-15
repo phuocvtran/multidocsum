@@ -1,7 +1,7 @@
 idx, sentence
-0,khoảng 14 h30  ngày 1/6  tại tầng 4 nhà_hàng trúc_lâm_trai  39 phố lê_ngọc_hân   ngọn lửa bất_ngờ bùng_cháy 
-1,theo nhân_viên nhà_hàng này  tầng 4 là khu_vực bếp 
-2,khi phát_hiện cháy  một_số người đã dùng các bình_chữa_cháy cá_nhân để dập lửa nhưng ngọn lửa vẫn lan nhanh xuống tầng 2  làm dây_điện trong nhà_hàng cháy khét_lẹt  khói đen mù_mịt khiến nhiều người hoảng_loạn tháo_chạy 
-3,ngay sau khi nhận được tin báo từ người dân  lực_lượng cảnh_sát phòng cháy chữa cháy tp hà_nội đã huy_động 3 xe chữa_cháy và 1 xe chở nước đến hiện_trường dập lửa 
-4,vụ hỏa_hoạn đã được khống_chế và dập_tắt hoàn_toàn vào 15 h5  cùng ngày 
-5,rất may  vụ hỏa_hoạn không gây thiệt_hại về người nhưng toàn_bộ tầng 4 của nhà_hàng cơm_chay trúc_lâm_trai bị  bà hỏa  thiêu rụi 
+0,khoảng 14 h30 ngày 1/6 tầng 4 nhà_hàng trúc_lâm_trai 39 phố lê_ngọc_hân ngọn lửa bất_ngờ bùng_cháy
+1,nhân_viên nhà_hàng tầng 4 khu_vực bếp
+2,phát_hiện cháy một_số người dùng bình_chữa_cháy cá_nhân dập lửa ngọn lửa lan nhanh xuống tầng 2 làm dây_điện trong nhà_hàng cháy khét_lẹt khói đen mù_mịt khiến người hoảng_loạn tháo_chạy
+3,nhận tin báo người dân lực_lượng cảnh_sát phòng cháy chữa cháy tp hà_nội huy_động 3 xe chữa_cháy 1 xe chở nước đến hiện_trường dập lửa
+4,vụ hỏa_hoạn khống_chế dập_tắt hoàn_toàn 15 h5 ngày
+5,may vụ hỏa_hoạn gây thiệt_hại về người toàn_bộ tầng 4 nhà_hàng cơm_chay trúc_lâm_trai bà hỏa thiêu rụi

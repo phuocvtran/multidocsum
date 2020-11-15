@@ -1,13 +1,13 @@
 idx, sentence
-0,theo independent đã có 18 phụ_nữ tới trình_báo cảnh_sát về việc họ bị tấn_công tình_dục tại một lễ_hội âm_nhạc 
-1,ba thanh_niên người pakistan  độ tuổi từ 2831 đã bị bắt và cảnh_sát cho biết vẫn đang truy_lùng thêm ba người nữa có_thể có liên_quan 
-2,các vụ tấn_công này tương_tự với những vụ từng xảy ra tại cologne và các thành_phố khác của đức trong dịp mừng năm mới năm nay 
-3,khi đó có khoảng 1000 phụ_nữ bị quấy_rối và cướp_bóc 
-4,lần này cảnh_sát cho biết có ba phụ_nữ trình_báo họ bị tấn_công tại lễ_hội âm_nhạc schlossgrabenfest tại darmstadt 
-5,theo đó họ bị một nhóm đàn_ông bao_vây và tấn_công tình_dục 
-6,tới hôm_qua  315  lại có thêm 15 phụ_nữ khác tới trình_báo cảnh_sát việc họ cũng bị tấn_công tình_dục theo cách_thức tương_tự tại lễ_hội âm_nhạc 
-7,ba người đàn_ông nhập_cư pakistan bị bắt 
-8,tất_cả đều bị_cáo buộc tội tấn_công tình_dục 
-9,cảnh_sát đức cho rằng số người khiếu_kiện có_thể còn tăng và đang truy_lùng thêm hai hoặc ba đối_tượng khác 
-10,nhiều người trong số nghi_phạm bị_cáo_buộc là người bắc_phi hoặc người ả_rập 
-11,các vụ tấn_công tình_dục tiếp_tục làm dấy lên phong_trào phản_đối người tị_nạn trên toàn châu_âu 
+0,independent 18 phụ_nữ tới trình_báo cảnh_sát về họ tấn_công tình_dục một lễ_hội âm_nhạc
+1,ba thanh_niên người pakistan độ tuổi 2831 bắt cảnh_sát biết truy_lùng thêm ba người liên_quan
+2,vụ tấn_công tương_tự vụ xảy cologne thành_phố khác đức trong dịp mừng năm mới năm nay
+3,khoảng 1000 phụ_nữ quấy_rối cướp_bóc
+4,lần cảnh_sát biết ba phụ_nữ trình_báo họ tấn_công lễ_hội âm_nhạc schlossgrabenfest darmstadt
+5,họ một nhóm đàn_ông bao_vây tấn_công tình_dục
+6,tới hôm_qua 315 thêm 15 phụ_nữ khác tới trình_báo cảnh_sát họ tấn_công tình_dục cách_thức tương_tự lễ_hội âm_nhạc
+7,ba người đàn_ông nhập_cư pakistan bắt
+8,tất_cả bị_cáo buộc tội tấn_công tình_dục
+9,cảnh_sát đức số người khiếu_kiện còn tăng truy_lùng thêm hai hoặc ba đối_tượng khác
+10,người trong số nghi_phạm bị_cáo_buộc người bắc_phi hoặc người ả_rập
+11,vụ tấn_công tình_dục tiếp_tục làm dấy phong_trào phản_đối người tị_nạn toàn châu_âu

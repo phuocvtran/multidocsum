@@ -1,10 +1,10 @@
 idx, sentence
-0,hôm_qua 2/6  chủ_tịch yokohama_fc_koji_kitawaga đã có buổi làm_việc với bầu đức 
-1,tại đây  hai bên đã bàn_bạc về hiệu_quả của hợp_đồng tuấn_anh cùng chuyện mở_rộng hợp_tác trong tương_lai 
-2,phía clb nhật_bản giải_thích lí_do tiền_vệ người thái_bình chưa_thể ra sân tại jleague 2   tuấn_anh hiện có 3 nhược_điểm 
-3,thứ nhất là tiếng nhật của anh chưa thực tốt 
-4,thứ hai là thể_lực  tuấn_anh cần thêm thời_gian để tích_lũy thể_lực nhằm đáp_ứng nhu_cầu ở môi_trường jleague 2 
-5,cuối_cùng là khả_năng phòng_ngự  
-6,ông koji_kitawaga tin_tưởng tuấn_anh sẽ sớm vượt qua các rào_cản trước_mắt và có_thể thi_đấu một_cách thường_xuyên cho yokohama_fc từ khoảng tháng 7  8 năm nay 
-7,đội_bóng này đang đề_nghị được gia_hạn hợp_đồng với tiền_vệ 21 tuổi thêm ít_nhất một năm nữa 
-8,thậm_chí nếu được  yokohama_fc còn muốn gắn_bó cùng tuấn_anh những 10 năm 
+0,hôm_qua 2/6 chủ_tịch yokohama_fc_koji_kitawaga buổi làm_việc bầu đức
+1,hai bên bàn_bạc về hiệu_quả hợp_đồng tuấn_anh mở_rộng hợp_tác trong tương_lai
+2,phía clb nhật_bản giải_thích lí_do tiền_vệ người thái_bình chưa_thể sân jleague 2 tuấn_anh hiện 3 nhược_điểm
+3,thứ nhất tiếng nhật anh thực tốt
+4,thứ hai thể_lực tuấn_anh thêm thời_gian tích_lũy thể_lực nhằm đáp_ứng nhu_cầu ở môi_trường jleague 2
+5,cuối_cùng khả_năng phòng_ngự
+6,ông koji_kitawaga tin_tưởng tuấn_anh sớm vượt rào_cản trước_mắt thi_đấu thường_xuyên yokohama_fc khoảng tháng 7 8 năm nay
+7,đội_bóng đề_nghị gia_hạn hợp_đồng tiền_vệ 21 tuổi thêm ít_nhất một năm
+8,thậm_chí yokohama_fc còn muốn gắn_bó tuấn_anh 10 năm

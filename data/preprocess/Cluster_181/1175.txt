@@ -1,13 +1,13 @@
 idx, sentence
-0,ông hodgson đã triệu_tập chân sút mới 18 tuổi của man_utd_– rashford lên tuyển vào phút chót  sau khi quyết_định đem tới pháp 5 tiền_đạo 
-1,ngoài kane  rooney  vardy  chiến_lược gia 69 tuổi này đặt niềm tin vào rashford – cầu_thủ mới được man_utd gia_hạn hợp_đồng 4 năm 
-2,marcus rashford đã có màn ra_mắt rất ấn_tượng với pha ghi_bàn ngay trong trận đầu lên tuyển gặp australia 
-3,tuy mới 18 tuổi nhưng cầu_thủ này thi_đấu rất ổn_định  phong_thái điềm_tĩnh và đặc_biệt là khả_năng chọn vị_trí để ghi_bàn 
-4,có_lẽ chính nhờ vậy  rashford đã lọt vào tầm ngắm của hlv hodgson 
-5,ngoài rashford  daniel_sturridge cũng được ông hodgson giữ lại cho_dù tiền_đạo của liverpool chưa bình_phục chấn_thương 
-6,để rút_gọn danh_sách xuống còn 23 cầu_thủ gửi lên liên_đoàn bóng_đá_châu_âu  uefa   ông hodgons loại 2 cầu_thủ đang thi_đấu khá lên_chân là danny_drinkwater và andros_townsend 
-7,như_vậy  với danh_sách vừa được gửi lên uefa  tuyển anh sẽ dự euro 2016 với đội_hình trẻ nhất mà họ từng sử_dụng tại ngày_hội của bóng_đá châu_âu với độ tuổi trung_bình dưới 26 
-8,anh cũng là đội_tuyển trẻ_trung_nhất tại kỳ euro lần này 
-9,danh_sách 23 tuyển_thủ anh dự euro 2016 thủ_môn  3   joe_hart  manchester_city   tom_heaton  burnley   fraser_forster  southampton  
-10,hậu_vệ  7   john_stones  everton   nathaniel_clyne  liverpool   chris_smalling  manchester_united   ryan_bertrand  southampton   kyle_walker  tottenham   gary_cahill  chelsea   danny_rose  tottenham  
-11,tiền_vệ  8   adam_lallana  liverpool   dele_alli  tottenham   jordan_henderson  liverpool   raheem_sterling  man_city   ross_barkley  everton   eric_dier  tottenham   jack_wilshere  arsenal   james_milner  liverpool  
+0,ông hodgson triệu_tập chân sút mới 18 tuổi man_utd_– rashford tuyển phút chót quyết_định đem tới pháp 5 tiền_đạo
+1,ngoài kane rooney vardy chiến_lược gia 69 tuổi đặt niềm tin rashford – cầu_thủ mới man_utd gia_hạn hợp_đồng 4 năm
+2,marcus rashford màn ra_mắt ấn_tượng pha ghi_bàn trong trận đầu tuyển gặp australia
+3,tuy mới 18 tuổi cầu_thủ thi_đấu ổn_định phong_thái điềm_tĩnh đặc_biệt khả_năng chọn vị_trí ghi_bàn
+4,có_lẽ chính nhờ rashford lọt tầm ngắm hlv hodgson
+5,ngoài rashford daniel_sturridge ông hodgson giữ cho_dù tiền_đạo liverpool bình_phục chấn_thương
+6,rút_gọn danh_sách xuống còn 23 cầu_thủ gửi liên_đoàn bóng_đá_châu_âu uefa ông hodgons loại 2 cầu_thủ thi_đấu khá lên_chân danny_drinkwater andros_townsend
+7,như_vậy danh_sách gửi uefa tuyển anh dự euro 2016 đội_hình trẻ nhất họ sử_dụng ngày_hội bóng_đá châu_âu độ tuổi trung_bình 26
+8,anh đội_tuyển trẻ_trung_nhất kỳ euro lần
+9,danh_sách 23 tuyển_thủ anh dự euro 2016 thủ_môn 3 joe_hart manchester_city tom_heaton burnley fraser_forster southampton
+10,hậu_vệ 7 john_stones everton nathaniel_clyne liverpool chris_smalling manchester_united ryan_bertrand southampton kyle_walker tottenham gary_cahill chelsea danny_rose tottenham
+11,tiền_vệ 8 adam_lallana liverpool dele_alli tottenham jordan_henderson liverpool raheem_sterling man_city ross_barkley everton eric_dier tottenham jack_wilshere arsenal james_milner liverpool

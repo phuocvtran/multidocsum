@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 19/5  đại_diện cục cảnh_sát truy_nã tội_phạm  bộ công_an cho biết  đơn_vị phối_hợp với catp_hồ_chí_minh vừa bắt_giữ kwon_yonggil  34 tuổi  quốc_tịch hàn_quốc   theo lệnh truy_nã của ban tổng_thư_ký interpol với tội_danh vi_phạm luật xúc_tiến thể_thao 
-1,trước đó  cảnh_sát hàn_quốc đã gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil  có số hộ_chiếu m02376084  mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 12/4/2016 
-2,khẩn_trương áp_dụng các biện_pháp nghiệp_vụ  trưa 17/5  lực_lượng chức_năng phát_hiện một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã tại một khu chung_cư cao_cấp ở phường tân_phong  quận 7  tp hồ_chí_minh  đã triển_khai kế_hoạch rà_soát  xác_minh và bắt_giữ thành_công 
-3,theo lời khai ban_đầu của kwon_yonggil  anh ta cùng một_số đối_tượng thuê nhà tại việt_nam nhằm tổ_chức hoạt_động cờ_bạc 
-4,trước đó  2 đồng_phạm của kwon là oh_junghyun và kim_myụngun đã bị bắt khi vừa trở_về hàn_quốc 
-5,theo tài_liệu điều_tra của cơ_quan_chức_năng  nhóm đối_tượng quốc_tịch hàn_quốc này đã tổ_chức một trang_web đánh_bạc trực_tuyến từ tháng 3/2013 đến đầu tháng 11/2013 tại philippines  và từ tháng 11/2015 đến tháng 1/2016 tại việt_nam 
+0,ngày 19/5 đại_diện cục cảnh_sát truy_nã tội_phạm bộ công_an biết đơn_vị phối_hợp catp_hồ_chí_minh bắt_giữ kwon_yonggil 34 tuổi quốc_tịch hàn_quốc lệnh truy_nã ban tổng_thư_ký interpol tội_danh vi_phạm luật xúc_tiến thể_thao
+1,cảnh_sát hàn_quốc gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng kwon_yonggil số hộ_chiếu m02376084 mang lệnh truy_nã quốc_tế interpol_số a3102 / 42016 ngày 12/4/2016
+2,khẩn_trương áp_dụng biện_pháp nghiệp_vụ trưa 17/5 lực_lượng chức_năng phát_hiện một người hàn_quốc đặc_điểm giống đối_tượng truy_nã một khu chung_cư cao_cấp ở phường tân_phong quận 7 tp hồ_chí_minh triển_khai kế_hoạch rà_soát xác_minh bắt_giữ thành_công
+3,lời khai ban_đầu kwon_yonggil anh ta một_số đối_tượng thuê nhà việt_nam nhằm tổ_chức hoạt_động cờ_bạc
+4,2 đồng_phạm kwon oh_junghyun kim_myụngun bắt trở_về hàn_quốc
+5,tài_liệu điều_tra cơ_quan_chức_năng nhóm đối_tượng quốc_tịch hàn_quốc tổ_chức một trang_web đánh_bạc trực_tuyến tháng 3/2013 đến đầu tháng 11/2013 philippines tháng 11/2015 đến tháng 1/2016 việt_nam

@@ -1,12 +1,12 @@
 idx, sentence
-0,được biết  không lâu sau khi cùng mu lên_ngôi vô_địch fa_cup  ryan_giggs đã có kỳ nghỉ ngắn ngày tại dubai 
-1,trong ngày hôm_nay  huyền_thoại người xứ wales sẽ trở_lại manchester để có cuộc trò_chuyện chính_thức với hlv mourrinho trong tuần này để nói về quyết_định ra đi 
-2,thông_tin này được rất nhiều tờ báo lớn của anh đăng_tải trong ít giờ qua  trong đó có telegraph và the_mirror 
-3,theo tiết_lộ  nguyên_nhân khiến giggs quyết_định ra đi là do không còn được giữ chức trợ_lý hlv 
-4,như đã biết  sau khi hlv mourinho được bổ_nhiệm  giggs chỉ được mời giữ chức thành_viên trong bhl đội bóng  chức_danh thấp hơn vị_trí trợ_lý hlv hiện_tại ông đang làm 
-5,cụ_thể  đó là vai_trò kết_nối giữa đội u21 và đội 1 
-6,vị_trí trợ_lý tại mu ở mùa giải tới được mourinho giao cho cánh_tay_phải của ông những năm gần đây  rui_faria 
-7,ngoài_ra  trong thành_phần bhl của chiến_lược gia người bồ_đào_nha còn có thêm 2 trợ_lý thân_tín nữa là silvino_louro và hlv thể_lực carlos_lalin 
-8,năm 1987 khi mới 14 tuổi  giggs gia_nhập đội trẻ của mu
-9,huyền_thoại người xứ wales được đôn lên đội trẻ vào năm 1990 và từ đó có 24 năm liên_tục thi_đấu trong màu áo quỷ đỏ thành manchester 
-10,tháng 5/2014  giggs chính_thức treo giày  khép lại sự_nghiệp thi_đấu lẫy_lừng 
+0,biết lâu mu lên_ngôi vô_địch fa_cup ryan_giggs kỳ nghỉ ngắn ngày dubai
+1,trong ngày hôm_nay huyền_thoại người xứ wales trở_lại manchester cuộc trò_chuyện chính_thức hlv mourrinho trong tuần nói về quyết_định đi
+2,thông_tin tờ báo lớn anh đăng_tải trong ít giờ trong telegraph the_mirror
+3,tiết_lộ nguyên_nhân khiến giggs quyết_định đi còn giữ chức trợ_lý hlv
+4,biết hlv mourinho bổ_nhiệm giggs mời giữ chức thành_viên trong bhl đội bóng chức_danh thấp hơn vị_trí trợ_lý hlv hiện_tại ông làm
+5,cụ_thể vai_trò kết_nối giữa đội u21 đội 1
+6,vị_trí trợ_lý mu ở mùa giải tới mourinho giao cánh_tay_phải ông năm gần rui_faria
+7,ngoài_ra trong thành_phần bhl chiến_lược gia người bồ_đào_nha còn thêm 2 trợ_lý thân_tín silvino_louro hlv thể_lực carlos_lalin
+8,năm 1987 mới 14 tuổi giggs gia_nhập đội trẻ mu
+9,huyền_thoại người xứ wales đôn đội trẻ năm 1990 24 năm liên_tục thi_đấu trong màu áo quỷ đỏ thành manchester
+10,tháng 5/2014 giggs chính_thức treo giày khép sự_nghiệp thi_đấu lẫy_lừng

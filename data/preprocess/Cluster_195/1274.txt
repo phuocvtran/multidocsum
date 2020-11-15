@@ -1,9 +1,9 @@
 idx, sentence
-0,theo truyền_thông ấn_độ  đám cháy bắt_đầu xuất_hiện vào lúc 1 h30 sáng nay 31/5  theo giờ_địa_phương  tại kho đạn_dược trung_tâm ở pulgaon thuộc quận wardha  bang maharashtra  sau đó lan nhanh ra những khu_vực xung_quanh 
-1,vụ hỏa_hoạn đã cướp đi sinh_mạng của ít_nhất 20 người  trong đó có 2 quan_chức quân_đội ấn_độ 
-2,ngoài_ra  hàng chục người khác bị_thương cũng đã được đưa tới bệnh_viện cấp_cứu 
-3,trong số những người bị_thương có 17 quân_nhân thuộc cơ_quan an_ninh quốc_phòng  dsc   một_số người được cho là bị_thương nặng  hãng tin indian_express dẫn thông_tin từ một sĩ_quan_quân_đội ấn_độ cho biết 
-4,khoảng 1000 người dân sống tại khu_vực xảy ra hỏa_hoạn đã phải sơ_tán 
-5,devendra fadnavis  lãnh_đạo bang maharashtra  chia_sẻ với các nhà_báo rằng vụ hỏa_hoạn đã gây ra “ tổn_thất lớn về người và tài_sản ” 
-6,ông fadnavis cũng cho biết thêm rằng chính_quyền bang đang huy_động mọi nguồn_lực có_thể để kiểm_soát tình_hình  đảm_bảo tất_cả các bệnh_viện địa_phương đều được trang_bị đầy_đủ để cứu_chữa những người bị_thương 
-7,hiện các nhà_chức_trách vẫn đang tiến_hành điều_tra nguyên_nhân vụ_việc 
+0,truyền_thông ấn_độ đám cháy bắt_đầu xuất_hiện 1 h30 sáng nay 31/5 giờ_địa_phương kho đạn_dược trung_tâm ở pulgaon thuộc quận wardha bang maharashtra lan nhanh khu_vực xung_quanh
+1,vụ hỏa_hoạn cướp đi sinh_mạng ít_nhất 20 người trong 2 quan_chức quân_đội ấn_độ
+2,ngoài_ra hàng chục người khác bị_thương đưa tới bệnh_viện cấp_cứu
+3,trong số người bị_thương 17 quân_nhân thuộc cơ_quan an_ninh quốc_phòng dsc một_số người bị_thương nặng hãng tin indian_express dẫn thông_tin một sĩ_quan_quân_đội ấn_độ biết
+4,khoảng 1000 người dân sống khu_vực xảy hỏa_hoạn sơ_tán
+5,devendra fadnavis lãnh_đạo bang maharashtra chia_sẻ nhà_báo vụ hỏa_hoạn gây “ tổn_thất lớn về người tài_sản ”
+6,ông fadnavis biết thêm chính_quyền bang huy_động mọi nguồn_lực kiểm_soát tình_hình đảm_bảo tất_cả bệnh_viện địa_phương trang_bị đầy_đủ cứu_chữa người bị_thương
+7,hiện nhà_chức_trách tiến_hành điều_tra nguyên_nhân vụ_việc

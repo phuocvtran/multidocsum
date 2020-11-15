@@ -1,60 +1,60 @@
 idx, sentence
-0,cười ra nước_mắt khó_khăn của doanh_nghiệp trên bắt_đầu một năm trước  khi công_đoàn nhấn_mạnh việc thực_thi các điều_khoản trong thỏa ước lao_động tập_thể  yêu_cầu nhà_máy phải cung_cấp giấy_vệ_sinh đầy_đủ cho công_nhân 
-1,vấn_đề là  trong bối_cảnh đất_nước đang thiếu_thốn hầu_như tất_cả sản_phẩm cơ_bản  từ gạo  sữa  đến bao_cao_su  thì việc tìm thấy dù chỉ là một cuộn giấy_vệ_sinh cũng hết_sức khó_khăn ở venezuela  huống_hồ gì là cấp đủ cho hàng trăm công_nhân 
-2,ngay cả khi doanh_nghiệp xoay_xở được  thì công_nhân lập_tức lấy cắp giấy về nhà 
-3,dễ_hiểu  họ cũng không có giấy_vệ_sinh ở nhà 
-4,ăn_trộm giấy_vệ_sinh nghe có_vẻ giống như một trò_đùa  nhưng đó là vấn_đề nghiêm_trọng đối_với các doanh_nghiệp 
-5,không có giấy_vệ_sinh  công_ty sẽ đối_mặt với đình_công và có_thể sẽ bị tịch_thu vì “ đình_trệ sản_xuất ”  theo lệnh của tổng_thống nicolas_maduro 
-6,chủ doanh_nghiệp trên cuối_cùng tìm được một nhà cung_cấp ở thị_trường chợ_đen 
-7,họ sẽ chở giấy đến một lần  đủ để dùng trong vài tháng 
-8,giá cao_ngất_ngưởng  nhưng ông không có lựa_chọn khác  bởi công_ty đang gặp nguy 
-9,nhưng vấn_đề không được giải_quyết 
-10,ngay khi hàng vừa được giao  cảnh_sát chìm ập tới 
-11,họ thu_giữ giấy_vệ_sinh  tuyên_bố đã phá vỡ hoạt_động tích_trữ lớn 
-12,chủ doanh_nghiệp và ba nhà quản_lý cấp cao phải đối_mặt với án hình_sự 
-13,đây chỉ là một trong những ví_dụ điển_hình đằng sau những câu_chuyện nực_cười “ không có giấy_vệ_sinh ” tại venezuela 
-14,trong hai năm qua  venezuela đã chứng_kiến sự suy_sụp chưa bao_giờ xảy ra ở một nước thu_nhập trung_bình  không có chiến_tranh 
-15,các dịch_vụ công_cộng sụp_đổ  lạm_phát ba con_số khiến cho hơn 70  dân_số lâm vào cảnh nghèo_đói  tội_phạm bùng_phát  người dân phải xếp_hàng nhiều giờ để mua thực_phẩm  tỷ_lệ tử_vong đối_với trẻ_em  người già  người mắc bệnh_mãn_tính tăng cao vì thiếu thuốc_men và thiết_bị đơn_giản trong bệnh_viện  bi_kịch do con_người tại_sao lại như vậy 
-16,venezuela không thiếu tiền 
-17,nước này ngồi trên khối dự_trữ dầu_mỏ lớn hàng_đầu thế_giới 
-18,chính_phủ của cố tổng_thống hchavez và tiếp_nối từ năm 2013 là tổng_thống nicolas_maduro  đã thu được hàng ngàn tỉ đô_la từ dầu_mỏ trong 17 năm qua 
-19,mặc_dù giá dầu giảm mạnh là nguy_cơ_mà rất nhiều người đã nhìn thấy trước  còn chính_phủ lại không dự_liệu  nhưng điều đó vẫn khó có_thể giải_thích cho những gì đã xảy ra 
-20,thực_tế là sự sụp_đổ của venezuela bắt_đầu trước khi giá dầu giảm 
-21,từ năm 2014  khi giá dầu vẫn giao_dịch ở mức 100 đô_la mỹ / thùng  đất_nước đã đối_mặt với sự thiếu_hụt các sản_phẩm cơ_bản như bánh_mì  giấy_vệ_sinh 
-22,nguyên_nhân thực_sự  được xác_định  là do quản_lý kém  thể_chế bị hủy_hoại bởi những chính_sách độc_đoán 
-23,chính_phủ đã đổ tiền vào các khoản đầu_tư không hiệu_quả 
-24,việc hoạch_định chính_sách được thực_hiện trái khoa_học  chẳng_hạn như chính_sách kiểm_soát giá_cả và tiền_tệ 
-25,tình_trạng tham_nhũng gia_tăng  một ví_dụ điển_hình là chính_sách kiểm_soát giá_cả đối_với nhiều mặt_hàng từ thực_phẩm  dược_phẩm  dịch_vụ y_tế tới tã_lót và giấy_vệ_sinh 
-26,mục_đích của chính_phủ là giữ hàng_hóa có mức giá phải_chăng cho người nghèo 
-27,nhưng kết_quả là  người bán không đủ khả_năng cung_cấp hàng  còn hàng_hóa thì lập_tức biến mất ngay khi ra kệ 
-28,quỹ tiền_tệ quốc_tế dự_báo_giá_cả sẽ tăng 720  trong năm nay và tăng lên 2200  năm 2017 
-29,chính_phủ gần như cấp xăng miễn_phí cho dân  nhưng kết_quả là nhà_nước thiếu vốn  buộc phải in tiền để tài_trợ cho chi_tiêu của mình 
-30,người tiêu_dùng có tiền nhưng không có nguồn cung_cấp hàng_hóa  sẽ chìm trong vòng xoáy lạm_phát 
-31,có nhiều học_thuyết khác nhau về nguyên_nhân phá_hủy nền kinh_tế venezuela  nhưng nhìn_chung  đó là bi_kịch do con_người gây ra 
-32,hỗn_loạn tại venezuela  mối bận_tâm chính của các gia_đình là tìm_kiếm những thứ đáp_ứng yêu_cầu cơ_bản của cuộc_sống hàng ngày và nhiều khi đó là vấn_đề sống_còn 
-33,ở tuổi 14  maikel_mancilla_peña  phải chiến_đấu với bệnh động_kinh suốt sáu năm qua 
-34,tình_trạng của em được kiểm_soát chỉ nhờ vào một loại thuốc chống co_giật bình_thường  gọi là lamotrigine 
-35,nghe đơn_giản  nhưng từ lâu cả gia_đình đã phải tham_gia cuộc “ đấu_tranh ” thực_sự để có được thuốc 
-36,tháng 2 vừa_qua  mẹ của maikel đã cho con viên lamotrigine cuối_cùng trong nhà 
-37,những ngày sau đó  gia_đình em bất_lực chứng_kiến maikel lên_cơn co_giật 
-38,ngày 202  maikel bị suy hô_hấp và tử_vong 
-39,trường_hợp của maikel không phải duy_nhất 
-40,sự sụp_đổ của hệ_thống chăm_sóc sức_khỏe và sự khan_hiếm các loại thuốc khiến chi_phí cuộc_sống tăng cao 
-41,bệnh_nhân ung_thư không có thuốc hóa_trị 
-42,ngay cả bệnh sốt_rét  về cơ_bản đã biến mất từ lâu  giờ đang quay trở_lại và gây chết người 
-43,trong khi người venezuela đang chết_mòn vì thiếu những viên thuốc giá rẻ  thì chính_phủ lại chi hàng chục triệu đô la mỗi năm để vận_động_viên pastor_maldonado có_thể thi_đấu ở giải đua xe công_thức 1 
-44,công_ty dầu_khí nhà_nước pdvsa đã dành khoảng 45 triệu đô la / năm để maldonado tham_gia đua xe  dưới logo của doanh_nghiệp 
-45,tại_sao một công_ty dầu_khí độc_quyền lại cần phải quảng_cáo như vậy 
-46,câu trả_lời không bao_giờ rõ_ràng 
-47,chính_phủ venezuela hiện không đủ khả_năng để đảm_bảo an_ninh cho đất_nước 
-48,ngay tại thủ_đô caracas  bọn cướp đã lấy hết thực_phẩm dành cho trẻ_em ở trường nuestra_señora del carmen 
-49,tại nhiều nơi  việc cung_cấp thực_phẩm cho trường_học buộc phải ngừng hoạt_động vì chính_phủ không lo được 
-50,nhiều bậc cha_mẹ đã cho con nghỉ học  bởi họ cho rằng chúng sẽ hữu_ích hơn khi đứng xếp_hàng bên ngoài tiệm tạp_hóa  so với ngồi trong lớp 
-51,chưa dừng lại ở đó  viện y_học nhiệt_đới venezuela đã bị trộm viếng_thăm 11 lần trong hai tháng đầu_tiên của năm 2016 
-52,hai vụ cuối_cùng diễn ra trong vòng 48 giờ  khiến cho các phòng_thí_nghiệm không còn một chiếc kính_hiển_vi nào 
-53,kẻ_trộm càn_quét các phòng_thí_nghiệm  làm phân_tán mẫu virus nguy_hiểm và bào_tử nấm độc_hại vào không_khí 
-54,với điều_kiện như vậy  các nhà_nghiên_cứu không_thể_nào làm_việc được  và đất_nước tê_liệt phản_ứng trước sự bùng_phát của dịch zika 
-55,venezuela là quốc_gia nam_mỹ phải đối_mặt với dịch zika tồi_tệ nhất 
-56,trở_lại với doanh_nhân đang gặp khó vì những cuộn giấy_vệ_sinh 
-57,sau khi bị thu_giữ và cáo_buộc tàng_trữ hàng_hóa trái_phép  chủ doanh_nghiệp nhận ra rằng đây thực_chất là vụ tống_tiền 
-58,cảnh_sát chỉ quan_tâm đến tiền chứ không phải hành_vi tàng_trữ giấy 
+0,cười nước_mắt khó_khăn doanh_nghiệp bắt_đầu một năm công_đoàn nhấn_mạnh thực_thi điều_khoản trong thỏa ước lao_động tập_thể yêu_cầu nhà_máy cung_cấp giấy_vệ_sinh đầy_đủ công_nhân
+1,vấn_đề trong bối_cảnh đất_nước thiếu_thốn hầu_như tất_cả sản_phẩm cơ_bản gạo sữa đến bao_cao_su tìm thấy dù một cuộn giấy_vệ_sinh hết_sức khó_khăn ở venezuela huống_hồ cấp đủ hàng trăm công_nhân
+2,doanh_nghiệp xoay_xở công_nhân lập_tức lấy cắp giấy về nhà
+3,dễ_hiểu họ giấy_vệ_sinh ở nhà
+4,ăn_trộm giấy_vệ_sinh nghe có_vẻ giống một trò_đùa vấn_đề nghiêm_trọng đối_với doanh_nghiệp
+5,giấy_vệ_sinh công_ty đối_mặt đình_công tịch_thu “ đình_trệ sản_xuất ” lệnh tổng_thống nicolas_maduro
+6,chủ doanh_nghiệp cuối_cùng tìm một nhà cung_cấp ở thị_trường chợ_đen
+7,họ chở giấy đến một lần đủ dùng trong vài tháng
+8,giá cao_ngất_ngưởng ông lựa_chọn khác công_ty gặp nguy
+9,vấn_đề giải_quyết
+10,hàng giao cảnh_sát chìm ập tới
+11,họ thu_giữ giấy_vệ_sinh tuyên_bố phá vỡ hoạt_động tích_trữ lớn
+12,chủ doanh_nghiệp ba nhà quản_lý cấp cao đối_mặt án hình_sự
+13,một trong ví_dụ điển_hình đằng câu_chuyện nực_cười “ giấy_vệ_sinh ” venezuela
+14,trong hai năm venezuela chứng_kiến suy_sụp bao_giờ xảy ở một nước thu_nhập trung_bình chiến_tranh
+15,dịch_vụ công_cộng sụp_đổ lạm_phát ba con_số khiến hơn 70 dân_số lâm cảnh nghèo_đói tội_phạm bùng_phát người dân xếp_hàng giờ mua thực_phẩm tỷ_lệ tử_vong đối_với trẻ_em người già người mắc bệnh_mãn_tính tăng cao thiếu thuốc_men thiết_bị đơn_giản trong bệnh_viện bi_kịch con_người tại_sao
+16,venezuela thiếu tiền
+17,nước ngồi khối dự_trữ dầu_mỏ lớn hàng_đầu thế_giới
+18,chính_phủ cố tổng_thống hchavez tiếp_nối năm 2013 tổng_thống nicolas_maduro thu hàng ngàn tỉ đô_la dầu_mỏ trong 17 năm
+19,mặc_dù giá dầu giảm mạnh nguy_cơ_mà người nhìn thấy còn chính_phủ dự_liệu khó giải_thích xảy
+20,thực_tế sụp_đổ venezuela bắt_đầu giá dầu giảm
+21,năm 2014 giá dầu giao_dịch ở mức 100 đô_la mỹ / thùng đất_nước đối_mặt thiếu_hụt sản_phẩm cơ_bản bánh_mì giấy_vệ_sinh
+22,nguyên_nhân thực_sự xác_định quản_lý kém thể_chế hủy_hoại chính_sách độc_đoán
+23,chính_phủ đổ tiền khoản đầu_tư hiệu_quả
+24,hoạch_định chính_sách thực_hiện trái khoa_học chẳng_hạn chính_sách kiểm_soát giá_cả tiền_tệ
+25,tình_trạng tham_nhũng gia_tăng một ví_dụ điển_hình chính_sách kiểm_soát giá_cả đối_với mặt_hàng thực_phẩm dược_phẩm dịch_vụ y_tế tới tã_lót giấy_vệ_sinh
+26,mục_đích chính_phủ giữ hàng_hóa mức giá phải_chăng người nghèo
+27,kết_quả người bán đủ khả_năng cung_cấp hàng còn hàng_hóa lập_tức biến mất kệ
+28,quỹ tiền_tệ quốc_tế dự_báo_giá_cả tăng 720 trong năm nay tăng 2200 năm 2017
+29,chính_phủ gần cấp xăng miễn_phí dân kết_quả nhà_nước thiếu vốn buộc in tiền tài_trợ chi_tiêu mình
+30,người tiêu_dùng tiền nguồn cung_cấp hàng_hóa chìm trong vòng xoáy lạm_phát
+31,học_thuyết khác nhau về nguyên_nhân phá_hủy nền kinh_tế venezuela nhìn_chung bi_kịch con_người gây
+32,hỗn_loạn venezuela mối bận_tâm chính gia_đình tìm_kiếm thứ đáp_ứng yêu_cầu cơ_bản cuộc_sống hàng ngày vấn_đề sống_còn
+33,ở tuổi 14 maikel_mancilla_peña chiến_đấu bệnh động_kinh suốt sáu năm
+34,tình_trạng em kiểm_soát nhờ một loại thuốc chống co_giật bình_thường gọi lamotrigine
+35,nghe đơn_giản lâu gia_đình tham_gia cuộc “ đấu_tranh ” thực_sự thuốc
+36,tháng 2 vừa_qua mẹ maikel con viên lamotrigine cuối_cùng trong nhà
+37,ngày gia_đình em bất_lực chứng_kiến maikel lên_cơn co_giật
+38,ngày 202 maikel suy hô_hấp tử_vong
+39,trường_hợp maikel duy_nhất
+40,sụp_đổ hệ_thống chăm_sóc sức_khỏe khan_hiếm loại thuốc khiến chi_phí cuộc_sống tăng cao
+41,bệnh_nhân ung_thư thuốc hóa_trị
+42,bệnh sốt_rét về cơ_bản biến mất lâu giờ quay trở_lại gây chết người
+43,trong người venezuela chết_mòn thiếu viên thuốc giá rẻ chính_phủ chi hàng chục triệu đô la năm vận_động_viên pastor_maldonado thi_đấu ở giải đua xe công_thức 1
+44,công_ty dầu_khí nhà_nước pdvsa dành khoảng 45 triệu đô la / năm maldonado tham_gia đua xe logo doanh_nghiệp
+45,tại_sao một công_ty dầu_khí độc_quyền quảng_cáo
+46,câu trả_lời bao_giờ rõ_ràng
+47,chính_phủ venezuela hiện đủ khả_năng đảm_bảo an_ninh đất_nước
+48,thủ_đô caracas bọn cướp lấy hết thực_phẩm dành trẻ_em ở trường nuestra_señora del carmen
+49,cung_cấp thực_phẩm trường_học buộc ngừng hoạt_động chính_phủ lo
+50,bậc cha_mẹ con nghỉ học họ chúng hữu_ích hơn đứng xếp_hàng bên ngoài tiệm tạp_hóa ngồi trong lớp
+51,dừng ở viện y_học nhiệt_đới venezuela trộm viếng_thăm 11 lần trong hai tháng đầu_tiên năm 2016
+52,hai vụ cuối_cùng diễn trong vòng 48 giờ khiến phòng_thí_nghiệm còn một kính_hiển_vi nào
+53,kẻ_trộm càn_quét phòng_thí_nghiệm làm phân_tán mẫu virus nguy_hiểm bào_tử nấm độc_hại không_khí
+54,điều_kiện nhà_nghiên_cứu không_thể_nào làm_việc đất_nước tê_liệt phản_ứng bùng_phát dịch zika
+55,venezuela quốc_gia nam_mỹ đối_mặt dịch zika tồi_tệ nhất
+56,trở_lại doanh_nhân gặp khó cuộn giấy_vệ_sinh
+57,thu_giữ cáo_buộc tàng_trữ hàng_hóa trái_phép chủ doanh_nghiệp nhận thực_chất vụ tống_tiền
+58,cảnh_sát quan_tâm đến tiền hành_vi tàng_trữ giấy

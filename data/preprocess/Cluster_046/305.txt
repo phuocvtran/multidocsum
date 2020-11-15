@@ -1,28 +1,28 @@
 idx, sentence
-0,chiều ngày 20/5  tàu cá kh90297ts do ông huỳnh_phi_minh  xã phước_đồng  tp nha_trang  làm chủ tàu  đã cập cảng cá hòn_rớ  tp nha_trang  khánh_hòa  mang theo một con cá_ngừ vây xanh qúy hiếm 
-1,hàng trăm người dân hiếu kỳ đã đổ_xô đến xem khiến bến cảng đông_nghịt người 
-2,trao_đổi với phóng_viên dân_trí  ông minh cho biết  tàu cá do ông huỳnh_tấn_hải làm thuyền_trưởng  cùng 5 bạn thuyền cập bờ sau chuyến biển kéo_dài 18 ngày 
-3,ngoài trúng 15 tấn cá ngừ đại_dương  các ngư_dân còn câu được một con cá_ngừ vây xanh cực hiếm nên về bờ sớm 
-4,sau khi cập cảng hòn_rớ vào khoảng 15 h  chủ tàu đã liên_hệ với các đối_tác chuyên thu_mua cá_ngừ để bán 
-5,đến khoảng 17 h cùng ngày  các ngư_dân đã mở hầm bảo_quản để kéo con cá_ngừ “ đặc_biệt ” lên 
-6,từ trên bến cảng  một xe cẩu loại trung_bình đã được điều tới để cẩu con cá qua cảng 
-7,sau khoảng 30 phút neo buộc và di_chuyển  con cá_ngừ vây xanh đã được cẩu thành_công lên cảng cá hòn_rớ để các chuyên_gia của nhật_bản kiểm_tra chất_lượng 
-8,sau khi hoàn_tất việc kiểm_tra ban_đầu  con cá được đặt lên 4 bàn cân để xác_định trọng_lượng 
-9,cuối_cùng con cá được xác_định nặng 307 kg và được đưa ngay vào xe đông_lạnh để cấp đông 
-10,trao_đổi với phóng_viên dân_trí  bà nguyễn_thị_thu_thanh  giám_đốc công_ty hải_sản bền_vững  khánh_hòa   doanh_nghiệp thu_mua con cá cho biết  do ngư_dân không bảo_quản thành_công nên 2/3 con cá tính từ phần đầu đã không đảm_bảo chất_lượng nên giá cá đã bị giảm mạnh 
-11,“ từ đuôi lên 30 cm thì thịt cá có_thể ăn_sống được  nhưng phần trên đó thì cá bị hư 
-12,hiện có 3 chuyên_gia của nhật_bản đang ở đây và xác_định nó đúng là cá_ngừ vây xanh 
-13,nếu không hư thì giá bán loại cá này là 30 usd / kg  tương_đương 670 đồng / kg  nhưng do cá bị hư 2/3 tính từ đầu trở xuống nên chúng_tôi mua hỗ_trợ cho ngư_dân là 180 kg / kg ”  bà thanh cho biết 
-14,ngư_dân nguyễn_văn_công  thuyền_viên tàu cá nói trên cho biết  cách đây 6 ngày  con cá dính câu vào lúc 1 h sáng 
-15,đến khoảng 3 h sáng cùng ngày  2 ngư_dân nhảy xuống biển để buộc dây vào đuôi nhưng vì con cá quá to nên dây_buộc bị đứt rời khiến việc kéo lên bất_thành 
-16,“ đến sáng  chúng_tôi buộc dây_dù vào mang cá và huy_động máy_móc mới kéo được con cá lên tàu sau 8 giờ đồng_hồ ”  anh công_thuật lại 
-17,ngư_dân huỳnh_văn_ty  một thuyền_viên khác cho biết  chuyến biển câu được 28 con cá_ngừ đại_dương và con cá_ngừ vây xanh dính câu là con_thứ 29 
-18,“ sau khi câu được cá lớn và biết là quý nên anh_em kéo neo về bờ ”  anh ty nói 
-19,theo các ngư_dân  con cá_ngừ vây xanh nói trên được đánh_bắt ở vùng_biển hoàng_sa 
-20,“ trúng được con cá anh_em ai cũng mừng 
-21,chúng_tôi chưa hề trúng cá này bao_giờ ”  chủ tàu  ông huỳnh_phi_minh nói 
-22,được biết  trước đó  vào năm 2013  trong phiên đấu_giá tại chợ cá tsukiji của nhật_bản  con cá_ngừ vây xanh nặng 222 kg có giá lên đến 1554 triệu yên  tương_đương 18 triệu usd  khoảng 36 tỉ đồng  
-23,nhật_bản là nước tiêu_thụ đến 80  cá_ngừ vây xanh đánh_bắt được trên toàn thế_giới và một lượng lớn loại cá này từ khắp toàn_cầu cũng được vận_chuyển sang nhật_bản để tiêu_thụ 
-24,sushi là một trong những món ăn truyền_thống của nhật_bản 
-25,trong đó  sushi cá_ngừ  thường được biết tới với tên gọi kuro maguro  được xem là một trong những món đắt_đỏ nhất 
-26,đặc_biệt  cá ngừ vây xanh là thành_phần chính trong món sushi  kuro_maguro   cá_ngừ đen  ở nhật_bản và được những người sành_ăn sushi ưu_ái đặt tên là  kim_cương đen  vì độ quý_hiếm của nó 
+0,chiều ngày 20/5 tàu cá kh90297ts ông huỳnh_phi_minh xã phước_đồng tp nha_trang làm chủ tàu cập cảng cá hòn_rớ tp nha_trang khánh_hòa mang một con cá_ngừ vây xanh qúy hiếm
+1,hàng trăm người dân hiếu kỳ đổ_xô đến xem khiến bến cảng đông_nghịt người
+2,trao_đổi phóng_viên dân_trí ông minh biết tàu cá ông huỳnh_tấn_hải làm thuyền_trưởng 5 bạn thuyền cập bờ chuyến biển kéo_dài 18 ngày
+3,ngoài trúng 15 tấn cá ngừ đại_dương ngư_dân còn câu một con cá_ngừ vây xanh cực hiếm về bờ sớm
+4,cập cảng hòn_rớ khoảng 15 h chủ tàu liên_hệ đối_tác chuyên thu_mua cá_ngừ bán
+5,đến khoảng 17 h ngày ngư_dân mở hầm bảo_quản kéo con cá_ngừ “ đặc_biệt ”
+6,bến cảng một xe cẩu loại trung_bình tới cẩu con cá cảng
+7,khoảng 30 phút neo buộc di_chuyển con cá_ngừ vây xanh cẩu thành_công cảng cá hòn_rớ chuyên_gia nhật_bản kiểm_tra chất_lượng
+8,hoàn_tất kiểm_tra ban_đầu con cá đặt 4 bàn cân xác_định trọng_lượng
+9,cuối_cùng con cá xác_định nặng 307 kg đưa xe đông_lạnh cấp đông
+10,trao_đổi phóng_viên dân_trí bà nguyễn_thị_thu_thanh giám_đốc công_ty hải_sản bền_vững khánh_hòa doanh_nghiệp thu_mua con cá biết ngư_dân bảo_quản thành_công 2/3 con cá tính phần đầu đảm_bảo chất_lượng giá cá giảm mạnh
+11,“ đuôi 30 cm thịt cá ăn_sống phần cá hư
+12,hiện 3 chuyên_gia nhật_bản ở xác_định nó đúng cá_ngừ vây xanh
+13,hư giá bán loại cá 30 usd / kg tương_đương 670 đồng / kg cá hư 2/3 tính đầu trở xuống chúng_tôi mua hỗ_trợ ngư_dân 180 kg / kg ” bà thanh biết
+14,ngư_dân nguyễn_văn_công thuyền_viên tàu cá nói biết cách 6 ngày con cá dính câu 1 h sáng
+15,đến khoảng 3 h sáng ngày 2 ngư_dân nhảy xuống biển buộc dây đuôi con cá quá to dây_buộc đứt rời khiến kéo bất_thành
+16,“ đến sáng chúng_tôi buộc dây_dù mang cá huy_động máy_móc mới kéo con cá tàu 8 giờ đồng_hồ ” anh công_thuật
+17,ngư_dân huỳnh_văn_ty một thuyền_viên khác biết chuyến biển câu 28 con cá_ngừ đại_dương con cá_ngừ vây xanh dính câu con_thứ 29
+18,“ câu cá lớn biết quý anh_em kéo neo về bờ ” anh ty nói
+19,ngư_dân con cá_ngừ vây xanh nói đánh_bắt ở vùng_biển hoàng_sa
+20,“ trúng con cá anh_em ai mừng
+21,chúng_tôi hề trúng cá bao_giờ ” chủ tàu ông huỳnh_phi_minh nói
+22,biết năm 2013 trong phiên đấu_giá chợ cá tsukiji nhật_bản con cá_ngừ vây xanh nặng 222 kg giá đến 1554 triệu yên tương_đương 18 triệu usd khoảng 36 tỉ đồng
+23,nhật_bản nước tiêu_thụ đến 80 cá_ngừ vây xanh đánh_bắt toàn thế_giới một lượng lớn loại cá khắp toàn_cầu vận_chuyển sang nhật_bản tiêu_thụ
+24,sushi một trong món ăn truyền_thống nhật_bản
+25,trong sushi cá_ngừ thường biết tới tên gọi kuro maguro xem một trong món đắt_đỏ nhất
+26,đặc_biệt cá ngừ vây xanh thành_phần chính trong món sushi kuro_maguro cá_ngừ đen ở nhật_bản người sành_ăn sushi ưu_ái đặt tên kim_cương đen độ quý_hiếm nó

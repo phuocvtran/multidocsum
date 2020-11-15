@@ -1,18 +1,18 @@
 idx, sentence
-0,sau ba ngày đầu trình_chiếu tại 75 thị_trường quốc_tế  trong đó có việt_nam  xmen  apocalypse lập_tức thu 1033 triệu usd 
-1,phải tới ngày 27/5  bom tấn mới chính_thức khởi_chiếu tại quê nhà bắc mỹ 
-2,xmen  apocalypse dẫn_đầu tại 71 quốc_gia mà tác_phẩm có_mặt cuối tuần qua 
-3,phim giành thành_tích nổi_bật tại anh  105 triệu usd từ 1602 rạp   mexico  86 triệu usd từ 2676 rạp   brazil  66 triệu usd từ 1277 rạp   nga  65 triệu usd từ 1208 rạp  và pháp  59 triệu usd từ 792 rạp  
-4,đơn_vị phát_hành 20 th century_fox hoàn_toàn có_thể hài_lòng khi xmen  apocalypse còn lập kỷ_lục ra_mắt tính riêng trong nội_bộ hãng tại một_số quốc_gia châu_á như philippines  indonesia  ấn_độ  singapore và thái_lan 
-5,một trong những yếu_tố giúp bom tấn giành thành_tích cao là định_dạng phim 3d  chiếm tới 41  tổng_doanh_thu 
-6,trong xmen  apocalypse  dị_nhân đầu_tiên trong lịch_sử loài ngoài là apocalypse  oscar_isaac  bất_ngờ thức_tỉnh 
-7,hắn mang dã_tâm thanh tẩy thế_giới  đưa người đột_biến lên thống_trị muôn loài 
-8,song  giáo_sư x  james_mcavoy  và mystique  jennifer_lawrence  quyết không để điều đó xảy ra 
-9,bên cạnh bắc mỹ  tuần này xmen  apocalypse còn đặt_chân tới hàn_quốc  quốc_gia vốn nổi_tiếng yêu_thích các tác_phẩm siêu anh_hùng 
-10,còn với trung_quốc  thị_trường điện_ảnh lớn thứ hai thế_giới  các dị_nhân sẽ chính_thức xuất_quân từ 3/6 
-11,cũng nhờ chính hàn_quốc và trung_quốc mà trong cuối tuần qua  the_angry_birds_movie thu thêm 555 triệu usd ngoại địa và là tác_phẩm ăn_khách thứ hai tại các thị_trường quốc_tế 
-12,sau hai tuần trình_chiếu tại nước_ngoài  những chú chim điên hiện thu được hơn 112 triệu usd 
-13,cuối tuần qua  the_angry_birds_movie còn mới soán ngôi captain_america  civil_war tại bắc mỹ 
-14,nhắm đến đối_tượng khán_giả gia_đình  tác_phẩm của sony chắc_chắn sẽ còn hút khách cho tới khi finding_dory của pixar và disney ra rạp từ 17/6 
-15,sau một tháng trình_chiếu  captain_america  civil_war vẫn duy_trì phong_độ rất tốt khi có thêm 307 triệu usd ngoại địa cuối tuần qua 
-16,hiện tổng_doanh_thu toàn_cầu của siêu bom tấn là 105 tỷ usd  qua đó tạm_thời giữ chức phim ăn_khách nhất năm 2016 
+0,ba ngày đầu trình_chiếu 75 thị_trường quốc_tế trong việt_nam xmen apocalypse lập_tức thu 1033 triệu usd
+1,tới ngày 27/5 bom tấn mới chính_thức khởi_chiếu quê nhà bắc mỹ
+2,xmen apocalypse dẫn_đầu 71 quốc_gia tác_phẩm có_mặt cuối tuần
+3,phim giành thành_tích nổi_bật anh 105 triệu usd 1602 rạp mexico 86 triệu usd 2676 rạp brazil 66 triệu usd 1277 rạp nga 65 triệu usd 1208 rạp pháp 59 triệu usd 792 rạp
+4,đơn_vị phát_hành 20 th century_fox hoàn_toàn hài_lòng xmen apocalypse còn lập kỷ_lục ra_mắt tính riêng trong nội_bộ hãng một_số quốc_gia châu_á philippines indonesia ấn_độ singapore thái_lan
+5,một trong yếu_tố giúp bom tấn giành thành_tích cao định_dạng phim 3d chiếm tới 41 tổng_doanh_thu
+6,trong xmen apocalypse dị_nhân đầu_tiên trong lịch_sử loài ngoài apocalypse oscar_isaac bất_ngờ thức_tỉnh
+7,hắn mang dã_tâm thanh tẩy thế_giới đưa người đột_biến thống_trị muôn loài
+8,song giáo_sư x james_mcavoy mystique jennifer_lawrence quyết xảy
+9,bên cạnh bắc mỹ tuần xmen apocalypse còn đặt_chân tới hàn_quốc quốc_gia vốn nổi_tiếng yêu_thích tác_phẩm siêu anh_hùng
+10,còn trung_quốc thị_trường điện_ảnh lớn thứ hai thế_giới dị_nhân chính_thức xuất_quân 3/6
+11,nhờ chính hàn_quốc trung_quốc trong cuối tuần the_angry_birds_movie thu thêm 555 triệu usd ngoại địa tác_phẩm ăn_khách thứ hai thị_trường quốc_tế
+12,hai tuần trình_chiếu nước_ngoài chú chim điên hiện thu hơn 112 triệu usd
+13,cuối tuần the_angry_birds_movie còn mới soán ngôi captain_america civil_war bắc mỹ
+14,nhắm đến đối_tượng khán_giả gia_đình tác_phẩm sony chắc_chắn còn hút khách tới finding_dory pixar disney rạp 17/6
+15,một tháng trình_chiếu captain_america civil_war duy_trì phong_độ tốt thêm 307 triệu usd ngoại địa cuối tuần
+16,hiện tổng_doanh_thu toàn_cầu siêu bom tấn 105 tỷ usd tạm_thời giữ chức phim ăn_khách nhất năm 2016

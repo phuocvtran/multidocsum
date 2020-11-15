@@ -1,5 +1,5 @@
 idx, sentence
-0,theo thông_tin đươc vietinbank công_bố vào ngày 19/5  ngân_hàng này đã được hose chấp_thuận đăng_ký chào bán 16875 triệu cổ_phần của sgb với giá khởi_điểm 10800 đồng / cổ_phần 
-1,số cổ_phần này sẽ được chào bán đấu_giá công_khai qua công_ty cổ_phần chứng_khoán ngân_hàng công_thương việt_nam 
-2,thời_gian thực_hiện thoái vốn dự_kiến trong quý ii / 2016 
-3,sgb có vốn điều_lệ là 3080 tỷ đồng  trong đó số vốn góp của vietinbank hiện_tại  theo mệnh_giá 10000 đồng / cổ_phần  là gần 320 tỷ đồng  chiếm 1039  vốn cổ_phần có quyền biểu_quyết của sgb  
+0,thông_tin đươc vietinbank công_bố ngày 19/5 ngân_hàng hose chấp_thuận đăng_ký chào bán 16875 triệu cổ_phần sgb giá khởi_điểm 10800 đồng / cổ_phần
+1,số cổ_phần chào bán đấu_giá công_khai công_ty cổ_phần chứng_khoán ngân_hàng công_thương việt_nam
+2,thời_gian thực_hiện thoái vốn dự_kiến trong quý ii / 2016
+3,sgb vốn điều_lệ 3080 tỷ đồng trong số vốn góp vietinbank hiện_tại mệnh_giá 10000 đồng / cổ_phần gần 320 tỷ đồng chiếm 1039 vốn cổ_phần quyền biểu_quyết sgb

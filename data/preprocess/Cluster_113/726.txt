@@ -1,5 +1,5 @@
 idx, sentence
-0,sáng 235  sau 5 ngày nghị_án hđxx cấp sơ_thẩm tand tỉnh tây_ninh đã tuyên_phạt 3 bị_cáo  trần_cảnh_lạc  62 tuổi  nguyên tổng_giám_đốc công_ty tnhh mtv_mía đường tây_ninh  10 năm tù giam  nguyễn_xuân_danh  47 tuổi  nguyên phó trưởng_phòng kinh_doanh  thương_mại  9 năm tù  và nguyễn_thị_phúc  54 tuổi  nguyên kế_toán_trưởng  trưởng_phòng kế_toán tài_chính  5 năm tù cùng tội_danh “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
-1,hđxx tuyên buộc các bị_cáo bồi_thường cho ubnd tỉnh tây_ninh số tiền hơn 256 tỉ đồng 
-2,đây là số tiền xác_định các bị_cáo đã làm thất_thoát trong quá_trình kinh_doanh đối_với 2 hợp_đồng xuất_khẩu bán 2270 tấn gạo cho công_ty tnhh guo qi do_li  trụ_sở tỉnh guangxi  trung_quốc  
-3,trong đó  hđxx tuyên buộc_lạc bồi_thường trên 106 tỉ đồng  danh bồi_thường trên 96 tỉ đồng và phúc trên 53 tỉ đồng 
+0,sáng 235 5 ngày nghị_án hđxx cấp sơ_thẩm tand tỉnh tây_ninh tuyên_phạt 3 bị_cáo trần_cảnh_lạc 62 tuổi nguyên tổng_giám_đốc công_ty tnhh mtv_mía đường tây_ninh 10 năm tù giam nguyễn_xuân_danh 47 tuổi nguyên phó trưởng_phòng kinh_doanh thương_mại 9 năm tù nguyễn_thị_phúc 54 tuổi nguyên kế_toán_trưởng trưởng_phòng kế_toán tài_chính 5 năm tù tội_danh “ cố_ý làm trái quy_định nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ”
+1,hđxx tuyên buộc bị_cáo bồi_thường ubnd tỉnh tây_ninh số tiền hơn 256 tỉ đồng
+2,số tiền xác_định bị_cáo làm thất_thoát trong quá_trình kinh_doanh đối_với 2 hợp_đồng xuất_khẩu bán 2270 tấn gạo công_ty tnhh guo qi do_li trụ_sở tỉnh guangxi trung_quốc
+3,trong hđxx tuyên buộc_lạc bồi_thường 106 tỉ đồng danh bồi_thường 96 tỉ đồng phúc 53 tỉ đồng

@@ -1,9 +1,9 @@
 idx, sentence
-0,theo thông_báo số 176  tb / vptu ngày 275  lãnh_đạo tp đánh_giá cao những đóng_góp của hsu vào sự_nghiệp giáo_dục của tphcm  nhất_là lĩnh_vực đào_tạo nguồn nhân_lực chất_lượng cao trong 10 năm qua 
-1,thành_ủy  ubnd tphcm luôn ủng_hộ  đồng_tình với hsu về định_hướng hoạt_động theo loại_hình trường đh không vì lợi_nhuận 
-2,việc quyết_định trường hoạt_động theo loại_hình trường đh tư_thục không vì lợi_nhuận hay không thuộc thẩm_quyền của đại_hội_đồng cổ_đông  đhđcđ  hsu theo đúng quy_định của pháp_luật 
-3,để được công_nhận là trường đh tư_thục hoạt_động không vì lợi_nhuận  đề_nghị hsu thực_hiện theo đúng quy_trình  thủ_tục quy_định tại điều_lệ trường đh ban_hành kèm theo quyết_định số 70 / qđttg ngày 10122014 của thủ_tướng chính_phủ  khẩn_trương xây_dựng đề_án trình bộ_gdđt thẩm_định để trình thủ_tướng chính_phủ công_nhận là trường đh tư_thục hoạt_động không vì lợi_nhuận 
-4,giao_ban cán_sự đảng ubnd tphcm chỉ_đạo ubnd tphcm chỉ_đạo các sở  ngành liên_quan xem_xét  hỗ_trợ hsu thực_hiện việc tổ_chức  quản_lý hoạt_động của nhà_trường theo đúng quy_định của pháp_luật  trên cơ_sở bản_án phúc_thẩm của tand cấp_cao tại tphcm  tham_mưu ubnd tp xem_xét việc công_nhận hđqt_hsu được bầu bổ_sung ngày 282014 theo đúng quy_định của pháp_luật 
-5,trước đó  tại phiên_tòa phúc_thẩm ngày 284  tand cấp_cao tại tphcm đã tuyên y_án sơ_thẩm  buộc hsu phải trả đủ cổ_tức theo tỉ_lệ cổ_phần mà hai công_ty cổ_đông là iconnect và coordinate đang nắm giữ lần_lượt là 265  và 738  
-6,như_vậy  đồng_nghĩa với việc đhđcđ bất_thường của hsu ngày 282014 đã đủ_số biểu_quyết theo quy_định của pháp_luật 
-7,tuy_nhiên  sau phiên_tòa  cả hđqt_hsu và nhóm cổ_đông đều có kiến_nghị lãnh_đạo thành_ủy tphcm xem_xét vụ_việc 
+0,thông_báo số 176 tb / vptu ngày 275 lãnh_đạo tp đánh_giá cao đóng_góp hsu sự_nghiệp giáo_dục tphcm nhất_là lĩnh_vực đào_tạo nguồn nhân_lực chất_lượng cao trong 10 năm
+1,thành_ủy ubnd tphcm luôn ủng_hộ đồng_tình hsu về định_hướng hoạt_động loại_hình trường đh lợi_nhuận
+2,quyết_định trường hoạt_động loại_hình trường đh tư_thục lợi_nhuận hay thuộc thẩm_quyền đại_hội_đồng cổ_đông đhđcđ hsu đúng quy_định pháp_luật
+3,công_nhận trường đh tư_thục hoạt_động lợi_nhuận đề_nghị hsu thực_hiện đúng quy_trình thủ_tục quy_định điều_lệ trường đh ban_hành kèm quyết_định số 70 / qđttg ngày 10122014 thủ_tướng chính_phủ khẩn_trương xây_dựng đề_án trình bộ_gdđt thẩm_định trình thủ_tướng chính_phủ công_nhận trường đh tư_thục hoạt_động lợi_nhuận
+4,giao_ban cán_sự đảng ubnd tphcm chỉ_đạo ubnd tphcm chỉ_đạo sở ngành liên_quan xem_xét hỗ_trợ hsu thực_hiện tổ_chức quản_lý hoạt_động nhà_trường đúng quy_định pháp_luật cơ_sở bản_án phúc_thẩm tand cấp_cao tphcm tham_mưu ubnd tp xem_xét công_nhận hđqt_hsu bầu bổ_sung ngày 282014 đúng quy_định pháp_luật
+5,phiên_tòa phúc_thẩm ngày 284 tand cấp_cao tphcm tuyên y_án sơ_thẩm buộc hsu trả đủ cổ_tức tỉ_lệ cổ_phần hai công_ty cổ_đông iconnect coordinate nắm giữ lần_lượt 265 738
+6,như_vậy đồng_nghĩa đhđcđ bất_thường hsu ngày 282014 đủ_số biểu_quyết quy_định pháp_luật
+7,tuy_nhiên phiên_tòa hđqt_hsu nhóm cổ_đông kiến_nghị lãnh_đạo thành_ủy tphcm xem_xét vụ_việc

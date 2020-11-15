@@ -1,9 +1,9 @@
 idx, sentence
-0,chiều 235  một lãnh_đạo đội csgt số 14  phòng csgt hà_nội cho biết  khoảng khoảng 14 h50 cùng ngày  một nam thanh_niên đã nhảy từ cầu thanh_trì xuống sông hồng tự vẫn 
-1,danh_tính nam thanh_niên được xác_định là nguyễn_văn_b  21 tuổi  quê phú_xuyên  hà_nội  
-2,thông_tin ban_đầu  vào khoảng thời_gian trên  anh b cùng bạn gái là ntv  17 tuổi  quê bắc_ninh  đi xe taxi lên cầu thanh_trì hướng từ gia_lâm trung_tâm hà_nội 
-3,khi đi tới cột_đèn số 42 cầu thanh_trì  chiếc xe taxi vừa dừng lại thì anh b bất_ngờ mở cửa xe rồi nhảy từ cầu thanh_trì xuống sông hồng tự vẫn 
-4,bóng_dáng anh b nhanh_chóng biến mất giữa dòng nước chảy xiết 
-5,chứng_kiến bạn trai nhảy sông tự vẫn  chị ntv lao ra khỏi taxi gào_thét  kêu cứu trong tuyệt_vọng 
-6,cô gái sau đó ngất lịm gục xuống_đường 
-7,một_số người_dân có_mặt tại hiện_trường đã dừng xe tới sơ_cứu  động_viên chị v 
+0,chiều 235 một lãnh_đạo đội csgt số 14 phòng csgt hà_nội biết khoảng khoảng 14 h50 ngày một nam thanh_niên nhảy cầu thanh_trì xuống sông hồng tự
+1,danh_tính nam thanh_niên xác_định nguyễn_văn_b 21 tuổi quê phú_xuyên hà_nội
+2,thông_tin ban_đầu khoảng thời_gian anh b bạn gái ntv 17 tuổi quê bắc_ninh đi xe taxi cầu thanh_trì hướng gia_lâm trung_tâm hà_nội
+3,đi tới cột_đèn số 42 cầu thanh_trì xe taxi dừng anh b bất_ngờ mở cửa xe nhảy cầu thanh_trì xuống sông hồng tự
+4,bóng_dáng anh b nhanh_chóng biến mất giữa dòng nước chảy xiết
+5,chứng_kiến bạn trai nhảy sông tự chị ntv lao khỏi taxi gào_thét kêu cứu trong tuyệt_vọng
+6,cô gái ngất lịm gục xuống_đường
+7,một_số người_dân có_mặt hiện_trường dừng xe tới sơ_cứu động_viên chị v

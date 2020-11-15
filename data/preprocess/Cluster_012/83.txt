@@ -1,38 +1,38 @@
 idx, sentence
-0,những ngày qua  trên địa_bàn huyện phú_giáo  tỉnh bình_dương liên_tục xảy ra tình_trạng cướp chặn đường phụ_nữ trấn_lột tài_sản 
-1,nạn cướp gia_tăng và ngày_càng táo_tợn khiến lãnh_đạo công_an huyện phú_giáo phải ký văn_bản gửi đài_truyền_thanh địa_phương loan_báo  yêu_cầu người dân cảnh_giác cao_độ 
-2,táo_tợn theo công_an huyện phú_giáo  rạng sáng 95  chỉ trong vòng 20 phút  trên tỉnh_lộ 741 thuộc địa_phận huyện phú_giáo đã xảy ra 2 vụ cướp táo_tợn 
-3,nạn_nhân là 2 phụ_nữ đi chợ sớm để bán các mặt_hàng rau củ quả … cụ_thể  khoảng 3 giờ sáng 95  chị lê_thị_ngọc_thúy  ngụ thị_trấn phước_vĩnh  huyện phú_giáo  chạy xe_máy đến chợ để bán đậu_đũa thì bị một cặp nam_nữ ép cho té 
-4,chị thúy chưa kịp đứng dậy thì gã cầm lái xông tới tát_tai  tra_hỏi  “ tiền đâu  có tiền không  ” 
-5,chị thúy đáp trong hốt_hoảng  “ làm gì có tiền  ” 
-6,gã thanh_niên móc ra một vật dài 30 cm giống như roi điện  gí vào người chị rồi bấm cho lửa điện tóe ra kèm theo âm_thanh “ tạch tạch ” 
-7,tiếp đó  gã thanh_niên dùng tay sờ vào cổ và ngực chị thúy để tìm dây_chuyền nhưng không có 
-8,hắn bước tới xe chị thúy  lấy cái túi màu đen của chị trên baga rồi cùng đồng_bọn tẩu_thoát 
-9,lúc 3 giờ 20 phút sáng 95  tức 20 phút sau khi chị thúy bị cướp   lại có một phụ_nữ khác lâm_nạn 
-10,vụ cướp lần này cũng xảy ra trên tỉnh_lộ 741  cách vị_trí chị thúy bị tấn_công khoảng 10 km 
-11,hung_thủ vẫn là một cặp nam_nữ 
-12,nạn_nhân là lê_thị_kim_an  33 tuổi  ngụ xã phước_hòa  huyện phú_giáo  bán rau củ quả ở chợ  
-13,chị an kể khi chị đi xe_máy đến đầu cầu phước_hòa  huyện phú_giáo  thì bị một cặp nam_nữ chạy xe từ sau vượt lên ép sát 
-14,người phụ_nữ đưa tay giật túi_xách của chị an đang đeo trên người nhưng không thành 
-15,chị an rồ ga tăng_tốc nhưng chạy mới tới giữa cầu phước_hòa thì 2 thanh_niên khác  đồng_bọn của cặp nam_nữ  xuất_hiện 
-16,chúng chặn đầu xe rồi dùng dao thái_lan kề vào người chị  ra_lệnh  “ đưa tiền đây  ” 
-17,gã thanh_niên tiến lại phía chị an giật túi_xách  bên trong có 200000 đồng 
-18,trước khi tẩu_thoát  nhóm 4 tên này đập nát chiếc điện_thoại của nạn_nhân 
-19,trước đó  tối 85  bà trần_thị_dần  53 tuổi  ngụ xã an_bình  huyện phú_giáo  chạy xe_máy chở ông trần_văn_trắc  53 tuổi  đi trên đoạn đường_đất trong lô cao_su thuộc ấp bình_thắng  xã an_bình thì bất_ngờ bị một thanh_niên cầm cây_gỗ đứng chặn giữa đường 
-20,biết gặp cướp  bà dần bỏ xe  chạy bộ vào lô cao_su thì bị gã này cầm cây đuổi theo đánh vào đầu khiến bà ngất_xỉu 
-21,ngay lúc ấy xuất_hiện một thanh_niên khác từ trong lô cao_su xông tới dùng vật cứng đánh ông trắc bị_thương 
-22,sau đó 2 thanh_niên trên cướp xe của bà dần rồi tẩu_thoát 
-23,bóng_dáng “ nữ tặc ” trong các vụ cướp xảy ra liên_tục ở huyện phú_giáo trong vòng 1 tháng qua  ít_nhất 5 vụ có “ nữ tặc ” trẻ tuổi tham_gia 
-24,điều này khiến người dân tin rằng các vụ cướp này do cùng một băng_nhóm thực_hiện 
-25,trao_đổi với chúng_tôi  nạn_nhân phạm_thị_gái  tên thường gọi là bích  32 tuổi  ở ấp đuôi_chuột  xã tam_lập  huyện phú_giáo  kể  “ đứa con_gái ngồi sau xe do một nam thanh_niên chở 
-26,xe nó ép xe tôi  gã cầm lái giật mất sợi dây_chuyền bạch_kim trị_giá 15 triệu đồng tôi đeo trên cổ 
-27,cướp được  nó quay đầu xe  biến mất giữa đêm ” 
-28,vụ cướp này xảy ra cách đây chưa đầy 1 tháng trên con đường vắng nằm dọc vạt rừng cao_su thuộc xã vĩnh_hòa 
-29,theo chị bích  1 giờ sau khi chị lâm_nạn  một phụ_nữ khác cũng bị cặp nam_nữ chặn xe  giật dây_chuyền tại địa_bàn này 
-30,chị_gái mô_tả đối_tượng nam khoảng 20 tuổi  da trắng  cao khoảng 16 m  nói giọng nam 
-31,còn đối_tượng nữ ngồi sau chị không nhìn rõ mặt nhưng ước_chừng dưới 20 tuổi 
-32,các vụ trấn_lột như vậy xảy ra liên_tục khiến phụ_nữ ở địa_phương sợ_hãi  không dám ra đường một_mình vào ban_đêm 
-33,ngày 175  trao_đổi với phóng_viên báo người lao_động  trung_tá trần_ngọc_thành  phó_trưởng công_an huyện phú_giáo  khẳng_định công_an đang khẩn_trương sàng_lọc  truy bắt các đối_tượng thực_hiện những vụ cướp vừa_qua 
-34,trung_tá thành nhận_định có khả_năng những vụ cướp gần đây  sử_dụng roi điện  đối_tượng nữ đi cùng  pv  xảy ra ở phú_giáo do một băng_nhóm thực_hiện 
-35,“ người dân nếu có thông_tin về các nghi_phạm  hãy cung_cấp cho cơ_quan điều_tra để phá_án ”  trung_tá thành kêu_gọi 
-36,kêu_gọi đề_cao cảnh_giác công_an huyện phú_giáo kêu_gọi phụ_nữ địa_phương không nên đi một_mình về khuya trên đường vắng  không mang nữ_trang  nhiều tiền_bạc khi lưu_thông 
+0,ngày địa_bàn huyện phú_giáo tỉnh bình_dương liên_tục xảy tình_trạng cướp chặn đường phụ_nữ trấn_lột tài_sản
+1,nạn cướp gia_tăng ngày_càng táo_tợn khiến lãnh_đạo công_an huyện phú_giáo ký văn_bản gửi đài_truyền_thanh địa_phương loan_báo yêu_cầu người dân cảnh_giác cao_độ
+2,táo_tợn công_an huyện phú_giáo rạng sáng 95 trong vòng 20 phút tỉnh_lộ 741 thuộc địa_phận huyện phú_giáo xảy 2 vụ cướp táo_tợn
+3,nạn_nhân 2 phụ_nữ đi chợ sớm bán mặt_hàng rau củ quả … cụ_thể khoảng 3 giờ sáng 95 chị lê_thị_ngọc_thúy ngụ thị_trấn phước_vĩnh huyện phú_giáo chạy xe_máy đến chợ bán đậu_đũa một cặp nam_nữ ép té
+4,chị thúy kịp đứng dậy gã cầm lái xông tới tát_tai tra_hỏi “ tiền đâu tiền ”
+5,chị thúy đáp trong hốt_hoảng “ làm tiền ”
+6,gã thanh_niên móc một vật dài 30 cm giống roi điện gí người chị bấm lửa điện tóe kèm âm_thanh “ tạch tạch ”
+7,tiếp gã thanh_niên dùng tay sờ cổ ngực chị thúy tìm dây_chuyền
+8,hắn bước tới xe chị thúy lấy túi màu đen chị baga đồng_bọn tẩu_thoát
+9,3 giờ 20 phút sáng 95 tức 20 phút chị thúy cướp một phụ_nữ khác lâm_nạn
+10,vụ cướp lần xảy tỉnh_lộ 741 cách vị_trí chị thúy tấn_công khoảng 10 km
+11,hung_thủ một cặp nam_nữ
+12,nạn_nhân lê_thị_kim_an 33 tuổi ngụ xã phước_hòa huyện phú_giáo bán rau củ quả ở chợ
+13,chị an kể chị đi xe_máy đến đầu cầu phước_hòa huyện phú_giáo một cặp nam_nữ chạy xe vượt ép sát
+14,người phụ_nữ đưa tay giật túi_xách chị an đeo người thành
+15,chị an rồ ga tăng_tốc chạy mới tới giữa cầu phước_hòa 2 thanh_niên khác đồng_bọn cặp nam_nữ xuất_hiện
+16,chúng chặn đầu xe dùng dao thái_lan kề người chị ra_lệnh “ đưa tiền ”
+17,gã thanh_niên tiến phía chị an giật túi_xách bên trong 200000 đồng
+18,tẩu_thoát nhóm 4 tên đập nát điện_thoại nạn_nhân
+19,tối 85 bà trần_thị_dần 53 tuổi ngụ xã an_bình huyện phú_giáo chạy xe_máy chở ông trần_văn_trắc 53 tuổi đi đoạn đường_đất trong lô cao_su thuộc ấp bình_thắng xã an_bình bất_ngờ một thanh_niên cầm cây_gỗ đứng chặn giữa đường
+20,biết gặp cướp bà dần bỏ xe chạy bộ lô cao_su gã cầm cây đuổi đánh đầu khiến bà ngất_xỉu
+21,ấy xuất_hiện một thanh_niên khác trong lô cao_su xông tới dùng vật cứng đánh ông trắc bị_thương
+22,2 thanh_niên cướp xe bà dần tẩu_thoát
+23,bóng_dáng “ nữ tặc ” trong vụ cướp xảy liên_tục ở huyện phú_giáo trong vòng 1 tháng ít_nhất 5 vụ “ nữ tặc ” trẻ tuổi tham_gia
+24,khiến người dân tin vụ cướp một băng_nhóm thực_hiện
+25,trao_đổi chúng_tôi nạn_nhân phạm_thị_gái tên thường gọi bích 32 tuổi ở ấp đuôi_chuột xã tam_lập huyện phú_giáo kể “ đứa con_gái ngồi xe một nam thanh_niên chở
+26,xe nó ép xe tôi gã cầm lái giật mất sợi dây_chuyền bạch_kim trị_giá 15 triệu đồng tôi đeo cổ
+27,cướp nó quay đầu xe biến mất giữa đêm ”
+28,vụ cướp xảy cách đầy 1 tháng con đường vắng nằm dọc vạt rừng cao_su thuộc xã vĩnh_hòa
+29,chị bích 1 giờ chị lâm_nạn một phụ_nữ khác cặp nam_nữ chặn xe giật dây_chuyền địa_bàn
+30,chị_gái mô_tả đối_tượng nam khoảng 20 tuổi da trắng cao khoảng 16 m nói giọng nam
+31,còn đối_tượng nữ ngồi chị nhìn rõ mặt ước_chừng 20 tuổi
+32,vụ trấn_lột xảy liên_tục khiến phụ_nữ ở địa_phương sợ_hãi dám đường một_mình ban_đêm
+33,ngày 175 trao_đổi phóng_viên báo người lao_động trung_tá trần_ngọc_thành phó_trưởng công_an huyện phú_giáo khẳng_định công_an khẩn_trương sàng_lọc truy bắt đối_tượng thực_hiện vụ cướp vừa_qua
+34,trung_tá thành nhận_định khả_năng vụ cướp gần sử_dụng roi điện đối_tượng nữ đi pv xảy ở phú_giáo một băng_nhóm thực_hiện
+35,“ người dân thông_tin về nghi_phạm hãy cung_cấp cơ_quan điều_tra phá_án ” trung_tá thành kêu_gọi
+36,kêu_gọi đề_cao cảnh_giác công_an huyện phú_giáo kêu_gọi phụ_nữ địa_phương đi một_mình về khuya đường vắng mang nữ_trang tiền_bạc lưu_thông

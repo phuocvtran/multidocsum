@@ -1,15 +1,15 @@
 idx, sentence
-0,sáng 275  đại_diện bộ_nnptnt cho biết bộ này vừa trình thủ_tướng xem_xét dừng chuyển mục_đích sử_dụng rừng tại vườn_quốc_gia yok_đôn để xây_dựng thủy_điện đrăng_phốk  đắk_lắk  
-1,theo bộ_nnptnt việc xây_dựng  vận_hành nhà_máy sẽ ảnh_hưởng trực_tiếp đến sinh_cảnh sống của các loài động_vật hoang_dã  đặc_biệt là voi  hổ có_thể bỏ đi nơi khác 
-2,theo hồ_sơ thiết_kế  công_trình thủy_điện trên xây_dựng theo kiểu đập dâng trên sông srêpốk  krông_ana  buôn_đôn  đắk_lắk  
-3,việc xây_dựng thủy_điện đrăng_phốk sẽ phải chuyển mục_đích sử_dụng 63 ha đất có rừng  trong đó chuyển_đổi vĩnh_viễn 53 ha  chuyển_đổi tạm_thời để phục_vụ thi_công 10 ha 
-4,công_suất nhà_máy dự_kiến 26 mw với tổng vốn đầu_tư khoảng 850 tỉ đồng do công_ty cổ_phần đầu_tư xây_dựng và ứng_dụng công_nghệ mới  tecco  làm_chủ đầu_tư 
-5,cũng theo bộ_nnptnt  diện_tích này chưa bao_gồm nhu_cầu sử_dụng đất  rừng để xây_dựng đường_dây tải điện từ nhà_máy đến trạm biến_áp hòa với hệ_thống điện quốc_gia  theo dự_tính hành_lang tuyến và các trụ_cột điện khoảng 27 ha 
-6,hiện_trạng khu_vực này là rừng tự_nhiên  trong đó có 3 ha rừng giàu  11 ha rừng trung_bình và 49 ha rừng nghèo 
-7,rừng quốc_gia yok_đôn bị ảnh_hưởng sinh_thái nặng_nề khi xây_dựng thủy_điện 
-8,“ quá_trình thi_công nhà_máy thủy_điện này sẽ gây ra những áp_lực lên khu bảo_tồn  nhất_là việc dâng nước lên khiến các loài động_vật hoang_dã bao_gồm voi  hồ và nhiều cá_thể động_vật khác sinh_sống tại đây bị đảo_lộn 
-9,ngoài_ra nó còn tạo thuận_lợi cho bọn lâm_tặc phá rừng vận_chuyển gỗ bằng đường_thủy  hệ_sinh_thái rừng cũng bị ảnh_hưởng thay_đổi 
-10,trong suốt năm năm qua  rừng tây_nguyên đã bị suy_giảm nghiêm_trọng  độ che_phủ của rừng giảm 61  và đặc_biệt khu_vực tiếp_giáp với vườn_quốc_gia yok_đôn  rừng đã bị suy_giảm rất nghiêm_trọng  nhiều khu_vực không còn rừng 
-11,những tác_động gay_gắt của biến_đổi khí_hậu cũng đang tác_động tiêu_cực đến đời_sống của người dân ở tây_nguyên ”  bộ_nnptnt khẳng_định 
-12,với những lập_luận trên  bộ_nnptnt đã có báo_cáo cụ_thể gửi thủ_tướng xem_xét  dừng thực_hiện văn_bản năm 2009 về việc chuyển mục_đích sử_dụng rừng và đất lâm_nghiệp của vườn_quốc_gia yok_đôn để xây_dựng nhà_máy thủy_điện đrăng_phốk 
-13,trước đó ngày 682009  bộ_nnptnt đã có văn_bản trình thủ_tướng xem_xét  cho_phép ubnd tỉnh đắk_lắk tổ_chức lập hồ_sơ chuyển_đổi mục_đích sử_dụng đất rừng đặc_dụng của vườn_quốc_gia yok_đôn sang mục_đích không phải lâm_nghiệp để xây_dựng thủy_điện đrăng_phốk 
+0,sáng 275 đại_diện bộ_nnptnt biết bộ trình thủ_tướng xem_xét dừng chuyển mục_đích sử_dụng rừng vườn_quốc_gia yok_đôn xây_dựng thủy_điện đrăng_phốk đắk_lắk
+1,bộ_nnptnt xây_dựng vận_hành nhà_máy ảnh_hưởng trực_tiếp đến sinh_cảnh sống loài động_vật hoang_dã đặc_biệt voi hổ bỏ đi khác
+2,hồ_sơ thiết_kế công_trình thủy_điện xây_dựng kiểu đập dâng sông srêpốk krông_ana buôn_đôn đắk_lắk
+3,xây_dựng thủy_điện đrăng_phốk chuyển mục_đích sử_dụng 63 ha đất rừng trong chuyển_đổi vĩnh_viễn 53 ha chuyển_đổi tạm_thời phục_vụ thi_công 10 ha
+4,công_suất nhà_máy dự_kiến 26 mw tổng vốn đầu_tư khoảng 850 tỉ đồng công_ty cổ_phần đầu_tư xây_dựng ứng_dụng công_nghệ mới tecco làm_chủ đầu_tư
+5,bộ_nnptnt diện_tích bao_gồm nhu_cầu sử_dụng đất rừng xây_dựng đường_dây tải điện nhà_máy đến trạm biến_áp hòa hệ_thống điện quốc_gia dự_tính hành_lang tuyến trụ_cột điện khoảng 27 ha
+6,hiện_trạng khu_vực rừng tự_nhiên trong 3 ha rừng giàu 11 ha rừng trung_bình 49 ha rừng nghèo
+7,rừng quốc_gia yok_đôn ảnh_hưởng sinh_thái nặng_nề xây_dựng thủy_điện
+8,“ quá_trình thi_công nhà_máy thủy_điện gây áp_lực khu bảo_tồn nhất_là dâng nước khiến loài động_vật hoang_dã bao_gồm voi hồ cá_thể động_vật khác sinh_sống đảo_lộn
+9,ngoài_ra nó còn tạo thuận_lợi bọn lâm_tặc phá rừng vận_chuyển gỗ bằng đường_thủy hệ_sinh_thái rừng ảnh_hưởng thay_đổi
+10,trong suốt năm năm rừng tây_nguyên suy_giảm nghiêm_trọng độ che_phủ rừng giảm 61 đặc_biệt khu_vực tiếp_giáp vườn_quốc_gia yok_đôn rừng suy_giảm nghiêm_trọng khu_vực còn rừng
+11,tác_động gay_gắt biến_đổi khí_hậu tác_động tiêu_cực đến đời_sống người dân ở tây_nguyên ” bộ_nnptnt khẳng_định
+12,lập_luận bộ_nnptnt báo_cáo cụ_thể gửi thủ_tướng xem_xét dừng thực_hiện văn_bản năm 2009 về chuyển mục_đích sử_dụng rừng đất lâm_nghiệp vườn_quốc_gia yok_đôn xây_dựng nhà_máy thủy_điện đrăng_phốk
+13,ngày 682009 bộ_nnptnt văn_bản trình thủ_tướng xem_xét cho_phép ubnd tỉnh đắk_lắk tổ_chức lập hồ_sơ chuyển_đổi mục_đích sử_dụng đất rừng đặc_dụng vườn_quốc_gia yok_đôn sang mục_đích lâm_nghiệp xây_dựng thủy_điện đrăng_phốk

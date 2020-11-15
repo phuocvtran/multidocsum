@@ -1,61 +1,61 @@
 idx, sentence
-0,phải có cơ_chế phối_hợp đào_tạo nguồn nhân_lực báo_cáo bí_thư đinh_la_thăng đến làm_việc ngày 28/5  giám_đốc qtsc lâm nguyễn_hải_long cho biết  chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin chưa đáp_ứng nhu_cầu tuyển_dụng của doanh_nghiệp  trong khi các doanh_nghiệp lớn tại công_viên phần_mềm quang_trung luôn có nhu_cầu tuyển_dụng hàng năm khá cao 
-1,nghe báo_cáo  bí_thư thành_ủy đinh_la_thăng hỏi ngay  “ tại_sao không đào_tạo sinh_viên  bởi hiện_nay sinh_viên ra trường thất_nghiệp nhiều  ” 
-2,ông long trả_lời  “ hiện_nay các trường thuộc đhqg_tphcm cung_cấp nhân_lực 
-3,tuy_nhiên  các giáo_sư  tiến_sĩ rất bảo_thủ 
-4,họ không muốn tăng tuyển_sinh vì khi tăng thì phải xin ý_kiến nhiều lần 
-5,việc tăng chỉ_tiêu tuyển_sinh cũng phải tỷ_lệ với số giảng_viên  trong khi nhà_trường không đủ giảng_viên để đào_tạo ” 
-6,bí_thư thăng nói  “ phải theo cơ_chế_thị_trường 
-7,mình đặt_hàng người_ta thì người_ta phải được gì chứ 
-8,mình kết_nối với đại_học bách_khoa thế_nào  ” 
-9,ông long trả_lời  “ mình kết_nối tốt với ở trên nhưng ở dưới khoa không phải ai cũng làm 
-10,mình đảm_bảo đầu_ra cho họ nhưng sinh_viên ra “ hot ” quá nên không quan_tâm đến bên này 
-11,hiện_nay số_lượng đầu_ra rất ít so với nhu_cầu ” 
-12,bí_thư thăng nhấn_mạnh  “ không phải các trường bảo_thủ mà mình chưa có cơ_chế 
-13,hiện_nay sự phối_hợp là rất kém 
-14,vấn_đề ở đây là mình phải phối_hợp theo cơ_chế_thị_trường 
-15,học_trò nộp bao_nhiêu tiền  doanh_nghiệp nộp bao_nhiêu tiền để có sản_phẩm dùng được ngay chứ không phải qua trung_tâm đào_tạo lại 
-16,“ nhà_trường đào_tạo được gì 
-17,ông được gì 
-18,rõ_ràng rồi thì mới có sản_phẩm 
-19,chúng_ta phải phân_công_cụ_thể về công_việc và quyền_lợi là gì 
-20,doanh_nghiệp đặt_hàng  mình phối_hợp với nhà_trường đào_tạo  mình lên chương_trình để hỗ_trợ đáp_ứng nhu_cầu doanh_nghiệp 
-21,báo_chí lúc_nào cũng đưa tin sinh_viên ra trường không có việc_làm còn mình thì tuyển không ra ” 
-22,ông long phân_trần  “ mấy năm trước ngành bất_động_sản “ nóng ” quá nên sinh_viên không hướng vào đây ” 
-23,ông thăng nói  “ vào kỹ_sư phần_mềm thì oách quá chứ 
-24,nhưng vấn_đề là các anh lợi_nhuận cao mà trả lương thấp quá  ” 
-25,ông long cho rằng lương cũng tương_đối chứ không thấp 
-26,ông thăng hỏi ngay  “ kỹ_sư phần_mềm thì trả bao_nhiêu tiền  ” 
-27,ông long cho biết  lương trung_bình của kỹ_sư có từ 3 – 5 năm kinh_nghiệm là 8 – 10 triệu đồng 
-28,bí_thư thăng hỏi  “ nhà kỹ_sư ở đâu  ” 
-29,ông long trả_lời rằng đến 80  là người nhập_cư 
-30,“ thế làm_sao sống được 
-31,lương như_thế chỉ nhỉnh hơn công_nhân may tăng ca 
-32,công_nhân lương 5 – 6 triệu thì cũng chỉ sống được khi ở nhà họ  ăn nhà họ  đi xe_buýt  kỹ_sư phần_mềm thì phải khá hơn mới sống được ”  ông thăng nói 
-33,cổ_phần hóa để được đãi_ngộ tương_xứng và hút nhân_tài không hài_lòng về mức thu_nhập của kỹ_sư phầm mềm còn thấp  bí_thư thăng hỏi ông long  “ lương giám_đốc của anh bao_nhiêu  ” 
-34,ông long đáp  “ dạ  tính hết là tháng 24 triệu đồng / tháng ” 
-35,bí_thư đinh_la_thăng nói ngay  “ lương của giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu cả nước  đứng top đầu khu_vực mà chừng đó thì sao được 
-36,lương của cậu phải 10 lần như thế thì mới có động_lực làm_việc 
-37,muốn lương cao thì phải thúc_đẩy cổ_phần_hóa nhanh lên ” 
-38,khi nghe ông đinh_la_thăng đề_nghị phải cổ_phần_hóa  ông long cho biết  “ nếu được thì tốt quá 
-39,cá_nhân em rất ủng_hộ ” 
-40,“ tốt sao không làm 
-41,bây_giờ làm theo mô_hình  cơ_chế nhà_nước rất khó_khăn 
-42,một công_viên phần_mềm làm ra 220 triệu usd sản_phẩm mỗi năm thì không_thể chấp_nhận khó_khăn 
-43,phải đề_xuất chứ 
-44,cổ_phần hóa thì mới kêu_gọi đầu_tư để phát_triển nhanh được chứ  ”  bí_thư thăng hỏi 
-45,ông long cho biết cổ_phần_hóa phải làm theo tiến_độ  nhà_nước cho_phép thì sẽ làm nhanh 
-46,“ chẳng cần cho_phép gì cả  các anh làm ngay đi 
-47,giữ lại làm gì  ”  ông thăng nói và cho rằng  ngoại_trừ những sản_phẩm  công_trình có tính bảo_mật thì cần giữ lại 
-48,còn những sản_phẩm  công_trình khác thì có_thể bán lấy tiền để tái_đầu_tư 
-49,phải đề_xuất cơ_chế để có điều_kiện phát_triển mạnh hơn 
-50,“ cổ_phần_hóa để tư_nhân nhảy vào 
-51,thị_trường sẽ điều_tiết và khi đó  cơ_chế đãi_ngộ sẽ tốt hơn để thu_hút người tài 
-52,còn với lương_bổng hiện_nay thì chưa tương_xứng và rất khó để phát_triển 
-53,một trong những nguyên_nhân chậm phát_triển hạ_tầng là do làm mô_hình nhà_nước ”  ông thăng nói và đề_nghị qtsc phải tập_trung cổ_phần_hóa 
-54,nếu cổ_phần_hóa thì sẽ năng_động hơn trong kêu_gọi đầu_tư phát_triển 
-55,cán_bộ mua cổ_phần thì mới gắn_bó với chiến_lược phát_triển lâu_dài của công_ty … ông thăng cho rằng tphcm là thị_trường đầy năng_động  tiềm_năng và rất nhiều nhu_cầu cấp_thiết cần giải_quyết 
-56,vì_vậy  qtsc cần chủ_động  sáng_tạo và nhìn thấy những nhu_cầu thành_phố  đơn_vị  doanh_nghiệp mà chào_mời sản_phẩm thay_vì chờ đặt_hàng 
-57,“ thành_phố cần ứng_dụng công_nghệ_thông_tin vào chống ùn_tắc giao_thông  giảm ô_nhiễm môi_trường  chống ngập  giảm tội_phạm  hồ_sơ_cấp giấy_phép đầu_tư cần công_khai minh_bạch  phần_mềm chống dạy thêm  học thêm … các anh cứ làm đi 
-58,thành_phố mua ngay 
-59,không_thể nói em làm cái này thôi_thì chết ”  ông thăng nói 
+0,cơ_chế phối_hợp đào_tạo nguồn nhân_lực báo_cáo bí_thư đinh_la_thăng đến làm_việc ngày 28/5 giám_đốc qtsc lâm nguyễn_hải_long biết chất_lượng đào_tạo nguồn nhân_lực công_nghệ_thông_tin đáp_ứng nhu_cầu tuyển_dụng doanh_nghiệp trong doanh_nghiệp lớn công_viên phần_mềm quang_trung luôn nhu_cầu tuyển_dụng hàng năm khá cao
+1,nghe báo_cáo bí_thư thành_ủy đinh_la_thăng hỏi “ tại_sao đào_tạo sinh_viên hiện_nay sinh_viên trường thất_nghiệp ”
+2,ông long trả_lời “ hiện_nay trường thuộc đhqg_tphcm cung_cấp nhân_lực
+3,tuy_nhiên giáo_sư tiến_sĩ bảo_thủ
+4,họ muốn tăng tuyển_sinh tăng xin ý_kiến lần
+5,tăng chỉ_tiêu tuyển_sinh tỷ_lệ số giảng_viên trong nhà_trường đủ giảng_viên đào_tạo ”
+6,bí_thư thăng nói “ cơ_chế_thị_trường
+7,mình đặt_hàng người_ta người_ta
+8,mình kết_nối đại_học bách_khoa thế_nào ”
+9,ông long trả_lời “ mình kết_nối tốt ở ở khoa ai làm
+10,mình đảm_bảo đầu_ra họ sinh_viên “ hot ” quá quan_tâm đến bên
+11,hiện_nay số_lượng đầu_ra ít nhu_cầu ”
+12,bí_thư thăng nhấn_mạnh “ trường bảo_thủ mình cơ_chế
+13,hiện_nay phối_hợp kém
+14,vấn_đề ở mình phối_hợp cơ_chế_thị_trường
+15,học_trò nộp bao_nhiêu tiền doanh_nghiệp nộp bao_nhiêu tiền sản_phẩm dùng trung_tâm đào_tạo
+16,“ nhà_trường đào_tạo
+17,ông
+18,rõ_ràng mới sản_phẩm
+19,chúng_ta phân_công_cụ_thể về công_việc quyền_lợi
+20,doanh_nghiệp đặt_hàng mình phối_hợp nhà_trường đào_tạo mình chương_trình hỗ_trợ đáp_ứng nhu_cầu doanh_nghiệp
+21,báo_chí lúc_nào đưa tin sinh_viên trường việc_làm còn mình tuyển ”
+22,ông long phân_trần “ mấy năm ngành bất_động_sản “ nóng ” quá sinh_viên hướng ”
+23,ông thăng nói “ kỹ_sư phần_mềm oách quá
+24,vấn_đề anh lợi_nhuận cao trả lương thấp quá ”
+25,ông long lương tương_đối thấp
+26,ông thăng hỏi “ kỹ_sư phần_mềm trả bao_nhiêu tiền ”
+27,ông long biết lương trung_bình kỹ_sư 3 – 5 năm kinh_nghiệm 8 – 10 triệu đồng
+28,bí_thư thăng hỏi “ nhà kỹ_sư ở đâu ”
+29,ông long trả_lời đến 80 người nhập_cư
+30,“ thế làm_sao sống
+31,lương như_thế nhỉnh hơn công_nhân may tăng ca
+32,công_nhân lương 5 – 6 triệu sống ở nhà họ ăn nhà họ đi xe_buýt kỹ_sư phần_mềm khá hơn mới sống ” ông thăng nói
+33,cổ_phần hóa đãi_ngộ tương_xứng hút nhân_tài hài_lòng về mức thu_nhập kỹ_sư phầm mềm còn thấp bí_thư thăng hỏi ông long “ lương giám_đốc anh bao_nhiêu ”
+34,ông long đáp “ dạ tính hết tháng 24 triệu đồng / tháng ”
+35,bí_thư đinh_la_thăng nói “ lương giám_đốc một công_ty quản_lý công_viên phần_mềm kiểu_mẫu nước đứng top đầu khu_vực chừng sao
+36,lương cậu 10 lần thế mới động_lực làm_việc
+37,muốn lương cao thúc_đẩy cổ_phần_hóa nhanh ”
+38,nghe ông đinh_la_thăng đề_nghị cổ_phần_hóa ông long biết “ tốt quá
+39,cá_nhân em ủng_hộ ”
+40,“ tốt sao làm
+41,bây_giờ làm mô_hình cơ_chế nhà_nước khó_khăn
+42,một công_viên phần_mềm làm 220 triệu usd sản_phẩm năm không_thể chấp_nhận khó_khăn
+43,đề_xuất
+44,cổ_phần hóa mới kêu_gọi đầu_tư phát_triển nhanh ” bí_thư thăng hỏi
+45,ông long biết cổ_phần_hóa làm tiến_độ nhà_nước cho_phép làm nhanh
+46,“ chẳng cho_phép anh làm đi
+47,giữ làm ” ông thăng nói ngoại_trừ sản_phẩm công_trình tính bảo_mật giữ
+48,còn sản_phẩm công_trình khác bán lấy tiền tái_đầu_tư
+49,đề_xuất cơ_chế điều_kiện phát_triển mạnh hơn
+50,“ cổ_phần_hóa tư_nhân nhảy
+51,thị_trường điều_tiết cơ_chế đãi_ngộ tốt hơn thu_hút người tài
+52,còn lương_bổng hiện_nay tương_xứng khó phát_triển
+53,một trong nguyên_nhân chậm phát_triển hạ_tầng làm mô_hình nhà_nước ” ông thăng nói đề_nghị qtsc tập_trung cổ_phần_hóa
+54,cổ_phần_hóa năng_động hơn trong kêu_gọi đầu_tư phát_triển
+55,cán_bộ mua cổ_phần mới gắn_bó chiến_lược phát_triển lâu_dài công_ty … ông thăng tphcm thị_trường đầy năng_động tiềm_năng nhu_cầu cấp_thiết giải_quyết
+56,vì_vậy qtsc chủ_động sáng_tạo nhìn thấy nhu_cầu thành_phố đơn_vị doanh_nghiệp chào_mời sản_phẩm thay_vì chờ đặt_hàng
+57,“ thành_phố ứng_dụng công_nghệ_thông_tin chống ùn_tắc giao_thông giảm ô_nhiễm môi_trường chống ngập giảm tội_phạm hồ_sơ_cấp giấy_phép đầu_tư công_khai minh_bạch phần_mềm chống dạy thêm học thêm … anh làm đi
+58,thành_phố mua
+59,không_thể nói em làm thôi_thì chết ” ông thăng nói

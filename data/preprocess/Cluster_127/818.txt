@@ -1,8 +1,8 @@
 idx, sentence
-0,thời_gian gần đây  tài_khoản của swift và các cô bạn thân  gồm siêu mẫu cara_delevingne và gigi_hadid  bị tấn_công bởi hàng_loạt thông_điệp đe_doạ đáng sợ 
-1,theo trang tin tmz  chủ_nhân ca_khúc blank_space đã nhận được các tin nhắn có nội_dung kiểu  ta sẽ giết một_số trong các người   trong khi hadid  21 tuổi cũng bị khủng_bố tương_tự   những kẻ phải chết cuối_cùng cũng sẽ chết  chết chết chết chết  
-2, tin nhắn cô nhận được có ghi 
-3,một dòng tweet gửi đến delevingne  23 tuổi  thậm_chí còn đe_doạ thẳng_thừng những người bạn của cô   ta sẽ giết những người bạn của ngươi và ta rất vui vì điều đó  
-4,phóng_viên của trang này cũng cho hay  cảnh_sát đã phát_động một cuộc điều_tra nhằm vào các mối đe_dọa  đồng_thời xem_xét các thông_tin người dùng mạng xã_hội để lần ra thủ_phạm 
-5,ngoài vị_thế ngôi_sao  taylor  26 tuổi  cũng được biết đến với vai_trò trung_tâm của một nhóm bạn thân cũng toàn sao  gồm cara_delevingne  gigi_hadid  người_mẫu karlie_kloss  23 tuổi  và ngôi_sao nhạc pop selena_gomez  23 tuổi 
-6,nhóm thường thể_hiện tình bạn thân_thiết một_cách công_khai  thậm_chí họ còn xuất_hiện chung trên sân_khấu trong tour diễn thế_giới 1989 của swift cũng như trong mv  video âm_nhạc  bad_bloodmà cô trình_làng năm 2015 
+0,thời_gian gần tài_khoản swift cô bạn thân gồm siêu mẫu cara_delevingne gigi_hadid tấn_công hàng_loạt thông_điệp đe_doạ đáng sợ
+1,trang tin tmz chủ_nhân ca_khúc blank_space nhận tin nhắn nội_dung kiểu ta giết một_số trong người trong hadid 21 tuổi khủng_bố tương_tự kẻ chết cuối_cùng chết chết chết chết chết
+2,tin nhắn cô nhận ghi
+3,một dòng tweet gửi đến delevingne 23 tuổi thậm_chí còn đe_doạ thẳng_thừng người bạn cô ta giết người bạn ngươi ta vui
+4,phóng_viên trang hay cảnh_sát phát_động một cuộc điều_tra nhằm mối đe_dọa đồng_thời xem_xét thông_tin người dùng mạng xã_hội lần thủ_phạm
+5,ngoài vị_thế ngôi_sao taylor 26 tuổi biết đến vai_trò trung_tâm một nhóm bạn thân toàn sao gồm cara_delevingne gigi_hadid người_mẫu karlie_kloss 23 tuổi ngôi_sao nhạc pop selena_gomez 23 tuổi
+6,nhóm thường thể_hiện tình bạn thân_thiết công_khai thậm_chí họ còn xuất_hiện chung sân_khấu trong tour diễn thế_giới 1989 swift trong mv video âm_nhạc bad_bloodmà cô trình_làng năm 2015

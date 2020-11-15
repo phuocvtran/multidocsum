@@ -1,12 +1,12 @@
 idx, sentence
-0,vừa_qua  tại công_văn số 5 / cvhh  hiệp_hội tinh_dầu  hương_liệu  mỹ_phẩm việt_nam  bộ công_thương  tuyên_bố methylisothiazolinone  mit  và methylcholorothiazolinone  mct  được sử_dụng phổ_biến trên thế_giới trong sản_xuất mỹ_phẩm và không bị cấm theo quy_định của châu_âu  asean  cũng như việt_nam 
-1,theo đó  hai chất bảo_quản này chỉ giới_hạn nồng_độ  hàm_lượng và chưa có bằng_chứng khoa_học về việc mất an_toàn khi sử_dụng sản_phẩm mỹ_phẩm chứa các thành_phần trên 
-2,năm 2014  liên_minh_châu_âu  eu  từng yêu_cầu điều_chỉnh nồng_độ mit  mct để kiểm_soát nguy_cơ gây nhạy_cảm da 
-3,tuy_nhiên  đến nay chưa đưa ra báo_cáo chính_thức nào khẳng_định hai chất này gây mất an_toàn ở một lượng nhất_định 
-4,do_vậy  trước khi đưa ra thị_trường  doanh_nghiệp phải thực_hiện đánh_giá mức_độ an_toàn của sản_phẩm dựa trên công_thức cụ_thể 
-5,tại việt_nam  ngày 13/4/2015  cục quản_lý dược bộ y_tế ra quyết_định số 6577 / qldmp và khẳng_định  “ hỗn_hợp mct  mit theo tỷ_lệ 3  1 chỉ được phép sử_dụng trong các sản_phẩm rửa_sạch với nồng_độ không quá 00015  
-6,hỗn_hợp mct  mit theo tỷ_lệ 3  1 và có thêm mit không được sử_dụng trong sản_phẩm mỹ_phẫm ” 
-7,do chưa có cơ_sở khoa_học về sự mất an_toàn của hai chất trên  eu cũng đưa ra lộ_trình 20 tháng để doanh_nghiệp chuyển_đổi  điều_chỉnh hàm_lượng phù_hợp với quy_định 
-8,như_vậy theo lộ_trình chuyển_đổi 20 tháng  tính từ ngày 13/4/2015 của quyết_định số 6577 / qldmp và doanh_nghiệp đang tuân_thủ quy_định của bộ về thời_hạn áp_dụng 
-9,về tranh_cãi xung_quanh việc doanh_nghiệp không nêu rõ hàm_lượng chất bảo_quản trên bao_bì  hiệp_hội cho rằng ghi nhãn mỹ_phẩm thực_hiện theo thông_tư 06/2011 / ttbyt do bộ y_tế ban_hành 
-10,nội_dung thông_tư này phù_hợp với nghị_định mỹ_phẩm của đông_nam_á và quy_định về việc ghi nhãn hàng_hóa của chính_phủ 
+0,vừa_qua công_văn số 5 / cvhh hiệp_hội tinh_dầu hương_liệu mỹ_phẩm việt_nam bộ công_thương tuyên_bố methylisothiazolinone mit methylcholorothiazolinone mct sử_dụng phổ_biến thế_giới trong sản_xuất mỹ_phẩm cấm quy_định châu_âu asean việt_nam
+1,hai chất bảo_quản giới_hạn nồng_độ hàm_lượng bằng_chứng khoa_học về mất an_toàn sử_dụng sản_phẩm mỹ_phẩm chứa thành_phần
+2,năm 2014 liên_minh_châu_âu eu yêu_cầu điều_chỉnh nồng_độ mit mct kiểm_soát nguy_cơ gây nhạy_cảm da
+3,tuy_nhiên đến nay đưa báo_cáo chính_thức nào khẳng_định hai chất gây mất an_toàn ở một lượng nhất_định
+4,do_vậy đưa thị_trường doanh_nghiệp thực_hiện đánh_giá mức_độ an_toàn sản_phẩm dựa công_thức cụ_thể
+5,việt_nam ngày 13/4/2015 cục quản_lý dược bộ y_tế quyết_định số 6577 / qldmp khẳng_định “ hỗn_hợp mct mit tỷ_lệ 3 1 phép sử_dụng trong sản_phẩm rửa_sạch nồng_độ quá 00015
+6,hỗn_hợp mct mit tỷ_lệ 3 1 thêm mit sử_dụng trong sản_phẩm mỹ_phẫm ”
+7,cơ_sở khoa_học về mất an_toàn hai chất eu đưa lộ_trình 20 tháng doanh_nghiệp chuyển_đổi điều_chỉnh hàm_lượng phù_hợp quy_định
+8,như_vậy lộ_trình chuyển_đổi 20 tháng tính ngày 13/4/2015 quyết_định số 6577 / qldmp doanh_nghiệp tuân_thủ quy_định bộ về thời_hạn áp_dụng
+9,về tranh_cãi xung_quanh doanh_nghiệp nêu rõ hàm_lượng chất bảo_quản bao_bì hiệp_hội ghi nhãn mỹ_phẩm thực_hiện thông_tư 06/2011 / ttbyt bộ y_tế ban_hành
+10,nội_dung thông_tư phù_hợp nghị_định mỹ_phẩm đông_nam_á quy_định về ghi nhãn hàng_hóa chính_phủ

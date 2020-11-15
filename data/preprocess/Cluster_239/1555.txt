@@ -1,25 +1,25 @@
 idx, sentence
-0,anh đd chia_sẻ   mình thật không hiểu con được khen mặt gì nữa 
-1,thật hoang_mang quá   
-2,trên giấy_khen ghi rõ trường tiểu_học tân_phương  ứng_hòa  hà_nội khen_thưởng ngày 25/5/2016 do hiệu_trưởng trần_thị_tám_ký 
-3,không giải_thích nổi  anh đd đã đăng_tải lên mạng xã_hội facebook để  cầu_cứu  mọi người giải_thích cho bản_thân và chỉ sau vài giờ đăng_tải đã có hàng trăm người bình_luận chỉ trích kiểu khen  ẩu  này 
-4,rất nhiều người đã thẳng_thắn bày_tỏ quan_điểm về giấy_khen thiếu trách_nhiệm của nhà_trường như  bó_tay  thật không_thể hiểu nổi  
-5,có nhiều người nói rằng  đến hôm_nay mới được thấy giấy_khen như thế này  
-6,thậm_chí có người còn cho đây là một trò_đùa   kể_cả là khen nhưng khen vậy là chưa đầy_đủ 
-7,hoàn_thành tốt môn gì  giỏi cái gì thì phải ghi rõ thành_tích ấy 
-8,trường này định đùa phụ_huynh đây  
-9,một thành_viên khác phỏng_đoán   chắc tương_ứng với học_sinh tiên_tiến ngày_xưa nhé 
-10,khen từng mặt có nghĩa là có_mặt vẫn chưa được khen 
-11,giấy_khen này viết không rõ là khen mặt nào  
-12,facebooker thùy_giang viết   thật bó_tay với giấy_khen của trường này 
-13,định đánh đố phụ_huynh à 
-14,không hiểu danh_hiệu học_sinh khen từng mặt là như_thế_nào 
-15,giấy_khen như thế này thì không biết cần để làm gì khi mà cả phụ_huynh và học_sinh đều không hiểu 
-16,chắc chỉ để cho có  gọi là có bằng_khen 
-17,sao cứ phải phức_tạp lên như_thế 
-18,cứ như ngày trước xuất_sắc  giỏi  tiên_tiến  trung_bình  yếu cho dễ hiểu  
-19,số khác thì cho rằng đây là hậu_quả của việc áp_dụng máy_móc thông_tư 30  bỏ chấm điểm thay bằng nhận_xét  đánh_giá  trong giáo_dục tiểu_học 
-20,trao_đổi với báo phụ_nữ việt_nam  bà trần_thị_tám  hiệu_trưởng trường tiểu_học tân_phương  ứng_hòa  hà_nội  xác_nhận giấy_khen đó đúng là của trường mình 
-21,sở_dĩ giấy_khen ghi vậy là do nhà_trường thực_hiện theo thông_tư 30 
-22,chúng_tôi có hai hình_thức khen học_sinh toàn_diện và học_sinh khen từng mặt 
-23,khi pv hỏi khen từng mặt vậy liệu hiệu_trưởng có biết là em đó được khen về điều gì  bà tám phân_trần  thực_ra là phải cụ_thể_hóa_ra là từng mặt đấy là các em nổi_trội mặt nào  ví_dụ nổi_trội về môn toán  môn tiếng việt  hay thể_dục thể_thao  …
+0,anh đd chia_sẻ mình thật hiểu con khen mặt
+1,thật hoang_mang quá
+2,giấy_khen ghi rõ trường tiểu_học tân_phương ứng_hòa hà_nội khen_thưởng ngày 25/5/2016 hiệu_trưởng trần_thị_tám_ký
+3,giải_thích nổi anh đd đăng_tải mạng xã_hội facebook cầu_cứu mọi người giải_thích bản_thân vài giờ đăng_tải hàng trăm người bình_luận trích kiểu khen ẩu
+4,người thẳng_thắn bày_tỏ quan_điểm về giấy_khen thiếu trách_nhiệm nhà_trường bó_tay thật không_thể hiểu nổi
+5,người nói đến hôm_nay mới thấy giấy_khen thế
+6,thậm_chí người còn một trò_đùa kể_cả khen khen đầy_đủ
+7,hoàn_thành tốt môn giỏi ghi rõ thành_tích ấy
+8,trường định đùa phụ_huynh
+9,một thành_viên khác phỏng_đoán chắc tương_ứng học_sinh tiên_tiến ngày_xưa nhé
+10,khen mặt nghĩa có_mặt khen
+11,giấy_khen viết rõ khen mặt nào
+12,facebooker thùy_giang viết thật bó_tay giấy_khen trường
+13,định đánh đố phụ_huynh à
+14,hiểu danh_hiệu học_sinh khen mặt như_thế_nào
+15,giấy_khen thế biết làm phụ_huynh học_sinh hiểu
+16,chắc gọi bằng_khen
+17,sao phức_tạp như_thế
+18,ngày xuất_sắc giỏi tiên_tiến trung_bình yếu dễ hiểu
+19,số khác hậu_quả áp_dụng máy_móc thông_tư 30 bỏ chấm điểm thay bằng nhận_xét đánh_giá trong giáo_dục tiểu_học
+20,trao_đổi báo phụ_nữ việt_nam bà trần_thị_tám hiệu_trưởng trường tiểu_học tân_phương ứng_hòa hà_nội xác_nhận giấy_khen đúng trường mình
+21,sở_dĩ giấy_khen ghi nhà_trường thực_hiện thông_tư 30
+22,chúng_tôi hai hình_thức khen học_sinh toàn_diện học_sinh khen mặt
+23,pv hỏi khen mặt liệu hiệu_trưởng biết em khen về bà tám phân_trần thực_ra cụ_thể_hóa_ra mặt đấy em nổi_trội mặt nào ví_dụ nổi_trội về môn toán môn tiếng việt hay thể_dục thể_thao …

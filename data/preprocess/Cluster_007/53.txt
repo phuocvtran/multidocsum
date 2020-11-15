@@ -1,4 +1,4 @@
 idx, sentence
-0,thông_tin ban_đầu  vào thời_điểm trên  tại garage 93  đường giải_phóng  phường tân_thành   anh huy kéo điện để hàn thùng xe_tải cho khách_hàng 
-1,trong lúc làm_việc  anh huy không may bị điện giật bất_tỉnh 
-2,đến khoảng 16 giờ  anh trần_hữu_trung  34 tuổi  chủ xe  ra lấy xe thì phát_hiện anh huy nằm bất_tỉnh trên đất nên hô_hoán người dân đưa đi cấp_cứu tại bv đa_khoa tỉnh đắk_lắk 
+0,thông_tin ban_đầu thời_điểm garage 93 đường giải_phóng phường tân_thành anh huy kéo điện hàn thùng xe_tải khách_hàng
+1,trong làm_việc anh huy may điện giật bất_tỉnh
+2,đến khoảng 16 giờ anh trần_hữu_trung 34 tuổi chủ xe lấy xe phát_hiện anh huy nằm bất_tỉnh đất hô_hoán người dân đưa đi cấp_cứu bv đa_khoa tỉnh đắk_lắk

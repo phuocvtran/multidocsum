@@ -1,7 +1,7 @@
 idx, sentence
-0,ngày 28/5 vừa_qua  vna và tập_đoàn ana đã ký hợp_đồng và trao văn_kiện hợp_tác_chiến_lược dưới sự chứng_kiến của thủ_tướng nguyễn_xuân_phúc và thủ_tướng shinzo_abe 
-1,theo đó  tập_đoàn ana mua 8771  cổ_phần của vna với giá_trị 2431 tỉ đồng  tương_đương 109 triệu usd  
-2,các giao_dịch sẽ hoàn_tất vào ngày 172016 và ana sẽ chính_thức trở_thành cổ_đông chiến_lược của vietnam_airlines 
-3,hai bên dự_kiến sẽ triển_khai hợp_tác liên_danh và chương_trình khách_hàng thường_xuyên bắt_đầu từ ngày 30102016 trên 30 đường_bay nội_địa tại nhật_bản và việt_nam cùng 10 đường_bay quốc_tế giữa hai quốc_gia 
-4,khách_hàng thường_xuyên của mỗi hãng có_thể tích_lũy dặm khi bay trên các chuyến bay hợp_tác liên_danh giữa hai hãng và được trả thưởng trên các chuyến bay do hai hãng vừa là hãng tham_gia vừa là hãng khai_thác 
-5,bên_cạnh đó  vna và tập_đoàn ana sẽ tiến_hành hợp_tác trong hàng_loạt các dịch_vụ liên_quan đến làm thủ_tục hành_khách  dịch_vụ hàng_hóa  vận_tải  suất ăn  bảo_dưỡng máy_bay và các dịch_vụ khác tại các sân_bay ở nhật_bản và việt_nam 
+0,ngày 28/5 vừa_qua vna tập_đoàn ana ký hợp_đồng trao văn_kiện hợp_tác_chiến_lược chứng_kiến thủ_tướng nguyễn_xuân_phúc thủ_tướng shinzo_abe
+1,tập_đoàn ana mua 8771 cổ_phần vna giá_trị 2431 tỉ đồng tương_đương 109 triệu usd
+2,giao_dịch hoàn_tất ngày 172016 ana chính_thức trở_thành cổ_đông chiến_lược vietnam_airlines
+3,hai bên dự_kiến triển_khai hợp_tác liên_danh chương_trình khách_hàng thường_xuyên bắt_đầu ngày 30102016 30 đường_bay nội_địa nhật_bản việt_nam 10 đường_bay quốc_tế giữa hai quốc_gia
+4,khách_hàng thường_xuyên hãng tích_lũy dặm bay chuyến bay hợp_tác liên_danh giữa hai hãng trả thưởng chuyến bay hai hãng hãng tham_gia hãng khai_thác
+5,bên_cạnh vna tập_đoàn ana tiến_hành hợp_tác trong hàng_loạt dịch_vụ liên_quan đến làm thủ_tục hành_khách dịch_vụ hàng_hóa vận_tải suất ăn bảo_dưỡng máy_bay dịch_vụ khác sân_bay ở nhật_bản việt_nam

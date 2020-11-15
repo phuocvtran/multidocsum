@@ -1,10 +1,10 @@
 idx, sentence
-0,để cùng với lionel_messi trở_thành một trong hai cầu_thủ xuất_sắc nhất làng túc_cầu  cristiano_ronaldo đã dành hàng giờ trong các phòng tập để cải_thiện vóc_dáng cũng như duy_trì thể_lực tốt nhất 
-1,thế mới có chuyện  nhiều người nhận_định  ronaldo thành_công nhờ khổ_luyện 
-2,mới_đây  đích_thân hlv carlo_ancelotti đã lên_tiếng về người học_trò cũ 
-3,theo đó  ông rất hài_lòng với sự chuyên_nghiệp và khát_khao cực lớn của cr7 
-4,có lần  siêu_sao người bồ_đào_nha đã bỏ_mặc irina_shayk ở nhà một_mình chỉ để hồi_phục cơ_thể 
-5,chia_sẻ báo_giới  ancelotti cho biết  “ ronaldo là một cầu_thủ chuyên_nghiệp hiếm có 
-6,nhiều hôm  cậu ấy tới phòng ngâm mình trong nước_đá đến tận 3 giờ sáng  bỏ mặc bạn gái irina_shayk nằm đợi ở nhà 
-7,ronaldo cũng chưa từng quan_tâm đến tiền_bạc 
-8,cậu ấy luôn muốn mình là số 1 trong mọi lĩnh_vực  ”
+0,lionel_messi trở_thành một trong hai cầu_thủ xuất_sắc nhất làng túc_cầu cristiano_ronaldo dành hàng giờ trong phòng tập cải_thiện vóc_dáng duy_trì thể_lực tốt nhất
+1,thế mới người nhận_định ronaldo thành_công nhờ khổ_luyện
+2,mới_đây đích_thân hlv carlo_ancelotti lên_tiếng về người học_trò cũ
+3,ông hài_lòng chuyên_nghiệp khát_khao cực lớn cr7
+4,lần siêu_sao người bồ_đào_nha bỏ_mặc irina_shayk ở nhà một_mình hồi_phục cơ_thể
+5,chia_sẻ báo_giới ancelotti biết “ ronaldo một cầu_thủ chuyên_nghiệp hiếm
+6,hôm cậu ấy tới phòng ngâm mình trong nước_đá đến tận 3 giờ sáng bỏ mặc bạn gái irina_shayk nằm đợi ở nhà
+7,ronaldo quan_tâm đến tiền_bạc
+8,cậu ấy luôn muốn mình số 1 trong mọi lĩnh_vực ”

@@ -1,16 +1,16 @@
 idx, sentence
-0,vụ 19 triệu đồng tiền nước có diễn_biến mới 
-1,chủ_tịch hđqt đơn_vị cấp_nước nói   để tìm_hiểu rõ về việc giá nước tăng cao  chúng_tôi sẽ đưa đồng_hồ nước đi kiểm_định  
-2,những ngày qua dư_luận xã_hội quan_tâm tới vụ_việc gia_đình ông trần_công_ứng  62 tuổi  ở số 10 xóm lẻ  triều_khúc  tân_triều  thanh_trì  hà_nội  choáng_váng khi nhận được hóa_đơn tiền nước tăng cao bất_thường lên tới 19125036 đồng với số nước sử_dụng là 1029 m3 cho gia_đình 6 người 
-3,liên_quan tới vụ_việc này  chiều ngày 18/5  trao_đổi với pv  ông triệu_đình_nhã – chủ_tịch hđqt – giám_đốc hợp_tác_xã dvsx_nông_nghiệp thôn triều_khúc  xã tân_triều  thanh_trì  hà_nội cho biết  “ chúng_tôi đã nhận được thông_tin gia_đình phản_ánh  chiều ngày 18/5  chúng_tôi đã làm_việc với phía gia_đình ông trần_công_ứng về vấn_đề này 
-4,để tìm_hiểu rõ về việc giá điện nước tăng cao  chúng_tôi sẽ đưa đồng_hồ nước đi kiểm_định  sau đó sẽ thông_tin lại sau ” 
-5,cũng trong chiều cùng ngày  trao_đổi với chúng_tôi ông nguyễn_hữu_vỵ  chủ_tịch xã tân_triều cho rằng  ubnd xã chưa thấy ai báo_cáo về vụ_việc này 
-6,trước những thông_tin cho rằng việc cung_cấp nước_sạch cho người dân htx bán lại cho doanh_nghiệp tư_nhân để kinh_doanh_thu lợi_nhuận  ông vỵ cho hay  “ có việc htx để cho doanh_nghiệp tư_nhân kinh_doanh  nhưng nó là chủ_trương có từ trước  htx nông_nghiệp chuyển_đổi tên gọi theo luật còn trước_kia là của tập_thể 
-7,vị chủ_tịch xã này thông_tin thêm  “ về việc tiền nước nhà ông ứng tăng cao bất_thường  chúng_tôi sẽ làm_việc với hợp_tác_xã  tìm_hiểu xem nguyên_nhân và hướng giải_quyết của hợp_tác_xã như thế_nào 
-8,theo tôi việc này có_thể do đồng_hồ hoặc hệ_thống nước  chúng_tôi phải xác_định nguyên_nhân có_thể đưa đồng_hồ đi kiểm_định ” 
-9,trước đó  gia_đình ông trần_công_ứng  62 tuổi  ở số 10 xóm lẻ  triều_khúc  tân_triều  thanh_trì  hà_nội  đã choáng_váng khi nhận được hóa_đơn tiền nước lên tới 19125036 đồng với số nước sử_dụng là 1029 m3 cho gia_đình 6 người 
-10,những tháng trước  hóa_đơn tiền điện mà gia_đình ông phải chi_trả dao_động từ 200000 – 300000 đồng cho 6 người  4 người_lớn  2 trẻ nhỏ  sử_dụng 
-11,tuy_nhiên  cuối tháng 4 vừa_qua  gia_đình ông ứng đã thực_sự rất sốc khi được nhân_viên thu tiền nước thông_báo sử_dụng hết 1029 m3 nước với số tiền lên đến 19125036 đồng 
-12,ông ứng cho biết tháng 4 gia_đình ông vẫn sinh_hoạt như các tháng trước nhưng hóa_đơn tiền nước tăng gấp 100 lần 
-13,từ trước tới nay  chỉ có 2 lần tiền nước của gia_đình ông tăng cao hơn bình_thường nhưng cũng lên khoảng 800000  1 triệu đồng 
-14,cả 2 lần đó đều do phao nước tự_động trong bể hỏng nên nước bị tràn 
+0,vụ 19 triệu đồng tiền nước diễn_biến mới
+1,chủ_tịch hđqt đơn_vị cấp_nước nói tìm_hiểu rõ về giá nước tăng cao chúng_tôi đưa đồng_hồ nước đi kiểm_định
+2,ngày dư_luận xã_hội quan_tâm tới vụ_việc gia_đình ông trần_công_ứng 62 tuổi ở số 10 xóm lẻ triều_khúc tân_triều thanh_trì hà_nội choáng_váng nhận hóa_đơn tiền nước tăng cao bất_thường tới 19125036 đồng số nước sử_dụng 1029 m3 gia_đình 6 người
+3,liên_quan tới vụ_việc chiều ngày 18/5 trao_đổi pv ông triệu_đình_nhã – chủ_tịch hđqt – giám_đốc hợp_tác_xã dvsx_nông_nghiệp thôn triều_khúc xã tân_triều thanh_trì hà_nội biết “ chúng_tôi nhận thông_tin gia_đình phản_ánh chiều ngày 18/5 chúng_tôi làm_việc phía gia_đình ông trần_công_ứng về vấn_đề
+4,tìm_hiểu rõ về giá điện nước tăng cao chúng_tôi đưa đồng_hồ nước đi kiểm_định thông_tin ”
+5,trong chiều ngày trao_đổi chúng_tôi ông nguyễn_hữu_vỵ chủ_tịch xã tân_triều ubnd xã thấy ai báo_cáo về vụ_việc
+6,thông_tin cung_cấp nước_sạch người dân htx bán doanh_nghiệp tư_nhân kinh_doanh_thu lợi_nhuận ông vỵ hay “ htx doanh_nghiệp tư_nhân kinh_doanh nó chủ_trương htx nông_nghiệp chuyển_đổi tên gọi luật còn trước_kia tập_thể
+7,vị chủ_tịch xã thông_tin thêm “ về tiền nước nhà ông ứng tăng cao bất_thường chúng_tôi làm_việc hợp_tác_xã tìm_hiểu xem nguyên_nhân hướng giải_quyết hợp_tác_xã thế_nào
+8,tôi đồng_hồ hoặc hệ_thống nước chúng_tôi xác_định nguyên_nhân đưa đồng_hồ đi kiểm_định ”
+9,gia_đình ông trần_công_ứng 62 tuổi ở số 10 xóm lẻ triều_khúc tân_triều thanh_trì hà_nội choáng_váng nhận hóa_đơn tiền nước tới 19125036 đồng số nước sử_dụng 1029 m3 gia_đình 6 người
+10,tháng hóa_đơn tiền điện gia_đình ông chi_trả dao_động 200000 – 300000 đồng 6 người 4 người_lớn 2 trẻ nhỏ sử_dụng
+11,tuy_nhiên cuối tháng 4 vừa_qua gia_đình ông ứng thực_sự sốc nhân_viên thu tiền nước thông_báo sử_dụng hết 1029 m3 nước số tiền đến 19125036 đồng
+12,ông ứng biết tháng 4 gia_đình ông sinh_hoạt tháng hóa_đơn tiền nước tăng gấp 100 lần
+13,tới nay 2 lần tiền nước gia_đình ông tăng cao hơn bình_thường khoảng 800000 1 triệu đồng
+14,2 lần phao nước tự_động trong bể hỏng nước tràn

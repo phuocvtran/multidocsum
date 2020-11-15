@@ -1,14 +1,14 @@
 idx, sentence
-0,đây là dự_án đầu_tiên của việt_nam đầu_tư vào lĩnh_vực sản_xuất  chế_biến sữa tại lb_nga và là dự_án có vốn đầu_tư lớn nhất của việt_nam tại nga 
-1,dự lễ khởi_công có sự tham_dự của thủ_tướng chính_phủ nguyễn_xuân_phúc  phó_thủ_tướng  bộ_trưởng bộ ngoại_giao phạm_bình_minh  bộ_trưởng bộ nông_nghiệp lb_nga_nikolay_fyodorov  thống_đốc tỉnh moscow_andrey_vorobiev_iu và lãnh_đạo các bộ ngành của 2 nước cùng đại_diện đại_sứ_quán 15 nước  trong đó có sứ_quán của 10 nước asean 
-2,tại buổi lễ  bà thái_hương  chủ_tịch hđqt tập_đoàn th long_trọng tuyên_bố tập_đoàn th chính_thức khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại tỉnh moscow với tổng mức đầu_tư giai_đoạn i là 500 triệu usd 
-3,dự_kiến đến giữa năm 2017  sản_phẩm sữa_tươi sạch th đầu_tiên từ dự_án này sẽ ra_mắt tại xứ_sở bạch_dương 
-4,theo đó  đây là giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tập_trung quy_mô công_nghiệp và một_số dự_án về thực_phẩm mà tập_đoàn th đầu_tư tại lb_nga với tổng vốn đầu_tư là 27 tỷ usd 
-5,trong đó  dự_án sữa sẽ triển_khai theo 3 giai_đoạn 
-6,khi kết_thúc giai_đoạn 3  tổng_số đàn bò dự_kiến là 350000 con  tổng công_suất chế_biến sữa sẽ đạt 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm 
-7,tổng diện_tích vùng nguyên_liệu tập_trung cho dự_án này là 140000 ha 
-8,tập_đoàn cũng dự_kiến sẽ thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn lb_nga  phát_biểu tại lễ khởi_công  thủ_tướng nguyễn_xuân_phúc nhận_định  “ nga là thị_trường tiêu_thụ sữa lớn  đầy tiềm_năng 
-9,việc triển_khai dự_án tại tỉnh moscow sẽ góp_phần quan_trọng vào việc phát_triển nông_nghiệp  tạo thêm công_ăn_việc_làm cho người dân sở_tại  cũng như người lao_động việt_nam tại lb_nga  đồng_thời tạo dựng hình_ảnh mới về hiệu_quả và sự đa_dạng trong các lĩnh_vực hợp_tác giữa việt_nam và lb_nga ” 
-10,thủ_tướng chính_phủ cũng đánh_giá cao tinh_thần dám nghĩ dám làm của bà thái_hương  chủ_tịch hđqt tập_đoàn th  khi quyết_định đưa dự_án việt_nam  sản_phẩm việt_nam vào thị_trường nga 
-11,thủ_tướng cũng bày_tỏ niềm_tin sâu_sắc của mình là tập_đoàn th sẽ thành_công tại dự_án này và mong rằng dự_án sẽ “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu của hai nước ” 
-12,bà thái hương đã bày_tỏ sự mong_muốn được đầu_tư vào những dự_án nông_nghiệp  để đất lành tại nước nga sẽ được bồi_đắp và sinh_lợi  phục_vụ người nga  “ từ thực_tiễn triển_khai dự_án tại nghệ_an  tôi muốn chia_sẻ tiếp một_số đúc_kết về kinh_nghiệm cốt_lõi đã làm nên sự thành_công của tập_đoàn th và xem đó như là cẩm_nang để tiếp_tục thành_công tại dự_án này trên đất_nước nga 
+0,dự_án đầu_tiên việt_nam đầu_tư lĩnh_vực sản_xuất chế_biến sữa lb_nga dự_án vốn đầu_tư lớn nhất việt_nam nga
+1,dự lễ khởi_công tham_dự thủ_tướng chính_phủ nguyễn_xuân_phúc phó_thủ_tướng bộ_trưởng bộ ngoại_giao phạm_bình_minh bộ_trưởng bộ nông_nghiệp lb_nga_nikolay_fyodorov thống_đốc tỉnh moscow_andrey_vorobiev_iu lãnh_đạo bộ ngành 2 nước đại_diện đại_sứ_quán 15 nước trong sứ_quán 10 nước asean
+2,buổi lễ bà thái_hương chủ_tịch hđqt tập_đoàn th long_trọng tuyên_bố tập_đoàn th chính_thức khởi_công dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tỉnh moscow tổng mức đầu_tư giai_đoạn i 500 triệu usd
+3,dự_kiến đến giữa năm 2017 sản_phẩm sữa_tươi sạch th đầu_tiên dự_án ra_mắt xứ_sở bạch_dương
+4,giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tập_trung quy_mô công_nghiệp một_số dự_án về thực_phẩm tập_đoàn th đầu_tư lb_nga tổng vốn đầu_tư 27 tỷ usd
+5,trong dự_án sữa triển_khai 3 giai_đoạn
+6,kết_thúc giai_đoạn 3 tổng_số đàn bò dự_kiến 350000 con tổng công_suất chế_biến sữa đạt 5900 tấn / ngày tương_đương gần 1800000 tấn / năm
+7,tổng diện_tích vùng nguyên_liệu tập_trung dự_án 140000 ha
+8,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng true_mart toàn lb_nga phát_biểu lễ khởi_công thủ_tướng nguyễn_xuân_phúc nhận_định “ nga thị_trường tiêu_thụ sữa lớn đầy tiềm_năng
+9,triển_khai dự_án tỉnh moscow góp_phần quan_trọng phát_triển nông_nghiệp tạo thêm công_ăn_việc_làm người dân sở_tại người lao_động việt_nam lb_nga đồng_thời tạo dựng hình_ảnh mới về hiệu_quả đa_dạng trong lĩnh_vực hợp_tác giữa việt_nam lb_nga ”
+10,thủ_tướng chính_phủ đánh_giá cao tinh_thần dám nghĩ dám làm bà thái_hương chủ_tịch hđqt tập_đoàn th quyết_định đưa dự_án việt_nam sản_phẩm việt_nam thị_trường nga
+11,thủ_tướng bày_tỏ niềm_tin sâu_sắc mình tập_đoàn th thành_công dự_án mong dự_án “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu hai nước ”
+12,bà thái hương bày_tỏ mong_muốn đầu_tư dự_án nông_nghiệp đất lành nước nga bồi_đắp sinh_lợi phục_vụ người nga “ thực_tiễn triển_khai dự_án nghệ_an tôi muốn chia_sẻ tiếp một_số đúc_kết về kinh_nghiệm cốt_lõi làm thành_công tập_đoàn th xem cẩm_nang tiếp_tục thành_công dự_án đất_nước nga

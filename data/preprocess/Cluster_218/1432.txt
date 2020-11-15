@@ -1,39 +1,39 @@
 idx, sentence
-0,trao_đổi với tuổi_trẻ chiều 16  ông trần_vĩnh_tuyến  phó_chủ_tịch ubnd tphcm cho biết đã làm_việc với công_ty singapore này và sẽ có văn_bản báo_cáo chính_thức với chủ_tịch ubnd tphcm
-1,ông cũng chia_sẻ thêm quan_điểm của ông là đồng_ý với đề_nghị của phía singapore 
-2,các bước tiến_hành cụ_thể sẽ được tính_toán thêm 
-3,theo ông tuyến  động_thái này không_chỉ nhằm tạo điểm nhấn cho du_lịch mà_còn góp_phần thúc_đẩy chính_quyền điện_tử mà tphcm đang triển_khai xây_dựng 
-4,“ muốn xây_dựng chính_quyền điện_tử thì phải có công_dân điện_tử 
-5,muốn vậy phải có hệ_thống wifi phủ_sóng hết ”  ông tuyến nói 
-6,ý_tưởng tốt nhưng phải nghiên_cứu kỹ trao_đổi với tuổi_trẻ về ý_tưởng này  bà văn_thị_bạch_tuyết  giám_đốc sở du_lịch tphcm  cho biết đây là một ý_tưởng rất tốt để kích_thích và giúp phát_triển du_lịch tphcm
-7,theo bà tuyết  du_khách trong và ngoài nước có_thể dễ_dàng tiếp_cận thông_tin trên internet qua mô_hình này sẽ là một điểm cộng thêm rất tốt cho sản_phẩm du_lịch tphcm
-8,bà tuyết cho biết đã yêu_cầu các bộ_phận liên_quan của sở đề_nghị được làm_việc với ubnd tp  sở thông_tin  truyền_thông  sở kế_hoạch  đầu_tư để có cơ_hội tiếp_cận nhà đầu_tư tìm_hiểu lộ_trình  phương_thức thực_hiện  cũng như các thông_tin liên_quan đến dự_án này nhằm phối_hợp triển_khai trong thời_gian sớm nhất 
-9,sau khi có thông_tin về doanh_nghiệp nước_ngoài đề_nghị triển_khai phủ_sóng wifi_toàn tphcm  một chuyên_gia về viễn_thông tại tphcm phân_tích  phủ_sóng wifi cho toàn tphcm có gần 10 triệu dân không phải chuyện đơn_giản 
-10,theo vị này  hiện tphcm có một_số điểm phát wifi miễn_phí chất_lượng tốt là phố đi bộ nguyễn_huệ và đường sách nguyễn_văn_bình 
-11,“ hạ_tầng và chi_phí vận_hành rất lớn 
-12,mặt_khác  đây còn là vấn_đề hệ_thống mạng viễn_thông chứ không đơn_giản là sóng wifi 
-13,mạng viễn_thông là lĩnh_vực kinh_doanh đặc_biệt  phải có giấy_phép riêng ”  chuyên_gia này phân_tích 
-14,đó là chưa kể quyền_lợi của các doanh_nghiệp viễn_thông trong nước sẽ bị ảnh_hưởng  đồng_thời việc một nhà_đầu_tư nước_ngoài phủ_sóng wifi cũng xuất_hiện lo_ngại về an_toàn thông_tin 
-15,do_vậy  theo chuyên_gia này  phải nghiên_cứu thật kỹ những điều_kiện phía singapore đưa ra trước khi chấp_nhận đề_nghị 
-16,ông trần_vĩnh_tuyến khẳng_định  “ phải phủ_sóng wifi để nắm an_toàn thông_tin ” 
-17,theo nguồn tin riêng của tuổi_trẻ  doanh_nghiệp singapore này đã liên_hệ với một_số cơ_quan_chức_năng có liên_quan của việt_nam để đảm_bảo vấn_đề an_toàn thông_tin được quản_lý tốt 
-18,đà_nẵng  hội_an  thuận_tiện  nhanh_chóng tại đà_nẵng  từ tháng 112012  dự_án wifi miễn_phí đã được triển_khai với kinh_phí đầu_tư hơn 1 triệu usd tiết_kiệm từ các gói thầu thuộc tiểu dự_án phát_triển công_nghệ_thông_tin và truyền_thông tại đà_nẵng do ngân_hàng thế_giới tài_trợ 
-19,giai_đoạn 2 của dự_án được triển_khai từ năm 2013  nâng tổng vốn đầu_tư dự_án lên 2 triệu usd 
-20,năm 2014  hệ_thống wifi miễn_phí của đà_nẵng chính_thức được vận_hành 
-21,so với thời_gian thử_nghiệm  hệ_thống wifi được nâng_cấp với băng thông trong nước lên đến 700 mbps  trước_đây chỉ 150 mbps  và băng thông quốc_tế lên đến 40 mbps  trước_đây là 10 mbps   mỗi ngày có khoảng 20000 lượt truy_cập 
-22,việc truy_cập vào wifi có giới_hạn 20 phút / lần truy_cập nhưng không giới_hạn số lần truy_cập trong ngày  nhằm hạn_chế trường_hợp chiếm_giữ kênh không cho người khác truy_cập  xem phim  chơi trò_chơi  đảm_bảo chất_lượng mạng  theo ghi_nhận  việc truy_cập vào hệ_thống wifi của đà_nẵng khá thuận_tiện và nhanh_chóng 
-23,sau khi vào cổng thông_tin của đà_nẵng  người dùng có_thể vào các trang khác theo sở_thích 
-24,còn tại hội_an  từ tháng 32012 đã có hệ_thống wifi miễn_phí  trở_thành tp đầu_tiên có hệ_thống wifi miễn_phí 
-25,theo sở thông_tin  truyền_thông quảng_nam  hệ_thống wifi tại hội_an được đầu_tư với tổng kinh_phí 25 tỉ đồng từ nguồn xã_hội_hóa với 350 điểm phát_sóng  hệ_thống wifi phủ_sóng tại tất_cả các điểm trong đô_thị cổ hội_an  giúp người dân và du_khách có_thể truy_cập internet miễn_phí với tốc_độ 256 kbps 
-26,sa_pa  tạm dừng theo ông hồ_khánh_quang  giám_đốc sở thông_tin  truyền_thông tỉnh lào_cai  do vướng_mắc một_số vấn_đề nên đề_án phủ_sóng wifi miễn_phí cho khu_vực sa_pa hiện đang tạm dừng 
-27,tới đây sở phối_hợp với một_số đơn_vị khác  trong đó có các đơn_vị viễn_thông  tiếp_tục hoàn_thiện đề_án để trình ubnd tỉnh thông_qua 
-28,theo tìm_hiểu của tuổi_trẻ  cuối năm 2014  ubnd tỉnh lào_cai đã tổ_chức lấy ý_kiến các cơ_quan_chức_năng về xây_dựng hệ_thống truyền_dẫn  trạm bts  trạm thu  phát_sóng  trên núi fansipan và hệ_thống wifi miễn_phí tại thị_trấn sa_pa 
-29,tuy_nhiên  từ đó đến nay đề_án vẫn chưa được hoàn_thiện để triển_khai 
-30,hạ_long  wifi thu phí tại tp hạ_long  tỉnh quảng_ninh   năm 2012 tập_đoàn vnpt triển_khai dự_án cung_cấp dịch_vụ wifi thu phí tại tp hạ_long để phục_vụ thông_tin cho nhà_đầu_tư  người dân và du_khách 
-31,trong thời_gian triển_khai thử_nghiệm khoảng một tháng  nhân_sự_kiện carnaval hạ_long 2012  nhà_cung_cấp dịch_vụ cho người dân và du_khách truy_cập miễn_phí internet với chất_lượng đường truyền tốt 
-32,tuy_nhiên  từ giữa năm 2013 đến nay  vnpt bắt_đầu thu phí dịch_vụ theo giá cước quy_định của tập_đoàn  từ đó bộc_lộ nhiều bất_cập 
-33,trừ một_số trang_web của tỉnh quảng_ninh được cung_cấp miễn_phí  người dân và du_khách phải mua thẻ nạp hoặc nạp tiền qua tin nhắn 
-34,anh nguyễn_đỗ_quang  phồng_hà  tp hạ_long  cho biết  “ tôi có thử vào hệ_thống vnpt_wifi nhưng chỉ vào được một hai trang_web của tỉnh và trang nạp tiền của vnpt  cũng không thấy đơn_vị này có hướng_dẫn gì 
-35,bây_giờ có wifi nhà_hàng  3g nên cũng không mặn_mà gì ” 
-36,trong quá_trình khảo_sát  chúng_tôi đã di dọc một_số tuyến đường như nguyễn_văn_cừ  lê_thánh_tông  quốc_lộ 18a đoạn qua phường bãi_cháy  để dò sóng wifi nhưng không_thể_kết_nối hoặc truy_cập được dịch_vụ internet 
-37,trao_đổi với tuổi_trẻ  ông đinh_sỹ_nguyên  phó giám_đốc sở thông_tin  truyền_thông tỉnh quảng_ninh  khẳng_định hiệu_quả của dịch_vụ wifi không như mong_muốn 
+0,trao_đổi tuổi_trẻ chiều 16 ông trần_vĩnh_tuyến phó_chủ_tịch ubnd tphcm biết làm_việc công_ty singapore văn_bản báo_cáo chính_thức chủ_tịch ubnd tphcm
+1,ông chia_sẻ thêm quan_điểm ông đồng_ý đề_nghị phía singapore
+2,bước tiến_hành cụ_thể tính_toán thêm
+3,ông tuyến động_thái không_chỉ nhằm tạo điểm nhấn du_lịch mà_còn góp_phần thúc_đẩy chính_quyền điện_tử tphcm triển_khai xây_dựng
+4,“ muốn xây_dựng chính_quyền điện_tử công_dân điện_tử
+5,muốn hệ_thống wifi phủ_sóng hết ” ông tuyến nói
+6,ý_tưởng tốt nghiên_cứu kỹ trao_đổi tuổi_trẻ về ý_tưởng bà văn_thị_bạch_tuyết giám_đốc sở du_lịch tphcm biết một ý_tưởng tốt kích_thích giúp phát_triển du_lịch tphcm
+7,bà tuyết du_khách trong ngoài nước dễ_dàng tiếp_cận thông_tin internet mô_hình một điểm cộng thêm tốt sản_phẩm du_lịch tphcm
+8,bà tuyết biết yêu_cầu bộ_phận liên_quan sở đề_nghị làm_việc ubnd tp sở thông_tin truyền_thông sở kế_hoạch đầu_tư cơ_hội tiếp_cận nhà đầu_tư tìm_hiểu lộ_trình phương_thức thực_hiện thông_tin liên_quan đến dự_án nhằm phối_hợp triển_khai trong thời_gian sớm nhất
+9,thông_tin về doanh_nghiệp nước_ngoài đề_nghị triển_khai phủ_sóng wifi_toàn tphcm một chuyên_gia về viễn_thông tphcm phân_tích phủ_sóng wifi toàn tphcm gần 10 triệu dân đơn_giản
+10,vị hiện tphcm một_số điểm phát wifi miễn_phí chất_lượng tốt phố đi bộ nguyễn_huệ đường sách nguyễn_văn_bình
+11,“ hạ_tầng chi_phí vận_hành lớn
+12,mặt_khác còn vấn_đề hệ_thống mạng viễn_thông đơn_giản sóng wifi
+13,mạng viễn_thông lĩnh_vực kinh_doanh đặc_biệt giấy_phép riêng ” chuyên_gia phân_tích
+14,kể quyền_lợi doanh_nghiệp viễn_thông trong nước ảnh_hưởng đồng_thời một nhà_đầu_tư nước_ngoài phủ_sóng wifi xuất_hiện lo_ngại về an_toàn thông_tin
+15,do_vậy chuyên_gia nghiên_cứu thật kỹ điều_kiện phía singapore đưa chấp_nhận đề_nghị
+16,ông trần_vĩnh_tuyến khẳng_định “ phủ_sóng wifi nắm an_toàn thông_tin ”
+17,nguồn tin riêng tuổi_trẻ doanh_nghiệp singapore liên_hệ một_số cơ_quan_chức_năng liên_quan việt_nam đảm_bảo vấn_đề an_toàn thông_tin quản_lý tốt
+18,đà_nẵng hội_an thuận_tiện nhanh_chóng đà_nẵng tháng 112012 dự_án wifi miễn_phí triển_khai kinh_phí đầu_tư hơn 1 triệu usd tiết_kiệm gói thầu thuộc tiểu dự_án phát_triển công_nghệ_thông_tin truyền_thông đà_nẵng ngân_hàng thế_giới tài_trợ
+19,giai_đoạn 2 dự_án triển_khai năm 2013 nâng tổng vốn đầu_tư dự_án 2 triệu usd
+20,năm 2014 hệ_thống wifi miễn_phí đà_nẵng chính_thức vận_hành
+21,thời_gian thử_nghiệm hệ_thống wifi nâng_cấp băng thông trong nước đến 700 mbps trước_đây 150 mbps băng thông quốc_tế đến 40 mbps trước_đây 10 mbps ngày khoảng 20000 lượt truy_cập
+22,truy_cập wifi giới_hạn 20 phút / lần truy_cập giới_hạn số lần truy_cập trong ngày nhằm hạn_chế trường_hợp chiếm_giữ kênh người khác truy_cập xem phim chơi trò_chơi đảm_bảo chất_lượng mạng ghi_nhận truy_cập hệ_thống wifi đà_nẵng khá thuận_tiện nhanh_chóng
+23,cổng thông_tin đà_nẵng người dùng trang khác sở_thích
+24,còn hội_an tháng 32012 hệ_thống wifi miễn_phí trở_thành tp đầu_tiên hệ_thống wifi miễn_phí
+25,sở thông_tin truyền_thông quảng_nam hệ_thống wifi hội_an đầu_tư tổng kinh_phí 25 tỉ đồng nguồn xã_hội_hóa 350 điểm phát_sóng hệ_thống wifi phủ_sóng tất_cả điểm trong đô_thị cổ hội_an giúp người dân du_khách truy_cập internet miễn_phí tốc_độ 256 kbps
+26,sa_pa tạm dừng ông hồ_khánh_quang giám_đốc sở thông_tin truyền_thông tỉnh lào_cai vướng_mắc một_số vấn_đề đề_án phủ_sóng wifi miễn_phí khu_vực sa_pa hiện tạm dừng
+27,tới sở phối_hợp một_số đơn_vị khác trong đơn_vị viễn_thông tiếp_tục hoàn_thiện đề_án trình ubnd tỉnh thông_qua
+28,tìm_hiểu tuổi_trẻ cuối năm 2014 ubnd tỉnh lào_cai tổ_chức lấy ý_kiến cơ_quan_chức_năng về xây_dựng hệ_thống truyền_dẫn trạm bts trạm thu phát_sóng núi fansipan hệ_thống wifi miễn_phí thị_trấn sa_pa
+29,tuy_nhiên đến nay đề_án hoàn_thiện triển_khai
+30,hạ_long wifi thu phí tp hạ_long tỉnh quảng_ninh năm 2012 tập_đoàn vnpt triển_khai dự_án cung_cấp dịch_vụ wifi thu phí tp hạ_long phục_vụ thông_tin nhà_đầu_tư người dân du_khách
+31,trong thời_gian triển_khai thử_nghiệm khoảng một tháng nhân_sự_kiện carnaval hạ_long 2012 nhà_cung_cấp dịch_vụ người dân du_khách truy_cập miễn_phí internet chất_lượng đường truyền tốt
+32,tuy_nhiên giữa năm 2013 đến nay vnpt bắt_đầu thu phí dịch_vụ giá cước quy_định tập_đoàn bộc_lộ bất_cập
+33,trừ một_số trang_web tỉnh quảng_ninh cung_cấp miễn_phí người dân du_khách mua thẻ nạp hoặc nạp tiền tin nhắn
+34,anh nguyễn_đỗ_quang phồng_hà tp hạ_long biết “ tôi thử hệ_thống vnpt_wifi một hai trang_web tỉnh trang nạp tiền vnpt thấy đơn_vị hướng_dẫn
+35,bây_giờ wifi nhà_hàng 3g mặn_mà ”
+36,trong quá_trình khảo_sát chúng_tôi di dọc một_số tuyến đường nguyễn_văn_cừ lê_thánh_tông quốc_lộ 18a đoạn phường bãi_cháy dò sóng wifi không_thể_kết_nối hoặc truy_cập dịch_vụ internet
+37,trao_đổi tuổi_trẻ ông đinh_sỹ_nguyên phó giám_đốc sở thông_tin truyền_thông tỉnh quảng_ninh khẳng_định hiệu_quả dịch_vụ wifi mong_muốn

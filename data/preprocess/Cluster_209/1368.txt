@@ -1,7 +1,7 @@
 idx, sentence
-0,theo thỏa_thuận hợp_tác vừa được ký sáng nay  1/6   vingroup và các công_ty thành_viên sẽ triển_khai các gói giải_pháp kết_hợp giữa bán hàng và tư_vấn về công_nghệ quản_trị  kiểm_soát chất_lượng  marketing  cho các doanh_nghiệp tham_gia vào hệ_thống tại 18 tỉnh  thành 
-1,cụ_thể  tập_đoàn này đã ký hợp_tác về phân_phối với hơn 140 doanh_nghiệp 
-2,theo đó  trong vòng một năm  các đơn_vị nêu trên sẽ được hỗ_trợ đưa hàng vào hệ_thống siêu_thị vinmart và vinmart  với các điều_kiện ưu_đãi 
-3,riêng các doanh_nghiệp cung_ứng thực_phẩm  đặc_biệt là thực_phẩm tươi_sống như cá  thịt  gia_cầm  rau củ quả  trái_cây … sẽ được hưởng mức chiết_khấu 0   đơn_vị phân_phối không hưởng lãi  
-4,lợi_nhuận theo có được  do_đó sẽ giúp nhà_sản_xuất tái_đầu_tư vào chất_lượng  có thêm điều_kiện thực_hiện nghiêm_ngặt các tiêu_chuẩn  quy_định về an_toàn  vệ_sinh thực_phẩm 
-5,ngoài_ra  vingroup và gần 100 doanh_nghiệp khác cũng ký hợp_tác tăng_cường hiện_diện thương_hiệu trong hệ_sinh_thái hàng_hóa  dịch_vụ của tập_đoàn với các thương_hiệu vincom_retail  vinds  vinpro … cũng theo chương_trình  tập_đoàn này cho biết sẽ tham_gia góp vốn cho một_số doanh_nghiệp có nhu_cầu để tối_ưu_hóa sản_xuất  nâng cao chất_lượng  giảm chi_phí  nhằm tạo ra các thương_hiệu mạnh  tầm quốc_gia và tiến tới tầm quốc_tế 
+0,thỏa_thuận hợp_tác ký sáng nay 1/6 vingroup công_ty thành_viên triển_khai gói giải_pháp kết_hợp giữa bán hàng tư_vấn về công_nghệ quản_trị kiểm_soát chất_lượng marketing doanh_nghiệp tham_gia hệ_thống 18 tỉnh thành
+1,cụ_thể tập_đoàn ký hợp_tác về phân_phối hơn 140 doanh_nghiệp
+2,trong vòng một năm đơn_vị nêu hỗ_trợ đưa hàng hệ_thống siêu_thị vinmart vinmart điều_kiện ưu_đãi
+3,riêng doanh_nghiệp cung_ứng thực_phẩm đặc_biệt thực_phẩm tươi_sống cá thịt gia_cầm rau củ quả trái_cây … hưởng mức chiết_khấu 0 đơn_vị phân_phối hưởng lãi
+4,lợi_nhuận do_đó giúp nhà_sản_xuất tái_đầu_tư chất_lượng thêm điều_kiện thực_hiện nghiêm_ngặt tiêu_chuẩn quy_định về an_toàn vệ_sinh thực_phẩm
+5,ngoài_ra vingroup gần 100 doanh_nghiệp khác ký hợp_tác tăng_cường hiện_diện thương_hiệu trong hệ_sinh_thái hàng_hóa dịch_vụ tập_đoàn thương_hiệu vincom_retail vinds vinpro … chương_trình tập_đoàn biết tham_gia góp vốn một_số doanh_nghiệp nhu_cầu tối_ưu_hóa sản_xuất nâng cao chất_lượng giảm chi_phí nhằm tạo thương_hiệu mạnh tầm quốc_gia tiến tới tầm quốc_tế

@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 20/5  đội csđt tội_phạm về ttxh công_an quận thủ_đức  tphcm cho biết  đang lập hồ_sơ bàn_giao đối_tượng nguyễn_anh_tuấn  42 tuổi  ngụ quận bình_thạnh  cho công_an quận bình_thạnh  tphcm tiếp_tục xử_lý theo thẩm_quyền về hành_vi “ trộm_cắp tài_sản ” 
-1,theo hồ_sơ của cqđt  rạng sáng ngày 2/2  24 tết bính_thân   chị nguyễn_thị_diễm_t từ nhật_bản về thăm gia_đình và đón taxi của hãng v  sau đó xác_định tuấn là tài_xế  từ sân_bay tân_sơn_nhất về nhà ở phường tam_phú  quận thủ_đức 
-2,đến nhà  chị t đưa chiếc thẻ atm đa_năng và đọc mật_khẩu để tuấn cà_thẻ  thanh_toán số tiền hơn 200 nghìn đồng 
-3,khi lái_xe về giao_ca tại bãi xe trên đường phạm_văn_đồng  phường hiệp bình_chánh  quận thủ_đức  tuấn phát_hiện chiếc ví của chị t bỏ quên trên xe nên chiếm_đoạt 
-4,ngay trong đêm  gã tài_xế này đã liên_tục đến các trụ atm trên địa_bàn quận bình_thạnh  sử_dụng mật_khẩu y nhớ được để rút 14 lần với tổng_số tiền 34 triệu đồng của chị t  riêng chiếc ví của nạn nhận  tuấn lục_lọi lấy được 800 nghìn đồng rồi đến cầu bình_triệu ném chiếc ví có giấy_tờ xuống sông sài_gòn 
-5,sau khi phát_hiện để quên tài_sản  chị t đã đến công_an quận thủ_đức trình_báo_vụ_việc 
-6,tuy_nhiên nạn_nhân không nhớ được những đặc_điểm của chiếc taxi cũng như biển số xe  số tài … khiến việc truy_tìm tài_xế tưởng_chừng rơi vào ngõ_cụt 
-7,sau những ngày sum_họp cùng gia_đình  chị t trở_lại nhật_bản làm_việc mang theo nỗi buồn vì nghĩ rằng  chuyện tìm lại tài_sản của mình như “ mò kim đáy biển ” 
-8,tuy_nhiên  suốt thời_gian dài ròng_rã  các trình sát đội csđt công_an quận thủ_đức đã nỗ_lực lần tìm manh_mối  sử_dụng nhiều biện_pháp nghiệp_vụ và đặc_biệt là những hình_ảnh camera ghi_nhận tại các trụ atm thời_điểm đối_tượng sử_dụng thẻ của nạn_nhân để rút_tiền  công_an đã nhận_dạng được gã tài_xế tham_lam là nguyễn_anh_tuấn  tài_xế lái taxi của hãng v 
+0,ngày 20/5 đội csđt tội_phạm về ttxh công_an quận thủ_đức tphcm biết lập hồ_sơ bàn_giao đối_tượng nguyễn_anh_tuấn 42 tuổi ngụ quận bình_thạnh công_an quận bình_thạnh tphcm tiếp_tục xử_lý thẩm_quyền về hành_vi “ trộm_cắp tài_sản ”
+1,hồ_sơ cqđt rạng sáng ngày 2/2 24 tết bính_thân chị nguyễn_thị_diễm_t nhật_bản về thăm gia_đình đón taxi hãng v xác_định tuấn tài_xế sân_bay tân_sơn_nhất về nhà ở phường tam_phú quận thủ_đức
+2,đến nhà chị t đưa thẻ atm đa_năng đọc mật_khẩu tuấn cà_thẻ thanh_toán số tiền hơn 200 nghìn đồng
+3,lái_xe về giao_ca bãi xe đường phạm_văn_đồng phường hiệp bình_chánh quận thủ_đức tuấn phát_hiện ví chị t bỏ quên xe chiếm_đoạt
+4,trong đêm gã tài_xế liên_tục đến trụ atm địa_bàn quận bình_thạnh sử_dụng mật_khẩu y nhớ rút 14 lần tổng_số tiền 34 triệu đồng chị t riêng ví nạn nhận tuấn lục_lọi lấy 800 nghìn đồng đến cầu bình_triệu ném ví giấy_tờ xuống sông sài_gòn
+5,phát_hiện quên tài_sản chị t đến công_an quận thủ_đức trình_báo_vụ_việc
+6,tuy_nhiên nạn_nhân nhớ đặc_điểm taxi biển số xe số tài … khiến truy_tìm tài_xế tưởng_chừng rơi ngõ_cụt
+7,ngày sum_họp gia_đình chị t trở_lại nhật_bản làm_việc mang nỗi buồn nghĩ tìm tài_sản mình “ mò kim đáy biển ”
+8,tuy_nhiên suốt thời_gian dài ròng_rã trình sát đội csđt công_an quận thủ_đức nỗ_lực lần tìm manh_mối sử_dụng biện_pháp nghiệp_vụ đặc_biệt hình_ảnh camera ghi_nhận trụ atm thời_điểm đối_tượng sử_dụng thẻ nạn_nhân rút_tiền công_an nhận_dạng gã tài_xế tham_lam nguyễn_anh_tuấn tài_xế lái taxi hãng v

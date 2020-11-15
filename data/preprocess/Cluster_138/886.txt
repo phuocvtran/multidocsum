@@ -1,9 +1,9 @@
 idx, sentence
-0,theo thông_tin từ địa_phương  hiện chủ đầu_tư đang thuê tư_vấn đánh_giá tác_động môi_trường của dự_án 
-1,hồ_sơ thiết_kế công_trình cho biết công_trình thủy_điện này sẽ được xây_dựng theo kiểu đập dâng trên sông sêrêpôk  xã krôngna  huyện buôn_đôn có công_suất dự_kiến 26mw và tổng đầu_tư khoảng 850 tỉ đồng  do công_ty cổ_phần đầu_tư xây_dựng và ứng_dụng công_nghệ mới  tphcm  làm_chủ đầu_tư 
-2,nhận_định sơ_bộ về tác_động  bộ_nnptnt cho biết khi xây_dựng công_trình sẽ phải chuyển mục_đích sử_dụng 63 ha rừng  trong đó chuyển_đổi vĩnh_viễn 53 ha  chưa bao_gồm nhu_cầu sử_dụng đất rừng để xây_dựng đường_dây tải_điện  hành_lang tuyến và các cột_trụ điện khoảng 27 ha 
-3,ngoài_ra  quá_trình thi_công sẽ ảnh_hưởng trực_tiếp đến sinh_cảnh sống của các loài động_vật hoang_dã  đặc_biệt là voi và hổ có_thể bỏ đi nơi khác 
-4,việc xây_dựng đập  chặn dòng có_thể ảnh_hưởng đến hệ_sinh_thái  nhất_là các loài thủy_sinh 
-5,bộ nnptnt cũng cho hay hiện rừng tây_nguyên đang bị suy_giảm nghiêm_trọng  trong năm năm qua độ che_phủ rừng đã giảm 61   đặc_biệt khu_vực tiếp_giáp với vườn_quốc_gia yok_đôn nhiều khu_vực không còn rừng 
-6,các thay_đổi này kết_hợp với biến_đổi khí_hậu đang tác_động tiêu_cực đến đời_sống và phát_triển bền_vững ở tây_nguyên 
-7,“ bộ nnptnt đề_nghị chính_phủ xem_xét  dừng thực_hiện văn_bản số 1479 / 2009 về việc chuyển mục_đích sử_dụng rừng và đất lâm_nghiệp của vườn_quốc_gia yok_đôn để xây_dựng nhà_máy thủy_điện đrăng_phốk ”  bộ_nnptnt nhấn_mạnh 
+0,thông_tin địa_phương hiện chủ đầu_tư thuê tư_vấn đánh_giá tác_động môi_trường dự_án
+1,hồ_sơ thiết_kế công_trình biết công_trình thủy_điện xây_dựng kiểu đập dâng sông sêrêpôk xã krôngna huyện buôn_đôn công_suất dự_kiến 26mw tổng đầu_tư khoảng 850 tỉ đồng công_ty cổ_phần đầu_tư xây_dựng ứng_dụng công_nghệ mới tphcm làm_chủ đầu_tư
+2,nhận_định sơ_bộ về tác_động bộ_nnptnt biết xây_dựng công_trình chuyển mục_đích sử_dụng 63 ha rừng trong chuyển_đổi vĩnh_viễn 53 ha bao_gồm nhu_cầu sử_dụng đất rừng xây_dựng đường_dây tải_điện hành_lang tuyến cột_trụ điện khoảng 27 ha
+3,ngoài_ra quá_trình thi_công ảnh_hưởng trực_tiếp đến sinh_cảnh sống loài động_vật hoang_dã đặc_biệt voi hổ bỏ đi khác
+4,xây_dựng đập chặn dòng ảnh_hưởng đến hệ_sinh_thái nhất_là loài thủy_sinh
+5,bộ nnptnt hay hiện rừng tây_nguyên suy_giảm nghiêm_trọng trong năm năm độ che_phủ rừng giảm 61 đặc_biệt khu_vực tiếp_giáp vườn_quốc_gia yok_đôn khu_vực còn rừng
+6,thay_đổi kết_hợp biến_đổi khí_hậu tác_động tiêu_cực đến đời_sống phát_triển bền_vững ở tây_nguyên
+7,“ bộ nnptnt đề_nghị chính_phủ xem_xét dừng thực_hiện văn_bản số 1479 / 2009 về chuyển mục_đích sử_dụng rừng đất lâm_nghiệp vườn_quốc_gia yok_đôn xây_dựng nhà_máy thủy_điện đrăng_phốk ” bộ_nnptnt nhấn_mạnh

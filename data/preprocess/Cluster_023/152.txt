@@ -1,7 +1,7 @@
 idx, sentence
-0,hoa thịnh_đốn  rfi   hãng tin reuteurs cho biết ngày 17/5/2016  hoa_kỳ chính_thức tăng thuế nhập_khẩu thép của trung_quốc lên 522   đặc_biệt đối_với thép tấm cán nguội được sử_dụng trong công_nghiệp xe_hơi  côngtennơ và xây_dựng 
-1,các nhà_sản_xuất thép hoa_kỳ và châu_âu cáo_buộc trung_quốc bóp_méo thị_trường thép thế_giới và phá_giá với sản_lượng dư_thừa trong nước 
-2,thép chờ xuất_khẩu tại phần_dương  fenyang   tỉnh sơn_tây  trung_quốc  ngày 28/04/2016 
-3,theo hoa_kỳ  cạnh_tranh không bình_đẳng của trung … lượng thép nhập_khẩu của hoa_kỳ chỉ chiếm khoảng 2  lượng xuất_khẩu của trung_quốc 
-4,tuy_nhiên  do chống phá_giá  các nước nhập_khẩu thép của trung_quốc sẽ phân_tán hơn 
-5,trung_quốc cho biết sẽ tiếp_tục chính_sách hỗ_trợ thuế xuất_khẩu cho các nhà xuất_khẩu thép trung_quốc trong nỗ_lực vực dậy ngành này 
+0,hoa thịnh_đốn rfi hãng tin reuteurs biết ngày 17/5/2016 hoa_kỳ chính_thức tăng thuế nhập_khẩu thép trung_quốc 522 đặc_biệt đối_với thép tấm cán nguội sử_dụng trong công_nghiệp xe_hơi côngtennơ xây_dựng
+1,nhà_sản_xuất thép hoa_kỳ châu_âu cáo_buộc trung_quốc bóp_méo thị_trường thép thế_giới phá_giá sản_lượng dư_thừa trong nước
+2,thép chờ xuất_khẩu phần_dương fenyang tỉnh sơn_tây trung_quốc ngày 28/04/2016
+3,hoa_kỳ cạnh_tranh bình_đẳng trung … lượng thép nhập_khẩu hoa_kỳ chiếm khoảng 2 lượng xuất_khẩu trung_quốc
+4,tuy_nhiên chống phá_giá nước nhập_khẩu thép trung_quốc phân_tán hơn
+5,trung_quốc biết tiếp_tục chính_sách hỗ_trợ thuế xuất_khẩu nhà xuất_khẩu thép trung_quốc trong nỗ_lực vực dậy ngành

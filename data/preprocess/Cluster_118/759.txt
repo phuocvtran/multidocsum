@@ -1,8 +1,8 @@
 idx, sentence
-0,mới_đây nhất  theo một nguồn tin  trường kinh_tế và khoa_học_chính_trị london vừa bổ_nhiệm angelina_jolie làm giáo_sư thỉnh_giảng  giảng_dạy trong khoảng thời_gian ngắn vào năm tới 
-1,theo đó   bà smith  sẽ là một trong bốn giảng_viên thỉnh_giảng mới của trường 
-2,đồng_hành cùng angelina_jolie lần này còn có cựu bộ_trưởng ngoại_giao vương_quốc anh lord_william_hague 
-3,cụ_thể  angelina_jolie sẽ đảm_nhận giảng_dạy chương_trình thạc sỹ mới của trường với các vấn_đề xoay quanh nội_dung nữ_giới  hòa_bình và an_ninh 
-4,bắt_đầu từ mùa thu năm 2016 tới đây  cô sẽ tham_gia hội_thảo chuyên_gia  các sự_kiện cũng như tiến_hành nghiên_cứu của mình 
-5,theo đó  bà_xã brad_pitt với tư_cách là đặc_phái_viên của cao_ủy liên_hiệp_quốc về người tị_nạn cho biết  “ tôi rất khuyến_khích việc xây_dựng chương_trình thạc sỹ này trong các trường đại_học 
-6,điều quan_trọng nhất ở đây là chúng_ta mở_rộng việc_làm này như thế_nào để nâng cao hơn nữa quyền của phụ_nữ  chấm_dứt những việc_làm gây ảnh_hưởng xấu tới phụ_nữ như bạo_lực tình_dục trong các cuộc xung_đột   tôi rất háo_hức chờ đến ngày được giảng_dạy cũng như chia_sẻ kinh_nghiệm của bản_thân về quá_trình làm_việc với các chính_phủ và liên_hiệp_quốc với sinh_viên ” 
+0,mới_đây nhất một nguồn tin trường kinh_tế khoa_học_chính_trị london bổ_nhiệm angelina_jolie làm giáo_sư thỉnh_giảng giảng_dạy trong khoảng thời_gian ngắn năm tới
+1,bà smith một trong bốn giảng_viên thỉnh_giảng mới trường
+2,đồng_hành angelina_jolie lần còn cựu bộ_trưởng ngoại_giao vương_quốc anh lord_william_hague
+3,cụ_thể angelina_jolie đảm_nhận giảng_dạy chương_trình thạc sỹ mới trường vấn_đề xoay quanh nội_dung nữ_giới hòa_bình an_ninh
+4,bắt_đầu mùa thu năm 2016 tới cô tham_gia hội_thảo chuyên_gia sự_kiện tiến_hành nghiên_cứu mình
+5,bà_xã brad_pitt tư_cách đặc_phái_viên cao_ủy liên_hiệp_quốc về người tị_nạn biết “ tôi khuyến_khích xây_dựng chương_trình thạc sỹ trong trường đại_học
+6,quan_trọng nhất ở chúng_ta mở_rộng việc_làm thế_nào nâng cao hơn quyền phụ_nữ chấm_dứt việc_làm gây ảnh_hưởng xấu tới phụ_nữ bạo_lực tình_dục trong cuộc xung_đột tôi háo_hức chờ đến ngày giảng_dạy chia_sẻ kinh_nghiệm bản_thân về quá_trình làm_việc chính_phủ liên_hiệp_quốc sinh_viên ”

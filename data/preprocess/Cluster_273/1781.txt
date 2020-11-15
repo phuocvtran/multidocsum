@@ -1,5 +1,5 @@
 idx, sentence
-0,sáng ngày 36  thông_tin từ công_an tp vinh  tỉnh nghệ_an  cho biết đang khẩn_trương truy bắt một đối_tượng dùng dao chém chết anh võ_đình_toàn  28 tuổi   ngụ khối quang_trung  phường vinh_tân  tp vinh 
-1,trước đó  vào_khoảng 13 giờ 30 phút ngày 26  anh toàn đi ăn đám giỗ tại nhà một người quen trên đường đặng_văn_thụy  khối 15  phường cửa_nam  tp vinh 
-2,tại đây  anh toàn và một nam thanh_niên xảy ra mâu_thuẫn  cãi_vã 
-3,trong lúc xô_xát  bất_ngờ nam thanh_niên này rút dao chém nhiều nhát vào người anh toàn và một người phụ_nữ rồi bỏ trốn 
+0,sáng ngày 36 thông_tin công_an tp vinh tỉnh nghệ_an biết khẩn_trương truy bắt một đối_tượng dùng dao chém chết anh võ_đình_toàn 28 tuổi ngụ khối quang_trung phường vinh_tân tp vinh
+1,vào_khoảng 13 giờ 30 phút ngày 26 anh toàn đi ăn đám giỗ nhà một người quen đường đặng_văn_thụy khối 15 phường cửa_nam tp vinh
+2,anh toàn một nam thanh_niên xảy mâu_thuẫn cãi_vã
+3,trong xô_xát bất_ngờ nam thanh_niên rút dao chém nhát người anh toàn một người phụ_nữ bỏ trốn

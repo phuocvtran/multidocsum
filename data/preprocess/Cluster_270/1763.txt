@@ -1,21 +1,21 @@
 idx, sentence
-0,theo ông dụng  chiều ngày 26  hạt kiểm_lâm huyện nhận được tin báo của người_dân về việc một_số lâm_tặc hướng về phú_yên  dùng thuyền sắt men theo sông krông_năng  chảy qua xã krông_năng  huyện krông_pa và huyện sơn_hòa  tỉnh phú_yên  để vận_chuyển gỗ lậu 
-1,ngay sau đó  lãnh_đạo hạt kiểm_lâm đã cử 5 cán_bộ xuống hiện_trường để xác_minh vụ_việc gồm  phạm_văn_duy  trần_kim_vũ  lê_văn_hóa  đoàn_xuân_hồng và đinh_việt_hồng 
-2,khoảng 16 giờ  khi có_mặt tại hiện_trường  các cán_bộ kiểm_lâm phát_hiện một chiếc thuyền sắt với 4 lâm_tặc trên thuyền đang chở khoảng 45 m3 gỗ căm_xe xuôi về hướng phú_yên 
-3,trước tình_hình đó  4 cán_bộ kiểm_lâm đã dùng một chiếc thuyền nhỏ để bám theo 
-4,khi áp sát được thuyền của nhóm lâm_tặc  các cán_bộ kiểm_lâm yêu_cầu thuyền này dừng lại để hợp_tác làm_việc 
-5,tuy_nhiên  các đối_tượng lập_tức dùng mã_tấu  dao  gậy chém tới_tấp về về phía kiểm_lâm 
-6,thấy vậy  kiểm_lâm_viên đinh việt_hồng đã rút súng bắn 5 phát súng chỉ thiên_để thị_uy 
-7,dù_vậy  nhóm lâm_tặc vẫn tỏ ra rất manh_động  chúng dùng thuyền lớn đâm va vào thuyền nhỏ của kiểm_lâm 
-8,đồng_thời  cả nhóm dùng gậy dài  đâm về phía thuyền kiểm_lâm khiến hai kiểm_lâm_viên là phạm_văn_duy và lê_văn_hóa bị_thương 
-9,thấy tình_thế cấp_bách  nhóm lâm_tặc lại tỏ ra quá hung_hãn  kiểm_lâm_viên đinh việt_hồng tiếp_tục rút súng bắn vào mạn_thuyền với ý_đồ cho nước vào chìm thuyền lâm_tặc 
-10,tuy_nhiên  trong quá_trình bắn  chiếc thuyền của kiểm_lâm bị đâm va mạnh nên chồng_chềnh  khiến đạn bay không chính_xác theo chủ_đích của anh hồng 
-11,viên đạn đã bay vào chân của đối_tượng nguyễn_sơn_đông  trú tỉnh phú_yên  
-12,thấy có người trúng đạn  nhóm lâm_tặc lập_tức cho thuyền chạy nhanh về hướng phú_yên 
-13,về_phần mình  các cán_bộ kiểm_lâm cũng đưa hai người bị_thương đến bệnh_viên huyện krông_pa 
-14,tại đây  kiểm_lâm_viên phạm_văn_duy phải khâu hai mũi ở phần tay còn anh lê_văn_hóa_bị xây_xát nhẹ 
-15,cũng theo ông dụng  đến tối 26  hạt kiểm_lâm nhận được tin từ công_an huyện krông_pa cho biết  đối_tượng nguyễn_sơn_đông đã tử_vong do mất quá nhiều máu 
-16,được biết  tại tuyến đường_sông krông_năng đã xảy ra một_số vụ_việc vận_chuyển gỗ lậu do các đối_tượng từ tỉnh phú_yên thực_hiện 
-17,các cơ_quan_chức_năng huyện krông_pa đã nhiều lần cử lực_lượng đi truy_quét nhưng đều vấp phải sự chống_đối quyết_liệt có phần hung_hãn  nguy_hiểm 
-18,ông dụng thông_tin  “ khoảng một năm trước  đã có cán_bộ kiểm_lâm bị các lâm_tặc tấn_công dẫn đến thương_tích nặng ở tay 
-19,ngoài_ra  lâm_tặc nhiều lần lớn_tiếng thách_thức các lực_lượng chức_năng trong các lần truy_đuổi ” 
+0,ông dụng chiều ngày 26 hạt kiểm_lâm huyện nhận tin báo người_dân về một_số lâm_tặc hướng về phú_yên dùng thuyền sắt men sông krông_năng chảy xã krông_năng huyện krông_pa huyện sơn_hòa tỉnh phú_yên vận_chuyển gỗ lậu
+1,lãnh_đạo hạt kiểm_lâm cử 5 cán_bộ xuống hiện_trường xác_minh vụ_việc gồm phạm_văn_duy trần_kim_vũ lê_văn_hóa đoàn_xuân_hồng đinh_việt_hồng
+2,khoảng 16 giờ có_mặt hiện_trường cán_bộ kiểm_lâm phát_hiện một thuyền sắt 4 lâm_tặc thuyền chở khoảng 45 m3 gỗ căm_xe xuôi về hướng phú_yên
+3,tình_hình 4 cán_bộ kiểm_lâm dùng một thuyền nhỏ bám
+4,áp sát thuyền nhóm lâm_tặc cán_bộ kiểm_lâm yêu_cầu thuyền dừng hợp_tác làm_việc
+5,tuy_nhiên đối_tượng lập_tức dùng mã_tấu dao gậy chém tới_tấp về về phía kiểm_lâm
+6,thấy kiểm_lâm_viên đinh việt_hồng rút súng bắn 5 phát súng thiên_để thị_uy
+7,dù_vậy nhóm lâm_tặc tỏ manh_động chúng dùng thuyền lớn đâm va thuyền nhỏ kiểm_lâm
+8,đồng_thời nhóm dùng gậy dài đâm về phía thuyền kiểm_lâm khiến hai kiểm_lâm_viên phạm_văn_duy lê_văn_hóa bị_thương
+9,thấy tình_thế cấp_bách nhóm lâm_tặc tỏ quá hung_hãn kiểm_lâm_viên đinh việt_hồng tiếp_tục rút súng bắn mạn_thuyền ý_đồ nước chìm thuyền lâm_tặc
+10,tuy_nhiên trong quá_trình bắn thuyền kiểm_lâm đâm va mạnh chồng_chềnh khiến đạn bay chính_xác chủ_đích anh hồng
+11,viên đạn bay chân đối_tượng nguyễn_sơn_đông trú tỉnh phú_yên
+12,thấy người trúng đạn nhóm lâm_tặc lập_tức thuyền chạy nhanh về hướng phú_yên
+13,về_phần mình cán_bộ kiểm_lâm đưa hai người bị_thương đến bệnh_viên huyện krông_pa
+14,kiểm_lâm_viên phạm_văn_duy khâu hai mũi ở phần tay còn anh lê_văn_hóa_bị xây_xát nhẹ
+15,ông dụng đến tối 26 hạt kiểm_lâm nhận tin công_an huyện krông_pa biết đối_tượng nguyễn_sơn_đông tử_vong mất quá máu
+16,biết tuyến đường_sông krông_năng xảy một_số vụ_việc vận_chuyển gỗ lậu đối_tượng tỉnh phú_yên thực_hiện
+17,cơ_quan_chức_năng huyện krông_pa lần cử lực_lượng đi truy_quét vấp chống_đối quyết_liệt phần hung_hãn nguy_hiểm
+18,ông dụng thông_tin “ khoảng một năm cán_bộ kiểm_lâm lâm_tặc tấn_công dẫn đến thương_tích nặng ở tay
+19,ngoài_ra lâm_tặc lần lớn_tiếng thách_thức lực_lượng chức_năng trong lần truy_đuổi ”

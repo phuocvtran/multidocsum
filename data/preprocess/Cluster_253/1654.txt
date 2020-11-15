@@ -1,10 +1,10 @@
 idx, sentence
-0,theo công_văn từ sở tttt_tphcm  yêu_cầu phòng_văn_hóa thông_tin các quận  huyện và các cơ_sở phát_hành sách ở tphcm phải thu_hồi phiên_bản in lần đầu_tiên cuốn sách nói trên 
-1,sở cũng yêu_cầu các đơn_vị sau khi thực_hiện xong  báo_cáo kết_quả về sở hạn chót vào ngày 106 tới đây 
-2,“ madam nhu trần_lệ_xuân_– quyền_lực bà rồng ” của nữ tác_giả monique_brinson_demery  do nxb_hội nhà_văn và phương_nam_book hợp_tác phát_hành  mai_sơn dịch  ngay khi vừa ra_mắt trong những ngày đầu_tiên của năm bính_thân đã có sức thu_hút mạnh_mẽ 
-3,cuốn sách dựng lên chân_dung của bà trần_lệ_xuân – vợ ngô_đình_nhu  nhân_vật lịch_sử từng làm tốn nhiều giấy mực của báo_chí trong và ngoài nước 
-4,bà từng được tờ new_york_times xem là người đàn_bà quyền_lực nhất châu_á 
-5,tuy_nhiên  sau khi xuất_bản  nhiều độc_giả đã phát_hiện ra hàng_loạt lỗi sai nghiêm_trọng về kiến_thức lịch_sử  bối_cảnh  nhân_vật  địa_danh và nhiều lỗi in ấn 
-6,ngày 262  cục xuất_bản đã có công_văn số yêu_cầu nhà_xuất_bản hội nhà_văn đình_chỉ cuốn sách madam_nhu  quyền_lực bà rồng bản in lần đầu_tiên để  rà_soát lại toàn_bộ nội_dung  chỉnh sửa một_số chi_tiết trong sách và bìa bốn  
-7,hiện_nay  trên thị_trường lưu_hành phiên_bản in lần đầu_tiên và tái_bản 
-8,theo công_văn của sở tttt chỉ yêu_cầu thu_hồi phiên_bản in lần đầu  như vậy  những cuốn sách tái_bản vẫn được phát_hành bình_thường 
+0,công_văn sở tttt_tphcm yêu_cầu phòng_văn_hóa thông_tin quận huyện cơ_sở phát_hành sách ở tphcm thu_hồi phiên_bản in lần đầu_tiên cuốn sách nói
+1,sở yêu_cầu đơn_vị thực_hiện xong báo_cáo kết_quả về sở hạn chót ngày 106 tới
+2,“ madam nhu trần_lệ_xuân_– quyền_lực bà rồng ” nữ tác_giả monique_brinson_demery nxb_hội nhà_văn phương_nam_book hợp_tác phát_hành mai_sơn dịch ra_mắt trong ngày đầu_tiên năm bính_thân sức thu_hút mạnh_mẽ
+3,cuốn sách dựng chân_dung bà trần_lệ_xuân – vợ ngô_đình_nhu nhân_vật lịch_sử làm tốn giấy mực báo_chí trong ngoài nước
+4,bà tờ new_york_times xem người đàn_bà quyền_lực nhất châu_á
+5,tuy_nhiên xuất_bản độc_giả phát_hiện hàng_loạt lỗi sai nghiêm_trọng về kiến_thức lịch_sử bối_cảnh nhân_vật địa_danh lỗi in ấn
+6,ngày 262 cục xuất_bản công_văn số yêu_cầu nhà_xuất_bản hội nhà_văn đình_chỉ cuốn sách madam_nhu quyền_lực bà rồng bản in lần đầu_tiên rà_soát toàn_bộ nội_dung chỉnh sửa một_số chi_tiết trong sách bìa bốn
+7,hiện_nay thị_trường lưu_hành phiên_bản in lần đầu_tiên tái_bản
+8,công_văn sở tttt yêu_cầu thu_hồi phiên_bản in lần đầu cuốn sách tái_bản phát_hành bình_thường

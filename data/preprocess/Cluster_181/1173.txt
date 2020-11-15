@@ -1,14 +1,14 @@
 idx, sentence
-0,sau mùa giải thành_công trong màu áo mu  tiền_đạo marcus_rashford đã được hlv roy_hodgson triệu_tập vào danh_sách sơ bộ đội_tuyển anh 
-1,mới_đây  cầu_thủ này tiếp_tục thể_hiện cái duyên của mình khi lập_công trong trận đấu giao_hữu với australia và trở_thành cầu_thủ trẻ tuổi nhất ghi_bàn trong trận ra_mắt tam_sư 
-2,chính điều đó đã giúp marcus_rashford đã được hlv roy_hodgson tin_tưởng và trao vé chính_thức tới euro 2016  bất_chấp việc trước đó  nhiều chuyên_gia đã dự_đoán rằng cầu_thủ này sẽ bị loại 
-3,như_vậy  ở euro 2016  đội_tuyển anh đã mang theo tới 5 tiền_đạo là jamie_vardy  leicester_city   marcus_rashford  man_utd   wayne_rooney  man_utd   daniel_sturridge  liverpool   harry_kane  tottenham  
-4,ỏ chiều ngược_lại  hai tiền_vệ danny_drinkwater  leicester_city  và andros_townsend  newcastle  đã bị loại 
-5,mặc_dù những người hâm_mộ tiếc_nuối với sự vắng_mặt của hai trường_hợp này nhưng dù_sao  họ đã xứng_đáng bị loại bởi không_thể thích_nghi với đội_tuyển anh 
-6,trong đó  andros_townsend đã vắng_mặt trong trận đấu với thổ nhĩ_kỳ và australia 
-7,còn danny_drinkwater đã thi_đấu 16 phút trước thổ nhĩ_kỳ và trọn_vẹn 90 phút trước australia nhưng không để lại nhiều dấu_ấn 
-8,vào đêm mai  đội_tuyển anh sẽ có trận giao_hữu cuối_cùng với bồ_đào_nha trước khi lên_đường dự_euro 2016 
-9,ở giải đấu này  tam_sư nằm chung bảng với nga  xứ wales và slovakia 
-10,danh_sách chính_thức dự euro 2016 của đội_tuyển anh  thủ_môn  3   joe_hart  manchester_city   tom_heaton  burnley   fraser_forster  southampton  
-11,hậu_vệ  7   john_stones  everton   nathaniel_clyne  liverpool   chris_smalling  manchester_united   ryan_bertrand  southampton   kyle_walker  tottenham   gary_cahill  chelsea   danny_rose  tottenham  
-12,tiền_vệ  8   adam_lallana  liverpool   dele_alli  tottenham   jordan_henderson  liverpool   raheem_sterling  man_city   ross_barkley  everton   eric_dier  tottenham   jack_wilshere  arsenal   james_milner  liverpool  
+0,mùa giải thành_công trong màu áo mu tiền_đạo marcus_rashford hlv roy_hodgson triệu_tập danh_sách sơ bộ đội_tuyển anh
+1,mới_đây cầu_thủ tiếp_tục thể_hiện duyên mình lập_công trong trận đấu giao_hữu australia trở_thành cầu_thủ trẻ tuổi nhất ghi_bàn trong trận ra_mắt tam_sư
+2,chính giúp marcus_rashford hlv roy_hodgson tin_tưởng trao vé chính_thức tới euro 2016 bất_chấp chuyên_gia dự_đoán cầu_thủ loại
+3,như_vậy ở euro 2016 đội_tuyển anh mang tới 5 tiền_đạo jamie_vardy leicester_city marcus_rashford man_utd wayne_rooney man_utd daniel_sturridge liverpool harry_kane tottenham
+4,ỏ chiều ngược_lại hai tiền_vệ danny_drinkwater leicester_city andros_townsend newcastle loại
+5,mặc_dù người hâm_mộ tiếc_nuối vắng_mặt hai trường_hợp dù_sao họ xứng_đáng loại không_thể thích_nghi đội_tuyển anh
+6,trong andros_townsend vắng_mặt trong trận đấu thổ nhĩ_kỳ australia
+7,còn danny_drinkwater thi_đấu 16 phút thổ nhĩ_kỳ trọn_vẹn 90 phút australia dấu_ấn
+8,đêm mai đội_tuyển anh trận giao_hữu cuối_cùng bồ_đào_nha lên_đường dự_euro 2016
+9,ở giải đấu tam_sư nằm chung bảng nga xứ wales slovakia
+10,danh_sách chính_thức dự euro 2016 đội_tuyển anh thủ_môn 3 joe_hart manchester_city tom_heaton burnley fraser_forster southampton
+11,hậu_vệ 7 john_stones everton nathaniel_clyne liverpool chris_smalling manchester_united ryan_bertrand southampton kyle_walker tottenham gary_cahill chelsea danny_rose tottenham
+12,tiền_vệ 8 adam_lallana liverpool dele_alli tottenham jordan_henderson liverpool raheem_sterling man_city ross_barkley everton eric_dier tottenham jack_wilshere arsenal james_milner liverpool

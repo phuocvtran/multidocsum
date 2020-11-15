@@ -1,7 +1,7 @@
 idx, sentence
-0,tin_tức đăng_tải trên báo tiền_phong cho hay  trong phiên_tòa sáng nay  tòa tuyên_phạt  ông trần_cảnh_lạc  chủ_tịch hội_đồng thành_viên  kiêm tổng_giám_đốc cty tnhh_mtv_mía đường tây_ninh  10 năm tù  ông trần_xuân_danh  trưởng_phòng kinh_doanh  thương_mại  9 năm tù_và bà nguyễn_thị_phúc  kế_toán_trưởng – 5 năm tù  cùng tội_danh “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
-1,ngoài án tù  tòa cũng tuyên buộc 3 bị_cáo bồi_hoàn số tiền mà nhà_nước bị thất_thoát 
-2,tại phiên_tòa  đại_diện viện_ksnd tỉnh tây_ninh giữ quyền công_tố đã đề_nghị hđxx xử_phạt trần_cảnh_lạc mức án 1012 năm tù  nguyễn_xuân_danh 810 năm tù_và nguyễn_thị_phúc 56 năm tù cùng về tội “ cố_ý làm trái quy_định của nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ” 
-3,như báo thanh_niên đã thông_tin  công_ty mía đường tây_ninh  trụ_sở kp 3  p 3  tptây_ninh  là doanh_nghiệp 100  vốn_nhà_nước do ông lạc làm tổng_giám_đốc 
-4,trong quá_trình kinh_doanh  ông lạc và ông nguyễn_xuân_danh  trưởng_phòng kinh_doanh_thương_mại  cố_ý làm trái thông_qua việc ký 5 hợp_đồng xuất_khẩu 4000 tấn tinh bột mì và 2270 tấn gạo sang trung_quốc với hình_thức trả chậm nhưng đối_tác không trả  làm thiệt_hại hơn 553 tỉ đồng 
-5,ngày 24/4/2014  cơ_quan csđt công_an tỉnh tây_ninh khởi_tố vụ_án  khởi_tố bị can lạc và danh  bắt tạm giam danh để phục_vụ điều_tra 
+0,tin_tức đăng_tải báo tiền_phong hay trong phiên_tòa sáng nay tòa tuyên_phạt ông trần_cảnh_lạc chủ_tịch hội_đồng thành_viên kiêm tổng_giám_đốc cty tnhh_mtv_mía đường tây_ninh 10 năm tù ông trần_xuân_danh trưởng_phòng kinh_doanh thương_mại 9 năm tù_và bà nguyễn_thị_phúc kế_toán_trưởng – 5 năm tù tội_danh “ cố_ý làm trái quy_định nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ”
+1,ngoài án tù tòa tuyên buộc 3 bị_cáo bồi_hoàn số tiền nhà_nước thất_thoát
+2,phiên_tòa đại_diện viện_ksnd tỉnh tây_ninh giữ quyền công_tố đề_nghị hđxx xử_phạt trần_cảnh_lạc mức án 1012 năm tù nguyễn_xuân_danh 810 năm tù_và nguyễn_thị_phúc 56 năm tù về tội “ cố_ý làm trái quy_định nhà_nước về quản_lý kinh_tế gây hậu_quả nghiêm_trọng ”
+3,báo thanh_niên thông_tin công_ty mía đường tây_ninh trụ_sở kp 3 p 3 tptây_ninh doanh_nghiệp 100 vốn_nhà_nước ông lạc làm tổng_giám_đốc
+4,trong quá_trình kinh_doanh ông lạc ông nguyễn_xuân_danh trưởng_phòng kinh_doanh_thương_mại cố_ý làm trái thông_qua ký 5 hợp_đồng xuất_khẩu 4000 tấn tinh bột mì 2270 tấn gạo sang trung_quốc hình_thức trả chậm đối_tác trả làm thiệt_hại hơn 553 tỉ đồng
+5,ngày 24/4/2014 cơ_quan csđt công_an tỉnh tây_ninh khởi_tố vụ_án khởi_tố can lạc danh bắt tạm giam danh phục_vụ điều_tra

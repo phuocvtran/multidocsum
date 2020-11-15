@@ -1,8 +1,8 @@
 idx, sentence
-0,trong thông_báo chính_thức tại vienna  bộ_trưởng nội_vụ wolfgang_sobotka cho biết với 503  số phiếu_bầu  ông van_der bellen đã vượt qua ông hofer  ứng_cử_viên của đảng_tự_do áo  fpo  chủ_trương dân_túy và phản_đối người di_cư 
-1,giành được 497  số phiếu_bầu  ông hofer chỉ người chỉ kém ông van_der ballen 31026 phiếu 
-2,phản_ứng trước kết_quả trên  thủ_tướng pháp manuel_valls nói rằng ông cảm_thấy  nhẹ_nhõm  
-3,nếu ông hofer giành chiến_thắng  áo sẽ trở_thành quốc_gia đầu_tiên thuộc liên_minh_châu_âu  eu  sở_hữu một nguyên_thủ quốc_gia chủ_trương cựu hữu 
-4,cùng ngày  ứng_cử_viên chủ_trương cựu hữu_norbert_hofer đã thừa_nhận thất_bại trong cuộc bầu_cử tổng_thống áo 
-5,trên trang facebook  ông hofer cho hay   dĩ_nhiên  tôi rất buồn 
-6,mong_muốn của tôi là được chăm_lo cho đất_nước tuyệt_vời này trên cương_vị tổng_thống  
+0,trong thông_báo chính_thức vienna bộ_trưởng nội_vụ wolfgang_sobotka biết 503 số phiếu_bầu ông van_der bellen vượt ông hofer ứng_cử_viên đảng_tự_do áo fpo chủ_trương dân_túy phản_đối người di_cư
+1,giành 497 số phiếu_bầu ông hofer người kém ông van_der ballen 31026 phiếu
+2,phản_ứng kết_quả thủ_tướng pháp manuel_valls nói ông cảm_thấy nhẹ_nhõm
+3,ông hofer giành chiến_thắng áo trở_thành quốc_gia đầu_tiên thuộc liên_minh_châu_âu eu sở_hữu một nguyên_thủ quốc_gia chủ_trương cựu hữu
+4,ngày ứng_cử_viên chủ_trương cựu hữu_norbert_hofer thừa_nhận thất_bại trong cuộc bầu_cử tổng_thống áo
+5,trang facebook ông hofer hay dĩ_nhiên tôi buồn
+6,mong_muốn tôi chăm_lo đất_nước tuyệt_vời cương_vị tổng_thống

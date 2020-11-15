@@ -1,8 +1,8 @@
 idx, sentence
-0,sáng 19/5  thông_tin từ sở y_tế đồng_tháp cho biết  dựa vào các triệu_chứng lâm_sàng cùng kết_quả điều_tra  thông_tin từ gia_đình  bệnh_viện đa_khoa đồng_tháp đã có kết_luận chính_thức trường_hợp em trần_nguyễn_hoài_nam  4 tuổi  tử_vong là do ngộ_độc thực_phẩm 
-1,món ăn chính gây ra vụ ngộ_độc trên là món khổ qua xào cóc  nhái  ếch chưa loại_bỏ nội_tạng 
-2,độc_tố bufotoxine có trong nội_tạng cóc là căn_nguyên gây ra ngộ_độc 
-3,trước đó  vào rạng sáng ngày 17/5 anh trần_văn_sơn em đi soi và bắt được hơn 1 kg cóc  nhái ếch 
-4,đến sáng cùng ngày vợ anh là chị nguyễn_thị_kim_loan mang một_nửa số cóc  nhái bắt được ra chế_biến  loại_bỏ hết nội_tạng  chuẩn_bị buổi cơm cho gia_đình 
-5,số cóc  nhái này chị loan làm món kho sả ớt cho cả gia_đình 9 người cùng ăn và không có chuyện gì xảy ra 
-6,số còn lại chỉ loan dùng làm món xào cùng với khổ_qua cho cả gia_đình ăn trong buổi cơm chiều  4 con cóc không loại_bỏ nội_tạng  
+0,sáng 19/5 thông_tin sở y_tế đồng_tháp biết dựa triệu_chứng lâm_sàng kết_quả điều_tra thông_tin gia_đình bệnh_viện đa_khoa đồng_tháp kết_luận chính_thức trường_hợp em trần_nguyễn_hoài_nam 4 tuổi tử_vong ngộ_độc thực_phẩm
+1,món ăn chính gây vụ ngộ_độc món khổ xào cóc nhái ếch loại_bỏ nội_tạng
+2,độc_tố bufotoxine trong nội_tạng cóc căn_nguyên gây ngộ_độc
+3,rạng sáng ngày 17/5 anh trần_văn_sơn em đi soi bắt hơn 1 kg cóc nhái ếch
+4,đến sáng ngày vợ anh chị nguyễn_thị_kim_loan mang một_nửa số cóc nhái bắt chế_biến loại_bỏ hết nội_tạng chuẩn_bị buổi cơm gia_đình
+5,số cóc nhái chị loan làm món kho sả ớt gia_đình 9 người ăn xảy
+6,số còn loan dùng làm món xào khổ_qua gia_đình ăn trong buổi cơm chiều 4 con cóc loại_bỏ nội_tạng

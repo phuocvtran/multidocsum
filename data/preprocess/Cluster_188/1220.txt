@@ -1,9 +1,9 @@
 idx, sentence
-0,mặc_dù chưa có những bằng_chứng về các mối đe_dọa cụ_thể song giới_chức nước này kêu_gọi công_dân mỹ thận_trọng khi du_lịch đến châu_âu 
-1,“ rõ_ràng là báo_động về khủng_bố có_thể đã hết thời_hạn  song chúng_tôi lo_ngại rằng đang phát_sinh những mối đe_dọa mới vào mùa hè năm nay 
-2,đó là nguy_cơ tiềm_tàng của các cuộc tấn_công khủng_bố trên khắp châu_âu  đặc_biệt mối đe_dọa tập_trung vào các sự_kiện lớn diễn ra trong tháng 6 và tháng 7 như giải vô_địch bóng_đá euro  giải đua xe_đạp vòng quanh nước pháp  tour de la_france  hay một lễ_hội lớn của giới trẻ thế_giới tại ba_lan ”  bộ ngoại_giao mỹ nhấn_mạnh 
-3,hiện cảnh_báo về khủng_bố của mỹ đưa ra sau vụ tấn_công ở brussels  bỉ  thiết_lập hồi tháng 3 đã thời_hạn nên bộ ngoại_giao mỹ đang cân_nhắc ban_hành một khuyến_cáo mới 
-4,giới_chức mỹ không ngăn_cản người dân du_lịch đến châu_âu trong mùa hè này song kêu_gọi công_dân mỹ đề_phòng trước các nguy_cơ khủng_bố nhằm vào các sự_kiện lớn  địa_điểm du_lịch  nhà_hàng lớn  các trung_tâm thương_mại  cảnh_báo về đi_lại của bộ ngoại_giao mỹ sẽ áp_dụng cho đến ngày 31/8 
-5,giải bóng_đá euro 2016 sẽ diễn ra trong 1 tháng từ ngày 10/6 đến 10/7 
-6,giải đua xe_đạp vòng quanh nước pháp  tour_de france  sẽ tổ_chức từ ngày 224 / 7 
-7,lễ_hội giới trẻ thế_giới diễn ra tại ba_lan vào từ ngày 2631 / 7 
+0,mặc_dù bằng_chứng về mối đe_dọa cụ_thể song giới_chức nước kêu_gọi công_dân mỹ thận_trọng du_lịch đến châu_âu
+1,“ rõ_ràng báo_động về khủng_bố hết thời_hạn song chúng_tôi lo_ngại phát_sinh mối đe_dọa mới mùa hè năm nay
+2,nguy_cơ tiềm_tàng cuộc tấn_công khủng_bố khắp châu_âu đặc_biệt mối đe_dọa tập_trung sự_kiện lớn diễn trong tháng 6 tháng 7 giải vô_địch bóng_đá euro giải đua xe_đạp vòng quanh nước pháp tour de la_france hay một lễ_hội lớn giới trẻ thế_giới ba_lan ” bộ ngoại_giao mỹ nhấn_mạnh
+3,hiện cảnh_báo về khủng_bố mỹ đưa vụ tấn_công ở brussels bỉ thiết_lập hồi tháng 3 thời_hạn bộ ngoại_giao mỹ cân_nhắc ban_hành một khuyến_cáo mới
+4,giới_chức mỹ ngăn_cản người dân du_lịch đến châu_âu trong mùa hè song kêu_gọi công_dân mỹ đề_phòng nguy_cơ khủng_bố nhằm sự_kiện lớn địa_điểm du_lịch nhà_hàng lớn trung_tâm thương_mại cảnh_báo về đi_lại bộ ngoại_giao mỹ áp_dụng đến ngày 31/8
+5,giải bóng_đá euro 2016 diễn trong 1 tháng ngày 10/6 đến 10/7
+6,giải đua xe_đạp vòng quanh nước pháp tour_de france tổ_chức ngày 224 / 7
+7,lễ_hội giới trẻ thế_giới diễn ba_lan ngày 2631 / 7

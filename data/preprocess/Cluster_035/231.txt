@@ -1,7 +1,7 @@
 idx, sentence
-0,cục quản_lý cạnh_tranh  bộ công_thương  vừa tiếp_tục có cảnh_báo về hoạt_động kinh_doanh đa cấp trái_phép của 14 doanh_nghiệp trên toàn_quốc 
-1,đây là các đơn_vị kinh_doanh đa cấp trên địa_bàn các địa_phương như hà_nội  11 trường_hợp   nghệ_an  quảng_nam  bà_rịa  vũng_tàu nhưng chưa thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận với cơ_quan có thẩm_quyền  đã bị phát_hiện và xử_lý 
-2,cục quản_lý cạnh_tranh cũng đề_nghị  trường_hợp người dân phát_hiện hoạt_động bán hàng đa cấp của số doanh_nghiệp trên  cần thông_báo với sở công_thương  cơ_quan công_an địa_phương hoặc cục để có biện_pháp xử_lý kịp_thời 
-3,những cảnh_báo liên_tục được cơ_quan quản_lý phát đi thời_gian qua sau nhiều vụ bê_bối trong lĩnh_vực bán hàng đa cấp  điển_hình là việc lãnh_đạo hệ_thống kinh_doanh đa cấp công_ty liên_kết_việt bị cơ_quan công_an khởi_tố  với cáo_buộc giả_danh công_ty thuộc bộ_quốc_phòng  lôi_kéo và lừa_đảo gần 60000 người 
-4,sở công_thương hà_nội cũng vừa có văn_bản đề_nghị xử_lý hoạt_động kinh_doanh đa cấp trái_phép của 21 doanh_nghiệp trên địa_bàn 
-5,13 công_ty trong danh_sách đã thông_báo dừng hoạt_động  song cơ_quan quản_lý cho biết sẽ tiếp_tục kiểm_tra  đề_phòng trường_hợp kinh_doanh  chui  
+0,cục quản_lý cạnh_tranh bộ công_thương tiếp_tục cảnh_báo về hoạt_động kinh_doanh đa cấp trái_phép 14 doanh_nghiệp toàn_quốc
+1,đơn_vị kinh_doanh đa cấp địa_bàn địa_phương hà_nội 11 trường_hợp nghệ_an quảng_nam bà_rịa vũng_tàu thực_hiện thủ_tục đăng_ký cấp giấy chứng_nhận cơ_quan thẩm_quyền phát_hiện xử_lý
+2,cục quản_lý cạnh_tranh đề_nghị trường_hợp người dân phát_hiện hoạt_động bán hàng đa cấp số doanh_nghiệp thông_báo sở công_thương cơ_quan công_an địa_phương hoặc cục biện_pháp xử_lý kịp_thời
+3,cảnh_báo liên_tục cơ_quan quản_lý phát đi thời_gian vụ bê_bối trong lĩnh_vực bán hàng đa cấp điển_hình lãnh_đạo hệ_thống kinh_doanh đa cấp công_ty liên_kết_việt cơ_quan công_an khởi_tố cáo_buộc giả_danh công_ty thuộc bộ_quốc_phòng lôi_kéo lừa_đảo gần 60000 người
+4,sở công_thương hà_nội văn_bản đề_nghị xử_lý hoạt_động kinh_doanh đa cấp trái_phép 21 doanh_nghiệp địa_bàn
+5,13 công_ty trong danh_sách thông_báo dừng hoạt_động song cơ_quan quản_lý biết tiếp_tục kiểm_tra đề_phòng trường_hợp kinh_doanh chui

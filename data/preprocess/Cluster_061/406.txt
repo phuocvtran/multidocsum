@@ -1,15 +1,15 @@
 idx, sentence
-0,tại buổi phỏng_vấn trên trang financial_times  carlo_ancelotti chia_sẻ  “ cristiano_ronaldo vẫn ở trung_tâm huấn_luyện ngâm nước_đá đến 3 giờ sáng mặc cho irina_shayk  bạn gái cũ  đợi ở nhà 
-1,cậu ấy cũng không quan_tâm đến tiền_bạc và chỉ khao_khát số_một ” 
-2,đầu năm 2015  cristiano_ronaldo và siêu mẫu irina_shayk chia_tay nhau 
-3,họ kết_thúc mối tình kéo_dài gần 5 năm và khiến nhiều người hâm_mộ cảm_thấy tiếc cho đôi  trai tài gái sắc  này 
-4,có không ít tin_đồn về những bóng_hồng xung_quanh ronaldo thời_gian qua  nhưng anh hiện chưa chính_thức giới_thiệu bạn gái mới từ khi mối quan_hệ với irina_shayk đổ_vỡ 
-5,sau khi tiết_lộ về cậu học_trò cũ ở real_madrid  hlv ancelotti chia_sẻ về phương_pháp huấn_luyện của mình 
-6,ông cho biết  “ có những việc cần được giải_quyết một_cách mềm_mỏng  nhưng đôi_khi phải cứng_rắn trong khi xử_lý công_việc ” 
-7,nhà cầm quân người italy tiết_lộ về câu_chuyện khi còn dẫn_dắt chelsea  2009  2011  
-8, chúng_tôi có cuộc họp chiến_thuật lúc 10 h30  nhưng didier_drogba vắng_mặt 
-9,tôi không biết cậu ấy bị tắc đường hay gặp rắc_rối gì 
-10,tuy_nhiên  drogba không được ra sân ” 
-11,hè này  carlo_ancelotti sẽ thay_thế pep_guardiola dẫn_dắt bayern_munich 
-12,ông được kỳ_vọng giúp đội bóng xứ bavaria trở_lại vị_trí số_một châu_âu 
-13,ba mùa giải gần đây dưới triều_đại pep_guardiola  clb chủ sân allianz_arena đều phải dừng chân ở bán_kết và thua các đội bóng của tây ban_nha  thất_bại tổng_cộng 05 trước real mùa 2013 / 14  thua 35 trước barca mùa 2014 / 15  hòa_22 trước atletico nhưng thua về thành_tích ghi_bàn sân khách trước atletico_madrid mùa 2015 / 16  
+0,buổi phỏng_vấn trang financial_times carlo_ancelotti chia_sẻ “ cristiano_ronaldo ở trung_tâm huấn_luyện ngâm nước_đá đến 3 giờ sáng mặc irina_shayk bạn gái cũ đợi ở nhà
+1,cậu ấy quan_tâm đến tiền_bạc khao_khát số_một ”
+2,đầu năm 2015 cristiano_ronaldo siêu mẫu irina_shayk chia_tay nhau
+3,họ kết_thúc mối tình kéo_dài gần 5 năm khiến người hâm_mộ cảm_thấy tiếc đôi trai tài gái sắc
+4,ít tin_đồn về bóng_hồng xung_quanh ronaldo thời_gian anh hiện chính_thức giới_thiệu bạn gái mới mối quan_hệ irina_shayk đổ_vỡ
+5,tiết_lộ về cậu học_trò cũ ở real_madrid hlv ancelotti chia_sẻ về phương_pháp huấn_luyện mình
+6,ông biết “ giải_quyết mềm_mỏng đôi_khi cứng_rắn trong xử_lý công_việc ”
+7,nhà cầm quân người italy tiết_lộ về câu_chuyện còn dẫn_dắt chelsea 2009 2011
+8,chúng_tôi cuộc họp chiến_thuật 10 h30 didier_drogba vắng_mặt
+9,tôi biết cậu ấy tắc đường hay gặp rắc_rối
+10,tuy_nhiên drogba sân ”
+11,hè carlo_ancelotti thay_thế pep_guardiola dẫn_dắt bayern_munich
+12,ông kỳ_vọng giúp đội bóng xứ bavaria trở_lại vị_trí số_một châu_âu
+13,ba mùa giải gần triều_đại pep_guardiola clb chủ sân allianz_arena dừng chân ở bán_kết thua đội bóng tây ban_nha thất_bại tổng_cộng 05 real mùa 2013 / 14 thua 35 barca mùa 2014 / 15 hòa_22 atletico thua về thành_tích ghi_bàn sân khách atletico_madrid mùa 2015 / 16

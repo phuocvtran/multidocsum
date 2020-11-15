@@ -1,11 +1,11 @@
 idx, sentence
-0,ngày 19/5  công_an tp pleiku cho biết  vừa nhận được đơn cầu_cứu của bà nông_thị_tươi  45 tuổi  thị_trấn phú_thiện  huyện phú_thiện  gia_lai  về việc phạm_ngọc_hùng  57 tuổi  trú thôn 1  xã trà_đa  tp pleiku  tự_xưng là phóng_viên báo_công_an tp đà_nẵng và nhận 100 triệu đồng tiền chạy_việc 
-1,bà tươi cho biết  có cháu là dương hoàng_phú đã hoàn_thành nghĩa_vụ quân_sự vào tháng 2/2014 và không được vào công_an chuyên_nghiệp 
-2,sau đó  do người quen giới_thiệu nên bà tươi đã gặp hùng để lo công_việc cho cháu 
-3,đồng_thời  hùng yêu_cầu gia_đình bà tươi đưa 100 triệu đồng thì mọi việc sẽ ổn_thỏa 
-4,bà tươi cho biết thêm  nhiều lần đưa tiền cho hùng nhưng chỉ có 2 lần là có giấy biên_nhận với tổng_số tiền 45 triệu đồng 
-5, tuy_nhiên  hùng lấy tiền và không lo được việc cho cháu tôi vào công_an chuyên_nghiệp 
-6,gia_đình chúng_tôi đã nhiều lần liên_hệ nhưng hùng tránh_mặt  thậm_chí hùng còn thách_thức  chửi_bới khi tôi yêu_cầu trả lại số tiền đã nhận   bà tươi cho biết 
-7,điều đáng nói  để tạo lòng tin với gia_đình bà tươi  hùng đã ghi vào 2 giấy biên_nhận tiền ghi đơn_vị công_tác là cán_bộ a43  bộ công_an  hiện công_tác tại báo_công_an tp đà_nẵng  thường_trú tại tây_nguyên 
-8,theo điều_tra của công_an tp_pleiku  không_chỉ riêng gia_đình bà tươi là nạn_nhân  hùng còn giả_danh cán_bộ công_an  phóng_viên báo_công_an tp đà_nẵng nhận tiền của một_số người dân tại địa_bàn huyện phú_thiện để chạy trường 
-9,trước đó  hùng đã nhận 6 triệu đồng để chạy cho con_gái của bà_hoàng_thị_bạch  thị_trấn phú_thiện  h_phú_thiện  vào trường_trung_cấp quân_y 
+0,ngày 19/5 công_an tp pleiku biết nhận đơn cầu_cứu bà nông_thị_tươi 45 tuổi thị_trấn phú_thiện huyện phú_thiện gia_lai về phạm_ngọc_hùng 57 tuổi trú thôn 1 xã trà_đa tp pleiku tự_xưng phóng_viên báo_công_an tp đà_nẵng nhận 100 triệu đồng tiền chạy_việc
+1,bà tươi biết cháu dương hoàng_phú hoàn_thành nghĩa_vụ quân_sự tháng 2/2014 công_an chuyên_nghiệp
+2,người quen giới_thiệu bà tươi gặp hùng lo công_việc cháu
+3,đồng_thời hùng yêu_cầu gia_đình bà tươi đưa 100 triệu đồng mọi ổn_thỏa
+4,bà tươi biết thêm lần đưa tiền hùng 2 lần giấy biên_nhận tổng_số tiền 45 triệu đồng
+5,tuy_nhiên hùng lấy tiền lo cháu tôi công_an chuyên_nghiệp
+6,gia_đình chúng_tôi lần liên_hệ hùng tránh_mặt thậm_chí hùng còn thách_thức chửi_bới tôi yêu_cầu trả số tiền nhận bà tươi biết
+7,đáng nói tạo lòng tin gia_đình bà tươi hùng ghi 2 giấy biên_nhận tiền ghi đơn_vị công_tác cán_bộ a43 bộ công_an hiện công_tác báo_công_an tp đà_nẵng thường_trú tây_nguyên
+8,điều_tra công_an tp_pleiku không_chỉ riêng gia_đình bà tươi nạn_nhân hùng còn giả_danh cán_bộ công_an phóng_viên báo_công_an tp đà_nẵng nhận tiền một_số người dân địa_bàn huyện phú_thiện chạy trường
+9,hùng nhận 6 triệu đồng chạy con_gái bà_hoàng_thị_bạch thị_trấn phú_thiện h_phú_thiện trường_trung_cấp quân_y

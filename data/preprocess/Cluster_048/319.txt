@@ -1,19 +1,19 @@
 idx, sentence
-0,theo cnn  nếu ba là con_số đủ để làm_nên một xu_hướng  thì ba vụ hack nhà_băng trong thời_gian qua đủ để cho thấy hệ_thống ngân_hàng toàn_cầu đang bị tấn_công 
-1,hồi tháng 12015  vụ tấn_công ngân_hàng banco del austro được nhà_băng này mô_tả trong vụ kiện được tòa_án liên_bang new_york xử_lý 
-2,những tên trộm chuyển 12 triệu usd của ngân_hàng vào các tài_khoản ở hồng_kông  dubai  new_york và los_angeles  theo hồ_sơ vụ_việc 
-3,cụ_thể  tiền của banco del austro được giữ trong các tài_khoản tại ngân_hàng mỹ wells_fargo 
-4,ngân_hàng ecuador cáo_buộc wells_fargo thất_bại trong việc nhận_biết và ngăn_chặn các lệnh chuyển tiền giả 
-5,wells fargo bác_bỏ cáo_buộc trên  cho hay họ không chịu trách_nhiệm cho những tổn_thất mà ngân_hàng bạn phải chịu 
-6,vụ kiện trên lần đầu được công_bố rộng_rãi hôm 205 bởi tờ báo the wall_street_journal  một tuần sau khi hội viễn_thông tài_chính liên ngân_hàng thế_giới  swift  hướng_dẫn khách_hàng cách đảm_bảo an_toàn cho mạng máy_tính của họ 
-7,swift cảnh_báo rằng hai vụ tấn_công trước đó nhằm vào ngân_hàng trung_ương bangladesh và ngân_hàng thương_mại_tpbank của việt_nam dường_như là “ một phần của chiến_dịch rộng_lớn hơn và có độ thích_nghi cao hơn ” 
-8,các tin tặc nhắm vào hai nhà_băng châu_á theo mô_hình được ngân_hàng banco del austro mô_tả  1 
-9,những kẻ tấn_công sử_dụng phần_mềm độc_hại để phá vỡ hệ_thống an_ninh địa_phương của một ngân_hàng  2 
-10,chúng có được quyền truy_cập vào mạng tin nhắn của swift  3 
-11,các tin nhắn lừa_đảo được gửi qua swift để tiền được chuyển từ các tài_khoản ở những ngân_hàng lớn 
-12,ba vụ tấn_công nhấn_mạnh tính dễ tổn_thương của các ngân_hàng nhỏ  vốn không đủ khả_năng tự_vệ tiên_tiến 
-13,nếu hacker có_thể đột_nhập vào một ngân_hàng yếu hơn  chúng có_thể tạo yêu_cầu giả để kéo tiền ra khỏi một nhà_băng lớn 
-14,“ thật không may  rủi_ro này đối_với swift mà nói thì không có gì mới trong bối_cảnh công_nghệ nay đã phát_triển còn bọn tin tặc thì ngày_càng tinh_vi hơn ”  các luật_sư của ngân_hàng banco del austro nói trong phiên_tòa hôm 313 
-15,swift cho hay họ chưa biết gì về vụ tấn_công ngân_hàng ecuador 
-16,“ chúng_tôi cần các khách_hàng thông_báo về những vụ tấn_công như_vậy nếu các vụ_việc liên_quan đến sản_phẩm và dịch_vụ của chúng_tôi  để chúng_tôi có_thể thông_báo và hỗ_trợ nhiều hơn cho cộng_đồng 
-17,chúng_tôi liên_lạc với các ngân_hàng có liên_quan để tìm thêm thông_tin và đang nhắc_nhở các khách_hàng của mình rằng họ có nghĩa_vụ thông_tin đến chúng_tôi ”  phát_ngôn_viên swift_natasha de teran nói 
+0,cnn ba con_số đủ làm_nên một xu_hướng ba vụ hack nhà_băng trong thời_gian đủ thấy hệ_thống ngân_hàng toàn_cầu tấn_công
+1,hồi tháng 12015 vụ tấn_công ngân_hàng banco del austro nhà_băng mô_tả trong vụ kiện tòa_án liên_bang new_york xử_lý
+2,tên trộm chuyển 12 triệu usd ngân_hàng tài_khoản ở hồng_kông dubai new_york los_angeles hồ_sơ vụ_việc
+3,cụ_thể tiền banco del austro giữ trong tài_khoản ngân_hàng mỹ wells_fargo
+4,ngân_hàng ecuador cáo_buộc wells_fargo thất_bại trong nhận_biết ngăn_chặn lệnh chuyển tiền giả
+5,wells fargo bác_bỏ cáo_buộc hay họ chịu trách_nhiệm tổn_thất ngân_hàng bạn chịu
+6,vụ kiện lần đầu công_bố rộng_rãi hôm 205 tờ báo the wall_street_journal một tuần hội viễn_thông tài_chính liên ngân_hàng thế_giới swift hướng_dẫn khách_hàng cách đảm_bảo an_toàn mạng máy_tính họ
+7,swift cảnh_báo hai vụ tấn_công nhằm ngân_hàng trung_ương bangladesh ngân_hàng thương_mại_tpbank việt_nam dường_như “ một phần chiến_dịch rộng_lớn hơn độ thích_nghi cao hơn ”
+8,tin tặc nhắm hai nhà_băng châu_á mô_hình ngân_hàng banco del austro mô_tả 1
+9,kẻ tấn_công sử_dụng phần_mềm độc_hại phá vỡ hệ_thống an_ninh địa_phương một ngân_hàng 2
+10,chúng quyền truy_cập mạng tin nhắn swift 3
+11,tin nhắn lừa_đảo gửi swift tiền chuyển tài_khoản ở ngân_hàng lớn
+12,ba vụ tấn_công nhấn_mạnh tính dễ tổn_thương ngân_hàng nhỏ vốn đủ khả_năng tự_vệ tiên_tiến
+13,hacker đột_nhập một ngân_hàng yếu hơn chúng tạo yêu_cầu giả kéo tiền khỏi một nhà_băng lớn
+14,“ thật may rủi_ro đối_với swift nói mới trong bối_cảnh công_nghệ nay phát_triển còn bọn tin tặc ngày_càng tinh_vi hơn ” luật_sư ngân_hàng banco del austro nói trong phiên_tòa hôm 313
+15,swift hay họ biết về vụ tấn_công ngân_hàng ecuador
+16,“ chúng_tôi khách_hàng thông_báo về vụ tấn_công như_vậy vụ_việc liên_quan đến sản_phẩm dịch_vụ chúng_tôi chúng_tôi thông_báo hỗ_trợ hơn cộng_đồng
+17,chúng_tôi liên_lạc ngân_hàng liên_quan tìm thêm thông_tin nhắc_nhở khách_hàng mình họ nghĩa_vụ thông_tin đến chúng_tôi ” phát_ngôn_viên swift_natasha de teran nói

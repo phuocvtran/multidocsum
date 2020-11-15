@@ -1,12 +1,12 @@
 idx, sentence
-0,chiều 20/5  ban kỷ_luật liên_đoàn bóng_đá việt_nam  vff  đã họp xem_xét pha vào bóng của trương_đình_luật  bbình_dương  khiến tiền_đạo felix  quảng_nam  phải rời sân bằng cáng  trong trận đấu bù vòng 2 vleague 2016 cách đây hai ngày 
-1,pha bóng xảy ra ở phút 85 của trận đấu  khi đkvđ_bbình_dương đang bị chủ nhà quảng_nam dẫn với tỷ_số 21  felix có pha vào bóng từ phía sau  đình_luật_nhảy lên rồi sau đó có động_tác giẫm cả hai chân vào người cầu_thủ đối_phương 
-2,điều đáng nói là sau đó trọng_tài nguyễn_trung_kiên chỉ rút thẻ_vàng cho felix vì cầu_thủ này đã vào bóng từ phía sau  trong khi trương_đình_luật không phải nhận thẻ  hay nhắc_nhở từ trọng_tài 
-3,trả_lời phóng_viên sau cuộc họp của ban kỷ_luật_vff  trưởng ban nguyễn_hải_hường nói  “ theo băng kỹ_thuật được btc giải chuyển sang  góc máy quay đặt phía sau cầu_môn cho thấy rõ_ràng đình_luật_giật chân đạp vào người felix 
-4,với một người kinh_nghiệm như đình_luật  pha bóng đó không_thể nói là vô_ý được ” 
-5,theo ông hường  do xác_định hành_động này là cố_ý nên chiếu theo khoản 3  điều 39 quy_định về kỷ_luật của vff  hậu_vệ_đình_luật sẽ bị phạt 15 triệu đồng và treo_giò 3 trận  tức nghỉ hết lượt đi vleague 2016  
-6,nói về việc đình_luật đang nằm trong danh_sách tập_trung đt việt_nam ngày 23/5 tới  ông hường cho biết án kỷ_luật chỉ áp_dụng ở vleague nên khả_năng cầu_thủ này mất suất ở đtqg là không cao 
-7,“ trong một_số trường_hợp  cầu_thủ vi_phạm về đạo_đức như bán_độ  hành_hung trọng_tài  thì ban kỷ_luật có quyền ra quyết_định treo_giò dài_hạn hoặc vĩnh_viễn  với phạm_vi tới cả đtqg 
-8,tuy_nhiên trường_hợp của đình_luật chưa đến mức như_vậy ”  ông hường lý_giải 
-9,kể từ khi hlv hữu_thắng lên dẫn_dắt đt việt_nam  trương_đình_luật đã được triệu_tập trở_lại đtqg và thi_đấu khá thành_công 
-10,nhiều người cho rằng  trung_vệ thuộc biên_chế bbình_dương  đang “ hồi_sinh ” mạnh_mẽ nhờ chiến_lược gia xứ nghệ 
+0,chiều 20/5 ban kỷ_luật liên_đoàn bóng_đá việt_nam vff họp xem_xét pha bóng trương_đình_luật bbình_dương khiến tiền_đạo felix quảng_nam rời sân bằng cáng trong trận đấu bù vòng 2 vleague 2016 cách hai ngày
+1,pha bóng xảy ở phút 85 trận đấu đkvđ_bbình_dương chủ nhà quảng_nam dẫn tỷ_số 21 felix pha bóng phía đình_luật_nhảy động_tác giẫm hai chân người cầu_thủ đối_phương
+2,đáng nói trọng_tài nguyễn_trung_kiên rút thẻ_vàng felix cầu_thủ bóng phía trong trương_đình_luật nhận thẻ hay nhắc_nhở trọng_tài
+3,trả_lời phóng_viên cuộc họp ban kỷ_luật_vff trưởng ban nguyễn_hải_hường nói “ băng kỹ_thuật btc giải chuyển sang góc máy quay đặt phía cầu_môn thấy rõ_ràng đình_luật_giật chân đạp người felix
+4,một người kinh_nghiệm đình_luật pha bóng không_thể nói vô_ý ”
+5,ông hường xác_định hành_động cố_ý chiếu khoản 3 39 quy_định về kỷ_luật vff hậu_vệ_đình_luật phạt 15 triệu đồng treo_giò 3 trận tức nghỉ hết lượt đi vleague 2016
+6,nói về đình_luật nằm trong danh_sách tập_trung đt việt_nam ngày 23/5 tới ông hường biết án kỷ_luật áp_dụng ở vleague khả_năng cầu_thủ mất suất ở đtqg cao
+7,“ trong một_số trường_hợp cầu_thủ vi_phạm về đạo_đức bán_độ hành_hung trọng_tài ban kỷ_luật quyền quyết_định treo_giò dài_hạn hoặc vĩnh_viễn phạm_vi tới đtqg
+8,tuy_nhiên trường_hợp đình_luật đến mức như_vậy ” ông hường lý_giải
+9,kể hlv hữu_thắng dẫn_dắt đt việt_nam trương_đình_luật triệu_tập trở_lại đtqg thi_đấu khá thành_công
+10,người trung_vệ thuộc biên_chế bbình_dương “ hồi_sinh ” mạnh_mẽ nhờ chiến_lược gia xứ nghệ

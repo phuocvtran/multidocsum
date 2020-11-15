@@ -1,8 +1,8 @@
 idx, sentence
-0,có_mặt tại tổ bầu_cử bản piêng_hòm  1 trong 3 tổ bầu_cử sớm của xã phà_đánh  trên các ngả đường trong bản đều rợp cờ tổ_quốc và cờ đảng 
-1,hơn 6 h sáng  đồng_bào dân_tộc trong trang_phục truyền_thống tiến về khu_vực bỏ_phiếu 
-2,xã phà đánh là một trong 18 đơn_vị bầu_cử sớm của huyện chủ_yếu của đồng_bào dân_tộc thái  khơ_mú 
-3,toàn xã có 10 tổ bầu_cử  với gần 2045 cử_tri 
-4,đây là địa_bàn rộng  khó_khăn của huyện 
-5,cử_tri lương_văn_thoong  sinh năm 1921 là cử_tri nhiều tuổi nhất cho biết  được tuyên_truyền thường_xuyên  nên các cử_tri và tôi đã nắm được đầy_đủ về mục_đích  ý_nghĩa của cuộc bầu_cử 
-6,tôi và các cử_tri sẽ sáng_suốt lựa_chọn những người có đức  có tài  có năng_lực giúp bà_con trong bản cũng như trong xã ngày_một phát_triển  từng bước xóa_đói_giảm_nghèo 
+0,có_mặt tổ bầu_cử bản piêng_hòm 1 trong 3 tổ bầu_cử sớm xã phà_đánh ngả đường trong bản rợp cờ tổ_quốc cờ đảng
+1,hơn 6 h sáng đồng_bào dân_tộc trong trang_phục truyền_thống tiến về khu_vực bỏ_phiếu
+2,xã phà đánh một trong 18 đơn_vị bầu_cử sớm huyện chủ_yếu đồng_bào dân_tộc thái khơ_mú
+3,toàn xã 10 tổ bầu_cử gần 2045 cử_tri
+4,địa_bàn rộng khó_khăn huyện
+5,cử_tri lương_văn_thoong sinh năm 1921 cử_tri tuổi nhất biết tuyên_truyền thường_xuyên cử_tri tôi nắm đầy_đủ về mục_đích ý_nghĩa cuộc bầu_cử
+6,tôi cử_tri sáng_suốt lựa_chọn người đức tài năng_lực giúp bà_con trong bản trong xã ngày_một phát_triển bước xóa_đói_giảm_nghèo

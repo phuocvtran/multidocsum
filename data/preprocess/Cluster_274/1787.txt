@@ -1,10 +1,10 @@
 idx, sentence
-0,sự_việc xảy ra khoảng 13 giờ 35 phút chiều ngày 2/6 tại địa_phận xã cổ_lũng  huyện phú_lương  tỉnh thái_nguyên  hướng về quốc_lộ 3 
-1,toàn_bộ vụ tai_nạn đã được camera an_ninh của nhà dân bên đường đã ghi lại 
-2,hình_ảnh từ camera an_ninh ghi lại cho thấy chiếc ô_tô tải đang chạy lấn sang làn đường ngược chiều thì một chiếc xe_buýt lao đến 
-3,để tránh đâm vào chiếc xe_tải  tài_xế xe_buýt đã đánh lái  lao sang lề đường ngược chiều 
-4,tuy_nhiên  chiếc xe_tải đã đâm vào sườn bên phải của chiếc xe_buýt sau đó tiếp_tục đâm trúng một người đi xe_máy lưu_thông ngược chiều 
-5,sau cú va_chạm  hàng chục hành_khách đã trèo ra ngoài theo ô cửa_kính xe_buýt 
-6,trong đó  có cả phụ_nữ và trẻ_em 
-7,theo thông_tin trên báo thái_nguyên  lúc xảy ra tai_nạn  xe_tải do anh trương_mạnh_hùng  23 tuổi  quê tuyên_quang  cầm lái  chạy hướng thái_nguyên  bắc_kạn đến địa_điểm trên thì bị nổ lốp 
-8,chiếc xe mất lái nên lấn sang làn đường ngược chiều  đâm vào xe_buýt và một xe_máy 
+0,sự_việc xảy khoảng 13 giờ 35 phút chiều ngày 2/6 địa_phận xã cổ_lũng huyện phú_lương tỉnh thái_nguyên hướng về quốc_lộ 3
+1,toàn_bộ vụ tai_nạn camera an_ninh nhà dân bên đường ghi
+2,hình_ảnh camera an_ninh ghi thấy ô_tô tải chạy lấn sang làn đường ngược chiều một xe_buýt lao đến
+3,tránh đâm xe_tải tài_xế xe_buýt đánh lái lao sang lề đường ngược chiều
+4,tuy_nhiên xe_tải đâm sườn bên xe_buýt tiếp_tục đâm trúng một người đi xe_máy lưu_thông ngược chiều
+5,cú va_chạm hàng chục hành_khách trèo ngoài ô cửa_kính xe_buýt
+6,trong phụ_nữ trẻ_em
+7,thông_tin báo thái_nguyên xảy tai_nạn xe_tải anh trương_mạnh_hùng 23 tuổi quê tuyên_quang cầm lái chạy hướng thái_nguyên bắc_kạn đến địa_điểm nổ lốp
+8,xe mất lái lấn sang làn đường ngược chiều đâm xe_buýt một xe_máy

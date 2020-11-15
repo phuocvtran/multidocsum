@@ -1,21 +1,21 @@
 idx, sentence
-0,tổng_giám_đốc vietjet nguyễn_thị_phương_thảo và tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing_ray_conner đã thực_hiện ký_kết hợp_đồng quan_trọng này trước sự chứng_kiến của chủ_tịch nước cộng_hòa_xã_hội_chủ_nghĩa_việt_nam trần_đại_quang và tổng_thống mỹ barack_obama cùng đoàn lãnh_đạo cấp cao hai nước 
-1,phát_biểu tại sự_kiện ký_kết  tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing_ray_conner  cho biết  “ boeing tự_hào là nhân_tố đóng vai_trò quan_trọng cho sự phát_triển của ngành hàng_không việt_nam 
-2,hôm_nay  chúng_tôi rất vinh_dự được đón_tiếp các vị lãnh_đạo cao nhất của việt_nam và mỹ chứng_kiến lễ ký_kết hợp_đồng mang ý_nghĩa lịch_sử này 
-3,với các thiết_kế và công_nghệ tiên_tiến nhất  dòng máy_bay hiệu_suất cao b737_max 200 sẽ giúp vietjet phát_triển mạng_lưới bay hiệu_quả kinh_tế  mang lại những trải_nghiệm tuyệt_vời cho khách_hàng và đóng_góp vào những thành_công cho vietjet trong thời_gian tới ” 
-4,tổng_giám_đốc vietjet nguyễn_thị_phương_thảo chia_sẻ  vietjet đang khai_thác hiệu_quả đội máy_bay thân hẹp hiện_đại 
-5,với việc đầu_tư đội máy_bay b737_max 200 sẽ giúp vietjet thực_hiện chiến_lược phát_triển mạnh_mẽ hơn nữa mạng đường_bay quốc_tế trong thời_gian tới của mình  bao_gồm cả chiến_lược phát_triển mạng bay đường_dài 
-6,qua hợp_đồng này  vietjet sẽ góp_phần tăng kim_ngạch thương_mại giữa việt_nam và hoa_kỳ  đóng_góp vào sự phát_triển hội_nhập của ngành hàng_không việt_nam 
-7,100 máy_bay nói trên dự_kiến sẽ được giao hàng từ năm 2019 đến 2023  nhằm phục_vụ kế_hoạch mở_rộng hoạt_động khai_thác của hãng hàng_không vietjet đối_với mạng đường_bay trong nước và đến các nước trong khu_vực 
-8,như_vậy  đến cuối năm 2023  đội máy_bay của vietjet sẽ có hơn 200 máy_bay mới và hiện_đại 
-9,được biết  máy_bay thân hẹp b737_max 200 là dòng máy_bay có tích_hợp động_cơ cfm_international_leap1b tiên_tiến nhất  hệ_thống cánh nhỏ với công_nghệ_cao cùng nhiều cải_tiến mang lại hiệu_quả và độ tin_cậy cao nhất  cũng như sự thoải_mái cho hành_khách 
-10,dòng tàu_bay thân hẹp này có khả_năng tiết_kiệm 20  tiêu_hao nhiên_liệu so với dòng tàu_bay nextgeneration 737 đời đầu_tiên 
-11,tiếp sau lễ ký_kết hợp_đồng trên  phó_tổng_giám_đốc vietjet đinh_việt_phương và phó_tổng_giám_đốc công_ty pratt  whitney thuộc tập_đoàn united_technologies_corp 
-12, mỹ  mary_ellen_jones đã ký_kết hợp_đồng cung_cấp động_cơ purepower_geared_turbofan và các dịch_vụ sửa_chữa  bảo_dưỡng đội tàu để trang_bị cho đội máy_bay thế_hệ mới a320_neo và a321_neo mà vietjet đã ký_kết và đặt_hàng với nhà cung_cấp máy_bay 
-13,hợp_đồng có tổng giá_trị 304 tỷ usd 
-14,đây là sự_kiện tiếp_theo của việc ký_kết biên_bản ghi_nhớ giữa vietjet và pratt  whitney thuộc tập_đoàn united_technologies_corp 
-15,tại sự_kiện airshow_singapore tháng 22016 
-16,công_ty pratt  whitney thuộc tập_đoàn united_technologies_corp 
-17,đã thắng thầu trong cuộc đấu_thầu quốc_tế để trở_thành nhà cung_cấp động_cơ cho vietjet 
-18,động_cơ do pratt  whitney cung_cấp được đánh_giá với các chỉ số hiệu_quả khai_thác cao trong các hoạt_động vận_hành vietjet 
-19,với động_cơ này  lượng tiêu_hao nhiên_liệu của hãng hàng_không vietjet vừa giảm tới 17   có tính hiệu_quả trong quản_lý kinh_doanh cũng như góp_phần vào việc bảo_vệ môi_trường 
+0,tổng_giám_đốc vietjet nguyễn_thị_phương_thảo tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing_ray_conner thực_hiện ký_kết hợp_đồng quan_trọng chứng_kiến chủ_tịch nước cộng_hòa_xã_hội_chủ_nghĩa_việt_nam trần_đại_quang tổng_thống mỹ barack_obama đoàn lãnh_đạo cấp cao hai nước
+1,phát_biểu sự_kiện ký_kết tổng_giám_đốc tập_đoàn chế_tạo máy_bay boeing_ray_conner biết “ boeing tự_hào nhân_tố đóng vai_trò quan_trọng phát_triển ngành hàng_không việt_nam
+2,hôm_nay chúng_tôi vinh_dự đón_tiếp vị lãnh_đạo cao nhất việt_nam mỹ chứng_kiến lễ ký_kết hợp_đồng mang ý_nghĩa lịch_sử
+3,thiết_kế công_nghệ tiên_tiến nhất dòng máy_bay hiệu_suất cao b737_max 200 giúp vietjet phát_triển mạng_lưới bay hiệu_quả kinh_tế mang trải_nghiệm tuyệt_vời khách_hàng đóng_góp thành_công vietjet trong thời_gian tới ”
+4,tổng_giám_đốc vietjet nguyễn_thị_phương_thảo chia_sẻ vietjet khai_thác hiệu_quả đội máy_bay thân hẹp hiện_đại
+5,đầu_tư đội máy_bay b737_max 200 giúp vietjet thực_hiện chiến_lược phát_triển mạnh_mẽ hơn mạng đường_bay quốc_tế trong thời_gian tới mình bao_gồm chiến_lược phát_triển mạng bay đường_dài
+6,hợp_đồng vietjet góp_phần tăng kim_ngạch thương_mại giữa việt_nam hoa_kỳ đóng_góp phát_triển hội_nhập ngành hàng_không việt_nam
+7,100 máy_bay nói dự_kiến giao hàng năm 2019 đến 2023 nhằm phục_vụ kế_hoạch mở_rộng hoạt_động khai_thác hãng hàng_không vietjet đối_với mạng đường_bay trong nước đến nước trong khu_vực
+8,như_vậy đến cuối năm 2023 đội máy_bay vietjet hơn 200 máy_bay mới hiện_đại
+9,biết máy_bay thân hẹp b737_max 200 dòng máy_bay tích_hợp động_cơ cfm_international_leap1b tiên_tiến nhất hệ_thống cánh nhỏ công_nghệ_cao cải_tiến mang hiệu_quả độ tin_cậy cao nhất thoải_mái hành_khách
+10,dòng tàu_bay thân hẹp khả_năng tiết_kiệm 20 tiêu_hao nhiên_liệu dòng tàu_bay nextgeneration 737 đời đầu_tiên
+11,tiếp lễ ký_kết hợp_đồng phó_tổng_giám_đốc vietjet đinh_việt_phương phó_tổng_giám_đốc công_ty pratt whitney thuộc tập_đoàn united_technologies_corp
+12,mỹ mary_ellen_jones ký_kết hợp_đồng cung_cấp động_cơ purepower_geared_turbofan dịch_vụ sửa_chữa bảo_dưỡng đội tàu trang_bị đội máy_bay thế_hệ mới a320_neo a321_neo vietjet ký_kết đặt_hàng nhà cung_cấp máy_bay
+13,hợp_đồng tổng giá_trị 304 tỷ usd
+14,sự_kiện tiếp_theo ký_kết biên_bản ghi_nhớ giữa vietjet pratt whitney thuộc tập_đoàn united_technologies_corp
+15,sự_kiện airshow_singapore tháng 22016
+16,công_ty pratt whitney thuộc tập_đoàn united_technologies_corp
+17,thắng thầu trong cuộc đấu_thầu quốc_tế trở_thành nhà cung_cấp động_cơ vietjet
+18,động_cơ pratt whitney cung_cấp đánh_giá số hiệu_quả khai_thác cao trong hoạt_động vận_hành vietjet
+19,động_cơ lượng tiêu_hao nhiên_liệu hãng hàng_không vietjet giảm tới 17 tính hiệu_quả trong quản_lý kinh_doanh góp_phần bảo_vệ môi_trường

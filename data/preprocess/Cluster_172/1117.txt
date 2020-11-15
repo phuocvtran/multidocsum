@@ -1,8 +1,8 @@
 idx, sentence
-0,ngày 30/5  tand tphcm đã tuyên tử_hình nguyễn_thanh_hải  23 tuổi  về tội mua_bán trái_phép chất ma_túy 
-1,theo cáo_trạng  lúc 13 h ngày 31/3/2014  công_an phường trường_thọ  qthủ_đức  bắt quả_tang_hải có hành_vi tàng_trữ trái_phép chất ma_túy  thu_giữ 5 túi nilông chứa hơn 1 kg heroin 
-2,quá_trình điều_tra  hải khai nhận khoảng tháng 7/2013  thông_qua người bạn  hải quen với phi  không rõ lai_lịch  
-3,ngày 30/3/2014  hải cùng vợ gặp phi  tại đây hải để vợ ngồi ngoài quán nước bên đường  còn hải đi gặp phi để nói_chuyện riêng 
-4,phi nhờ hải cất_giữ giúp một_số loại heroin nhưng không nói rõ số_lượng 
-5,phi cho hải 500000 đồng  hải_đồng_ý 
-6,sau đó hải chở vợ về nhà ở quận thủ_đức và đem số heroin này giấu trong bụi chuối trước nhà 
+0,ngày 30/5 tand tphcm tuyên tử_hình nguyễn_thanh_hải 23 tuổi về tội mua_bán trái_phép chất ma_túy
+1,cáo_trạng 13 h ngày 31/3/2014 công_an phường trường_thọ qthủ_đức bắt quả_tang_hải hành_vi tàng_trữ trái_phép chất ma_túy thu_giữ 5 túi nilông chứa hơn 1 kg heroin
+2,quá_trình điều_tra hải khai nhận khoảng tháng 7/2013 thông_qua người bạn hải quen phi rõ lai_lịch
+3,ngày 30/3/2014 hải vợ gặp phi hải vợ ngồi ngoài quán nước bên đường còn hải đi gặp phi nói_chuyện riêng
+4,phi nhờ hải cất_giữ giúp một_số loại heroin nói rõ số_lượng
+5,phi hải 500000 đồng hải_đồng_ý
+6,hải chở vợ về nhà ở quận thủ_đức đem số heroin giấu trong bụi chuối nhà

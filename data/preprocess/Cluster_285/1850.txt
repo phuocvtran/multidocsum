@@ -1,18 +1,18 @@
 idx, sentence
-0,mới_đây lãnh_đạo yokohama đã cử người đến đại_bản_doanh của hagl để đàm_phán về trường_hợp của tiền_vệ tuấn_anh 
-1,chủ_tịch koji_kitagawa của clb nhật_bản đã có cuộc trao_đổi cụ_thể với bầu đức về tương_lai của tiền_vệ tuấn_anh tại đội bóng thuộc jleague 2 
-2,cụ_thể  phía yokohama đánh_giá rất cao nỗ_lực tập_luyện và tinh_thần cầu tiến của tài_năng trẻ mà bầu đức vẫn luôn nhận_xét là xuất_sắc nhất lò đào_tạo trẻ hagl 
-3,dù chưa được ra sân thi_đấu lần nào nhưng tuấn_anh vẫn luôn giữ thái_độ chuyên_nghiệp  không ngừng tập_luyện  đồng_thời miệt_mài học_tập tiếng nhật để hòa_nhập nhanh hơn với các đồng_đội 
-4,trong cuộc gặp này chủ_tịch đội bóng nhật đã bày_tỏ mong_muốn có được tuấn_anh trong 5 đến 10 năm nữa 
-5,“ tôi có đọc báo việt_nam mà tôi có được thì nhiều người chỉ_trích rằng tuấn_anh sẽ thui_chột tài_năng vì ngồi ghế dự_bị quá nhiều ở yokohama 
-6,thực_tế là ở jleague 2 có rất ít cầu_thủ dưới 21 tuổi như tuấn_anh vào sân đá chính 
-7,dù có tài_năng nhưng họ cần thời_gian để hòa_nhập với môi_trường mới 
-8,chúng_tôi đánh_giá cao tài_năng và tư_cách của tuấn anh và muốn ký hợp_đồng từ 5 đến 10 năm với cậu ấy 
-9,clb sẵn_sàng cho tuấn_anh làm nghĩa_vụ quốc_gia bất_cứ lúc_nào ”  ông kitagawa hết lời khen_ngợi cựu sao u19 
-10,đây được coi là lời đề_nghị đầy bất_ngờ của yokohama 
-11,đáp lại bầu đức cho hay sẽ cần cân_nhắc thêm và đưa ra câu trả_lời cụ_thể sau 
-12,tuy_nhiên nhiều người cho rằng yêu_cầu của đội bóng nhật có_thể chỉ mang tính xã_giao  làm đẹp_lòng đối_tác bởi trong bóng_đá chưa từng có giao_kèo nào kéo_dài 10 năm 
-13,chưa kể tuấn_anh vẫn đang gặp khó với việc tìm suất đá chính ở đây 
-14,sẽ là thực_tế và khả_thi hơn nếu yokohama đề_nghị kéo_dài hợp_đồng với tuấn_anh thêm một năm khi mà mùa giải này chỉ mang ý_nghĩa học_hỏi là chính 
-15,trong khi xuân_trường sẽ ở lại incheon_united đến năm 2017  công_phượng và tuấn_anh cũng nhận được đề_nghị gia_hạn nhưng phía hagl chưa đưa ra câu trả_lời dứt_khoát 
-16,việc được rèn_giũa ở môi_trường chuyên_nghiệp là điều rất cần_thiết cho sự phát_triển của những sao trẻ nhưng họ cần được đá chính thay_vì mãi làm_quen với ghế dự_bị 
+0,mới_đây lãnh_đạo yokohama cử người đến đại_bản_doanh hagl đàm_phán về trường_hợp tiền_vệ tuấn_anh
+1,chủ_tịch koji_kitagawa clb nhật_bản cuộc trao_đổi cụ_thể bầu đức về tương_lai tiền_vệ tuấn_anh đội bóng thuộc jleague 2
+2,cụ_thể phía yokohama đánh_giá cao nỗ_lực tập_luyện tinh_thần cầu tiến tài_năng trẻ bầu đức luôn nhận_xét xuất_sắc nhất lò đào_tạo trẻ hagl
+3,dù sân thi_đấu lần nào tuấn_anh luôn giữ thái_độ chuyên_nghiệp ngừng tập_luyện đồng_thời miệt_mài học_tập tiếng nhật hòa_nhập nhanh hơn đồng_đội
+4,trong cuộc gặp chủ_tịch đội bóng nhật bày_tỏ mong_muốn tuấn_anh trong 5 đến 10 năm
+5,“ tôi đọc báo việt_nam tôi người chỉ_trích tuấn_anh thui_chột tài_năng ngồi ghế dự_bị quá ở yokohama
+6,thực_tế ở jleague 2 ít cầu_thủ 21 tuổi tuấn_anh sân đá chính
+7,dù tài_năng họ thời_gian hòa_nhập môi_trường mới
+8,chúng_tôi đánh_giá cao tài_năng tư_cách tuấn anh muốn ký hợp_đồng 5 đến 10 năm cậu ấy
+9,clb sẵn_sàng tuấn_anh làm nghĩa_vụ quốc_gia bất_cứ lúc_nào ” ông kitagawa hết lời khen_ngợi cựu sao u19
+10,coi lời đề_nghị đầy bất_ngờ yokohama
+11,đáp bầu đức hay cân_nhắc thêm đưa câu trả_lời cụ_thể
+12,tuy_nhiên người yêu_cầu đội bóng nhật mang tính xã_giao làm đẹp_lòng đối_tác trong bóng_đá giao_kèo nào kéo_dài 10 năm
+13,kể tuấn_anh gặp khó tìm suất đá chính ở
+14,thực_tế khả_thi hơn yokohama đề_nghị kéo_dài hợp_đồng tuấn_anh thêm một năm mùa giải mang ý_nghĩa học_hỏi chính
+15,trong xuân_trường ở incheon_united đến năm 2017 công_phượng tuấn_anh nhận đề_nghị gia_hạn phía hagl đưa câu trả_lời dứt_khoát
+16,rèn_giũa ở môi_trường chuyên_nghiệp cần_thiết phát_triển sao trẻ họ đá chính thay_vì mãi làm_quen ghế dự_bị

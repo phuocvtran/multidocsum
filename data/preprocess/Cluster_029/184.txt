@@ -1,6 +1,6 @@
 idx, sentence
-0,người tiêu_dùng sẽ nghĩ gì nếu các loại sản_phẩm gội quen_thuộc như pantene  sunsilk  clear_ và rất nhiều loại dầu gội khác đã bị cục quản_lý dược  bộ y_tế yêu_cầu cấm lưu_hành từ hơn 1 năm nay nhưng vẫn bày bán tràn_ngập và công_khai ngoài thị_trường 
-1,các sản_phẩm này lại nằm trong danh_mục bị thu_hồi do có chất cấm nhưng các hộ kinh_doanh cũng không biết gì về thông_tin này 
-2,đa_số người dân đều ngạc_nhiên trước thông_tin này  vì họ tin_tưởng tuyệt_đối vào những sản_phẩm có tên_tuổi và vẫn đang được bán rất nhiều trên thị_trường 
-3,tuy_nhiên  theo công_văn số 6577 của cục quản_lý dược  bộ y_tế ban_hành ngày 13/4/2015  tức_là cách đây một năm thì các chất bảo_quản methylisothiazolinone và hỗn_hợp methylchlorothiazolinone với methylisothiazolinone tỷ_lệ 3  1 chỉ được sử_dụng trong các sản_phẩm rửa_sạch 
-4,hỗn_hợp mct  mit theo tỷ_lệ 3  1 và có thêm mit thì không được sử_dụng trong sản_phẩm mỹ_phẩm 
+0,người tiêu_dùng nghĩ loại sản_phẩm gội quen_thuộc pantene sunsilk clear_ loại dầu gội khác cục quản_lý dược bộ y_tế yêu_cầu cấm lưu_hành hơn 1 năm nay bày bán tràn_ngập công_khai ngoài thị_trường
+1,sản_phẩm nằm trong danh_mục thu_hồi chất cấm hộ kinh_doanh biết về thông_tin
+2,đa_số người dân ngạc_nhiên thông_tin họ tin_tưởng tuyệt_đối sản_phẩm tên_tuổi bán thị_trường
+3,tuy_nhiên công_văn số 6577 cục quản_lý dược bộ y_tế ban_hành ngày 13/4/2015 tức_là cách một năm chất bảo_quản methylisothiazolinone hỗn_hợp methylchlorothiazolinone methylisothiazolinone tỷ_lệ 3 1 sử_dụng trong sản_phẩm rửa_sạch
+4,hỗn_hợp mct mit tỷ_lệ 3 1 thêm mit sử_dụng trong sản_phẩm mỹ_phẩm

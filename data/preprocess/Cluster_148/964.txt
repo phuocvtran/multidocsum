@@ -1,8 +1,8 @@
 idx, sentence
-0,sáng 27/5  đại_tá phạm_mạnh_thường  giám_đốc công_an tỉnh bắc_giang đã trao thưởng nóng 16 triệu đồng cho 8 chiến_sĩ trực_thuộc phòng cảnh_sát giao_thông tỉnh bắc_giang do trước đó đã từ_chối nhận nửa tỷ đồng_tiền hối_lộ của đối_tượng vận_chuyển hơn 5 tạ ngà_voi 
-1,theo tài_liệu trước đó của cơ_quan_chức_năng  khoảng 22 h ngày 21/5/2016  tổ công_tác của phòng cảnh_sát giao_thông tỉnh bắc_giang do đại_úy nguyễn_hùng_cường làm tổ_trưởng  cùng 7 chiến_sĩ khác nhận nhiệm_vụ tuần_tra kiểm_soát trên quốc_lộ 1a  đoạn qua địa_phận xã yên_mỹ  lạng_giang  bắc_giang 
-2,tổ công_tác phát_hiện chiếc ô_tô bán tải nhãn_hiệu ford_ranger_bks 12c044  29 có nhiều biểu_hiện bất_thường nên ra tín_hiệu yêu_cầu tài_xế cho dừng xe để kiểm_tra 
-3,tại thời_điểm đó  cơ_quan_chức_năng yêu_cầu tài_xế chiếc xe là nguyễn_quang_huy  sn 1988  trú tại xã hoàng_đồng  tp lạng_sơn  tỉnh lạng_sơn  mở thùng hàng để kiểm_tra  nhưng huy quẩn_quanh nói rằng mình không có chìa_khóa 
-4,trước biểu_hiện bất_thường trên  tổ công_tác đã đưa cả xe và tài_xế về trụ_sở để làm_việc 
-5,điều đang nói  trên đường đi huy đã gợi_ý đưa cho tổ công_tác 500 triệu đồng để được bỏ_qua 
-6,tuy_vậy  tổ công_tác đã cương_quyết từ_chối 
+0,sáng 27/5 đại_tá phạm_mạnh_thường giám_đốc công_an tỉnh bắc_giang trao thưởng nóng 16 triệu đồng 8 chiến_sĩ trực_thuộc phòng cảnh_sát giao_thông tỉnh bắc_giang từ_chối nhận nửa tỷ đồng_tiền hối_lộ đối_tượng vận_chuyển hơn 5 tạ ngà_voi
+1,tài_liệu cơ_quan_chức_năng khoảng 22 h ngày 21/5/2016 tổ công_tác phòng cảnh_sát giao_thông tỉnh bắc_giang đại_úy nguyễn_hùng_cường làm tổ_trưởng 7 chiến_sĩ khác nhận nhiệm_vụ tuần_tra kiểm_soát quốc_lộ 1a đoạn địa_phận xã yên_mỹ lạng_giang bắc_giang
+2,tổ công_tác phát_hiện ô_tô bán tải nhãn_hiệu ford_ranger_bks 12c044 29 biểu_hiện bất_thường tín_hiệu yêu_cầu tài_xế dừng xe kiểm_tra
+3,thời_điểm cơ_quan_chức_năng yêu_cầu tài_xế xe nguyễn_quang_huy sn 1988 trú xã hoàng_đồng tp lạng_sơn tỉnh lạng_sơn mở thùng hàng kiểm_tra huy quẩn_quanh nói mình chìa_khóa
+4,biểu_hiện bất_thường tổ công_tác đưa xe tài_xế về trụ_sở làm_việc
+5,nói đường đi huy gợi_ý đưa tổ công_tác 500 triệu đồng bỏ_qua
+6,tuy_vậy tổ công_tác cương_quyết từ_chối

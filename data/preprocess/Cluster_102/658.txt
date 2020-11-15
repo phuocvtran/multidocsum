@@ -1,10 +1,10 @@
 idx, sentence
-0,thông_cáo của nhà_trắng ngày 23/5 cho biết đã mở_rộng hợp_tác trong lĩnh_vực viện_trợ nhân_đạo và giảm nhẹ thiên_tai  cùng hoạt_động huấn_luyện chung và đang củng_cố hợp_tác an_ninh với việt_nam 
-1, mỹ sẽ giúp chính_phủ việt_nam xây_dựng năng_lực an_ninh hàng_hải bằng cách cung_cấp 457 triệu usd từ tài_khoá năm 2014  thông_qua chương_trình tài_chính quân_sự nước_ngoài của bộ ngoại_giao  cùng các chương_trình xây_dựng năng_lực thực_thi pháp_luật khác   thông_cáo viết 
-2,theo đó  mỹ sẽ hỗ_trợ việt_nam thông_qua quỹ sáng_kiến an_ninh hàng_hải  msi   sáng_kiến mà bộ_quốc_phòng mỹ cam_kết tài_trợ 425 triệu usd trong vòng 5 năm 
-3,nhà trắng cho hay mỹ dự_kiến cung_cấp 18 tàu tuần_tra metal_shark  đồng_thời hỗ_trợ huấn_luyện và trang_thiết_bị thực_thi pháp_luật trên biển cho lực_lượng cảnh_sát biển việt_nam 
-4,nhà trắng nhận_định hải_quân hai nước đang hợp_tác ngày_càng chặt_chẽ nhằm đảm_bảo an_ninh và an_toàn hàng_hải 
-5,phía mỹ nhấn_mạnh quan_hệ song_phương đang ở mốc cao lịch_sử sau khi hai bên xác_lập quan_hệ đối_tác toàn_diện năm 2013 và kỷ_niệm 20 năm bình_thường_hoá quan_hệ ngoại_giao vào năm 2015 
-6,chuyến thăm của tổng_thống barack_obama tới việt_nam dựa trên đà_tích_cực này để củng_cố_sự phát_triển trong những năm qua và thúc_đẩy quan_hệ song_phương lên một nấc thang mới 
-7,tổng_thống mỹ barack_obama đang có chuyến thăm chính_thức việt_nam từ ngày 23 đến 25/5 
-8,trong buổi họp_báo chung với chủ_tịch nước trần_đại_quang ngày 23/5  tổng_thống barack_obama tuyên_bố mỹ gỡ bỏ hoàn_toàn cấm_vận vũ_khí đối_với việt_nam 
+0,thông_cáo nhà_trắng ngày 23/5 biết mở_rộng hợp_tác trong lĩnh_vực viện_trợ nhân_đạo giảm nhẹ thiên_tai hoạt_động huấn_luyện chung củng_cố hợp_tác an_ninh việt_nam
+1,mỹ giúp chính_phủ việt_nam xây_dựng năng_lực an_ninh hàng_hải bằng cách cung_cấp 457 triệu usd tài_khoá năm 2014 thông_qua chương_trình tài_chính quân_sự nước_ngoài bộ ngoại_giao chương_trình xây_dựng năng_lực thực_thi pháp_luật khác thông_cáo viết
+2,mỹ hỗ_trợ việt_nam thông_qua quỹ sáng_kiến an_ninh hàng_hải msi sáng_kiến bộ_quốc_phòng mỹ cam_kết tài_trợ 425 triệu usd trong vòng 5 năm
+3,nhà trắng hay mỹ dự_kiến cung_cấp 18 tàu tuần_tra metal_shark đồng_thời hỗ_trợ huấn_luyện trang_thiết_bị thực_thi pháp_luật biển lực_lượng cảnh_sát biển việt_nam
+4,nhà trắng nhận_định hải_quân hai nước hợp_tác ngày_càng chặt_chẽ nhằm đảm_bảo an_ninh an_toàn hàng_hải
+5,phía mỹ nhấn_mạnh quan_hệ song_phương ở mốc cao lịch_sử hai bên xác_lập quan_hệ đối_tác toàn_diện năm 2013 kỷ_niệm 20 năm bình_thường_hoá quan_hệ ngoại_giao năm 2015
+6,chuyến thăm tổng_thống barack_obama tới việt_nam dựa đà_tích_cực củng_cố_sự phát_triển trong năm thúc_đẩy quan_hệ song_phương một nấc thang mới
+7,tổng_thống mỹ barack_obama chuyến thăm chính_thức việt_nam ngày 23 đến 25/5
+8,trong buổi họp_báo chung chủ_tịch nước trần_đại_quang ngày 23/5 tổng_thống barack_obama tuyên_bố mỹ gỡ bỏ hoàn_toàn cấm_vận vũ_khí đối_với việt_nam

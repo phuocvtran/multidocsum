@@ -1,9 +1,9 @@
 idx, sentence
-0,theo hãng tin cnn  máy_bay không người lái đa_nhiệm của lực_lượng đặc_nhiệm mỹ đã thực_hiện vụ không_kích với mục_tiêu nhằm vào chiếc xe chở thủ_lĩnh taliban_mullah_akhtar_mansour và cận_vệ của ông ta tại một vùng hẻo_lánh ở miền tây nam thị_trấn ahmad_wal  pakistan 
-1,một quan_chức mỹ cho biết kết_quả của cuộc không_kích vẫn đang được đánh_giá và có_thể phải mất nhiều ngày để xác_định thủ_lĩnh taliban đã bị tiêu_diệt hay chưa vì cuộc không_kích được tiến_hành tại khu_vực hẻo_lánh 
-2,trong một thông_báo chính_thức  lầu năm_góc đã xác_nhận cuộc không_kích nhưng không cho biết liệu mansour đã bị tiêu_diệt hay chưa 
-3,“ mansour là thủ_lĩnh của nhóm phiến_quân taliban và lên kế_hoạch các vụ tấn_công nhằm vào thành_phố kabul và nhiều địa_điểm khác trên khắp afghanistan 
-4,hắn là mối đe_dọa với người dân và lực_lượng an_ninh afghanistan cũng như quân_nhân và đối_tác của chúng_tôi ”  phát_ngôn_viên peter_cook của bộ_quốc_phòng mỹ cho biết 
-5,nghị_sĩ đảng_cộng_hòa mỹ lindsey_graham hoan_nghênh thông_tin về cuộc không_kích và kêu_gọi tổng_thống obama không rút quân_đội nước này khỏi afghanistan cho tới khi tình_hình tại đây được kiểm_soát 
-6,trong khi đó  chủ_tịch ủy_ban quan_hệ ngoại_giao thượng_nghị_viện mỹ_bob_corker nói  “ nếu được xác_nhận  cái chết của thủ_lĩnh taliban sẽ là một chiến_thắng quan_trọng trong cuộc_chiến chống khủng_bố và là thông_tin tốt_lành với quân_nhân mỹ ở afghanistan và chính_quyền nước sở_tại ” 
-7,mansour trở_thành thủ_lĩnh taliban từ mùa hè năm_ngoái  sau khi tin_tức người sáng_lập tổ_chức cực_đoan này là mullah_mohammed_omar đã chết tại pakistan vào năm 2013 
+0,hãng tin cnn máy_bay người lái đa_nhiệm lực_lượng đặc_nhiệm mỹ thực_hiện vụ không_kích mục_tiêu nhằm xe chở thủ_lĩnh taliban_mullah_akhtar_mansour cận_vệ ông ta một vùng hẻo_lánh ở miền tây nam thị_trấn ahmad_wal pakistan
+1,một quan_chức mỹ biết kết_quả cuộc không_kích đánh_giá mất ngày xác_định thủ_lĩnh taliban tiêu_diệt hay cuộc không_kích tiến_hành khu_vực hẻo_lánh
+2,trong một thông_báo chính_thức lầu năm_góc xác_nhận cuộc không_kích biết liệu mansour tiêu_diệt hay
+3,“ mansour thủ_lĩnh nhóm phiến_quân taliban kế_hoạch vụ tấn_công nhằm thành_phố kabul địa_điểm khác khắp afghanistan
+4,hắn mối đe_dọa người dân lực_lượng an_ninh afghanistan quân_nhân đối_tác chúng_tôi ” phát_ngôn_viên peter_cook bộ_quốc_phòng mỹ biết
+5,nghị_sĩ đảng_cộng_hòa mỹ lindsey_graham hoan_nghênh thông_tin về cuộc không_kích kêu_gọi tổng_thống obama rút quân_đội nước khỏi afghanistan tới tình_hình kiểm_soát
+6,trong chủ_tịch ủy_ban quan_hệ ngoại_giao thượng_nghị_viện mỹ_bob_corker nói “ xác_nhận chết thủ_lĩnh taliban một chiến_thắng quan_trọng trong cuộc_chiến chống khủng_bố thông_tin tốt_lành quân_nhân mỹ ở afghanistan chính_quyền nước sở_tại ”
+7,mansour trở_thành thủ_lĩnh taliban mùa hè năm_ngoái tin_tức người sáng_lập tổ_chức cực_đoan mullah_mohammed_omar chết pakistan năm 2013

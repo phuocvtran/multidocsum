@@ -1,32 +1,32 @@
 idx, sentence
-0,theo trung_tâm dự_báo khí_tượng thủy_văn trung_ương  do ảnh_hưởng của hội_tụ gió trên cao nên ngày 23/5 ở phía tây_bắc_bộ tiếp_tục có mưa_rào và rải_rác có dông  từ đêm 23/5  do ảnh_hưởng của hội_tụ gió trên cao kết_hợp với rãnh áp_thấp bị nén nên ở bắc_bộ và bắc_trung_bộ có khả_năng xảy ra mưa dông diện rộng  một_số nơi có mưa vừa đến mưa to 
-1,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh do ảnh_hưởng của gió_mùa tây_nam đang hoạt_động mạnh_dần lên do_đó trong 23 ngày tới ở nam_bộ và tây_nguyên có mưa  mưa vừa  có nơi mưa to và rải_rác có dông 
-2,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-3,cũng theo dự_báo từ trung_tâm dự_báo khí_tượng thủy_văn trung_ương  hiện_nay  23/5   do ảnh_hưởng của gió_mùa tây_nam đang hoạt_động mạnh_dần nên khu_vực vùng_biển từ bình thuậncà_mau  cà_maukiên_giang  vịnh thái_lan và khu_vực nam_biển_đông  bao_gồm cả quần_đảo trường_sa  có mưa dông mạnh  ở côn_đảo đã có gió_giật mạnh cấp 7 
-4,dự bá trong 23 ngày tới khu_vực nam_biển_đông  bao_gồm cả quần_đảo trường_sa   vùng_biển từ bình thuậncà_mau  cà_maukiên_giang và vịnh thái_lan tiếp_tục có mưa dông mạnh 
-5,từ ngày 2325 / 5  ở vịnh thái_lan  vùng_biển cà_maukiên_giang  bao_gồm các đảo phú_quốc  thổ_chu   vùng_biển từ bình_thuận đến cà_mau  vùng_biển phía nam biển_đông  bao_gồm cả quần_đảo trường_sa  có gió_tây_nam mạnh cấp 45  có lúc cấp 6  giật cấp 7  biển động 
-6,cấp_độ rủi_ro thiên_tai  cấp 1 
-7,ngoài_ra khu_vực bắc_biển_đông  bao_gồm cả quần_đảo hoàng_sa  có mưa_rào và dông  trong cơn dông có khả_năng cao xuất_hiện lốc xoáy và gió_giật mạnh 
-8,dự_báo chi_tiết các khu_vực trên cả nước ngày và đêm 23/5  phía tây_bắc_bộ nhiều mây  có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
-9,gió nhẹ 
-10,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-11,độ_ẩm từ 6898  
-12,nhiệt_độ thấp nhất từ 22 – 25 độ c  nhiệt_độ cao nhất từ 26 – 29 độ c phía đông_bắc_bộ nhiều mây  ngày có mưa_rào và dông vài nơi  riêng vùng núi có mưa  mưa_rào rải_rác và có nơi có dông  đêm có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
-13,gió nhẹ 
-14,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-15,độ_ẩm từ 6396  
-16,nhiệt_độ thấp nhất từ 23 – 26 độ c  nhiệt_độ cao nhất từ 28 – 31 độ c khu_vực hà_nội nhiều mây  ngày có mưa_rào và dông vài nơi  đêm có mưa_rào và rải_rác có dông 
-17,gió nhẹ 
-18,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-19,độ_ẩm từ 6095  
-20,nhiệt_độ thấp nhất từ 24 – 26 độ c  nhiệt_độ cao nhất từ 29 – 31 độ c_thanh_hóa – thừa_thiên_huế mây thay_đổi  có mưa_rào và dông vài nơi 
-21,gió nhẹ 
-22,độ_ẩm từ 6596  
-23,nhiệt_độ thấp nhất từ 24 – 27 độ c  nhiệt_độ cao nhất từ 30 – 33 độ c_đà_nẵng đến bình_thuận mây thay_đổi  ngày nắng  chiều_tối và đêm có mưa_rào và dông vài nơi 
-24,gió nhẹ 
-25,độ_ẩm từ 6595  
-26,nhiệt_độ thấp nhất từ 25 – 28 độ c  nhiệt_độ cao nhất từ 32 – 35 độ c tây_nguyên mây thay_đổi  ngày có mưa_rào và dông vài nơi  chiều_tối và đêm có mưa  có nơi mưa vừa  mưa to và rải_rác có dông 
-27,gió_tây nam cấp 23 
-28,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-29,độ_ẩm từ 5595  
-30,nhiệt_độ thấp nhất từ 21 – 24 độ c  nhiệt_độ cao nhất từ 31 – 34 độ c 
+0,trung_tâm dự_báo khí_tượng thủy_văn trung_ương ảnh_hưởng hội_tụ gió cao ngày 23/5 ở phía tây_bắc_bộ tiếp_tục mưa_rào rải_rác dông đêm 23/5 ảnh_hưởng hội_tụ gió cao kết_hợp rãnh áp_thấp nén ở bắc_bộ bắc_trung_bộ khả_năng xảy mưa dông diện rộng một_số mưa đến mưa to
+1,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh ảnh_hưởng gió_mùa tây_nam hoạt_động mạnh_dần do_đó trong 23 ngày tới ở nam_bộ tây_nguyên mưa mưa mưa to rải_rác dông
+2,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+3,dự_báo trung_tâm dự_báo khí_tượng thủy_văn trung_ương hiện_nay 23/5 ảnh_hưởng gió_mùa tây_nam hoạt_động mạnh_dần khu_vực vùng_biển bình thuậncà_mau cà_maukiên_giang vịnh thái_lan khu_vực nam_biển_đông bao_gồm quần_đảo trường_sa mưa dông mạnh ở côn_đảo gió_giật mạnh cấp 7
+4,dự bá trong 23 ngày tới khu_vực nam_biển_đông bao_gồm quần_đảo trường_sa vùng_biển bình thuậncà_mau cà_maukiên_giang vịnh thái_lan tiếp_tục mưa dông mạnh
+5,ngày 2325 / 5 ở vịnh thái_lan vùng_biển cà_maukiên_giang bao_gồm đảo phú_quốc thổ_chu vùng_biển bình_thuận đến cà_mau vùng_biển phía nam biển_đông bao_gồm quần_đảo trường_sa gió_tây_nam mạnh cấp 45 cấp 6 giật cấp 7 biển động
+6,cấp_độ rủi_ro thiên_tai cấp 1
+7,ngoài_ra khu_vực bắc_biển_đông bao_gồm quần_đảo hoàng_sa mưa_rào dông trong cơn dông khả_năng cao xuất_hiện lốc xoáy gió_giật mạnh
+8,dự_báo chi_tiết khu_vực nước ngày đêm 23/5 phía tây_bắc_bộ mây mưa mưa mưa to rải_rác dông
+9,gió nhẹ
+10,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+11,độ_ẩm 6898
+12,nhiệt_độ thấp nhất 22 – 25 độ c nhiệt_độ cao nhất 26 – 29 độ c phía đông_bắc_bộ mây ngày mưa_rào dông vài riêng vùng núi mưa mưa_rào rải_rác dông đêm mưa mưa mưa to rải_rác dông
+13,gió nhẹ
+14,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+15,độ_ẩm 6396
+16,nhiệt_độ thấp nhất 23 – 26 độ c nhiệt_độ cao nhất 28 – 31 độ c khu_vực hà_nội mây ngày mưa_rào dông vài đêm mưa_rào rải_rác dông
+17,gió nhẹ
+18,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+19,độ_ẩm 6095
+20,nhiệt_độ thấp nhất 24 – 26 độ c nhiệt_độ cao nhất 29 – 31 độ c_thanh_hóa – thừa_thiên_huế mây thay_đổi mưa_rào dông vài
+21,gió nhẹ
+22,độ_ẩm 6596
+23,nhiệt_độ thấp nhất 24 – 27 độ c nhiệt_độ cao nhất 30 – 33 độ c_đà_nẵng đến bình_thuận mây thay_đổi ngày nắng chiều_tối đêm mưa_rào dông vài
+24,gió nhẹ
+25,độ_ẩm 6595
+26,nhiệt_độ thấp nhất 25 – 28 độ c nhiệt_độ cao nhất 32 – 35 độ c tây_nguyên mây thay_đổi ngày mưa_rào dông vài chiều_tối đêm mưa mưa mưa to rải_rác dông
+27,gió_tây nam cấp 23
+28,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+29,độ_ẩm 5595
+30,nhiệt_độ thấp nhất 21 – 24 độ c nhiệt_độ cao nhất 31 – 34 độ c

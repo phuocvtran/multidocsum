@@ -1,4 +1,4 @@
 idx, sentence
-0,quy_trình đăng_ký gồm các bước  khai_báo thông_tin hồ_sơ trực_tuyến và đăng_ký địa_chỉ nhận chuyển phát sau khi có kết_quả gplx quốc_tế  thực_hiện thanh_toán trực_tuyến phí và lệ_phí qua cổng thanh_toán trực_tuyến thành_công  nhận kết_quả thông_báo kết_quả xác_nhận hồ_sơ qua địa_chỉ hòm_thư đã đăng_ký  nếu hồ_sơ hợp_lệ sẽ được nhận kết_quả chuyển phát gplx quốc_tế tại địa_chỉ đã đăng_ký 
-1,để thực_hiện quy_trình này  cán_bộ nghiệp_vụ có trách_nhiệm kiểm_tra sơ_bộ hồ_sơ  thông_báo lại cho người dân kết_quả qua hộp_thư_điện_tử để được trả gplx quốc_tế tại địa_chỉ đã đăng_ký 
-2,người có nhu_cầu cấp gplx quốc_tế qua mạng cần phải có gplx bằng vật_liệu pet còn giá_trị sử_dụng và có trong cơ_sở dữ_liệu gplx toàn_quốc  có tài_khoản ngân_hàng để thanh_toán trực_tuyến 
+0,quy_trình đăng_ký gồm bước khai_báo thông_tin hồ_sơ trực_tuyến đăng_ký địa_chỉ nhận chuyển phát kết_quả gplx quốc_tế thực_hiện thanh_toán trực_tuyến phí lệ_phí cổng thanh_toán trực_tuyến thành_công nhận kết_quả thông_báo kết_quả xác_nhận hồ_sơ địa_chỉ hòm_thư đăng_ký hồ_sơ hợp_lệ nhận kết_quả chuyển phát gplx quốc_tế địa_chỉ đăng_ký
+1,thực_hiện quy_trình cán_bộ nghiệp_vụ trách_nhiệm kiểm_tra sơ_bộ hồ_sơ thông_báo người dân kết_quả hộp_thư_điện_tử trả gplx quốc_tế địa_chỉ đăng_ký
+2,người nhu_cầu cấp gplx quốc_tế mạng gplx bằng vật_liệu pet còn giá_trị sử_dụng trong cơ_sở dữ_liệu gplx toàn_quốc tài_khoản ngân_hàng thanh_toán trực_tuyến

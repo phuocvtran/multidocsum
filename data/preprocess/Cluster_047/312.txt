@@ -1,9 +1,9 @@
 idx, sentence
-0,báo nhân_dân đưa tin  khoảng 20 giờ ngày 205  tại huyện lục_yên  yên_bái  xảy ra trận lốc xoáy rất lớn tại các xã tân_lập  động_quan  phúc_lợi  tô_mậu  làm đổ sập hoàn_toàn nhiều nhà ở và gây thiệt_hại đến hoa_màu  cây_cối của nhân_dân 
-1,theo người dân địa_phương  đây là trận lốc xoáy kinh_hoàng nhất trong lịch_sử mà họ được chứng_kiến  thời_gian diễn ra rất nhanh  cường_độ gió mạnh  bẻ gãy nhiều cây lớn 
-2,đã có năm cột_điện 35 kv của điện_lực lục_yên bị cây đè làm_đổ cột  khiến toàn_bộ khu_vực thị_trấn_yên_thế_và các xã lân_cận bị mất điện hoàn_toàn 
-3,theo báo_cáo ban_đầu  đã có 19 nhà dân bị sập hoàn_toàn  nhiều ngôi nhà bị tốc mái và làm thiệt_hại nhiều tài_sản khác của người_dân 
-4,đây là khu_vực đầu nguồn của hồ thác_bà  các xã đều nằm ven sông chảy  nên vào thời_điểm giao mùa nơi đây thường xảy ra gió_lốc lớn  ảnh_hưởng đến nhà_cửa và hoa_màu của người_dân 
-5,theo thông_tấn_xã việt_nam  ông hoàng_đức_trọng  phó chủ_tịch ubnd huyện lục_yên  đang có_mặt tại hiện_trường xã tân_lập để chỉ_đạo việc khắc_phục hậu_quản của lốc xoáy  cho biết  hiện_nay  huyện đang huy_động lực_lượng quân_đội  công_an  dân_quân tự về xuống hiện_trường để giúp_đỡ dân khắc_phục hậu_quả 
-6,đồng_thời chỉ_đạo các địa_phương trong huyện nhanh_chóng thống_kê và huy_động lực_lượng tại_chỗ để giúp dân khắc_phục hậu_quả của lốc xoáy 
-7,tuy_nhiên  việc huy_động lực_lượng cũng đang gặp nhiều khó_khăn bởi nhiều đơn_vị đã cử người xuống địa_bàn các xã để phục_vụ cho công_tác bầu_cử 
+0,báo nhân_dân đưa tin khoảng 20 giờ ngày 205 huyện lục_yên yên_bái xảy trận lốc xoáy lớn xã tân_lập động_quan phúc_lợi tô_mậu làm đổ sập hoàn_toàn nhà ở gây thiệt_hại đến hoa_màu cây_cối nhân_dân
+1,người dân địa_phương trận lốc xoáy kinh_hoàng nhất trong lịch_sử họ chứng_kiến thời_gian diễn nhanh cường_độ gió mạnh bẻ gãy cây lớn
+2,năm cột_điện 35 kv điện_lực lục_yên cây đè làm_đổ cột khiến toàn_bộ khu_vực thị_trấn_yên_thế_và xã lân_cận mất điện hoàn_toàn
+3,báo_cáo ban_đầu 19 nhà dân sập hoàn_toàn ngôi nhà tốc mái làm thiệt_hại tài_sản khác người_dân
+4,khu_vực đầu nguồn hồ thác_bà xã nằm ven sông chảy thời_điểm giao mùa thường xảy gió_lốc lớn ảnh_hưởng đến nhà_cửa hoa_màu người_dân
+5,thông_tấn_xã việt_nam ông hoàng_đức_trọng phó chủ_tịch ubnd huyện lục_yên có_mặt hiện_trường xã tân_lập chỉ_đạo khắc_phục hậu_quản lốc xoáy biết hiện_nay huyện huy_động lực_lượng quân_đội công_an dân_quân tự về xuống hiện_trường giúp_đỡ dân khắc_phục hậu_quả
+6,đồng_thời chỉ_đạo địa_phương trong huyện nhanh_chóng thống_kê huy_động lực_lượng tại_chỗ giúp dân khắc_phục hậu_quả lốc xoáy
+7,tuy_nhiên huy_động lực_lượng gặp khó_khăn đơn_vị cử người xuống địa_bàn xã phục_vụ công_tác bầu_cử

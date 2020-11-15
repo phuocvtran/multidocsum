@@ -1,17 +1,17 @@
 idx, sentence
-0,cảnh_sát tp rio_de janeiro – brazil vừa cho hãng tin ap biết họ đang săn_lùng hơn 30 tên “ yêu râu xanh ” là những nghi can trong một vụ cưỡng_hiếp tập_thể gây rúng_động dư_luận những ngày vừa_qua 
-1,theo thông_tin ban_đầu  nạn_nhân là 1 thiếu_nữ 16 tuổi 
-2,thiếu_nữ bị cưỡng_hiếp tập_thể ở một khu ổ_chuột phía tây tp rio de janeiro hôm 215 
-3,cô gái cho biết mình đi đến nhà bạn trai nhưng bị đánh thuốc_mê 
-4,khi tỉnh dậy  em thấy mình đang ở trong một ngôi nhà khác  xung_quanh là những người đàn_ông lạ_mặt 
-5,sau đó 1 ngày  nạn_nhân tới đồn cảnh_sát trình_báo 
-6,các nghi can được xác_định là hơn 30 người đàn_ông vũ_trang  bao_gồm bạn trai của thiếu_nữ 
-7,hình_ảnh và đoạn video dài 40 giây quay lại vụ cưỡng_hiếp được đăng_tải lên mạng xã_hội twitter hôm 245 
-8,phát_biểu với các phương_tiện truyền_thông địa_phương  bà của thiếu_nữ cho biết gia_đình cô bé đã xem đoạn video và khóc 
-9,“ chúng_tôi không_thể tin vào những gì đã xảy ra 
-10,đó là một bi_kịch 
-11,con bé đang bị khủng_hoảng ” – người bà nói với tờ folha de spaulo
-12,một chiến_dịch trực_tuyến chống lại những gì các nhà vận_động gọi là “ văn_hóa hiếp_dâm ở brazil ” đã được phát_động 
-13,giới nhà_báo cũng vào_cuộc khi chế ảnh biếm các nghi can đeo sừng quỷ để lên_án vụ cưỡng_hiếp 
-14,nhóm phụ_nữ liên_hiệp_quốc_lập_tức kêu_gọi nhà_chức_trách sở_tại điều_tra vụ_việc nhưng với điều_kiện tôn_trọng và không xâm_phạm quyền riêng_tư của thiếu_nữ 
-15,các chuyên_gia nói rằng nhiều trường_hợp bị cưỡng_hiếp tại brazil không bị phanh_phui do các nạn_nhân sợ bị trả_thù cũng như xấu_hổ 
+0,cảnh_sát tp rio_de janeiro – brazil hãng tin ap biết họ săn_lùng hơn 30 tên “ yêu râu xanh ” nghi can trong một vụ cưỡng_hiếp tập_thể gây rúng_động dư_luận ngày vừa_qua
+1,thông_tin ban_đầu nạn_nhân 1 thiếu_nữ 16 tuổi
+2,thiếu_nữ cưỡng_hiếp tập_thể ở một khu ổ_chuột phía tây tp rio de janeiro hôm 215
+3,cô gái biết mình đi đến nhà bạn trai đánh thuốc_mê
+4,tỉnh dậy em thấy mình ở trong một ngôi nhà khác xung_quanh người đàn_ông lạ_mặt
+5,1 ngày nạn_nhân tới đồn cảnh_sát trình_báo
+6,nghi can xác_định hơn 30 người đàn_ông vũ_trang bao_gồm bạn trai thiếu_nữ
+7,hình_ảnh đoạn video dài 40 giây quay vụ cưỡng_hiếp đăng_tải mạng xã_hội twitter hôm 245
+8,phát_biểu phương_tiện truyền_thông địa_phương bà thiếu_nữ biết gia_đình cô bé xem đoạn video khóc
+9,“ chúng_tôi không_thể tin xảy
+10,một bi_kịch
+11,con bé khủng_hoảng ” – người bà nói tờ folha de spaulo
+12,một chiến_dịch trực_tuyến chống nhà vận_động gọi “ văn_hóa hiếp_dâm ở brazil ” phát_động
+13,giới nhà_báo vào_cuộc chế ảnh biếm nghi can đeo sừng quỷ lên_án vụ cưỡng_hiếp
+14,nhóm phụ_nữ liên_hiệp_quốc_lập_tức kêu_gọi nhà_chức_trách sở_tại điều_tra vụ_việc điều_kiện tôn_trọng xâm_phạm quyền riêng_tư thiếu_nữ
+15,chuyên_gia nói trường_hợp cưỡng_hiếp brazil phanh_phui nạn_nhân sợ trả_thù xấu_hổ

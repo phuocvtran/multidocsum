@@ -1,12 +1,12 @@
 idx, sentence
-0,thông_tin từ cơ_quan csđt  catp hà_nội cho biết  trong các ngày 8 và 114  chị cao_thị_huế  quê_quán tỉnh nghệ_an  hiện ở huyện hoài_đức  tp hà_nội  và anh nguyễn_hồng_quynh  trú tại quận tây_hồ  tp hà_nội đến phòng cảnh_sát kinh_tế  catp hà_nội tố_cáo bị huỳnh_quang_phong lừa_đảo chiếm_đoạt gần 700_triệu đồng 
-1,qua điều_tra ban_đầu  lực_lượng cảnh_sát kinh_tế catp hà_nội được biết giữa năm 2011  thông_qua các mối quan_hệ xã_hội  phong quen_biết chị huế 
-2,lúc đó  phong đang làm nghề lao_động tự_do  nhưng “ chém ” hiện đang làm chủ_tịch hội_đồng_quản_trị  hđqt  của một công_ty xây_dựng lớn tại hà_nội 
-3,giữa năm 2014  qua bạn_bè phong biết chị huế có nhu_cầu xin cho người_nhà ở huyện diễn_châu  tỉnh nghệ_an đăng_ký thi vào học_viện csnd nhưng không đủ điểm  nay muốn xin vào học tại trường_trung_cấp csnd_vi  trụ_sở ở tỉnh hưng_yên  
-4,phong đã rêu_rao có nhiều mối quan_hệ “ chạy ” được cho người_nhà của chị huế vào trường_trung_cấp csnd_vi với mức giá 400 triệu đồng 
-5,chị huế tưởng phong làm được việc này  nên đã 3 lần chuyển cho phong đủ số tiền anh ta yêu_cầu 
-6,thấy bạn mình là chị huế nhờ phong “ chạy ” cho người_thân vào trường công_an  anh quynh đã nhờ phong giúp một suất vào trường_trung_cấp cảnh_sát vũ_trang  trụ_sở ở thị_trấn xuân_mai  huyện chương_mỹ  tp hà_nội  
-7,phong yêu_cầu anh quynh đưa 380 triệu đồng để lo “ chạy ” trường 
-8,sau đó  anh quynh đã 2 lần đưa tiền cho phong với tổng_số tiền 230 triệu đồng  nhưng phong không xin được cho người_nhà anh quynh nhập_học 
-9,đến giữa tháng 52016  sau khi bị lực_lượng cảnh_sát kinh_tế catp hà_nội bắt_giữ  phong khai đã nhận tiền của anh quynh và chị huế rồi hứa_hẹn “ chạy ” cho người_thân của họ được học tại các trường công_an là có thật  nhưng không_thể đáp_ứng được yêu_cầu của họ và tiền thì đã tiêu hết 
-10,khi những người bị hại tìm để hỏi cho ra_nhẽ việc “ chạy trường ”  cũng như muốn đòi lại tiền thì phong trốn_tránh 
+0,thông_tin cơ_quan csđt catp hà_nội biết trong ngày 8 114 chị cao_thị_huế quê_quán tỉnh nghệ_an hiện ở huyện hoài_đức tp hà_nội anh nguyễn_hồng_quynh trú quận tây_hồ tp hà_nội đến phòng cảnh_sát kinh_tế catp hà_nội tố_cáo huỳnh_quang_phong lừa_đảo chiếm_đoạt gần 700_triệu đồng
+1,điều_tra ban_đầu lực_lượng cảnh_sát kinh_tế catp hà_nội biết giữa năm 2011 thông_qua mối quan_hệ xã_hội phong quen_biết chị huế
+2,phong làm nghề lao_động tự_do “ chém ” hiện làm chủ_tịch hội_đồng_quản_trị hđqt một công_ty xây_dựng lớn hà_nội
+3,giữa năm 2014 bạn_bè phong biết chị huế nhu_cầu xin người_nhà ở huyện diễn_châu tỉnh nghệ_an đăng_ký thi học_viện csnd đủ điểm nay muốn xin học trường_trung_cấp csnd_vi trụ_sở ở tỉnh hưng_yên
+4,phong rêu_rao mối quan_hệ “ chạy ” người_nhà chị huế trường_trung_cấp csnd_vi mức giá 400 triệu đồng
+5,chị huế tưởng phong làm 3 lần chuyển phong đủ số tiền anh ta yêu_cầu
+6,thấy bạn mình chị huế nhờ phong “ chạy ” người_thân trường công_an anh quynh nhờ phong giúp một suất trường_trung_cấp cảnh_sát vũ_trang trụ_sở ở thị_trấn xuân_mai huyện chương_mỹ tp hà_nội
+7,phong yêu_cầu anh quynh đưa 380 triệu đồng lo “ chạy ” trường
+8,anh quynh 2 lần đưa tiền phong tổng_số tiền 230 triệu đồng phong xin người_nhà anh quynh nhập_học
+9,đến giữa tháng 52016 lực_lượng cảnh_sát kinh_tế catp hà_nội bắt_giữ phong khai nhận tiền anh quynh chị huế hứa_hẹn “ chạy ” người_thân họ học trường công_an thật không_thể đáp_ứng yêu_cầu họ tiền tiêu hết
+10,người hại tìm hỏi ra_nhẽ “ chạy trường ” muốn đòi tiền phong trốn_tránh

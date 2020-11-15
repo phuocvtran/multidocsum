@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 28/5  tin từ bệnh_viện trung_ương huế cho biết  đơn_vị này vừa tiếp_nhận 7 nạn_nhân bị sét đánh gây thương_vong khi đang làm_đồng 
-1,trước đó  vào 14 giờ chiều nay  trên địa_bàn tỉnh tt – huế bất_ngờ xuất_hiện mưa lớn kèm giông sét 
-2,thời_điểm trên  các nạn_nhân hồ_nghĩa  sn 1968   hồ_lĩnh  sn 1999  con của ông nghĩa   nguyễn_văn_toán  sn 1970  cùng trú phường an_hòa  tp huế  và 3 cháu nhỏ đang ở ngoài đồng thì bất_ngờ gặp giông sét 
-3,“ khi chúng_tôi đang làm_đồng thì mưa lớn nên chạy lên bờ  cùng nhau kéo bạt trú mưa 
-4,khi cả nhóm người đang ôm nhau co_ro dưới bạt thì sét đánh lớn  khiến chúng_tôi văng ra khỏi nơi trú  bất_tỉnh ”  ông nghĩa kể lại 
-5,cùng thời_điểm trên  khi ông lê_văn_tưởng  sn 1974  trú xã hương_an  thị_xã hương_trà  đang cày ruộng gần đó cũng bất_ngờ bị sét đánh gây tử_vong 
-6,trao_đổi với pv  ts_phan_hải_thanh – trưởng_phòng quản_lý chất_lượng bv_trung_ương huế cho biết  ngoài các cháu nhỏ bị_thương nhẹ  ở nhà điều_trị thì các nạn_nhân còn lại nhập_viện trong tình_trạng xoàng đầu  tức ngực  tê các chi  một_số trường_hợp còn bị bỏng vùng lưng cấp_độ i  ii 
-7,“ trường_hợp nạn_nhân lê_văn_tưởng  nhập_viện trong tình_trạng hôn_mê sâu  tím tái toàn_thân  ngừng tim  ngừng phổi với nhiều vết cháy_sém 
-8,mặc_dù đã được đội_ngũ y  bác_sĩ cấp_cứu kịp_thời nhưng nạn_nhân không qua khỏi ”  ts_thanh cho biết 
+0,ngày 28/5 tin bệnh_viện trung_ương huế biết đơn_vị tiếp_nhận 7 nạn_nhân sét đánh gây thương_vong làm_đồng
+1,14 giờ chiều nay địa_bàn tỉnh tt – huế bất_ngờ xuất_hiện mưa lớn kèm giông sét
+2,thời_điểm nạn_nhân hồ_nghĩa sn 1968 hồ_lĩnh sn 1999 con ông nghĩa nguyễn_văn_toán sn 1970 trú phường an_hòa tp huế 3 cháu nhỏ ở ngoài đồng bất_ngờ gặp giông sét
+3,“ chúng_tôi làm_đồng mưa lớn chạy bờ nhau kéo bạt trú mưa
+4,nhóm người ôm nhau co_ro bạt sét đánh lớn khiến chúng_tôi văng khỏi trú bất_tỉnh ” ông nghĩa kể
+5,thời_điểm ông lê_văn_tưởng sn 1974 trú xã hương_an thị_xã hương_trà cày ruộng gần bất_ngờ sét đánh gây tử_vong
+6,trao_đổi pv ts_phan_hải_thanh – trưởng_phòng quản_lý chất_lượng bv_trung_ương huế biết ngoài cháu nhỏ bị_thương nhẹ ở nhà điều_trị nạn_nhân còn nhập_viện trong tình_trạng xoàng đầu tức ngực tê chi một_số trường_hợp còn bỏng vùng lưng cấp_độ i ii
+7,“ trường_hợp nạn_nhân lê_văn_tưởng nhập_viện trong tình_trạng hôn_mê sâu tím tái toàn_thân ngừng tim ngừng phổi vết cháy_sém
+8,mặc_dù đội_ngũ y bác_sĩ cấp_cứu kịp_thời nạn_nhân khỏi ” ts_thanh biết

@@ -1,5 +1,5 @@
 idx, sentence
-0,theo đó  diện_tích mở_rộng là 720 ha  thuộc 3 xã  phú_minh  phú_cường và mai_đình  huyện sóc_sơn 
-1,hiện_tại  công_suất thiết_kế cho sân_bay nội_bài là 25 triệu hành_khách / năm 
-2,sau khi mở_rộng  công_suất ước_tính sẽ tăng gấp 2 lần 
-3,được biết  chi_phí xây_dựng các hạng_mục chính của sân_bay nội_bài 2 là khoảng 78000 tỉ đồng và sẽ được thực_hiện theo hình_thức xã_hội_hóa 
+0,diện_tích mở_rộng 720 ha thuộc 3 xã phú_minh phú_cường mai_đình huyện sóc_sơn
+1,hiện_tại công_suất thiết_kế sân_bay nội_bài 25 triệu hành_khách / năm
+2,mở_rộng công_suất ước_tính tăng gấp 2 lần
+3,biết chi_phí xây_dựng hạng_mục chính sân_bay nội_bài 2 khoảng 78000 tỉ đồng thực_hiện hình_thức xã_hội_hóa

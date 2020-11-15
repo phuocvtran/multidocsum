@@ -1,14 +1,14 @@
 idx, sentence
-0,trước đó  ngày 29/4/2016  bà nông_thị_tươi  trú tại tổ_dân_phố 3  thị_trấn phú_thiện  huyện phú_thiện  tỉnh gia_lai  có đơn cầu_cứu gửi cơ_quan_chức_năng tỉnh gia_lai và lãnh_đạo báo_công_an tp đà_nẵng về việc ông phạm_ngọc_hùng  trú thôn 1  xã trà_đa  thành_phố pleiku  tỉnh gia_lai  tự_xưng là cán_bộ công_an  phóng_viên báo_công_an tp đà_nẵng  văn_phòng đại_diện tại tây_nguyên đã nhận của bà 100 triệu đồng để “ chạy ” việc nhưng không thực_hiện được và cũng không chịu trả lại tiền 
-1,theo đơn cầu_cứu của bà tươi  bà có người cháu dương hoàng_phú đang thực_hiện nghĩa_vụ tại công_an huyện phú_thiện và muốn xin vào công_an chuyên_nghiệp nên người quen giới_thiệu gặp hùng 
-2,sau khi trao_đổi  ông hùng đồng_ý “ chạy ” việc cho phú và đề_nghị gia_đình đưa tổng_số tiền là 100 triệu đồng để hùng đi lo công_việc 
-3,ngày 30/8/2011 và ngày 20/4/2011  hai bên đã gặp nhau để giao_nhận tiền cho ông hùng 
-4,khi nhận tiền  ông hùng có viết giấy biên_nhận  việc viết giấy biên_nhận tiền chỉ thể_hiện tổng_số tiền 2 lần giao_nhận là 45 triệu đồng  số tiền còn lại không viết giấy_tờ gì 
-5,khi hai bên giao_nhận tiền có 2 người khác làm_chứng và ký vào giấy giao_nhận tiền 
-6,sau khi giao đủ số tiền và viết giấy_tờ đầy_đủ nhưng đến tháng 2/2014 sau khi phú hoàn_thành nghĩa_vụ công_an huyện phụ_thiện và ra_quân ông hùng vẫn không lo được việc  gia_đình bà tươi liên_hệ với ông hùng nhưng ông hùng liên_tục thất hẹn 
-7,tháng 12/2014  bà tươi gửi đơn lên công_xã trà_đa 
-8,tháng 6/2015  công_an xã trà_đa gọi bà tươi lên làm_việc nhưng ông hùng không có_mặt  sau đó  bà tươi gửi đơn lên tand tp pleiku nhưng đến nay vẫn chưa được giải_quyết triệt_để 
-9,trong 2 giấy biên_nhận tiền mà bà tươi cung_cấp cho cơ_quan_chức_năng  một giấy ghi phạm_ngọc_hùng – nguyên cán_bộ a43 bộ công_an  hiện công_tác tại báo ca đà_nẵng  thường_trú tại tây_nguyên 
-10,giấy còn lại ghi đơn_vị công_tác a35 – bca 
-11,cả hai giấy đều nêu lý_do nhận tiền là “ giải_quyết công_việc cho cháu phú ” trao_đổi với pv tiền_phong  đại_tá nguyễn_hải_thuận  lãnh_đạo ban biên_tập báo_công_an tp đà_nẵng cho biết  báo cũng như văn_phòng đại_diện của báo tại tây_nguyên không có ai là phóng_viên  cộng_tác_viên  nhân_viên tên phạm_ngọc_hùng 
-12,đây là hành_vi giả_mạo  ban biên_tập báo_công_an_thành_phố đà_nẵng đã có báo_cáo lên ban giám_đốc công_an tp đà_nẵng về vụ_việc  đồng_thời đề_nghị cơ_quan_chức_năng thành_phố pleiku  tỉnh gia_lai khẩn_trương điều_tra làm rõ 
+0,ngày 29/4/2016 bà nông_thị_tươi trú tổ_dân_phố 3 thị_trấn phú_thiện huyện phú_thiện tỉnh gia_lai đơn cầu_cứu gửi cơ_quan_chức_năng tỉnh gia_lai lãnh_đạo báo_công_an tp đà_nẵng về ông phạm_ngọc_hùng trú thôn 1 xã trà_đa thành_phố pleiku tỉnh gia_lai tự_xưng cán_bộ công_an phóng_viên báo_công_an tp đà_nẵng văn_phòng đại_diện tây_nguyên nhận bà 100 triệu đồng “ chạy ” thực_hiện chịu trả tiền
+1,đơn cầu_cứu bà tươi bà người cháu dương hoàng_phú thực_hiện nghĩa_vụ công_an huyện phú_thiện muốn xin công_an chuyên_nghiệp người quen giới_thiệu gặp hùng
+2,trao_đổi ông hùng đồng_ý “ chạy ” phú đề_nghị gia_đình đưa tổng_số tiền 100 triệu đồng hùng đi lo công_việc
+3,ngày 30/8/2011 ngày 20/4/2011 hai bên gặp nhau giao_nhận tiền ông hùng
+4,nhận tiền ông hùng viết giấy biên_nhận viết giấy biên_nhận tiền thể_hiện tổng_số tiền 2 lần giao_nhận 45 triệu đồng số tiền còn viết giấy_tờ
+5,hai bên giao_nhận tiền 2 người khác làm_chứng ký giấy giao_nhận tiền
+6,giao đủ số tiền viết giấy_tờ đầy_đủ đến tháng 2/2014 phú hoàn_thành nghĩa_vụ công_an huyện phụ_thiện ra_quân ông hùng lo gia_đình bà tươi liên_hệ ông hùng ông hùng liên_tục thất hẹn
+7,tháng 12/2014 bà tươi gửi đơn công_xã trà_đa
+8,tháng 6/2015 công_an xã trà_đa gọi bà tươi làm_việc ông hùng có_mặt bà tươi gửi đơn tand tp pleiku đến nay giải_quyết triệt_để
+9,trong 2 giấy biên_nhận tiền bà tươi cung_cấp cơ_quan_chức_năng một giấy ghi phạm_ngọc_hùng – nguyên cán_bộ a43 bộ công_an hiện công_tác báo ca đà_nẵng thường_trú tây_nguyên
+10,giấy còn ghi đơn_vị công_tác a35 – bca
+11,hai giấy nêu lý_do nhận tiền “ giải_quyết công_việc cháu phú ” trao_đổi pv tiền_phong đại_tá nguyễn_hải_thuận lãnh_đạo ban biên_tập báo_công_an tp đà_nẵng biết báo văn_phòng đại_diện báo tây_nguyên ai phóng_viên cộng_tác_viên nhân_viên tên phạm_ngọc_hùng
+12,hành_vi giả_mạo ban biên_tập báo_công_an_thành_phố đà_nẵng báo_cáo ban giám_đốc công_an tp đà_nẵng về vụ_việc đồng_thời đề_nghị cơ_quan_chức_năng thành_phố pleiku tỉnh gia_lai khẩn_trương điều_tra làm rõ

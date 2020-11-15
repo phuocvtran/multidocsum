@@ -1,19 +1,19 @@
 idx, sentence
-0,vào ngày 285  dưới sự chứng_kiến của lãnh_đạo hai nước việt_nam  nhật_bản  vietnam_airlines và tập_đoàn ana đã chính_thức ký hợp_đồng và trao văn_kiện hợp_tác_chiến_lược 
-1,theo hợp_đồng  tập_đoàn ana sẽ mua 8771  cổ_phần của vietnam_airlines với giá_trị 2431 tỉ đồng  tương_đương 109 triệu usd  
-2,dự_kiến sau khi hoàn_tất các giao_dịch vào ngày 172016  ana sẽ chính_thức trở_thành cổ_đông chiến_lược của vietnam_airlines 
-3,mối quan_hệ hợp_tác_chiến_lược này sẽ giúp vietnam_airlines và tập_đoàn ana có_thể khai_thác  tận_dụng thế mạnh của nhau nhằm mở_rộng mạng đường_bay và phát_triển sản_phẩm 
-4,dự_kiến  hai bên sẽ triển_khai hợp_tác liên_danh và chương_trình khách_hàng thường_xuyên bắt_đầu từ ngày 30102016 
-5,vietnam airlines và ana sẽ hợp_tác liên_danh trên 30 đường_bay nội_địa tại nhật_bản và việt_nam cùng 10 đường_bay quốc_tế giữa hai quốc_gia  nhằm mang lại sự thuận_tiện hơn nữa cho khách_hàng 
-6,ngoài_ra  khách_hàng thường_xuyên của mỗi hãng có_thể tích_lũy dặm khi bay trên các chuyến bay hợp_tác liên_danh giữa hai hãng và được trả thưởng trên các chuyến bay  do hai hãng vừa là hãng tham_gia vừa là hãng khai_thác 
-7,bên_cạnh đó  vietnam_airlines và tập_đoàn ana cũng sẽ tiến_hành hợp_tác trong hàng_loạt các dịch_vụ liên_quan đến làm thủ_tục hành_khách  dịch_vụ hàng_hóa  vận_tải  suất ăn  bảo_dưỡng máy_bay và các dịch_vụ khác tại các sân_bay ở nhật_bản và việt_nam 
-8,bước_tiến trong nỗ_lực tái cơ_cấu vietnam_airlines và ana đều là những hãng hàng_không hàng_đầu của mỗi nước 
-9,vietnam airlines hiện đang khai_thác một đội máy_bay trẻ gồm 89 máy_bay hiện_đại với nhiều chủng_loại máy_bay tân_tiến trên thế_giới  trong đó có boeing 787  9 dreamliners và airbus_a350900_xwb 
-10,mạng đường_bay của vietnam_airlines kết_nối tới 20 điểm nội_địa  29 điểm đến quốc_tế và hiện đang khai_thác 66 chuyến bay mỗi tuần tới nhật_bản bao_gồm  sân_bay narita  haneda  tokyo   sân_bay chubu  nagoya   sân_bay kansai  osaka  và sân_bay fukuoka 
-11,ana là tập_đoàn hàng_không hoạt_động toàn_cầu với tổng_cộng 63 công_ty con hợp_nhất và 18 chi_nhánh 
-12,ana sở_hữu đội máy_bay khoảng 240 chiếc  khai_thác tới 88 điểm đến và vận_chuyển khoảng 47 triệu lượt hành_khách 
-13,ana là hãng hàng_không lớn nhất nhật_bản về doanh_thu và sản_lượng hành_khách 
-14,đồng_thời  ana còn là thành_viên của liên_minh hàng_không star_alliance 
-15,sau khi chính_thức trở_thành cổ_đông chiến_lược  tập_đoàn ana sẽ cử đại_diện tham_gia hội_đồng_quản_trị của vietnam_airlines  đồng_thời cam_kết chia_sẻ các kinh_nghiệm quản_trị hỗ_trợ vietnam_airlines nâng cao chất_lượng dịch_vụ  tối_ưu_hóa hoạt_động khai_thác 
-16,tập_đoàn ana và các công_ty_con của ana cam_kết sẽ cung_cấp hỗ_trợ kỹ_thuật cho vietnam_airlines và các công_ty_con của vietnam_airlines trên các lĩnh_vực gồm quản_trị nguồn nhân_lực  hỗ_trợ xây_dựng kế_hoạch chiến_lược phát_triển đội bay  mạng bay  lịch bay  hỗ_trợ công_tác điều_hành khai_thác bay  hỗ_trợ công_tác kỹ_thuật bảo_dưỡng máy_bay  công_nghệ_thông_tin  hỗ_trợ công_tác đào_tạo  bao_gồm tiếp_viên  
-17,ông shinya_katanozaka  tổng_giám_đốc tập_đoàn ana bày_tỏ mong_muốn được chia_sẻ kinh_nghiệm nhiều năm của tập_đoàn ana với vietnam_airlines  bao_gồm việc hỗ_trợ nâng cao chất_lượng dịch_vụ và đóng_góp cho sự tăng_trưởng  phát_triển chung giữa hai công_ty 
+0,ngày 285 chứng_kiến lãnh_đạo hai nước việt_nam nhật_bản vietnam_airlines tập_đoàn ana chính_thức ký hợp_đồng trao văn_kiện hợp_tác_chiến_lược
+1,hợp_đồng tập_đoàn ana mua 8771 cổ_phần vietnam_airlines giá_trị 2431 tỉ đồng tương_đương 109 triệu usd
+2,dự_kiến hoàn_tất giao_dịch ngày 172016 ana chính_thức trở_thành cổ_đông chiến_lược vietnam_airlines
+3,mối quan_hệ hợp_tác_chiến_lược giúp vietnam_airlines tập_đoàn ana khai_thác tận_dụng thế mạnh nhau nhằm mở_rộng mạng đường_bay phát_triển sản_phẩm
+4,dự_kiến hai bên triển_khai hợp_tác liên_danh chương_trình khách_hàng thường_xuyên bắt_đầu ngày 30102016
+5,vietnam airlines ana hợp_tác liên_danh 30 đường_bay nội_địa nhật_bản việt_nam 10 đường_bay quốc_tế giữa hai quốc_gia nhằm mang thuận_tiện hơn khách_hàng
+6,ngoài_ra khách_hàng thường_xuyên hãng tích_lũy dặm bay chuyến bay hợp_tác liên_danh giữa hai hãng trả thưởng chuyến bay hai hãng hãng tham_gia hãng khai_thác
+7,bên_cạnh vietnam_airlines tập_đoàn ana tiến_hành hợp_tác trong hàng_loạt dịch_vụ liên_quan đến làm thủ_tục hành_khách dịch_vụ hàng_hóa vận_tải suất ăn bảo_dưỡng máy_bay dịch_vụ khác sân_bay ở nhật_bản việt_nam
+8,bước_tiến trong nỗ_lực tái cơ_cấu vietnam_airlines ana hãng hàng_không hàng_đầu nước
+9,vietnam airlines hiện khai_thác một đội máy_bay trẻ gồm 89 máy_bay hiện_đại chủng_loại máy_bay tân_tiến thế_giới trong boeing 787 9 dreamliners airbus_a350900_xwb
+10,mạng đường_bay vietnam_airlines kết_nối tới 20 điểm nội_địa 29 điểm đến quốc_tế hiện khai_thác 66 chuyến bay tuần tới nhật_bản bao_gồm sân_bay narita haneda tokyo sân_bay chubu nagoya sân_bay kansai osaka sân_bay fukuoka
+11,ana tập_đoàn hàng_không hoạt_động toàn_cầu tổng_cộng 63 công_ty con hợp_nhất 18 chi_nhánh
+12,ana sở_hữu đội máy_bay khoảng 240 khai_thác tới 88 điểm đến vận_chuyển khoảng 47 triệu lượt hành_khách
+13,ana hãng hàng_không lớn nhất nhật_bản về doanh_thu sản_lượng hành_khách
+14,đồng_thời ana còn thành_viên liên_minh hàng_không star_alliance
+15,chính_thức trở_thành cổ_đông chiến_lược tập_đoàn ana cử đại_diện tham_gia hội_đồng_quản_trị vietnam_airlines đồng_thời cam_kết chia_sẻ kinh_nghiệm quản_trị hỗ_trợ vietnam_airlines nâng cao chất_lượng dịch_vụ tối_ưu_hóa hoạt_động khai_thác
+16,tập_đoàn ana công_ty_con ana cam_kết cung_cấp hỗ_trợ kỹ_thuật vietnam_airlines công_ty_con vietnam_airlines lĩnh_vực gồm quản_trị nguồn nhân_lực hỗ_trợ xây_dựng kế_hoạch chiến_lược phát_triển đội bay mạng bay lịch bay hỗ_trợ công_tác điều_hành khai_thác bay hỗ_trợ công_tác kỹ_thuật bảo_dưỡng máy_bay công_nghệ_thông_tin hỗ_trợ công_tác đào_tạo bao_gồm tiếp_viên
+17,ông shinya_katanozaka tổng_giám_đốc tập_đoàn ana bày_tỏ mong_muốn chia_sẻ kinh_nghiệm năm tập_đoàn ana vietnam_airlines bao_gồm hỗ_trợ nâng cao chất_lượng dịch_vụ đóng_góp tăng_trưởng phát_triển chung giữa hai công_ty

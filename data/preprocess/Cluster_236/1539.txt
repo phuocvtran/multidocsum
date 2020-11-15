@@ -1,22 +1,22 @@
 idx, sentence
-0,theo báo_cáo “ nô_lệ toàn_cầu 2016 ”  global_slavery_index  của tổ_chức walk_free_foundation  úc  vừa công_bố  trên thế_giới hiện có gần 46 triệu người đang chịu_đựng cuộc_sống như nô_lệ 
-1,nô_lệ thời nay tồn_tại dưới nhiều hình_thức  có những người sinh ra đã chịu thân_phận tôi_tớ  có những người vốn tự_do nhưng bị bắt_cóc và ép bán_dâm  có những người chịu phục_tùng vì nợ_nần  hồi chuông báo_động so với con_số 358 triệu nô_lệ của năm 2014  số_liệu thống_kê năm nay khiến không ít người giật_mình 
-2,ông andrew_forest  một tỉ_phú ngành mỏ ở úc kiêm nhà sáng_lập walk_free  cho biết tỉ_lệ gia_tăng gần 30  là do công_tác thu_thập_dữ_liệu tốt hơn trước đây  mặc_dù ông lo_sợ tình_hình sẽ còn tồi_tệ hơn do tình_trạng di_dân toàn_cầu khiến con_người dễ bị tổn_thương và rơi vào các hình_thức nô_lệ khác nhau 
-3,tỉ_phú forest kêu_gọi các doanh_nghiệp kiểm_tra chuỗi cung_ứng của mình để phát_hiện tình_trạng bóc_lột lao_động  riêng công_ty fortescue_metals_group của ông đã phát_hiện hàng ngàn người bị các đối_tác ép lao_động khổ_sai 
-4,“ nhưng đã có một_vài chủ doanh_nghiệp lớn nhất thế_giới nhìn vào mắt tôi và khẳng_định sẽ không dung_thứ cho tình_trạng nô_lệ nếu họ phát_hiện ra ”  ông forest nói 
-5,xuất_hiện trong buổi ra_mắt báo_cáo của walk_free ngày 315  diễn_viên điện_ảnh nổi_tiếng người úc_russell_crowe  người từng đóng vai nô_lệ trong bộ phim võ_sĩ giác_đấu  mô_tả hoàn_cảnh đáng thương của những người sống trong cộng_đồng nhưng lại “ mắc_kẹt  bất_lực  bị giam_giữ trong vòng lặp của sự tuyệt_vọng  chà_đạp mà không có bất_cứ lựa_chọn hay hi_vọng nào ” 
-6,“ là một diễn_viên  nhiệm_vụ của tôi là thể_hiện cảm_xúc thật của con_người  nhưng không gì có_thể so_sánh với cuộc_sống của những người được nêu trong báo_cáo hôm_nay 
-7,cảm_giác bị sốc khi đọc global_slavery_index là thứ tôi không bao_giờ có_thể quên được ”  tài_tử người úc bày_tỏ 
-8,cũng theo walk_free  hiện_tượng nô_lệ được phát_hiện ở tất_cả 167 quốc_gia trên thế_giới  với ấn_độ là nước có số_lượng nhiều nhất  khoảng 184 triệu người trên tổng dân_số 13 tỉ 
-9,nhưng ấn_độ cũng là nước có thành_tích đáng ghi_nhận do chính_phủ nước này đã bắt_đầu hành_động 
-10,new_delhi trong tuần này công_bố một dự_luật chống buôn_lậu người  theo đó luật_pháp sẽ đối_xử công_bằng hơn với các nạn_nhân thay_vì xem họ là tội_phạm 
-11,châu_á dẫn_đầu về bóc_lột báo_cáo “ nô_lệ toàn_cầu 2016 ” một lần nữa xác_nhận vị_trí dẫn_đầu của châu_á về sự phổ_biến nạn nô_lệ 
-12,với đặc_thù sử_dụng nhiều lao_động tay_nghề thấp trong các chuỗi cung_ứng quần_áo  thực_phẩm  công_nghệ   châu_á là “ nhà ” của 2/3 số nô_lệ toàn_cầu 
-13,khoảng 58  số nô_lệ tập_trung ở năm quốc_gia châu_á sau  ấn_độ  trung_quốc  pakistan  bangladesh và uzbekistan 
-14,nhưng nếu tính trên phần_trăm dân_số thì triều_tiên  uzbekistan và campuchia là những nước dẫn_đầu 
-15,các chính_quyền bị chỉ_trích không “ động_đậy ” trong vấn_đề nô_lệ gồm có triều_tiên  iran  eritrea  guinea xích_đạo và hong_kong 
-16,ngược_lại  các chính_phủ tích_cực chống nô_lệ nhất là hà_lan  mỹ  anh  thụy_điển và úc 
-17,tỉ_phú forest cho biết việc công_bố báo_cáo “ nô_lệ toàn_cầu 2016 ” ở anh là một hành_động khích_lệ bởi chính_phủ anh năm 2015 vừa thông_qua đạo_luật về nô_lệ hiện_đại 
-18,tuy châu_âu_là khu_vực có tỉ_lệ nô_lệ thấp nhất  đây lại là đích đến của lực_lượng lao_động cưỡng_bức và nô_lệ tình_dục 
-19,điều đáng lo là hiện người_ta vẫn chưa đánh_giá được tác_động của làn_sóng di_dân và người tị_nạn chiến_tranh đến tình_trạng nô_lệ ở châu_âu 
-20,báo_cáo của walk_free được hình_thành dựa trên công_trình phỏng_vấn 42000 người bằng 53 ngôn_ngữ ở 25 quốc_gia do công_ty thăm_dò gallup  mỹ  thực_hiện 
+0,báo_cáo “ nô_lệ toàn_cầu 2016 ” global_slavery_index tổ_chức walk_free_foundation úc công_bố thế_giới hiện gần 46 triệu người chịu_đựng cuộc_sống nô_lệ
+1,nô_lệ thời nay tồn_tại hình_thức người sinh chịu thân_phận tôi_tớ người vốn tự_do bắt_cóc ép bán_dâm người chịu phục_tùng nợ_nần hồi chuông báo_động con_số 358 triệu nô_lệ năm 2014 số_liệu thống_kê năm nay khiến ít người giật_mình
+2,ông andrew_forest một tỉ_phú ngành mỏ ở úc kiêm nhà sáng_lập walk_free biết tỉ_lệ gia_tăng gần 30 công_tác thu_thập_dữ_liệu tốt hơn mặc_dù ông lo_sợ tình_hình còn tồi_tệ hơn tình_trạng di_dân toàn_cầu khiến con_người dễ tổn_thương rơi hình_thức nô_lệ khác nhau
+3,tỉ_phú forest kêu_gọi doanh_nghiệp kiểm_tra chuỗi cung_ứng mình phát_hiện tình_trạng bóc_lột lao_động riêng công_ty fortescue_metals_group ông phát_hiện hàng ngàn người đối_tác ép lao_động khổ_sai
+4,“ một_vài chủ doanh_nghiệp lớn nhất thế_giới nhìn mắt tôi khẳng_định dung_thứ tình_trạng nô_lệ họ phát_hiện ” ông forest nói
+5,xuất_hiện trong buổi ra_mắt báo_cáo walk_free ngày 315 diễn_viên điện_ảnh nổi_tiếng người úc_russell_crowe người đóng vai nô_lệ trong bộ phim võ_sĩ giác_đấu mô_tả hoàn_cảnh đáng thương người sống trong cộng_đồng “ mắc_kẹt bất_lực giam_giữ trong vòng lặp tuyệt_vọng chà_đạp bất_cứ lựa_chọn hay hi_vọng nào ”
+6,“ một diễn_viên nhiệm_vụ tôi thể_hiện cảm_xúc thật con_người so_sánh cuộc_sống người nêu trong báo_cáo hôm_nay
+7,cảm_giác sốc đọc global_slavery_index thứ tôi bao_giờ quên ” tài_tử người úc bày_tỏ
+8,walk_free hiện_tượng nô_lệ phát_hiện ở tất_cả 167 quốc_gia thế_giới ấn_độ nước số_lượng nhất khoảng 184 triệu người tổng dân_số 13 tỉ
+9,ấn_độ nước thành_tích đáng ghi_nhận chính_phủ nước bắt_đầu hành_động
+10,new_delhi trong tuần công_bố một dự_luật chống buôn_lậu người luật_pháp đối_xử công_bằng hơn nạn_nhân thay_vì xem họ tội_phạm
+11,châu_á dẫn_đầu về bóc_lột báo_cáo “ nô_lệ toàn_cầu 2016 ” một lần xác_nhận vị_trí dẫn_đầu châu_á về phổ_biến nạn nô_lệ
+12,đặc_thù sử_dụng lao_động tay_nghề thấp trong chuỗi cung_ứng quần_áo thực_phẩm công_nghệ châu_á “ nhà ” 2/3 số nô_lệ toàn_cầu
+13,khoảng 58 số nô_lệ tập_trung ở năm quốc_gia châu_á ấn_độ trung_quốc pakistan bangladesh uzbekistan
+14,tính phần_trăm dân_số triều_tiên uzbekistan campuchia nước dẫn_đầu
+15,chính_quyền chỉ_trích “ động_đậy ” trong vấn_đề nô_lệ gồm triều_tiên iran eritrea guinea xích_đạo hong_kong
+16,ngược_lại chính_phủ tích_cực chống nô_lệ nhất hà_lan mỹ anh thụy_điển úc
+17,tỉ_phú forest biết công_bố báo_cáo “ nô_lệ toàn_cầu 2016 ” ở anh một hành_động khích_lệ chính_phủ anh năm 2015 thông_qua đạo_luật về nô_lệ hiện_đại
+18,tuy châu_âu_là khu_vực tỉ_lệ nô_lệ thấp nhất đích đến lực_lượng lao_động cưỡng_bức nô_lệ tình_dục
+19,đáng lo hiện người_ta đánh_giá tác_động làn_sóng di_dân người tị_nạn chiến_tranh đến tình_trạng nô_lệ ở châu_âu
+20,báo_cáo walk_free hình_thành dựa công_trình phỏng_vấn 42000 người bằng 53 ngôn_ngữ ở 25 quốc_gia công_ty thăm_dò gallup mỹ thực_hiện

@@ -1,12 +1,12 @@
 idx, sentence
-0,với phong_độ tốt trong màu áo new_england_revolution  lee nguyễn đã được hlv jurgen_klinsmann_điền tên vào danh_sách sơ_bộ 40 cầu_thủ mỹ chuẩn_bị cho copa_america 2016 hồi đầu tháng 5 
-1,tuy_nhiên  trong bản danh_sách chính_thức 23 cầu_thủ mới được chiến_lược gia người đức công_bố  tiền_vệ gốc việt đã bị loại 
-2,trong danh_sách 17 cầu_thủ bị loại  ngoài lee nguyễn_còn có 1 số cái tên đáng chú_ý khác như jozy_altidore  nick_rimando hay matt_miazga  tài_năng trẻ mới cập bến chelsea hồi tháng 1 
-3,với việc bị loại  lee_nguyễn_đã bỏ lỡ cơ_hội tham_dự giải copa_america lần thứ 2 trong sự_nghiệp 
-4,trước đó  tiền_vệ này từng được triệu_tập tham_dự copa_america 2007 và có 2 lần ra sân 
-5,mặc_dù đã lên ý_tưởng trẻ_hóa lực_lượng song hlv jurgen_klinsmann vẫn triệu_tập khá nhiều ngôi_sao kì_cựu tham_dự copa 2016 như tim_howard  brad_guzan  clint_dempsey  chris_wondolowski hay jermaine_jones … mỹ là chủ nhà của copa_america 2016 và tham_dự với tư_cách khách_mời ở giải đấu kỉ_niệm 100 năm thành_lập 
-6,ở giải đấu này  mỹ nằm ở bảng a cùng với colombia  costa_rica và paraguay 
-7,danh_sách 23 cầu_thủ mỹ dự_copa_america 2016 thủ_môn  1  brad_guzan  aston_villa   12  tim_howard  colorado_rapids  22  ethan_horvath  molde_ik  
-8,hậu_vệ  2  deandre_yedlin  tottenham   3  steve_birnbaum  dc_united   5  matt_besler  sporting_kansas_city   6  john_brooks  hertha_berlin   14  michael_orozco  club_tijuana   20  geoff_cameron  stoke_city   21  timmy_chandler  eintracht_frankfurt   23  fabian_johnson  m’gladbach  
-9,tiền_vệ  4  michael_bradley  toronto_fc   10  darlington_nagbe  portland_timbers   11  alejandro_bedoya  nantes   13  jermaine_jones  colorado_rapids   15  kyle_beckerman  real_salt_lake   16  perry_kitchen  heart_of_midlothian   17  christian_pulisic  borussia_dortmund   19  graham_zusi  sporting_kc  
-10,tiền_đạo  7  bobby_wood  hamburg   8  clint_dempsey  seattle_sounders   18  chris_wondolowski  san_jose_earthquakes   20  gyasi_zardes  la_galaxy  
+0,phong_độ tốt trong màu áo new_england_revolution lee nguyễn hlv jurgen_klinsmann_điền tên danh_sách sơ_bộ 40 cầu_thủ mỹ chuẩn_bị copa_america 2016 hồi đầu tháng 5
+1,tuy_nhiên trong bản danh_sách chính_thức 23 cầu_thủ mới chiến_lược gia người đức công_bố tiền_vệ gốc việt loại
+2,trong danh_sách 17 cầu_thủ loại ngoài lee nguyễn_còn 1 số tên đáng chú_ý khác jozy_altidore nick_rimando hay matt_miazga tài_năng trẻ mới cập bến chelsea hồi tháng 1
+3,loại lee_nguyễn_đã bỏ lỡ cơ_hội tham_dự giải copa_america lần thứ 2 trong sự_nghiệp
+4,tiền_vệ triệu_tập tham_dự copa_america 2007 2 lần sân
+5,mặc_dù ý_tưởng trẻ_hóa lực_lượng song hlv jurgen_klinsmann triệu_tập khá ngôi_sao kì_cựu tham_dự copa 2016 tim_howard brad_guzan clint_dempsey chris_wondolowski hay jermaine_jones … mỹ chủ nhà copa_america 2016 tham_dự tư_cách khách_mời ở giải đấu kỉ_niệm 100 năm thành_lập
+6,ở giải đấu mỹ nằm ở bảng a colombia costa_rica paraguay
+7,danh_sách 23 cầu_thủ mỹ dự_copa_america 2016 thủ_môn 1 brad_guzan aston_villa 12 tim_howard colorado_rapids 22 ethan_horvath molde_ik
+8,hậu_vệ 2 deandre_yedlin tottenham 3 steve_birnbaum dc_united 5 matt_besler sporting_kansas_city 6 john_brooks hertha_berlin 14 michael_orozco club_tijuana 20 geoff_cameron stoke_city 21 timmy_chandler eintracht_frankfurt 23 fabian_johnson m’gladbach
+9,tiền_vệ 4 michael_bradley toronto_fc 10 darlington_nagbe portland_timbers 11 alejandro_bedoya nantes 13 jermaine_jones colorado_rapids 15 kyle_beckerman real_salt_lake 16 perry_kitchen heart_of_midlothian 17 christian_pulisic borussia_dortmund 19 graham_zusi sporting_kc
+10,tiền_đạo 7 bobby_wood hamburg 8 clint_dempsey seattle_sounders 18 chris_wondolowski san_jose_earthquakes 20 gyasi_zardes la_galaxy

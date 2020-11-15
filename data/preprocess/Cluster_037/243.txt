@@ -1,44 +1,44 @@
 idx, sentence
-0,tổng_thống venezuela_nicolas_maduro đã tuyên_bố tình_trạng khẩn_cấp trên toàn_quốc  đồng_thời mở một cuộc tập_trận  không giới_hạn  trong thời_gian tới 
-1,phe đối_lập liên_tục xuống đường  tố_cáo tổng_thống là vi_hiến  thậm_chí tuyên_bố sẽ lật_đổ ông maduro trong năm nay 
-2,tất_cả những điều đó là hình_ảnh chúng_ta thấy được ở venezuela trong thời_gian gần đây  thế nhưng nếu đọc 5 sự_thật dưới đây  độc_giả có_thể thấy rằng những hình_ảnh trên không phải là điều_kinh_khủng nhất có_thể xảy ra trong tương_lai cho quốc_gia nam_mỹ này 
-3,1 
-4,hàng hóa khan_hiếm đến mức tồi_tệ theo ian_bremmer  phóng_viên của tờ times  lần gần đây nhất mà ông đến venezuela  nước này đang trong tình_trạng nguy_cấp  thậm_chí là tê_liệt vì thiếu hàng_hóa 
-5,chính_phủ venezuela đang phân_phát nước_sạch theo  khẩu_phần   người dân nước này được cảnh_báo rằng sẽ phải mất 21 ngày họ mới có_thể được cung_cấp nước 1 lần vì các hồ_chứa_nước đã cạn khô 
-6,người dân phải lấy nước từ các hồ bơi và các xe chở nước lưu_động để  thỏa cơn khát  nước sinh_hoạt 
-7,không chỉ thiếu nước  chính_phủ venezuela cũng cắt điện luân_phiên để tiết_kiệm điện  thậm_chí các văn_phòng chính_phủ chỉ hoạt_động 2 ngày 1 tuần để tiết_kiệm điện 
-8,ngoài_ra  mỗi ngày venezuela sẽ cúp điện 4 giờ trên toàn_quốc  cảnh cúp điện đã trở_thành  chuyện thường_ngày  ở nước này 
-9,trong khi đó  các loại thuốc cơ_bản như aspirin gần như không_thể tìm thấy  siêu_thị không còn món hàng_hóa nào 
-10,hồi cuối tháng 4  một thông_tin  gây sốc  là công_ty tư_nhân lớn nhất venezuela_empresas_polar_sa đóng cửa 
-11,empresas là công_ty chiếm_lĩnh 80  thị_trường bia tại venezuela  tức người dân tại đây sẽ gần như không được uống bia trong thời_gian tới 
-12,2 
-13,nguyên_nhân khủng_hoảng nhu_yếu_phẩm tại venezuela trong nhiều năm qua  venezuela phụ_thuộc hoàn_toàn vào trữ_lượng dầu quá lớn của mình  chiếm khoảng 96  doanh_thu xuất_khẩu và phân_nửa thu ngân_sách liên_bang 
-14,tình_hình sẽ tốt nếu_như giá dầu vẫn ở mức trên 100 usd / thùng  nhưng giá dầu hiện_nay chỉ ở mức gần 50 usd / thùng 
-15,venezuela đã tính_toán ngân_sách của mình trong năm nay chỉ với giá dầu 40 usd / thùng  nhưng khó_khăn vẫn không dừng lại khi quỹ dầu khẩn_cấp  một quỹ tiền_tệ được thành_lập khi giá dầu cao nhằm đề_phòng trường_hợp xấu khi giá dầu thấp  đã bị sử_dụng hoặc  đánh_cắp  
-16,thiệt_hại cho nền kinh_tế venezuela lại còn nghiêm_trọng hơn do hạn_hán 
-17,khoảng 65  lượng điện của nước này được sản_xuất bởi một con đập thủy_điện  điều này gây rắc_rối nghiêm_trọng cho đất_nước khi hạn_hán xảy ra 
-18,3 
-19,vấn_đề dài_hạn vấn_đề của venezuela không chỉ là những thứ ngắn_hạn như hạn_hán hay giá dầu mà còn ở những nguyên_nhân dài_hạn cố_hữu 
-20,theo tổ_chức minh_bạch quốc_tế  venezuela là nước tham_nhũng nhất nam_mỹ và đứng thứ 9 toàn_cầu 
-21,tỉ_lệ tội_phạm cũng ở mức đáng báo_động khi cứ 100000 dân thì có 90 người bị giết mỗi năm  tỉ_lệ này đứng thứ 2 thế_giới sau el_salvador 
-22,người dân venezuela nhìn_chung tức_giận với tình_hình hiện_tại 
-23,theo thống_kê  trung_bình mỗi ngày nước này có tới 17 cuộc biểu_tình trên khắp đất_nước 
-24,theo imf  hiện_tại tỉ_lệ thất_nghiệp ở venezuela là 17   dự_đoán năm sau con_số này sẽ lên tới 21  
-25,cũng theo imf  tỉ_lệ lạm_phát năm nay là 481  và năm 2017 là 1642  
-26,để dễ hình_dung  hiện_tại một happy_meal của mcdonald tại caracas có giá 146 usd nếu tính theo tỉ_giá_hối_đoái chính_thức là 63 bolivar ăn 1 usd 
-27,kinh_khủng hơn  năm sau giá của happy_meal sẽ hơn gấp 4 lần hiện_tại  tức gần 600 usd một phần nếu tỉ_giá chính_thức vẫn là 63 bolivar ăn 1 usd 
-28,4 
-29,tổng_thống ngày_càng mất uy_tín cuộc bầu_cử quốc_hội của venezuela hồi cuối năm 2015 chứng_kiến chiến_thắng của liên_minh dân_chủ thống_nhất  một nhóm chính_trị ôn_hòa  trung tả và trung_hữu 
-30,đây là lần đầu_tiên trong 17 năm qua mà  chavismo   thương_hiệu chính_trị xã_hội_chủ_nghĩa dân_túy được khởi_xướng bởi cố tổng_thống hugo_chavez và được ông maduro kế_tục thất_cử 
-31,hồi tháng 122015  chỉ_số tín_nhiệm của ông maduro là 22  nhưng giờ_đây chỉ_số này chỉ còn 15  
-32,khoảng 70  người dân venezuela hiện_nay muốn ông maduro bị cắt chức 
-33,tất_cả các chính_trị_gia theo trường_phái dân_túy đều phải nhận được sự hỗ_trợ của đa_số dân_chúng mới có_thể điều_hành đất_nước và ông maduro thì không làm được điều đó 
-34,5 
-35,chiêu_bài kéo_dài thời_gian 
-36,phe đối_lập đã công_khai sẽ hạ_bệ ông maduro trong năm nay 
-37,họ tuyên_bố như_vậy chủ_yếu bởi_vì hiến_pháp venezuela ghi rằng nếu một tổng_thống nước này bị lật_đổ trong 2 năm cuối_cùng của nhiệm_kỳ  phó_tổng_thống sẽ là người được chỉ_định thay_thế 
-38,tức_là nếu phe đối_lập lật_đổ được ông maduro sau ngày 1012017  thì phó_tổng_thống aristobulo_isturiz  một người trung_thành với lý_tưởng của cố tổng_thống chavez sẽ làm tổng_thống thay ông maduro 
-39,hiện phe đối_lập đã tập_hợp đủ chữ_ký để tiến_hành trưng_cầu dân_ý phế_bỏ chức tổng_thống của ông maduro 
-40,theo hiến_pháp  chỉ cần tập_hợp được 200000 chữ_ký  tức 1  cử_tri là có_thể khởi_động quá_trình trưng_cầu dân_ý 
-41,hai tuần trước  phe đối_lập đã thu_thập được 185 triệu chữ_ký và họ đã đệ_trình danh_sách cho hội_đồng bầu_cử quốc_gia  cne  để phê_duyệt quyết_định trưng_cầu dân_ý _cne sẽ thẩm_tra danh_sách chữ_ký và danh_sách này có tới 185 triệu chữ_ký nên họ có quyền  câu giờ  cho chính_phủ của ông maduro 
-42,có_thể nói phe đối_lập đã tự  làm_khó  mình khi thu_thập quá nhiều chữ_ký ủng_hộ việc trưng_cầu dân_ý lật_đổ ông maduro  khiến cne mất nhiều thời_gian hơn để thẩm_tra danh_sách chữ_ký này 
+0,tổng_thống venezuela_nicolas_maduro tuyên_bố tình_trạng khẩn_cấp toàn_quốc đồng_thời mở một cuộc tập_trận giới_hạn trong thời_gian tới
+1,phe đối_lập liên_tục xuống đường tố_cáo tổng_thống vi_hiến thậm_chí tuyên_bố lật_đổ ông maduro trong năm nay
+2,tất_cả hình_ảnh chúng_ta thấy ở venezuela trong thời_gian gần thế đọc 5 sự_thật độc_giả thấy hình_ảnh điều_kinh_khủng nhất xảy trong tương_lai quốc_gia nam_mỹ
+3,1
+4,hàng hóa khan_hiếm đến mức tồi_tệ ian_bremmer phóng_viên tờ times lần gần nhất ông đến venezuela nước trong tình_trạng nguy_cấp thậm_chí tê_liệt thiếu hàng_hóa
+5,chính_phủ venezuela phân_phát nước_sạch khẩu_phần người dân nước cảnh_báo mất 21 ngày họ mới cung_cấp nước 1 lần hồ_chứa_nước cạn khô
+6,người dân lấy nước hồ bơi xe chở nước lưu_động thỏa cơn khát nước sinh_hoạt
+7,thiếu nước chính_phủ venezuela cắt điện luân_phiên tiết_kiệm điện thậm_chí văn_phòng chính_phủ hoạt_động 2 ngày 1 tuần tiết_kiệm điện
+8,ngoài_ra ngày venezuela cúp điện 4 giờ toàn_quốc cảnh cúp điện trở_thành thường_ngày ở nước
+9,trong loại thuốc cơ_bản aspirin gần không_thể tìm thấy siêu_thị còn món hàng_hóa nào
+10,hồi cuối tháng 4 một thông_tin gây sốc công_ty tư_nhân lớn nhất venezuela_empresas_polar_sa đóng cửa
+11,empresas công_ty chiếm_lĩnh 80 thị_trường bia venezuela tức người dân gần uống bia trong thời_gian tới
+12,2
+13,nguyên_nhân khủng_hoảng nhu_yếu_phẩm venezuela trong năm venezuela phụ_thuộc hoàn_toàn trữ_lượng dầu quá lớn mình chiếm khoảng 96 doanh_thu xuất_khẩu phân_nửa thu ngân_sách liên_bang
+14,tình_hình tốt nếu_như giá dầu ở mức 100 usd / thùng giá dầu hiện_nay ở mức gần 50 usd / thùng
+15,venezuela tính_toán ngân_sách mình trong năm nay giá dầu 40 usd / thùng khó_khăn dừng quỹ dầu khẩn_cấp một quỹ tiền_tệ thành_lập giá dầu cao nhằm đề_phòng trường_hợp xấu giá dầu thấp sử_dụng hoặc đánh_cắp
+16,thiệt_hại nền kinh_tế venezuela còn nghiêm_trọng hơn hạn_hán
+17,khoảng 65 lượng điện nước sản_xuất một con đập thủy_điện gây rắc_rối nghiêm_trọng đất_nước hạn_hán xảy
+18,3
+19,vấn_đề dài_hạn vấn_đề venezuela thứ ngắn_hạn hạn_hán hay giá dầu còn ở nguyên_nhân dài_hạn cố_hữu
+20,tổ_chức minh_bạch quốc_tế venezuela nước tham_nhũng nhất nam_mỹ đứng thứ 9 toàn_cầu
+21,tỉ_lệ tội_phạm ở mức đáng báo_động 100000 dân 90 người giết năm tỉ_lệ đứng thứ 2 thế_giới el_salvador
+22,người dân venezuela nhìn_chung tức_giận tình_hình hiện_tại
+23,thống_kê trung_bình ngày nước tới 17 cuộc biểu_tình khắp đất_nước
+24,imf hiện_tại tỉ_lệ thất_nghiệp ở venezuela 17 dự_đoán năm con_số tới 21
+25,imf tỉ_lệ lạm_phát năm nay 481 năm 2017 1642
+26,dễ hình_dung hiện_tại một happy_meal mcdonald caracas giá 146 usd tính tỉ_giá_hối_đoái chính_thức 63 bolivar ăn 1 usd
+27,kinh_khủng hơn năm giá happy_meal hơn gấp 4 lần hiện_tại tức gần 600 usd một phần tỉ_giá chính_thức 63 bolivar ăn 1 usd
+28,4
+29,tổng_thống ngày_càng mất uy_tín cuộc bầu_cử quốc_hội venezuela hồi cuối năm 2015 chứng_kiến chiến_thắng liên_minh dân_chủ thống_nhất một nhóm chính_trị ôn_hòa trung tả trung_hữu
+30,lần đầu_tiên trong 17 năm chavismo thương_hiệu chính_trị xã_hội_chủ_nghĩa dân_túy khởi_xướng cố tổng_thống hugo_chavez ông maduro kế_tục thất_cử
+31,hồi tháng 122015 chỉ_số tín_nhiệm ông maduro 22 giờ_đây chỉ_số còn 15
+32,khoảng 70 người dân venezuela hiện_nay muốn ông maduro cắt chức
+33,tất_cả chính_trị_gia trường_phái dân_túy nhận hỗ_trợ đa_số dân_chúng mới điều_hành đất_nước ông maduro làm
+34,5
+35,chiêu_bài kéo_dài thời_gian
+36,phe đối_lập công_khai hạ_bệ ông maduro trong năm nay
+37,họ tuyên_bố như_vậy chủ_yếu bởi_vì hiến_pháp venezuela ghi một tổng_thống nước lật_đổ trong 2 năm cuối_cùng nhiệm_kỳ phó_tổng_thống người chỉ_định thay_thế
+38,tức_là phe đối_lập lật_đổ ông maduro ngày 1012017 phó_tổng_thống aristobulo_isturiz một người trung_thành lý_tưởng cố tổng_thống chavez làm tổng_thống thay ông maduro
+39,hiện phe đối_lập tập_hợp đủ chữ_ký tiến_hành trưng_cầu dân_ý phế_bỏ chức tổng_thống ông maduro
+40,hiến_pháp tập_hợp 200000 chữ_ký tức 1 cử_tri khởi_động quá_trình trưng_cầu dân_ý
+41,hai tuần phe đối_lập thu_thập 185 triệu chữ_ký họ đệ_trình danh_sách hội_đồng bầu_cử quốc_gia cne phê_duyệt quyết_định trưng_cầu dân_ý _cne thẩm_tra danh_sách chữ_ký danh_sách tới 185 triệu chữ_ký họ quyền câu giờ chính_phủ ông maduro
+42,nói phe đối_lập tự làm_khó mình thu_thập quá chữ_ký ủng_hộ trưng_cầu dân_ý lật_đổ ông maduro khiến cne mất thời_gian hơn thẩm_tra danh_sách chữ_ký

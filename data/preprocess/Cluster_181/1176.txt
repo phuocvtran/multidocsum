@@ -1,9 +1,9 @@
 idx, sentence
-0,ít giờ trước  đội_tuyển anh đã công_bố danh_sách 23 cái tên sẽ đến pháp dự euro 2016 
-1,đáng chú_ý là trong số này có cả thần_đồng của man_utd  marcus_rashford 
-2,việc rashford đến pháp có nghĩa là danny_drinkwater và andros_townsend phải ở nhà 
-3,ngoài thần đồng_sinh năm 1997  ông roy_hodgson còn mang theo 4 tiền_đạo khác  đó là harry_kane  wayne_rooney  jamie_vardy và daniel_sturridge 
-4,lựa_chọn loại tiền_vệ drinkwater  giữ rashford của roy_hodgson có_thể khiến các fan leicester_city không hài_lòng 
-5,trong mùa giải vừa_qua  drinkwater chơi cực hay  góp_phần vào chức vô_địch premier_league_vô_tiền_khoáng_hậu của leicester_city 
-6,tuy_nhiên  kinh_nghiệm thi_đấu quốc_tế của drinkwater là rào_cản khiến anh khó có_thể cạnh_tranh cùng những cầu_thủ khác 
-7,trong khi đó  rashford lại cho thấy cái duyên của mình khi ghi_bàn ngay trong trận ra_mắt đội_tuyển 
+0,ít giờ đội_tuyển anh công_bố danh_sách 23 tên đến pháp dự euro 2016
+1,đáng chú_ý trong số thần_đồng man_utd marcus_rashford
+2,rashford đến pháp nghĩa danny_drinkwater andros_townsend ở nhà
+3,ngoài thần đồng_sinh năm 1997 ông roy_hodgson còn mang 4 tiền_đạo khác harry_kane wayne_rooney jamie_vardy daniel_sturridge
+4,lựa_chọn loại tiền_vệ drinkwater giữ rashford roy_hodgson khiến fan leicester_city hài_lòng
+5,trong mùa giải vừa_qua drinkwater chơi cực hay góp_phần chức vô_địch premier_league_vô_tiền_khoáng_hậu leicester_city
+6,tuy_nhiên kinh_nghiệm thi_đấu quốc_tế drinkwater rào_cản khiến anh khó cạnh_tranh cầu_thủ khác
+7,trong rashford thấy duyên mình ghi_bàn trong trận ra_mắt đội_tuyển

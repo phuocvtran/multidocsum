@@ -1,8 +1,8 @@
 idx, sentence
-0,cpi bình_quân 5 tháng đầu năm 2016 so với cùng kỳ năm trước tăng 159  
-1,trong 11 nhóm hàng_hóa và dịch_vụ chính  nhóm giao_thông tăng cao nhất ở mức 239  trong 11 nhóm hàng chính 
-2,theo tổng_cục thống_kê  chỉ_số giá nhóm giao_thông tháng 5 tăng chủ_yếu ở mặt_hàng xăng dầu 
-3,giá xăng dầu trong nước được điều_chỉnh tăng vào ngày 20/4/2016 và ngày 5/5/2016  dẫn tới chỉ_số giá nhóm nhiên_liệu tăng 515  so với tháng trước 
-4,giá vé ôtô khách tăng 01  so với tháng trước do ngày nghỉ_lễ kéo_dài nên nhu_cầu đi_lại của người dân tăng 
-5,trong tháng này  chỉ_số nhóm thực_phẩm cũng tăng 038   chủ_yếu ở nhóm hàng các loại thịt như thịt lợn  gà  bò 
-6,đó là do tác_động tâm_lý sau khi xảy ra hiện_tượng cá chết tại các tỉnh miền trung  người dân hạn_chế sử_dụng thủy_hải_sản  cùng với việc thương_lái thu_gom lợn hơi để xuất_khẩu sang trung_quốc 
+0,cpi bình_quân 5 tháng đầu năm 2016 kỳ năm tăng 159
+1,trong 11 nhóm hàng_hóa dịch_vụ chính nhóm giao_thông tăng cao nhất ở mức 239 trong 11 nhóm hàng chính
+2,tổng_cục thống_kê chỉ_số giá nhóm giao_thông tháng 5 tăng chủ_yếu ở mặt_hàng xăng dầu
+3,giá xăng dầu trong nước điều_chỉnh tăng ngày 20/4/2016 ngày 5/5/2016 dẫn tới chỉ_số giá nhóm nhiên_liệu tăng 515 tháng
+4,giá vé ôtô khách tăng 01 tháng ngày nghỉ_lễ kéo_dài nhu_cầu đi_lại người dân tăng
+5,trong tháng chỉ_số nhóm thực_phẩm tăng 038 chủ_yếu ở nhóm hàng loại thịt thịt lợn gà bò
+6,tác_động tâm_lý xảy hiện_tượng cá chết tỉnh miền trung người dân hạn_chế sử_dụng thủy_hải_sản thương_lái thu_gom lợn hơi xuất_khẩu sang trung_quốc

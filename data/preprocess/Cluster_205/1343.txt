@@ -1,7 +1,7 @@
 idx, sentence
-0,mức hỗ_trợ là 25000 đồng / môn thi  tính bình_quân mỗi thí_sinh thi 5 môn  tổng mức hỗ_trợ trên mỗi thí_sinh là 125000 đồng / thí_sinh 
-1,ngoài_ra  ngân_sách trung_ương hỗ_trợ tiền công_tác_phí cho các cán_bộ  giảng_viên  học_viên về các tỉnh để tổ_chức thi tại các cụm thi đại_học theo điều_động của bộ giáo_dục_và_đào_tạo 
-2,với các học_sinh dự thi chỉ để xét công_nhận tốt_nghiệp trung_học_phổ_thông năm 2016  nhưng tham_gia dự thi tại cụm thi đại_học  ngân_sách địa_phương sẽ chi_trả 60000 đồng / môn thi / thí_sinh 
-3,những cụm thi do các sở giáo_dục và đào_tạo chủ_trì dành cho thí_sinh thi chỉ để xét công_nhận tốt_nghiệp  kinh_phí sẽ lấy từ ngân_sách địa_phương 
-4,nguồn thu từ phí dự thi  dự_tuyển với mức 35000 đồng / môn  sau khi trích lại cho bộ giáo_dục_và_đào_tạo và các sở giáo_dục và đào_tạo theo quy_định  sẽ chuyển về các cụm thi đại_học để tổ_chức kỳ thi 
-5,bộ giáo_dục_và_đào_tạo cũng hướng_dẫn các hội_đồng thi chi_tiết các khoản chi và mức chi như chi nhập dữ_liệu  chi_phí công_tác sao in đề thi  chi hỗ_trợ điện nước  chi nước uống  hỗ_trợ y_tế  hỗ_trợ xăng xe … bộ cũng lưu_ý các hội_đồng thi năm 2016 sẽ không thu phí phúc_khảo bài thi của thí_sinh như mọi năm 
+0,mức hỗ_trợ 25000 đồng / môn thi tính bình_quân thí_sinh thi 5 môn tổng mức hỗ_trợ thí_sinh 125000 đồng / thí_sinh
+1,ngoài_ra ngân_sách trung_ương hỗ_trợ tiền công_tác_phí cán_bộ giảng_viên học_viên về tỉnh tổ_chức thi cụm thi đại_học điều_động bộ giáo_dục_và_đào_tạo
+2,học_sinh dự thi xét công_nhận tốt_nghiệp trung_học_phổ_thông năm 2016 tham_gia dự thi cụm thi đại_học ngân_sách địa_phương chi_trả 60000 đồng / môn thi / thí_sinh
+3,cụm thi sở giáo_dục đào_tạo chủ_trì dành thí_sinh thi xét công_nhận tốt_nghiệp kinh_phí lấy ngân_sách địa_phương
+4,nguồn thu phí dự thi dự_tuyển mức 35000 đồng / môn trích bộ giáo_dục_và_đào_tạo sở giáo_dục đào_tạo quy_định chuyển về cụm thi đại_học tổ_chức kỳ thi
+5,bộ giáo_dục_và_đào_tạo hướng_dẫn hội_đồng thi chi_tiết khoản chi mức chi chi nhập dữ_liệu chi_phí công_tác sao in đề thi chi hỗ_trợ điện nước chi nước uống hỗ_trợ y_tế hỗ_trợ xăng xe … bộ lưu_ý hội_đồng thi năm 2016 thu phí phúc_khảo bài thi thí_sinh mọi năm

@@ -1,25 +1,25 @@
 idx, sentence
-0,ngư_dân thất_thu vì khâu bảo_quản kém hay bị ép_giá 
-1,chiều 20/5  ông huỳnh_phi_minh  xã phước_đồng  tp nha_trang  khánh_hòa  chủ tàu cá kh90297ts  đã đưa một con cá_ngừ vây xanh quý_hiếm lên cảng cá hòn_rớ  tp nha_trang  để bán cho thương_lái 
-2,để xác_định chất_lượng cá  3 chuyên_gia nhật_bản cũng có_mặt để kiểm_tra 
-3,con cá được xác_định nặng 307 kg và đưa vào xe cấp đông ngay sau đó 
-4,theo ông minh  con cá_ngừ vây xanh được đánh_bắt ở ngư_trường hoàng_sa cách đây 6 ngày 
-5,các ngư_dân đã mất 8 giờ đồng_hồ và huy_động máy_móc để kéo con cá lên boong tàu 
-6,trao_đổi với phóng_viên dân_trí  bà nguyễn_thị_thu_thanh  giám_đốc công_ty hải_sản bền_vững  khánh_hòa   doanh_nghiệp thu_mua con cá  cho biết  do ngư_dân không bảo_quản đúng quy_trình nên chất_lượng cá không đảm_bảo khiến giá cá giảm là điều đáng tiếc 
-7,theo bà thanh  có đến 2/3 con cá tính từ phần đầu đã bị hư_hại nên doanh_nghiệp mua hỗ_trợ cho ngư_dân là 180000 đồng / kg thay_vì gần 670000 đồng / kg  30usd / kg  như giá vốn có của nó 
-8,“ từ đuôi lên 30 cm thì thịt cá có_thể ăn_sống được  nhưng từ đó trở lên thì cá bị hư 
-9,hiện có 3 chuyên_gia của nhật_bản đang ở đây và xác_định nó đúng là cá_ngừ vây xanh ”  bà thanh cho hay 
-10,sáng ngày 21/5  ông nguyễn_trung_hiếu  trưởng_ban quản_lý cảng cá hòn_rớ  tp nha_trang   cho biết  đây là lần đầu_tiên ngư_dân khánh_hòa đánh_bắt được một con cá_ngừ vây xanh “ khủng ” 
-11,trước thắc_mắc đây là loại cá quý_hiếm  được ưa_chuộng trên thị_trường  liệu ngư_dân có bị ép_giá  ông hiếu bày_tỏ  “ rất tiếc là giá cá bị giảm do bảo_quản không đúng cách 
-12,giá là do các công_ty thu_mua họ đưa ra nên ngư_dân chấp_nhận thôi vì bà_con không quyết_định được giá_cả ” 
-13,cá_ngừ vây xanh đắt_đỏ vì được ví_như “ kim_cương đen ” theo các chuyên_gia  cá ngừ vây xanh được tìm thấy chủ_yếu ở thái_bình_dương và ấn_độ_dương  ngoài_ra chúng còn có_thể sống ở đại tây_dương và địa_trung_hải 
-14,chúng có_thể sống đến 40 năm và lặn ở độ sâu hơn 1200 m  cân_nặng trung_bình của cá_ngừ vây xanh khoảng 150 kg và đã từng ghi_nhận cá_ngừ vây xanh ở thái_bình_dương có_thể nặng 450 kg 
-15,nhật_bản là nước tiêu_thụ 80  cá_ngừ vây xanh đánh_bắt được trên toàn thế_giới 
-16,số_lượng cá_ngừ vây xanh thái_bình_dương  đại_tây_dương  nam thái_bình_dương  đều đã giảm xuống rõ_rệt trong vòng 15 năm qua do tình_trạng đánh_bắt quá mức 
-17,cá_ngừ vây xanh hiện được xếp vào danh_sách các loài đang gặp nguy_hiểm 
-18,trước đó vào đầu năm 2016  tại phiên đấu_giá tổ_chức ở chợ tsukiji  chợ cá và hải_sản lớn nhất và nổi_tiếng nhất thế_giới tại nhật_bản  một con cá_ngừ vây xanh được mua với giá 14 triệu y ​ ên nhật  tương_đương 118000 usd  
-19,trước đó  tại phiên đấu_giá năm 2013 cũng ở nhật_bản  một con cá_ngừ vây xanh nặng 222 kg được mua với mức giá 1544 triệu ​ yên  khoảng 13 triệu usd theo ​ tỷ_giá hiện_tại  
-20,một điều đáng nói là  trong một thời_gian dài ở nhật_bản  cá ngừ vây xanh được xem là cá thấp cấp  thậm_chí có lúc loại cá này bị loại ra khỏi mục cá ăn cho con_người 
-21,tuy_nhiên  vào những năm 80  khi cá_ngừ vây xanh dần được dùng làm nguyên_liệu cho món sushi thì chúng trở_nên có giá_trị  giá_cả tăng phi_mã 
-22,đây là loại cá có thịt màu đỏ hồng tươi là nguồn nguyên_liệu cao_cấp để làm món sushi và sashimi  được những người sành_ăn ưu_ái gọi là “ kim_cương đen ” vì độ quý_hiếm của nó 
-23,một điều đặc_biệt làm_nên mức giá đắt_đỏ của những lát sushi cá_ngừ tại nhật là quy_trình đánh_bắt  bảo_quản thịt cá cực_kỳ khắt_khe và chính điều đó đã khiến giá cá_ngừ ở đây có mức cao nhất thế_giới 
+0,ngư_dân thất_thu khâu bảo_quản kém hay ép_giá
+1,chiều 20/5 ông huỳnh_phi_minh xã phước_đồng tp nha_trang khánh_hòa chủ tàu cá kh90297ts đưa một con cá_ngừ vây xanh quý_hiếm cảng cá hòn_rớ tp nha_trang bán thương_lái
+2,xác_định chất_lượng cá 3 chuyên_gia nhật_bản có_mặt kiểm_tra
+3,con cá xác_định nặng 307 kg đưa xe cấp đông
+4,ông minh con cá_ngừ vây xanh đánh_bắt ở ngư_trường hoàng_sa cách 6 ngày
+5,ngư_dân mất 8 giờ đồng_hồ huy_động máy_móc kéo con cá boong tàu
+6,trao_đổi phóng_viên dân_trí bà nguyễn_thị_thu_thanh giám_đốc công_ty hải_sản bền_vững khánh_hòa doanh_nghiệp thu_mua con cá biết ngư_dân bảo_quản đúng quy_trình chất_lượng cá đảm_bảo khiến giá cá giảm đáng tiếc
+7,bà thanh đến 2/3 con cá tính phần đầu hư_hại doanh_nghiệp mua hỗ_trợ ngư_dân 180000 đồng / kg thay_vì gần 670000 đồng / kg 30usd / kg giá vốn nó
+8,“ đuôi 30 cm thịt cá ăn_sống trở cá hư
+9,hiện 3 chuyên_gia nhật_bản ở xác_định nó đúng cá_ngừ vây xanh ” bà thanh hay
+10,sáng ngày 21/5 ông nguyễn_trung_hiếu trưởng_ban quản_lý cảng cá hòn_rớ tp nha_trang biết lần đầu_tiên ngư_dân khánh_hòa đánh_bắt một con cá_ngừ vây xanh “ khủng ”
+11,thắc_mắc loại cá quý_hiếm ưa_chuộng thị_trường liệu ngư_dân ép_giá ông hiếu bày_tỏ “ tiếc giá cá giảm bảo_quản đúng cách
+12,giá công_ty thu_mua họ đưa ngư_dân chấp_nhận thôi bà_con quyết_định giá_cả ”
+13,cá_ngừ vây xanh đắt_đỏ ví_như “ kim_cương đen ” chuyên_gia cá ngừ vây xanh tìm thấy chủ_yếu ở thái_bình_dương ấn_độ_dương ngoài_ra chúng còn sống ở đại tây_dương địa_trung_hải
+14,chúng sống đến 40 năm lặn ở độ sâu hơn 1200 m cân_nặng trung_bình cá_ngừ vây xanh khoảng 150 kg ghi_nhận cá_ngừ vây xanh ở thái_bình_dương nặng 450 kg
+15,nhật_bản nước tiêu_thụ 80 cá_ngừ vây xanh đánh_bắt toàn thế_giới
+16,số_lượng cá_ngừ vây xanh thái_bình_dương đại_tây_dương nam thái_bình_dương giảm xuống rõ_rệt trong vòng 15 năm tình_trạng đánh_bắt quá mức
+17,cá_ngừ vây xanh hiện xếp danh_sách loài gặp nguy_hiểm
+18,đầu năm 2016 phiên đấu_giá tổ_chức ở chợ tsukiji chợ cá hải_sản lớn nhất nổi_tiếng nhất thế_giới nhật_bản một con cá_ngừ vây xanh mua giá 14 triệu y ​ ên nhật tương_đương 118000 usd
+19,phiên đấu_giá năm 2013 ở nhật_bản một con cá_ngừ vây xanh nặng 222 kg mua mức giá 1544 triệu ​ yên khoảng 13 triệu usd ​ tỷ_giá hiện_tại
+20,một đáng nói trong một thời_gian dài ở nhật_bản cá ngừ vây xanh xem cá thấp cấp thậm_chí loại cá loại khỏi mục cá ăn con_người
+21,tuy_nhiên năm 80 cá_ngừ vây xanh dần dùng làm nguyên_liệu món sushi chúng trở_nên giá_trị giá_cả tăng phi_mã
+22,loại cá thịt màu đỏ hồng tươi nguồn nguyên_liệu cao_cấp làm món sushi sashimi người sành_ăn ưu_ái gọi “ kim_cương đen ” độ quý_hiếm nó
+23,một đặc_biệt làm_nên mức giá đắt_đỏ lát sushi cá_ngừ nhật quy_trình đánh_bắt bảo_quản thịt cá cực_kỳ khắt_khe chính khiến giá cá_ngừ ở mức cao nhất thế_giới

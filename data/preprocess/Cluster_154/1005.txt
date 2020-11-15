@@ -1,26 +1,26 @@
 idx, sentence
-0,tại công_viên tưởng_niệm hòa bình hiroshima  nhật_bản  tổng_thống obama đã đặt vòng hoa trước đài tưởng_niệm và nhắm_mắt  cúi đầu dành một phút mặc_niệm tưởng_nhớ những nạn_nhân thiệt_mạng sau khi mỹ thả quả bom_nguyên_tử thứ nhất xuống hiroshima vào ngày 681945 
-1,thủ_tướng nhật_bản_shinzo_abe cũng đến đặt vòng hoa tưởng_niệm tại đây 
-2,“ cách đây 71 năm  cái chết từ trên trời rơi xuống và thế_giới đã thay_đổi … vì_sao chúng_tôi đến nơi này  đến hiroshima 
-3,chúng_tôi đến để tưởng_nhớ những người đã khuất ”  ông obama  vị tổng_thống mỹ tại_vị đầu_tiên đến thăm hiroshima sau khi kết_thúc chiến_tranh thế_giới lần 2  phát_biểu 
-4,sau khi đặt vòng hoa tưởng_niệm  tổng_thống obama đã gặp_gỡ  bắt_tay và trò_chuyện với những người còn sống_sót sau trận bom_nguyên_tử hiroshima khiến 140000 người chết 
-5,ba ngày sau khi thả bom xuống hiroshima  mỹ tiếp_tục thả quả bom_nguyên_tử thứ hai xuống thành_phố nagasaki vào ngày 981945 và sau đó nhật_bản đầu_hàng  kết_thúc chiến_tranh thế_giới lần 2 
-6,“ tổng_thống mỹ có cử_chỉ giống như ông ấy muốn ôm tôi  vì_thế chúng_tôi ôm nhau ”  nhà_sử_học shigeaki_mori  79 tuổi   người sống_sót sau trận bom_nguyên_tử ở hiroshima  cho biết 
-7,mặc_dù một_số người nhật còn cho rằng mỹ thả bom xuống hiroshima và nagasaki là tội_ác chiến_tranh bởi_vì nhắm vào thường_dân  nhưng người dân mỹ lại tin rằng hành_động này giúp kết_thúc chiến_tranh thế_giới lần 2  theo afp 
-8,trước khi ông obama đến hiroshima  một nhóm nhà hoạt_động xã_hội đại_diện cho những người sống_sót lên_tiếng đòi tổng_thống obama phải xin_lỗi 
-9,nhưng phản_ứng của người dân nhật đối_với chuyến thăm của ông obama đến hiroshima được cho là khá tích_cực 
-10,đám đông bao_gồm người trẻ và người già tập_trung tại công_viên để được gặp và chào_đón tổng_thống obama 
-11,“ chúng_tôi hoanh nghênh tổng_thống obama 
-12,tôi hy_vọng chuyến thăm lịch_sử của ông obama đến hiroshima sẽ giúp đẩy_mạnh việc giải_trừ vũ_khí hạt_nhân trên thế_giới ”  ông toshiyuki_kawamoto  80 tuổi  cho biết 
-13,đúng như nhà_trắng tuyên_bố từ trước  tổng_thống obama không đưa ra lời xin_lỗi về vụ thả bom_nguyên_tử 
-14,nhưng đối_với một_số người sống_sót sau khi mỹ thả bom_nguyên_tử xuống hiroshima  những lời phát_biểu của ông obama chính là lời xin_lỗi 
-15,“ tôi nghĩ đó là lời xin_lỗi ”  ông eiji_hattori  73 tuổi   nhận_định 
-16,ông hattori là một đứa bé vào thời_điểm hiroshima hứng_chịu quả bom_nguyên_tử  dù sống_sót nhưng hiện ông mắc ba căn_bệnh ung_thư 
-17,mục_tiêu chính của ông obama trong chuyến thăm lần này là nhằm đẩy_mạnh tiến_trình giải_trừ vũ_khí hạt_nhân 
-18,ông được trao giải nobel_hòa bình năm 2009 nhờ sáng_kiến giải_trừ vũ_khí hạt_nhân trên thế_giới 
-19,thủ_tướng abe hoan_nghênh chuyến thăm hiroshima của ông obama  đồng_thời bày_tỏ kỳ_vọng một tương_lai thế_giới không vũ_khí hạt_nhân 
-20,“ tôi chân_thành hoan_nghênh chuyến thăm lịch_sử này  vốn được người dân hiroshima và cả nhân_dân nhật_bản trông_đợi từ lâu ”  ông abe nói 
-21,tuy_nhiên  chuyến thăm hiroshima của ông obama gặp phải sự chỉ_trích từ chính_quyền  truyền_thông của trung_quốc và triều_tiên 
-22,ngoại_trưởng trung_quốc_vương nghị cho biết vụ thảm_sát nam_kinh_đáng nhớ hơn là hiroshima 
-23,trung_quốc cáo_buộc quân_đội đế_quốc nhật_bản thảm_sát 300000 người ở nam_kinh vào năm 1937 
-24,nhưng một_số quan_chức nhật_bản thuộc phe bảo_thủ bác_bỏ cáo_buộc này 
+0,công_viên tưởng_niệm hòa bình hiroshima nhật_bản tổng_thống obama đặt vòng hoa đài tưởng_niệm nhắm_mắt cúi đầu dành một phút mặc_niệm tưởng_nhớ nạn_nhân thiệt_mạng mỹ thả quả bom_nguyên_tử thứ nhất xuống hiroshima ngày 681945
+1,thủ_tướng nhật_bản_shinzo_abe đến đặt vòng hoa tưởng_niệm
+2,“ cách 71 năm chết trời rơi xuống thế_giới thay_đổi … vì_sao chúng_tôi đến đến hiroshima
+3,chúng_tôi đến tưởng_nhớ người khuất ” ông obama vị tổng_thống mỹ tại_vị đầu_tiên đến thăm hiroshima kết_thúc chiến_tranh thế_giới lần 2 phát_biểu
+4,đặt vòng hoa tưởng_niệm tổng_thống obama gặp_gỡ bắt_tay trò_chuyện người còn sống_sót trận bom_nguyên_tử hiroshima khiến 140000 người chết
+5,ba ngày thả bom xuống hiroshima mỹ tiếp_tục thả quả bom_nguyên_tử thứ hai xuống thành_phố nagasaki ngày 981945 nhật_bản đầu_hàng kết_thúc chiến_tranh thế_giới lần 2
+6,“ tổng_thống mỹ cử_chỉ giống ông ấy muốn ôm tôi vì_thế chúng_tôi ôm nhau ” nhà_sử_học shigeaki_mori 79 tuổi người sống_sót trận bom_nguyên_tử ở hiroshima biết
+7,mặc_dù một_số người nhật còn mỹ thả bom xuống hiroshima nagasaki tội_ác chiến_tranh bởi_vì nhắm thường_dân người dân mỹ tin hành_động giúp kết_thúc chiến_tranh thế_giới lần 2 afp
+8,ông obama đến hiroshima một nhóm nhà hoạt_động xã_hội đại_diện người sống_sót lên_tiếng đòi tổng_thống obama xin_lỗi
+9,phản_ứng người dân nhật đối_với chuyến thăm ông obama đến hiroshima khá tích_cực
+10,đám đông bao_gồm người trẻ người già tập_trung công_viên gặp chào_đón tổng_thống obama
+11,“ chúng_tôi hoanh nghênh tổng_thống obama
+12,tôi hy_vọng chuyến thăm lịch_sử ông obama đến hiroshima giúp đẩy_mạnh giải_trừ vũ_khí hạt_nhân thế_giới ” ông toshiyuki_kawamoto 80 tuổi biết
+13,đúng nhà_trắng tuyên_bố tổng_thống obama đưa lời xin_lỗi về vụ thả bom_nguyên_tử
+14,đối_với một_số người sống_sót mỹ thả bom_nguyên_tử xuống hiroshima lời phát_biểu ông obama chính lời xin_lỗi
+15,“ tôi nghĩ lời xin_lỗi ” ông eiji_hattori 73 tuổi nhận_định
+16,ông hattori một đứa bé thời_điểm hiroshima hứng_chịu quả bom_nguyên_tử dù sống_sót hiện ông mắc ba căn_bệnh ung_thư
+17,mục_tiêu chính ông obama trong chuyến thăm lần nhằm đẩy_mạnh tiến_trình giải_trừ vũ_khí hạt_nhân
+18,ông trao giải nobel_hòa bình năm 2009 nhờ sáng_kiến giải_trừ vũ_khí hạt_nhân thế_giới
+19,thủ_tướng abe hoan_nghênh chuyến thăm hiroshima ông obama đồng_thời bày_tỏ kỳ_vọng một tương_lai thế_giới vũ_khí hạt_nhân
+20,“ tôi chân_thành hoan_nghênh chuyến thăm lịch_sử vốn người dân hiroshima nhân_dân nhật_bản trông_đợi lâu ” ông abe nói
+21,tuy_nhiên chuyến thăm hiroshima ông obama gặp chỉ_trích chính_quyền truyền_thông trung_quốc triều_tiên
+22,ngoại_trưởng trung_quốc_vương nghị biết vụ thảm_sát nam_kinh_đáng nhớ hơn hiroshima
+23,trung_quốc cáo_buộc quân_đội đế_quốc nhật_bản thảm_sát 300000 người ở nam_kinh năm 1937
+24,một_số quan_chức nhật_bản thuộc phe bảo_thủ bác_bỏ cáo_buộc

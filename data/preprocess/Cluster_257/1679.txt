@@ -1,5 +1,5 @@
 idx, sentence
-0,sau một thời_gian dài không ra_mắt sản_phẩm âm_nhạc  hoàng_thùy_linh mới_đây vừa hé lộ đoạn trailer của mv  im_gonna_break   ok_im_out   ca_khúc từng được cô thể_hiện tại sân_chơi the_remix 2016 vừa_qua 
-1, im_gonna_break   ok_im_out  là sáng_tác của dj_tripled  hoà_âm bởi long_halo 
-2,ca_khúc ấn_tượng với khán_giả nhờ thể_loại trap thời_thượng cùng phần đọc rap thú_vị của hoàng_thùy_linh 
-3,với khả_năng biến_hóa trong âm_nhạc và hình_ảnh  mv  im_gonna_break   ok_im_out  được hoàng_thùy_linh cùng đạo_diễn đinh_hà_uyên_thư chăm_chút để mang đến một sản_phẩm cá_tính  ấn_tượng và mới_lạ hơn các mv từ trước đến nay của hoàng_thùy_linh 
+0,một thời_gian dài ra_mắt sản_phẩm âm_nhạc hoàng_thùy_linh mới_đây hé lộ đoạn trailer mv im_gonna_break ok_im_out ca_khúc cô thể_hiện sân_chơi the_remix 2016 vừa_qua
+1,im_gonna_break ok_im_out sáng_tác dj_tripled hoà_âm long_halo
+2,ca_khúc ấn_tượng khán_giả nhờ thể_loại trap thời_thượng phần đọc rap thú_vị hoàng_thùy_linh
+3,khả_năng biến_hóa trong âm_nhạc hình_ảnh mv im_gonna_break ok_im_out hoàng_thùy_linh đạo_diễn đinh_hà_uyên_thư chăm_chút mang đến một sản_phẩm cá_tính ấn_tượng mới_lạ hơn mv đến nay hoàng_thùy_linh

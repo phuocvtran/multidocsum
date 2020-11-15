@@ -1,5 +1,5 @@
 idx, sentence
-0,theo engadget  khoản đầu_tư này có giá_trị lên tới 35 tỉ usd  được cung_cấp bởi kho_bạc nhà_nước ả_rập  nâng giá_trị hiện_tại của uber lên 625 tỉ usd 
-1,được biết  uber đã hoạt_động và phát_triển tại đất_nước trung_đông này từ năm 2014 
-2,ông yasir_al_rumayyan – giám_đốc điều_hành của quỹ đầu_tư này cho biết  đây là một phần trong kế_hoạch về tầm nhìn đến 2030 của đất_nước nhằm giảm sự phụ_thuộc vào ngành công_nghiệp dầu_mỏ của nền kinh_tế 
-3,theo thỏa_thuận  ông rumayyan sẽ được nhận một vị_trí trong hội_đồng quản_trị của công_ty  tuy_nhiên uber vẫn chưa có bất_kỳ kế_hoạch cụ_thể nào cho khoản đầu_tư mới nhận 
+0,engadget khoản đầu_tư giá_trị tới 35 tỉ usd cung_cấp kho_bạc nhà_nước ả_rập nâng giá_trị hiện_tại uber 625 tỉ usd
+1,biết uber hoạt_động phát_triển đất_nước trung_đông năm 2014
+2,ông yasir_al_rumayyan – giám_đốc điều_hành quỹ đầu_tư biết một phần trong kế_hoạch về tầm nhìn đến 2030 đất_nước nhằm giảm phụ_thuộc ngành công_nghiệp dầu_mỏ nền kinh_tế
+3,thỏa_thuận ông rumayyan nhận một vị_trí trong hội_đồng quản_trị công_ty tuy_nhiên uber bất_kỳ kế_hoạch cụ_thể nào khoản đầu_tư mới nhận

@@ -1,17 +1,17 @@
 idx, sentence
-0,theo đơn khởi_kiện của hoa_hậu diệu_hân  vào ngày 13/10/2014  diệu_hân với bà minh_trang ký hợp_đồng cho thuê một phần căn nhà trên đường võ_văn_tần  phường 5  quận 3 
-1,theo đó  diện_tích thuê nhà tại tầng trệt là 1056 m2  thời_hạn thuê nhà 2 năm kể từ ngày 1/10/2014 giá thuê nhà 45 triệu đồng / tháng  tiền đặt_cọc thuê nhà là 135 triệu đồng / tháng 
-2,trong quá_trình thuê nhà  diệu_hân đã thực_hiện đầy_đủ các nghĩa_vụ mà mình thỏa_thuận trong hợp_đồng  không vi_phạm bất_cứ nghĩa_vụ nào 
-3,tuy_nhiên  từ sau thời_điểm thuê nhà  bà trang cố_ý vi_phạm các điều_khoản cho thuê nhiều lần  qua việc bà trang thường_xuyên xúc_phạm đến danh_dự nhân_phẩm để vu_khống diệu_hân  gây_rối và cố_ý hủy_hoại tài_sản của bên thuê mặt_bằng 
-4,do không chấp_nhận hành_vi của bà trang  diệu_hân đã nhiều lần nhắc_nhở yêu_cầu bà trang phải tôn_trọng các thỏa_thuận trong hợp_đồng  và sẽ chấm_dứt hợp_đồng nếu bà trang tiếp_tục vi_phạm hành_vi nêu trên 
-5,tuy_nhiên  bà trang vẫn không chấm_dứt ngay hành_vi mà tiếp_tục cản_trở hủy_hoại tài_sản của cửa_hàng 
-6,vì_vậy  ngày 4/6/2015  diệu_hân đã gửi thông_báo cho bà trang về việc yêu_cầu bồi_thường thiệt_hại và chấm_dứt hợp_đồng cho thuê  nhưng không được 
-7,sau đó  diệu_hân làm đơn gửi tand quận 3 
-8,tand quận 3 tuyên chấp_nhận yêu_cầu của diệu_hân chấm_dứt hợp_đồng thuê nhà được ký ngày 13/10/2015 giữa diệu_hân và bà phan_thị_minh_trang  không chấp_nhận yêu_cầu của nguyên_đơn về việc buộc bị_đơn phải có trách_nhiệm thanh_toán tiền_cọc thuê nhà và bồi_thường thiệt_hại với tổng_số tiền là 270 triệu đồng 
-9,tòa cũng chấp_nhận toàn_bộ đơn phản tố của bị_đơn  buộc diệu_hân phải có trách_nhiệm thanh_toán tiền thuê nhà cho bà trang tính từ tháng 7/2015 đến tháng 2/2016 là 360 triệu đồng 
-10,sau bản_án sơ_thẩm  hoa_hậu diệu_hân kháng_cáo toàn_bộ bản_án sơ_thẩm lên tand_tphcm 
-11,tại phiên_tòa hôm_nay  diệu_hân trình_bày do việc bà trang đã vi_phạm hợp_đồng cho thuê nhà 
-12,bà trang thường_xuyên tới chửi_bới  phá_hoại tài_sản trong cửa_hàng cản_trở công_việc làm_ăn của mình nên mới quyết_định đơn_phương chấm_dứt hợp_đồng 
-13,do_đó  yêu_cầu tand_tphcm chấp_nhận đơn kháng_cáo của diệu_hân 
-14,đồng_thời diệu hân trình tòa một_số hình_ảnh  video về việc bà trang thường_xuyên tới cửa chửi_bới cản_trở công_việc làm_ăn của cô 
-15,đây chính là nguyên_nhân khiến diệu hân đơn_phương chấm_dứt hợp_đồng 
+0,đơn khởi_kiện hoa_hậu diệu_hân ngày 13/10/2014 diệu_hân bà minh_trang ký hợp_đồng thuê một phần căn nhà đường võ_văn_tần phường 5 quận 3
+1,diện_tích thuê nhà tầng trệt 1056 m2 thời_hạn thuê nhà 2 năm kể ngày 1/10/2014 giá thuê nhà 45 triệu đồng / tháng tiền đặt_cọc thuê nhà 135 triệu đồng / tháng
+2,trong quá_trình thuê nhà diệu_hân thực_hiện đầy_đủ nghĩa_vụ mình thỏa_thuận trong hợp_đồng vi_phạm bất_cứ nghĩa_vụ nào
+3,tuy_nhiên thời_điểm thuê nhà bà trang cố_ý vi_phạm điều_khoản thuê lần bà trang thường_xuyên xúc_phạm đến danh_dự nhân_phẩm vu_khống diệu_hân gây_rối cố_ý hủy_hoại tài_sản bên thuê mặt_bằng
+4,chấp_nhận hành_vi bà trang diệu_hân lần nhắc_nhở yêu_cầu bà trang tôn_trọng thỏa_thuận trong hợp_đồng chấm_dứt hợp_đồng bà trang tiếp_tục vi_phạm hành_vi nêu
+5,tuy_nhiên bà trang chấm_dứt hành_vi tiếp_tục cản_trở hủy_hoại tài_sản cửa_hàng
+6,vì_vậy ngày 4/6/2015 diệu_hân gửi thông_báo bà trang về yêu_cầu bồi_thường thiệt_hại chấm_dứt hợp_đồng thuê
+7,diệu_hân làm đơn gửi tand quận 3
+8,tand quận 3 tuyên chấp_nhận yêu_cầu diệu_hân chấm_dứt hợp_đồng thuê nhà ký ngày 13/10/2015 giữa diệu_hân bà phan_thị_minh_trang chấp_nhận yêu_cầu nguyên_đơn về buộc bị_đơn trách_nhiệm thanh_toán tiền_cọc thuê nhà bồi_thường thiệt_hại tổng_số tiền 270 triệu đồng
+9,tòa chấp_nhận toàn_bộ đơn phản tố bị_đơn buộc diệu_hân trách_nhiệm thanh_toán tiền thuê nhà bà trang tính tháng 7/2015 đến tháng 2/2016 360 triệu đồng
+10,bản_án sơ_thẩm hoa_hậu diệu_hân kháng_cáo toàn_bộ bản_án sơ_thẩm tand_tphcm
+11,phiên_tòa hôm_nay diệu_hân trình_bày bà trang vi_phạm hợp_đồng thuê nhà
+12,bà trang thường_xuyên tới chửi_bới phá_hoại tài_sản trong cửa_hàng cản_trở công_việc làm_ăn mình mới quyết_định đơn_phương chấm_dứt hợp_đồng
+13,do_đó yêu_cầu tand_tphcm chấp_nhận đơn kháng_cáo diệu_hân
+14,đồng_thời diệu hân trình tòa một_số hình_ảnh video về bà trang thường_xuyên tới cửa chửi_bới cản_trở công_việc làm_ăn cô
+15,chính nguyên_nhân khiến diệu hân đơn_phương chấm_dứt hợp_đồng

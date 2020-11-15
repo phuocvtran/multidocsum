@@ -1,5 +1,5 @@
 idx, sentence
-0,hãng bbc đưa tin ngày 225  các cử_tri áo đã đi bỏ_phiếu trong cuộc bầu_cử tổng_thống vòng hai ở quốc_gia châu_âu này 
-1,cuộc bầu_cử tổng_thống vòng hai này là cuộc đọ sức giữa norbert_hofer  ứng_cử_viên của đảng_tự_do  fpo   đảng cực_hữu tại áo đã về nhất tại vòng một diễn ra hôm 244 vừa_qua  với ứng_cử_viên đảng_xanh alexander van der bellen 
-2,vấn_đề được các cử_tri áo_quan_tâm nhất trong cuộc bầu_cử lần này là chính_sách nhập_cư 
-3,nếu ông hofer giành chiến_thắng ở vòng bỏ_phiếu này  áo sẽ trở_thành quốc_gia đầu_tiên thuộc liên_minh_châu_âu do một đảng cực_hữu lãnh_đạo 
+0,hãng bbc đưa tin ngày 225 cử_tri áo đi bỏ_phiếu trong cuộc bầu_cử tổng_thống vòng hai ở quốc_gia châu_âu
+1,cuộc bầu_cử tổng_thống vòng hai cuộc đọ sức giữa norbert_hofer ứng_cử_viên đảng_tự_do fpo đảng cực_hữu áo về nhất vòng một diễn hôm 244 vừa_qua ứng_cử_viên đảng_xanh alexander van der bellen
+2,vấn_đề cử_tri áo_quan_tâm nhất trong cuộc bầu_cử lần chính_sách nhập_cư
+3,ông hofer giành chiến_thắng ở vòng bỏ_phiếu áo trở_thành quốc_gia đầu_tiên thuộc liên_minh_châu_âu một đảng cực_hữu lãnh_đạo

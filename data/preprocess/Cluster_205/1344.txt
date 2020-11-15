@@ -1,6 +1,6 @@
 idx, sentence
-0,thứ_trưởng nguyễn_vinh_hiển vừa ký công_văn hỗ_trợ ngân_sách nhà_nước cho kỳ thi thpt quốc_gia 
-1,cụ_thể  trung_bình mỗi thí_sinh sẽ thi 5 môn với mức hỗ_trợ 125000 đồng / thí_sinh 
-2,với các học_sinh dự thi chỉ để xét công_nhận tốt_nghiệp trung_học_phổ_thông năm 2016  nhưng tham_gia dự thi tại cụm thi đại_học  ngân_sách địa_phương sẽ chi_trả 60000 đồng / môn thi / thí_sinh 
-3,trong các mức chi cho công_tác tổ_chức kỳ thi thì chi chấm bài thi  bài thi tự luận  mức chi tối_đa 18000 đồng / bài  bài thi trắc_nghiệm  mức chi tối_đa 4000 đồng / bài  bao_gồm cả máy_móc  thiết_bị chấm_thi trắc_nghiệm  … năm 2016 không thu lệ_phí phúc_khảo đối_với các thí_sinh dự thi kỳ thi thpt quốc_gia 
-4,đối_với năm 2015  lệ_phí phúc_khảo là 30000 đồng / môn 
+0,thứ_trưởng nguyễn_vinh_hiển ký công_văn hỗ_trợ ngân_sách nhà_nước kỳ thi thpt quốc_gia
+1,cụ_thể trung_bình thí_sinh thi 5 môn mức hỗ_trợ 125000 đồng / thí_sinh
+2,học_sinh dự thi xét công_nhận tốt_nghiệp trung_học_phổ_thông năm 2016 tham_gia dự thi cụm thi đại_học ngân_sách địa_phương chi_trả 60000 đồng / môn thi / thí_sinh
+3,trong mức chi công_tác tổ_chức kỳ thi chi chấm bài thi bài thi tự luận mức chi tối_đa 18000 đồng / bài bài thi trắc_nghiệm mức chi tối_đa 4000 đồng / bài bao_gồm máy_móc thiết_bị chấm_thi trắc_nghiệm … năm 2016 thu lệ_phí phúc_khảo đối_với thí_sinh dự thi kỳ thi thpt quốc_gia
+4,đối_với năm 2015 lệ_phí phúc_khảo 30000 đồng / môn

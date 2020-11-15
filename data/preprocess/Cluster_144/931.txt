@@ -1,10 +1,10 @@
 idx, sentence
-0,tin_tức mới nhất  đại_diện cảng_vụ hàng không miền bắc tại nghệ_an cho biết hiện đã xác_định được máy_bay bị tố  hạ_cánh  nhầm khiến tốc ngói nhà dân 
-1,theo cảng_vụ hàng không miền bắc tại nghệ_an  chiều 27/5  một người dân tên lê_văn_tiến  sn 1960   trú tại xóm 15  xã nghi_trung  huyện nghi_lộc  nghệ_an  đã trực_tiếp tới trình_báo như sau  khoảng 13 h cùng ngày  trong lúc đang ngủ trưa  gia_đình ông tiến bỗng nghe tiếng_động lớn do ngói trên mái nhà bị rơi xuống 
-2,ngay lúc đó  mọi người hoảng_hốt chạy ra và nhìn thấy có một chiếc máy_bay vừa bay qua 
-3,ông tiến cho rằng  có_thể chiếc máy_bay này đã … “ hạ_cánh ” nhầm trên máy nhà ông 
-4,nhận được thông tịn phản_ánh  phía cảng_vụ hàng không miền bắc tại nghệ_an_lập_tức cử_nhân_viên xuống kiểm_tra  chụp hình  lập biên_bản và báo_cáo lên cục hàng_không việt_nam 
-5,theo ghi_nhận  có khoảng 200 viên ngói của nhà ông tiến bị tốc mái 
-6,tin nhanh  do chưa xác_định được chuyến bay của hãng nào nên phía cảng_vụ hàng_không cần thời_gian kiểm_tra lại bên bộ_phận đài không lưu và hệ_thống điều_hành đường_bay để đối_chiếu với thời_gian người dân phản_ánh 
-7,còn việc để xác_định chính_xác nguyên_nhân nhà bị tốc mái do máy_bay cất  hạ_cánh hay do gió_lốc cũng rất khó 
-8,thông_tin mới nhất  trong khoảng thời_gian từ 12 – 13 h cùng ngày có 4 chuyến bay mang số_hiệu lần_lượt là  bl522  vj743  vj713 và vn1264 hoạt_động 
+0,tin_tức mới nhất đại_diện cảng_vụ hàng miền bắc nghệ_an biết hiện xác_định máy_bay tố hạ_cánh nhầm khiến tốc ngói nhà dân
+1,cảng_vụ hàng miền bắc nghệ_an chiều 27/5 một người dân tên lê_văn_tiến sn 1960 trú xóm 15 xã nghi_trung huyện nghi_lộc nghệ_an trực_tiếp tới trình_báo khoảng 13 h ngày trong ngủ trưa gia_đình ông tiến bỗng nghe tiếng_động lớn ngói mái nhà rơi xuống
+2,mọi người hoảng_hốt chạy nhìn thấy một máy_bay bay
+3,ông tiến máy_bay … “ hạ_cánh ” nhầm máy nhà ông
+4,nhận thông tịn phản_ánh phía cảng_vụ hàng miền bắc nghệ_an_lập_tức cử_nhân_viên xuống kiểm_tra chụp hình lập biên_bản báo_cáo cục hàng_không việt_nam
+5,ghi_nhận khoảng 200 viên ngói nhà ông tiến tốc mái
+6,tin nhanh xác_định chuyến bay hãng nào phía cảng_vụ hàng_không thời_gian kiểm_tra bên bộ_phận đài lưu hệ_thống điều_hành đường_bay đối_chiếu thời_gian người dân phản_ánh
+7,còn xác_định chính_xác nguyên_nhân nhà tốc mái máy_bay cất hạ_cánh hay gió_lốc khó
+8,thông_tin mới nhất trong khoảng thời_gian 12 – 13 h ngày 4 chuyến bay mang số_hiệu lần_lượt bl522 vj743 vj713 vn1264 hoạt_động

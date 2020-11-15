@@ -1,12 +1,12 @@
 idx, sentence
-0,theo thông_tin ban_đầu  sự_việc xảy ra vào_khoảng 13 h ngày 19/5 tại thôn đồng_rì  thị_trấn thanh_sơn  huyện sơn_động  tỉnh bắc_giang 
-1,lãnh_đạo công_an huyện sơn_động cho biết đã tiến_hành khám_nghiệm hiện_trường để xác_định danh_tính  làm rõ nguyên_nhân khiến 2 vợ_chồng tử_vong 
-2,theo một_số người dân  vào khoảng thời_gian trên họ nghe thấy tiếng_động lớn liền ra xem thì phát_hiện một người đàn_ông nằm bất_động trên nền bê_tông trước cửa nhà 
-3,khi vào kiểm_tra thì thấy người ông này đã tử_vong 
-4,tiếp_tục kiểm_tra trong nhà thì bàng_hoàng chứng_kiến người vợ đã tử_vong trong tư_thế bị trói 
-5,nhận được tin báo  công_an huyện sơn_động đã nhanh_chóng có_mặt  bảo_vệ hiện_trường và tiến_hành điều_tra nguyên_nhân vụ_việc 
-6,bí_thư huyện sơn_động sau khi tiếp_nhận thông_tin cũng đang đến hiện_trường vụ án_mạng 
-7,được biết  người đàn_ông tử_vong được xác_nhận tên là tuấn 
-8,hai vợ_chồng nạn_nhân quê gốc ở thanh_hóa  ra sơn_động làm_việc 
-9,người chồng hiện đang làm công_nhân cho một công_ty trên địa_bàn huyện  còn vợ ở nhà 
-10,ngôi nhà này 2 vợ_chồng thuê để ở 
+0,thông_tin ban_đầu sự_việc xảy vào_khoảng 13 h ngày 19/5 thôn đồng_rì thị_trấn thanh_sơn huyện sơn_động tỉnh bắc_giang
+1,lãnh_đạo công_an huyện sơn_động biết tiến_hành khám_nghiệm hiện_trường xác_định danh_tính làm rõ nguyên_nhân khiến 2 vợ_chồng tử_vong
+2,một_số người dân khoảng thời_gian họ nghe thấy tiếng_động lớn liền xem phát_hiện một người đàn_ông nằm bất_động nền bê_tông cửa nhà
+3,kiểm_tra thấy người ông tử_vong
+4,tiếp_tục kiểm_tra trong nhà bàng_hoàng chứng_kiến người vợ tử_vong trong tư_thế trói
+5,nhận tin báo công_an huyện sơn_động nhanh_chóng có_mặt bảo_vệ hiện_trường tiến_hành điều_tra nguyên_nhân vụ_việc
+6,bí_thư huyện sơn_động tiếp_nhận thông_tin đến hiện_trường vụ án_mạng
+7,biết người đàn_ông tử_vong xác_nhận tên tuấn
+8,hai vợ_chồng nạn_nhân quê gốc ở thanh_hóa sơn_động làm_việc
+9,người chồng hiện làm công_nhân một công_ty địa_bàn huyện còn vợ ở nhà
+10,ngôi nhà 2 vợ_chồng thuê ở

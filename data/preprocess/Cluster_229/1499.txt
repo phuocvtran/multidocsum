@@ -1,12 +1,12 @@
 idx, sentence
-0,chân sút 30 tuổi hiện đang tập_trung cùng tam_sư  chuẩn_bị cho ngày hội euro 2016 
-1,hôm_qua  1/6   đội_trưởng mu lần đầu nói về sự có_mặt của jose_mourinho ở nhà_hát của giấc mơ  thay van_gaal sau 2 mùa giải vấp phải không ít những chỉ_trích 
-2,rooney cho thấy cực háo_hức muốn được làm_việc cùng nhà cầm_quân người bồ   thật_là thú_vị 
-3,ông ấy là một trong những nhà cầm_quân giỏi nhất thế_giới và rõ_ràng ông quá am_tường premier_league 
-4,tôi chắc không chỉ với tôi mà các cầu_thủ mu khác đều cảm_thấy hào_hứng được làm_việc cùng ông ấy 
-5,tôi rất mong đến ngày đó  
-6,theo kế_hoạch  ngày 5/7  mourinho bắt_đầu chiến_dịch trước mùa giải cùng quỷ đỏ 
-7,nhưng rooney có_thể hội_ngộ thầy mới sau đó  nếu anh lọt vào chung_kết euro 2016  10/7  
-8,mourinho được bổ_nhiệm thay van_gaal vào thứ_sáu tuần trước bằng bản hợp_đồng có thời_hạn 3 năm 
-9,đây là tin_vui cho rooney  bởi 2 lý_do  anh sẽ không phải tiếp_tục triết_lý bóng_đá buồn chán của ông thầy hà_lan  mà đã có lần gặp trực_tiếp để phản_ứng   được mourinho  kết  từ lúc còn nắm chelsea  nên hi_vọng có_thể giúp anh chơi bùng_nổ trở_lại 
-10,trong thành_phần tuyển anh đến euro 2016 lần này  mu đóng_góp 3 cái tên  ngoài rooney có thêm chris_smalling và măng_non marcus_rashford  người lập kỷ_lục cầu_thủ trẻ nhất ghi_bàn ngay trận ra_mắt  trận anh thắng australia 21 vừa_qua  
+0,chân sút 30 tuổi hiện tập_trung tam_sư chuẩn_bị ngày hội euro 2016
+1,hôm_qua 1/6 đội_trưởng mu lần đầu nói về có_mặt jose_mourinho ở nhà_hát giấc mơ thay van_gaal 2 mùa giải vấp ít chỉ_trích
+2,rooney thấy cực háo_hức muốn làm_việc nhà cầm_quân người bồ thật_là thú_vị
+3,ông ấy một trong nhà cầm_quân giỏi nhất thế_giới rõ_ràng ông quá am_tường premier_league
+4,tôi chắc tôi cầu_thủ mu khác cảm_thấy hào_hứng làm_việc ông ấy
+5,tôi mong đến ngày
+6,kế_hoạch ngày 5/7 mourinho bắt_đầu chiến_dịch mùa giải quỷ đỏ
+7,rooney hội_ngộ thầy mới anh lọt chung_kết euro 2016 10/7
+8,mourinho bổ_nhiệm thay van_gaal thứ_sáu tuần bằng bản hợp_đồng thời_hạn 3 năm
+9,tin_vui rooney 2 lý_do anh tiếp_tục triết_lý bóng_đá buồn chán ông thầy hà_lan lần gặp trực_tiếp phản_ứng mourinho kết còn nắm chelsea hi_vọng giúp anh chơi bùng_nổ trở_lại
+10,trong thành_phần tuyển anh đến euro 2016 lần mu đóng_góp 3 tên ngoài rooney thêm chris_smalling măng_non marcus_rashford người lập kỷ_lục cầu_thủ trẻ nhất ghi_bàn trận ra_mắt trận anh thắng australia 21 vừa_qua

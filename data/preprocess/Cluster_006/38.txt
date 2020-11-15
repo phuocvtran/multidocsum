@@ -1,14 +1,14 @@
 idx, sentence
-0,như đã đưa tin  chiều 195  tại thị_trấn thanh_sơn  huyện sơn_động  tỉnh bắc_giang xảy ra vụ_án nghiêm_trọng 
-1,theo đó  một cặp vợ_chồng được người dân địa_phương phát_hiện tử_vong 
-2,danh_tính nạn_nhân được xác_định là anh đỗ_viết_t  33 tuổi  và chị vũ_thị_l  28 tuổi   quê ở huyện thiệu_hóa  thanh_hóa 
-3,hai vợ_chồng anh t đều là nhân_viên một công_ty đóng tại sơn_động  bắc_giang 
-4,anh t là bảo_vệ công_ty  còn chị l là nhân_viên hợp_đồng 
-5,ngày 205  trao_đổi với pv về vụ_án trên  đại_tá dương_ngọc_sáu  phó_giám_đốc công_an tỉnh bắc_giang cho biết  ngay sau khi nhận được thông_tin về vụ_việc  ông đã cùng với phòng cảnh_sát hình_sự  phòng kỹ_thuật hình_sự xuống hiện_trường phối_hợp công_an huyện sơn_động khám_nghiệm hiện_trường để làm rõ vụ_việc 
-6,theo đại_tá sáu  qua điều_tra ban_đầu xác_định  người vợ tử_vong tại nhà  còn anh t nổ_mìn tự_sát ở phòng bảo_vệ của công_ty 
-7,vụ_việc đã được công_an tỉnh bắc_giang giao cho công_an huyện sơn_động thụ_lý điều_tra theo thẩm_quyền 
-8,theo điều_tra ban_đầu  khoảng hơn 11 h trưa ngày 195  sau khi tan ca làm buổi sáng  hai vợ_chồng anh t về nhà_trọ 
-9,tuy_nhiên  đến khoảng 12 h  anh t quay trở_lại công_ty 
-10,một lúc sau đó  nhân_viên trong công_ty nghe thấy một tiếng nổ lớn nên chạy tới xem thì phát_hiện anh t đã tử_vong 
-11,lúc này  mọi người tới căn nhà anh t thuê trọ gần công_ty để thông_báo cho chị l thì thấy cửa khóa bên ngoài 
-12,gọi mãi không được  khi người dân phá cửa thì phát_hiện chị l đã chết ở trong nhà 
+0,đưa tin chiều 195 thị_trấn thanh_sơn huyện sơn_động tỉnh bắc_giang xảy vụ_án nghiêm_trọng
+1,một cặp vợ_chồng người dân địa_phương phát_hiện tử_vong
+2,danh_tính nạn_nhân xác_định anh đỗ_viết_t 33 tuổi chị vũ_thị_l 28 tuổi quê ở huyện thiệu_hóa thanh_hóa
+3,hai vợ_chồng anh t nhân_viên một công_ty đóng sơn_động bắc_giang
+4,anh t bảo_vệ công_ty còn chị l nhân_viên hợp_đồng
+5,ngày 205 trao_đổi pv về vụ_án đại_tá dương_ngọc_sáu phó_giám_đốc công_an tỉnh bắc_giang biết nhận thông_tin về vụ_việc ông phòng cảnh_sát hình_sự phòng kỹ_thuật hình_sự xuống hiện_trường phối_hợp công_an huyện sơn_động khám_nghiệm hiện_trường làm rõ vụ_việc
+6,đại_tá sáu điều_tra ban_đầu xác_định người vợ tử_vong nhà còn anh t nổ_mìn tự_sát ở phòng bảo_vệ công_ty
+7,vụ_việc công_an tỉnh bắc_giang giao công_an huyện sơn_động thụ_lý điều_tra thẩm_quyền
+8,điều_tra ban_đầu khoảng hơn 11 h trưa ngày 195 tan ca làm buổi sáng hai vợ_chồng anh t về nhà_trọ
+9,tuy_nhiên đến khoảng 12 h anh t quay trở_lại công_ty
+10,một nhân_viên trong công_ty nghe thấy một tiếng nổ lớn chạy tới xem phát_hiện anh t tử_vong
+11,mọi người tới căn nhà anh t thuê trọ gần công_ty thông_báo chị l thấy cửa khóa bên ngoài
+12,gọi mãi người dân phá cửa phát_hiện chị l chết ở trong nhà

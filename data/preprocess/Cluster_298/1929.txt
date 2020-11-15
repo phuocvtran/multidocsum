@@ -1,11 +1,11 @@
 idx, sentence
-0,chiếc máy_bay đã đứng tại_chỗ trong khoảng 20 phút chờ đến khi một chiếc máy_bay khác ra khỏi đường_băng 
-1,chiếc boeing của hãng hàng_không s7 airlines bay từ st_petersburg đã hạ_cánh tại sân_bay domodedovo đúng theo lịch_trình — vào lúc 13 giờ 50 phút 
-2,điều_phối_viên đã thông_báo với các phi_công rằng  nên chờ_đợi khi một máy_bay khác cũng bay từ st 
-3,petersburg rời khỏi đường_băng 
-4,các phi_công đã chờ_đợi  để sau đó đưa chiếc máy_bay vào bãi đỗ quy_định để giải_phóng mặt_bằng dành chỗ cho chiếc khác 
-5,sau 2 phút chờ_đợi  lớp nhựa đường dưới bánh_xe bắt_đầu bị sụp xuống  khiến máy_bay bị tụt xuống hố 
-6,các phi_công không_thể ngay_lập_tức đưa máy_bay ra khỏi đường_băng  bởi_vì khung xe xuống dưới mặt đường  — một nguồn tin trong cơ_quan thực_thi pháp_luật cho biết 
-7,các nhân_viên của sân_bay đã quyết_định sơ_tán các hành_khách  đưa họ đến nhà_ga 
-8,xin lưu_ý rằng trên máy_bay đã có 147 hành_khách  trong đó 22 trẻ_em 
-9,sau đó  các phi_công đã kéo máy_bay airbus 319 đến bãi đổ 
+0,máy_bay đứng tại_chỗ trong khoảng 20 phút chờ đến một máy_bay khác khỏi đường_băng
+1,boeing hãng hàng_không s7 airlines bay st_petersburg hạ_cánh sân_bay domodedovo đúng lịch_trình — 13 giờ 50 phút
+2,điều_phối_viên thông_báo phi_công chờ_đợi một máy_bay khác bay st
+3,petersburg rời khỏi đường_băng
+4,phi_công chờ_đợi đưa máy_bay bãi đỗ quy_định giải_phóng mặt_bằng dành chỗ khác
+5,2 phút chờ_đợi lớp nhựa đường bánh_xe bắt_đầu sụp xuống khiến máy_bay tụt xuống hố
+6,phi_công không_thể ngay_lập_tức đưa máy_bay khỏi đường_băng bởi_vì khung xe xuống mặt đường — một nguồn tin trong cơ_quan thực_thi pháp_luật biết
+7,nhân_viên sân_bay quyết_định sơ_tán hành_khách đưa họ đến nhà_ga
+8,xin lưu_ý máy_bay 147 hành_khách trong 22 trẻ_em
+9,phi_công kéo máy_bay airbus 319 đến bãi đổ

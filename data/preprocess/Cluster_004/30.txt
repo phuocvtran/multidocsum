@@ -1,22 +1,22 @@
 idx, sentence
-0,ngày 195  tại hội_thảo “ tphcm  khát_vọng vươn lên ” do báo tuổi_trẻ tổ_chức  nhiều chuyên_gia đã chỉ ra những nguyên_nhân cản_trở sự vươn lên của tphcm  đồng_thời đưa ra nhiều giải_pháp để tp bứt_phá  vươn lên  trở_thành tp có chất_lượng sống tốt  văn_minh  hiện_đại  nghĩa_tình 
-1,cần một_thể_chế rộng_mở hơn cho tphcm pgsts trần_đình_thiên  viện_trưởng viện kinh_tế việt_nam  đặt vấn_đề  “ phải nhận_diện bản_thân tphcm đang có những tụt_hậu 
-2,từ đó mới thấy vấn_đề nằm ở đâu  trách_nhiệm như thế_nào 
-3,xem lý_do các đô_thị lớn khác trong khu_vực có cùng điểm xuất_phát với tphcm  thậm_chí là thấp hơn nhưng họ vượt lên được 
-4,có phải chăng vì họ chọn được hướng phát_triển phù_hợp với thời_đại ” 
-5,theo ts_thiên  trong nhiều năm qua tp chưa tận_dụng khai_thác hết lợi_thế của mình  trong đó có những lợi_thế tuyệt_đối là do hai nguyên_nhân  một là tầm nhìn phát_triển tp vướng vào tầm nhìn quốc_gia 
-6,hai là nguyên_nhân về thể_chế  cơ_chế bộ_máy trói_buộc làm tp không có động_lực đứng lên  mất quyền chủ_động  vai_trò chức_năng của đầu_tàu 
-7,do_vậy  theo ts_thiên  để tp vươn lên thì tphcm phải có tầm nhìn và tư_duy đột_phá  đây là điều_kiện tiên_quyết để xoay_chuyển tình_thế chiến_lược phát_triển cho giai_đoạn mới 
-8,đó phải là tầm nhìn tổng_thể  bài_bản  dựa trên sự đổi_mới hệ_thống thể_chế kinh_tế quốc_gia  đi đầu cải_cách mang lại lợi_ích quốc_gia chứ không chỉ vì tphcm
-9,phải để tphcm vượt trước  đây là nhiệm_vụ quốc_gia  trách_nhiệm của đầu_tàu 
-10,“ tphcm phải là trung_tâm dẫn_dắt phát_triển kinh_tế của quốc_gia ”  ts_thiên khẳng_định 
-11,đồng_tình về vấn_đề này  ts huỳnh_thế_du  chương_trình giảng_dạy kinh_tế fullbright cho rằng thể_chế hiện_nay còn có nhiều bó_buộc đối_với tphcm
-12,nhất_là cơ_chế xincho đang gây khó cho tp ts_du cho rằng phải tạo_dựng một tp có sức cạnh_tranh cao  môi_trường sống tốt để thu_hút người tài  tạo việc_làm 
-13,theo ts huỳnh_thế_du  việc cần làm ngay lúc này là tạo_dựng niềm tin và kỳ_vọng của công_chúng theo những định_hướng tích_cực và thực_tế 
-14,đồng_thời phải đột_phá thận_trọng  khơi lại tính tiên_phong và khả_năng dẫn_dắt của tphcm  thực_hiện được liên_kết vùng  khơi thông_sức dân và tạo_dựng vốn xã_hội   phải có những đột_phá thật_sự phát_biểu tại hội_thảo  chủ_tịch ubnd tphcm nguyễn_thành_phong cho biết trong những năm qua  tp đã đạt được những thành_tựu quan_trọng trên tất_cả lĩnh_vực 
-15,nhưng về cơ_bản tp chưa đạt được những đột_phá trong chất_lượng tăng_trưởng  năng_lực cạnh_tranh chưa tương_xứng với tiềm_năng phát_triển của tp  chưa thấy rõ những bước chuyển mạnh_mẽ tạo dấu_ấn ở tầm cất_cánh cho tp theo ông phong  một thực_tế không_thể phủ_nhận được là dù có rất nhiều nỗ_lực  khẳng_định được vị_trí đầu_tàu phát_triển cho cả nước nhưng tphcm vẫn tụt_hậu khá xa so với các tp khác trong khu_vực 
-16,“ có nhiều nguyên_nhân được nhận_định  nhiều kinh_nghiệm được đúc_kết cho thấy có những khó_khăn nhất_định trong việc tìm_kiếm các động_lực đột_phá cho tp trong đó tp cần có những đột_phá thật_sự  đủ sức tiếp_sức cho thành_công trong quá_khứ và tạo động_lực để vượt qua rào_cản  hướng tới thành_công ” 
-17,ông phong nói thế và cho hay tphcm cần kiên_trì tiếp_tục đề_xuất những đột_phá về thể_chế vì khát_vọng vươn lên của tp 
-18,để tphcm là tp đáng sống  trước_hết phải bảo_đảm nhu_cầu tối_thiểu của người dân là nơi ở  vệ_sinh môi_trường  điện  nước 
-19,tp phải là nơi an_toàn  sạch  tử_tế với nhau  là nơi đáp_ứng cả nhu_cầu vật_chất lẫn tinh_thần  đạo_đức 
-20,đối_với tphcm  tiêu_chí chung của một tp đáng sống là  trật_tự  an_toàn  sạch  xanh  con_người đối_xử nhau văn_minh 
+0,ngày 195 hội_thảo “ tphcm khát_vọng vươn ” báo tuổi_trẻ tổ_chức chuyên_gia nguyên_nhân cản_trở vươn tphcm đồng_thời đưa giải_pháp tp bứt_phá vươn trở_thành tp chất_lượng sống tốt văn_minh hiện_đại nghĩa_tình
+1,một_thể_chế rộng_mở hơn tphcm pgsts trần_đình_thiên viện_trưởng viện kinh_tế việt_nam đặt vấn_đề “ nhận_diện bản_thân tphcm tụt_hậu
+2,mới thấy vấn_đề nằm ở đâu trách_nhiệm thế_nào
+3,xem lý_do đô_thị lớn khác trong khu_vực điểm xuất_phát tphcm thậm_chí thấp hơn họ vượt
+4,chăng họ chọn hướng phát_triển phù_hợp thời_đại ”
+5,ts_thiên trong năm tp tận_dụng khai_thác hết lợi_thế mình trong lợi_thế tuyệt_đối hai nguyên_nhân một tầm nhìn phát_triển tp vướng tầm nhìn quốc_gia
+6,hai nguyên_nhân về thể_chế cơ_chế bộ_máy trói_buộc làm tp động_lực đứng mất quyền chủ_động vai_trò chức_năng đầu_tàu
+7,do_vậy ts_thiên tp vươn tphcm tầm nhìn tư_duy đột_phá điều_kiện tiên_quyết xoay_chuyển tình_thế chiến_lược phát_triển giai_đoạn mới
+8,tầm nhìn tổng_thể bài_bản dựa đổi_mới hệ_thống thể_chế kinh_tế quốc_gia đi đầu cải_cách mang lợi_ích quốc_gia tphcm
+9,tphcm vượt nhiệm_vụ quốc_gia trách_nhiệm đầu_tàu
+10,“ tphcm trung_tâm dẫn_dắt phát_triển kinh_tế quốc_gia ” ts_thiên khẳng_định
+11,đồng_tình về vấn_đề ts huỳnh_thế_du chương_trình giảng_dạy kinh_tế fullbright thể_chế hiện_nay còn bó_buộc đối_với tphcm
+12,nhất_là cơ_chế xincho gây khó tp ts_du tạo_dựng một tp sức cạnh_tranh cao môi_trường sống tốt thu_hút người tài tạo việc_làm
+13,ts huỳnh_thế_du làm tạo_dựng niềm tin kỳ_vọng công_chúng định_hướng tích_cực thực_tế
+14,đồng_thời đột_phá thận_trọng khơi tính tiên_phong khả_năng dẫn_dắt tphcm thực_hiện liên_kết vùng khơi thông_sức dân tạo_dựng vốn xã_hội đột_phá thật_sự phát_biểu hội_thảo chủ_tịch ubnd tphcm nguyễn_thành_phong biết trong năm tp đạt thành_tựu quan_trọng tất_cả lĩnh_vực
+15,về cơ_bản tp đạt đột_phá trong chất_lượng tăng_trưởng năng_lực cạnh_tranh tương_xứng tiềm_năng phát_triển tp thấy rõ bước chuyển mạnh_mẽ tạo dấu_ấn ở tầm cất_cánh tp ông phong một thực_tế không_thể phủ_nhận dù nỗ_lực khẳng_định vị_trí đầu_tàu phát_triển nước tphcm tụt_hậu khá xa tp khác trong khu_vực
+16,“ nguyên_nhân nhận_định kinh_nghiệm đúc_kết thấy khó_khăn nhất_định trong tìm_kiếm động_lực đột_phá tp trong tp đột_phá thật_sự đủ sức tiếp_sức thành_công trong quá_khứ tạo động_lực vượt rào_cản hướng tới thành_công ”
+17,ông phong nói thế hay tphcm kiên_trì tiếp_tục đề_xuất đột_phá về thể_chế khát_vọng vươn tp
+18,tphcm tp đáng sống trước_hết bảo_đảm nhu_cầu tối_thiểu người dân ở vệ_sinh môi_trường điện nước
+19,tp an_toàn sạch tử_tế nhau đáp_ứng nhu_cầu vật_chất lẫn tinh_thần đạo_đức
+20,đối_với tphcm tiêu_chí chung một tp đáng sống trật_tự an_toàn sạch xanh con_người đối_xử nhau văn_minh

@@ -1,5 +1,5 @@
 idx, sentence
-0,theo đó tại văn_bản số 6336 / tgđnhct44  vietinbank cho biết  sẽ chào bán đấu_giá 16875 triệu cổ_phần  tương_ứng với 548  vốn điều_lệ saigonbank để giảm tỷ_lệ sở_hữu từ 1039  xuống 491   15122 triệu cổ_phần  
-1,ctg lý_giải quyết_định của mình là để đảm_bảo tuân_thủ quy_định tại điểm b  khoản 3  điều 20  thông_tư số 36/2014 / ttnhnn ngày 20/11/2014 của ngân_hàng nhà_nước việt_nam về việc quy_định các giới_hạn  tỷ_lệ bảo_đảm an_toàn trong hoạt_động của tổ_chức tín_dụng  chi_nhánh ngân_hàng nước_ngoài  “ ngân_hàng thương_mại chỉ được mua  nắm giữ cổ_phiếu của một tổ_chức tín_dụng  tctd  khác dưới 5  vốn cổ_phần có quyền biểu_quyết của tctd đó ” 
-2,phương_thức chào bán trong thương_vụ này  theo như thông_báo của ctg  là bán đấu_giá công_khai qua ctcp chứng_khoán ngân_hàng công_thương việt_nam 
-3,thời_gian thực_hiện thoái vốn dự_kiến là trong quý ii / 2016 
+0,văn_bản số 6336 / tgđnhct44 vietinbank biết chào bán đấu_giá 16875 triệu cổ_phần tương_ứng 548 vốn điều_lệ saigonbank giảm tỷ_lệ sở_hữu 1039 xuống 491 15122 triệu cổ_phần
+1,ctg lý_giải quyết_định mình đảm_bảo tuân_thủ quy_định điểm b khoản 3 20 thông_tư số 36/2014 / ttnhnn ngày 20/11/2014 ngân_hàng nhà_nước việt_nam về quy_định giới_hạn tỷ_lệ bảo_đảm an_toàn trong hoạt_động tổ_chức tín_dụng chi_nhánh ngân_hàng nước_ngoài “ ngân_hàng thương_mại mua nắm giữ cổ_phiếu một tổ_chức tín_dụng tctd khác 5 vốn cổ_phần quyền biểu_quyết tctd ”
+2,phương_thức chào bán trong thương_vụ thông_báo ctg bán đấu_giá công_khai ctcp chứng_khoán ngân_hàng công_thương việt_nam
+3,thời_gian thực_hiện thoái vốn dự_kiến trong quý ii / 2016

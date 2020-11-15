@@ -1,7 +1,7 @@
 idx, sentence
-0,thông_tin trên thanh_niên cho biết  sáng 20/5  tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” của trung_ương đoàn cho hai em bo_tý  14 tuổi  và cao_lâm  13 tuổi  cùng quê huyện khánh_sơn  khánh_hòa  
-1,tại buổi lễ  bí_thư tỉnh_đoàn khánh_hòa nguyễn_văn_nhuận đã biểu_dương  khen_ngợi hành_động dũng_cảm của hai em bo_tý và cao_lâm  đồng_thời gửi lời chia_buồn đến gia_đình có 2 nữ_sinh bị đuối nước trong vụ tai_nạn này 
-2,theo ttxvn  do hoàn_cảnh gia_đình của hai em tý và lâm rất khó_khăn nên quỹ tấm lòng vàng  báo lao_động đã vận_động các tổ_chức  cá_nhân hỗ_trợ cho mỗi em 55 triệu đồng 
-3,ngân_hàng nhà_nước chi_nhánh tỉnh khánh_hòa cũng đã trao_tặng mỗi em 1 sổ tiết_kiệm 2 triệu đồng 
-4,trước đó  chiều 20/4  7 nữ_sinh lớp 7 trường thcs nguyễn_du  xã cam_phước_đông  tp cam_ranh  tỉnh khánh_hòa  tới bờ đê hồ nước tả_rục  cách trường khoảng 8 km để chơi 
-5,các em xuống hồ tắm nhưng sau đó chới với  chìm xuống đoạn nước sâu 
+0,thông_tin thanh_niên biết sáng 20/5 tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” trung_ương đoàn hai em bo_tý 14 tuổi cao_lâm 13 tuổi quê huyện khánh_sơn khánh_hòa
+1,buổi lễ bí_thư tỉnh_đoàn khánh_hòa nguyễn_văn_nhuận biểu_dương khen_ngợi hành_động dũng_cảm hai em bo_tý cao_lâm đồng_thời gửi lời chia_buồn đến gia_đình 2 nữ_sinh đuối nước trong vụ tai_nạn
+2,ttxvn hoàn_cảnh gia_đình hai em tý lâm khó_khăn quỹ tấm lòng vàng báo lao_động vận_động tổ_chức cá_nhân hỗ_trợ em 55 triệu đồng
+3,ngân_hàng nhà_nước chi_nhánh tỉnh khánh_hòa trao_tặng em 1 sổ tiết_kiệm 2 triệu đồng
+4,chiều 20/4 7 nữ_sinh lớp 7 trường thcs nguyễn_du xã cam_phước_đông tp cam_ranh tỉnh khánh_hòa tới bờ đê hồ nước tả_rục cách trường khoảng 8 km chơi
+5,em xuống hồ tắm chới chìm xuống đoạn nước sâu

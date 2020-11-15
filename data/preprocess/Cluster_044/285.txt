@@ -1,8 +1,8 @@
 idx, sentence
-0,tối_ngày 19/5  elly_trần_tham_gia chương_trình  thành_phố áo_dài  và được trình_làng tại sân_khấu là phố đi bộ nguyễn_huệ 
-1,cô đảm_nhiệm vai_trò mở_màn cho ntk phạm_đăng anh_thư 
-2,bộ sưu_tập được trình_diễn trong chương thứ hai của chương_trình   thành_phố ngày hôm_nay  thể_hiện những cung_bậc đa_dạng và sự thay_đổi của tà áo_dài qua năm_tháng 
-3,sự xuất_hiện của cô khiến nhiều khán_giả bất_ngờ 
-4,không ít người hâm_mộ đi theo elly_trần_suốt đường catwalk dài 800 m để có cơ_hội ngắm người_đẹp 
-5,dù không có nhiều kinh_nghiệm trình_diễn  elly_trần vẫn luôn giữ nụ cười rạng_rỡ và thần_thái tỏa sáng trong quá_trình di_chuyển 
-6,ở cuối đường catwalk  elly_trần_thành_kính dâng đóa hoa_sen lên tượng_đài bác_hồ 
+0,tối_ngày 19/5 elly_trần_tham_gia chương_trình thành_phố áo_dài trình_làng sân_khấu phố đi bộ nguyễn_huệ
+1,cô đảm_nhiệm vai_trò mở_màn ntk phạm_đăng anh_thư
+2,bộ sưu_tập trình_diễn trong chương thứ hai chương_trình thành_phố ngày hôm_nay thể_hiện cung_bậc đa_dạng thay_đổi tà áo_dài năm_tháng
+3,xuất_hiện cô khiến khán_giả bất_ngờ
+4,ít người hâm_mộ đi elly_trần_suốt đường catwalk dài 800 m cơ_hội ngắm người_đẹp
+5,dù kinh_nghiệm trình_diễn elly_trần luôn giữ nụ cười rạng_rỡ thần_thái tỏa sáng trong quá_trình di_chuyển
+6,ở cuối đường catwalk elly_trần_thành_kính dâng đóa hoa_sen tượng_đài bác_hồ

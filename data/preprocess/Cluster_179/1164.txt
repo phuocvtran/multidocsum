@@ -1,14 +1,14 @@
 idx, sentence
-0,sinh năm 1987 trong một gia_đình nghèo tại sóc_trăng  năm 11 tuổi  văn_ngọc_tú lần đầu làm_quen với thảm đấu judo 
-1,“ hồi nhỏ em bị chứng thần_kinh yếu  hàng đêm thường bị mộng_du hay đi lang_thang 
-2,muốn con cải_thiện thể_chất và mạnh_mẽ hơn nên bố_mẹ đã đưa em tới lớp tập võ taekwondo  sau đó cho chuyển sang tập_judo ”  tú kể 
-3,chỉ sau thời_gian ngắn tập_luyện  tú cứng_cáp hơn hẳn  những cơn mộng_du cũng biến mất lúc_nào không hay 
-4,năm 1999 khi mới 12 tuổi  tú tham_dự giải judo thiếu_niên trẻ toàn_quốc trong màu áo của đội năng_khiếu sóc_trăng và con đường đến với chuyên_nghiệp bắt_đầu từ đó 
-5,tính đến nay  văn_ngọc_tú là vđv judo giàu thành_tích nhất việt_nam với 5hcv sea_games  1hc đ châu_á  2 lần liên_tiếp giành vé tham_dự olympic  các năm 2012 và 2016  
-6,với những đồng_đội ở tuyển judo việt_nam  văn_ngọc_tú là tấm_gương về thành_tích và ý_chí vươn lên 
-7,từng có giai_đoạn chấn_thương nặng  song nữ võ sỹ quê sóc_trăng không bao_giờ bỏ_cuộc bởi suy_nghĩ  “ đã là dân võ thì không được phép đầu_hàng trước khó_khăn ” 
-8,16 năm thi_đấu chuyên_nghiệp  tú phải chịu nhiều thiệt_thòi của một nữ vđv phải thường_xuyên xa nhà  gánh trên vai trọng_trách thành_tích nặng_nề 
-9,không chỉ có vậy  “ cô gái vàng ” của judo việt_nam còn phải chịu nỗi đau khi mất người chị_gái vì tai_nạn giao_thông năm 2006 và 6 năm sau  bố của cô được chẩn_đoán ung_thư bàng_quang 
-10,gánh_nặng cơm_áo gạo tiền đổ_dồn lên vai  song văn_ngọc_tú vẫn kiên_cường đứng vững 
-11,không_những vậy  cô gái quê sóc_trăng còn tự học lấy bằng đh thể_thao từ_sơn  bắc_ninh  và nuôi cậu em_trai đến khi được du_học nhật_bản 
-12,đầu năm 2016  trong lễ tuyên_dương khen_thưởng của thể_thao quân_đội dành cho các vđv  hlv xuất_sắc  văn_ngọc_tú là một trong 5 người được xét tuyển_dụng là công_nhân_viên quốc_phòng 
+0,sinh năm 1987 trong một gia_đình nghèo sóc_trăng năm 11 tuổi văn_ngọc_tú lần đầu làm_quen thảm đấu judo
+1,“ hồi nhỏ em chứng thần_kinh yếu hàng đêm thường mộng_du hay đi lang_thang
+2,muốn con cải_thiện thể_chất mạnh_mẽ hơn bố_mẹ đưa em tới lớp tập võ taekwondo chuyển sang tập_judo ” tú kể
+3,thời_gian ngắn tập_luyện tú cứng_cáp hơn hẳn cơn mộng_du biến mất lúc_nào hay
+4,năm 1999 mới 12 tuổi tú tham_dự giải judo thiếu_niên trẻ toàn_quốc trong màu áo đội năng_khiếu sóc_trăng con đường đến chuyên_nghiệp bắt_đầu
+5,tính đến nay văn_ngọc_tú vđv judo giàu thành_tích nhất việt_nam 5hcv sea_games 1hc đ châu_á 2 lần liên_tiếp giành vé tham_dự olympic năm 2012 2016
+6,đồng_đội ở tuyển judo việt_nam văn_ngọc_tú tấm_gương về thành_tích ý_chí vươn
+7,giai_đoạn chấn_thương nặng song nữ võ sỹ quê sóc_trăng bao_giờ bỏ_cuộc suy_nghĩ “ dân võ phép đầu_hàng khó_khăn ”
+8,16 năm thi_đấu chuyên_nghiệp tú chịu thiệt_thòi một nữ vđv thường_xuyên xa nhà gánh vai trọng_trách thành_tích nặng_nề
+9,“ cô gái vàng ” judo việt_nam còn chịu nỗi đau mất người chị_gái tai_nạn giao_thông năm 2006 6 năm bố cô chẩn_đoán ung_thư bàng_quang
+10,gánh_nặng cơm_áo gạo tiền đổ_dồn vai song văn_ngọc_tú kiên_cường đứng vững
+11,không_những cô gái quê sóc_trăng còn tự học lấy bằng đh thể_thao từ_sơn bắc_ninh nuôi cậu em_trai đến du_học nhật_bản
+12,đầu năm 2016 trong lễ tuyên_dương khen_thưởng thể_thao quân_đội dành vđv hlv xuất_sắc văn_ngọc_tú một trong 5 người xét tuyển_dụng công_nhân_viên quốc_phòng

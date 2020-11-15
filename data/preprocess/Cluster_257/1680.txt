@@ -1,6 +1,6 @@
 idx, sentence
-0,sau thời_gian dài nghỉ_ngơi và tìm_kiếm hướng đi mới trong âm_nhạc  ngày 05/06 tới đây  hoàng_thuỳ_linh sẽ chính_thức trở_lại bằng việc ra_mắt music video  i’m_gonna_break   ok_i’m_out  
-1,ca_khúc  i’m_gonna_break   ok_i’m_out  do dj_tripled sáng_tác và hoà_âm bởi long_halo từng được hoàng_thùy_linh giới_thiệu trong đêm mở_màn  the_remix 2016  
-2,trong sản_phẩm sắp trình_làng  hoàng_thùy_linh còn thể_hiện sự đa_dạng  mở mẻ khi lần đầu thực_hiện mv hoành_tráng với ê_kíp của đạo_diễn trẻ đinh_hà_uyên_thư 
-3,bên cạnh phần âm_nhạc  vũ_đạo và hình_ảnh được đầu_tư kĩ_lưỡng  mv  im_gonna_break   ọk_im_out  còn có sự góp_mặt của vĩnh_thụy  người_yêu tin_đồn của nữ ca_sĩ nỏng bỏng 
-4,đảm_nhận 2 vai chính trong mv  vĩnh_thuỵ và hoàng_thuỳ_linh đã khắc_hoạ hình_ảnh một cặp đôi đầy nổi_loạn  nhiều mâu_thuẫn với những cảnh quay táo_bạo  ấn_tượng 
+0,thời_gian dài nghỉ_ngơi tìm_kiếm hướng đi mới trong âm_nhạc ngày 05/06 tới hoàng_thuỳ_linh chính_thức trở_lại bằng ra_mắt music video i’m_gonna_break ok_i’m_out
+1,ca_khúc i’m_gonna_break ok_i’m_out dj_tripled sáng_tác hoà_âm long_halo hoàng_thùy_linh giới_thiệu trong đêm mở_màn the_remix 2016
+2,trong sản_phẩm sắp trình_làng hoàng_thùy_linh còn thể_hiện đa_dạng mở mẻ lần đầu thực_hiện mv hoành_tráng ê_kíp đạo_diễn trẻ đinh_hà_uyên_thư
+3,bên cạnh phần âm_nhạc vũ_đạo hình_ảnh đầu_tư kĩ_lưỡng mv im_gonna_break ọk_im_out còn góp_mặt vĩnh_thụy người_yêu tin_đồn nữ ca_sĩ nỏng bỏng
+4,đảm_nhận 2 vai chính trong mv vĩnh_thuỵ hoàng_thuỳ_linh khắc_hoạ hình_ảnh một cặp đôi đầy nổi_loạn mâu_thuẫn cảnh quay táo_bạo ấn_tượng

@@ -1,10 +1,10 @@
 idx, sentence
-0,triều_tiên thậm_chí còn thiết_lập các trạm khảo_sát trên khắp cả nước để kêu_gọi người dân bỏ hút thuốc  hãng tin korea_herald ngày 195 của hàn_quốc dẫn nguồn truyền_thông triều_tiên đưa tin 
-1,hãng thông_tấn triều tiên kcna cho_hay  chương_trình hành_động  nói không với thuốc_lá  bao_gồm cả việc tư_vấn cho những người hút thuốc về tác_hại của thuốc_lá cũng như lợi_ích của việc không hút thuốc theo khuyến_cáo của tổ_chức y_tế_thế_giới  who  
-2,bản_thân nhà lãnh_đạo kim_jongun  vốn nghiện thuốc cũng đã bỏ thuốc_lá hơn 2 tháng  trước đó  trong nhiều bức ảnh  ông kim_jongun đã xuất_hiện với một điếu thuốc trên tay 
-3,lần cuối_cùng công_chúng thấy ông cầm điếu thuốc là trong một bức ảnh được báo_chí nhà_nước đăng_tải vào ngày 153 
-4,theo kcna  chiến_dịch  nói không với thuốc_lá  đã giảm đáng_kể số người hút thuốc tại triều_tiên 
-5, số_lượng người không hút thuốc_lá đang gia_tăng mỗi ngày   kcna đưa tin 
-6,cũng theo hãng thông_tấn triều_tiên  hiện_nay tổng diện_tích trồng cây thuốc_lá đã bị thu_hẹp đáng_kể và việc sản_xuất thuốc_lá chỉ dành cho một_số nhà_máy được nhà_nước cấp phép với điều_kiện phải in đậm và rõ_ràng dòng cảnh_báo cũng như các dấu_hiệu cảnh_báo khác trên vỏ bao thuốc 
-7,triều_tiên tham_gia_công_ước khung của who về kiểm_soát thuốc_lá vào ngày 2742005 và đã tổ_chức nhiều sự_kiện khác nhau vào ngày thế_giới nói không với thuốc_lá  315  hàng năm 
-8,tin_tức nguồn  http//wwwxaluancom/modulesphpnamenewsfilearticlesid1482501ixzz49d5ls6su
+0,triều_tiên thậm_chí còn thiết_lập trạm khảo_sát khắp nước kêu_gọi người dân bỏ hút thuốc hãng tin korea_herald ngày 195 hàn_quốc dẫn nguồn truyền_thông triều_tiên đưa tin
+1,hãng thông_tấn triều tiên kcna cho_hay chương_trình hành_động nói thuốc_lá bao_gồm tư_vấn người hút thuốc về tác_hại thuốc_lá lợi_ích hút thuốc khuyến_cáo tổ_chức y_tế_thế_giới who
+2,bản_thân nhà lãnh_đạo kim_jongun vốn nghiện thuốc bỏ thuốc_lá hơn 2 tháng trong bức ảnh ông kim_jongun xuất_hiện một điếu thuốc tay
+3,lần cuối_cùng công_chúng thấy ông cầm điếu thuốc trong một bức ảnh báo_chí nhà_nước đăng_tải ngày 153
+4,kcna chiến_dịch nói thuốc_lá giảm đáng_kể số người hút thuốc triều_tiên
+5,số_lượng người hút thuốc_lá gia_tăng ngày kcna đưa tin
+6,hãng thông_tấn triều_tiên hiện_nay tổng diện_tích trồng cây thuốc_lá thu_hẹp đáng_kể sản_xuất thuốc_lá dành một_số nhà_máy nhà_nước cấp phép điều_kiện in đậm rõ_ràng dòng cảnh_báo dấu_hiệu cảnh_báo khác vỏ bao thuốc
+7,triều_tiên tham_gia_công_ước khung who về kiểm_soát thuốc_lá ngày 2742005 tổ_chức sự_kiện khác nhau ngày thế_giới nói thuốc_lá 315 hàng năm
+8,tin_tức nguồn http//wwwxaluancom/modulesphpnamenewsfilearticlesid1482501ixzz49d5ls6su

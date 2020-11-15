@@ -1,13 +1,13 @@
 idx, sentence
-0,bộ giáo_dục_và_đào_tạo vừa có văn_bản hướng_dẫn nội_dung  quản_lý và sử_dụng kinh_phí ngân_sách nhà_nước hỗ_trợ  nội_dung và định_mức chi tổ_chức kỳ thi thpt quốc_gia 2016 đối_với các cơ_sở giáo_dục đại_học được giao chủ_trì cụm thi 
-1,nguồn ngân_sách nhà_nước trung_ương hỗ_trợ căn_cứ trên số_lượng thí_sinh đăng_ký dự thi tại các cụm thi tổ_chức cho thí_sinh dự thi để xét công_nhận tốt_nghiệp thpt và xét tuyển vào các trường đại_học  cao_đẳng do các trường đại_học chủ_trì  gọi_là cụm thi đại_học  
-2,cụ_thể mức hỗ_trợ là  25000 đồng / môn thi  theo đó  bình_quân 5 môn thi là 125000 đồng / thí_sinh 
-3,ngoài_ra  ngân_sách trung_ương hỗ_trợ tiền công_tác_phí cho các cán_bộ  giảng_viên  học_viên về các tỉnh để tổ_chức thi tại các cụm thi đại_học theo điều_động của bộ giáo_dục  đào_tạo 
-4,nguồn thu từ phí dự thi  dự_tuyển 35000 đồng / được chuyển về các cụm thi đại_học để tổ_chức kỳ thi 
-5,nguồn ngân_sách địa_phương chi_trả cho các học_sinh dự thi chỉ để xét công_nhận tốt_nghiệp thpt năm 2016  nhưng tham_gia dự thi tại cụm thi đại_học 
-6,mức kinh_phí ngân_sách địa_phương chi_trả 60000 đồng / môn thi / thí_sinh 
-7,như_vậy  bộ sẽ không thu lệ_phí phúc_khảo đối_với các thí_sinh dự thi kỳ thi thpt_quốc_gia 
-8,theo bộ_giáo_dục_và_đào_tạo  để tạo điều_kiện thuận_lợi nhất cho thí_sinh khi có yêu_cầu phúc_khảo  thí_sinh có_thể nộp đơn phúc_khảo ở nhiều nơi 
-9,thí_sinh nộp hồ_sơ đăng_ký dự thi ở đâu thì nộp đơn xin phúc_khảo tại đó 
-10,ngoài_ra  tất_cả thí_sinh đều có quyền xin phúc_khảo bài thi 
-11,thí_sinh muốn phúc_khảo cần làm đơn phúc_khảo trong đó ghi rõ họ tên  ngày_sinh  số báo_danh  cụm thi  môn muốn phúc_khảo …
+0,bộ giáo_dục_và_đào_tạo văn_bản hướng_dẫn nội_dung quản_lý sử_dụng kinh_phí ngân_sách nhà_nước hỗ_trợ nội_dung định_mức chi tổ_chức kỳ thi thpt quốc_gia 2016 đối_với cơ_sở giáo_dục đại_học giao chủ_trì cụm thi
+1,nguồn ngân_sách nhà_nước trung_ương hỗ_trợ căn_cứ số_lượng thí_sinh đăng_ký dự thi cụm thi tổ_chức thí_sinh dự thi xét công_nhận tốt_nghiệp thpt xét tuyển trường đại_học cao_đẳng trường đại_học chủ_trì gọi_là cụm thi đại_học
+2,cụ_thể mức hỗ_trợ 25000 đồng / môn thi bình_quân 5 môn thi 125000 đồng / thí_sinh
+3,ngoài_ra ngân_sách trung_ương hỗ_trợ tiền công_tác_phí cán_bộ giảng_viên học_viên về tỉnh tổ_chức thi cụm thi đại_học điều_động bộ giáo_dục đào_tạo
+4,nguồn thu phí dự thi dự_tuyển 35000 đồng / chuyển về cụm thi đại_học tổ_chức kỳ thi
+5,nguồn ngân_sách địa_phương chi_trả học_sinh dự thi xét công_nhận tốt_nghiệp thpt năm 2016 tham_gia dự thi cụm thi đại_học
+6,mức kinh_phí ngân_sách địa_phương chi_trả 60000 đồng / môn thi / thí_sinh
+7,như_vậy bộ thu lệ_phí phúc_khảo đối_với thí_sinh dự thi kỳ thi thpt_quốc_gia
+8,bộ_giáo_dục_và_đào_tạo tạo điều_kiện thuận_lợi nhất thí_sinh yêu_cầu phúc_khảo thí_sinh nộp đơn phúc_khảo ở
+9,thí_sinh nộp hồ_sơ đăng_ký dự thi ở đâu nộp đơn xin phúc_khảo
+10,ngoài_ra tất_cả thí_sinh quyền xin phúc_khảo bài thi
+11,thí_sinh muốn phúc_khảo làm đơn phúc_khảo trong ghi rõ họ tên ngày_sinh số báo_danh cụm thi môn muốn phúc_khảo …

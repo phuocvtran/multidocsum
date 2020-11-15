@@ -1,11 +1,11 @@
 idx, sentence
-0,liên_quan đến vụ truy sát anh thái thiện_nhân  25 tuổi  trông_coi cơ_sở thiện_thanh_spa  số 44 đường nguyễn_trãi   hiện công_an tỉnh cà_mau đã bắt được đối_tượng phan_hoàng_thông  tự cu_thông  một trong những “ tay ” có máu_mặt ở cà_mau  để điều_tra vụ_việc 
-1,các đối_tượng còn lại hiện vẫn đang lẩn trốn 
-2,bà thái thiện_thanh  ở khóm 3  phường 4  thành_phố cà_mau   chủ tiệm thiện_thanh_spa cho biết trên báo tiền_phong  “ việc chém anh anh thái thiện_nhân  anh ruột của bà  là do cùng một nhóm và cùng một người đứng sau đã gởi tin nhắn cho tôi  
-3,cũng theo bà thái thiện_thanh  bà có xích_mích với người bạn gái của người đứng sau mấy vụ truy sát gia_đình bà 
-4,bà đã trực_tiếp nói_chuyện nhưng họ không buông_tha 
-5,sau khi nhận được tin nhắn  cơ_sở của bà liên_tiếp bị khủng_bố bằng gạch đá  nước_sơn  hột_vịt thối  được biết  sau khi nhận được tin nhắn  cũng như những lần bị “ khủng_bố ” nói trên  bà đã trình_báo cơ_quan công_an nhờ can_thiệp 
-6,thế nhưng  vụ truy sát cũng đã xảy ra 
-7,như tin_tức báo người đưa_tin đã đưa  vào thời_điểm xảy ra vụ_việc  có đến hơn chục đối_tượng cầm hung_khí  đi xe_máy xông vào quán ăn trên đường nguyễn_trãi  phường 9  tp cà_mau  để truy sát anh thái thiện_nhân  25 tuổi  trông_coi cơ_sở thiện_thanh_spa  số 44 đường nguyễn_trãi  
-8,người dân chứng_kiến vụ_việc cho biết  khi phát_hiện nhóm người hung_hãn nói trên  nạn_nhân lập_tức bỏ chạy vào phía sau quán ăn  nhóm đối_tượng nói trên lập_tức đuổi theo và dùng mã_tấu chém trúng đầu và tay  khiến nạn_nhân bị_thương nặng  được đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch 
-9,các bác_sĩ cho biết  nạn_nhân bị_thương nhiều nhát vào đầu và tay_trái  phải khâu 27 mũi 
+0,liên_quan đến vụ truy sát anh thái thiện_nhân 25 tuổi trông_coi cơ_sở thiện_thanh_spa số 44 đường nguyễn_trãi hiện công_an tỉnh cà_mau bắt đối_tượng phan_hoàng_thông tự cu_thông một trong “ tay ” máu_mặt ở cà_mau điều_tra vụ_việc
+1,đối_tượng còn hiện lẩn trốn
+2,bà thái thiện_thanh ở khóm 3 phường 4 thành_phố cà_mau chủ tiệm thiện_thanh_spa biết báo tiền_phong “ chém anh anh thái thiện_nhân anh ruột bà một nhóm một người đứng gởi tin nhắn tôi
+3,bà thái thiện_thanh bà xích_mích người bạn gái người đứng mấy vụ truy sát gia_đình bà
+4,bà trực_tiếp nói_chuyện họ buông_tha
+5,nhận tin nhắn cơ_sở bà liên_tiếp khủng_bố bằng gạch đá nước_sơn hột_vịt thối biết nhận tin nhắn lần “ khủng_bố ” nói bà trình_báo cơ_quan công_an nhờ can_thiệp
+6,thế vụ truy sát xảy
+7,tin_tức báo người đưa_tin đưa thời_điểm xảy vụ_việc đến hơn chục đối_tượng cầm hung_khí đi xe_máy xông quán ăn đường nguyễn_trãi phường 9 tp cà_mau truy sát anh thái thiện_nhân 25 tuổi trông_coi cơ_sở thiện_thanh_spa số 44 đường nguyễn_trãi
+8,người dân chứng_kiến vụ_việc biết phát_hiện nhóm người hung_hãn nói nạn_nhân lập_tức bỏ chạy phía quán ăn nhóm đối_tượng nói lập_tức đuổi dùng mã_tấu chém trúng đầu tay khiến nạn_nhân bị_thương nặng đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch
+9,bác_sĩ biết nạn_nhân bị_thương nhát đầu tay_trái khâu 27 mũi

@@ -1,10 +1,10 @@
 idx, sentence
-0,sáng ngày 3/6  trao_đổi với chúng_tôi  một lãnh_đạo xã đông_tiến  huyện yên_phong  bắc_ninh cho biết trên địa_bàn vừa xảy ra vụ điện giật thương_tâm khiến 1 người_lớn và 4 thanh_thiếu_niên tử_vong 
-1,trước đó  chiều_tối 2/6  anh nguyễn_xuân_thủy  37 tuổi  có đặt lồng bè nuôi cá dưới sông_cầu gần nhà 
-2,thấy 4 thanh_thiếu_niên đang tắm trên sông gần đó nên đã nhờ nhóm người này khiêng giúp cây cầu bằng sắt dẫn xuống khu_vực lồng cá 
-3,tuy_nhiên trong lúc làm không may cầu sắt trượt vào dây_điện nên cả 5 người đều bị giật và tử_vong 
-4,sau khi xảy ra sự_việc  người dân đã nhanh_chóng trình_báo chính_quyền địa_phương và lãnh_đạo huyện yên_phong  ngay khi nắm được thông_tin  cơ_quan điều_tra đã nhanh_chóng có_mặt khám_nghiệm hiện_trường  điều_tra nguyên_nhân vụ_việc 
-5,theo thông_tin ban_đầu được biết  4 nạn_nhân  trong đó hai em 16 tuổi  một em 15 tuổi và một em 12 tuổi  
-6,có nạn_nhân là cháu ruột của anh thủy 
-7,nhận được tin báo  nhiều người dân sống trong khu_vực không khỏi bàng_hoàng trước cái chết thương_tâm của 5 người 
-8,trong đó các nạn_nhân còn rất ít_tuổi 
+0,sáng ngày 3/6 trao_đổi chúng_tôi một lãnh_đạo xã đông_tiến huyện yên_phong bắc_ninh biết địa_bàn xảy vụ điện giật thương_tâm khiến 1 người_lớn 4 thanh_thiếu_niên tử_vong
+1,chiều_tối 2/6 anh nguyễn_xuân_thủy 37 tuổi đặt lồng bè nuôi cá sông_cầu gần nhà
+2,thấy 4 thanh_thiếu_niên tắm sông gần nhờ nhóm người khiêng giúp cây cầu bằng sắt dẫn xuống khu_vực lồng cá
+3,tuy_nhiên trong làm may cầu sắt trượt dây_điện 5 người giật tử_vong
+4,xảy sự_việc người dân nhanh_chóng trình_báo chính_quyền địa_phương lãnh_đạo huyện yên_phong nắm thông_tin cơ_quan điều_tra nhanh_chóng có_mặt khám_nghiệm hiện_trường điều_tra nguyên_nhân vụ_việc
+5,thông_tin ban_đầu biết 4 nạn_nhân trong hai em 16 tuổi một em 15 tuổi một em 12 tuổi
+6,nạn_nhân cháu ruột anh thủy
+7,nhận tin báo người dân sống trong khu_vực khỏi bàng_hoàng chết thương_tâm 5 người
+8,trong nạn_nhân còn ít_tuổi

@@ -1,21 +1,21 @@
 idx, sentence
-0,chiều 315  chủ_tịch ubnd tphcm nguyễn_thành_phong cùng các sở ngành đã nghe công_ty mục_tiêu vì môi_trường và cộng_đồng  ept  báo_cáo đề_án các giải_pháp cấp_bách nhằm giảm đỉnh triều cao bất_thường trong hệ_thống sông đồng_nai  sài_gòn và vàm_cỏ để chống ngập cho tphcm và quy_hoạch khả_thi bền_vững nhằm giữ mức triều cao bình_thường trong hệ_thống các sông này 
-1,đề_án này dự_kiến kinh_phí thực_hiện khoảng 20000 tỉ đồng 
-2,báo_cáo đề_án  ông nguyễn_công_anh  đại_diện ept đề_xuất phân_chia thành ba vùng kiểm_soát nước 
-3,trong đó  vùng một gồm bờ hữu sông sài_gòn  nhà_bè  vùng hai gồm toàn_bộ ngã ba sông đồng_nai  sài_gòn  vùng 3 là toàn_bộ khu_vực bờ tả sông nhà_bè  soài_rạp 
-4,cụ_thể ở những vùng này sẽ xây_dựng mô_hình “ kè hở áp_lực cột nước thấp quy_mô cận thực_tế trên các nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp  lòng_tàu và đồng_tranh 
-5,giảm mức đỉnh triều trên sông đồng_nai và vàm_cỏ bằng biện_pháp phi_công_trình là xây_dựng hồ đa_nhiệm  điều_tiết tại huyện cần_giờ  để bảo_đảm sự phát_triển bền_vững cho tphcm giai_đoạn 2020  2050 ” 
-6,ts phạm_sanh cho rằng đề_án này chỉ mới dừng lại ở đề_tài nghiên_cứu khoa_học chứ không phải là một chương_trình chống ngập 
-7,“ đây là một ý_tưởng hay vì nó là những giải_pháp mềm trên thế_giới cũng đã có nhiều nước áp_dụng 
-8,tuy_nhiên  ept cần có nghiên_cứu  tính_toán kỹ càng hơn  nếu được nên áp_dụng ở phạm_vi một dòng sông trước xem kết_quả như thế_nào chứ chưa nên đưa vào áp_dụng với quy_mô như tphcm ”  ông sanh nói 
-9,bà nguyễn_thị_thanh_mỹ  phó giám_đốc sở tnmt  đề_nghị với dự_án này trong quá_trình thực_hiện cần làm rõ tính khả_thi so với quy_hoạch của tp vì khi thực_hiện dự_án này phải di_dời nhiều công_trình 
-10,kể_cả việc xây hồ điều_tiết ở cần_giờ  bà mỹ cũng đề_nghị xem_xét lại tính khả_thi của hồ này vì nằm gần rừng_phòng_hộ nên khi xây_dựng tác_động đến môi_trường và phá vỡ hệ_sinh_thái của rừng 
-11,ông tất_thành_cang  phó bí_thư thành_ủy tphcm  cho rằng ept nên hoàn_thiện thêm đề_án để có tính thuyết_phục hơn 
-12,“ vì tphcm nằm trong vùng đông_nam_bộ có liên_kết hệ_thống thủy_văn phức_tạp  địa_chất phức_tạp  ngoài_ra còn phải đối_mặt với hiện_tượng nước_biển dâng 
-13,nên nói đến chương_trình giảm ngập của tphcm thì phải có hệ_thống giải_pháp đồng_bộ từ phi_công_trình  công_trình đến giải_pháp về xử_lý thủy_văn địa_chất thì mới giải_quyết được bài_toán chống ngập ”  ông cang nói 
-14,ông cang cũng cho rằng khi nói đến giảm ngập của tphcm không_thể không đặt chung trong vùng 
-15,việc giảm tác_động mức triều dâng ở biển vào mà ept trình_bày chỉ là một trong những giải_pháp 
-16,giải_pháp của ept có khả_thi nhưng nên áp_dụng ở một địa_điểm cụ_thể  một khu_vực hẹp hơn để có_thể đánh_giá giá đầy_đủ về hiệu_quả 
-17,phát_biểu kết_luận  ông nguyễn_thành_phong cho rằng tình_trạng ngập nước là bức_xúc của người dân và đây cũng là một trong bảy chương_trình đột_phá của tp hiện_nay  tp đang triển_khai những giải_pháp để làm_sao thực_hiện có hiệu_quả chương_trình chống ngập 
-18,ông phong cũng đưa ra nhiều nguyên_nhân ngập nước trên địa_bàn tphcm  trong đó xác_định ngập là do mưa  triều_cường  nước_biển dâng và không loại_trừ do độ lún và có tình_trạng quản_lý yếu_kém 
-19,“ do_đó  khi tiến_hành các giải_pháp chống ngập cần phải đồng_bộ và toàn_diện ”  ông phong nói và cho biết qua lắng_nghe ý_kiến của ept  đây chỉ mới là ý_tưởng khoa_học thôi chứ chưa phải là dự_án để tphcm hết ngập như ept đã khẳng_định 
+0,chiều 315 chủ_tịch ubnd tphcm nguyễn_thành_phong sở ngành nghe công_ty mục_tiêu môi_trường cộng_đồng ept báo_cáo đề_án giải_pháp cấp_bách nhằm giảm đỉnh triều cao bất_thường trong hệ_thống sông đồng_nai sài_gòn vàm_cỏ chống ngập tphcm quy_hoạch khả_thi bền_vững nhằm giữ mức triều cao bình_thường trong hệ_thống sông
+1,đề_án dự_kiến kinh_phí thực_hiện khoảng 20000 tỉ đồng
+2,báo_cáo đề_án ông nguyễn_công_anh đại_diện ept đề_xuất phân_chia thành ba vùng kiểm_soát nước
+3,trong vùng một gồm bờ hữu sông sài_gòn nhà_bè vùng hai gồm toàn_bộ ngã ba sông đồng_nai sài_gòn vùng 3 toàn_bộ khu_vực bờ tả sông nhà_bè soài_rạp
+4,cụ_thể ở vùng xây_dựng mô_hình “ kè hở áp_lực cột nước thấp quy_mô cận thực_tế nhánh sông phù_hợp thuộc hệ_thống sông soài_rạp lòng_tàu đồng_tranh
+5,giảm mức đỉnh triều sông đồng_nai vàm_cỏ bằng biện_pháp phi_công_trình xây_dựng hồ đa_nhiệm điều_tiết huyện cần_giờ bảo_đảm phát_triển bền_vững tphcm giai_đoạn 2020 2050 ”
+6,ts phạm_sanh đề_án mới dừng ở đề_tài nghiên_cứu khoa_học một chương_trình chống ngập
+7,“ một ý_tưởng hay nó giải_pháp mềm thế_giới nước áp_dụng
+8,tuy_nhiên ept nghiên_cứu tính_toán kỹ hơn áp_dụng ở phạm_vi một dòng sông xem kết_quả thế_nào đưa áp_dụng quy_mô tphcm ” ông sanh nói
+9,bà nguyễn_thị_thanh_mỹ phó giám_đốc sở tnmt đề_nghị dự_án trong quá_trình thực_hiện làm rõ tính khả_thi quy_hoạch tp thực_hiện dự_án di_dời công_trình
+10,kể_cả xây hồ điều_tiết ở cần_giờ bà mỹ đề_nghị xem_xét tính khả_thi hồ nằm gần rừng_phòng_hộ xây_dựng tác_động đến môi_trường phá vỡ hệ_sinh_thái rừng
+11,ông tất_thành_cang phó bí_thư thành_ủy tphcm ept hoàn_thiện thêm đề_án tính thuyết_phục hơn
+12,“ tphcm nằm trong vùng đông_nam_bộ liên_kết hệ_thống thủy_văn phức_tạp địa_chất phức_tạp ngoài_ra còn đối_mặt hiện_tượng nước_biển dâng
+13,nói đến chương_trình giảm ngập tphcm hệ_thống giải_pháp đồng_bộ phi_công_trình công_trình đến giải_pháp về xử_lý thủy_văn địa_chất mới giải_quyết bài_toán chống ngập ” ông cang nói
+14,ông cang nói đến giảm ngập tphcm không_thể đặt chung trong vùng
+15,giảm tác_động mức triều dâng ở biển ept trình_bày một trong giải_pháp
+16,giải_pháp ept khả_thi áp_dụng ở một địa_điểm cụ_thể một khu_vực hẹp hơn đánh_giá giá đầy_đủ về hiệu_quả
+17,phát_biểu kết_luận ông nguyễn_thành_phong tình_trạng ngập nước bức_xúc người dân một trong bảy chương_trình đột_phá tp hiện_nay tp triển_khai giải_pháp làm_sao thực_hiện hiệu_quả chương_trình chống ngập
+18,ông phong đưa nguyên_nhân ngập nước địa_bàn tphcm trong xác_định ngập mưa triều_cường nước_biển dâng loại_trừ độ lún tình_trạng quản_lý yếu_kém
+19,“ do_đó tiến_hành giải_pháp chống ngập đồng_bộ toàn_diện ” ông phong nói biết lắng_nghe ý_kiến ept mới ý_tưởng khoa_học thôi dự_án tphcm hết ngập ept khẳng_định

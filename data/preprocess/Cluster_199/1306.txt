@@ -1,15 +1,15 @@
 idx, sentence
-0,khoảng 9 h ngày 12/12/2015  chuyên điều khiểu xe ôtô tải mang biển số 89l  0211 lưu_thông trên đường nguyễn_văn_linh  quận long_biên  hà_nội  theo hướng từ hải_phòng  hà_nội 
-1,khi đến ngã tư phố sài_đồng  nguyễn_văn_linh  do vi_phạm_luật giao_thông đường_bộ  nên bị thượng_úy nguyễn_quốc_đạt  đội cảnh_sát giao_thông_số 5  phòng csgt công_an hà_nội  yêu_cầu dừng xe để xử_lý 
-2,thay_vì chấp_hành hiệu_lệnh  chuyên điều_khiển xe đâm thẳng vào thượng_úy nguyễn_quốc_đạt 
-3,quá bất_ngờ  thượng_úy nguyễn_quốc_đạt vội nhảy lên bám vào cần gạt nước ở kính chắn gió đầu xe ôtô 
-4,chuyên tiếp_tục rú ga chạy với tốc_độ cao  lạng_lách nhằm hất chiến_sĩ cảnh_sát giao_thông xuống_đường 
-5,trong lúc điều_khiển xe bỏ chạy  chuyên va_chạm với chiếc xe ôtô đi cùng chiều 
-6,chuyên vừa lạng_lách bỏ chạy với tốc_độ cao vừa đạp phanh dừng đột_ngột  với mục_đích hất thượng_úy nguyễn_quốc_đạt xuống_đường 
-7,chao_đảo trên đầu xe  thượng_sĩ cảnh_sát giao_thông ngã xuống và bị kéo đi khoảng 20 m  sau đó bị bánh sau của xe đè lên người 
-8,do được đưa đi cấp_cứu kịp_thời  thượng_úy nguyễn_quốc_đạt đã qua cơn nguy_kịch nhưng bị tổn_hại sức_khỏe với tỷ_lệ thương_tích 59  
-9,sau đó  chuyên điều_khiển xe bỏ trốn và đến chiều cùng ngày thì đến cơ_quan công_an đầu_thú 
-10,việc thượng_úy nguyễn_quốc_đạt may_mắn  không chết là nằm ngoài ý_muốn của chuyên 
-11,hành_vi trên của đoàn_văn_chuyên bị viện_kiểm_sát_nhân_dân tp hà_nội truy_tố về hành_vi giết người 
-12,tại phiên xét_xử  chuyên thành_khẩn khai lại toàn_bộ_hành_vi phạm_tội của mình và mong hđxx cân_nhắc cho bị_cáo hưởng mức án thấp nhất 
-13,tuy_nhiên  hđxx nhận_định  hành_vi phạm_tội của bị_cáo là nguy_hiểm cho xã_hội và xâm_hại trực_tiếp đến tính_mạng của người khác  đặc_biệt là người thi_hành công_vụ 
+0,khoảng 9 h ngày 12/12/2015 chuyên khiểu xe ôtô tải mang biển số 89l 0211 lưu_thông đường nguyễn_văn_linh quận long_biên hà_nội hướng hải_phòng hà_nội
+1,đến ngã tư phố sài_đồng nguyễn_văn_linh vi_phạm_luật giao_thông đường_bộ thượng_úy nguyễn_quốc_đạt đội cảnh_sát giao_thông_số 5 phòng csgt công_an hà_nội yêu_cầu dừng xe xử_lý
+2,thay_vì chấp_hành hiệu_lệnh chuyên điều_khiển xe đâm thẳng thượng_úy nguyễn_quốc_đạt
+3,quá bất_ngờ thượng_úy nguyễn_quốc_đạt vội nhảy bám gạt nước ở kính chắn gió đầu xe ôtô
+4,chuyên tiếp_tục rú ga chạy tốc_độ cao lạng_lách nhằm hất chiến_sĩ cảnh_sát giao_thông xuống_đường
+5,trong điều_khiển xe bỏ chạy chuyên va_chạm xe ôtô đi chiều
+6,chuyên lạng_lách bỏ chạy tốc_độ cao đạp phanh dừng đột_ngột mục_đích hất thượng_úy nguyễn_quốc_đạt xuống_đường
+7,chao_đảo đầu xe thượng_sĩ cảnh_sát giao_thông ngã xuống kéo đi khoảng 20 m bánh xe đè người
+8,đưa đi cấp_cứu kịp_thời thượng_úy nguyễn_quốc_đạt cơn nguy_kịch tổn_hại sức_khỏe tỷ_lệ thương_tích 59
+9,chuyên điều_khiển xe bỏ trốn đến chiều ngày đến cơ_quan công_an đầu_thú
+10,thượng_úy nguyễn_quốc_đạt may_mắn chết nằm ngoài ý_muốn chuyên
+11,hành_vi đoàn_văn_chuyên viện_kiểm_sát_nhân_dân tp hà_nội truy_tố về hành_vi giết người
+12,phiên xét_xử chuyên thành_khẩn khai toàn_bộ_hành_vi phạm_tội mình mong hđxx cân_nhắc bị_cáo hưởng mức án thấp nhất
+13,tuy_nhiên hđxx nhận_định hành_vi phạm_tội bị_cáo nguy_hiểm xã_hội xâm_hại trực_tiếp đến tính_mạng người khác đặc_biệt người thi_hành công_vụ

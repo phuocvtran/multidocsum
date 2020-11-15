@@ -1,18 +1,18 @@
 idx, sentence
-0,sáng 195  tòa_án nhân_dân tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử nguyễn_ngọc_nguyên  31 tuổi  phạm_tội giết người với 2 tình_tiết nghiêm_trọng là giết nhiều người và hành_vi phạm tội mang tính_chất côn_đồ 
-1,tại tòa  nguyên_khai nhận ngày 23122015  nguyên cùng một_số bạn_bè nhậu từ trưa tới khoảng 17 g thì về nhà_vợ  ấp vĩnh_thành  xã vĩnh_hòa_hiệp  huyện châu_thành  kiên_giang  ngủ 
-2,đến 19 g  nguyên thức dậy ăn cơm thì xảy ra mâu_thuẫn chuyện tiền_bạc với vợ là chị lê_thị_hậu  24 tuổi  
-3,trong lúc cự cãi  nguyên doạ nếu vợ không đưa tiền thì sẽ chém 
-4,bị vợ thách_thức  nguyên bực_tức chụp con dao_bầu dài khoảng 30 cm túm tóc vợ đè xuống sàn gỗ rồi chém liên_tục nhiều nhát vào đầu  cổ khiến đầu chị hậu_bị đứt gần lìa  tử_vong tại_chỗ 
-5,không dừng lại ở đó  khi thấy mẹ vợ là bà trần_thị_giêng  48 tuổi  đi vào  nguyên cầm dao rượt theo chém bà giêng 3 nhát vào đầu  lưng khiến bà giêng bị_thương khá nặng 
-6,sau khi gây_án  nguyên bỏ về nhà cha ruột ở phường rạch_sỏi  cách nhà vợ 5 km  lẩn trốn 
-7,khi lực_lượng công_an tìm đến nơi  nguyên đã ra đầu_thú  khai nhận toàn_bộ_hành_vi phạm_tội 
-8,nguyên_khai mình chung sống với chị hậu từ năm 2009  lúc chị hậu mới 15 tuổi   đến nay có 2 con_trai  cháu lớn mới 5 tuổi  cháu nhỏ 3 tuổi 
-9,nay 2 cháu côi_cút phải nhờ bà ngoại nuôi_dưỡng 
-10,trước khi chung sống với chị hậu  nguyên cũng đã có 1 đời vợ nhưng ly_hôn vì nguyên có tính hay ghen 
-11,nghe bị_cáo nguyên_khai nhận  một vị hội_thẩm_nhân_dân đã phân_tích rằng chỉ vì mâu_thuẫn nhỏ_nhặt mà bị_cáo tước_đoạt mạng sống của vợ mình  rồi còn truy sát cả mẹ vợ 
-12,“ nay vợ chết  bị_cáo ở tù  con của bị_cáo coi như mồ_côi cha_mẹ 
-13,cha bị_cáo già_yếu có chiếc xe_gắn_máy để chạy xe_ôm cũng phải cầm_cố để làm đám_tang cho vợ bị_cáo 
-14,bị_cáo thấy hành_vi của mình có chấp_nhận được không  bị_cáo có còn là con_người không ”  vị hội_thẩm nhân_dân đặt câu hỏi 
-15,được nói lời sau_cùng trước khi hội_đồng xét_xử vào nghị_án  nguyên bật khóc xin_lỗi gia_đình bên vợ  xin_lỗi người_thân 
-16,bị_cáo nói mình rất hối_hận  mong hội_đồng xét_xử cho mình con đường sống để còn cơ_hội về lo cho các con còn quá nhỏ 
+0,sáng 195 tòa_án nhân_dân tỉnh kiên_giang mở phiên sơ_thẩm_xét_xử nguyễn_ngọc_nguyên 31 tuổi phạm_tội giết người 2 tình_tiết nghiêm_trọng giết người hành_vi phạm tội mang tính_chất côn_đồ
+1,tòa nguyên_khai nhận ngày 23122015 nguyên một_số bạn_bè nhậu trưa tới khoảng 17 g về nhà_vợ ấp vĩnh_thành xã vĩnh_hòa_hiệp huyện châu_thành kiên_giang ngủ
+2,đến 19 g nguyên thức dậy ăn cơm xảy mâu_thuẫn tiền_bạc vợ chị lê_thị_hậu 24 tuổi
+3,trong cự cãi nguyên doạ vợ đưa tiền chém
+4,vợ thách_thức nguyên bực_tức chụp con dao_bầu dài khoảng 30 cm túm tóc vợ đè xuống sàn gỗ chém liên_tục nhát đầu cổ khiến đầu chị hậu_bị đứt gần lìa tử_vong tại_chỗ
+5,dừng ở thấy mẹ vợ bà trần_thị_giêng 48 tuổi đi nguyên cầm dao rượt chém bà giêng 3 nhát đầu lưng khiến bà giêng bị_thương khá nặng
+6,gây_án nguyên bỏ về nhà cha ruột ở phường rạch_sỏi cách nhà vợ 5 km lẩn trốn
+7,lực_lượng công_an tìm đến nguyên đầu_thú khai nhận toàn_bộ_hành_vi phạm_tội
+8,nguyên_khai mình chung sống chị hậu năm 2009 chị hậu mới 15 tuổi đến nay 2 con_trai cháu lớn mới 5 tuổi cháu nhỏ 3 tuổi
+9,nay 2 cháu côi_cút nhờ bà ngoại nuôi_dưỡng
+10,chung sống chị hậu nguyên 1 đời vợ ly_hôn nguyên tính hay ghen
+11,nghe bị_cáo nguyên_khai nhận một vị hội_thẩm_nhân_dân phân_tích mâu_thuẫn nhỏ_nhặt bị_cáo tước_đoạt mạng sống vợ mình còn truy sát mẹ vợ
+12,“ nay vợ chết bị_cáo ở tù con bị_cáo coi mồ_côi cha_mẹ
+13,cha bị_cáo già_yếu xe_gắn_máy chạy xe_ôm cầm_cố làm đám_tang vợ bị_cáo
+14,bị_cáo thấy hành_vi mình chấp_nhận bị_cáo còn con_người ” vị hội_thẩm nhân_dân đặt câu hỏi
+15,nói lời sau_cùng hội_đồng xét_xử nghị_án nguyên bật khóc xin_lỗi gia_đình bên vợ xin_lỗi người_thân
+16,bị_cáo nói mình hối_hận mong hội_đồng xét_xử mình con đường sống còn cơ_hội về lo con còn quá nhỏ

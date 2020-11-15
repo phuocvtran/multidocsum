@@ -1,16 +1,16 @@
 idx, sentence
-0,chiều 2/6  công_ty sông_đà 11 – đơn_vị thi_công công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình  nam_định đã thông_tin chính_thức về những nội_dung báo gia_đình  xã_hội và các báo phản_ánh trước đó 
-1,buổi trao_đổi thông_tin có sự tham_gia của ông phạm_lạp  phó giám_đốc công_ty cổ_phần sông_đà 11  cán_bộ của chi_nhánh công_ty sông_đà 117 – đơn_vị trực_tiếp thi_công cùng hàng chục cơ_quan báo_chí 
-2,“ đến thời_điểm này  khi đã có kết_quả kiểm_định chất_lượng bê_tông  chúng_tôi có_thể khẳng_định rằng việc phản_ánh của người dân là hoàn_toàn có cơ_sở ”  ông phạm_lạp cho biết 
-3,ông lạp cũng đánh_giá việc vi_phạm này hết_sức nghiêm_trọng 
-4,sai_phạm của một_vài cá_nhân trong quá_trình thi_công đã làm ảnh_hưởng đến hình_ảnh và uy_tín của công_ty  làm xáo_trộn đời_sống và việc_làm của hàng ngàn cán_bộ công_nhân_viên của công_ty 
-5,hiện ban lãnh_đạo cty sông_đà 11 đã họp hội_đồng kỷ_luật  quyết_định kỷ_luật chỉ_huy_trưởng công_trường  đội_trưởng  hai cán_bộ kỹ_thuật cùng toàn đội thi_công 
-6,đồng_thời giám_đốc  phó giám_đốc chi_nhánh sông_đà 117 cũng phải nhận hình_thức cảnh_cáo 
-7,đại_diện công_ty sông_đà 11 cũng nêu quan_điểm thẳng_thắn sẽ khắc_phục kịp_thời những sai_phạm và yêu_cầu những cán_bộ làm sai bồi_hoàn_toàn_bộ chi_phí  thiệt_hại gây ra 
-8,toàn_bộ số tiền thiệt_hại sẽ được khấu_trừ dần vào tiền_lương hằng tháng của các cán_bộ  cá_nhân có liên_quan 
-9,trả_lời câu_hỏi của pv báo gia_đình  xã_hội về việc từ ngày 22/4/2016  ban quản_lý dự_án các công_trình điện miền bắc  npmb  – đơn_vị thay_mặt chủ đầu_tư quản_lý dự_án yêu_cầu dừng thi_công vì liên_quan đến đường_bay tại_sao đơn_vị thi_công vẫn tiếp_tục làm  ông lạp cho biết  “ chúng_tôi đã chỉ_đạo chỉ_huy công_trình tạm dừng thi_công tuy_nhiên họ nghĩ rằng hai vị_trí móng cột này không ảnh_hưởng nên vẫn triển_khai ” 
-10,ông lạp cũng nhận trách_nhiệm về việc thiếu sâu_sát trong việc kiểm_tra công_trình sau khi chuyển yêu_cầu tạm dừng thi_công đến cấp dưới 
-11,lãnh_đạo công_ty sông_đà 11 cũng chỉ rõ  “ đối_với những cá_nhân có vi_phạm là những cá_nhân có liên_quan phải chấp_hành đúng theo những quyết_định kỷ_luật của công_ty và phải chịu hoàn_toàn chi_phí làm lại 2 vị_trí móng cột trên ” 
-12,cuối_cùng  phía tổng_công_ty sông_đà  công_ty sông_đà 11  chi_nhánh công_ty sông_đà 117 cảm_ơn thông_tin đăng_tải kịp_thời trên báo_chí  cảm_ơn sự phát_hiện của người dân để ban lãnh_đạo nắm được sự_việc và kịp_thời xử_lý 
-13,“ chúng_tôi tiếp_nhận những thông_tin phản_ánh với tinh_thần và thái_độ hết_sức cầu_thị 
-14,quyết không bao_che  dung_túng sai_phạm của cấp dưới ”  ông lạp nhấn_mạnh 
+0,chiều 2/6 công_ty sông_đà 11 – đơn_vị thi_công công_trình đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh_bình nam_định thông_tin chính_thức về nội_dung báo gia_đình xã_hội báo phản_ánh
+1,buổi trao_đổi thông_tin tham_gia ông phạm_lạp phó giám_đốc công_ty cổ_phần sông_đà 11 cán_bộ chi_nhánh công_ty sông_đà 117 – đơn_vị trực_tiếp thi_công hàng chục cơ_quan báo_chí
+2,“ đến thời_điểm kết_quả kiểm_định chất_lượng bê_tông chúng_tôi khẳng_định phản_ánh người dân hoàn_toàn cơ_sở ” ông phạm_lạp biết
+3,ông lạp đánh_giá vi_phạm hết_sức nghiêm_trọng
+4,sai_phạm một_vài cá_nhân trong quá_trình thi_công làm ảnh_hưởng đến hình_ảnh uy_tín công_ty làm xáo_trộn đời_sống việc_làm hàng ngàn cán_bộ công_nhân_viên công_ty
+5,hiện ban lãnh_đạo cty sông_đà 11 họp hội_đồng kỷ_luật quyết_định kỷ_luật chỉ_huy_trưởng công_trường đội_trưởng hai cán_bộ kỹ_thuật toàn đội thi_công
+6,đồng_thời giám_đốc phó giám_đốc chi_nhánh sông_đà 117 nhận hình_thức cảnh_cáo
+7,đại_diện công_ty sông_đà 11 nêu quan_điểm thẳng_thắn khắc_phục kịp_thời sai_phạm yêu_cầu cán_bộ làm sai bồi_hoàn_toàn_bộ chi_phí thiệt_hại gây
+8,toàn_bộ số tiền thiệt_hại khấu_trừ dần tiền_lương hằng tháng cán_bộ cá_nhân liên_quan
+9,trả_lời câu_hỏi pv báo gia_đình xã_hội về ngày 22/4/2016 ban quản_lý dự_án công_trình điện miền bắc npmb – đơn_vị thay_mặt chủ đầu_tư quản_lý dự_án yêu_cầu dừng thi_công liên_quan đến đường_bay tại_sao đơn_vị thi_công tiếp_tục làm ông lạp biết “ chúng_tôi chỉ_đạo chỉ_huy công_trình tạm dừng thi_công tuy_nhiên họ nghĩ hai vị_trí móng cột ảnh_hưởng triển_khai ”
+10,ông lạp nhận trách_nhiệm về thiếu sâu_sát trong kiểm_tra công_trình chuyển yêu_cầu tạm dừng thi_công đến cấp
+11,lãnh_đạo công_ty sông_đà 11 rõ “ đối_với cá_nhân vi_phạm cá_nhân liên_quan chấp_hành đúng quyết_định kỷ_luật công_ty chịu hoàn_toàn chi_phí làm 2 vị_trí móng cột ”
+12,cuối_cùng phía tổng_công_ty sông_đà công_ty sông_đà 11 chi_nhánh công_ty sông_đà 117 cảm_ơn thông_tin đăng_tải kịp_thời báo_chí cảm_ơn phát_hiện người dân ban lãnh_đạo nắm sự_việc kịp_thời xử_lý
+13,“ chúng_tôi tiếp_nhận thông_tin phản_ánh tinh_thần thái_độ hết_sức cầu_thị
+14,quyết bao_che dung_túng sai_phạm cấp ” ông lạp nhấn_mạnh

@@ -1,9 +1,9 @@
 idx, sentence
-0,ngày 305  ubnd tỉnh thừa_thiênhuế tổ_chức trưng_bày các phương_án kiến_trúc cầu_vượt sông hương nhằm lấy ý_kiến đóng_góp của người_dân 
-1,20 phương_án về cầu_vượt sông hương được trưng_bày bên ngoài bảo_tàng văn_hóa_huế  lê_lợi  tp huế  với mong_muốn lấy ý_kiến từ người dân để đưa ra phương_án tốt nhất nhằm đáp_ứng đầy_đủ yêu_cầu về kiến_trúc  thẩm_mỹ cũng như văn_hóa huế 
-2,đây là những phương_án của các tổ_chức  đơn_vị tham_gia trong cuộc thi chọn phương_án kiến_trúc công_trình cầu_vượt sông hương do ban_đầu_tư xây_dựng giao_thông  sở s_gtvt  làm_chủ đầu_tư và tổ_chức thi_tuyển 
-3,trước đó  qua hai lần thi_tuyển thì phương_án kiến_trúc nón huế đạt giải nhất nhưng gặp nhiều ý_kiến lo_ngại bởi công_trình chưa đáp_ứng được yêu_cầu thẩm_mỹ  lịch_sử và văn_hóa huế 
-4,mặt_khác  phương_án này được đánh_giá là còn nặng_nề  kết_cấu chịu lực phức_tạp  thi_công khó_khăn 
-5,công_trình cầu qua sông hương  tp huế  thuộc dự_án đường nguyễn_hoàng và cầu_vượt sông hương 
-6,vị_trí xây_dựng cầu_vượt sông hương bắt_đầu từ đường nguyễn_hoàng và nguyễn_phúc_nguyên  phường kim_long  bắc qua sông hương đến đường bùi_thị_xuân  phường đúc  
-7,cây cầu mới có chiều dài dự_kiến 385 m  chiều rộng 405 m 
+0,ngày 305 ubnd tỉnh thừa_thiênhuế tổ_chức trưng_bày phương_án kiến_trúc cầu_vượt sông hương nhằm lấy ý_kiến đóng_góp người_dân
+1,20 phương_án về cầu_vượt sông hương trưng_bày bên ngoài bảo_tàng văn_hóa_huế lê_lợi tp huế mong_muốn lấy ý_kiến người dân đưa phương_án tốt nhất nhằm đáp_ứng đầy_đủ yêu_cầu về kiến_trúc thẩm_mỹ văn_hóa huế
+2,phương_án tổ_chức đơn_vị tham_gia trong cuộc thi chọn phương_án kiến_trúc công_trình cầu_vượt sông hương ban_đầu_tư xây_dựng giao_thông sở s_gtvt làm_chủ đầu_tư tổ_chức thi_tuyển
+3,hai lần thi_tuyển phương_án kiến_trúc nón huế đạt giải nhất gặp ý_kiến lo_ngại công_trình đáp_ứng yêu_cầu thẩm_mỹ lịch_sử văn_hóa huế
+4,mặt_khác phương_án đánh_giá còn nặng_nề kết_cấu chịu lực phức_tạp thi_công khó_khăn
+5,công_trình cầu sông hương tp huế thuộc dự_án đường nguyễn_hoàng cầu_vượt sông hương
+6,vị_trí xây_dựng cầu_vượt sông hương bắt_đầu đường nguyễn_hoàng nguyễn_phúc_nguyên phường kim_long bắc sông hương đến đường bùi_thị_xuân phường đúc
+7,cây cầu mới chiều dài dự_kiến 385 m chiều rộng 405 m

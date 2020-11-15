@@ -1,30 +1,30 @@
 idx, sentence
-0,trong tập 4 vòng tranh_đấu the_xfactor 2016  một trong những tiết_mục gây ấn_tượng của đêm thi là màn trình_diễn của nhóm foe
-1,nhóm đã thể_hiện ca_khúc tự sáng_tác mang tên “ bố_vợ ” mashup với bài hát “ daddy cool ” 
-2,do vết_thương ở chân chưa lành hẳn  yanbi vẫn ngồi xe_lăn biểu_diễn 
-3,anh khiến nhiều người bất_ngờ khi đứng lên thể_hiện điệu nhảy nhún_chân cùng đồng_đội 
-4,tiết_mục khuấy_động không_khí của chương_trình với phần diễn_xuất vui_nhộn và phần rap chất lừ 
-5,nhóm foe may_mắn ngồi ghế nóng 
-6,tuy_nhiên  gần cuối chương_trình  nhóm buộc phải nhường vị_trí cho nhóm dolphins 
-7,dù rời ghế nóng nhưng ban giám_khảo tin rằng foe vẫn có nhiều cơ_hội vào vòng trong nếu màn trình_diễn nhận được nhiều lượt xem và bình_chọn của khán_giả 
-8,nhóm dolphins  nhóm đã thay_thế foe mang đến tập 4 vòng tranh_đấu the_xfactor 2016 phần trình_diễn vô_cùng thu_hút pha chút ma_mị với ca_khúc “ con_ma ” của nhạc_sĩ nguyễn_hải_phong 
-9,giám_khảo tùng_dương rất thích tiết_mục của nhóm dolphins 
-10,anh khen_ngợi nhóm có bản_sắc  làm_chủ sân_khấu và sáng_tạo 
-11,diva thanh_lam đánh_giá cao sự chuyên_nghiệp của nhóm dolphins 
-12,một trong những nhóm nhạc được kì_vọng sẽ “ làm_nên chuyện ” trong mùa giải năm nay còn có nhóm sgirls 
-13,5 thành_viên xinh_đẹp  hát hay và nhảy chuyên_nghiệp đã “ đốt cháy ” khán_phòng với ca_khúc  up to you  
-14,giám_khảo tùng_dương đánh_giá nhóm đã màn trình_diễn tốt hơn rất nhiều so với vòng hội_ngộ 
-15,anh cùng ba giám_khảo khác đều đồng_ý cho các cô gái tài_năng  cá_tính này bước tiếp vào vòng trong 
-16,nhóm bbq gồm 3 cô gái có ngoại_hình mũm_mĩm khoe giọng hát đầy nội_lực với ca_khúc “ wide awake ” 
-17,giám_khảo thanh_lam đánh_giá phần bè của nhóm tốt hơn so với vòng hội_ngộ và các thành_viên đã làm chủ giọng hát 
-18,ca_sĩ tùng_dương cho rằng  bản cover của nhóm bbq mới hơn so với bản_gốc 
-19,anh cùng các giám_khảo đều giành được cơ_hội đi tiếp cho 3 cô gái có giọng hát đầy nội_lực này 
-20,nhóm fire gồm 5 thành_viên đều biết chơi nhạc_cụ đã đem đến một phần biểu_diễn máu_lửa  đầy ăn_ý trong đêm thi với ca_khúc “ radio active ” 
-21,trước thử_thách hát tiếng việt  nhóm không ngần_ngại thể_hiện một đoạn ca_khúc “ vì tôi còn sống ” và “ một nhà ” 
-22,phần thể_hiện của nhóm đã thuyết_phục bộ tứ quyền_lực 
-23,nhóm gband vừa đánh_đàn guitar vừa hát ca_khúc “ việt_nam tôi ” 
-24,nhóm khiến khán_giả chìm_đắm vào giai_điệu sâu_lắng và nhẹ_nhàng qua ca_khúc hát về quê_hương  đất_nước 
-25,các giám_khảo đã bày_tỏ sự thích_thú với ca_khúc và đã cùng hát theo 1 đoạn điệp_khúc của bài hát 
-26,nhóm gồm 5 chàng trai với giọng hát tốt cũng giành một suất ghế 
-27,nhóm cuối_cùng có_mặt trong vòng tiếp_theo của the_xfactor 2016 là the_wings 
-28,3 chàng trai đến từ trường đại_học hàng_hải việt_nam thể_hiện ca_khúc “ nụ_cười việt_nam ” 
+0,trong tập 4 vòng tranh_đấu the_xfactor 2016 một trong tiết_mục gây ấn_tượng đêm thi màn trình_diễn nhóm foe
+1,nhóm thể_hiện ca_khúc tự sáng_tác mang tên “ bố_vợ ” mashup bài hát “ daddy cool ”
+2,vết_thương ở chân lành hẳn yanbi ngồi xe_lăn biểu_diễn
+3,anh khiến người bất_ngờ đứng thể_hiện điệu nhảy nhún_chân đồng_đội
+4,tiết_mục khuấy_động không_khí chương_trình phần diễn_xuất vui_nhộn phần rap chất lừ
+5,nhóm foe may_mắn ngồi ghế nóng
+6,tuy_nhiên gần cuối chương_trình nhóm buộc nhường vị_trí nhóm dolphins
+7,dù rời ghế nóng ban giám_khảo tin foe cơ_hội vòng trong màn trình_diễn nhận lượt xem bình_chọn khán_giả
+8,nhóm dolphins nhóm thay_thế foe mang đến tập 4 vòng tranh_đấu the_xfactor 2016 phần trình_diễn vô_cùng thu_hút pha chút ma_mị ca_khúc “ con_ma ” nhạc_sĩ nguyễn_hải_phong
+9,giám_khảo tùng_dương thích tiết_mục nhóm dolphins
+10,anh khen_ngợi nhóm bản_sắc làm_chủ sân_khấu sáng_tạo
+11,diva thanh_lam đánh_giá cao chuyên_nghiệp nhóm dolphins
+12,một trong nhóm nhạc kì_vọng “ làm_nên ” trong mùa giải năm nay còn nhóm sgirls
+13,5 thành_viên xinh_đẹp hát hay nhảy chuyên_nghiệp “ đốt cháy ” khán_phòng ca_khúc up to you
+14,giám_khảo tùng_dương đánh_giá nhóm màn trình_diễn tốt hơn vòng hội_ngộ
+15,anh ba giám_khảo khác đồng_ý cô gái tài_năng cá_tính bước tiếp vòng trong
+16,nhóm bbq gồm 3 cô gái ngoại_hình mũm_mĩm khoe giọng hát đầy nội_lực ca_khúc “ wide awake ”
+17,giám_khảo thanh_lam đánh_giá phần bè nhóm tốt hơn vòng hội_ngộ thành_viên làm chủ giọng hát
+18,ca_sĩ tùng_dương bản cover nhóm bbq mới hơn bản_gốc
+19,anh giám_khảo giành cơ_hội đi tiếp 3 cô gái giọng hát đầy nội_lực
+20,nhóm fire gồm 5 thành_viên biết chơi nhạc_cụ đem đến một phần biểu_diễn máu_lửa đầy ăn_ý trong đêm thi ca_khúc “ radio active ”
+21,thử_thách hát tiếng việt nhóm ngần_ngại thể_hiện một đoạn ca_khúc “ tôi còn sống ” “ một nhà ”
+22,phần thể_hiện nhóm thuyết_phục bộ tứ quyền_lực
+23,nhóm gband đánh_đàn guitar hát ca_khúc “ việt_nam tôi ”
+24,nhóm khiến khán_giả chìm_đắm giai_điệu sâu_lắng nhẹ_nhàng ca_khúc hát về quê_hương đất_nước
+25,giám_khảo bày_tỏ thích_thú ca_khúc hát 1 đoạn điệp_khúc bài hát
+26,nhóm gồm 5 chàng trai giọng hát tốt giành một suất ghế
+27,nhóm cuối_cùng có_mặt trong vòng tiếp_theo the_xfactor 2016 the_wings
+28,3 chàng trai đến trường đại_học hàng_hải việt_nam thể_hiện ca_khúc “ nụ_cười việt_nam ”

@@ -1,9 +1,9 @@
 idx, sentence
-0,theo công_ty trên  hiện ubnd tp đang kêu_gọi tham_gia đầu_tư dự_án trên theo hình_thức xã_hội_hóa  đoạn từ công_viên phía trước bảo_tàng tôn_đức_thắng đến trước đường hàm_nghi  với diện_tích diện_tích 1708 ha 
-1,trong đó  diện_tích mặt_đất công_viên là 702 ha và diện_tích mặt_nước 1006 ha 
-2,công_ty trên đề_xuất tự bỏ kinh_phí nghiên_cứu lập báo_cáo đề_xuất đầu_tư khu công_viên cảng bạch_đằng thành_công_viên  trung_tâm thương_mại ngầm  bãi đậu xe ngầm  tầng_hầm kỹ_thuật và hệ_thống giao_thông kết_nối ngoại_vi  bến tàu  bến du_lịch … sau khi đầu_tư hoàn_chỉnh hạ_tầng kỹ_thuật  công_ty trên xin được chấp_thuận đầu_tư kinh_doanh một phần trung_tâm thương_mại  bãi đậu xe ngầm 
-3,ngoài_ra công_ty đề_xuất được phép khai_thác một_số kiôt kinh_doanh ẩm_thực trong công_viên 
-4,trong khi đó  theo quy_hoạch khu 930 ha của tphcm  khu công_viên bạch_đằng thuộc phân_khu 3  khu bờ tây sông sài_gòn  là một trong những khu_vực đặc_biệt  được áp_dụng quy_chế xây_dựng phát_triển đặc_biệt 
-5,khu_vực này không có đất tư_nhân  công_trình nơi đây chỉ là nhà hóng_mát hoặc những kết_cấu tương_tự phải tuân_thủ theo quy_định hiện_hành 
-6,về không_gian ngầm  khu_vực này có bãi đậu xe ngầm dưới đường tôn_đức_thắng với quy_mô hai tầng_hầm  300 chỗ đậu xe_hơi và đường_ngầm tôn_đức_thắng với 4 làn xe 
-7,khu_vực công_trường mê_linh cũng có thiết_kế không_gian ngầm  toàn_bộ quy_định về khu công_viên bến bạch_đằng không quy_hoạch không_gian ngầm cho khu_vực bờ sông  phía dưới công_viên hiện_tại 
+0,công_ty hiện ubnd tp kêu_gọi tham_gia đầu_tư dự_án hình_thức xã_hội_hóa đoạn công_viên phía bảo_tàng tôn_đức_thắng đến đường hàm_nghi diện_tích diện_tích 1708 ha
+1,trong diện_tích mặt_đất công_viên 702 ha diện_tích mặt_nước 1006 ha
+2,công_ty đề_xuất tự bỏ kinh_phí nghiên_cứu lập báo_cáo đề_xuất đầu_tư khu công_viên cảng bạch_đằng thành_công_viên trung_tâm thương_mại ngầm bãi đậu xe ngầm tầng_hầm kỹ_thuật hệ_thống giao_thông kết_nối ngoại_vi bến tàu bến du_lịch … đầu_tư hoàn_chỉnh hạ_tầng kỹ_thuật công_ty xin chấp_thuận đầu_tư kinh_doanh một phần trung_tâm thương_mại bãi đậu xe ngầm
+3,ngoài_ra công_ty đề_xuất phép khai_thác một_số kiôt kinh_doanh ẩm_thực trong công_viên
+4,trong quy_hoạch khu 930 ha tphcm khu công_viên bạch_đằng thuộc phân_khu 3 khu bờ tây sông sài_gòn một trong khu_vực đặc_biệt áp_dụng quy_chế xây_dựng phát_triển đặc_biệt
+5,khu_vực đất tư_nhân công_trình nhà hóng_mát hoặc kết_cấu tương_tự tuân_thủ quy_định hiện_hành
+6,về không_gian ngầm khu_vực bãi đậu xe ngầm đường tôn_đức_thắng quy_mô hai tầng_hầm 300 chỗ đậu xe_hơi đường_ngầm tôn_đức_thắng 4 làn xe
+7,khu_vực công_trường mê_linh thiết_kế không_gian ngầm toàn_bộ quy_định về khu công_viên bến bạch_đằng quy_hoạch không_gian ngầm khu_vực bờ sông phía công_viên hiện_tại

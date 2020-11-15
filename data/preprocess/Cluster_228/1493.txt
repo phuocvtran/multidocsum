@@ -1,10 +1,10 @@
 idx, sentence
-0,chiều tối_qua  sau chuyến bay kéo_dài gần 2 giờ đồng_hồ  thầy_trò hlv nguyễn_hữu_thắng đã có_mặt tại myanmar để chuẩn_bị tranh_giải tứ hùng 
-1,theo chia_sẻ từ thành_viên trong đoàn  sức_khỏe các cầu_thủ đều tốt và dự_kiến sẽ có buổi tập đầu_tiên vào chiều nay 2/6 để hồi_phục thể_lực 
-2,tuy_nhiên  riêng tiền_đạo nguyễn_công_phượng chắc_chắn sẽ phải làm khán_giả tại giải đấu lần này 
-3,được biết  chân_sút thuộc biên_chế hagl bị lật cổ_chân sau chiến_thắng 20 của tuyển việt_nam trước syria diễn ra vào chiều 31/5 
-4,theo chẩn_đoán ban_đầu  công_phượng nhiều khả_năng sẽ phải tạm ngưng thi_đấu trong 2 tuần 
-5,nếu như vậy  khả_năng anh ra sân ở giải đấu tứ hùng tại myanmar là rất nhỏ 
-6,đây rõ_ràng là tin_buồn không_chỉ với tuyển việt_nam mà_còn với đội bóng nhật  mito_hollyhock  nơi mà công_phượng đang thi_đấu theo dạng cho mượn 
-7,cần phải biết rằng  công_phương mới chỉ trở_lại tập_luyện bình_thường 
-8,bởi trước đó cầu_thủ này đã phải mất hơn hai tháng để điều_trị dứt_điểm chấn_thương vai dính phải từ đợt tham_dự giải u23 châu_á tại qatar 
+0,chiều tối_qua chuyến bay kéo_dài gần 2 giờ đồng_hồ thầy_trò hlv nguyễn_hữu_thắng có_mặt myanmar chuẩn_bị tranh_giải tứ hùng
+1,chia_sẻ thành_viên trong đoàn sức_khỏe cầu_thủ tốt dự_kiến buổi tập đầu_tiên chiều nay 2/6 hồi_phục thể_lực
+2,tuy_nhiên riêng tiền_đạo nguyễn_công_phượng chắc_chắn làm khán_giả giải đấu lần
+3,biết chân_sút thuộc biên_chế hagl lật cổ_chân chiến_thắng 20 tuyển việt_nam syria diễn chiều 31/5
+4,chẩn_đoán ban_đầu công_phượng khả_năng tạm ngưng thi_đấu trong 2 tuần
+5,khả_năng anh sân ở giải đấu tứ hùng myanmar nhỏ
+6,rõ_ràng tin_buồn không_chỉ tuyển việt_nam mà_còn đội bóng nhật mito_hollyhock công_phượng thi_đấu dạng mượn
+7,biết công_phương mới trở_lại tập_luyện bình_thường
+8,cầu_thủ mất hơn hai tháng điều_trị dứt_điểm chấn_thương vai dính đợt tham_dự giải u23 châu_á qatar

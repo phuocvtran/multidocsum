@@ -1,19 +1,19 @@
 idx, sentence
-0,không chỉ là một diễn_viên tài_năng từng giành giải oscar  angelina_jolie hiện_tại còn là một diễn_giả  một chính_trị_gia 
-1,cô quan_tâm đặc_biệt tới các vấn_đề xã_hội  chính_trị trong vài năm trở_lại đây 
-2,trả_lời phỏng_vấn vào năm_ngoái  nữ diễn_viên nổi_tiếng khẳng_định  ngoài công_việc của một đạo_diễn  cô muốn bước chân vào lĩnh_vực chính_trị 
-3,mới_đây  nữ diễn_viên nổi_tiếng của hollywood đã được chọn là diễn_giả tại trường đại_học kinh_tế london  một trong những trường đại_học danh_tiếng nhất nước anh 
-4,cô tham_gia diễn_thuyết cùng cựu ngoại_trưởng william_hague quanh vấn_đề về phụ_nữ  hòa_bình và sự an_toàn  giúp các sinh_viên đang nghiên_cứu thạc_sĩ có thêm kiến_thức 
-5,angelina jolie_pitt đã là đại_sứ của tổ_chức bảo_vệ người tị_nạn của liên_hiệp_quốc 
-6,cô luôn đấu_tranh và quan_tâm tới việc bảo_vệ quyền_lợi cho những người tị_nạn  và ngăn_chặn việc lạm_dụng tình_dục đói với phụ_nữ 
-7,bà mẹ sáu con cho hay  “ tôi thực_sự rất hạnh_phúc khi được tham_gia chương_trình lần này ” 
-8,nữ diễn_viên xinh_đẹp tham_vọng có_thể động_viên phụ_nữ trên toàn thế_giới quan_tâm tới việc bảo_vệ quyền_lợi của chính mình  chống lại mọi tội_ác hướng vào phụ_nữ và đặc_biệt là ngăn_chặn việc bạo_lực tình_dục 
-9,“ tôi mong được giảng_dạy và lắng_nghe ý_kiến từ các sinh_viên  cũng như chia_sẻ những kinh_nghiệm của bản_thân mình khi cộng_tác với các chính_phủ và tổ_chức liên_hiệp_quốc ”  angelina_jolie nói 
-10,buổi diễn_thuyết kéo_dài 4 tiếng đồng_hồ 
-11,nữ diễn_viên của hollywood trông thật gầy_gò trong chiếc váy trắng thanh_lịch  nhưng phong_thái của cô vẫn rất mạnh_mẽ và cuốn_hút 
-12,angelina jolie vốn là một phụ_nữ vô_cùng cá_tính và có chút “ dị ” 
-13,cô từng bỏ học giữa_chừng để theo_đuổi việc_làm diễn_viên  sau đó  cô tiếp_tục bỏ ngang một khóa học diễn_xuất để bắt_đầu một chương_trình giáo_dục từ xa những kỹ_năng về ướp_xác vì muốn trở_thành một giám_đốc của nhà_tang_lễ 
-14,cô theo học trường cấp ba beverley_hills và moreno ở california 
-15,càng trưởng_thành  angelina càng nổi_loạn  cá_tính  chỉ thích mặc đồ đen và xăm_mình 
-16,cô tốt_nghiệp cấp 3 ở tuổi 16 và bắt_đầu bước chân vào làng giải_trí với tư_cách một diễn_viên 
-17,trong những năm cuối thế_kỷ trước  angelina_jolie theo học ở trường đại_học new_york  chuyên_ngành diễn_xuất và biên kịch trước khi quay lại làm diễn_viên 
+0,một diễn_viên tài_năng giành giải oscar angelina_jolie hiện_tại còn một diễn_giả một chính_trị_gia
+1,cô quan_tâm đặc_biệt tới vấn_đề xã_hội chính_trị trong vài năm trở_lại
+2,trả_lời phỏng_vấn năm_ngoái nữ diễn_viên nổi_tiếng khẳng_định ngoài công_việc một đạo_diễn cô muốn bước chân lĩnh_vực chính_trị
+3,mới_đây nữ diễn_viên nổi_tiếng hollywood chọn diễn_giả trường đại_học kinh_tế london một trong trường đại_học danh_tiếng nhất nước anh
+4,cô tham_gia diễn_thuyết cựu ngoại_trưởng william_hague quanh vấn_đề về phụ_nữ hòa_bình an_toàn giúp sinh_viên nghiên_cứu thạc_sĩ thêm kiến_thức
+5,angelina jolie_pitt đại_sứ tổ_chức bảo_vệ người tị_nạn liên_hiệp_quốc
+6,cô luôn đấu_tranh quan_tâm tới bảo_vệ quyền_lợi người tị_nạn ngăn_chặn lạm_dụng tình_dục đói phụ_nữ
+7,bà mẹ sáu con hay “ tôi thực_sự hạnh_phúc tham_gia chương_trình lần ”
+8,nữ diễn_viên xinh_đẹp tham_vọng động_viên phụ_nữ toàn thế_giới quan_tâm tới bảo_vệ quyền_lợi chính mình chống mọi tội_ác hướng phụ_nữ đặc_biệt ngăn_chặn bạo_lực tình_dục
+9,“ tôi mong giảng_dạy lắng_nghe ý_kiến sinh_viên chia_sẻ kinh_nghiệm bản_thân mình cộng_tác chính_phủ tổ_chức liên_hiệp_quốc ” angelina_jolie nói
+10,buổi diễn_thuyết kéo_dài 4 tiếng đồng_hồ
+11,nữ diễn_viên hollywood trông thật gầy_gò trong váy trắng thanh_lịch phong_thái cô mạnh_mẽ cuốn_hút
+12,angelina jolie vốn một phụ_nữ vô_cùng cá_tính chút “ dị ”
+13,cô bỏ học giữa_chừng theo_đuổi việc_làm diễn_viên cô tiếp_tục bỏ ngang một khóa học diễn_xuất bắt_đầu một chương_trình giáo_dục xa kỹ_năng về ướp_xác muốn trở_thành một giám_đốc nhà_tang_lễ
+14,cô học trường cấp ba beverley_hills moreno ở california
+15,trưởng_thành angelina nổi_loạn cá_tính thích mặc đồ đen xăm_mình
+16,cô tốt_nghiệp cấp 3 ở tuổi 16 bắt_đầu bước chân làng giải_trí tư_cách một diễn_viên
+17,trong năm cuối thế_kỷ angelina_jolie học ở trường đại_học new_york chuyên_ngành diễn_xuất biên kịch quay làm diễn_viên

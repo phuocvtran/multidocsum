@@ -1,11 +1,11 @@
 idx, sentence
-0,khoảng 16 giờ ngày 195  anh phạm_đức_huy  sn 1985  trú tại p khánh_xuân  tp buôn_ma_thuột  tỉnh đắk_lắk  trong lúc hàn thùng_xe ô_tô tải mang bks  47c114  26 không may bị điện giật dẫn đến tử_vong 
-1,theo thông_tin ban_đầu  trước đó khoảng 15 giờ cùng ngày  anh huy đến nhà của ông trần_hữu_trung  sn 1982  tại số nhà 93 giải_phóng  p tân_thành  tp buôn_ma_thuột để bốc lốp xe cũ lên xe tô tô tải 
-2,phát_hiện thùng bị hư nên anh huy kéo điện ra để hàn lại 
-3,trong quá_trình làm_việc  không may anh huy bị điện giật đến tử_vong 
-4,ông trần_hữu_trung cho biết  lúc ông từ nhà bước ra thì phát_hiện anh huy đang nằm bất_tỉnh trên thùng_xe 
-5,toàn_bộ xe bị nhiễm_điện  ông lập_tức hô_hoán mọi người đến giúp_đỡ  đồng_thời ngắt cầu_dao_điện 
-6,ngay sau đó  anh huy được đưa đến bệnh_viện đa_khoa tỉnh đắk_lắk cấp_cứu 
-7,tuy_nhiên  anh huy đã tử_vong trước đó và được bệnh_viện trả về nhà 
-8,theo người_nhà nạn_nhân cho biết  thường_ngày anh huy chở lốp xe cũ cho vợ_chồng ông trung 
-9,hôm_nay được nghỉ buổi sáng huy vào thăm rẫy đến chiều thì gia_đình nhận được tin thanh_niên bị điện giật đang cấp_cứu tại bệnh_viện tỉnh 
+0,khoảng 16 giờ ngày 195 anh phạm_đức_huy sn 1985 trú p khánh_xuân tp buôn_ma_thuột tỉnh đắk_lắk trong hàn thùng_xe ô_tô tải mang bks 47c114 26 may điện giật dẫn đến tử_vong
+1,thông_tin ban_đầu khoảng 15 giờ ngày anh huy đến nhà ông trần_hữu_trung sn 1982 số nhà 93 giải_phóng p tân_thành tp buôn_ma_thuột bốc lốp xe cũ xe tô tô tải
+2,phát_hiện thùng hư anh huy kéo điện hàn
+3,trong quá_trình làm_việc may anh huy điện giật đến tử_vong
+4,ông trần_hữu_trung biết ông nhà bước phát_hiện anh huy nằm bất_tỉnh thùng_xe
+5,toàn_bộ xe nhiễm_điện ông lập_tức hô_hoán mọi người đến giúp_đỡ đồng_thời ngắt cầu_dao_điện
+6,anh huy đưa đến bệnh_viện đa_khoa tỉnh đắk_lắk cấp_cứu
+7,tuy_nhiên anh huy tử_vong bệnh_viện trả về nhà
+8,người_nhà nạn_nhân biết thường_ngày anh huy chở lốp xe cũ vợ_chồng ông trung
+9,hôm_nay nghỉ buổi sáng huy thăm rẫy đến chiều gia_đình nhận tin thanh_niên điện giật cấp_cứu bệnh_viện tỉnh

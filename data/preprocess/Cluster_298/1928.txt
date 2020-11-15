@@ -1,8 +1,8 @@
 idx, sentence
-0,thông_tin trên pravda cho biết  sự_việc hy_hữu xảy ra ngày 2/6 khi chiếc airbus 319 của hãng hàng_không s7_airlines đáp xuống sân_bay domodedov  hoàn_tất chuyến bay từ thành_phố st 
-1,petersburg đến thủ_đô moscow  hạ_cánh tại đường_băng và đang chờ hướng_dẫn vào bãi đỗ 
-2,vào khoảng 13 h50  nhân_viên bộ_phận kiểm_soát không_lưu tại sân_bay đã thông_báo với máy_bay này phải chờ một máy_bay khác cũng từ st 
-3,petersburg đáp xuống 
-4,tuy_nhiên  chỉ trong vòng 2 phút chờ_đợi  bề_mặt của đường_băng phía dưới bánh bất_ngờ bị sụt_lún và khiến máy_bay bị tụt xuống  gầm máy_bay bị kẹt_cứng trong miệng hố 
-5,máy_bay này sau đó đã phải giữ nguyên vị_trí tại đường_băng trong vòng nửa tiếng đồng_hồ 
-6,các nhân_viên sân_bay đã quyết_định sơ_tán toàn_bộ_hành_khách và máy_bay sau đó mới được kéo về bãi đỗ 
+0,thông_tin pravda biết sự_việc hy_hữu xảy ngày 2/6 airbus 319 hãng hàng_không s7_airlines đáp xuống sân_bay domodedov hoàn_tất chuyến bay thành_phố st
+1,petersburg đến thủ_đô moscow hạ_cánh đường_băng chờ hướng_dẫn bãi đỗ
+2,khoảng 13 h50 nhân_viên bộ_phận kiểm_soát không_lưu sân_bay thông_báo máy_bay chờ một máy_bay khác st
+3,petersburg đáp xuống
+4,tuy_nhiên trong vòng 2 phút chờ_đợi bề_mặt đường_băng phía bánh bất_ngờ sụt_lún khiến máy_bay tụt xuống gầm máy_bay kẹt_cứng trong miệng hố
+5,máy_bay giữ nguyên vị_trí đường_băng trong vòng nửa tiếng đồng_hồ
+6,nhân_viên sân_bay quyết_định sơ_tán toàn_bộ_hành_khách máy_bay mới kéo về bãi đỗ

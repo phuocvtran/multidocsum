@@ -1,9 +1,9 @@
 idx, sentence
-0,khoảng 14 h ngày 28/5  nhiều huyện thị của thừa_thiên  huế có giông sét kèm gió mạnh kéo_dài gần một giờ 
-1,nhóm 6 người ở phường an_hòa  tp huế  đang làm_đồng  gặp mưa_giông nên chạy lên bờ kéo bạt trú 
-2, khi cả nhóm đang co_ro thì tia sét bất_ngờ đánh trúng khiến nhiều người bất_tỉnh ”  nạn_nhân hồ_nghĩa  48 tuổi  nhớ lại 
-3,ông nghĩa cùng con_trai hồ_lĩnh  17 tuổi  và ông nguyễn_văn_toán  46 tuổi  phải nhập_viện cấp_cứu 
-4,3 em nhỏ dưới 12 tuổi trú mưa cùng chỉ trầy xước nhẹ  được điều_trị tại nhà 
-5,cùng thời_điểm trên  anh lê_văn_tưởng  42 tuổi  trú xã hương_an  thị_xã hương_trà  đang lái máy_cày và bị sét đánh bất_bỉnh 
-6,các nạn_nhân được đưa vào bệnh_viện trung_ương huế trong tình_trạng chóng_mặt  tức ngực  tê các chi và bị bỏng vùng lưng  độ 12  
-7,bác_sĩ cho biết  riêng anh lê_văn_tưởng nhập_viện trong tình_trạng hôn_mê sâu  toàn_thân tím tái  ngừng tim  ngừng phổi với nhiều vết cháy_sém trên cơ_thể 
+0,khoảng 14 h ngày 28/5 huyện thị thừa_thiên huế giông sét kèm gió mạnh kéo_dài gần một giờ
+1,nhóm 6 người ở phường an_hòa tp huế làm_đồng gặp mưa_giông chạy bờ kéo bạt trú
+2,nhóm co_ro tia sét bất_ngờ đánh trúng khiến người bất_tỉnh ” nạn_nhân hồ_nghĩa 48 tuổi nhớ
+3,ông nghĩa con_trai hồ_lĩnh 17 tuổi ông nguyễn_văn_toán 46 tuổi nhập_viện cấp_cứu
+4,3 em nhỏ 12 tuổi trú mưa trầy xước nhẹ điều_trị nhà
+5,thời_điểm anh lê_văn_tưởng 42 tuổi trú xã hương_an thị_xã hương_trà lái máy_cày sét đánh bất_bỉnh
+6,nạn_nhân đưa bệnh_viện trung_ương huế trong tình_trạng chóng_mặt tức ngực tê chi bỏng vùng lưng độ 12
+7,bác_sĩ biết riêng anh lê_văn_tưởng nhập_viện trong tình_trạng hôn_mê sâu toàn_thân tím tái ngừng tim ngừng phổi vết cháy_sém cơ_thể

@@ -1,3 +1,3 @@
 idx, sentence
-0,theo nafiqa  thời_gian qua xảy ra hiện_tượng cá chết bất_thường tại vùng_biển các tỉnh miền trung 
-1,để đảm_bảo an_toàn cho người tiêu_dùng  nafiqad đề_nghị các tỉnh nói trên lấy mẫu muối từ 3 cơ_sở_tại địa_phương  sản_xuất năm 2016  để kiểm_tra chỉ_tiêu kim_loại nặng_như_chì  asen  cadimi  thuỷ_ngân 
+0,nafiqa thời_gian xảy hiện_tượng cá chết bất_thường vùng_biển tỉnh miền trung
+1,đảm_bảo an_toàn người tiêu_dùng nafiqad đề_nghị tỉnh nói lấy mẫu muối 3 cơ_sở_tại địa_phương sản_xuất năm 2016 kiểm_tra chỉ_tiêu kim_loại nặng_như_chì asen cadimi thuỷ_ngân

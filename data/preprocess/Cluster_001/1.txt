@@ -1,24 +1,24 @@
 idx, sentence
-0,tổng_thư_ký tổ_chức hiệp_ước bắc_đại_tây_dương  nato  jens_stoltenberg ngày 19/5 cho biết  nếu ai cập đề_nghị  liên_minh này sẽ hỗ_trợ công_tác tìm_kiếm chiếc máy_bay mang số_hiệu ms 804 của hãng hàng không ai cập chở 66 người mất_tích trước đó cùng ngày 
-1,“ tôi gửi lời chia_buồn sâu_sắc nhất đến những ai bị ảnh_hưởng bởi vụ_việc này 
-2,tôi cũng gửi lời chia_buồn sâu_sắc đến pháp và ai_cập 
-3,tôi biết rằng đã có những nỗ_lực tìm_kiếm cứu nạn ở mức_độ quốc_gia 
-4,pháp và ai_cập đang phối_hợp trong công_tác này cũng như việc điều_tra 
-5,chúng_tôi sẽ tiếp_tục theo_dõi chặt_chẽ diễn_biến và nếu được đề_nghị  nato luôn sẵn_sàng giúp_đỡ ”  ông jens_stoltenberg nói 
-6,thủ_tướng italy_matteo_renzi ngày 19/5 cũng đã gửi lời chia_buồn  đồng_thời bày_tỏ sự đoàn_kết với ai_cập sau vụ máy_bay của hãng hàng không ai cập mất_tích trên địa_trung_hải khi đang trên đường_bay từ paris đến cairo 
-7,trước đó  hãng hàng_không quốc_gia ai_cập  egyptair  xác_nhận phía hy_lạp đã tìm thấy mảnh vỡ từ chiếc máy_bay này ở phía nam_đảo karpathos  thuộc vùng nam_địa_trung_hải 
-8,hãng đã gửi lời chia_buồn đến gia_đình các hành_khách trên chuyến bay mất_tích như một sự xác_nhận đầu_tiên rằng thân_nhân của họ đã qua_đời 
-9,hãng cũng cam_kết sẽ triển_khai mọi biện_pháp giải_quyết tình_hình hiện_nay cũng như tiến_hành một cuộc điều_tra tổng_thể 
-10,người đứng đầu cơ_quan điều_tra tai_nạn hàng không ai cập_ayman almoqadem ngày 19/5 cho biết  nước này sẽ dẫn_đầu một ủy_ban điều_tra về vụ mất_tích chiếc máy_bay mang số_hiệu ms 804 
-11,ủy_ban này bao_gồm cả nhân_sự phía pháp  nước sản_xuất chiếc airbus 320 này và cũng là nước có số nạn_nhân nhiều thứ hai sau ai_cập 
-12,cơ_quan_chức_năng pháp đã khẳng_định sẽ cử 3 chuyên_gia sang ai cập tham_gia điều_tra vụ tai_nạn máy_bay này 
-13,anh và hy_lạp cũng đã đề_nghị giúp_đỡ tìm_kiếm hộp_đen và những mảnh vỡ của chiếc máy_bay 
-14,hội_đồng an_toàn giao_thông quốc_gia mỹ cho biết  động_cơ của chiếc máy_bay gặp nạn được sản_xuất tại nước này 
-15,theo quy_tắc quốc_tế  nước nơi động_cơ máy_bay được chế_tạo cũng có_thể tham_gia vào cuộc điều_tra khi tai_nạn xảy ra 
-16,hiện mỹ đã cử máy_bay p3_orion hỗ_trợ công_tác tìm_kiếm chiếc máy_bay mất_tích của ai_cập 
-17,lúc này  ứng_viên tổng_thống đảng_cộng_hòa mỹ donald_trump đã lên_tiếng bày_tỏ nghi_ngờ đây là một vụ tấn_công khủng_bố song chính_phủ mỹ cho rằng  vụ tai_nạn máy_bay vẫn đang được điều_tra và còn quá sớm để xác_định nguyên_nhân khiến máy_bay gặp nạn 
-18,thủ_tướng ai cập sherif_ismail thì nhận_định còn quá sớm đề loại_bỏ bất_cứ giả_thuyết nào  kể_cả trường_hợp máy_bay bị khủng_bố 
-19,bộ_trưởng bộ hàng_không dân_dụng ai cập_sherif_phathi cũng cho rằng  khả_năng máy_bay bị khủng_bố cao hơn khả_năng xảy ra lỗi kỹ_thuật dù ông chưa đưa ra bằng_chứng cụ_thể nào 
-20,tổng_thống ai cập_mohamed_morsi đã yêu_cầu bộ hàng_không dân_dụng và quân_đội phối_hợp nhanh_chóng định_vị nơi chiếc máy_bay mang số_hiệu ms 804 rơi và tiến_hành một cuộc điều_tra thấu_đáo 
-21,trong khi đó  ngoại_trưởng canada_stephane_dion ngày 19/5 cho biết trong số những hành_khách đi chuyến bay mang số_hiệu ms 804 của hãng hàng_không quốc_gia ai_cập  egyptair  bị mất_tích cùng ngày có ít_nhất 2 công_dân nước này 
-22,ông cũng cho biết bộ ngoại_giao canada đang phối_hợp với các đối_tác pháp và ai_cập  cũng như các nước liên_quan khác để đánh_giá tình_hình và xem_xét các yêu_cầu hỗ_trợ 
+0,tổng_thư_ký tổ_chức hiệp_ước bắc_đại_tây_dương nato jens_stoltenberg ngày 19/5 biết ai cập đề_nghị liên_minh hỗ_trợ công_tác tìm_kiếm máy_bay mang số_hiệu ms 804 hãng hàng ai cập chở 66 người mất_tích ngày
+1,“ tôi gửi lời chia_buồn sâu_sắc nhất đến ai ảnh_hưởng vụ_việc
+2,tôi gửi lời chia_buồn sâu_sắc đến pháp ai_cập
+3,tôi biết nỗ_lực tìm_kiếm cứu nạn ở mức_độ quốc_gia
+4,pháp ai_cập phối_hợp trong công_tác điều_tra
+5,chúng_tôi tiếp_tục theo_dõi chặt_chẽ diễn_biến đề_nghị nato luôn sẵn_sàng giúp_đỡ ” ông jens_stoltenberg nói
+6,thủ_tướng italy_matteo_renzi ngày 19/5 gửi lời chia_buồn đồng_thời bày_tỏ đoàn_kết ai_cập vụ máy_bay hãng hàng ai cập mất_tích địa_trung_hải đường_bay paris đến cairo
+7,hãng hàng_không quốc_gia ai_cập egyptair xác_nhận phía hy_lạp tìm thấy mảnh vỡ máy_bay ở phía nam_đảo karpathos thuộc vùng nam_địa_trung_hải
+8,hãng gửi lời chia_buồn đến gia_đình hành_khách chuyến bay mất_tích một xác_nhận đầu_tiên thân_nhân họ qua_đời
+9,hãng cam_kết triển_khai mọi biện_pháp giải_quyết tình_hình hiện_nay tiến_hành một cuộc điều_tra tổng_thể
+10,người đứng đầu cơ_quan điều_tra tai_nạn hàng ai cập_ayman almoqadem ngày 19/5 biết nước dẫn_đầu một ủy_ban điều_tra về vụ mất_tích máy_bay mang số_hiệu ms 804
+11,ủy_ban bao_gồm nhân_sự phía pháp nước sản_xuất airbus 320 nước số nạn_nhân thứ hai ai_cập
+12,cơ_quan_chức_năng pháp khẳng_định cử 3 chuyên_gia sang ai cập tham_gia điều_tra vụ tai_nạn máy_bay
+13,anh hy_lạp đề_nghị giúp_đỡ tìm_kiếm hộp_đen mảnh vỡ máy_bay
+14,hội_đồng an_toàn giao_thông quốc_gia mỹ biết động_cơ máy_bay gặp nạn sản_xuất nước
+15,quy_tắc quốc_tế nước động_cơ máy_bay chế_tạo tham_gia cuộc điều_tra tai_nạn xảy
+16,hiện mỹ cử máy_bay p3_orion hỗ_trợ công_tác tìm_kiếm máy_bay mất_tích ai_cập
+17,ứng_viên tổng_thống đảng_cộng_hòa mỹ donald_trump lên_tiếng bày_tỏ nghi_ngờ một vụ tấn_công khủng_bố song chính_phủ mỹ vụ tai_nạn máy_bay điều_tra còn quá sớm xác_định nguyên_nhân khiến máy_bay gặp nạn
+18,thủ_tướng ai cập sherif_ismail nhận_định còn quá sớm đề loại_bỏ bất_cứ giả_thuyết nào kể_cả trường_hợp máy_bay khủng_bố
+19,bộ_trưởng bộ hàng_không dân_dụng ai cập_sherif_phathi khả_năng máy_bay khủng_bố cao hơn khả_năng xảy lỗi kỹ_thuật dù ông đưa bằng_chứng cụ_thể nào
+20,tổng_thống ai cập_mohamed_morsi yêu_cầu bộ hàng_không dân_dụng quân_đội phối_hợp nhanh_chóng định_vị máy_bay mang số_hiệu ms 804 rơi tiến_hành một cuộc điều_tra thấu_đáo
+21,trong ngoại_trưởng canada_stephane_dion ngày 19/5 biết trong số hành_khách đi chuyến bay mang số_hiệu ms 804 hãng hàng_không quốc_gia ai_cập egyptair mất_tích ngày ít_nhất 2 công_dân nước
+22,ông biết bộ ngoại_giao canada phối_hợp đối_tác pháp ai_cập nước liên_quan khác đánh_giá tình_hình xem_xét yêu_cầu hỗ_trợ

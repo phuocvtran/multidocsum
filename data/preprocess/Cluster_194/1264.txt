@@ -1,2 +1,2 @@
 idx, sentence
-0,ngày 315  đại_diện tổng_công_ty truyền_tải_điện quốc_gia  evnnpt  cho biết  vào 19 giờ 41 phút ngày 305  do mưa to và kèm theo sấm_sét đã gây sự_cố đường_dây 500 kv hà_tĩnh – đà_nẵng và vũng_áng – đà_nẵng  gây mất liên_kết hệ_thống điện 
+0,ngày 315 đại_diện tổng_công_ty truyền_tải_điện quốc_gia evnnpt biết 19 giờ 41 phút ngày 305 mưa to kèm sấm_sét gây sự_cố đường_dây 500 kv hà_tĩnh – đà_nẵng vũng_áng – đà_nẵng gây mất liên_kết hệ_thống điện

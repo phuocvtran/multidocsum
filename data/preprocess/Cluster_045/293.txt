@@ -1,9 +1,9 @@
 idx, sentence
-0,quyết_định trên căn_cứ vào kết_quả kiểm_tra  xác_minh những sai_phạm của tàu hồng_long_qn_– 7038 liên_quan đến việc lừa_đảo  “ chặt chém ” đoàn khách du_lịch vào ngày 1552016 
-1,theo phản_ánh của du_khách  ngày 155  tàu du_lịch hồng_long_qn  7038 của doanh_nghiệp tư_nhân huyền_việt chở đoàn khách gồm 5 người_lớn và 3 trẻ_em  trong đó có một gia_đình việt_kiều  tham_quan vịnh hạ_long với giá_cả thỏa_thuận trước 
-2,tuy_nhiên  tàu này kết_thúc chuyến đi sớm trước 2 tiếng đồng_hồ so với hợp_đồng với lý_do  có mưa dông nên bị gọi về 
-3,không_những vậy  đoàn khách này “ tố ” đã bị tàu du_lịch ép_giá  phải thanh_toán bữa ăn với giá gần 8 triệu đồng và cộng thêm 600000 đồng_tiền dịch_vụ  cao hơn nhiều so với giá thỏa_thuận 
-4,nhận được thông_tin trên  ubnd tphạ_long đã chỉ_đạo các đơn_vị chức_năng vào_cuộc kiểm_tra  xác_minh vụ_việc 
-5,kết_quả kiểm_tra bước_đầu xác_định  tàu hồng_long_qn_– 7038 đã có hành_vi_phạm  không niêm_yết_giá hàng_hóa  dịch_vụ trên tàu theo quy_định  không có giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm 
-6,đội tàu hồng_long từ 112016 đến nay đã 3 lần bị xử_lý vi_phạm  đưa khách vào nhà_bè kinh_doanh hải_sản trái_phép trên vịnh hạ_long  để phương_tiện khác bám buộc vào phương_tiện của mình bán hàng_hóa 
-7,riêng tàu hồng_long_qn_– 7038 đã bị công_an tphạ_long xử_phạt 3 lần về lỗi vi_phạm để khách đứng ngồi trên mui khi đang hành_trình 
+0,quyết_định căn_cứ kết_quả kiểm_tra xác_minh sai_phạm tàu hồng_long_qn_– 7038 liên_quan đến lừa_đảo “ chặt chém ” đoàn khách du_lịch ngày 1552016
+1,phản_ánh du_khách ngày 155 tàu du_lịch hồng_long_qn 7038 doanh_nghiệp tư_nhân huyền_việt chở đoàn khách gồm 5 người_lớn 3 trẻ_em trong một gia_đình việt_kiều tham_quan vịnh hạ_long giá_cả thỏa_thuận
+2,tuy_nhiên tàu kết_thúc chuyến đi sớm 2 tiếng đồng_hồ hợp_đồng lý_do mưa dông gọi về
+3,không_những đoàn khách “ tố ” tàu du_lịch ép_giá thanh_toán bữa ăn giá gần 8 triệu đồng cộng thêm 600000 đồng_tiền dịch_vụ cao hơn giá thỏa_thuận
+4,nhận thông_tin ubnd tphạ_long chỉ_đạo đơn_vị chức_năng vào_cuộc kiểm_tra xác_minh vụ_việc
+5,kết_quả kiểm_tra bước_đầu xác_định tàu hồng_long_qn_– 7038 hành_vi_phạm niêm_yết_giá hàng_hóa dịch_vụ tàu quy_định giấy chứng_nhận đạt tiêu_chuẩn vệ_sinh an_toàn thực_phẩm
+6,đội tàu hồng_long 112016 đến nay 3 lần xử_lý vi_phạm đưa khách nhà_bè kinh_doanh hải_sản trái_phép vịnh hạ_long phương_tiện khác bám buộc phương_tiện mình bán hàng_hóa
+7,riêng tàu hồng_long_qn_– 7038 công_an tphạ_long xử_phạt 3 lần về lỗi vi_phạm khách đứng ngồi mui hành_trình

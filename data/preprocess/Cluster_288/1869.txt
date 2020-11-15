@@ -1,7 +1,7 @@
 idx, sentence
-0,lúc 11 h ngày 3/6  chiếc xe container mang bks  51c259  65 do tài_xế nam khoảng 35 tuổi điều_khiển trên đường huỳnh_tấn_phát chở theo cuộn sắt nặng hàng chục tấn chạy hướng từ q 7 đi hnhà_bè  tphcm
-1,khi vừa_qua giao_lộ gò_ô_môi khoảng 200 m ptân_phú  q 7  phát_hiện một chiếc xe_máy đang băng cắt mặt qua đường  tài_xế xe container cho xe thắng gấp 
-2,vì phanh gấp  cuộn sắt trên container đổ_dồn về phía trước làm đứt dây_chằng rồi lăn nát đầu cabin  rơi xuống chắn giữa đường 
-3,tài_xế may_mắn không bị_thương  bung cửa thoát ra ngoài 
-4,tại hiện_trường  chiếc xe container và cuộn thép nằm án_ngữ 1/2 phần đường khiến giao_thông gặp nhiều khó_khăn  ùn ứ kéo_dài 
-5,lực_lượng chức_năng q 7 và xe cẩu chuyên_dụng nhanh_chóng có_mặt  điều_tiết giao_thông tại đây  điều_tra nguyên_nhân vụ_việc 
+0,11 h ngày 3/6 xe container mang bks 51c259 65 tài_xế nam khoảng 35 tuổi điều_khiển đường huỳnh_tấn_phát chở cuộn sắt nặng hàng chục tấn chạy hướng q 7 đi hnhà_bè tphcm
+1,vừa_qua giao_lộ gò_ô_môi khoảng 200 m ptân_phú q 7 phát_hiện một xe_máy băng cắt mặt đường tài_xế xe container xe thắng gấp
+2,phanh gấp cuộn sắt container đổ_dồn về phía làm đứt dây_chằng lăn nát đầu cabin rơi xuống chắn giữa đường
+3,tài_xế may_mắn bị_thương bung cửa thoát ngoài
+4,hiện_trường xe container cuộn thép nằm án_ngữ 1/2 phần đường khiến giao_thông gặp khó_khăn ùn ứ kéo_dài
+5,lực_lượng chức_năng q 7 xe cẩu chuyên_dụng nhanh_chóng có_mặt điều_tiết giao_thông điều_tra nguyên_nhân vụ_việc

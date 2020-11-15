@@ -1,8 +1,8 @@
 idx, sentence
-0,tin_tức pháp_luật sáng ngày 3/6  thông_tin từ cơ_quan điều_tra công_an tp_vinh  nghệ_an  cho biết  đang khẩn_trương truy_tìm nghi phạm gây nên vụ án_mạng nghiêm_trọng trên địa_bàn 
-1,vụ_việc xảy ra vào_khoảng 13 h30 ngày 2/6  anh võ_đình_toàn  sn 1988  trú tại phường quang_trung  tp vinh  đến ăn_giỗ tại một gia_đình người quen tại đường đặng_văn_thụy  phường cửa_nam  tp vinh 
-2,lúc này  giữa anh toàn và một nam thanh_niên  chưa rõ danh_tính  xảy ra cãi_vã 
-3,trong lúc mâu_thuẫn lên đỉnh_điểm  thanh_niên này đã dùng dao chém trọng_thương anh toàn và một người phụ_nữ tên h gây_án xong  đối_tượng bỏ trốn khỏi hiện_trường 
-4,do vết_thương quá nặng nên anh toàn đã tử_vong vào 21 h30 cùng ngày 
-5,gia_đình nạn_nhân đã có_mặt và đưa thi_thể về an_táng theo các phong_tục địa_phương 
-6,trong đêm 2/6  phòng giám_định pháp_y công_an tỉnh nghệ_an vẫn có_mặt tại hiện_trường tiến_hành khám_nghiệm tử_thi điều_tra làm rõ nguyên_nhân vụ_việc 
+0,tin_tức pháp_luật sáng ngày 3/6 thông_tin cơ_quan điều_tra công_an tp_vinh nghệ_an biết khẩn_trương truy_tìm nghi phạm gây vụ án_mạng nghiêm_trọng địa_bàn
+1,vụ_việc xảy vào_khoảng 13 h30 ngày 2/6 anh võ_đình_toàn sn 1988 trú phường quang_trung tp vinh đến ăn_giỗ một gia_đình người quen đường đặng_văn_thụy phường cửa_nam tp vinh
+2,giữa anh toàn một nam thanh_niên rõ danh_tính xảy cãi_vã
+3,trong mâu_thuẫn đỉnh_điểm thanh_niên dùng dao chém trọng_thương anh toàn một người phụ_nữ tên h gây_án xong đối_tượng bỏ trốn khỏi hiện_trường
+4,vết_thương quá nặng anh toàn tử_vong 21 h30 ngày
+5,gia_đình nạn_nhân có_mặt đưa thi_thể về an_táng phong_tục địa_phương
+6,trong đêm 2/6 phòng giám_định pháp_y công_an tỉnh nghệ_an có_mặt hiện_trường tiến_hành khám_nghiệm tử_thi điều_tra làm rõ nguyên_nhân vụ_việc

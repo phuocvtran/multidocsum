@@ -1,7 +1,7 @@
 idx, sentence
-0,chiều 36  ông lê_thy_hà  trưởng đại_diện cảng_hàng_không miền nam tại cảng_hàng_không buôn_ma_thuột cho biết lực_lượng chức_năng đã khắc_phục xong sự_cố bong tróc trên đường_băng và đảm_bảo an_toàn kỹ_thuật cho hoạt_động bay trở_lại bình_thường 
-1,khoảng 15 giờ cùng ngày  cảng_hàng_không buôn_ma_thuột đã tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn sau sự_cố xảy ra 
-2,cũng theo ông hà  vị_trí hư_hỏng được xác đinh tại lý trình h0  580 m  cách ngưỡng đường chc đầu 27 là 580 m  cách tim đường chc về phía bắc 4 m  
-3,mặt đường băng bị hư_hỏng rộng 40 x 40 cm 
-4,để đảm_bảo đúng kỹ_thuật mặt đường_băng đã được đào rộng 2 m x 25 m x 01 m để tiến_hành sửa_chữa  đảm_bảo an_toàn cho công_tác khắc_phục sự_cố 
-5,trước đó  như báo người lao_động đã phản_ánh  khoảng 6 giờ sáng 36  sân_bay buôn_ma_thuột phát_hiện một vạch bong tróc trên đường_băng nên đã cho dừng mọi chuyến bay đến và đi để tiến_hành khảo_sát  đánh_giá và sửa_chữa 
+0,chiều 36 ông lê_thy_hà trưởng đại_diện cảng_hàng_không miền nam cảng_hàng_không buôn_ma_thuột biết lực_lượng chức_năng khắc_phục xong sự_cố bong tróc đường_băng đảm_bảo an_toàn kỹ_thuật hoạt_động bay trở_lại bình_thường
+1,khoảng 15 giờ ngày cảng_hàng_không buôn_ma_thuột tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn sự_cố xảy
+2,ông hà vị_trí hư_hỏng xác đinh lý trình h0 580 m cách ngưỡng đường chc đầu 27 580 m cách tim đường chc về phía bắc 4 m
+3,mặt đường băng hư_hỏng rộng 40 x 40 cm
+4,đảm_bảo đúng kỹ_thuật mặt đường_băng đào rộng 2 m x 25 m x 01 m tiến_hành sửa_chữa đảm_bảo an_toàn công_tác khắc_phục sự_cố
+5,báo người lao_động phản_ánh khoảng 6 giờ sáng 36 sân_bay buôn_ma_thuột phát_hiện một vạch bong tróc đường_băng dừng mọi chuyến bay đến đi tiến_hành khảo_sát đánh_giá sửa_chữa

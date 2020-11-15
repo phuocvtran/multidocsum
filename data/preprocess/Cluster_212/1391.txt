@@ -1,20 +1,20 @@
 idx, sentence
-0,cần thêm thời_gian thông_tin trên báo dân việt  ông nguyễn_phú_cường  vụ_trưởng vụ khoa_học công_nghệ  bộ công_thương   đơn_vị trực_tiếp thực_hiện chỉ_đạo của chính_phủ về việc thay_thế xăng ron_a92 bằng xăng e5  cho biết  việc thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 từ ngày 16 tới là không khả_thi vì còn phụ_thuộc vào thói_quen sử_dụng của người_dân 
-1,tuy_nhiên  bộ công_thương đã chỉ_đạo các điểm kinh_doanh xăng_dầu tại 8 tỉnh  thành_phố bắt_buộc phải bán xăng e5 và hạn_chế dần xăng ron_a92 
-2,bộ công_thương cho biết  theo đúng chỉ_thị 19 của chính_phủ  8 tỉnh  thành_phố  hà_nội  tp hcm  hải_phòng  đà_nẵng  cần_thơ  bà_rịa  vũng_tàu  quảng_ngãi  quảng_nam  phấn_đấu đến ngày 1/6/2016 đạt 100  số_lượng cửa_hàng bán_lẻ xăng_dầu tại địa_phương bán xăng e5 và 100  lượng xăng ron_a92 được thay_thế bằng xăng e5 
-3,đối_với các tỉnh  thành_phố trực_thuộc trung_ương khác  đến ngày 1/6/2016 đạt tối_thiểu 50  số_lượng cửa_hàng bán_lẻ xăng_dầu tại địa_phương bán xăng e5 và 50  lượng xăng ron_a92 được thay_thế bằng xăng e5 
-4,“ vì chỉ_thị là “ phấn_đấu ” nên từ 1/6 chúng_ta chưa thể loại_bỏ hoàn_toàn xăng ron_a92  mà cần có thời_gian để doanh_nghiệp và người dân dần thay_thế xăng ron_a92_thành e5 ”  một lãnh_đạo bộ công_thương nói 
-5,cả doanh_nghiệp và người tiêu_dùng đều chưa mặn_mà với xăng e5 tin_tức trên vtv  tới cuối năm 2015  trên địa_bàn hà_nội chỉ có khoảng 17  cửa_hàng bán xăng e5 
-6,trong khi đó  theo báo_cáo của sở công_thương tphcm  cuối tháng 4/2015  chỉ có gần 50  cửa_hàng xăng dầu trong thành_phố bán xăng sinh_học e5 
-7,sản_lượng tiêu_thụ bình_quân chỉ chiếm 63  tổng_sản_lượng tiêu_thụ xăng dầu ở tphcm
-8,xăng e5 vẫn còn xa_lạ với người tiêu_dùng dù thời_hạn ngày 1/6 đã cận_kề  thậm_chí nhiều khách_hàng còn không quan_tâm loại xăng này 
-9,điều đó đặt ra thách_thức lớn với việc thực_hiện lộ_trình thay_thế xăng a92 bằng xăng e5 của chính_phủ 
-10,nói về nguyên_nhân dẫn đến hiện_tượng này  ông ngô_chí_long_– nguyên viện_trưởng viện quản_lý giá  bộ tài_chính cho biết  “ sau 5 năm thực_hiện dự_án sử_dụng xăng e5  cho đến nay  các doanh_nghiệp xăng dầu cũng như người tiêu_dùng đều chưa mặn_mà với loại xăng này 
-11,lý_do là bởi giá_cả của xăng e5 chưa thực_sự hấp_dẫn người tiêu_dùng 
-12,giá 1 lít xăng e5 so với xăng khoáng a92 chỉ rẻ hơn 500 đồng / lít 
-13,nguyên_nhân thứ hai là người dân vẫn chưa hiểu rõ chất_lượng của xăng e5 trong quá_trình sử_dụng máy_móc  
-14, còn đối_với các doanh_nghiệp xăng_dầu  lý_do họ không mặn_mà với xăng e5 là bởi kinh_doanh loại xăng này khác với xăng khoáng  chi_phí về hạ_tầng_cơ_sở  đường bơm  cột cây_xăng bị đội lên lớn 
-15,chi_phí tăng làm lợi_nhuận giảm  trong khi mục_tiêu của doanh_nghiệp là lợi_nhuận  kinh_doanh không có lợi_nhuận thì người ra không mặn_mà ”  ông ngô_chí_long phân_tích 
-16,không chỉ đối_mặt với sự thời ơ của doanh_nghiệp và người tiêu_dùng  vấn_đề sản_xuất và tiêu_thụ xăng e5 còn gặp khó_khăn về nguồn nguyên_liệu 
-17,hiện_tại  hầu_hết các nhà_máy nguyên_liệu sinh_học để cung_cấp đầu_vào ethanol cho pha_trộn xăng e5 đều đã lâm vào tình_cảnh phá_sản hoặc ngưng hoạt_động do thua_lỗ kéo_dài 
-18,tình_trạng này xảy ra bởi các nhà_máy này không tìm được tiêu_thụ 
+0,thêm thời_gian thông_tin báo dân việt ông nguyễn_phú_cường vụ_trưởng vụ khoa_học công_nghệ bộ công_thương đơn_vị trực_tiếp thực_hiện chỉ_đạo chính_phủ về thay_thế xăng ron_a92 bằng xăng e5 biết thay_thế hoàn_toàn xăng ron_a92 bằng xăng e5 ngày 16 tới khả_thi còn phụ_thuộc thói_quen sử_dụng người_dân
+1,tuy_nhiên bộ công_thương chỉ_đạo điểm kinh_doanh xăng_dầu 8 tỉnh thành_phố bắt_buộc bán xăng e5 hạn_chế dần xăng ron_a92
+2,bộ công_thương biết đúng chỉ_thị 19 chính_phủ 8 tỉnh thành_phố hà_nội tp hcm hải_phòng đà_nẵng cần_thơ bà_rịa vũng_tàu quảng_ngãi quảng_nam phấn_đấu đến ngày 1/6/2016 đạt 100 số_lượng cửa_hàng bán_lẻ xăng_dầu địa_phương bán xăng e5 100 lượng xăng ron_a92 thay_thế bằng xăng e5
+3,đối_với tỉnh thành_phố trực_thuộc trung_ương khác đến ngày 1/6/2016 đạt tối_thiểu 50 số_lượng cửa_hàng bán_lẻ xăng_dầu địa_phương bán xăng e5 50 lượng xăng ron_a92 thay_thế bằng xăng e5
+4,“ chỉ_thị “ phấn_đấu ” 1/6 chúng_ta thể loại_bỏ hoàn_toàn xăng ron_a92 thời_gian doanh_nghiệp người dân dần thay_thế xăng ron_a92_thành e5 ” một lãnh_đạo bộ công_thương nói
+5,doanh_nghiệp người tiêu_dùng mặn_mà xăng e5 tin_tức vtv tới cuối năm 2015 địa_bàn hà_nội khoảng 17 cửa_hàng bán xăng e5
+6,trong báo_cáo sở công_thương tphcm cuối tháng 4/2015 gần 50 cửa_hàng xăng dầu trong thành_phố bán xăng sinh_học e5
+7,sản_lượng tiêu_thụ bình_quân chiếm 63 tổng_sản_lượng tiêu_thụ xăng dầu ở tphcm
+8,xăng e5 còn xa_lạ người tiêu_dùng dù thời_hạn ngày 1/6 cận_kề thậm_chí khách_hàng còn quan_tâm loại xăng
+9,đặt thách_thức lớn thực_hiện lộ_trình thay_thế xăng a92 bằng xăng e5 chính_phủ
+10,nói về nguyên_nhân dẫn đến hiện_tượng ông ngô_chí_long_– nguyên viện_trưởng viện quản_lý giá bộ tài_chính biết “ 5 năm thực_hiện dự_án sử_dụng xăng e5 đến nay doanh_nghiệp xăng dầu người tiêu_dùng mặn_mà loại xăng
+11,lý_do giá_cả xăng e5 thực_sự hấp_dẫn người tiêu_dùng
+12,giá 1 lít xăng e5 xăng khoáng a92 rẻ hơn 500 đồng / lít
+13,nguyên_nhân thứ hai người dân hiểu rõ chất_lượng xăng e5 trong quá_trình sử_dụng máy_móc
+14,còn đối_với doanh_nghiệp xăng_dầu lý_do họ mặn_mà xăng e5 kinh_doanh loại xăng khác xăng khoáng chi_phí về hạ_tầng_cơ_sở đường bơm cột cây_xăng đội lớn
+15,chi_phí tăng làm lợi_nhuận giảm trong mục_tiêu doanh_nghiệp lợi_nhuận kinh_doanh lợi_nhuận người mặn_mà ” ông ngô_chí_long phân_tích
+16,đối_mặt thời ơ doanh_nghiệp người tiêu_dùng vấn_đề sản_xuất tiêu_thụ xăng e5 còn gặp khó_khăn về nguồn nguyên_liệu
+17,hiện_tại hầu_hết nhà_máy nguyên_liệu sinh_học cung_cấp đầu_vào ethanol pha_trộn xăng e5 lâm tình_cảnh phá_sản hoặc ngưng hoạt_động thua_lỗ kéo_dài
+18,tình_trạng xảy nhà_máy tìm tiêu_thụ

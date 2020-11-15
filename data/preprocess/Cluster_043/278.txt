@@ -1,9 +1,9 @@
 idx, sentence
-0,cục cảnh_sát truy_nã tội_phạm  bộ công_an  phối_hợp với công_an tp hcm vừa bắt_giữ kwon_yonggil – nghi phạm nằm trong đường_dây tổ_chức đánh_bạc có lệnh truy_nã quốc_tế 
-1,theo thông_tin ban_đầu  năm 2013  kwon_yonggil  quốc_tịch hàn_quốc  và nhóm đồng_phạm mở một trang_web cá_độ bóng_đá tại philippines 
-2,nghi_phạm 34 tuổi chịu trách_nhiệm quản_lý tiền_bạc của mạng_lưới đánh_bạc trực_tuyến khép_kín 
-3,cuối năm 2015  kwon_yonggil cùng hai người khác núp_bóng khách du_lịch trốn sang việt_nam 
-4,tháng 11 năm đó  họ thuê nhà để tiếp_tục điều_hành_trang web cá_độ 
-5,với nhiều thủ_đoạn móc_túi người chơi  nhóm này đã thu lợi bất_chính hơn 16 tỷ won 
-6,mới_đây  cảnh_sát hàn_quốc đã có công_văn đề_nghị bộ công_an truy nghi phạm mang lệnh truy_nã quốc_tế 
-7,sau một tháng rà_soát  trưa 17/5  lực_lượng chức_năng phát_hiện kwon_yonggil xuất_hiện tại khu chung_cư cao_cấp tại quận 7  tp hcm 
+0,cục cảnh_sát truy_nã tội_phạm bộ công_an phối_hợp công_an tp hcm bắt_giữ kwon_yonggil – nghi phạm nằm trong đường_dây tổ_chức đánh_bạc lệnh truy_nã quốc_tế
+1,thông_tin ban_đầu năm 2013 kwon_yonggil quốc_tịch hàn_quốc nhóm đồng_phạm mở một trang_web cá_độ bóng_đá philippines
+2,nghi_phạm 34 tuổi chịu trách_nhiệm quản_lý tiền_bạc mạng_lưới đánh_bạc trực_tuyến khép_kín
+3,cuối năm 2015 kwon_yonggil hai người khác núp_bóng khách du_lịch trốn sang việt_nam
+4,tháng 11 năm họ thuê nhà tiếp_tục điều_hành_trang web cá_độ
+5,thủ_đoạn móc_túi người chơi nhóm thu lợi bất_chính hơn 16 tỷ won
+6,mới_đây cảnh_sát hàn_quốc công_văn đề_nghị bộ công_an truy nghi phạm mang lệnh truy_nã quốc_tế
+7,một tháng rà_soát trưa 17/5 lực_lượng chức_năng phát_hiện kwon_yonggil xuất_hiện khu chung_cư cao_cấp quận 7 tp hcm

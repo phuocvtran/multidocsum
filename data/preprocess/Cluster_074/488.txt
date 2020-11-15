@@ -1,5 +1,5 @@
 idx, sentence
-0,doanh_nhân này cho biết ông muốn các con của mình tự gây_dựng cơ_nghiệp bằng chính khả_năng bản_thân 
-1,trong một buổi gặp_mặt với khán_giả của clb forbes  ông trả_lời “ tôi không thích khoa_trương  nhưng tôi có_thể khẳng_định sẽ dành hết tiền của mình cho quỹ từ_thiện 
-2,tôi sẽ không để lại cho các con mình ” 
-3,bên_cạnh đó  ông fridman cũng không muốn các con tham_gia vào công_việc làm_ăn của ông tại tập_đoàn alfa – bao_gồm ngân_hàng thương_mại tư_nhân alfa  tập_đoàn bán_lẻ x5 sở_hữu_chuỗi hệ_thống siêu_thị tại nga  kênh_truyền_hình a1_tv và quỹ đầu_tư letterone 
+0,doanh_nhân biết ông muốn con mình tự gây_dựng cơ_nghiệp bằng chính khả_năng bản_thân
+1,trong một buổi gặp_mặt khán_giả clb forbes ông trả_lời “ tôi thích khoa_trương tôi khẳng_định dành hết tiền mình quỹ từ_thiện
+2,tôi con mình ”
+3,bên_cạnh ông fridman muốn con tham_gia công_việc làm_ăn ông tập_đoàn alfa – bao_gồm ngân_hàng thương_mại tư_nhân alfa tập_đoàn bán_lẻ x5 sở_hữu_chuỗi hệ_thống siêu_thị nga kênh_truyền_hình a1_tv quỹ đầu_tư letterone

@@ -1,9 +1,9 @@
 idx, sentence
-0,“ mối đe_dọa mà donald_trump gieo_rắc ảnh_hưởng đến đất_nước  nền dân_chủ và nền kinh_tế của chúng_ta ”  cựu ngoại_trưởng mỹ clinton trả_lời phỏng_vấn đài cnn 
-1,“ tôi biết đây là một công_việc khó_khăn  và tôi biết chúng_ta cần phải ổn_định  sức_mạnh và trí thông_minh 
-2,và tôi có_thể kết_luận rằng ông trump không đủ tư_cách làm tổng_thống mỹ ”  bà clinton nói 
-3,để minh_chứng cho kết_luận này  bà nêu ra hàng_loạt ví_dụ như ông trump gần đây chỉ_trích các quan_chức anh  trong khi london là đồng_minh của washington   tuyên_bố sẵn_sàng gặp lãnh_đạo triều_tiên kim_jongun  đánh_giá nato là “ lạc_hậu ” và hoan_nghênh thêm nhiều quốc_gia như nhật_bản và hàn_quốc sở_hữu vũ_khí hạt_nhân  cấm người hồi_giáo vào mỹ … 
-4,“ bất_kỳ ứng_viên nào chạy_đua chức tổng_thống mỹ  cả thế_giới sẽ lắng_nghe và theo_dõi họ ”  bà clinton nói  đồng_thời gọi những quan_điểm  phát_ngôn của ông trump là “ nguy_hiểm ” 
-5,đây là những lời chỉ_trích mạnh_mẽ nhất của bà clinton đưa ra đối_với đối_thủ trump 
-6,trước đó  vào ngày 35  bà clinton từng từ_chối trả_lời khi đài_msnbc đặt câu hỏi liệu ông trump_đủ tư_cách làm tổng_thống mỹ 
-7,về nội_bộ đảng dân_chủ  bà clinton tuyên_bố sẽ giành thắng_lợi trước đối_thủ là thượng_nghị_sĩ bernie_sanders để trở_thành ứng_viên chính_thức đại_diện cho đảng dân_chủ trong cuộc tổng_tuyển_cử tháng 112016 
+0,“ mối đe_dọa donald_trump gieo_rắc ảnh_hưởng đến đất_nước nền dân_chủ nền kinh_tế chúng_ta ” cựu ngoại_trưởng mỹ clinton trả_lời phỏng_vấn đài cnn
+1,“ tôi biết một công_việc khó_khăn tôi biết chúng_ta ổn_định sức_mạnh trí thông_minh
+2,tôi kết_luận ông trump đủ tư_cách làm tổng_thống mỹ ” bà clinton nói
+3,minh_chứng kết_luận bà nêu hàng_loạt ví_dụ ông trump gần chỉ_trích quan_chức anh trong london đồng_minh washington tuyên_bố sẵn_sàng gặp lãnh_đạo triều_tiên kim_jongun đánh_giá nato “ lạc_hậu ” hoan_nghênh thêm quốc_gia nhật_bản hàn_quốc sở_hữu vũ_khí hạt_nhân cấm người hồi_giáo mỹ …
+4,“ bất_kỳ ứng_viên nào chạy_đua chức tổng_thống mỹ thế_giới lắng_nghe theo_dõi họ ” bà clinton nói đồng_thời gọi quan_điểm phát_ngôn ông trump “ nguy_hiểm ”
+5,lời chỉ_trích mạnh_mẽ nhất bà clinton đưa đối_với đối_thủ trump
+6,ngày 35 bà clinton từ_chối trả_lời đài_msnbc đặt câu hỏi liệu ông trump_đủ tư_cách làm tổng_thống mỹ
+7,về nội_bộ đảng dân_chủ bà clinton tuyên_bố giành thắng_lợi đối_thủ thượng_nghị_sĩ bernie_sanders trở_thành ứng_viên chính_thức đại_diện đảng dân_chủ trong cuộc tổng_tuyển_cử tháng 112016

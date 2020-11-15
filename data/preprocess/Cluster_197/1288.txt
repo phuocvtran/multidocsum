@@ -1,28 +1,28 @@
 idx, sentence
-0,từ mối quan_hệ bất_chính … sáng nay  tand tỉnh quảng_trị mở phiên xét_xử hình_sự đối_với trần_đình_thịnh  sn 1987  trú thôn mộc_đức  xã cam_hiếu  cam_lộ  quảng_trị  về tội “ giết_người ” 
-1,phiên tòa được xét_xử lưu_động tại khuôn_viên trường thcs gio_việt  thôn xuân_ngọc  xã gio_việt  huyện gio_linh  quảng_trị  
-2,theo điều_tra  trần_đình_thịnh và chị quách_thị_thơm  sn 1985  quê xã nga trường  huyện nga_sơn  thanh_hóa  có với nhau 2 con_trai 
-3,vì cuộc_sống gia_đình khó_khăn  đầu năm 2015  thịnh cùng một_số người dân trong làng sang trung_quốc làm_ăn 
-4,cùng thời_gian này  ông trần_văn_lai  sn 1976  trú thôn tân_xuân  xã gio_việt  thường_xuyên đến bán cá tại địa_phương nơi gia_đình thịnh sinh_sống 
-5,mặc_dù đã có vợ và 3 con nhưng sau nhiều lần gặp_gỡ  giữa ông lai và và chị thơm nảy_sinh quan_hệ tình_cảm 
-6,mối quan_hệ bất_chính  ngoài luồng này bị nhiều người dân trong vùng phát_hiện  bàn_tán xôn_xao 
-7,những thông_tin về việc vợ ngoại_tình cũng được người_thân báo cho thịnh 
-8,ngày 23/7/2015  thịnh bỏ việc về quê gặp vợ để làm rõ sự_tình 
-9,sau khi nghe những lời “ tự_thú ” của vợ  giữa thịnh và chị thơm xảy ra mâu_thuẫn  thịnh nhiều lần đánh vợ nên chị thơm bỏ về quê thanh_hóa 
-10,một thời_gian sau  ân_hận về những lỗi_lầm mình gây ra  chị thơm gọi điện xin thịnh tha_thứ để về đoàn_tụ với gia_đình  nuôi dạy hai con nhỏ 
-11,nghĩ đến con_thơ  thịnh đồng_ý nối lại tình_cảm với vợ  quyết_định cùng vợ và đứa con út vào bình_dương lập_nghiệp  cách_ly vợ ra khỏi mối quan_hệ ngoài luồng 
-12,tuy_nhiên  cũng tại thời_điểm này  chị thơm phát_hiện mình có thai với ông lai nên cùng người_thân bắt xe vào bình_dương để “ giải_quyết ” cái thai 
-13,sau đó chị thơm ra quảng_trị gặp thịnh để cùng vào bình_dương làm_ăn  sinh_sống 
-14,đến bi_kịch của gã chồng bị “ cắm_sừng ” 
-15,tại bình_dương  khi biết tin chị thơm từng có thai với ông lai và đã phá_thai  thịnh trở_nên tức_giận và suy_sụp 
-16,ngày 19/8/2015  sau khi uống bia về lại phòng trọ  thịnh bất_ngờ phát_hiện chị thơm nhắn_tin cho ông lai với nội_dung “ nếu anh thịnh bỏ em  anh có đi với em không  ”  với bao_nhiêu uất_hận dồn_nén trong người  thịnh đã dùng dao_gọt hoa_quả ra_tay sát_hại vợ 
-17,gây_án xong  thịnh bỏ trốn về quảng_trị 
-18,chưa thỏa cơn tức_giận  thịnh chuẩn_bị một con dao và tìm đến nhà tình_địch là ông lai ở thôn tân_xuân 
-19,khoảng 20 h30 ’ ngày 2082015  thịnh đi thẳng vào nhà ông lai rồi vung dao chém ông lai khi nạn_nhân đang ngủ cùng vợ trên giường 
-20,vết chém quá sâu ở cổ khiến ông lai tử_vong ngay sau đó 
-21,gây_án xong  thịnh bỏ lại xe_máy ở nhà nạn_nhân rồi bỏ trốn 
-22,công_an tỉnh quảng_trị bắt được thịnh vào rạng sáng hôm sau ở khu_vực nghĩa_trang thôn tân_xuân  gần hiện_trường vụ_án 
-23,trước đó  thịnh có liên_lạc về gia_đình bày_tỏ ý_định đầu_thú 
-24,tại phiên_tòa  trần_đình_thịnh cho rằng hành_động ra_tay giết vợ là do tinh_thần bị kích_động khi đọc được tin nhắn chị thơm gửi cho người_tình 
-25,“ sau khi sát_hại vợ  bị_cáo định ra quảng_trị để đánh dằn_mặt ông lai 
-26,tuy_nhiên  khi nhìn thấy nạn_nhân đang ngủ  bao uất_hận dồn_nén  bị_cáo đã vung dao chém vào cổ khiến nạn_nhân_tử_vong … ”  thịnh khai tại tòa 
+0,mối quan_hệ bất_chính … sáng nay tand tỉnh quảng_trị mở phiên xét_xử hình_sự đối_với trần_đình_thịnh sn 1987 trú thôn mộc_đức xã cam_hiếu cam_lộ quảng_trị về tội “ giết_người ”
+1,phiên tòa xét_xử lưu_động khuôn_viên trường thcs gio_việt thôn xuân_ngọc xã gio_việt huyện gio_linh quảng_trị
+2,điều_tra trần_đình_thịnh chị quách_thị_thơm sn 1985 quê xã nga trường huyện nga_sơn thanh_hóa nhau 2 con_trai
+3,cuộc_sống gia_đình khó_khăn đầu năm 2015 thịnh một_số người dân trong làng sang trung_quốc làm_ăn
+4,thời_gian ông trần_văn_lai sn 1976 trú thôn tân_xuân xã gio_việt thường_xuyên đến bán cá địa_phương gia_đình thịnh sinh_sống
+5,mặc_dù vợ 3 con lần gặp_gỡ giữa ông lai chị thơm nảy_sinh quan_hệ tình_cảm
+6,mối quan_hệ bất_chính ngoài luồng người dân trong vùng phát_hiện bàn_tán xôn_xao
+7,thông_tin về vợ ngoại_tình người_thân báo thịnh
+8,ngày 23/7/2015 thịnh bỏ về quê gặp vợ làm rõ sự_tình
+9,nghe lời “ tự_thú ” vợ giữa thịnh chị thơm xảy mâu_thuẫn thịnh lần đánh vợ chị thơm bỏ về quê thanh_hóa
+10,một thời_gian ân_hận về lỗi_lầm mình gây chị thơm gọi điện xin thịnh tha_thứ về đoàn_tụ gia_đình nuôi dạy hai con nhỏ
+11,nghĩ đến con_thơ thịnh đồng_ý nối tình_cảm vợ quyết_định vợ đứa con út bình_dương lập_nghiệp cách_ly vợ khỏi mối quan_hệ ngoài luồng
+12,tuy_nhiên thời_điểm chị thơm phát_hiện mình thai ông lai người_thân bắt xe bình_dương “ giải_quyết ” thai
+13,chị thơm quảng_trị gặp thịnh bình_dương làm_ăn sinh_sống
+14,đến bi_kịch gã chồng “ cắm_sừng ”
+15,bình_dương biết tin chị thơm thai ông lai phá_thai thịnh trở_nên tức_giận suy_sụp
+16,ngày 19/8/2015 uống bia về phòng trọ thịnh bất_ngờ phát_hiện chị thơm nhắn_tin ông lai nội_dung “ anh thịnh bỏ em anh đi em ” bao_nhiêu uất_hận dồn_nén trong người thịnh dùng dao_gọt hoa_quả ra_tay sát_hại vợ
+17,gây_án xong thịnh bỏ trốn về quảng_trị
+18,thỏa cơn tức_giận thịnh chuẩn_bị một con dao tìm đến nhà tình_địch ông lai ở thôn tân_xuân
+19,khoảng 20 h30 ’ ngày 2082015 thịnh đi thẳng nhà ông lai vung dao chém ông lai nạn_nhân ngủ vợ giường
+20,vết chém quá sâu ở cổ khiến ông lai tử_vong
+21,gây_án xong thịnh bỏ xe_máy ở nhà nạn_nhân bỏ trốn
+22,công_an tỉnh quảng_trị bắt thịnh rạng sáng hôm ở khu_vực nghĩa_trang thôn tân_xuân gần hiện_trường vụ_án
+23,thịnh liên_lạc về gia_đình bày_tỏ ý_định đầu_thú
+24,phiên_tòa trần_đình_thịnh hành_động ra_tay giết vợ tinh_thần kích_động đọc tin nhắn chị thơm gửi người_tình
+25,“ sát_hại vợ bị_cáo định quảng_trị đánh dằn_mặt ông lai
+26,tuy_nhiên nhìn thấy nạn_nhân ngủ bao uất_hận dồn_nén bị_cáo vung dao chém cổ khiến nạn_nhân_tử_vong … ” thịnh khai tòa

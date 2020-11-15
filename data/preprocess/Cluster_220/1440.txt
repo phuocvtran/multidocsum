@@ -1,36 +1,36 @@
 idx, sentence
-0,“ giao ubnd quận 5 khẩn_trương rà_soát phương_án hỗ_trợ  bồi_thường  tái_định_cư … để làm cơ_sở vận_động  thuyết_phục 10 hộ dân còn lại khẩn_trương di_dời để tháo_dỡ khẩn_cấp chung_cư 727 trần_hưng_đạo 
-1,trường_hợp đã vận_động nhưng 10 hộ dân này vẫn không chịu di_dời thì tiến_hành cưỡng_chế theo quy_định để đảm_bảo tính_mạng và tài_sản của người_dân ” 
-2,ubnd tphcm ngày 305 có văn_bản chỉ_đạo như trên 
-3,chung_cư “ ma ” giữa trung_tâm tp được xây_dựng vào năm 1960  chung_cư 727 trần_hưng_đạo gồm 13 tầng với 530 phòng 
-4,do đã quá_hạn sử_dụng từ lâu nhưng không được tu_sửa  từ nhiều năm qua chung_cư này chìm trong cảnh âm_u  cũ_kỹ và hoang_tàn đến đáng sợ 
-5,phần_lớn diện_tích tầng trệt đã bỏ_hoang từ lâu  bên ngoài được rào_chắn để ngăn người ra_vào 
-6,phần còn lại được một người đàn_ông sống tại tầng một tận_dụng làm bãi giữ xe  phía trong lèo_tèo vài chiếc xe của 10 hộ dân còn sống tại đây 
-7,vừa bước vào bên trong  mùi rác  mùi ẩm mốc  xác động_vật chết bốc lên nồng_nặc 
-8,men theo cầu_thang bằng sắt gỉ sét được gắn đầy các bảng cảnh_báo nguy_hiểm  chúng_tôi bước lên các tầng phía trên 
-9,dù đang giữa trưa nhưng càng lên cao không_khí càng lạnh_lẽo do ít ánh_sáng và thiếu hơi người 
-10,phía trong các cánh cửa gỗ mục_nát là những căn phòng trống tràn_ngập rác 
-11,dưới sàn nhà và hành_lang đầy kim_tiêm  nước bẩn loang_lổ khắp nơi 
-12,bà nguyễn_thị_chiến  sống tại tầng một  một trong những người hiếm_hoi còn ở lại chung_cư  chia_sẻ  “ đa_số người dân sống tại chung_cư này đều đã dọn đi nơi khác 
-13,gia_đình tôi chưa dọn đi là vì chưa hài_lòng với mức giá bồi_thường do chính_quyền đưa ra  82  10 triệu đồng / m2 ở tầng một  càng lên cao càng giảm  
-14,hiện con_trai tôi đang giữ xe phía dưới chung_cư để nuôi hai đứa con nhỏ vì vợ nó bỏ đi rồi 
-15,ở đây cũng khổ lắm cô ơi  thiếu điện nước  thiếu hơi người 
-16,con_trai tôi vì sợ các đối_tượng nghiện_hút tìm đến phòng nên đã bày ra cái trò “ điện giật chết người ” để hù_dọa bọn nó ” 
-17,khi được hỏi dự_định sắp tới  bà chiến cho hay  “ nguồn sống của cả nhà chúng_tôi là số tiền 45 triệu / tháng con_trai tôi giữ xe thu được 
-18,thật_tình tôi cũng không biết sẽ dọn đi chỗ nào  bởi giá nhà hiện_nay đắt quá 
-19,do_vậy tôi sẽ ở đây cho đến khi nào chính_quyền đập cái chung_cư này rồi mới tính tiếp ” 
-20,cư_ngụ trên tầng 11  chị bảy  quê đồng_tháp  cho biết bất_đắc_dĩ lắm mới phải sống tại nơi đầy_rẫy nguy_hiểm như thế_này 
-21,“ cả nhà chúng_tôi từ quê lên  biết chung_cư này nhiều người bỏ đi nên chúng_tôi dọn vô ở ké để đỡ tiền thuê nhà 
-22,chồng tôi bị tai_biến nằm một chỗ ở nhà  còn đứa con_trai mới năm tuổi chưa được đi học 
-23,hằng ngày tôi đi bán nước_giải_khát trước cổng bv chấn_thương chỉnh_hình để nuôi chồng_con ”  chị bảy than_thở 
-24,do còn quá ít hộ sinh_sống nên về đêm  cả một chung_cư rộng_lớn chỉ lác_đác vài căn phòng sáng đèn 
-25,đèn hành_lang chỗ có  chỗ không  trở_thành nơi lý_tưởng để những người nghiện_hút ra_vào 
-26,chính_quyền nói gì về việc chậm di_dời 
-27,trao_đổi với pháp_luật tphcm  ông lê_quốc_tuấn  phó chủ_tịch ubnd quận 5  cho biết  “ tháng 12008  ubnd quận 5 đã phê_duyệt phương_án bồi_thường  hỗ_trợ và tái_định_cư đối_với cư_dân chung_cư 727 
-28,trước đây  chung_cư có 530 hộ dân sinh_sống  hiện chỉ còn 10 hộ ” 
-29,theo ông tuấn  mức giá bồi_thường cho 10 hộ còn lại hiện dao_động 66  10 triệu đồng / m2 tùy vị_trí tầng 
-30,người dân được quận bố_trí tái_định_cư tại quận 5 và quận bình_tân  các hộ nhận tiền và lấy số tiền đó để mua nhà trả_góp 10 năm với lãi_suất ưu_đãi  giá_bán bằng 80  giá thị_trường  
-31,về việc 10 hộ vẫn chưa chịu bàn_giao  ông tuấn lý_giải  “ nguyên_nhân chủ_yếu là họ yêu_cầu tăng_giá bồi_thường và một_số đòi_hỏi khác về mua nhà tái_định_cư 
-32,dù các đơn_vị liên_quan đã nhiều lần vận_động nhưng họ vẫn chưa đồng_ý ” 
-33,vậy quận đã có những động_thái gì để giải_quyết vướng_mắc nêu trên 
-34,ông lê_quốc_tuấn trả_lời  xét thấy 10 hộ trên không chịu di_dời  ngày 93 vừa_qua quận đã có công_văn đề_nghị sở xây_dựng trình ubnd tp ban_hành quyết_định cưỡng_chế 10 hộ dân về nơi cư_trú an_toàn tại chung_cư bình_trị_đông và khu dân_cư vĩnh_lộc  quận bình_tân 
+0,“ giao ubnd quận 5 khẩn_trương rà_soát phương_án hỗ_trợ bồi_thường tái_định_cư … làm cơ_sở vận_động thuyết_phục 10 hộ dân còn khẩn_trương di_dời tháo_dỡ khẩn_cấp chung_cư 727 trần_hưng_đạo
+1,trường_hợp vận_động 10 hộ dân chịu di_dời tiến_hành cưỡng_chế quy_định đảm_bảo tính_mạng tài_sản người_dân ”
+2,ubnd tphcm ngày 305 văn_bản chỉ_đạo
+3,chung_cư “ ma ” giữa trung_tâm tp xây_dựng năm 1960 chung_cư 727 trần_hưng_đạo gồm 13 tầng 530 phòng
+4,quá_hạn sử_dụng lâu tu_sửa năm chung_cư chìm trong cảnh âm_u cũ_kỹ hoang_tàn đến đáng sợ
+5,phần_lớn diện_tích tầng trệt bỏ_hoang lâu bên ngoài rào_chắn ngăn người ra_vào
+6,phần còn một người đàn_ông sống tầng một tận_dụng làm bãi giữ xe phía trong lèo_tèo vài xe 10 hộ dân còn sống
+7,bước bên trong mùi rác mùi ẩm mốc xác động_vật chết bốc nồng_nặc
+8,men cầu_thang bằng sắt gỉ sét gắn đầy bảng cảnh_báo nguy_hiểm chúng_tôi bước tầng phía
+9,dù giữa trưa cao không_khí lạnh_lẽo ít ánh_sáng thiếu hơi người
+10,phía trong cánh cửa gỗ mục_nát căn phòng trống tràn_ngập rác
+11,sàn nhà hành_lang đầy kim_tiêm nước bẩn loang_lổ khắp
+12,bà nguyễn_thị_chiến sống tầng một một trong người hiếm_hoi còn ở chung_cư chia_sẻ “ đa_số người dân sống chung_cư dọn đi khác
+13,gia_đình tôi dọn đi hài_lòng mức giá bồi_thường chính_quyền đưa 82 10 triệu đồng / m2 ở tầng một cao giảm
+14,hiện con_trai tôi giữ xe phía chung_cư nuôi hai đứa con nhỏ vợ nó bỏ đi
+15,ở khổ lắm cô ơi thiếu điện nước thiếu hơi người
+16,con_trai tôi sợ đối_tượng nghiện_hút tìm đến phòng bày trò “ điện giật chết người ” hù_dọa bọn nó ”
+17,hỏi dự_định sắp tới bà chiến hay “ nguồn sống nhà chúng_tôi số tiền 45 triệu / tháng con_trai tôi giữ xe thu
+18,thật_tình tôi biết dọn đi chỗ nào giá nhà hiện_nay đắt quá
+19,do_vậy tôi ở đến nào chính_quyền đập chung_cư mới tính tiếp ”
+20,cư_ngụ tầng 11 chị bảy quê đồng_tháp biết bất_đắc_dĩ lắm mới sống đầy_rẫy nguy_hiểm thế_này
+21,“ nhà chúng_tôi quê biết chung_cư người bỏ đi chúng_tôi dọn vô ở ké đỡ tiền thuê nhà
+22,chồng tôi tai_biến nằm một chỗ ở nhà còn đứa con_trai mới năm tuổi đi học
+23,hằng ngày tôi đi bán nước_giải_khát cổng bv chấn_thương chỉnh_hình nuôi chồng_con ” chị bảy than_thở
+24,còn quá ít hộ sinh_sống về đêm một chung_cư rộng_lớn lác_đác vài căn phòng sáng đèn
+25,đèn hành_lang chỗ chỗ trở_thành lý_tưởng người nghiện_hút ra_vào
+26,chính_quyền nói về chậm di_dời
+27,trao_đổi pháp_luật tphcm ông lê_quốc_tuấn phó chủ_tịch ubnd quận 5 biết “ tháng 12008 ubnd quận 5 phê_duyệt phương_án bồi_thường hỗ_trợ tái_định_cư đối_với cư_dân chung_cư 727
+28,chung_cư 530 hộ dân sinh_sống hiện còn 10 hộ ”
+29,ông tuấn mức giá bồi_thường 10 hộ còn hiện dao_động 66 10 triệu đồng / m2 tùy vị_trí tầng
+30,người dân quận bố_trí tái_định_cư quận 5 quận bình_tân hộ nhận tiền lấy số tiền mua nhà trả_góp 10 năm lãi_suất ưu_đãi giá_bán bằng 80 giá thị_trường
+31,về 10 hộ chịu bàn_giao ông tuấn lý_giải “ nguyên_nhân chủ_yếu họ yêu_cầu tăng_giá bồi_thường một_số đòi_hỏi khác về mua nhà tái_định_cư
+32,dù đơn_vị liên_quan lần vận_động họ đồng_ý ”
+33,quận động_thái giải_quyết vướng_mắc nêu
+34,ông lê_quốc_tuấn trả_lời xét thấy 10 hộ chịu di_dời ngày 93 vừa_qua quận công_văn đề_nghị sở xây_dựng trình ubnd tp ban_hành quyết_định cưỡng_chế 10 hộ dân về cư_trú an_toàn chung_cư bình_trị_đông khu dân_cư vĩnh_lộc quận bình_tân

@@ -1,12 +1,12 @@
 idx, sentence
-0,chiều 205  tand tphcm xử phúc_thẩm vụ kiện tranh_chấp đòi bồi_thường thiệt_hại giữa nguyên_đơn là hoa_hậu đông_nam_á 2012 diệu_hân và bị_đơn là bà phan_thị_minh_trang  chủ căn nhà mà hoa_hậu diệu_hân thuê trên đường võ_văn_tần  q 3  tphcm  
-1,theo đó  hđxx cấp phúc_thẩm tuyên y_án sơ_thẩm  bác yêu_cầu khởi_kiện của hoa_hậu diệu_hân trong việc đòi chủ nhà phải bồi_thường thiệt_hại 270 triệu đồng  đồng_thời hđxx chấp_nhận yêu_cầu phản_tố của bị_đơn  buộc hoa_hậu_diệu_hân phải trả tiền thuê nhà còn thiếu 360 triệu đồng 
-2,tại phiên_tòa chiều 205  diệu_hân nêu cô bị bà trang nhiều lần cho người đến quấy_phá công_việc kinh_doanh và dùng những lời_lẽ xúc_phạm  vu_khống cô dan_díu với chồng của bà trang 
-3,đỉnh điểm là vào chiều 3152015  bà trang đã đến chửi_bới tại cửa_hàng đang kinh_doanh của diệu_hân gây náo_loạn cả một góc_phố 
-4,sự_việc đã được đưa lên công_an p 5  q 3 để giải_quyết 
-5,tại đây  công_an đã yêu_cầu hai bên viết giấy cam_kết  hứa không tái_phạm vụ_việc gây mất trật_tự và an_ninh khu_phố 
-6,cả hai đã ký vào giấy đồng_ý và bà trang hứa tạo điều_kiện cho hoa_hậu diệu_hân được kinh_doanh yên_ổn trong thời_gian tới nhưng cũng đặt ra yêu_cầu là chấm_dứt sớm hợp_đồng thuê nhà 
-7,do cảm_thấy bị bôi_nhọ danh_dự và bà trang có ý_muốn đơn_phương chấm_dứt hợp_đồng thuê nhà sớm nên diệu_hân khởi_kiện yêu_cầu bà trang bồi_thường các khoản  hoàn_trả lại tiền đặt_cọc thuê nhà 135 triệu đồng  bồi_thường 135 triệu đồng thiệt_hại mất thu_nhập do không kinh_doanh được trong thời_gian hai bên xảy ra mâu_thuẫn 
-8,sau khi phát đơn kiện  phía bị đơn là bà trang làm đơn phản_tố  bác_bỏ toàn_bộ yêu_cầu khởi_kiện của hoa_hậu diệu_hân  đồng_thời yêu_cầu nguyên_đơn hoàn_trả tiền thuê nhà trong thời_gian thuê của hợp_đồng dù nguyên_đơn không sử_dụng là 360 triệu đồng 
-9,trao_đổi với chúng_tôi  hoa_hậu diệu_hân cho biết từ khi đi thi và trở_về nước đến nay cô chỉ chuyên_tâm đi học và làm kinh_doanh về thời_trang  thiết_kế chứ không hoạt_động trong showbiz và không muốn có bất_cứ một tai_tiếng nào nhưng sự_việc bà chủ nhà vô_cớ đánh_ghen đã gây ảnh_hưởng nghiêm_trọng đến danh_dự của cô 
-10,song_song với vụ kiện này  hoa_hậu diệu_hân cũng làm đơn tố_cáo bà trang gửi cơ_quan công_an vì hành_vi vu_khống cô dan_díu với chồng bà 
+0,chiều 205 tand tphcm xử phúc_thẩm vụ kiện tranh_chấp đòi bồi_thường thiệt_hại giữa nguyên_đơn hoa_hậu đông_nam_á 2012 diệu_hân bị_đơn bà phan_thị_minh_trang chủ căn nhà hoa_hậu diệu_hân thuê đường võ_văn_tần q 3 tphcm
+1,hđxx cấp phúc_thẩm tuyên y_án sơ_thẩm bác yêu_cầu khởi_kiện hoa_hậu diệu_hân trong đòi chủ nhà bồi_thường thiệt_hại 270 triệu đồng đồng_thời hđxx chấp_nhận yêu_cầu phản_tố bị_đơn buộc hoa_hậu_diệu_hân trả tiền thuê nhà còn thiếu 360 triệu đồng
+2,phiên_tòa chiều 205 diệu_hân nêu cô bà trang lần người đến quấy_phá công_việc kinh_doanh dùng lời_lẽ xúc_phạm vu_khống cô dan_díu chồng bà trang
+3,đỉnh điểm chiều 3152015 bà trang đến chửi_bới cửa_hàng kinh_doanh diệu_hân gây náo_loạn một góc_phố
+4,sự_việc đưa công_an p 5 q 3 giải_quyết
+5,công_an yêu_cầu hai bên viết giấy cam_kết hứa tái_phạm vụ_việc gây mất trật_tự an_ninh khu_phố
+6,hai ký giấy đồng_ý bà trang hứa tạo điều_kiện hoa_hậu diệu_hân kinh_doanh yên_ổn trong thời_gian tới đặt yêu_cầu chấm_dứt sớm hợp_đồng thuê nhà
+7,cảm_thấy bôi_nhọ danh_dự bà trang ý_muốn đơn_phương chấm_dứt hợp_đồng thuê nhà sớm diệu_hân khởi_kiện yêu_cầu bà trang bồi_thường khoản hoàn_trả tiền đặt_cọc thuê nhà 135 triệu đồng bồi_thường 135 triệu đồng thiệt_hại mất thu_nhập kinh_doanh trong thời_gian hai bên xảy mâu_thuẫn
+8,phát đơn kiện phía đơn bà trang làm đơn phản_tố bác_bỏ toàn_bộ yêu_cầu khởi_kiện hoa_hậu diệu_hân đồng_thời yêu_cầu nguyên_đơn hoàn_trả tiền thuê nhà trong thời_gian thuê hợp_đồng dù nguyên_đơn sử_dụng 360 triệu đồng
+9,trao_đổi chúng_tôi hoa_hậu diệu_hân biết đi thi trở_về nước đến nay cô chuyên_tâm đi học làm kinh_doanh về thời_trang thiết_kế hoạt_động trong showbiz muốn bất_cứ một tai_tiếng nào sự_việc bà chủ nhà vô_cớ đánh_ghen gây ảnh_hưởng nghiêm_trọng đến danh_dự cô
+10,song_song vụ kiện hoa_hậu diệu_hân làm đơn tố_cáo bà trang gửi cơ_quan công_an hành_vi vu_khống cô dan_díu chồng bà

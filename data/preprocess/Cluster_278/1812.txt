@@ -1,6 +1,6 @@
 idx, sentence
-0,đồng_tiền lưu_niệm đã nhận được sự quan_tâm và đánh_giá cao của nhiều tổ_chức  cá_nhân trong và ngoài nước 
-1,số_lượng tiền lưu_niệm phát_hành lần này chủ_yếu được bán rộng_rãi cho nhiều tổ_chức  đơn_vị trong  ngoài ngành và trên 20000 lượt khách_hàng cá_nhân đã mua 
-2,đến nay số_lượng tiền lưu_niệm dành bán cho công_chúng đã hết 
-3,vì_vậy  từ ngày 6/6/2016 ngân_hàng nhà_nước sẽ kết_thúc tại tất_cả các điểm bán vừa_qua 
-4,trước đó  vào dịp kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam  6/5/1951  6/5/2016  ngân_hàng nhà_nước đã công_bố mệnh_giá 100 đồng và tổ_chức bán tiền lưu_niệm tại thành_phố hà_nội từ ngày 12/4/2016 và tại thành_phố hồ_chí_minh từ ngày 22/4/2016 
+0,đồng_tiền lưu_niệm nhận quan_tâm đánh_giá cao tổ_chức cá_nhân trong ngoài nước
+1,số_lượng tiền lưu_niệm phát_hành lần chủ_yếu bán rộng_rãi tổ_chức đơn_vị trong ngoài ngành 20000 lượt khách_hàng cá_nhân mua
+2,đến nay số_lượng tiền lưu_niệm dành bán công_chúng hết
+3,vì_vậy ngày 6/6/2016 ngân_hàng nhà_nước kết_thúc tất_cả điểm bán vừa_qua
+4,dịp kỷ_niệm 65 năm thành_lập ngân_hàng việt_nam 6/5/1951 6/5/2016 ngân_hàng nhà_nước công_bố mệnh_giá 100 đồng tổ_chức bán tiền lưu_niệm thành_phố hà_nội ngày 12/4/2016 thành_phố hồ_chí_minh ngày 22/4/2016

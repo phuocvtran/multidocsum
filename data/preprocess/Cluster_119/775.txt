@@ -1,10 +1,10 @@
 idx, sentence
-0,ngay sau khi thắng giải_thưởng nghệ_sĩ xuất_sắc nhất năm tại billboard 2016 và là nghệ_sĩ có bài hát bán_chạy nhất ở cả hai năm 2015 và 2016  nữ ca_sĩ adele đã sở_hữu trong tay hợp_đồng thu âm lớn nhất trong lịch_sử  90 triệu bảng anh ký với sony 
-1,“ họa mi nước anh ” ngay sau khi kết_thúc hợp_đồng cùng công_ty sản_xuất âm_nhạc của anh  xl_recorings liền được săn_đón bởi một trong những “ ông trùm ” của làng nhạc quốc_tế 
-2,thỏa_thuận 90 triệu bảng anh đã được sắp_xếp thông_qua columbia_records  một trong những công_ty thu âm của mỹ thuộc sở_hữu của sony và là nơi mang lại cho sony quyền phát_hành âm_nhạc độc_quyền trên toàn thế_giới 
-3,tim ingham  người sáng_lập của music_business_worldwide cho rằng đây chính là thời_điểm hoàn_hảo để adele tìm đến những thương_hiệu lớn nhất thế_giới và ghi dấu nhiều kỷ_lục hơn nữa 
-4,cũng theo tim  điều mà hãng sony cần ở nữ ca_sĩ adele ngoài tài_năng âm_nhạc còn là sự cẩn_trọng trong âm_nhạc của cô khi cô luôn thích giữ bí_mật cho mọi sáng_tác của mình đến phút cuối_cùng 
-5,mặc_dù đôi_khi điều đó quá mất thời_gian như việc tốn mất 4 năm để cho ra_đời album tiếp_theo hoàn_toàn không phù_hợp với thị_trường âm_nhạc hiện_tại 
-6,album 21 của adele phát_hành năm 2011 hiện là “ album bán_chạy nhất thế_kỷ ” với hơn 30 triệu bản toàn_cầu  giành được hàng_loạt giải_thưởng  trong đó có 8 giải_grammy danh_giá 
-7,thế nhưng sau đó chính nữ ca_sĩ cũng không_thể ngờ rằng 25  album phòng thu thứ ba của cô lại đang nối_tiếp hàng_loạt những kỷ_lục “ khủng_khiếp ” trước đó 
-8,với số_lượng phát_hành đĩa lên đến 19 triệu bản  25 trở_thành album có số_lượng bán ra trong tuần cao nhất tại mỹ kể từ năm 1991 đến nay 
+0,thắng giải_thưởng nghệ_sĩ xuất_sắc nhất năm billboard 2016 nghệ_sĩ bài hát bán_chạy nhất ở hai năm 2015 2016 nữ ca_sĩ adele sở_hữu trong tay hợp_đồng thu âm lớn nhất trong lịch_sử 90 triệu bảng anh ký sony
+1,“ họa mi nước anh ” kết_thúc hợp_đồng công_ty sản_xuất âm_nhạc anh xl_recorings liền săn_đón một trong “ ông trùm ” làng nhạc quốc_tế
+2,thỏa_thuận 90 triệu bảng anh sắp_xếp thông_qua columbia_records một trong công_ty thu âm mỹ thuộc sở_hữu sony mang sony quyền phát_hành âm_nhạc độc_quyền toàn thế_giới
+3,tim ingham người sáng_lập music_business_worldwide chính thời_điểm hoàn_hảo adele tìm đến thương_hiệu lớn nhất thế_giới ghi dấu kỷ_lục hơn
+4,tim hãng sony ở nữ ca_sĩ adele ngoài tài_năng âm_nhạc còn cẩn_trọng trong âm_nhạc cô cô luôn thích giữ bí_mật mọi sáng_tác mình đến phút cuối_cùng
+5,mặc_dù đôi_khi quá mất thời_gian tốn mất 4 năm ra_đời album tiếp_theo hoàn_toàn phù_hợp thị_trường âm_nhạc hiện_tại
+6,album 21 adele phát_hành năm 2011 hiện “ album bán_chạy nhất thế_kỷ ” hơn 30 triệu bản toàn_cầu giành hàng_loạt giải_thưởng trong 8 giải_grammy danh_giá
+7,thế chính nữ ca_sĩ không_thể ngờ 25 album phòng thu thứ ba cô nối_tiếp hàng_loạt kỷ_lục “ khủng_khiếp ”
+8,số_lượng phát_hành đĩa đến 19 triệu bản 25 trở_thành album số_lượng bán trong tuần cao nhất mỹ kể năm 1991 đến nay

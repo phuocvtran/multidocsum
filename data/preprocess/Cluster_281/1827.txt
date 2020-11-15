@@ -1,6 +1,6 @@
 idx, sentence
-0,lý_do để vasep có thông_cáo báo_chí là do trước đó  theo cục quản_lý chất_lượng nông_lâm_sản và thủy_sản  nafiqad   cơ_quan thẩm_quyền eu vào ngày 245 đã có văn_bản cảnh_báo số 16814 tới các nước thành_viên eu về việc cá chết bất_thường tại việt_nam và đề_nghị các nước kiểm_soát chặt_chẽ các lô hàng thủy_sản biển nhập_khẩu từ việt_nam 
-1,vì_thế  đã có những lo_ngại trong cộng_đồng doanh_nghiệp trước thông_tin này 
-2,do_đó  trong thông_cáo báo_chí của mình  vasep cho biết thực_tế các ngư_trường khai_thác chính nguyên_liệu hải_sản phục_vụ cho xuất_khẩu của việt_nam bao_gồm các tỉnh từ đà_nẵng trở vào nam_trung_bộ  bình_định  khánh_hòa  phú_yên  bình_thuận …  và các tỉnh nam_bộ  kiên_giang  cà_mau …   được khai_thác bằng các tàu công_suất lớn  đánh_bắt xa bờ 
-3,nguồn nguyên_liệu của các địa_phương này hầu_hết được cung_cấp cho các doanh_nghiệp chế_biến hàng xuất_khẩu  gồm các mặt_hàng_hải_sản chính như cá_ngừ  cua ghẹ  surimi cá khô và cá biển khác … nhiều doanh_nghiệp cũng đang chế_biến xuất_khẩu từ nguồn nguyên_liệu nhập_khẩu từ các nước khác 
-4,theo vasep  trong thời_gian qua bộ_nông_nghiệp_và_phát_triển_nông_thôn đã chỉ_đạo khảo_sát  lấy mẫu và khẳng_định các khu_vực khai_thác xa bờ  vùng_biển xa bờ ngoài 2030 hải_lý  thuộc bốn tỉnh có hiện_tượng cá chết đều an_toàn 
+0,lý_do vasep thông_cáo báo_chí cục quản_lý chất_lượng nông_lâm_sản thủy_sản nafiqad cơ_quan thẩm_quyền eu ngày 245 văn_bản cảnh_báo số 16814 tới nước thành_viên eu về cá chết bất_thường việt_nam đề_nghị nước kiểm_soát chặt_chẽ lô hàng thủy_sản biển nhập_khẩu việt_nam
+1,vì_thế lo_ngại trong cộng_đồng doanh_nghiệp thông_tin
+2,do_đó trong thông_cáo báo_chí mình vasep biết thực_tế ngư_trường khai_thác chính nguyên_liệu hải_sản phục_vụ xuất_khẩu việt_nam bao_gồm tỉnh đà_nẵng trở nam_trung_bộ bình_định khánh_hòa phú_yên bình_thuận … tỉnh nam_bộ kiên_giang cà_mau … khai_thác bằng tàu công_suất lớn đánh_bắt xa bờ
+3,nguồn nguyên_liệu địa_phương hầu_hết cung_cấp doanh_nghiệp chế_biến hàng xuất_khẩu gồm mặt_hàng_hải_sản chính cá_ngừ cua ghẹ surimi cá khô cá biển khác … doanh_nghiệp chế_biến xuất_khẩu nguồn nguyên_liệu nhập_khẩu nước khác
+4,vasep trong thời_gian bộ_nông_nghiệp_và_phát_triển_nông_thôn chỉ_đạo khảo_sát lấy mẫu khẳng_định khu_vực khai_thác xa bờ vùng_biển xa bờ ngoài 2030 hải_lý thuộc bốn tỉnh hiện_tượng cá chết an_toàn

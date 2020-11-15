@@ -1,8 +1,8 @@
 idx, sentence
-0,công_an tp bạc_liêu đang tạm giữ đối_tượng chém trọng_thương ông nguyễn_hoàng_quân  chủ_tịch hội nông_dân tp bạc_liêu vào rạng sáng 16 
-1,theo thông_tin ban_đầu  khoảng 4 giờ ngày 16  ông quân đi tập_thể_dục gần cầu tôn_đức_thắng  phường 1  tp bạc_liêu  thì thấy trần_văn_trường  25 tuổi  ngụ phường 5  tp bạc_liêu  đang ngồi gục trên dốc cầu nên lại hỏi_thăm 
-2,bất_ngờ  trường vung dao tự chế chém xối_xả vào người ông quân khiến ông gục tại_chỗ 
-3,sau khi chém người  trường rời khỏi hiện_trường 
-4,còn ông quân được người dân đưa đi cấp_cứu trong tình_trạng nguy_kịch 
-5,sau khi nhận thông_tin từ người dân  lực_lượng công_an tp bạc_liêu đã đến hiện_trường điều_tra vụ_việc 
-6,ngay trong_sáng cùng ngày  công_an đã bắt_giữ được trường khi đang lẩn trốn ở một chòi_canh tôm gần đó 
+0,công_an tp bạc_liêu tạm giữ đối_tượng chém trọng_thương ông nguyễn_hoàng_quân chủ_tịch hội nông_dân tp bạc_liêu rạng sáng 16
+1,thông_tin ban_đầu khoảng 4 giờ ngày 16 ông quân đi tập_thể_dục gần cầu tôn_đức_thắng phường 1 tp bạc_liêu thấy trần_văn_trường 25 tuổi ngụ phường 5 tp bạc_liêu ngồi gục dốc cầu hỏi_thăm
+2,bất_ngờ trường vung dao tự chế chém xối_xả người ông quân khiến ông gục tại_chỗ
+3,chém người trường rời khỏi hiện_trường
+4,còn ông quân người dân đưa đi cấp_cứu trong tình_trạng nguy_kịch
+5,nhận thông_tin người dân lực_lượng công_an tp bạc_liêu đến hiện_trường điều_tra vụ_việc
+6,trong_sáng ngày công_an bắt_giữ trường lẩn trốn ở một chòi_canh tôm gần

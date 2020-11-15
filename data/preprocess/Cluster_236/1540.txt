@@ -1,16 +1,16 @@
 idx, sentence
-0,ngày 315  quỹ_walk_free công_bố báo_cáo chỉ_số nô_lệ toàn_cầu 2016  tổng_hợp thông_tin tại 167 nước  thông_qua 42000 cuộc phỏng_vấn với 53 thứ tiếng khác nhau  cho thấy tính muôn mặt của nạn nô_lệ hiện_đại 
-1,trong đó  khoảng 2/3 số nạn_nhân thuộc các nước châu_á – thái_bình_dương 
-2,trong lịch_sử  chế_độ chiếm_hữu nô_lệ xem nô_lệ là tài_sản hợp_pháp của chủ_sở_hữu  hình_thức sở_hữu này hiện đã bị cấm 
-3,các hình_thức nô_lệ hiện_đại theo liên_hiệp_quốc  lhq  là buôn_người  cưỡng_bức bán_dâm  cưỡng_bức lao_động  bắt trẻ_em cầm súng  sử_dụng trẻ_em trong các đường_dây buôn ma_túy … các hình_thức này có xu_hướng phát_triển  phần_lớn do nạn nghèo_đói  kỳ_thị và cô_lập xã_hội gây ra 
-4,theo nhiều nhà_quan_sát  số nạn_nhân thực_sự của nạn nô_lệ hiện_đại rất khó xác_định 
-5,con_số tăng vọt 28  so với báo_cáo 2 năm trước có_thể do việc cải_thiện các phương_pháp thu_thập thông_tin 
-6,tập_trung tại châu_á – thái_bình_dương với 1835 triệu người  ấn_độ được coi là nước có nhiều nạn_nhân nhất  tiếp_theo là trung_quốc với 339 triệu nạn_nhân  pakistan với 213 triệu nạn_nhân  bangladesh với 153 triệu nạn_nhân và uzbekistan với 123 triệu nạn_nhân 
-7,tuy ấn_độ là nước có nhiều nạn_nhân nhất nhưng quỹ walk_free cho rằng ấn_độ đã đạt được  tiến_bộ đáng_kể  khi áp_dụng nhiều biện_pháp đối_phó với vấn_đề này 
-8,những biện_pháp này bao_gồm tăng hình_phạt hình_sự đối_với mại_dâm trẻ_em và cưỡng_ép hôn_nhân  tăng_cường bảo_vệ nạn_nhân  chdcnd_triều_tiên là nước có tỷ_lệ nạn_nhân cao nhất  với 437  dân_số 
-9,chdcnd triều_tiên cũng là nước mà chính_quyền bị coi là tồi_tệ nhất trong lĩnh_vực này  là chính_quyền duy_nhất trên thế_giới không coi các hình_thức nô_lệ hiện_đại là tội_phạm 
-10,các nước có số nạn_nhân trên tổng dân_số thấp nhất – dưới 002  tổng dân_số  là luxembourg  new_zealand  ireland  na_uy  đan_mạch  thụy_sĩ  áo  thụy_điển  bỉ  úc  canada  tây ban_nha  vương_quốc anh  pháp  đức và mỹ 
-11,hành_động chưa đủ báo_cáo walk_free  theo sáng_kiến của nhà tài_phiệt úc_andrew_forrest  có mục_tiêu đánh_động công_luận về các hình_thức đa_dạng và tinh_vi của nạn nô_lệ thời hiện_đại 
-12,kể từ báo_cáo năm 2014  chính_phủ các nước đã có  tiến_bộ đáng_kể  trong hành_động chống nạn nô_lệ 
-13,hiện_nay  tổng_cộng 124 nước đã coi việc buôn_người là tội hình_sự  theo quy_định của lhq 
-14,96 nước đã có các chương_trình hành_động phối_hợp của chính_phủ để đối_phó 
+0,ngày 315 quỹ_walk_free công_bố báo_cáo chỉ_số nô_lệ toàn_cầu 2016 tổng_hợp thông_tin 167 nước thông_qua 42000 cuộc phỏng_vấn 53 thứ tiếng khác nhau thấy tính muôn mặt nạn nô_lệ hiện_đại
+1,trong khoảng 2/3 số nạn_nhân thuộc nước châu_á – thái_bình_dương
+2,trong lịch_sử chế_độ chiếm_hữu nô_lệ xem nô_lệ tài_sản hợp_pháp chủ_sở_hữu hình_thức sở_hữu hiện cấm
+3,hình_thức nô_lệ hiện_đại liên_hiệp_quốc lhq buôn_người cưỡng_bức bán_dâm cưỡng_bức lao_động bắt trẻ_em cầm súng sử_dụng trẻ_em trong đường_dây buôn ma_túy … hình_thức xu_hướng phát_triển phần_lớn nạn nghèo_đói kỳ_thị cô_lập xã_hội gây
+4,nhà_quan_sát số nạn_nhân thực_sự nạn nô_lệ hiện_đại khó xác_định
+5,con_số tăng vọt 28 báo_cáo 2 năm cải_thiện phương_pháp thu_thập thông_tin
+6,tập_trung châu_á – thái_bình_dương 1835 triệu người ấn_độ coi nước nạn_nhân nhất tiếp_theo trung_quốc 339 triệu nạn_nhân pakistan 213 triệu nạn_nhân bangladesh 153 triệu nạn_nhân uzbekistan 123 triệu nạn_nhân
+7,tuy ấn_độ nước nạn_nhân nhất quỹ walk_free ấn_độ đạt tiến_bộ đáng_kể áp_dụng biện_pháp đối_phó vấn_đề
+8,biện_pháp bao_gồm tăng hình_phạt hình_sự đối_với mại_dâm trẻ_em cưỡng_ép hôn_nhân tăng_cường bảo_vệ nạn_nhân chdcnd_triều_tiên nước tỷ_lệ nạn_nhân cao nhất 437 dân_số
+9,chdcnd triều_tiên nước chính_quyền coi tồi_tệ nhất trong lĩnh_vực chính_quyền duy_nhất thế_giới coi hình_thức nô_lệ hiện_đại tội_phạm
+10,nước số nạn_nhân tổng dân_số thấp nhất – 002 tổng dân_số luxembourg new_zealand ireland na_uy đan_mạch thụy_sĩ áo thụy_điển bỉ úc canada tây ban_nha vương_quốc anh pháp đức mỹ
+11,hành_động đủ báo_cáo walk_free sáng_kiến nhà tài_phiệt úc_andrew_forrest mục_tiêu đánh_động công_luận về hình_thức đa_dạng tinh_vi nạn nô_lệ thời hiện_đại
+12,kể báo_cáo năm 2014 chính_phủ nước tiến_bộ đáng_kể trong hành_động chống nạn nô_lệ
+13,hiện_nay tổng_cộng 124 nước coi buôn_người tội hình_sự quy_định lhq
+14,96 nước chương_trình hành_động phối_hợp chính_phủ đối_phó

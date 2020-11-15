@@ -1,11 +1,11 @@
 idx, sentence
-0,theo tri_thức trực_tuyến đăng_tải  cục cảnh_sát truy_nã tội_phạm  bộ công_an  phối_hợp với công_an tp hcm vừa bắt_giữ kwon_yonggil – nghi phạm nằm trong đường_dây tổ_chức đánh_bạc có lệnh truy_nã quốc_tế 
-1,theo thông_tin ban_đầu  năm 2013  kwon_yonggil  quốc_tịch hàn_quốc  và nhóm đồng_phạm mở một trang_web cá_độ bóng_đá tại philippines 
-2,nghi_phạm 34 tuổi chịu trách_nhiệm quản_lý tiền_bạc của mạng_lưới đánh_bạc trực_tuyến khép_kín 
-3,cuối năm 2015  kwon_yonggil cùng hai người khác núp_bóng khách du_lịch trốn sang việt_nam 
-4,tháng 11 năm đó  họ thuê nhà để tiếp_tục điều_hành_trang web cá_độ 
-5,với nhiều thủ_đoạn móc_túi người chơi  nhóm này đã thu lợi bất_chính hơn 16 tỷ won 
-6,liên_quan đến vụ_việc  báo_công_an nhân_dân đưa tin  trước đó cảnh_sát hàn_quốc đã gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng truy_nã đặc_biệt này 
-7,quá_trình rà_soát  trưa 17/5  phát_hiện một người hàn_quốc có đặc_điểm giống với đối_tượng truy_nã đi vào một khu chung_cư cao_cấp  cảnh_sát xác_định đó chính là đối_tượng kwon_yonggil nên đã tiến_hành lệnh bắt_giữ 
-8,tổ công_tác liên_hệ với lãnh_sự quán hàn_quốc tại tp hồ_chí_minh về việc truy bắt đối_tượng và đề_nghị lãnh_sự quán cử người đến làm_việc với cơ_quan_chức_năng việt_nam 
-9,theo lời khai ban_đầu của đối_tượng kwon_yonggil thì các đối_tượng thuê nhà để tiếp_tục gây_án tại việt_nam  các đối_tượng oh_junghyun và kim_myụngun đã bị bắt khi vừa trở_về hàn_quốc 
+0,tri_thức trực_tuyến đăng_tải cục cảnh_sát truy_nã tội_phạm bộ công_an phối_hợp công_an tp hcm bắt_giữ kwon_yonggil – nghi phạm nằm trong đường_dây tổ_chức đánh_bạc lệnh truy_nã quốc_tế
+1,thông_tin ban_đầu năm 2013 kwon_yonggil quốc_tịch hàn_quốc nhóm đồng_phạm mở một trang_web cá_độ bóng_đá philippines
+2,nghi_phạm 34 tuổi chịu trách_nhiệm quản_lý tiền_bạc mạng_lưới đánh_bạc trực_tuyến khép_kín
+3,cuối năm 2015 kwon_yonggil hai người khác núp_bóng khách du_lịch trốn sang việt_nam
+4,tháng 11 năm họ thuê nhà tiếp_tục điều_hành_trang web cá_độ
+5,thủ_đoạn móc_túi người chơi nhóm thu lợi bất_chính hơn 16 tỷ won
+6,liên_quan đến vụ_việc báo_công_an nhân_dân đưa tin cảnh_sát hàn_quốc gửi công_văn đề_nghị công_an việt_nam truy bắt đối_tượng truy_nã đặc_biệt
+7,quá_trình rà_soát trưa 17/5 phát_hiện một người hàn_quốc đặc_điểm giống đối_tượng truy_nã đi một khu chung_cư cao_cấp cảnh_sát xác_định chính đối_tượng kwon_yonggil tiến_hành lệnh bắt_giữ
+8,tổ công_tác liên_hệ lãnh_sự quán hàn_quốc tp hồ_chí_minh về truy bắt đối_tượng đề_nghị lãnh_sự quán cử người đến làm_việc cơ_quan_chức_năng việt_nam
+9,lời khai ban_đầu đối_tượng kwon_yonggil đối_tượng thuê nhà tiếp_tục gây_án việt_nam đối_tượng oh_junghyun kim_myụngun bắt trở_về hàn_quốc

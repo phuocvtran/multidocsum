@@ -1,16 +1,16 @@
 idx, sentence
-0,ngày 285  ông hồ_sĩ_nam  trưởng đại_diện cảng_vụ hàng_không tại vinh  nghệ_an   cho biết đại_diện cảng_vụ cùng cơ_quan_chức_năng đã đến nhà ông lê_văn_tiến  xóm 21  xã nghi_trung  hnghi_lộc  nghệ_an  để ghi_nhận phản_ánh về việc máy_bay hạ_cánh xuống sân_bay vinh làm tốc ngói 
-1,theo ông tiến  khoảng 13 giờ ngày 275  6 người trong gia_đình ông đang ngủ trưa đều bật dậy tháo_chạy ra sân vì tiếng gầm_rú trên mái nhà 
-2,khi ra đến sân  ông nghe tiếng máy_bay đang hạ_cánh xuống sân_bay  còn ngói nhà ông đã bị tốc mái  nhiều viên rơi xuống trần nhà 
-3,ông tiến sau đó đến cảng_vụ hàng_không tại vinh_và công_an xã nghi_trung để trình_báo 
-4,ông hồ_sĩ_nam cho_biết qua kiểm_tra tại đài không_lưu  lúc 12 giờ 58 phút ngày 275  một máy_bay của hãng vietnam_airlines từ tân_sơn_nhất hạ_cánh xuống sân_bay vinh 
-5,“ theo báo_cáo của không_lưu  chuyến bay hạ_cánh lúc 12 giờ 58 phút tại sân_bay vinh là chuyến bay hạ_cánh thông_thường  không phải chuyến bay bất_thường trong ngày 
-6,máy_bay này hạ_cánh đúng quy_định ”  ông nam nói 
-7,ông nam cũng cho biết  nhà ông tiến nằm ở đầu đường cất  hạ_cánh của đường_băng sân_bay  cách mép đường_băng 17 km  cách tim đường_băng 150 m  nằm trong dải bay 
-8,ngôi nhà bị tốc mái có chiều cao thấp  nằm lọt giữa các ngôi nhà cao_tầng khác 
-9,vụ_việc ông tiến phản_ánh đã được báo_cáo lên cảng_vụ miền bắc và cục hàng_không vn để chờ giải_quyết 
-10,lãnh_đạo cảng_vụ hàng_không miền bắc cho hay có nhiều giả_thiết được đặt ra như do thời_tiết giông lốc xoáy cục_bộ tại địa_phương  hoặc do máy_bay  tuy_nhiên  hiện_tại chưa thể kết_luận nguyên_nhân chính_xác do đâu 
-11,cũng theo vị lãnh_đạo này  nếu xét về chiều cao tầm 4  5 m thì ngôi nhà trên không vi_phạm quy_định tĩnh không trong phạm_vi xung_quanh sân_bay 
-12,sau khi xác_định được nguyên_nhân chính_xác  nếu liên_quan đến hàng_không sẽ phối_hợp giải_quyết  xử_lý thỏa_đáng cho người dân 
-13,trong khi đó  ông nguyễn_xuân_tiến  phó giám_đốc đài_khí_tượng thủy_văn bắc trung_bộ  trụ_sở đặt tại tpvinh  cho biết qua kiểm_tra thông_tin từ các thiết_bị quan_trắc gió  máy radar quét mây  trong khoảng trưa và chiều 275  trùng khớp với thời_điểm người dân phản_ánh mái ngói bị rơi  không ghi_nhận gió mạnh bất_thường 
-14,kết_quả phân_tích ảnh mây radar khu_vực xã nghi_trung  hnghi_lộc cho thấy  khu_vực này không hình_thành các đám_mây lớn nên khả_năng xảy ra giông  gió_lốc gần như rất khó có khả_năng xảy ra 
+0,ngày 285 ông hồ_sĩ_nam trưởng đại_diện cảng_vụ hàng_không vinh nghệ_an biết đại_diện cảng_vụ cơ_quan_chức_năng đến nhà ông lê_văn_tiến xóm 21 xã nghi_trung hnghi_lộc nghệ_an ghi_nhận phản_ánh về máy_bay hạ_cánh xuống sân_bay vinh làm tốc ngói
+1,ông tiến khoảng 13 giờ ngày 275 6 người trong gia_đình ông ngủ trưa bật dậy tháo_chạy sân tiếng gầm_rú mái nhà
+2,đến sân ông nghe tiếng máy_bay hạ_cánh xuống sân_bay còn ngói nhà ông tốc mái viên rơi xuống trần nhà
+3,ông tiến đến cảng_vụ hàng_không vinh_và công_an xã nghi_trung trình_báo
+4,ông hồ_sĩ_nam cho_biết kiểm_tra đài không_lưu 12 giờ 58 phút ngày 275 một máy_bay hãng vietnam_airlines tân_sơn_nhất hạ_cánh xuống sân_bay vinh
+5,“ báo_cáo không_lưu chuyến bay hạ_cánh 12 giờ 58 phút sân_bay vinh chuyến bay hạ_cánh thông_thường chuyến bay bất_thường trong ngày
+6,máy_bay hạ_cánh đúng quy_định ” ông nam nói
+7,ông nam biết nhà ông tiến nằm ở đầu đường cất hạ_cánh đường_băng sân_bay cách mép đường_băng 17 km cách tim đường_băng 150 m nằm trong dải bay
+8,ngôi nhà tốc mái chiều cao thấp nằm lọt giữa ngôi nhà cao_tầng khác
+9,vụ_việc ông tiến phản_ánh báo_cáo cảng_vụ miền bắc cục hàng_không vn chờ giải_quyết
+10,lãnh_đạo cảng_vụ hàng_không miền bắc hay giả_thiết đặt thời_tiết giông lốc xoáy cục_bộ địa_phương hoặc máy_bay tuy_nhiên hiện_tại thể kết_luận nguyên_nhân chính_xác đâu
+11,vị lãnh_đạo xét về chiều cao tầm 4 5 m ngôi nhà vi_phạm quy_định tĩnh trong phạm_vi xung_quanh sân_bay
+12,xác_định nguyên_nhân chính_xác liên_quan đến hàng_không phối_hợp giải_quyết xử_lý thỏa_đáng người dân
+13,trong ông nguyễn_xuân_tiến phó giám_đốc đài_khí_tượng thủy_văn bắc trung_bộ trụ_sở đặt tpvinh biết kiểm_tra thông_tin thiết_bị quan_trắc gió máy radar quét mây trong khoảng trưa chiều 275 trùng khớp thời_điểm người dân phản_ánh mái ngói rơi ghi_nhận gió mạnh bất_thường
+14,kết_quả phân_tích ảnh mây radar khu_vực xã nghi_trung hnghi_lộc thấy khu_vực hình_thành đám_mây lớn khả_năng xảy giông gió_lốc gần khó khả_năng xảy

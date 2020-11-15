@@ -1,15 +1,15 @@
 idx, sentence
-0,trao_đổi với vietnamnet  ông vũ_văn_cương – giám_đốc trung_tâm tư_vấn pháp_luật  trường đh luật hà_nội xác_nhận  đây là đề thi cuối năm học dành cho học_viên văn_bằng hai 
-1,theo ông cương cho biết  “ đây là chuyên_ngành khi ra đề thi phải có tình_huống  có_thể thông_thường sẽ mô_tả tình_huống bằng văn_xuôi truyền_thống 
-2,việc dùng thơ như đề thi có mấy lợi_thế  vừa có hình_ảnh sống_động  diễn_tả tâm_trạng nhân_vật 
-3,hơn_nữa đối_tượng học là những người đang học văn_bằng hai có trình_độ nhận_thức cao  đã trưởng_thành  ít_nhất vài_ba năm thậm_chí cả chục năm đi làm 
-4,bối_cảnh những dịp hè là người học cứ 3 ngày thi hết một môn  rất căng_thẳng  thời_tiết lại nóng_bức nên đề thi có_thể khiến sinh_viên hứng_khởi  dễ_chịu ” 
-5,xuất_phát suy_nghĩ đó  theo ông cương phía trung_tâm đã thử làm đề thi “ hơi khác truyền_thống nhưng nội_dung không khác_biệt  yêu_cầu vẫn như_vậy ” 
-6,khi đề thi ra và được chia_sẻ trên mạng xã_hội  bản_thân ông cương cũng có quan_sát thấy những ý_kiến khác nhau 
-7,vì mới có ý_kiến khác nhau 
-8,là bước làm nếu tốt được ủng_hộ  cải_tiến nếu đồng_nghiệp  xã_hội sẽ rút kinh_nghiệm 
-9,“ với người không có chuyên_môn khi đọc đề 99  nghĩ vụ_việc có liên_quan đến tình_ái nhưng thực_chất không phải vậy 
-10,là dân chuyên_môn  dạy môn kĩ_năng cho các luật_sư sau_này hành_nghề luật  chúng_tôi muốn dùng câu_chuyện nhỏ để nói điều lớn hơn là vừa_qua xuất_hiện nhiều vụ_việc xét_xử dẫn tới oan sai khi nhìn_nhận vấn_đề không toàn_diện và chủ_quan ” – ông cương cho biết 
-11,“ ở tình_huống này chúng_tôi có_thể chỉ ra 6 nguyên_nhân có_thể dẫn tới cái chết của người hàng_xóm chứ không chỉ lí_do liên_quan đến tình_ái vì dụ như ông bị suy_tim  khi sang nhà chơi đột_tử ” – ông cương thông_tin 
-12,đề thi ít_nhiều có yếu_tố hài_hước nhưng theo ông cương vẫn đem đến cho người học những giá_trị và bài_học khi hành_nghề luật 
-13,ông cương cũng thẳng_thắn cho biết  phía trung_tâm sẽ nhìn_nhận những ý_kiến đóng_góp từ xã_hội  đồng_nghiệp  người học để rút kinh_nghiệm có những đề thi vừa hay vừa đảm_bảo không gây ra tranh_luận 
+0,trao_đổi vietnamnet ông vũ_văn_cương – giám_đốc trung_tâm tư_vấn pháp_luật trường đh luật hà_nội xác_nhận đề thi cuối năm học dành học_viên văn_bằng hai
+1,ông cương biết “ chuyên_ngành đề thi tình_huống thông_thường mô_tả tình_huống bằng văn_xuôi truyền_thống
+2,dùng thơ đề thi mấy lợi_thế hình_ảnh sống_động diễn_tả tâm_trạng nhân_vật
+3,hơn_nữa đối_tượng học người học văn_bằng hai trình_độ nhận_thức cao trưởng_thành ít_nhất vài_ba năm thậm_chí chục năm đi làm
+4,bối_cảnh dịp hè người học 3 ngày thi hết một môn căng_thẳng thời_tiết nóng_bức đề thi khiến sinh_viên hứng_khởi dễ_chịu ”
+5,xuất_phát suy_nghĩ ông cương phía trung_tâm thử làm đề thi “ hơi khác truyền_thống nội_dung khác_biệt yêu_cầu như_vậy ”
+6,đề thi chia_sẻ mạng xã_hội bản_thân ông cương quan_sát thấy ý_kiến khác nhau
+7,mới ý_kiến khác nhau
+8,bước làm tốt ủng_hộ cải_tiến đồng_nghiệp xã_hội rút kinh_nghiệm
+9,“ người chuyên_môn đọc đề 99 nghĩ vụ_việc liên_quan đến tình_ái thực_chất
+10,dân chuyên_môn dạy môn kĩ_năng luật_sư sau_này hành_nghề luật chúng_tôi muốn dùng câu_chuyện nhỏ nói lớn hơn vừa_qua xuất_hiện vụ_việc xét_xử dẫn tới oan sai nhìn_nhận vấn_đề toàn_diện chủ_quan ” – ông cương biết
+11,“ ở tình_huống chúng_tôi 6 nguyên_nhân dẫn tới chết người hàng_xóm lí_do liên_quan đến tình_ái dụ ông suy_tim sang nhà chơi đột_tử ” – ông cương thông_tin
+12,đề thi ít_nhiều yếu_tố hài_hước ông cương đem đến người học giá_trị bài_học hành_nghề luật
+13,ông cương thẳng_thắn biết phía trung_tâm nhìn_nhận ý_kiến đóng_góp xã_hội đồng_nghiệp người học rút kinh_nghiệm đề thi hay đảm_bảo gây tranh_luận

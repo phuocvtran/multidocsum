@@ -1,4 +1,4 @@
 idx, sentence
-0,ngày 285  công_an huyện hóc_môn  tp hồ_chí_minh đang phối_hợp với phòng cảnh_sát hình_sự  pc45  công_an tp hồ_chí_minh_điều_tra làm rõ vụ trộm két sắt tại nhà ông trương_văn_hiền  49 tuổi  tổng_giám_đốc công_ty văn_hóa_sài_gòn  ngụ đường tô_ký  xã thới_tam_thôn  huyện hóc_môn  
-1,theo trình_bày của ông hiền  tối 26 rạng sáng 275  các đối_tượng đột_nhập vào nhà ông hiền khiêng két sắt chứa nhiều tài_sản trị_giá 2 tỷ đồng cùng nhiều giấy_tờ quan_trọng bên trong 
-2,công_an huyện hóc_môn đã phối_hợp với phòng pc45 tiến_hành khám_nghiệm hiện_trường  thu_thập dấu_vết để làm rõ 
+0,ngày 285 công_an huyện hóc_môn tp hồ_chí_minh phối_hợp phòng cảnh_sát hình_sự pc45 công_an tp hồ_chí_minh_điều_tra làm rõ vụ trộm két sắt nhà ông trương_văn_hiền 49 tuổi tổng_giám_đốc công_ty văn_hóa_sài_gòn ngụ đường tô_ký xã thới_tam_thôn huyện hóc_môn
+1,trình_bày ông hiền tối 26 rạng sáng 275 đối_tượng đột_nhập nhà ông hiền khiêng két sắt chứa tài_sản trị_giá 2 tỷ đồng giấy_tờ quan_trọng bên trong
+2,công_an huyện hóc_môn phối_hợp phòng pc45 tiến_hành khám_nghiệm hiện_trường thu_thập dấu_vết làm rõ

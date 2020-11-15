@@ -1,18 +1,18 @@
 idx, sentence
-0,là sân_chơi dành cho những thí_sinh muốn thể_hiện khả_năng diễn_xuất thông_qua những tiểu_phẩm “ hài không giới_hạn ”  đấu_trường tiếu_lâm đã trải qua 8 tập phát_sóng  4 đội của các hlv là thu_trang  tiến_luật  trường_giang  trấn_thành  đức_thịnh đã chọn cho mình 10 chiến_binh thích_hợp 
-1,tới vòng song đấu  10 thí_sinh trong mỗi đội được chia cặp thi_thố cùng nhau để hlv chọn ra những ngươi xứng_đáng 
-2,hiện_tại  vòng song đấu đã đi qua được 3 tập  chỉ còn 1 tập nữa là khép lại 
-3,tuy_nhiên  những bình_luận đa_chiều tại vòng này xuất_hiện liên_tục 
-4,bên cạnh những lời_khen  các hlv và thí_sinh cũng vướng phải chỉ_trích rằng kịch_bản từng tiểu_phẩm chưa được như mong_đợi 
-5,đáp lại những ý_kiến trái chiều  hlv đức_thịnh đã có những chia_sẻ khá thẳng_thắn  “ đọc lướt qua các comment của khán_giả khi xem chương_trình thì thấy có khá nhiều thắc_mắc liên_quan đến việc kịch_bản các tiểu_phẩm hài là của ai  của thí_sinh hay của huấn_luyện_viên 
-6,thật_ra chương_trình không qui_định điều này 
-7,tất_cả dựa vào sự bàn_bạc tính_toán chung của thí_sinh và huấn_luyện_viên  ” 
-8,theo hlv đức_thịnh  thí_sinh bắt_đầu bằng việc lên ý_tưởng và nội_dung mà họ thích nhất  nếu nhận thấy ý_tưởng và nội_dung thí_sinh đưa ra tốt  hlv sẽ cùng thí_sinh phát_triển và tập_luyện  còn không sẽ bàn_bạc để đưa ra ý_tưởng nội_dung khác 
-9,chính vì_vậy  một tiểu_phẩm tốt hay chưa tốt đều là công và lỗi cả hai 
-10,tuy_nhiên  hlv đức_thịnh thú_nhận rằng  “ có những vòng đấu đội đức_thịnh thi_đấu chưa tốt là hoàn_toàn lỗi ở hlv 
-11,ngay khi họ diễn được khoảng 2 phút đầu tôi đã nhận ra mình sai 
-12,cũng có những vòng đấu  kịch_bản rất hay nhưng do thí_sinh diễn không tốt  có_thể vì áp_lực tâm_lý  ” 
-13,hlv đức_thịnh nhấn_mạnh  đấu_trường tiếu_lâm là cuộc thi đường dài  có những vòng đấu rất tệ và những vòng đấu thăng_hoa 
-14,hlv đức_thịnh tin rằng  “ những thí_sinh đi tới vòng cuối_cùng luôn là những người giỏi và  lì_lợm  nhất ” 
-15,đặc_biệt  hlv đức_thịnh cũng bất_ngờ xin_lỗi thí_sinh vì  “ riêng ở đội đức_thịnh  những phần trình_diễn không tốt của thí_sinh hầu_như đều là do lỗi ở hlv 
-16,nhiều lúc tôi rất muốn xin_lỗi thí_sinh của mình nhưng sợ mọi người nghĩ mình xạo  lại thôi ” 
+0,sân_chơi dành thí_sinh muốn thể_hiện khả_năng diễn_xuất thông_qua tiểu_phẩm “ hài giới_hạn ” đấu_trường tiếu_lâm trải 8 tập phát_sóng 4 đội hlv thu_trang tiến_luật trường_giang trấn_thành đức_thịnh chọn mình 10 chiến_binh thích_hợp
+1,tới vòng song đấu 10 thí_sinh trong đội chia cặp thi_thố nhau hlv chọn ngươi xứng_đáng
+2,hiện_tại vòng song đấu đi 3 tập còn 1 tập khép
+3,tuy_nhiên bình_luận đa_chiều vòng xuất_hiện liên_tục
+4,bên cạnh lời_khen hlv thí_sinh vướng chỉ_trích kịch_bản tiểu_phẩm mong_đợi
+5,đáp ý_kiến trái chiều hlv đức_thịnh chia_sẻ khá thẳng_thắn “ đọc lướt comment khán_giả xem chương_trình thấy khá thắc_mắc liên_quan đến kịch_bản tiểu_phẩm hài ai thí_sinh hay huấn_luyện_viên
+6,thật_ra chương_trình qui_định
+7,tất_cả dựa bàn_bạc tính_toán chung thí_sinh huấn_luyện_viên ”
+8,hlv đức_thịnh thí_sinh bắt_đầu bằng ý_tưởng nội_dung họ thích nhất nhận thấy ý_tưởng nội_dung thí_sinh đưa tốt hlv thí_sinh phát_triển tập_luyện còn bàn_bạc đưa ý_tưởng nội_dung khác
+9,chính vì_vậy một tiểu_phẩm tốt hay tốt công lỗi hai
+10,tuy_nhiên hlv đức_thịnh thú_nhận “ vòng đấu đội đức_thịnh thi_đấu tốt hoàn_toàn lỗi ở hlv
+11,họ diễn khoảng 2 phút đầu tôi nhận mình sai
+12,vòng đấu kịch_bản hay thí_sinh diễn tốt áp_lực tâm_lý ”
+13,hlv đức_thịnh nhấn_mạnh đấu_trường tiếu_lâm cuộc thi đường dài vòng đấu tệ vòng đấu thăng_hoa
+14,hlv đức_thịnh tin “ thí_sinh đi tới vòng cuối_cùng luôn người giỏi lì_lợm nhất ”
+15,đặc_biệt hlv đức_thịnh bất_ngờ xin_lỗi thí_sinh “ riêng ở đội đức_thịnh phần trình_diễn tốt thí_sinh hầu_như lỗi ở hlv
+16,tôi muốn xin_lỗi thí_sinh mình sợ mọi người nghĩ mình xạo thôi ”

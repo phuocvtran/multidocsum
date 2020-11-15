@@ -1,16 +1,16 @@
 idx, sentence
-0,đt đức đã chính_thức chốt danh_sách 23 cái tên tham_dự vck_euro 2016 tại pháp trong thời_gian tới 
-1,trong bản danh_sách cuối_cùng  hlv joachim_low đã quyết_định loại tiền_vệ marco_reus ra khỏi danh_sách tham_dự giải châu_âu 
-2,việc hlv đt đức phải loại tiền_vệ đang thuộc biên_chế của dortmund cũng là điều bất_đắc_dĩ 
-3,marco reus dính chấn_thương háng và dù rất nỗ_lực trong chữa_trị nhưng vẫn không kịp bình_phục để dự vck_euro 
-4,trước đó  marco_reus trong bối_cảnh chấn_thương háng nhưng vẫn góp_mặt trong trận chung_kết cúp đức mà bayern_munich vượt qua dortmund sau loạt luân_lưu 
-5,sau đó  tiền_vệ 27 tuổi này đã được hlv joachim_low gọi lên tuyển và anh bắt_đầu bước vào chế_độ điều_trị chấn_thương đặc_biệt 
-6,đáng tiếc chấn_thương của tiền_vệ người đức phục_hồi rất chậm và không kịp dự euro 2016 
-7,đây là lần thứ hai  marco_reus lỡ_hẹn một giải đấu lớn với tuyển đức 
-8,thời_điểm này 2 năm trước  tiền_vệ của dortmund cũng là nạn_nhân của chấn_thương nặng  khiến cho anh bị loại khỏi đội_hình dự world_cup 2014 
-9,không có reus  đức lần thứ 4 vđtg trên đất brazil 
-10,giải quốc_tế đầu_tiên và duy_nhất mà reus tham_dự cho đến nay là euro 2012 
-11,nhưng đó là giải đấu anh chỉ tham_dự 124 phút  và đức thua italy ở bán_kết 
-12,ngoài reus  hlv joachim_low còn gạch tên 3 người khác gồm bộ đôi cầu_thủ của bayer_leverkusen là karim_bellarabi  julian_brandt và sebastian_rudy của hoffenheim 
-13,đáng chú_ý  tiền_vệ bastian_schweinsteiger của man_utd  người vừa_mới bình_phục chấn_thương đầu_gối đã được low giữ lại 
-14,bên_cạnh đó  trung_vệ mats_hummels  người hiện vẫn đang trong quá_trình bình_phục chấn_thương bắp_chân cũng có tên trong danh_sách 
+0,đt đức chính_thức chốt danh_sách 23 tên tham_dự vck_euro 2016 pháp trong thời_gian tới
+1,trong bản danh_sách cuối_cùng hlv joachim_low quyết_định loại tiền_vệ marco_reus khỏi danh_sách tham_dự giải châu_âu
+2,hlv đt đức loại tiền_vệ thuộc biên_chế dortmund bất_đắc_dĩ
+3,marco reus dính chấn_thương háng dù nỗ_lực trong chữa_trị kịp bình_phục dự vck_euro
+4,marco_reus trong bối_cảnh chấn_thương háng góp_mặt trong trận chung_kết cúp đức bayern_munich vượt dortmund loạt luân_lưu
+5,tiền_vệ 27 tuổi hlv joachim_low gọi tuyển anh bắt_đầu bước chế_độ điều_trị chấn_thương đặc_biệt
+6,đáng tiếc chấn_thương tiền_vệ người đức phục_hồi chậm kịp dự euro 2016
+7,lần thứ hai marco_reus lỡ_hẹn một giải đấu lớn tuyển đức
+8,thời_điểm 2 năm tiền_vệ dortmund nạn_nhân chấn_thương nặng khiến anh loại khỏi đội_hình dự world_cup 2014
+9,reus đức lần thứ 4 vđtg đất brazil
+10,giải quốc_tế đầu_tiên duy_nhất reus tham_dự đến nay euro 2012
+11,giải đấu anh tham_dự 124 phút đức thua italy ở bán_kết
+12,ngoài reus hlv joachim_low còn gạch tên 3 người khác gồm bộ đôi cầu_thủ bayer_leverkusen karim_bellarabi julian_brandt sebastian_rudy hoffenheim
+13,đáng chú_ý tiền_vệ bastian_schweinsteiger man_utd người vừa_mới bình_phục chấn_thương đầu_gối low giữ
+14,bên_cạnh trung_vệ mats_hummels người hiện trong quá_trình bình_phục chấn_thương bắp_chân tên trong danh_sách

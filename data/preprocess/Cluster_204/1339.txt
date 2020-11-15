@@ -1,6 +1,6 @@
 idx, sentence
-0,thời_điểm trên  xe ô_tô 4 chỗ bs  51f  37389 chạy với tốc_độ nhanh trên đường bạch_đằng  hướng từ qgò_vấp về sân_bay tân_sơn_nhất 
-1,qua khỏi vòng xoay ngã năm gò_vấp khoảng 300 m  chiếc xe này bất_ngờ lao sang làn đường_ngược_lại  tông mạnh vào hông xe taxi hãng vinasun khiến chiếc xe quay ngang và bị xe taxi hãng đầm_sen chạy cùng chiều đâm vào 
-2,tại hiện_trường  ô_tô 4 chỗ bị bể bánh trước bên trái  phần đầu bị hư_hỏng nặng 
-3,riêng xe taxi hãng vinasun bị gãy rời bánh sau và thời_điểm xảy ra tai_nạn trên xe này có 4 hành_khách nhưng may_mắn không có thương_vong về người 
-4,theo tài_xế xe ô_tô 4 chỗ  do tránh thanh_niên niên đi xe_máy cắt ngang đường_dẫn đến mất tay_lái và xảy ra tai_nạn 
+0,thời_điểm xe ô_tô 4 chỗ bs 51f 37389 chạy tốc_độ nhanh đường bạch_đằng hướng qgò_vấp về sân_bay tân_sơn_nhất
+1,khỏi vòng xoay ngã năm gò_vấp khoảng 300 m xe bất_ngờ lao sang làn đường_ngược_lại tông mạnh hông xe taxi hãng vinasun khiến xe quay ngang xe taxi hãng đầm_sen chạy chiều đâm
+2,hiện_trường ô_tô 4 chỗ bể bánh bên trái phần đầu hư_hỏng nặng
+3,riêng xe taxi hãng vinasun gãy rời bánh thời_điểm xảy tai_nạn xe 4 hành_khách may_mắn thương_vong về người
+4,tài_xế xe ô_tô 4 chỗ tránh thanh_niên niên đi xe_máy cắt ngang đường_dẫn đến mất tay_lái xảy tai_nạn

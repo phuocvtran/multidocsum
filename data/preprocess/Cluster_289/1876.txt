@@ -1,10 +1,10 @@
 idx, sentence
-0,nghi phạm cướp ô_tô là lê_trung_hiếu  27 tuổi  ngụ ptương bình_hiệp 
-1,theo cơ_quan_chức_năng  thời_điểm trên  chị nguyễn_thị_ngọc_mai  40 tuổi  dừng ôtô 4 chỗ để ăn sáng tại một quán ăn trên đường nguyễn_chí_thanh 
-2,lúc này lê_trung_hiếu thấy chìa_khóa vẫn còn trong xe nên mở_cửa vào trong xe  lái theo hướng ra quốc_lộ 13 
-3,khi đến đoạn ngã 3 giao quốc_lộ 13 với đường hồ_văn_cống  chiếc xe tông vào một xe ba_gác rồi tiếp_tục lao vào quán cà_phê bên đường  tông sập quán này mới dừng lại 
-4,người lái xe ba_gác bị_thương nặng được đi cấp_cứu 
-5,tại hiện_trường  chiếc xe 4 chỗ bị bể nát phần đầu  hư_hỏng nặng  cột_điện trước quán cà_phê bị tông đổ 
-6,bên trong  phần mái_che của quán cà_phê bị tông sập  bàn_ghế văng khắp quán 
-7,một chiếc xe_máy của khách để gần đó cũng bị chiếc xe này kéo_lê vào quán 
-8,rất may  trước khi xảy ra vụ_việc khoảng 10 phút  một_số khách uống cà_phê đã di_chuyển vào bên trong do trời nắng nên không ai bị_thương 
+0,nghi phạm cướp ô_tô lê_trung_hiếu 27 tuổi ngụ ptương bình_hiệp
+1,cơ_quan_chức_năng thời_điểm chị nguyễn_thị_ngọc_mai 40 tuổi dừng ôtô 4 chỗ ăn sáng một quán ăn đường nguyễn_chí_thanh
+2,lê_trung_hiếu thấy chìa_khóa còn trong xe mở_cửa trong xe lái hướng quốc_lộ 13
+3,đến đoạn ngã 3 giao quốc_lộ 13 đường hồ_văn_cống xe tông một xe ba_gác tiếp_tục lao quán cà_phê bên đường tông sập quán mới dừng
+4,người lái xe ba_gác bị_thương nặng đi cấp_cứu
+5,hiện_trường xe 4 chỗ bể nát phần đầu hư_hỏng nặng cột_điện quán cà_phê tông đổ
+6,bên trong phần mái_che quán cà_phê tông sập bàn_ghế văng khắp quán
+7,một xe_máy khách gần xe kéo_lê quán
+8,may xảy vụ_việc khoảng 10 phút một_số khách uống cà_phê di_chuyển bên trong trời nắng ai bị_thương

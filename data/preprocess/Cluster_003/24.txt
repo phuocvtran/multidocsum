@@ -1,14 +1,14 @@
 idx, sentence
-0,sáng ngày 205 tại đài_bắc  bà thái anh_văn đã tuyên thế nhậm_chức lãnh_đạo đài_loan trước sự chứng_kiến của người tiền nhiềm mã_anh cửu  cựu lãnh_đạo đài_loan lý_đăng_huy  các quan_chức cấp cao_đài_loan và khoảng 70 quan_chức nước_ngoài  theo south_china_morning_post 
-1,bà thái anh_văn  59 tuổi là chủ_tịch đảng_dân_tiến  dpp  
-2,bà đã giành chiến_thắng áp_đảo trong cuộc bầu_cử lãnh_đạo đài_loan diễn ra vào tháng 12016 
-3,với chiến_thắng áp_đảo đó  bà trở_thành người thứ hai đưa đảng dpp lên cầm_quyền sau ông trần_thủy_biển 
-4,bà giờ_đây chính_thức trở_thành nữ lãnh_đạo đầu_tiên của đài_loan 
-5,báo_giới đánh_giá bà thái có vẻ ngoài khá mềm_yếu nhưng lại là một nữ chính_trị_gia quyết_đoán và có hiểu_biết rất sâu_rộng 
-6,bản_thân bà thái thường thích so_sánh mình với thủ_tướng đức_angela_merkel  người được coi là bà đầm thép của châu_âu 
-7,sự_kiện bà thái anh_văn nhậm_chức được cho là thu_hút sự quan_tâm rất lớn của trung_quốc 
-8,trước khi đài_loan tiến_hành chuyển_giao quyền_lực  phía bắc_kinh đã nhiều lần cảnh_báo bà thái anh_văn rằng chớ nên có bất_kỳ động_thái nào theo hướng đòi độc_lập 
-9,trong những ngày qua  quân_đội trung_quốc còn tập_trận rầm_rộ tại bờ biển phía đông đối_diện đài_loan 
-10,hoạt_động này được nhiều người nhận_định là để tỏ thái_độ trước với đài_loan 
-11,liên_quan đến buổi nhậm_chức ngày 205  bà thái anh_văn dự_kiến sẽ có bài phát_biểu vào buổi trưa 
-12,truyền_thông địa_phương dẫn lời người phát_ngôn của bà thái cho biết bài phát_biểu của tân lãnh_đạo đài_loan sẽ tập_trung vào kinh_tế và phát_triển bền_vững  đồng_thời bà cũng sẽ nói về tương_lai quan_hệ với bắc_kinh 
+0,sáng ngày 205 đài_bắc bà thái anh_văn tuyên thế nhậm_chức lãnh_đạo đài_loan chứng_kiến người tiền nhiềm mã_anh cửu cựu lãnh_đạo đài_loan lý_đăng_huy quan_chức cấp cao_đài_loan khoảng 70 quan_chức nước_ngoài south_china_morning_post
+1,bà thái anh_văn 59 tuổi chủ_tịch đảng_dân_tiến dpp
+2,bà giành chiến_thắng áp_đảo trong cuộc bầu_cử lãnh_đạo đài_loan diễn tháng 12016
+3,chiến_thắng áp_đảo bà trở_thành người thứ hai đưa đảng dpp cầm_quyền ông trần_thủy_biển
+4,bà giờ_đây chính_thức trở_thành nữ lãnh_đạo đầu_tiên đài_loan
+5,báo_giới đánh_giá bà thái vẻ ngoài khá mềm_yếu một nữ chính_trị_gia quyết_đoán hiểu_biết sâu_rộng
+6,bản_thân bà thái thường thích so_sánh mình thủ_tướng đức_angela_merkel người coi bà đầm thép châu_âu
+7,sự_kiện bà thái anh_văn nhậm_chức thu_hút quan_tâm lớn trung_quốc
+8,đài_loan tiến_hành chuyển_giao quyền_lực phía bắc_kinh lần cảnh_báo bà thái anh_văn chớ bất_kỳ động_thái nào hướng đòi độc_lập
+9,trong ngày quân_đội trung_quốc còn tập_trận rầm_rộ bờ biển phía đông đối_diện đài_loan
+10,hoạt_động người nhận_định tỏ thái_độ đài_loan
+11,liên_quan đến buổi nhậm_chức ngày 205 bà thái anh_văn dự_kiến bài phát_biểu buổi trưa
+12,truyền_thông địa_phương dẫn lời người phát_ngôn bà thái biết bài phát_biểu tân lãnh_đạo đài_loan tập_trung kinh_tế phát_triển bền_vững đồng_thời bà nói về tương_lai quan_hệ bắc_kinh

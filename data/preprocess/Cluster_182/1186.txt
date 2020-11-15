@@ -1,8 +1,8 @@
 idx, sentence
-0,alan pulido mới trở về quê nhà mexico và tham_gia bữa tiệc với bạn_bè tới tối muộn 28/5 
-1,trên đường về nhà  cầu_thủ 25 tuổi này đã bị một nhóm 6 tay súng chặn đường và bắt_cóc 
-2,điều đặc_biệt là chúng không hề đoái_hoài tới cô bạn gái của pulido và để mặc cô gái hoảng_loạn trong xe 
-3,bạn gái của pulido ngay sau đó đã tới cảnh_sát trình_báo sự_việc 
-4,địa_điểm vụ bắt_cóc xảy ra tại khu_vực phía bắc tamaulipas  giáp với bang texas  mỹ 
-5,đây cũng là điểm_nóng của các nhóm tội_phạm ma_túy  buôn_người 
-6,hiện_tại người_ta vẫn chưa rõ động_cơ của nhóm bắt_cóc 
+0,alan pulido mới trở về quê nhà mexico tham_gia bữa tiệc bạn_bè tới tối muộn 28/5
+1,đường về nhà cầu_thủ 25 tuổi một nhóm 6 tay súng chặn đường bắt_cóc
+2,đặc_biệt chúng hề đoái_hoài tới cô bạn gái pulido mặc cô gái hoảng_loạn trong xe
+3,bạn gái pulido tới cảnh_sát trình_báo sự_việc
+4,địa_điểm vụ bắt_cóc xảy khu_vực phía bắc tamaulipas giáp bang texas mỹ
+5,điểm_nóng nhóm tội_phạm ma_túy buôn_người
+6,hiện_tại người_ta rõ động_cơ nhóm bắt_cóc

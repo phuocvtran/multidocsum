@@ -1,35 +1,35 @@
 idx, sentence
-0,tại hội_nghị trực_tuyến toàn_quốc về bhyt toàn dân  tổ_chức sáng nay  3/6   bảo_hiểm_xã_hội  bhxh  việt_nam cho_biết  tính đến hết năm 2015  chỉ_tiêu bao_phủ bhyt trên 765  dân_số 
-1,tính đến đầu năm nay  đã có gần 71 triệu người tham_gia bhyt và đang nỗ_lực để nâng tỷ_lệ tham_gia bhyt lên 78  dân_số 
-2,với tỷ_lệ tham_gia này  theo thống_kê của bộ y_tế  số lượt khám chữa bệnh bhyt đã tăng qua các năm  năm 2014 là 136 triệu lượt  năm 2015 là khoảng 150 triệu lượt 
-3,số tiền khám chữa bệnh bhyt năm 2015 lên tới 50000 tỷ đồng  ngày_càng nhiều người dân tiếp_cận các dịch_vụ y_tế 
-4,tuy_nhiên  theo bhxh việt_nam  năm 2015  thủ_tướng chính_phủ đã giao các địa_phương huy_động cả nguồn_lực tài_chính để hỗ_trợ cho người dân tham_gia bhyt  trước_mắt là hồ trợ 30  mức đóng bhyt còn lại của các đối_tượng thuộc hộ cận nghèo 
-5,thế nhưng đến nay vẫn còn một_số tỉnh  thành_phố chưa có cơ_chế hỗ_trợ 
-6,bên_cạnh đó  hầu_hết các địa_phương chưa hỗ_trợ được hộ nông  lâm  ngư  diêm_nghiệp có mức_sống trung_bình  học_sinh  sinh_viên thuộc các hộ gia_đình đông con  khó_khăn về kinh_tế  bhxh việt_nam đề_nghị các địa_phương ngay trong năm 2016  hỗ_trợ mức đóng bhyt cho các đối_tượng này khoảng 450 tỷ đồng 
-7,bhxh việt_nam cũng nêu lên một thực_trạng rất rõ là lộ_trình điều_chỉnh của dịch_vụ y_tế còn chậm  chưa đảm_bảo sự công_bằng giữa những người_bệnh có thẻ bhyt và người chưa tham_gia bhyt 
-8,theo phó_thủ_tướng vũ_đức_đam  để khuyến_khích người dân tham_gia bhyt  cách tuyên_truyền tốt nhất là cần phải nâng cao chất_lượng khám chữa bệnh  không được phân_biệt giữa người khám bhyt và khám dịch_vụ 
-9,trực_tiếp đi khảo_sát tại các bệnh_viện tại hà_nội  tp hcm và một_số tỉnh lân_cận  phó_thủ_tướng vũ_đức_đam cho biết đã có tiến_bộ  nhưng vẫn có sự phân_biệt giữa khám bhyt và khám dịch_vụ 
-10,kết_luận tại hội_nghị  thủ_tướng nguyễn_xuân_phúc biểu_dương lãnh_đạo cao nhất 63 tỉnh  thành quan_tâm tham_dự  thể_hiện sự quan_tâm đến sức_khỏe người dân 
-11,mọi ý_kiến đều đồng_tình đến năm 2020 có trên 90  tham_gia bảo_hiểm y_tế 
-12,về một_số tồn_tại  thủ_tướng nêu rõ  cấp_ủy chính_quyền một_số địa_phương chưa xác_định rõ vai_trò trách_nhiệm trong chỉ_đạo_luật_bhyt tại địa_phương  công_tác tuyên_truyền chưa hiệu_quả  người dân vẫn thiếu thông_tin về trách_nhiệm  quyền_lợi khi tham_gia bhyt 
-13,hiện tỷ_lệ bao_phủ của nhiều địa_phương thấp  31 địa_phương độ phủ dưới 75  
-14,chất_lượng khám bệnh  chữa bệnh dùng thẻ bhyt tuy có chuyển_biến  nhưng chưa được cải_thiện nhiều  chưa đảm_bảo quyền_lợi của người có thẻ bhyt khi đến khám chữa bệnh 
-15,công_tác thanh_tra kiểm_tra các cơ_sở bhyt của bhxh còn rườm_rà  khiến nhiều cơ_sở chưa yên_tâm 
-16,từ thực_tế đó  thủ_tướng nguyễn_xuân_phúc  chỉ_đạo  “ tham_gia bhyt là bắt_buộc  đã được quy_định trong luật  và đây là quyền_lợi và trách_nhiệm toàn dân  hướng tới bhyt toàn dân 
-17,quyết_tâm đến năm 2020 đạt trên 90  người dân tham_gia bhyt 
-18,sẽ có một quyết_định chính_thức về vấn_đề này để giao nhiệm_vụ  sau khi có thảo_luận dân_chủ  cởi_mở  tháo_gỡ các vướng_mắc 
-19,trước_hết là 63 bí_thư  63 chủ_tịch phải làm_việc này vì dân ” 
-20,để các đối_tượng thuộc diện cần hỗ_trợ mua bhyt  thủ_tướng đồng_ý trong năm 2016  sử_dụng 200 tỷ kết_dư bhyt cấp trung_ương và 200 tỷ kết_dư bhyt các địa_phương 
-21,điều này đúng với luật_định đã ban_hành và đã có thông_tư hướng_dẫn của các bộ có liên_quan 
-22,đối_với bộ y_tế  thủ_tướng chỉ_đạo phải nâng cao chất_lượng khám bệnh bhyt  tránh phân_biệt đối_xử 
-23,“ bộ y_tế chỉ_đạo các bệnh_viện  nâng cao chất_lượng khám chữa bệnh  không phân_biệt người khám bằng thẻ bhyt  đặc_biệt là cải_cách thủ_tục hành_chính  cải_tiến quy_trình_thanh_toán  tạo điều_kiện thuận_lợi nhất cho người tham_gia khám chữa bệnh  dùng thẻ bhyt để thanh_toán  không phải dùng tiền_túi khi khám chữa bệnh 
-24,muốn thế ngành y_tế phải tăng_cường thanh_tra  kiểm_tra các bệnh_viện  tạo điều_kiện cho các cơ_quan truyền_thông_báo_chí tham_gia giám_sát ”  thủ_tướng nhấn_mạnh 
-25,thủ_tướng cũng cho biết thủ_tướng chính_phủ đã có văn_bản về việc thực_hiện nghiêm việc kết_nối liên_thông_dữ_liệu từ 30/6 
-26,thủ_tướng nhấn_mạnh là giao cho một đầu_mối là tập_đoàn viettel  đảm_nhận kết_nối tất_cả các cơ_sở khám chữa bệnh bảo_hiểm y_tế để thống_nhất chung 
-27,thủ_tướng yêu_cầu lãnh_đạo các tỉnh  thành_phố trực_thuộc trung_ương  yêu_cầu đưa tỷ_lệ tham_gia bhyt vào chỉ_tiêu phát_triển kinh_tế xã_hội hàng năm  5 năm  chịu trách_nhiệm trước thủ_tướng chính_phủ 
-28,từ năm 2017 các địa_phương bố_trí ngân_sách  hỗ_trợ người dân mua bhyt tùy từng đối_tượng người nghèo  cận nghèo  các hộ khác theo quy_định 
-29,đối_với bộ tài_chính làm_việc với bhxh việt_nam  dùng kết_dư quỹ bhyt vào cân_đối hàng năm  bố_trí đầy_đủ kịp_thời ngân_sách để hỗ_trợ mức đóng bhyt theo quy_định  xây_dựng cơ_chế chính_sách tham_gia bhyt với các đối_tượng do ngân_sách nhà_nước đóng ổn_định để có kế_hoạch cân_đối ngân_sách trung và dài_hạn 
-30,bộ tài_chính cũng đổi_mới chi ngân_sách nhà_nước trong lĩnh_vực y_tế  theo hướng chuyển dần từ cấp cho cơ_sở khám chữa bệnh sang hỗ_trợ mua bhyt gắn với lộ_trình tăng_giá dịch_vụ 
-31,bộ tài_chính khi thu thuế thì thu luôn bhyt 
-32,để đến năm 2017  100  đối_tượng này tham_gia bhyt  thủ_tướng chỉ_đạo bộ giáo_dục_và_đào_tạo xây_dựng kế_hoạch thực_hiện bhyt cho học_sinh  sinh_viên  phối_hợp với trung_ương đoàn  tăng_cường thông_tin truyền_thông  vận_động sinh_viên tham_gia bhyt 
-33,thủ_tướng đề_nghị mặt_trận tổ_quốc_việt_nam và các tổ_chức chính_trị giám_sát việc vận_động  hỗ_trợ thực_hiện luật này 
+0,hội_nghị trực_tuyến toàn_quốc về bhyt toàn dân tổ_chức sáng nay 3/6 bảo_hiểm_xã_hội bhxh việt_nam cho_biết tính đến hết năm 2015 chỉ_tiêu bao_phủ bhyt 765 dân_số
+1,tính đến đầu năm nay gần 71 triệu người tham_gia bhyt nỗ_lực nâng tỷ_lệ tham_gia bhyt 78 dân_số
+2,tỷ_lệ tham_gia thống_kê bộ y_tế số lượt khám chữa bệnh bhyt tăng năm năm 2014 136 triệu lượt năm 2015 khoảng 150 triệu lượt
+3,số tiền khám chữa bệnh bhyt năm 2015 tới 50000 tỷ đồng ngày_càng người dân tiếp_cận dịch_vụ y_tế
+4,tuy_nhiên bhxh việt_nam năm 2015 thủ_tướng chính_phủ giao địa_phương huy_động nguồn_lực tài_chính hỗ_trợ người dân tham_gia bhyt trước_mắt hồ trợ 30 mức đóng bhyt còn đối_tượng thuộc hộ cận nghèo
+5,thế đến nay còn một_số tỉnh thành_phố cơ_chế hỗ_trợ
+6,bên_cạnh hầu_hết địa_phương hỗ_trợ hộ nông lâm ngư diêm_nghiệp mức_sống trung_bình học_sinh sinh_viên thuộc hộ gia_đình đông con khó_khăn về kinh_tế bhxh việt_nam đề_nghị địa_phương trong năm 2016 hỗ_trợ mức đóng bhyt đối_tượng khoảng 450 tỷ đồng
+7,bhxh việt_nam nêu một thực_trạng rõ lộ_trình điều_chỉnh dịch_vụ y_tế còn chậm đảm_bảo công_bằng giữa người_bệnh thẻ bhyt người tham_gia bhyt
+8,phó_thủ_tướng vũ_đức_đam khuyến_khích người dân tham_gia bhyt cách tuyên_truyền tốt nhất nâng cao chất_lượng khám chữa bệnh phân_biệt giữa người khám bhyt khám dịch_vụ
+9,trực_tiếp đi khảo_sát bệnh_viện hà_nội tp hcm một_số tỉnh lân_cận phó_thủ_tướng vũ_đức_đam biết tiến_bộ phân_biệt giữa khám bhyt khám dịch_vụ
+10,kết_luận hội_nghị thủ_tướng nguyễn_xuân_phúc biểu_dương lãnh_đạo cao nhất 63 tỉnh thành quan_tâm tham_dự thể_hiện quan_tâm đến sức_khỏe người dân
+11,mọi ý_kiến đồng_tình đến năm 2020 90 tham_gia bảo_hiểm y_tế
+12,về một_số tồn_tại thủ_tướng nêu rõ cấp_ủy chính_quyền một_số địa_phương xác_định rõ vai_trò trách_nhiệm trong chỉ_đạo_luật_bhyt địa_phương công_tác tuyên_truyền hiệu_quả người dân thiếu thông_tin về trách_nhiệm quyền_lợi tham_gia bhyt
+13,hiện tỷ_lệ bao_phủ địa_phương thấp 31 địa_phương độ phủ 75
+14,chất_lượng khám bệnh chữa bệnh dùng thẻ bhyt tuy chuyển_biến cải_thiện đảm_bảo quyền_lợi người thẻ bhyt đến khám chữa bệnh
+15,công_tác thanh_tra kiểm_tra cơ_sở bhyt bhxh còn rườm_rà khiến cơ_sở yên_tâm
+16,thực_tế thủ_tướng nguyễn_xuân_phúc chỉ_đạo “ tham_gia bhyt bắt_buộc quy_định trong luật quyền_lợi trách_nhiệm toàn dân hướng tới bhyt toàn dân
+17,quyết_tâm đến năm 2020 đạt 90 người dân tham_gia bhyt
+18,một quyết_định chính_thức về vấn_đề giao nhiệm_vụ thảo_luận dân_chủ cởi_mở tháo_gỡ vướng_mắc
+19,trước_hết 63 bí_thư 63 chủ_tịch làm_việc dân ”
+20,đối_tượng thuộc diện hỗ_trợ mua bhyt thủ_tướng đồng_ý trong năm 2016 sử_dụng 200 tỷ kết_dư bhyt cấp trung_ương 200 tỷ kết_dư bhyt địa_phương
+21,đúng luật_định ban_hành thông_tư hướng_dẫn bộ liên_quan
+22,đối_với bộ y_tế thủ_tướng chỉ_đạo nâng cao chất_lượng khám bệnh bhyt tránh phân_biệt đối_xử
+23,“ bộ y_tế chỉ_đạo bệnh_viện nâng cao chất_lượng khám chữa bệnh phân_biệt người khám bằng thẻ bhyt đặc_biệt cải_cách thủ_tục hành_chính cải_tiến quy_trình_thanh_toán tạo điều_kiện thuận_lợi nhất người tham_gia khám chữa bệnh dùng thẻ bhyt thanh_toán dùng tiền_túi khám chữa bệnh
+24,muốn thế ngành y_tế tăng_cường thanh_tra kiểm_tra bệnh_viện tạo điều_kiện cơ_quan truyền_thông_báo_chí tham_gia giám_sát ” thủ_tướng nhấn_mạnh
+25,thủ_tướng biết thủ_tướng chính_phủ văn_bản về thực_hiện nghiêm kết_nối liên_thông_dữ_liệu 30/6
+26,thủ_tướng nhấn_mạnh giao một đầu_mối tập_đoàn viettel đảm_nhận kết_nối tất_cả cơ_sở khám chữa bệnh bảo_hiểm y_tế thống_nhất chung
+27,thủ_tướng yêu_cầu lãnh_đạo tỉnh thành_phố trực_thuộc trung_ương yêu_cầu đưa tỷ_lệ tham_gia bhyt chỉ_tiêu phát_triển kinh_tế xã_hội hàng năm 5 năm chịu trách_nhiệm thủ_tướng chính_phủ
+28,năm 2017 địa_phương bố_trí ngân_sách hỗ_trợ người dân mua bhyt tùy đối_tượng người nghèo cận nghèo hộ khác quy_định
+29,đối_với bộ tài_chính làm_việc bhxh việt_nam dùng kết_dư quỹ bhyt cân_đối hàng năm bố_trí đầy_đủ kịp_thời ngân_sách hỗ_trợ mức đóng bhyt quy_định xây_dựng cơ_chế chính_sách tham_gia bhyt đối_tượng ngân_sách nhà_nước đóng ổn_định kế_hoạch cân_đối ngân_sách trung dài_hạn
+30,bộ tài_chính đổi_mới chi ngân_sách nhà_nước trong lĩnh_vực y_tế hướng chuyển dần cấp cơ_sở khám chữa bệnh sang hỗ_trợ mua bhyt gắn lộ_trình tăng_giá dịch_vụ
+31,bộ tài_chính thu thuế thu luôn bhyt
+32,đến năm 2017 100 đối_tượng tham_gia bhyt thủ_tướng chỉ_đạo bộ giáo_dục_và_đào_tạo xây_dựng kế_hoạch thực_hiện bhyt học_sinh sinh_viên phối_hợp trung_ương đoàn tăng_cường thông_tin truyền_thông vận_động sinh_viên tham_gia bhyt
+33,thủ_tướng đề_nghị mặt_trận tổ_quốc_việt_nam tổ_chức chính_trị giám_sát vận_động hỗ_trợ thực_hiện luật

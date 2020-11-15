@@ -1,15 +1,15 @@
 idx, sentence
-0,có diện_tích 15 ha  dự_án nằm gần kề trục đường_quốc_lộ 37  kết_nối với cao_tốc nội_bài – lào_cai  tuyến giao_thông quan_trọng nối_liền đồng_bằng sông_hồng và tây_bắc 
-1,vị_trí đắc_địa này được kỳ_vọng giúp dự_án thuận_tiện trong việc giao_thương  thu_hút khách du_lịch 
-2,dự_án bao_gồm 1 tòa nhà 15 tầng có tổng diện_tích sàn 74410 m2  được xây_dựng thành khu phức_hợp cung_cấp các hạng_mục đa_dạng 
-3,phần kết_cấu chung của tòa nhà được xây_dựng theo lối kiến_trúc “ bậc_thang ”  lấy cảm_hứng từ hình_ảnh cánh đồng_ruộng bậc_thang mù_cang_chải  một danh_thắng quốc_gia của tỉnh yên_bái 
-4,riêng phần trung_tâm của tòa nhà là hình_ảnh hoa_sen 3 cánh vừa hé nở  đang vươn cao tạo điểm nhấn nổi_bật  ấn_tượng 
-5,giai_đoạn i của dự_án được triển_khai từ tháng 5/2016 đến tháng 6/2017  sẽ thi_công xây_dựng cơ_sở_hạ_tầng cơ_bản toàn_bộ khu đất và các hạng_mục công_trình như  khách_sạn 4 sao thấp tầng  trung_tâm thương_mại  trung_tâm tổ_chức hội_nghị  nhà_hàng tiệc cưới  quán café  bãi đỗ xe đa chức_năng 
-6,giai_đoạn ii sẽ được hoàn_tất vào tháng 6/2020 với việc hoàn_thiện các hạng_mục còn lại của dự_án  gồm  khách_sạn 4 sao cao_tầng  mở_rộng khách_sạn 4 sao thấp tầng  căn_hộ 
-7,khi hoàn_thành và chính_thức đưa vào hoạt_động  khu trung_tâm thương_mại  khách_sạn hoa_sen yên_bái sẽ trở_thành một trong những dự_án trọng_điểm góp_phần thúc_đẩy_đưa tp yên_bái thực_hiện mục_tiêu trở_thành đô_thị loại ii vào năm 2020 
-8,dự_án sẽ là đòn_bẩy giúp tỉnh yên_bái khai_thác tối_đa những tiềm_năng vốn có  xứng_đáng trở_thành trung_tâm kinh_tế của vùng tây_bắc việt_nam 
-9,dự_án cũng hứa_hẹn sẽ mang lại những cơ_hội đầu_tư kinh_doanh hấp_dẫn cho các nhà_đầu_tư trong thời_gian tới 
-10,ông lê_phước_vũ  chủ_tịch hđqt tập_đoàn hoa_sen cho biết  sau hơn 2 năm ấp_ủ và qua nhiều lần khảo_sát thực_tế  tập_đoàn hoa_sen nhận thấy yên_bái giàu tiềm_năng khai_thác và phát_triển ngành dịch_vụ du_lịch 
-11,bên cạnh những di_tích lịch_sử  văn_hóa đậm_đà bản_sắc dân_tộc  yên_bái còn có các danh_thắng cấp quốc_gia như ruộng_bậc_thang mù_cang_chải  hồ thác_bà  khu du_lịch suối_giàng  “ chúng_tôi rất ấn_tượng với đầm vân_hội bởi nơi đây không chỉ có khí_hậu tuyệt_vời  cảnh_quan thiên_nhiên hùng_vĩ  mà_còn là vùng_đất tâm_linh  là cội_nguồn của dân_tộc  nơi ghi dấu huyền tích mẫu âu_cơ đặt bước chân đầu_tiên trong cuộc thiên_di đưa 50 người con lên non sinh_cơ lập_nghiệp 
-12,chính những giá_trị lịch_sử  tâm_linh và mối duyên lớn giữa tập_đoàn hoa_sen với đầm vân_hội  với tỉnh yên_bái đã tạo tiền_đề để chúng_tôi chọn nơi đây để đầu_tư ”  ông vũ nói 
-13,đây cũng là dự_án bất_động_sản  dịch_vụ và du_lịch đầu_tiên của tập_đoàn hoa_sen  đánh_dấu bước_tiến mới của một doanh_nghiệp hàng_đầu trong lĩnh_vực tôn thép tại việt_nam và đông_nam_á  bước sang một lĩnh_vực hoàn_toàn mới để đón bắt cơ_hội khi nền kinh_tế hội_nhập 
+0,diện_tích 15 ha dự_án nằm gần kề trục đường_quốc_lộ 37 kết_nối cao_tốc nội_bài – lào_cai tuyến giao_thông quan_trọng nối_liền đồng_bằng sông_hồng tây_bắc
+1,vị_trí đắc_địa kỳ_vọng giúp dự_án thuận_tiện trong giao_thương thu_hút khách du_lịch
+2,dự_án bao_gồm 1 tòa nhà 15 tầng tổng diện_tích sàn 74410 m2 xây_dựng thành khu phức_hợp cung_cấp hạng_mục đa_dạng
+3,phần kết_cấu chung tòa nhà xây_dựng lối kiến_trúc “ bậc_thang ” lấy cảm_hứng hình_ảnh cánh đồng_ruộng bậc_thang mù_cang_chải một danh_thắng quốc_gia tỉnh yên_bái
+4,riêng phần trung_tâm tòa nhà hình_ảnh hoa_sen 3 cánh hé nở vươn cao tạo điểm nhấn nổi_bật ấn_tượng
+5,giai_đoạn i dự_án triển_khai tháng 5/2016 đến tháng 6/2017 thi_công xây_dựng cơ_sở_hạ_tầng cơ_bản toàn_bộ khu đất hạng_mục công_trình khách_sạn 4 sao thấp tầng trung_tâm thương_mại trung_tâm tổ_chức hội_nghị nhà_hàng tiệc cưới quán café bãi đỗ xe đa chức_năng
+6,giai_đoạn ii hoàn_tất tháng 6/2020 hoàn_thiện hạng_mục còn dự_án gồm khách_sạn 4 sao cao_tầng mở_rộng khách_sạn 4 sao thấp tầng căn_hộ
+7,hoàn_thành chính_thức đưa hoạt_động khu trung_tâm thương_mại khách_sạn hoa_sen yên_bái trở_thành một trong dự_án trọng_điểm góp_phần thúc_đẩy_đưa tp yên_bái thực_hiện mục_tiêu trở_thành đô_thị loại ii năm 2020
+8,dự_án đòn_bẩy giúp tỉnh yên_bái khai_thác tối_đa tiềm_năng vốn xứng_đáng trở_thành trung_tâm kinh_tế vùng tây_bắc việt_nam
+9,dự_án hứa_hẹn mang cơ_hội đầu_tư kinh_doanh hấp_dẫn nhà_đầu_tư trong thời_gian tới
+10,ông lê_phước_vũ chủ_tịch hđqt tập_đoàn hoa_sen biết hơn 2 năm ấp_ủ lần khảo_sát thực_tế tập_đoàn hoa_sen nhận thấy yên_bái giàu tiềm_năng khai_thác phát_triển ngành dịch_vụ du_lịch
+11,bên cạnh di_tích lịch_sử văn_hóa đậm_đà bản_sắc dân_tộc yên_bái còn danh_thắng cấp quốc_gia ruộng_bậc_thang mù_cang_chải hồ thác_bà khu du_lịch suối_giàng “ chúng_tôi ấn_tượng đầm vân_hội khí_hậu tuyệt_vời cảnh_quan thiên_nhiên hùng_vĩ mà_còn vùng_đất tâm_linh cội_nguồn dân_tộc ghi dấu huyền tích mẫu âu_cơ đặt bước chân đầu_tiên trong cuộc thiên_di đưa 50 người con non sinh_cơ lập_nghiệp
+12,chính giá_trị lịch_sử tâm_linh mối duyên lớn giữa tập_đoàn hoa_sen đầm vân_hội tỉnh yên_bái tạo tiền_đề chúng_tôi chọn đầu_tư ” ông vũ nói
+13,dự_án bất_động_sản dịch_vụ du_lịch đầu_tiên tập_đoàn hoa_sen đánh_dấu bước_tiến mới một doanh_nghiệp hàng_đầu trong lĩnh_vực tôn thép việt_nam đông_nam_á bước sang một lĩnh_vực hoàn_toàn mới đón bắt cơ_hội nền kinh_tế hội_nhập

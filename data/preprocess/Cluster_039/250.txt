@@ -1,12 +1,12 @@
 idx, sentence
-0,báo người lao_động đưa tin  vào chiều ngày 19/5  công_an quận thủ_đức  tphcm   cho biết đang tạm giữ nguyễn_anh_tuấn  sn 1974  ngụ quận bình_thạnh  tphcm  để làm rõ hành_vi chiếm_đoạt tài_sản 
-1,theo đó  vào thời_gian đầu tháng 2/2016  nguyễn_anh_tuấn làm tài_xế taxi cho hãng vinashun  chở chị nguyễn_thị_diễm_thúy  26 tuổi  từ sân_bay tân_sơn_nhất về nhà_riêng tại đường số 4  kp 3  phường tam_phú  quận thủ_đức  tphcm
-2,tới nhà  chị thúy đưa cho tuấn một thẻ atm  đọc mật_khẩu để thanh_toán 210000 đồng tiền cước taxi 
-3,trên đường chạy về điểm giao xe thì tuấn phát_hiện chị thúy bỏ quên chiếc ví ở băng ghế sau 
-4,tuấn định ăn tối xong sẽ mang trả lại 
-5,tuy_nhiên  sau đó tuấn nảy_sinh ý_định lấy số tiền trong thẻ 
-6,nguyễn_anh_tuấn chạy tới trụ atm dùng thẻ và mật_khẩu của chị thúy đọc trước đó  rút tổng_cộng 34 triệu đồng 
-7,xong việc  tuấn vứt ví cùng giấy_tờ tùy_thân của chị thúy xuống sông sài_gòn để phi_tang 
-8,riêng nạn_nhân thuý  sau khi phát_hiện để quên tài_sản đã đến công_an quận thủ_đức trình_báo 
-9,tuy_nhiên chị thuý cũng chỉ cung_cấp thông_tin sơ_sài vì không_thể nhớ được đặc_điểm  biển số cũng như số tài chiếc taxi mình đón ở sân_bay 
-10,sau thời_gian ăn tết cùng người_thân  chị thuý trở_lại nhật_bản 
+0,báo người lao_động đưa tin chiều ngày 19/5 công_an quận thủ_đức tphcm biết tạm giữ nguyễn_anh_tuấn sn 1974 ngụ quận bình_thạnh tphcm làm rõ hành_vi chiếm_đoạt tài_sản
+1,thời_gian đầu tháng 2/2016 nguyễn_anh_tuấn làm tài_xế taxi hãng vinashun chở chị nguyễn_thị_diễm_thúy 26 tuổi sân_bay tân_sơn_nhất về nhà_riêng đường số 4 kp 3 phường tam_phú quận thủ_đức tphcm
+2,tới nhà chị thúy đưa tuấn một thẻ atm đọc mật_khẩu thanh_toán 210000 đồng tiền cước taxi
+3,đường chạy về điểm giao xe tuấn phát_hiện chị thúy bỏ quên ví ở băng ghế
+4,tuấn định ăn tối xong mang trả
+5,tuy_nhiên tuấn nảy_sinh ý_định lấy số tiền trong thẻ
+6,nguyễn_anh_tuấn chạy tới trụ atm dùng thẻ mật_khẩu chị thúy đọc rút tổng_cộng 34 triệu đồng
+7,xong tuấn vứt ví giấy_tờ tùy_thân chị thúy xuống sông sài_gòn phi_tang
+8,riêng nạn_nhân thuý phát_hiện quên tài_sản đến công_an quận thủ_đức trình_báo
+9,tuy_nhiên chị thuý cung_cấp thông_tin sơ_sài không_thể nhớ đặc_điểm biển số số tài taxi mình đón ở sân_bay
+10,thời_gian ăn tết người_thân chị thuý trở_lại nhật_bản

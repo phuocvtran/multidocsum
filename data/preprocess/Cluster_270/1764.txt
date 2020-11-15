@@ -1,15 +1,15 @@
 idx, sentence
-0,hạt kiểm_lâm huyện krông_pa  tỉnh gia_lai cho biết  khoảng 22 giờ ngày 2/6  một tổ kiểm_lâm của huyện trong khi triển_khai nhiệm_vụ truy_quét  lâm_tặc  vận_chuyển gỗ lậu khu_vực giáp_ranh giữa địa_phương và huyện sơn_hòa  phú_yên  đã xảy ra xô_xát khiến 2 cán_bộ kiểm_lâm bị_thương và một  lâm_tặc  tử_vong 
-1,hạt kiểm_lâm huyện krông_pa đang làm báo_cáo nhanh về sự_việc này lên cấp trên 
-2,ông trương_quốc_dụng  hạt_trưởng hạt kiểm_lâm huyện krông_pa cho biết  chiều 2/6  nhận được tin báo của nhân_dân về việc một_số đối_tượng dùng thuyền sắt từ hướng phú_yên men theo sông krông_năng  đoạn chảy qua xã krông_năng  huyện krông_pa và huyện sơn_hòa  tỉnh phú_yên  để vận_chuyển gỗ lậu  lãnh_đạo hạt kiểm_lâm huyện đã cử 5 cán_bộ gồm  phạm_văn_duy  trần_kim_vũ  lê_văn_hóa  đoàn_xuân_hồng và đinh_việt_hồng xuống hiện_trường để xác_minh vụ_việc 
-3,khoảng 16 giờ  khi có_mặt tại hiện_trường  tổ kiểm_lâm của huyện phát_hiện một chiếc thuyền sắt với 4 đối_tượng trên thuyền chở khoảng 4  5 m3 gỗ căm_xe đang xuôi về hướng phú_yên 
-4,ngay_lập_tức  tổ kiểm_lâm đã dùng một chiếc thuyền nhỏ bám theo áp sát thuyền của các đối_tượng và yêu_cầu dừng lại để kiểm_tra 
-5,tuy_nhiên  các đối_tượng không_những không chấp_hành mà_còn dùng mã_tấu  dao  gậy chém tới_tấp về phía tổ kiểm_lâm 
-6,kiểm_lâm_viên đinh việt_hồng buộc phải rút súng bắn 5 phát chỉ thiên_để thị_uy 
-7,sau khi bắn thị_uy  các đối_tượng vẫn tỏ ra rất manh_động và hung_hãn  dùng thuyền lớn đâm va vào thuyền nhỏ của kiểm_lâm và dùng gậy đâm về phía các cán_bộ kiểm_lâm khiến 2 kiểm_lâm_viên là phạm_văn_duy và lê_văn_hóa bị_thương 
-8,trong tình_huống cấp_bách  kiểm_lâm_viên đinh việt_hồng tiếp_tục rút súng bắn vào mạn_thuyền nhằm cho nước tràn vào thuyền để thuyền chìm dần 
-9,tuy_nhiên  trong quá_trình bắn  do bị đâm va nên thuyền tròng_trành khiến đạn bay không chính_xác theo chủ_đích và trúng vào chân của đối_tượng nguyễn_sơn_đông  trú tại tỉnh phú_yên  
-10,thấy có người trúng đạn  các đối_tượng lập_tức cho thuyền chạy nhanh về hướng phú_yên để đưa người đi cấp_cứu 
-11,các cán_bộ kiểm_lâm cũng nhanh_chóng đưa hai người bị_thương đến bệnh_viện huyện krông_pa để điều_trị 
-12,ngay sau đó  hạt kiểm_lâm huyện nhận được tin từ công_an huyện krông_pa cho biết  đối_tượng nguyễn_sơn_đông đã tử_vong do mất_máu 
-13,vụ_việc đang được phòng pc45 công_an tỉnh gia_lai phối_hợp với công_an huyện krông_pa_và công_an huyện sơn_hòa  tỉnh phú_yên điều_tra làm rõ 
+0,hạt kiểm_lâm huyện krông_pa tỉnh gia_lai biết khoảng 22 giờ ngày 2/6 một tổ kiểm_lâm huyện trong triển_khai nhiệm_vụ truy_quét lâm_tặc vận_chuyển gỗ lậu khu_vực giáp_ranh giữa địa_phương huyện sơn_hòa phú_yên xảy xô_xát khiến 2 cán_bộ kiểm_lâm bị_thương một lâm_tặc tử_vong
+1,hạt kiểm_lâm huyện krông_pa làm báo_cáo nhanh về sự_việc cấp
+2,ông trương_quốc_dụng hạt_trưởng hạt kiểm_lâm huyện krông_pa biết chiều 2/6 nhận tin báo nhân_dân về một_số đối_tượng dùng thuyền sắt hướng phú_yên men sông krông_năng đoạn chảy xã krông_năng huyện krông_pa huyện sơn_hòa tỉnh phú_yên vận_chuyển gỗ lậu lãnh_đạo hạt kiểm_lâm huyện cử 5 cán_bộ gồm phạm_văn_duy trần_kim_vũ lê_văn_hóa đoàn_xuân_hồng đinh_việt_hồng xuống hiện_trường xác_minh vụ_việc
+3,khoảng 16 giờ có_mặt hiện_trường tổ kiểm_lâm huyện phát_hiện một thuyền sắt 4 đối_tượng thuyền chở khoảng 4 5 m3 gỗ căm_xe xuôi về hướng phú_yên
+4,ngay_lập_tức tổ kiểm_lâm dùng một thuyền nhỏ bám áp sát thuyền đối_tượng yêu_cầu dừng kiểm_tra
+5,tuy_nhiên đối_tượng không_những chấp_hành mà_còn dùng mã_tấu dao gậy chém tới_tấp về phía tổ kiểm_lâm
+6,kiểm_lâm_viên đinh việt_hồng buộc rút súng bắn 5 phát thiên_để thị_uy
+7,bắn thị_uy đối_tượng tỏ manh_động hung_hãn dùng thuyền lớn đâm va thuyền nhỏ kiểm_lâm dùng gậy đâm về phía cán_bộ kiểm_lâm khiến 2 kiểm_lâm_viên phạm_văn_duy lê_văn_hóa bị_thương
+8,trong tình_huống cấp_bách kiểm_lâm_viên đinh việt_hồng tiếp_tục rút súng bắn mạn_thuyền nhằm nước tràn thuyền thuyền chìm dần
+9,tuy_nhiên trong quá_trình bắn đâm va thuyền tròng_trành khiến đạn bay chính_xác chủ_đích trúng chân đối_tượng nguyễn_sơn_đông trú tỉnh phú_yên
+10,thấy người trúng đạn đối_tượng lập_tức thuyền chạy nhanh về hướng phú_yên đưa người đi cấp_cứu
+11,cán_bộ kiểm_lâm nhanh_chóng đưa hai người bị_thương đến bệnh_viện huyện krông_pa điều_trị
+12,hạt kiểm_lâm huyện nhận tin công_an huyện krông_pa biết đối_tượng nguyễn_sơn_đông tử_vong mất_máu
+13,vụ_việc phòng pc45 công_an tỉnh gia_lai phối_hợp công_an huyện krông_pa_và công_an huyện sơn_hòa tỉnh phú_yên điều_tra làm rõ

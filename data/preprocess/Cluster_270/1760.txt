@@ -1,15 +1,15 @@
 idx, sentence
-0,sự_việc diễn ra vào chiều ngày 26 khi một_số lâm_tặc từ hướng phú_yên dùng thuyền sắt men theo sông krông_năng  chảy qua xã krông_năng  huyện krông_pa và huyện sơn_hòa  tỉnh phú_yên  để vận_chuyển gỗ lậu 
-1,nhận được tin báo  hạt kiểm_lâm địa_phương đã cử 5 cán_bộ xuống hiện_trường để xác_minh vụ_việc gồm  phạm_văn_duy  trần_kim_vũ  lê_văn_hóa  đoàn_xuân_hồng và đinh_việt_hồng 
-2,tổ kiểm_tra đã phát_hiện trên sông có 1 thuyền sắt đang chở gỗ 
-3,lập_tức 4 kiểm_lâm dùng thuyền truy_đuổi 
-4,khi thuyền của kiểm_lâm tiến sát đến thuyền chở gỗ  các đối_tượng trên thuyền dùng vũ_khí chống_trả quyết_liệt lực_lượng kiểm_lâm 
-5,cuộc_chiến diễn ra trên dòng sông rất nguy_hiểm 
-6,lúc này  kiểm_lâm_viên đinh việt_hồng đã rút súng bắn 5 phát súng chỉ thiên_để cảnh_cáo 
-7,nhưng các đối_tượng trên thuyền gỗ vẫn dùng thuyền đâm va và vũ_khí tấn_công liên_tiếp 
-8,lúc này 2 kiểm_lâm bị_thương 
-9,nhận thấy tình_thế cấp_bách có_thể ảnh_hưởng đến tính_mạng của tổ kiểm_lâm  kiểm_lâm_viên đinh việt_hồng rút súng bắn vào mạn_thuyền với ý_đồ cho nước vào trong thuyền để tránh bị đâm va 
-10,tuy_nhiên  viên đạn đã bay vào chân của đối_tượng nguyễn_sơn_đông  trú tỉnh phú_yên  
-11,lúc này  2 bên đều có người bị_thương  thuyền chở gỗ tháo_chạy 
-12,hai kiểm_lâm bị_thương được đưa về trung_tâm y_tế huyện krông_pa điều_trị 
-13,còn nguyễn_sơn_đông đã tử_vong do mất nhiều máu 
+0,sự_việc diễn chiều ngày 26 một_số lâm_tặc hướng phú_yên dùng thuyền sắt men sông krông_năng chảy xã krông_năng huyện krông_pa huyện sơn_hòa tỉnh phú_yên vận_chuyển gỗ lậu
+1,nhận tin báo hạt kiểm_lâm địa_phương cử 5 cán_bộ xuống hiện_trường xác_minh vụ_việc gồm phạm_văn_duy trần_kim_vũ lê_văn_hóa đoàn_xuân_hồng đinh_việt_hồng
+2,tổ kiểm_tra phát_hiện sông 1 thuyền sắt chở gỗ
+3,lập_tức 4 kiểm_lâm dùng thuyền truy_đuổi
+4,thuyền kiểm_lâm tiến sát đến thuyền chở gỗ đối_tượng thuyền dùng vũ_khí chống_trả quyết_liệt lực_lượng kiểm_lâm
+5,cuộc_chiến diễn dòng sông nguy_hiểm
+6,kiểm_lâm_viên đinh việt_hồng rút súng bắn 5 phát súng thiên_để cảnh_cáo
+7,đối_tượng thuyền gỗ dùng thuyền đâm va vũ_khí tấn_công liên_tiếp
+8,2 kiểm_lâm bị_thương
+9,nhận thấy tình_thế cấp_bách ảnh_hưởng đến tính_mạng tổ kiểm_lâm kiểm_lâm_viên đinh việt_hồng rút súng bắn mạn_thuyền ý_đồ nước trong thuyền tránh đâm va
+10,tuy_nhiên viên đạn bay chân đối_tượng nguyễn_sơn_đông trú tỉnh phú_yên
+11,2 bên người bị_thương thuyền chở gỗ tháo_chạy
+12,hai kiểm_lâm bị_thương đưa về trung_tâm y_tế huyện krông_pa điều_trị
+13,còn nguyễn_sơn_đông tử_vong mất máu

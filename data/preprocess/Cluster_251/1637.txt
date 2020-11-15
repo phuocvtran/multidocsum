@@ -1,21 +1,21 @@
 idx, sentence
-0,tìm_hiểu sự_việc tại hiện_trường  chị đặng_thị_thùy_tâm  chủ cửa_hiệu trang_điểm  ở khu_vực này cho biết  thời_điểm xảy ra vụ_việc khoảng 23 giờ  ngày 16  lúc đó chị đang cùng với người_nhà_ngủ ở lầu 1 thì nghe tiếng người ồn áo phía dưới đường trước cửa nhà 
-1,nghe vậy  chị tâm và mọi người trong nhà đều tỉnh_giấc chạy ra mở_cửa xem  thì thấy một nhóm thanh_niên khoảng 10 người cầm theo dao  mã_tấu sáng_loáng đuổi nhau dưới đường 
-2,nhìn ra phía đầu đường_hẻm  gần cổng nhà_thờ giáo_xứ bùi_thái  phường tam_hòa   chị tâm thấy một nhóm khác cũng đang đứng ở đây hò_hét 
-3,riêng nhóm thanh_niên cầm dao đuổi nhau vừa chạy vừa ném những quả bom xăng xuống hai bên đường  khiến ngọn lửa bốc cao 
-4,sau khi vụ_việc xảy ra  nhóm thanh_niên trên rút đi  người dân đã chạy ra dập_tắt đám cháy 
-5,theo chị tâm  đoạn đường khoảng 500 m trước cửa nhà chị có 3 đám cháy do bom xăng của các đối_tượng ném xuống 
-6,do các điểm ném bom xăng đều nằm ngoài đường  nên đám cháy đã không ảnh_hưởng đến nhà ai  tuy_nhiên một đám cháy đã làm sém chậu cây_cảnh của một nhà dân gần đó 
-7,chứng_kiến sự_việc này  một_số người dân tỏ ra bức_xúc  nếu các đối_tượng quá_khích ném thẳng bom xăng vào nhà dân thì có_thể để lại hậu_quả khôn_lường 
-8,một_số nhân_chứng khác thì cho biết  khi thấy nhóm thanh_niên trên cầm mã_tấu đuổi nhau  một_số người đang ngồi chơi trước cửa nhà bà nguyễn_ngọc_nương  trong đó có người_nhà bà nương  đóng tại địa_chỉ 160 / 2/25  khu_phố 2  phường tam_hòa  tpbiên_hòa  
-9,do quá hoảng_sợ nên số người này đã bỏ chạy vào nhà đóng cửa lại 
-10,tuy_nhiên  thấy những người này chạy vào nhà  nhóm thanh_niên trên đã ném vật cứng vào cửa_kính nhà bà nương làm vỡ hai cánh cửa 
-11,nghe tiếng kính vỡ  người_nhà bà nương chạy ra xem thì nhóm đối_tượng trên đã chạy mất 
-12,sau khi vụ_việc xảy ra  người dân đã trình_báo cơ_quan công_an đến khám_nghiệm hiện_trường để truy_xét các đối_tượng tham_gia vụ gây_rối  đập phá nhà dân 
-13,trao_đổi với phóng_viên báo đồng_nai  trung_tá trần_văn_sáng  trưởng công_an phường tam_hòa cho biết  ngay trong đêm xảy ra vụ_việc  công_an phường tam_hòa đã có_mặt tại hiện_trường và thu_giữ một_số vật_dụng có liên_quan 
-14,đại_tá trần_tiến_đạt  trưởng công_an tpbiên_hòa đã trực_tiếp chỉ_đạo công_an phường và cử ngay cán_bộ xuống hiện_trường để phối_hợp điều_tra  xác_minh các đối_tượng liên_quan 
-15,cũng theo trung_tá trần_văn_sáng  hiện công_an phường đang sàng_lọc một_số đối_tượng nghi có liên_quan đến vụ_việc để điều_tra xác_minh 
-16,tuy_nhiên  hiện lực_lượng công_an vẫn phải làm_việc với một_số nhân_chứng và thu_thập thêm chứng_cứ mới khẳng_định được những đối_tượng nào tham_gia vụ_việc này 
-17,trước đó  sau khi vụ_việc xảy ra  trên một trang mạng xã_hội có đăng_tải một đoạn clip với tiêu_đề  “ nhiều thanh_niên sử_dụng bom xăng  mã tẩu đuổi đánh nhau kinh_hoàng trong đêm tại biên_hòa ” ghi lại cảnh_tượng một nhóm thanh_niên cầm theo dao  mã_tấu rượt đuổi nhau  gây náo_loạn khu_phố 
-18,hình_ảnh trong đoạn clip ghi lại cho thấy có rất nhiều đối_tượng vừa chạy xe_máy vừa chạy bộ  hò_hét huyên_náo trong một con hẻm  trên tay có cầm theo dao  mã_tấu sáng_loáng 
-19,nghe tiếng ồn_ào  người dân chạy ra xem thì thấy các đối_tượng đã ném bom xăng xuống_đường bốc_cháy ngùn_ngụt khiến nhiều người dân hoảng_sợ 
+0,tìm_hiểu sự_việc hiện_trường chị đặng_thị_thùy_tâm chủ cửa_hiệu trang_điểm ở khu_vực biết thời_điểm xảy vụ_việc khoảng 23 giờ ngày 16 chị người_nhà_ngủ ở lầu 1 nghe tiếng người ồn áo phía đường cửa nhà
+1,nghe chị tâm mọi người trong nhà tỉnh_giấc chạy mở_cửa xem thấy một nhóm thanh_niên khoảng 10 người cầm dao mã_tấu sáng_loáng đuổi nhau đường
+2,nhìn phía đầu đường_hẻm gần cổng nhà_thờ giáo_xứ bùi_thái phường tam_hòa chị tâm thấy một nhóm khác đứng ở hò_hét
+3,riêng nhóm thanh_niên cầm dao đuổi nhau chạy ném quả bom xăng xuống hai bên đường khiến ngọn lửa bốc cao
+4,vụ_việc xảy nhóm thanh_niên rút đi người dân chạy dập_tắt đám cháy
+5,chị tâm đoạn đường khoảng 500 m cửa nhà chị 3 đám cháy bom xăng đối_tượng ném xuống
+6,điểm ném bom xăng nằm ngoài đường đám cháy ảnh_hưởng đến nhà ai tuy_nhiên một đám cháy làm sém chậu cây_cảnh một nhà dân gần
+7,chứng_kiến sự_việc một_số người dân tỏ bức_xúc đối_tượng quá_khích ném thẳng bom xăng nhà dân hậu_quả khôn_lường
+8,một_số nhân_chứng khác biết thấy nhóm thanh_niên cầm mã_tấu đuổi nhau một_số người ngồi chơi cửa nhà bà nguyễn_ngọc_nương trong người_nhà bà nương đóng địa_chỉ 160 / 2/25 khu_phố 2 phường tam_hòa tpbiên_hòa
+9,quá hoảng_sợ số người bỏ chạy nhà đóng cửa
+10,tuy_nhiên thấy người chạy nhà nhóm thanh_niên ném vật cứng cửa_kính nhà bà nương làm vỡ hai cánh cửa
+11,nghe tiếng kính vỡ người_nhà bà nương chạy xem nhóm đối_tượng chạy mất
+12,vụ_việc xảy người dân trình_báo cơ_quan công_an đến khám_nghiệm hiện_trường truy_xét đối_tượng tham_gia vụ gây_rối đập phá nhà dân
+13,trao_đổi phóng_viên báo đồng_nai trung_tá trần_văn_sáng trưởng công_an phường tam_hòa biết trong đêm xảy vụ_việc công_an phường tam_hòa có_mặt hiện_trường thu_giữ một_số vật_dụng liên_quan
+14,đại_tá trần_tiến_đạt trưởng công_an tpbiên_hòa trực_tiếp chỉ_đạo công_an phường cử cán_bộ xuống hiện_trường phối_hợp điều_tra xác_minh đối_tượng liên_quan
+15,trung_tá trần_văn_sáng hiện công_an phường sàng_lọc một_số đối_tượng nghi liên_quan đến vụ_việc điều_tra xác_minh
+16,tuy_nhiên hiện lực_lượng công_an làm_việc một_số nhân_chứng thu_thập thêm chứng_cứ mới khẳng_định đối_tượng nào tham_gia vụ_việc
+17,vụ_việc xảy một trang mạng xã_hội đăng_tải một đoạn clip tiêu_đề “ thanh_niên sử_dụng bom xăng mã tẩu đuổi đánh nhau kinh_hoàng trong đêm biên_hòa ” ghi cảnh_tượng một nhóm thanh_niên cầm dao mã_tấu rượt đuổi nhau gây náo_loạn khu_phố
+18,hình_ảnh trong đoạn clip ghi thấy đối_tượng chạy xe_máy chạy bộ hò_hét huyên_náo trong một con hẻm tay cầm dao mã_tấu sáng_loáng
+19,nghe tiếng ồn_ào người dân chạy xem thấy đối_tượng ném bom xăng xuống_đường bốc_cháy ngùn_ngụt khiến người dân hoảng_sợ

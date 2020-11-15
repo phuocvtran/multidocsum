@@ -1,12 +1,12 @@
 idx, sentence
-0,số đất này được giao cho công_ty cổ_phần nông_nghiệp_nuti_thuê để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu 
-1,ông kpă_thuyên  phó chủ_tịch ubnd tỉnh gia_lai vừa ký quyết_định thu_hồi trên 50 ha đất của hoàng_anh gia_lai  đồng_thời giao số đất này cho cty nông_nghiệp_nuti để tiếp_tục đầu_tư và chăm_sóc cây hồ_tiêu tại xã ia_băng  chư_prông  và xã gào  tp pleiku  
-2,diện_tích đất bị thu_hồi này nằm ở 2 xã ia_băng  chư_prông  và xã gào  tp pleiku   được cơ_quan_chức_năng cấp giấy_chứng_nhận quyền sử_dụng đất cho hoàng_anh gia_lai có thời_hạn từ năm 2011 đến tháng 22042 
-3,số đất trên hiện_nay đang trồng tiêu 
-4,ngày 115  cty nông_nghiệp_nuti có đơn đề_nghị thuê đất và đến ngày 235 được ubnd tỉnh gia_lai chấp_thuận 
-5,ubnd tỉnh gia_lai yêu_cầu hoàng_anh gia_lai bàn_giao lại toàn_bộ diện_tích đất trên cho cty cổ_phần nông_nghiệp nuti quản_lý để đầu_tư chăm_sóc cây hồ_tiêu 
-6,trước đó  ubnd tỉnh kon_tum cũng đã đã thống_nhất thu_hồi giấy chứng_nhận đầu_tư số 38121000171 cấp ngày 1552015 và chấm_dứt hoạt_động dự_án trồng cỏ  nuôi bò_thịt công_nghệ_cao của hoàng_anh gia_lai với lý_do “ nhà_đầu_tư quyết_định chấm_dứt hoạt_động của dự_án   khi công_bố dự_án nuôi bò tại kon_tum  phía hag đã kỳ_vọng sẽ có đóng_góp lớn cho ngân_sách địa_phương cũng như giải_quyết công_ăn_việc_làm người dân tại đây 
-7,do_đó việc hag chấm_dứt hoạt_động đầu_tư tại dự_án này đã khiến không ít người cảm_thấy bất_ngờ 
-8,khi được đề_cập đến vấn_đề này  ông võ_trường_sơn  tổng_giám_đốc hoàng_anh gia_lai cho biết  nguyên_nhân mà tập_đoàn rút khỏi dự_án bò ở kon_tum là do đất tại đây không liền vùng  diện_tích không đủ lớn nên nếu đầu_tư sẽ khó có hiệu_quả cao 
-9,dù được phát tín_hiệu chấp_thuận giãn_nợ từ phía ngân_hàng song nợ vay của hoàng_anh gia_lai thực_tế hiện vẫn đang vượt 28000 tỷ đồng 
-10,trong khi đó  khi việt_nam tham_gia hiệp_định đối_tác xuyên thái_bình_dương  tpp   ngành chăn_nuôi được dự_báo sẽ khó_khăn khi thuế với các loại thịt bò  gà … sẽ về 0  trong lộ_trình 10 năm 
+0,số đất giao công_ty cổ_phần nông_nghiệp_nuti_thuê tiếp_tục đầu_tư chăm_sóc cây hồ_tiêu
+1,ông kpă_thuyên phó chủ_tịch ubnd tỉnh gia_lai ký quyết_định thu_hồi 50 ha đất hoàng_anh gia_lai đồng_thời giao số đất cty nông_nghiệp_nuti tiếp_tục đầu_tư chăm_sóc cây hồ_tiêu xã ia_băng chư_prông xã gào tp pleiku
+2,diện_tích đất thu_hồi nằm ở 2 xã ia_băng chư_prông xã gào tp pleiku cơ_quan_chức_năng cấp giấy_chứng_nhận quyền sử_dụng đất hoàng_anh gia_lai thời_hạn năm 2011 đến tháng 22042
+3,số đất hiện_nay trồng tiêu
+4,ngày 115 cty nông_nghiệp_nuti đơn đề_nghị thuê đất đến ngày 235 ubnd tỉnh gia_lai chấp_thuận
+5,ubnd tỉnh gia_lai yêu_cầu hoàng_anh gia_lai bàn_giao toàn_bộ diện_tích đất cty cổ_phần nông_nghiệp nuti quản_lý đầu_tư chăm_sóc cây hồ_tiêu
+6,ubnd tỉnh kon_tum thống_nhất thu_hồi giấy chứng_nhận đầu_tư số 38121000171 cấp ngày 1552015 chấm_dứt hoạt_động dự_án trồng cỏ nuôi bò_thịt công_nghệ_cao hoàng_anh gia_lai lý_do “ nhà_đầu_tư quyết_định chấm_dứt hoạt_động dự_án công_bố dự_án nuôi bò kon_tum phía hag kỳ_vọng đóng_góp lớn ngân_sách địa_phương giải_quyết công_ăn_việc_làm người dân
+7,do_đó hag chấm_dứt hoạt_động đầu_tư dự_án khiến ít người cảm_thấy bất_ngờ
+8,đề_cập đến vấn_đề ông võ_trường_sơn tổng_giám_đốc hoàng_anh gia_lai biết nguyên_nhân tập_đoàn rút khỏi dự_án bò ở kon_tum đất liền vùng diện_tích đủ lớn đầu_tư khó hiệu_quả cao
+9,dù phát tín_hiệu chấp_thuận giãn_nợ phía ngân_hàng song nợ vay hoàng_anh gia_lai thực_tế hiện vượt 28000 tỷ đồng
+10,trong việt_nam tham_gia hiệp_định đối_tác xuyên thái_bình_dương tpp ngành chăn_nuôi dự_báo khó_khăn thuế loại thịt bò gà … về 0 trong lộ_trình 10 năm

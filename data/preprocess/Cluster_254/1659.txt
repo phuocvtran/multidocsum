@@ -1,26 +1,26 @@
 idx, sentence
-0,mới_đây  tờ telegraph  anh  có bài viết giới_thiệu về top các thành_phố có nền ẩm_thực ấn_tượng nhất thế_giới 
-1,trong đó  thủ_đô hà_nội của việt_nam đứng ở vị_trí đầu_tiên 
-2,theo lời miêu_tả của bài báo  “ nếu tổng_thống mỹ phát_hiện và thưởng_thức món bún_chả với đầu_bếp anthony_bourdain chỉ với 6 usd  thì chắc_hẳn người đàn_ông quyền_lực nhất thế_giới này cũng sẽ nhận ra sức_mạnh của nền ẩm_thực_tại đây ” 
-3,bữa tối bún_chả cùng bia_hơi hà_nội của ông chủ_nhà trắng với đầu_bếp anthony_bourdain tiếp_tục đưa món ăn giản_dị này xuất_hiện dày_đặc trên mặt báo nước_ngoài 
-4,đây cũng là dịp món ăn nổi_tiếng của thủ_đô khẳng_định thương_hiệu  nâng tầm vị_thế như phở và bánh mỳ 
-5,đặc_biệt sắp tới  đoạn phim_truyền_hình thực_tế cảnh ông obama ăn bún_chả hà_nội sẽ được phát trên kênh cnn  hướng tới hàng triệu độc_giả trên toàn_cầu 
-6,ngoài_ra  telegraph không quên gợi_ý độc_giả một_số món ăn hấp_dẫn khác ở hà_nội như bánh mỳ kèm pate  dưa_chuột  rau_thơm  hành_tây giòn với ớt   phở hay café trứng 
-7,ngoài hà_nội  thủ_đô tokyo  nhật_bản  và thủ_đô bangkok của thái_lan là những đại_diện đến từ châu_á góp_mặt trong danh_sách 
-8,giới_thiệu về tokyo  bài báo dành không ít lời khen_ngợi 
-9,“ nơi này sở_hữu những nhà_hàng có nhiều ngôi_sao michelin hơn bất_cứ thành_phố nào trên thế_giới 
-10,ngoài món sushi trứ_danh  thực_khách còn được thưởng_thức cơm lươn unagi  bánh okonomiyaki  những món từ đậu_hũ … ” thủ_đô london của anh đứng vị_trí thứ 3 
-11,những nhà_hàng cao_cấp ở đây dành cho thực_khách giàu_có và sành_ăn 
-12,john_oceallaigh  biên_tập_viên mục du_lịch của telegraph  ca_ngợi  “ sự đa_dạng ẩm_thực ở london là vô_song 
-13,đây là nơi sở_hữu những nhà_hàng đạt giải_thưởng danh_giá nhất thế_giới 
-14,vốn là thành_phố đa_sắc_tộc  bởi_vậy du_khách có_thể tìm thấy bất_cứ món ăn của hầu_hết các quốc_gia tại đây ” 
-15,thành_phố jaipur  ấn_độ  đứng vị_trí thứ 4 
-16,nơi này sở_hữu nền ẩm_thực đặc_trưng của ấn_độ với món cari cay nóng_bỏng 
-17,thành_phố new_york  mỹ  đứng vị_trí thứ 5 
-18,vốn là đô_thị sôi_động  các xu_hướng ẩm_thực và trào_lưu mới luôn được cập_nhật tại đây 
-19,thành_phố mendoza  argentina  nổi_tiếng với món bít tết huyền_thoại 
-20,xung_quanh nơi này trồng nhiều nho và có hàng_loạt những nhà_hàng cao_cấp 
-21,thành_phố bologna  ý đứng vị_trí thứ 7 
-22,nhiều đặc_sản và những món ăn đặc_trưng nhất nước ý đều có nguồn_gốc từ đây 
-23,lyon  pháp  là một trong những thành_phố có nền ẩm_thực ấn_tượng nhất thế_giới 
-24,thành_phố xếp vị_trí thứ 8 
+0,mới_đây tờ telegraph anh bài viết giới_thiệu về top thành_phố nền ẩm_thực ấn_tượng nhất thế_giới
+1,trong thủ_đô hà_nội việt_nam đứng ở vị_trí đầu_tiên
+2,lời miêu_tả bài báo “ tổng_thống mỹ phát_hiện thưởng_thức món bún_chả đầu_bếp anthony_bourdain 6 usd chắc_hẳn người đàn_ông quyền_lực nhất thế_giới nhận sức_mạnh nền ẩm_thực_tại ”
+3,bữa tối bún_chả bia_hơi hà_nội ông chủ_nhà trắng đầu_bếp anthony_bourdain tiếp_tục đưa món ăn giản_dị xuất_hiện dày_đặc mặt báo nước_ngoài
+4,dịp món ăn nổi_tiếng thủ_đô khẳng_định thương_hiệu nâng tầm vị_thế phở bánh mỳ
+5,đặc_biệt sắp tới đoạn phim_truyền_hình thực_tế cảnh ông obama ăn bún_chả hà_nội phát kênh cnn hướng tới hàng triệu độc_giả toàn_cầu
+6,ngoài_ra telegraph quên gợi_ý độc_giả một_số món ăn hấp_dẫn khác ở hà_nội bánh mỳ kèm pate dưa_chuột rau_thơm hành_tây giòn ớt phở hay café trứng
+7,ngoài hà_nội thủ_đô tokyo nhật_bản thủ_đô bangkok thái_lan đại_diện đến châu_á góp_mặt trong danh_sách
+8,giới_thiệu về tokyo bài báo dành ít lời khen_ngợi
+9,“ sở_hữu nhà_hàng ngôi_sao michelin hơn bất_cứ thành_phố nào thế_giới
+10,ngoài món sushi trứ_danh thực_khách còn thưởng_thức cơm lươn unagi bánh okonomiyaki món đậu_hũ … ” thủ_đô london anh đứng vị_trí thứ 3
+11,nhà_hàng cao_cấp ở dành thực_khách giàu_có sành_ăn
+12,john_oceallaigh biên_tập_viên mục du_lịch telegraph ca_ngợi “ đa_dạng ẩm_thực ở london vô_song
+13,sở_hữu nhà_hàng đạt giải_thưởng danh_giá nhất thế_giới
+14,vốn thành_phố đa_sắc_tộc bởi_vậy du_khách tìm thấy bất_cứ món ăn hầu_hết quốc_gia ”
+15,thành_phố jaipur ấn_độ đứng vị_trí thứ 4
+16,sở_hữu nền ẩm_thực đặc_trưng ấn_độ món cari cay nóng_bỏng
+17,thành_phố new_york mỹ đứng vị_trí thứ 5
+18,vốn đô_thị sôi_động xu_hướng ẩm_thực trào_lưu mới luôn cập_nhật
+19,thành_phố mendoza argentina nổi_tiếng món bít tết huyền_thoại
+20,xung_quanh trồng nho hàng_loạt nhà_hàng cao_cấp
+21,thành_phố bologna ý đứng vị_trí thứ 7
+22,đặc_sản món ăn đặc_trưng nhất nước ý nguồn_gốc
+23,lyon pháp một trong thành_phố nền ẩm_thực ấn_tượng nhất thế_giới
+24,thành_phố xếp vị_trí thứ 8

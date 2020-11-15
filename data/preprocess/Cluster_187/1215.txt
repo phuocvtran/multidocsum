@@ -1,13 +1,13 @@
 idx, sentence
-0,thông_cáo của đại_sứ_quán australia tại việt_nam cho_biết  tàu hộ_vệ tên lửa hmas_anzac đến thành_phố hồ_chí_minh ngày 30/5 với thủy_thủ đoàn bao_gồm 28 sỹ quan và 156 thủy_thủ 
-1,sỹ quan chỉ_huy tàu và thủy_thủ đoàn sẽ gặp_gỡ các sỹ quan cao_cấp và thủy_thủ đoàn của hải_quân_nhân_dân việt_nam và tham_gia các hoạt_động giao_lưu thiện_chí cũng như thực_hiện trao_đổi nghiệp_vụ liên_quan đến hoạt_động tàu_chiến 
-2,thủy_thủ đoàn của hmas_anzac cũng sẽ có hoạt_động giao_hữu thể_thao với các học_viên của trường_trung_cấp kỹ_thuật hải_quân 
-3,bên_cạnh đó  chuyến thăm thiện_chí này là cơ_hội để thủy_thủ đoàn khám_phá nền văn_hóa giàu bản_sắc và con_người việt_nam 
-4,đại_tá darren_kerr  tùy_viên quốc_phòng australia tại việt_nam  cho biết  “ đây là cơ_hội tuyệt_vời để củng_cố hơn nữa mối quan_hệ hợp_tác quốc_phòng australia  việt_nam 
-5,mối quan_hệ này đã được xây_dựng từ năm 1999 và ngày_càng phát_triển cả về chất lẫn lượng kể từ thời_điểm đó  
-6,đại_tá kerr nói thêm  kể từ năm 1999  quân_đội australia đã giúp đào_tạo hơn 1500 quân_nhân của quân_đội nhân_dân việt_nam tại việt_nam và australia 
-7,hiện_tại  australia đang hỗ_trợ quân_đội nhân_dân việt_nam trong công_tác chuẩn_bị cho các nhiệm_vụ gìn_giữ hòa_bình của liên_hợp_quốc 
-8, tôi được biết thủy_thủ đoàn của tàu hmas_anzac rất mong_chờ chuyến thăm tới thành_phố hồ_chí_minh lần này và đây sẽ là một điểm nhấn trong hải_trình lần này của tàu ”  đại_tá kerr cho hay 
-9,trong khi đó  đại_sứ australia_hugh_borrowman đặc_biệt nhấn_mạnh tới việc  thuyền_trưởng của tàu lần này là nữ trung_tá hải_quân belinda_wood  một trong số ngày_càng nhiều phụ_nữ nắm vị_trí lãnh_đạo trong hải_quân hoàng_gia_australia  
-10,tàu hmas_anzac là tàu hộ_vệ tên lửa thuộc lớp anzac với các chức_năng phòng không  chống tàu_ngầm  năng_lực chống tàu mặt_nước  giám_sát  ngăn_chặn và trinh_sát 
-11,nặng 3600 tấn và dài 118 mét  tàu hmas_anzac được trang_bị tên lửa phòng không evolved_sea_sparrow  môđun tên lửa chống hạm harpoon_block 2  pháo tự_động mk 45 127 mm và 6 ống_phóng lội mk32 
+0,thông_cáo đại_sứ_quán australia việt_nam cho_biết tàu hộ_vệ tên lửa hmas_anzac đến thành_phố hồ_chí_minh ngày 30/5 thủy_thủ đoàn bao_gồm 28 sỹ quan 156 thủy_thủ
+1,sỹ quan chỉ_huy tàu thủy_thủ đoàn gặp_gỡ sỹ quan cao_cấp thủy_thủ đoàn hải_quân_nhân_dân việt_nam tham_gia hoạt_động giao_lưu thiện_chí thực_hiện trao_đổi nghiệp_vụ liên_quan đến hoạt_động tàu_chiến
+2,thủy_thủ đoàn hmas_anzac hoạt_động giao_hữu thể_thao học_viên trường_trung_cấp kỹ_thuật hải_quân
+3,bên_cạnh chuyến thăm thiện_chí cơ_hội thủy_thủ đoàn khám_phá nền văn_hóa giàu bản_sắc con_người việt_nam
+4,đại_tá darren_kerr tùy_viên quốc_phòng australia việt_nam biết “ cơ_hội tuyệt_vời củng_cố hơn mối quan_hệ hợp_tác quốc_phòng australia việt_nam
+5,mối quan_hệ xây_dựng năm 1999 ngày_càng phát_triển về chất lẫn lượng kể thời_điểm
+6,đại_tá kerr nói thêm kể năm 1999 quân_đội australia giúp đào_tạo hơn 1500 quân_nhân quân_đội nhân_dân việt_nam việt_nam australia
+7,hiện_tại australia hỗ_trợ quân_đội nhân_dân việt_nam trong công_tác chuẩn_bị nhiệm_vụ gìn_giữ hòa_bình liên_hợp_quốc
+8,tôi biết thủy_thủ đoàn tàu hmas_anzac mong_chờ chuyến thăm tới thành_phố hồ_chí_minh lần một điểm nhấn trong hải_trình lần tàu ” đại_tá kerr hay
+9,trong đại_sứ australia_hugh_borrowman đặc_biệt nhấn_mạnh tới thuyền_trưởng tàu lần nữ trung_tá hải_quân belinda_wood một trong số ngày_càng phụ_nữ nắm vị_trí lãnh_đạo trong hải_quân hoàng_gia_australia
+10,tàu hmas_anzac tàu hộ_vệ tên lửa thuộc lớp anzac chức_năng phòng chống tàu_ngầm năng_lực chống tàu mặt_nước giám_sát ngăn_chặn trinh_sát
+11,nặng 3600 tấn dài 118 mét tàu hmas_anzac trang_bị tên lửa phòng evolved_sea_sparrow môđun tên lửa chống hạm harpoon_block 2 pháo tự_động mk 45 127 mm 6 ống_phóng lội mk32

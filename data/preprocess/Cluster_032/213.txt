@@ -1,21 +1,21 @@
 idx, sentence
-0,đây là dự_án đầu_tiên của việt_nam trong lĩnh_vực sản_xuất  chế_biến sữa tại nga  quốc_gia có truyền_thống lâu_đời về sử_dụng sữa  các sản_phẩm từ sữa  và là dự_án có vốn đầu_tư lớn nhất của việt_nam_tính tới thời_điểm hiện_tại 
-1,lễ khởi_công vinh_dự có sự tham_gia của thủ_tướng nguyễn_xuân_phúc  phó_thủ_tướng  bộ_trưởng ngoại_giao phạm_bình_minh  bộ_trưởng nông_nghiệp liên_bang nga_nikolay_fyodorov  thống_đốc tỉnh moscow_andrey_vorobieviu và lãnh_đạo các bộ  ngành của hai nước 
-2,ngoài_ra  chứng_kiến buổi lễ còn có đại_diện sứ_quán 15 nước  trong đó có 10 sứ_quán của 10 nước asean 
-3,dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tại tỉnh moscow có mức đầu_tư 500 triệu usd  giai_đoạn 1 của dự_án tại liên_bang_nga 
-4,dự_kiến vào giữa năm 2017  sản_phẩm sữa_tươi sạch th đầu_tiên sẽ ra_mắt tại xứ_sở bạch_dương 
-5,đây là giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến sữa tập_trung quy_mô công_nghiệp và một_số dự_án về thực_phẩm với tổng vốn đầu_tư là 27 tỷ usd tại liên_bang_nga 
-6,trong đó  dự_án sữa triển_khai theo ba giai_đoạn 
-7,khi hoàn_thành dự_án ở giai_đoạn 3  tổng_số đàn bò dự_kiến là 350 nghìn con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800 nghìn tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140 nghìn ha 
-8,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn nước nga 
-9,theo bộ kế_hoạch và đầu_tư việt_nam  nga đang đứng thứ 17/112 quốc_gia và vùng lãnh_thổ đầu_tư vào việt_nam với 114 dự_án đầu_tư còn hiệu_lực  tổng vốn đầu_tư đăng_ký đạt 208 tỷ usd trong các lĩnh_vực như năng_lượng  khai_khoáng  chế_tạo_máy  dịch_vụ du_lịch … việt_nam có 20 dự_án đầu_tư sang nga với tổng vốn đầu_tư_cấp mới và tăng vốn là 293 tỷ usd trong các lĩnh_vực thăm_dò và khai_thác dầu_khí  dịch_vụ 
-10,như_vậy  tại thời_điểm này  dự_án đầu_tư của tập_đoàn th đang là dự_án lớn nhất cả về quy_mô sản_xuất và nguồn vốn sử_dụng 
-11,dự_án tại tỉnh moscow sẽ sản_xuất các sản_phẩm sữa_tươi sạch  chất_lượng cao  cung_cấp cho người tiêu_dùng tỉnh moscow và liên_bang nga theo chuỗi sản_phẩm từ đồng_cỏ đến bàn_ăn  chăn_nuôi bò sữa  chế_biến sữa_tươi và phân_phối đến người tiêu_dùng   đáp_ứng nhu_cầu của người dân nga  từng bước giảm dần sự phụ_thuộc vào nguồn sữa bên ngoài  cũng như tiết_kiệm được một lượng lớn ngoại_tệ từ việc nhập_khẩu sữa và các sản_phẩm từ sữa hàng năm 
-12,theo ông relevant  đại_diện đơn_vị cung_cấp công_nghệ_delava cho dự_án chia_sẻ  “ dự_án này chúng_tôi có kế_hoạch áp_dụng các tiến_bộ khoa_học tiên_tiến nhất  quy_trình tự_động liên_hoàn và hệ_thống quản_lý quản_lý đàn hiện_đại nhất ” 
-13,cũng tại lễ khởi_công  thủ_tướng chính_phủ nguyễn_xuân_phúc nhận_định  “ nga là thị_trường tiêu thị sữa lớn  đầy tiềm_năng 
-14,việc triển_khai dự_án tại tỉnh moscow góp_phần quan_trọng vào việc phát_triển nông_nghiệp của vùng  tạo thêm công_ăn_việc_làm cho người dân sở_tại  cũng như người lao_động việt_nam tại liên_bang_nga  tạo_dựng hình_ảnh mới về hiệu_quả và sự đa_dạng của các lĩnh_vực hợp_tác giữa việt_nam và nga ” 
-15,dự_án này có ý_nghĩa thực_tiễn rất lớn trong bối_cảnh thực_hiện hiệp_định thương_mại tự_do á  âu hiện_nay 
-16,thủ_tướng chính_phủ đánh_giá cao tinh_thần dám nghĩ dám làm của bà thái_hương  chủ_tịch tập_đoàn th  tinh_thần kiên_cường đưa dự_án việt_nam  sản_phẩm việt_nam vào thị_trường nga 
-17,thủ_tướng cũng bày_tỏ niềm_tin sâu_sắc tập_đoàn th sẽ thành_công dự_án sữa ở nga như đã thành_công với dự_án sữa th tại việt_nam và sẽ “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu của hai nước ” 
-18,thực_tế tại việt_nam  tập_đoàn th đã thành_công vang_dội với dự_án sữa_tươi sạch th  triển_khai từ năm 2009   sở_hữu trang_trại bò sữa lớn nhất châu_á  nhà_máy chế_biến sữa th lớn nhất đông_nam_á  tiên_phong trong cuộc cách_mạng sữa_tươi sạch ở việt_nam và chiếm tới gần 50  thị_phần trong phân khúc sữa_tươi 
-19,sản_phẩm của th đã kiêu_hãnh sánh_vai với nhiều thương_hiệu lớn trên thế_giới tại các hội_chợ thực_phẩm hàng_đầu quốc_tế  giành nhiều giải_thưởng quốc_tế uy_tín tại asean  mỹ  nga và dubai  uae   hội_tụ đủ điều_kiện để bước chân ra thế_giới 
+0,dự_án đầu_tiên việt_nam trong lĩnh_vực sản_xuất chế_biến sữa nga quốc_gia truyền_thống lâu_đời về sử_dụng sữa sản_phẩm sữa dự_án vốn đầu_tư lớn nhất việt_nam_tính tới thời_điểm hiện_tại
+1,lễ khởi_công vinh_dự tham_gia thủ_tướng nguyễn_xuân_phúc phó_thủ_tướng bộ_trưởng ngoại_giao phạm_bình_minh bộ_trưởng nông_nghiệp liên_bang nga_nikolay_fyodorov thống_đốc tỉnh moscow_andrey_vorobieviu lãnh_đạo bộ ngành hai nước
+2,ngoài_ra chứng_kiến buổi lễ còn đại_diện sứ_quán 15 nước trong 10 sứ_quán 10 nước asean
+3,dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tỉnh moscow mức đầu_tư 500 triệu usd giai_đoạn 1 dự_án liên_bang_nga
+4,dự_kiến giữa năm 2017 sản_phẩm sữa_tươi sạch th đầu_tiên ra_mắt xứ_sở bạch_dương
+5,giai_đoạn đầu_tiên trong tổng_thể dự_án tổ_hợp chăn_nuôi bò sữa chế_biến sữa tập_trung quy_mô công_nghiệp một_số dự_án về thực_phẩm tổng vốn đầu_tư 27 tỷ usd liên_bang_nga
+6,trong dự_án sữa triển_khai ba giai_đoạn
+7,hoàn_thành dự_án ở giai_đoạn 3 tổng_số đàn bò dự_kiến 350 nghìn con tổng công_suất chế_biến sữa 5900 tấn / ngày tương_đương gần 1800 nghìn tấn / năm tổng diện_tích vùng nguyên_liệu tập_trung 140 nghìn ha
+8,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng true_mart toàn nước nga
+9,bộ kế_hoạch đầu_tư việt_nam nga đứng thứ 17/112 quốc_gia vùng lãnh_thổ đầu_tư việt_nam 114 dự_án đầu_tư còn hiệu_lực tổng vốn đầu_tư đăng_ký đạt 208 tỷ usd trong lĩnh_vực năng_lượng khai_khoáng chế_tạo_máy dịch_vụ du_lịch … việt_nam 20 dự_án đầu_tư sang nga tổng vốn đầu_tư_cấp mới tăng vốn 293 tỷ usd trong lĩnh_vực thăm_dò khai_thác dầu_khí dịch_vụ
+10,như_vậy thời_điểm dự_án đầu_tư tập_đoàn th dự_án lớn nhất về quy_mô sản_xuất nguồn vốn sử_dụng
+11,dự_án tỉnh moscow sản_xuất sản_phẩm sữa_tươi sạch chất_lượng cao cung_cấp người tiêu_dùng tỉnh moscow liên_bang nga chuỗi sản_phẩm đồng_cỏ đến bàn_ăn chăn_nuôi bò sữa chế_biến sữa_tươi phân_phối đến người tiêu_dùng đáp_ứng nhu_cầu người dân nga bước giảm dần phụ_thuộc nguồn sữa bên ngoài tiết_kiệm một lượng lớn ngoại_tệ nhập_khẩu sữa sản_phẩm sữa hàng năm
+12,ông relevant đại_diện đơn_vị cung_cấp công_nghệ_delava dự_án chia_sẻ “ dự_án chúng_tôi kế_hoạch áp_dụng tiến_bộ khoa_học tiên_tiến nhất quy_trình tự_động liên_hoàn hệ_thống quản_lý quản_lý đàn hiện_đại nhất ”
+13,lễ khởi_công thủ_tướng chính_phủ nguyễn_xuân_phúc nhận_định “ nga thị_trường tiêu thị sữa lớn đầy tiềm_năng
+14,triển_khai dự_án tỉnh moscow góp_phần quan_trọng phát_triển nông_nghiệp vùng tạo thêm công_ăn_việc_làm người dân sở_tại người lao_động việt_nam liên_bang_nga tạo_dựng hình_ảnh mới về hiệu_quả đa_dạng lĩnh_vực hợp_tác giữa việt_nam nga ”
+15,dự_án ý_nghĩa thực_tiễn lớn trong bối_cảnh thực_hiện hiệp_định thương_mại tự_do á âu hiện_nay
+16,thủ_tướng chính_phủ đánh_giá cao tinh_thần dám nghĩ dám làm bà thái_hương chủ_tịch tập_đoàn th tinh_thần kiên_cường đưa dự_án việt_nam sản_phẩm việt_nam thị_trường nga
+17,thủ_tướng bày_tỏ niềm_tin sâu_sắc tập_đoàn th thành_công dự_án sữa ở nga thành_công dự_án sữa th việt_nam “ trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu hai nước ”
+18,thực_tế việt_nam tập_đoàn th thành_công vang_dội dự_án sữa_tươi sạch th triển_khai năm 2009 sở_hữu trang_trại bò sữa lớn nhất châu_á nhà_máy chế_biến sữa th lớn nhất đông_nam_á tiên_phong trong cuộc cách_mạng sữa_tươi sạch ở việt_nam chiếm tới gần 50 thị_phần trong phân khúc sữa_tươi
+19,sản_phẩm th kiêu_hãnh sánh_vai thương_hiệu lớn thế_giới hội_chợ thực_phẩm hàng_đầu quốc_tế giành giải_thưởng quốc_tế uy_tín asean mỹ nga dubai uae hội_tụ đủ điều_kiện bước chân thế_giới

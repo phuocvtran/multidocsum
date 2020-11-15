@@ -1,18 +1,18 @@
 idx, sentence
-0,đó thực_sự là kết_quả đáng tự_hào  bởi nếu không có sự đóng_góp của hà_nội  chắc_chắn nhiệm_vụ phấn_đấu có từ 15 đến 20 vđv dự olympic_rio 2016 của ttvn khó có_thể hoàn_thành 
-1,việc giành vé dự thế_vận_hội không dễ_dàng  bởi vđv phải vượt qua các vòng tuyển_chọn quy_mô châu_lục và thế_giới  cạnh_tranh trực_tiếp với nhiều gương_mặt hàng_đầu của các quốc_gia có nền thể_thao mạnh 
-2,trong bối_cảnh ấy  7 gương_mặt của thể_thao thủ_đô được đến olympic_rio 2016 đều là những vđv tài_năng tiêu_biểu cho tinh_thần  ý_chí quyết_tâm và nghị_lực vượt khó 
-3,đầu_tiên  không_thể không kể đến phạm_phước_hưng  chàng trai 29 tuổi nhưng có đến 22 năm gắn_bó với nghiệp thể_dục dụng_cụ  tddc  
-4,ít nhất 2 lần phải vượt qua bạo_bệnh lao xương và vô_số lần bị chấn_thương  nhưng phước_hưng luôn vững_vàng phấn_đấu  trở_thành vđv hàng_đầu của ttvn với bảng_vàng thành_tích huy_chương dày_dặn ở cả tầm quốc_gia  khu_vực  châu_lục và thế_giới 
-5,tại vòng tuyển_chọn cuối_cùng của olympic_rio 2016 môn tddc diễn ra trung_tuần tháng 4 ở brazil  hình_ảnh phước_hưng với mảng lưng trần dán kín băng bảo_vệ nhằm giữ chắc cơ và khớp trước giờ vào thi_đấu khiến tất_cả đều xúc_động 
-6,hưng đã vượt qua sự đau_đớn do tái_phát chấn_thương để giành vé dự olympic trong niềm tự_hào chung của ttvn 
-7,cũng 2 lần liên_tiếp giành quyền tham_dự olympic  2012  2016  như hưng  nhưng những nhọc_nhằn của đô_vật nguyễn_thị_lụa lại rất khác 
-8,do đặc_thù của môn vật với rất nhiều khó_khăn  ít tài_trợ  khó lấy thưởng vì môn này hay bị loại khỏi đấu_trường sea_games  dễ hiểu lụa phải chịu nhiều thiệt_thòi về thu_nhập khi theo nghiệp vật nữ 
-9,nhưng đô_vật đất quốc_oai không hề nản_lòng  lập thành_tích làm nức_lòng người hâm_mộ 
-10,bất_ngờ lớn nhất chính là việc đội_tuyển kiếm hà_nội giành được 3 suất dự olympic  gồm vũ_thành_an  nguyễn_thị_lệ_dung và nguyễn_thị_như_hoa 
-11,hlv phạm_anh_tuấn cũng thừa_nhận   việc an và dung vượt qua vòng loại nằm trong tính_toán của các nhà_chuyên_môn  nhưng với trường_hợp như_hoa thực_sự rất bất_ngờ  khẳng_định nỗ_lực lớn của bà mẹ hai con này 
-12,cả 3 kiếm thủ đều có tinh_thần tự_giác rèn_luyện  điềm_đạm  khiêm_tốn học_hỏi  lại luôn nuôi_dưỡng niềm khát_khao chiến_thắng  
-13,hai gương_mặt còn lại là đô_vật trẻ vũ_thị_hằng  hcb giải trẻ thế_giới  hcb giải châu_á  và lực_sĩ cử_tạ vương_thị_huyền  từng giành hcb thế_giới và hcv châu_á  
-14,phó giám_đốc điều_hành trung_tâm huấn_luyện và thi_đấu tdtt hà_nội phan_anh_tú phân_tích   rất khó có_thể giành huy_chương ở thế_vận_hội  nhưng theo các nhà_chuyên_môn  chúng_ta có_thể hy_vọng ở những môn thi_đấu theo hạng cân  ví_như vật hoặc cử_tạ 
-15,tất_nhiên  vật muốn có huy_chương rất cần phải dày_dạn kinh_nghiệm 
-16,còn cử_tạ  thành_bại thế_nào phụ_thuộc nhiều vào chuyện bốc thăm và tính_toán chiến_lược  bởi môn này nếu đặt cân đúng rất có khả_năng giành huy_chương  
+0,thực_sự kết_quả đáng tự_hào đóng_góp hà_nội chắc_chắn nhiệm_vụ phấn_đấu 15 đến 20 vđv dự olympic_rio 2016 ttvn khó hoàn_thành
+1,giành vé dự thế_vận_hội dễ_dàng vđv vượt vòng tuyển_chọn quy_mô châu_lục thế_giới cạnh_tranh trực_tiếp gương_mặt hàng_đầu quốc_gia nền thể_thao mạnh
+2,trong bối_cảnh ấy 7 gương_mặt thể_thao thủ_đô đến olympic_rio 2016 vđv tài_năng tiêu_biểu tinh_thần ý_chí quyết_tâm nghị_lực vượt khó
+3,đầu_tiên không_thể kể đến phạm_phước_hưng chàng trai 29 tuổi đến 22 năm gắn_bó nghiệp thể_dục dụng_cụ tddc
+4,ít nhất 2 lần vượt bạo_bệnh lao xương vô_số lần chấn_thương phước_hưng luôn vững_vàng phấn_đấu trở_thành vđv hàng_đầu ttvn bảng_vàng thành_tích huy_chương dày_dặn ở tầm quốc_gia khu_vực châu_lục thế_giới
+5,vòng tuyển_chọn cuối_cùng olympic_rio 2016 môn tddc diễn trung_tuần tháng 4 ở brazil hình_ảnh phước_hưng mảng lưng trần dán kín băng bảo_vệ nhằm giữ chắc cơ khớp giờ thi_đấu khiến tất_cả xúc_động
+6,hưng vượt đau_đớn tái_phát chấn_thương giành vé dự olympic trong niềm tự_hào chung ttvn
+7,2 lần liên_tiếp giành quyền tham_dự olympic 2012 2016 hưng nhọc_nhằn đô_vật nguyễn_thị_lụa khác
+8,đặc_thù môn vật khó_khăn ít tài_trợ khó lấy thưởng môn hay loại khỏi đấu_trường sea_games dễ hiểu lụa chịu thiệt_thòi về thu_nhập nghiệp vật nữ
+9,đô_vật đất quốc_oai hề nản_lòng lập thành_tích làm nức_lòng người hâm_mộ
+10,bất_ngờ lớn nhất chính đội_tuyển kiếm hà_nội giành 3 suất dự olympic gồm vũ_thành_an nguyễn_thị_lệ_dung nguyễn_thị_như_hoa
+11,hlv phạm_anh_tuấn thừa_nhận an dung vượt vòng loại nằm trong tính_toán nhà_chuyên_môn trường_hợp như_hoa thực_sự bất_ngờ khẳng_định nỗ_lực lớn bà mẹ hai con
+12,3 kiếm thủ tinh_thần tự_giác rèn_luyện điềm_đạm khiêm_tốn học_hỏi luôn nuôi_dưỡng niềm khát_khao chiến_thắng
+13,hai gương_mặt còn đô_vật trẻ vũ_thị_hằng hcb giải trẻ thế_giới hcb giải châu_á lực_sĩ cử_tạ vương_thị_huyền giành hcb thế_giới hcv châu_á
+14,phó giám_đốc điều_hành trung_tâm huấn_luyện thi_đấu tdtt hà_nội phan_anh_tú phân_tích khó giành huy_chương ở thế_vận_hội nhà_chuyên_môn chúng_ta hy_vọng ở môn thi_đấu hạng cân ví_như vật hoặc cử_tạ
+15,tất_nhiên vật muốn huy_chương dày_dạn kinh_nghiệm
+16,còn cử_tạ thành_bại thế_nào phụ_thuộc bốc thăm tính_toán chiến_lược môn đặt cân đúng khả_năng giành huy_chương

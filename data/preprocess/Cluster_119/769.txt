@@ -1,8 +1,8 @@
 idx, sentence
-0,“ hoạ_mi nước anh ” 28 tuổi có tên đầy_đủ là adele_laurie_blue_adkins  nhưng được biết đến nhiều hơn với cái tên ngắn_gọn là adele 
-1,với việc sở_hữu_sản_phẩm âm_nhạc bán_chạy nhất thế_giới năm 2015  nữ ca_sĩ danh_tiếng này đã lọt vào tầm ngắm của hãng sony sau khi kết_thúc hợp_đồng thu âm ký với hãng đĩa xl của anh từ năm cô 19 tuổi 
-2,hợp_đồng mới với hãng sony do quản_lý của adele_jonathan_watkins đứng ra làm trung_gian 
-3,hiện cả sony_music  xl_recordings và quản_lý của adele đều chưa đưa ra bình_luận về động_thái này của nữ ca_sĩ 
-4,tuy_nhiên  nhiều nguồn tin khẳng_định sony đã đứng ra bảo_trợ cho adele 
-5,với khối tài_sản khoảng 123 triệu usd  chủ_yếu có được là nhờ vào thành_công từ các sản_phẩm âm_nhạc  bao_gồm hơn 506 triệu usd doanh_thu từ album 25  adele được coi là ca_sĩ  nhạc_sĩ thành_công bậc nhất của nước anh 
-6,năm 2012  adele đứng thứ 5 trong danh_sách 100  phụ_nữ vĩ_đại nhất  của làng nhạc theo bình_chọn của mạng truyền_hình vh1  trong khi tạp_chí time vinh_danh cô là một trong những nhân_vật có tầm ảnh_hưởng nhất trên thế_giới 
+0,“ hoạ_mi nước anh ” 28 tuổi tên đầy_đủ adele_laurie_blue_adkins biết đến hơn tên ngắn_gọn adele
+1,sở_hữu_sản_phẩm âm_nhạc bán_chạy nhất thế_giới năm 2015 nữ ca_sĩ danh_tiếng lọt tầm ngắm hãng sony kết_thúc hợp_đồng thu âm ký hãng đĩa xl anh năm cô 19 tuổi
+2,hợp_đồng mới hãng sony quản_lý adele_jonathan_watkins đứng làm trung_gian
+3,hiện sony_music xl_recordings quản_lý adele đưa bình_luận về động_thái nữ ca_sĩ
+4,tuy_nhiên nguồn tin khẳng_định sony đứng bảo_trợ adele
+5,khối tài_sản khoảng 123 triệu usd chủ_yếu nhờ thành_công sản_phẩm âm_nhạc bao_gồm hơn 506 triệu usd doanh_thu album 25 adele coi ca_sĩ nhạc_sĩ thành_công bậc nhất nước anh
+6,năm 2012 adele đứng thứ 5 trong danh_sách 100 phụ_nữ vĩ_đại nhất làng nhạc bình_chọn mạng truyền_hình vh1 trong tạp_chí time vinh_danh cô một trong nhân_vật tầm ảnh_hưởng nhất thế_giới

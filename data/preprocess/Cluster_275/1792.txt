@@ -1,8 +1,8 @@
 idx, sentence
-0,ngày 2/6  bộ_giáo_dục_và_đào_tạo có công_văn gửi giám_đốc các sở giáo_dục trên cả nước nêu rõ  thời_gian qua bộ cùng ubnd các tỉnh_thành đã ban_hành nhiều quy_định  triển_khai nhiều giải_pháp để chấn_chỉnh tiêu_cực phát_sinh do việc xin học trái tuyến và học chọn lớp 
-1,tuy_nhiên  hiện_tượng chạy trường  chạy lớp vẫn tồn_tại ở nhiều đô_thị  khu_vực đông dân_cư gây áp_lực cho cha_mẹ học_sinh  tạo bức_xúc trong xã_hội và gây khó_khăn cho công_tác quản_lý của ngành 
-2,để khắc_phục tình_trạng chạy trường  chạy lớp  bộ giáo_dục đề_nghị các sở chỉ_đạo phòng giáo_dục và các trường tổ_chức tuyển_sinh đảm_bảo quyền được học_tập của học_sinh  tổ_chức công_khai và thuận_lợi  bảo_đảm mục_tiêu phổ_cập giáo_dục của địa_phương 
-3,bên_cạnh đó  các địa_phương cũng phải giải_thích cho đội_ngũ cán_bộ quản_lý các trường  cha_mẹ học_sinh để hạn_chế chạy trường  chạy lớp 
-4,cùng với đó là nâng cao năng_lực quản_lý cho đội_ngũ cán_bộ  giáo_viên  tăng_cường cơ_sở_vật_chất để đảm_bảo sự đồng_đều về chất_lượng giáo_dục giữa các trường  các lớp 
-5, nghiêm_cấm việc tổ_chức các trường chuyên  lớp chọn ở cấp mầm_non  tiểu_học và trung_học_cơ_sở dưới bất_kỳ_hình_thức nào 
-6,đồng_thời  tăng_cường công_tác thanh_tra  kiểm_tra  xử_lý nghiêm_khắc các hiện_tượng tiêu_cực nhằm chạy trường  chạy lớp   công_văn của bộ nêu rõ 
+0,ngày 2/6 bộ_giáo_dục_và_đào_tạo công_văn gửi giám_đốc sở giáo_dục nước nêu rõ thời_gian bộ ubnd tỉnh_thành ban_hành quy_định triển_khai giải_pháp chấn_chỉnh tiêu_cực phát_sinh xin học trái tuyến học chọn lớp
+1,tuy_nhiên hiện_tượng chạy trường chạy lớp tồn_tại ở đô_thị khu_vực đông dân_cư gây áp_lực cha_mẹ học_sinh tạo bức_xúc trong xã_hội gây khó_khăn công_tác quản_lý ngành
+2,khắc_phục tình_trạng chạy trường chạy lớp bộ giáo_dục đề_nghị sở chỉ_đạo phòng giáo_dục trường tổ_chức tuyển_sinh đảm_bảo quyền học_tập học_sinh tổ_chức công_khai thuận_lợi bảo_đảm mục_tiêu phổ_cập giáo_dục địa_phương
+3,bên_cạnh địa_phương giải_thích đội_ngũ cán_bộ quản_lý trường cha_mẹ học_sinh hạn_chế chạy trường chạy lớp
+4,nâng cao năng_lực quản_lý đội_ngũ cán_bộ giáo_viên tăng_cường cơ_sở_vật_chất đảm_bảo đồng_đều về chất_lượng giáo_dục giữa trường lớp
+5,nghiêm_cấm tổ_chức trường chuyên lớp chọn ở cấp mầm_non tiểu_học trung_học_cơ_sở bất_kỳ_hình_thức nào
+6,đồng_thời tăng_cường công_tác thanh_tra kiểm_tra xử_lý nghiêm_khắc hiện_tượng tiêu_cực nhằm chạy trường chạy lớp công_văn bộ nêu rõ

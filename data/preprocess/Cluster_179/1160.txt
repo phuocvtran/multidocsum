@@ -1,8 +1,8 @@
 idx, sentence
-0,theo đó  ở hạng 48 kg nữ  văn_ngọc_tú xếp_hạng 44  thứ_hạng vừa đủ để cô có được tấm vé thứ 19 cho thể_thao việt_nam dự ngày hội thể_thao thế_giới tại brazil 
-1,trước đó  văn_ngọc_tú đã thi_đấu không thành_công ở các giải vòng loại khi thường bị loại sớm ở các vòng đầu_tiên 
-2,tuy_nhiên  số điểm tích_lũy của võ_sĩ 28 tuổi luôn ở mức ổn_định trong top 50 và điều đó giúp cô có một suất đến olympic 
-3,đây là lần thứ 2 cô có vinh_dự này sau khi giành được quyền dự olympic_london cách đây 4 năm 
-4,vòng loại olympic 2016 diễn ra từ 30/5/2014 và kết_thúc vào 30/5/2016 
-5,mỗi hạng cân  mỗi quốc_gia chỉ được tối_đa 1 vđv tham_dự 
-6,tại hạng cân 48 kg của nữ có 22 suất  trong đó bao_gồm  1 suất đặc_cách cho vđv nước chủ nhà brazil  14 suất dành cho các vđv có thứ_hạng cao trên bảng xếp_hạng judo thế_giới  7 suất còn lại phân_bổ cho vđv của 5 châu_lục  châu_âu  2 vđv  châu_á  2 vđv  châu_phi  1 vđv  châu_mỹ  1 vđv  châu đại_dương  1 vđv  có số điểm tích_lũy cao nhất 
+0,ở hạng 48 kg nữ văn_ngọc_tú xếp_hạng 44 thứ_hạng đủ cô tấm vé thứ 19 thể_thao việt_nam dự ngày hội thể_thao thế_giới brazil
+1,văn_ngọc_tú thi_đấu thành_công ở giải vòng loại thường loại sớm ở vòng đầu_tiên
+2,tuy_nhiên số điểm tích_lũy võ_sĩ 28 tuổi luôn ở mức ổn_định trong top 50 giúp cô một suất đến olympic
+3,lần thứ 2 cô vinh_dự giành quyền dự olympic_london cách 4 năm
+4,vòng loại olympic 2016 diễn 30/5/2014 kết_thúc 30/5/2016
+5,hạng cân quốc_gia tối_đa 1 vđv tham_dự
+6,hạng cân 48 kg nữ 22 suất trong bao_gồm 1 suất đặc_cách vđv nước chủ nhà brazil 14 suất dành vđv thứ_hạng cao bảng xếp_hạng judo thế_giới 7 suất còn phân_bổ vđv 5 châu_lục châu_âu 2 vđv châu_á 2 vđv châu_phi 1 vđv châu_mỹ 1 vđv châu đại_dương 1 vđv số điểm tích_lũy cao nhất

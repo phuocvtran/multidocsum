@@ -1,8 +1,8 @@
 idx, sentence
-0,tối 22/5  nguồn tin của pv tin được biết  công_an tỉnh cà_mau đang khẩn_trương đã chỉ_đạo lực_lượng truy bắt các đối_tượng trong vụ chém người xảy ra vào khoảng 2 h cùng ngày  tại phường 9  tp cà_mau  
-1,theo nguồn tin trên  công_an cà_mau đã bắt được đối_tượng phan_hoàng_thông  tự cu_thông  một trong những “ tay ” có máu_mặt ở cà_mau  để điều_tra vụ_việc  các đối_tượng còn lại lẩn trốn sau khi tham_gia truy sát 
-2,thông_tin ban_đầu cho thấy  vào thời_điểm xảy ra vụ_việc  có đến hơn chục đối tượngcầm hung_khí  đi xe_máy xông vào quán ăn trên đường nguyễn_trãi  phường 9  tp cà_mau  để truy sát anh thái thiện_nhân  25 tuổi  trông_coi cơ_sở thiện_thanh_spa  số 44 đường nguyễn_trãi  
-3,người dân chứng_kiến vụ_việc cho biết  khi phát_hiện nhóm người hung_hãn nói trên  nạn_nhân lập_tức bỏ chạy vào phía sau quán ăn  nhóm đối_tượng nói trên lập_tức đuổi theo và dùng mã tấy chém trúng đầu và tay  khiến nạn_nhân bị_thương nặng  được đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch 
-4,các bác_sĩ cho biết  nạn_nhân bị_thương nhiều nhát vào đầu và tay_trái  phải khâu 27 mũi  người_nhà nạn_nhân thông_tin  trước khi xảy ra vụ_việc  bà thái thiện_thanh  cơ_sở thiện_thanh_spa  có nhận được tin nhắn trên facbook của một người có “ máu_mặt ” ở cà_mau với nội_dụng “ gặp đâu chém đó  ” 
-5,sau khi nhận được tin nhắn  cơ_sở của bà liên_tiếp bị khủng_bố bằng gạch đá  nước_sơn  hột_vịt thối  được biết  sau khi nhận được tin nhắn  cũng như những lần bị “ khủng_bố ” nói trên  bà đã trình_báo cơ_quan công_an nhờ can_thiệp 
-6,thế nhưng  vụ truy sát cũng đã xảy ra 
+0,tối 22/5 nguồn tin pv tin biết công_an tỉnh cà_mau khẩn_trương chỉ_đạo lực_lượng truy bắt đối_tượng trong vụ chém người xảy khoảng 2 h ngày phường 9 tp cà_mau
+1,nguồn tin công_an cà_mau bắt đối_tượng phan_hoàng_thông tự cu_thông một trong “ tay ” máu_mặt ở cà_mau điều_tra vụ_việc đối_tượng còn lẩn trốn tham_gia truy sát
+2,thông_tin ban_đầu thấy thời_điểm xảy vụ_việc đến hơn chục đối tượngcầm hung_khí đi xe_máy xông quán ăn đường nguyễn_trãi phường 9 tp cà_mau truy sát anh thái thiện_nhân 25 tuổi trông_coi cơ_sở thiện_thanh_spa số 44 đường nguyễn_trãi
+3,người dân chứng_kiến vụ_việc biết phát_hiện nhóm người hung_hãn nói nạn_nhân lập_tức bỏ chạy phía quán ăn nhóm đối_tượng nói lập_tức đuổi dùng mã tấy chém trúng đầu tay khiến nạn_nhân bị_thương nặng đến bệnh_viện đa_khoa tỉnh cà_mau cấp_cứu trong tình_trạng nguy_kịch
+4,bác_sĩ biết nạn_nhân bị_thương nhát đầu tay_trái khâu 27 mũi người_nhà nạn_nhân thông_tin xảy vụ_việc bà thái thiện_thanh cơ_sở thiện_thanh_spa nhận tin nhắn facbook một người “ máu_mặt ” ở cà_mau nội_dụng “ gặp đâu chém ”
+5,nhận tin nhắn cơ_sở bà liên_tiếp khủng_bố bằng gạch đá nước_sơn hột_vịt thối biết nhận tin nhắn lần “ khủng_bố ” nói bà trình_báo cơ_quan công_an nhờ can_thiệp
+6,thế vụ truy sát xảy

@@ -1,9 +1,9 @@
 idx, sentence
-0,hãng tin pravda cho biết  sự_việc xảy ra chiều qua theo giờ địa_phương khi chiếc airbus 319 của hãng hàng_không s7_airlines đáp xuống sân_bay domodedov  hoàn_tất chuyến bay từ thành_phố st 
-1,petersburg đến thủ_đô moscow và chờ hướng_dẫn vào bãi đỗ 
-2,khoảng 13 h50  nhân_viên bộ_phận kiểm_soát không_lưu tại sân_bay thông_báo với phi_công của máy_bay này phải chờ một máy_bay khác cũng từ st 
-3,petersburg đáp xuống 
-4,“ trong khoảng 2 phút chờ_đợi  bề_mặt của đường_băng phía dưới bánh máy_bay bắt_đầu sụt_lún và khiến máy_bay tụt xuống 
-5,phi_công không_thể làm được gì bởi gầm máy_bay đã kẹt_cứng ở miệng hố ”  pravda dẫn nguồn thạo_tin cho biết 
-6,kết_quả là máy_bay phải giữ nguyên vị_trí này trong khoảng nửa giờ đồng_hồ và nhân_viên sân_bay quyết_định sơ_tán toàn_bộ_hành_khách 
-7,sau đó máy_bay mới được kéo về bãi đỗ 
+0,hãng tin pravda biết sự_việc xảy chiều giờ địa_phương airbus 319 hãng hàng_không s7_airlines đáp xuống sân_bay domodedov hoàn_tất chuyến bay thành_phố st
+1,petersburg đến thủ_đô moscow chờ hướng_dẫn bãi đỗ
+2,khoảng 13 h50 nhân_viên bộ_phận kiểm_soát không_lưu sân_bay thông_báo phi_công máy_bay chờ một máy_bay khác st
+3,petersburg đáp xuống
+4,“ trong khoảng 2 phút chờ_đợi bề_mặt đường_băng phía bánh máy_bay bắt_đầu sụt_lún khiến máy_bay tụt xuống
+5,phi_công không_thể làm gầm máy_bay kẹt_cứng ở miệng hố ” pravda dẫn nguồn thạo_tin biết
+6,kết_quả máy_bay giữ nguyên vị_trí trong khoảng nửa giờ đồng_hồ nhân_viên sân_bay quyết_định sơ_tán toàn_bộ_hành_khách
+7,máy_bay mới kéo về bãi đỗ

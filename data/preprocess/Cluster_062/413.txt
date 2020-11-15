@@ -1,11 +1,11 @@
 idx, sentence
-0,theo báo naver_sports  hàn_quốc   tiền_vệ lương_xuân_trường đã bình_phục chấn_thương và tham_gia tập_luyện trở_lại cùng đội một incheon_united 
-1,vào ngày 22/5 tới  đội bóng của xuân_trường sẽ tiếp_đón gwangju_fc trên sân nhà trong khuôn_khổ vòng 11 kleague 
-2,đây cũng là ngày_hội việt_nam tại hàn_quốc do nhà tài_trợ chính ngân_hàng shinhan tổ_chức với nhiều hoạt_động sẽ diễn ra tại svđ bóng_đá incheon 
-3,theo đó  đông_đảo người việt_nam ở hàn_quốc đã đăng_ký tham_gia lễ_hội này và họ sẽ có_mặt trên sân của incheon_utd để tham_dự các hoạt_động của ngày hội 
-4,xuân_trường được mời làm đại_diện hình_ảnh cho lễ_hội này  vì_thế rất có_thể anh sẽ được trao cơ_hội ra sân ở trận đấu này để tri_ân người hâm_mộ 
-5,nếu không có gì thay_đổi  hlv kim_dohoon sẽ tung xuân_trường vào sân ở hiệp 2 cuộc đối_đầu với gwangju_fc 
-6,tuy_nhiên  nếu xuân_trường có màn thể_hiện tốt trên sân tập  tuyển_thủ quốc_gia việt_nam có_thể ra sân đá chính ngay từ đầu 
-7,nếu được ra sân  xuân_trường sẽ chính_thức có trận đấu ra_mắt tại kleague 
-8,hiện  incheon_utd đang chìm sâu dưới đáy bảng xếp_hạng khi chỉ mới có được 4 điểm 
-9,người hâm_mộ đang kỳ_vọng sự có_mặt của xuân_trường sẽ giúp đội bóng có được chiến_thắng đầu_tiên tại kleague 2016 bằng việc đánh_bại gwangju_fc 
+0,báo naver_sports hàn_quốc tiền_vệ lương_xuân_trường bình_phục chấn_thương tham_gia tập_luyện trở_lại đội một incheon_united
+1,ngày 22/5 tới đội bóng xuân_trường tiếp_đón gwangju_fc sân nhà trong khuôn_khổ vòng 11 kleague
+2,ngày_hội việt_nam hàn_quốc nhà tài_trợ chính ngân_hàng shinhan tổ_chức hoạt_động diễn svđ bóng_đá incheon
+3,đông_đảo người việt_nam ở hàn_quốc đăng_ký tham_gia lễ_hội họ có_mặt sân incheon_utd tham_dự hoạt_động ngày hội
+4,xuân_trường mời làm đại_diện hình_ảnh lễ_hội vì_thế anh trao cơ_hội sân ở trận đấu tri_ân người hâm_mộ
+5,thay_đổi hlv kim_dohoon tung xuân_trường sân ở hiệp 2 cuộc đối_đầu gwangju_fc
+6,tuy_nhiên xuân_trường màn thể_hiện tốt sân tập tuyển_thủ quốc_gia việt_nam sân đá chính đầu
+7,sân xuân_trường chính_thức trận đấu ra_mắt kleague
+8,hiện incheon_utd chìm sâu đáy bảng xếp_hạng mới 4 điểm
+9,người hâm_mộ kỳ_vọng có_mặt xuân_trường giúp đội bóng chiến_thắng đầu_tiên kleague 2016 bằng đánh_bại gwangju_fc

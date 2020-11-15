@@ -1,13 +1,13 @@
 idx, sentence
-0,phút 85 trận đấu giữa bbình_dương và qnk quảng_nam hôm 18/5  felix vào bóng từ phía sau với đình_luật 
-1,cựu trung_vệ qk4 nhảy lên tránh bóng và khi hạ xuống đã  tranh_thủ  đạp luôn vào chân felix 
-2,với hành_vi trên  đình_luật đã bị lđbđvn  vff  áp_dụng án phạt  nguội  cấm thi_đấu 3 trận kế_tiếp  phạt 15 triệu đồng 
-3,không chỉ phải chịu án phạt ở vleague  đình_luật đồng_thời mất suất lên tuyển việt_nam ở đợt tập_trung ngày 23/5 tới 
-4,được biết  hlv nguyễn_hữu_thắng và vff đã trao_đổi xoay quanh phương_án xử_lý đối_với đình_luật  và quyết_định cuối_cùng được rút ra là nên để trung_vệ này ra ngoài kế_hoạch của đội_tuyển việt_nam 
-5,theo đánh_giá của vff  vi_phạm của đình_luật không đến mức thô_bạo quá mức nghiêm_trọng 
-6, tuy_nhiên đợt tập_trung tới chỉ là giải giao_hữu nhằm mục_đích phát_hiện tài_năng trẻ  giúp các cầu_thủ cọ_xát  tích_luỹ kinh_nghiệm 
-7,chúng_tôi vì_vậy thống_nhất với hlv hữu_thắng tạo cơ_hội cho cầu_thủ khác nhằm hướng tới đích xa hơn   một quan_chức cấp cao vff chia_sẻ với tiền_phong 
-8,cũng theo vị này  về chuyên_môn đình_luật có_thể không cần thẩm_định thêm 
-9,tuy_nhiên ở góc_độ hình_ảnh  vff muốn đảm_bảo quá_trình xây_dựng đội_tuyển việt_nam đẹp  cống_hiến cần được duy_trì 
-10,thay cho đình_luật  hlv nguyễn_hữu_thắng đã quyết_định triệu tập trung_vệ trẻ ngọc_thịnh của hải_phòng 
-11,ngọc_thịnh sinh năm 1992  từng được hlv toshiya_miura sử_dụng ở đội u23 hồi sea_games 2015 tại singapore 
+0,phút 85 trận đấu giữa bbình_dương qnk quảng_nam hôm 18/5 felix bóng phía đình_luật
+1,cựu trung_vệ qk4 nhảy tránh bóng hạ xuống tranh_thủ đạp luôn chân felix
+2,hành_vi đình_luật lđbđvn vff áp_dụng án phạt nguội cấm thi_đấu 3 trận kế_tiếp phạt 15 triệu đồng
+3,chịu án phạt ở vleague đình_luật đồng_thời mất suất tuyển việt_nam ở đợt tập_trung ngày 23/5 tới
+4,biết hlv nguyễn_hữu_thắng vff trao_đổi xoay quanh phương_án xử_lý đối_với đình_luật quyết_định cuối_cùng rút trung_vệ ngoài kế_hoạch đội_tuyển việt_nam
+5,đánh_giá vff vi_phạm đình_luật đến mức thô_bạo quá mức nghiêm_trọng
+6,tuy_nhiên đợt tập_trung tới giải giao_hữu nhằm mục_đích phát_hiện tài_năng trẻ giúp cầu_thủ cọ_xát tích_luỹ kinh_nghiệm
+7,chúng_tôi vì_vậy thống_nhất hlv hữu_thắng tạo cơ_hội cầu_thủ khác nhằm hướng tới đích xa hơn một quan_chức cấp cao vff chia_sẻ tiền_phong
+8,vị về chuyên_môn đình_luật thẩm_định thêm
+9,tuy_nhiên ở góc_độ hình_ảnh vff muốn đảm_bảo quá_trình xây_dựng đội_tuyển việt_nam đẹp cống_hiến duy_trì
+10,thay đình_luật hlv nguyễn_hữu_thắng quyết_định triệu tập trung_vệ trẻ ngọc_thịnh hải_phòng
+11,ngọc_thịnh sinh năm 1992 hlv toshiya_miura sử_dụng ở đội u23 hồi sea_games 2015 singapore

@@ -1,13 +1,13 @@
 idx, sentence
-0,hãng tin afp trích lại lời xin_lỗi của ông masuzoe  “ tận đáy lòng  tôi nói lời xin_lỗi người dân và hội_đồng thành_phố tokyo ” 
-1,trong bài xin_lỗi  ông masuzoe còn nói rằng “ đã gây ra rắc_rối lớn vì chi_phí các chuyến đi nước_ngoài ” cũng như làm dấy lên các lời cáo_buộc về việc sử_dụng không đúng mục_đích các quỹ công 
-2,mọi thứ bắt_đầu vào tháng 42016 khi có báo_cáo ông masuzoe dùng xe công để đi về nhà nghỉ_mát riêng ở phía nam tokyo vào mỗi cuối tuần 
-3,khi đó ông masuzoe bác_bỏ mọi cáo_buộc và khẳng_định không dùng xe công_sai quy_định 
-4,sau đó  ông masuzoe tiếp_tục bị tố chi hơn 50 triệu yen  tương_đương 450000 usd  tiền công để dẫn phái_đoàn 20 thành_viên đi london và paris trong năm 2015 
-5,trong chuyến đi này  ông masuzoe bay vé hạng thương_gia và ở phòng khách_sạn cao_cấp 
-6,đồng_thời cũng có cáo_buộc ông masuzoe sử_dụng tiền quyên_góp của những người ủng_hộ cũng như tiền thuế để mua đồ_dùng cá_nhân 
-7,chính_phủ nhật còn nhận được các báo_cáo cho biết ông masuzoe ở khách_sạn cao_cấp trong các chuyến thăm okinawa và sử_dụng dịch_vụ spa xa_xỉ tại tokyo 
-8,song_song với những cáo_buộc này  làn_sóng yêu_cầu ông masuzoe từ_chức cũng tăng mạnh 
-9,kèm theo lời xin_lỗi  ông masuzoe hứa sẽ không bay hạng thương_gia nữa và cắt_giảm chi_phí các chuyến đi nước_ngoài 
-10,đồng_thời cũng khẳng_định sẽ làm_việc với luật_sư để kiểm_tra lại việc sử_dụng tiền trong các quỹ công 
-11,ông masuzoe đảm_nhiệm_chức thị_trưởng tokyo vào tháng 22014 sau khi giành chiến_thắng trong cuộc bỏ_phiếu  thay_thế ông naoki_inose  người đột_ngột từ_chức vì những bê_bối tài_chính cá_nhân sau khi giúp tokyo giành quyền đăng_cai olympic 2020 
+0,hãng tin afp trích lời xin_lỗi ông masuzoe “ tận đáy lòng tôi nói lời xin_lỗi người dân hội_đồng thành_phố tokyo ”
+1,trong bài xin_lỗi ông masuzoe còn nói “ gây rắc_rối lớn chi_phí chuyến đi nước_ngoài ” làm dấy lời cáo_buộc về sử_dụng đúng mục_đích quỹ công
+2,mọi thứ bắt_đầu tháng 42016 báo_cáo ông masuzoe dùng xe công đi về nhà nghỉ_mát riêng ở phía nam tokyo cuối tuần
+3,ông masuzoe bác_bỏ mọi cáo_buộc khẳng_định dùng xe công_sai quy_định
+4,ông masuzoe tiếp_tục tố chi hơn 50 triệu yen tương_đương 450000 usd tiền công dẫn phái_đoàn 20 thành_viên đi london paris trong năm 2015
+5,trong chuyến đi ông masuzoe bay vé hạng thương_gia ở phòng khách_sạn cao_cấp
+6,đồng_thời cáo_buộc ông masuzoe sử_dụng tiền quyên_góp người ủng_hộ tiền thuế mua đồ_dùng cá_nhân
+7,chính_phủ nhật còn nhận báo_cáo biết ông masuzoe ở khách_sạn cao_cấp trong chuyến thăm okinawa sử_dụng dịch_vụ spa xa_xỉ tokyo
+8,song_song cáo_buộc làn_sóng yêu_cầu ông masuzoe từ_chức tăng mạnh
+9,kèm lời xin_lỗi ông masuzoe hứa bay hạng thương_gia cắt_giảm chi_phí chuyến đi nước_ngoài
+10,đồng_thời khẳng_định làm_việc luật_sư kiểm_tra sử_dụng tiền trong quỹ công
+11,ông masuzoe đảm_nhiệm_chức thị_trưởng tokyo tháng 22014 giành chiến_thắng trong cuộc bỏ_phiếu thay_thế ông naoki_inose người đột_ngột từ_chức bê_bối tài_chính cá_nhân giúp tokyo giành quyền đăng_cai olympic 2020

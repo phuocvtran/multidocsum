@@ -1,8 +1,8 @@
 idx, sentence
-0,vụ_việc xảy ra trên chuyến bay vn 227 của hãng hàng_không quốc_gia vietnam_airlines  từ hà_nội đi tp hcm 
-1,khi máy_bay vừa dừng bánh tại bãi đậu số 38  sân_bay tân_sơn_nhất  hành_khách ngô_tiến_thịnh  58 tuổi đã tự_ý mở_cửa thoát hiểm số 3l  cầu_phao cứu_sinh bung ra 
-2,hành_khách thịnh đi cùng với 3 người trong gia_đình  sau khi lên máy_bay đã tự_ý đổi vị_trí ngồi  từ ghế số 28b sang ghế 28a sát cửa thoát_hiểm 
-3,tổ bay  cảng_hàng_không quốc_tế tân_sơn_nhất và cảng_vụ hàng_không miền nam đã lập biên_bản vi_phạm hành_chính về lĩnh_vực hàng_không để xử_lý theo pháp_luật 
-4,theo kế_hoạch  sau khi từ hà_nội bay vào tp hcm lúc 10 giờ  máy_bay này sẽ bay tiếp chặng tp hcm  hongkong vào lúc 10 giờ 45 
-5,nhưng xảy ra vụ_việc  vietnam_airlines phải thay_đổi máy_bay khác đi hongkong  chuyến bay bị chậm giờ 
-6,ước_tính thiệt_hại gần 20000 usd  khoảng hơn 400 triệu đồng 
+0,vụ_việc xảy chuyến bay vn 227 hãng hàng_không quốc_gia vietnam_airlines hà_nội đi tp hcm
+1,máy_bay dừng bánh bãi đậu số 38 sân_bay tân_sơn_nhất hành_khách ngô_tiến_thịnh 58 tuổi tự_ý mở_cửa thoát hiểm số 3l cầu_phao cứu_sinh bung
+2,hành_khách thịnh đi 3 người trong gia_đình máy_bay tự_ý đổi vị_trí ngồi ghế số 28b sang ghế 28a sát cửa thoát_hiểm
+3,tổ bay cảng_hàng_không quốc_tế tân_sơn_nhất cảng_vụ hàng_không miền nam lập biên_bản vi_phạm hành_chính về lĩnh_vực hàng_không xử_lý pháp_luật
+4,kế_hoạch hà_nội bay tp hcm 10 giờ máy_bay bay tiếp chặng tp hcm hongkong 10 giờ 45
+5,xảy vụ_việc vietnam_airlines thay_đổi máy_bay khác đi hongkong chuyến bay chậm giờ
+6,ước_tính thiệt_hại gần 20000 usd khoảng hơn 400 triệu đồng

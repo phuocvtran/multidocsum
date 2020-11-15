@@ -1,3 +1,3 @@
 idx, sentence
-0,trước đó  chiều 204  trong lúc tý và lâm đang chăn bò thuê ở dưới chân đập hồ_thủy_lợi tà_rục  xã cam_phước_tây  huyện cam_lâm  tỉnh khánh_hòa  thì 7 nữ_sinh trường thcs nguyễn_du  xã cam_phước_đông  tp cam_ranh  trượt chân rơi xuống lòng hồ tà_rục 
-1,hai em đã lao xuống hồ  cứu được 5 nữ_sinh đưa vào bờ 
+0,chiều 204 trong tý lâm chăn bò thuê ở chân đập hồ_thủy_lợi tà_rục xã cam_phước_tây huyện cam_lâm tỉnh khánh_hòa 7 nữ_sinh trường thcs nguyễn_du xã cam_phước_đông tp cam_ranh trượt chân rơi xuống lòng hồ tà_rục
+1,hai em lao xuống hồ cứu 5 nữ_sinh đưa bờ

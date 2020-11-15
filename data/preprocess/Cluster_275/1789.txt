@@ -1,9 +1,9 @@
 idx, sentence
-0,thứ_trưởng bộ giáo_dục_và_đào_tạo nguyễn_vinh_hiển cho biết trong thời_gian vừa_qua  bộ_giáo_dục_và_đào_tạo  ủy_ban nhân_dân các tỉnh  thành_phố đã ban_hành nhiều quy_định và triển_khai nhiều giải_pháp để chấn_chỉnh những tiêu_cực phát_sinh do việc xin học trái tuyến và học chọn lớp 
-1, tuy_nhiên  hiện_tượng chạy trường  chạy lớp vẫn còn tồn_tại ở nhiều đô_thị  khu_vực đông dân_cư gây áp_lực cho cha_mẹ học_sinh  tạo bức_xúc trong xã_hội và gây khó_khăn cho công_tác quản_lý của ngành   thứ_trưởng nguyễn_vinh_hiển cho biết 
-2,để khắc_phục tình_trạng chạy trường  chạy lớp  bộ_giáo_dục_và_đào_tạo đề_nghị các sở giáo_dục và đào_tạo chỉ_đạo các phòng giáo_dục và đào_tạo  các trường tổ_chức tuyển_sinh đảm_bảo quyền được học_tập của học_sinh  công_khai  minh_bạch và thuận_lợi cho học_sinh và cha_mẹ học_sinh  bảo_đảm mục_tiêu phổ_cập giáo_dục của địa_phương 
-3, đồng_thời tuyên_truyền  giải_thích cho đội_ngũ cán_bộ quản_lí các trường  cha_mẹ học_sinh để hạn_chế chạy trường  chạy lớp 
-4,nâng cao năng_lực quản_lý cho đội_ngũ cán_bộ  giáo_viên  tăng_cường cơ_sở_vật_chất để đảm_bảo sự đồng_đều về chất_lượng giáo_dục giữa các trường  các lớp   thứ_trưởng nguyễn_vinh_hiển đề_nghị 
-5,bộ giáo_dục_và_đào_tạo nhấn_mạnh nghiêm_cấm việc tổ_chức các trường chuyên  lớp chọn ở cấp mầm_non  tiểu_học và trung_học_cơ_sở dưới bất_kì hình_thức nào 
-6,bên_cạnh đó  bộ sẽ tăng_cường công_tác thanh_tra  kiểm_tra  xử_lí nghiêm_khắc các hiện_tượng tiêu_cực nhằm chạy trường  chạy lớp 
-7,các sở giáo_dục và đào_tạo cần tham_mưu ủy_ban nhân_dân tỉnh  thành_phố chỉ_đạo việc phân_tuyến  giao chỉ_tiêu tuyển_sinh cho phù_hợp với chỉ_tiêu trường_lớp  cơ_sở_vật_chất và mật_độ dân_cư của địa_phương mình quản_lý 
+0,thứ_trưởng bộ giáo_dục_và_đào_tạo nguyễn_vinh_hiển biết trong thời_gian vừa_qua bộ_giáo_dục_và_đào_tạo ủy_ban nhân_dân tỉnh thành_phố ban_hành quy_định triển_khai giải_pháp chấn_chỉnh tiêu_cực phát_sinh xin học trái tuyến học chọn lớp
+1,tuy_nhiên hiện_tượng chạy trường chạy lớp còn tồn_tại ở đô_thị khu_vực đông dân_cư gây áp_lực cha_mẹ học_sinh tạo bức_xúc trong xã_hội gây khó_khăn công_tác quản_lý ngành thứ_trưởng nguyễn_vinh_hiển biết
+2,khắc_phục tình_trạng chạy trường chạy lớp bộ_giáo_dục_và_đào_tạo đề_nghị sở giáo_dục đào_tạo chỉ_đạo phòng giáo_dục đào_tạo trường tổ_chức tuyển_sinh đảm_bảo quyền học_tập học_sinh công_khai minh_bạch thuận_lợi học_sinh cha_mẹ học_sinh bảo_đảm mục_tiêu phổ_cập giáo_dục địa_phương
+3,đồng_thời tuyên_truyền giải_thích đội_ngũ cán_bộ quản_lí trường cha_mẹ học_sinh hạn_chế chạy trường chạy lớp
+4,nâng cao năng_lực quản_lý đội_ngũ cán_bộ giáo_viên tăng_cường cơ_sở_vật_chất đảm_bảo đồng_đều về chất_lượng giáo_dục giữa trường lớp thứ_trưởng nguyễn_vinh_hiển đề_nghị
+5,bộ giáo_dục_và_đào_tạo nhấn_mạnh nghiêm_cấm tổ_chức trường chuyên lớp chọn ở cấp mầm_non tiểu_học trung_học_cơ_sở bất_kì hình_thức nào
+6,bên_cạnh bộ tăng_cường công_tác thanh_tra kiểm_tra xử_lí nghiêm_khắc hiện_tượng tiêu_cực nhằm chạy trường chạy lớp
+7,sở giáo_dục đào_tạo tham_mưu ủy_ban nhân_dân tỉnh thành_phố chỉ_đạo phân_tuyến giao chỉ_tiêu tuyển_sinh phù_hợp chỉ_tiêu trường_lớp cơ_sở_vật_chất mật_độ dân_cư địa_phương mình quản_lý

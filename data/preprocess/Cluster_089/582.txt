@@ -1,16 +1,16 @@
 idx, sentence
-0,chiều nay  23/5   ông đinh_thế_huynh  ủy_viên bộ chính_trị  thường_trực_ban_bí_thư có buổi làm_việc với ban thường_vụ tỉnh_ủy đắk_lắk về tình_hình triển_khai  tổ_chức thực_hiện nghị_quyết đại_hội lần thứ xii của đảng và nghị_quyết đại_hội đảng_bộ tỉnh lần thứ xvi  kết_quả sơ_bộ công_tác bầu_cử đại_biểu quốc_hội khóa xiv và đại_biểu hội_đồng_nhân_dân các cấp nhiệm_kỳ 2016  2021 
-1,báo báo với đoàn công_tác  ông phạm_minh_tấn  phó bí_thư thường_trực tỉnh_ủy đắk_lắk cho biết  ngay sau đại_hội đại_biểu lần thứ xii của đảng  ban thường_vụ tỉnh_ủy đã thông_báo nhanh kết_quả đại_hội đến tất_cả cán_bộ chủ_chốt trong tỉnh và các đảng_bộ trực_thuộc 
-2,mặt_trận tổ_quốc và các đoàn_thể chính_trị đã phổ_biến nội_dung nghị_quyết đại_hội tới cán_bộ  đảng_viên và nhân_dân một_cách nghiêm_túc  khoa_học  bảo_đảm đúng tiến_độ 
-3,các cơ_sở đảng xây_dựng kế_hoạch tổ_chức học_tập  quán_triệt  triển_khai thực_hiện nghị_quyết đại_hội lần thứ xii của đảng trên tinh_thần đổi_mới  nâng cao chất_lượng học_tập 
-4,với công_tác xây_dựng đảng  thực_hiện nghị_quyết trung_ương 4 khóa xi và thực_hiện chỉ_thị 03 của bộ_chính_trị về học_tập và làm theo tấm_gương đạo_đức hồ_chí_minh  tỉnh_uỷ đắk_lắk đã triển_khai chỉ_đạo toàn_diện  công_tác tuyên_truyền được đổi_mới 
-5,hầu_hết các cấp_ủy trong tỉnh đã nghiêm_túc tổ_chức thực_hiện  đưa việc học_tập và làm theo tấm_gương đạo_đức của bác đi dần vào cuộc_sống  trở_thành hoạt_động thường_xuyên  có ý_nghĩa thiết_thực 
-6,nhiều đảng_bộ đã vận_dụng những cách làm sáng_tạo  hiệu_quả  bám sát hướng_dẫn của trung_ương và phù_hợp với thực_tiễn địa_phương  về cuộc bầu_cử đại_biểu quốc_hội khoá xiv và đại_biểu hội_đồng_nhân_dân các cấp  ủy_ban bầu_cử tỉnh cho biết  tỉ_lệ cử_tri đi bầu đạt 9994   hầu_hết cử_tri phấn_khởi  tin_tưởng vào lá phiếu của mình sẽ chọn ra những đại_biểu xứng_đáng đại_diện cho ý_chí_nguyện_vọng của nhanh dân 
-7,phát_biểu tại buổi làm_việc  ông đinh_thế_huynh đánh_giá cao những kết_quả mà đảng_bộ  nhân_dân tỉnh đắk_lắk đã đạt được thời_gian qua  nhất_là thành_công của cuộc bầu_cử đại_biểu quốc_hội khóa xiv và đại_biểu hội_đồng_nhân_dân các cấp nhiệm_kỳ 2016  2021 
-8,ông đinh_thế_huynh nhấn_mạnh  xây_dựng đảng là nhân_tố quyết_định  bảo_đảm thành_công trong việc thực_hiện nghị_quyết đại_hội_đảng các cấp 
-9,tỉnh đắk_lắk cần tranh_thủ thời_cơ thuận_lợi  thành_tựu đổi_mới để đưa đắk_lắk phát_triển bền_vững 
-10,xác_định đắk_lắk là tỉnh nghèo  có tiềm_năng thế mạnh  nhưng làm thế_nào khơi dậy tiềm_năng là vấn_đề cần phải tập_trung nghiên_cứu 
-11,vì_vậy  tỉnh đắk_lắk cần đổi_mới hoàn_thiện các cơ_chế chính_sách để thu_hút đầu_tư  tập_trung giải_quyết tốt chế_độ chính_sách cho vùng đồng_bào dân_tộc_thiểu_số 
-12,bên_cạnh đó tỉnh_ủy đắc_lắc cũng cần xác_định những nhiệm_vụ trọng_tâm để xây_dựng các đề_án chung với các nghị_quyết của đảng_bộ tỉnh lần thứ 16 và nghị_quyết của đại_hội_đảng_toàn_quốc lần thứ xii  tập_trung lãnh_đạo  chỉ_đạo thực_hiện thắng_lợi nhiệm_vụ đề ra 
-13,ông đinh_thế_huynh nhấn_mạnh phải xây_dựng chương_trình hành_động của các cấp_ủy và kế_hoạch hành_động của những người đứng đầu 
-14,chương_trình hành_động gắn với đặc_điểm  điều_kiện cụ_thể của từng địa_phương  gắn giữa việc thực_hiện nghị_quyết xii của đảng với nghị_quyết đại_hội đảng_bộ của tỉnh 
+0,chiều nay 23/5 ông đinh_thế_huynh ủy_viên bộ chính_trị thường_trực_ban_bí_thư buổi làm_việc ban thường_vụ tỉnh_ủy đắk_lắk về tình_hình triển_khai tổ_chức thực_hiện nghị_quyết đại_hội lần thứ xii đảng nghị_quyết đại_hội đảng_bộ tỉnh lần thứ xvi kết_quả sơ_bộ công_tác bầu_cử đại_biểu quốc_hội khóa xiv đại_biểu hội_đồng_nhân_dân cấp nhiệm_kỳ 2016 2021
+1,báo báo đoàn công_tác ông phạm_minh_tấn phó bí_thư thường_trực tỉnh_ủy đắk_lắk biết đại_hội đại_biểu lần thứ xii đảng ban thường_vụ tỉnh_ủy thông_báo nhanh kết_quả đại_hội đến tất_cả cán_bộ chủ_chốt trong tỉnh đảng_bộ trực_thuộc
+2,mặt_trận tổ_quốc đoàn_thể chính_trị phổ_biến nội_dung nghị_quyết đại_hội tới cán_bộ đảng_viên nhân_dân nghiêm_túc khoa_học bảo_đảm đúng tiến_độ
+3,cơ_sở đảng xây_dựng kế_hoạch tổ_chức học_tập quán_triệt triển_khai thực_hiện nghị_quyết đại_hội lần thứ xii đảng tinh_thần đổi_mới nâng cao chất_lượng học_tập
+4,công_tác xây_dựng đảng thực_hiện nghị_quyết trung_ương 4 khóa xi thực_hiện chỉ_thị 03 bộ_chính_trị về học_tập làm tấm_gương đạo_đức hồ_chí_minh tỉnh_uỷ đắk_lắk triển_khai chỉ_đạo toàn_diện công_tác tuyên_truyền đổi_mới
+5,hầu_hết cấp_ủy trong tỉnh nghiêm_túc tổ_chức thực_hiện đưa học_tập làm tấm_gương đạo_đức bác đi dần cuộc_sống trở_thành hoạt_động thường_xuyên ý_nghĩa thiết_thực
+6,đảng_bộ vận_dụng cách làm sáng_tạo hiệu_quả bám sát hướng_dẫn trung_ương phù_hợp thực_tiễn địa_phương về cuộc bầu_cử đại_biểu quốc_hội khoá xiv đại_biểu hội_đồng_nhân_dân cấp ủy_ban bầu_cử tỉnh biết tỉ_lệ cử_tri đi bầu đạt 9994 hầu_hết cử_tri phấn_khởi tin_tưởng lá phiếu mình chọn đại_biểu xứng_đáng đại_diện ý_chí_nguyện_vọng nhanh dân
+7,phát_biểu buổi làm_việc ông đinh_thế_huynh đánh_giá cao kết_quả đảng_bộ nhân_dân tỉnh đắk_lắk đạt thời_gian nhất_là thành_công cuộc bầu_cử đại_biểu quốc_hội khóa xiv đại_biểu hội_đồng_nhân_dân cấp nhiệm_kỳ 2016 2021
+8,ông đinh_thế_huynh nhấn_mạnh xây_dựng đảng nhân_tố quyết_định bảo_đảm thành_công trong thực_hiện nghị_quyết đại_hội_đảng cấp
+9,tỉnh đắk_lắk tranh_thủ thời_cơ thuận_lợi thành_tựu đổi_mới đưa đắk_lắk phát_triển bền_vững
+10,xác_định đắk_lắk tỉnh nghèo tiềm_năng thế mạnh làm thế_nào khơi dậy tiềm_năng vấn_đề tập_trung nghiên_cứu
+11,vì_vậy tỉnh đắk_lắk đổi_mới hoàn_thiện cơ_chế chính_sách thu_hút đầu_tư tập_trung giải_quyết tốt chế_độ chính_sách vùng đồng_bào dân_tộc_thiểu_số
+12,bên_cạnh tỉnh_ủy đắc_lắc xác_định nhiệm_vụ trọng_tâm xây_dựng đề_án chung nghị_quyết đảng_bộ tỉnh lần thứ 16 nghị_quyết đại_hội_đảng_toàn_quốc lần thứ xii tập_trung lãnh_đạo chỉ_đạo thực_hiện thắng_lợi nhiệm_vụ đề
+13,ông đinh_thế_huynh nhấn_mạnh xây_dựng chương_trình hành_động cấp_ủy kế_hoạch hành_động người đứng đầu
+14,chương_trình hành_động gắn đặc_điểm điều_kiện cụ_thể địa_phương gắn giữa thực_hiện nghị_quyết xii đảng nghị_quyết đại_hội đảng_bộ tỉnh

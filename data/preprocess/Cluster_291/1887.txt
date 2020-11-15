@@ -1,8 +1,8 @@
 idx, sentence
-0,berlin  chính_quyền đức đã bắt 3 nghi can là thành_viên của khủng_bố isis đến từ syria âm_mưu một cuộc tấn_công tại thành_phố duesseldorf  theo trưởng công_tố quốc_gia cho biết hôm thứ_năm 
-1,3 người syria mưu_toan thực_hiện 1 lọat đánh bom thí_mạng tại thành_phố duesseldorf thuộc miền trung nước đức với danh_hiệu isis_– âm_mưu bị khám_phá khi thành_viên thứ 4 của nhóm nằm_vùng mật_báo cảnh_sát pháp 
-2,ngoài 2 quyết_tử đánh bom  các thành_viên khác dùng súng_đạn và chất_nổ để gây thương_vong càng lớn càng hay 
-3,2 chính_phạm là hamza_c 25 tuổi và mahood_b 27 tuổi đã bị bắt tại 2 địa_chỉ khác nhau 
-4,thành_viên 25 tuổi quốc_tịch syria là saleh_a nộp_mình và khai_báo với cảnh_sát pháp hồi tháng 2 
-5,viên_chức công_tố xác_nhận saleh_a và hamza_c tham_gia isis từ đầu năm 2014 và đuợc huấn_luyện kỹ_thuật khủng_bố 
-6,thành_viên thứ 3 đuợc biết với tên abd_arahman sinh_sống tại đức từ tháng 102014 đuợc giao nhiệm_vụ chế_tạo áo bom 
+0,berlin chính_quyền đức bắt 3 nghi can thành_viên khủng_bố isis đến syria âm_mưu một cuộc tấn_công thành_phố duesseldorf trưởng công_tố quốc_gia biết hôm thứ_năm
+1,3 người syria mưu_toan thực_hiện 1 lọat đánh bom thí_mạng thành_phố duesseldorf thuộc miền trung nước đức danh_hiệu isis_– âm_mưu khám_phá thành_viên thứ 4 nhóm nằm_vùng mật_báo cảnh_sát pháp
+2,ngoài 2 quyết_tử đánh bom thành_viên khác dùng súng_đạn chất_nổ gây thương_vong lớn hay
+3,2 chính_phạm hamza_c 25 tuổi mahood_b 27 tuổi bắt 2 địa_chỉ khác nhau
+4,thành_viên 25 tuổi quốc_tịch syria saleh_a nộp_mình khai_báo cảnh_sát pháp hồi tháng 2
+5,viên_chức công_tố xác_nhận saleh_a hamza_c tham_gia isis đầu năm 2014 đuợc huấn_luyện kỹ_thuật khủng_bố
+6,thành_viên thứ 3 đuợc biết tên abd_arahman sinh_sống đức tháng 102014 đuợc giao nhiệm_vụ chế_tạo áo bom

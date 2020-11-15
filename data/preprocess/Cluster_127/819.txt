@@ -1,6 +1,6 @@
 idx, sentence
-0,mới_đây nhất  theo một nguồn tin  tài_khoản của taylor_swift cùng hai người bạn thân_thiết của mình siêu mẫu cara_delevingne và gigi_hadid liên_tục nhận phải những tin nhắn đe_dọa đáng sợ 
-1,theo đó  trong khi  công_chúa nhạc đồng_quê  nhận được tin với nội_dung  ta sẽ giết các người  thì gigi_hadid lại mệt_mỏi với những tin đại_loại như  những kẻ đáng chết sẽ phải chết  
-2,còn với cara_delevingne thì  ta sẽ giết những người bạn của ngươi  ta rất vui vì điều đó  
-3,với tình_trạng này  phía cảnh_sát đã chính_thức vào_cuộc và ra_lệnh điều_tra nhằm vào các mối đe_dọa  đồng_thời xem_xét các thông_tin người dùng mạng xã_hội để sớm có_thể tìm ra thủ_phạm 
-4,hiện_tại  cảnh_sát vẫn đang tiến_hành điều_tra 
+0,mới_đây nhất một nguồn tin tài_khoản taylor_swift hai người bạn thân_thiết mình siêu mẫu cara_delevingne gigi_hadid liên_tục nhận tin nhắn đe_dọa đáng sợ
+1,trong công_chúa nhạc đồng_quê nhận tin nội_dung ta giết người gigi_hadid mệt_mỏi tin đại_loại kẻ đáng chết chết
+2,còn cara_delevingne ta giết người bạn ngươi ta vui
+3,tình_trạng phía cảnh_sát chính_thức vào_cuộc ra_lệnh điều_tra nhằm mối đe_dọa đồng_thời xem_xét thông_tin người dùng mạng xã_hội sớm tìm thủ_phạm
+4,hiện_tại cảnh_sát tiến_hành điều_tra

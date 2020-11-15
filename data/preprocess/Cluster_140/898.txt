@@ -1,5 +1,5 @@
 idx, sentence
-0,công_an tphcm đang phối_hợp với công_an huyện hóc_môn để điều_tra  truy_xét vụ trộm xảy ra tại nhà của ông trương_văn_hiền ở đường tô_ký  xã thới_tam_thôn  huyện hóc_môn 
-1,theo đó  vụ trộm xảy ra vào đêm 26/5 
-2,bước đầu công_an đã đã khám_nghiệm hiện_trường  lấy lời khai của những người có liên_quan 
-3,theo khai_báo  gia_đình ông hiền mất chiếc két sắt bên trong có chứa số tài_sản có giá_trị khoảng 2 tỷ đồng cùng 1 số giấy_tờ quan_trọng khác 
+0,công_an tphcm phối_hợp công_an huyện hóc_môn điều_tra truy_xét vụ trộm xảy nhà ông trương_văn_hiền ở đường tô_ký xã thới_tam_thôn huyện hóc_môn
+1,vụ trộm xảy đêm 26/5
+2,bước đầu công_an khám_nghiệm hiện_trường lấy lời khai người liên_quan
+3,khai_báo gia_đình ông hiền mất két sắt bên trong chứa số tài_sản giá_trị khoảng 2 tỷ đồng 1 số giấy_tờ quan_trọng khác

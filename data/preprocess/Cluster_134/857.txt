@@ -1,12 +1,12 @@
 idx, sentence
-0,hạt_giống số 4 rafael_nadal vừa tuyên_bố sẽ không tiếp_tục thi_đấu tại roland_garros vì chấn_thương cổ_tay 
-1,“ tôi sẽ rút khỏi giải đấu vì chấn_thương cổ_tay gặp phải trong vài tuần qua ”  nadal nói trong buổi họp_báo  “ ngày hôm_qua  tôi đã phải tiêm thuốc vào cổ_tay 
-2,đến buổi tối  tôi bắt_đầu cảm_thấy đau hơn 
-3,tôi đã chụp mri  siêu_âm và kết_quả là không tốt 
-4,cổ_tay tôi chưa gãy  nhưng nếu tiếp_tục thi_đấu  điều đó hoàn_toàn có_thể xảy ra ” 
-5,“ tôi đến đây với mục_tiêu vô_địch  nghĩa_là có_thể phải chơi hơn 5 trận đấu mà theo lời như bác_sĩ  chắc_chắn nó sẽ khiến cổ_tay tôi gặp vấn_đề nghiêm_trọng ”  nadal nói thêm  “ tôi nhận_thức được mình không_thể kết_thúc giải đấu dù nó rất có ý_nghĩa trong cuộc_đời tôi 
-6,tôi hi_vọng có_thể trở_lại roland_garros trong nhiều năm tới ” 
-7,nadal cũng cho rằng  chấn_thương này chưa cần_thiết phải thực_hiện ngay một cuộc phẫu_thuật  “ trong vài tuần tới  tôi cần cố_định vết_thương rồi mới quyết_định quá_trình điều_trị và hồi_phục tiếp_theo 
-8,tôi hi_vọng nó sẽ diễn ra tốt_đẹp còn ở thời_điểm hiện_tại  chưa phải là lúc nói về điều đó ” 
-9,tay vợt đang giữ kỷ_lục 9 lần vô_địch pháp mở_rộng bày_tỏ sự tiếc_nuối  “ đây là một trong những khoảnh_khắc và buổi họp_báo khó_khăn nhất mà tôi từng trải qua 
-10,tuy_nhiên  đó có nghĩa là mọi việc đã kết_thúc ” 
+0,hạt_giống số 4 rafael_nadal tuyên_bố tiếp_tục thi_đấu roland_garros chấn_thương cổ_tay
+1,“ tôi rút khỏi giải đấu chấn_thương cổ_tay gặp trong vài tuần ” nadal nói trong buổi họp_báo “ ngày hôm_qua tôi tiêm thuốc cổ_tay
+2,đến buổi tối tôi bắt_đầu cảm_thấy đau hơn
+3,tôi chụp mri siêu_âm kết_quả tốt
+4,cổ_tay tôi gãy tiếp_tục thi_đấu hoàn_toàn xảy ”
+5,“ tôi đến mục_tiêu vô_địch nghĩa_là chơi hơn 5 trận đấu lời bác_sĩ chắc_chắn nó khiến cổ_tay tôi gặp vấn_đề nghiêm_trọng ” nadal nói thêm “ tôi nhận_thức mình không_thể kết_thúc giải đấu dù nó ý_nghĩa trong cuộc_đời tôi
+6,tôi hi_vọng trở_lại roland_garros trong năm tới ”
+7,nadal chấn_thương cần_thiết thực_hiện một cuộc phẫu_thuật “ trong vài tuần tới tôi cố_định vết_thương mới quyết_định quá_trình điều_trị hồi_phục tiếp_theo
+8,tôi hi_vọng nó diễn tốt_đẹp còn ở thời_điểm hiện_tại nói về ”
+9,tay vợt giữ kỷ_lục 9 lần vô_địch pháp mở_rộng bày_tỏ tiếc_nuối “ một trong khoảnh_khắc buổi họp_báo khó_khăn nhất tôi trải
+10,tuy_nhiên nghĩa mọi kết_thúc ”

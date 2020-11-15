@@ -1,5 +1,5 @@
 idx, sentence
-0,hà_nội nổi_tiếng với những món ăn hài_hòa giữa các vị mặn  ngọt  chua  cay 
-1,không giống với bất_kì nơi đâu  bánh_mì ở hà_nội có_thể đáp_ứng_khẩu_vị của mọi du_khách với dưa_chuột  thịt_nướng  tương_ớt  tờ telegraph viết  ẩm_thực thành_phố này đủ hấp_dẫn ngay cả với tổng_thống barack_obama … chính tại nơi đây  tổng_thống hoa_kỳ đã thưởng_thức bữa tối là món bún_chả với giá chỉ 6 đô_la cùng đầu_bếp nổi_tiếng anthony_bourdain 
-2,rõ_ràng  ông ấy nắm_bắt rất rõ sức hấp_dẫn của ẩm_thực hà_nội 
-3,telegraph khuyên du_khách thử nếm những món ăn đường_phố như  bún_chả  phở  bánh mỳ kẹp với pa_tê  dưa_chuột  rau_thơm … và sẽ tuyệt hơn nếu du_khách kết_thúc bữa ăn với cốc café truyền_thống hoặc café trứng – một sự pha_trộn độc_đáo giữa café và trứng gà 
+0,hà_nội nổi_tiếng món ăn hài_hòa giữa vị mặn ngọt chua cay
+1,giống bất_kì đâu bánh_mì ở hà_nội đáp_ứng_khẩu_vị mọi du_khách dưa_chuột thịt_nướng tương_ớt tờ telegraph viết ẩm_thực thành_phố đủ hấp_dẫn tổng_thống barack_obama … chính tổng_thống hoa_kỳ thưởng_thức bữa tối món bún_chả giá 6 đô_la đầu_bếp nổi_tiếng anthony_bourdain
+2,rõ_ràng ông ấy nắm_bắt rõ sức hấp_dẫn ẩm_thực hà_nội
+3,telegraph khuyên du_khách thử nếm món ăn đường_phố bún_chả phở bánh mỳ kẹp pa_tê dưa_chuột rau_thơm … tuyệt hơn du_khách kết_thúc bữa ăn cốc café truyền_thống hoặc café trứng – một pha_trộn độc_đáo giữa café trứng gà

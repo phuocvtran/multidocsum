@@ -1,10 +1,10 @@
 idx, sentence
-0,theo bbc  với hơn 31000 phiếu  vượt trên đối_thủ là ông norbert_hofer  ông alexander_van_der_bellen  72 tuổi  ứng_cử_viên độc_lập được đảng_xanh ủng_hộ vừa giành chiến_thắng trong cuộc bầu_cử tổng_thống của nước áo 
-1,theo bộ nội_vụ áo  ông van_der bellen đã giành được 2254484 phiếu  trong khi ông hofer giành 2223458 phiếu  tương_ứng tỉ_lệ 503  so với 497  
-2,một chiến_thắng khá sát_sao 
-3,sau khi kết_quả bầu_cử được công_bố  ông alexander_van_der bellen tuyên_bố sẽ dành tâm_huyết giải_quyết những vấn_đề gây chia_rẽ trong công_luận áo đã bộc_lộ trong cuộc bầu_cử lần này 
-4,quan_điểm này có_lẽ cũng tương_đồng với ông norbert_hofer khi trước đó cho rằng bất_kể ai giành chiến_thắng trong cuộc bầu_cử tổng_thống áo đều có nhiệm_vụ phải đoàn_kết người dân trong nước 
-5,phát_biểu sau chiến_thắng  ông van_der bellen nói ông chấp_nhận việc nhiều người dân áo có quan_điểm khác_biệt và một_số người tức_giận với kết_quả bỏ_phiếu  nhưng khẳng_định  “ mọi người có_thể khác_biệt nhưng vẫn cần tôn_trọng nhau trong ứng_xử ” 
-6,ông alexander_van_der bellen là nhà hoạt_động môi_trường đầu_tiên trở_thành tổng_thống của áo 
-7,ông là con_trai của một gia_đình nhập_cư sống tại vùng tyrol của áo 
-8,ông lớn lên tại kaunertal và không nói tiếng nga 
+0,bbc hơn 31000 phiếu vượt đối_thủ ông norbert_hofer ông alexander_van_der_bellen 72 tuổi ứng_cử_viên độc_lập đảng_xanh ủng_hộ giành chiến_thắng trong cuộc bầu_cử tổng_thống nước áo
+1,bộ nội_vụ áo ông van_der bellen giành 2254484 phiếu trong ông hofer giành 2223458 phiếu tương_ứng tỉ_lệ 503 497
+2,một chiến_thắng khá sát_sao
+3,kết_quả bầu_cử công_bố ông alexander_van_der bellen tuyên_bố dành tâm_huyết giải_quyết vấn_đề gây chia_rẽ trong công_luận áo bộc_lộ trong cuộc bầu_cử lần
+4,quan_điểm có_lẽ tương_đồng ông norbert_hofer bất_kể ai giành chiến_thắng trong cuộc bầu_cử tổng_thống áo nhiệm_vụ đoàn_kết người dân trong nước
+5,phát_biểu chiến_thắng ông van_der bellen nói ông chấp_nhận người dân áo quan_điểm khác_biệt một_số người tức_giận kết_quả bỏ_phiếu khẳng_định “ mọi người khác_biệt tôn_trọng nhau trong ứng_xử ”
+6,ông alexander_van_der bellen nhà hoạt_động môi_trường đầu_tiên trở_thành tổng_thống áo
+7,ông con_trai một gia_đình nhập_cư sống vùng tyrol áo
+8,ông lớn kaunertal nói tiếng nga

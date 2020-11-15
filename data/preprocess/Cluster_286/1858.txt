@@ -1,10 +1,10 @@
 idx, sentence
-0, dani_alves đã quyết_định rời câu_lạc_bộ 
-1,tôi không muốn phải chia_tay alves  anh ấy là một cầu_thủ tuyệt_vời và rất đáng yêu 
-2,nhưng alves đã quyết như thế và chúng_tôi phải tôn_trọng quyết_định này   giám_đốc thể_thao barca  robert_fernandez thông_báo hôm_qua 
-3,alves được barca tuyển_mộ từ sevilla với giá 47 triệu đôla năm 2008 và được xem là hậu_vệ phải số_một thế_giới suốt tám năm qua 
-4,anh là trụ_cột của barca đoạt ba danh_hiệu champions_league  sáu chức vô_địch la_liga trong giai_đoạn này 
-5,juventus được cho là điểm đến mới của alves  khi hai bên đang gần hoàn_tất hợp_đồng hai năm 
-6,hậu_vệ sắp 34 tuổi này có_thể được công_bố là cầu_thủ juventus trong tuần này  trước khi anh cùng tuyển brazil bước vào chiến_dịch copa_america 2016 trên đất mỹ 
-7,để thay_thế alves  barca được cho là đang liên_hệ với hecto_bellerin  ngôi_sao đang lên của arsenal và vừa được triệu_tập vào tuyển tây ban_nha dự euro 2016 
-8,tuy_nhiên  giám_đốc thể_thao fernandez cho rằng barca đã có sẵn phương_án thay_thế  với aleix_vidal  một cầu_thủ khác đến từ sevilla vào hè 2015 
+0,dani_alves quyết_định rời câu_lạc_bộ
+1,tôi muốn chia_tay alves anh ấy một cầu_thủ tuyệt_vời đáng yêu
+2,alves quyết thế chúng_tôi tôn_trọng quyết_định giám_đốc thể_thao barca robert_fernandez thông_báo hôm_qua
+3,alves barca tuyển_mộ sevilla giá 47 triệu đôla năm 2008 xem hậu_vệ số_một thế_giới suốt tám năm
+4,anh trụ_cột barca đoạt ba danh_hiệu champions_league sáu chức vô_địch la_liga trong giai_đoạn
+5,juventus điểm đến mới alves hai bên gần hoàn_tất hợp_đồng hai năm
+6,hậu_vệ sắp 34 tuổi công_bố cầu_thủ juventus trong tuần anh tuyển brazil bước chiến_dịch copa_america 2016 đất mỹ
+7,thay_thế alves barca liên_hệ hecto_bellerin ngôi_sao arsenal triệu_tập tuyển tây ban_nha dự euro 2016
+8,tuy_nhiên giám_đốc thể_thao fernandez barca sẵn phương_án thay_thế aleix_vidal một cầu_thủ khác đến sevilla hè 2015

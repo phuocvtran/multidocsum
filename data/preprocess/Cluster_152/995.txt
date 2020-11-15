@@ -1,17 +1,17 @@
 idx, sentence
-0,cô gái 16 tuổi tin là cô bị đánh thuốc sau khi tới nhà bạn trai hôm thứ_bảy và cho biết cô tỉnh dậy ở một nhà khác và xung_quanh toàn đàn_ông 
-1,lệnh bắt_giữ được phát_hành trong đó truy bắt cả người bạn trai 
-2,vụ này khiến nổ ra một chiến_dịch vận_động trên mạng chống lại điều những người vận_động gọi là thói hãm_hiếp tại brazil 
-3,có nhiều tin_tức trái_ngược về vụ_việc này nhưng người_ta cho rằng nó xảy ra tại một cộng_đồng dân nghèo ở phía tây rio hôm cuối tuần 
-4,theo một tuyên_bố mà người_ta nói là cô gái đã cung_cấp cho cảnh_sát thì cô tỉnh dậy vào chủ_nhật  thân_thể bị thương_tổn và trần_truồng  và đã tự tìm đường về nhà 
-5,vài ngày sau cô mới biết một_số kẻ bị_cáo_giác hãm_hiếp cô đã đưa các hình_ảnh vụ tấn_công này lên twitter 
-6,đoạn video 40 giây đã được chia_sẻ rộng_rãi trên mạng với những lời bình_luận thù_ghét phụ_nữ trước khi tài_khoản của những người dùng bị khóa 
-7,trả_lời truyền_thông địa_phương  bà của cô gái nói gia_đình cô vừa xem đoạn video vừa khóc   tôi ân_hận đã xem đoạn video đó 
-8,khi nghe chuyện này chúng_tôi không tin những gì đang diễn ra 
-9,thật đau_khổ  thật là một chuyện đáng buồn  bà trả_lời tờ folha de spaulo
-10, cháu nó không được khỏe và trong tình_trạng tâm l ‎ ý hoảng_loạn 
-11,rất trầm_trọng  
-12,vụ tấn_công này đã gây sốc tại brazil  phóng_viên bbc_julia_carneiro nói và các nhóm vận_động đang kêu_gọi biểu_tình trong những ngày tới 
-13,nhiều người bày_tỏ sự tức_giận trên mạng xã_hội  với hashtag  estupronuncamais  không bao_giờ xảy ra hãm_hiếp nữa  
-14,một nhóm các nhà_báo đã đăng hình_ảnh trào_phúng người dân đội sừng quỷ_sứ  lên_án nạn_nhân bị hãm_hiếp là đã khơi_gợi dẫn tới vụ hãm_hiếp 
-15,nhóm vận_động phụ_nữ liên_hiệp_quốc ra thông_cáo kêu_gọi nhà_chức_trách điều_tra vụ hiếp_dâm  nhưng khuyến_cáo cần tôn_trọng nạn_nhân và không xâm_phạm đời_tư của cô gái 
+0,cô gái 16 tuổi tin cô đánh thuốc tới nhà bạn trai hôm thứ_bảy biết cô tỉnh dậy ở một nhà khác xung_quanh toàn đàn_ông
+1,lệnh bắt_giữ phát_hành trong truy bắt người bạn trai
+2,vụ khiến nổ một chiến_dịch vận_động mạng chống người vận_động gọi thói hãm_hiếp brazil
+3,tin_tức trái_ngược về vụ_việc người_ta nó xảy một cộng_đồng dân nghèo ở phía tây rio hôm cuối tuần
+4,một tuyên_bố người_ta nói cô gái cung_cấp cảnh_sát cô tỉnh dậy chủ_nhật thân_thể thương_tổn trần_truồng tự tìm đường về nhà
+5,vài ngày cô mới biết một_số kẻ bị_cáo_giác hãm_hiếp cô đưa hình_ảnh vụ tấn_công twitter
+6,đoạn video 40 giây chia_sẻ rộng_rãi mạng lời bình_luận thù_ghét phụ_nữ tài_khoản người dùng khóa
+7,trả_lời truyền_thông địa_phương bà cô gái nói gia_đình cô xem đoạn video khóc tôi ân_hận xem đoạn video
+8,nghe chúng_tôi tin diễn
+9,thật đau_khổ thật một đáng buồn bà trả_lời tờ folha de spaulo
+10,cháu nó khỏe trong tình_trạng tâm l ‎ ý hoảng_loạn
+11,trầm_trọng
+12,vụ tấn_công gây sốc brazil phóng_viên bbc_julia_carneiro nói nhóm vận_động kêu_gọi biểu_tình trong ngày tới
+13,người bày_tỏ tức_giận mạng xã_hội hashtag estupronuncamais bao_giờ xảy hãm_hiếp
+14,một nhóm nhà_báo đăng hình_ảnh trào_phúng người dân đội sừng quỷ_sứ lên_án nạn_nhân hãm_hiếp khơi_gợi dẫn tới vụ hãm_hiếp
+15,nhóm vận_động phụ_nữ liên_hiệp_quốc thông_cáo kêu_gọi nhà_chức_trách điều_tra vụ hiếp_dâm khuyến_cáo tôn_trọng nạn_nhân xâm_phạm đời_tư cô gái

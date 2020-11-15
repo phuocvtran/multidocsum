@@ -1,8 +1,8 @@
 idx, sentence
-0,ngày 1/6  đoàn kiểm_tra liên_ngành vệ_sinh an_toàn thực_phẩm tp vĩnh_long  tỉnh vĩnh_long  đi kiểm_tra đột_xuất 2 cơ_sở sản_xuất  kinh_doanh mắm  dưa mắm ở phường 4 và phường 5 đã phát_hiện dòi bò nhung_nhúc trong các ụ chứa mắm 
-1,tại cơ_sở sản_xuất mắm minh_truyền  đường 8 tháng 3  phường 5  do ông nguyễn_minh_truyền làm_chủ  đoàn kiểm_tra phát_hiện dòi bò nhung_nhúc trong các cụ chứa mắm 
-2,ngoài_ra  cơ_sở này còn nhiều hành_vi vi_phạm khác như  dụng_cụ chứa_đựng không có che_đậy  người chế_biến trực_tiếp không có trang_bị bảo_hộ lao_động chuyên_dụng  cởi_trần  chân trần đạp dưa làm_mắm  khu_vực sản_xuất ẩm_thấp  nền xi_măng  mái tôn  còn ứ_đọng rất nhiều nước  gần nhà_vệ_sinh  trần nhà đóng nhiều mạng_nhện  thiết_bị ủ mắm bằng bồn xi_măng cũ_kỹ 
-3,đồng_thời  cơ_sở chưa xuất_trình giấy chứng_nhận đăng_ký kinh_doanh  4/4 lao_động chưa xuất_trình giấy khám sức_khỏe  tập_huấn kiến_thức vệ_sinh an_toàn thực_phẩm  chưa có giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm 
-4,tại thời_điểm kiểm_tra  cơ_sở có 5 tấn dưa mắm  2 tấn mắm  24 bồn làm_mắm và nhiều mắm thành_phẩm đang chờ được tiêu_thụ 
-5,tại cơ_sở mắm mười_kiều  ngụ đường lò_rèn  phường 4   đoàn kiểm_tra phát_hiện cách nơi ủ mắm 15 m có một chuồng gà_con khoảng 40 con  ụ chứa mắm có nhiều dòi  không đảm_bảo vệ_sinh an_toàn thực_phẩm 
-6,theo chủ cơ_sở nguyễn_thị_kim_anh  cơ_sở lấy mắm thành_phẩm ở đồng_tháp  châu_đốc  an_giang  về ủ sau đó đem bán ra thị_trường 
+0,ngày 1/6 đoàn kiểm_tra liên_ngành vệ_sinh an_toàn thực_phẩm tp vĩnh_long tỉnh vĩnh_long đi kiểm_tra đột_xuất 2 cơ_sở sản_xuất kinh_doanh mắm dưa mắm ở phường 4 phường 5 phát_hiện dòi bò nhung_nhúc trong ụ chứa mắm
+1,cơ_sở sản_xuất mắm minh_truyền đường 8 tháng 3 phường 5 ông nguyễn_minh_truyền làm_chủ đoàn kiểm_tra phát_hiện dòi bò nhung_nhúc trong cụ chứa mắm
+2,ngoài_ra cơ_sở còn hành_vi vi_phạm khác dụng_cụ chứa_đựng che_đậy người chế_biến trực_tiếp trang_bị bảo_hộ lao_động chuyên_dụng cởi_trần chân trần đạp dưa làm_mắm khu_vực sản_xuất ẩm_thấp nền xi_măng mái tôn còn ứ_đọng nước gần nhà_vệ_sinh trần nhà đóng mạng_nhện thiết_bị ủ mắm bằng bồn xi_măng cũ_kỹ
+3,đồng_thời cơ_sở xuất_trình giấy chứng_nhận đăng_ký kinh_doanh 4/4 lao_động xuất_trình giấy khám sức_khỏe tập_huấn kiến_thức vệ_sinh an_toàn thực_phẩm giấy chứng_nhận đủ điều_kiện an_toàn thực_phẩm
+4,thời_điểm kiểm_tra cơ_sở 5 tấn dưa mắm 2 tấn mắm 24 bồn làm_mắm mắm thành_phẩm chờ tiêu_thụ
+5,cơ_sở mắm mười_kiều ngụ đường lò_rèn phường 4 đoàn kiểm_tra phát_hiện cách ủ mắm 15 m một chuồng gà_con khoảng 40 con ụ chứa mắm dòi đảm_bảo vệ_sinh an_toàn thực_phẩm
+6,chủ cơ_sở nguyễn_thị_kim_anh cơ_sở lấy mắm thành_phẩm ở đồng_tháp châu_đốc an_giang về ủ đem bán thị_trường

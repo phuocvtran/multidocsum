@@ -1,7 +1,7 @@
 idx, sentence
-0,được biết  tuyên_bố trên được đưa ra trong buổi làm_việc giữa yokohama và hoàng_anh gia_lai 
-1,trong buổi làm_việc này  chủ_tịch yokohama_fc  koji_kitawaga đánh_giá cao tài_năng của tuấn_anh và đại_diện jleague 2 đã gửi tới lãnh_đạo clb hagl lời đề_nghị về một bản hợp_đồng mới cho tuấn_anh  thậm_chí đội bóng nhật_bản muốn gia_hạn hợp_đồng với tiền_vệ người thái_bình thêm 10 năm 
-2,trước những thông_tin cho rằng tuấn_anh chỉ ngồi dự_bị tại yokohama_fc  chủ_tịch koji_kitawaga cho rằng các cầu_thủ mới cần thời_gian để hoà_nhập và đó là điều cần_thiết 
-3,“ chúng_tôi đánh_giá cao tài_năng và tư_cách của tuấn_anh  do_vậy hôm_nay  26   chúng_tôi chính_thức đặt vấn_đề yokohama_fc muốn ký hợp_đồng từ 5 đến 10 năm với tuấn_anh 
-4,clb sẵn_sàng cho tuấn_anh về vn khoác áo đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào … ”  chủ_tịch yokohama cho hay 
-5,tuy_nhiên  theo thông_tin từ trưởng_đoàn hagl nguyễn_tấn_anh  bầu đức chưa quyết và có ý chờ màn trình_diễn  sự tiến_bộ của tuấn_anh trong thời_gian tới 
+0,biết tuyên_bố đưa trong buổi làm_việc giữa yokohama hoàng_anh gia_lai
+1,trong buổi làm_việc chủ_tịch yokohama_fc koji_kitawaga đánh_giá cao tài_năng tuấn_anh đại_diện jleague 2 gửi tới lãnh_đạo clb hagl lời đề_nghị về một bản hợp_đồng mới tuấn_anh thậm_chí đội bóng nhật_bản muốn gia_hạn hợp_đồng tiền_vệ người thái_bình thêm 10 năm
+2,thông_tin tuấn_anh ngồi dự_bị yokohama_fc chủ_tịch koji_kitawaga cầu_thủ mới thời_gian hoà_nhập cần_thiết
+3,“ chúng_tôi đánh_giá cao tài_năng tư_cách tuấn_anh do_vậy hôm_nay 26 chúng_tôi chính_thức đặt vấn_đề yokohama_fc muốn ký hợp_đồng 5 đến 10 năm tuấn_anh
+4,clb sẵn_sàng tuấn_anh về vn khoác áo đội_tuyển quốc_gia hay u23 bất_cứ lúc_nào … ” chủ_tịch yokohama hay
+5,tuy_nhiên thông_tin trưởng_đoàn hagl nguyễn_tấn_anh bầu đức quyết ý chờ màn trình_diễn tiến_bộ tuấn_anh trong thời_gian tới

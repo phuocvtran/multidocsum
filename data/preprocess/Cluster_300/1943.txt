@@ -1,15 +1,15 @@
 idx, sentence
-0,chiều 3/6  ông lê_thy_hà_– trưởng đại_diện cảng_hàng_không miền nam tại cảng_hàng_không buôn_ma_thuột cho biết  vào_khoảng 13 h chiều nay  công_tác khắc_phục vị_trí bị bong tróc trên đường_băng đã hoàn_thành và đảm_bảo an_toàn kĩ_thuật cho hoạt_động bay trở_lại bình_thường 
-1,đến khoảng 15 h cùng ngày  cảng_hk đã tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn 
-2,cũng theo ông hà  vị_trí hư_hỏng được xác_định tại lý trình h0  580 m  cách ngưỡng đường chc đầu 27 là 580 m  cách tim đường chc về phía bắc 4 m 
-3,mặt đường băng bị hư_hỏng rộng 40x40 cm 
-4,để đảm_bảo đúng kĩ_thuật  mặt đường_băng đã được đào rộng 2 mx2  5 mx0  1 m để tiến_hành sửa_chữa đảm an_toàn cho công_tác khắc_phục sự_cố 
-5,trước đó  vào khoảng 7 h sáng cùng ngày  cảng_vụ hàng_không buôn_ma_thuột phát_hiện một vạch bong tróc trên đường_băng 
-6,vì sự an_toàn của chuyến bay nên cảng_hàng_không đã cho dừng mọi chuyến bay đến và đi để tiến_hành khảo_sát  đánh_giá để có hướng khắc_phục sửa_chữa 
-7,tuy_nhiên  cảng_hàng_không buôn_ma_thuột đóng cửa hoạt_động bay mà không có thông_báo hoãn chuyến bay cho hành_khách khiến cho toàn_bộ_hành_khách đến làm thủ_tục bay rất bức_xúc 
-8,theo hàng trăm khách  việc không có thông_báo đã làm ảnh_hưởng đến chi_phí và thời_gian đi_lại của họ 
-9,theo đại_diện cảng_vụ hàng_không buôn_ma_thuột  trong quá_trình kiểm_tra đường_băng trước khi vận_hành sáng 3/6  nhân_viên sân_bay đã phát_hiện một vệt bê_tông bị bong dài khoảng 50 cm trên đường_băng 
-10,để đảm_bảo an_toàn  nhà_chức_trách sân_bay buôn_ma_thuột đã quyết_định tạm dừng hoạt_động cất hạ_cánh của máy_bay từ 6 h đến 14 h trong ngày để sửa_chữa vết bong này 
-11,việc xử_lý vệt đường bong này sẽ hoàn_tất trong sáng nay 
-12,theo đại_diện vietnam_airlines  hãng này phải tạm ngừng khai_thác 6 chuyến bay đến và đi từ buôn_mê_thuột trong_sáng nay bao_gồm 2 chuyến giữa hà_nội – buôn mê_thuột  2 chuyến tp hcm – buôn mê_thuột và 2 chuyến trên đường_bay giữa đà_nẵng – buôn mê_thuột 
-13,thay vào đó  vietnam_airlines sẽ tăng 6 chuyến trên các đường_bay đến và đi buôn_ma_thuột trong chiều nay 
+0,chiều 3/6 ông lê_thy_hà_– trưởng đại_diện cảng_hàng_không miền nam cảng_hàng_không buôn_ma_thuột biết vào_khoảng 13 h chiều nay công_tác khắc_phục vị_trí bong tróc đường_băng hoàn_thành đảm_bảo an_toàn kĩ_thuật hoạt_động bay trở_lại bình_thường
+1,đến khoảng 15 h ngày cảng_hk tiếp_nhận chuyến bay đầu_tiên hạ_cánh xuống sân_bay an_toàn
+2,ông hà vị_trí hư_hỏng xác_định lý trình h0 580 m cách ngưỡng đường chc đầu 27 580 m cách tim đường chc về phía bắc 4 m
+3,mặt đường băng hư_hỏng rộng 40x40 cm
+4,đảm_bảo đúng kĩ_thuật mặt đường_băng đào rộng 2 mx2 5 mx0 1 m tiến_hành sửa_chữa đảm an_toàn công_tác khắc_phục sự_cố
+5,khoảng 7 h sáng ngày cảng_vụ hàng_không buôn_ma_thuột phát_hiện một vạch bong tróc đường_băng
+6,an_toàn chuyến bay cảng_hàng_không dừng mọi chuyến bay đến đi tiến_hành khảo_sát đánh_giá hướng khắc_phục sửa_chữa
+7,tuy_nhiên cảng_hàng_không buôn_ma_thuột đóng cửa hoạt_động bay thông_báo hoãn chuyến bay hành_khách khiến toàn_bộ_hành_khách đến làm thủ_tục bay bức_xúc
+8,hàng trăm khách thông_báo làm ảnh_hưởng đến chi_phí thời_gian đi_lại họ
+9,đại_diện cảng_vụ hàng_không buôn_ma_thuột trong quá_trình kiểm_tra đường_băng vận_hành sáng 3/6 nhân_viên sân_bay phát_hiện một vệt bê_tông bong dài khoảng 50 cm đường_băng
+10,đảm_bảo an_toàn nhà_chức_trách sân_bay buôn_ma_thuột quyết_định tạm dừng hoạt_động cất hạ_cánh máy_bay 6 h đến 14 h trong ngày sửa_chữa vết bong
+11,xử_lý vệt đường bong hoàn_tất trong sáng nay
+12,đại_diện vietnam_airlines hãng tạm ngừng khai_thác 6 chuyến bay đến đi buôn_mê_thuột trong_sáng nay bao_gồm 2 chuyến giữa hà_nội – buôn mê_thuột 2 chuyến tp hcm – buôn mê_thuột 2 chuyến đường_bay giữa đà_nẵng – buôn mê_thuột
+13,thay vietnam_airlines tăng 6 chuyến đường_bay đến đi buôn_ma_thuột trong chiều nay

@@ -1,9 +1,9 @@
 idx, sentence
-0,trung_tâm dự_báo khí_tượng thủy_văn trung_ương nhận_định trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh  nhất_là vùng núi 
-1,trong ngày và đêm qua  một_số nơi mưa lượng lớn như sapa  lào_cai  83 mm  tam_đường  lai_châu  55 mm  yên_bái 66 mm 
-2,khu_vực tây_nguyên đã có mưa vừa  mưa to và rải_rác có dông  một_số nơi có lượng mưa lớn như eahleo  đắk_lắk  121 mm … giúp giải_nhiệt cho diện_tích cà_phê đang thiếu nước do khô hạn 
-3,dự_báo trong 23 ngày tới tây_nguyên và nam_bộ tiếp_tục có mưa  mưa vừa  có nơi mưa to và rải_rác có dông 
-4,trong cơn dông có khả_năng xảy ra tố_lốc  mưa_đá và gió_giật mạnh 
-5,ngày 24/5  các tỉnh bắc_bộ và bắc_trung_bộ buổi sáng mây dông dày_đặc khiến mưa dông tiếp_diễn  nhiệt_độ không quá 26 độ c  trời mát 
-6,đến trưa chiều mưa giảm dần  hà_giang  lào_cai  điện_biên_phủ  hà_nội xuống đến thanh_hóa  vinh  hà_tĩnh không nơi nào quá 31 độ c từ quảng_bình xuống bình_thuận nằm ngoài vùng mây dông nên trời có nắng  nhiệt_độ cao nhất tại huế  đồng_hới 3132 độ c_thành_phố đà_nẵng  quy_nhơn  nha_trang và phan_thiết cường_độ nắng đều và mạnh hơn  nhiệt_độ 3335 độ c  trời nóng 
-7,tây_nguyên và nam_bộ ban_ngày nắng  mưa đan_xen  nhiệt_độ 3031 độ c_thành_phố hồ_chí_minh  vũng_tàu  cần_thơ  cà_mau trời khá nóng khi nhiệt_độ cao nhất 3334 độ c sau 15 h gió_tây_nam hoạt_động mạnh khiến cả 2 khu_vực đều có mưa diện rộng  có nhiều nơi mưa vừa  mưa to  kèm các hiện_tượng thời_tiết cực_đoan như tố_lốc và gió_giật mạnh 
+0,trung_tâm dự_báo khí_tượng thủy_văn trung_ương nhận_định trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh nhất_là vùng núi
+1,trong ngày đêm một_số mưa lượng lớn sapa lào_cai 83 mm tam_đường lai_châu 55 mm yên_bái 66 mm
+2,khu_vực tây_nguyên mưa mưa to rải_rác dông một_số lượng mưa lớn eahleo đắk_lắk 121 mm … giúp giải_nhiệt diện_tích cà_phê thiếu nước khô hạn
+3,dự_báo trong 23 ngày tới tây_nguyên nam_bộ tiếp_tục mưa mưa mưa to rải_rác dông
+4,trong cơn dông khả_năng xảy tố_lốc mưa_đá gió_giật mạnh
+5,ngày 24/5 tỉnh bắc_bộ bắc_trung_bộ buổi sáng mây dông dày_đặc khiến mưa dông tiếp_diễn nhiệt_độ quá 26 độ c trời mát
+6,đến trưa chiều mưa giảm dần hà_giang lào_cai điện_biên_phủ hà_nội xuống đến thanh_hóa vinh hà_tĩnh nào quá 31 độ c quảng_bình xuống bình_thuận nằm ngoài vùng mây dông trời nắng nhiệt_độ cao nhất huế đồng_hới 3132 độ c_thành_phố đà_nẵng quy_nhơn nha_trang phan_thiết cường_độ nắng mạnh hơn nhiệt_độ 3335 độ c trời nóng
+7,tây_nguyên nam_bộ ban_ngày nắng mưa đan_xen nhiệt_độ 3031 độ c_thành_phố hồ_chí_minh vũng_tàu cần_thơ cà_mau trời khá nóng nhiệt_độ cao nhất 3334 độ c 15 h gió_tây_nam hoạt_động mạnh khiến 2 khu_vực mưa diện rộng mưa mưa to kèm hiện_tượng thời_tiết cực_đoan tố_lốc gió_giật mạnh

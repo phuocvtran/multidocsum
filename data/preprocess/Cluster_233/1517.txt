@@ -1,11 +1,11 @@
 idx, sentence
-0,“ từ đáy_lòng mình  tôi thành_thật xin_lỗi người dân tokyo và hội_đồng thành_phố ”  ông yoichi_masuzoe đã phát_biểu và cúi đầu để thể_hiện sự hối_lỗi trong cuộc họp ở hội_đồng lập_pháp thành_phố ngày 16 
-1,người dân tokyo thời_gian qua bày_tỏ sự phẫn_nộ trước những thông_tin liên_quan đến những chuyến công_du nước_ngoài tốn_kém của thị_trưởng masuzoe  67 tuổi 
-2,cụ_thể  2 chuyến công_du đến london  anh  và paris  pháp  cùng với 20 quan_chức thành_phố hồi năm 2015 đã tiêu tốn 50 triệu yen nhật  hơn 450000 usd   riêng ông masuzoe ngồi ghế hạng nhất trên máy_bay và ở khách_sạn phòng “ suite ”  loại phòng cao_cấp nhất  
-3,ông masuzoe giữ chức thị_trưởng tokyo từ tháng 22014 sau khi giành chiến_thắng trong cuộc bầu_cử địa_phương 
-4,những vụ bê_bối liên_quan đến ông masuzoe bắt_đầu từ cuối tháng 42016 khi có những thông_tin nói rằng ông sử_dụng xe công cho việc cá_nhân vào những ngày cuối tuần 
-5,tuy_nhiên  ông phủ_nhận cáo_buộc này 
-6,ông này còn bị_cáo_buộc đã sử_dụng nguồn quỹ do các nhà ủng_hộ tài_trợ và tiền ngân_sách do chính_phủ cung_cấp để mua nhiều hàng_hóa đắt tiền như quần_áo cho người_lớn và đồ ngủ cho trẻ_con 
-7,báo_cáo chi_tiêu của các quỹ này cho thấy ông ở khách_sạn hạng sang khi đến okinawa và sử_dụng dịch_vụ spa gần tokyo  theo báo_chí địa_phương 
-8,trong cuộc họp_báo ngày 16  thị_trưởng tokyo hứa sẽ không hoang_phí tiền ngân_sách  thôi sử_dụng ghế hạng nhất trên máy_bay cũng như hạn_chế chi_tiêu trong những chuyến đi nước_ngoài 
-9,ông cũng cho biết sẽ yêu_cầu kiểm_tra việc sử_dụng nguồn quỹ để xem ông có lạm_dụng các quỹ hay không 
+0,“ đáy_lòng mình tôi thành_thật xin_lỗi người dân tokyo hội_đồng thành_phố ” ông yoichi_masuzoe phát_biểu cúi đầu thể_hiện hối_lỗi trong cuộc họp ở hội_đồng lập_pháp thành_phố ngày 16
+1,người dân tokyo thời_gian bày_tỏ phẫn_nộ thông_tin liên_quan đến chuyến công_du nước_ngoài tốn_kém thị_trưởng masuzoe 67 tuổi
+2,cụ_thể 2 chuyến công_du đến london anh paris pháp 20 quan_chức thành_phố hồi năm 2015 tiêu tốn 50 triệu yen nhật hơn 450000 usd riêng ông masuzoe ngồi ghế hạng nhất máy_bay ở khách_sạn phòng “ suite ” loại phòng cao_cấp nhất
+3,ông masuzoe giữ chức thị_trưởng tokyo tháng 22014 giành chiến_thắng trong cuộc bầu_cử địa_phương
+4,vụ bê_bối liên_quan đến ông masuzoe bắt_đầu cuối tháng 42016 thông_tin nói ông sử_dụng xe công cá_nhân ngày cuối tuần
+5,tuy_nhiên ông phủ_nhận cáo_buộc
+6,ông còn bị_cáo_buộc sử_dụng nguồn quỹ nhà ủng_hộ tài_trợ tiền ngân_sách chính_phủ cung_cấp mua hàng_hóa đắt tiền quần_áo người_lớn đồ ngủ trẻ_con
+7,báo_cáo chi_tiêu quỹ thấy ông ở khách_sạn hạng sang đến okinawa sử_dụng dịch_vụ spa gần tokyo báo_chí địa_phương
+8,trong cuộc họp_báo ngày 16 thị_trưởng tokyo hứa hoang_phí tiền ngân_sách thôi sử_dụng ghế hạng nhất máy_bay hạn_chế chi_tiêu trong chuyến đi nước_ngoài
+9,ông biết yêu_cầu kiểm_tra sử_dụng nguồn quỹ xem ông lạm_dụng quỹ hay

@@ -1,5 +1,5 @@
 idx, sentence
-0,vụ tai_nạn kinh_hoàng xảy ra khoảng 13 giờ 35 phút chiều ngày 2/6 tại địa_phận xã cổ_lũng  huyện phú_lương  tỉnh thái_nguyên  hướng về quốc_lộ 3 
-1,theo những hình_ảnh được ghi lại từ camera của nhà dân bên đường cho thấy  chiếc xe_tải chạy với tốc_độ cao lấn làn bất_ngờ đâm vào chiếc xe_buýt chạy theo hướng ngược_lại 
-2,sau cú va_chạm  phần đầu của chiếc xe_tải bị biến_dạng  hư_hỏng nặng  kính chắn gió của chiếc ô_tô tải vỡ nát  đầu xe móp méo và bánh trước bên phải gãy khỏi trục 
-3,bên_cạnh đó  cú va_chạm quá mạnh khiến một người đàn_ông điều_khiển chiếc xe_gắn_máy bị_thương nặng và được đưa đi cấp_cứu ngay sau đó  hành_khách trên chiếc xe_buýt một_phen hú_vía  chạy tán_loạn 
+0,vụ tai_nạn kinh_hoàng xảy khoảng 13 giờ 35 phút chiều ngày 2/6 địa_phận xã cổ_lũng huyện phú_lương tỉnh thái_nguyên hướng về quốc_lộ 3
+1,hình_ảnh ghi camera nhà dân bên đường thấy xe_tải chạy tốc_độ cao lấn làn bất_ngờ đâm xe_buýt chạy hướng ngược_lại
+2,cú va_chạm phần đầu xe_tải biến_dạng hư_hỏng nặng kính chắn gió ô_tô tải vỡ nát đầu xe móp méo bánh bên gãy khỏi trục
+3,bên_cạnh cú va_chạm quá mạnh khiến một người đàn_ông điều_khiển xe_gắn_máy bị_thương nặng đưa đi cấp_cứu hành_khách xe_buýt một_phen hú_vía chạy tán_loạn

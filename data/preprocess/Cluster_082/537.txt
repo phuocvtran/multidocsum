@@ -1,11 +1,11 @@
 idx, sentence
-0,như_vậy là phải đợi thêm gần một ngày sau khi kiểm số phiếu_bầu gửi qua đường bưu_điện  kết_quả của cuộc bầu_cử tổng_thống áo ngày hôm_qua mới được ngã_ngũ 
-1,mặc_dù bộ nội_vụ áo chưa thông_báo kết_quả chính_thức  nhưng truyền_thông trong nước đến đầu giờ chiều hôm_nay đã loan tin ông alexander_van_der bellen thắng_cử 
-2,đồng_thời ứng_cử_viên norbert_hofer thuộc đảng tự_do  fpö  có xu_hướng bài hồi_giáo  hoài_nghi liên_hiệp_châu_âu  đã thừa_nhận thất_bại trên trang_facebook cá_nhân 
-3,tại vòng 1 của cuộc bầu_cử  ứng_viên norbert_hofer đã dẫn_đầu với 35  phiếu_bầu  bỏ_xa đối_thủ alexander_van_der bellen chỉ giành được 21  phiếu 
-4,hai đảng chính_trị truyền_thống  xã_hội – dân_chủ  spö  và đảng bảo_thủ thiên_chúa_giáo  övp   từng thay phiên nhau cầm_quyền tại áo từ sau thế_chiến thứ 2 đã bị loại toàn_bộ 
-5,cuộc_đua giữa hai ứng_viên tại vòng 2 đã diễn ra khá căng_thẳng với kết_quả kiểm_phiếu bầu trực_tiếp  ông hofer giành được 519  phiếu và ông van_der bellen thu được 481  phiếu 
-6,tuy_nhiên kết_quả cuối_cùng phải đợi kiểm số phiếu_bầu qua bưu_điện 
-7,vì trong số 6 triệu cử_tri áo  có 900000 người chọn cách bầu trước và phiếu_bầu được gửi qua đường bưu_điện 
-8,dù gì đến lúc này  giới quan_sát đều ghi_nhận thấy một điều qua cuộc bầu_cử ngày hôm_qua là xã_hội áo đang bị chia_rẽ sâu_sắc 
-9,có 86  người lao_động đã bỏ_phiếu cho ứng_viên cực_hữu  trong khi đó 80  cử_tri thuộc thành_phần có học_thức bỏ_phiếu cho ông alexander_van_der bellen 
+0,như_vậy đợi thêm gần một ngày kiểm số phiếu_bầu gửi đường bưu_điện kết_quả cuộc bầu_cử tổng_thống áo ngày hôm_qua mới ngã_ngũ
+1,mặc_dù bộ nội_vụ áo thông_báo kết_quả chính_thức truyền_thông trong nước đến đầu giờ chiều hôm_nay loan tin ông alexander_van_der bellen thắng_cử
+2,đồng_thời ứng_cử_viên norbert_hofer thuộc đảng tự_do fpö xu_hướng bài hồi_giáo hoài_nghi liên_hiệp_châu_âu thừa_nhận thất_bại trang_facebook cá_nhân
+3,vòng 1 cuộc bầu_cử ứng_viên norbert_hofer dẫn_đầu 35 phiếu_bầu bỏ_xa đối_thủ alexander_van_der bellen giành 21 phiếu
+4,hai đảng chính_trị truyền_thống xã_hội – dân_chủ spö đảng bảo_thủ thiên_chúa_giáo övp thay phiên nhau cầm_quyền áo thế_chiến thứ 2 loại toàn_bộ
+5,cuộc_đua giữa hai ứng_viên vòng 2 diễn khá căng_thẳng kết_quả kiểm_phiếu bầu trực_tiếp ông hofer giành 519 phiếu ông van_der bellen thu 481 phiếu
+6,tuy_nhiên kết_quả cuối_cùng đợi kiểm số phiếu_bầu bưu_điện
+7,trong số 6 triệu cử_tri áo 900000 người chọn cách bầu phiếu_bầu gửi đường bưu_điện
+8,dù đến giới quan_sát ghi_nhận thấy một cuộc bầu_cử ngày hôm_qua xã_hội áo chia_rẽ sâu_sắc
+9,86 người lao_động bỏ_phiếu ứng_viên cực_hữu trong 80 cử_tri thuộc thành_phần học_thức bỏ_phiếu ông alexander_van_der bellen

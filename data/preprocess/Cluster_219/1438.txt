@@ -1,7 +1,7 @@
 idx, sentence
-0,lễ_hội do sở du_lịch tphcm phối_hợp với sở nông_nghiệp  sở công_thương và khu du_lịch văn_hóa suối_tiên tổ_chức  được xem là lễ_hội có kỷ_lục nhiều chủng_loại trái_cây nhất việt_nam với hơn 150 chủng_loại 
-1,trong đó  nhiều loại trái lạ góp_mặt trong lễ_hội như cát_lồi  dái bò  cù_nèo rừng  dưa quạ  mắt trâu  mồng hòe  trái gừa  trái bứa  bồng rừng … lễ_hội còn giới_thiệu bộ sưu_tập củ  quả khổng_lồ với nhiều củ  quả lạ_mắt như bí_ngô nặng 70 kg  bí_đao 50 kg  dưa lưới 8 kg  chanh_yên 7 kg … bà nguyễn_thị_hương  ngụ trảng_bàng  tây_ninh  cho biết hôm_nay gia_đình xuống tphcm sớm để tham_quan lễ_hội trái_cây và đưa các con đi chơi quốc_tế thiếu_nhi 
-2,nhìn_chung  trái_cây ở lễ_hội có chất_lượng tươi ngon  giá_cả cũng vừa phải 
-3,năm nay khu_vực chợ_nổi trái_cây với hơn 50 con thuyền chở trái_cây tươi ngon từ khắp mọi miền như sầu_riêng cái mơn  xoài_cát hòa_lộc  đào sa_pa  bưởi năm_roi … sẽ được bán với giá rẻ hơn thị_trường từ 20  30  
-4,theo ông huỳnh_cách_mạng  phó_chủ_tịch ubnd tphcm  lễ_hội trái_cây nam_bộ năm nay được nâng tầm về quy_mô và nội_dung tổ_chức 
-5,ubnd tp đánh_giá cao nỗ_lực của ngành du_lịch  nông_nghiệp và công_thương trong việc phát_triển hoạt_động này 
+0,lễ_hội sở du_lịch tphcm phối_hợp sở nông_nghiệp sở công_thương khu du_lịch văn_hóa suối_tiên tổ_chức xem lễ_hội kỷ_lục chủng_loại trái_cây nhất việt_nam hơn 150 chủng_loại
+1,trong loại trái lạ góp_mặt trong lễ_hội cát_lồi dái bò cù_nèo rừng dưa quạ mắt trâu mồng hòe trái gừa trái bứa bồng rừng … lễ_hội còn giới_thiệu bộ sưu_tập củ quả khổng_lồ củ quả lạ_mắt bí_ngô nặng 70 kg bí_đao 50 kg dưa lưới 8 kg chanh_yên 7 kg … bà nguyễn_thị_hương ngụ trảng_bàng tây_ninh biết hôm_nay gia_đình xuống tphcm sớm tham_quan lễ_hội trái_cây đưa con đi chơi quốc_tế thiếu_nhi
+2,nhìn_chung trái_cây ở lễ_hội chất_lượng tươi ngon giá_cả
+3,năm nay khu_vực chợ_nổi trái_cây hơn 50 con thuyền chở trái_cây tươi ngon khắp mọi miền sầu_riêng mơn xoài_cát hòa_lộc đào sa_pa bưởi năm_roi … bán giá rẻ hơn thị_trường 20 30
+4,ông huỳnh_cách_mạng phó_chủ_tịch ubnd tphcm lễ_hội trái_cây nam_bộ năm nay nâng tầm về quy_mô nội_dung tổ_chức
+5,ubnd tp đánh_giá cao nỗ_lực ngành du_lịch nông_nghiệp công_thương trong phát_triển hoạt_động

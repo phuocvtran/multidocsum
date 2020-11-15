@@ -1,16 +1,16 @@
 idx, sentence
-0,như đã biết  kể từ khi bị blđ_liverpool sa_thải do thành_tích yếu_kém hồi tháng 10 năm_ngoái  hlv brendan_rodgers vẫn chưa tìm được bến đỗ mới 
-1,dù rộ lên không ít tin_đồn rằng  rodgers sẽ tái_xuất ở premier_league thế nhưng mới đây  ông vừa nhận_lời dẫn_dắt của celtic 
-2,cụ_thể  hlv brendan_rodgers đã được blđ_celtic bổ_nhiệm làm hlv trưởng của đội bóng này 
-3,được biết  hợp_đồng giữa rodgers và đội bóng scotland chỉ có thời_hạn trong vòng 1 năm 
-4,phát_biểu trong ngày nhậm_chức  hlv brendan_rodgers hạnh_phúc cho biết  “ dẫn_dắt celtic là một vinh_dự lớn của tôi 
-5,tôi đã yêu_mến celtic từ khi còn bé 
-6,đây là một clb vĩ_đại và được dẫn_dắt đội bóng này luôn là giấc mơ của tôi 
-7,tôi sẽ cống_hiến tất_cả những gì tốt nhất để giúp celtic tiếp_tục phát_triển 
-8,tôi biết celtic đã rất tốt trong những mùa giải gần đây 
-9,vì_thế  nhiệm_vụ của tôi là giúp đội bóng tiếp_tục thống_trị giải scotland và tìm lại vinh_quang tại đấu_trường châu_âu ” 
-10,trong khi đó  thông_báo chính_thức trên trang_chủ của celtic cũng xác_nhận  “ celtic_fc vui_lòng thông_báo rằng  hlv brendan_rodgers sẽ trở_thành thuyền_trưởng của clb từ mùa giải tới 
-11,trước đó hlv hiện_tại là deila đã quyết_định sẽ rời đội bóng dù vừa có lần thứ 5 giúp celtic vô_địch giải_scotland ” 
-12,được biết  ở mùa giải vừa_qua  clb_celtic đã xuất_sắc lên_ngôi vô_địch scotland với tổng_cộng 86 điểm qua 38 vòng đấu  bỏ_xa đội bóng đứng thứ hai là aberdeen tới 15 điểm 
-13,họ sẽ dự vòng loại thứ hai của champions_league mùa tới 
-14,đội_bóng này cũng sẽ tham_dự giải đấu giao_hữu hè icc_cup tại vào cuối tháng 7 tới với những đối_thủ như leicester_city  barcelona hay inter_milan 
+0,biết kể blđ_liverpool sa_thải thành_tích yếu_kém hồi tháng 10 năm_ngoái hlv brendan_rodgers tìm bến đỗ mới
+1,dù rộ ít tin_đồn rodgers tái_xuất ở premier_league thế mới ông nhận_lời dẫn_dắt celtic
+2,cụ_thể hlv brendan_rodgers blđ_celtic bổ_nhiệm làm hlv trưởng đội bóng
+3,biết hợp_đồng giữa rodgers đội bóng scotland thời_hạn trong vòng 1 năm
+4,phát_biểu trong ngày nhậm_chức hlv brendan_rodgers hạnh_phúc biết “ dẫn_dắt celtic một vinh_dự lớn tôi
+5,tôi yêu_mến celtic còn bé
+6,một clb vĩ_đại dẫn_dắt đội bóng luôn giấc mơ tôi
+7,tôi cống_hiến tất_cả tốt nhất giúp celtic tiếp_tục phát_triển
+8,tôi biết celtic tốt trong mùa giải gần
+9,vì_thế nhiệm_vụ tôi giúp đội bóng tiếp_tục thống_trị giải scotland tìm vinh_quang đấu_trường châu_âu ”
+10,trong thông_báo chính_thức trang_chủ celtic xác_nhận “ celtic_fc vui_lòng thông_báo hlv brendan_rodgers trở_thành thuyền_trưởng clb mùa giải tới
+11,hlv hiện_tại deila quyết_định rời đội bóng dù lần thứ 5 giúp celtic vô_địch giải_scotland ”
+12,biết ở mùa giải vừa_qua clb_celtic xuất_sắc lên_ngôi vô_địch scotland tổng_cộng 86 điểm 38 vòng đấu bỏ_xa đội bóng đứng thứ hai aberdeen tới 15 điểm
+13,họ dự vòng loại thứ hai champions_league mùa tới
+14,đội_bóng tham_dự giải đấu giao_hữu hè icc_cup cuối tháng 7 tới đối_thủ leicester_city barcelona hay inter_milan

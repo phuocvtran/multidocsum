@@ -1,12 +1,12 @@
 idx, sentence
-0,ngày 26  ông nguyễn_xuân_trường  chánh_văn_phòng bộ y_tế  cho biết ngay sau khi nhận được thông_tin về việc cán_bộ của bộ này say rượu  có thái_độ xúc_phạm người dân trong giờ làm_việc  bộ y_tế đã yêu_cầu cán_bộ này viết bản tường_trình và họp hội_đồng kỷ_luật  ra quyết_định kỷ_luật với hình_thức khiển_trách trước toàn cơ_quan với cán_bộ này 
-1,ông trường cũng xác_nhận người đàn_ông bị cho là say rượu trong ảnh đăng trên mạng xã_hội vào chiều ngày 315 vừa_qua là một vị phó chánh_văn_phòng của bộ y_tế 
-2,sau khi nhận được thông_tin này  văn_phòng đã yêu_cầu cán_bộ này báo_cáo và viết bản tường_trình 
-3,sáng ngày 16  bộ y_tế đã lập_hội_đồng kỷ_luật xem_xét hình_thức kỷ_luật vị cán_bộ trên và quyết_định thi_hành kỷ_luật với hình_thức khiển_trách trước toàn_thể cán_bộ  công_nhân_viên bộ y_tế 
-4,ông trường cũng cho biết trong 3 người bị “ tố ” trên mạng xã_hội vào chiều 315 vừa qua thì chỉ có 1 người là cán_bộ thuộc bộ y_tế 
-5,theo ông trường  bộ y_tế đã có quy_định cấm uống rượu_bia trong giờ làm_việc nên hành_vi uống rượu_bia trong giờ làm của phó chánh_văn_phòng là vi_phạm kỷ_luật  ảnh_hưởng đến uy_tín của ngành y_tế 
-6,ông trường cho biết vị cán_bộ này cũng đã đến tận nhà người dân mà mình đã va_chạm giao_thông vào chiều ngày 315  có thái_độ xúc_phạm để xin_lỗi và xin_lỗi cả các chiến_sĩ công_an xử_lý vụ va_chạm giao_thông 
-7,trước đó  mạng xã_hội đã chia_sẻ thông_tin một cán_bộ bộ y_tế va_chạm giao_thông với người khác ngay trước cổng bộ y_tế  trên đường giảng_võ  quận ba_đình  hà_nội   trong tình_trạng có mùi rượu ”  sau đó còn có thái_độ xúc_phạm người va_chạm giao_thông với phương_tiện chở mình 
-8,cụ_thể  trên facebook có nick bnt
-9,đã viết  “ 15 h chiều 31/5  tại cổng bộ y_tế  138b giảng_võ  3 anh tự_xưng là nhân_viên bộ y_tế gây tai_nạn đâm vào xe của mình nói luyên_thuyên vài câu  mồm nồng_nặc mùi rượu … rồi bỏ chạy vào bộ 
-10,anh lái_xe thì lái_xe bỏ đi luôn  may mình chặn đầu kịp  sau đấy vứt giữa đường rồi bỏ chạy ” 
+0,ngày 26 ông nguyễn_xuân_trường chánh_văn_phòng bộ y_tế biết nhận thông_tin về cán_bộ bộ say rượu thái_độ xúc_phạm người dân trong giờ làm_việc bộ y_tế yêu_cầu cán_bộ viết bản tường_trình họp hội_đồng kỷ_luật quyết_định kỷ_luật hình_thức khiển_trách toàn cơ_quan cán_bộ
+1,ông trường xác_nhận người đàn_ông say rượu trong ảnh đăng mạng xã_hội chiều ngày 315 vừa_qua một vị phó chánh_văn_phòng bộ y_tế
+2,nhận thông_tin văn_phòng yêu_cầu cán_bộ báo_cáo viết bản tường_trình
+3,sáng ngày 16 bộ y_tế lập_hội_đồng kỷ_luật xem_xét hình_thức kỷ_luật vị cán_bộ quyết_định thi_hành kỷ_luật hình_thức khiển_trách toàn_thể cán_bộ công_nhân_viên bộ y_tế
+4,ông trường biết trong 3 người “ tố ” mạng xã_hội chiều 315 1 người cán_bộ thuộc bộ y_tế
+5,ông trường bộ y_tế quy_định cấm uống rượu_bia trong giờ làm_việc hành_vi uống rượu_bia trong giờ làm phó chánh_văn_phòng vi_phạm kỷ_luật ảnh_hưởng đến uy_tín ngành y_tế
+6,ông trường biết vị cán_bộ đến tận nhà người dân mình va_chạm giao_thông chiều ngày 315 thái_độ xúc_phạm xin_lỗi xin_lỗi chiến_sĩ công_an xử_lý vụ va_chạm giao_thông
+7,mạng xã_hội chia_sẻ thông_tin một cán_bộ bộ y_tế va_chạm giao_thông người khác cổng bộ y_tế đường giảng_võ quận ba_đình hà_nội trong tình_trạng mùi rượu ” còn thái_độ xúc_phạm người va_chạm giao_thông phương_tiện chở mình
+8,cụ_thể facebook nick bnt
+9,viết “ 15 h chiều 31/5 cổng bộ y_tế 138b giảng_võ 3 anh tự_xưng nhân_viên bộ y_tế gây tai_nạn đâm xe mình nói luyên_thuyên vài câu mồm nồng_nặc mùi rượu … bỏ chạy bộ
+10,anh lái_xe lái_xe bỏ đi luôn may mình chặn đầu kịp đấy vứt giữa đường bỏ chạy ”

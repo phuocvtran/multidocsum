@@ -1,6 +1,6 @@
 idx, sentence
-0,vụ tai_nạn lao_động xảy ra 8 h sáng nay  3/6  tại công_trình xây_dựng nhà ở  số 123 đường lê_thanh_nghị  quận hải_châu  đà_nẵng  
-1,theo một_số hộ dân sống gần công_trình xây_dựng  thời_điểm trên  anh tiến  44 tuổi  trú phường an_hải_tây  quận sơn_trà  đà_nẵng  đang đứng trên tầng 3 ngôi nhà đang xây dở 
-2,trong quá_trình thi_công kéo vật_liệu từ dưới đất lên  không may anh tiến bị mất thăng_bằng  té ngã xuống từ độ cao khoảng 10 m 
-3,ngay sau đó  một_số người đưa anh tiến vào bệnh_viện cấp_cứu nhưng vì bị_thương quá nặng nên anh tiến đã tử_vong 
-4,theo quan_sát tại hiện_trường  công_trình xây_dựng nhà ở này không được che_chắn cẩn_thận  không đảm_bảo an_toàn …
+0,vụ tai_nạn lao_động xảy 8 h sáng nay 3/6 công_trình xây_dựng nhà ở số 123 đường lê_thanh_nghị quận hải_châu đà_nẵng
+1,một_số hộ dân sống gần công_trình xây_dựng thời_điểm anh tiến 44 tuổi trú phường an_hải_tây quận sơn_trà đà_nẵng đứng tầng 3 ngôi nhà xây dở
+2,trong quá_trình thi_công kéo vật_liệu đất may anh tiến mất thăng_bằng té ngã xuống độ cao khoảng 10 m
+3,một_số người đưa anh tiến bệnh_viện cấp_cứu bị_thương quá nặng anh tiến tử_vong
+4,quan_sát hiện_trường công_trình xây_dựng nhà ở che_chắn cẩn_thận đảm_bảo an_toàn …

@@ -1,3 +1,3 @@
 idx, sentence
-0,cảnh_sát ấn_độ cho biết  lửa bắt_đầu cháy vào khoảng 1 h  giờ_địa_phương  rồi sau đó lan ra rất nhanh 
-1,những nạn_nhân bị_thương đã được đưa đến bệnh_viện cấp_cứu song số người thiệt_mạng có_thể tiếp_tục tăng  do nhiều người bị_thương ở trong tình_trạng nguy_kịch 
+0,cảnh_sát ấn_độ biết lửa bắt_đầu cháy khoảng 1 h giờ_địa_phương lan nhanh
+1,nạn_nhân bị_thương đưa đến bệnh_viện cấp_cứu song số người thiệt_mạng tiếp_tục tăng người bị_thương ở trong tình_trạng nguy_kịch

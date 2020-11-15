@@ -1,7 +1,7 @@
 idx, sentence
-0,một không_gian của nước ý sẽ được dàn_dựng và sắp_đặt trên con phố lê_phụng_hiểu để tạo ra một cuộc hành_trình khám phá nước ý thông_qua âm_nhạc  thời_trang và ẩm_thực 
-1,trong đó  điểm nhấn của chương_trình sẽ là âm_nhạc và thời_trang mang màu_sắc của sự giao_thoa đông_tây qua phần trình_diễn của nghệ_sĩ hai nước 
-2,hai nghệ_sĩ violon marica và daniele_anderle và nghệ_sĩ dương_cầm sandra_stojanovic đến từ nước ý cùng các nghệ_sĩ dương_cầm phó_an_my  nghệ_sĩ đàn_nhị thùy_anh và ca_sĩ thùy_chi của việt_nam sẽ có dịp trò_chuyện với những âm_sắc riêng_biệt của mỗi quốc_gia 
-3,ở không_gian của thời_gian là sự xuất_hiện của 3 bộ sưu_tập của 3 nhà thiết_kế việt_nam  minh_hạnh  xuân_hảo và quang_huy 
-4,với cảm_hứng từ những con tem mang nhiều dấu_ấn lịch_sử  các nhà thiết_kế đã đưa đến những chủ_đề chứa_đựng những nét văn_hóa đặc_trưng của nước ý trong suốt 70 năm qua như kiến_trúc  lễ_hội  di_sản  những danh_nhân ý 
-5,tham_gia trình_diễn những mẫu thiết_kế sẽ không chỉ là những nghệ_sĩ ý – việt mà_còn có những người ý sinh_sống và làm_việc tại việt_nam cùng các thiếu_nhi ý 
+0,một không_gian nước ý dàn_dựng sắp_đặt con phố lê_phụng_hiểu tạo một cuộc hành_trình khám phá nước ý thông_qua âm_nhạc thời_trang ẩm_thực
+1,trong điểm nhấn chương_trình âm_nhạc thời_trang mang màu_sắc giao_thoa đông_tây phần trình_diễn nghệ_sĩ hai nước
+2,hai nghệ_sĩ violon marica daniele_anderle nghệ_sĩ dương_cầm sandra_stojanovic đến nước ý nghệ_sĩ dương_cầm phó_an_my nghệ_sĩ đàn_nhị thùy_anh ca_sĩ thùy_chi việt_nam dịp trò_chuyện âm_sắc riêng_biệt quốc_gia
+3,ở không_gian thời_gian xuất_hiện 3 bộ sưu_tập 3 nhà thiết_kế việt_nam minh_hạnh xuân_hảo quang_huy
+4,cảm_hứng con tem mang dấu_ấn lịch_sử nhà thiết_kế đưa đến chủ_đề chứa_đựng nét văn_hóa đặc_trưng nước ý trong suốt 70 năm kiến_trúc lễ_hội di_sản danh_nhân ý
+5,tham_gia trình_diễn mẫu thiết_kế nghệ_sĩ ý – việt mà_còn người ý sinh_sống làm_việc việt_nam thiếu_nhi ý

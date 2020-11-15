@@ -1,7 +1,7 @@
 idx, sentence
-0,sự_việc được người dân phát_hiện vào sáng sớm nay  23/5  tại khu_vực cầu cứng  thuộc địa_phận phường phương_lâm  tp hòa_bình  tỉnh hòa_bình  
-1,theo một_số nhân_chứng cho biết  nạn_nhân là một nam_giới độ tuổi từ 2530  mặc quần_bò  áo trắng  bên phía cánh_tay trái có một hình săm 
-2,tiếp_nhận tin báo  catp_hòa_bình đã khẩn_trương có_mặt tiến_hành bảo_vệ hiện_trường  thực_hiện công_tác khám_nghiệm tử_thi 
-3,kết_quả bước_đầu từ phía cqca  trên người nạn_nhân xuất_hiện nhiều máu  chủ_yếu tập_trung ở mồm và tai 
-4,không có dấu_hiệu của ngoại_lực tác_động từ bên ngoài 
-5,thông_tin với pv  một cán_bộ catp_hòa_bình xác_nhận vụ_việc trên 
+0,sự_việc người dân phát_hiện sáng sớm nay 23/5 khu_vực cầu cứng thuộc địa_phận phường phương_lâm tp hòa_bình tỉnh hòa_bình
+1,một_số nhân_chứng biết nạn_nhân một nam_giới độ tuổi 2530 mặc quần_bò áo trắng bên phía cánh_tay trái một hình săm
+2,tiếp_nhận tin báo catp_hòa_bình khẩn_trương có_mặt tiến_hành bảo_vệ hiện_trường thực_hiện công_tác khám_nghiệm tử_thi
+3,kết_quả bước_đầu phía cqca người nạn_nhân xuất_hiện máu chủ_yếu tập_trung ở mồm tai
+4,dấu_hiệu ngoại_lực tác_động bên ngoài
+5,thông_tin pv một cán_bộ catp_hòa_bình xác_nhận vụ_việc

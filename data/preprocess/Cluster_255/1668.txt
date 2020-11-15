@@ -1,9 +1,9 @@
 idx, sentence
-0,sáng 2/6  người đàn_ông 40 tuổi lái ôtô bentley trên đường nguyễn_văn_linh  hướng từ quốc_lộ 1 đi khu chế_xuất tân_thuận  quận 7  
-1,đang dừng đèn_đỏ tại giao_lộ nguyễn_đức_cảnh  xế sang bị xe container từ phía sau húc văng hơn chục mét 
-2,cú tông mạnh khiến ôtô bentley rách_bươm phần đuôi  nhiều phụ_tùng vỡ vụn  dầu_nhớt chảy lênh_láng mặt_đường  đầu xe container cũng hư_hỏng nặng  bung nắp capô 
-3, sau tiếng  rầm  rất mạnh  chiếc xe_con chồm tới trước 
-4,tôi chạy đến xem có ai bị_thương không mới thấy tài_xế ngóc đầu từ dưới vô lăng lên  nói  không sao  nhưng vẻ mặt hoảng lắm   một nhân_chứng cho hay 
-5,lực_lượng chức_năng quận 7 đang xử_lý  làm rõ nguyên_nhân 
-6,ôtô bị nạn là dòng bentley continental_flying_spur đời 2014  nhập_khẩu nguyên chiếc  trang_bị động_cơ 6 lít 
-7,xe tăng tốc từ 0 lên 100 km / h trong 46 giây và đạt tốc_độ giới_hạn tối_đa 320 km / h 
+0,sáng 2/6 người đàn_ông 40 tuổi lái ôtô bentley đường nguyễn_văn_linh hướng quốc_lộ 1 đi khu chế_xuất tân_thuận quận 7
+1,dừng đèn_đỏ giao_lộ nguyễn_đức_cảnh xế sang xe container phía húc văng hơn chục mét
+2,cú tông mạnh khiến ôtô bentley rách_bươm phần đuôi phụ_tùng vỡ vụn dầu_nhớt chảy lênh_láng mặt_đường đầu xe container hư_hỏng nặng bung nắp capô
+3,tiếng rầm mạnh xe_con chồm tới
+4,tôi chạy đến xem ai bị_thương mới thấy tài_xế ngóc đầu vô lăng nói sao vẻ mặt hoảng lắm một nhân_chứng hay
+5,lực_lượng chức_năng quận 7 xử_lý làm rõ nguyên_nhân
+6,ôtô nạn dòng bentley continental_flying_spur đời 2014 nhập_khẩu nguyên trang_bị động_cơ 6 lít
+7,xe tăng tốc 0 100 km / h trong 46 giây đạt tốc_độ giới_hạn tối_đa 320 km / h

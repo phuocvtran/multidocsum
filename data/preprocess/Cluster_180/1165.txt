@@ -1,14 +1,14 @@
 idx, sentence
-0,ngày hôm_qua  hlv jlow đã chính_thức chốt danh_sách 23 cầu_thủ_đức tham_dự euro 2016 
-1,đáng chú_ý  trong đó  tiền_vệ điển_trai của dortmund  marco_reus đã không có tên vì chấn_thương 
-2,cầu_thủ này đã dính chấn_thương háng và không kịp_thời bình_phục để tham_dự euro 2016 
-3,trước đó  marco_reus đã vắng_mặt trong trận đấu giao_hữu giữa đức và slovakia 
-4,còn nhớ  hai năm trước  tiền_vệ của dortmund cũng lỡ_hẹn với world_cup 2014 vì lý_do tương_tự 
-5,ngoài marco_reus  hlv jlow đã gạch tên 3 cầu_thủ khác là karim_bellarabi  julian_brandt  cùng đá cho leverkusen  và sebastian_rudy  hoffenheim  
-6,trong khi đó  bất_chấp vừa trải qua mùa giải tệ_hại và mới bình_phục chấn_thương đầu_gối như schweinsteiger vẫn có tên trong danh_sách 
-7,thực_tế  vai_trò của tiền_vệ mu ở đội_tuyển đức là rất lớn 
-8,trong thời_gian qua  nhiều chuyên_gia đã lên_tiếng yêu_cầu hlv jlow giữ lại schweinsteiger 
-9,vào cuối tuần này  đội_tuyển đức sẽ có trận giao_hữu với hungary 
-10,đây là màn tập_dượt cuối_cùng của “ những cỗ xe_tăng ” trước thềm euro 2016 
-11,ở giải đấu này  họ sẽ nằm chung bảng với ba_lan  ukraine và bắc_ailen 
-12,danh_sách 23 cầu_thủ_đức tham_dự euro 2016  thủ_môn  3   manuel_neuer  bayern_munich   bernd_leno  bayer_leverkusen   marcandre ter stegen  barcelona  hậu_vệ  7   jerome_boateng  bayern_munich   emre_can  liverpool   jonas_hector  cologne   benedikt_howedes  schalke   mats_hummels  borussia_dortmund   shkodran_mustafi  valencia   antonio_rudiger  roma  tiền_vệ  9   julian_draxler  wolfsburg   mario_gotze  bayern_munich   sami_khedira  juventus   joshua_kimmich  bayern_munich   toni_kroos  real_madrid   mesut_ozil  arsenal   leroy_sane  schalke   bastian_schweinsteiger  manchester_united   julian_weigl  borussia_dortmund  
+0,ngày hôm_qua hlv jlow chính_thức chốt danh_sách 23 cầu_thủ_đức tham_dự euro 2016
+1,đáng chú_ý trong tiền_vệ điển_trai dortmund marco_reus tên chấn_thương
+2,cầu_thủ dính chấn_thương háng kịp_thời bình_phục tham_dự euro 2016
+3,marco_reus vắng_mặt trong trận đấu giao_hữu giữa đức slovakia
+4,còn nhớ hai năm tiền_vệ dortmund lỡ_hẹn world_cup 2014 lý_do tương_tự
+5,ngoài marco_reus hlv jlow gạch tên 3 cầu_thủ khác karim_bellarabi julian_brandt đá leverkusen sebastian_rudy hoffenheim
+6,trong bất_chấp trải mùa giải tệ_hại mới bình_phục chấn_thương đầu_gối schweinsteiger tên trong danh_sách
+7,thực_tế vai_trò tiền_vệ mu ở đội_tuyển đức lớn
+8,trong thời_gian chuyên_gia lên_tiếng yêu_cầu hlv jlow giữ schweinsteiger
+9,cuối tuần đội_tuyển đức trận giao_hữu hungary
+10,màn tập_dượt cuối_cùng “ cỗ xe_tăng ” thềm euro 2016
+11,ở giải đấu họ nằm chung bảng ba_lan ukraine bắc_ailen
+12,danh_sách 23 cầu_thủ_đức tham_dự euro 2016 thủ_môn 3 manuel_neuer bayern_munich bernd_leno bayer_leverkusen marcandre ter stegen barcelona hậu_vệ 7 jerome_boateng bayern_munich emre_can liverpool jonas_hector cologne benedikt_howedes schalke mats_hummels borussia_dortmund shkodran_mustafi valencia antonio_rudiger roma tiền_vệ 9 julian_draxler wolfsburg mario_gotze bayern_munich sami_khedira juventus joshua_kimmich bayern_munich toni_kroos real_madrid mesut_ozil arsenal leroy_sane schalke bastian_schweinsteiger manchester_united julian_weigl borussia_dortmund

@@ -1,13 +1,13 @@
 idx, sentence
-0,chiều 28/5  công_an quận tân_bình phối_hợp với các đơn_vị nghiệp_vụ công_an tphcm tiến_hành điều_tra  truy_xét vụ cướp xảy ra đêm 27/5  tại chung_cư phúc_yên  phường 15  quận tân_bình khiến một người đàn_ông nước_ngoài trọng_thương 
-1,chiều cùng ngày  anh rachid  sn 1982  quốc_tịch ma_rốc  vẫn đang còn điều_trị vết_thương trên mặt và ngực tại bệnh_viện chợ_rẫy  tphcm do tên cướp gây ra 
-2,chị trần_thị_thu_trang  vợ anh rachid  kể lại vụ_việc  khoảng 20 h tối 27/5  vợ_chồng chị cùng con_gái  2 tuổi  đi ô_tô về tới chung_cư nói trên 
-3,khi chị trang bước xuống xe và anh rachid bồng con nhỏ bất_ngờ có 2 nam thanh_niên mặc áo_mưa đi trên 1 chiếc xe_máy áp sát  giật chiếc ví của chị trang đang cầm trên tay 
-4,chị trang giằng_co lại làm 2 tên cướp té xuống_đường 
-5,nhìn thấy vợ mình bị tấn_công anh rachid vội bỏ con xuống đất  xông vào ứng_cứu thì bị một nam thanh_niên khác lao tới dùng dao đâm tới_tấp vào mặt  ngực khiến nạn_nhân trọng_thương 
-6,ngoài_ra theo chị trang  lúc đó tại hiện_trường xuất_hiện thêm 2 thanh_niên khác  làm nhiệm_vụ cản địa  giải_cứu cho 2 đồng_bọn 
-7,sau khi anh rachid bị_thương không_thể chống_cự được nữa  nhóm thanh_niên liền phóng lên xe tẩu_thoát khỏi hiện_trường 
-8,một người dân cho biết   lúc đó tôi đang trong quán nước đối_diện xảy ra vụ_việc  nghe tiếng truy_hô  cướp 
-9,cướp  
-10,chạy ra thì thấy người phụ_nữ đang ôm người đàn_ông gục xuống đất cạnh vũng máu  còn những tên cướp thì đã chạy mất bóng  tôi liền phụ đưa nạn_nhân đi cấp_cứu  
-11,sau khi đưa chồng mình đi cấp_cứu  chị trang kiểm_tra lại thì phát_hiện mất 10000 usd cùng 2 chiếc đtdđ_hiệu iphone 
+0,chiều 28/5 công_an quận tân_bình phối_hợp đơn_vị nghiệp_vụ công_an tphcm tiến_hành điều_tra truy_xét vụ cướp xảy đêm 27/5 chung_cư phúc_yên phường 15 quận tân_bình khiến một người đàn_ông nước_ngoài trọng_thương
+1,chiều ngày anh rachid sn 1982 quốc_tịch ma_rốc còn điều_trị vết_thương mặt ngực bệnh_viện chợ_rẫy tphcm tên cướp gây
+2,chị trần_thị_thu_trang vợ anh rachid kể vụ_việc khoảng 20 h tối 27/5 vợ_chồng chị con_gái 2 tuổi đi ô_tô về tới chung_cư nói
+3,chị trang bước xuống xe anh rachid bồng con nhỏ bất_ngờ 2 nam thanh_niên mặc áo_mưa đi 1 xe_máy áp sát giật ví chị trang cầm tay
+4,chị trang giằng_co làm 2 tên cướp té xuống_đường
+5,nhìn thấy vợ mình tấn_công anh rachid vội bỏ con xuống đất xông ứng_cứu một nam thanh_niên khác lao tới dùng dao đâm tới_tấp mặt ngực khiến nạn_nhân trọng_thương
+6,ngoài_ra chị trang hiện_trường xuất_hiện thêm 2 thanh_niên khác làm nhiệm_vụ cản địa giải_cứu 2 đồng_bọn
+7,anh rachid bị_thương không_thể chống_cự nhóm thanh_niên liền phóng xe tẩu_thoát khỏi hiện_trường
+8,một người dân biết tôi trong quán nước đối_diện xảy vụ_việc nghe tiếng truy_hô cướp
+9,cướp
+10,chạy thấy người phụ_nữ ôm người đàn_ông gục xuống đất cạnh vũng máu còn tên cướp chạy mất bóng tôi liền phụ đưa nạn_nhân đi cấp_cứu
+11,đưa chồng mình đi cấp_cứu chị trang kiểm_tra phát_hiện mất 10000 usd 2 đtdđ_hiệu iphone

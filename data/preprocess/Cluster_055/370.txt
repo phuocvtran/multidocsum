@@ -1,5 +1,5 @@
 idx, sentence
-0,vừa_mới chính_thức công_bố chuyện tình_cảm với báo_giới vào tháng 3 và nhanh_chóng đi tới hôn_nhân  mỹ_nữ  vườn sao_băng  goo hye_sun cùng ahn_jae_hyun đang là một trong những cặp_đôi hot nhất làng giải_trí xứ hàn 
-1,bén_duyên từ sau khi đóng cặp chung trong bộ phim  blood  và hẹn_hò được một năm  chàng mỹ nam ahn_jae_hyun ngay_lập_tức  đẩy nhanh tốc_độ  khi cầu_hôn goo_hye_sun với khung_cảnh vô_cùng lãng_mạn khiến bao fan nữ phải xuýt_xoa  ghen tỵ 
-2,vào sáng ngày hôm_nay  21/5   một loạt các trang tin_tức lớn hàn_quốc đồng_loạt đăng_tải những hình_ảnh hôn_lễ đặc_biệt của goo_hye_sun 
-3,hai vợ_chồng cô đã tới khoa nhi bệnh_viện severance  seoul để làm từ_thiện thay_vì thực_hiện các nghi_thức đón_rước_dâu  làm_lễ nhà_thờ như phong_tục truyền_thống 
+0,vừa_mới chính_thức công_bố tình_cảm báo_giới tháng 3 nhanh_chóng đi tới hôn_nhân mỹ_nữ vườn sao_băng goo hye_sun ahn_jae_hyun một trong cặp_đôi hot nhất làng giải_trí xứ hàn
+1,bén_duyên đóng cặp chung trong bộ phim blood hẹn_hò một năm chàng mỹ nam ahn_jae_hyun ngay_lập_tức đẩy nhanh tốc_độ cầu_hôn goo_hye_sun khung_cảnh vô_cùng lãng_mạn khiến bao fan nữ xuýt_xoa ghen tỵ
+2,sáng ngày hôm_nay 21/5 một loạt trang tin_tức lớn hàn_quốc đồng_loạt đăng_tải hình_ảnh hôn_lễ đặc_biệt goo_hye_sun
+3,hai vợ_chồng cô tới khoa nhi bệnh_viện severance seoul làm từ_thiện thay_vì thực_hiện nghi_thức đón_rước_dâu làm_lễ nhà_thờ phong_tục truyền_thống

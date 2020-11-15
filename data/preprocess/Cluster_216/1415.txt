@@ -1,10 +1,10 @@
 idx, sentence
-0,ngày 315  tand tỉnh bà_rịavũng_tàu đã xét_xử sơ_thẩm và tuyên_phạt bị_cáo phạm_văn_minh  50 tuổi   nguyên giám_đốc công_ty tnhh thương_mại và chế_biến thực_phẩm phú an_sinh 19 năm tù về tội “ lạm_dụng tín_nhiệm chiếm_đoạt tài_sản ” 
-1,theo cáo_trạng  cuối năm 2010  tỉnh bà_rịavũng_tàu đồng_ý cho công_ty phú an_sinh tạm_ứng 165 tỉ đồng để thực_hiện chương_trình bình_ổn giá  phòng_chống dịch heo tai xanh trên địa_bàn  tham_gia dự_trữ hàng_hóa để đảm_bảo cung_cầu hàng_hóa thiết_yếu trên địa_bàn tỉnh 6 tháng cuối năm và tết tân_mão 2011 
-2,theo đó  phú an_sinh phải dùng số tiền trên để thu_mua heo khỏe của người chăn_nuôi  vừa để dự_trữ cho tết 2011  vừa để tránh bớt thiệt_hại cho người nuôi khi dịch heo tai xanh lây_lan 
-3,tuy_nhiên  ông minh chỉ sử_dụng 560 triệu đồng để thực_hiện chương_trình mà tỉnh giao 
-4,số tiền còn lại ông minh dùng để trả tiền vay  trả_lãi ngân_hàng 
-5,từ tháng 8 đến 102010  công_ty phú an_sinh tiếp_tục ký với sở nnptnt tỉnh bà_rịavũng_tàu 7 hợp_đồng tạm_ứng tổng_số tiền 35 tỉ đồng để thu_mua giết_mổ  trữ đông  bình_ổn thị_trường  phòng_chống dịch heo tai xanh trên địa_bàn tỉnh 
-6,công_ty phú an_sinh chỉ sử_dụng 10 tỉ đồng để mua heo  còn số tiền gần 25 tỉ thì dùng để trả tiền vay  mua nhà_máy  đầu_tư trang_trại heo  các chi_phí cho hoạt_động của công_ty  nộp tiền vào nhiều ngân_hàng khác 
-7,đến thời_điểm hiện_tại  công_ty phú an_sinh mới trả cho sở công_thương hơn 91 tỉ đồng  trả cho sở nnptnt tỉnh bà_rịa  vũng_tàu 15 tỉ đồng 
-8,tại phiên xét_xử  bị_cáo nhiều lần trả_lời vòng_vo và nói không đồng_ý với tội lạm_dụng tín_nhiệm mà cáo_trạng truy_tố  chỉ phạm_tội sử_dụng trái_phép tài_sản 
+0,ngày 315 tand tỉnh bà_rịavũng_tàu xét_xử sơ_thẩm tuyên_phạt bị_cáo phạm_văn_minh 50 tuổi nguyên giám_đốc công_ty tnhh thương_mại chế_biến thực_phẩm phú an_sinh 19 năm tù về tội “ lạm_dụng tín_nhiệm chiếm_đoạt tài_sản ”
+1,cáo_trạng cuối năm 2010 tỉnh bà_rịavũng_tàu đồng_ý công_ty phú an_sinh tạm_ứng 165 tỉ đồng thực_hiện chương_trình bình_ổn giá phòng_chống dịch heo tai xanh địa_bàn tham_gia dự_trữ hàng_hóa đảm_bảo cung_cầu hàng_hóa thiết_yếu địa_bàn tỉnh 6 tháng cuối năm tết tân_mão 2011
+2,phú an_sinh dùng số tiền thu_mua heo khỏe người chăn_nuôi dự_trữ tết 2011 tránh bớt thiệt_hại người nuôi dịch heo tai xanh lây_lan
+3,tuy_nhiên ông minh sử_dụng 560 triệu đồng thực_hiện chương_trình tỉnh giao
+4,số tiền còn ông minh dùng trả tiền vay trả_lãi ngân_hàng
+5,tháng 8 đến 102010 công_ty phú an_sinh tiếp_tục ký sở nnptnt tỉnh bà_rịavũng_tàu 7 hợp_đồng tạm_ứng tổng_số tiền 35 tỉ đồng thu_mua giết_mổ trữ đông bình_ổn thị_trường phòng_chống dịch heo tai xanh địa_bàn tỉnh
+6,công_ty phú an_sinh sử_dụng 10 tỉ đồng mua heo còn số tiền gần 25 tỉ dùng trả tiền vay mua nhà_máy đầu_tư trang_trại heo chi_phí hoạt_động công_ty nộp tiền ngân_hàng khác
+7,đến thời_điểm hiện_tại công_ty phú an_sinh mới trả sở công_thương hơn 91 tỉ đồng trả sở nnptnt tỉnh bà_rịa vũng_tàu 15 tỉ đồng
+8,phiên xét_xử bị_cáo lần trả_lời vòng_vo nói đồng_ý tội lạm_dụng tín_nhiệm cáo_trạng truy_tố phạm_tội sử_dụng trái_phép tài_sản

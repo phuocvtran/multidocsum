@@ -1,7 +1,7 @@
 idx, sentence
-0,cocacola cho biết  90  hoạt_động sản_xuất của hãng đòi_hỏi phải có đường làm nguyên_liệu đầu_vào 
-1,bởi_vậy  việc không mua được đường ở venezuela khiến hãng phải ngừng sản_xuất ở nước này 
-2,tuy_nhiên  hãng sẽ tiếp_tục sản_xuất các đồ_uống không đường như cocacola dành cho người ăn_kiêng 
-3,sản_lượng mía của venezuela đã sụt giảm mạnh do chính_sách kiểm_soát giá  chi_phí_sản_xuất tăng cao cũng như tình_trạng khan_hiếm phân_bón 
-4,do_đó  nhiều nông_dân tại quốc_gia này đã phải chuyển sang các loại cây_trồng khác nhằm tăng thu_nhập 
-5,dự_kiến  sản_lượng mía của venezuela trong năm 2016  2017 đạt khoảng 430000 tấn  giảm 20000 tấn so với năm 2015 
+0,cocacola biết 90 hoạt_động sản_xuất hãng đòi_hỏi đường làm nguyên_liệu đầu_vào
+1,bởi_vậy mua đường ở venezuela khiến hãng ngừng sản_xuất ở nước
+2,tuy_nhiên hãng tiếp_tục sản_xuất đồ_uống đường cocacola dành người ăn_kiêng
+3,sản_lượng mía venezuela sụt giảm mạnh chính_sách kiểm_soát giá chi_phí_sản_xuất tăng cao tình_trạng khan_hiếm phân_bón
+4,do_đó nông_dân quốc_gia chuyển sang loại cây_trồng khác nhằm tăng thu_nhập
+5,dự_kiến sản_lượng mía venezuela trong năm 2016 2017 đạt khoảng 430000 tấn giảm 20000 tấn năm 2015

@@ -1,29 +1,29 @@
 idx, sentence
-0,vấn_đề hiếp_dâm đang diễn ra ngày_một nghiêm_trọng trên thế_giới  nhất_là khi phần_lớn các nạn_nhân lại là các em nhỏ  trẻ vị_thanh_niên 
-1,đây là các đối_tượng dễ bị tổn_thương bởi tâm_hồn vẫn còn non_nớt và chưa ý_thức được sự_việc 
-2,hôm thứ 6 vừa_qua  cảnh_sát địa_phương đã xác_định và truy_tìm tung_tích của 4 trong số 30 kẻ tình_nghi trong một vụ hiếp_dâm thiếu_nữ 16 tuổi tại brazil 
-3,đây là một trong những vụ hiếp_dâm kinh_hoàng nhất  không_chỉ ở brazil mà toàn_bộ khu_vực nam_mỹ 
-4,nghiêm_trọng hơn  clip đã được chính những kẻ gây_án quay lại và tung lên mạng xã_hội twitter 
-5,ngay sau khi vụ_việc xảy ra  tổng_thống michel_temer đã kêu_gọi một cuộc họp khẩn_cấp với các quan_chức an_ninh cấp cao ở từng bang brazil để thảo_luận vấn_đề 
-6,ông cho rằng những vụ_việc như_vậy là không chấp_nhận được khi vẫn xảy ra trong thế_kỷ 21 
-7,chính_phủ brazil cam_kết sẽ thành_lập cơ_quan chuyên_trách giải_quyết các vấn_đề tội_phạm liên_quan tới phụ_nữ 
-8,vụ_việc cô gái 16 tuổi kia chỉ được đưa ra ánh_sáng sau khi vài kẻ trong nhóm hiếp_dâm đã đưa thông_tin lên mạng  đăng_tải những tấm hình và video về một thiếu_nữ khỏa_thân lên twitter 
-9,ngay sau đó  cảnh_sát đã bắt_đầu vào cuộc tìm ra những nghi_phạm trong vụ_án 
-10,chỉ vài ngày sau khi đường_dây_nóng được mở  hơn 800 người đã gọi điện nhằm cung_cấp các thông_tin về đối_tượng tình_nghi 
-11,theo báo_cáo của cơ_quan điều_tra  nạn_nhân bị hiếp_dâm tập_thể vào hôm chủ_nhật vừa_qua khi tới thăm bạn trai tại san_joao  khu_vực phía tây thành_phố rio_de_janeiro 
-12,hơn 30 tên đã thay nhau hiếp_dâm và ghi lại những hình_ảnh đó 
-13,trong một buổi trả_lời báo_chí  cô đã rất shock khi nhớ lại khoảnh_khắc kinh_hoàng đó   tôi trông_chờ vào sự công_bằng của chúa_trời 
-14,đó là nỗi đau mà tôi sẽ không bao_giờ quên 
-15,nhiều người ác_mồm đã cho rằng là lỗi của tôi và bộ quần_áo tôi mặc  khi nó được cho là không phù_hợp 
-16,tôi chỉ muốn mọi người biết rằng  đó không phải là lỗi của những người phụ_nữ khi họ bị hiếp_dâm  
-17,trong buổi họp_báo vào hôm thứ 6 vừa_qua  cảnh_sát nói rằng cô gái đã bị hiếp_dâm bởi 33 người đàn_ông 
-18,tuy_nhiên  con_số này có_thể nhiều hơn khi cô không_thể nhớ chính_xác được bao_nhiêu người 
-19,các nỗ_lực điều_tra và thẩm_vấn đối_tượng tình_nghi đang được diễn ra 
-20, nếu những hình_ảnh vụ_việc không được đăng_tải lên mạng  có_lẽ nó sẽ mãi chìm trong bóng_tối  
-21,người bạn trai của cô  nam thanh_niên 19 tuổi cũng là đối_tượng tình_nghi trong vụ_việc 
-22,tuy_nhiên  họ vẫn chưa chắc anh ta có phải là một trong những kẻ tấn_công hay không 
-23,các kẻ tham_gia vụ hiếp_dâm tập_thể đều được trang_bị vũ_khí  dù mục_đích sử_dụng vẫn chưa rõ_ràng 
-24,việc sử_dụng súng tại thành_phố rio khá phổ_biến và gây ra nỗi lo cho phụ_nữ tại đây 
-25,nhiều người dân sau khi xem xong clip cảm_thấy bức_xúc và sợ_hãi cho cuộc_sống của chính bản_thân mình 
-26, tôi không_thể xem được hết clip  không hiểu tại_sao con_người lại có_thể làm như_vậy   danusia  một phụ_nữ 41 tuổi bàng_hoàng kể lại 
-27,sau vụ_việc  làn_sóng biểu_tình phản_đối những hành_động vô_nhân_tính đã diễn ra trên khắp các thành_phố của brazil 
+0,vấn_đề hiếp_dâm diễn ngày_một nghiêm_trọng thế_giới nhất_là phần_lớn nạn_nhân em nhỏ trẻ vị_thanh_niên
+1,đối_tượng dễ tổn_thương tâm_hồn còn non_nớt ý_thức sự_việc
+2,hôm thứ 6 vừa_qua cảnh_sát địa_phương xác_định truy_tìm tung_tích 4 trong số 30 kẻ tình_nghi trong một vụ hiếp_dâm thiếu_nữ 16 tuổi brazil
+3,một trong vụ hiếp_dâm kinh_hoàng nhất không_chỉ ở brazil toàn_bộ khu_vực nam_mỹ
+4,nghiêm_trọng hơn clip chính kẻ gây_án quay tung mạng xã_hội twitter
+5,vụ_việc xảy tổng_thống michel_temer kêu_gọi một cuộc họp khẩn_cấp quan_chức an_ninh cấp cao ở bang brazil thảo_luận vấn_đề
+6,ông vụ_việc như_vậy chấp_nhận xảy trong thế_kỷ 21
+7,chính_phủ brazil cam_kết thành_lập cơ_quan chuyên_trách giải_quyết vấn_đề tội_phạm liên_quan tới phụ_nữ
+8,vụ_việc cô gái 16 tuổi kia đưa ánh_sáng vài kẻ trong nhóm hiếp_dâm đưa thông_tin mạng đăng_tải tấm hình video về một thiếu_nữ khỏa_thân twitter
+9,cảnh_sát bắt_đầu cuộc tìm nghi_phạm trong vụ_án
+10,vài ngày đường_dây_nóng mở hơn 800 người gọi điện nhằm cung_cấp thông_tin về đối_tượng tình_nghi
+11,báo_cáo cơ_quan điều_tra nạn_nhân hiếp_dâm tập_thể hôm chủ_nhật vừa_qua tới thăm bạn trai san_joao khu_vực phía tây thành_phố rio_de_janeiro
+12,hơn 30 tên thay nhau hiếp_dâm ghi hình_ảnh
+13,trong một buổi trả_lời báo_chí cô shock nhớ khoảnh_khắc kinh_hoàng tôi trông_chờ công_bằng chúa_trời
+14,nỗi đau tôi bao_giờ quên
+15,người ác_mồm lỗi tôi bộ quần_áo tôi mặc nó phù_hợp
+16,tôi muốn mọi người biết lỗi người phụ_nữ họ hiếp_dâm
+17,trong buổi họp_báo hôm thứ 6 vừa_qua cảnh_sát nói cô gái hiếp_dâm 33 người đàn_ông
+18,tuy_nhiên con_số hơn cô không_thể nhớ chính_xác bao_nhiêu người
+19,nỗ_lực điều_tra thẩm_vấn đối_tượng tình_nghi diễn
+20,hình_ảnh vụ_việc đăng_tải mạng có_lẽ nó mãi chìm trong bóng_tối
+21,người bạn trai cô nam thanh_niên 19 tuổi đối_tượng tình_nghi trong vụ_việc
+22,tuy_nhiên họ chắc anh ta một trong kẻ tấn_công hay
+23,kẻ tham_gia vụ hiếp_dâm tập_thể trang_bị vũ_khí dù mục_đích sử_dụng rõ_ràng
+24,sử_dụng súng thành_phố rio khá phổ_biến gây nỗi lo phụ_nữ
+25,người dân xem xong clip cảm_thấy bức_xúc sợ_hãi cuộc_sống chính bản_thân mình
+26,tôi không_thể xem hết clip hiểu tại_sao con_người làm như_vậy danusia một phụ_nữ 41 tuổi bàng_hoàng kể
+27,vụ_việc làn_sóng biểu_tình phản_đối hành_động vô_nhân_tính diễn khắp thành_phố brazil

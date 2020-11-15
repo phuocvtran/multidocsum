@@ -1,6 +1,6 @@
 idx, sentence
-0,sáng 23/5  người đàn_bà nhặt ve_chai ở bãi đất trống  cách chung_cư thạnh_mỹ_lợi 200 m  thấy bao_tải màu trắng nằm trong bụi cây cách con đường đất đi ra đường vành_đai đông 5 m  nghĩ có phế_liệu bên trong  bà mở ra tìm thì hoảng_hốt phát_hiện thi_thể cô gái khoảng 20 tuổi 
-1, con đường này khá vắng_vẻ vào ban_đêm 
-2,chiều qua tôi không thấy bao_tải này  thi_thể cũng chưa bốc mùi  chắc nó được vứt ở đây hồi đêm   người phụ_nữ bán nước gần hiện_trường cho hay 
-3,công_an quận 2 đang phong_tỏa hiện_trường  phối_hợp các đơn_vị nghiệp_vụ của thành_phố khám_nghiệm  điều_tra vụ_việc 
-4,nhiều người hay tin tìm đến nhận_diện nhưng không phải thân_nhân cô gái 
+0,sáng 23/5 người đàn_bà nhặt ve_chai ở bãi đất trống cách chung_cư thạnh_mỹ_lợi 200 m thấy bao_tải màu trắng nằm trong bụi cây cách con đường đất đi đường vành_đai đông 5 m nghĩ phế_liệu bên trong bà mở tìm hoảng_hốt phát_hiện thi_thể cô gái khoảng 20 tuổi
+1,con đường khá vắng_vẻ ban_đêm
+2,chiều tôi thấy bao_tải thi_thể bốc mùi chắc nó vứt ở hồi đêm người phụ_nữ bán nước gần hiện_trường hay
+3,công_an quận 2 phong_tỏa hiện_trường phối_hợp đơn_vị nghiệp_vụ thành_phố khám_nghiệm điều_tra vụ_việc
+4,người hay tin tìm đến nhận_diện thân_nhân cô gái

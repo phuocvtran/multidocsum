@@ -1,9 +1,9 @@
 idx, sentence
-0,taliban ở afghanistan xác_nhận thủ_lĩnh nhóm phiến quân bị máy_bay không người lái mỹ tiêu_diệt hôm 22/5 ở pakistan và đang tìm người kế_nhiệm 
-1,taliban xác_nhận thủ_lĩnh mullah_akhtar_mansour bị máy_bay không người lái mỹ tiêu_diệt 
-2,mullah akhtar_mansour bị tiêu_diệt trong chiến_dịch không_kích đầu_tiên của mỹ nhằm vào lãnh_đạo taliban_afghanistan trên lãnh_thổ pakistan  giáng đòn mạnh vào nhóm phiến_quân đang hồi_sinh dưới thời mansour 
-3, người có uy_tín như mansour không nhiều   một nguồn tin cấp cao trong taliban nói với afp 
-4,việc thủ_lĩnh mới lên nắm quyền cách đây 9 tháng bị tiêu_diệt có_thể sẽ khiến các cuộc đàm_phán hòa_bình ở afghanistan thất_bại 
-5,quan_chức an_ninh pakistan cho biết họ tìm thấy hai thi_thể cháy đen từ một ôtô tại hiện_trường không_kích 
-6,mansour thiệt_mạng khi đang trên đường từ iran trở_về pakistan 
-7,pakistan cũng chỉ_trích mỹ  gọi đây là sự xâm_phạm chủ_quyền nghiêm_trọng vì chỉ cung_cấp thông_tin vụ_việc sau khi cuộc tấn_công diễn ra 
+0,taliban ở afghanistan xác_nhận thủ_lĩnh nhóm phiến quân máy_bay người lái mỹ tiêu_diệt hôm 22/5 ở pakistan tìm người kế_nhiệm
+1,taliban xác_nhận thủ_lĩnh mullah_akhtar_mansour máy_bay người lái mỹ tiêu_diệt
+2,mullah akhtar_mansour tiêu_diệt trong chiến_dịch không_kích đầu_tiên mỹ nhằm lãnh_đạo taliban_afghanistan lãnh_thổ pakistan giáng đòn mạnh nhóm phiến_quân hồi_sinh thời mansour
+3,người uy_tín mansour một nguồn tin cấp cao trong taliban nói afp
+4,thủ_lĩnh mới nắm quyền cách 9 tháng tiêu_diệt khiến cuộc đàm_phán hòa_bình ở afghanistan thất_bại
+5,quan_chức an_ninh pakistan biết họ tìm thấy hai thi_thể cháy đen một ôtô hiện_trường không_kích
+6,mansour thiệt_mạng đường iran trở_về pakistan
+7,pakistan chỉ_trích mỹ gọi xâm_phạm chủ_quyền nghiêm_trọng cung_cấp thông_tin vụ_việc cuộc tấn_công diễn

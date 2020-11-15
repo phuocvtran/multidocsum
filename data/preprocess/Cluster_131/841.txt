@@ -1,14 +1,14 @@
 idx, sentence
-0,honda_winner 150 là mẫu xe côn tay 150 phân_khối được honda việt_nam lắp_ráp  mẫu xe này sẽ cạnh_tranh với đối_thủ yamaha_exciter và hướng tới đối_tượng là các khách_hàng trẻ tuổi 
-1,xe có thiết_kế khoẻ_khoắn  trẻ_trung  nhiều đường_nét sắc_cạnh 
-2,xe được lắp_ráp tại nhà_máy honda vĩnh_phúc 
-3,về thiết_kế chung  điểm nhấn tại phía đầu xe là cụm đèn_pha led với thiết_kế choá kiểu truyền_thống của honda  honda_winner 150 được trang_bị đồng_hồ analog kết_hợp lcd  phía trước được trang_bị phuộc đôi  giảm chấn thủy_lực 
-4,phần đuôi xe được các kỹ_sư của hãng xe nhật thiết_kế gọn_gàng  phía đuôi vểnh cao tạo dáng  bên dưới là giảm sóc đơn  monoshock 
-5,ống_xả được ốp tấm chống bỏng carbon thể_thao 
-6,cả hai bánh đều được trang_bị phanh đĩa  bộ lốp không săm với kích_cỡ lần_lượt 90/80 trước và 120 / 70 sau 
-7,honda_winner 150 có trọng_lượng 122 kg  kích_thước dài  rộng  cao lần_lượt là 2025 x 725 x 1102 mm  trục cơ_sở 1276 mm  độ cao yên xe 780 mm  khoảng_cách gầm so với mặt_đất 167 mm 
-8,xe được trang_bị động_cơ phun xăng điện_tử pgm  fi  150 cc  dohc  4 kỳ  xilanh đơn  làm mát bằng dung_dịch 
-9,khi kết_hợp với hộp_số 6 cấp chiếc xe có_thể đạt công_suất 156 mã_lực tại 9000 vòng / phút và mômen xoắn cực_đại 135 nm tại 6500 vòng / phút 
-10,động_cơ của xe đạt tiêu_chuẩn khí thải euro3 
-11,bình xăng của xe có dung_tích 45 lít  đủ cho một chuyến đi dài 
-12,theo honda việt_nam  honda_winner 150 bản thể_thao với 2 màu đỏ_đen và trắng_đen sẽ có giá bán là 45490000 vnđ  bản cao_cấp với màu xanh mờ và đen_mờ có giá 45990000 vnđ 
+0,honda_winner 150 mẫu xe côn tay 150 phân_khối honda việt_nam lắp_ráp mẫu xe cạnh_tranh đối_thủ yamaha_exciter hướng tới đối_tượng khách_hàng trẻ tuổi
+1,xe thiết_kế khoẻ_khoắn trẻ_trung đường_nét sắc_cạnh
+2,xe lắp_ráp nhà_máy honda vĩnh_phúc
+3,về thiết_kế chung điểm nhấn phía đầu xe cụm đèn_pha led thiết_kế choá kiểu truyền_thống honda honda_winner 150 trang_bị đồng_hồ analog kết_hợp lcd phía trang_bị phuộc đôi giảm chấn thủy_lực
+4,phần đuôi xe kỹ_sư hãng xe nhật thiết_kế gọn_gàng phía đuôi vểnh cao tạo dáng bên giảm sóc đơn monoshock
+5,ống_xả ốp tấm chống bỏng carbon thể_thao
+6,hai bánh trang_bị phanh đĩa bộ lốp săm kích_cỡ lần_lượt 90/80 120 / 70
+7,honda_winner 150 trọng_lượng 122 kg kích_thước dài rộng cao lần_lượt 2025 x 725 x 1102 mm trục cơ_sở 1276 mm độ cao yên xe 780 mm khoảng_cách gầm mặt_đất 167 mm
+8,xe trang_bị động_cơ phun xăng điện_tử pgm fi 150 cc dohc 4 kỳ xilanh đơn làm mát bằng dung_dịch
+9,kết_hợp hộp_số 6 cấp xe đạt công_suất 156 mã_lực 9000 vòng / phút mômen xoắn cực_đại 135 nm 6500 vòng / phút
+10,động_cơ xe đạt tiêu_chuẩn khí thải euro3
+11,bình xăng xe dung_tích 45 lít đủ một chuyến đi dài
+12,honda việt_nam honda_winner 150 bản thể_thao 2 màu đỏ_đen trắng_đen giá bán 45490000 vnđ bản cao_cấp màu xanh mờ đen_mờ giá 45990000 vnđ

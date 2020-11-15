@@ -1,6 +1,6 @@
 idx, sentence
-0,vào khoảng 22 h ngày 21/5  tổ_ttks của phòng csgt bắc_giang đang làm nhiệm_vụ tại km 104  200 ql1a thuộc địa_phận xã yên_mỹ  huyện lạng_giang  tỉnh bắc_giang đang làm nhiệm_vụ thì phát_hiện một chiếc xe ô_tô bán tải nhãn_hiệu ford_ranger_bks 12c044  29 vi_phạm giao_thông  có dấu_hiệu chở hàng_hóa không rõ nguồn_gốc 
-1,tổ ttks ra hiệu_lệnh dừng xe  kiểm_tra hành_chính 
-2,thấy nghi_vấn  tổ_ttks yêu_cầu lái_xe là nguyễn_quang_huy  sn 1988  trú tại xã hoàng_đồng  tp lạng_sơn  tỉnh lạng_sơn  mở khoang chở hàng để kiểm_tra  nhưng lái_xe trình_bày không có chìa_khoá 
-3,tổ ttks kiên_quyết đưa phương_tiện và lái_xe về trụ_sở cơ_quan để kiểm_tra 
-4,trong quá_trình về trụ_sở đơn_vị  lái_xe gợi_ý đưa cho tổ_ttks 500 triệu đồng để bỏ_qua  nhưng tổ_ttks cương_quyết đưa về trụ_sở đơn_vị  báo_cáo lãnh_đạo và các đơn_vị liên_quan phối_hợp kiểm_tra  phát_hiện xe có 17 bao_tải chứa 107 đoạn ngà_voi tổng trọng_lượng 5535 kg  ước_lượng số ngà của khoảng 20 con_voi trở lên   1 bộ biển số xe ô_tô 29c315  68 
+0,khoảng 22 h ngày 21/5 tổ_ttks phòng csgt bắc_giang làm nhiệm_vụ km 104 200 ql1a thuộc địa_phận xã yên_mỹ huyện lạng_giang tỉnh bắc_giang làm nhiệm_vụ phát_hiện một xe ô_tô bán tải nhãn_hiệu ford_ranger_bks 12c044 29 vi_phạm giao_thông dấu_hiệu chở hàng_hóa rõ nguồn_gốc
+1,tổ ttks hiệu_lệnh dừng xe kiểm_tra hành_chính
+2,thấy nghi_vấn tổ_ttks yêu_cầu lái_xe nguyễn_quang_huy sn 1988 trú xã hoàng_đồng tp lạng_sơn tỉnh lạng_sơn mở khoang chở hàng kiểm_tra lái_xe trình_bày chìa_khoá
+3,tổ ttks kiên_quyết đưa phương_tiện lái_xe về trụ_sở cơ_quan kiểm_tra
+4,trong quá_trình về trụ_sở đơn_vị lái_xe gợi_ý đưa tổ_ttks 500 triệu đồng bỏ_qua tổ_ttks cương_quyết đưa về trụ_sở đơn_vị báo_cáo lãnh_đạo đơn_vị liên_quan phối_hợp kiểm_tra phát_hiện xe 17 bao_tải chứa 107 đoạn ngà_voi tổng trọng_lượng 5535 kg ước_lượng số ngà khoảng 20 con_voi trở 1 bộ biển số xe ô_tô 29c315 68

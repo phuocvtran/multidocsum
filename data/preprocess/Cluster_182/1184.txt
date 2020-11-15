@@ -1,15 +1,15 @@
 idx, sentence
-0,trước đó  truyền_thông địa_phương đưa tin  cầu_thủ alan_pulido đang thi_đấu cho đt_olympiakos đã bị một nhóm tội_phạm bắt_cóc vào hôm 29/5 vừa_qua tại biên_giới phía bắc_tamaulipas  mexico  
-1,mới_đây  alan_pulido đã được cảnh_sát mexico cứu sống và không hề_hấn gì ngoài một_vài vết_thương nhỏ ngoài da  nặng nhất ở ở bàn_tay  hậu_quả của việc chống_cự lại bọn bắt_cóc 
-2,tuy_nhiên  giới_chức vùng này vẫn chưa tiết_lộ thông_tin chi_tiết về sự_việc trên 
-3,tuy_nhiên  theo một_vài nguồn tin  cầu_thủ 25 tuổi đã tìm cách liên_hệ với cảnh_sát  rồi tự cắt dây trói cổ_tay  đập_vỡ cửa_kính để trốn thoát ra ngoài trước khi cảnh_sát kéo tới 
-4,trước đó  alan và bạn gái ileana_salas đã bị một nhóm những kẻ lạ_mặt tấn_công khi rời khỏi một bữa tiệc 
-5,có 6 kẻ bịt mặt đã dùng vũ_lực uy_hiếp và bắt_cóc tiền_đạo trẻ  còn cô bạn gái được thả ra ngay lúc đó  không bị bất_cứ thương_tật nào 
-6,cảnh_sát mexico đã bắt được một người đàn_ông 38 tuổi  người này đã nhận tội 
-7,hiện phía cảnh_sát đang tìm_kiếm ba đối_tượng khác được cho là có dính_líu tới vụ bắt_cóc tống_tiền này 
-8,theo công_tố_viên ismael_quintanilla  băng_nhóm bịt mặt đã bắt và giam pulido tại một căn nhà ở gần ciudad_victoria  nơi cuối_cùng mà cảnh_sát phát_hiện thấy cầu_thủ trẻ này ở cùng với một trong những kẻ bắt_cóc 
-9,ngay trong ngày 29/5  gia_đình pulido đã nhận được một cú điện_thoại đòi tiền chuộc 
-10,tuy_nhiên  đã không có khoản tiền chuộc nào được đưa ra 
-11,bởi chỉ 24 giờ sau đó  cầu_thủ này đã được giải_cứu 
-12,trở_về với gia_đình  câu đầu_tiên mà pulido nói chính là  “ tôi ổn 
-13,cảm_ơn chúa ” 
+0,truyền_thông địa_phương đưa tin cầu_thủ alan_pulido thi_đấu đt_olympiakos một nhóm tội_phạm bắt_cóc hôm 29/5 vừa_qua biên_giới phía bắc_tamaulipas mexico
+1,mới_đây alan_pulido cảnh_sát mexico cứu sống hề_hấn ngoài một_vài vết_thương nhỏ ngoài da nặng nhất ở ở bàn_tay hậu_quả chống_cự bọn bắt_cóc
+2,tuy_nhiên giới_chức vùng tiết_lộ thông_tin chi_tiết về sự_việc
+3,tuy_nhiên một_vài nguồn tin cầu_thủ 25 tuổi tìm cách liên_hệ cảnh_sát tự cắt dây trói cổ_tay đập_vỡ cửa_kính trốn thoát ngoài cảnh_sát kéo tới
+4,alan bạn gái ileana_salas một nhóm kẻ lạ_mặt tấn_công rời khỏi một bữa tiệc
+5,6 kẻ bịt mặt dùng vũ_lực uy_hiếp bắt_cóc tiền_đạo trẻ còn cô bạn gái thả bất_cứ thương_tật nào
+6,cảnh_sát mexico bắt một người đàn_ông 38 tuổi người nhận tội
+7,hiện phía cảnh_sát tìm_kiếm ba đối_tượng khác dính_líu tới vụ bắt_cóc tống_tiền
+8,công_tố_viên ismael_quintanilla băng_nhóm bịt mặt bắt giam pulido một căn nhà ở gần ciudad_victoria cuối_cùng cảnh_sát phát_hiện thấy cầu_thủ trẻ ở một trong kẻ bắt_cóc
+9,trong ngày 29/5 gia_đình pulido nhận một cú điện_thoại đòi tiền chuộc
+10,tuy_nhiên khoản tiền chuộc nào đưa
+11,24 giờ cầu_thủ giải_cứu
+12,trở_về gia_đình câu đầu_tiên pulido nói chính “ tôi ổn
+13,cảm_ơn chúa ”

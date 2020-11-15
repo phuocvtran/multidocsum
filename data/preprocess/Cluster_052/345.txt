@@ -1,14 +1,14 @@
 idx, sentence
-0,chiều 20/5  tand tp hcm đã mở phiên_tòa xét_xử phúc_thẩm vụ kiện tranh_chấp dân_sự giữa nguyên_đơn lê_thị_diệu_hân  26 tuổi  hoa_hậu đông_nam_á 2012  và bị_đơn là chủ nhà của diệu_hân  bà phan_thị_minh_trang 
-1,theo đơn_kiện của diệu_hân  cô ký hợp_đồng thuê nhà với giá 45 triệu đồng / tháng của bà trang trên đường võ_văn_tần  quận 3  để mở cửa_hàng kinh_doanh thời_trang  hợp_đồng có hiệu_lực đến tháng 2/2016 
-2,sau khi thuê nhà ít_lâu thì bà trang thường đến các cửa_hàng của cô gây_rối vì cho rằng cô dan_díu với chồng bà 
-3, sau khi đoạt danh_hiệu hoa_hậu đông_nam_á 2012  tôi tiếp_tục đi học và mở các cửa_hàng kinh_doanh  thiết_kế thời_trang  không hoạt_động showbiz 
-4,vì_thế  việc bà trang vu_khống đã xúc_phạm tôi  tôi không_thể có quan_hệ bất_chính với một người đáng tuổi chú mình như_vậy   diệu_hân phân_trần với phóng_viên 
-5,sự_việc càng thêm trầm_trọng vào chiều 31/5/2015  khi bà trang tiếp_tục đến cửa_hàng gây náo_loạn 
-6,công_an phường 5  quận 3 đã yêu_cầu 2 bên viết cam_kết không tiếp_tục gây_rối trên địa_bàn 
-7,bà trang đồng_ý nhưng yêu_cầu diệu_hân phải sớm chấm_dứt hợp_đồng thuê nhà 
-8,cho_rằng bà trang dùng chiêu trò  xúc_phạm  lăng_mạ đuổi mình đi để giành lại nhà cho người khác thuê mà không phải bồi_thường hợp_đồng  diệu_hân đã làm đơn khởi_kiện  yêu_cầu bà trang bồi_thường 135 triệu đồng tiền đặt_cọc thuê nhà và 135 triệu tổn thất tinh_thần 
-9,còn bà trang sau khi nhận đơn_kiện từ diệu_hân đã có đơn phản_tố  bác_bỏ những nội_dung diệu_hân trình_bày và yêu_cầu trả đủ 360 triệu cho 8 tháng thuê nhà còn lại trong hợp_đồng  cho_dù hoa_hậu này không sử_dụng căn nhà suốt thời_gian đó 
-10,tại phiên xử sơ_thẩm  tand quận 3 đã bác đơn_kiện của diệu_hân  chấp_nhận đơn phản tố của bà trang  buộc hoa_hậu này phải trả cho chủ nhà 360 triệu đồng 
-11,sau đó  diệu_hân làm kháng_cáo 
-12,sau khi nghị_án  hđxx tand tp hcm đã bác kháng_cáo của diệu_hân  tuyên y_án sơ_thẩm 
+0,chiều 20/5 tand tp hcm mở phiên_tòa xét_xử phúc_thẩm vụ kiện tranh_chấp dân_sự giữa nguyên_đơn lê_thị_diệu_hân 26 tuổi hoa_hậu đông_nam_á 2012 bị_đơn chủ nhà diệu_hân bà phan_thị_minh_trang
+1,đơn_kiện diệu_hân cô ký hợp_đồng thuê nhà giá 45 triệu đồng / tháng bà trang đường võ_văn_tần quận 3 mở cửa_hàng kinh_doanh thời_trang hợp_đồng hiệu_lực đến tháng 2/2016
+2,thuê nhà ít_lâu bà trang thường đến cửa_hàng cô gây_rối cô dan_díu chồng bà
+3,đoạt danh_hiệu hoa_hậu đông_nam_á 2012 tôi tiếp_tục đi học mở cửa_hàng kinh_doanh thiết_kế thời_trang hoạt_động showbiz
+4,vì_thế bà trang vu_khống xúc_phạm tôi tôi không_thể quan_hệ bất_chính một người đáng tuổi chú mình như_vậy diệu_hân phân_trần phóng_viên
+5,sự_việc thêm trầm_trọng chiều 31/5/2015 bà trang tiếp_tục đến cửa_hàng gây náo_loạn
+6,công_an phường 5 quận 3 yêu_cầu 2 bên viết cam_kết tiếp_tục gây_rối địa_bàn
+7,bà trang đồng_ý yêu_cầu diệu_hân sớm chấm_dứt hợp_đồng thuê nhà
+8,cho_rằng bà trang dùng chiêu trò xúc_phạm lăng_mạ đuổi mình đi giành nhà người khác thuê bồi_thường hợp_đồng diệu_hân làm đơn khởi_kiện yêu_cầu bà trang bồi_thường 135 triệu đồng tiền đặt_cọc thuê nhà 135 triệu tổn thất tinh_thần
+9,còn bà trang nhận đơn_kiện diệu_hân đơn phản_tố bác_bỏ nội_dung diệu_hân trình_bày yêu_cầu trả đủ 360 triệu 8 tháng thuê nhà còn trong hợp_đồng cho_dù hoa_hậu sử_dụng căn nhà suốt thời_gian
+10,phiên xử sơ_thẩm tand quận 3 bác đơn_kiện diệu_hân chấp_nhận đơn phản tố bà trang buộc hoa_hậu trả chủ nhà 360 triệu đồng
+11,diệu_hân làm kháng_cáo
+12,nghị_án hđxx tand tp hcm bác kháng_cáo diệu_hân tuyên y_án sơ_thẩm

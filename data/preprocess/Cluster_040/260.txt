@@ -1,5 +1,5 @@
 idx, sentence
-0,ngày 205  tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” của trung_ương đoàn cho 2 em bo_tý  15 tuổi  và cao_lâm  13 tuổi   trú xã sơn_bình  huyện khánh_sơn 
-1,ông nguyễn_duy_bắc – phó chủ_tịch ubnd tỉnh đến dự 
-2,đây là 2 thiếu_niên đã dũng_cảm cứu 5 nữ_sinh bị đuối nước tại hồ tà_rục  tp cam_ranh  vào ngày 204 
-3,tại buổi lễ  ông nguyễn_văn_nhuận – bí_thư tỉnh_đoàn biểu_dương  vinh_danh_nghĩa_cử cao_đẹp của 2 em  đồng_thời  đề_nghị các cấp_bộ đoàn trên toàn tỉnh đẩy_mạnh việc tuyên_truyền  trang_bị kỹ_năng phòng  chống đuối nước cho thanh thiếu_nhi  tránh các rủi_ro không đáng có xảy ra  nhất_là trong dịp hè 
+0,ngày 205 tỉnh_đoàn khánh_hòa tổ_chức lễ trao_tặng huy_hiệu “ tuổi_trẻ dũng_cảm ” trung_ương đoàn 2 em bo_tý 15 tuổi cao_lâm 13 tuổi trú xã sơn_bình huyện khánh_sơn
+1,ông nguyễn_duy_bắc – phó chủ_tịch ubnd tỉnh đến dự
+2,2 thiếu_niên dũng_cảm cứu 5 nữ_sinh đuối nước hồ tà_rục tp cam_ranh ngày 204
+3,buổi lễ ông nguyễn_văn_nhuận – bí_thư tỉnh_đoàn biểu_dương vinh_danh_nghĩa_cử cao_đẹp 2 em đồng_thời đề_nghị cấp_bộ đoàn toàn tỉnh đẩy_mạnh tuyên_truyền trang_bị kỹ_năng phòng chống đuối nước thanh thiếu_nhi tránh rủi_ro đáng xảy nhất_là trong dịp hè

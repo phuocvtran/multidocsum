@@ -1,8 +1,8 @@
 idx, sentence
-0,theo thông_tin từ cổng thông_tin điện_tử chính_phủ  trong khuôn_khổ chuyến thăm chính_thức liên_bang_nga  ngày 18/5  thủ_tướng chính_phủ nguyễn_xuân_phúc đã đến dự lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa và chế_biến giai_đoạn 1 của tập_đoàn th_true_milk tại làng volokolamsk  tỉnh moscow 
-1,dự_án này có tổng vốn đầu_tư trong vòng 10 năm  qua 3 giai_đoạn  lên tới 27 tỷ usd  trong đó  vốn đầu_tư giai_đoạn 1 là 500 triệu usd và dự_kiến đến giữa năm 2017  sản_phẩm sữa th đầu_tiên sẽ ra_mắt tại xứ_sở bạch_dương 
-2,dự_kiến khi hoàn_thành giai_đoạn 3  tổng_số đàn bò sẽ đạt 350000 con  tổng công_suất chế_biến sữa là 5900 tấn / ngày  tương_đương gần 1800000 tấn / năm  tổng diện_tích vùng nguyên_liệu tập_trung là 140000 ha 
-3,tập_đoàn cũng dự_kiến thành_lập chuỗi phân_phối với 300 cửa_hàng true_mart trên toàn nước nga 
-4,phát_biểu tại lễ khởi_công  thủ_tướng nguyễn_xuân_phúc khẳng_định chính_phủ việt_nam đã và sẽ tiếp_tục tạo mọi điều_kiện để hỗ_trợ triển_khai dự_án và tin_tưởng rằng dự_án sẽ hoàn_thành đúng thời_gian dự_kiến  trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu  đáp_ứng nguyện_vọng của nhân_dân hai nước  phù_hợp với xu_hướng phát_triển năng_động  nâng cao hiệu_quả hợp_tác song_phương việt_namliên bang nga 
-5,thủ_tướng cũng bày_tỏ mong_muốn chính_phủ liên_bang_nga cũng như chính_quyền tỉnh moscow tạo mọi điều_kiện thuận_lợi để dự_án thành_công 
-6,theo số_liệu củabộ kế_hoạch và đầu_tư việt_nam  việt_nam hiện có 20 dự_án đầu_tư sang nga với tổng vốn đầu_tư_cấp mới và tăng vốn là 293 tỷ usd trong các lĩnh_vực thăm_dò và khai_thác dầu_khí  dịch_vụ 
+0,thông_tin cổng thông_tin điện_tử chính_phủ trong khuôn_khổ chuyến thăm chính_thức liên_bang_nga ngày 18/5 thủ_tướng chính_phủ nguyễn_xuân_phúc đến dự lễ khởi_công dự_án tổ_hợp chăn_nuôi bò sữa chế_biến giai_đoạn 1 tập_đoàn th_true_milk làng volokolamsk tỉnh moscow
+1,dự_án tổng vốn đầu_tư trong vòng 10 năm 3 giai_đoạn tới 27 tỷ usd trong vốn đầu_tư giai_đoạn 1 500 triệu usd dự_kiến đến giữa năm 2017 sản_phẩm sữa th đầu_tiên ra_mắt xứ_sở bạch_dương
+2,dự_kiến hoàn_thành giai_đoạn 3 tổng_số đàn bò đạt 350000 con tổng công_suất chế_biến sữa 5900 tấn / ngày tương_đương gần 1800000 tấn / năm tổng diện_tích vùng nguyên_liệu tập_trung 140000 ha
+3,tập_đoàn dự_kiến thành_lập chuỗi phân_phối 300 cửa_hàng true_mart toàn nước nga
+4,phát_biểu lễ khởi_công thủ_tướng nguyễn_xuân_phúc khẳng_định chính_phủ việt_nam tiếp_tục tạo mọi điều_kiện hỗ_trợ triển_khai dự_án tin_tưởng dự_án hoàn_thành đúng thời_gian dự_kiến trở_thành công_trình hợp_tác nông_nghiệp tiêu_biểu đáp_ứng nguyện_vọng nhân_dân hai nước phù_hợp xu_hướng phát_triển năng_động nâng cao hiệu_quả hợp_tác song_phương việt_namliên bang nga
+5,thủ_tướng bày_tỏ mong_muốn chính_phủ liên_bang_nga chính_quyền tỉnh moscow tạo mọi điều_kiện thuận_lợi dự_án thành_công
+6,số_liệu củabộ kế_hoạch đầu_tư việt_nam việt_nam hiện 20 dự_án đầu_tư sang nga tổng vốn đầu_tư_cấp mới tăng vốn 293 tỷ usd trong lĩnh_vực thăm_dò khai_thác dầu_khí dịch_vụ

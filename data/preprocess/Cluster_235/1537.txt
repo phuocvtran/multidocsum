@@ -1,9 +1,9 @@
 idx, sentence
-0,ngọn lửa ban_đầu xuất_phát từ kho hàng của siêu_thị ở tầng hai  sau đó lan lên tầng ba 
-1,do ở đây chứa nhiều mặt_hàng điện_tử  điện_lạnh cùng bao_bì  hộp xốp nên ngọn lửa bùng_cháy rất dữ_dội 
-2,chỉ sau 15 phút  ngọn lửa đã bao_trùm cả siêu_thị 
-3,nhận được tin báo  lực_lượng cảnh_sát phòng cháy chữa cháy và cứu nạn cứu_hộ  công_an tỉnh quảng_trị đã điều_động hơn 100 cán_bộ  chiến_sĩ cùng tám xe chuyên_dụng đến dập lửa cứu_hộ 
-4,sau khi phá cửa sắt ở tầng một  lực_lượng chức_năng đã nhanh_chóng đưa được nhiều hàng_hóa đang bày bán ở đây  gồm tivi  tủ_lạnh  điều_hòa  máy_giặt  ra bên ngoài 
-5,tuy_nhiên  tại tầng hai và tầng ba ngọn lửa vẫn bốc cao  thiêu rụi hầu_hết hàng_hóa có ở bên trong 
-6,do tòa nhà của siêu_thị chỉ có một cầu_thang đi lên trên nên ngọn lửa đã nhanh_chóng lây_lan  gây rất nhiều khó_khăn cho công_tác cứu_hộ và chữa_cháy 
-7,đến hơn 3 giờ 30 phút sáng nay  lực_lượng chức_năng đã cơ_bản khống_chế được đám cháy 
+0,ngọn lửa ban_đầu xuất_phát kho hàng siêu_thị ở tầng hai lan tầng ba
+1,ở chứa mặt_hàng điện_tử điện_lạnh bao_bì hộp xốp ngọn lửa bùng_cháy dữ_dội
+2,15 phút ngọn lửa bao_trùm siêu_thị
+3,nhận tin báo lực_lượng cảnh_sát phòng cháy chữa cháy cứu nạn cứu_hộ công_an tỉnh quảng_trị điều_động hơn 100 cán_bộ chiến_sĩ tám xe chuyên_dụng đến dập lửa cứu_hộ
+4,phá cửa sắt ở tầng một lực_lượng chức_năng nhanh_chóng đưa hàng_hóa bày bán ở gồm tivi tủ_lạnh điều_hòa máy_giặt bên ngoài
+5,tuy_nhiên tầng hai tầng ba ngọn lửa bốc cao thiêu rụi hầu_hết hàng_hóa ở bên trong
+6,tòa nhà siêu_thị một cầu_thang đi ngọn lửa nhanh_chóng lây_lan gây khó_khăn công_tác cứu_hộ chữa_cháy
+7,đến hơn 3 giờ 30 phút sáng nay lực_lượng chức_năng cơ_bản khống_chế đám cháy

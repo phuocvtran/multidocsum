@@ -1,4 +1,4 @@
 idx, sentence
-0,theo công_bố của các đơn_vị đầu_mối kinh_doanh  phân_phối mặt_hàng gas tại tp_hồ_chí_minh  từ hôm_nay giá gas tháng sáu sẽ giảm 125 đồng / kg  tương_đương 1500 đồng / bình 12 kg so với tháng cùng kỳ tháng trước 
-1,như_vậy  sau 3 tháng tăng_giá liên_tiếp  tháng 3  4  5  giá gas đã bắt_đầu giảm nhẹ 
-2,nguyên_nhân giảm_giá được ông trần_văn_phúc  trưởng_phòng kinh_doanh gas saigon_petro cho biết là do giá gas thế_giới bình_quân tháng 6/2016 vừa công_bố ở mức 3475 usd / tấn  giảm 5 usd / tấn so với tháng 5/2016 nên giá gas trong nước được điều_chỉnh giảm nhẹ  nhằm đảm_bảo_thủ quy_luật thị_trường và quyền_lợi của người tiêu_dùng 
+0,công_bố đơn_vị đầu_mối kinh_doanh phân_phối mặt_hàng gas tp_hồ_chí_minh hôm_nay giá gas tháng sáu giảm 125 đồng / kg tương_đương 1500 đồng / bình 12 kg tháng kỳ tháng
+1,như_vậy 3 tháng tăng_giá liên_tiếp tháng 3 4 5 giá gas bắt_đầu giảm nhẹ
+2,nguyên_nhân giảm_giá ông trần_văn_phúc trưởng_phòng kinh_doanh gas saigon_petro biết giá gas thế_giới bình_quân tháng 6/2016 công_bố ở mức 3475 usd / tấn giảm 5 usd / tấn tháng 5/2016 giá gas trong nước điều_chỉnh giảm nhẹ nhằm đảm_bảo_thủ quy_luật thị_trường quyền_lợi người tiêu_dùng

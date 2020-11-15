@@ -1,7 +1,7 @@
 idx, sentence
-0,động_đất xảy ra lúc 1  23 chiều cách bờ biển thành_phố cơ_long khoảng 73 km với cường_độ 72 độ richter  cục thời_tiết trung_ương của đài_loan cho biết 
-1,tuy_nhiên  cơ_quan khảo_sát địa_chất mỹ  usgs  cho biết động_đất mạnh 64 độ richter với tâm chấn cách đông_bắc đài_loan 110 km 
-2,còn trung_tâm mạng động_đất trung_quốc  cenc  đo được là 62 độ richter 
-3,theo thông_tấn_xã trung_ương đài_loan_cna  tâm chấn có độ sâu 2713 km dưới biển và gây chấn_động mạnh_mẽ nhất ở quân đông_bắc yilan và miền đông quận hualien 
-4,dư_chấn cũng được báo_cáo tại một_số vùng của đài_bắc  tân đài_bắc  thành_phố đào_viên và các huyện hsinchu  miaoli_ các nhân_chứng cho biết rung chấn được cảm_nhận tại các tòa nhà ở đài_bắc  bao_gồm cả tòa nhà quốc_hội  cũng như tại sân_bay quốc_tế taoyuan ở phía nam đài_bắc 
-5,hiện chưa có báo_cáo về thương_tích hay thiệt_hại của vụ động_đất 
+0,động_đất xảy 1 23 chiều cách bờ biển thành_phố cơ_long khoảng 73 km cường_độ 72 độ richter cục thời_tiết trung_ương đài_loan biết
+1,tuy_nhiên cơ_quan khảo_sát địa_chất mỹ usgs biết động_đất mạnh 64 độ richter tâm chấn cách đông_bắc đài_loan 110 km
+2,còn trung_tâm mạng động_đất trung_quốc cenc đo 62 độ richter
+3,thông_tấn_xã trung_ương đài_loan_cna tâm chấn độ sâu 2713 km biển gây chấn_động mạnh_mẽ nhất ở quân đông_bắc yilan miền đông quận hualien
+4,dư_chấn báo_cáo một_số vùng đài_bắc tân đài_bắc thành_phố đào_viên huyện hsinchu miaoli_ nhân_chứng biết rung chấn cảm_nhận tòa nhà ở đài_bắc bao_gồm tòa nhà quốc_hội sân_bay quốc_tế taoyuan ở phía nam đài_bắc
+5,hiện báo_cáo về thương_tích hay thiệt_hại vụ động_đất

@@ -1,17 +1,17 @@
 idx, sentence
-0,phút 85 trận đấu bù vòng 2 vleague giữa qnk quảng_nam và bbình_dương diễn ra chiều 18/5  trung_vệ đình_luật trong tư_thế nhận bóng từ giữa sân sau đường chuyền của moses đã bị cầu_thủ bên phía qnk quảng_nam là ogbuke_felix_onyedike nhoài người xoạc bóng từ phía sau 
-1,đình_luật đã nhảy lên để tránh tác_động từ felix nhưng sau đó cầu_thủ này lại có tình_huống không đẹp khi giẫm lên bụng của đối_phương 
-2,chính vì hành_vi thiếu kiềm_chế này mà đình_luật đã phải nhận án phạt từ phía ban kỷ_luật vff 
-3,theo đó  căn_cứ vào điều_lệ của lđbđ việt_nam  quy_chế tổ_chức và hoạt_động của ban kỷ_luật vff  khoản 1  khoản 3 điều 39 quy_định về kỷ_luật của vff cũng như báo_cáo của giám_sát và tư_liệu chuyên_môn của trận đấu giữa qnk quảng_nam và bbình_dương trên sân tam_kỳ_cùng báo_cáo  đề_nghị của btc giải  ban kỷ_luật vff đã quyết_định phạt 15 triệu đồng và đình_chỉ 3 trận kế_tiếp với đình_luật_do có hành_vi cố_tình xâm_phạm thân_thể với felix 
-4,ngoài việc bị treo_giò ở vleague  hậu_vệ này còn đối_diện với nguy_cơ vắng_mặt ở đội_tuyển việt_nam bất_chấp việc được hlv nguyễn_hữu_thắng điền tên vào danh_sách tập_trung dự_kiến 
-5,trước_đình_luật  hai trường_hợp tương_tự cũng đã xảy ra và không_thể hội quân cùng đội_tuyển 
-6,đầu_tiên là hậu_vệ quế_ngọc_hải 
-7,do phạm lỗi với tiền_vệ trần_anh khoa của shb_đà_nẵng  cầu_thủ của slna đã phải nhận án treo giò 6 tháng ở vleague  phạt_tiền 15 triệu đồng và không được cùng u23 việt_nam thi_đấu ở vck_u23 châu_á 2016 
-8,gần đây nhất là trường_hợp của tiền_vệ nguyễn_văn_quyết 
-9,vì xô ngã trọng_tài hoàng phạm_công_khanh trong trận đấu giữa hà_nội tt và sanna khánh_hòa_bvn mà cầu_thủ này bị phạt 15 triệu đồng  treo_giò 6 tháng và lỡ_hẹn với đợt tập_trung đầu_tiên của đội_tuyển việt_nam dưới thời tân hlv hữu_thắng 
-10,về trường_hợp bị treo_giò ở vleague của đình_luật  hiện hlv hữu_thắng chưa đưa ra phản_hồi nào 
-11,liên_hệ với vụ_việc của văn_quyết trước đó  chiến_lược gia xứ nghệ trong buổi họp_báo với phóng_viên ngày 14/3 từng chia_sẻ   cá_nhân tôi và ban huấn_luyện không bao_giờ cổ_suý cho cái sai  lối chơi bạo_lực 
-12,song mỗi trường_hợp cũng cần phải xem trên nhiều góc_độ 
-13,qua đây tôi cũng nghĩ rằng các chuyên_gia  ban kỷ_luật cũng cần xem_xét lại điều_khoản xử_phạt nào đấy 
-14,một cầu_thủ thi_đấu cho clb và chịu án kỷ_luật mà bị ảnh_hưởng đến đội_tuyển thì cũng cần cân_nhắc điều_chỉnh sao cho phù_hợp với từng hoàn_cảnh 
-15,có_lẽ cần có một cơ_chế nào đó để cầu_thủ có_thể cống_hiến tốt nhất cho đtqg  
+0,phút 85 trận đấu bù vòng 2 vleague giữa qnk quảng_nam bbình_dương diễn chiều 18/5 trung_vệ đình_luật trong tư_thế nhận bóng giữa sân đường chuyền moses cầu_thủ bên phía qnk quảng_nam ogbuke_felix_onyedike nhoài người xoạc bóng phía
+1,đình_luật nhảy tránh tác_động felix cầu_thủ tình_huống đẹp giẫm bụng đối_phương
+2,chính hành_vi thiếu kiềm_chế đình_luật nhận án phạt phía ban kỷ_luật vff
+3,căn_cứ điều_lệ lđbđ việt_nam quy_chế tổ_chức hoạt_động ban kỷ_luật vff khoản 1 khoản 3 39 quy_định về kỷ_luật vff báo_cáo giám_sát tư_liệu chuyên_môn trận đấu giữa qnk quảng_nam bbình_dương sân tam_kỳ_cùng báo_cáo đề_nghị btc giải ban kỷ_luật vff quyết_định phạt 15 triệu đồng đình_chỉ 3 trận kế_tiếp đình_luật_do hành_vi cố_tình xâm_phạm thân_thể felix
+4,ngoài treo_giò ở vleague hậu_vệ còn đối_diện nguy_cơ vắng_mặt ở đội_tuyển việt_nam bất_chấp hlv nguyễn_hữu_thắng điền tên danh_sách tập_trung dự_kiến
+5,trước_đình_luật hai trường_hợp tương_tự xảy không_thể hội quân đội_tuyển
+6,đầu_tiên hậu_vệ quế_ngọc_hải
+7,phạm lỗi tiền_vệ trần_anh khoa shb_đà_nẵng cầu_thủ slna nhận án treo giò 6 tháng ở vleague phạt_tiền 15 triệu đồng u23 việt_nam thi_đấu ở vck_u23 châu_á 2016
+8,gần nhất trường_hợp tiền_vệ nguyễn_văn_quyết
+9,xô ngã trọng_tài hoàng phạm_công_khanh trong trận đấu giữa hà_nội tt sanna khánh_hòa_bvn cầu_thủ phạt 15 triệu đồng treo_giò 6 tháng lỡ_hẹn đợt tập_trung đầu_tiên đội_tuyển việt_nam thời tân hlv hữu_thắng
+10,về trường_hợp treo_giò ở vleague đình_luật hiện hlv hữu_thắng đưa phản_hồi nào
+11,liên_hệ vụ_việc văn_quyết chiến_lược gia xứ nghệ trong buổi họp_báo phóng_viên ngày 14/3 chia_sẻ cá_nhân tôi ban huấn_luyện bao_giờ cổ_suý sai lối chơi bạo_lực
+12,song trường_hợp xem góc_độ
+13,tôi nghĩ chuyên_gia ban kỷ_luật xem_xét điều_khoản xử_phạt nào đấy
+14,một cầu_thủ thi_đấu clb chịu án kỷ_luật ảnh_hưởng đến đội_tuyển cân_nhắc điều_chỉnh sao phù_hợp hoàn_cảnh
+15,có_lẽ một cơ_chế nào cầu_thủ cống_hiến tốt nhất đtqg

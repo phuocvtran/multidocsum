@@ -1,6 +1,6 @@
 idx, sentence
-0,sau trận đấu cuối_cùng này với bayern_munich  pep_guardiola sẽ rời nước đức để sang anh tìm_kiếm thách_thức mới tại etihad của man xanh 
-1,trong 3 mùa giải gắn_bó với hùm xám  dù lập kỷ_lục kém vui ở đấu_trường champions_league  đều thua ở bán_kết  nhưng hlv người tây ban_nha giúp clb này thống_trị bundesliga với 3 chiếc đĩa bạc  cùng theo đó là 2 chiếc cúp qg_đức 
-2,ngoài_ra ông cũng cùng đội đoạt siêu cúp châu_âu  vô_địch world_cup các clb 
-3,tuy_vậy  vì thiếu danh_hiệu cao_quý nhất là champions_league  nên pep vẫn được xem là không thực_sự thành_công tại đây  cũng bởi một phần những gì ông làm được cùng barca trước đó quá vẻ_vang 
-4,ở trận chung_kết cúp_qg với dortmund tối_qua  do không bên nào ghi được bàn thắng trong 120 phút thi_đấu nên bayern và đội bóng cũ của klopp phải bước vào phân_định thắng thua trên chấm phạt_đền 
+0,trận đấu cuối_cùng bayern_munich pep_guardiola rời nước đức sang anh tìm_kiếm thách_thức mới etihad man xanh
+1,trong 3 mùa giải gắn_bó hùm xám dù lập kỷ_lục kém vui ở đấu_trường champions_league thua ở bán_kết hlv người tây ban_nha giúp clb thống_trị bundesliga 3 đĩa bạc 2 cúp qg_đức
+2,ngoài_ra ông đội đoạt siêu cúp châu_âu vô_địch world_cup clb
+3,tuy_vậy thiếu danh_hiệu cao_quý nhất champions_league pep xem thực_sự thành_công một phần ông làm barca quá vẻ_vang
+4,ở trận chung_kết cúp_qg dortmund tối_qua bên nào ghi bàn thắng trong 120 phút thi_đấu bayern đội bóng cũ klopp bước phân_định thắng thua chấm phạt_đền

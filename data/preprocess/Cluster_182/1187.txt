@@ -1,37 +1,37 @@
 idx, sentence
-0,cầu_thủ alan_pulido  25 tuổi  từng là thành_viên đội_tuyển mexico tham_dự world_cup 2014 
-1,hôm 29/5  những kẻ bắt_cóc đã chặn xe của paulido và lôi cầu_thủ này ra ngoài rồi đưa anh đi 
-2,bạn gái của cầu_thủ là người trình_báo cảnh_sát 
-3,chưởng lý bang tamaulipas  ismael_quintanilla cho biết những kẻ bắt_cóc lần đầu_tiên gọi điện đòi tiền chuộc vào 13 h30 giờ địa_phương ngày 29/5 
-4,theo báo_cáo chính_thức về vụ_việc được tờ guardian của anh đăng_tải  vài giờ sau vụ bắt_cóc  pulido đã quật_ngã kẻ khống_chế mình và gọi điện cho lực_lượng chức_năng tới giải_cứu khỏi nơi giam_giữ 
-5,thông_tin này có phần trái_ngược với tin_tức ban_đầu rằng cảnh_sát đã tìm thấy và giải_cứu cầu_thủ này 
-6,báo_cáo mô_tả thời_điểm pulido ở một_mình với một trong ba kẻ bắt_cóc 
-7,anh đã quật ngã tên này  hất văng khẩu súng kẻ bắt_cóc cầm và đoạt lấy điện_thoại_di_động và gọi cho tổng_đài khẩn_cấp 
-8,pulido ban_đầu đề_nghị tổng_đài khẩn_cấp lần theo cuộc gọi của mình để truy ra địa_điểm bị giam_giữ 
-9,trong cuộc điện_thoại  có_thể nghe thấy tiếng pulido đánh kẻ bắt_cóc  yêu_cầu tên này nói chính_xác tên đường của ngôi nhà mình bị giam 
-10,do ngôi nhà bị khóa trái cửa  pulido không_thể thoát ra ngoài mà chỉ có_thể ngó đầu qua cửa_sổ và mô_tả quang_cảnh quanh ngôi nhà 
-11,cầu_thủ này cho biết mình bị nhốt trong một ngôi nhà hai tầng màu trắng  có hai chiếc ôtô  một màu xám và một màu đỏ đậu phía trước 
-12,trong cuộc gọi tiếp_theo  pulido cho biết đã thấy cảnh_sát đứng bên ngoài ngôi nhà 
-13,cầu_thủ được tổng_đài đề_nghị dùng súng của kẻ bắt_cóc bắn chỉ thiên để lực_lượng chức_năng biết họ đã đến đúng địa_điểm  tuy_nhiên pulido nhận ra rằng khẩu súng đó không có đạn 
-14,sau đó  pulido nghe thấy tiếng súng từ phía cảnh_sát  và đã mô_tả trang_phục mình đang mặc  để không bị nhầm với kẻ bắt_cóc  lúc này đã bị đánh bất_tỉnh 
-15,khi cảnh_sát tiến lại gần ngôi nhà  cầu_thủ người mexico thực_hiện cuộc gọi thứ ba về tổng_đài khẩn_cấp  để xác_nhận rằng những người này đúng là cảnh_sát 
-16,chưởng lý bang tamaulipas  ismael_quintanilla  ban_đầu nói trong một cuộc họp_báo rằng paulido đã gọi điện cầu_cứu vào khoảng quá nửa đêm ngày 29/5  nhân lúc  những kẻ bắt_cóc bất_cẩn  
-17,nhưng sau đó ông quintanilla đính_chính rằng paulido đã tự khống_chế kẻ bắt_cóc 
-18,trong những bức ảnh được báo_chí đăng_tải sau đó  pulido xuất_hiện với bàn_tay phải cuốn băng  do bị_thương trong lúc đập cửa_sổ 
-19,chia_sẻ trên trang twitter hôm 30/5  cầu_thủ cám_ơn các cơ_quan_chức_năng đã tìm ra mình  đồng_thời tri_ân người hâm_mộ khi cầu_nguyện cho mình 
-20, cám_ơn tất_cả mọi người về những lời cầu_nguyện  chúng giúp chúng_tôi rất nhiều trong thời_khắc kinh_khủng này 
-21,đây là trải_nghiệm kinh_khủng mà chúng_ta không muốn nó xảy ra cho bất_kỳ ai  
-22,hoài_nghi paulido là tiền_đạo của đội_tuyển mexico tại world_cup 2014 và đang chơi cho đội bóng olympiakos tại hy_lạp 
-23,tại giải vô_địch bóng_đá nam_mỹ copa_america sắp tới  cầu_thủ này không được triệu_tập do có rắc_rối liên_quan đến hợp_đồng với đội bóng cũ 
-24,ciudad_victoria  thủ_phủ của bang tamaulipas  là thành_phố chứng_kiến nhiều cuộc đấu_đá giữa các nhánh trong băng đảng tội_phạm bạo_lực khét_tiếng los_zetas 
-25,cảnh_sát đã bắt_giữ một nghi phạm trong vụ bắt_cóc pulido và cáo_buộc kẻ này là thành_viên của băng_nhóm trên 
-26,theo số_liệu của cơ_quan thống_kê liên_bang mexico  bang tamaulipas là nơi chứng_kiến nhiều vụ bắt_cóc nhất nước này 
-27,số vụ bắt_cóc tại đây trong giai_đoạn 2010  2015 tăng 360  
-28,dù_vậy  rất nhiều vụ bắt_cóc tại mexico được tin là đã xảy ra mà không được trình_báo  hoặc báo_chí không_thể đăng tin do bị các băng_nhóm tội_phạm đe_dọa 
-29, những mẩu tin ngắn về an_ninh tại victoria và các thành_phố đầy_rẫy tội_phạm khác tại tamaulipas thường_xuyên chìm vào quên_lãng  bởi các nhóm tội_phạm đã bịt miệng báo_chí   jorge_kawas  một nhà phân_tích an_ninh tại thành_phố monterrey  bang nuevo_león của mexico  nhận_xét 
-30,trước thông_tin pulido được giải_cứu  người mexico thở_phào nhẹ_nhõm  bởi trước đó vụ bắt_cóc cầu_thủ này được xem như nhạy_cảm đến mức không một thông_tin nào được đề_cập trong trận đấu tại giải vô_địch bóng_đá mexico  diễn ra ở monterrey hôm 29/5 
-31,tuy_vậy  sự chớp_nhoáng của vụ giải_cứu cũng khiến không ít người hoài_nghi  với nhiều câu hỏi được đăng_tải trên các trang mạng xã_hội 
-32,một_số người tự hỏi bằng cách nào pulido có_thể nhanh_chóng được tìm thấy ở một đất_nước có vô_số nạn_nhân 
-33,các nhà phân_tích an_ninh cũng bày_tỏ sự hoài_nghi 
-34, tôi chưa từng thấy các cơ_quan_chức_năng hành_động mau_lẹ và phối_hợp chặt_chẽ như vậy trong bất_kỳ vấn_đề gì  chưa nói đến một vụ bắt_cóc   chuyên_gia kawas bình_luận 
-35,một nhà phân_tích khác  có tên alejandro_hope  thì viết trên twitter rằng   alan_pulido là nạn_nhân của những kẻ bắt_cóc ngờ_nghệch nhất hành_tinh  hoặc có điều gì đó họ vẫn chưa muốn tiết_lộ  
+0,cầu_thủ alan_pulido 25 tuổi thành_viên đội_tuyển mexico tham_dự world_cup 2014
+1,hôm 29/5 kẻ bắt_cóc chặn xe paulido lôi cầu_thủ ngoài đưa anh đi
+2,bạn gái cầu_thủ người trình_báo cảnh_sát
+3,chưởng lý bang tamaulipas ismael_quintanilla biết kẻ bắt_cóc lần đầu_tiên gọi điện đòi tiền chuộc 13 h30 giờ địa_phương ngày 29/5
+4,báo_cáo chính_thức về vụ_việc tờ guardian anh đăng_tải vài giờ vụ bắt_cóc pulido quật_ngã kẻ khống_chế mình gọi điện lực_lượng chức_năng tới giải_cứu khỏi giam_giữ
+5,thông_tin phần trái_ngược tin_tức ban_đầu cảnh_sát tìm thấy giải_cứu cầu_thủ
+6,báo_cáo mô_tả thời_điểm pulido ở một_mình một trong ba kẻ bắt_cóc
+7,anh quật ngã tên hất văng khẩu súng kẻ bắt_cóc cầm đoạt lấy điện_thoại_di_động gọi tổng_đài khẩn_cấp
+8,pulido ban_đầu đề_nghị tổng_đài khẩn_cấp lần cuộc gọi mình truy địa_điểm giam_giữ
+9,trong cuộc điện_thoại nghe thấy tiếng pulido đánh kẻ bắt_cóc yêu_cầu tên nói chính_xác tên đường ngôi nhà mình giam
+10,ngôi nhà khóa trái cửa pulido không_thể thoát ngoài ngó đầu cửa_sổ mô_tả quang_cảnh quanh ngôi nhà
+11,cầu_thủ biết mình nhốt trong một ngôi nhà hai tầng màu trắng hai ôtô một màu xám một màu đỏ đậu phía
+12,trong cuộc gọi tiếp_theo pulido biết thấy cảnh_sát đứng bên ngoài ngôi nhà
+13,cầu_thủ tổng_đài đề_nghị dùng súng kẻ bắt_cóc bắn thiên lực_lượng chức_năng biết họ đến đúng địa_điểm tuy_nhiên pulido nhận khẩu súng đạn
+14,pulido nghe thấy tiếng súng phía cảnh_sát mô_tả trang_phục mình mặc nhầm kẻ bắt_cóc đánh bất_tỉnh
+15,cảnh_sát tiến gần ngôi nhà cầu_thủ người mexico thực_hiện cuộc gọi thứ ba về tổng_đài khẩn_cấp xác_nhận người đúng cảnh_sát
+16,chưởng lý bang tamaulipas ismael_quintanilla ban_đầu nói trong một cuộc họp_báo paulido gọi điện cầu_cứu khoảng quá nửa đêm ngày 29/5 nhân kẻ bắt_cóc bất_cẩn
+17,ông quintanilla đính_chính paulido tự khống_chế kẻ bắt_cóc
+18,trong bức ảnh báo_chí đăng_tải pulido xuất_hiện bàn_tay cuốn băng bị_thương trong đập cửa_sổ
+19,chia_sẻ trang twitter hôm 30/5 cầu_thủ cám_ơn cơ_quan_chức_năng tìm mình đồng_thời tri_ân người hâm_mộ cầu_nguyện mình
+20,cám_ơn tất_cả mọi người về lời cầu_nguyện chúng giúp chúng_tôi trong thời_khắc kinh_khủng
+21,trải_nghiệm kinh_khủng chúng_ta muốn nó xảy bất_kỳ ai
+22,hoài_nghi paulido tiền_đạo đội_tuyển mexico world_cup 2014 chơi đội bóng olympiakos hy_lạp
+23,giải vô_địch bóng_đá nam_mỹ copa_america sắp tới cầu_thủ triệu_tập rắc_rối liên_quan đến hợp_đồng đội bóng cũ
+24,ciudad_victoria thủ_phủ bang tamaulipas thành_phố chứng_kiến cuộc đấu_đá giữa nhánh trong băng đảng tội_phạm bạo_lực khét_tiếng los_zetas
+25,cảnh_sát bắt_giữ một nghi phạm trong vụ bắt_cóc pulido cáo_buộc kẻ thành_viên băng_nhóm
+26,số_liệu cơ_quan thống_kê liên_bang mexico bang tamaulipas chứng_kiến vụ bắt_cóc nhất nước
+27,số vụ bắt_cóc trong giai_đoạn 2010 2015 tăng 360
+28,dù_vậy vụ bắt_cóc mexico tin xảy trình_báo hoặc báo_chí không_thể đăng tin băng_nhóm tội_phạm đe_dọa
+29,mẩu tin ngắn về an_ninh victoria thành_phố đầy_rẫy tội_phạm khác tamaulipas thường_xuyên chìm quên_lãng nhóm tội_phạm bịt miệng báo_chí jorge_kawas một nhà phân_tích an_ninh thành_phố monterrey bang nuevo_león mexico nhận_xét
+30,thông_tin pulido giải_cứu người mexico thở_phào nhẹ_nhõm vụ bắt_cóc cầu_thủ xem nhạy_cảm đến mức một thông_tin nào đề_cập trong trận đấu giải vô_địch bóng_đá mexico diễn ở monterrey hôm 29/5
+31,tuy_vậy chớp_nhoáng vụ giải_cứu khiến ít người hoài_nghi câu hỏi đăng_tải trang mạng xã_hội
+32,một_số người tự hỏi bằng cách nào pulido nhanh_chóng tìm thấy ở một đất_nước vô_số nạn_nhân
+33,nhà phân_tích an_ninh bày_tỏ hoài_nghi
+34,tôi thấy cơ_quan_chức_năng hành_động mau_lẹ phối_hợp chặt_chẽ trong bất_kỳ vấn_đề nói đến một vụ bắt_cóc chuyên_gia kawas bình_luận
+35,một nhà phân_tích khác tên alejandro_hope viết twitter alan_pulido nạn_nhân kẻ bắt_cóc ngờ_nghệch nhất hành_tinh hoặc họ muốn tiết_lộ

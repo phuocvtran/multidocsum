@@ -1,7 +1,7 @@
 idx, sentence
-0,trong video của quân_đội syria  thành_viên nặng 127 kg của is được nhìn thấy đang nằm đằng sau một chiếc xe_tải với 2 tay bị trói 
-1,theo daily_mail  tên này bắt_đầu có biệt_danh vào tháng 6/2014  sau khi bức ảnh hắn một_mình cầm khẩu súng_máy browning nặng 52 kg dài 15 m  chứa đầy đạn được lan_truyền 
-2,cuối năm_ngoái  trang_web của is đã công_bố hình_ảnh một người đàn_ông to_cao  lực_lưỡng đang chặt đầu hai nghi phạm trước hàng trăm nam_giới và trẻ_em ở anbar  iraq 
-3,hình_ảnh cho thấy  tên này dùng một cây đao lớn để hành_quyết các nạn_nhân 
-4,“ máy_ủi ” trở_nên khét_tiếng sau khi chặt tay  chân một thiếu_niên 14 tuổi và hành_động man_rợ nhất của tên này từng được ghi_nhận là hành_quyết một cậu bé 15 tuổi chỉ vì nghe nhạc pop của phương tây 
-5,cùng_với “ john_thánh_chiến ”  “ máy_ủi ” là 1 trong 2 sát_thủ máu_lạnh nhất và là công_cụ tuyên_truyền hữu_hiệu của is 
+0,trong video quân_đội syria thành_viên nặng 127 kg is nhìn thấy nằm đằng một xe_tải 2 tay trói
+1,daily_mail tên bắt_đầu biệt_danh tháng 6/2014 bức ảnh hắn một_mình cầm khẩu súng_máy browning nặng 52 kg dài 15 m chứa đầy đạn lan_truyền
+2,cuối năm_ngoái trang_web is công_bố hình_ảnh một người đàn_ông to_cao lực_lưỡng chặt đầu hai nghi phạm hàng trăm nam_giới trẻ_em ở anbar iraq
+3,hình_ảnh thấy tên dùng một cây đao lớn hành_quyết nạn_nhân
+4,“ máy_ủi ” trở_nên khét_tiếng chặt tay chân một thiếu_niên 14 tuổi hành_động man_rợ nhất tên ghi_nhận hành_quyết một cậu bé 15 tuổi nghe nhạc pop phương tây
+5,cùng_với “ john_thánh_chiến ” “ máy_ủi ” 1 trong 2 sát_thủ máu_lạnh nhất công_cụ tuyên_truyền hữu_hiệu is

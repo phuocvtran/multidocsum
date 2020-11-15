@@ -1,19 +1,19 @@
 idx, sentence
-0,sáng 31/5  tòa_án nhân_dân tỉnh quảng_trị đã mở phiên_tòa lưu_động và tuyên_phạt bị_cáo trần_đình_thịnh trú tại xã cam_hiếu  huyện cam_lộ  tỉnh quảng_trị  mức án tử_hình về tội “ giết người  ” bị_cáo trần_đình_thịnh cũng phải bồi_thường 290 triệu đồng cho gia_đình bị hại 
-1,theo cáo_trạng  trần_đình_thịnh có vợ là quách_thị_thơm  sinh năm 1985  và 2 con_trai 
-2,do hoàn_cảnh gia_đình khó_khăn nên vào đầu năm 2015  thịnh đã cùng một_số người khác sang trung_quốc làm_ăn 
-3,trong những ngày thịnh đi làm_ăn xa  ở nhà chị thơm đã có quan_hệ bất_chính với anh trần_văn_lai  sinh năm 1976  ở xã gio_việt thường đi bán cá dạo tại xã cam_hiếu 
-4,qua đồn_đại của nhiều người nên ngày 23/7/2015  thịnh đã về quê để làm sáng_tỏ sự_tình 
-5,trước sự tra_khảo của chồng  chị thơm đã thừa_nhận sai_lầm là có quan_hệ với anh lai nên thịnh đã đánh thơm đưa về nhà mẹ đẻ ở nga_sơn  thanh_hóa  
-6,sau đó  chị thơm đã chủ_động xin chồng tha_thứ và được thịnh chấp_nhận 
-7,thịnh đã đưa thơm vào tỉnh bình_dương sinh_sống và cũng là để cách_ly vợ với người_tình 
-8,nhưng trước khi quay trở_lại với chồng  chị thơm phát_hiện mình mang thai với anh lai nên đã cùng với người_thân vào thành_phố hồ_chí_minh phá thai xong rồi mới quay ra quảng_trị đoàn_tụ với thịnh 
-9,ngày 16/8/2015  hai vợ_chồng thịnh cùng với con trai út vào bình_dương  trong những ngày đầu ở nơi ở mới thịnh vẫn luôn tra_hỏi chị thơm về mối quan_hệ với anh lai 
-10,ngày 19/8  sau khi biết được chị thơm đã từng có_thai với anh lai  thịnh đã rất đau_khổ và bỏ đi uống bia 
-11,khi quay về  thấy chị thơm đang cầm điện_thoại và có thái_độ hốt_hoảng khi nhìn thấy mình nên thịnh hỏi gọi cho ai 
-12,thơm bảo gọi cho mẹ để hỏi tình_hình của con 
-13,sau đó thịnh kiểm_tra tin nhắn trong điện_thoại của chị thơm thì phát_hiện nội_dung nhắn đến số máy lạ  “ nếu anh thịnh bỏ em  anh có đi với em không  
-14,đọc xong tin nhắn  thịnh liền lấy con dao mua về để gọt hoa_quả đâm liên_tiếp 8 nhát vào ngực  cổ và tay vợ khiến chị thơm chết tại_chỗ 
-15,giết vợ xong  thịnh nhờ người chở lên thành_phố hồ_chí_minh và mua vé máy_bay để sáng hôm sau bay ra tỉnh thừa_thiênhuế và đón xe ra quảng_trị 
-16,thịnh chuẩn_bị sẵn một con dao_dài 70 cm giấu trong một bao lác  tìm đến nhà anh lai ở thôn tân_xuân  xã gio_việt 
-17,đến khoảng 20 giờ 30 ngày 20/8  thịnh đã chém chết anh lai khi anh này ngủ 
+0,sáng 31/5 tòa_án nhân_dân tỉnh quảng_trị mở phiên_tòa lưu_động tuyên_phạt bị_cáo trần_đình_thịnh trú xã cam_hiếu huyện cam_lộ tỉnh quảng_trị mức án tử_hình về tội “ giết người ” bị_cáo trần_đình_thịnh bồi_thường 290 triệu đồng gia_đình hại
+1,cáo_trạng trần_đình_thịnh vợ quách_thị_thơm sinh năm 1985 2 con_trai
+2,hoàn_cảnh gia_đình khó_khăn đầu năm 2015 thịnh một_số người khác sang trung_quốc làm_ăn
+3,trong ngày thịnh đi làm_ăn xa ở nhà chị thơm quan_hệ bất_chính anh trần_văn_lai sinh năm 1976 ở xã gio_việt thường đi bán cá dạo xã cam_hiếu
+4,đồn_đại người ngày 23/7/2015 thịnh về quê làm sáng_tỏ sự_tình
+5,tra_khảo chồng chị thơm thừa_nhận sai_lầm quan_hệ anh lai thịnh đánh thơm đưa về nhà mẹ đẻ ở nga_sơn thanh_hóa
+6,chị thơm chủ_động xin chồng tha_thứ thịnh chấp_nhận
+7,thịnh đưa thơm tỉnh bình_dương sinh_sống cách_ly vợ người_tình
+8,quay trở_lại chồng chị thơm phát_hiện mình mang thai anh lai người_thân thành_phố hồ_chí_minh phá thai xong mới quay quảng_trị đoàn_tụ thịnh
+9,ngày 16/8/2015 hai vợ_chồng thịnh con trai út bình_dương trong ngày đầu ở ở mới thịnh luôn tra_hỏi chị thơm về mối quan_hệ anh lai
+10,ngày 19/8 biết chị thơm có_thai anh lai thịnh đau_khổ bỏ đi uống bia
+11,quay về thấy chị thơm cầm điện_thoại thái_độ hốt_hoảng nhìn thấy mình thịnh hỏi gọi ai
+12,thơm bảo gọi mẹ hỏi tình_hình con
+13,thịnh kiểm_tra tin nhắn trong điện_thoại chị thơm phát_hiện nội_dung nhắn đến số máy lạ “ anh thịnh bỏ em anh đi em
+14,đọc xong tin nhắn thịnh liền lấy con dao mua về gọt hoa_quả đâm liên_tiếp 8 nhát ngực cổ tay vợ khiến chị thơm chết tại_chỗ
+15,giết vợ xong thịnh nhờ người chở thành_phố hồ_chí_minh mua vé máy_bay sáng hôm bay tỉnh thừa_thiênhuế đón xe quảng_trị
+16,thịnh chuẩn_bị sẵn một con dao_dài 70 cm giấu trong một bao lác tìm đến nhà anh lai ở thôn tân_xuân xã gio_việt
+17,đến khoảng 20 giờ 30 ngày 20/8 thịnh chém chết anh lai anh ngủ

@@ -1,5 +1,5 @@
 idx, sentence
-0,đây là tuyến hop_on  hop_off đầu_tiên của vn 
-1,hop_on  hop_off city tour là sản_phẩm tour du_lịch bằng phương_tiện xe đặc_trưng  có điểm dừng đón và trả khách tại các điểm tham_quan nổi_tiếng trong thành_phố 
-2,dịch_vụ city tour này vốn đã quen_thuộc và phổ_biến tại các thành_phố lớn trên thế_giới như london  new_york  singapore  kuala_lumpur … với chi_phí giá vé một chuyến đi là 199000 đồng có giá_trị trong 24 giờ  hành_khách có_thể lên xe hoặc xuống xe bất_kỳ ở đâu trong lịch_trình của tuyến 120 đã thông_tin trên vé 
-3,các điểm đón của xe đều là những địa_danh gắn liền với thành_phố  xuất_phát từ bãi xe_buýt công_viên 239 đi qua chợ bến_thành  tiếp qua phố đi bộ nguyễn_huệ  ubnd tp  bảo_tàng lịch_sử  thảo_cầm_viên  dinh thống_nhất  nhà_thờ đức_bà  bưu_điện tp 
+0,tuyến hop_on hop_off đầu_tiên vn
+1,hop_on hop_off city tour sản_phẩm tour du_lịch bằng phương_tiện xe đặc_trưng điểm dừng đón trả khách điểm tham_quan nổi_tiếng trong thành_phố
+2,dịch_vụ city tour vốn quen_thuộc phổ_biến thành_phố lớn thế_giới london new_york singapore kuala_lumpur … chi_phí giá vé một chuyến đi 199000 đồng giá_trị trong 24 giờ hành_khách xe hoặc xuống xe bất_kỳ ở đâu trong lịch_trình tuyến 120 thông_tin vé
+3,điểm đón xe địa_danh gắn liền thành_phố xuất_phát bãi xe_buýt công_viên 239 đi chợ bến_thành tiếp phố đi bộ nguyễn_huệ ubnd tp bảo_tàng lịch_sử thảo_cầm_viên dinh thống_nhất nhà_thờ đức_bà bưu_điện tp

@@ -1,12 +1,12 @@
 idx, sentence
-0,sau 17 năm thi_công  công_trình thế_kỷ với chi_phí xây_dựng hơn 12 tỷ francs_thụy_sĩ này được đặt mục_tiêu trở_thành một trong những tuyến đường xuyên núi alpe quan_trọng nhất châu_âu nối_liền bắc và nam_âu 
-1,hầm gothard gồm 2 hầm đơn  mỗi hầm tương_ứng với một tuyến đường_ray 
-2,ước_tính  sau khi được đưa vào vận_hành gothard sẽ đón trung_bình 65 triệu lượt khách mỗi năm 
-3,mỗi ngày sẽ có từ 50 đến 80 tàu chở khách qua hầm 
-4,hàng hóa vận_chuyển qua khu_vực này ước đạt 49 triệu tấn / năm với khoảng 220 đến 260 chuyến tàu hàng mỗi ngày 
-5,thời_gian khai_thác hầm dự_kiến trong khoảng 1 thế_kỷ 
-6,gothard được đánh_giá là dự_án đầu_tư lớn nhất trong lịch_sử thụy_sĩ 
-7,công_trình được tất sớm hơn một năm so với kế_hoạch này là thành_quả từ quá_trình lao_động của gần 2600 kỹ_sư và công_nhân trong điều_kiện khắc_nghiệt  bởi độ_ẩm trong hầm thường ở mức 70  
-8,trong quá_trình thi_công  13 triệu m3 núi đá đã được đào và di_dời  khối_lượng tương_đương với 5 kim_tự_tháp_cheops của ai cập 
-9,sách kỷ_lục guiness đã công_nhận gothard là đường hầm tàu_hỏa dài nhất thế_giới 
-10,công_trình này còn giữ cả kỷ_lục về độ sâu trong lòng núi  với 23 km  sâu hơn nhiều so với đường_hầm seikan của nhật_bản  chỉ ở mức 240 m 
+0,17 năm thi_công công_trình thế_kỷ chi_phí xây_dựng hơn 12 tỷ francs_thụy_sĩ đặt mục_tiêu trở_thành một trong tuyến đường xuyên núi alpe quan_trọng nhất châu_âu nối_liền bắc nam_âu
+1,hầm gothard gồm 2 hầm đơn hầm tương_ứng một tuyến đường_ray
+2,ước_tính đưa vận_hành gothard đón trung_bình 65 triệu lượt khách năm
+3,ngày 50 đến 80 tàu chở khách hầm
+4,hàng hóa vận_chuyển khu_vực ước đạt 49 triệu tấn / năm khoảng 220 đến 260 chuyến tàu hàng ngày
+5,thời_gian khai_thác hầm dự_kiến trong khoảng 1 thế_kỷ
+6,gothard đánh_giá dự_án đầu_tư lớn nhất trong lịch_sử thụy_sĩ
+7,công_trình tất sớm hơn một năm kế_hoạch thành_quả quá_trình lao_động gần 2600 kỹ_sư công_nhân trong điều_kiện khắc_nghiệt độ_ẩm trong hầm thường ở mức 70
+8,trong quá_trình thi_công 13 triệu m3 núi đá đào di_dời khối_lượng tương_đương 5 kim_tự_tháp_cheops ai cập
+9,sách kỷ_lục guiness công_nhận gothard đường hầm tàu_hỏa dài nhất thế_giới
+10,công_trình còn giữ kỷ_lục về độ sâu trong lòng núi 23 km sâu hơn đường_hầm seikan nhật_bản ở mức 240 m

@@ -1,38 +1,38 @@
 idx, sentence
-0,ko_yongsuk  60 tuổi   có nhiều nét giống với người chị_gái ko_yonghui  một trong ba người vợ của cố chủ_tịch kim_jongil  đã xin tị_nạn tại mỹ vào năm 1998 và sử_dụng 280000 usd tiền hỗ_trợ từ cia để mua một ngôi nhà ở new_york 
-1,theo washington_post  bà ko sống với chồng là ông ri_gang cùng với ba người con của mình trong một căn_hộ rộng_rãi  nơi đầy_ắp các bức ảnh về những người_thân ở triều_tiên  trong đó có nhà lãnh_đạo trẻ tuổi kim_jongun 
-2,vì không biết tiếng  nên sau khi chuyển tới mỹ  gia_đình bà ko đã mở một tiệm giặt là và họ đã phải làm_việc cật_lực suốt 12 tiếng một ngày để có được cuộc_sống ổn_định như hiện_tại 
-3,“ bạn_bè tôi nói rằng tôi quá may_mắn  rằng tôi có mọi thứ ”  bà suk tâm_sự trong một cuộc phỏng_vấn với washington_post 
-4,“ các con tôi được học trong những ngôi trường danh_tiếng và chúng đã thành_đạt  tôi có một người chồng tháo_vát 
-5,chúng_tôi chẳng có gì để ghen_tị cả ” 
-6,trong buổi phỏng_vấn không tiết_lộ chi_tiết về địa_điểm cụ_thể  bà ko đã tiết_lộ rằng cháu trai của bà  ông kim_jongun_sinh năm 1984 chứ không phải 1982 hay 1983 như mọi người vẫn nghĩ 
-7,bà ko chắc_chắn về điều này vì nhà lãnh_đạo triều tiên_sinh cùng năm với con trai cả của bà 
-8,“ kim_jongun và con trai tôi đã bầu_bạn với nhau từ khi mới lọt_lòng 
-9,tôi đã thay tã cho cả hai đứa trẻ ”  bà suk nói về nhà lãnh_đạo trẻ tuổi của triều_tiên 
-10,người phụ_nữ có mái_tóc xoăn và phong_cách ăn_mặc kín_đáo này cũng nói rằng bà rất gần_gũi với gia_đình chị_gái và được tín_nhiệm sang bern  thụy_sĩ trông_nom các cháu trai là kim_jongun và kim_jongchol khi họ theo học tại đó 
-11,cũng trong khoảng thời_gian này  bà ko_yonghui cũng phải sang thụy_sĩ và pháp để điều_trị sau khi được chuẩn đoán mắc ung_thư vú vào đầu những năm 1990 
-12,“ chúng_tôi sống trong một căn nhà bình_thường và sinh_hoạt giống như những gia_đình bình_thường khác 
-13,tôi đóng vai_trò như mẹ của bọn trẻ 
-14,tôi khuyến_khích chúng rủ bạn về nhà vì muốn chúng hòa_nhập 
-15,tôi thường làm đồ ăn_vặt cho bọn trẻ 
-16,chúng ăn bánh và chơi legos ”  bà ko nói 
-17,theo bà ko  ông kim_jongun lúc nhỏ khá nóng_tính và thiếu sự kiên_nhẫn  ” khi mẹ cậu ấy phàn_nàn về việc mải chơi và không chịu học  cậu ấy sẽ không cãi lại nhưng thường chống_đối theo những cách khác như nhịn_đói ” 
-18,bà ko cũng cho biết  mặc_dù vậy  cháu trai mình cũng rất nghe lời mẹ 
-19,kim jongun thấp hơn những người bạn cùng trang_lứa và khi mẹ cậu nói rằng chơi bóng_rổ có_thể cải_thiện chiều cao  cậu ấy đã tập_luyện hăng_say 
-20,“ cậu ấy bắt_đầu chơi bóng_rổ và trở_nên nghiện nó  thậm_chí là ôm cả quả bóng đi ngủ ”  bà ko nhớ lại 
-21,bà ko vừa dứt_lời  ông ri đã cho phóng_viên washington_post xem bức ảnh chưa từng tiết_lộ về nhà lãnh_đạo kim_jongun mặc đồng_phục bóng_rổ và cầm một chiếc cúp vàng khi 13 tuổi 
-22,từ nhỏ  kim_jongun đã biết mình sẽ là người thừa_kế quyền_lực của cha  bà ko nói thêm 
-23,“ cậu ấy không_thể lớn lên như một người bình_thường khi mọi người xung_quanh đều đối_xử với cậu ấy như một vị vua ” 
-24,nhờ chăm_nom các quý_tử của cố chủ_tịch kim_jongil nên gia_đình bà ko cũng được hưởng những đặc_quyền nhất_định 
-25,họ thường_xuyên đi_lại giữa thụy_sĩ và triều_tiên bằng hộ_chiếu ngoại_giao và trải_nghiệm cuộc_sống tuyệt_vời ở nước_ngoài 
-26,album ảnh của gia_đình bà vẫn còn lưu lại những hình_ảnh họ đi trượt_tuyết trên dãy núi alps của thụy_sĩ  đi bơi ở vùng riviera thuộc pháp hay ăn_ở nhà_hàng ý 
-27,khi trả_lời phỏng_vấn  cả bà ko và ông ri đều vẫn thể_hiện sự trung_thành đối_với nhà lãnh_đạo triều_tiên vì luôn gọi ông là “ nguyên_soái kim_jongun ” nhưng lại không giải_thích rõ_ràng về việc tại_sao cả gia_đình họ lại từ bỏ cuộc_sống sung_túc ở thụy_sĩ để đào_thoát sang mỹ vào năm 1998 
-28,“ trong lịch_sử  bạn thường thấy những người thân_cận với một nhà lãnh_đạo quyền_lực sẽ vướng phải những rắc_rối ngoài ý_muốn vì người khác  tôi nghĩ tốt hơn hết là chúng_tôi nên tránh xa những rắc_rối đó ”  bà ko nói_bóng_gió 
-29,đối_với cơ_quan tình_báo mỹ  nơi luôn tìm_kiếm thông_tin đáng tin_cậy về hoạt_động triều_tiên  cuộc đào_thoát này dường_như là một món hời 
-30,nhưng ông ri khẳng_định họ không biết nhiều 
-31,“ họ nghĩ rằng chúng_tôi phải biết một_số bí_mật nhưng thực_tế chúng_tôi không biết gì cả ”  ông ri nói 
-32,“ chúng_tôi chỉ chăm_nom bọn trẻ và giúp chúng trong chuyện học_hành 
-33,tất_nhiên chúng_tôi được chứng_kiến cuộc_sống riêng_tư của chúng nhưng chúng_tôi không biết gì về những bí_mật quân_sự hay hạt_nhân ” 
-34,sau một thời_gian dài sống ẩn_dật tại mỹ  vợ_chồng bà ko nói rằng họ muốn đến triều_tiên và xoá_bỏ những định_kiến giả_dối về họ cũng như gia_đình họ ở triều_tiên 
-35,“ mục_tiêu cuối_cùng của tôi là trở_về triều_tiên 
-36,tôi hiểu mỹ và cả triều_tiên nên tôi nghĩ mình có_thể trở_thành một nhà đàm_phán giữa hai bên ”  ông ri nói 
+0,ko_yongsuk 60 tuổi nét giống người chị_gái ko_yonghui một trong ba người vợ cố chủ_tịch kim_jongil xin tị_nạn mỹ năm 1998 sử_dụng 280000 usd tiền hỗ_trợ cia mua một ngôi nhà ở new_york
+1,washington_post bà ko sống chồng ông ri_gang ba người con mình trong một căn_hộ rộng_rãi đầy_ắp bức ảnh về người_thân ở triều_tiên trong nhà lãnh_đạo trẻ tuổi kim_jongun
+2,biết tiếng chuyển tới mỹ gia_đình bà ko mở một tiệm giặt họ làm_việc cật_lực suốt 12 tiếng một ngày cuộc_sống ổn_định hiện_tại
+3,“ bạn_bè tôi nói tôi quá may_mắn tôi mọi thứ ” bà suk tâm_sự trong một cuộc phỏng_vấn washington_post
+4,“ con tôi học trong ngôi trường danh_tiếng chúng thành_đạt tôi một người chồng tháo_vát
+5,chúng_tôi chẳng ghen_tị ”
+6,trong buổi phỏng_vấn tiết_lộ chi_tiết về địa_điểm cụ_thể bà ko tiết_lộ cháu trai bà ông kim_jongun_sinh năm 1984 1982 hay 1983 mọi người nghĩ
+7,bà ko chắc_chắn về nhà lãnh_đạo triều tiên_sinh năm con trai bà
+8,“ kim_jongun con trai tôi bầu_bạn nhau mới lọt_lòng
+9,tôi thay tã hai đứa trẻ ” bà suk nói về nhà lãnh_đạo trẻ tuổi triều_tiên
+10,người phụ_nữ mái_tóc xoăn phong_cách ăn_mặc kín_đáo nói bà gần_gũi gia_đình chị_gái tín_nhiệm sang bern thụy_sĩ trông_nom cháu trai kim_jongun kim_jongchol họ học
+11,trong khoảng thời_gian bà ko_yonghui sang thụy_sĩ pháp điều_trị chuẩn đoán mắc ung_thư vú đầu năm 1990
+12,“ chúng_tôi sống trong một căn nhà bình_thường sinh_hoạt giống gia_đình bình_thường khác
+13,tôi đóng vai_trò mẹ bọn trẻ
+14,tôi khuyến_khích chúng rủ bạn về nhà muốn chúng hòa_nhập
+15,tôi thường làm đồ ăn_vặt bọn trẻ
+16,chúng ăn bánh chơi legos ” bà ko nói
+17,bà ko ông kim_jongun nhỏ khá nóng_tính thiếu kiên_nhẫn ” mẹ cậu ấy phàn_nàn về mải chơi chịu học cậu ấy cãi thường chống_đối cách khác nhịn_đói ”
+18,bà ko biết mặc_dù cháu trai mình nghe lời mẹ
+19,kim jongun thấp hơn người bạn trang_lứa mẹ cậu nói chơi bóng_rổ cải_thiện chiều cao cậu ấy tập_luyện hăng_say
+20,“ cậu ấy bắt_đầu chơi bóng_rổ trở_nên nghiện nó thậm_chí ôm quả bóng đi ngủ ” bà ko nhớ
+21,bà ko dứt_lời ông ri phóng_viên washington_post xem bức ảnh tiết_lộ về nhà lãnh_đạo kim_jongun mặc đồng_phục bóng_rổ cầm một cúp vàng 13 tuổi
+22,nhỏ kim_jongun biết mình người thừa_kế quyền_lực cha bà ko nói thêm
+23,“ cậu ấy không_thể lớn một người bình_thường mọi người xung_quanh đối_xử cậu ấy một vị vua ”
+24,nhờ chăm_nom quý_tử cố chủ_tịch kim_jongil gia_đình bà ko hưởng đặc_quyền nhất_định
+25,họ thường_xuyên đi_lại giữa thụy_sĩ triều_tiên bằng hộ_chiếu ngoại_giao trải_nghiệm cuộc_sống tuyệt_vời ở nước_ngoài
+26,album ảnh gia_đình bà còn lưu hình_ảnh họ đi trượt_tuyết dãy núi alps thụy_sĩ đi bơi ở vùng riviera thuộc pháp hay ăn_ở nhà_hàng ý
+27,trả_lời phỏng_vấn bà ko ông ri thể_hiện trung_thành đối_với nhà lãnh_đạo triều_tiên luôn gọi ông “ nguyên_soái kim_jongun ” giải_thích rõ_ràng về tại_sao gia_đình họ bỏ cuộc_sống sung_túc ở thụy_sĩ đào_thoát sang mỹ năm 1998
+28,“ trong lịch_sử bạn thường thấy người thân_cận một nhà lãnh_đạo quyền_lực vướng rắc_rối ngoài ý_muốn người khác tôi nghĩ tốt hơn hết chúng_tôi tránh xa rắc_rối ” bà ko nói_bóng_gió
+29,đối_với cơ_quan tình_báo mỹ luôn tìm_kiếm thông_tin đáng tin_cậy về hoạt_động triều_tiên cuộc đào_thoát dường_như một món hời
+30,ông ri khẳng_định họ biết
+31,“ họ nghĩ chúng_tôi biết một_số bí_mật thực_tế chúng_tôi biết ” ông ri nói
+32,“ chúng_tôi chăm_nom bọn trẻ giúp chúng trong học_hành
+33,tất_nhiên chúng_tôi chứng_kiến cuộc_sống riêng_tư chúng chúng_tôi biết về bí_mật quân_sự hay hạt_nhân ”
+34,một thời_gian dài sống ẩn_dật mỹ vợ_chồng bà ko nói họ muốn đến triều_tiên xoá_bỏ định_kiến giả_dối về họ gia_đình họ ở triều_tiên
+35,“ mục_tiêu cuối_cùng tôi trở_về triều_tiên
+36,tôi hiểu mỹ triều_tiên tôi nghĩ mình trở_thành một nhà đàm_phán giữa hai bên ” ông ri nói

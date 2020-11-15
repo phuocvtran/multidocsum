@@ -1,29 +1,29 @@
 idx, sentence
-0,đấu_trường tiếu_lâm đã phát_sóng 8 tập với những bình_luận đa_chiều về các phần thi  đặc_biệt là tại vòng song đấu 
-1,bởi tại vòng này  các thí_sinh đã được huấn_luyện_viên  hlv  của mình chăm_chút nhưng chưa có nhiều đột_phá như kỳ_vọng 
-2,bên cạnh những lời_khen  các huấn_luyện_viên và thí_sinh cũng vướng phải chỉ_trích rằng kịch_bản từng tiểu_phẩm còn hời_hợt  chưa được như mong_đợi 
-3,đáp lại những ý_kiến trái chiều  hlv đức_thịnh đã có những chia_sẻ khá thẳng_thắn về đội của mình 
-4,đây là lần hiếm_hoi vị đạo_diễn nức_tiếng là ít nói của showbiz việt lên_tiếng về một vấn_đề liên_quan đến hoạt_động nghệ_thuật 
-5,trên trang cá_nhân  đức thịnh viết  “ đọc lướt qua các comment của khán_giả khi xem chương_trình thì thấy có khá nhiều thắc_mắc liên_quan đến việc kịch_bản các tiểu_phẩm hài là của ai  của thí_sinh hay của huấn_luyện_viên 
-6,thật_ra chương_trình không qui_định điều này 
-7,tất_cả dựa vào sự bàn_bạc tính_toán chung của thí_sinh và huấn_luyện_viên ” 
-8,anh cho rằng thí_sinh là người sẽ lên ý_tưởng và nội_dung mà họ thích nhất  và nếu hlv nếu nhận thấy ý_tưởng và nội_dung thí_sinh đưa ra tốt sẽ cùng thí_sinh phát_triển và tập_luyện 
-9,nếu không tốt  huấn_luyện_viên sẽ bàn_bạc cùng thí_sinh để đưa ra ý_tưởng nội_dung khác 
-10,sau khi thống_nhất  thí_sinh sẽ tập rồi huấn_luyện_viên sẽ chuốt lại cho tốt hơn 
-11,anh thú_thật có những vòng đấu đội đức_thịnh thi_đấu chưa tốt là hoàn_toàn lỗi ở hlv 
-12,“ ngay khi họ diễn được khoảng 2 phút đầu tôi đã nhận ra mình sai 
-13,khi nào đến những tập như vậy  tôi sẽ chia_sẻ trên facebook này để thấy lỗi của tôi là gì 
-14,và cũng có những vòng đấu  kịch_bản rất hay nhưng do thí_sinh diễn không tốt  có_thể vì áp_lực tâm_lý  
-15,rất là tiếc 
-16,chuyện này cũng bình_thường ”  anh cho biết 
-17,đức thịnh cho rằng đứng diễn hài trong một cuộc thi_hài mang tính cá_nhân như đấu_trường tiếu_lâm rất khác với việc thi nhóm 
-18,thí_sinh phải rất bản_lĩnh và đầy năng_lực mới trình_diễn hiệu_quả những gì đã tập_luyện 
-19,mọi người phải hiểu là rất khó 
-20,huấn_luyện_viên chỉ là người dìu_dắt 
-21,khi trình_diễn  một_mình thí_sinh phải đối_diện với tất_cả 
-22,theo ông xã thanh_thúy  cuộc thi là chặng đường dài  có những vòng đấu rất tệ và những vòng đấu thăng_hoa 
-23,“ có lúc tính đúng  có lúc sai 
-24,nhưng tôi tin  những thí_sinh đi tới vòng cuối_cùng luôn là những người giỏi và  lì_lợm  nhất ” 
-25,“ riêng ở đội đức_thịnh  không nói ở đội khác nhé   những phần trình_diễn không tốt của thí_sinh hầu_như đều là do lỗi ở huấn_luyện_viên 
-26,chọn concept sai  không hứng_thú với tiêu_chí vòng đấu  chưa hiểu rõ thí_sinh  bận quá thiếu chăm_chút 
-27,nhiều lúc tôi rất muốn xin_lỗi thí_sinh của mình nhưng sợ mọi người nghĩ mình xạo lại thôi ”  anh tâm_sự 
+0,đấu_trường tiếu_lâm phát_sóng 8 tập bình_luận đa_chiều về phần thi đặc_biệt vòng song đấu
+1,vòng thí_sinh huấn_luyện_viên hlv mình chăm_chút đột_phá kỳ_vọng
+2,bên cạnh lời_khen huấn_luyện_viên thí_sinh vướng chỉ_trích kịch_bản tiểu_phẩm còn hời_hợt mong_đợi
+3,đáp ý_kiến trái chiều hlv đức_thịnh chia_sẻ khá thẳng_thắn về đội mình
+4,lần hiếm_hoi vị đạo_diễn nức_tiếng ít nói showbiz việt lên_tiếng về một vấn_đề liên_quan đến hoạt_động nghệ_thuật
+5,trang cá_nhân đức thịnh viết “ đọc lướt comment khán_giả xem chương_trình thấy khá thắc_mắc liên_quan đến kịch_bản tiểu_phẩm hài ai thí_sinh hay huấn_luyện_viên
+6,thật_ra chương_trình qui_định
+7,tất_cả dựa bàn_bạc tính_toán chung thí_sinh huấn_luyện_viên ”
+8,anh thí_sinh người ý_tưởng nội_dung họ thích nhất hlv nhận thấy ý_tưởng nội_dung thí_sinh đưa tốt thí_sinh phát_triển tập_luyện
+9,tốt huấn_luyện_viên bàn_bạc thí_sinh đưa ý_tưởng nội_dung khác
+10,thống_nhất thí_sinh tập huấn_luyện_viên chuốt tốt hơn
+11,anh thú_thật vòng đấu đội đức_thịnh thi_đấu tốt hoàn_toàn lỗi ở hlv
+12,“ họ diễn khoảng 2 phút đầu tôi nhận mình sai
+13,nào đến tập tôi chia_sẻ facebook thấy lỗi tôi
+14,vòng đấu kịch_bản hay thí_sinh diễn tốt áp_lực tâm_lý
+15,tiếc
+16,bình_thường ” anh biết
+17,đức thịnh đứng diễn hài trong một cuộc thi_hài mang tính cá_nhân đấu_trường tiếu_lâm khác thi nhóm
+18,thí_sinh bản_lĩnh đầy năng_lực mới trình_diễn hiệu_quả tập_luyện
+19,mọi người hiểu khó
+20,huấn_luyện_viên người dìu_dắt
+21,trình_diễn một_mình thí_sinh đối_diện tất_cả
+22,ông xã thanh_thúy cuộc thi chặng đường dài vòng đấu tệ vòng đấu thăng_hoa
+23,“ tính đúng sai
+24,tôi tin thí_sinh đi tới vòng cuối_cùng luôn người giỏi lì_lợm nhất ”
+25,“ riêng ở đội đức_thịnh nói ở đội khác nhé phần trình_diễn tốt thí_sinh hầu_như lỗi ở huấn_luyện_viên
+26,chọn concept sai hứng_thú tiêu_chí vòng đấu hiểu rõ thí_sinh bận quá thiếu chăm_chút
+27,tôi muốn xin_lỗi thí_sinh mình sợ mọi người nghĩ mình xạo thôi ” anh tâm_sự

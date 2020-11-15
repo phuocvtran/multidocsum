@@ -1,18 +1,18 @@
 idx, sentence
-0,liên_hoan_phim  lhp  cannes lần thứ 69 đã khép lại đêm 225  giờ_địa_phương  với giải cành cọ vàng_danh_giá nhất dành cho phim  i  daniel_blake  của đạo_diễn kỳ_cựu người anh ken_loach 
-1,bộ phim kể về cảnh sống chật_vật nhờ trợ_cấp phúc_lợi xã_hội đầy khó_khăn của thợ_mộc daniel_blake  59 tuổi  ở newcastle 
-2,phim về sự khổ_cực của con_người thời “ thắt_lưng buộc bụng ” của anh đã nhận được nhiều cảm_xúc mạnh_mẽ từ khán_giả khi được công_chiếu tại lhp mặc_dù nhiều nhà phê_bình tỏ ra dè_dặt hơn với những lời khen_ngợi 
-3,đây là lần thứ hai đạo_diễn ken loach thắng giải cành cọ vàng  trước đó là phim “ the wind_that_shakes_the_barley ” năm 2006 
-4,nhận giải_thưởng trên sâu khấu  đạo_diễn loach nói  “ bộ phim có_thể đưa chúng_ta đến thế_giới của trí_tưởng_tượng 
-5,nhưng nó cũng mang chúng_ta trở_lại thế_giới mà chúng_ta sống … chúng_ta cần trao đi thông_điệp hy_vọng 
-6,chúng_ta phải nói rằng một thế_giới khác là có_thể  và cần_thiết ” 
-7,hạng_mục quan_trọng thứ hai lhp_cannes_– giải_thưởng lớn  grand_prix  được trao cho đạo_diễn 27 tuổi người canada_xavier_dolan với phim “ juste la_fin_du_monde ”  its only the end of the world  
-8,bộ phim về đề_tài gia_đình chiếu hồi đầu tuần trước không nhận được đánh_giá tích_cực từ giới phê_bình 
-9,tại buổi họp_báo sau lễ trao giải  đạo_diễn “ son_of_saul ” laszlo_nemes nói về bộ phim giành “ giải_thưởng lớn ”  “ bộ phim khiến tôi xúc_động 
-10,chúng_ta đều cảm_nhận được nó là một hành_trình cảm_động 
-11,khi bắt_đầu  bạn có_thể cảm_nhận những lựa_chọn rất riêng của đạo_diễn ” 
-12,trong khi đó  bộ phim “ forushande ”  the_salesman  của đạo_diễn kiêm biên kịch iran_asghar_farhadi nhận nhiều giải_thưởng nhất với chiến_thắng ở hạng_mục “ nam diễn_viên chính xuất_sắc nhất ” dành cho shahab_hosseini và “ kịch_bản xuất_sắc ” 
-13,diễn_viên nổi_tiếng của điện_ảnh phi luật_tân_jaclyn_jose làm rạng_danh nước_nhà với danh_hiệu “ nữ_diễn_viên xuất_sắc nhất ” với vai diễn trong bộ phim marosa  có bối_cảnh tại manila 
-14,một_số nhà phê_bình cho rằng đất diễn dành cho jose trong phim quá ít để xứng_đáng với giải_thưởng này 
-15,tuy_vậy  trả_lời với tư_cách thành_viên bgk  diễn_viên đan_mạch mads_mikkelsen nói  “ cô ấy  jaclyn_jose  là nữ diễn_viên chính tuyệt_vời  kỹ_năng diễn_xuất bậc thầy 
-16,đây không phải một vai phụ ” 
+0,liên_hoan_phim lhp cannes lần thứ 69 khép đêm 225 giờ_địa_phương giải cành cọ vàng_danh_giá nhất dành phim i daniel_blake đạo_diễn kỳ_cựu người anh ken_loach
+1,bộ phim kể về cảnh sống chật_vật nhờ trợ_cấp phúc_lợi xã_hội đầy khó_khăn thợ_mộc daniel_blake 59 tuổi ở newcastle
+2,phim về khổ_cực con_người thời “ thắt_lưng buộc bụng ” anh nhận cảm_xúc mạnh_mẽ khán_giả công_chiếu lhp mặc_dù nhà phê_bình tỏ dè_dặt hơn lời khen_ngợi
+3,lần thứ hai đạo_diễn ken loach thắng giải cành cọ vàng phim “ the wind_that_shakes_the_barley ” năm 2006
+4,nhận giải_thưởng sâu khấu đạo_diễn loach nói “ bộ phim đưa chúng_ta đến thế_giới trí_tưởng_tượng
+5,nó mang chúng_ta trở_lại thế_giới chúng_ta sống … chúng_ta trao đi thông_điệp hy_vọng
+6,chúng_ta nói một thế_giới khác cần_thiết ”
+7,hạng_mục quan_trọng thứ hai lhp_cannes_– giải_thưởng lớn grand_prix trao đạo_diễn 27 tuổi người canada_xavier_dolan phim “ juste la_fin_du_monde ” its only the end of the world
+8,bộ phim về đề_tài gia_đình chiếu hồi đầu tuần nhận đánh_giá tích_cực giới phê_bình
+9,buổi họp_báo lễ trao giải đạo_diễn “ son_of_saul ” laszlo_nemes nói về bộ phim giành “ giải_thưởng lớn ” “ bộ phim khiến tôi xúc_động
+10,chúng_ta cảm_nhận nó một hành_trình cảm_động
+11,bắt_đầu bạn cảm_nhận lựa_chọn riêng đạo_diễn ”
+12,trong bộ phim “ forushande ” the_salesman đạo_diễn kiêm biên kịch iran_asghar_farhadi nhận giải_thưởng nhất chiến_thắng ở hạng_mục “ nam diễn_viên chính xuất_sắc nhất ” dành shahab_hosseini “ kịch_bản xuất_sắc ”
+13,diễn_viên nổi_tiếng điện_ảnh phi luật_tân_jaclyn_jose làm rạng_danh nước_nhà danh_hiệu “ nữ_diễn_viên xuất_sắc nhất ” vai diễn trong bộ phim marosa bối_cảnh manila
+14,một_số nhà phê_bình đất diễn dành jose trong phim quá ít xứng_đáng giải_thưởng
+15,tuy_vậy trả_lời tư_cách thành_viên bgk diễn_viên đan_mạch mads_mikkelsen nói “ cô ấy jaclyn_jose nữ diễn_viên chính tuyệt_vời kỹ_năng diễn_xuất bậc thầy
+16,một vai phụ ”

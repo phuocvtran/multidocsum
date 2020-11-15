@@ -1,16 +1,16 @@
 idx, sentence
-0,trước dư_luận ồn_ào  diva từng thừa_nhận  cô gặp  tai_nạn nghề_nghiệp  trong màn trình_diễn vì hát với tông thấp 
-1,cô tiếc_nuối vì đã không_thể hát tốt hơn 
-2, đã qua rồi thời chiến_tranh bom_đạn nên tôi hát quốc_ca với thông_điệp của thời_bình  với tinh_thần hàn_gắn và chia_sẻ yêu_thương chứ không hừng_hực kháng_chiến như ngày nào   mỹ_linh tâm_sự 
-3,cách đây vài giờ đồng_hồ  trên trang cá_nhân  hồng_nhung đã chia_sẻ status bênh_vực người bạn thân 
-4, cô bống  cho biết  rất nhiều người hỏi ý_kiến cô về việc mỹ_linh hát quốc_ca khi câu_chuyện bị thổi_phồng lên nhờ những cuộc tranh_cãi gay_gắt và mang tính tiêu_cực 
-5,hồng_nhung cho rằng  đại_sứ_quán mỹ đã có sự lựa_chọn tối_ưu khi mời mỹ linh hát quốc_ca việt_nam trong  hoàn_cảnh cụ_thể được dàn_dựng để nghênh_tiếp ngài tổng_thống  
-6, mặc_dù đây không phải là phần biết diễn hay nhất của mỹ_linh vì ca_sĩ đã khiêm_tốn tự gọi_là  tai_nạn nghề_nghiệp  khi cô hát vào tông hơi thấp cho khung giọng vốn rất rộng và hào_sảng của mình 
-7, nhưng đây là so_sánh một_cách khá khắt_khe với chính cô mà thôi  không có nghĩa là dở một_tí nào 
-8,   diva viết 
-9,ngoài_ra   cô bống  cũng bày_tỏ  việc mỹ_linh đứng hát trực_tiếp không có nhạc đệm giữa khung_cảnh trang_nghiêm và cho các nguyên_thủ quốc_gia  các chính_trị_gia hàng_đầu  trước hàng trăm máy quay  máy phát trực_tiếp cả nước  thậm_chí thế_giới   nếu không phải là một ca_sĩ đẳng_cấp như mỹ_linh thì khả_năng  cấm_khẩu   không hát nên lời là hoàn_toàn có_thể xảy ra  
-10,theo hồng_nhung  mỹ_linh đã hát với một trách_nhiệm nghiêm_túc  thể_hiện sự trân_trọng  tình_cảm yêu nước của mình trong từng câu_hát  không sai một từ và không chênh một nốt 
-11,trước sự chỉ_trích từ công_chúng dành cho mỹ_linh   cô bống  cảm_thấy bức_xúc   điều không nên xảy ra tí nào là chuyện phê_bình  chê_bai gay_gắt vượt ra quá xa trong khung văn_hoá ứng_xử cho_phép của một_số đông dành cho mỹ_linh  đã trở_nên không công_bằng  rồi đến mức ác  cố_ý vùi_dập  tôi buồn nhất về điều này  
-12,trong mắt hồng_nhung  mỹ_linh là người không quá để_tâm vào việc dư_luận nói gì vì giọng ca tóc ngắn đã nghiêm_túc làm tròn trọng_trách được giao 
-13,mỹ linh đang rất bận_rộn với các chương_trình biểu_diễn  truyền_hình thực_tế  trường dạy nhạc riêng 
-14,ngoài_ra  mỹ_linh cũng là một người vợ  người mẹ tần_tảo  tự tay lo cho tổ_ấm của mình với 3 người con khoẻ_mạnh  học giỏi cả văn_hoá và âm_nhạc 
+0,dư_luận ồn_ào diva thừa_nhận cô gặp tai_nạn nghề_nghiệp trong màn trình_diễn hát tông thấp
+1,cô tiếc_nuối không_thể hát tốt hơn
+2,thời chiến_tranh bom_đạn tôi hát quốc_ca thông_điệp thời_bình tinh_thần hàn_gắn chia_sẻ yêu_thương hừng_hực kháng_chiến ngày nào mỹ_linh tâm_sự
+3,cách vài giờ đồng_hồ trang cá_nhân hồng_nhung chia_sẻ status bênh_vực người bạn thân
+4,cô bống biết người hỏi ý_kiến cô về mỹ_linh hát quốc_ca câu_chuyện thổi_phồng nhờ cuộc tranh_cãi gay_gắt mang tính tiêu_cực
+5,hồng_nhung đại_sứ_quán mỹ lựa_chọn tối_ưu mời mỹ linh hát quốc_ca việt_nam trong hoàn_cảnh cụ_thể dàn_dựng nghênh_tiếp ngài tổng_thống
+6,mặc_dù phần biết diễn hay nhất mỹ_linh ca_sĩ khiêm_tốn tự gọi_là tai_nạn nghề_nghiệp cô hát tông hơi thấp khung giọng vốn rộng hào_sảng mình
+7,so_sánh khá khắt_khe chính cô thôi nghĩa dở một_tí nào
+8,diva viết
+9,ngoài_ra cô bống bày_tỏ mỹ_linh đứng hát trực_tiếp nhạc đệm giữa khung_cảnh trang_nghiêm nguyên_thủ quốc_gia chính_trị_gia hàng_đầu hàng trăm máy quay máy phát trực_tiếp nước thậm_chí thế_giới một ca_sĩ đẳng_cấp mỹ_linh khả_năng cấm_khẩu hát lời hoàn_toàn xảy
+10,hồng_nhung mỹ_linh hát một trách_nhiệm nghiêm_túc thể_hiện trân_trọng tình_cảm yêu nước mình trong câu_hát sai một chênh một nốt
+11,chỉ_trích công_chúng dành mỹ_linh cô bống cảm_thấy bức_xúc xảy tí nào phê_bình chê_bai gay_gắt vượt quá xa trong khung văn_hoá ứng_xử cho_phép một_số đông dành mỹ_linh trở_nên công_bằng đến mức ác cố_ý vùi_dập tôi buồn nhất về
+12,trong mắt hồng_nhung mỹ_linh người quá để_tâm dư_luận nói giọng ca tóc ngắn nghiêm_túc làm tròn trọng_trách giao
+13,mỹ linh bận_rộn chương_trình biểu_diễn truyền_hình thực_tế trường dạy nhạc riêng
+14,ngoài_ra mỹ_linh một người vợ người mẹ tần_tảo tự tay lo tổ_ấm mình 3 người con khoẻ_mạnh học giỏi văn_hoá âm_nhạc

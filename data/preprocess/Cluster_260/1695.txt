@@ -1,8 +1,8 @@
 idx, sentence
-0,báo_chí anh đồng_loạt loan tin  sau chuyến du_hí dubai ngắn ngày cùng gia_đình  ryan_giggs sẽ chính_thức rời đội chủ sân old_trafford để tìm_kiếm thử_thách mới 
-1,từng đảm_nhiệm vai_trò trợ_lý dưới thời hlv van_gaal  giggs mất chỗ_đứng trong thành_phần ban huấn_luyện khi mourinho lên nắm quyền 
-2,dù vẫn luôn dành trọn trái_tim yêu quỷ đỏ  đội bóng mà anh đã gắn_bó suốt 29 năm qua  nhưng giggs muốn đến một chân_trời mới để chứng_minh năng_lực bản_thân dưới tư_cách hlv trưởng 
-3,blđ quỷ đỏ muốn giữ giggs 
-4,tuy_nhiên  họ không_thể tìm được một vị_trí ưng_ý dành cho cựu tiền_vệ người xứ wales kể từ mùa giải tới 
-5,mourinho chính_thức lên thay van_gaal và ông sẽ mang theo đội_ngũ huấn_luyện của riêng mình  bao_gồm trợ_lý thân_tín rui_faria 
-6,chính vì_thế  giggs được đề_nghị xuống làm hlv đội trẻ mu  theo_dõi sự tiến_bộ của các tài_năng trong học_viện  công_việc tương_tự đồng_đội một thời nicky_butt 
+0,báo_chí anh đồng_loạt loan tin chuyến du_hí dubai ngắn ngày gia_đình ryan_giggs chính_thức rời đội chủ sân old_trafford tìm_kiếm thử_thách mới
+1,đảm_nhiệm vai_trò trợ_lý thời hlv van_gaal giggs mất chỗ_đứng trong thành_phần ban huấn_luyện mourinho nắm quyền
+2,dù luôn dành trọn trái_tim yêu quỷ đỏ đội bóng anh gắn_bó suốt 29 năm giggs muốn đến một chân_trời mới chứng_minh năng_lực bản_thân tư_cách hlv trưởng
+3,blđ quỷ đỏ muốn giữ giggs
+4,tuy_nhiên họ không_thể tìm một vị_trí ưng_ý dành cựu tiền_vệ người xứ wales kể mùa giải tới
+5,mourinho chính_thức thay van_gaal ông mang đội_ngũ huấn_luyện riêng mình bao_gồm trợ_lý thân_tín rui_faria
+6,chính vì_thế giggs đề_nghị xuống làm hlv đội trẻ mu theo_dõi tiến_bộ tài_năng trong học_viện công_việc tương_tự đồng_đội một thời nicky_butt

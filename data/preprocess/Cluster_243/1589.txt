@@ -1,4 +1,4 @@
 idx, sentence
-0,2 ngày qua  cộng_đồng mạng lan_truyền_thông_tin về vụ va_chạm giao_thông ngay trước cổng bộ y_tế  giảng_võ  ba_đình  hà_nội  
-1,tài_khoản facebook bnt cho biết  vào chiều 31/5  có 3 người tự_xưng là nhân_viên bộ y_tế nồng_nặc mùi rượu gây tai_nạn  đâm vào xe anh sau đó  bỏ chạy vào bộ  bỏ lại xe 
-2,2 ngày qua  cộng_đồng mạng lan_truyền_thông_tin về vụ va_chạm giao_thông ngay trước cổng bộ y_tế  giảng_võ  ba_đình  hà_nội  
+0,2 ngày cộng_đồng mạng lan_truyền_thông_tin về vụ va_chạm giao_thông cổng bộ y_tế giảng_võ ba_đình hà_nội
+1,tài_khoản facebook bnt biết chiều 31/5 3 người tự_xưng nhân_viên bộ y_tế nồng_nặc mùi rượu gây tai_nạn đâm xe anh bỏ chạy bộ bỏ xe
+2,2 ngày cộng_đồng mạng lan_truyền_thông_tin về vụ va_chạm giao_thông cổng bộ y_tế giảng_võ ba_đình hà_nội

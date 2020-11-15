@@ -1,13 +1,13 @@
 idx, sentence
-0,công_ty cổ_phần sông_đà 11 cho biết với trách_nhiệm của đơn_vị thi_công  công_ty đã lập đoàn kiểm_tra với sự tham_dự của các cơ_quan tư_vấn kiểm_soát chất_lượng độc_lập  đoàn đã có_mặt tại công_trình để kiểm_tra chất_lượng vị_trí có phản_ánh sai_phạm trong quá_trình thi_công 
-1,kết_quả kiểm_tra hiện_trường cho thấy ví trị cột_số 01  02 mà báo_chí phản_ánh đang nằm trong giai_đoạn tạm dừng thi_công  chờ phối_hợp giải_quyết với công_ty trách_nhiệm hữu_hạn kỹ_thuật quản_lý bay thuộc tổng_công_ty quản_lý bay việt_nam  do tuyến đường_dây đi qua đài dẫn đường dvor / dme và ndb_nam_hà  yêu_cầu cần phải dịch_chuyển để bảo_đảm an_toàn dẫn đường 
-2,cho_đến nay  ban quản_lý dự_án các công_trình điện miền bắc  npmb  chưa có văn_bản cho_phép đơn_vị thi_công tiếp_tục thi_công phần móng vị_trí số 01 và 02 đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh bìnhnam_định  do đang trong quá_trình thực_hiện các thủ_tục để điều_chỉnh đoạn tuyến nêu trên 
-3,tuy_nhiên  do thời_gian chờ_đợi và tập_kết nguyên_vật_liệu đã lâu  kết_cấu thép đã được lắp_đặt  đồng_thời do lo_ngại móng đào sẽ bị sụt_lở do mưa_bão có_thể lấp hết cốt_thép móng nên đội xây_lắp số 12 do ông nguyễn_văn_toán làm đội_trưởng đã tự_ý thi_công vị_trí số 01 và 02 mà không được sự đồng_ý của chủ đầu_tư và không có giám_sát của ban chỉ_huy công_trình là lỗi hoàn_toàn của đội xây_lắp 
-4,qua đánh_giá ban_đầu của trung_tâm thí_nghiệm  công_ty tư_vấn xây_dựng sông_đà  các mẫu bêtông khoan lấy tại hiện_trường nhiều mẫu không đạt yêu_cầu  nhiều mẫu chỉ đạt cường_độ chịu lực là 1213 newton / mm2 
-5,trong khi đó  theo yêu_cầu  các mẫu bêtông được khoan lấy tại hiện_trường đã qua 28 ngày tuổi phải đạt cường_độ chịu lực lớn hơn 14 newton / mm2 
-6,điều này chứng_tỏ những gì mà người dân phản_ánh là có cơ_sở 
-7,theo phân_cấp quản_lý nội_bộ của công_ty  từng giám_đốc đơn_vị trực_thuộc  ban chỉ_huy công_trình  cán_bộ giám_sát kỹ_thuật và đội thi_công công_trình đều đã được phân_công nhiệm_vụ cụ_thể và phải chịu trách_nhiệm về những sai_phạm của đơn_vị mình trực_tiếp quản_lý 
-8,căn_cứ kết_quả thí_nghiệm  ban lãnh_đạo công_ty đã họp hội_đồng kỷ_luật quyết_định kỷ_luật chỉ_huy_trưởng công_trường  đội_trưởng và hai cán_bộ kỹ_thuật 
-9,đồng_thời giám_đốc  phó giám chi_nhánh sông_đà 117 cũng phải nhận hình_thức cảnh_cáo 
-10,kỷ_luật nghiêm_khắc toàn đội thi_công  đặc_biệt là ông nguyễn_văn_đương  chỉ_huy_trưởng công_trình vì đã không có_mặt vào thời_điểm xảy ra sự_việc 
-11,với quan_điểm thẳng_thắn và sẽ khắc_phục kịp_thời những sai_phạm  công_ty kiên_quyết xử_lý nghiêm_minh những người trực_tiếp liên_quan tới sai_phạm này và yêu_cầu bồi_hoàn_toàn_bộ chi_phí  thiệt_hại do họ gây ra 
+0,công_ty cổ_phần sông_đà 11 biết trách_nhiệm đơn_vị thi_công công_ty lập đoàn kiểm_tra tham_dự cơ_quan tư_vấn kiểm_soát chất_lượng độc_lập đoàn có_mặt công_trình kiểm_tra chất_lượng vị_trí phản_ánh sai_phạm trong quá_trình thi_công
+1,kết_quả kiểm_tra hiện_trường thấy ví trị cột_số 01 02 báo_chí phản_ánh nằm trong giai_đoạn tạm dừng thi_công chờ phối_hợp giải_quyết công_ty trách_nhiệm hữu_hạn kỹ_thuật quản_lý bay thuộc tổng_công_ty quản_lý bay việt_nam tuyến đường_dây đi đài dẫn đường dvor / dme ndb_nam_hà yêu_cầu dịch_chuyển bảo_đảm an_toàn dẫn đường
+2,cho_đến nay ban quản_lý dự_án công_trình điện miền bắc npmb văn_bản cho_phép đơn_vị thi_công tiếp_tục thi_công phần móng vị_trí số 01 02 đường_dây 220 kv trực_ninh cắt đường_dây 220 kv ninh bìnhnam_định trong quá_trình thực_hiện thủ_tục điều_chỉnh đoạn tuyến nêu
+3,tuy_nhiên thời_gian chờ_đợi tập_kết nguyên_vật_liệu lâu kết_cấu thép lắp_đặt đồng_thời lo_ngại móng đào sụt_lở mưa_bão lấp hết cốt_thép móng đội xây_lắp số 12 ông nguyễn_văn_toán làm đội_trưởng tự_ý thi_công vị_trí số 01 02 đồng_ý chủ đầu_tư giám_sát ban chỉ_huy công_trình lỗi hoàn_toàn đội xây_lắp
+4,đánh_giá ban_đầu trung_tâm thí_nghiệm công_ty tư_vấn xây_dựng sông_đà mẫu bêtông khoan lấy hiện_trường mẫu đạt yêu_cầu mẫu đạt cường_độ chịu lực 1213 newton / mm2
+5,trong yêu_cầu mẫu bêtông khoan lấy hiện_trường 28 ngày tuổi đạt cường_độ chịu lực lớn hơn 14 newton / mm2
+6,chứng_tỏ người dân phản_ánh cơ_sở
+7,phân_cấp quản_lý nội_bộ công_ty giám_đốc đơn_vị trực_thuộc ban chỉ_huy công_trình cán_bộ giám_sát kỹ_thuật đội thi_công công_trình phân_công nhiệm_vụ cụ_thể chịu trách_nhiệm về sai_phạm đơn_vị mình trực_tiếp quản_lý
+8,căn_cứ kết_quả thí_nghiệm ban lãnh_đạo công_ty họp hội_đồng kỷ_luật quyết_định kỷ_luật chỉ_huy_trưởng công_trường đội_trưởng hai cán_bộ kỹ_thuật
+9,đồng_thời giám_đốc phó giám chi_nhánh sông_đà 117 nhận hình_thức cảnh_cáo
+10,kỷ_luật nghiêm_khắc toàn đội thi_công đặc_biệt ông nguyễn_văn_đương chỉ_huy_trưởng công_trình có_mặt thời_điểm xảy sự_việc
+11,quan_điểm thẳng_thắn khắc_phục kịp_thời sai_phạm công_ty kiên_quyết xử_lý nghiêm_minh người trực_tiếp liên_quan tới sai_phạm yêu_cầu bồi_hoàn_toàn_bộ chi_phí thiệt_hại họ gây

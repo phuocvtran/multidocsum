@@ -1,6 +1,6 @@
 idx, sentence
-0,theo nguồn tin từ lãnh_đạo công_an tp hòa_bình  vào thời_điểm trên nhiều người dân đi qua khu_vực cầu_cứng  phường phương_lâm  tp hòa_bình  phát_hiện một nam thanh_niên áo trắng nằm bất_động  khi người dân tới gần kiểm_tra thì bàng_hoàng phát_hiện người này đã tử_vong trước đó 
-1,thấy vậy  người dân đã lập_tức báo cho cơ_quan_chức_năng đến hiện_trường 
-2,ngay sau khi nhận được tin báo  cơ_quan công_an thành_phố hòa_bình đã có_mặt  phong_tỏa hiện_trường  tiến_hành công_tác khám_nghiệm tử_thi  điều_tra nguyên_nhân vụ_việc 
-3,trao_đổi với phóng_viên ông trương_quang_hải  chánh_văn_phòng công_an tỉnh hòa_bình xác_nhận vụ_việc trên và cho biết  thông_tin ban_đầu nghi nạn_nhân chết bởi sốc ma_túy 
-4,tại hiện_trường nạn_nhân không mang theo giấy_tờ tùy_thân  nên tạm_thời danh_tính nạn_nhân chưa được xác_định 
+0,nguồn tin lãnh_đạo công_an tp hòa_bình thời_điểm người dân đi khu_vực cầu_cứng phường phương_lâm tp hòa_bình phát_hiện một nam thanh_niên áo trắng nằm bất_động người dân tới gần kiểm_tra bàng_hoàng phát_hiện người tử_vong
+1,thấy người dân lập_tức báo cơ_quan_chức_năng đến hiện_trường
+2,nhận tin báo cơ_quan công_an thành_phố hòa_bình có_mặt phong_tỏa hiện_trường tiến_hành công_tác khám_nghiệm tử_thi điều_tra nguyên_nhân vụ_việc
+3,trao_đổi phóng_viên ông trương_quang_hải chánh_văn_phòng công_an tỉnh hòa_bình xác_nhận vụ_việc biết thông_tin ban_đầu nghi nạn_nhân chết sốc ma_túy
+4,hiện_trường nạn_nhân mang giấy_tờ tùy_thân tạm_thời danh_tính nạn_nhân xác_định

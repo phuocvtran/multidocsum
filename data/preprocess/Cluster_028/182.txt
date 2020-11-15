@@ -1,9 +1,9 @@
 idx, sentence
-0, hiện_tại  chúng_tôi không mong_đợi sẽ đóng cửa văn_phòng trung_tâm 
-1,chúng_tôi chưa rời khỏi đất_nước này   đại_diện công_ty nói trong một tuyên_bố vào hôm 19/5 
-2,theo coca_cola  90  sản_phẩm của họ cần đến đường 
-3,công_ty buộc phải ngừng sản_xuất do thiếu nguyên_liệu 
-4,gã khổng_lồ trong lĩnh_vực nước_giải_khát không phải ông lớn duy_nhất rơi vào tình_trạng này 
-5,trước đó  hồi tháng 4  polar  một công_ty thực_phẩm và đồ_uống lớn nhất của venezuela  cũng phải thông_báo ngừng sản_xuất bia với lý_do thiếu lúa_mạch 
-6,tổng_thống nicolas_maduro tuyên_bố tình_trạng khẩn_cấp về kinh_tế tại venezuela vào hồi tháng 1 
-7,thông_báo đưa ra 2 ngày sau khi giá dầu của nước này xuống tới 24 usd một thùng  mức thấp nhất trong 12 năm 
+0,hiện_tại chúng_tôi mong_đợi đóng cửa văn_phòng trung_tâm
+1,chúng_tôi rời khỏi đất_nước đại_diện công_ty nói trong một tuyên_bố hôm 19/5
+2,coca_cola 90 sản_phẩm họ đến đường
+3,công_ty buộc ngừng sản_xuất thiếu nguyên_liệu
+4,gã khổng_lồ trong lĩnh_vực nước_giải_khát ông lớn duy_nhất rơi tình_trạng
+5,hồi tháng 4 polar một công_ty thực_phẩm đồ_uống lớn nhất venezuela thông_báo ngừng sản_xuất bia lý_do thiếu lúa_mạch
+6,tổng_thống nicolas_maduro tuyên_bố tình_trạng khẩn_cấp về kinh_tế venezuela hồi tháng 1
+7,thông_báo đưa 2 ngày giá dầu nước xuống tới 24 usd một thùng mức thấp nhất trong 12 năm

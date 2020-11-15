@@ -1,2 +1,2 @@
 idx, sentence
-0,trước đó  khoảng 20 h30  tối 285  tại nhà vợ_chồng ông sầm_văn_dần  61 tuổi  và bà vi_thị_loan  63 tuổi  gọi_là lan  ở bản cỏ_nong đã xảy ra vụ án_mạng khiến bà lan bị đâm_chết tại_chỗ còn ông dần nhập_viện trong tình_trạng nguy_kịch  công_an quế_phong đã có_mặt tại hiện_trường  xác_định được nghi can là vi_văn_thắng  23 tuổi   trú cùng bản với nạn_nhân 
+0,khoảng 20 h30 tối 285 nhà vợ_chồng ông sầm_văn_dần 61 tuổi bà vi_thị_loan 63 tuổi gọi_là lan ở bản cỏ_nong xảy vụ án_mạng khiến bà lan đâm_chết tại_chỗ còn ông dần nhập_viện trong tình_trạng nguy_kịch công_an quế_phong có_mặt hiện_trường xác_định nghi can vi_văn_thắng 23 tuổi trú bản nạn_nhân

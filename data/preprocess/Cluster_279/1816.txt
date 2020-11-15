@@ -1,9 +1,9 @@
 idx, sentence
-0,saudi_arabia là thị_trường đang tăng_trưởng rất nhanh của uber 
-1,80  người dùng uber tại đây là phụ_nữ  do họ bị cấm lái_xe ở vương_quốc này 
-2,số vốn mới đã giúp nâng giá_trị uber lên 625 tỷ usd 
-3,đồng_thời  một giám_đốc của pif  yasir alrumayyan cũng sẽ được bổ_sung vào hội_đồng_quản_trị uber 
-4,pif được saudi_arabia thành_lập để phát_triển vương_quốc này  bằng cách đi đầu_tư các khoản tiền thu được từ dầu_mỏ 
-5,uber cũng sẽ đổ 250 triệu usd vào trung_đông  thị_trường hãng đang mở_rộng rất nhanh 
-6,các ứng_dụng đi chung xe đang phát_triển mạnh trên thế_giới  bất_chấp_lệnh_cấm của nhiều thành_phố do lo_ngại an_ninh và trình_độ của lái_xe 
-7,vì_thế  họ cũng thu_hút lượng vốn rất lớn từ nhà_đầu_tư 
+0,saudi_arabia thị_trường tăng_trưởng nhanh uber
+1,80 người dùng uber phụ_nữ họ cấm lái_xe ở vương_quốc
+2,số vốn mới giúp nâng giá_trị uber 625 tỷ usd
+3,đồng_thời một giám_đốc pif yasir alrumayyan bổ_sung hội_đồng_quản_trị uber
+4,pif saudi_arabia thành_lập phát_triển vương_quốc bằng cách đi đầu_tư khoản tiền thu dầu_mỏ
+5,uber đổ 250 triệu usd trung_đông thị_trường hãng mở_rộng nhanh
+6,ứng_dụng đi chung xe phát_triển mạnh thế_giới bất_chấp_lệnh_cấm thành_phố lo_ngại an_ninh trình_độ lái_xe
+7,vì_thế họ thu_hút lượng vốn lớn nhà_đầu_tư

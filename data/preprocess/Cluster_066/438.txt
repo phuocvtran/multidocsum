@@ -1,22 +1,22 @@
 idx, sentence
-0,đội_bóng của hlv louis_van_gaal đã nhập_cuộc rất tốt  chơi tấn_công mạnh_mẽ và tạo được một sức_ép đáng_kể lên phần sân của cpalace
-1,suốt hiệp 1  chỉ vài lần quỷ đỏ để đối_thủ có cơ_hội tấn_công và dứt_điểm 
-2,thời_gian còn lại  họ hoàn_toàn làm_chủ  kiểm_soát thế_trận bằng khả_năng cầm bóng và phối_hợp ăn_ý ở giữa sân và bên nửa phần sân của cpalace
-3,sự vượt_trội của man_united là rất dễ hiểu bởi_lẽ đội_hình mà hlv van_gaal sử_dụng đã thi_đấu cùng nhau rất nhiều  hiểu và có được sự ăn_ý cần_thiết 
-4,sự trở_lại của rooney và fellaini ở khu_vực giữa sân đã khiến lối chơi của quỷ đỏ ăn_ý hơn rất nhiều 
-5,tuy_nhiên những đường chuyền cuối_cùng của họ vào vòng cấm của cpalace lại không có đủ độ sắc cần_thiết khi đối_thủ chơi rất chặt_chẽ  kín kẽ và cản_phá rất hiệu_quả 
-6,suốt 45 phút đầu_tiên  man_united_dù cầm nhiều bóng hơn nhưng cũng chỉ có được một_vài pha tấn_công sắc_sảo và dứt_điểm nguy_hiểm nhưng không thắng được hàng thủ và sự xuất_sắc của thủ_môn hennessey của cpalace
-7,sang hiệp 2  cpalace đã bất_ngờ chơi hay và hiệu_quả hơn hẳn 
-8,chiến_thuật phòng_ngự chặt và phản_công nhanh mà hlv alan_pardew đã đưa ra là rất hợp_lý giúp đội bóng của ông có được khá nhiều cơ_hội tốt 
-9,tuy_nhiên cũng giống như man_united  cpalace thiếu những tiền_đạo thực_sự sắc_sảo và các đường chuyền tốt để có_thể xuyên thủng mành lưới của thủ_môn de_gea 
-10,phải đợi đến khi puncheon được tung vào sân  các đường lên bóng của cpalace mới thực_sự sắc_sảo và có sức_nặng 
-11,cũng chính tiền_đạo này là người tạo nên bất_ngờ khi có pha đón lóng rất tốt và dứt_điểm cận thành mở tỷ_số trận đấu ở phút 78 
-12,tuy_nhiên niềm vui của cpalace không kéo_dài được quá lâu  phút 81  từ nỗ_lực đi bóng và tạt đẹp của rooney  fellaini khống bóng bằng ngực tốt tạo điều_kiện cho mata có pha dứt_điểm cận thành đánh_bại thủ_môn hennessey san_bằng cách biêt 
-13,hòa 11 sau 90 phút  hai đội buộc phải đưa nhau vào hiệp phụ để tìm_kiếm bàn thắng 
-14,khó_khăn đến với man_united khi trung_vệ smalling trong một nỗ_lực ngăn_chặn pha qua người của bolasie đã phải nhận thẻ_vàng thứ 2 và phải rời sân khiến đội nhà chỉ còn chơi với 10 người 
-15,ngay đầu hiệp phụ thứ 2  tiền_đạo mới vào sân gayle chút_nữa đã ghi_bàn cho cpalace sau pha thoát xuống đối_mặt thủ_môn de_gea nhưng lại không_thể có pha dứt_điểm thành_công 
-16,ngay sau đó  quỷ đỏ đáp trả bằng một đợt tấn_công rất nhanh bên cánh trái  lingard có pha chuyền bổng rất tốt để carrick băng vào đánh_đầu nhưng bóng đi cắt ngang mặt khung_thành của cpalace
-17,tuy_nhiên chưa đầy 1 phút sau đó  bàn thắng đã đến với đội bóng của van_gaal 
-18,lại là lingard có_mặt đúng chỗ đón đường bóng bật ra bằng một cú sút cực nhanh khiến thủ_môn hennessey phải bất_lực 
-19,21 cũng là tỷ_số cuối_cùng của trận đấu này  chức vô_địch fa_cup đã thuộc về man_united một_cách hoàn_toàn xứng_đáng 
-20,ghi_bàn  man_united  mata  81    lingard  110   cpalace  puncheon  78   đội_hình thi_đấu man_united  de_gea  valencia  smalling  blind  rojo  darmian 66    carrick  mata  fellaini  rooney  martial  rashford  young 72  
+0,đội_bóng hlv louis_van_gaal nhập_cuộc tốt chơi tấn_công mạnh_mẽ tạo một sức_ép đáng_kể phần sân cpalace
+1,suốt hiệp 1 vài lần quỷ đỏ đối_thủ cơ_hội tấn_công dứt_điểm
+2,thời_gian còn họ hoàn_toàn làm_chủ kiểm_soát thế_trận bằng khả_năng cầm bóng phối_hợp ăn_ý ở giữa sân bên nửa phần sân cpalace
+3,vượt_trội man_united dễ hiểu bởi_lẽ đội_hình hlv van_gaal sử_dụng thi_đấu nhau hiểu ăn_ý cần_thiết
+4,trở_lại rooney fellaini ở khu_vực giữa sân khiến lối chơi quỷ đỏ ăn_ý hơn
+5,tuy_nhiên đường chuyền cuối_cùng họ vòng cấm cpalace đủ độ sắc cần_thiết đối_thủ chơi chặt_chẽ kín kẽ cản_phá hiệu_quả
+6,suốt 45 phút đầu_tiên man_united_dù cầm bóng hơn một_vài pha tấn_công sắc_sảo dứt_điểm nguy_hiểm thắng hàng thủ xuất_sắc thủ_môn hennessey cpalace
+7,sang hiệp 2 cpalace bất_ngờ chơi hay hiệu_quả hơn hẳn
+8,chiến_thuật phòng_ngự chặt phản_công nhanh hlv alan_pardew đưa hợp_lý giúp đội bóng ông khá cơ_hội tốt
+9,tuy_nhiên giống man_united cpalace thiếu tiền_đạo thực_sự sắc_sảo đường chuyền tốt xuyên thủng mành lưới thủ_môn de_gea
+10,đợi đến puncheon tung sân đường bóng cpalace mới thực_sự sắc_sảo sức_nặng
+11,chính tiền_đạo người tạo bất_ngờ pha đón lóng tốt dứt_điểm cận thành mở tỷ_số trận đấu ở phút 78
+12,tuy_nhiên niềm vui cpalace kéo_dài quá lâu phút 81 nỗ_lực đi bóng tạt đẹp rooney fellaini khống bóng bằng ngực tốt tạo điều_kiện mata pha dứt_điểm cận thành đánh_bại thủ_môn hennessey san_bằng cách biêt
+13,hòa 11 90 phút hai đội buộc đưa nhau hiệp phụ tìm_kiếm bàn thắng
+14,khó_khăn đến man_united trung_vệ smalling trong một nỗ_lực ngăn_chặn pha người bolasie nhận thẻ_vàng thứ 2 rời sân khiến đội nhà còn chơi 10 người
+15,đầu hiệp phụ thứ 2 tiền_đạo mới sân gayle chút_nữa ghi_bàn cpalace pha thoát xuống đối_mặt thủ_môn de_gea không_thể pha dứt_điểm thành_công
+16,quỷ đỏ đáp trả bằng một đợt tấn_công nhanh bên cánh trái lingard pha chuyền bổng tốt carrick băng đánh_đầu bóng đi cắt ngang mặt khung_thành cpalace
+17,tuy_nhiên đầy 1 phút bàn thắng đến đội bóng van_gaal
+18,lingard có_mặt đúng chỗ đón đường bóng bật bằng một cú sút cực nhanh khiến thủ_môn hennessey bất_lực
+19,21 tỷ_số cuối_cùng trận đấu chức vô_địch fa_cup thuộc về man_united hoàn_toàn xứng_đáng
+20,ghi_bàn man_united mata 81 lingard 110 cpalace puncheon 78 đội_hình thi_đấu man_united de_gea valencia smalling blind rojo darmian 66 carrick mata fellaini rooney martial rashford young 72

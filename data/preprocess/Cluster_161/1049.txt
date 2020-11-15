@@ -1,15 +1,15 @@
 idx, sentence
-0,đội đã báo_cáo chi_cục và thanh_tra  hiện chưa_thể trả_lời có xin_lỗi công_ty vietfoods hay không 
-1,theo vị đại_diện này  có 3 vấn_đề mà đội 14 thấy không sai khi thu_giữ xúc_xích vietfoods 
-2,“ đến thời_điểm này  chưa có văn_bản quy_phạm_pháp_luật nào cho_phép sử_dụng chất sodium nitrate trong thịt chế_biến  ủy_ban tiêu_chuẩn thực_phẩm quốc_tế  codex cũng chưa cho 
-3,họ nói chúng_tôi phát_ngôn sai khi nói chất này gây ung_thư 
-4,nhưng chúng_tôi chỉ cung_cấp thông_tin sodium nitrate khi đưa vào thực_phẩm qua chế_biến_nhiệt có_thể sinh ra chất khác 
-5,chất đó gây ung_thư 
-6,điều đó không sai 
-7,chúng_tôi cũng đã trả hàng cho doanh_nghiệp ngay ngày 235 khi cục an_toàn thực_phẩm có văn_bản thông_báo kết_luận của hội_đồng chuyên_môn rằng áp_dụng thông_lệ quốc_tế  cho_phép sử_dụng sodium nitrate trong xúc_xích ”  vị đại_diện này cho hay 
-8,trong khi đó  cục_trưởng cục an_toàn thực_phẩm  bộ y_tế  nguyễn_thanh_phong cho rằng cục này đã trả_lời công_tâm  theo quy_định pháp_luật trong vụ_việc của vietfoods 
-9, khi chi_cục quản_lý thị_trường_hà_nội có câu hỏi  sodium nitrate có ngoài danh_mục và sản_phẩm có an_toàn 
-10,  chúng_tôi đã trả_lời sớm bằng văn_bản theo đúng quy_định của pháp_luật  theo thông_lệ quốc_tế là nhiều nước đã sử_dụng sodium nitrate trong sản_phẩm thịt và hàm_lượng như của vietfoods là hoàn_toàn an_toàn   ông phong cho biết 
-11,trước đó  phó cục_trưởng cục an_toàn thực_phẩm lê_văn_giang cho biết tuy codex và danh_mục phụ_gia của việt_nam chưa cập_nhật chất sodium nitrate trong sản_phẩm thịt  nhưng đã cho_phép trong sản_phẩm phômai 
-12,bộ y_tế cũng để quy_định mở khi cho_phép áp_dụng thông_lệ quốc_tế  như sản_phẩm xúc_xích thì mỹ  úc  new_zealand  singapore đều cho_phép dùng sodium nitrate với hàm_lượng cao hơn hàm_lượng tìm thấy trong xúc_xích vietfoods 
-13,đặc_biệt  vụ_trưởng vụ pháp_chế  bộ y_tế  nguyễn_huy_quang còn cho rằng chi_cục quản_lý thị_trường_hà_nội đã xử_lý sai đối_tượng  khi xử_phạt vietfoods mà công_ty này lại làm đúng theo giấy_phép của chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương 
+0,đội báo_cáo chi_cục thanh_tra hiện chưa_thể trả_lời xin_lỗi công_ty vietfoods hay
+1,vị đại_diện 3 vấn_đề đội 14 thấy sai thu_giữ xúc_xích vietfoods
+2,“ đến thời_điểm văn_bản quy_phạm_pháp_luật nào cho_phép sử_dụng chất sodium nitrate trong thịt chế_biến ủy_ban tiêu_chuẩn thực_phẩm quốc_tế codex
+3,họ nói chúng_tôi phát_ngôn sai nói chất gây ung_thư
+4,chúng_tôi cung_cấp thông_tin sodium nitrate đưa thực_phẩm chế_biến_nhiệt sinh chất khác
+5,chất gây ung_thư
+6,sai
+7,chúng_tôi trả hàng doanh_nghiệp ngày 235 cục an_toàn thực_phẩm văn_bản thông_báo kết_luận hội_đồng chuyên_môn áp_dụng thông_lệ quốc_tế cho_phép sử_dụng sodium nitrate trong xúc_xích ” vị đại_diện hay
+8,trong cục_trưởng cục an_toàn thực_phẩm bộ y_tế nguyễn_thanh_phong cục trả_lời công_tâm quy_định pháp_luật trong vụ_việc vietfoods
+9,chi_cục quản_lý thị_trường_hà_nội câu hỏi sodium nitrate ngoài danh_mục sản_phẩm an_toàn
+10,chúng_tôi trả_lời sớm bằng văn_bản đúng quy_định pháp_luật thông_lệ quốc_tế nước sử_dụng sodium nitrate trong sản_phẩm thịt hàm_lượng vietfoods hoàn_toàn an_toàn ông phong biết
+11,phó cục_trưởng cục an_toàn thực_phẩm lê_văn_giang biết tuy codex danh_mục phụ_gia việt_nam cập_nhật chất sodium nitrate trong sản_phẩm thịt cho_phép trong sản_phẩm phômai
+12,bộ y_tế quy_định mở cho_phép áp_dụng thông_lệ quốc_tế sản_phẩm xúc_xích mỹ úc new_zealand singapore cho_phép dùng sodium nitrate hàm_lượng cao hơn hàm_lượng tìm thấy trong xúc_xích vietfoods
+13,đặc_biệt vụ_trưởng vụ pháp_chế bộ y_tế nguyễn_huy_quang còn chi_cục quản_lý thị_trường_hà_nội xử_lý sai đối_tượng xử_phạt vietfoods công_ty làm đúng giấy_phép chi_cục an_toàn vệ_sinh thực_phẩm_bình_dương

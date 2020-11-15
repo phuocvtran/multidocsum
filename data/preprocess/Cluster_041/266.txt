@@ -1,7 +1,7 @@
 idx, sentence
-0,ông lê_hoàng_minh  phó giám_đốc sở gtvt  cho biết  “ đây là một loại_hình vận_tải hành_khách mới kết_hợp với du_lịch 
-1,dịch_vụ xe_buýt hop on hop off này làm phong_phú thêm các loại_hình vận_tải công_cộng của tp và giúp người dân  du_khách có thêm lựa_chọn phương_tiện đi_lại  
-2,theo ông nguyễn_khoa_luân  trưởng dự_án xe_buýt du_lịch hop_on hop_off  loại_hình xe_buýt này không bán vé lẻ trên xe  chỉ bán trên các trang mạng online  khách_hàng có_thể đăng nhập vào trang wwwhoponhopoffvn để đăng_ký mua vé 
-3,giá vé là 200000 đồng / người 
-4,hành_khách có_thể lên hoặc xuống xe ở bất_kỳ đâu trong lộ_trình của tuyến xe_buýt du_lịch 
-5,theo đó  xe_buýt hop on hop off đưa du_khách đến tham_quan các địa_danh  di_tích lịch_sử  khu du_lịch như khu tây balô trên đường ngũ_lão  đề_thám  chợ bến_thành  trụ_sở ubnd tphcm  nhà_hát tp  phố đi bộ nguyễn_huệ  trạm đài quan_sát saigon_skydeck  bitexco_tower  hội_trường thống_nhất  nhà_thờ đức_bà  bưu_điện trung_tâm sài_gòn  bảo_tàng lịch_sử  bảo_tàng chứng_tích chiến_tranh  chùa thiên_hậu  chợ bình_tây … đặc_biệt  hành_khách đi xe được trải_nghiệm dịch_vụ xe chất_lượng cao như trên ghế mỗi hành_khách được trang_bị một bộ thuyết_minh cảm_ứng gps với trên 10 thứ tiếng nước_ngoài như tiếng anh  pháp  tây ban_nha  nga … các chuyến xe phục_vụ du_khách có 3545 ghế  bắt_đầu khởi_hành từ 8 g đến 21 g30 mỗi ngày và cứ 30 phút có một chuyến xuất bến  bình_quân mỗi ngày có 26 chuyến xe 
+0,ông lê_hoàng_minh phó giám_đốc sở gtvt biết “ một loại_hình vận_tải hành_khách mới kết_hợp du_lịch
+1,dịch_vụ xe_buýt hop on hop off làm phong_phú thêm loại_hình vận_tải công_cộng tp giúp người dân du_khách thêm lựa_chọn phương_tiện đi_lại
+2,ông nguyễn_khoa_luân trưởng dự_án xe_buýt du_lịch hop_on hop_off loại_hình xe_buýt bán vé lẻ xe bán trang mạng online khách_hàng đăng nhập trang wwwhoponhopoffvn đăng_ký mua vé
+3,giá vé 200000 đồng / người
+4,hành_khách hoặc xuống xe ở bất_kỳ đâu trong lộ_trình tuyến xe_buýt du_lịch
+5,xe_buýt hop on hop off đưa du_khách đến tham_quan địa_danh di_tích lịch_sử khu du_lịch khu tây balô đường ngũ_lão đề_thám chợ bến_thành trụ_sở ubnd tphcm nhà_hát tp phố đi bộ nguyễn_huệ trạm đài quan_sát saigon_skydeck bitexco_tower hội_trường thống_nhất nhà_thờ đức_bà bưu_điện trung_tâm sài_gòn bảo_tàng lịch_sử bảo_tàng chứng_tích chiến_tranh chùa thiên_hậu chợ bình_tây … đặc_biệt hành_khách đi xe trải_nghiệm dịch_vụ xe chất_lượng cao ghế hành_khách trang_bị một bộ thuyết_minh cảm_ứng gps 10 thứ tiếng nước_ngoài tiếng anh pháp tây ban_nha nga … chuyến xe phục_vụ du_khách 3545 ghế bắt_đầu khởi_hành 8 g đến 21 g30 ngày 30 phút một chuyến xuất bến bình_quân ngày 26 chuyến xe

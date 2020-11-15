@@ -1,6 +1,6 @@
 idx, sentence
-0,theo vietinbank  ngân_hàng sẽ thực_hiện thoái vốn tại saigonbank từ 1039  xuống 491  vốn cổ_phần có quyền biểu_quyết của saigonbank thông_qua hình_thức bán đấu_giá công_khai 
-1,vietinbank sẽ chào bán 1687 triệu cổ_phần  giá khởi_điểm 10800 đồng / cổ_phiếu 
-2,nếu đấu_giá thành_công  số_lượng cổ_phần saigonbank do vietinbank sở_hữu sẽ giảm còn 1512 triệu cổ_phần  chiếm 491   
-3,số tiền thu về tương_đương khoảng 182 tỷ đồng 
-4,dự_kiến  thời_gian bán đấu_giá cổ_phiếu và thực_hiện thoái vốn trong quý 2/2016 
+0,vietinbank ngân_hàng thực_hiện thoái vốn saigonbank 1039 xuống 491 vốn cổ_phần quyền biểu_quyết saigonbank thông_qua hình_thức bán đấu_giá công_khai
+1,vietinbank chào bán 1687 triệu cổ_phần giá khởi_điểm 10800 đồng / cổ_phiếu
+2,đấu_giá thành_công số_lượng cổ_phần saigonbank vietinbank sở_hữu giảm còn 1512 triệu cổ_phần chiếm 491
+3,số tiền thu về tương_đương khoảng 182 tỷ đồng
+4,dự_kiến thời_gian bán đấu_giá cổ_phiếu thực_hiện thoái vốn trong quý 2/2016

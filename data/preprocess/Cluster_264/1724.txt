@@ -1,20 +1,20 @@
 idx, sentence
-0,tuần trước  vụ_việc cậu bé 7 tuổi bị bố_mẹ bỏ_rơi trong khu rừng gấu đã tạo nên làn_sóng phản_đối dữ_dội tại nhật_bản 
-1,trong nỗ_lực tìm_kiếm cậu bé tưởng_chừng như tuyệt_vọng và không đi đến hồi kết  phép màu đã xảy ra khi ngày hôm_nay  bé yamato_tanooka đã được tìm thấy và vẫn còn sống_sót 
-2,đây là tin_vui không chỉ đối_với bố_mẹ cậu bé mà tất_cả người dân nhật_bản đã cùng cầu_nguyện  hy_vọng cậu bé sống_sót an_toàn trong khu rừng đầy_rẫy nguy_hiểm 
-3,theo ông satoshi_saito  một thành_viên trong nhóm giải_cứu  cậu bé đã được tìm thấy còn sống_sót dù chưa rõ chi_tiết về tình_hình sức_khỏe 
-4,thông_tấn_xã báo_chí kyodo cho biết  cậu bé đã được tìm thấy lúc 705 sáng nay theo giờ_địa_phương  khoảng 5 h sáng tại việt_nam  
-5,nhóm tìm_kiếm đã phát_hiện cậu bé trong một tòa nhà  thuộc khu_vực tập_luyện của quân_đội tại thị_trấn shikabe  hokkaido 
-6,khu_vực phát_hiện cách nơi cậu bé được cho là đã mất_tích khoảng 5 km 
-7,trên thực_tế  khoảng_cách này là 7 km nếu đi theo đường_mòn trong rừng 
-8,một sĩ_quan cảnh_vệ đã phát_hiện ra cậu bé và ước_chừng khoảng 7 tuổi 
-9,cậu bé nói rằng mình chính là yamato_tanooka 
-10,khi được tìm thấy  cậu bé đang nằm cuộn_tròn trên tấm đệm và không có các vết_thương nghiêm_trọng nào bên ngoài 
-11,những người lính ngay lập tực đã đưa cơm  bánh_mì và nước cho yamato khi em nói rằng mình rất đói và khát 
-12,trả_lời cảnh_sát  yamato nói rằng em đã ở trong khu_vực tập_luyện của quân_đội vài ngày sau khi đi một_mình trong rừng 
-13,tuy_nhiên  một nguồn tin khác cho hay yamato đã đi đến một trại trong khu_vực quan đội và ở đó ngay cái ngày em mất_tích 
-14,dù không có thức_ăn nhưng có_vẻ  yamato vẫn tiếp_cận được với nguồn nước 
-15,người phát_ngôn của lực_lượng phòng_vệ nhật_bản trao_đổi với afp rằng tình_trạng sức_khỏe của cậu bé vẫn tốt 
-16,để đảm_bảo  một máy_bay_trực_thăng đã được huy_động để đưa em đến bệnh_viện ngay sau đó 
-17,cha_mẹ của yamato đã xác_định đó chính là con_trai mình 
-18,hiện_tại  em đang được kiểm_tra sức_khỏe tại bệnh_viện hakodate 
+0,tuần vụ_việc cậu bé 7 tuổi bố_mẹ bỏ_rơi trong khu rừng gấu tạo làn_sóng phản_đối dữ_dội nhật_bản
+1,trong nỗ_lực tìm_kiếm cậu bé tưởng_chừng tuyệt_vọng đi đến hồi kết phép màu xảy ngày hôm_nay bé yamato_tanooka tìm thấy còn sống_sót
+2,tin_vui đối_với bố_mẹ cậu bé tất_cả người dân nhật_bản cầu_nguyện hy_vọng cậu bé sống_sót an_toàn trong khu rừng đầy_rẫy nguy_hiểm
+3,ông satoshi_saito một thành_viên trong nhóm giải_cứu cậu bé tìm thấy còn sống_sót dù rõ chi_tiết về tình_hình sức_khỏe
+4,thông_tấn_xã báo_chí kyodo biết cậu bé tìm thấy 705 sáng nay giờ_địa_phương khoảng 5 h sáng việt_nam
+5,nhóm tìm_kiếm phát_hiện cậu bé trong một tòa nhà thuộc khu_vực tập_luyện quân_đội thị_trấn shikabe hokkaido
+6,khu_vực phát_hiện cách cậu bé mất_tích khoảng 5 km
+7,thực_tế khoảng_cách 7 km đi đường_mòn trong rừng
+8,một sĩ_quan cảnh_vệ phát_hiện cậu bé ước_chừng khoảng 7 tuổi
+9,cậu bé nói mình chính yamato_tanooka
+10,tìm thấy cậu bé nằm cuộn_tròn tấm đệm vết_thương nghiêm_trọng nào bên ngoài
+11,người lính lập tực đưa cơm bánh_mì nước yamato em nói mình đói khát
+12,trả_lời cảnh_sát yamato nói em ở trong khu_vực tập_luyện quân_đội vài ngày đi một_mình trong rừng
+13,tuy_nhiên một nguồn tin khác hay yamato đi đến một trại trong khu_vực quan đội ở ngày em mất_tích
+14,dù thức_ăn có_vẻ yamato tiếp_cận nguồn nước
+15,người phát_ngôn lực_lượng phòng_vệ nhật_bản trao_đổi afp tình_trạng sức_khỏe cậu bé tốt
+16,đảm_bảo một máy_bay_trực_thăng huy_động đưa em đến bệnh_viện
+17,cha_mẹ yamato xác_định chính con_trai mình
+18,hiện_tại em kiểm_tra sức_khỏe bệnh_viện hakodate

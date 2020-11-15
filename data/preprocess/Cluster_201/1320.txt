@@ -1,10 +1,10 @@
 idx, sentence
-0,tin nhanh ngày 1/6  ông đỗ_ngọc_vĩnh  phó công_an xã tam_thanh  tp tam_kỳ  tỉnh quảng_nam  cho hay  trên địa_bàn tp vừa xảy ra vụ giật điện khiến một em nhỏ tử_vong 
-1,sự_việc diễn ra vào_khoảng 18 h ngày 31/5  em nguyễn_thành_công  11 tuổi  trú thị_xã điện_bàn  tỉnh quảng_nam  được bố_mẹ dẫn về quê ngoại chơi sau khi được nghỉ_hè 
-2,buổi chiều cùng ngày  em công đạp xe_đạp đi dạo_chơi quanh khu công_viên biển tam_thanh  xã tam_thanh  tp tam_kỳ  
-3,khi đến đoạn trước nhà_hàng ba_cơ  thôn hạ_thanh 1  xã tam_thanh  thì bất_ngờ bị vướng dây_điện vào cổ khiến nạn_nhân bị giật điện_tử_vong 
-4,ngay sau đó  người dân đã báo tin với chính_quyền địa_phương 
-5,nhận được thông_tin  công_an xã tam_thanh đã nhanh_chóng có_mặt tại hiện trườn  đồng_thời báo_cáo cho công_an tp tam_kỳ toàn_bộ sự_việc 
-6,tại hiện_trường  khoảng_cách từ trụ điện đến nhà_hàng bc khá xa nhưng chủ nhà_hàng chỉ dùng một cây trụ để nâng dây_điện nên đường_dây bị sà xuống sát đất 
-7,theo chính_quyền địa_phương  nhà_hàng bc nằm trong diện giải_tỏa để thực_hiện dự_án 
-8,hiện_nay  nhà_hàng này không hoạt_động nhưng vẫn thắp điện để phục_vụ các nhân_viên trông giữ nhà_hàng 
+0,tin nhanh ngày 1/6 ông đỗ_ngọc_vĩnh phó công_an xã tam_thanh tp tam_kỳ tỉnh quảng_nam hay địa_bàn tp xảy vụ giật điện khiến một em nhỏ tử_vong
+1,sự_việc diễn vào_khoảng 18 h ngày 31/5 em nguyễn_thành_công 11 tuổi trú thị_xã điện_bàn tỉnh quảng_nam bố_mẹ dẫn về quê ngoại chơi nghỉ_hè
+2,buổi chiều ngày em công đạp xe_đạp đi dạo_chơi quanh khu công_viên biển tam_thanh xã tam_thanh tp tam_kỳ
+3,đến đoạn nhà_hàng ba_cơ thôn hạ_thanh 1 xã tam_thanh bất_ngờ vướng dây_điện cổ khiến nạn_nhân giật điện_tử_vong
+4,người dân báo tin chính_quyền địa_phương
+5,nhận thông_tin công_an xã tam_thanh nhanh_chóng có_mặt hiện trườn đồng_thời báo_cáo công_an tp tam_kỳ toàn_bộ sự_việc
+6,hiện_trường khoảng_cách trụ điện đến nhà_hàng bc khá xa chủ nhà_hàng dùng một cây trụ nâng dây_điện đường_dây sà xuống sát đất
+7,chính_quyền địa_phương nhà_hàng bc nằm trong diện giải_tỏa thực_hiện dự_án
+8,hiện_nay nhà_hàng hoạt_động thắp điện phục_vụ nhân_viên trông giữ nhà_hàng

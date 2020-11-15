@@ -1,10 +1,10 @@
 idx, sentence
-0,theo hãng tin reuters  bộ_trưởng ngoại_giao được chỉ_định của philippines  ông perfecto_yasay ngày 1/6 cho biết nước này sẽ không xa_rời đồng_minh an_ninh lâu_nay là mỹ  song không chấp_nhận làm  tay_sai  cho bất_cứ thế_lực nước_ngoài nào 
-1,ông yasay đưa ra tuyên_bố trên trong cuộc trả_lời phỏng_vấn đầu_tiên với truyền_thông nước_ngoài kể từ khi được tổng_thống đắc_cử rodrigo_duterte chỉ_định giữ chức bộ_trưởng ngoại_giao philippines 
-2,về quan_hệ giữa philipines và trung_quốc  ông yasay cho rằng mối quan_hệ này cần được cải_thiện 
-3,ông yasay nêu rõ   chừng nào trung_quốc tuân_thủ quy_định luật_pháp  tôn_trọng chủ_quyền và toàn_vẹn lãnh_thổ của chúng_tôi   chúng_tôi sẽ tiếp_tục bảo_đảm quan_hệ hữu_nghị giữa hai nước mạnh_mẽ hơn  
-4,ông yasay cũng khẳng_định manila sẽ tôn_trọng bất_cứ phán_quyết nào được đưa ra bởi tòa_trọng_tài thường_trực  pca  ở la_haye phân_xử tranh_chấp chủ_quyền biển đảo giữa philippines và trung_quốc 
-5,về quan_hệ với mỹ  ông yasay cho biết tổng_thống đắc_cử duterte sẽ tôn_trọng các hiệp_ước hiện_nay với washington  trong đó có hiệp_định tăng_cường hợp_tác phòng_thủ cho_phép quân_đội mỹ sử_dụng các căn_cứ ở philippines 
-6,trả_lời câu_hỏi về phát_biểu của ông duterte ngày 31/5 nói philippines sẽ không lệ_thuộc vào washington  ông yasay nêu rõ tổng_thống đắc_cử của philippines  chỉ làm rõ lập_trường  theo quy_định của hiến_pháp  là thực_hiện một chính_sách ngoại_giao độc_lập  
-7,cùng ngày 1/6  bộ_trưởng ngoại_giao trung_quốc_vương nghị hoan_nghênh khả_năng cải_thiện quan_hệ với philippines 
-8,phát_biểu khi đang ở thăm canada  ông vương_nghị cho biết cánh cửa đàm_phán giữa trung_quốc và philippines luôn mở  đồng_thời nhấn_mạnh  nếu philippines chân_thành muốn trở_lại đối_thoại và thương_lượng  chúng_tôi hoan_nghênh  
+0,hãng tin reuters bộ_trưởng ngoại_giao chỉ_định philippines ông perfecto_yasay ngày 1/6 biết nước xa_rời đồng_minh an_ninh lâu_nay mỹ song chấp_nhận làm tay_sai bất_cứ thế_lực nước_ngoài nào
+1,ông yasay đưa tuyên_bố trong cuộc trả_lời phỏng_vấn đầu_tiên truyền_thông nước_ngoài kể tổng_thống đắc_cử rodrigo_duterte chỉ_định giữ chức bộ_trưởng ngoại_giao philippines
+2,về quan_hệ giữa philipines trung_quốc ông yasay mối quan_hệ cải_thiện
+3,ông yasay nêu rõ chừng nào trung_quốc tuân_thủ quy_định luật_pháp tôn_trọng chủ_quyền toàn_vẹn lãnh_thổ chúng_tôi chúng_tôi tiếp_tục bảo_đảm quan_hệ hữu_nghị giữa hai nước mạnh_mẽ hơn
+4,ông yasay khẳng_định manila tôn_trọng bất_cứ phán_quyết nào đưa tòa_trọng_tài thường_trực pca ở la_haye phân_xử tranh_chấp chủ_quyền biển đảo giữa philippines trung_quốc
+5,về quan_hệ mỹ ông yasay biết tổng_thống đắc_cử duterte tôn_trọng hiệp_ước hiện_nay washington trong hiệp_định tăng_cường hợp_tác phòng_thủ cho_phép quân_đội mỹ sử_dụng căn_cứ ở philippines
+6,trả_lời câu_hỏi về phát_biểu ông duterte ngày 31/5 nói philippines lệ_thuộc washington ông yasay nêu rõ tổng_thống đắc_cử philippines làm rõ lập_trường quy_định hiến_pháp thực_hiện một chính_sách ngoại_giao độc_lập
+7,ngày 1/6 bộ_trưởng ngoại_giao trung_quốc_vương nghị hoan_nghênh khả_năng cải_thiện quan_hệ philippines
+8,phát_biểu ở thăm canada ông vương_nghị biết cánh cửa đàm_phán giữa trung_quốc philippines luôn mở đồng_thời nhấn_mạnh philippines chân_thành muốn trở_lại đối_thoại thương_lượng chúng_tôi hoan_nghênh

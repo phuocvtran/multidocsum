@@ -1,6 +1,6 @@
 idx, sentence
-0,cơ_quan điều_tra vksnd tối_cao vừa tống_đạt quyết_định khởi_tố bị_can  tạm giam đặng_văn_ngân  54 tuổi  nguyên phó chi_cục thi_hành án dân_sự huyện buôn_đôn  đắk_lắk  về tội thiếu trách_nhiệm gây hậu_quả nghiêm_trọng 
-1,theo cơ_quan_chức_năng  trong quá_trình tổ_chức thi_hành bản_án và quyết_định có liên_quan đến nghĩa_vụ trả nợ của bà nguyễn_thị_nhung  ở tp buôn_ma_thuột  đắk_lắk  đối_với 7 cá_nhân  ông ngân đã không làm đúng trách_nhiệm được giao  gây hậu_quả đặc_biệt nghiêm_trọng 
-2,theo các bản_án và quyết_định của tand tp buôn_ma_thuột và tand tỉnh đắk_lắk  bà nhung phải có nghĩa_vụ trả nợ cho 7 cá_nhân số tiền hơn 7 tỉ đồng 
-3,tuy_nhiên  do ông ngân không thi_hành các bản_án trên  không kê_biên tài_sản nên bà nhung đã tẩu_tán nhà  đất trị_giá hơn 45 tỉ đồng 
-4,hậu_quả là các cá_nhân liên_quan không nhận được tài_sản theo nội_dung các bản_án  quyết_định đã có hiệu_lực pháp_luật 
+0,cơ_quan điều_tra vksnd tối_cao tống_đạt quyết_định khởi_tố bị_can tạm giam đặng_văn_ngân 54 tuổi nguyên phó chi_cục thi_hành án dân_sự huyện buôn_đôn đắk_lắk về tội thiếu trách_nhiệm gây hậu_quả nghiêm_trọng
+1,cơ_quan_chức_năng trong quá_trình tổ_chức thi_hành bản_án quyết_định liên_quan đến nghĩa_vụ trả nợ bà nguyễn_thị_nhung ở tp buôn_ma_thuột đắk_lắk đối_với 7 cá_nhân ông ngân làm đúng trách_nhiệm giao gây hậu_quả đặc_biệt nghiêm_trọng
+2,bản_án quyết_định tand tp buôn_ma_thuột tand tỉnh đắk_lắk bà nhung nghĩa_vụ trả nợ 7 cá_nhân số tiền hơn 7 tỉ đồng
+3,tuy_nhiên ông ngân thi_hành bản_án kê_biên tài_sản bà nhung tẩu_tán nhà đất trị_giá hơn 45 tỉ đồng
+4,hậu_quả cá_nhân liên_quan nhận tài_sản nội_dung bản_án quyết_định hiệu_lực pháp_luật

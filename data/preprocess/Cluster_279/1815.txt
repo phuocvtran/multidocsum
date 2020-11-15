@@ -1,9 +1,9 @@
 idx, sentence
-0,reuters ngày 26 dẫn dịch_vụ gọi xe của mỹ cho hay  thỏa_thuận đầu_tư đến từ quỹ đầu_tư công_saudi_arabian là một phần nằm trong đợt gọi vốn gần đây nhất của uber 
-1,dịch_vụ gọi xe của mỹ hiện có giá_trị 625 tỉ usd  được biết đến là công_ty khởi_nghiệp lớn nhất thế_giới 
-2,trong một tuyên_bố của mình  đồng sáng_lập và là giám_đốc điều_hành uber_travis_kalanick nói rằng thỏa_thuận đầu_tư trên là một  phiếu tín_nhiệm cho hoạt_động kinh_doanh của chúng_tôi  
-3,theo reuters  uber đã cam_kết đầu_tư 250 triệu usd vào khu_vực trung_đông và bắc_phi  nơi hoạt_động kinh_doanh của công_ty đang phát_triển 
-4,uber hiện có_mặt tại 15 thành_phố ở 9 quốc_gia trong khu_vực 
-5,tuy_nhiên  cũng như tại những nơi khác như trung_quốc và ấn_độ  uber đang phải đối_mặt với sự cạnh_tranh gay_gắt của các dịch_vụ gọi xe bản_địa ở trung_đông  ví_dụ như careem đang có_mặt tại 20 thành_phố trong khu_vực 
-6,trong quý đầu_tiên của năm nay  uber đạt hơn 395000 lượt người sử_dụng dịch_vụ gọi xe tại trung_đông  tăng gấp 5 lần so với quý đầu_tiên của năm_ngoái  đồng_thời có 19000 tài_xế đăng_ký uber  tăng gấp 4 lần so cùng kỳ 
-7,uber cho biết công_ty có_mặt ở ả rập xê_út từ đầu năm 2014 và khoảng 80  trong số hơn 130000 lượt người sử_dụng dịch_vụ tại nước này là phụ_nữ vì họ không được phép lái_xe 
+0,reuters ngày 26 dẫn dịch_vụ gọi xe mỹ hay thỏa_thuận đầu_tư đến quỹ đầu_tư công_saudi_arabian một phần nằm trong đợt gọi vốn gần nhất uber
+1,dịch_vụ gọi xe mỹ hiện giá_trị 625 tỉ usd biết đến công_ty khởi_nghiệp lớn nhất thế_giới
+2,trong một tuyên_bố mình đồng sáng_lập giám_đốc điều_hành uber_travis_kalanick nói thỏa_thuận đầu_tư một phiếu tín_nhiệm hoạt_động kinh_doanh chúng_tôi
+3,reuters uber cam_kết đầu_tư 250 triệu usd khu_vực trung_đông bắc_phi hoạt_động kinh_doanh công_ty phát_triển
+4,uber hiện có_mặt 15 thành_phố ở 9 quốc_gia trong khu_vực
+5,tuy_nhiên khác trung_quốc ấn_độ uber đối_mặt cạnh_tranh gay_gắt dịch_vụ gọi xe bản_địa ở trung_đông ví_dụ careem có_mặt 20 thành_phố trong khu_vực
+6,trong quý đầu_tiên năm nay uber đạt hơn 395000 lượt người sử_dụng dịch_vụ gọi xe trung_đông tăng gấp 5 lần quý đầu_tiên năm_ngoái đồng_thời 19000 tài_xế đăng_ký uber tăng gấp 4 lần kỳ
+7,uber biết công_ty có_mặt ở ả rập xê_út đầu năm 2014 khoảng 80 trong số hơn 130000 lượt người sử_dụng dịch_vụ nước phụ_nữ họ phép lái_xe

@@ -1,9 +1,9 @@
 idx, sentence
-0,cậu bé yamato_tanooka đã được tìm thấy vào sáng ngày 3/6 ở một căn_cứ không_quân của nhật_bản trên hòn đảo hokkaido – cách địa_điểm mà bố_mẹ cậu bỏ con_trai lại khoảng 4 dặm vào hôm 28/5 
-1,theo đài_nhk  tình_trạng sức_khỏe của cậu bé tương_đối tốt và trước_mắt không có tổn_thương nào nghiêm_trọng 
-2,hi_vọng tìm được yamato đã trở_nên mong_manh hơn rất nhiều sau 6 ngày rà_soát mà không có bất_cứ dấu_hiệu nào trong khi yamato chỉ mặc quần_áo mỏng và không có thức_ăn lúc bị mất_tích 
-3,một cuộc tìm_kiếm lớn đã được huy_động  trong đó có cả các nhân_viên quân_sự 
-4,khu rừng này được cho là nơi sinh_sống của khoảng 500 con gấu nâu  tuy_nhiên rất may là những ngày này chúng hoạt_động hạn_chế do có mưa_rào 
-5,hôm 28/5  yamato cùng bố_mẹ đi tìm rau rừng 
-6,theo lời bố_mẹ cậu  cậu đã lấy đá ném vào xe_hơi  nên họ đã bỏ lại con_trai một đoạn đường như một biện_pháp trừng_phạt 
-7,nhưng vài phút sau  khi quay lại  họ không thấy con trai đâu 
+0,cậu bé yamato_tanooka tìm thấy sáng ngày 3/6 ở một căn_cứ không_quân nhật_bản hòn đảo hokkaido – cách địa_điểm bố_mẹ cậu bỏ con_trai khoảng 4 dặm hôm 28/5
+1,đài_nhk tình_trạng sức_khỏe cậu bé tương_đối tốt trước_mắt tổn_thương nào nghiêm_trọng
+2,hi_vọng tìm yamato trở_nên mong_manh hơn 6 ngày rà_soát bất_cứ dấu_hiệu nào trong yamato mặc quần_áo mỏng thức_ăn mất_tích
+3,một cuộc tìm_kiếm lớn huy_động trong nhân_viên quân_sự
+4,khu rừng sinh_sống khoảng 500 con gấu nâu tuy_nhiên may ngày chúng hoạt_động hạn_chế mưa_rào
+5,hôm 28/5 yamato bố_mẹ đi tìm rau rừng
+6,lời bố_mẹ cậu cậu lấy đá ném xe_hơi họ bỏ con_trai một đoạn đường một biện_pháp trừng_phạt
+7,vài phút quay họ thấy con trai đâu

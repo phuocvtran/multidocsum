@@ -1,15 +1,15 @@
 idx, sentence
-0,ngày 23/5  tổ công_tác đặc_biệt do ubnd tp cần_thơ thành_lập để giải_quyết vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã của đại_gia tòng “ thiên_mã ” đã có báo_cáo ban_đầu cho ubnd tp cần_thơ 
-1,ông võ_thanh_hùng  trưởng_ban quản_lý các khu_chế_xuất và công_nghiệp cần_thơ cho biết  tính đến ngày 20/5  công_ty của tòng  thiên_mã  đã nợ các ngân_hàng  khách bán cá … với tổng_số tiền hơn 891 tỉ đồng 
-2,trong đó  có 516 tỷ đồng vốn của chi_nhánh hai ngân_hàng lớn ở hậu_giang với tiền lãi 383 tỷ đồng 
-3,số còn lại là nợ người bán cá_tra  các đơn_vị cung_cấp vật_tư  trong khi tổng giá_trị tài_sản hiện_tại của công_ty này chỉ khoảng 110 tỷ đồng và đã cầm_cố  thế_chấp 
-4,đến thời_điểm này một ngân_hàng đã đồng_ý giải_ngân 350 triệu đồng cho công_ty của tòng “ thiên_mã ” để giải_quyết lương công_nhân 
-5,ngoài_ra  ubnd tp cần_thơ cũng chấp_nhận kiến_nghị của ban quản_lý các khu_chế_xuất và công_nghiệp tp về việc chỉ_đạo một ngân_hàng có chi_nhánh trên địa_bàn giải_ngân 27000 usd cho bà trần_thị_kim_yến  vợ tòng “ thiên_mã ”  để trả lương cho 400 công_nhân  nhằm tránh trường_hợp công_nhân đình_công  làm mất an_ninh trật_tự tại các nhà_máy 
-6,“ hiện_tại công_ty này do bà trần_thị_kim_yến  vợ tòng “ thiên_mã ”  tạm_thời điều_hành và quản_lý 
-7,nguyên_nhân dẫn nợ_nần chồng_chất của tòng “ thiên_mã ” là do vay vốn ngắn_hạn đầu_tư trung dài_hạn và đổ vào bất_động_sản trong khi lãi_suất vay ngân_hàng quá cao  có lúc lên đến 21  / năm 
-8,khi thị_trường nhà_đất đóng_băng  ngành cá_tra rơi vào khủng_hoảng đã làm cho doanh_nghiệp mất cân_đối nghiêm_trọng ” – ông hùng nói 
-9,được biết  hiện tại nhà_máy của công_ty thiên_mã đang hoạt_động gia_công cho một đơn_vị khác tại khu_công_nghiệp trà_nóc 
-10,hiện không còn cách cứu_vãn tình_hình sản_xuất kinh_doanh của doanh_nghiệp này 
-11,để không phát_sinh nợ mới và ổn_định việc_làm  thu_nhập của các công_nhân tại đây  tổ công_tác đặc_biệt đã đề_nghị ubnd tp cần_thơ cho thuê nhà_xưởng hoặc kêu_gọi các chủ_nợ lớn tham_gia tái cơ_cấu vào công_ty tòng_thiên_mã 
-12,như đã thông_tin  đêm 31/3  cục cảnh_sát kinh_tế  c46  bộ công_an  phối_hợp với công_an tp cần_thơ đã bắt  khám_xét nơi làm_việc và nhà_riêng của ông phan_bá_tòng  hay còn gọi_là tòng_thiên_mã   giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã  cần_thơ  
-13,ông tòng bị bắt vì có hành_vi sai_phạm về kinh_tế liên_quan đến một_số ngân_hàng tại cần_thơ 
+0,ngày 23/5 tổ công_tác đặc_biệt ubnd tp cần_thơ thành_lập giải_quyết vụ công_ty tnhh xuất_nhập_khẩu thủy_sản thiên_mã đại_gia tòng “ thiên_mã ” báo_cáo ban_đầu ubnd tp cần_thơ
+1,ông võ_thanh_hùng trưởng_ban quản_lý khu_chế_xuất công_nghiệp cần_thơ biết tính đến ngày 20/5 công_ty tòng thiên_mã nợ ngân_hàng khách bán cá … tổng_số tiền hơn 891 tỉ đồng
+2,trong 516 tỷ đồng vốn chi_nhánh hai ngân_hàng lớn ở hậu_giang tiền lãi 383 tỷ đồng
+3,số còn nợ người bán cá_tra đơn_vị cung_cấp vật_tư trong tổng giá_trị tài_sản hiện_tại công_ty khoảng 110 tỷ đồng cầm_cố thế_chấp
+4,đến thời_điểm một ngân_hàng đồng_ý giải_ngân 350 triệu đồng công_ty tòng “ thiên_mã ” giải_quyết lương công_nhân
+5,ngoài_ra ubnd tp cần_thơ chấp_nhận kiến_nghị ban quản_lý khu_chế_xuất công_nghiệp tp về chỉ_đạo một ngân_hàng chi_nhánh địa_bàn giải_ngân 27000 usd bà trần_thị_kim_yến vợ tòng “ thiên_mã ” trả lương 400 công_nhân nhằm tránh trường_hợp công_nhân đình_công làm mất an_ninh trật_tự nhà_máy
+6,“ hiện_tại công_ty bà trần_thị_kim_yến vợ tòng “ thiên_mã ” tạm_thời điều_hành quản_lý
+7,nguyên_nhân dẫn nợ_nần chồng_chất tòng “ thiên_mã ” vay vốn ngắn_hạn đầu_tư trung dài_hạn đổ bất_động_sản trong lãi_suất vay ngân_hàng quá cao đến 21 / năm
+8,thị_trường nhà_đất đóng_băng ngành cá_tra rơi khủng_hoảng làm doanh_nghiệp mất cân_đối nghiêm_trọng ” – ông hùng nói
+9,biết hiện nhà_máy công_ty thiên_mã hoạt_động gia_công một đơn_vị khác khu_công_nghiệp trà_nóc
+10,hiện còn cách cứu_vãn tình_hình sản_xuất kinh_doanh doanh_nghiệp
+11,phát_sinh nợ mới ổn_định việc_làm thu_nhập công_nhân tổ công_tác đặc_biệt đề_nghị ubnd tp cần_thơ thuê nhà_xưởng hoặc kêu_gọi chủ_nợ lớn tham_gia tái cơ_cấu công_ty tòng_thiên_mã
+12,thông_tin đêm 31/3 cục cảnh_sát kinh_tế c46 bộ công_an phối_hợp công_an tp cần_thơ bắt khám_xét làm_việc nhà_riêng ông phan_bá_tòng hay còn gọi_là tòng_thiên_mã giám_đốc công_ty tnhh xuất_nhập_khẩu thiên_mã cần_thơ
+13,ông tòng bắt hành_vi sai_phạm về kinh_tế liên_quan đến một_số ngân_hàng cần_thơ
