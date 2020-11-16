@@ -69,8 +69,8 @@ class Utils:
         return pandas.DataFrame({'raw': raw_sent, 'processed': processed_sent, 'doc': document, 'pos': pos})
     
     @staticmethod
-    def get_centroid(data: List[str], n_centroid: int=20) -> List[Tuple[str, float]]:
-        tfidf = Tfidf.get_tfidf(data)
+    def get_centroid(data: List[str], doc_idx: List[str], n_centroid: int=20) -> List[Tuple[str, float]]:
+        tfidf = Tfidf.get_tfidf(data, doc_idx)
         sorted_key = sorted(tfidf, key=tfidf.get, reverse=True)
         sorted_dict = {}
         for key in sorted_key:
