@@ -5,11 +5,12 @@ from typing import Dict, List
 
 class DataIO:
     @staticmethod
-    def load(path: str) -> List[str]:
-        res = []
+    def load(path: str) -> Dict[str, str]:
+        res = {}
         for fi in glob(os.path.join(path, '*')):
+            file_name = fi.split('/')[-1]
             with open(fi, 'r') as f:
-                res.append(f.read())
+                res[file_name] = f.read()
         
         return res
     

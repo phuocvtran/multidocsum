@@ -29,17 +29,33 @@ class TextProcessor:
 
     @staticmethod
     def word_tokenize(text: str) -> str:
-        return ViTokenizer.tokenize(text)
+        temp = []
+        for sent in text.split(' \n '):
+            temp.append(ViTokenizer.tokenize(sent))
+        return ' \n '.join(temp)
 
     @staticmethod
     def remove_stopwords(text: str, stop_words: List[str]) -> str:
-        return ' '.join([word for word in text.split() if word not in stop_words])
+        res = []
+        for sent in text.split(' \n '):
+            temp = []
+            for word in sent.split():
+                if word not in stop_words:
+                    temp.append(word)
+            res.append(' '.join(temp))
+                
+                
+        return ' \n '.join(res)
     
     @staticmethod
     def remove_punctuation(text: str, punctuation: str) -> str:
         res = []
-        for word in text.split(' '):
-            if word not in punctuation:
-                res.append(word)
+        for sent in text.split(' \n '):
+            temp = []
+            for word in sent.split():
+                if word not in punctuation:
+                    temp.append(word)
+            res.append(' '.join(temp))
                 
-        return ' '.join(res)
+                
+        return ' \n '.join(res)

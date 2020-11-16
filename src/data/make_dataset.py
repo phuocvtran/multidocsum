@@ -16,7 +16,7 @@ def download_data() -> None:
     ''')
 
 
-def _preprocess_n_write(data: Dict[str, List[str]], func: Callable, out_path: str=None, kwargs: Dict[str, str]=None) -> Dict[str, List[str]]:
+def preprocess_n_write_(data: Dict[str, List[str]], func: Callable, out_path: str=None, kwargs: Dict[str, str]=None) -> Dict[str, List[str]]:
     res = data
     for key in res:
         temp = []
@@ -28,7 +28,7 @@ def _preprocess_n_write(data: Dict[str, List[str]], func: Callable, out_path: st
         res[key] = temp
         
     if out_path is not None:
-        DataIO.write(res, out_path)
+        DataIO.write_(res, out_path)
     
     return res
 
@@ -40,30 +40,27 @@ def preprocess() -> None:
     print('Processing data...')
     
     # get content
-    contents = _preprocess_n_write(raw_data, TextProcessor.get_content_from_raw, out_path='data/interim/extract_content')
+    contents = preprocess_n_write_(raw_data, TextProcessor.get_content_from_raw, out_path='data/interim/extract_content')
 
-    # raw sentence seg
-    _preprocess_n_write(contents, TextProcessor.sent_tokenize, out_path='data/interim/00_RAW_SENT_SEG')
+    # sentence segmentation
+    sent_seg_data = preprocess_n_write_(contents, TextProcessor.sent_tokenize, out_path='data/interim/sentence_seg')
 
     # word segmentation
-    word_seg_data = _preprocess_n_write(contents, TextProcessor.word_tokenize, out_path='data/interim/word_tokenize')
+    word_seg_data = preprocess_n_write_(sent_seg_data, TextProcessor.word_tokenize, out_path='data/interim/word_tokenize')
 
     # lower
-    lower_data = _preprocess_n_write(word_seg_data, TextProcessor.lower)
+    lower_data = preprocess_n_write_(word_seg_data, TextProcessor.lower)
 
     # remove stop words
     with open('data/external/stopwords.txt', 'r') as f:
         stop_words = f.read().splitlines()
     kwargs = {'stop_words': stop_words}
-    no_stopwords_data = _preprocess_n_write(lower_data, TextProcessor.remove_stopwords, out_path='data/interim/remove_stop_word', kwargs=kwargs)
-    
-    # sentence segmentation
-    sent_seg_data = _preprocess_n_write(no_stopwords_data, TextProcessor.sent_tokenize, out_path='data/interim/sentence_seg')
+    no_stopwords_data = preprocess_n_write_(lower_data, TextProcessor.remove_stopwords, out_path='data/interim/remove_stop_word', kwargs=kwargs)
     
     # remove punctuation
     with open('data/external/punctuation.txt', 'r') as f:
         punctuation = f.read()
     kwargs = {'punctuation': punctuation}
-    no_punct_data = _preprocess_n_write(sent_seg_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
+    no_punct_data = preprocess_n_write_(no_stopwords_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
     
     DataIO.write_(no_punct_data, 'data/processed')
