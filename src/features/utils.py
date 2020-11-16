@@ -19,7 +19,7 @@ class Utils:
         return res
     
     @staticmethod
-    def preprocess(data: Dict[str, str]) -> Dict[str, str]:
+    def preprocess(data: Dict[str, str], stop_words_path=None, punc_path=None) -> Dict[str, str]:
         contents = Utils.do_sth_(data, TextProcessor.get_content_from_raw)
 
         # sentence segmentation
@@ -34,13 +34,13 @@ class Utils:
         lower_data = Utils.do_sth_(word_seg_data, TextProcessor.lower)
 
         # remove stop words
-        with open('data/external/stopwords.txt', 'r') as f:
+        with open(stop_words_path, 'r') as f:
             stop_words = f.read().splitlines()
         kwargs = {'stop_words': stop_words}
         no_stopwords_data = Utils.do_sth_(lower_data, TextProcessor.remove_stopwords, kwargs=kwargs)
 
         # remove punctuation
-        with open('data/external/punctuation.txt', 'r') as f:
+        with open(punc_path, 'r') as f:
             punctuation = f.read()
         kwargs = {'punctuation': punctuation}
         no_punct_data = Utils.do_sth_(no_stopwords_data, TextProcessor.remove_punctuation, kwargs=kwargs)
