@@ -1,7 +1,7 @@
 import os
 from .data_io import DataIO
 from .text_processing import TextProcessor
-from ..const import RAW_DATA_PATH, RAW_CLUSTER_POS
+from ..const import RAW_DATA_PATH, RAW_CLUSTER_POS, INTERIM_PATH, PROCESSED_PATH
 from typing import Dict, List, Callable
 
 
@@ -33,20 +33,20 @@ def preprocess_n_write_(data: Dict[str, List[str]], func: Callable, out_path: st
     return res
 
 
-def preprocess() -> None:
+def preprocess(raw_data_path: str=RAW_DATA_PATH, cluster_pos_in_path: int=RAW_CLUSTER_POS, interim_path: str=INTERIM_PATH, processed_path: str=PROCESSED_PATH) -> None:
     print('Loading data...')
-    raw_data = DataIO.load_raw_(RAW_DATA_PATH, RAW_CLUSTER_POS)
+    raw_data = DataIO.load_raw_(raw_data_path, cluster_pos_in_path)
 
     print('Processing data...')
     
     # get content
-    contents = preprocess_n_write_(raw_data, TextProcessor.get_content_from_raw, out_path='data/interim/extract_content')
+    contents = preprocess_n_write_(raw_data, TextProcessor.get_content_from_raw, out_path=os.path.join(interim_path ,'extract_content'))
 
     # sentence segmentation
-    sent_seg_data = preprocess_n_write_(contents, TextProcessor.sent_tokenize, out_path='data/interim/sentence_seg')
+    sent_seg_data = preprocess_n_write_(contents, TextProcessor.sent_tokenize, out_path=os.path.join(interim_path ,'sentence_seg'))
 
     # word segmentation
-    word_seg_data = preprocess_n_write_(sent_seg_data, TextProcessor.word_tokenize, out_path='data/interim/word_tokenize')
+    word_seg_data = preprocess_n_write_(sent_seg_data, TextProcessor.word_tokenize, out_path=os.path.join(interim_path ,'word_tokenize'))
 
     # lower
     lower_data = preprocess_n_write_(word_seg_data, TextProcessor.lower)
@@ -55,12 +55,12 @@ def preprocess() -> None:
     with open('data/external/stopwords.txt', 'r') as f:
         stop_words = f.read().splitlines()
     kwargs = {'stop_words': stop_words}
-    no_stopwords_data = preprocess_n_write_(lower_data, TextProcessor.remove_stopwords, out_path='data/interim/remove_stop_word', kwargs=kwargs)
+    no_stopwords_data = preprocess_n_write_(lower_data, TextProcessor.remove_stopwords, out_path=os.path.join(interim_path ,'remove_stop_word'), kwargs=kwargs)
     
     # remove punctuation
     with open('data/external/punctuation.txt', 'r') as f:
         punctuation = f.read()
     kwargs = {'punctuation': punctuation}
-    no_punct_data = preprocess_n_write_(no_stopwords_data, TextProcessor.remove_punctuation, out_path='data/interim/remove_punctuation', kwargs=kwargs)
+    no_punct_data = preprocess_n_write_(no_stopwords_data, TextProcessor.remove_punctuation, out_path=os.path.join(interim_path ,'remove_punctuation'), kwargs=kwargs)
     
-    DataIO.write_(no_punct_data, 'data/processed')
+    DataIO.write_(no_punct_data, processed_path)
