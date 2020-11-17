@@ -14,7 +14,8 @@ class Extractor:
         wr = df.sum_score.to_list()[0]
 
         while True:
-            pre_extract = df.raw.copy().loc[:n_extract]
+            pre_extract = df.raw.copy().loc[:n_extract].sort_values()
+            df['temp_score'] = df.sum_score.to_list()
             for index, curr_row in df.iterrows():
                 if index == 0:
                     continue
@@ -26,12 +27,12 @@ class Extractor:
                     len_curr = len(curr_row.processed)
                     len_pre = len(pre_row.processed)
 
-                    df.sum_score.iloc[index] -= wr * \
+                    df.temp_score.iloc[index] -= wr * \
                         (2 * ovw / (len_curr + len_pre))
 
             df = df.sort_values(
-                ['sum_score'], ascending=False).reset_index(drop=True)
-            curr_extract = df.raw.loc[:n_extract]
+                ['temp_score'], ascending=False).reset_index(drop=True)
+            curr_extract = df.raw.loc[:n_extract].sort_values()
             if pre_extract.equals(curr_extract):
                 break
 
