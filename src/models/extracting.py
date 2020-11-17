@@ -2,7 +2,7 @@ import pandas
 from ..features.utils import Utils
 
 
-class Extrator:
+class Extractor:
     @staticmethod
     def remove_redundancy(data_frame: pandas.DataFrame, compression_rate: float=0.05) -> pandas.DataFrame:
         df = data_frame.sort_values(['sum_score'], ascending=False).reset_index(drop=True)
