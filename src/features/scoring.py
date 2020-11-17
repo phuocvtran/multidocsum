@@ -62,35 +62,6 @@ class Scorer:
         return overlap_score
     
     @staticmethod
-    def get_redundancy_score(data_frame: pandas.DataFrame, compression_rate: float=0.05) -> pandas.DataFrame:
-        df = data_frame.sort_values(['sum_score'], ascending=False).reset_index(drop=True)
-        wr = df.sum_score.to_list()[0]
-        
-        n_extract = round(df.raw.shape[0] * compression_rate)
-        
-        
-        while True:
-            pre_extract = df.raw.copy().loc[:n_extract]
-            for index, curr_row in df.iterrows():
-                if index == 0:
-                    continue
-                for midx, pre_row in df.iterrows():
-                    if midx == index:
-                        break
-                    ovw = Utils.count_overlapping_word(curr_row.processed, pre_row.processed)
-                    len_curr = len(curr_row.processed)
-                    len_pre = len(pre_row.processed)
-                    
-                    df.sum_score.iloc[index] -= wr * (2 * ovw / (len_curr + len_pre))
-                
-            df = df.sort_values(['sum_score'], ascending=False).reset_index(drop=True)
-            curr_extract = df.raw.loc[:n_extract]
-            if pre_extract.equals(curr_extract):
-                break
-            
-        return df
-    
-    @staticmethod
     def scoring_sentences(raw_data: Dict[str, str], processed_data: Dict[str, str], wc: float=1.0, wp: float=1.0, wf: float=1.0, n_centroid: int=20, C_max:int=100, ngram_range: Tuple[int, int]=(1, 1), max_features: int=300, func: Callable=np.dot) -> pandas.DataFrame:
         data_frame = Utils.get_dataframe(raw_data, processed_data)
         centroids = Utils.get_centroid(data_frame.processed.to_list(), data_frame.doc.to_list(), n_centroid=n_centroid)

@@ -81,10 +81,23 @@ class Utils:
         return centroids
     
     @staticmethod
+    def get_word_count(sent: str) -> Dict[str, int]:
+        res = {}
+        for word in sent.split():
+            if word not in res:
+                res[word] = 1
+            res[word] += 1
+            
+        return res 
+            
+    @staticmethod
     def count_overlapping_word(s1: str, s2: str) -> int:
-        l1 = set(s1.split())
-        l2 = set(s2.split())
+        l1 = Utils.get_word_count(s1)
+        l2 = Utils.get_word_count(s2)
         
-        intersect = l1.intersection(l2)
+        overlap_word_count = 0
+        for key in l1:
+            if key in l2:
+                overlap_word_count += min(l1[key], l2[key])
                 
-        return len(intersect)
+        return overlap_word_count
