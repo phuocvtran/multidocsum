@@ -79,3 +79,12 @@ class Utils:
         centroids = list(sorted_dict.items())[:n_centroid]
         
         return centroids
+    
+    @staticmethod
+    def count_overlapping_word(s1: str, s2: str) -> int:
+        l1 = set(s1.split())
+        l2 = set(s2.split())
+        
+        intersect = l1.intersection(l2)
+                
+        return len(intersect)
