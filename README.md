@@ -1,7 +1,7 @@
 # Multidocsum
 Multi-document summarization for Vietnamese news.
 
-# Commands
+# Installation
 ```shell
 # Clone this repo
 git clone https://github.com/phuocvtran/multidocsum.git
