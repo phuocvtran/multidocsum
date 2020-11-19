@@ -11,7 +11,7 @@ class Extractor:
     def remove_redundancy(data_frame: pandas.DataFrame, n_extract: int) -> pandas.DataFrame:
         df = data_frame.sort_values(
             ['sum_score'], ascending=False).reset_index(drop=True)
-        wr = df.sum_score.to_list()[0]
+        wr = df.sum_score[0]
 
         while True:
             pre_extract = df.raw.copy().loc[:n_extract].sort_values()

@@ -1,9 +1,8 @@
 from setuptools import setup
 
 
-
 setup(name='multidocsum', 
-      version="0.0.1",
+      version='0.0.1',
       packages=['src',
                 'src.data',
                 'src.features',
