@@ -16,8 +16,10 @@ class DataIO:
     
     @staticmethod
     def write(data: List[str], path: str) -> None:
+        folder_path = os.path.join(*path.split('/')[:-1])
+        os.makedirs(folder_path, exist_ok=True)
         with open(path, 'w') as f:
-            f.write('n'.join(data))
+            f.write('\n'.join(data))
     
     @staticmethod
     def load_raw_(path: str, key_pos: int=None) -> Dict[str, List[str]]:
