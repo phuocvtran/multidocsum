@@ -1,0 +1,11 @@
+Các công ty như IBM, Oracle, hay Hewlett Packard Enterprise, vốn thuê hàng nghìn nhân viên bán hàng được ủy quyền, đang bỏ tiền thâu tóm các hãng chuyên về mã nguồn mở hoặc công ty về công nghệ đám mây với mô hình bán hàng hoàn toàn khác biệt - theo nhận định của Laurie Wurster, một chuyên gia thuộc hãng phân tích Gartner.
+Hồi năm 2013, ông vẫn quen với các nhân viên bán hàng song tư duy của ông khác đi kể từ khi ông gửi thư điện tử đến hãng sản xuất phần mềm Atlassian yêu cầu công ty này gửi một đại diện bán hàng đến cho ông.
+Trong khi đó, Salesforce.com chi một nửa doanh thu cho việc bán hàng và tiếp thị và hãng Box, công ty trả lương cao cho đội ngũ nhân viên bán hàng trong vài năm qua, thì chi đến 80%.
+Đội ngũ bán hàng của họ không tiếp thị sản phẩm đến bất cứ ai, vì Atlassian chẳng có lấy một nhân viên trong nhóm bán hàng.
+Tiết kiệm chi phí bán hàng và quảng cáo đồng nghĩa với việc sản phẩm có giá rẻ hơn và Công ty có nhiều tiền hơn cho hoạt động nghiên cứu và phát triển phần mềm mới, giúp những nhà sáng lập lạc quan hơn với tốc độ tăng trưởng của Công ty trong thời gian tới.
+IBM, Oracle và Hewlett Packard Enterprise (HP), những hãng truyền thống thuê hàng ngàn nhân viên bán hàng có hưởng hoa hồng, đang mua lại nguồn mở hoặc công ty đám mây với các phương pháp bán hàng khác nhau.
+Quay trở lại năm 2013, khi Cipes gửi email cho hãng sản xuất phần mềm Atlassian yêu cầu được gặp nhân viên bán hàng của công ty để xin tư vấn, Atlassian đã từ chối.
+Vậy mà, năm 2013, khi Cipes gửi email tới một công ty chuyên viết và kinh doanh phần mềm mang tên Atlassian tại Australia và yêu cầu trò chuyện với một nhân viên kinh doanh, câu trả lời nhận được là không có nhân viên kinh doanh nào tại đây.
+Vấn đề của Atlassian là họ đang phải đối mặt với một thị trường quá đông đúc, và họ không biết rõ liệu công ty có thể tiếp tục mở rộng hay không, ông John DiFucci, một nhà phân tích tại Jefferies nói.
+Năm ngoái, khi doanh số bán hàng đạt 320 triệu USD, chi phí bán hàng và marketing của công ty (đa phần là quảng cáo và trả tiền cho các đối tác) chỉ chiếm 1/5 trong số đó.
+Các công ty khởi nghiệp bao gồm cả Dropbox và Slack lại đang sử dụng "phương pháp hỗn hợp" tức là cố gắng gây dựng nên những khách hàng đầu tiên tại một công ty sau đó thiết lập đội ngũ bán hàng một khi số lượng khách hàng đông hơn.
