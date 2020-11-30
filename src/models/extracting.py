@@ -6,9 +6,9 @@ from typing import List, Tuple, Callable
 import numpy as np
 
 
-class Extractor:
+class MEAD:
     @staticmethod
-    def remove_redundancy(data_frame: pandas.DataFrame, n_extract: int) -> pandas.DataFrame:
+    def remove_redundancy(data_frame: pandas.DataFrame, n_extract: int) -> pandas.Series:
         df = data_frame.sort_values(
             ['sum_score'], ascending=False).reset_index(drop=True)
         wr = df.sum_score[0]
@@ -42,7 +42,7 @@ class Extractor:
     def extract(data_path: str,
                 stop_words_path: str,
                 punc_path: str,
-                remove_redundacy: bool = True,
+                remove_redundancy: bool = True,
                 compression_rate: float = 0.05,
                 save_as: str = None,
                 wc: float = 1.0,
@@ -62,8 +62,8 @@ class Extractor:
 
         n_extract = round(df.raw.shape[0] * compression_rate)
 
-        if remove_redundacy:
-            res_series = Extractor.remove_redundancy(
+        if remove_redundancy:
+            res_series = MEAD.remove_redundancy(
                 df, n_extract=n_extract)
         else:
             res_series = df.sort_values(
