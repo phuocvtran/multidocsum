@@ -89,7 +89,8 @@ class Utils:
         for word in sent.split():
             if word not in res:
                 res[word] = 1
-            res[word] += 1
+            else:
+                res[word] += 1
 
         return res
 
