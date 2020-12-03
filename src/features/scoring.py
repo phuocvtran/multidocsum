@@ -84,13 +84,13 @@ class Scorer:
         ), data_frame.doc.to_list(), n_centroid=n_centroid)
         cent_score = Scorer.get_centroid_score(
             data_frame.processed.to_list(), centroids)
-        data_frame['centroid_score'] = (cent_score - np.min(cent_score)) / (np.max(cent_score) - np.min(cent_score))
+        data_frame['centroid_score'] = Utils.scale(cent_score)
         pos_score = Scorer.get_pos_score(
             data_frame.doc.to_list(), data_frame.pos.to_list(), C_max=C_max)
-        data_frame['pos_score'] = (pos_score - np.min(pos_score)) / (np.max(pos_score) - np.min(pos_score))
+        data_frame['pos_score'] = Utils.scale(pos_score)
         ovl_score = Scorer.get_first_sent_overlap_score(data_frame.processed.to_list(), data_frame.pos.to_list(
         ), data_frame.doc.to_list(), ngram_range=ngram_range, max_features=max_features, func=func)
-        data_frame['ovl_score'] = (ovl_score - np.min(ovl_score)) / (np.max(ovl_score) - np.min(ovl_score))
+        data_frame['ovl_score'] = Utils.scale(ovl_score)
 
         sum_score = []
         for _, row in data_frame.iterrows():

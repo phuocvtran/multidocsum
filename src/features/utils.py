@@ -1,5 +1,6 @@
 from typing import Callable, Dict, List, Tuple
 import pandas
+import numpy as np
 from .tfidf import Tfidf
 from ..data.text_processing import TextProcessor
 
@@ -105,3 +106,16 @@ class Utils:
                 overlap_word_count += min(l1[key], l2[key])
 
         return overlap_word_count
+
+    @staticmethod
+    def scale(l: List[float], range: Tuple[int, int]=(0, 1)) -> List[float]:
+        min = np.min(l)
+        max = np.max(l)
+        
+        lower_bound = range[0]
+        upper_bound = range[1]
+        
+        std = (l - min) / (max - min)
+        res = std * (upper_bound - lower_bound) + lower_bound
+        
+        return (l - np.min(l)) / (np.max(l) - np.min(l))
