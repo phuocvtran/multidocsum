@@ -20,9 +20,9 @@ from src.models.extracting import MEAD
 # Defining parameters
 params = {
     # File of stop words, newline seperated
-    'stop_words_path': '../data/external/stopwords.txt', 
+    'stop_words_path': 'data/external/stopwords.txt', 
     # All punctuation on a single line e.g. ?!.,"'“”-();:[]/
-    'punc_path': '../data/external/punctuation.txt', 
+    'punc_path': 'data/external/punctuation.txt', 
     # Remove redundant sentences from the summary?
     'remove_redundant_sent': False,
     # Weight of centroid score
@@ -45,7 +45,7 @@ params = {
 }
 
 # Initialize MEAD
-summerizer = MEAD(**params)
+summarizer = MEAD(**params)
 
 # data_path is path to folder that contain all the documents in .txt format
 # e.g.
@@ -56,7 +56,7 @@ summerizer = MEAD(**params)
 #   |_ a_lot_of_news.txt
 #
 # output is a list of extracted sentences.
-summary = summarier.extract(data_path='../data/interim/extract_content/Cluster_001', 
+summary = summarizer.extract(data_path='data/interim/extract_content/Cluster_001', 
                             compression_rate=0.05,
                             save_as=None)
 ```
